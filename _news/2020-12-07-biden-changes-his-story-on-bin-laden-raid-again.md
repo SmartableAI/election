@@ -413,6 +413,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
+    excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."
+    publishedDateTime: 2020-12-13T01:28:00Z
+    webUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators?amp%2F"
+    ampWebUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f6c2c04-9adb-4a48-9e69-b8d1fedfe5aa/8bfd9c7b-c905-49aa-ab42-e3a6d00a48a2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Q5P10tcISKrcLmF3hd9qZCMz2WmsYEIHoIj12eZx6FEJ65dneSs+KOXcYJQmhiZu6v1M7NVvmAtRnmILq70kis0jZr9msyRHYPXpxoxBbldYGcHqnbV3K3qwave3UfiRus+D4TkYmGeK+yTTleE6iHngGhoczsojiNQ8ex+FumlMz8AVOA7LuZUGZOKAt38r9fzvDNuDC+Ojzkb63MzXUf1W0opEOdfCC/z9QAeoZ6PXILoBBrXhJpeJn2dYSvJGYDiHF8+bPVKyGjLrOSpDGFm3Myaea6ziywlGIXvxsaQL/F0oNuUqLuE2ejyL10R5OWM1e4sCsfqd4cFnNOtXLemzuVWpTdYx9WeADwTfBKE=;z+6/UDXlD8myYekUsLk5yg=="
 ---

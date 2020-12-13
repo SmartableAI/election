@@ -2,6 +2,114 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-11-26-dem-leaders-condemn-trumps-pardon-of-michael-flynn-abuse-of-power.md",
+      "title": "Dem leaders condemn Trump's pardon of Michael Flynn: 'Abuse of power'",
+      "excerpt": "Democratic leaders lambasted President Trump for pardoning his former national security adviser Michael Flynn on Wednesday, condemning the move as a \"brazen\" abuse of power. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/szBHABvHeHc/democratic-leaders-condemn-trumps-pardoning-of-michael-flynn-abuse-of-power",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/szBHABvHeHc/democratic-leaders-condemn-trumps-pardoning-of-michael-flynn-abuse-of-power",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76bd622f-fcba-4d7b-bb97-89d043391e11/7a684cb0-6b30-4f99-a87f-ee7e37eebddd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/democratic-leaders-condemn-trumps-pardoning-of-michael-flynn-abuse-of-power.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-leaders-condemn-trumps-pardoning-of-michael-flynn-abuse-of-power.amp",
+      "publishedDateTime": "2020-11-26T08:47:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-up-to-the-people-not-the-medical-profession-to-oust-trump-apa-chief.md",
+      "title": "Up to the people, not the medical profession, to oust Trump: APA chief",
+      "excerpt": "The public has had its say: President-elect Joe Biden’s margin of victory was by more than 6 million votes, and on Jan. 20, he will take office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/readers/2020/11/24/up-people-not-medical-profession-oust-trump-reader-view/6406402002/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/readers/2020/11/24/up-people-not-medical-profession-oust-trump-reader-view/6406402002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/24/USAT/8c17956c-0537-44e6-afa5-301f770ba35a-AP_Election_2020_Nevada.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6406402002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6406402002",
+      "publishedDateTime": "2020-11-26T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-joe-and-jill-biden-our-most-important-thanksgiving-tradition.md",
       "title": "Joe and Jill Biden: Our most important Thanksgiving tradition",
       "excerpt": "This Thanksgiving, tables throughout our country will have an empty chair.\n    \n",
@@ -1243,115 +1351,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-virginia-democrats-thrilled-with-biden-victory-arent-looking-for-carbon-copy.md",
-      "title": "Virginia Democrats, Thrilled With Biden Victory, Aren’t Looking for Carbon Copy",
-      "excerpt": "Suburban women who played a huge role in Joe Biden’s victory are not convinced that they need a white man to win their governor’s race next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/23/us/politics/23VIRGINIA-DEMS-photo/23VIRGINIA-DEMS-photo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.amp.html",
-      "publishedDateTime": "2020-11-24T02:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-even-trumps-fiercest-critics-say-he-may-have-gotten-some-world-affairs-right.md",
-      "title": "Even Trump's fiercest critics say he may have gotten some world affairs right",
-      "excerpt": "Some experts, ex-diplomats and even President Donald Trump's opponents concede his overseas initiatives have produced limited, qualified successes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/world/2020/11/24/even-trump-critics-say-he-may-have-gotten-some-foreign-policy-right/6353491002/",
-      "originalUrl": "https://www.usatoday.com/story/news/world/2020/11/24/even-trump-critics-say-he-may-have-gotten-some-foreign-policy-right/6353491002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/23/USAT/e35eb054-4f0c-4242-817e-388e7e50cf16-GTY_1222600011.jpg?auto=webp&crop=3615,2033,x0,y74&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6353491002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6353491002",
-      "publishedDateTime": "2020-11-24T00:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

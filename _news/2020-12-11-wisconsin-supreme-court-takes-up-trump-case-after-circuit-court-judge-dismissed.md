@@ -207,6 +207,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "LIVE UPDATES: Trump legal team loses Wisconsin case, argues another in state's Supreme Court"
+    excerpt: "Follow for the latest updates on the 2020 election legal challenges."
+    publishedDateTime: 2020-12-13T07:29:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DivHMRjmFLY/live-updates-trump-legal-team-loses-wisconsin-case-argues-another-in-states-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-legal-team-loses-wisconsin-case-argues-another-in-states-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-legal-team-loses-wisconsin-case-argues-another-in-states-supreme-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5534ef4d-b106-4fad-a20f-c35a01f87f51/ab4e04d0-6103-4966-8e46-253afd17ca6c/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "Turley: Trump 'running out of runway' after Supreme Court rejects bid to toss Pa. mail-in ballots"
     excerpt: "George Washington University Law Professor Jonathan Turley said Tuesday that President Trump and his Republican allies are \"running out of runway\" after the Supreme Court denied their request to overturn Pennsylvania's election results."
     publishedDateTime: 2020-12-09T00:15:41Z

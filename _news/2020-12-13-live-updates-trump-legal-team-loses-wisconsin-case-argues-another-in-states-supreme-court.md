@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump legal team loses federal case in Wisconsin, argues another in state's Supreme Court"
-excerpt: "With the Trump legal team arguing a case before the Wisconsin Supreme Court Saturday seeking to have hundreds of thousands of ballots in two blue counties tossed, the president’s reelection effort saw a separate legal loss in federal district court."
-publishedDateTime: 2020-12-12T20:20:43Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/75QnfdHY2Io/trump-legal-team-wisconsin-supreme-court"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/75QnfdHY2Io/trump-legal-team-wisconsin-supreme-court"
-ampWebUrl: "https://www.foxnews.com/politics/trump-legal-team-wisconsin-supreme-court.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-legal-team-wisconsin-supreme-court.amp"
+title: "LIVE UPDATES: Trump legal team loses Wisconsin case, argues another in state's Supreme Court"
+excerpt: "Follow for the latest updates on the 2020 election legal challenges."
+publishedDateTime: 2020-12-13T07:29:24Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DivHMRjmFLY/live-updates-trump-legal-team-loses-wisconsin-case-argues-another-in-states-supreme-court"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DivHMRjmFLY/live-updates-trump-legal-team-loses-wisconsin-case-argues-another-in-states-supreme-court"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-legal-team-loses-wisconsin-case-argues-another-in-states-supreme-court.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-legal-team-loses-wisconsin-case-argues-another-in-states-supreme-court.amp"
 type: article
-quality: 166
+quality: 164
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20347639088808.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5534ef4d-b106-4fad-a20f-c35a01f87f51/ab4e04d0-6103-4966-8e46-253afd17ca6c/1280x720/match/image.jpg"
+    width: 1280
+    height: 719
     isCached: true
 
 related:
@@ -207,21 +207,21 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "LIVE UPDATES: Trump legal team loses Wisconsin case, argues another in state's Supreme Court"
-    excerpt: "Follow for the latest updates on the 2020 election legal challenges."
-    publishedDateTime: 2020-12-13T07:29:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DivHMRjmFLY/live-updates-trump-legal-team-loses-wisconsin-case-argues-another-in-states-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-legal-team-loses-wisconsin-case-argues-another-in-states-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-legal-team-loses-wisconsin-case-argues-another-in-states-supreme-court.amp"
+  - title: "Trump legal team loses federal case in Wisconsin, argues another in state's Supreme Court"
+    excerpt: "With the Trump legal team arguing a case before the Wisconsin Supreme Court Saturday seeking to have hundreds of thousands of ballots in two blue counties tossed, the president’s reelection effort saw a separate legal loss in federal district court."
+    publishedDateTime: 2020-12-12T20:20:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/75QnfdHY2Io/trump-legal-team-wisconsin-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-legal-team-wisconsin-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-legal-team-wisconsin-supreme-court.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5534ef4d-b106-4fad-a20f-c35a01f87f51/ab4e04d0-6103-4966-8e46-253afd17ca6c/1280x720/match/image.jpg"
-        width: 1280
-        height: 719
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20347639088808.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Turley: Trump 'running out of runway' after Supreme Court rejects bid to toss Pa. mail-in ballots"
     excerpt: "George Washington University Law Professor Jonathan Turley said Tuesday that President Trump and his Republican allies are \"running out of runway\" after the Supreme Court denied their request to overturn Pennsylvania's election results."
@@ -458,6 +458,6 @@ related:
         height: 500
         isCached: true
 
-secured: "5f5qaKO7b0iLwes7j6yvXjDcygGcH2ds18W1DJpW9lbbg04e55pS5F2anXrJXsiOCyRONCJUhuDvEtPfTlKD3bqvshN2nemsVq77fzUcxDwKkdeV3RYuWu/CznabIJMEt22Kq/vDaZGAIHTKpg+o9FVCMTLe0RPMZOFTc8tB5+A+uol51ujp2SJRvC8zRuRquc51Tp3g191k2SP1KjmwPCz4xy2X9XpYi5eEE4JWkyCoh2GNA7tdTjtW58jAWTqp5CEGuBTWNuFj1RBPfPWONSkVg2dkUjiA1kPv94EiyULucQe49XwckbFW7c4TfRhRP56iKn+LWPIkTrEZBnjVQlec0Iy9psliKgr7GPnteDs=;e4GpEzB9j/VCHX128etBEg=="
+secured: "/OuBX3Rw4y41+idMYDLLm4/vwJbGIAhjh+0B56s4EFg0fkkxx2IyK1gWFNy2EQsH3SBMogTDEXUlI9GzacqmgCpvMZqR/AsAYHQReOnVgt9hJITrf/ttcL0mCXmzBWd9KZI13kd14AMF3CuEvLSPcw5Woh719ZDPXfxwolKF8BJ+zJALSlMogCgFt67w24xCHVE5y3nqNu4Ua1RL5nuwTodg1V5t6F81C6XvqubpUCQLuIs6W7q6KMXJ/IhhbhUEowEL+p0WVUNa3g8shJ3yI9e8d+4T4TXoxdduvKc+9Rj9cRMzD8faMWcgPQusAsKPopg3T+uilcXhLwZle4OprQ2ZMLfi6VvhoFfaQf2NDYY=;Xm8CHeZ9JYMrL3hIcMkCJA=="
 ---
 

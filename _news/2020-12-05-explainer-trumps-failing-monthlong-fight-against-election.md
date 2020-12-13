@@ -265,22 +265,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Analysis: Short work by high court of Trump's `big one'"
-    excerpt: "The Supreme Court has turned aside a Texas-based lawsuit that sought to overturn the presidential election results, and not even Donald Trump’s three high court appointees were willing to rise to his"
-    publishedDateTime: 2020-12-13T05:15:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-short-work-high-court-trumps-big-74691200"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-short-work-high-court-trumps-big-74691200"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-short-work-high-court-trumps-big-74691200"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_00027490a6194fabb0dcac8f9dfdaf92_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Donald Trump handles coin-toss duty at Army-Navy game at West Point"
     excerpt: "President Donald Trump made the trip to West Point, New York, for 121st Army-Navy football game and performed the coin toss in the pregame ceremony."
     publishedDateTime: 2020-12-12T20:58:00Z
@@ -550,6 +534,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/42d63cf4-bb12-4b19-8e4d-8ed99c6dc512_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Analysis: Short work by high court of Trump's `big one'"
+    excerpt: "The Supreme Court has turned aside a Texas-based lawsuit that sought to overturn the presidential election results, and not even Donald Trump’s three high court appointees were willing to rise to his"
+    publishedDateTime: 2020-12-13T05:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-short-work-high-court-trumps-big-74698561"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_00027490a6194fabb0dcac8f9dfdaf92_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "'The moment of truth': The Electoral College prepares to hand Trump the loss he refuses to accept"
     excerpt: "Facing a loss in the Electoral College, Trump's allies have shifted their focus to Jan. 6, when Congress will count the electoral votes."

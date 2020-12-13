@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump administration threatened to oust the head of the FDA if the Pfizer vaccine isn't cleared by the end of Friday, a new report says"
+    excerpt: "Dr. Stephen Hahn denied the report, telling Business Insider that \"this is an untrue representation of the phone call with the Chief of Staff.\""
+    publishedDateTime: 2020-12-11T21:45:00Z
+    webUrl: "https://www.businessinsider.com/white-house-reportedly-threatened-fda-hahn-pfizer-coronavirus-vaccine-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/white-house-reportedly-threatened-fda-hahn-pfizer-coronavirus-vaccine-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-reportedly-threatened-fda-hahn-pfizer-coronavirus-vaccine-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/5fd3c9b2e00bce00188bae82?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "lEPydKb+N0+Brzi1zQlcuQ1H/2pVmRx3WRZjgEdnW4wKdkwFyE7fMolo9F3JqQFYU5vqo0d9uDipOVGxOipxtZ3D9fvMlnwajq3hvnIaPxXOrRHnm/jSihy0xyUPE6Tq2fBsV7Wrn5bvo6+db2srURqNTnjGkHLfGPMCY9ejTsxd1IbajnWHdDiWWI1Ingi0I21QYx7Fbuf1I+q2+DTyrZvfZpamigabLWbLOLoMtKjUjjRsmhy/C0+Zw/MYszA8sPquEC5EsOGOJj7LunLHWiAz562T+7RCU55rVIDlr9y+/0zMmVhQcizPA99m++uBonDlB0AS5fpgU7wvEVP+AHKOJUT4J8qYNMLzGRaQZ0A=;aCvIEeBsLUOw3F/pv91/+g=="
 ---

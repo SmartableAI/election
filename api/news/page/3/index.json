@@ -2,6 +2,114 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-10-biden-further-slims-democratic-house-majority-with-usda-pick-despite-worries-from-some-top-democrats.md",
+      "title": "Biden further slims Democratic House majority with USDA pick, despite worries from some top Democrats",
+      "excerpt": "With House Democrats down to their slimmest majority in the chamber since World War II, a former chief of staff to House Speaker Nancy Pelosi is warning President-elect Joe Biden and his team to stop grabbing congressional Democrats for his incoming administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EK1oNhXTAxs/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EK1oNhXTAxs/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats.amp",
+      "publishedDateTime": "2020-12-10T11:51:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-it-is-roiling-him-nyts-maggie-haberman-unpacks-trumps-refusal-to-admit-he-lost.md",
+      "title": "'It Is Roiling Him': NYT's Maggie Haberman Unpacks Trump's Refusal To Admit He Lost",
+      "excerpt": "\"[Trump] can't handle the concept of the label 'loser,' \" Haberman says. \"He has never before encountered a problem that he couldn't sue away through the court system or spin away.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2020/12/10/944935318/it-is-roiling-him-nyts-maggie-haberman-unpacks-trumps-refusal-to-admit-he-lost",
+      "originalUrl": "https://www.npr.org/2020/12/10/944935318/it-is-roiling-him-nyts-maggie-haberman-unpacks-trumps-refusal-to-admit-he-lost",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2020/12/10/gettyimages-1229417416_wide-58c5c8501c163ef4b28e8eee25d110b7095f3a01.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T11:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-douglas-emhoff-harris-husband-to-join-georgetown-law-faculty-in-january.md",
       "title": "Douglas Emhoff, Harris' husband, to join Georgetown Law faculty in January",
       "excerpt": "Douglas Emhoff, Vice President-elect Kamala Harris' husband, will become a member of Georgetown Law Faculty in January, the law school announced Thursday.\n    \n",
@@ -1264,118 +1372,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-facebook-encounters-bipartisan-backlash-as-aoc-supports-trump-administrations-lawsuit.md",
-      "title": "Facebook encounters bipartisan backlash as AOC supports Trump administration's lawsuit",
-      "excerpt": "Facebook is uniting both sides of the aisle with its alleged anti-competitive behavior.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OvZiyhyjH4Y/facebook-encounters-bipartisan-backlash-as-aoc-supports-trump-administrations-lawsuit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OvZiyhyjH4Y/facebook-encounters-bipartisan-backlash-as-aoc-supports-trump-administrations-lawsuit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 247,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3adaa9fa-da2f-49ad-b72c-00f3f78435a6/2983e575-4673-484c-833c-2f3da838f6f2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/facebook-encounters-bipartisan-backlash-as-aoc-supports-trump-administrations-lawsuit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-encounters-bipartisan-backlash-as-aoc-supports-trump-administrations-lawsuit.amp",
-      "publishedDateTime": "2020-12-09T15:55:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-flashback-eric-swalwell-accused-don-trump-jr-of-meeting-russian-spy.md",
-      "title": "Flashback: Eric Swalwell accused Don Trump Jr. of meeting ‘Russian spy’",
-      "excerpt": "Rep. Eric Swalwell, D-Calif., who Axios reported Wednesday was a main target of a Chinese spy between 2011 and 2015, accused Donald Trump Jr. last year of meeting \"with a Russian spy.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GP9J7w6yoc8/eric-swalwell-donald-trump-jr-spy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GP9J7w6yoc8/eric-swalwell-donald-trump-jr-spy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5110eb86-e53d-4155-bddd-274bb8738742/df0cbd95-9d65-4dda-8adf-8d93b0c68fba/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/eric-swalwell-donald-trump-jr-spy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-swalwell-donald-trump-jr-spy.amp",
-      "publishedDateTime": "2020-12-09T14:38:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

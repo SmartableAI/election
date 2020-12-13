@@ -2,13 +2,13 @@
 category: news
 title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
 excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."
-publishedDateTime: 2020-12-12T19:22:54Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3DbN5onkhFg/hawley-biden-hunter-biden-investigators"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3DbN5onkhFg/hawley-biden-hunter-biden-investigators"
+publishedDateTime: 2020-12-13T01:28:00Z
+originalUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators?amp%2F"
+webUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators?amp%2F"
 ampWebUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
 type: article
-quality: 163
+quality: 123
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -319,6 +320,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
+    excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."
+    publishedDateTime: 2020-12-12T19:22:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3DbN5onkhFg/hawley-biden-hunter-biden-investigators"
+    ampWebUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f6c2c04-9adb-4a48-9e69-b8d1fedfe5aa/8bfd9c7b-c905-49aa-ab42-e3a6d00a48a2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Democratic Gov. Gretchen Whitmer to serve as co-chair of President-elect Joe Biden's inauguration"
     excerpt: "Michigan Gov. Gretchen Whitmer will serve as co-chair for President-elect Joe Biden’s inauguration next month. "
     publishedDateTime: 2020-12-07T20:35:57Z
@@ -413,23 +430,7 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
-    excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."
-    publishedDateTime: 2020-12-13T01:28:00Z
-    webUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators?amp%2F"
-    ampWebUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f6c2c04-9adb-4a48-9e69-b8d1fedfe5aa/8bfd9c7b-c905-49aa-ab42-e3a6d00a48a2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
-secured: "3lnhKt6Fc3UF6bmSVizxteCe9GygRKVolE28cI7nNadVqzObEawUehAjtT7kjbh6KXDL6jdFz0p+BRnDeI4pwUsaE7dS+Dk9hhAa8ic0ymw9CR4YTjcsyaiYWqnIa/gAZPzVjUZZO4X+iys3EfAFSbYYUQ/KbyyICwqbuoL1wU+LGXZeJ4HnjDtkwnTBxxZ1fjDlHDoN7pdQmOsl46tI6AitZZM1W5IimHTNAZoKHx/nJOKxDoq2vgx9bCVVGkQXm34flCBXm+J3sTDKrz4pVo7azHydVRXmMuFEx8UhbdgwWgh79fEqA3TBogWBOdV7cCPD+tdaCXE5PbNeFJXgvh1qnnzhT3gARO1mTOLwr6M=;hMtu3DwHgTw4QFWEpfMvcw=="
+secured: "aJavTop7SBwpUz9HvO0Pt0PKbCfjZ6lgXBalGOuBS2inIbJ5D30is6kfOFpaQuStI66VKf1lhlKWfKLnqcjWP636fyDzNOkYVNyhJzhEudYdMKAWPFnHnUsp1D4PMRcUqIQp0caGp1HM7gZewdr3mzMKHJivbtQ38rX/1pg/FjTZ8uzCLkTkQTpT6H/I+M1Z6be8RnbsU8Tpf1ms2dfS0rlNwz9qoCT5MHAqw23KCsc2pbZZ0j5wlEOc/rx2BZF4S/knghquWTdiiuY3LV28NmezS5JOt2G7HcJknM3sp1qEAY0POV4+XN563yyvYyKhUu+LmMIjG2unMmEtTem16+fTfRgwobh4/jOOezXTU98=;S3IlrwtVzZZa4ImyMWGtSg=="
 ---
 

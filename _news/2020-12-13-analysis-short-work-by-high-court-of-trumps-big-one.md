@@ -3,12 +3,10 @@ category: news
 title: "Analysis: Short work by high court of Trump's `big one'"
 excerpt: "The Supreme Court has turned aside a Texas-based lawsuit that sought to overturn the presidential election results, and not even Donald Trump’s three high court appointees were willing to rise to his"
 publishedDateTime: 2020-12-13T05:15:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/analysis-short-work-high-court-trumps-big-74691200"
-webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-short-work-high-court-trumps-big-74691200"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-short-work-high-court-trumps-big-74691200"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-short-work-high-court-trumps-big-74691200"
+originalUrl: "https://abcnews.go.com/Politics/wireStory/analysis-short-work-high-court-trumps-big-74698561"
+webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-short-work-high-court-trumps-big-74698561"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
@@ -598,6 +596,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Fxv30sIQIRTkCHG5Ry0PV3vy1M6azjVpuk/Gl+sGkI6ErsK1R5nA+1uC8av/40+tGd195BZE2txTBjh4yblv1pRuUN33gmuMcE/cBRWFd5OJvDLyg4UXm45HHrAVSSdwE4koQPgKqPxSIrYjQ5mGE2IbZv2LyjLmi8fgYmb+vgRgPlpDKj/n7oC6lybDBS7hAuFHbEpaQsfYBkJaV8QtAI+gcIoSuMHgoLjypQGbZpJCUKNTzJn5MmYLpr8C0UAAtHbYYchjNyYeId839cYefCUQxwi/RoohvwtwPOjfW5gcd0zLO5xZBEqFIJKv+3gi2svchM/z5YH7cWVVkNIcLpUaxHxRGgxTdaCwTNAA5YM=;tgoUJ9IdKuH2ojYuuKLa7g=="
+secured: "LWWkKBQKwh0CXQHdpm1+7uaHDCyzaL6zXt0jflUiQL0i2cjXTwampr6wTHI6v4Lxx1oEZt4ZdGk7V4t26zNNlBGxiADN5mCHPjuaGge6GA5kJxExHkCd2aCE+YTvS0ScyrOI1krEXvcTblB9q3odiC4MmGwhsl3/oV+Feu+T0t+8pmw4VGU+gn8VVs6YyQ2YlrXzvRjN3RGUJwerfqj8d5d0T8e//K9F6WaUhf7iZfbZLiz8Y50Zsa2X+pAQgiCeqKcrRR7WkBZ0VMID9VRsulTI2z+hYuOhZLChihg00aKDrlgWS8DdZ5js6/Tupm0c1+rsnsQdFtz/qCcy+q9jN7rQ/OumJ7xOYq5L6Uti1Cs=;HuWTpV2FgdFamV3q7M07sQ=="
 ---
 

@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-13-analysis-senate-gangs-show-biden-whats-possible-and-not.md",
+      "title": "Analysis: Senate 'gangs' show Biden what's possible, and not",
+      "excerpt": "Senators met day after day, night after night, trying to hammer out a framework for a $900 billion-plus COVID-19 aid and economic relief package",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/analysis-senate-gangs-show-biden-74685929",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/analysis-senate-gangs-show-biden-74685929",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_6bac3ffdc5f74a06a16c2493a02e3037_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/analysis-senate-gangs-show-biden-74685929",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-senate-gangs-show-biden-74685929",
+      "publishedDateTime": "2020-12-13T00:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-biden-cabinet-picks-from-obama-era-mean-bold-new-thinking.md",
+      "title": "Biden: Cabinet picks from Obama era mean 'bold new thinking'",
+      "excerpt": "President-elect Joe Biden on Friday introduced a series of key picks for his new government that drew heavily from the Obama administration",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-unveils-top-picks-deep-obama-administration-ties-74674302",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-unveils-top-picks-deep-obama-administration-ties-74674302",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_356ca0eaf41c446db3ea424d5c48b946_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-unveils-top-picks-deep-obama-administration-ties-74674302",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-unveils-top-picks-deep-obama-administration-ties-74674302",
+      "publishedDateTime": "2020-12-13T00:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-statement-atlanta-mayor-turned-down-bidens-cabinet-offer.md",
       "title": "Statement: Atlanta mayor turned down Biden's Cabinet offer",
       "excerpt": "A spokesperson for Atlanta Mayor Keisha Lance Bottoms says the prominent Democrat turned down an opportunity to serve in President-elect Joe Biden’s Cabinet",
@@ -213,8 +317,8 @@
       "title": "Twitter says it 'inadvertently' limited engagements on Trump's flagged tweets",
       "excerpt": "Twitter Inc said on Saturday it had \"inadvertently\" limited engagements for a brief period on U.S. President Donald Trump's tweets with \"disputed\" labels but later reversed its action.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-trump-twitter/twitter-says-it-inadvertently-limited-engagements-on-trumps-flagged-tweets-idUSKBN28M0VO?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-twitter/twitter-says-it-inadvertently-limited-engagements-on-trumps-flagged-tweets-idUSKBN28M0VO?edition-redirect=ca",
+      "webUrl": "https://www.reuters.com/article/uk-usa-election-trump-twitter-idUKKBN28M0VX",
+      "originalUrl": "https://www.reuters.com/article/uk-usa-election-trump-twitter-idUKKBN28M0VX",
       "featuredContent": null,
       "highlight": null,
       "heat": 122,
@@ -231,9 +335,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28M0VO",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0VO",
-      "publishedDateTime": "2020-12-12T16:41:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN28M0VX",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28M0VX",
+      "publishedDateTime": "2020-12-12T16:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -763,7 +867,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 659,
+      "heat": 679,
       "tags": null,
       "images": [
         {
@@ -1219,120 +1323,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-how-netflixs-the-prom-musical-was-inspired-by-mike-pence.md",
-      "title": "How Netflix's 'The Prom' musical was inspired by Mike Pence",
-      "excerpt": "Based on a 2018 stage musical of the same name, Ryan Murphy's highly anticipated latest directorial project premiered Friday on Netflix and in select theaters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/feature/nbc-out/how-netflix-s-prom-musical-was-inspired-mike-pence-n1250946",
-      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/how-netflix-s-prom-musical-was-inspired-mike-pence-n1250946",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_50/3435185/201211-the-prom-netflix-ew-305p_1b7b20b1bc6468f75bbba783f3514f59.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250946",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250946",
-      "publishedDateTime": "2020-12-11T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-cnns-harwood-republicans-would-smack-their-moms-in-the-face-to-please-donald-trump.md",
-      "title": "CNN's Harwood: Republicans would 'smack their moms in the face' to please Donald Trump",
-      "excerpt": "CNN White House correspondent John Harwood said Friday that Republican members of Congress would hit their own mothers if President Trump wanted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump",
-      "originalUrl": "https://www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22c8df7a-eaf0-44ed-a011-63755a0a2217/95f0028d-74bf-4110-98a2-0fcbbc174d75/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump.amp",
-      "publishedDateTime": "2020-12-11T12:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

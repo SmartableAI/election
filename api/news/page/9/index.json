@@ -2,6 +2,119 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-02-trump-is-leaving-washington-as-he-governed-chaotically.md",
+      "title": "Trump is leaving Washington as he governed — chaotically",
+      "excerpt": "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684",
+      "originalUrl": "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_49/3432524/201202-donald-trump-mc-1314_76baad09f4ea18edab7aa6aafee2438b.JPG",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249684",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249684",
+      "publishedDateTime": "2020-12-02T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-biden-admits-dems-forgot-rural-america-says-he-did-something-good-for-the-country-by-beating-trump.md",
+      "title": "Biden admits Dems 'forgot' rural America, says he did 'something good for the country' by beating Trump",
+      "excerpt": "President-elect Joe Biden said Democrats \"forgot\" rural America in an interview with New York Times opinion columnist Thomas L. Friedman published Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R9EK1Jh2h3k/biden-democrats-forgot-rural-america",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R9EK1Jh2h3k/biden-democrats-forgot-rural-america",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20274669148826.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-democrats-forgot-rural-america.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-democrats-forgot-rural-america.amp",
+      "publishedDateTime": "2020-12-02T05:55:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-top-ga-voting-official-slams-threats-on-election-officers-tells-trump-senators-to-condemn-it-has-to-stop.md",
       "title": "Top Ga. voting official slams threats on election officers, tells Trump, senators to condemn it: 'Has to stop'",
       "excerpt": "A top Georgia voting official on Tuesday in a fiery press conference decried threats against Secretary of State Brad Raffensperger, the secretary's wife, and other elections officials and workers as the Trump campaign continues to fight the result of the presidential election in court.",
@@ -1257,118 +1370,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-meadows-to-meet-with-fda-chief-as-trump-asks-about-status-of-vaccine-emergency-approval.md",
-      "title": "Meadows to meet with FDA chief as Trump asks about status of vaccine emergency approval",
-      "excerpt": "White House chief of staff Mark Meadows is scheduled to meet with Food and Drug Administration Commissioner Stephen Hahn in the West Wing Tuesday, as President Donald Trump has privately demanded to know why the agency hasn't granted emergency use for Pfizer's coronavirus vaccine yet, according to two",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1xct-Eqv0mA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1xct-Eqv0mA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201106231354-mark-meadows-1013-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/mark-meadows-fda-vaccine-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/mark-meadows-fda-vaccine-trump/index.html",
-      "publishedDateTime": "2020-12-01T04:35:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-analysis-how-joe-biden-and-mark-kelly-show-arizona-is-now-a-purple-state.md",
-      "title": "Analysis: How Joe Biden and Mark Kelly show Arizona is now a purple state",
-      "excerpt": "Democrat Mark Kelly will be sworn in on Wednesday as Arizona's junior US senator, finishing the final two years of the term won by the late Sen. John McCain in 2016. Both President-elect Joe Biden and Kelly were certified as the winners of their respective Arizona races on Monday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_kgr6sV1xdo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_kgr6sV1xdo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201106195236-44-america-votes-1103-arizona-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/arizona-shift-analysis/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/arizona-shift-analysis/index.html",
-      "publishedDateTime": "2020-12-01T04:03:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

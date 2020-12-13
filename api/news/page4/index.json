@@ -2,6 +2,118 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-09-facebook-encounters-bipartisan-backlash-as-aoc-supports-trump-administrations-lawsuit.md",
+      "title": "Facebook encounters bipartisan backlash as AOC supports Trump administration's lawsuit",
+      "excerpt": "Facebook is uniting both sides of the aisle with its alleged anti-competitive behavior.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OvZiyhyjH4Y/facebook-encounters-bipartisan-backlash-as-aoc-supports-trump-administrations-lawsuit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OvZiyhyjH4Y/facebook-encounters-bipartisan-backlash-as-aoc-supports-trump-administrations-lawsuit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 247,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3adaa9fa-da2f-49ad-b72c-00f3f78435a6/2983e575-4673-484c-833c-2f3da838f6f2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/facebook-encounters-bipartisan-backlash-as-aoc-supports-trump-administrations-lawsuit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-encounters-bipartisan-backlash-as-aoc-supports-trump-administrations-lawsuit.amp",
+      "publishedDateTime": "2020-12-09T15:55:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-flashback-eric-swalwell-accused-don-trump-jr-of-meeting-russian-spy.md",
+      "title": "Flashback: Eric Swalwell accused Don Trump Jr. of meeting ‘Russian spy’",
+      "excerpt": "Rep. Eric Swalwell, D-Calif., who Axios reported Wednesday was a main target of a Chinese spy between 2011 and 2015, accused Donald Trump Jr. last year of meeting \"with a Russian spy.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GP9J7w6yoc8/eric-swalwell-donald-trump-jr-spy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GP9J7w6yoc8/eric-swalwell-donald-trump-jr-spy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5110eb86-e53d-4155-bddd-274bb8738742/df0cbd95-9d65-4dda-8adf-8d93b0c68fba/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/eric-swalwell-donald-trump-jr-spy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-swalwell-donald-trump-jr-spy.amp",
+      "publishedDateTime": "2020-12-09T14:38:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-joe-bidens-gaffe-filled-2020-president-elect-botches-hhs-announcement.md",
       "title": "Joe Biden's gaffe-filled 2020: President-elect botches HHS announcement",
       "excerpt": "President-elect Joe Biden had his latest misadventure with a teleprompter on Wednesday, botching the name of Xavier Becerra, his nominee for Health and Human Services Secretary.",
@@ -1228,101 +1340,6 @@
         "Election",
         "Donald Trump",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-biden-picks-retired-us-army-gen-lloyd-austin-to-head-the-pentagon-if-confirmed-hed-be-the-first-black-man-to-lead-the-defense-department.md",
-      "title": "Biden picks retired US Army Gen. Lloyd Austin to head the Pentagon. If confirmed, he'd be the first Black man to lead the Defense Department.",
-      "excerpt": "Retired US Army Gen. Lloyd Austin would be America's first Black defense secretary, if confirmed by Congress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12",
-      "originalUrl": "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc16dcb50e71a0011557c1f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12?amp",
-      "publishedDateTime": "2020-12-08T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-vice-president-mike-pence-to-visit-greenville-for-coronavirus-response-discussion.md",
-      "title": "Vice President Mike Pence to visit Greenville for coronavirus-response discussion",
-      "excerpt": "Vice President Mike Pence will visit Greenville on Thursday to talk about response to COVID-19 before traveling to a campaign rally in Augusta, Georgia. According to his office, Pence is visiting Greenville to take part in a roundtable discussion highlighting the public-private partnership to combat the coronavirus,",
-      "sourceUrl": null,
-      "webUrl": "https://www.greenvilleonline.com/story/news/local/2020/12/07/vice-president-mike-pence-visit-greenville-sc-talk-covid/6484240002/",
-      "originalUrl": "https://www.greenvilleonline.com/story/news/local/2020/12/07/vice-president-mike-pence-visit-greenville-sc-talk-covid/6484240002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/03/30/PGRE/26d93d2a-50d7-4a29-a0ad-83b758897d6c-SS_pence_03_30_2019_1539.JPG?auto=webp&crop=2999,1671,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.greenvilleonline.com/amp/6484240002",
-      "cdnAmpWebUrl": "https://amp-greenvilleonline-com.cdn.ampproject.org/c/s/amp.greenvilleonline.com/amp/6484240002",
-      "publishedDateTime": "2020-12-08T02:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Greenville News",
-        "domain": "greenvilleonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],
