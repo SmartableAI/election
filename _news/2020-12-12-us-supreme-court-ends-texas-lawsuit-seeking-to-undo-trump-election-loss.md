@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L2YY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L2YY"
 type: article
 quality: 139
-heat: 1019
+heat: 1059
 published: true
 
 provider:
@@ -383,6 +383,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Vandals hit Black churches during weekend of pro-Trump rallies in D.C."
+    excerpt: "Groups of people tore down a Black Lives Matter banner and sign from historic Black churches in downtown Washington and set one ablaze as nighttime clashes Saturday between pro-Donald Trump supporters and counterdemonstrators erupted into violence and arrests."
+    publishedDateTime: 2020-12-13T22:53:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-dc-rally-20201213-5auvq66dr5hj7d5ddkdwgdd634-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-dc-rally-20201213-5auvq66dr5hj7d5ddkdwgdd634-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-dc-rally-20201213-5auvq66dr5hj7d5ddkdwgdd634-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/VI8IeS9Zd9uLeA4mOSFZyqBnyqY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CUFJYWIJ7VKUIAOBAFJH2ERSS4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Donald Trump Jr.'s Hunting Trip Expected to Start As Rumors Swirl in Alaska"
     excerpt: "In February, a week-long $150,000 \"dream hunt\" was raffled off with the winner joining Trump Jr. and his son on a yacht traveling along the Tongass National Forest coastline in southeastern Alaska."
     publishedDateTime: 2020-12-10T16:49:00Z
@@ -462,6 +478,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/leaders-abraham-accords-gty-ps-201209_1607527065488_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "After Supreme Court dismisses Texas case, Trump says his efforts to challenge election results are ‘not over’"
+    excerpt: "In an interview that aired Sunday, the president repeated his false claims of election fraud and said his legal team will keep pursuing challenges — even as the electoral college meets Monday."
+    publishedDateTime: 2020-12-13T22:21:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-electoral-college-challenge/2020/12/13/9f536e2a-3d4a-11eb-8db8-395dedaaa036_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-electoral-college-challenge/2020/12/13/9f536e2a-3d4a-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-electoral-college-challenge/2020/12/13/9f536e2a-3d4a-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WWIBVWB5JQI6XDNYHFO63KVAGY.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "EXPLAINER: Trump's failing, monthlong fight against election"
     excerpt: "President Donald Trump's frantic effort in the courts to delegitimize an election he lost has come no closer in a month to reversing any results."

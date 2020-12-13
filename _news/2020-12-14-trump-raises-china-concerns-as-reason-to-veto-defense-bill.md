@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Trump raises China concerns as reason to veto defense bill"
-excerpt: "President Donald Trump once again says he'll veto the annual defense policy bill that covers the military's budget and pay raises for service members, but this time he's citing unspecified concerns ab"
-publishedDateTime: 2020-12-13T18:30:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
+excerpt: "President Donald Trump once again says he’ll veto the annual defense policy bill that covers the military’s budget and pay raises for service members, but this time he’s citing unspecified concerns ab"
+publishedDateTime: 2020-12-13T22:41:00Z
+originalUrl: "https://www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html"
+webUrl: "https://www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_bbc3c4a1ff934f42af69979375eb3cc9_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -1815,6 +1815,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "UPDATE 1-Trump revives threat to veto defense bill, teeing up battle with lawmakers"
+    excerpt: "U.S. President Donald Trump on Sunday repeated his threat to veto a massive defense policy bill, setting the stage for a major battle with U.S. lawmakers at a time when they are racing to hammer out a compromise on more coronavirus relief."
+    publishedDateTime: 2020-12-13T22:14:00Z
+    webUrl: "https://www.reuters.com/article/usa-defense-trump/update-1-trump-revives-threat-to-veto-defense-bill-teeing-up-battle-with-lawmakers-idUSL1N2IT0MS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28N0O5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28N0O5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201213&t=2&i=1544418959&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBC0EN"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Wisconsin Supreme Court won’t hear Trump election lawsuit, likely dooming state court case seeking to overturn loss"
     excerpt: "The Wisconsin Supreme Court on Thursday refused to hear President Trump’s lawsuit attempting to overturn his loss to Democrat Joe Biden."
     publishedDateTime: 2020-12-03T18:42:00Z
@@ -2522,6 +2538,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "hEuO2Q/N+OMle2qnbnLTAvDwNjAfMoYsfuzuxTCd7rylhgP2yq+FZX1MJy+sIYk7rzxFnx3Pfh6eg1nFE71Cc7ElndcEFBEVCt3G3Zfi18qQb98/qAMXa/+HvH7tHsNXGaTfPuOC4+it4f1FqZkl2hnIdbHCN5ghw/QRc2YYgtUl1dds5od15o52jVokwpalYdAVUVEXO7I7Q43SGMExuzSgTon/ZQgAChEqSyLdDjxfXk9lzqbTF3eyJsCBWQ9yHreyCtYMMx+OgMWRGSAGFFpFIJEmOuseUNHdx/sBhJYqVAvAfZMkmMwfuXDNbeLQsz7fqFp88rvxUlb+hSTwQxSACbFVYi6gThONaO2A+/5ka+9WVXjTeLtSualqYQGo/wQwB+UEO2KVhhM0ALg4rMRWeUbhotG3tB7ttMarkiuJycaZ3bNAE+Oug7iNxukU6EI0RXb+F2Jm382w+4q4z7JIcZ8E4hVwqVz/RvnEeiH5TB9Dbl2uHfnEIr6OiTJYZ1cwZBgKaVbBeio+8ekUwg==;OVWb7GnxFpVkouwnaFHHPQ=="
+secured: "dk9o4PNKWklPO4VGfsEGeqDPmi6WHbLsqICAiUPZteczX4v+XCEzp+VuZ4n/YfXVZXJ85wMP79PnVEI3W1BCkJr58Cns2e51CDWSRXm02+zzu4g47FcSfb+RkvHoHDWA/c1URHFqluBVA2YEye5nHcdaIeOdZHoWYrsyqVoCMywqPGG8xXd7zyHnr81jEgU1FdknSbOKN2WRyfekJT25sii+6VHojRpxS8CIjhhtAcH+a2XekhKQZeJqw4MUIdGvc87TOjsqjQ23n072kD/rzd9FozKH/g1wtuXWBXw4KjX4/cElMyTLPiPyyQ9+EsfDIdBYP2m2De4n3PcLXeV1fcAyQGfwb6lAzqcx4W9N0Jo=;aPR+C8q3TIFuKkLqANbD/w=="
 ---
 

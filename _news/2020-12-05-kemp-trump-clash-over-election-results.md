@@ -333,6 +333,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "LIVE UPDATES: Trump reacts to SCOTUS decision not to hear on Texas’ election suit"
+    excerpt: "Rudy Giuliani, an attorney for President Trump, told 'Fox & Friends' on Saturday that there are more legal challenges to come from the Trump campaign -- despite a defeat at the Supreme Court. The Supreme Court has denied a Texas effort Friday that would have essentially nullified the presidential elections in Pennsylvania,"
+    publishedDateTime: 2020-12-12T21:11:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-giuliani-supreme-court-rejection-texas-lawsuit-wont-end-election-fight-12-12-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-giuliani-supreme-court-rejection-texas-lawsuit-wont-end-election-fight-12-12-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-giuliani-supreme-court-rejection-texas-lawsuit-wont-end-election-fight-12-12-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/564c38a2-ebcd-4af9-b652-5af58b123533/9056fda9-8c74-4d30-a5fa-4660485a3fbf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Supreme Court denies Texas, Trump appeal over election results in four other states"
     excerpt: "The Supreme Court has denied a Texas effort Friday that would have essentially nullified the presidential elections in Pennsylvania, Michigan, Georgia and Wisconsin."
     publishedDateTime: 2020-12-12T00:21:00Z

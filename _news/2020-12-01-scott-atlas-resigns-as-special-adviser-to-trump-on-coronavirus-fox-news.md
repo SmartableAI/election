@@ -41,22 +41,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Official: Trump to attend the Army-Navy game at West Point"
-    excerpt: "President Donald Trump is scheduled to attend this weekend’s Army-Navy football game at the U.S. Military Academy’s home field"
-    publishedDateTime: 2020-12-07T23:21:00Z
-    webUrl: "https://www.washingtonpost.com/health/official-trump-to-attend-the-army-navy-game-at-west-point/2020/12/07/e6016776-38e2-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/official-trump-to-attend-the-army-navy-game-at-west-point/2020/12/07/e6016776-38e2-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/official-trump-to-attend-the-army-navy-game-at-west-point/2020/12/07/e6016776-38e2-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "White House coronavirus adviser Fauci to meet with Biden transition team: CNN"
     excerpt: "White House coronavirus task force member Anthony Fauci will meet with members of President-elect Joe Biden's team on Thursday after President Donald Trump's administration delayed the transition process for weeks amid a coronavirus surge."
     publishedDateTime: 2020-12-03T15:24:00Z

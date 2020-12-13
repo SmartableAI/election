@@ -511,6 +511,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Progressives frustrated with representation as Biden Cabinet takes shape"
+    excerpt: "Some progressives are getting increasingly frustrated with the how President-elect Joe Biden’s potential Cabinet is shaping up, venting that the incoming administration does not properly reflect the r"
+    publishedDateTime: 2020-12-13T15:24:00Z
+    webUrl: "https://thehill.com/homenews/administration/529877-progressives-frustrated-with-representation-as-biden-cabinet-takes"
+    ampWebUrl: "https://thehill.com/homenews/administration/529877-progressives-frustrated-with-representation-as-biden-cabinet-takes?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/529877-progressives-frustrated-with-representation-as-biden-cabinet-takes?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/sandersbernie_ocasiocortezalexandria_121120gn_split_progressives.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden transition advisers emerge as top contenders to run covid-19 response"
     excerpt: "As President-elect Joe Biden makes fighting the raging coronavirus his most urgent mission when he takes office next month, two figures already playing central roles in his transition are emerging as the most likely officials to preside over the new White House’s pandemic response."
     publishedDateTime: 2020-12-03T01:10:00Z

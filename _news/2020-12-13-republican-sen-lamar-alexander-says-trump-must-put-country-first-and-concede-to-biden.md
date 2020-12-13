@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Sen. Lamar Alexander says that Trump should put 'the country first' and accept Biden's election win"
+    excerpt: "\"States have certified their votes,\" the GOP senator said. \"The courts have resolved the disputes. It looks very much like the electors will vote for Joe Biden.\""
+    publishedDateTime: 2020-12-13T21:23:00Z
+    webUrl: "https://www.businessinsider.com/lamar-alexander-trump-accepting-biden-election-win-transfer-power-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/lamar-alexander-trump-accepting-biden-election-win-transfer-power-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lamar-alexander-trump-accepting-biden-election-win-transfer-power-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 141
+    images:
+      - url: "https://i.insider.com/5f1f57c2f0f4193a2a0bfda3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump lashes out at GOP Gov. Doug Ducey after certification of Arizona results showing Biden win"
     excerpt: "During the certification, Ducey's phone buzzed with \"Hail to the Chief\" - a ringtone he has said he uses for White House calls. He set it aside."
     publishedDateTime: 2020-12-01T13:02:00Z

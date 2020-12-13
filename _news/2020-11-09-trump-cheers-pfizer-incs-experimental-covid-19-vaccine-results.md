@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P1KP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1KP"
 type: article
 quality: 125
-heat: 345
+heat: 325
 published: true
 
 provider:
@@ -188,22 +188,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/12/0f65d96a-bfad-4897-b3ab-b9c13583cbee/thumbnail/1200x630/587b03637ada4a8fdfbc5424e83db1e2/cbsn-fusion-ohio-governor-dewine-on-covid-19-surge-trumps-handling-of-pandemic-thumbnail-586552-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "The Trump administration reportedly rejected an offer from Pfizer for more COVID-19 vaccine doses, and now other countries might get them"
-    excerpt: "The Trump administration purchased 100 million doses of Pfizer's vaccine, but it's a two-dose treatment so it will only go to 50 million Americans."
-    publishedDateTime: 2020-12-07T22:33:00Z
-    webUrl: "https://www.businessinsider.com/trump-administration-rejected-pfizer-offer-more-covid-19-vaccine-doses-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-administration-rejected-pfizer-offer-more-covid-19-vaccine-doses-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-rejected-pfizer-offer-more-covid-19-vaccine-doses-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/5fcea8cfeadd8400183dfa73?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "NHlyySoZLgO2YBo2Wa9rKAcal61XbGs7n1ZvI3yHecvhgi7eCiPZkygeA84p4ED8rr3oJp9L7xoF5jHUXryoaPsvZ9C5vWKqpy9Q7mz5t82Ca78wvL8V8Iuq9vpim9j6zdB6DltfHa4thL5TlVb3ZyrZJ3ISvNwodOPtLm4Bln6ZrBb7XuP8h8NZw90R70KbLAJCkPxBWN23DRVQwsN/WZ4bJkQbKVfms4feN6diu8+tZnxs1LuqDiy1NBRx98YFb61NL5KHxNTwAdf5YNRJEOFuZJEL0qdwMSyusWqS6QamTNn6czxaszX/pA+32NhfDeVkMUT/Y4nVnQdqkH9PRsVNaltQBP3FsNF4o2HaiG4=;5vhKZAVNIV+TtzU7NEHmhQ=="

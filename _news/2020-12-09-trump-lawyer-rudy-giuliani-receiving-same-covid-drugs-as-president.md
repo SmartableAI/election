@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bbc.com/news/amp/world-55243581"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-55243581"
 type: article
 quality: 125
-heat: 245
-published: true
+heat: -1
+published: false
 
 provider:
   name: BBC
@@ -31,6 +31,230 @@ images:
     isCached: true
 
 related:
+  - title: "Trump, Pence, other top officials to be offered COVID-19 vaccine: source"
+    excerpt: "U.S. President Donald Trump, Vice President Mike Pence and other top U.S. officials will be offered the newly approved COVID-19 vaccine beginning Monday, according to a source familiar with the plans."
+    publishedDateTime: 2020-12-13T22:35:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-white-house/trump-pence-other-top-officials-to-be-offered-covid-19-vaccine-source-idUSKBN28N0UP?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28N0UP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28N0UP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 149
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201213&t=2&i=1544430348&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBC0I6"
+        width: 801
+        height: 545
+        isCached: true
+  - title: "Giuliani tests positive for COVID-19, latest in Trump's inner circle"
+    excerpt: "President Donald Trump's lawyer Rudy Giuliani has tested positive for COVID-19, Trump said on Sunday, prompting one state legislature to close for a week after Giuliani visited to try to persuade lawmakers to help reverse Trump's election defeat."
+    publishedDateTime: 2020-12-07T08:16:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/update-3-trump-lawyer-rudy-giuliani-positive-for-covid-19-after-wave-of-travel-challenging-election-results-idUSL1N2IM0G2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0T2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0T2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543618615&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB50IE"
+        width: 823
+        height: 545
+        isCached: true
+  - title: "Rudy Giuliani has tested positive for COVID-19, Trump says"
+    excerpt: "President Donald Trump tweeted on Sunday. \"@RudyGiuliani, by far the greatest mayor in the history of NYC, and who has been working tirelessly exposing the most corrupt election (by far!) in the history of the USA,"
+    publishedDateTime: 2020-12-06T20:33:00Z
+    webUrl: "https://abcnews.go.com/US/rudy-giuliani-tested-positive-covid-19-trump/story?id=74571847"
+    ampWebUrl: "https://abcnews.go.com/amp/US/rudy-giuliani-tested-positive-covid-19-trump/story?id=74571847"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/rudy-giuliani-tested-positive-covid-19-trump/story?id=74571847"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/rudy-giuliani-file-rt-jef-201206_1607286223261_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Rudy Giuliani tests positive for COVID-19, Trump says"
+    excerpt: "Rudy Giuliani, President Trump's personal attorney who has been traveling the country raising unsubstantiated claims of voter fraud, tested positive for COVID-19, the president said Sunday. \".@RudyGiuliani,"
+    publishedDateTime: 2020-12-07T00:20:00Z
+    webUrl: "https://www.cbsnews.com/news/rudy-giuliani-tests-positive-for-covid19-trump-tweets-2020-12-06/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/rudy-giuliani-tests-positive-for-covid19-trump-tweets-2020-12-06/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/rudy-giuliani-tests-positive-for-covid19-trump-tweets-2020-12-06/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/06/0a568217-27df-4cab-ba62-e2bd58bd977e/thumbnail/1200x630/8e7115d01fe374a1bd37797a705de9f2/gettyimages-1229918573.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Senator says Trump, McConnell likely to back COVID-19 relief"
+    excerpt: "A proposed COVID-19 relief bill is expected to get backing from President Donald Trump and Senate Majority Leader Mitch McConnell but it won’t include $1,200 in direct payments to most Americans"
+    publishedDateTime: 2020-12-07T05:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senator-says-trump-mcconnell-likely-to-back-covid-19-relief/2020/12/07/b69e725c-384d-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senator-says-trump-mcconnell-likely-to-back-covid-19-relief/2020/12/07/b69e725c-384d-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senator-says-trump-mcconnell-likely-to-back-covid-19-relief/2020/12/07/b69e725c-384d-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump lawyer Giuliani in hospital after positive COVID test"
+    excerpt: "President Donald Trump says his personal attorney Rudy Giuliani has tested positive for the coronavirus, making him the latest in Trump's inner circle to contract the disease that is now surging across the U."
+    publishedDateTime: 2020-12-07T06:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-lawyer-giuliani-hospital-positive-covid-test-74577554"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-lawyer-giuliani-hospital-positive-covid-test-74577554"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-lawyer-giuliani-hospital-positive-covid-test-74577554"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_14f1636a3763410bb1b2fe0b2bb65990_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump lawyer Rudy Giuliani tests positive for COVID"
+    excerpt: "President Donald Trump says his personal attorney Rudy Giuliani has tested positive for coronavirus. The president confirmed in a Sunday afternoon tweet that the former New York mayor had tested positive."
+    publishedDateTime: 2020-12-06T20:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-lawyer-rudy-giuliani-tests-positive-for-covid/2020/12/06/d3036cbc-3803-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-lawyer-rudy-giuliani-tests-positive-for-covid/2020/12/06/d3036cbc-3803-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lawyer-rudy-giuliani-tests-positive-for-covid/2020/12/06/d3036cbc-3803-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump says campaign attorney Rudy Giuliani tested positive for COVID-19"
+    excerpt: "President Trump said his attorney Rudy Giuliani, who has been leading efforts to overturn the results of the Nov. 3 general election, has tested positive for the COVID-19."
+    publishedDateTime: 2020-12-06T20:53:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-06/trump-says-rudy-giuliani-tested-positive-for-covid-19"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-06/trump-says-rudy-giuliani-tested-positive-for-covid-19?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-06/trump-says-rudy-giuliani-tested-positive-for-covid-19?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/3e93524/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0a%2Fbf%2F8b117a3f47aab7a83bd339209959%2Ftrump-75735.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Trump says lawyer Rudy Giuliani has Covid-19"
+    excerpt: "President Donald Trump says his personal lawyer Rudy Giuliani has tested positive for Covid-19. The president wrote in a tweet: \"Get better soon Rudy, we will carry on!\" Mr Giuliani, who has been leading the Trump campaign's legal challenges to the 2020 election results,"
+    publishedDateTime: 2020-12-06T20:53:00Z
+    webUrl: "https://www.bbc.com/news/amp/world-us-canada-55210243"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55210243"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55210243"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2247/production/_115857780_giuliani-gettyimages-1229918573.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Official: Trump to attend the Army-Navy game at West Point"
+    excerpt: "President Donald Trump is scheduled to attend this weekend’s Army-Navy football game at the U.S. Military Academy’s home field"
+    publishedDateTime: 2020-12-07T23:21:00Z
+    webUrl: "https://www.washingtonpost.com/health/official-trump-to-attend-the-army-navy-game-at-west-point/2020/12/07/e6016776-38e2-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/official-trump-to-attend-the-army-navy-game-at-west-point/2020/12/07/e6016776-38e2-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/official-trump-to-attend-the-army-navy-game-at-west-point/2020/12/07/e6016776-38e2-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump to order priority access to U.S. COVID-19 vaccines for Americans"
+    excerpt: "President Donald Trump will sign an executive order on Tuesday to ensure that priority access for COVID-19 vaccines procured by the U.S. government is given to the American people before assisting other nations,"
+    publishedDateTime: 2020-12-08T07:43:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-vaccines-trump-idUSKBN28H2O2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H2O2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H2O2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543759573&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61HL"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump administration makes new $916 billion offer for COVID-19 aid"
+    excerpt: "The Trump administration proposed a $916 billion coronavirus relief package on Tuesday, after congressional Democrats shot down a suggestion for a pared-down plan from the Senate's leading Republican,"
+    publishedDateTime: 2020-12-09T07:37:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-pelos-idUSKBN28I2LA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I2LA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I2LA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543898187&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB803W"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump boasts of vaccines, but will he coax people to get shots?"
+    excerpt: "President Trump takes credit for new coronavirus vaccines, yet they'll do little good if many people remain opposed to vaccinations."
+    publishedDateTime: 2020-12-08T16:49:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-08/trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-08/trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-08/trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/72d8926/2147483647/strip/true/crop/4592x2999+0+224/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9b%2Fd9%2F94374aa24f578e18c9842f2775df%2Fla-fi-lazarus-healthcare-three-hundred-dollar-band-aid.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "WATCH LIVE: Pence participates in COVID-19 vaccine roundtable"
+    excerpt: "Vice President Mike Pence will participate in a roundtable Dec. 10 about COVID-19 vaccines in Greenville, South Carolina."
+    publishedDateTime: 2020-12-10T16:21:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-pence-participates-in-covid-19-vaccine-roundtable"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-pence-participates-in-covid-19-vaccine-roundtable"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-pence-participates-in-covid-19-vaccine-roundtable"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-07-08T154528Z_1976070878_RC23PH9SQGLE_RTRMADP_3_HEALTH-CORONAVIRUS-USA-1024x618.jpg"
+        width: 1024
+        height: 618
+        isCached: true
   - title: "Paul Krugman column: Trump tries to kill COVID relief"
     excerpt: "The next few months will be terrible. Several thousand Americans are now dying from COVID-19 every day; given the lag between cases and deaths, the daily toll will almost certainly rise through the end of this year,"
     publishedDateTime: 2020-12-11T16:25:00Z
@@ -47,21 +271,149 @@ related:
         width: 1200
         height: 861
         isCached: true
-  - title: "Promising more lawsuits, Trump attorney Rudy Giuliani recycles litany of debunked claims"
-    excerpt: "Rudy Giuliani on Thursday staged a bizarre 90-minute press conference where they outlined plans to resurrect a crumbling legal strategy."
-    publishedDateTime: 2020-11-20T04:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035"
+  - title: "Trump reportedly limited US purchases of Pfizer vaccine when offered - live"
+    excerpt: "New York Times reports Trump passed on the offer in late summer and the company may not be able to provide more doses until next June"
+    publishedDateTime: 2020-12-08T00:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fcec0e68f0861e6ffe1e6e4"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/730b1899663f9fe8321baaaff43b7fe1efd95b53/0_210_6016_3610/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a89c32dae22553d9c97145e7fb9681bb"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump to sign order giving priority access for COVID vaccines to Americans"
+    excerpt: "President Donald Trump will sign an executive order on Tuesday to ensure that priority access for COVID-19 vaccines procured by the U.S. government is given to Americans, a senior administration official said on Monday."
+    publishedDateTime: 2020-12-07T21:11:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-vaccines-trump-idUKKBN28H2LN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28H2LN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28H2LN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543746778&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61GM"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump vaccine executive order raises questions after Pfizer offer declined"
+    excerpt: "The White House pushed back on reports the United States declined to buy more doses of a COVID-19 vaccine produced by Pfizer and its German partner BioNTech."
+    publishedDateTime: 2020-12-08T17:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-vaccine-executive-order-raises-questions-pfizer-offer/story?id=74604381"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-vaccine-executive-order-raises-questions-pfizer-offer/story?id=74604381"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-vaccine-executive-order-raises-questions-pfizer-offer/story?id=74604381"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 116
+    quality: 123
     images:
-      - url: "https://s.abcnews.com/images/Politics/election-trump-challenges-rudy-giuliani-02-ap-llr-201118_1605822297710_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/trump-gty-jt-201208_1607443175602_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump to meet next week with industry, government officials on COVID vaccine"
+    excerpt: "President Donald Trump will gather leaders from industry and government next week for a summit on the coronavirus vaccine, the White House said on Tuesday, as the outgoing president seeks to emphasize his role in the speedy development of a vaccine."
+    publishedDateTime: 2020-12-01T21:07:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-vaccines-trump-idUSKBN28B69R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B69R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B69R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543100580&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03HX"
+        width: 886
+        height: 545
+        isCached: true
+  - title: "Trump, Pence, Congress and Supreme Court will all be offered COVID-19 vaccine in coming days, officials say"
+    excerpt: "The shots will be offered to top personnel across all three branches of government, including the White House, Congress, and the Supreme Court, officials said."
+    publishedDateTime: 2020-12-13T22:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/13/trump-pence-congress-supreme-court-coronavirus-vaccine/6533449002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6533449002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6533449002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/13/USAT/a52e7e4e-e2be-44bf-87a8-e608c83418cc-GTY_1230113245.jpg?auto=webp&crop=3620,2036,x934,y796&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump lawyer Rudy Giuliani positive for COVID-19 after wave of lawmaker lobbying"
+    excerpt: "President Donald Trump's lawyer Rudy Giuliani has tested positive for COVID-19, Trump said on Sunday, after a wave of travel by the former New York mayor seeking to persuade Republican state lawmakers to overturn the election results."
+    publishedDateTime: 2020-12-07T02:16:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/trump-lawyer-rudy-giuliani-positive-for-covid-19-after-wave-of-travel-challenging-election-results-idUSKBN28G0T2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0T2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0T2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543618615&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB50IE"
+        width: 823
+        height: 545
+        isCached: true
+  - title: "Trump lawyer Giuliani, suffering from COVID-19, to attend virtual hearing -source"
+    excerpt: "President Donald Trump's lawyer Rudy Giuliani, who was recently hospitalized with COVID-19, will attend a virtual hearing this week with Georgia lawmakers over Trump's flagging effort to overturn his U."
+    publishedDateTime: 2020-12-08T22:44:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28I2I4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I2I4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I2I4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543875712&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB71F9"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Refuting Trump, FDA commissioner says vaccine could not have been authorized sooner"
+    excerpt: "In an interview with Fox News Saturday, Trump, after seeming to take credit for the speed of the vaccine's development, said that the Food and Drug Administration could have authorized the shot for emergency use \"last week."
+    publishedDateTime: 2020-12-13T14:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/this-week-stephen-hahn-02-ap-llr-201212_1607807457019_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The Trump administration is delivering on a 2020 vaccine, but not at the levels he suggested"
+    excerpt: "Many of the promises and projections that the Trump administration made on coronavirus vaccines have since been revised or contradicted by Trump officials or by President Trump himself."
+    publishedDateTime: 2020-12-10T16:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-10-2020/t_86660cef3e8b4d0e8383f3bbc5bc196b_name_20201209_TRUMP_VACCINE_V3.png&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "President Trump to hold White House COVID-19 summit as pressure mounts for FDA vaccine approval"
     excerpt: "The White House will host drug manufacturers, distributors and governors to discuss its $12-billion plan to vaccinate Americans against COVID-19."
@@ -95,38 +447,81 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump is holding out on supporting the $908 billion COVID-19 stimulus bill despite more lawmakers rallying round it"
-    excerpt: "After a press conference, the White House clarified that Trump does not support the $908 billion compromise bill, and instead wants a smaller one."
-    publishedDateTime: 2020-12-04T12:17:00Z
-    webUrl: "https://www.businessinsider.com/covid-19-stimulus-trump-holds-back-908-billion-compromise-deal-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/covid-19-stimulus-trump-holds-back-908-billion-compromise-deal-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/covid-19-stimulus-trump-holds-back-908-billion-compromise-deal-2020-12?amp"
+  - title: "Coronavirus live news: Trump 'to be offered vaccine on Monday'; London borough to close all schools"
+    excerpt: "Greenwich ‘in a period of exponential growth that demands immediate action’; Spain’s health minister says vaccine could bring herd immunity by summer"
+    publishedDateTime: 2020-12-13T22:29:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day?page=with:block-5fd68aab8f08b0a99da950e2"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 111
+    images:
+      - url: "https://i.guim.co.uk/img/media/aa43b0326b5deb79f2e3c35acff29d03650abc3a/0_197_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3e40d3e6031803dbbb1e1b649f700a6f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "The Trump administration reportedly rejected an offer from Pfizer for more COVID-19 vaccine doses, and now other countries might get them"
+    excerpt: "The Trump administration purchased 100 million doses of Pfizer's vaccine, but it's a two-dose treatment so it will only go to 50 million Americans."
+    publishedDateTime: 2020-12-07T22:33:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-rejected-pfizer-offer-more-covid-19-vaccine-doses-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-rejected-pfizer-offer-more-covid-19-vaccine-doses-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-rejected-pfizer-offer-more-covid-19-vaccine-doses-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 103
+    quality: 92
     images:
-      - url: "https://i.insider.com/5fca1f38b6a3a800199b688e?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fcea8cfeadd8400183dfa73?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Rudy Giuliani releases politics video pausing for a sponsored cigar commercial and blaming Fox News for Trump's defeat"
-    excerpt: "In the YouTube series, entitled 'Rudy Giuliani's Common Sense,' Donald Trump's personal attorney discusses political issues and current affairs weekly."
-    publishedDateTime: 2020-11-07T18:32:00Z
-    webUrl: "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency"
-    ampWebUrl: "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp"
+  - title: "Vice President Mike Pence to tour COVID vaccine facility in Bloomington next week"
+    excerpt: "Vice President Mike Pence will be in Bloomington Tuesday to tour a vaccine production facility and discuss efforts to combat COVID-19"
+    publishedDateTime: 2020-12-11T16:03:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/12/11/mike-pence-tour-covid-19-vaccine-facility-bloomington/3894170001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3894170001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3894170001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 70
     images:
-      - url: "https://i.insider.com/5fa6c6f21df1d50018219713?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PIND/fb21da3d-bf78-41a9-a554-80a704625016-102220-Mike_Pence_in_Fort_Wayne_Ind-cb-74.JPG?auto=webp&crop=2597,1461,x0,y132&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
+  - title: "COVID-19 vaccines called 'medical miracle' by Vice President Mike Pence in Greenville"
+    excerpt: "Vice President Mike Pence visited Greenville Thursday to join Gov. Henry McMaster and other officials to discuss coronavirus vaccines."
+    publishedDateTime: 2020-12-10T23:29:00Z
+    webUrl: "https://www.greenvilleonline.com/story/news/local/south-carolina/2020/12/10/covid-19-vaccines-discussed-vp-mike-pence-greenville-sc/3872616001/"
+    ampWebUrl: "https://amp.greenvilleonline.com/amp/3872616001"
+    cdnAmpWebUrl: "https://amp-greenvilleonline-com.cdn.ampproject.org/c/s/amp.greenvilleonline.com/amp/3872616001"
+    type: article
+    provider:
+      name: Greenville News
+      domain: greenvilleonline.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/10/PGRE/5b693446-e21b-4f5e-8002-fb8e5641bec9-MicrosoftTeams-image_4.png?auto=webp&crop=3283,1847,x1,y190&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pence: COVID vaccine 'a medical miracle'"
+    excerpt: "As U.S. experts convene to decide whether to approve the Pfizer vaccine, Vice President Mike Pence is calling the development of a vaccine to combat the coronavirus pandemic as \"a"
+    publishedDateTime: 2020-12-11T00:54:00Z
+    webUrl: "https://omaha.com/news/national/pence-covid-vaccine-a-medical-miracle/video_aafd968a-ea4e-53a8-8206-453e1906f7ef.html"
+    ampWebUrl: "https://omaha.com/news/national/pence-covid-vaccine-a-medical-miracle/video_aafd968a-ea4e-53a8-8206-453e1906f7ef.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/pence-covid-vaccine-a-medical-miracle/video_aafd968a-ea4e-53a8-8206-453e1906f7ef.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 55
 
 secured: "BhHUvtCxalLN9RECS4orlSKS7TWT0IRn5WnulcTjxu7VZMm9bMu1L+pNVhJKuK0aaOuLHMZ9BAmUqaegeXWjbKRzrnmK6X9j6SKzOEzYUde9jBZXbJS0paN30GCQkj9Ddu/2bHReFkiq+ZBAwyoH7lMVKPc09w/3m5nE/Nkz0bcjJdRYoljrVyGxMxpf7Bldu8X3YVPbbIEuQD6kFgujrU/pE0lZCG8JrHxjH1M9/ufvW8XgBXDogudr7GkUn4MUgCJdztZtv2ceF6AWThOVZM/pqxq7dJulzGXefaCi5NK+6bQixLwQSmsbJL+a+y1q3XB+4V1Hh893AsNmZLjvC2/eJIiqeGRv7KQVuS90i6M=;ByThdRhghFLPCa05a9ldNg=="
 ---
