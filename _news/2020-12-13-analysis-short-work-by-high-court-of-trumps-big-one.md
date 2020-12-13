@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Analysis: Short Work by High Court of Trump's `Big One'"
-excerpt: "The Supreme Court has turned aside a Texas-based lawsuit that sought to overturn the presidential election results, and not even Donald Trump’s three high court appointees were willing to rise to his defense."
-publishedDateTime: 2020-12-12T18:31:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-12-12/analysis-short-work-by-high-court-of-trumps-big-one"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-12-12/analysis-short-work-by-high-court-of-trumps-big-one"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-12/analysis-short-work-by-high-court-of-trumps-big-one?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-12/analysis-short-work-by-high-court-of-trumps-big-one?context=amp"
+title: "Analysis: Short work by high court of Trump's `big one'"
+excerpt: "The Supreme Court has turned aside a Texas-based lawsuit that sought to overturn the presidential election results, and not even Donald Trump’s three high court appointees were willing to rise to his"
+publishedDateTime: 2020-12-13T05:15:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/analysis-short-work-high-court-trumps-big-74691200"
+webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-short-work-high-court-trumps-big-74691200"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-short-work-high-court-trumps-big-74691200"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-short-work-high-court-trumps-big-74691200"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_00027490a6194fabb0dcac8f9dfdaf92_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "U.S. Supreme Court ends Texas lawsuit seeking to undo Trump election loss"
@@ -592,6 +598,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "LyyRU+1ZiJZ+wUanTem5BEnkGEM2OwMppLj4jCAcen8rzOH6akwdnByjNspjwE7fZmAwewUkKojZ/SymKMJYzjpzTVyeX7TpVCSDIEahxwvArufXLxkRUNWqqyV9kbLsm/wJwnMWdo8FnDWru+VMLkxWxQC54qntlGNOgYrleVmiRE7NZDzvv9pmdTUjVfIWnyaI079jJkxssGQub2Juln3h+EmqP/YGeRGN2LEvzirr+N/pxgmfSeqHZYvfrjmZG8H4Ip8WyTQy8dNOzHsSp8XngmsWipouXYpATslUTuLk31oOS1cjJGAie5kdvC3YTasVzo9VEsnFFGdPiEg4oNrZmFWuwqQqu9QiMdsyUIxJKOEJZsRFy/uBr3TEkEHibf2oaCHeCXmLnzEK/ghbKdSvqoCgY+W1a9wLzNLQkAAwO16tyFxQUUuLANBYpseNmmAf2C1aHnX3wAEfyXut4/xCHI932GTZEqK+nmV7hqFNwKAYy28HpcTxyqBQDNzo942lXLmJM7Ma5QyZL5F2QQ==;sAGsg3CpToCiIlazTMNMPA=="
+secured: "Fxv30sIQIRTkCHG5Ry0PV3vy1M6azjVpuk/Gl+sGkI6ErsK1R5nA+1uC8av/40+tGd195BZE2txTBjh4yblv1pRuUN33gmuMcE/cBRWFd5OJvDLyg4UXm45HHrAVSSdwE4koQPgKqPxSIrYjQ5mGE2IbZv2LyjLmi8fgYmb+vgRgPlpDKj/n7oC6lybDBS7hAuFHbEpaQsfYBkJaV8QtAI+gcIoSuMHgoLjypQGbZpJCUKNTzJn5MmYLpr8C0UAAtHbYYchjNyYeId839cYefCUQxwi/RoohvwtwPOjfW5gcd0zLO5xZBEqFIJKv+3gi2svchM/z5YH7cWVVkNIcLpUaxHxRGgxTdaCwTNAA5YM=;tgoUJ9IdKuH2ojYuuKLa7g=="
 ---
 

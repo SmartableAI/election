@@ -75,6 +75,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "THIS WEEK @NASA: Vice President Pence Introduces the Artemis Team of Astronauts, NASA Remembers Chuck Yeager"
+    excerpt: "The Vice President introduces the Artemis team of astronauts, progress on hardware for upcoming Artemis missions, and the science priorities for our next human mission on the Moon … a few of the stories to tell you about – This Week at NASA!"
+    publishedDateTime: 2020-12-13T05:44:00Z
+    webUrl: "https://spacecoastdaily.com/2020/12/this-week-nasa-vice-president-pence-introduces-the-artemis-team-of-astronauts-nasa-remembers-chuck-yeager/"
+    type: article
+    provider:
+      name: Space Coast Daily
+      domain: spacecoastdaily.com
+    quality: 36
+    images:
+      - url: "https://spacecoastdaily.com/wp-content/uploads/2020/12/This-Week-at-NASA-600.jpg"
+        width: 600
+        height: 331
+        isCached: true
 
 secured: "DLEYshEpV5hDMQwqG785GWnVedFFjB6g4F5qy5ck8Uk2JPJXz9BoJeiJYCzYVQl4pu2G6idLMObYFMi77F7v6E5nPF6fnptNGX50sE9DKUXhQSQST37UjeYccThMF9UvF+UHgG0rbfiPgVR9qxzRzmed8u93p1bBlWRpBIf+cXiy6Q4ETHO1fb+VN0BVBcEgLY5OQzdR+F1ZJCuFTQRkDEHlu8InEi5sP6bWRUDBz3spZGi39k5Lx8ToL6sm22fH17LuZdtcc1q9v3CFbTvP8kmIDP9HLplAmozvRxT4MqErxcUhZJHKXYe5Edq9mPD1OFCHDkmxF3bx0CTjsI/JHGvzFrucviCXJ8AWcbVMTxw=;2RDaHHdmJ4nm3zGKtaEjLw=="
 ---

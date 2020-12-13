@@ -1485,6 +1485,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Supporters Protest Biden Election Win; Violence Erupts at Night"
+    excerpt: "Evening violence broke out in Washington, D.C., during clashes between some of the president’s allies and counterprotesters."
+    publishedDateTime: 2020-12-13T06:14:00Z
+    webUrl: "https://www.wsj.com/articles/pro-trump-demonstrators-call-to-overturn-bidens-presidential-election-win-11607806033"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pro-trump-demonstrators-call-to-overturn-bidens-presidential-election-win-11607806033"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pro-trump-demonstrators-call-to-overturn-bidens-presidential-election-win-11607806033"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 165
+    images:
+      - url: "https://images.wsj.net/im-272735/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden's first move as president-elect? Mask mandate for all. Here's how he plans on doing it."
     excerpt: "One of Joe Biden's first priorities as president-elect will be implementing mask mandates nationwide by working with governors. The future 46th president, however, says if they refuse than he will go to mayors and county executives and get local masking requirements in place."
     publishedDateTime: 2020-11-08T23:48:10Z

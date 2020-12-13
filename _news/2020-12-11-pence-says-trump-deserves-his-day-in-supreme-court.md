@@ -365,6 +365,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump tells 'Fox & Friends' he's 'so disappointed' in Supreme Court for turning aside Texas election suit"
+    excerpt: "President Trump told Fox News Saturday that he is \"so disappointed\" in the Supreme Court for declining to hear a lawsuit brought by the state of Texas that sought to nullify the election results in four battleground states."
+    publishedDateTime: 2020-12-13T06:56:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-disappointed-supreme-court-texas-election-lawsuit-fox-friends?amp/"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-disappointed-supreme-court-texas-election-lawsuit-fox-friends.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-disappointed-supreme-court-texas-election-lawsuit-fox-friends.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5534ef4d-b106-4fad-a20f-c35a01f87f51/ab4e04d0-6103-4966-8e46-253afd17ca6c/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "Joey Jones blasts the politicization of the American flag during Trump presidency"
     excerpt: "Fox News contributor Joey Jones on Thursday blasted the politicization of the American flag during President Trump’s term in office."
     publishedDateTime: 2020-12-03T16:59:00Z

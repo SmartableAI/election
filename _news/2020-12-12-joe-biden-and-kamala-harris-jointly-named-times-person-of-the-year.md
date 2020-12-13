@@ -3,10 +3,10 @@ category: news
 title: "Joe Biden and Kamala Harris jointly named Time's 'Person of the Year'"
 excerpt: "U.S. President-elect Joe Biden and Vice President-elect Kamala Harris were jointly named Time magazine's 2020 \"Person of the Year\" on Thursday, chosen from a list of finalists that included the man Biden vanquished at the polls - President Donald Trump."
 publishedDateTime: 2020-12-11T18:34:00Z
-originalUrl: "https://www.reuters.com/article/us-time-person/joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSKBN28K33R"
-webUrl: "https://www.reuters.com/article/us-time-person/joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSKBN28K33R"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K33R"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K33R"
+originalUrl: "https://www.reuters.com/article/time-person/update-4-joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSL1N2IQ3C0"
+webUrl: "https://www.reuters.com/article/time-person/update-4-joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSL1N2IQ3C0"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K32U"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K32U"
 type: article
 quality: 140
 heat: -1
@@ -1773,6 +1773,6 @@ related:
       domain: usnews.com
     quality: 39
 
-secured: "FGcyFux3qRcQnuOvdlZt2FMWYU9E7QaAO8dRqNk3s9W03kgYBlXxM5u1upLjt+phZPt4dyef2M0T+FkLjqL+RC2oqpSz8ev+p3CeKY/mrgU6r9N7EgFnD314O63vLRM8wYHMU0/G9N/pF+cZBWHtS7ZVAAR9bdnSyVF4Cbt8IWPhLhXATAVIuilfTHKBjow4BobJTOxTUclHF7gRjS4/A2r0NE9lxoVmhYcIGFL1WK5bDtglDzSRY2FZ84tDT1ruefWA/md9IypDH+Pm8/9TTRbX/YNp6d/3Evg2iNMziFswK/bYPBcOTHcFPrdbv7q+2bIdIWyLL536d7kNVcy9Jbfn6XlOajNXHXQBCUrcJQc=;sTgEj0UoBXVO2zHoCBZ3Vg=="
+secured: "CssT6O2Sj4bhB7M2IFvZZ4JXjSHHQfQ+eX8kkCEc2mvOQSsxAyur4palzC26TBF46q4jJWrifr4q1Cz4cPV7hV0XksVkSNVYdjI3495qIoCDibQOLz3HbuDwU1sxsmlEFXqAK5PkekeO1VBUzfAAGZ/fpuh1syiSTs137iT5/bCzuOvCp1i1EJXwcUy8crcxrX5N695w9XiKqZuHRpdJK57rUOJjhU5zWq1hSFTvYubyHK9xBjr+fyeBCBevOXAH71vc+kwE9iF0FJgaX+nOMl42E2fShTAgPGxbnqsWCtG/tGk9R8dovZSxUyORCPhhYTpoP1p+Eq+5CA1z9WUjZAW0FiSg0Z71n0QKuNi0hss=;tzM0awgE/3Bm3WVWiOJUEA=="
 ---
 

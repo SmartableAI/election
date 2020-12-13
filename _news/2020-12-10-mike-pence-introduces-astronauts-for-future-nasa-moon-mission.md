@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/mike-pence-nasa-artemis-moon-missio
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://media.khou.com/assets/WTSP/images/a35665a0-6fbd-4bb5-8470-5d26ca7f5bf7/a35665a0-6fbd-4bb5-8470-5d26ca7f5bf7_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "THIS WEEK @NASA: Vice President Pence Introduces the Artemis Team of Astronauts, NASA Remembers Chuck Yeager"
+    excerpt: "The Vice President introduces the Artemis team of astronauts, progress on hardware for upcoming Artemis missions, and the science priorities for our next human mission on the Moon … a few of the stories to tell you about – This Week at NASA!"
+    publishedDateTime: 2020-12-13T05:44:00Z
+    webUrl: "https://spacecoastdaily.com/2020/12/this-week-nasa-vice-president-pence-introduces-the-artemis-team-of-astronauts-nasa-remembers-chuck-yeager/"
+    type: article
+    provider:
+      name: Space Coast Daily
+      domain: spacecoastdaily.com
+    quality: 36
+    images:
+      - url: "https://spacecoastdaily.com/wp-content/uploads/2020/12/This-Week-at-NASA-600.jpg"
+        width: 600
+        height: 331
         isCached: true
 
 secured: "deuiJ5av/iOAeW/kArWmJk1S/mnn4ZhSS/CiqCA6k7DJ6y6142YiIVFl0HET7DimS/boM78Qjm1/6lSZufXFGB3SPM+KMx7xmAom9KH2eeTSBKG46FbkLjdqYoX/EwFWVeayv7R2b+tMa6PBTfUQ1qAudjUQ02L/SrLVB4Y6Hki1ESn0XPo2GR384HsDNu277b740Tctq1qzE0uOzhZEGUBYN9tYH8D3vEJvKes8G/SffU1GIRvB5XCuGggMKgvcHzzuUsCrqtPVsbJv78TuZT2g5Wb9WSy04Zl5OH/RM8HEiO6iVmTLvzTJ8sDAt0FkPQTPi70iiqqBJrWDNyzl9RddO6V7onh3oxA+xu+0mPK/ZpRIjSkAnDRJ6IWzgG98SiMZRgjkSrnpErZcZY7oRlwiGnMmAfJwuxGURGlwgfdXzTWsKcOxpvRGqgklGJA3fVUcjdeOYT6whupNJp8aMoRAZiR82Q5/kiYkRXK2nUQuGdpbmyH739QwtB9qWcrjFSAg/y1A+m5xn/PfcPjuzA==;LzKdlQzcqFKOgdRnThxJBA=="

@@ -495,6 +495,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Hunter Biden subpoena seeks information on Burisma, other entities"
+    excerpt: "The Justice Department’s subpoena to Hunter Biden sought information involving more than two dozen entities to examine some of his foreign business ties, including with Ukrainian gas company Burisma."
+    publishedDateTime: 2020-12-13T05:54:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-12/hunter-biden-subpoena-seeks-info-on-burisma-other-entities"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-12/hunter-biden-subpoena-seeks-info-on-burisma-other-entities?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-12/hunter-biden-subpoena-seeks-info-on-burisma-other-entities?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/917e0d2/2147483647/strip/true/crop/5591x3652+0+38/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7f%2Fd3%2F7a50b7183b1f03b43442ff45987a%2F356ca0eaf41c446db3ea424d5c48b946"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Biden transition advisers emerge as top contenders to run covid-19 response"
     excerpt: "As President-elect Joe Biden makes fighting the raging coronavirus his most urgent mission when he takes office next month, two figures already playing central roles in his transition are emerging as the most likely officials to preside over the new White House’s pandemic response."
     publishedDateTime: 2020-12-03T01:10:00Z
@@ -783,6 +799,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f116925e-7480-48f3-a2fa-029f1b76a88c_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Atlanta Mayor Declines Role in Incoming Biden Administration"
+    excerpt: "Atlanta Mayor Keisha Lance Bottoms turned down a position in President-elect Joe Biden’s cabinet, her spokesman said, amid speculation about what role she might play in the new administration."
+    publishedDateTime: 2020-12-13T04:51:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/atlanta-mayor-declines-role-in-incoming-biden-administration/2020/12/12/30b78404-3cd4-11eb-aad9-8959227280c4_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DRBU4GB42QI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Doctor says Biden's fractured foot is healing as expected"
     excerpt: "PHILADELPHIA (AP) — President-elect Joe Biden’s fractured foot has been healing, his doctor said Saturday."
