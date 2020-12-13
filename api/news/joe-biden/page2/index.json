@@ -2,115 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-06-jill-biden-will-back-debt-free-community-college-as-student-debt-nears-17-trillion-report.md",
-      "title": "Jill Biden will back debt-free community college as student debt nears $1.7 trillion: report",
-      "excerpt": "Dr. Jill Biden will advocate for debt-free community college as First Lady, a source close to President-elect Joe Biden's wife told Yahoo News.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady",
-      "originalUrl": "https://www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9f95446-19c6-49f1-9e81-2990fc27ae48/dddd10c9-8149-4b93-8944-9f5121330efb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady.amp",
-      "publishedDateTime": "2020-12-05T18:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-joe-bidens-groundhog-day-moment.md",
-      "title": "Joe Biden’s ‘Groundhog Day’ moment",
-      "excerpt": "But Joe Biden is actually living that reality. It’s not simply that Biden was elected president after serving as vice president. It’s that the situation he will face when he enters the White House next month is eerily parallel to the one he faced with Barack Obama when they were elected in 2008.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OGOMWBWPUI6XFUZADJRD4J5FU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/?outputType=amp",
-      "publishedDateTime": "2020-12-05T11:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-12-06-transition-highlights-biden-discusses-stalling-economy-amid-new-hopes-on-stimulus.md",
       "title": "Transition Highlights: Biden Discusses ‘Stalling’ Economy Amid New Hopes on Stimulus",
       "excerpt": "President-elect Joe Biden is urging Congress to quickly pass another virus relief plan as leaders of both parties work toward a compromise. Vice President Mike Pence said the nation faced a ‘season of hope’ as vaccine efforts advance,",
@@ -500,7 +391,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-workers-idINKBN28C1GM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 545,
+      "heat": 505,
       "tags": null,
       "images": [
         {
@@ -552,7 +443,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1598,6 +1489,115 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-biden-tells-governors-hell-help-states-overcome-coronavirus.md",
+      "title": "Biden tells governors he’ll help states overcome coronavirus",
+      "excerpt": "In a virtual meeting with governors, Joe Biden has expressed concern that President Donald Trump’s unprecedented attempt to block the peaceful transition of power at the White House has hindered the f",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 505,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-19T08:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-joe-biden-nurse-share-emotional-moment-during-virtual-roundtable.md",
+      "title": "Joe Biden, nurse share emotional moment during virtual roundtable",
+      "excerpt": "President-elect Joe Biden grew emotional during a virtual roundtable after hearing Mary Turner, an intensive care unit nurse, describe her experience on the frontline battling Covid-19. The Minnesota nurse spoke with CNN's Erin Burnett.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn",
+      "originalUrl": "https://www.cnn.com/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201118201002-mary-carter-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn",
+      "publishedDateTime": "2020-11-18T18:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     }
   ],

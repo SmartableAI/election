@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/jim-jordan-hunter-biden-investigati
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-hunter-biden-investigation-voters-media.amp"
 type: article
 quality: 179
-heat: 679
+heat: 699
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Sen. Johnson: Voters, Congress should have known about DOJ Hunter Biden investigation"
+    excerpt: "Sen. Ron Johnson, R-Wis., said members of Congress should have been informed that Hunter Biden's \"tax affairs\" were under investigation as they considered whether to vote to impeach President Trump in 2019."
+    publishedDateTime: 2020-12-13T17:06:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qgzkEr6DgMg/william-barr-hunter-biden-doj-investigation-ron-johnson"
+    ampWebUrl: "https://www.foxnews.com/politics/william-barr-hunter-biden-doj-investigation-ron-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/william-barr-hunter-biden-doj-investigation-ron-johnson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Hunter Biden’s China business deals leading up to 2018 probe detailed in Senate report"
     excerpt: "Hunter Biden’s past dealings with Chinese nationals – including some flagged for “potential financial criminal activity” – are outlined in a Senate committee report reviewed by Fox News."

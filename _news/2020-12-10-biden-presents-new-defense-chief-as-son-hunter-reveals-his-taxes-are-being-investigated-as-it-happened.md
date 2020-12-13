@@ -25,22 +25,6 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Biden facing pressure to pick Congresswoman Deb Haaland as Interior Secretary"
-    excerpt: "Tribal leaders, progressives and prominent women have called for Biden to pick Haaland as his interior secretary."
-    publishedDateTime: 2020-12-11T01:10:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 122
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/b2eecec4-b9a3-4c93-86db-a3f95fb27228/thumbnail/1200x630/90609bf67298dd0107ed148f9f4142a1/gettyimages-1044568894.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "GOP Sen. Cotton: Biden Will Fire Prosecutors Investigating Son 'If' He Becomes President"
     excerpt: "\"Should Joe Biden become president, all of the prosecutors investigating Hunter Biden will be fired. There's a clear conflict of interest here– one that demands a special counsel,\" the Arkansas senator tweeted Thursday."
     publishedDateTime: 2020-12-10T20:35:00Z
@@ -57,33 +41,36 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden selects Marcia L. Fudge as HUD secretary and Tom Vilsack to lead Agriculture department"
-    excerpt: "The Fudge decision, along with the naming of a Black Defense secretary-designate, occurred as Biden was pressured by organizations seeking diversity in his Cabinet."
-    publishedDateTime: 2020-12-09T00:56:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
+  - title: "'Need a miracle': Permanent resident facing deportation hoping he can last until Biden administration"
+    excerpt: "Kelvin Silva faces deportation from ICE, even though he's been a legal permanent resident of the United States since the 1980s."
+    publishedDateTime: 2020-12-11T11:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
+      name: ABC
+      domain: abcnews.go.com
+    quality: 110
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PR5O33RZWUI6XGGEEXOJ6SMH5A.jpg&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://s.abcnews.com/images/Politics/kelvin-silva-ice-01-ht-llr-201209_1607557670725_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Biden's trade nominee has family roots in both Taiwan and China"
-    excerpt: "Katherine Tai, nominated to become President-elect Joe Biden's top trade negotiator, has family roots in both China and Taiwan, she told reporters on Friday, answering questions bubbling in Asia since her nomination first surfaced earlier this week."
-    publishedDateTime: 2020-12-12T00:08:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-tai-idUSL1N2IR2OY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IR2OY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IR2OY"
+  - title: "Biden's COVID-19 advisory board prepares for transition amid pandemic"
+    excerpt: "President-elect Joe Biden and his transition team will be taking responsibility for the nation's coronavirus response and the rollout of vaccines in the midst of an unprecedented health crisis. Dr. Celine Gounder,"
+    publishedDateTime: 2020-12-11T19:55:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-covid-19-advisory-board-transition-amid-pandemic/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/11/e85bb149-95e7-4131-aabe-a8becbf9ef46/thumbnail/1200x630/8bd37a9a1b6735d713a5268207d8403b/cbsn-fusion-president-elect-biden-thumbnail-606376-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Bl7ygkhoTtja/ZCReXb2st6lG4g9ejSR9gMhBwUeVd5DR8FK8+gKL859gHAOoLd9/md5WzmyAI7x2rq2hUCcNPNm7Nb/0Y/ZF83dnwwYCKt6awwEDxeL2O7yJmOt2caUh+jLCvqxjHcbqB1FioPFsQhol2M0QGs7hWhaLdce15p5GoD+XiSrW/rc2F3JbynueQlbBQUUPO9yoQyMjNpNeTdm/ZOUmPQ6QFiwpoxEqpYIuXHPI0OGuqN4C04ceckWNYEHO0PMFfMgFC6qf3qckeq649FkNMmXKHtqULc5mZMsGMoLvZnqeVnnn9Hh02wf/7QzlYfH6fyXIxy3OiUrnWnYKAPy5DT8oaTCTTH+kUQyb0hR+zBcMo9Ffm/M2ezkBQEW+uLgy9F8c72gv/YfZMhgu+iHBKcucaIFHBbehP+emzw6uC+MQgovRU2XQkVzpvo+fx4IeftVHE9IRPqV3B+p/5DGbTdi6JXfxrNTMbwFlcRFZ/jKC5lKa3N+Zui8o09tJzQt/5DPozOeY8uDXw==;vqWEInAYU8xF1a6W0K2Cfg=="
 ---

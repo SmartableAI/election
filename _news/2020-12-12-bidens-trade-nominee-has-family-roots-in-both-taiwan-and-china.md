@@ -25,65 +25,38 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Biden facing pressure to pick Congresswoman Deb Haaland as Interior Secretary"
-    excerpt: "Tribal leaders, progressives and prominent women have called for Biden to pick Haaland as his interior secretary."
-    publishedDateTime: 2020-12-11T01:10:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/"
+  - title: "Biden has reportedly chosen Capitol Hill staffer Katherine Tai as his US trade representative"
+    excerpt: "If she is picked, the House Ways and Means chief trade lawyer would be the first woman of color to hold the position."
+    publishedDateTime: 2020-12-10T12:22:00Z
+    webUrl: "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fb2e9ad1c741f0019aca1d1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden to tap Katherine Tai for U.S. trade representative and Denis McDonough to head veterans affairs"
+    excerpt: "Tai would be the first Asian American woman to be USTR. McDonough was President Obama's White House chief of staff."
+    publishedDateTime: 2020-12-10T15:52:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 122
+    quality: 110
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/b2eecec4-b9a3-4c93-86db-a3f95fb27228/thumbnail/1200x630/90609bf67298dd0107ed148f9f4142a1/gettyimages-1044568894.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/10/5dfa7453-737b-4d9a-9b23-b0401be1d262/thumbnail/1200x630/ad20fd9161a0dce85803688f7f56049e/screen-shot-2020-12-10-at-10-47-18-am.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "GOP Sen. Cotton: Biden Will Fire Prosecutors Investigating Son 'If' He Becomes President"
-    excerpt: "\"Should Joe Biden become president, all of the prosecutors investigating Hunter Biden will be fired. There's a clear conflict of interest here– one that demands a special counsel,\" the Arkansas senator tweeted Thursday."
-    publishedDateTime: 2020-12-10T20:35:00Z
-    webUrl: "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940"
-    ampWebUrl: "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
-    images:
-      - url: "https://d.newsweek.com/en/full/1683898/mnuchin-powell-testify-cares-act.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden selects Marcia L. Fudge as HUD secretary and Tom Vilsack to lead Agriculture department"
-    excerpt: "The Fudge decision, along with the naming of a Black Defense secretary-designate, occurred as Biden was pressured by organizations seeking diversity in his Cabinet."
-    publishedDateTime: 2020-12-09T00:56:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PR5O33RZWUI6XGGEEXOJ6SMH5A.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Biden presents new defense chief as son Hunter reveals his taxes are being investigated – as it happened"
-    excerpt: "President-elect introduces Lloyd Austin to lead US defense as news that Hunter Biden’s tax affairs are under review surfaces"
-    publishedDateTime: 2020-12-10T01:11:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd16d6d8f0892e7c1ad2d5c"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 88
 
 secured: "ui5Vawni4GtceNLjor3SWW3TdrsCgorgcW4UJB35N6RVzhQxRi26XJp64Vf5XZoDye7rwsQWaPisc/J0HLk4Kpdkv+UetX6rZu4K2LupgOM5PlxBzNkJzq4dy6YF0lszBPjLOr0WoRlnvpX7H829I3+QrS9dH+lN3z+Bv3gv0cPdkU5Ah2v03sMeooCcOhFMpLVxrLKp2T8EZ61l+no+4uAcbPd/19mrzZeoBFsKuFZag/83K4jkwenAmot0uLRC7ST70aC5LLGrXSdFu6wY6FqNIgDg4LD4oyUPkzEqPrN6lTZNt+g6CTJigf8qE+/BJ4dUimn9bQiha4esuIrGRJ2OyEqCYuS9UIQYaatWwwU=;UplUcLy4BCP82BVhOHSfPw=="
 ---

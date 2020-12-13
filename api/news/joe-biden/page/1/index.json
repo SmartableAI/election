@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-14-meet-some-of-the-supporters-who-helped-deliver-the-election-to-joe-biden-and-kamala-harris.md",
+      "title": "Meet Some of the Supporters Who Helped Deliver the Election to Joe Biden and Kamala Harris",
+      "excerpt": "Elect Kamala Harris were named TIME’s 2020 person of the year on December 10, after winning the White House with a record-breaking 81 million votes. A diverse coalition of supporters in key states, like Wisconsin,",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/5920880/voters-joe-biden-kamala-harris/",
+      "originalUrl": "https://time.com/5920880/voters-joe-biden-kamala-harris/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 515,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2020/12/time-person-of-the-year-voters-2020-2.jpg?quality&#x3D;85",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-13T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-alexander-it-looks-very-much-like-the-electors-will-vote-for-joe-biden.md",
       "title": "Alexander: 'It looks very much like the electors will vote for Joe Biden'",
       "excerpt": "Sen. Lamar Alexander (R-Tenn.) tells Chuck Todd that there shouldn't be any doubt about who won the 2020 presidential election after the Electoral College votes on Monday.",
@@ -381,58 +434,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-12-bidens-covid-19-advisory-board-prepares-for-transition-amid-pandemic.md",
-      "title": "Biden's COVID-19 advisory board prepares for transition amid pandemic",
-      "excerpt": "President-elect Joe Biden and his transition team will be taking responsibility for the nation's coronavirus response and the rollout of vaccines in the midst of an unprecedented health crisis. Dr. Celine Gounder,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/joe-biden-covid-19-advisory-board-transition-amid-pandemic/",
-      "originalUrl": "https://www.cbsnews.com/video/joe-biden-covid-19-advisory-board-transition-amid-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/11/e85bb149-95e7-4131-aabe-a8becbf9ef46/thumbnail/1200x630/8bd37a9a1b6735d713a5268207d8403b/cbsn-fusion-president-elect-biden-thumbnail-606376-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T11:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-12-11-bidens-economic-plan-is-bold-is-it-possible.md",
       "title": "Biden's economic plan is bold. Is it possible?",
       "excerpt": "Elect Joe Biden has sketched out a bold economic agenda, but his ability to enact it could be determined by the upcoming races for control of the Senate.",
@@ -548,58 +549,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-11-need-a-miracle-permanent-resident-facing-deportation-hoping-he-can-last-until-biden-administration.md",
-      "title": "'Need a miracle': Permanent resident facing deportation hoping he can last until Biden administration",
-      "excerpt": "Kelvin Silva faces deportation from ICE, even though he's been a legal permanent resident of the United States since the 1980s.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993",
-      "originalUrl": "https://abcnews.go.com/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/kelvin-silva-ice-01-ht-llr-201209_1607557670725_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993",
-      "publishedDateTime": "2020-12-11T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-12-11-in-leaked-audio-joe-biden-says-defund-the-police-was-used-to-beat-the-living-hell-out-of-democrats.md",
       "title": "In leaked audio, Joe Biden says 'defund the police' was used to 'beat the living hell' out of Democrats",
       "excerpt": "WASHINGTON — President-elect Joe Biden told civil rights leaders in a meeting on Tuesday he thought Republicans used the \"defund the police\" movement to defeat Democrats in down",
@@ -652,21 +601,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-11-biden-facing-pressure-to-pick-congresswoman-deb-haaland-as-interior-secretary.md",
-      "title": "Biden facing pressure to pick Congresswoman Deb Haaland as Interior Secretary",
-      "excerpt": "Tribal leaders, progressives and prominent women have called for Biden to pick Haaland as his interior secretary.",
+      "path": "_news/2020-12-11-gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president.md",
+      "title": "GOP Sen. Cotton: Biden Will Fire Prosecutors Investigating Son 'If' He Becomes President",
+      "excerpt": "\"Should Joe Biden become president, all of the prosecutors investigating Hunter Biden will be fired. There's a clear conflict of interest here– one that demands a special counsel,\" the Arkansas senator tweeted Thursday.",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "originalUrl": "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/",
+      "webUrl": "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940",
+      "originalUrl": "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940",
       "featuredContent": null,
       "highlight": null,
-      "heat": 202,
+      "heat": 176,
       "tags": null,
       "images": [
         {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/b2eecec4-b9a3-4c93-86db-a3f95fb27228/thumbnail/1200x630/90609bf67298dd0107ed148f9f4142a1/gettyimages-1044568894.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://d.newsweek.com/en/full/1683898/mnuchin-powell-testify-cares-act.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -674,16 +623,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "publishedDateTime": "2020-12-10T17:10:00-08:00",
+      "ampWebUrl": "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940?amp=1",
+      "publishedDateTime": "2020-12-10T12:35:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -878,7 +827,7 @@
       "originalUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1031,49 +980,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-09-ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief.md",
-      "title": "AP sources: Biden picks Rep. Marcia Fudge as housing chief",
-      "excerpt": "WASHINGTON (AP) — President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary, according to three people familiar with the decision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12",
-      "originalUrl": "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12?amp",
-      "publishedDateTime": "2020-12-08T18:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-12-09-biden-picks-marcia-fudge-for-hud-and-tom-vilsack-for-agriculture-secretary.md",
       "title": "Biden Picks Marcia Fudge for HUD and Tom Vilsack for Agriculture Secretary",
       "excerpt": "Ms. Fudge, a House member from Ohio, would be the second African-American Biden cabinet member chosen in two days. Mr. Vilsack would reprise his role from the Obama administration.",
@@ -1128,6 +1034,58 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-biden-selects-marcia-l-fudge-as-hud-secretary-and-tom-vilsack-to-lead-agriculture-department.md",
+      "title": "Biden selects Marcia L. Fudge as HUD secretary and Tom Vilsack to lead Agriculture department",
+      "excerpt": "The Fudge decision, along with the naming of a Black Defense secretary-designate, occurred as Biden was pressured by organizations seeking diversity in his Cabinet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PR5O33RZWUI6XGGEEXOJ6SMH5A.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-08T16:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1196,7 +1154,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/politics-presidential-transition-news-joe-biden-donald-trump/6484311002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3330,
+      "heat": 3410,
       "tags": null,
       "images": [
         {
@@ -1237,58 +1195,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-biden-picks-retired-us-army-gen-lloyd-austin-to-head-the-pentagon-if-confirmed-hed-be-the-first-black-man-to-lead-the-defense-department.md",
-      "title": "Biden picks retired US Army Gen. Lloyd Austin to head the Pentagon. If confirmed, he'd be the first Black man to lead the Defense Department.",
-      "excerpt": "Retired US Army Gen. Lloyd Austin would be America's first Black defense secretary, if confirmed by Congress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12",
-      "originalUrl": "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc16dcb50e71a0011557c1f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12?amp",
-      "publishedDateTime": "2020-12-08T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Joe Biden"
       ]
     },
@@ -1601,6 +1507,115 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-06-jill-biden-will-back-debt-free-community-college-as-student-debt-nears-17-trillion-report.md",
+      "title": "Jill Biden will back debt-free community college as student debt nears $1.7 trillion: report",
+      "excerpt": "Dr. Jill Biden will advocate for debt-free community college as First Lady, a source close to President-elect Joe Biden's wife told Yahoo News.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady",
+      "originalUrl": "https://www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9f95446-19c6-49f1-9e81-2990fc27ae48/dddd10c9-8149-4b93-8944-9f5121330efb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady.amp",
+      "publishedDateTime": "2020-12-05T18:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-06-joe-bidens-groundhog-day-moment.md",
+      "title": "Joe Biden’s ‘Groundhog Day’ moment",
+      "excerpt": "But Joe Biden is actually living that reality. It’s not simply that Biden was elected president after serving as vice president. It’s that the situation he will face when he enters the White House next month is eerily parallel to the one he faced with Barack Obama when they were elected in 2008.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/",
+      "originalUrl": "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OGOMWBWPUI6XFUZADJRD4J5FU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/?outputType=amp",
+      "publishedDateTime": "2020-12-05T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp"
 type: article
 quality: 114
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden's trade nominee has family roots in both Taiwan and China"
+    excerpt: "Katherine Tai, nominated to become President-elect Joe Biden's top trade negotiator, has family roots in both China and Taiwan, she told reporters on Friday, answering questions bubbling in Asia since her nomination first surfaced earlier this week."
+    publishedDateTime: 2020-12-12T00:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-tai-idUSL1N2IR2OY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IR2OY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IR2OY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
 
 secured: "4VIrf4+7ErZoa6CGccqSltZQLfKRUQf+jzk1JHbsh67FczeUoxwr3EPGz2v90FKSE9276d5TDbf/2EjO+1bZ5r6yaDmzp7+zvrIiSVgBM0Qd1LNXEVd7moSeMMrwEv72TYzo7L0LYkVcbC/bB1uQAanntkix/K/IFd+pJoBTGUT0pyR/s+6pXYoPS4l0cLTNwnpnql+TGxrMxZBDjvKylm5QYOCMYgHAFHXboJMPzrkN+E0nCj89kvFTguq24cUIvVHrCtUOwpFlnseky8+2P2Cl5I9Q/46EEEYdE3a9NiG0NXw/MFHdyoj29pl4GN3oMCTHyDMK/qZ4gLD2l9054bLJEBAo9oA3tlQ+hBsXRaY=;juyGzjxPz47C5nOWrOjb6Q=="
 ---

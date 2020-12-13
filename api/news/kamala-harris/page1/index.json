@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-14-meet-some-of-the-supporters-who-helped-deliver-the-election-to-joe-biden-and-kamala-harris.md",
+      "title": "Meet Some of the Supporters Who Helped Deliver the Election to Joe Biden and Kamala Harris",
+      "excerpt": "Elect Kamala Harris were named TIME’s 2020 person of the year on December 10, after winning the White House with a record-breaking 81 million votes. A diverse coalition of supporters in key states, like Wisconsin,",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/5920880/voters-joe-biden-kamala-harris/",
+      "originalUrl": "https://time.com/5920880/voters-joe-biden-kamala-harris/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 515,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2020/12/time-person-of-the-year-voters-2020-2.jpg?quality&#x3D;85",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-13T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-kamala-harris-husband-lawyer-doug-emhoff-to-teach-next-semester-at-georgetown.md",
       "title": "Kamala Harris’ husband, lawyer Doug Emhoff, to teach next semester at Georgetown",
       "excerpt": "The incoming second gentleman has landed a new job at the Georgetown University Law Center, school officials announced. Doug Emhoff, husband to Vice President-elect Kamala D. Harris, announced last month he would leave his Los Angeles law firm by Inauguration Day.",
@@ -27,58 +80,6 @@
       "ampWebUrl": "https://www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html?outputType=amp",
       "publishedDateTime": "2020-12-12T23:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-who-will-replace-kamala-d-harris-in-the-senate.md",
-      "title": "Who will replace Kamala D. Harris in the Senate?",
-      "excerpt": "The Post’s Scott Wilson explains how California Gov. Gavin Newsom (D) faces pressure to appoint a Latino or Black woman to Vice President-elect Kamala D. Harris’s senate seat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/politics/who-will-replace-kamala-d-harris-in-the-senate/2020/12/11/4c8bbd38-cb48-4a42-9921-48d05cda087b_video.html",
-      "originalUrl": "https://www.washingtonpost.com/video/politics/who-will-replace-kamala-d-harris-in-the-senate/2020/12/11/4c8bbd38-cb48-4a42-9921-48d05cda087b_video.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-11-2020/t_faa893a6d27949de8be0a214d660c49f_name_8ecf7cc0_3a56_11eb_aad9_8959227280c4_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
-          "width": 1484,
-          "height": 834,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T14:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -502,7 +503,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks",
       "featuredContent": null,
       "highlight": null,
-      "heat": 945,
+      "heat": 685,
       "tags": null,
       "images": [
         {

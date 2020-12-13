@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-12-the-us-sends-egypt-billions-in-aid-fearing-extinction-rights-activists-hope-biden-will-act.md",
+      "title": "The U.S. sends Egypt billions in aid. Fearing 'extinction,' rights activists hope Biden will act.",
+      "excerpt": "Fearing 'extinction,' rights activists hope Biden will act. Rights groups say the scale of oppression under Egyptian President Abdel-Fattah el-Sissi is “unprecedented.” Jess Kelly said she knew her husband,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/u-s-sends-egypt-billions-aid-fearing-extinction-rights-activists-n1250554",
+      "originalUrl": "https://www.nbcnews.com/news/world/u-s-sends-egypt-billions-aid-fearing-extinction-rights-activists-n1250554",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_49/3432074/201201-egypt-el-sissi-mc-9182_ded51f2664c788e3890578a34275e2e0.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250554",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250554",
+      "publishedDateTime": "2020-12-12T01:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-12-rep-jim-jordan-voters-not-knowing-about-hunter-biden-probe-before-election-is-just-wrong.md",
       "title": "Rep. Jim Jordan: Voters not knowing about Hunter Biden probe before election 'is just wrong'",
       "excerpt": "The media and the American people should have known about the federal investigation into President-elect Joe Biden's son Hunter prior to last month's presidential election, Rep. Jim Jordan, R-Ohio, said on Friday.",
@@ -14,7 +71,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 679,
+      "heat": 699,
       "tags": null,
       "images": [
         {
@@ -118,7 +175,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-trump/u-s-supreme-court-ends-texas-lawsuit-seeking-to-undo-trump-election-loss-idUSKBN28L2YY",
       "featuredContent": null,
       "highlight": null,
-      "heat": 959,
+      "heat": 1019,
       "tags": null,
       "images": [
         {
@@ -271,58 +328,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-who-will-replace-kamala-d-harris-in-the-senate.md",
-      "title": "Who will replace Kamala D. Harris in the Senate?",
-      "excerpt": "The Post’s Scott Wilson explains how California Gov. Gavin Newsom (D) faces pressure to appoint a Latino or Black woman to Vice President-elect Kamala D. Harris’s senate seat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/politics/who-will-replace-kamala-d-harris-in-the-senate/2020/12/11/4c8bbd38-cb48-4a42-9921-48d05cda087b_video.html",
-      "originalUrl": "https://www.washingtonpost.com/video/politics/who-will-replace-kamala-d-harris-in-the-senate/2020/12/11/4c8bbd38-cb48-4a42-9921-48d05cda087b_video.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-11-2020/t_faa893a6d27949de8be0a214d660c49f_name_8ecf7cc0_3a56_11eb_aad9_8959227280c4_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
-          "width": 1484,
-          "height": 834,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T14:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {
@@ -584,58 +589,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-bidens-covid-19-advisory-board-prepares-for-transition-amid-pandemic.md",
-      "title": "Biden's COVID-19 advisory board prepares for transition amid pandemic",
-      "excerpt": "President-elect Joe Biden and his transition team will be taking responsibility for the nation's coronavirus response and the rollout of vaccines in the midst of an unprecedented health crisis. Dr. Celine Gounder,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/joe-biden-covid-19-advisory-board-transition-amid-pandemic/",
-      "originalUrl": "https://www.cbsnews.com/video/joe-biden-covid-19-advisory-board-transition-amid-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/11/e85bb149-95e7-4131-aabe-a8becbf9ef46/thumbnail/1200x630/8bd37a9a1b6735d713a5268207d8403b/cbsn-fusion-president-elect-biden-thumbnail-606376-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T11:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1079,58 +1032,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-11-need-a-miracle-permanent-resident-facing-deportation-hoping-he-can-last-until-biden-administration.md",
-      "title": "'Need a miracle': Permanent resident facing deportation hoping he can last until Biden administration",
-      "excerpt": "Kelvin Silva faces deportation from ICE, even though he's been a legal permanent resident of the United States since the 1980s.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993",
-      "originalUrl": "https://abcnews.go.com/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/kelvin-silva-ice-01-ht-llr-201209_1607557670725_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993",
-      "publishedDateTime": "2020-12-11T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-12-11-whitmer-says-michigan-gop-went-too-far-against-anti-trump-state-democrat.md",
       "title": "Whitmer says Michigan GOP went ‘too far’ against anti-Trump state Democrat",
       "excerpt": "Michigan state Republicans went “too far” in saying they would pull committee assignments from a state Democrat who threatened Trump supporters in a viral video, the state’s Democratic governor said Thursday.",
@@ -1324,6 +1225,114 @@
       "ampWebUrl": "https://www.foxnews.com/politics/ari-fleischer-on-coverage-of-hunter-biden-mainstream-media-committed-dereliction-of-duty.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-on-coverage-of-hunter-biden-mainstream-media-committed-dereliction-of-duty.amp",
       "publishedDateTime": "2020-12-10T17:49:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-in-leaked-audio-joe-biden-says-defund-the-police-was-used-to-beat-the-living-hell-out-of-democrats.md",
+      "title": "In leaked audio, Joe Biden says 'defund the police' was used to 'beat the living hell' out of Democrats",
+      "excerpt": "WASHINGTON — President-elect Joe Biden told civil rights leaders in a meeting on Tuesday he thought Republicans used the \"defund the police\" movement to defeat Democrats in down",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/10/biden-said-gop-used-defund-police-against-dems-leaked-audio/3887911001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/10/biden-said-gop-used-defund-police-against-dems-leaked-audio/3887911001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/04/USAT/9fac5866-b3ae-48b6-a692-862b958b0386-AP20339752338738.jpg?auto=webp&crop=5626,3165,x0,y318&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3887911001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3887911001",
+      "publishedDateTime": "2020-12-10T17:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-bidens-pick-of-denis-mcdonough-for-va-sparks-pushback-from-veterans.md",
+      "title": "Biden's pick of Denis McDonough for VA sparks pushback from veterans",
+      "excerpt": "The aftermath of President-elect Joe Biden’s pick for secretary of Veteran Affairs has been met with responses of “surprise” after long-time Obama aide Denis McDonough was selected to be only the second non-veteran to take up the seat Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/z3HmA0pdwew/bidens-pick-of-denis-mcdonough-for-va-sparks-pushback-from-veterans",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/z3HmA0pdwew/bidens-pick-of-denis-mcdonough-for-va-sparks-pushback-from-veterans",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1efac8d6-a787-4227-8c96-a76d1d21949c/fd5d5a62-54bc-4eec-b531-54f448004801/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-pick-of-denis-mcdonough-for-va-sparks-pushback-from-veterans.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-pick-of-denis-mcdonough-for-va-sparks-pushback-from-veterans.amp",
+      "publishedDateTime": "2020-12-10T15:52:44-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

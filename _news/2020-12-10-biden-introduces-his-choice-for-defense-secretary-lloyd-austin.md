@@ -237,38 +237,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "A Maryland immigrant hoped to delay his deportation until Biden took office. It didn’t work."
-    excerpt: "The arrest of a man who had been in the United States for 20 years has drawn anger from those who hope that the end of the Trump administration will keep ICE from acting unilaterally in sanctuary jurisdictions."
-    publishedDateTime: 2020-12-07T16:22:00Z
-    webUrl: "https://www.washingtonpost.com/local/public-safety/maryland-immigrant-deported/2020/12/07/0678c202-30d1-11eb-96c2-aac3f162215d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/public-safety/maryland-immigrant-deported/2020/12/07/0678c202-30d1-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/maryland-immigrant-deported/2020/12/07/0678c202-30d1-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KZGOKWBUCII6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 1004
-        isCached: true
-  - title: "President-elect Joe Biden's son Hunter says he is under federal investigation for 'tax affairs'"
-    excerpt: "WASHINGTON -- President-elect Joe Biden's son Hunter says he is under federal investigation for 'tax affairs.' Facebook hit with antitrust lawsuit from FTC and 48 state attorneys general 24/7 coverage"
-    publishedDateTime: 2020-12-09T22:07:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/president-elect-joe-bidens-son-hunter-federal-investigation-74633213"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/president-elect-joe-bidens-son-hunter-federal-investigation-74633213"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/president-elect-joe-bidens-son-hunter-federal-investigation-74633213"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 113
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "Biden pushes Congress to provide relief for out-of-work Americans"
     excerpt: "With nearly 11 million people unemployed and more than 400,000 COVID-19 deaths projected by the time he takes office, President-elect Joe Biden said Congress must provide relief for Americans set to lose federal aid in a matter of weeks."
     publishedDateTime: 2020-12-05T00:00:00Z

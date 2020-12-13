@@ -521,6 +521,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Georgia high court rejects latest Trump election appeal"
+    excerpt: "President Donald Trump has lost his latest legal challenge seeking to overturn Georgia's election results, with the state Supreme Court's rejection late Saturday of a case from Trump's campaign and Georgia Republican Party Chairman David Shafer."
+    publishedDateTime: 2020-12-13T17:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-high-court-rejects-latest-trump-election-appeal-74702272"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-high-court-rejects-latest-trump-election-appeal-74702272"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-high-court-rejects-latest-trump-election-appeal-74702272"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1bf3d79f08a34b4f9764bfee413a7082_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Armed pro-Trump protesters gather outside Michigan elections chief's home"
     excerpt: "Jocelyn Benson says gathering in which bogus claims were made about electoral fraud was ‘unambiguous, loud and threatening’"
     publishedDateTime: 2020-12-07T14:45:00Z
@@ -937,6 +953,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Georgia high court rejects latest Trump legal challenge seeking to overturn election results"
+    excerpt: "President Donald Trump has lost his latest legal challenge seeking to overturn Georgia’s election results, with the state Supreme Court’s rejection late Saturday of a case from Trump’s campaign and Georgia Republican Party Chairman David Shafer."
+    publishedDateTime: 2020-12-13T18:56:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-georgia-election-results-20201213-jotx3g3wobfwdhhwbrqk6cg3bi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-georgia-election-results-20201213-jotx3g3wobfwdhhwbrqk6cg3bi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-georgia-election-results-20201213-jotx3g3wobfwdhhwbrqk6cg3bi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 129
+    images:
+      - url: "https://www.chicagotribune.com/resizer/v2a4F4r8Kn-877PweE_kaJ3w0ro=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/63IR3GSVI3W6OPFMKPQ2MF6BKE.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "President Trump seeks to join Supreme Court lawsuit challenging election results in 4 key states"
     excerpt: "The president did not present evidence of fraud. To back up his request, he cited partisan polls purporting to show Americans distrust the election."
     publishedDateTime: 2020-12-09T22:15:00Z
@@ -1337,6 +1369,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump raises China concerns as reason to veto defense bill"
+    excerpt: "President Donald Trump once again says he'll veto the annual defense policy bill that covers the military's budget and pay raises for service members, but this time he's citing unspecified concerns ab"
+    publishedDateTime: 2020-12-13T18:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_bbc3c4a1ff934f42af69979375eb3cc9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Chinese firms on U.S. exchanges threatened by bill headed to Trump's desk"
     excerpt: "The U.S. House of Representatives passed a law to kick Chinese companies off U.S. stock exchanges if they do not fully comply with the country's auditing rules, giving President Donald Trump one more tool to threaten Beijing with before leaving office."
     publishedDateTime: 2020-12-03T00:45:00Z
@@ -1431,6 +1479,22 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201210&t=2&i=1544057147&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB90AK"
         width: 806
+        height: 545
+        isCached: true
+  - title: "Trump revives threat to veto defense bill, teeing up battle with lawmakers"
+    excerpt: "U.S. President Donald Trump on Sunday repeated his threat to veto a massive defense spending bill, setting the stage for a major battle with U.S. lawmakers at a time when they are racing to hammer out a compromise on more coronavirus relief."
+    publishedDateTime: 2020-12-13T18:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-defense-trump/trump-revives-threat-to-veto-defense-bill-teeing-up-battle-with-lawmakers-idUSKBN28N0O5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28N0O5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28N0O5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201213&t=2&i=1544418959&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBC0EN"
+        width: 817
         height: 545
         isCached: true
   - title: "How much protection can Trump offer his family with his pardon power? A lot."

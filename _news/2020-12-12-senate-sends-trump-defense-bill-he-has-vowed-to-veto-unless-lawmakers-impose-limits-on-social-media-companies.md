@@ -367,6 +367,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump administration pushing delay in nursing home vaccinations"
+    excerpt: "HHS explicitly instructs providers that the \"earliest the program can turn on is Dec 21st\" for the Pfizer vaccine, according to Operation Warp Speed documents obtained by CBS News."
+    publishedDateTime: 2020-12-13T18:43:00Z
+    webUrl: "https://www.cbsnews.com/news/nursing-home-vaccinations-trump-administration-delay/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/nursing-home-vaccinations-trump-administration-delay/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/nursing-home-vaccinations-trump-administration-delay/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/01/66e738a1-0723-4f2c-946f-684ca4f443b9/thumbnail/1200x630/25f8279b568b0894653c9657e3ad7ae8/cbsn-fusion-modernas-covid-19-vaccine-looks-promising-for-elderly-thumbnail-558046-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump appoints flurry of allies as presidency winds down"
+    excerpt: "As he prepares to exit the White House, President Donald Trump is rewarding some supporters and like-minded allies with the perks and prestige that come with serving on federal advisory boards and com"
+    publishedDateTime: 2020-12-13T17:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-appoints-flurry-of-allies-as-presidency-winds-down/2020/12/13/909ef534-3d40-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-appoints-flurry-of-allies-as-presidency-winds-down/2020/12/13/909ef534-3d40-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-appoints-flurry-of-allies-as-presidency-winds-down/2020/12/13/909ef534-3d40-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Donald Trump Jr.'s Hunting Trip Expected to Start As Rumors Swirl in Alaska"
     excerpt: "In February, a week-long $150,000 \"dream hunt\" was raffled off with the winner joining Trump Jr. and his son on a yacht traveling along the Tongass National Forest coastline in southeastern Alaska."
     publishedDateTime: 2020-12-10T16:49:00Z
@@ -383,6 +415,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Man arrested in Olympia, Wash., after pro-Trump demonstrations turn violent"
+    excerpt: "Police in Washington state have arrested an armed right-wing protester on charges of first-degree assault Saturday in Olympia, the state capital, on suspicion of shooting a left-wing protester during demonstrations fueled by baseless claims that President Trump had been wrongly denied reelection."
+    publishedDateTime: 2020-12-13T18:55:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/13/man-arrested-olympia-wash-after-pro-trump-demonstrations-turn-violent/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/13/man-arrested-olympia-wash-after-pro-trump-demonstrations-turn-violent/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/13/man-arrested-olympia-wash-after-pro-trump-demonstrations-turn-violent/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PT57HRR5BQI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 963
+        isCached: true
   - title: "Trump finalizes sweeping asylum restrictions in last-minute immigration push"
     excerpt: "The Trump administration finalized a regulation on Thursday that greatly restricts access to asylum in the United States, part of a last-minute immigration crackdown that incoming President-elect Joe Biden will likely try to reverse."
     publishedDateTime: 2020-12-10T21:19:00Z
@@ -398,6 +446,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201210&t=2&i=1544124113&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB91D8"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump-appointed judge dismisses 'extraordinary' lawsuit seeking to overturn Wisconsin election in US court"
+    excerpt: "\"A sitting president who did not prevail in his bid for reelection has asked for federal court help in setting aside the popular vote,\" Ludwig wrote."
+    publishedDateTime: 2020-12-13T17:36:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/13/trump-appointee-brett-ludwig-tosses-wisconsin-election-lawsuit/6530303002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6530303002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6530303002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/10/PMJS/ee1680b4-5450-40a4-afa7-1023a5c58f66-Brett_Ludwig.jpg?auto=webp&crop=533,300,x0,y205&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Another Trump veto possible as Congress votes on blocking $23B arms sale to UAE"
     excerpt: "President Donald Trump is nearing one last battle with Congress over his push for massive arms sales to the Middle East -- threatening to veto lawmakers' effort to halt a $23 billion sale to the United Arab Emirates."
@@ -596,17 +660,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump appoints flurry of allies as presidency winds down"
-    excerpt: "His time in the White House rapidly ending, President Donald Trump is rewarding some supporters and like-minded allies with the perks and prestige that come with serving on federal advisory boards and commissions."
-    publishedDateTime: 2020-12-13T16:09:00Z
-    webUrl: "https://www.businessinsider.com/trump-appoints-flurry-of-allies-as-presidency-winds-down-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-appoints-flurry-of-allies-as-presidency-winds-down-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-appoints-flurry-of-allies-as-presidency-winds-down-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "'The moment of truth': The Electoral College prepares to hand Trump the loss he refuses to accept"
     excerpt: "Facing a loss in the Electoral College, Trump's allies have shifted their focus to Jan. 6, when Congress will count the electoral votes."
     publishedDateTime: 2020-12-11T10:15:00Z

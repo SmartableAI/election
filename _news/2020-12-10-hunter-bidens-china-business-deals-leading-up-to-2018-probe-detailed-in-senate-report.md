@@ -255,6 +255,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Sen. Johnson: Voters, Congress should have known about DOJ Hunter Biden investigation"
+    excerpt: "Sen. Ron Johnson, R-Wis., said members of Congress should have been informed that Hunter Biden's \"tax affairs\" were under investigation as they considered whether to vote to impeach President Trump in 2019."
+    publishedDateTime: 2020-12-13T17:06:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qgzkEr6DgMg/william-barr-hunter-biden-doj-investigation-ron-johnson"
+    ampWebUrl: "https://www.foxnews.com/politics/william-barr-hunter-biden-doj-investigation-ron-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/william-barr-hunter-biden-doj-investigation-ron-johnson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "FLASHBACK: President-elect Biden pledged not to interfere with DOJ investigations in 2019"
     excerpt: "“I would not dictate who should be prosecuted or who should be exonerated,\" Biden said during a debate in Nov. 2019."
     publishedDateTime: 2020-12-10T02:54:14Z

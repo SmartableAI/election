@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Gore: Americans still supporting 'lost cause' of Trump's reelection should put country first"
+    excerpt: "Former Vice President Al Gore on Sunday called for Americans who continue to rally behind President Donald Trump's failed reelection bid to prioritize their country.\n    \n"
+    publishedDateTime: 2020-12-13T17:13:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bzDbg2l0zWQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/al-gore-trump-republicans-election-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/al-gore-trump-republicans-election-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201213095817-al-gore-sotu-intv-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "All eyes are on Georgia ahead of Trump's rally and Senate debate"
     excerpt: "The eyes of the political universe will turn to Georgia this weekend, as the voter registration deadline for January's Senate runoffs approaches.\n    \n"
     publishedDateTime: 2020-12-05T16:00:06Z
