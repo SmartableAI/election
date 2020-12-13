@@ -3,8 +3,8 @@ category: news
 title: "Pro-Trump protests decry president's election loss, opposing groups clash in Washington"
 excerpt: "Conservative groups claiming without evidence that the Nov. 3 election was stolen from President Donald Trump staged protests across the country on Saturday, with one in Washington turning violent at times as police broke up sporadic clashes after dark."
 publishedDateTime: 2020-12-13T10:10:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-protests/pro-trump-protests-decry-presidents-election-loss-opposing-groups-clash-in-washington-idUSKBN28M0E5"
-webUrl: "https://www.reuters.com/article/usa-election-protests/pro-trump-protests-decry-presidents-election-loss-opposing-groups-clash-in-washington-idUSKBN28M0E5"
+originalUrl: "https://www.reuters.com/article/us-usa-election-protests-idUSKBN28M0E5"
+webUrl: "https://www.reuters.com/article/us-usa-election-protests-idUSKBN28M0E5"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28M0E5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0E5"
 type: article
@@ -582,6 +582,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Right wing and anti-Trump protesters clash in D.C."
+    excerpt: "Trump protesters clash in D.C. Posted . Conservative groups claiming without evidence that the Nov. 3 election was stolen from President Donald Trump sta"
+    publishedDateTime: 2020-12-13T12:44:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD8UI5WR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201213&i=OVD8UI5WR&r=OVD8UI5WR&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "'The moment of truth': The Electoral College prepares to hand Trump the loss he refuses to accept"
     excerpt: "Facing a loss in the Electoral College, Trump's allies have shifted their focus to Jan. 6, when Congress will count the electoral votes."
     publishedDateTime: 2020-12-11T10:15:00Z
@@ -628,6 +642,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "wEMBJhoqC5GljLVCZqkGS3e/HsyLTVA4GRy/w/fikn8tD5GaULpUv5Ip8T5vQGTthzzCWvKTLoiKGAO5l5qPJIi2/UipGqGLuTwPUXRE25jOQL8X80aWJAiN60UGTBAxVxNCSjDSWz0OYRbXOijeZOAmrCaGvLnbhwt09kUn2kB+iRaiR4Mj+sYzVDjE0t0haXpTCfTh5Uzi33tVeTxtZ5JCc4/C95IbXw5TQCRH8xBpi/vDODl+xMCFrv2BTrWdb3WwaHgEAabnfSfuG5yTsWRLKIp/pxDIXaU8jAaT4OOcHsLoNre51jQhDilRWwgBQMKYOyKckZGCreaoqo5q+jsS1cqwYs/8rvs/UcKTMow=;TXNACIPHSVKhA6jXtfa8Yw=="
+secured: "LuDOfsJbEVK2GwCdXeV4uOHDxpmVa1QyE2d2ZXnNBthYtdfbdTC84v7ZExHKZ+2Ul76PF5209btIACaQTJzZN9AwaEguZQ66pdrva+VqBSzT+WZ7CXTPbfmR91Ga+KujFxI0/ud+34QMKTFay2wLqpuP+Zormr+FQ3G6WBpawCH6CgC5zoDOxE6GFKb6zvgkf7H/UjpMZ9detTrrz1xUKhdTT2IzTxGmVjc/LmFcchKuf8fSSGwor8MzkmPo64ggFTghOC/enHhCca+UUpp2scWeMAr2AYRtF+su/17fqibrdLejBDLWFRl927tYK4VEfPwWggq94/97rsgLHIypFrTPTqhbCLswXK/PhZjr2oU=;ce9SSe3uPQ1qzzxV1kZ8iQ=="
 ---
 

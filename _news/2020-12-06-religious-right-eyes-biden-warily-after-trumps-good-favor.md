@@ -1312,6 +1312,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris on Joe Biden, Being a 'First' and Restoring the Soul of the Nation: The 2020 TIME Person of the Year Interview"
+    excerpt: "Kamala Harris is the first Vice President-elect to be named TIME’s Person of the Year. TIME senior correspondent Charlotte Alter sat down with the California senator in Wilmington, Del., on Dec. 7—which happened to be Harris’s mother’s birthday."
+    publishedDateTime: 2020-12-12T22:44:00Z
+    webUrl: "https://time.com/5919490/kamala-harris-person-of-the-year-interview/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 93
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2019/12/time-person-of-the-year-kamala-harris-portrait.jpg"
+        width: 2056
+        height: 2400
+        isCached: true
   - title: "Twitter Reacts To Joe Biden, Kamala Harris Beating Out Donald Trump As Time's Person Of The Year"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris were chosen as Time's 2020 Person of the Year from a shortlist that included President Donald Trump, Dr. Anthony Fauci, frontline COVID-19 workers and racial justice movements."
     publishedDateTime: 2020-12-11T10:50:00Z

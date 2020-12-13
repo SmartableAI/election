@@ -50,7 +50,7 @@ related:
   - title: "Pro-Trump protests decry president's election loss, opposing groups clash in Washington"
     excerpt: "Conservative groups claiming without evidence that the Nov. 3 election was stolen from President Donald Trump staged protests across the country on Saturday, with one in Washington turning violent at times as police broke up sporadic clashes after dark."
     publishedDateTime: 2020-12-13T10:10:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-protests/pro-trump-protests-decry-presidents-election-loss-opposing-groups-clash-in-washington-idUSKBN28M0E5"
+    webUrl: "https://www.reuters.com/article/us-usa-election-protests-idUSKBN28M0E5"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28M0E5"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0E5"
     type: article
@@ -581,6 +581,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_00027490a6194fabb0dcac8f9dfdaf92_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Right wing and anti-Trump protesters clash in D.C."
+    excerpt: "Trump protesters clash in D.C. Posted . Conservative groups claiming without evidence that the Nov. 3 election was stolen from President Donald Trump sta"
+    publishedDateTime: 2020-12-13T12:44:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD8UI5WR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201213&i=OVD8UI5WR&r=OVD8UI5WR&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "'The moment of truth': The Electoral College prepares to hand Trump the loss he refuses to accept"
     excerpt: "Facing a loss in the Electoral College, Trump's allies have shifted their focus to Jan. 6, when Congress will count the electoral votes."

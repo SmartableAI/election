@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-13-trumps-legal-attempt-to-throw-out-votes-in-wisconsins-most-diverse-counties-smacks-of-racism-judge-says.md",
+      "title": "Trump's legal attempt to throw out votes in Wisconsin's most diverse counties 'smacks of racism,' judge says",
+      "excerpt": "Most Black Wisconsinites live in or around the two counties, Milwaukee and Dane, where the Trump legal team sort to throw out 221,000 absentee ballot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12",
+      "originalUrl": "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fd606459cf1420018d2f0ed?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12?amp",
+      "publishedDateTime": "2020-12-13T06:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-attorney-general-william-barr-is-reportedly-brushing-off-trumps-attacks-over-hunter-biden-investigation-as-a-deposed-king-ranting.md",
       "title": "Attorney General William Barr is reportedly brushing off Trump's attacks over Hunter Biden investigation as a 'deposed king ranting'",
       "excerpt": "Attorney General William Barr is \"not intimidated\" by President Trump's threats to fire him, a source told CNN.",
@@ -318,7 +370,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-trump/u-s-supreme-court-ends-texas-lawsuit-seeking-to-undo-trump-election-loss-idUSKBN28L2YY",
       "featuredContent": null,
       "highlight": null,
-      "heat": 919,
+      "heat": 939,
       "tags": null,
       "images": [
         {
@@ -1543,63 +1595,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-trump-won-new-yorks-suffolk-county-why-that-signals-hope-for-democrats.md",
-      "title": "Trump Won New York’s Suffolk County. Why That Signals Hope for Democrats.",
-      "excerpt": "A razor-thin GOP margin in the most populous county carried by President Trump gives Democrats hope that an urban electoral coalition is putting down deeper roots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
-      "originalUrl": "https://www.wsj.com/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-267145/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
-      "publishedDateTime": "2020-12-08T11:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

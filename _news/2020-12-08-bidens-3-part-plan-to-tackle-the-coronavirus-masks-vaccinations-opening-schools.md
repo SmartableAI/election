@@ -31,53 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says coronavirus relief package during lame-duck period likely 'just a start'"
-    excerpt: "Lawmakers have just days to reach an agreement on additional relief before Congress closes for the year."
-    publishedDateTime: 2020-12-01T21:00:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xWROiHsG-WE/biden-covid-19-relief-package-lame-duck-period-likely-just-a-start"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-covid-19-relief-package-lame-duck-period-likely-just-a-start.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-19-relief-package-lame-duck-period-likely-just-a-start.amp"
+  - title: "Trump: Coronavirus vaccine would have taken 'five years' if I wasn't president"
+    excerpt: "President Trump said finding a coronavirus vaccine would have taken \"five years\" if he weren't president during an interview that aired Sunday."
+    publishedDateTime: 2020-12-13T13:35:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nO8omASb0DA/trump-coronavirus-vaccine-pfizer-biontech-timeline"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-vaccine-pfizer-biontech-timeline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-pfizer-biontech-timeline.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65cf5a5c-9728-4133-b323-de669e0545e8/ca5dbb94-67b3-49a7-88a0-2b0d4e389b3b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20335157446144.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Biden urges taking coronavirus vaccine, wearing masks but says they shouldn’t be mandatory"
-    excerpt: "Biden urges taking coronavirus vaccine and wearing masks but says they shouldn’t be mandatory"
-    publishedDateTime: 2020-12-04T22:30:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XjteyxVDXNc/biden-urges-taking-coronavirus-vaccine-and-wearing-masks-but-says-they-shouldnt-be-mandatory"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-urges-taking-coronavirus-vaccine-and-wearing-masks-but-says-they-shouldnt-be-mandatory.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-taking-coronavirus-vaccine-and-wearing-masks-but-says-they-shouldnt-be-mandatory.amp"
+  - title: "Trump to sign coronavirus vaccine executive order prioritizing Americans over foreign nations"
+    excerpt: "EXCLUSIVE: President Trump is expected to sign an executive order Tuesday that will ensure all Americans have access to the coronavirus vaccine before the U.S. government begins aiding nations around the world, Fox News has learned."
+    publishedDateTime: 2020-12-07T18:58:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gY0UJnc0-Sg/trump-executive-order-coronavirus-vaccine-america-first"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-executive-order-coronavirus-vaccine-america-first.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-executive-order-coronavirus-vaccine-america-first.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden warns 'we're likely to lose another 250,000' Americans from coronavirus 'between now and January'"
-    excerpt: "President-elect Biden offered a very grim forecast of an uptick in coronavirus deaths in the United States as winter steadily approaches. "
-    publishedDateTime: 2020-12-03T00:27:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PbcW87gDh-s/biden-warns-were-likely-to-lose-another-250000-americans-from-coronavirus-between-now-and-january"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-warns-were-likely-to-lose-another-250000-americans-from-coronavirus-between-now-and-january.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-warns-were-likely-to-lose-another-250000-americans-from-coronavirus-between-now-and-january.amp"
+  - title: "CDC pushes back against House coronavirus committee accusations of 'political meddling' by Trump campaign"
+    excerpt: "The CDC is pushing back against the House coronavirus crisis subcommittee's accusations of \"political meddling\" by the Trump administration."
+    publishedDateTime: 2020-12-10T21:25:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uNeSJdZNXPc/house-coronavirus-committee-accuses-trump-admin-of-possible-political-meddling"
+    ampWebUrl: "https://www.foxnews.com/politics/house-coronavirus-committee-accuses-trump-admin-of-possible-political-meddling.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-coronavirus-committee-accuses-trump-admin-of-possible-political-meddling.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 158
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c95a5797-6325-4edf-b550-55d6ba05e46a/6ee5f15d-eff6-41fd-8bc5-503dd445ba70/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/640/320/James-Clyburn-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "Jls3yCcVRIYjHls07FE1a3jhUj2+QTjDyx2hnTgiyXMaGI5aGFNKi70SUNdoSUdsCgMSpQT3OxVKivmlEhYvbnS4GG/3P9tnU4nE9TNdhMYU33VY1iBgJlKfq4/fQKaJC1MEYT2ObtSZ0zn9GiGLpajwf/6Q8KiNvXa6rwZ7TT/WLMqb1T2xawuI2EnoVYS/0U3gQ2shymcFPBVNbkKUh8UZtyzUD257GRB3VjawLbxJdjOyJrsGpZIlQ3l3tWe57dtmtjpFIyxWJzzG4kpzjwEnTvioB+c2lqPqDr0+huCLlzxT583gtZLmtG5Zgcuszb3OdYst0tMISik87aILaYe4yeIchKt5Tt/ga5gN+ds=;UAVZYrnNer8pi1oZxcrjEQ=="
