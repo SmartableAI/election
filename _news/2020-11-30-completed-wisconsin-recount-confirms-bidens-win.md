@@ -477,6 +477,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "As leaders set fresh climate goals, Biden pledges US support"
+    excerpt: "U.S. President-elect Joe Biden has pledged to rejoin the Paris climate accord on the first day of his presidency as world leaders staged a virtual gathering to celebrate the fifth anniversary of the i"
+    publishedDateTime: 2020-12-12T22:47:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689716"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689716"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689716"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_cb7149b326f24981be1ddc55e415ca3d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden transition advisers emerge as top contenders to run covid-19 response"
     excerpt: "As President-elect Joe Biden makes fighting the raging coronavirus his most urgent mission when he takes office next month, two figures already playing central roles in his transition are emerging as the most likely officials to preside over the new White House’s pandemic response."
     publishedDateTime: 2020-12-03T01:10:00Z

@@ -3,10 +3,10 @@ category: news
 title: "Joe Biden and Kamala Harris jointly named Time's 'Person of the Year'"
 excerpt: "U.S. President-elect Joe Biden and Vice President-elect Kamala Harris were jointly named Time magazine's 2020 \"Person of the Year\" on Thursday, chosen from a list of finalists that included the man Biden vanquished at the polls - President Donald Trump."
 publishedDateTime: 2020-12-11T18:34:00Z
-originalUrl: "https://www.reuters.com/article/us-time-person/joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSKBN28K33R"
-webUrl: "https://www.reuters.com/article/us-time-person/joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSKBN28K33R"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K33R"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K33R"
+originalUrl: "https://www.reuters.com/article/time-person/update-4-joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSL1N2IQ3C0"
+webUrl: "https://www.reuters.com/article/time-person/update-4-joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSL1N2IQ3C0"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K32U"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K32U"
 type: article
 quality: 140
 heat: -1
@@ -447,6 +447,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin"
+    excerpt: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin."
+    publishedDateTime: 2020-12-12T18:57:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/federal-judge-rejects-trump-campaign-lawsuit-seeking-overturn-74691256"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/federal-judge-rejects-trump-campaign-lawsuit-seeking-overturn-74691256"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/federal-judge-rejects-trump-campaign-lawsuit-seeking-overturn-74691256"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 139
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Trump-Biden transition live updates: Biden rolls out economic team leaders"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 51 days. Georgia Secretary of State Brad Raffensperger spoke before reporters Monday morning at the state capitol building in Atlanta and announced that his office has opened investigations into four third-party groups that he claimed are \"working to register people in other states to vote here in Georgia."
     publishedDateTime: 2020-11-30T17:42:00Z
@@ -796,22 +812,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJHRDARZNII6XETWVYGKOJZJXY.jpg&w=1440"
         width: 1440
         height: 1018
-        isCached: true
-  - title: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin"
-    excerpt: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin."
-    publishedDateTime: 2020-12-12T18:57:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/federal-judge-rejects-trump-campaign-lawsuit-seeking-overturn-74691256"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/federal-judge-rejects-trump-campaign-lawsuit-seeking-overturn-74691256"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/federal-judge-rejects-trump-campaign-lawsuit-seeking-overturn-74691256"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 129
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
         isCached: true
   - title: "Trump’s unfinished border wall faces uncertain future after Biden pledge to freeze construction"
     excerpt: "President-elect Joe Biden has pledged to halt construction once in office, leaving Trump’s signature project in the lurch."
@@ -1708,6 +1708,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "President-elect Joe Biden, Vice President-elect Kamala Harris named Time magazine’s persons of the year"
+    excerpt: "Time’s editor-in-chief Edward Felsenthal says Biden and Harris won for “changing the American story, for showing that the forces of empathy are greater than the furies of division, for sharing a vision of healing in a grieving world."
+    publishedDateTime: 2020-12-13T01:27:00Z
+    webUrl: "https://www.courant.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html"
+    ampWebUrl: "https://www.courant.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 74
+    images:
+      - url: "https://www.courant.com/resizer/BSq3Ak_medhh77iDHliMazeaj9g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PQPYHWKY3V6EVJEUIRLJGAFQKA.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Alert: Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
     excerpt: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump."
     publishedDateTime: 2020-11-30T23:16:00Z
@@ -1764,6 +1780,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "2Rk7kUkPkOdZ8DLYOs6BOon181gv7Y/YbGh3n7BAqaaNADC+H7pw9rpiVPKVrg2O+cW71Azv5zFipMNe0uorDnl1/du3090e8wBwmlFFzQfZbnC+aQ2A17pINgmqmTBSn1y0jQ0uHw3YGwBqS0+gpsZRMPM7FYa2pK3R1ROsyjUzcXIitvoWGZyPe+UazYnhWRzl9xJO9zuKqMUvf6ovtzl+BQ4l2XO0QJdxww1H/+z/dkV+/J4hRXnIvQOfIQFXyIjidVULo3P66uhUDIO6uDh5ckq4I/S8IWRBm9iRWitnR5yzGWBcuK98KQroBtRsB2TCsIjpYqb2qU/Gn4nHMLxdOHoQf60CYF1oe5Llxgtu1lJZ7FjjObqfMNCG4LXdebrkTIXK1zDtpkv8vKwgIfwGTQQdK+oXNO7/3HYJkXCvJhIHh94LaEqE7Up+6+QmQbT8xMBdAcPpa+lXyFMOQWymvVjg8QKvybTu5mqHQmIx2IfK0i+axkG97U35rPLz3bDLGTS8E/c911is06JS0g==;epvZH5T7yI0QtHB0a1hv6g=="
+secured: "bZKUGS7MrdLvPH8Ti0OpkYg93M6QYNHyzuEhFmB5e9TKJcVJCcnbU4QqASRBKk9gyyFuZ/5WWMxTCi51k2tDZ1JqgKY9uJomAmQIke9kLVzya7mczzp/XQrHzgrqGZrWqT6axCq5pITcw+FMjGAVWG4yuovHZDRg6bQFsOjmq2yEThHOMtqZzTORCDHI8NcbIctOqwZjX0eanUAMrTquGd/6xaUuwGa2eS4XV+on/ka370O5W0VHDuPF/35bnDZP4SjCkK8PxKaIpqi4n0xK1OQxKzdQoFv0Kxu3/t6OjQqFqQfWiDvqBp3kf1CreI6i+JUl67exxRFO+jMppOHjKoerlNVY/ZNYQLxNYsmDrMg=;BS5coyDbi3JdZ+RlE4BA0w=="
 ---
 

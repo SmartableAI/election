@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Election 2020 Today: Biden’s defense pick, Trump challenges"
-excerpt: "The Associated Press has learned that President-elect Joe Biden will nominate retired four-star Army general Lloyd J"
-publishedDateTime: 2020-12-08T10:34:00Z
-originalUrl: "https://www.washingtonpost.com/politics/election-2020-today-bidens-defense-pick-trump-challenges/2020/12/08/01278dce-3941-11eb-aad9-8959227280c4_story.html"
-webUrl: "https://www.washingtonpost.com/politics/election-2020-today-bidens-defense-pick-trump-challenges/2020/12/08/01278dce-3941-11eb-aad9-8959227280c4_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-bidens-defense-pick-trump-challenges/2020/12/08/01278dce-3941-11eb-aad9-8959227280c4_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-bidens-defense-pick-trump-challenges/2020/12/08/01278dce-3941-11eb-aad9-8959227280c4_story.html?outputType=amp"
+title: "President-elect Joe Biden, Vice President-elect Kamala Harris named Time magazine’s persons of the year"
+excerpt: "Time’s editor-in-chief Edward Felsenthal says Biden and Harris won for “changing the American story, for showing that the forces of empathy are greater than the furies of division, for sharing a vision of healing in a grieving world."
+publishedDateTime: 2020-12-13T01:27:00Z
+originalUrl: "https://www.courant.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html"
+webUrl: "https://www.courant.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html"
+ampWebUrl: "https://www.courant.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
 type: article
-quality: 155
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Hartford Courant
+  domain: courant.com
 
 topics:
   - Election
-  - Donald Trump
+  - Kamala Harris
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://www.courant.com/resizer/BSq3Ak_medhh77iDHliMazeaj9g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PQPYHWKY3V6EVJEUIRLJGAFQKA.aspx"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -46,6 +42,22 @@ related:
       - url: "https://i.insider.com/5fcb8c9db6a3a800199b6db2?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Election 2020 Today: Biden’s defense pick, Trump challenges"
+    excerpt: "The Associated Press has learned that President-elect Joe Biden will nominate retired four-star Army general Lloyd J"
+    publishedDateTime: 2020-12-08T10:34:00Z
+    webUrl: "https://www.washingtonpost.com/politics/election-2020-today-bidens-defense-pick-trump-challenges/2020/12/08/01278dce-3941-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-bidens-defense-pick-trump-challenges/2020/12/08/01278dce-3941-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-bidens-defense-pick-trump-challenges/2020/12/08/01278dce-3941-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 155
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "US election results 2020: Joe Biden's defeat of Donald Trump"
     excerpt: "Georgia recertifies election results, confirming Biden’s victory, despite Trump’s continued refusal to formally concede"
@@ -1708,22 +1720,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "President-elect Joe Biden, Vice President-elect Kamala Harris named Time magazine’s persons of the year"
-    excerpt: "Time’s editor-in-chief Edward Felsenthal says Biden and Harris won for “changing the American story, for showing that the forces of empathy are greater than the furies of division, for sharing a vision of healing in a grieving world."
-    publishedDateTime: 2020-12-13T01:27:00Z
-    webUrl: "https://www.courant.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html"
-    ampWebUrl: "https://www.courant.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 74
-    images:
-      - url: "https://www.courant.com/resizer/BSq3Ak_medhh77iDHliMazeaj9g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PQPYHWKY3V6EVJEUIRLJGAFQKA.aspx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Alert: Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
     excerpt: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump."
     publishedDateTime: 2020-11-30T23:16:00Z
@@ -1780,6 +1776,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "RknMvhnyF5W51DDS5k2Uvnl1+MyN5t6y3ao0P89lSVwlQK2pkp8Bv+mo3k5xiIuibPK/dSw9873fNPP996R3jxA07sI6YLBujRDaX3wTIagT+g74/aqoBowl4YOagXko2PK5XECIP9eMhjWh+0sgP6lj+wcyP28Sn4TOKMn2ZmuA91fZiZtQ5/uIFNlAPgUkZAlgSqbxnmUll1zXNhVKJoPFPsZRdWerID4+tUmGYyQaOUaZpmJtccgpTaEWz01ez+3qRBaSFYaRQfPZwgsOyH/rdvosR7apa5S/7l4i7b+T5sqVKrHQjutZZAfk8dqRYmfhe4iPjjONqOU6foIV5hdyMO8abMCK6Dx7FC13U3Q=;WRysuAi9MmHSDFhKnEzy4g=="
+secured: "dClU9K/owpr5vKg6D6K6v3te9WcjtG7HddGzdvpZnIqjoS4BTTDFv2OYJZ8H1ZWByf18A8se+76jfjQEtoG46ikUN7X+5g80cQggbyYT5b2siSIO/nMwe9CqPTSGM8VweUwn26155qNEmAGpc7Y2HHK7d1PSWRGmF3hcVm/Rnq1nUdLHo9TBqLVAtQsEpCtn+1JKyA8G0zZxWDnGjZU3BPY0p48iAsmDxApHL1oNBoM8wB07vooJL6i0H7CAWhxzkncSKeX3yZN4/aSQFJXDdIUxZPFKukvrVSC254+UZO9CdcMWZI2i7eCJi1ejlrUAKwm9p8X/7CKKULsO9BKL/5C0HDigpAYUXm+qU3OIwsA=;4zdnPcCy8w4PTEy3LWm31g=="
 ---
 

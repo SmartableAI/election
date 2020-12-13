@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden faces growing pressure over defense secretary pick"
-excerpt: "President-elect Joe Biden is facing increasing pressure from competing Democratic factions as he finalizes his choice for secretary of defense."
-publishedDateTime: 2020-12-03T11:23:00Z
-originalUrl: "https://www.latimes.com/world-nation/story/2020-12-03/biden-growing-pressure-defense-secretary-pick"
-webUrl: "https://www.latimes.com/world-nation/story/2020-12-03/biden-growing-pressure-defense-secretary-pick"
-ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-03/biden-growing-pressure-defense-secretary-pick?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-03/biden-growing-pressure-defense-secretary-pick?_amp=true"
+title: "As leaders set fresh climate goals, Biden pledges US support"
+excerpt: "U.S. President-elect Joe Biden has pledged to rejoin the Paris climate accord on the first day of his presidency as world leaders staged a virtual gathering to celebrate the fifth anniversary of the i"
+publishedDateTime: 2020-12-12T22:47:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689716"
+webUrl: "https://abcnews.go.com/Technology/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689716"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689716"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689716"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/9c1be0d/2147483647/strip/true/crop/4207x2748+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe2%2F37%2F6b45480b46af967b7e3d5412685d%2Fbiden-37838.jpg"
-    width: 320
-    height: 209
+  - url: "https://s.abcnews.com/images/Technology/WireAP_cb7149b326f24981be1ddc55e415ca3d_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -229,6 +229,22 @@ related:
     webUrl: "https://www.latimes.com/world-nation/story/2020-12-01/unveiling-economic-team-biden-pledges-help-is-on-the-way"
     ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-01/unveiling-economic-team-biden-pledges-help-is-on-the-way?_amp=true"
     cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-01/unveiling-economic-team-biden-pledges-help-is-on-the-way?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/9c1be0d/2147483647/strip/true/crop/4207x2748+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe2%2F37%2F6b45480b46af967b7e3d5412685d%2Fbiden-37838.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Biden faces growing pressure over defense secretary pick"
+    excerpt: "President-elect Joe Biden is facing increasing pressure from competing Democratic factions as he finalizes his choice for secretary of defense."
+    publishedDateTime: 2020-12-03T11:23:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-03/biden-growing-pressure-defense-secretary-pick"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-03/biden-growing-pressure-defense-secretary-pick?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-03/biden-growing-pressure-defense-secretary-pick?_amp=true"
     type: article
     provider:
       name: Los Angeles Times
@@ -453,22 +469,6 @@ related:
     webUrl: "https://abcnews.go.com/Business/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689717"
     ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689717"
     cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689717"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_cb7149b326f24981be1ddc55e415ca3d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "As leaders set fresh climate goals, Biden pledges US support"
-    excerpt: "U.S. President-elect Joe Biden has pledged to rejoin the Paris climate accord on the first day of his presidency as world leaders staged a virtual gathering to celebrate the fifth anniversary of the i"
-    publishedDateTime: 2020-12-12T22:47:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689716"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689716"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689716"
     type: article
     provider:
       name: ABC
@@ -826,6 +826,6 @@ related:
         height: 308
         isCached: true
 
-secured: "TklffF3Kxq61ME2MTgvFc5jcH8rSRg0VdIQac69m4PjJNg3iBkgqM5ky92IY6lb5EDWpJymaC79goTZ/yofUNxLiXeOTsYebWHXtNOqINdyeqQzU8yP+IbW9dX1tYbunI+nXBIKimz31E5Pe63ZhAEh///PnfWdWKUUI5QtgYmawYB9uB3q64iQyG6/zOk4znW3aXVa59dusuU1VLTLoKUAxgt42HTAu/Ryyipzcbm5xVYTDHV7teNUjDzq0Lv6gr86AOmrE3/qBV+vj/rX5ld/mbaY83WM9pBosXwPtjAOBUbbBEYQ1J/W6Cpy0vlq20tBbeVCfi6cMkmijM+la5dtOYLzzlkeuFUOYOxRpO0gYYz9OcWDG/V9Vh7WFMQDYgXgU5FBzpg8cn5pKntFCJlNNrcrO4mLF83gP1q+Vv1r9hK4yJz10T8//QdJ9X14icEHJi2pMJiIxA9ovMO8rP60zzakeP9WlRSwk556bYaNwi79oB8Ztvi/3g0IVFCIXdeVlhAjmcz70zzPqORVxrw==;+f+I3ITcddkVZQKZDldriw=="
+secured: "hIvIf5+tsBrRBgauWjMT1mVgDc4StzmY/YCckFcyoemlh31Gc6GxnKRep6WhRFoJyoLcjFJflUmBUCb9F3vORYcTqyP2QM4vxzaxa+oKymdG4wGn5mk8SbcxLe0Rk2IzCA2ZlpE7/oYGN1PWai9Q4SuJALbWhhxExjT/EpXLaNTO9LHZNzAAR62kc3W9jkF1DgRsqBp4m3Ju0fq5hCveewADd+z5EepMIbFEKcjAXg9McyKS2DkwAID7Kg1gWVZPyxKBQr7VVaycpM325pJutWzj0Rq1/KiiYZjDXrZ6jPyMHd2i9y8Kdh+54JzSXBUMJuhRKI4vvEfj0nDcbQMN/fIWB7lIU5L88j2ZEbsbez8=;xv1GFaWG2afMx83iBHrCXw=="
 ---
 

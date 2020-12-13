@@ -479,6 +479,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "As leaders set fresh climate goals, Biden pledges US support"
+    excerpt: "U.S. President-elect Joe Biden has pledged to rejoin the Paris climate accord on the first day of his presidency as world leaders staged a virtual gathering to celebrate the fifth anniversary of the i"
+    publishedDateTime: 2020-12-12T22:47:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689716"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689716"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689716"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_cb7149b326f24981be1ddc55e415ca3d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Iran pressures Biden with plan to increase underground enrichment machines"
     excerpt: "Iran is raising pressure on U.S. President-elect Joe Biden with plans to install more advanced uranium-enriching centrifuges at an underground plant in breach of its deal with major powers, a U.N. nuclear watchdog report showed on Friday."
     publishedDateTime: 2020-12-04T15:42:00Z

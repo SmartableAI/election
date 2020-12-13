@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-09-joe-bidens-gaffe-filled-2020-president-elect-botches-hhs-announcement.md",
+      "title": "Joe Biden's gaffe-filled 2020: President-elect botches HHS announcement",
+      "excerpt": "President-elect Joe Biden had his latest misadventure with a teleprompter on Wednesday, botching the name of Xavier Becerra, his nominee for Health and Human Services Secretary.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXylyVV42QA/joe-bidens-best-teleprompter-gaffes-2020",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXylyVV42QA/joe-bidens-best-teleprompter-gaffes-2020",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f1b25b6-51f5-4710-a2e8-de6c3dff8d45/1a5a5d5d-281e-4651-96b8-b5982d9f0e7c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/joe-bidens-best-teleprompter-gaffes-2020.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-bidens-best-teleprompter-gaffes-2020.amp",
+      "publishedDateTime": "2020-12-09T12:35:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-neil-young-drops-lawsuit-against-donald-trump-over-use-of-his-music-at-campaign-events.md",
       "title": "Neil Young drops lawsuit against Donald Trump over use of his music at campaign events",
       "excerpt": "Neil Young seems to have dropped his legal suit against Donald Trump for using his music at campaign events. In August, the singer and songwriter finally sued the Trump 2020 campaign for copyright infringement after the president repeatedly ignored calls from the rocker to stop using his music at events,",
@@ -1586,62 +1642,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/comey-columbia-law-school-professor-leaked-trump.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-columbia-law-school-professor-leaked-trump.amp",
       "publishedDateTime": "2020-12-02T16:52:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-gov-michelle-lujan-grisham-turned-down-biden-administration-post-sources-say.md",
-      "title": "Gov. Michelle Lujan Grisham turned down Biden administration post, sources say",
-      "excerpt": "The Democratic governor of New Mexico is rumored to be a contender for a separate position in the administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/85qBkTTlXU8/biden-cabinet-michelle-lujan-grisham-interior",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/85qBkTTlXU8/biden-cabinet-michelle-lujan-grisham-interior",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ebbffdc8-b293-431a-8469-af03d8321f1e/95999e35-9a82-4907-be13-19f63604e35a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-cabinet-michelle-lujan-grisham-interior.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-michelle-lujan-grisham-interior.amp",
-      "publishedDateTime": "2020-12-02T16:39:20-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
