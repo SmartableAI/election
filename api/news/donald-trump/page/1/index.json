@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-13-house-dems-campaign-chief-a-moderate-who-wins-in-trump-land.md",
+      "title": "House Dems' campaign chief a moderate who wins in Trump land",
+      "excerpt": "Their dwindling majority in peril, House Democrats are entrusting their campaign operations to an analytical, openly gay moderate who’s been an attorney, businessman and five-time winner in his competitive congressional district.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12",
+      "originalUrl": "https://www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12?amp",
+      "publishedDateTime": "2020-12-12T20:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-twitter-says-it-inadvertently-limited-engagements-on-trumps-flagged-tweets.md",
       "title": "Twitter says it 'inadvertently' limited engagements on Trump's flagged tweets",
       "excerpt": "Twitter Inc said on Saturday it had \"inadvertently\" limited engagements for a brief period on U.S. President Donald Trump's tweets with \"disputed\" labels but later reversed its action.",
@@ -223,7 +266,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-trump/u-s-supreme-court-ends-texas-lawsuit-seeking-to-undo-trump-election-loss-idUSKBN28L2YY",
       "featuredContent": null,
       "highlight": null,
-      "heat": 859,
+      "heat": 879,
       "tags": null,
       "images": [
         {
@@ -1544,63 +1587,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-former-israeli-space-security-chief-says-extraterrestrials-exist-and-trump-knows-about-it.md",
-      "title": "Former Israeli space security chief says extraterrestrials exist, and Trump knows about it",
-      "excerpt": "\"The Unidentified Flying Objects have asked not to publish that they are here, humanity is not ready,\" Haim Eshed said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333",
-      "originalUrl": "https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_50/3434098/201208-space-contact-mc-1000_2ccd3fbfb3e3d974e910d1abd9b81c1a.jpg",
-          "width": 2500,
-          "height": 1584,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250333",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250333",
-      "publishedDateTime": "2020-12-08T05:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

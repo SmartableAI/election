@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/facebook-encounters-bipartisan-back
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-encounters-bipartisan-backlash-as-aoc-supports-trump-administrations-lawsuit.amp"
 type: article
 quality: 167
-heat: 227
+heat: 247
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 135
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/protest-cropped-417a.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Trump supporters, counter-protesters in violent clash in DC"
+    excerpt: "Follow for the latest updates on the D.C. protests."
+    publishedDateTime: 2020-12-13T04:57:00Z
+    webUrl: "https://www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020"
+    ampWebUrl: "https://www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ae7bb54-eeb3-4e89-b4b0-ad66c6ffb1ef/9f4c5af7-1da5-482c-bc85-23b80ae8e810/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

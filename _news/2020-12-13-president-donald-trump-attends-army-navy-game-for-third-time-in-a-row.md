@@ -287,6 +287,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tempers flare as Trump supporters rally in Washington"
+    excerpt: "Thousands of supporters of President Donald Trump returned to Washington for rallies Saturday to back his desperate efforts to subvert the election that he lost to Joe Biden"
+    publishedDateTime: 2020-12-13T03:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/tempers-flare-as-trump-supporters-rally-in-washington/2020/12/12/72ad9dde-3cf3-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/tempers-flare-as-trump-supporters-rally-in-washington/2020/12/12/72ad9dde-3cf3-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/tempers-flare-as-trump-supporters-rally-in-washington/2020/12/12/72ad9dde-3cf3-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Watch Live: Trump does coin toss at Army-Navy Game"
     excerpt: "Navy coin toss before the game on Saturday afternoon. The event begins at 3:00 p.m. EST. Watch the live video above."
     publishedDateTime: 2020-12-12T20:06:00Z

@@ -372,9 +372,9 @@ related:
   - title: "Joe Biden and Kamala Harris jointly named Time's 'Person of the Year'"
     excerpt: "U.S. President-elect Joe Biden and Vice President-elect Kamala Harris were jointly named Time magazine's 2020 \"Person of the Year\" on Thursday, chosen from a list of finalists that included the man Biden vanquished at the polls - President Donald Trump."
     publishedDateTime: 2020-12-11T18:34:00Z
-    webUrl: "https://www.reuters.com/article/time-person/update-4-joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSL1N2IQ3C0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K32U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K32U"
+    webUrl: "https://www.reuters.com/article/us-time-person/joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSKBN28K33R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K33R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K33R"
     type: article
     provider:
       name: Reuters
@@ -448,22 +448,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/3f5e1cc363cf72360d9f776ee1664b19f7e5facc/0_71_3049_1830/master/3049.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7ea6fb3c4e554c3032bffc98a1651b20"
         width: 600
         height: 360
-        isCached: true
-  - title: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin"
-    excerpt: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin."
-    publishedDateTime: 2020-12-12T18:57:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/federal-judge-rejects-trump-campaign-lawsuit-seeking-overturn-74691256"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/federal-judge-rejects-trump-campaign-lawsuit-seeking-overturn-74691256"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/federal-judge-rejects-trump-campaign-lawsuit-seeking-overturn-74691256"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 139
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
         isCached: true
   - title: "Trump-Biden transition live updates: Biden rolls out economic team leaders"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 51 days. Georgia Secretary of State Brad Raffensperger spoke before reporters Monday morning at the state capitol building in Atlanta and announced that his office has opened investigations into four third-party groups that he claimed are \"working to register people in other states to vote here in Georgia."
@@ -1781,6 +1765,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 50
+  - title: "Federal Judge Rejects Trump Campaign Lawsuit Seeking to Overturn Joe Biden’s Win in Wisconsin"
+    excerpt: "Wisconsin, Associated Press Best States is an interactive platform developed by U.S. News for ranking the 50 U.S. states, alongside news analysis and daily reporting. The platform is designed to engage citizens and government leaders in a discussion about what needs improvement across the country."
+    publishedDateTime: 2020-12-12T19:09:00Z
+    webUrl: "https://www.usnews.com/news/best-states/wisconsin/articles/2020-12-12/federal-judge-rejects-trump-campaign-lawsuit-seeking-to-overturn-joe-bidens-win-in-wisconsin"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 39
 
 secured: "EOBxLfT8JrW7nSSV30REv+0WPyP0Pf90ejZx0Sq1XcuOSWOTZEIlUFCkbsrlhZ9JwEeiHoA0/LB2kAZ7xA8SHLYds9yR/v0YZvT3F1KIgUW1FgO72Wcz9/BrWYHjg6XN0crImc/8z4YZenuSZIZ9VVNMo+fKqA6rQ89BFnQdWnnfFIpQb4mwI94gsTKXWCXNIGKv44VPYpwaQJtQoJF31/a53V9vdT7SWbxR1tL5isA5hez+s4KMyWNoe6wYyMptsaUhIAu9+0sHQx6W/iWtTfIErLAwLv83mh/zkhk8gPu5EluOnf1JLdth05sFaRi5UFd4S6fh5R/kuDEDWwMgwFVgKUestBK+ZExgD4boTOYlhz+r4ZXAC4yLSHo7nQExL6AGEFQKD/xbbVF2iuIxM9cCa7+VDejjsHUT1ZUQWvDIMpM4hVQ1BMFb6o9LMqy+1b7BBre6itrXC2c5cIW89ywPoBqaMDJmdaF8OtAomwQexrowgwDRUfd83enmcPrgXYYltW9vfkjIoPTf9t8i4A==;9Wa3StZe91U+ju+XR8Bg8A=="
 ---

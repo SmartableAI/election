@@ -1,35 +1,26 @@
 ---
 category: news
-title: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin"
-excerpt: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin."
-publishedDateTime: 2020-12-12T18:57:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/federal-judge-rejects-trump-campaign-lawsuit-seeking-overturn-74691256"
-webUrl: "https://abcnews.go.com/US/wireStory/federal-judge-rejects-trump-campaign-lawsuit-seeking-overturn-74691256"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/federal-judge-rejects-trump-campaign-lawsuit-seeking-overturn-74691256"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/federal-judge-rejects-trump-campaign-lawsuit-seeking-overturn-74691256"
+title: "Federal Judge Rejects Trump Campaign Lawsuit Seeking to Overturn Joe Biden’s Win in Wisconsin"
+excerpt: "Wisconsin, Associated Press Best States is an interactive platform developed by U.S. News for ranking the 50 U.S. states, alongside news analysis and daily reporting. The platform is designed to engage citizens and government leaders in a discussion about what needs improvement across the country."
+publishedDateTime: 2020-12-12T19:09:00Z
+originalUrl: "https://www.usnews.com/news/best-states/wisconsin/articles/2020-12-12/federal-judge-rejects-trump-campaign-lawsuit-seeking-to-overturn-joe-bidens-win-in-wisconsin"
+webUrl: "https://www.usnews.com/news/best-states/wisconsin/articles/2020-12-12/federal-judge-rejects-trump-campaign-lawsuit-seeking-to-overturn-joe-bidens-win-in-wisconsin"
 type: article
-quality: 139
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
-    isCached: true
 
 related:
   - title: "Kellyanne Conway breaks from Trump and says 'Joe Biden and Kamala Harris will prevail'"
@@ -387,9 +378,9 @@ related:
   - title: "Joe Biden and Kamala Harris jointly named Time's 'Person of the Year'"
     excerpt: "U.S. President-elect Joe Biden and Vice President-elect Kamala Harris were jointly named Time magazine's 2020 \"Person of the Year\" on Thursday, chosen from a list of finalists that included the man Biden vanquished at the polls - President Donald Trump."
     publishedDateTime: 2020-12-11T18:34:00Z
-    webUrl: "https://www.reuters.com/article/time-person/update-4-joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSL1N2IQ3C0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K32U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K32U"
+    webUrl: "https://www.reuters.com/article/us-time-person/joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSKBN28K33R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K33R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K33R"
     type: article
     provider:
       name: Reuters
@@ -1781,6 +1772,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "wKZIOFp2G6IuH4zfcKc0NkR33/9KxeJf+N3Puulflj8t5XkAsHBYMO7hY6rqkKPr4GP6ZroZa3iwPpO5DXRLpCtIhXMRN+L9FLWHlzwnVuX1nP0u0AwtYH52vTObyMjdmQBdw+R57/B5cxonpGJPIQzA6hKP+yJjw64+SWn4GRGTez/uCMpRzLV4hGIlZ7+nXH6zC8u9goW8bVWO3p7gtzOlQ3QvzQtptUvZzArkk+oLQqASf28jEYAaKWph+WwhBcPLQHQYISivxMsSmClSVgJiKiEQXqjb84vWIwrQoela5LL/aum8gckt/hahi54uiuhHvLPR6Gmvrv0xBlz13NAaeWMwgW0Fa5I4iijnrzQ=;ciefV/NJviS8vO3L3ri73Q=="
+secured: "u25EM7GMCLtxXoGK1jVp4U4TbULDoxV1mrmkcyAN3UH0oOWwwSt25SPpmzg3jWvt9MzWk2V2dAy+JT/H5eHyuvl1HBzFcfm4FRH/QXl28A6mRUVHXOyPU/Y72rVMoHKnlAiGktuyszk0jQ5zXIrAuNx8NK6TZWpZ3azUEhwBYOn8k4oSMvCmz5vKORpeF9Vht0y143oFmC+1qG9NCv052zZnfP+faoslDNUhlnjgqTfVK5YRzocJhydNlxFc2qK0/iI6SqohONVLLhCabaPkU8l2Z8qo/R/cXOdAJWdl25zfBQ7ex6JcWxcC9ZKroE57e+zDnEinbOzahGUIxyacpB1oNsqL5u6yBvPJ7F87is0=;NjNgG0UUF1N37j1e/ThpNQ=="
 ---
 

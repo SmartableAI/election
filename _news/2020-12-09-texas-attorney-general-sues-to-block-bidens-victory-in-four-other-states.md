@@ -809,6 +809,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Supreme Court rejects Republican attack on Biden victory"
+    excerpt: "The Supreme Court has rejected a lawsuit backed by President Donald Trump to overturn Joe Biden’s election victory, ending a desperate attempt to get legal issues rejected by state and federal judges before the nation’s highest court and subvert the will of voters."
+    publishedDateTime: 2020-12-13T04:39:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-rejects-republican-attack-on-biden-victory-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-rejects-republican-attack-on-biden-victory-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-rejects-republican-attack-on-biden-victory-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "California certifies Joe Biden's victory, giving the Democrat more than the 270 electors needed to win the White House"
     excerpt: "California certifies Joe Biden's victory, giving the Democrat more than the 270 electors needed to win the White House"
     publishedDateTime: 2020-12-05T05:36:00Z

@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Trump supporters, counter-protesters in violent clash in DC"
+    excerpt: "Follow for the latest updates on the D.C. protests."
+    publishedDateTime: 2020-12-13T04:57:00Z
+    webUrl: "https://www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020"
+    ampWebUrl: "https://www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ae7bb54-eeb3-4e89-b4b0-ad66c6ffb1ef/9f4c5af7-1da5-482c-bc85-23b80ae8e810/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump Administration Claims Facebook Improperly Reserved Jobs for H-1B Workers"
     excerpt: "A Justice Department lawsuit accuses the social-media company of illegally reserving high-paying jobs for immigrant workers it was sponsoring for permanent residence and failing to adequately search for U."
     publishedDateTime: 2020-12-03T20:21:00Z

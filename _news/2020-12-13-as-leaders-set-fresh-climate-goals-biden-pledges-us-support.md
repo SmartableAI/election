@@ -795,6 +795,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Supreme Court rejects Republican attack on Biden victory"
+    excerpt: "The Supreme Court has rejected a lawsuit backed by President Donald Trump to overturn Joe Biden’s election victory, ending a desperate attempt to get legal issues rejected by state and federal judges before the nation’s highest court and subvert the will of voters."
+    publishedDateTime: 2020-12-13T04:39:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-rejects-republican-attack-on-biden-victory-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-rejects-republican-attack-on-biden-victory-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-rejects-republican-attack-on-biden-victory-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Texas attorney general sues to block Biden's victory in four other states"
     excerpt: "Texas Attorney General Ken Paxton is suing over the election results in Pennsylvania, Michigan, Wisconsin and Georgia, four battleground states that helped swing the race for President-elect Joe Biden."
     publishedDateTime: 2020-12-08T23:40:00Z
@@ -826,6 +837,6 @@ related:
         height: 308
         isCached: true
 
-secured: "hIvIf5+tsBrRBgauWjMT1mVgDc4StzmY/YCckFcyoemlh31Gc6GxnKRep6WhRFoJyoLcjFJflUmBUCb9F3vORYcTqyP2QM4vxzaxa+oKymdG4wGn5mk8SbcxLe0Rk2IzCA2ZlpE7/oYGN1PWai9Q4SuJALbWhhxExjT/EpXLaNTO9LHZNzAAR62kc3W9jkF1DgRsqBp4m3Ju0fq5hCveewADd+z5EepMIbFEKcjAXg9McyKS2DkwAID7Kg1gWVZPyxKBQr7VVaycpM325pJutWzj0Rq1/KiiYZjDXrZ6jPyMHd2i9y8Kdh+54JzSXBUMJuhRKI4vvEfj0nDcbQMN/fIWB7lIU5L88j2ZEbsbez8=;xv1GFaWG2afMx83iBHrCXw=="
+secured: "6K3dtzjvrWjyTOLukxBqjpr+7XBbcfvk8CiQEOK49r5Vh8sZ0sjRjBHCnE9CM6ys6lcMge5GUXIBC6YVImnlykYaN51o51movuTnaGX6MdVijOhj19xKWW5lp6uaZMAlD0+n2PDlxxtnx7dq3pJgPCHR6QtuGSYsAmGT9PhRqbZlk8vvJ4jzrL5NFfIyTYf8V93tOU2vCqBwOmSL1oJwk6H8QOxhQR2HkyUZIbJnH9SGYV6atpgDRG/7bj7o9Z9465Fg/KjE5bkOG1anQEzEM1lxuJXSO9hPC+/1B2QV4pEK6LGCYMBsgtXW2e/3Wx+X0sHv+e3Z/xvREUgBMhVqs+Z0qdM9Aqnj+0DFh9E1zx3Tpq91U19n0Tameg7rGNF0APRHlNX3rOuMDVBQvaI6U+lJ9vsDIRHNfglZomwzyhRJKA1CoI2gqgLv8K0R336HtsjBt4qm539q9EjdhHlDgBdB4N0smfMOl7aBOFlgPp55yIgzoTt7gSMLCIGGiasqGzffT2DX6oF8Avp5w27LDw==;jzEF9Iq250pzzHF1mQmzHA=="
 ---
 
