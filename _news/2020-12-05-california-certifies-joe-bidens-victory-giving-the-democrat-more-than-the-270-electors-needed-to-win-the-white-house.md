@@ -830,6 +830,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden's Homeland Security pick faces questions on old probe"
+    excerpt: "The last time Alejandro Mayorkas faced Senate confirmation, not a single Republican voted for him because there was an open investigation into his management of the U.S. immigration agency under President Barack Obama."
+    publishedDateTime: 2020-12-13T04:42:00Z
+    webUrl: "https://www.businessinsider.com/bidens-homeland-security-pick-faces-questions-on-old-probe-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/bidens-homeland-security-pick-faces-questions-on-old-probe-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bidens-homeland-security-pick-faces-questions-on-old-probe-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Doctor says Biden's fractured foot is healing as expected"
     excerpt: "PHILADELPHIA (AP) — President-elect Joe Biden’s fractured foot has been healing, his doctor said Saturday."
     publishedDateTime: 2020-12-12T22:27:00Z

@@ -39,6 +39,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Pro-Trump protests decry president's election loss, opposing groups clash in Washington"
+    excerpt: "Conservative groups claiming without evidence that the Nov. 3 election was stolen from President Donald Trump staged protests across the country on Saturday, with one in Washington turning violent at times as police broke up sporadic clashes after dark."
+    publishedDateTime: 2020-12-13T08:02:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-protests-idUSKBN28M0E5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28M0E5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0E5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 132
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201213&t=2&i=1544375607&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBC01C"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump and his allies have won zero out of at least 38 lawsuits they've filed since Election Day"
     excerpt: "Republicans have filed more than two dozen lawsuits since the election challenging the results. They've won zero."
     publishedDateTime: 2020-12-10T21:33:00Z

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Allies Eye Long-Shot Election Overturn in Congress, Testing Pence"
+    excerpt: "Some House Republicans plan to try to use Congress’s tallying of electoral results on Jan. 6 to tip the election to President Trump. The attempt will put Republicans in a pinch."
+    publishedDateTime: 2020-12-13T10:00:00Z
+    webUrl: "https://www.nytimes.com/2020/12/13/us/politics/trump-allies-election-overturn-congress-pence.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/13/us/politics/trump-allies-election-overturn-congress-pence.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/us/politics/trump-allies-election-overturn-congress-pence.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 175
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/12/us/politics/13dc-overturn-1/merlin_181149501_545a5a52-9c27-44f3-891f-1caf1453f16a-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "How Trump raised massive amounts of money after the election and other takeaways from campaign filings"
     excerpt: "President Donald Trump raised staggering amounts after losing the White House. Casino billionaire Sheldon Adelson kept donating in the election's waning days, and South Carolina Sen. Lindsey Graham set a new fundraising high water mark for Senate incumbents.\n    \n"
     publishedDateTime: 2020-12-04T20:59:12Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Saturday Night Live Mocks Trump's New Favorite Network Newsmax"
+    excerpt: "Trump network Newsmax's coverage with a sketch introducing its latest television offering—a sports network that refuses to acknowledge the New York Jets ever lose. The sketch opens with a voiceover that claims \"millions of real Americans are switching from Fox News to Newsmax because Newsmax tells them the"
+    publishedDateTime: 2020-12-13T10:41:00Z
+    webUrl: "https://www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381"
+    ampWebUrl: "https://www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1685494/snl.png"
+        width: 890
+        height: 593
+        isCached: true
   - title: "Street closures planned Saturday in downtown Washington for pro-Trump rallies"
     excerpt: "The street closures will go into effect about 6 a.m. Saturday and will be enforced through the end of the day."
     publishedDateTime: 2020-12-09T22:46:00Z

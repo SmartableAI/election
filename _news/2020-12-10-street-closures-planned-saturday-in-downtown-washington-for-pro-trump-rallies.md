@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Saturday Night Live Mocks Trump's New Favorite Network Newsmax"
+    excerpt: "Trump network Newsmax's coverage with a sketch introducing its latest television offering—a sports network that refuses to acknowledge the New York Jets ever lose. The sketch opens with a voiceover that claims \"millions of real Americans are switching from Fox News to Newsmax because Newsmax tells them the"
+    publishedDateTime: 2020-12-13T10:41:00Z
+    webUrl: "https://www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381"
+    ampWebUrl: "https://www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1685494/snl.png"
+        width: 890
+        height: 593
+        isCached: true
   - title: "Trump supporters plan rallies in Washington DC, experts warn extremists may attend"
     excerpt: "It's unclear how many people will go to rallies in support of President Trump in Washington, D.C., but experts warn right-wing extremists may attend."
     publishedDateTime: 2020-11-14T04:35:00Z

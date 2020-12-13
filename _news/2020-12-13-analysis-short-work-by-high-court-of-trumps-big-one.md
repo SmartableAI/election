@@ -45,6 +45,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Pro-Trump protests decry president's election loss, opposing groups clash in Washington"
+    excerpt: "Conservative groups claiming without evidence that the Nov. 3 election was stolen from President Donald Trump staged protests across the country on Saturday, with one in Washington turning violent at times as police broke up sporadic clashes after dark."
+    publishedDateTime: 2020-12-13T08:02:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-protests-idUSKBN28M0E5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28M0E5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0E5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 132
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201213&t=2&i=1544375607&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBC01C"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump and his allies have won zero out of at least 38 lawsuits they've filed since Election Day"
     excerpt: "Republicans have filed more than two dozen lawsuits since the election challenging the results. They've won zero."
     publishedDateTime: 2020-12-10T21:33:00Z
@@ -596,6 +612,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "LWWkKBQKwh0CXQHdpm1+7uaHDCyzaL6zXt0jflUiQL0i2cjXTwampr6wTHI6v4Lxx1oEZt4ZdGk7V4t26zNNlBGxiADN5mCHPjuaGge6GA5kJxExHkCd2aCE+YTvS0ScyrOI1krEXvcTblB9q3odiC4MmGwhsl3/oV+Feu+T0t+8pmw4VGU+gn8VVs6YyQ2YlrXzvRjN3RGUJwerfqj8d5d0T8e//K9F6WaUhf7iZfbZLiz8Y50Zsa2X+pAQgiCeqKcrRR7WkBZ0VMID9VRsulTI2z+hYuOhZLChihg00aKDrlgWS8DdZ5js6/Tupm0c1+rsnsQdFtz/qCcy+q9jN7rQ/OumJ7xOYq5L6Uti1Cs=;HuWTpV2FgdFamV3q7M07sQ=="
+secured: "woh8gET75A72Zzv38eOjfpR+KbSvjzdeHPssyiiQwfkix1aSNzBgBRIEK48Q0ij2QuidApyt1VYJ7kW4Cj0pdB1yliUJI1tb3g79IeR0fgZJVYoQE3sK6EOAoUBPSinEf5ZDBdS6ycpIFbKEckZ3wdFFMjuCuGz5iC1mhJWYuNQyulsnOjhrXCbFZqu9IXZ9tK06ONMfPAW7ITuRKfru1xwsNF9ICWFijxSp2dLzvqfPm8QalLXPz6ms6t/koVNwIpTkFM/PTbnksz2my892kyVWDbjl7d1JFsdTD22dL6+HfkRfwsjmSecLiso4UbGmjk3XjFMUlvoVH5CVEjBwEGgKNOrsVPKV/V4XJZLe9+8Xovz7Ts9YiUuwe4auFOy67vwcBw/P8ZS6R5JwXpL9kYjgkbHYylLjc1KpfZUyZ6BrlkwFBsvUrVCT9a12iae2u6kOe3Hca3H/yymZPusJ031GFVWv7mncAsnq498hCU85LQ5Igly6wOvX4Z+8GUwqAuZTM/L80LLYVXf9qkEGbw==;0YSI4LSyfTakw36wZ1mLdw=="
 ---
 
