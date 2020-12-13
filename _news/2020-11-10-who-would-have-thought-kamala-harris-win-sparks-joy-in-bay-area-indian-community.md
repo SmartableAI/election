@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Kamala Harris' husband Doug Emhoff breaks gender stereotypes by putting her career ahead of his as second gentleman"
-    excerpt: "Doug Emhoff, husband of Vice President-elect Kamala Harris, is quitting his job to be second gentleman, breaking gender and race stereotypes."
-    publishedDateTime: 2020-11-12T23:01:00Z
-    webUrl: "https://www.cincinnati.com/story/money/2020/11/12/kamala-harris-husband-second-gentleman-doug-emhoff-breaks-stereotypes/6227849002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/6227849002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6227849002"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 53
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/b4f7d491-8820-4536-b3c3-3bdd42e2b92c-AP_Election_2020_Emhoff_2.jpg?auto=webp&crop=3938,2216,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "‘It’s our time’: Black and brown women around Connecticut celebrate the significance of Kamala Harris’s historic win"
     excerpt: "Women of color across Connecticut are rejoicing Saturday in the historic election of Sen. Kamala Harris, a Black and South Asian woman and daughter of immigrants, as the first female vice president of the United States."
     publishedDateTime: 2020-11-07T18:15:00Z

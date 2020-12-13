@@ -575,6 +575,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Trump loses Wisconsin case while arguing another one"
+    excerpt: "U.S. District Judge Brett Ludwig dismissed the lawsuit asking the court to order the Republican-controlled Legislature to name Mr. Trump the winner over Democrat Joe Biden."
+    publishedDateTime: 2020-12-13T12:13:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-wisconsin-court-losses/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-wisconsin-court-losses/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-wisconsin-court-losses/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/12/9f041b88-1a5f-4dd5-9213-d06622116b6c/thumbnail/1200x630/6219b8c8009a7033546036bc1223f898/gettyimages-1230087931.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump campaign would have to pay nearly $8 million for Wisconsin recount"
     excerpt: "President Donald Trump's campaign would have to pay nearly $8 million to start a recount in Wisconsin, a state he narrowly lost two weeks ago."
     publishedDateTime: 2020-11-17T11:57:00Z
@@ -1050,15 +1066,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Trump Loses Wisconsin Case While Arguing Another One"
-    excerpt: "President Donald Trump has lost a federal lawsuit while his attorney argued his case before a skeptical Wisconsin Supreme Court in another lawsuit that liberal justices said “smacks of racism.”."
-    publishedDateTime: 2020-12-12T21:45:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/wisconsin-supreme-court-in-saturday-session-for-trump-case"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "J8ekgKvh2Kg8bz53bDtQsCDzMNGc1Z5hr6cePme+8VCwsZ453qab8l6beqdhwoT0oKTxBoZP8U/RXMMaDmjTbunFHtXzbHpL/5Sl6uibiGEjDVQSb83NDJJepXwYAmSCBEsUlpY/7DnEczLqbRJGZHUnd/Bu/UN2IewZMwmcV01g7xNM9wHzwT6lWX2xdqWp+yiIo11T8PgFDsuO3Dim6nPA2o/NipvTauRXAp+Vk4vIad7XR/YVY59OoEThTIm1JBFlWsY9/oTMG7oCI1iLaaRr0y1TtiKkCL2Iw0N0Oq3gLRemiLIRwKjtElGhPPP4Tq0bVCG9EmaG0LDLpCdzLUzWmqhFXQEVBrEdoitzTcA=;F4wbKsV3b+4XasSjIttuzg=="
 ---

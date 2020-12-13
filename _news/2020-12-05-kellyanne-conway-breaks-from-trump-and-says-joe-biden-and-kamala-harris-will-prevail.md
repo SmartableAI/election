@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-wo
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp"
 type: article
 quality: 167
-heat: 2427
+heat: 2407
 published: true
 
 provider:
@@ -1765,15 +1765,6 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 50
-  - title: "Federal Judge Rejects Trump Campaign Lawsuit Seeking to Overturn Joe Biden’s Win in Wisconsin"
-    excerpt: "Wisconsin, Associated Press Best States is an interactive platform developed by U.S. News for ranking the 50 U.S. states, alongside news analysis and daily reporting. The platform is designed to engage citizens and government leaders in a discussion about what needs improvement across the country."
-    publishedDateTime: 2020-12-12T19:09:00Z
-    webUrl: "https://www.usnews.com/news/best-states/wisconsin/articles/2020-12-12/federal-judge-rejects-trump-campaign-lawsuit-seeking-to-overturn-joe-bidens-win-in-wisconsin"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 39
 
 secured: "EOBxLfT8JrW7nSSV30REv+0WPyP0Pf90ejZx0Sq1XcuOSWOTZEIlUFCkbsrlhZ9JwEeiHoA0/LB2kAZ7xA8SHLYds9yR/v0YZvT3F1KIgUW1FgO72Wcz9/BrWYHjg6XN0crImc/8z4YZenuSZIZ9VVNMo+fKqA6rQ89BFnQdWnnfFIpQb4mwI94gsTKXWCXNIGKv44VPYpwaQJtQoJF31/a53V9vdT7SWbxR1tL5isA5hez+s4KMyWNoe6wYyMptsaUhIAu9+0sHQx6W/iWtTfIErLAwLv83mh/zkhk8gPu5EluOnf1JLdth05sFaRi5UFd4S6fh5R/kuDEDWwMgwFVgKUestBK+ZExgD4boTOYlhz+r4ZXAC4yLSHo7nQExL6AGEFQKD/xbbVF2iuIxM9cCa7+VDejjsHUT1ZUQWvDIMpM4hVQ1BMFb6o9LMqy+1b7BBre6itrXC2c5cIW89ywPoBqaMDJmdaF8OtAomwQexrowgwDRUfd83enmcPrgXYYltW9vfkjIoPTf9t8i4A==;9Wa3StZe91U+ju+XR8Bg8A=="
 ---

@@ -1763,15 +1763,6 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 50
-  - title: "Federal Judge Rejects Trump Campaign Lawsuit Seeking to Overturn Joe Biden’s Win in Wisconsin"
-    excerpt: "Wisconsin, Associated Press Best States is an interactive platform developed by U.S. News for ranking the 50 U.S. states, alongside news analysis and daily reporting. The platform is designed to engage citizens and government leaders in a discussion about what needs improvement across the country."
-    publishedDateTime: 2020-12-12T19:09:00Z
-    webUrl: "https://www.usnews.com/news/best-states/wisconsin/articles/2020-12-12/federal-judge-rejects-trump-campaign-lawsuit-seeking-to-overturn-joe-bidens-win-in-wisconsin"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 39
 
 secured: "fe02cLYZiQ9Ousu1x6whPc/orXb0oP30QtoNoL3xz3mRVILzyl/B3ympKCUjRka9Pk2WCM/ja+pCvpfdFPJ4DqbEoJgHIvMIQYE1yrVa++hsWXQg79WuhDY37ozy4c1vvpKZjYoMHXKpQP5FLhkdbd2/GSRpIDY8l2sCuXlRJ3lik3ObXhbXcQMhdtbJLx4uO6pS4ClosSQMdX1W7nqbDnkC2Pa72Hf2mNbhrBd65M/FoHXF9nzJKuoHEMTyYtdf1xvruBitnnVo6abK0fHkmJlWmd8g1T9DoH/v61O5/LqvMgDKzwiMtKAKxIhVMeTlchNJUltvjxKQgzOXFzhl888/S2YOez39iPOCl0+HHa4=;p1oT6bu24vcu4SNy4PIhZA=="
 ---

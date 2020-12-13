@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-safe-harbor-electoral-college
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-safe-harbor-electoral-college-legal-fight.amp"
 type: article
 quality: 168
-heat: 188
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Live Updates: Trump legal team dismisses 'safe harbor deadline,' pledge to continue fight"
-    excerpt: "The Trump campaign legal team on Tuesday dismissed the importance of the \"safe harbor deadline\" and indicated they intend to keep going with their legal fight of the election results."
-    publishedDateTime: 2020-12-10T00:32:00Z
-    webUrl: "https://www.foxnews.com/politics/live-updates-legal-12-8-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-12-8-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-8-2020.amp"
+  - title: "Trump tells 'Fox & Friends' election challenges 'not over' ahead of Electoral College vote"
+    excerpt: "President Trump vowed that he and his campaign “are going to continue to go forward” with their legal challenges against November’s election results, despite the Electoral College getting set to cast their votes on Monday."
+    publishedDateTime: 2020-12-13T12:48:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cd_49uR8pnc/trump-fox-and-friends-election-challenges-not-over-electoral-college-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-fox-and-friends-election-challenges-not-over-electoral-college-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fox-and-friends-election-challenges-not-over-electoral-college-vote.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 126
+    quality: 180
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/855b0975-a82d-44dd-9ee9-e16eee6933da/80778d32-d6f8-43fa-917e-4bfbf73968d2/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/af96457e-fe5b-4fb8-ba03-20cfe1da89e3/b261a395-51b1-47c7-934b-03d1913816b6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Cheney, Buck lead House resolution backing Trump legal efforts: 'Must protect the integrity of our elections'"
+    excerpt: "House Republican Conference Chair Rep. Liz Cheney and Rep. Ken Buck on Friday are leading a group of 18 lawmakers in sponsoring a resolution in the House that backs the legal action by President Trump on the presidential election, which most recently includes a request to join the Texas lawsuit aiming"
+    publishedDateTime: 2020-12-11T11:47:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-SwkO2WYy4/liz-cheney-ken-buck-lead-house-resolution-backing-trump-legal-efforts-on-election"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 151
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Rep-Liz-Cheney.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "CNN's John Avlon compares Trump election challenge supporters to 'Confederates'"
+    excerpt: "CNN senior political analyst John Avlon compared President Trump and supporters of his ongoing efforts to challenge the results of the 2020 presidential election to \"Confederates\" in support of slavery."
+    publishedDateTime: 2020-12-10T02:19:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-john-avlon-compares-trump-supporters-confederates"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-john-avlon-compares-trump-supporters-confederates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-john-avlon-compares-trump-supporters-confederates.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0089e4b9-29c4-49b8-8005-562d83395371/4dee8747-4a34-412f-8c8e-6c396e994b06/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

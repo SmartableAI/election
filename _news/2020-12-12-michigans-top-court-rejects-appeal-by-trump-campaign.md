@@ -41,8 +41,8 @@ related:
         isCached: true
   - title: "Pro-Trump protests decry president's election loss, opposing groups clash in Washington"
     excerpt: "Conservative groups claiming without evidence that the Nov. 3 election was stolen from President Donald Trump staged protests across the country on Saturday, with one in Washington turning violent at times as police broke up sporadic clashes after dark."
-    publishedDateTime: 2020-12-13T08:02:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-protests-idUSKBN28M0E5"
+    publishedDateTime: 2020-12-13T10:10:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-protests/pro-trump-protests-decry-presidents-election-loss-opposing-groups-clash-in-washington-idUSKBN28M0E5"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28M0E5"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0E5"
     type: article
@@ -326,6 +326,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Thousands gather in Washington D.C. to show support for Trump"
+    excerpt: "Thousands descended on Washington D.C. Saturday for the second \"Million MAGA March\" in support of President Trump since he lost the presidential election. Metro Police confirmed Saturday afternoon there were some arrests,"
+    publishedDateTime: 2020-12-13T12:07:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-supporters-gather-washington-dc-million-maga-march/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-supporters-gather-washington-dc-million-maga-march/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-supporters-gather-washington-dc-million-maga-march/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/12/fb6fd6ee-39e7-41d1-a92f-ca7a9ef9f32f/thumbnail/1200x630/0044488bd243acc1a4c26b93c736cc95/rtx8fozw.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Watch Live: Trump does coin toss at Army-Navy Game"
     excerpt: "Navy coin toss before the game on Saturday afternoon. The event begins at 3:00 p.m. EST. Watch the live video above."

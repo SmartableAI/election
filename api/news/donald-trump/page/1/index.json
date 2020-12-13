@@ -318,7 +318,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-trump/u-s-supreme-court-ends-texas-lawsuit-seeking-to-undo-trump-election-loss-idUSKBN28L2YY",
       "featuredContent": null,
       "highlight": null,
-      "heat": 899,
+      "heat": 919,
       "tags": null,
       "images": [
         {
@@ -1219,23 +1219,23 @@
       ]
     },
     {
-      "path": "_news/2020-12-10-cnns-john-avlon-compares-trump-election-challenge-supporters-to-confederates.md",
-      "title": "CNN's John Avlon compares Trump election challenge supporters to 'Confederates'",
-      "excerpt": "CNN senior political analyst John Avlon compared President Trump and supporters of his ongoing efforts to challenge the results of the 2020 presidential election to \"Confederates\" in support of slavery.",
+      "path": "_news/2020-12-10-live-updates-trump-legal-team-dismisses-safe-harbor-deadline-pledge-to-continue-fight.md",
+      "title": "Live Updates: Trump legal team dismisses 'safe harbor deadline,' pledge to continue fight",
+      "excerpt": "The Trump campaign legal team on Tuesday dismissed the importance of the \"safe harbor deadline\" and indicated they intend to keep going with their legal fight of the election results.",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnn-john-avlon-compares-trump-supporters-confederates",
-      "originalUrl": "https://www.foxnews.com/media/cnn-john-avlon-compares-trump-supporters-confederates",
+      "webUrl": "https://www.foxnews.com/politics/live-updates-legal-12-8-2020",
+      "originalUrl": "https://www.foxnews.com/politics/live-updates-legal-12-8-2020",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 146,
+      "heat": 126,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0089e4b9-29c4-49b8-8005-562d83395371/4dee8747-4a34-412f-8c8e-6c396e994b06/1280x720/match/image.jpg",
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/855b0975-a82d-44dd-9ee9-e16eee6933da/80778d32-d6f8-43fa-917e-4bfbf73968d2/1280x720/match/image.jpg",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -1245,9 +1245,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnn-john-avlon-compares-trump-supporters-confederates.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-john-avlon-compares-trump-supporters-confederates.amp",
-      "publishedDateTime": "2020-12-09T18:19:00-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-legal-12-8-2020.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-8-2020.amp",
+      "publishedDateTime": "2020-12-09T16:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

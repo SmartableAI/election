@@ -559,6 +559,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Trump loses Wisconsin case while arguing another one"
+    excerpt: "U.S. District Judge Brett Ludwig dismissed the lawsuit asking the court to order the Republican-controlled Legislature to name Mr. Trump the winner over Democrat Joe Biden."
+    publishedDateTime: 2020-12-13T12:13:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-wisconsin-court-losses/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-wisconsin-court-losses/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-wisconsin-court-losses/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/12/9f041b88-1a5f-4dd5-9213-d06622116b6c/thumbnail/1200x630/6219b8c8009a7033546036bc1223f898/gettyimages-1230087931.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Spurred on by false claims of fraud, Trump supporters rally in Washington"
     excerpt: "Tens of thousands of President Donald Trump's supporters marched through downtown Washington on Saturday, echoing his unsubstantiated claims of election fraud and cheering as his motorcade drove past."
     publishedDateTime: 2020-11-15T07:46:00Z
@@ -1050,15 +1066,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Trump Loses Wisconsin Case While Arguing Another One"
-    excerpt: "President Donald Trump has lost a federal lawsuit while his attorney argued his case before a skeptical Wisconsin Supreme Court in another lawsuit that liberal justices said “smacks of racism.”."
-    publishedDateTime: 2020-12-12T21:45:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/wisconsin-supreme-court-in-saturday-session-for-trump-case"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "0bPwSqF6KRFvem6Gp1kUgvtWzKQhrSueEI9EnFcxW+i8f5+8nHuYH3PyrSfcn2cstf7saGKyzKtdPWYdkSVc6fAJiHr6pclLQmsKK+4GxU2fM9WeV61r1ssTbLto0i1capZzdp7XMS5Sy4+sdhNAz6ftjpqBV2Q1YcvJnhssgb2GVpopJDuwTxBy7ptyB/Wghky1KCmtBntth+l6Xtte7uyB0FCnYrRQerL7BChV/zLCzOzk4KS+izx0W7oxpDX5KiGBvGYWCCsqC8scTpIAgu3GcHTGSk95BYqFjqpoKfet1RfgNaFleHioLjSxMysnoq5u7C+x+crc+fkHgQQIX5QO1XELfLj+uOXs1AGdSmtrX12qsNmQAihvKgJn7dL9+QsWSUFKX2OtiKk/PIUS2C41ohAiy9DxV46iLk3fDepjirM2QfafLthnYyiRYgrWD6gSYDc/h4hBVPYIrgsmXpMtDNe9BZqRKUdoT+ixqHjxxQ2S16RZU+FtdDMQQl7W04tWGsqEfh4Vlui1khU7ig==;ASxwyFxVqONK0wBosfharg=="
 ---

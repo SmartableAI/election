@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-suggests-biden-will-take-chris
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12?amp"
 type: article
 quality: 143
-heat: 223
+heat: 243
 published: true
 
 provider:
@@ -79,6 +79,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/eWz6YaZpjv13UyZnuMN9_9d0L3U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MR5JQFF7QVAAZGFBXYO4BDLZII.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin"
+    excerpt: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin."
+    publishedDateTime: 2020-12-13T12:01:00Z
+    webUrl: "https://apnews.com/article/joe-biden-north-america-national-courts-national-governments-lawsuits-33d2da562964c11cfc96c27b7c25af19"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 109
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Trump is offering pardons 'like Christmas gifts' to people who don't even want them, according to a report"
     excerpt: "The president and his closest associates face multiple civil and criminal probes once he leaves office."

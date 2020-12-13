@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/trump-morocco-analysis-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/trump-morocco-analysis-intl/index.html"
 type: article
 quality: 189
-heat: 569
+heat: 589
 published: true
 
 provider:
@@ -318,6 +318,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/12/us/12trump-wisconsin/merlin_179552091_dbf4228e-570d-4d46-897e-ad283b8fb58c-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump unleashes an army of sore losers"
+    excerpt: "GOP candidates for House, legislative and gubernatorial races in more than half a dozen states are claiming voter fraud and still refusing to acknowledge defeat."
+    publishedDateTime: 2020-12-13T12:24:00Z
+    webUrl: "https://www.politico.com/news/2020/12/13/trump-2020-election-gop-444682"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/13/trump-2020-election-gop-444682"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/13/trump-2020-election-gop-444682"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/82/6e/a8eebaf743268c8d3932d1d8652f/webp.net-resizeimage%20(33).jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "In Trying for a Diverse Administration, Biden Finds One Group’s Gain is Another’s Loss"
     excerpt: "The pressure on the Democratic president-elect is intense, even as his efforts to ensure ethnic and gender diversity already go far beyond those of President Trump. And it’s coming from all sides."

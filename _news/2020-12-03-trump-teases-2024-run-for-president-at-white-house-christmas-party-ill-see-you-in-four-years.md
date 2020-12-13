@@ -79,6 +79,20 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin"
+    excerpt: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin."
+    publishedDateTime: 2020-12-13T12:01:00Z
+    webUrl: "https://apnews.com/article/joe-biden-north-america-national-courts-national-governments-lawsuits-33d2da562964c11cfc96c27b7c25af19"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 109
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Trump is offering pardons 'like Christmas gifts' to people who don't even want them, according to a report"
     excerpt: "The president and his closest associates face multiple civil and criminal probes once he leaves office."
     publishedDateTime: 2020-12-08T12:20:00Z

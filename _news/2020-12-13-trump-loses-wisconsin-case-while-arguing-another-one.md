@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Trump Loses Wisconsin Case While Arguing Another One"
-excerpt: "President Donald Trump has lost a federal lawsuit while his attorney argued his case before a skeptical Wisconsin Supreme Court in another lawsuit that liberal justices said “smacks of racism.”."
-publishedDateTime: 2020-12-12T21:45:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/wisconsin-supreme-court-in-saturday-session-for-trump-case"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/wisconsin-supreme-court-in-saturday-session-for-trump-case"
+title: "Trump loses Wisconsin case while arguing another one"
+excerpt: "U.S. District Judge Brett Ludwig dismissed the lawsuit asking the court to order the Republican-controlled Legislature to name Mr. Trump the winner over Democrat Joe Biden."
+publishedDateTime: 2020-12-13T12:13:00Z
+originalUrl: "https://www.cbsnews.com/news/trump-wisconsin-court-losses/"
+webUrl: "https://www.cbsnews.com/news/trump-wisconsin-court-losses/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/trump-wisconsin-court-losses/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-wisconsin-court-losses/"
 type: article
-quality: 35
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/12/9f041b88-1a5f-4dd5-9213-d06622116b6c/thumbnail/1200x630/6219b8c8009a7033546036bc1223f898/gettyimages-1230087931.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Angry at election defeat, Trump seeks partial recount in Wisconsin"
@@ -1059,6 +1067,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "JGk1B/QvENccrwU/ecY46X9hhTtvKvWlHFGwX6ZZdNuJro1HYV4EDaHhhiGOdeDvnn4PdryzSF6o3+Gm20BuYFb+otzVe0qUmVjhlrQoSmkB3qPI0g2qljDl9HqTVKPoojNvq1mcGJz/ch+JWp8MBimwRzRicPx5t+eCvLCSuLSnMq5zEV4i26N4ckmYB9x8togPcZUIY/TW1OeFKOWt5JzlXjxppbhw/DF9Mhbcnhxmq5U5mfT+EVTf0Vke2sZXu4+yUfQK/jt9nizr1u7fmTUaXAARgRonJqmONHdT45KvcZT5Q1e4rL4jk6yBqmfDE/J0k1aNx61/I85OgOecJSRA9hgz3YvoqTOP5UjE3eI=;Cu6xKE3iX4XHn0btr0sOmg=="
+secured: "+xuOYMn1jPxf4PSuUyruOPLpsZZmNpngcEE33EjiHK7NGffsy6TjueuCCcjvCPb8jY3x4Sg0T7i2YvqibpoOh9rBOSwO3AHFEzdu1wXS8A7yHMhc/JoaG90+DMz0rQmWXuH1sM049YvuBvkFBR5z3OhYbsOvadR0ezrBlCtvStx2N4OMHGyhZ9BE6QDFXhZWIFQF6f3Z+jaDQTyMLGM1pXG1arAQID0z24tIwruo++iLRltYofspqroHa9fTsTIQrm5PQx5CKvH6TdZ7BMvkK6LH+PKZZkc+ObSI1riZUrHwVY/7vnx8bYXX04zVbIvpGZogtUUSFemcuIekhb+on2CvVRe/NjCwQKZUpPWkHgo=;syiilVlRtHzCHWUTwAc0Ow=="
 ---
 

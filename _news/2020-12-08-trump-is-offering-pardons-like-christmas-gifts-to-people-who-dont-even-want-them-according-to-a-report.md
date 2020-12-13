@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin"
+    excerpt: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin."
+    publishedDateTime: 2020-12-13T12:01:00Z
+    webUrl: "https://apnews.com/article/joe-biden-north-america-national-courts-national-governments-lawsuits-33d2da562964c11cfc96c27b7c25af19"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 109
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "NixzfrdRgkvRG/wXTZ4+mJi46IspcKykuCgPV/NfFYM3KlGBf/kwOpC1512/INiNysdafmTiJiB8kR59al4f+g3qmTuiiL1tvAD4aSccx21seSmmcYI7vkYBBPdiEMxroN+MFXjpMMJo17A/RpY3vpfPMHfgcTaIePIyb3eGcG3xSK871kl4+J10dWlKjnVHx4X9S6XCPcbcTy3OHexGpqBIXbTEiVGmgTKRCj+A06Vd0VISxXxGMQCMij9hT4IYcFvkNZK8V6h+pHVHpVci2gM7CsFBNXfBuQHR9l8ATix+GPLDmUNPr9VVB2nmhmARHa8eHeDE0YQChotnT942EuGEC7b7NKkKTqgJMuIHSf1bIIodFWprOHUaEOseeh7BgQSc2QXnEg+AWTMiKONSa/17W+69rTf7glNCt5JO7oz63Sq6JGdtp0HyODJ7PugXtMl95vWDO9cTv6u9snVM3hPdjGr8AGYELz+YjTo8zy85j+2eXsKEDMTXN7UBjm20bHTufy9j6lALdqtzBM/CAw==;OhC6WXc7g22IW6Sz1+J3Ug=="
 ---

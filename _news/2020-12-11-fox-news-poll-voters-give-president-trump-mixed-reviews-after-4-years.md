@@ -63,20 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Cheney, Buck lead House resolution backing Trump legal efforts: 'Must protect the integrity of our elections'"
-    excerpt: "House Republican Conference Chair Rep. Liz Cheney and Rep. Ken Buck on Friday are leading a group of 18 lawmakers in sponsoring a resolution in the House that backs the legal action by President Trump on the presidential election, which most recently includes a request to join the Texas lawsuit aiming"
-    publishedDateTime: 2020-12-11T11:47:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-SwkO2WYy4/liz-cheney-ken-buck-lead-house-resolution-backing-trump-legal-efforts-on-election"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 151
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Rep-Liz-Cheney.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Trump lost the 2020 election, but he proved America can win again"
     excerpt: "Whatever happened in the 2020 election, the first draft of history should be clear: President Donald Trump proved that American decline can be resisted and reversed. He showed that our nation can"
     publishedDateTime: 2020-12-05T15:21:00Z
