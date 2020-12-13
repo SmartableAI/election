@@ -144,6 +144,22 @@ related:
         width: 1200
         height: 794
         isCached: true
+  - title: "McEnany claims Trump was not allowed orderly transition in 2016"
+    excerpt: "Tonight, President Trump is ignoring all the hysteria from the media mob and the Democratic Party and vowing to fight for you, the American people. Watch this. DONALD TRUMP, PRESIDENT OF THE UNITED STATES: Big pharma ran millions of dollars of negative advertisements against me during the campaign,"
+    publishedDateTime: 2020-12-13T20:08:00Z
+    webUrl: "https://www.foxnews.com/transcript/mcenany-claims-trump-was-not-allowed-orderly-transition-in-2016"
+    ampWebUrl: "https://www.foxnews.com/transcript/mcenany-claims-trump-was-not-allowed-orderly-transition-in-2016.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mcenany-claims-trump-was-not-allowed-orderly-transition-in-2016.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee331ede-b231-4332-804e-fcd02265cb3e/2bdcb55b-ac61-46c8-ab1b-d2c239278a91/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "EOhgFajEhz5CZNoHsMGliDZw5ok2Azhqb8Mt4yC1FeOSjb/uImg7On8BJs6rAzRUbg/4i/QNKRUj2xguEMZRDMVG8fkC1bkgN1ZbZUuO9ybFr+VGug74FN28/z4nev/+4lU0J7sLCaC2Pw0xh/Q/VH0S1g77VthaynkwzskYLP8hfiC3afVPZ3U8atIZg6P4Euu2quGaObjud7SSZ7Poj/17YP8ijGsX5uhAjtURVp/1Tp3AoXv88wsWMJNyDl5t6Oxf5Zpmkw42h0mB2Mqh1/rIcHfXNtpzwV0vtR3Pcs8zVKNjoQR98tEvvzc7kG4rp7lSTqGxCPRG79NUnFC9qWuNzzE3dtXxAmlxuMqAVP4=;zYhnXKTHrdevq3bPfqXWUQ=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Trump revives threat to veto defense bill, teeing up battle with lawmakers"
 excerpt: "U.S. President Donald Trump on Sunday repeated his threat to veto a massive defense spending bill, setting the stage for a major battle with U.S. lawmakers at a time when they are racing to hammer out a compromise on more coronavirus relief."
 publishedDateTime: 2020-12-13T18:21:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-defense-trump/trump-revives-threat-to-veto-defense-bill-teeing-up-battle-with-lawmakers-idUSKBN28N0O5"
-webUrl: "https://www.reuters.com/article/us-usa-defense-trump/trump-revives-threat-to-veto-defense-bill-teeing-up-battle-with-lawmakers-idUSKBN28N0O5"
+originalUrl: "https://www.reuters.com/article/us-usa-defense-trump-idUSKBN28N0O5"
+webUrl: "https://www.reuters.com/article/us-usa-defense-trump-idUSKBN28N0O5"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28N0O5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28N0O5"
 type: article
@@ -2376,6 +2376,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Allies Eye Long-Shot Election Reversal in Congress, Testing Pence"
+    excerpt: "President Donald Trump lost key swing states by clear margins. His barrage of lawsuits claiming widespread voting fraud has been almost universally dismissed, most recently by the Supreme Court. And Monday,"
+    publishedDateTime: 2020-12-13T20:57:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/trump-allies-eye-long-shot-election-reversal-in-congress-testing-pence/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/trump-allies-eye-long-shot-election-reversal-in-congress-testing-pence/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/trump-allies-eye-long-shot-election-reversal-in-congress-testing-pence/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 85
   - title: "Will Texas And Other States Secede Over Donald Trump?"
     excerpt: "After the Supreme Court threw out a lawsuit against the swing states which voted for Joe Biden in the 2020 Election, the Texas GOP threatened to secede from the United States."
     publishedDateTime: 2020-12-12T14:41:00Z
@@ -2511,6 +2522,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "6nteRqT8nb8UcITs92GY6EDx7nwNkK6aDdczi41Htm7yewZLXEsw4zEU6FSQ16KKuG6rdtVJ5SRimEPwOGBRqbqh/MAwEdIctu9eevSMWhhgMUL0a0SN7teaHg9ZiaT9QFkmmjEyLE8QVKgBghNH6ZtiWq+IVyhGXfNkGKE75TM3vERA2mJuuHkVVv2YPlB2kh23CLpYw5aWT4D94+09ullCKSKy4AUwMfNzTEV1CeeuXA6uIRTNPlcSAprWZlO9wj1K5eoahIuqbvuXL3zot0h9hn1WTmeIlE36jlx/2gjx4ZJmnwkTnuACu3msNl1s2/LAUmjHosAa8x1r/+U4gNj9TM1Ksr07vo3djmL2jRY=;ISngMdiokbmhOOO52BWEQA=="
+secured: "eOBxbaVWUakgqJIycCSLvPhubAJiaWCmFvKGe5cuZ8uSAk9wqW4enbQWLgz76CeEoNvaKA2eWidM6LgPmrlJbgmwgIVOEtecc9LhuQMW3CtEXlQKJg1PgbJ+OhNYsnGuZjY/oyyPDyfxxMzHuvesZ2/Akju7pwy8v0sbj3C/rST2H3kCSZINO7qRWMWlE3FUt4TExNza+fyI3XNy/uPvlRwBiePIA0/9R4DGAzA/gfeK6vacMvdLL4SdkhVwbUrF4eal1nVFxeN5mDS8aMJsVDxOzHIvN5+kM6j9mvEKyTXOedwHXCgJotDafkK1sjuT6weD1TbcQV3QIKHKKfKK+JxYMMU+ywejjBVker1S8xw=;IwQCEl1ncygHQnMsNa/H+g=="
 ---
 

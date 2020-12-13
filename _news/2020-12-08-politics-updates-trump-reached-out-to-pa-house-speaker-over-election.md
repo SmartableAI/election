@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6484311002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6484311002"
 type: article
 quality: 150
-heat: 3410
+heat: 3430
 published: true
 
 provider:
@@ -1475,7 +1475,7 @@ related:
   - title: "Trump revives threat to veto defense bill, teeing up battle with lawmakers"
     excerpt: "U.S. President Donald Trump on Sunday repeated his threat to veto a massive defense spending bill, setting the stage for a major battle with U.S. lawmakers at a time when they are racing to hammer out a compromise on more coronavirus relief."
     publishedDateTime: 2020-12-13T18:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-defense-trump/trump-revives-threat-to-veto-defense-bill-teeing-up-battle-with-lawmakers-idUSKBN28N0O5"
+    webUrl: "https://www.reuters.com/article/us-usa-defense-trump-idUSKBN28N0O5"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28N0O5"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28N0O5"
     type: article
@@ -2377,6 +2377,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Allies Eye Long-Shot Election Reversal in Congress, Testing Pence"
+    excerpt: "President Donald Trump lost key swing states by clear margins. His barrage of lawsuits claiming widespread voting fraud has been almost universally dismissed, most recently by the Supreme Court. And Monday,"
+    publishedDateTime: 2020-12-13T20:57:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/trump-allies-eye-long-shot-election-reversal-in-congress-testing-pence/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/trump-allies-eye-long-shot-election-reversal-in-congress-testing-pence/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/trump-allies-eye-long-shot-election-reversal-in-congress-testing-pence/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 85
   - title: "Will Texas And Other States Secede Over Donald Trump?"
     excerpt: "After the Supreme Court threw out a lawsuit against the swing states which voted for Joe Biden in the 2020 Election, the Texas GOP threatened to secede from the United States."
     publishedDateTime: 2020-12-12T14:41:00Z

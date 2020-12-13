@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/republicans-president-trump-robbed-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-army-navy.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 794
+        isCached: true
+  - title: "McEnany claims Trump was not allowed orderly transition in 2016"
+    excerpt: "Tonight, President Trump is ignoring all the hysteria from the media mob and the Democratic Party and vowing to fight for you, the American people. Watch this. DONALD TRUMP, PRESIDENT OF THE UNITED STATES: Big pharma ran millions of dollars of negative advertisements against me during the campaign,"
+    publishedDateTime: 2020-12-13T20:08:00Z
+    webUrl: "https://www.foxnews.com/transcript/mcenany-claims-trump-was-not-allowed-orderly-transition-in-2016"
+    ampWebUrl: "https://www.foxnews.com/transcript/mcenany-claims-trump-was-not-allowed-orderly-transition-in-2016.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mcenany-claims-trump-was-not-allowed-orderly-transition-in-2016.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee331ede-b231-4332-804e-fcd02265cb3e/2bdcb55b-ac61-46c8-ab1b-d2c239278a91/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump to award wrestling legend Dan Gable the Presidential Medal of Freedom"
     excerpt: "President Trump will award Olympic gold medalist and college wrestling legend Dan Gable the Presidential Medal of Freedom on Monday."

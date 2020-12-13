@@ -3,10 +3,10 @@ category: news
 title: "Joe Biden and Kamala Harris jointly named Time's 'Person of the Year'"
 excerpt: "U.S. President-elect Joe Biden and Vice President-elect Kamala Harris were jointly named Time magazine's 2020 \"Person of the Year\" on Thursday, chosen from a list of finalists that included the man Biden vanquished at the polls - President Donald Trump."
 publishedDateTime: 2020-12-11T18:34:00Z
-originalUrl: "https://www.reuters.com/article/time-person/update-3-joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSL1N2IQ3C0"
-webUrl: "https://www.reuters.com/article/time-person/update-3-joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSL1N2IQ3C0"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K33R"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K33R"
+originalUrl: "https://www.reuters.com/article/time-person/update-4-joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSL1N2IQ3C0"
+webUrl: "https://www.reuters.com/article/time-person/update-4-joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSL1N2IQ3C0"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K32U"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K32U"
 type: article
 quality: 140
 heat: -1
@@ -1778,6 +1778,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "wHzTobbqM9C5Vi+zBGyXowNnAb3s63yBOEDXmQR7HQZU7gxL5HQwvl9/69eFH2GiU06ygBDCjSHz5Z8sDKCFPO6weji1po/yU8YYtRq6O/70XIEPuBMqgH0qJxjVkPRIwWy+fxALjR+STCXA6j/mN3yTmF6YVfgaqp8MREzN2oR1kDs6m/uAC2z4edTclBd/lsLgx8lD+muzvdKOzGyPLPcndQzgde/qI/mGkAU/Upy4qxGrxBYgvXyHhI14pIjB5bRhtYLBpuHGsGecq8Fj8GCd1T/czUTNxaAs529kf95GbWC4jPTGcroTzKcvBiGhgJJKBw/VfMwWS2dUzU3h7IpuHlvgyPAIA9vyfhAv+IhbuG7He8MIX3R75Fx8sPk6c9e3u7klp62Ci9tCx1z9ysJCUo7PfYPzdXvMWFBE/4GZVBQrVrxz/8IFfwR2eYhKcA79DYyYe8kcbgDI4R2meZjINp6iR9Tw5RAPMDV0xm19H2tOwwOCBQvbnu0WbNbF1EGNkz6p3eawEB5cKxv1Nw==;gXdyczUVoemGdZq5DAvXmQ=="
+secured: "Y4fxDUz9htcNTv3lu8gw0fXDcvvM+DcHemGfgMavWBH0z21+mr9X0VtHyqxrnIWs80/D356GuwKWRzbrdUOm6oGSvYd8isvIWaN14KOibO2RjurTI7X/nUERD9GiIO6J1YK17acV6bvawAoXBvs3RtD/B1H+eSKu1nfPCFPsMZ6rOGBRhJNGpDT3bA90wpmfqDTx71HONtMFBcNpn2qKR/I8iyObU1/xd7PXCcmZ9ojW386u/fsFcAJlhKORu8RgXCP1lHl9uEtNDWfqpV2hmPsdGgnwhv3lxms7o4/VxNPXr4ND0c1+TPPf0x8LIs1sq8vb2XIqH3EM/0mRM1gn3tDkRlYc5llEknUuyB7GyeA=;YxVb73+tW5d0o7uFJ64kUw=="
 ---
 
