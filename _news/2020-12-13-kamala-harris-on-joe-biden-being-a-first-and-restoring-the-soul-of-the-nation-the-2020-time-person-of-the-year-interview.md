@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-12T22:44:00Z
 originalUrl: "https://time.com/5919490/kamala-harris-person-of-the-year-interview/"
 webUrl: "https://time.com/5919490/kamala-harris-person-of-the-year-interview/"
 type: article
-quality: 93
+quality: 103
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Election
   - Kamala Harris
+  - Joe Biden
 
 images:
   - url: "https://api.time.com/wp-content/uploads/2019/12/time-person-of-the-year-kamala-harris-portrait.jpg"
@@ -384,9 +385,9 @@ related:
   - title: "Joe Biden and Kamala Harris jointly named Time's 'Person of the Year'"
     excerpt: "U.S. President-elect Joe Biden and Vice President-elect Kamala Harris were jointly named Time magazine's 2020 \"Person of the Year\" on Thursday, chosen from a list of finalists that included the man Biden vanquished at the polls - President Donald Trump."
     publishedDateTime: 2020-12-11T18:34:00Z
-    webUrl: "https://www.reuters.com/article/time-person/update-4-joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSL1N2IQ3C0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K32U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K32U"
+    webUrl: "https://www.reuters.com/article/time-person/update-3-joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSL1N2IQ3C0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K33R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K33R"
     type: article
     provider:
       name: Reuters
@@ -1778,6 +1779,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "WuKKuxMRrWD3b0kUQ4x30E1gJlht5Cay5mFUSsU+sZ/nd0JZ/yuhiHVVmRJxwDxgSRcO2H6F1EWQz8p3l8MVTEHtnYSmuttguOgs8g3+1SmORadCb0AAGyYTWmtcE4Jczs/52XS3VnLK6B0Jt0wFqGFptDkwr1PlWi+5hxFMF9z+RbP8E1mpb/YpKsdJQxJ7SUbkSbF3n5jzCrQdy+O0uoIYRaWAtmrlrB9ENsvGIOKEo16D7KOuXgWCFEC1F4VSJ9Qdhwi75NjWswnQyNOlK/TZeMFeQII+INPt5rzt0pUiQIg/rLPksBBKyaDg3kLQkzh36lsZhTtf4uYng1hGq/p8BUqFtCfGlZLguCkqX18=;nOKsEdz06hMYTOueuf/6SQ=="
+secured: "ZsZ4wgDfO4sRXzwDQ0pWHDdPz0ri5cPY2VQWrZuDvtsCQT84ZdlqPbR1PnTu+TvHS0DDbtQEqIWvs18cuXM0jwGaA/utBuOdRxJgRGkCkJJbUfVMaD8cStwHEFtDomipEUakqF6X87Ps11HDdMGgarfn8ILJmx7fscHtUvc23Nmw0tvnfugIhbmjIAFbST3b2FPJaVo2g6s7Rsj+o50iY9kvf2xSYxdL0LuHNU7giINVgl/aHTwxGRStR7GeRjzEsZlmL9eQHUpmsK1Va34Mt7h+7itaBjhPqeF63Z2vp1s8PiWbCA6cyYYfR30Y/7ckNchpNKD5ONWAIBdOIVOJux0O2fawe7fuPlsigA4PpP335XaO13MjwyIS1R5lJLGU84hSy+WnI5Q3OpbDOXx4QF0qaM/49resVhbwVWTj7iViutqBtKtcazKr/RdwZ16nXK3cocGq4vnYQt7BZ9mn2jxJ9R6kJuAKq9x6Jpyir0e+J2LIMxuSDarmtOXtoHcPK0Mz1swbSzcyFj7h0ZfuMw==;LnkeBR1X3TEhUhCbpeaJ1g=="
 ---
 

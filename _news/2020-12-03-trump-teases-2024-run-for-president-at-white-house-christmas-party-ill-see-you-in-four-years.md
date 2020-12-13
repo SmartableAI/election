@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Republican Sen. Lamar Alexander says Trump must 'put country first' and concede to Biden"
+    excerpt: "\"People can make their own judgment about whether the president's acting appropriately or not,\" Alexander told NBC News."
+    publishedDateTime: 2020-12-13T15:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/13/republican-senator-llamar-alexander-trump-must-concede-biden/6529478002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6529478002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6529478002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/01/31/USAT/8abbd0cf-e2d8-45af-b78c-522f467f1a64-Alexander_interview_photo_1.JPG?auto=webp&crop=3451,1941,x1,y249&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump lashes out at GOP Gov. Doug Ducey after certification of Arizona results showing Biden win"
     excerpt: "During the certification, Ducey's phone buzzed with \"Hail to the Chief\" - a ringtone he has said he uses for White House calls. He set it aside."
     publishedDateTime: 2020-12-01T13:02:00Z

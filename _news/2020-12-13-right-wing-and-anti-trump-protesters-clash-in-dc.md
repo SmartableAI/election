@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Right wing and anti-Trump protesters clash in D.C."
-excerpt: "Trump protesters clash in D.C. Posted . Conservative groups claiming without evidence that the Nov. 3 election was stolen from President Donald Trump sta"
+excerpt: "Posted . Conservative groups claiming without evidence that the Nov. 3 election was stolen from President Donald Tru"
 publishedDateTime: 2020-12-13T12:44:00Z
-originalUrl: "https://www.reuters.com/video/watch/idOVD8UI5WR"
-webUrl: "https://www.reuters.com/video/watch/idOVD8UI5WR"
+originalUrl: "https://www.reuters.com/video/watch/idPM9n?now=true"
+webUrl: "https://www.reuters.com/video/watch/idPM9n?now=true"
 type: article
 quality: 105
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?d=20201213&i=OVD8UI5WR&r=OVD8UI5WR&t=2"
-    width: 960
-    height: 540
+  - url: "https://ajo.prod.reuters.tv/api/v2/img/5fd603a1e4b04f7ff7c2d8ff-1607861153721?location=LANDSCAPE"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -596,6 +596,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump appoints flurry of allies as presidency winds down"
+    excerpt: "His time in the White House rapidly ending, President Donald Trump is rewarding some supporters and like-minded allies with the perks and prestige that come with serving on federal advisory boards and commissions."
+    publishedDateTime: 2020-12-13T16:09:00Z
+    webUrl: "https://www.businessinsider.com/trump-appoints-flurry-of-allies-as-presidency-winds-down-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-appoints-flurry-of-allies-as-presidency-winds-down-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-appoints-flurry-of-allies-as-presidency-winds-down-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "'The moment of truth': The Electoral College prepares to hand Trump the loss he refuses to accept"
     excerpt: "Facing a loss in the Electoral College, Trump's allies have shifted their focus to Jan. 6, when Congress will count the electoral votes."
     publishedDateTime: 2020-12-11T10:15:00Z
@@ -642,6 +653,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "CvNoMV7RwUCfcultVkGkZuT4YD1eS8jx1jxcNJf4KBhAIcJaq4Y4ha0TzK70Z+BBr47I8GtgOoPxO+eEph3wPE7zamtcNxahSXIURoxBLc6ccX5q79tKq8ei8CTFT7ODwRvSNh7aUEa8DuD3KqPjRjkvxsn+LI+6Rp0cnc5EdAyRrCCnQd8qHxfJu25owp3/oKjSBP0FnOUsp62FIYUX4IFAlP5OXaFnjJImioC6Wmlxar1lh9AUoG9DDzYipZsAbEep2XYSxnVmjMDCOg+Dlsl9yNix3hkDlEa2MCmtK8xEmm6WbnDReelBWWj4FhaVhN+2qobYJwZJpxL54khceuEKywyMOquYUSMhKkXdDXI=;YbPeBvC+cTbtCA5E5yeeDw=="
+secured: "BdgOoOKgH5mDdTpkH2jrsq9kvMdQPZuh1Vf6El7hCZUc3xCMJjf/IN3tHNXzTorK7oRuvl0EiPGWHGW7FieiPu0+UTJquQgFT9MHKIy79ACHjs6mE10HmI3uj3wTk5pZwk45OOQA1orufRX02A5Rq5kwq7auH7gUCBQDtU+4VLVQ9PiEUGmoLAKns+DyrVf2OUjL72GEMyd57gHNW5RAbdLE/JmiYXFwLZvHYvgtVRAP8ANfJ/NfniytHrp/qZst5wDyKyUPaNz524chg5tuSk1Fyt+VkTTU4z1PNwgQ7kW6QldpqoIx7Hp1YIxHOMxgRGLmEXuPb2sxR4Z2QYNn20X7iXBdurzvlJu8fr21ZfI=;gty+yjXB7O/e+d+vSUiyag=="
 ---
 

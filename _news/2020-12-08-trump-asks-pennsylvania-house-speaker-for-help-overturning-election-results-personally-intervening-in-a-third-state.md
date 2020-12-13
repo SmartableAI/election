@@ -1391,6 +1391,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Live politics updates: After losing election and legal challenges, Trump still insists, 'It's not over'"
+    excerpt: "\"It's not over,\" Trump said of the election, despite losing the certified vote tally by more than 7 million and the rejection of his court challenges."
+    publishedDateTime: 2020-12-13T14:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/13/live-politics-updates-joe-biden-donald-trump/6529431002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6529431002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6529431002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/13/USAT/a112b6e0-6f50-4b16-bdb4-4cab711cf37d-AFP_AFP_8X23JG.jpg?auto=webp&crop=5099,2868,x0,y532&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Politics updates: Biden fractures foot playing with dog; Trump mocked for 'I came up with vaccines' claim"
     excerpt: "Trump mocked for his latest attempt to take credit for a COVID vaccine; GOP Sen. Blunt refuses to call Biden the president-elect – politics updates."
     publishedDateTime: 2020-12-01T14:35:00Z

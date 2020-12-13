@@ -582,19 +582,30 @@ related:
         height: 558
         isCached: true
   - title: "Right wing and anti-Trump protesters clash in D.C."
-    excerpt: "Trump protesters clash in D.C. Posted . Conservative groups claiming without evidence that the Nov. 3 election was stolen from President Donald Trump sta"
+    excerpt: "Posted . Conservative groups claiming without evidence that the Nov. 3 election was stolen from President Donald Tru"
     publishedDateTime: 2020-12-13T12:44:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVD8UI5WR"
+    webUrl: "https://www.reuters.com/video/watch/idPM9n?now=true"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20201213&i=OVD8UI5WR&r=OVD8UI5WR&t=2"
-        width: 960
-        height: 540
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fd603a1e4b04f7ff7c2d8ff-1607861153721?location=LANDSCAPE"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Trump appoints flurry of allies as presidency winds down"
+    excerpt: "His time in the White House rapidly ending, President Donald Trump is rewarding some supporters and like-minded allies with the perks and prestige that come with serving on federal advisory boards and commissions."
+    publishedDateTime: 2020-12-13T16:09:00Z
+    webUrl: "https://www.businessinsider.com/trump-appoints-flurry-of-allies-as-presidency-winds-down-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-appoints-flurry-of-allies-as-presidency-winds-down-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-appoints-flurry-of-allies-as-presidency-winds-down-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "'The moment of truth': The Electoral College prepares to hand Trump the loss he refuses to accept"
     excerpt: "Facing a loss in the Electoral College, Trump's allies have shifted their focus to Jan. 6, when Congress will count the electoral votes."
     publishedDateTime: 2020-12-11T10:15:00Z
