@@ -63,6 +63,22 @@ related:
         width: 890
         height: 593
         isCached: true
+  - title: "Violence erupts in Washington D.C. after Trump supporters rally"
+    excerpt: "At least four people were stabbed near Black Lives Matter Plaza, about four blocks from the White House, and there were 33 unrelated arrests."
+    publishedDateTime: 2020-12-14T12:36:00Z
+    webUrl: "https://www.cbsnews.com/news/washington-dc-protest-violence-trump-supporters-rally/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/washington-dc-protest-violence-trump-supporters-rally/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/washington-dc-protest-violence-trump-supporters-rally/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/13/a32d67c1-f73f-4ea0-b926-b571f35559cb/thumbnail/1200x630/4e3243bbdcf10a2e07bffc5333f4aa23/ap-20348189040437.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump supporters plan rallies in Washington DC, experts warn extremists may attend"
     excerpt: "It's unclear how many people will go to rallies in support of President Trump in Washington, D.C., but experts warn right-wing extremists may attend."
     publishedDateTime: 2020-11-14T04:35:00Z

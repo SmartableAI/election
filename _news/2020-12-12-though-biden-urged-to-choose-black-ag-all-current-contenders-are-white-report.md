@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-curr
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
 type: article
 quality: 121
-heat: 121
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -29,6 +29,76 @@ images:
     width: 2500
     height: 1667
     isCached: true
+
+related:
+  - title: "In Latin America, a Biden White House faces a rising China"
+    excerpt: "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home."
+    publishedDateTime: 2020-12-14T11:40:00Z
+    webUrl: "https://www.reuters.com/article/us-latam-usa-china-insight/in-latin-america-a-biden-white-house-faces-a-rising-china-idUSKBN28O18R?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O18R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544488578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0NX"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "'Need a miracle': Permanent resident facing deportation hoping he can last until Biden administration"
+    excerpt: "Kelvin Silva faces deportation from ICE, even though he's been a legal permanent resident of the United States since the 1980s."
+    publishedDateTime: 2020-12-11T11:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 110
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kelvin-silva-ice-01-ht-llr-201209_1607557670725_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "AP sources: Biden picks Rep. Marcia Fudge as housing chief"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary, according to three people familiar with the decision."
+    publishedDateTime: 2020-12-09T02:23:00Z
+    webUrl: "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Biden's trade nominee has family roots in both Taiwan and China"
+    excerpt: "Katherine Tai, nominated to become President-elect Joe Biden's top trade negotiator, has family roots in both China and Taiwan, she told reporters on Friday, answering questions bubbling in Asia since her nomination first surfaced earlier this week."
+    publishedDateTime: 2020-12-12T00:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-tai-idUSL1N2IR2OY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IR2OY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IR2OY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "What we know about retired General Lloyd Austin, Biden's choice for defense secretary"
+    excerpt: "President-elect Joe Biden has chosen retired General Lloyd Austin to be his defense secretary. CBS News correspondent Nikole Killion joins CBSN to discuss what makes the pick so historic."
+    publishedDateTime: 2020-12-10T03:16:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-defense-secretary-lloyd-austin-defense-secretary/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 98
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/39b77f61-0070-42f7-98ea-c83f8e7abbaf/thumbnail/1200x630/d78b2ab96f243284d5134b31a3a484f9/cbsn-fusion-pres-elect-to-tap-retired-gen-lloyd-austin-as-defense-secretary-thumbnail-603805-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0+YRPhzLS1ZqAzniVmJIhLhimc/X4tXM4dH/Hi4ryMT8h1rcaITeu2B/3vOlC13NgbpuhEok2v2t5DCr66oa0woosQE3mIt0Ltl8UlwJZd4cnQVyuD+K+5d/Oh9DtT7Z/xoP3pjLJF24Ot1Ef1ZnNzepjYGpUdagO6CIGbD8VsxznMwl1g2GbmAlzkuXSB+o9oGb5di5nwmD+4sD6nA4ePpcaiHI3cvPFFf5tBI7SnGStcNmc7Os82vULlwzyXJWz0Sgt39yGUIEKn1FGT6RtSEWepWiByG5wNjDpcLjwOrStMBJgX2lnlgGWv2zRneoXLJ1O117AFiExdmLP31wseh3d1W6Rf+cvYdtNit2b28=;/mn5170nzwo13Gs5i15Iug=="
 ---

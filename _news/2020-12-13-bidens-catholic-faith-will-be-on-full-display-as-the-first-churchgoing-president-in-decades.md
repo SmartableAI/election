@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/joe-biden-catholic-faith
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/joe-biden-catholic-faith/index.html"
 type: article
 quality: 164
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kod_electoral_college_vote_xtalk_201213_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Wall Street Journal Opinion Editor Defends Item on Dr. Jill Biden"
+    excerpt: "There’s nothing like playing the race or gender card to stifle criticism,” Paul A. Gigot said as he accused Democrats of orchestrating a coordinated response to an op-ed piece."
+    publishedDateTime: 2020-12-14T03:20:00Z
+    webUrl: "https://www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/14/business/13wsj-gigot-print/13wsj-gigot-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "oK305XwL+0OCpbrn8xG1ioukJbhrnBHYOrPu6E6S+m1PA8cbkxKiWN3e4kvFxk6jdZ2j3iWJcj+6+8pNbiWIMjSms/GoQMzBVHweIZdLSvOpgseyIfSdkiaIAU40C8EjjvWIjUCzNJYxSXj/xTnIGnY4b32fjPrNcg9h3cUsvZFhuLy7ksM+utjNc3e17MrBEZtihZenv655IQ+T1wvGDKIwGvIUYCiJnBIgVk31OYNpd6ZKb/EORUJ0qogDlPYV/ikc4x950UDpNUbUDIIRG6WNDGWrAZxcEvFsjXPsgK7ngajiaZsna+Jq5S/H5CZg8yqFiR5RJa8uaKuzkMjL3HCb41LDg2sADsESWlyBIYc=;binj6nJduZsK+NeokPasvw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
 type: article
 quality: 114
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AP sources: Biden picks Rep. Marcia Fudge as housing chief"
-    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary, according to three people familiar with the decision."
-    publishedDateTime: 2020-12-09T02:23:00Z
-    webUrl: "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Biden picks retired US Army Gen. Lloyd Austin to head the Pentagon. If confirmed, he'd be the first Black man to lead the Defense Department."
     excerpt: "Retired US Army Gen. Lloyd Austin would be America's first Black defense secretary, if confirmed by Congress."
     publishedDateTime: 2020-12-08T12:10:00Z

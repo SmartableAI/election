@@ -2,19 +2,19 @@
 category: news
 title: "Joe Biden, Kamala Harris are Time’s Person of the Year 2020"
 excerpt: "Joe Biden and Kamala Harris are Time’s 2020 Person of the Year, the magazine announced Thursday night. The President-elect and Vice President-elect beat out Donald Trump again, among other finalists."
-publishedDateTime: 2020-12-11T19:18:00Z
-originalUrl: "https://www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
-webUrl: "https://www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
-ampWebUrl: "https://www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
-cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
+publishedDateTime: 2020-12-11T16:18:00Z
+originalUrl: "https://www.cleveland.com/nation/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
+webUrl: "https://www.cleveland.com/nation/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
+ampWebUrl: "https://www.cleveland.com/nation/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
+cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: MLive
-  domain: mlive.com
+  name: Cleveland.com
+  domain: cleveland.com
 
 topics:
   - Election
@@ -138,22 +138,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/07/7736671b-071a-4222-96ad-bafe263891af/thumbnail/1200x630/26da47d6456273ab6082cad35d70385c/2020-11-07t163609z-1597063157-rc2gyj96wvm1-rtrmadp-3-usa-election-biden.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Joe Biden and Kamala Harris jointly named Time's 'Person of the Year'"
-    excerpt: "U.S. President-elect Joe Biden and Vice President-elect Kamala Harris were jointly named Time magazine's 2020 \"Person of the Year\" on Thursday, chosen from a list of finalists that included the man Biden vanquished at the polls - President Donald Trump."
-    publishedDateTime: 2020-12-11T18:34:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN28K33R?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K32U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K32U"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 150
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544198435&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA08Y"
-        width: 817
-        height: 545
         isCached: true
   - title: "Biden identifies more administration officials, Trump vows continued election fight"
     excerpt: "President-elect Joe Biden chose more senior aides to lead his administration's efforts to defeat the coronavirus and rebuild the U.S. economy, and his office confirmed on Sunday he would begin receiving classified briefings that are an essential step toward taking"
@@ -394,6 +378,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106786006-16048020972020-11-08t021914z_1245788963_rc2qyj94vi4f_rtrmadp_0_usa-election-biden.jpeg?v=1604802126"
         width: 3500
         height: 2333
+        isCached: true
+  - title: "Joe Biden and Kamala Harris jointly named Time's 'Person of the Year'"
+    excerpt: "U.S. President-elect Joe Biden and Vice President-elect Kamala Harris were jointly named Time magazine's 2020 \"Person of the Year\" on Thursday, chosen from a list of finalists that included the man Biden vanquished at the polls - President Donald Trump."
+    publishedDateTime: 2020-12-11T18:34:00Z
+    webUrl: "https://www.reuters.com/article/uk-time-person/joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSKBN28K32U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K33R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K33R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544198435&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA08Y"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden says he hopes Supreme Court rejects Trump bid on 2020 census count"
     excerpt: "President-elect Joe Biden on Tuesday said he hopes the U.S. Supreme Court rejects a plan by President Donald Trump's administration to exclude immigrants living illegally in the United States from population counts used to allocate congressional districts to states."
@@ -1774,6 +1774,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "119hU1CWTuh0MLEWzkN4CodBIPi2mgyG8txRu+u6QwTeiCi7RgJdE/wPiMo0D4Q7qS3AstXCOTwVuYghRN0PY+bHbBEGg5wCN63pwendZFobCT0tj38BCvXP4BQH4zQ1MssU21WioAN8Nm6G1YG+/wCqIZjTdKtCllPIDC7pSobtGeB84OTzgbEIgFd3by41RNozjj6OewReOKTZjv0C/nYURPD6mb75Dc34i46S6o4Rkuks5g0NQ5NRqZRtF5WUDBWsMdSQWQhVcT7YhL5WgFAh6IiqZsincVEmih6fXO2CBqHPkb6nhktZgqnBtdLt80uayVLFyepssso6WgS9NtaXwTSLxR9xVEG/LzoJtjYO6EjKxonkaa9dr9dqacMjlTza01xwmi2gqcwnV/62rXiZPdI5UV1N/dXPpsxj28q0QP0K6ISKDYm3Zo0dZFpvsDD15fXCnzPvJKEU/QyV0Ile4T9RXgHCHPUIkn9mE3OzLluJGdDNQv3JMnqPY0Qs96AqZICH323ZMvW8odeMxQ==;jlAFaqbvfWOsLP7k7RbHeg=="
+secured: "voizKVowHTh7wqg5eVBTHyLdaxVEjimHBfu0HWH7rKu5PVDqMNPhw1ay3Bgygl4/24ppZYIzrW70LTbSfL+Xz2QEUdlkgpGKhnxkFlXNmXUZTZcayYv5kfsLoi7AevfM9mfSsUNMFYycSarWmA5OgfjYsNfkaraBJNCgsnK35a1BaxVnehxBD/iESlZRxkpFMFXn/CKsj4y2jISZCwCpHZzeETrz16MnmgGAUn6I7t13oJG6F1n4cKkED5z0fbKMWI2lEC8C8YzP3yXz6qoW5KofqoZ98CqNFPd6luilhSm6HjlYmdw5rRfyIBuJ5ZTu0fIGMfQgWMIYZrgc8pvkeZ6++Mbqq6Yh+uC0nETFXa4=;cRLiCVrF5RQ5shWyNTag0g=="
 ---
 

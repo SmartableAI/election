@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Wall Street Journal Opinion Editor Defends Item on Dr. Jill Biden"
+    excerpt: "There’s nothing like playing the race or gender card to stifle criticism,” Paul A. Gigot said as he accused Democrats of orchestrating a coordinated response to an op-ed piece."
+    publishedDateTime: 2020-12-14T03:20:00Z
+    webUrl: "https://www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/14/business/13wsj-gigot-print/13wsj-gigot-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "lZwZKGAK7+BJ0QWODgNSlxEPNab2pJHkN1n/MpbCNNlnihS8pdZK7m/SWHe2rIlG82N/rOFoyUSzhm+o7IHJd/Wx28plyzIJ1fsk++3bG42Ko9+IpeMbIkO8m0tQ+sMfi6vlQ1VATm0pnb9tXX0wJhA3O5wAZKOsHh3nlAypu1kCnAEDcX0OxQUVGdBlvgvV0yK1Pk/Rs+nU/bHJwwm/I5fpzyurLK+VauJSDsXdRsTBAK8bzbz6yA7tGA/ryyronIM0OfCvYMeQ9sZqywoJLi5bjc3yA8HORjLQoOz1ja8o3Rh2U2SvQzp9oM6z03ItxCrFHmUrbs5Oaoy2qfCiYbnpg+ANP4sFejzNuBKpKaULl7MM5AN2mn4vkk+aPalO9dI9squsUZL4whPs+/DLQJAkQqxrP2qNyMUCrzxTS00ijXF1GUQVW0vDBq/sHtvzOGhY02yLsy3IVq60W9qaboOwcpmn77ludCEWSvf3sFUj2Fl4yh5eoosjmOvDG7fqsoBS7DTjufuH3W/tWJOJ5Q==;AbxozA2KTCrFTZ1HFpJGBw=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Who Will Replace Kamala Harris in the Senate? California Governor Weighs a Shortlist of Firsts"
 excerpt: "San Francisco Mayor Gavin Newsom ordered the county to issue same-sex marriage licenses in 2004. A young gay man in his 20s at the time, Garcia called it a “light switch” that ignited his passion for public service."
 publishedDateTime: 2020-12-13T23:38:00Z
-originalUrl: "https://www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/"
-webUrl: "https://www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/"
+originalUrl: "https://www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/?amp"
+webUrl: "https://www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/?amp"
 ampWebUrl: "https://www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/?amp"
 type: article
@@ -229,6 +229,17 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Electors meeting to formally choose Biden as next president"
+    excerpt: "Presidential electors are meeting across the United States on Monday to Joe Biden as the nation's next president."
+    publishedDateTime: 2020-12-14T12:26:00Z
+    webUrl: "https://www.businessinsider.com/electors-meeting-to-formally-choose-biden-as-next-president-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/electors-meeting-to-formally-choose-biden-as-next-president-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/electors-meeting-to-formally-choose-biden-as-next-president-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "As A Stepparent, Kamala Harris Puts 'Families You Choose' In The Spotlight"
     excerpt: "When Vice President-elect Kamala Harris takes office, she brings with her what stepdaughter Ella Emhoff describes as a \"big blended family.\" Other blended families are celebrating that visibility."
     publishedDateTime: 2020-12-09T09:00:00Z
@@ -359,6 +370,6 @@ related:
         height: 315
         isCached: true
 
-secured: "lQSF9CBOJ5mwWg9Sq7m8kMOrDBd//rTixJGF1VflEhj/4sOt+LCgh9Cf6gsU73mpy+UFlmkFWo9BC+LgKxFrKmGvQWpLTJYPNEOy+yEF1ekdSLLmMfeCX4lWFL71OLr0rhXJEhbjKSZ2Pi9STVBGGAPvrX9nJv75WtCaHstGPegmjFPnHgEnF2vPN88KIJ+b+JT7vjsurnjY74QjqkfKwlkbJLc5aYBp1/umaZUPanfeF6DDu+2U9R4/0T9ntmLERLQPBncGBsIjWjHKGeUUWCZyKipxTwraD//dOEK+v6tp1a6waloE8PH1wDHqC/VGPlPC2QRy7x3PjCVXFD777ZtaYgTIIjdRtGBOJfQ6a1M+vWKGWCJAv+ZedC90p84mQwZ2WaKu1Im+ZgLJIzjLifQhRFMoMK+iIeXbo0DUed06R4xVrbKuVXlHljXPQu3JTkwUN9zPV+pT0cjK6C9BrBPaltNV0MUUMPj08uUBw7wAHBMBlLc2ar9E/gLwGlECJVqiHVkxDdEVBPleynUNjQ==;1yv3YOoT+f8YJFOqNXSqZw=="
+secured: "oQLcL7jNQMg+dDV1qWociOefplfMatT3nFAX2em0Zie5QvtqJW3O+G/yN8TFhMp/YKe1lR1ATMBmcZM51QeiBiaKwAUrA30cBRm87QHhjl1lXDMiCNSWRMgf1DCyJgST2JaOu33f4AUJ5GxmQ7ZhHOhIfW3Kkyhkb7brP50u08k0mC8Suu54mV49cRdg64675l8cvPS4Oik7uC1hcpJS+YGtD1EImDfIYRCGjbhsrTAj3nEShJr5FC9Fpcuyo1gauBA3/E6wyCbY8/06yum9KePcrg6jeesG1pW0VtP9et39uvK2ehX4tQLoG16phjn3hPKEtvsVm/02EnPndaCWYWyWWsANMcPrVszRnRiZ/1M=;h9zk7Ax+qDcwCqIMgc/9Vw=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Biden offered Atlanta mayor position in his Cabinet, she declined: report"
-excerpt: ""
+excerpt: "President-elect Joe Biden reportedly asked Atlanta Mayor Keisha Lance Bottoms to serve in his Cabinet, but the Democrat turned down the offer."
 publishedDateTime: 2020-12-14T05:42:43Z
 originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/boBhvPCOapY/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report"
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/boBhvPCOapY/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report"

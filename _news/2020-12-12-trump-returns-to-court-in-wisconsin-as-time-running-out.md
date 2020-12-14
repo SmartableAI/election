@@ -527,22 +527,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Georgia high court rejects latest Trump election appeal"
-    excerpt: "President Donald Trump has lost his latest legal challenge seeking to overturn Georgia’s election results, with the state Supreme Court’s rejection late Saturday of a case from Trump’s campaign and Georgia Republican Party Chairman David Shafer."
-    publishedDateTime: 2020-12-13T22:11:00Z
-    webUrl: "https://www.washingtonpost.com/national/georgia-high-court-rejects-latest-trump-election-appeal/2020/12/13/398902fa-3d66-11eb-b58b-1623f6267960_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/georgia-high-court-rejects-latest-trump-election-appeal/2020/12/13/398902fa-3d66-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-high-court-rejects-latest-trump-election-appeal/2020/12/13/398902fa-3d66-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Armed pro-Trump protesters gather outside Michigan elections chief's home"
     excerpt: "Jocelyn Benson says gathering in which bogus claims were made about electoral fraud was ‘unambiguous, loud and threatening’"
     publishedDateTime: 2020-12-07T14:45:00Z
@@ -1803,6 +1787,17 @@ related:
         width: 1440
         height: 1080
         isCached: true
+  - title: "Georgia high court rejects latest Trump election appeal"
+    excerpt: "President Donald Trump has lost his latest legal challenge seeking to overturn Georgia's election results, with the state Supreme Court's rejection late Saturday of a case from Trump's campaign and Georgia Republican Party Chairman David Shafer."
+    publishedDateTime: 2020-12-14T08:44:00Z
+    webUrl: "https://www.businessinsider.com/georgia-high-court-rejects-latest-trump-election-appeal-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/georgia-high-court-rejects-latest-trump-election-appeal-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-high-court-rejects-latest-trump-election-appeal-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "UPDATE 2-U.S. Republicans balk as Trump uses defense bill for leverage on Big Tech"
     excerpt: "President Donald Trump's threat to veto a defense bill if it does not repeal legal protections for social media companies faced stiff bipartisan opposition on Wednesday, setting the stage for a confrontation with lawmakers scrambling to pass the massive bill by year-end."
     publishedDateTime: 2020-12-03T02:35:00Z
@@ -2064,6 +2059,22 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-06-2020/t_f0a1da2d4a514873ad37fc5440c94ac6_name_0c3b4406_3763_11eb_9699_00d311f13d2d_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 834
+        isCached: true
+  - title: "Trump reversed a plan to prioritize White House staff to get the coronavirus vaccine sooner"
+    excerpt: "Aides had hoped to use the vaccine to end the repeated outbreaks of COVID-19 in the White House — but Trump intervened."
+    publishedDateTime: 2020-12-14T10:59:00Z
+    webUrl: "https://www.businessinsider.com/trump-white-house-staff-should-not-be-first-coronavirus-vaccine-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-white-house-staff-should-not-be-first-coronavirus-vaccine-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-white-house-staff-should-not-be-first-coronavirus-vaccine-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5fd736499cf1420018d2f18c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Texas AG asks Supreme Court to overturn Trump's losses in key states. Don't hold your breath."
     excerpt: "Five weeks after Election Day and with states locking down electoral votes, Texas attorney general Ken Paxton has asked the high court to step in."

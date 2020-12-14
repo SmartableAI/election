@@ -41,22 +41,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "'Need a miracle': Permanent resident facing deportation hoping he can last until Biden administration"
-    excerpt: "Kelvin Silva faces deportation from ICE, even though he's been a legal permanent resident of the United States since the 1980s."
-    publishedDateTime: 2020-12-11T11:45:00Z
-    webUrl: "https://abcnews.go.com/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 110
-    images:
-      - url: "https://s.abcnews.com/images/Politics/kelvin-silva-ice-01-ht-llr-201209_1607557670725_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden's COVID-19 advisory board prepares for transition amid pandemic"
     excerpt: "President-elect Joe Biden and his transition team will be taking responsibility for the nation's coronavirus response and the rollout of vaccines in the midst of an unprecedented health crisis. Dr. Celine Gounder,"
     publishedDateTime: 2020-12-11T19:55:00Z

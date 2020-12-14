@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-sen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-senate-vote-fail/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 215
 published: true
 
 provider:
@@ -29,6 +29,40 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Trump says he halted plan to immediately vaccinate White House staffers"
+    excerpt: "High-ranking White House officials are set to receive some of the first coronavirus vaccines in the United States, according to a White House official and a person familiar.\n    \n"
+    publishedDateTime: 2020-12-14T12:28:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p9LxkhN0YIg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/white-house-coronavirus-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/white-house-coronavirus-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119150031-white-house-1117-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump tells allies he will run in 2024, but hints he may back out"
+    excerpt: "In calls to allies, Trump has been asking how to navigate the next two years and floated a possible trip to the Middle East."
+    publishedDateTime: 2020-12-14T09:37:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/trump-2024-possible-run-444460"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-2024-possible-run-444460"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-2024-possible-run-444460"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "U5owTc+tzyo+Se3smhREXuPPujkqO3wIvZqIuB4pcJo4dTDFbXPt1r4J//U3emHvJvvIAouDOWmGkHDRREaPbYeh83rdYYnTI0eHFi33YAWw8on/9bdh5vAi3K2R31VZluR9z52NRSqVNMx33nLYR+IjSC4c+ljYuHmNscSWRZUgMskJ+uE/yKSBxdCeV36min6WpjgMTsLmB9OqttUCZ4awD0KOkJzg5Q2NoxHti3aXhpiPvX/SqmEzvE8b1pr7RkQzWPdiB/nEk9QCWhHGXPAJCfX+Tb3uSoVX42yNJ8rjyK6ZY5jobfeHWenf3enVlZJYNpsAWTdbZFnxTvZSN1pPlDkz2MWZ302DZ48mFBg=;rN0eaXkZEnIwYMZ/Src0Tg=="
 ---

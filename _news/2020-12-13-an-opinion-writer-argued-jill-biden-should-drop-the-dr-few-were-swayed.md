@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.amp.html
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.amp.html"
 type: article
 quality: 132
-heat: 132
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -30,6 +30,24 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Northwestern distances itself from former lecturer after controversial op-ed urging Jill Biden to drop 'Dr.' title"
+    excerpt: "Northwestern University is distancing itself from a former lecturer who called on incoming first lady Jill Biden to stop using the \"Dr.\" honorific because she has a doctorate in education, not an MD.\n    \n"
+    publishedDateTime: 2020-12-14T02:48:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W-0zqakLQbA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/jill-biden-dr-first-lady-op-ed-joseph-epstein-northwestern/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/jill-biden-dr-first-lady-op-ed-joseph-epstein-northwestern/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003154742-jill-biden-090120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "A12SIfUVW8fDW79WXLmstVpG/53LSVDZwt3pSiXLmslMZCstMH+Jk311RqVoWCcbd3rNOVEMeZ0NZrm+saWEjaEIkGh/5RdXqVEdI6mxDHcgG7/RcoMYAoh5VUXLW7l+2LEdyuzoblvnFAk7rAnhnvE8opaIUK56oHXnUj9pEjHsAOSzAdsUDkcXQyjYUbW7EAgMb8En0imAPl6/Kz4R8sTfe7tZe+ymDGMV+RyrTFYjaWPV/oz12piWyMJ2cdV5KUZI8QBn9EIqOqcAuq9jWA/jLicZibnnUB1rmsGacB8Igk5JvH/TBa26rytDOkvyc30B9slpWjnJjgvuRVNbB2xEkGsj5wwa4FKOSMZ1DD+963h2Er76mxxheUdVW392DKRwAjYQGvb6R9bhpoNqoaBp39wtViSZBZguFgdtzo33GBXh5OxAPdyiGarNiwnv35Otib/8golOc8pWuG4mBEov5Rl/daawC2sE9PuGvyIEpIiUxfn9kak8HQjTMtIEW9HCOhOBtGW0OQYL4qLV7g==;CJD+ox9dhH6q7wEwOJ8t4g=="
 ---

@@ -511,22 +511,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Electors meeting to formally choose Biden as next president"
-    excerpt: "Presidential electors are meeting across the United States on Monday to formally choose Joe Biden as the nation’s next president"
-    publishedDateTime: 2020-12-14T05:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/electors-meeting-formally-choose-biden-president-74709840"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/electors-meeting-formally-choose-biden-president-74709840"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/electors-meeting-formally-choose-biden-president-74709840"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_22cb7f1614ec49cd8418a9ca04bf00cc_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden transition advisers emerge as top contenders to run covid-19 response"
     excerpt: "As President-elect Joe Biden makes fighting the raging coronavirus his most urgent mission when he takes office next month, two figures already playing central roles in his transition are emerging as the most likely officials to preside over the new White House’s pandemic response."
     publishedDateTime: 2020-12-03T01:10:00Z

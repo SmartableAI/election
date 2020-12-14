@@ -217,6 +217,17 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Electors meeting to formally choose Biden as next president"
+    excerpt: "Presidential electors are meeting across the United States on Monday to Joe Biden as the nation's next president."
+    publishedDateTime: 2020-12-14T12:26:00Z
+    webUrl: "https://www.businessinsider.com/electors-meeting-to-formally-choose-biden-as-next-president-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/electors-meeting-to-formally-choose-biden-as-next-president-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/electors-meeting-to-formally-choose-biden-as-next-president-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "As A Stepparent, Kamala Harris Puts 'Families You Choose' In The Spotlight"
     excerpt: "When Vice President-elect Kamala Harris takes office, she brings with her what stepdaughter Ella Emhoff describes as a \"big blended family.\" Other blended families are celebrating that visibility."
     publishedDateTime: 2020-12-09T09:00:00Z
@@ -296,7 +307,7 @@ related:
   - title: "Who Will Replace Kamala Harris in the Senate? California Governor Weighs a Shortlist of Firsts"
     excerpt: "San Francisco Mayor Gavin Newsom ordered the county to issue same-sex marriage licenses in 2004. A young gay man in his 20s at the time, Garcia called it a “light switch” that ignited his passion for public service."
     publishedDateTime: 2020-12-13T23:38:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/"
+    webUrl: "https://www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/?amp"
     ampWebUrl: "https://www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/?amp"
     type: article
@@ -363,6 +374,6 @@ related:
         height: 315
         isCached: true
 
-secured: "nQ/tpfWUTgmlwXgs3pJsJ7xIL2HasoyBNZZRkXtsszwK83CWHcl7UxwrIa3KDAjJ7Vz29eT+9K+tleDK1IFFcfI41jThQfzeBi+3fsLG5dNnqIRTe2Anj5wrLi+dhcr2gkUKhEbTYjNTbpgyyl+S2fSiwPw+x/qq12JsLDmCPDS+PnN9Jbj+98y40bccElR1L8Ey+wEW9hPpIBqhF9gjw108RoBgoj5YU8MAjlPDMrv3VWJHluc/c13mQ1ewJxD6W3KK+OkKV4Le9ml/IxHmEcWzszDX3oYlWmfD09wi+bym87SnvlJTbYVM5MgJWoa3MresRTN8lhtTSnxnyp8fyfo/qxJo+mpRVJAV/t0gX84=;CXqzV4DBxZC5A6PQ0pO1Ig=="
+secured: "NX8QugR9WZwEBdF9HR+kFXCnyILMV3e8L1Oc5jbe3wA4+D8U67unnw3RWEOcLr5kmiYwDLUuJQOtUwNecvsvtr8c2msZLVyVmY7sbDWRW9Pr/J0kXkuhfqTp9QO3FWX98rsxCe8pzNLNGZ2oeYaSc4q/N/5oZK+9KxwqIHpcYnHpMJnxVB5bMo7SYKd5ELSS5xShwmXwQMJiemXyVy4udhx+hDtYXzhHvUPHrHASJ9qGYzTyGif5+RkPKFU3TN6weVzW/yud25TxmbLh4cp/XtZqBsGLXRWE7IaSDya/0mHfRp757fIB07OeHpmvuPWr7MywYLkcmA6aZXt06a1F/nQfiGGTrUy6I9t8kd0q8WDfwpQV/tFuW5eaLecmJ4LQ6yncpWOFJAGUF164yyZupoIrSj06ZEjVreILoIgcNOHGu80HG3k5uXQ+a8XSDCVhnlbJ8jjAVHbb4GtO7CLg/cdbj5EvURdqaqK0DTUdT4JJuLRkKctTdoS9w8oCgVJQCtHaYEitRXMJLl3M+r1QgQ==;4KuMHIVotoFtE9TPilUvMw=="
 ---
 

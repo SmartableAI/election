@@ -25,37 +25,78 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Biden selects Marcia L. Fudge as HUD secretary and Tom Vilsack to lead Agriculture department"
-    excerpt: "The Fudge decision, along with the naming of a Black Defense secretary-designate, occurred as Biden was pressured by organizations seeking diversity in his Cabinet."
-    publishedDateTime: 2020-12-09T00:56:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
+  - title: "In Latin America, a Biden White House faces a rising China"
+    excerpt: "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home."
+    publishedDateTime: 2020-12-14T11:40:00Z
+    webUrl: "https://www.reuters.com/article/us-latam-usa-china-insight/in-latin-america-a-biden-white-house-faces-a-rising-china-idUSKBN28O18R?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O18R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PR5O33RZWUI6XGGEEXOJ6SMH5A.jpg&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544488578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0NX"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Biden picks retired US Army Gen. Lloyd Austin to head the Pentagon. If confirmed, he'd be the first Black man to lead the Defense Department."
-    excerpt: "Retired US Army Gen. Lloyd Austin would be America's first Black defense secretary, if confirmed by Congress."
-    publishedDateTime: 2020-12-08T12:10:00Z
-    webUrl: "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12?amp"
+  - title: "Though Biden Urged To Choose Black AG, All Current Contenders Are White: Report"
+    excerpt: "New York Governor Andrew Cuomo and Judge Merrick Garland, whose 2016 nomination to the Supreme Court was blocked by Republicans, are said to be among President-elect Joe Biden's choices to serve as Attorney General."
+    publishedDateTime: 2020-12-12T04:49:00Z
+    webUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298"
+    ampWebUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 90
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
     images:
-      - url: "https://i.insider.com/5fc16dcb50e71a0011557c1f?width=1200&format=jpeg"
+      - url: "https://d.newsweek.com/en/full/1685378/biden-considering-four-ag-picks-report.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "'Need a miracle': Permanent resident facing deportation hoping he can last until Biden administration"
+    excerpt: "Kelvin Silva faces deportation from ICE, even though he's been a legal permanent resident of the United States since the 1980s."
+    publishedDateTime: 2020-12-11T11:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 110
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kelvin-silva-ice-01-ht-llr-201209_1607557670725_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden's trade nominee has family roots in both Taiwan and China"
+    excerpt: "Katherine Tai, nominated to become President-elect Joe Biden's top trade negotiator, has family roots in both China and Taiwan, she told reporters on Friday, answering questions bubbling in Asia since her nomination first surfaced earlier this week."
+    publishedDateTime: 2020-12-12T00:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-tai-idUSL1N2IR2OY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IR2OY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IR2OY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "What we know about retired General Lloyd Austin, Biden's choice for defense secretary"
+    excerpt: "President-elect Joe Biden has chosen retired General Lloyd Austin to be his defense secretary. CBS News correspondent Nikole Killion joins CBSN to discuss what makes the pick so historic."
+    publishedDateTime: 2020-12-10T03:16:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-defense-secretary-lloyd-austin-defense-secretary/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 98
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/39b77f61-0070-42f7-98ea-c83f8e7abbaf/thumbnail/1200x630/d78b2ab96f243284d5134b31a3a484f9/cbsn-fusion-pres-elect-to-tap-retired-gen-lloyd-austin-as-defense-secretary-thumbnail-603805-640x360.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
 
 secured: "GycoGaPZstopAoq9NDJ7kIkwMq6kXUUB+Lq5QchpssV9YqWgrTiej/6lskAllDHI8Ry/c7rz0JItbtfPH2kBRQshprvq16ZURyycLKhiIba1kIVMUsazyQyKDkOecTNakkto+i/qAt7HD3QIwHxaHXPO9Y/jgEUsIm+c5v7XjDo0TOHv78gVgvM96onF4yBOn2h+1K5q0h8jg9C4ou00FkzuCz4N+q1uBx3y0VeXFEKzMaeEgulZNDuj3yQ+IfK1uLbtRPvv6kcn2VKUhneGyMNjP6SelsJRPBcNidrgwhVzHlJE+RYb10c916rDSsNQN4ErQh6N3jSma3vIGW3c+8DDFuIeXNmO1hNXXZ4/v6Q=;IDFk/9mQKmBDrEJEEdWnWQ=="

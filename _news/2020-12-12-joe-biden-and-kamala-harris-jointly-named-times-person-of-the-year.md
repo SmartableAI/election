@@ -3,12 +3,12 @@ category: news
 title: "Joe Biden and Kamala Harris jointly named Time's 'Person of the Year'"
 excerpt: "U.S. President-elect Joe Biden and Vice President-elect Kamala Harris were jointly named Time magazine's 2020 \"Person of the Year\" on Thursday, chosen from a list of finalists that included the man Biden vanquished at the polls - President Donald Trump."
 publishedDateTime: 2020-12-11T18:34:00Z
-originalUrl: "https://www.reuters.com/article/idUSKBN28K33R?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/idUSKBN28K33R?edition-redirect=ca"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K32U"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K32U"
+originalUrl: "https://www.reuters.com/article/uk-time-person/joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSKBN28K32U"
+webUrl: "https://www.reuters.com/article/uk-time-person/joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSKBN28K32U"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K33R"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K33R"
 type: article
-quality: 150
+quality: 140
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Kamala Harris
 
 images:
@@ -1473,14 +1472,14 @@ related:
         isCached: true
   - title: "Joe Biden, Kamala Harris are Time’s Person of the Year 2020"
     excerpt: "Joe Biden and Kamala Harris are Time’s 2020 Person of the Year, the magazine announced Thursday night. The President-elect and Vice President-elect beat out Donald Trump again, among other finalists."
-    publishedDateTime: 2020-12-11T19:18:00Z
-    webUrl: "https://www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
-    ampWebUrl: "https://www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
+    publishedDateTime: 2020-12-11T16:18:00Z
+    webUrl: "https://www.cleveland.com/nation/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
+      name: Cleveland.com
+      domain: cleveland.com
     quality: 90
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AY6P7DXUKNHJRI5LJGZPURHWEA.JPG"
@@ -1779,6 +1778,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "uqELiLv8xQK6870+C7DpQ5K1KFGHlb+y82d09V+Bsx0JW5xhRkKxYjvfABAp9FaJQCCHy+ElxzWdSjEhk2khaT0e77aMdhDsg1Y8f/1EJC2qFY4O67E+bDLtDqFl7mYMbRF3mvpBWz8zbkUvTg96VfljjTesO4cGrZb+iS4EqcWXSajxVLdoVCTqL/kAgA3oT5L2q3ZJSgMT/rcXm4bOiEJ5g+c0VrV/PG+P6xfy50ARXc0hXgXwoIUaKw0tsU7GwcMF1HLeBzfOml/Kkd2/7UGK59cD1E4uChvpopcChE21ZeNoiir5Q317uIMZwPkFBT9yyRxMsSazyAnDgxnQoH2SqsUmMj5oxIHB2WuU4xA=;rZkhcCfBTsJMzzdMCgI7Kw=="
+secured: "x5o67B3vqfA6WWM9pGpGVovunyWg6sHaH9Y4TRkFzS9icAOEAKG9Jh9uhybXp5KnXEGvo7JmqLNs+OGlMVz2wYFc7MJ8wg8dlVS4iQ/pZ7uNbxeJ54JN4frteXmyTRXeBGXK2m6BMgQx33qAXWwa6+P90H7QXU2AWmUSwNGKPYgCgnJxYi8pzDdTxMtYA1owjHwof+W3SbZEaBzJDR2LDoSGm/mJqsr3KrfzMZVYfWESEQXVGDJ9Rw0uLKd+laYctjpWtpylqHn5UH90j3+XKYqH62Kqai85J2gesdsBD8hnfGX/sjr2Qq7DDO4EBaDZX/nzuS3KC9m8ef+H4+lehA4+UEmc42KUrMrGW2rYbAs=;vMbpqqbMaDmuuD69RdgtUA=="
 ---
 

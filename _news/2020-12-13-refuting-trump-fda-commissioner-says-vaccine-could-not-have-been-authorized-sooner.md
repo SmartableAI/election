@@ -255,6 +255,22 @@ related:
         width: 886
         height: 545
         isCached: true
+  - title: "Trump scraps plan to have top White House personnel among first vaccinated against COVID-19"
+    excerpt: "President scraps administration order saying they should get the shots along with frontline health workers and people in nursing homes and long-term care facilities."
+    publishedDateTime: 2020-12-14T12:29:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-rejects-early-covid-vaccination-plan-white-house-staff/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rejects-early-covid-vaccination-plan-white-house-staff/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rejects-early-covid-vaccination-plan-white-house-staff/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/08/401aaaf8-9c1b-42f2-8222-dce3dee41a73/thumbnail/1200x630/f05ea69c149e05afcaf546d5740f12ca/cbsn-fusion-eye-opener-white-house-denies-rejecting-pfizer-offer-for-more-vaccines-thumbnail-603672-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Trump administration is delivering on a 2020 vaccine, but not at the levels he suggested"
     excerpt: "Many of the promises and projections that the Trump administration made on coronavirus vaccines have since been revised or contradicted by Trump officials or by President Trump himself."
     publishedDateTime: 2020-12-10T16:44:00Z

@@ -29,20 +29,76 @@ images:
     isCached: true
 
 related:
-  - title: "Hunter Biden reveals he is under federal investigation for \"tax affairs\""
-    excerpt: "Hunter Biden, the son of President-elect Joe Biden, says he is under investigation over his tax affairs by the U.S. Attorney's Office in Delaware in a probe that dates back to 2018. CBS News political correspondent Ed O'Keefe joins \"CBSN AM\" to discuss the latest."
-    publishedDateTime: 2020-12-10T13:43:00Z
-    webUrl: "https://www.cbsnews.com/video/hunter-biden-reveals-he-is-under-federal-investigation-taxes/"
+  - title: "In Latin America, a Biden White House faces a rising China"
+    excerpt: "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home."
+    publishedDateTime: 2020-12-14T11:40:00Z
+    webUrl: "https://www.reuters.com/article/us-latam-usa-china-insight/in-latin-america-a-biden-white-house-faces-a-rising-china-idUSKBN28O18R?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O18R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 104
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/10/f8b5dd6d-118b-4e25-870c-9e3ef0372c62/thumbnail/1200x630/f6d2af7d44e206e3e4bfb55a6302d452/cbsn-fusion-hunter-biden-reveals-he-is-under-federal-investigation-thumbnail-605300-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544488578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0NX"
+        width: 817
+        height: 545
         isCached: true
+  - title: "Though Biden Urged To Choose Black AG, All Current Contenders Are White: Report"
+    excerpt: "New York Governor Andrew Cuomo and Judge Merrick Garland, whose 2016 nomination to the Supreme Court was blocked by Republicans, are said to be among President-elect Joe Biden's choices to serve as Attorney General."
+    publishedDateTime: 2020-12-12T04:49:00Z
+    webUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298"
+    ampWebUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1685378/biden-considering-four-ag-picks-report.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "'Need a miracle': Permanent resident facing deportation hoping he can last until Biden administration"
+    excerpt: "Kelvin Silva faces deportation from ICE, even though he's been a legal permanent resident of the United States since the 1980s."
+    publishedDateTime: 2020-12-11T11:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 110
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kelvin-silva-ice-01-ht-llr-201209_1607557670725_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "AP sources: Biden picks Rep. Marcia Fudge as housing chief"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary, according to three people familiar with the decision."
+    publishedDateTime: 2020-12-09T02:23:00Z
+    webUrl: "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Biden's trade nominee has family roots in both Taiwan and China"
+    excerpt: "Katherine Tai, nominated to become President-elect Joe Biden's top trade negotiator, has family roots in both China and Taiwan, she told reporters on Friday, answering questions bubbling in Asia since her nomination first surfaced earlier this week."
+    publishedDateTime: 2020-12-12T00:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-tai-idUSL1N2IR2OY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IR2OY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IR2OY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
 
 secured: "RIFo9FlUCUjXAdEivLYMuVFGGTc4CxDz9HbOcoYmCXgBXY5dT1tsLFNH6vlinR9vTpyT0fKSmUlvXIAbmK3sXk77TaL2XSC9LYQhAsTJuRn5Vc05AnhgSHOvLhE9rg1BvnKdF0lrpdD5PEPXyEtKpUr1RaTI5fUveRzoWALAQsP5OaM3lUmo1PpZH7UVgFHDZgaYsRL9T+ixqzVpUub4dytXwmJKEqBXJ60EX+qpAvL1hQbvIddYR5l5KZks1WBkFd64eR5ljO0b+OgVDWHL7m81OIqEU+exIZZyiIRZl3ThExhTcyXsmqDA8wrh6qI7P9v4Q/3Salo2bzMvLJas8ceg6Kkg5nLOqN3DwB+QY+v+SGU+ki7OkfJeTFHUrvMlZF1VbYHBvetn+P+yLb/JvliABDM9/opNy9Ixy5XWi4fOAEAVlxT0wsWObJ/Ayo5z8VJWePD5GXlxSYwTlsk/nP9iuyxMw4NErtoOLDBxksqR6ZW0ufGI1Sfw8aOjH95woylV+eOPUQRclAt8AV3umw==;zQ+h0bP6cTokyno++d0HUA=="
 ---

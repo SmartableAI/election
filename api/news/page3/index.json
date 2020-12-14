@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-12-michelle-goldberg-column-covid-meds-are-scarce-but-not-for-trump-cronies.md",
+      "title": "Michelle Goldberg column: COVID meds are scarce, but not for Trump cronies",
+      "excerpt": "According to a document from the Department of Health and Human Services, a total of 108 doses of Regeneron’s monoclonal antibody cocktail have been allocated to Washington, which had 265 new coronavirus cases on Wednesday alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-coronavirus-giuliani-regeneron-michelle-goldberg-column-20201211-5mflfstsubf6vbp3673riy6jcu-story.html",
+      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-coronavirus-giuliani-regeneron-michelle-goldberg-column-20201211-5mflfstsubf6vbp3673riy6jcu-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/9ig9JnhIafT6BnPx8qKep5z10-I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GXQZRRSPOORM5DIYNUNLIFF6I4.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-coronavirus-giuliani-regeneron-michelle-goldberg-column-20201211-5mflfstsubf6vbp3673riy6jcu-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-coronavirus-giuliani-regeneron-michelle-goldberg-column-20201211-5mflfstsubf6vbp3673riy6jcu-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-11T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-bidens-economic-plan-is-bold-is-it-possible.md",
       "title": "Biden's economic plan is bold. Is it possible?",
       "excerpt": "Elect Joe Biden has sketched out a bold economic agenda, but his ability to enact it could be determined by the upcoming races for control of the Senate.",
@@ -181,7 +233,7 @@
       "originalUrl": "https://www.washingtonpost.com/lifestyle/media/republicans-anonymous-private-concerns-media/2020/12/10/301e98a6-2e75-11eb-bae0-50bb17126614_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -562,7 +614,7 @@
       "originalUrl": "https://businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -718,7 +770,7 @@
       "originalUrl": "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1309,58 +1361,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-hunter-biden-reveals-he-is-under-federal-investigation-for-tax-affairs.md",
-      "title": "Hunter Biden reveals he is under federal investigation for \"tax affairs\"",
-      "excerpt": "Hunter Biden, the son of President-elect Joe Biden, says he is under investigation over his tax affairs by the U.S. Attorney's Office in Delaware in a probe that dates back to 2018. CBS News political correspondent Ed O'Keefe joins \"CBSN AM\" to discuss the latest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/hunter-biden-reveals-he-is-under-federal-investigation-taxes/",
-      "originalUrl": "https://www.cbsnews.com/video/hunter-biden-reveals-he-is-under-federal-investigation-taxes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/10/f8b5dd6d-118b-4e25-870c-9e3ef0372c62/thumbnail/1200x630/f6d2af7d44e206e3e4bfb55a6302d452/cbsn-fusion-hunter-biden-reveals-he-is-under-federal-investigation-thumbnail-605300-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

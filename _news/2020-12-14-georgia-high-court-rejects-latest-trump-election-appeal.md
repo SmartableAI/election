@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Georgia high court rejects latest Trump election appeal"
-excerpt: "President Donald Trump has lost his latest legal challenge seeking to overturn Georgia’s election results, with the state Supreme Court’s rejection late Saturday of a case from Trump’s campaign and Georgia Republican Party Chairman David Shafer."
-publishedDateTime: 2020-12-13T22:11:00Z
-originalUrl: "https://www.washingtonpost.com/national/georgia-high-court-rejects-latest-trump-election-appeal/2020/12/13/398902fa-3d66-11eb-b58b-1623f6267960_story.html"
-webUrl: "https://www.washingtonpost.com/national/georgia-high-court-rejects-latest-trump-election-appeal/2020/12/13/398902fa-3d66-11eb-b58b-1623f6267960_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national/georgia-high-court-rejects-latest-trump-election-appeal/2020/12/13/398902fa-3d66-11eb-b58b-1623f6267960_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-high-court-rejects-latest-trump-election-appeal/2020/12/13/398902fa-3d66-11eb-b58b-1623f6267960_story.html?outputType=amp"
+excerpt: "President Donald Trump has lost his latest legal challenge seeking to overturn Georgia's election results, with the state Supreme Court's rejection late Saturday of a case from Trump's campaign and Georgia Republican Party Chairman David Shafer."
+publishedDateTime: 2020-12-14T08:44:00Z
+originalUrl: "https://www.businessinsider.com/georgia-high-court-rejects-latest-trump-election-appeal-2020-12"
+webUrl: "https://www.businessinsider.com/georgia-high-court-rejects-latest-trump-election-appeal-2020-12"
+ampWebUrl: "https://www.businessinsider.com/georgia-high-court-rejects-latest-trump-election-appeal-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-high-court-rejects-latest-trump-election-appeal-2020-12?amp"
 type: article
-quality: 140
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Politics updates: Trump reached out to PA House speaker over election"
@@ -2065,6 +2059,22 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "Trump reversed a plan to prioritize White House staff to get the coronavirus vaccine sooner"
+    excerpt: "Aides had hoped to use the vaccine to end the repeated outbreaks of COVID-19 in the White House — but Trump intervened."
+    publishedDateTime: 2020-12-14T10:59:00Z
+    webUrl: "https://www.businessinsider.com/trump-white-house-staff-should-not-be-first-coronavirus-vaccine-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-white-house-staff-should-not-be-first-coronavirus-vaccine-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-white-house-staff-should-not-be-first-coronavirus-vaccine-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5fd736499cf1420018d2f18c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Texas AG asks Supreme Court to overturn Trump's losses in key states. Don't hold your breath."
     excerpt: "Five weeks after Election Day and with states locking down electoral votes, Texas attorney general Ken Paxton has asked the high court to step in."
     publishedDateTime: 2020-12-09T06:17:00Z
@@ -2632,6 +2642,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "yoYrO80OvJzDm1WKPS5rnjMrFG1UMZVOk9/6FpHEPJNJAOV7nf+PFIYmcktsCK5MQ+sIyseRBeNIJFyLUQFnBHu2tD0Ec0MLNMz9wUSKxkO0MPMGJDDQpbPvWBFwHa0tRzmPMJX7BptM/Q62Y6w5eQOVuHCkhchasl9FcCIjTQyey85jS5VutW8m7HMtk0XwHGP9hm1OyxV7oj5ijHFiuCxWuYWQqkYkgqE7gqvmNPI8w4/J1rt4Bd4AtsrqYVF0N3Djq0dWwqrDkib/eQyUR6vEzXUlX4ScT9jUrMz2ycAZkwETJEkyRf/RbT+dywSP2AJU6ntCl3AtytTGhs39C79NTLuNA86tUykRh3VI4kQ=;npU7WFdv3RhBAlmEx3GFxA=="
+secured: "GhFH0w2JTXIy9EVqusbywSB6mNoF4P51/wdrwtsBy+/ROKNWcSdPsgO9exTGpuF/sduWIR2GZWUHH66E9l4lWqgRhBeG0/BhnekZQd+0Pzo9U/kV8R7G0OOZizLOT7CmMIbq60hhTv9JXXHBVSS11ORpXVFv3p+Mjx/cM0r2VTahlcJG1Lv6Ose3ToK7af0tjdlv7SxLNzo3uG2uLYLz6M8WhDpNQjvaLFekHKPh7M1dPOAD5yPtB5m/uebp89nldA3fg3hvubzRj9W7mLwCLyVl7qdKSA9paog88bsBXzoxOelHFu8AnqMlB7u+RfICHbZfLI4F4zb8zGKeXsQj78rbivInTG8om+v68nJRw1U=;54t7KhwsJP4KMREDtOZ4Ag=="
 ---
 
