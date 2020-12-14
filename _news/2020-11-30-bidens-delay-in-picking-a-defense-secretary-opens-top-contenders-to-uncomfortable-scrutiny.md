@@ -47,38 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden’s Cabinet picks give Kamala an edge in 2024"
-    excerpt: "Biden has opted for seasoned technocrats over ambitious pols for key jobs, denying potential political rivals to Harris a political springboard."
-    publishedDateTime: 2020-12-12T02:58:00Z
-    webUrl: "https://www.politico.com/news/2020/12/11/biden-cabinet-kamala-2024-444482"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/11/biden-cabinet-kamala-2024-444482"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/biden-cabinet-kamala-2024-444482"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/24/67/10b110394fbaa06752f3cd58206d/gettyimages-1284977949-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Progressive Groups Urge Biden to Move Quickly on Diverse Slate of Judges"
-    excerpt: "The president-elect faces pressure to install a diverse group of progressives in the courts, but the prospect of a Republican-controlled Senate looms as an obstacle."
-    publishedDateTime: 2020-12-11T23:27:00Z
-    webUrl: "https://www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/11DC-JUDGES/11DC-JUDGES-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Wikipedia page for Biden's new Covid czar scrubbed of politically damaging material"
     excerpt: "A Democratic consulting firm made numerous changes to Jeff Zients' page as he became a more important figure on Biden’s team this summer and fall."
     publishedDateTime: 2020-12-03T22:36:00Z
@@ -110,20 +78,6 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434875/201210-joe-biden-ew-323p_fa242b6345a3492961d3c49904198d21.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "BAKER sends back POLICE REFORM bill — CLARK presses BIDEN on plastics — ROLLINS on U.S. ATTORNEY buzz"
-    excerpt: "He's not in office yet, but Rep. Katherine Clark is already calling on President-elect Joe Biden to address the world's \"indisputable plastic pollution crisis.\" Clark penned a letter with Oregon Sen."
-    publishedDateTime: 2020-12-11T12:30:00Z
-    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2020/12/11/where-baker-stands-on-police-reform-clark-biden-plastics-rollins-on-us-attorney-buzz-491119"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 100
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "pjUlzDhMofaeG6c0oxLZKv/nMxsFyAvBwW1a6xgP/JDbiwTC1bqhe9W+E70N13fkYtYf/Zu4lbC0uQOu2VMgzkMkZnSsClZUBsvBXjtZUy1TW3/k4NIu9smhWQWm+KzP/rH20/7s6tHEBF2IRXR0pUOT846AKnM/eFrGl0Ro7sDxMuBKW5xJyRhuXCW/LzctTUxj9EZmjwm5HYBEN+NIaRnDjZx2FqvflUfnm+sYvBq3kGZJF5jjIgrLDropdpQfON4/8eo5djJxFXzDkZgLl2UgDQ9Gt3HkCWVR0NjNjXBx54WTMqGVS03sdtReiEzGSbQJPFXoKTF02riXyZt81Hy91Yqy8vSdP9hRzJQSZrM=;7zMz7tZRi8QJ+uuluvm+jg=="

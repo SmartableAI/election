@@ -532,17 +532,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
-  - title: "Tennessee's 11 electors cast ballot for Trump, Pence"
-    excerpt: "Tennessee’s 11 representatives to the Electoral College on Monday cast their vote for President Donald Trump and Vice President Mike Pence. “Today we conclude what has been a unique election cycle,” said Elections Coordinator Mark Goins ahead of vote that took place in Tennessee’s House chamber."
-    publishedDateTime: 2020-12-14T16:54:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 120
   - title: "Donald Trump stood no chance in front of a conservative Supreme Court. Here's why."
     excerpt: "No one should be surprised that the justices, like the Trump-appointed lower court judges in all these elected cases, followed the law.\""
     publishedDateTime: 2020-12-12T12:14:00Z
@@ -742,6 +731,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/3aff1be8-cc45-4ab8-9b34-bcb8535b15bb-six_certificates_.JPG?crop=5075,2855,x0,y0&width=3200&height=1680&fit=bounds"
         width: 2986
         height: 1680
+        isCached: true
+  - title: "Tennessee's 11 electors cast ballot for Trump, Pence"
+    excerpt: "Tennessee’s 11 representatives to the Electoral College on Monday cast their vote for President Donald Trump and Vice President Mike Pence. “Today we conclude what has been a unique election cycle,” said Elections Coordinator Mark Goins ahead of vote that took place in Tennessee’s House chamber."
+    publishedDateTime: 2020-12-14T17:42:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Trump Helicopter Buzzes Supporters Rallying in Washington"
     excerpt: "Thousands of supporters of President Donald Trump have returned to Washington on Saturday for rallies to back his desperate efforts to subvert the election that he lost to Joe Biden."

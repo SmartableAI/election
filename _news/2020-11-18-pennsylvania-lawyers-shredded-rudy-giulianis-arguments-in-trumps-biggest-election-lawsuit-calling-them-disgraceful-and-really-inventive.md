@@ -169,6 +169,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pennsylvania casts 20 electoral votes for Joe Biden"
+    excerpt: "Pennsylvania on Monday cast its 20 electoral votes for Democrat Joe Biden, the native son whose win in the state last month cemented his victory over President"
+    publishedDateTime: 2020-12-14T18:21:00Z
+    webUrl: "https://apnews.com/article/joe-biden-pennsylvania-coronavirus-pandemic-elections-harrisburg-e1d2afadefa36cf2c82046be779463d1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/540f25d139ae4adaab857ee1f42b3817/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "UVA's Larry Sabato: Trend is very favorable to Joe Biden in Pennsylvania"
     excerpt: "Larry Sabato, from the University of Virginia Center for Politics director, joins Shep Smith to provide insight on Pennsylvania's results."
     publishedDateTime: 2020-11-06T01:06:00Z

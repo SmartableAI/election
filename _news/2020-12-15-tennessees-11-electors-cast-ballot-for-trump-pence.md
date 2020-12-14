@@ -2,27 +2,29 @@
 category: news
 title: "Tennessee's 11 electors cast ballot for Trump, Pence"
 excerpt: "Tennessee’s 11 representatives to the Electoral College on Monday cast their vote for President Donald Trump and Vice President Mike Pence. “Today we conclude what has been a unique election cycle,” said Elections Coordinator Mark Goins ahead of vote that took place in Tennessee’s House chamber."
-publishedDateTime: 2020-12-14T16:54:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
-webUrl: "https://www.houstonchronicle.com/news/article/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
+publishedDateTime: 2020-12-14T17:42:00Z
+originalUrl: "https://www.mysanantonio.com/news/article/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
+webUrl: "https://www.mysanantonio.com/news/article/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
+ampWebUrl: "https://www.mysanantonio.com/news/amp/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
+cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
 type: article
-quality: 120
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: My San Antonio
+  domain: mysanantonio.com
 
 topics:
   - Election
   - Mike Pence
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "U.S. Supreme Court ends Texas lawsuit seeking to undo Trump election loss"
@@ -764,6 +766,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "9E3ttsjGXmvsleGgNstl5LkqgASQt3j7IeKb5tAwUiFuJk9yIEQOjiMbyM0bhRyGoOUw2verXbdOOvjhiJ2qSQiPXN00KRlDp1+bWZcuATsVDuJPzzjQpDC8ECmO4WGfo6/xfZ9wjgf+3L7RxPq11L/44Wa7mp1zkFi8xU6REAhkJu0850NlCvtmwio0Bwq0lYmkrKw1QcJazT20+fErErpDBmr+TF7tUtZDiBnKgBH68BsMBUqgCgJq4fgqsezVcYcPGftiwELsuFqJkkN5v1qAjcP8/lKMXIxJrr1r4WaaMpToKFz0NUIeqGNtroMbhO9Frn7BkXnmUZvCd6FyCGz7ruAqCS7EOGpmvc308XI=;WE1CauwpTL55UU3AyIuMyQ=="
+secured: "aL6lbxeC/DEH88u/fOPiyGH5EfvYbYDYUUxxw+SZaidWD5tXpWnw5GrQiOkKU8ZTWYHqyX2ce+BD2jmxRwBrln6Rkff0XLav8JUCnQNL00V6eYQnGT+iQimV5kWqY1tJkwr7OaqdHbFJPK+7+vni7URn2GgfPQ1lFpfITOqLZ2W4RVKzdZq87GF0U39NmI8r+OtoOfEZWgWuucsspaUom045gfWRONTSh1J2Yt0YHUYt0crftfxxvQtjqJRqrUzq6+hXHBQIZR+dyyljJi0iI9KpFy5W3/rp2AkF3EUgULvmIzIwqV6ppI7i0dvNZqZ/2VNc/sMpIe0LnoxpbUwzyi0QSgCvNnGDq6nPG+zrzxA=;mOG36A2QhDCuQGSEWatDRw=="
 ---
 

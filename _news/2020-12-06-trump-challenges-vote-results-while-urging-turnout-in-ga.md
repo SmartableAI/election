@@ -2651,6 +2651,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Oklahoma's Electors Award 7 Electoral Votes to Trump, Pence"
+    excerpt: "Oklahoma’s seven presidential electors have officially awarded the state’s electoral votes to President Donald Trump and Vice President Mike Pence."
+    publishedDateTime: 2020-12-14T18:06:00Z
+    webUrl: "https://www.usnews.com/news/best-states/oklahoma/articles/2020-12-14/oklahomas-electors-award-7-electoral-votes-to-trump-pence"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
   - title: "Trump Returns to Court in Wisconsin as Time Running Out"
     excerpt: "President Donald Trump’s campaign returns to a Wisconsin court to argue for the state’s election results to be overturned."
     publishedDateTime: 2020-12-11T15:02:00Z

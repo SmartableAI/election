@@ -167,6 +167,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pennsylvania casts 20 electoral votes for Joe Biden"
+    excerpt: "Pennsylvania on Monday cast its 20 electoral votes for Democrat Joe Biden, the native son whose win in the state last month cemented his victory over President"
+    publishedDateTime: 2020-12-14T18:21:00Z
+    webUrl: "https://apnews.com/article/joe-biden-pennsylvania-coronavirus-pandemic-elections-harrisburg-e1d2afadefa36cf2c82046be779463d1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/540f25d139ae4adaab857ee1f42b3817/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Pennsylvania lawyers shredded Rudy Giuliani's arguments in Trump's biggest election lawsuit, calling them 'disgraceful' and 'really inventive'"
     excerpt: "One defense lawyer described Giuliani as living in a \"fantasy world\" and said his arguments were \"disgraceful in an American courtroom.\""
     publishedDateTime: 2020-11-18T08:31:00Z

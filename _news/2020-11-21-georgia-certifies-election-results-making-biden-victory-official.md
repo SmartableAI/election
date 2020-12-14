@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-secretary-state-certifie
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511"
 type: article
 quality: 140
-heat: 1440
+heat: 1460
 published: true
 
 provider:
@@ -1021,6 +1021,17 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Georgia Democratic Electors Cast 16 Votes for Joe Biden"
+    excerpt: "Georgia ’s 16 Electoral College votes have been cast for Democrat Joe Biden for president. The state’s Democratic electors, including former candidate for governor Stacey Abrams, met in the state Senate chamber on Monday."
+    publishedDateTime: 2020-12-14T18:04:00Z
+    webUrl: "https://www.usnews.com/news/best-states/georgia/articles/2020-12-14/georgia-democratic-electors-cast-16-votes-for-joe-biden"
+    ampWebUrl: "https://www.usnews.com/news/best-states/georgia/articles/2020-12-14/georgia-democratic-electors-cast-16-votes-for-joe-biden?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/georgia/articles/2020-12-14/georgia-democratic-electors-cast-16-votes-for-joe-biden?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "Yl9vi4cELlrhf5sKpkc3GQ1lC+WoFSlH/2pm7tOXuUCxwx2aTgDJTx2EMoVfcxv7Lg4KvhTWIlg5zpjGU7NTNGPvMCtIhvJ9/SZV3pteQC/6Ivlo18besEo5kkFXLN3jmCZubblX3Ir1NG2b8rd60nXic0NX9os5U2a7yxhKqMcuDE/KTrZtgjfhaT70LMp2+YVmQV2RVT5fZ7rA6kc8ocE4IQvYfs8NJYwzfaJGGNSWIMhm2vhwohw/8F3WLBlES4Qv2CMfdCMvoiwi+OaA8yGYuGoqVKUBIGMb8YDuGqfhshcNFlzPaX00FZFCvmiUf0HD2DFUcv2qkLuQeVbihpVNQ5OQMjB15sHDmHCGJLrP5nNQQFNpqO1FCiOyPdodnF1Cf0glOWCVmeXdQBm76N7b4zu+WbNgZAdlO8NWzVORtgKjt+EaeHm2k9W2YqIu7V6zn38bYrXfwT3G2lGlZbHR6vRoeszgPH7HNnQ1AQwwkgkNYvPAy2y/eUUTKJKnAt/oTnCp9oeww7Q5010H5A==;Hz0MvUGvCcea02FYWP0poA=="
 ---

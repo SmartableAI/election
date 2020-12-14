@@ -379,22 +379,6 @@ related:
         width: 3500
         height: 2333
         isCached: true
-  - title: "Joe Biden and Kamala Harris jointly named Time's 'Person of the Year'"
-    excerpt: "U.S. President-elect Joe Biden and Vice President-elect Kamala Harris were jointly named Time magazine's 2020 \"Person of the Year\" on Thursday, chosen from a list of finalists that included the man Biden vanquished at the polls - President Donald Trump."
-    publishedDateTime: 2020-12-11T18:34:00Z
-    webUrl: "https://www.reuters.com/article/uk-time-person/joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSKBN28K32U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K33R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K33R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544198435&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA08Y"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Biden says he hopes Supreme Court rejects Trump bid on 2020 census count"
     excerpt: "President-elect Joe Biden on Tuesday said he hopes the U.S. Supreme Court rejects a plan by President Donald Trump's administration to exclude immigrants living illegally in the United States from population counts used to allocate congressional districts to states."
     publishedDateTime: 2020-12-01T16:56:00Z
@@ -1718,6 +1702,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Joe Biden and Kamala Harris Jointly Named Time's 'Person of the Year'"
+    excerpt: "Democratic presidential candidate and former Vice President Joe Biden and U.S. Senator and Democratic candidate for Vice President Kamala Harris celebrate outside the"
+    publishedDateTime: 2020-12-12T01:44:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-12-10/four-finalists-vie-for-times-person-of-the-year-for-2020"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-12-10/four-finalists-vie-for-times-person-of-the-year-for-2020?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-12-10/four-finalists-vie-for-times-person-of-the-year-for-2020?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Alert: Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
     excerpt: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump."
     publishedDateTime: 2020-11-30T23:16:00Z
@@ -1774,6 +1769,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "+pRV17tB9Iq+nbqL1Jl3HxO2aU7SMsX6j49AyFQRHrwyM21TRXdkzCoOfEmEs7HMf7Nb5dhEfLn8/PHdQIewHDbLxfKFnDkocpfsOZL+MuWj26yIIzlAhqeWpxkpek03IKe1HHsiUQCu7xOzYkkejZbcAoHlxrznqhDMPZHwxSDo7C0x10aNUriN1GWUoJWiT45tSNyY9VqMyAOihpL1ZQmtMQ7R9VZlamw6KfsEJztL8gYzd/ZnMaOhUTqSb8MXzkQEHguBlovyBHauSTvnmfFEKV8OTA7zq61cS2+hT5U2c5m8wW5jf3PqOcQdg/lN0QX5B9FL3tN/OlE7B1vDEW0E+Vga3Me62KaYedmz/TQ=;tSRP9GN72v7FbmVJ/Q24gA=="
+secured: "rPqR5fiPDgOY2WOgJCg45dD1Ok52tU88IrZr3ZHWiGvd0aKPMu6J/MW6VxSZLHyxTWCeYaZ70J2mLO9aaihCfnbJbasfXC0ms7jhKD3McnomoidUrWF+/uZ1lHqQZLGTM+WCnPFq/68qGFlR3dpp+bGxut6RhVNWLQcNaoQeHHwZ9Z4Wy6S7UIPfRo6QdGEZT3nhMiP5SsvZ4P0vXh9l0t0z/TivCHK7iQfZHvffRfKrD4T+MlyFq05XPSCYS4oemcEiGdyasXDa1Vcf7XWO3a4k6EmvJfvy7SdHW7c6401Cj4u6mBO0G1M9dDMw5MVzFYau6La0Iqpl0wMqXoeJg299KGpaWjpHTCnWI7tHDiFHkIOZCYpUqciSE2zvDTmpSOtxmZMeZ5qGgLiUtEcjhpgkvojDu3H3BkJ5UCDn4fjwbD2hYelwAO4V9aYROvtTLhOmxkGpAUsWoxnaPba0hiZfHL796tKJDIa/1IKoFbpsmmXGhE6rOe55JosoWXTeSNkYmYUimxcXFXSQkYY1oQ==;3BFv5kbifEgzXg+moK+SDQ=="
 ---
 

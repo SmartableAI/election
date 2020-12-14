@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Top Ga. voting official slams threats on election officers, tells Trump, senators to condemn it: 'Has to stop'"
-    excerpt: "A top Georgia voting official on Tuesday in a fiery press conference decried threats against Secretary of State Brad Raffensperger, the secretary's wife, and other elections officials and workers as the Trump campaign continues to fight the result of the presidential election in court."
-    publishedDateTime: 2020-12-02T13:31:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1gDe_7enrRc/top-ga-voting-official-slams-threats-on-election-officers-tells-trump-senators-to-condemn-it-has-to-stop"
-    ampWebUrl: "https://www.foxnews.com/politics/top-ga-voting-official-slams-threats-on-election-officers-tells-trump-senators-to-condemn-it-has-to-stop.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-ga-voting-official-slams-threats-on-election-officers-tells-trump-senators-to-condemn-it-has-to-stop.amp"
+  - title: "Jim Jordan: Georgians understand ‘freedom,’ Trump policies at stake in Senate elections"
+    excerpt: "Georgians “understand” what is at stake in the Peach State’s upcoming Senate runoff elections, Rep. Jim Jordan, R-Ohio, said on Monday."
+    publishedDateTime: 2020-12-14T18:02:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n_d4SqvPd7E/jordan-georgia-senate-runoff-election-freedom-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/jordan-georgia-senate-runoff-election-freedom-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jordan-georgia-senate-runoff-election-freedom-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 182
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

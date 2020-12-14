@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/top-ga-voting-official-slams-threat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-ga-voting-official-slams-threats-on-election-officers-tells-trump-senators-to-condemn-it-has-to-stop.amp"
 type: article
 quality: 170
-heat: 190
+heat: 170
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "Georgia secretary of state blasts Trump, Stacey Abrams for sowing election doubt"
-    excerpt: "Georgia’s GOP Secretary of State Brad Raffensperger on Monday criticized both President Trump and Democratic darling Stacey Abrams for casting doubt on the election process as the Peach"
-    publishedDateTime: 2020-12-07T16:51:00Z
-    webUrl: "https://nypost.com/2020/12/07/brad-raffensperger-blasts-trump-abrams-for-sewing-election-doubt/"
-    ampWebUrl: "https://nypost.com/2020/12/07/brad-raffensperger-blasts-trump-abrams-for-sewing-election-doubt/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/07/brad-raffensperger-blasts-trump-abrams-for-sewing-election-doubt/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 145
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/Election-2020-Georgia.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "Is1VMyV/9YUl5ZdvKAGBPy95jRyrmyr6wZJd+cYhjhOB0dfXr6fGvfp/MGDGKSXUk/yeHl//BI5LorhqyK9k3PkIg1BqLRGABqGe6drl9+Om4r9Mzn1UrEXmDXGHbsUpelUg3pe0lHjpkxz6Ck/eCM6GsjTSCqZkJbzJkWuAN300EYX6ywZSdfMeRhEw4NEkEAGyijUZldtUkrjFUrW6Kvzjbi/Cs07KBAvGkrG2xCe0f8Sq5f+W8ZDK4ZSInfU8ja5lEKKy+iyMFtNMMmlcAKeOly+KhGb9C446Ai8p3vZDN4zmi3nXokeQKVUaBVdbAn5W5F9TYZRPdGPQFotWPZhuV9IdrLrD/bRBGCllHnc=;zmQUywOQitCs8DMzeKQ4yA=="
 ---

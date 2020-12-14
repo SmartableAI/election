@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Wisconsin Supreme Court tosses Trump election lawsuit"
+    excerpt: "The Wisconsin Supreme Court on Monday rejected President Donald Trump's lawsuit attempting to overturn his loss to Democrat Joe Biden in the battleground state, ending Trump's legal challenges in state court about an hour before the Electoral College was to meet to cast the state's 10 votes for Biden."
+    publishedDateTime: 2020-12-14T17:57:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lY-fsZJains/wisconsin-supreme-court-tosses-trump-election-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/wisconsin-supreme-court-tosses-trump-election-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wisconsin-supreme-court-tosses-trump-election-lawsuit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20347853507577-e1607968333232.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "In letter to Trump, House Republicans call for special counsel to investigate election"
     excerpt: "More than two dozen House Republicans are calling on President Trump to direct Attorney General William Barr to appoint a special counsel to investigate November's presidential election, according to a letter obtained by Fox News."
     publishedDateTime: 2020-12-09T15:07:43Z
@@ -317,6 +333,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201212-trump-rally-dc5.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Wisconsin Supreme Court tosses Trump election lawsuit"
+    excerpt: "The Wisconsin Supreme Court on Monday rejected President Donald Trump's lawsuit attempting to overturn his loss to Democrat Joe Biden in the battleground state, ending Trump's legal challenges in state court about an hour before the Electoral College was to meet to cast the state's 10 votes for Biden."
+    publishedDateTime: 2020-12-14T18:00:00Z
+    webUrl: "https://www.foxnews.com/politics/wisconsin-supreme-court-tosses-trump-election-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/wisconsin-supreme-court-tosses-trump-election-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wisconsin-supreme-court-tosses-trump-election-lawsuit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20347853507577-e1607968333232.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump lays out election-fraud case in online video: 'Bad things happened'"
     excerpt: "Trump says if he's right about election fraud, 'Biden can't be president' President Trump is once again charging that last month’s presidential election was rigged and rife with fraud. In an address posted on his Twitter and Facebook pages that the president described as possibly “the most important speech,"

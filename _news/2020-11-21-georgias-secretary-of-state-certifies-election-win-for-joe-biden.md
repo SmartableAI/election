@@ -1021,6 +1021,17 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Georgia Democratic Electors Cast 16 Votes for Joe Biden"
+    excerpt: "Georgia ’s 16 Electoral College votes have been cast for Democrat Joe Biden for president. The state’s Democratic electors, including former candidate for governor Stacey Abrams, met in the state Senate chamber on Monday."
+    publishedDateTime: 2020-12-14T18:04:00Z
+    webUrl: "https://www.usnews.com/news/best-states/georgia/articles/2020-12-14/georgia-democratic-electors-cast-16-votes-for-joe-biden"
+    ampWebUrl: "https://www.usnews.com/news/best-states/georgia/articles/2020-12-14/georgia-democratic-electors-cast-16-votes-for-joe-biden?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/georgia/articles/2020-12-14/georgia-democratic-electors-cast-16-votes-for-joe-biden?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "ywxv9IMnX2vjGs2RCUPD4e+LTuCzwa2286s3i3cOBmOYS6+Q4qnRNNqnuD2ElGQXU4iOEnHmR4RH7E7gen42x4wCQfodLqkFUn2fQWf0zHIKjcUVXFVwlMar+HC/ZxZnUmdFIenyQL0MvMnk6NfAj3XY2kLKlKF7L9ERRXQpYkGhOnEx16cFeiFzAJzYZr/3OB1Xp52vk5LxmYagMGcYxPQ4to86CCeADp1mRGFcPhjKQGGPmRizO2GSzHdwXVxH9g8iD6kVJ/KksGCFdJABNQPjKSgtyflFFTsMfGdELLMD5Y1OxeVePnmRs+1yAabKYiojiqEDr4BMV2Ou2auPTnxEAoI7MbWoSVJEY8UMoUh9+vky06AZ17NtLF98D4+Wz1c8PBJDHl38iVCoeWfxSSgOH/aEOC0Ou7MMZHlWb6xJIvUnCi6vkWaSqBJBowqRwZyLFWK4zjPMM83UOCqwzbqbsUdsXR0jDKLrQ9QEgvJ71Ii9CGaDfcSEy59EFsGfj8dmIQFRA4iroiNKL0FbRw==;R892m0FJhIWqchQfvlOioQ=="
 ---

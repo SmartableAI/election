@@ -109,6 +109,54 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "Arizona's 11 electors vote for Democrat Joe Biden for president"
+    excerpt: "Arizona's 11 electors voted for Democrat Joe Biden for president on Monday, confirming the president-elect's victory in the Southwestern state in the 2020 U.S. presidential election, according to a spokesperson for the secretary of state."
+    publishedDateTime: 2020-12-14T18:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-arizona-idUSKBN28O2J4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O2J4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O2J4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544534640&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD1F9"
+        width: 809
+        height: 545
+        isCached: true
+  - title: "Electoral college meeting to formally choose Biden as next president"
+    excerpt: "Electors in the electoral college are casting the votes that will formally choose Joe Biden as the nation’s next president."
+    publishedDateTime: 2020-12-14T18:27:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-14/electors-meeting-to-formally-choose-biden-as-next-president"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-14/electors-meeting-to-formally-choose-biden-as-next-president?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-14/electors-meeting-to-formally-choose-biden-as-next-president?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7749282/2147483647/strip/true/crop/4341x2835+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F08%2Fbd%2Fcbf72ac3438eacfccf3ea6d430f8%2Fbiden-55451.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Kamala Harris' Niece Defends Sasha Obama After Viral Photo"
+    excerpt: "Meena The lawyer and niece of Vice President elect Kamala Harris took to Twitter late Sunday evening to defend the 19-year-old. \"Keep Sasha Obama's name out of your damn mouth,\" she wrote. On Sunday evening,"
+    publishedDateTime: 2020-12-14T17:02:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1685754/meena-harris.jpg"
+        width: 2500
+        height: 1406
+        isCached: true
   - title: "Electoral college members meet to formally choose Biden as next president"
     excerpt: "Presidential electors are meeting across the United States on Monday to formally choose Joe Biden as the nation’s next president."
     publishedDateTime: 2020-12-14T09:20:00Z
@@ -275,6 +323,22 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Maryland's electors cast the state's 10 votes for Joe Biden, Kamala Harris"
+    excerpt: "Maryland's presidential electors gathered in Annapolis on Monday to cast their votes for President-elect Joe Biden, who won the state in a landslide on Nov. 3. The state's 10 votes formalized Biden and Vice President-elect Kamala Harris's victory in Maryland and pushed the Democrats toward the 306 total Electoral College votes they are expected to receive."
+    publishedDateTime: 2020-12-14T18:15:00Z
+    webUrl: "https://www.delmarvanow.com/story/news/politics/elections/2020/12/14/maryland-electoral-college-cast-votes-joe-biden-kamala-harris/6538605002/"
+    ampWebUrl: "https://amp.delmarvanow.com/amp/6538605002"
+    cdnAmpWebUrl: "https://amp-delmarvanow-com.cdn.ampproject.org/c/s/amp.delmarvanow.com/amp/6538605002"
+    type: article
+    provider:
+      name: DelmarvaNow
+      domain: delmarvanow.com
+    quality: 88
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/11/NMLF/9ce90095-fd58-4641-a4f9-8772c1e99048-AP20314636032153.jpg?auto=webp&crop=5487,3087,x0,y279&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Michigan’s electors set to cast votes for Joe Biden, Kamala Harris on Monday"
     excerpt: "Monday’s ceremony at the Michigan Capitol is expected to be a stripped-down version of the event compared to previous election years, due to the coronavirus pandemic."
     publishedDateTime: 2020-12-13T12:05:00Z
@@ -323,6 +387,22 @@ related:
         width: 1024
         height: 758
         isCached: true
+  - title: "Illinois casts all 20 electoral votes for Joe Biden and Kamala Harris; Mayor Lori Lightfoot wielded gavel as electors cast ballots"
+    excerpt: "Secretary of State Jesse White, who officially oversees the quadrennial session, passed the gavel to Mayor Lori Lightfoot, an elector."
+    publishedDateTime: 2020-12-14T17:52:00Z
+    webUrl: "https://chicago.suntimes.com/elections/2020/12/14/22174386/illinois-electoral-votes-joe-biden-kamala-harris-mayor-lori-lightfoot-presided"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/elections/2020/12/14/22174386/illinois-electoral-votes-joe-biden-kamala-harris-mayor-lori-lightfoot-presided"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/elections/2020/12/14/22174386/illinois-electoral-votes-joe-biden-kamala-harris-mayor-lori-lightfoot-presided"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 60
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/bJoF6xLj2a3S0QfuWhN_CUU6A3w=/0x0:1440x900/1400x1050/filters:focal(659x407:889x637):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68510610/Electors.7.png"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Mary J. Blige on her new pinot grigio, Kamala Harris and her holiday plans"
     excerpt: "For Mary J. Blige, wine has been a ray of sunshine during the pandemic. In fact, she recently launched her own wine company, Sun Goddess."
     publishedDateTime: 2020-12-11T06:15:00Z
@@ -362,6 +442,15 @@ related:
         width: 1800
         height: 1200
         isCached: true
+  - title: "NY Electors Cast Votes for Biden, Harris in Brief Ceremony"
+    excerpt: "New York’s 29 presidential electors awarded their votes to Joe Biden and running mate Kamala Harris Monday on Monday."
+    publishedDateTime: 2020-12-14T18:41:00Z
+    webUrl: "https://www.usnews.com/news/best-states/new-york/articles/2020-12-14/ny-electors-cast-votes-for-biden-harris-in-brief-ceremony"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
   - title: "BIPOC Women-Led Coalition Urges Kamala Harris To Promote Plant-Based Nutrition and Take 31-Day Vegan Challenge"
     excerpt: "A group of female leaders, most of whom are women of color, have penned an open letter to the incoming US administration detailing"
     publishedDateTime: 2020-12-08T12:33:00Z

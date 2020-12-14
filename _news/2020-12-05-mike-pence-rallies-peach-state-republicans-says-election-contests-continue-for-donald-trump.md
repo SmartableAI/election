@@ -2637,6 +2637,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Oklahoma's Electors Award 7 Electoral Votes to Trump, Pence"
+    excerpt: "Oklahoma’s seven presidential electors have officially awarded the state’s electoral votes to President Donald Trump and Vice President Mike Pence."
+    publishedDateTime: 2020-12-14T18:06:00Z
+    webUrl: "https://www.usnews.com/news/best-states/oklahoma/articles/2020-12-14/oklahomas-electors-award-7-electoral-votes-to-trump-pence"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
   - title: "Trump Challenges Vote Results While Urging Turnout in Ga."
     excerpt: "President Donald Trump is pressing his grievances over losing the presidential election, using a weekend rally to spread baseless allegations of misconduct in last month’s voting in Georgia and beyond even as he pushed supporters to turn out for a pair of Republican Senate candidates in a runoff election in January."
     publishedDateTime: 2020-12-06T05:20:00Z
