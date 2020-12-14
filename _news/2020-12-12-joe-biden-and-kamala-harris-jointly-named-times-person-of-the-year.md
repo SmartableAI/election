@@ -3,12 +3,12 @@ category: news
 title: "Joe Biden and Kamala Harris jointly named Time's 'Person of the Year'"
 excerpt: "U.S. President-elect Joe Biden and Vice President-elect Kamala Harris were jointly named Time magazine's 2020 \"Person of the Year\" on Thursday, chosen from a list of finalists that included the man Biden vanquished at the polls - President Donald Trump."
 publishedDateTime: 2020-12-11T18:34:00Z
-originalUrl: "https://www.reuters.com/article/time-person/update-4-joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSL1N2IQ3C0"
-webUrl: "https://www.reuters.com/article/time-person/update-4-joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSL1N2IQ3C0"
+originalUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28K33R"
+webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28K33R"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K32U"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K32U"
 type: article
-quality: 140
+quality: 150
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Kamala Harris
 
 images:
@@ -639,6 +640,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Wisconsin state court judge rules against Trump campaign lawsuit seeking to overturn Joe Biden’s win"
+    excerpt: "Wisconsin state court judge rules against Trump campaign lawsuit seeking to overturn Joe Biden’s win."
+    publishedDateTime: 2020-12-12T00:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/wisconsin-state-court-judge-rules-trump-campaign-lawsuit-74673107"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wisconsin-state-court-judge-rules-trump-campaign-lawsuit-74673107"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wisconsin-state-court-judge-rules-trump-campaign-lawsuit-74673107"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 135
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Power Up: One reason Trump keeps pushing to overturn Biden win: He's raking in cash"
     excerpt: "President Trump has raised more than $150 million pushing his false claims about a rigged election, but a big chunk of the money could wind up as a down payment for the president's post-White House political operation – another sign that the blundering efforts to overturn the election results may not really be about winning at all."
     publishedDateTime: 2020-12-01T11:31:00Z
@@ -892,22 +909,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/05/USAT/6a4ebf24-fc97-4b93-a66a-df1653a6c4d8-GTY_1289457977.jpg?auto=webp&crop=7605,4278,x0,y200&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Wisconsin state court judge rules against Trump campaign lawsuit seeking to overturn Joe Biden’s win"
-    excerpt: "Wisconsin state court judge rules against Trump campaign lawsuit seeking to overturn Joe Biden’s win."
-    publishedDateTime: 2020-12-12T00:59:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/wisconsin-state-court-judge-rules-trump-campaign-lawsuit-74673107"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wisconsin-state-court-judge-rules-trump-campaign-lawsuit-74673107"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wisconsin-state-court-judge-rules-trump-campaign-lawsuit-74673107"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
         isCached: true
   - title: "Trump-Biden transition live updates: Trump teases 2024 presidential run at White House Christmas party"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
@@ -1778,6 +1779,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "QCcIgqOptzPnQwgHWgXl3BR+TyGKkWlsgDHkWBMemwbfo0xty8SlK1Ljf/d/MVw0UK/IRX3EMFxsiD2vTe9nyelxdxqwD3wwfN4wf+UioMVtm41xf83a+XyggB+CjeWlHWWQsMprYxQJChAuz3df6mWABbMh4sLXZ+Rb9wX9ZEd97i5RmxOrDTxMYl60JkB7d6fDGdJbjG+UOABQ3n8j9gr1ImGc/OCCHDz4fmQgtyeb+IQ2qL+P4aI9KLbMOBrQ3R1bLagn7mv2t5UUrWL+OXSS3+ClAznA+j+FSqsxcBZIDdXd9NrBLfRHd0AhXuEH/2bbE6kp3bONZjpQ1yfrUb9UXoS31yyy4r1K4ShecGCMptZRfFTUN5NzeXGNXZRCVBgzLSBLDbFQcDv+ycF45753oRpJyvL4H8qR5bM86rzs9SV7J7EXvIOgh8Ym5p3JqsBs6Y7pVYaL5JsJMIgUVlKzrLlFTIBeE+v2zTfRQPnbf08t2m2aoif1RveZqDDRWdZOXmYzbbTWTjidOtfHwQ==;yUWHeDuAs+T6G7SYdA25hA=="
+secured: "uDX+6lmCujc9ZB6s5xfGEUL11ydq/QMlUgzvWfF6xH1awqz+IttjAkJD/hMmB5OzGDoDfxc+hzXhwV66Aa2hmfHvCdLXzwX3YCrKW58fkmZgzQ8/Siv8DeohdKQ3Jura2tZF/1lED94b6+q35CDt3REkuOquU6u4uqx+V+QYHYltCF+j6q1IkpUKXezxhm20IE39SASKgH3+GJQCCALmFXUbhfoiTm68vtIqGytufpqCFaPy66AgdtYJLCAxpO2Q9+3O+52HkxoGRLPkheHI0UoMtdOutQSxANfiWBTKyAS2IUfy7RuoZ9QFK4ixbg6oFodRvtEtoW30BeImWdvMTLF5o45DWugiolmQRu7YkEk=;hYsBX5QkNyPu/7wlFQb98w=="
 ---
 

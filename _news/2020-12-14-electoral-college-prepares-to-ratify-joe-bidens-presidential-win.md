@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Mary J. Blige on her new pinot grigio, Kamala Harris and her holiday plans"
-excerpt: "For Mary J. Blige, wine has been a ray of sunshine during the pandemic. In fact, she recently launched her own wine company, Sun Goddess."
-publishedDateTime: 2020-12-11T06:15:00Z
-originalUrl: "https://www.sfchronicle.com/food-culture/article/Mary-J-Blige-on-her-new-pinot-grigio-Kamala-15791526.php"
-webUrl: "https://www.sfchronicle.com/food-culture/article/Mary-J-Blige-on-her-new-pinot-grigio-Kamala-15791526.php"
+title: "Electoral College Prepares To Ratify Joe Biden's Presidential Win"
+excerpt: "On this day when Joe Biden's presidential win is expected to be ratified, NPR's Rachel Martin talks to conservative writer Jonah Goldberg about why the Electoral College is important."
+publishedDateTime: 2020-12-14T08:31:00Z
+originalUrl: "https://www.npr.org/2020/12/14/946189554/electoral-college-prepares-to-ratify-joe-bidens-presidential-win"
+webUrl: "https://www.npr.org/2020/12/14/946189554/electoral-college-prepares-to-ratify-joe-bidens-presidential-win"
 type: article
-quality: 53
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: NPR
+  domain: npr.org
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Kamala Harris
+  - Joe Biden
 
 images:
-  - url: "https://s.hdnux.com/photos/01/15/54/71/20368962/7/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+    width: 1400
+    height: 787
     isCached: true
 
 related:
@@ -197,20 +201,6 @@ related:
         width: 1484
         height: 834
         isCached: true
-  - title: "Electoral College Prepares To Ratify Joe Biden's Presidential Win"
-    excerpt: "On this day when Joe Biden's presidential win is expected to be ratified, NPR's Rachel Martin talks to conservative writer Jonah Goldberg about why the Electoral College is important."
-    publishedDateTime: 2020-12-14T08:31:00Z
-    webUrl: "https://www.npr.org/2020/12/14/946189554/electoral-college-prepares-to-ratify-joe-bidens-presidential-win"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "As A Stepparent, Kamala Harris Puts 'Families You Choose' In The Spotlight"
     excerpt: "When Vice President-elect Kamala Harris takes office, she brings with her what stepdaughter Ella Emhoff describes as a \"big blended family.\" Other blended families are celebrating that visibility."
     publishedDateTime: 2020-12-09T09:00:00Z
@@ -303,6 +293,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mary J. Blige on her new pinot grigio, Kamala Harris and her holiday plans"
+    excerpt: "For Mary J. Blige, wine has been a ray of sunshine during the pandemic. In fact, she recently launched her own wine company, Sun Goddess."
+    publishedDateTime: 2020-12-11T06:15:00Z
+    webUrl: "https://www.sfchronicle.com/food-culture/article/Mary-J-Blige-on-her-new-pinot-grigio-Kamala-15791526.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 53
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/54/71/20368962/7/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Meet the First Second Gentleman-Elect, Kamala Harris' Husband Douglas Emhoff"
     excerpt: "Kamala Harris’ husband Douglas Emhoff, is one of the most adoring political spouses ever—and he will be a first in two major ways: Emhoff is the first second gentleman-elect, as well as the first Jewish spouse to a vice president."
     publishedDateTime: 2020-12-07T16:01:00Z
@@ -343,6 +347,6 @@ related:
         height: 315
         isCached: true
 
-secured: "lraWHD56+p6Cq85b8OX71NZ3AaC2AlRaxCM9pEpPXMcPyPrV+tStfOiB5KmqcuDlKuqWvzPgjO+nweggMIXNLbu4YYgHW4T16VJ6/4ve4gibGRB2/CKuOEu0x/QtoxTYGTM5+pGrucSoI79lrBGcJrtZwTo+zcQ5uuY1m3u3570O2PuGj2FzVQRjPYQ7l80Wksv/H3grzL13bZw20XKAh5FHwVfEcp1xKJe8hvQlibJO1NhbXYKEZEDBVCOWtJVOOr/04Jqr9VvmhxXGUfWpXcheNP1wcaOrvbYC0FbkY7T1Z3OckigId3ScHZyIfDjFHNHxsOVNSpNC5zV/vy7B5PCJaHEMdV1DJlIvkYhzLcYXHYwWpmIwAO1W6DhB/9DDvik0l080dysqzIZjWHWUzVE6g350lkgLbOURYpX4tBUaLMLEduhmQzF4bm8c+zrre8aZ5WhXD/vCEnK2oGvSZhMy1fkrfoT9beLDYhzaRDXml2cau6WbiMha+f8C4f97q8bOuSuhlZ+jEADsOlFnLg==;p6H6dc736jQ1WUM9RAYLJQ=="
+secured: "BYZ3mn/ylKr5n1nU2DDh7r4zNH7kzLfa3IgR5SU4sFPmjYl8+YElbbRpvgoq9S2Xjd/6habk6mFWtlKVe6gLGtaNxosNj5XXBJIH9PKoQLg2Uav6bWqLd0njMUuPnXJrvmQl6S/KQN6wBLk225EIt16Pnn9jl3jkm82fEYay6itqwIMRfbeKLzyP9jEez3lvtWPL5lzTWvmWk6tnEmb4FJNPDMws3TD/pe08kQauthDvnRgQDyO++TtAtEqxMMJ5zqyRwtN4Nc29tUcae9+5DpdUCzywG2fXKeWK7QmNYGjv35Gepog73dj56xTSgT3IdUk/9BMLt/2ESi/9S0mAzmSkIKIqjYpXjHp6J1wjDKY=;opCF9ncJqHJ710NKf8xWzQ=="
 ---
 
