@@ -31,83 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Rep. Jim Jordan: Voters not knowing about Hunter Biden probe before election 'is just wrong'"
-    excerpt: "The media and the American people should have known about the federal investigation into President-elect Joe Biden's son Hunter prior to last month's presidential election, Rep. Jim Jordan, R-Ohio, said on Friday."
-    publishedDateTime: 2020-12-12T05:42:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6l6tzgljFzQ/jim-jordan-hunter-biden-investigation-voters-media"
-    ampWebUrl: "https://www.foxnews.com/politics/jim-jordan-hunter-biden-investigation-voters-media.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-hunter-biden-investigation-voters-media.amp"
+  - title: "Trump, Biden officials condemn Iran regime's kidnapping, execution of reporter"
+    excerpt: "Officials in the Trump administration and Biden transition were united in their condemnation of the Iranian regime for its execution of a journalist whose work encouraged protests over the country’s economic decline."
+    publishedDateTime: 2020-12-14T16:45:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4UjY15p7cKU/trump-biden-officials-condemn-iran-reporter"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-officials-condemn-iran-reporter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-officials-condemn-iran-reporter.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 179
+    quality: 186
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20347367382392.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Biden changes his story on Bin Laden raid -- again"
-    excerpt: "President-elect Joe Biden came under fire earlier this year for denying his opposition to the 2011 raid that killed Usama bin Laden after previously claiming that he advised then-President Obama against it. "
-    publishedDateTime: 2020-12-07T00:59:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VUmhWXUtvkE/biden-bin-laden-raid-obama"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-bin-laden-raid-obama.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bin-laden-raid-obama.amp"
+  - title: "Biden defends nomination of retired general to lead Defense Department"
+    excerpt: "Responding to criticism from fellow Democrats over Joe Biden's decision to name a recently retired general to lead the Defense Department, the president-elect is defending his choice of retired four-star Gen. Lloyd Austin as Defense secretary in his upcoming administration"
+    publishedDateTime: 2020-12-09T20:30:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uX_ycAfeYW4/biden-defends-nomination-of-retired-general-to-lead-defense-department"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-defends-nomination-of-retired-general-to-lead-defense-department.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defends-nomination-of-retired-general-to-lead-defense-department.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b76c0eaf-5096-4a0a-bb3c-7fc7db46132a/9941afad-0e5a-4e96-985a-d38d9e65ff99/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden's health team picks point to more hands-on federal response"
-    excerpt: "President-elect Joe Biden's choices for his health care team point to a stronger federal role in the nation's COVID-19 strategy, restoration of a guiding stress on science and an emphasis on equitable distribution of vaccines and treatments."
-    publishedDateTime: 2020-12-08T16:14:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yqtvvfd-T_Q/biden-health-team-hands-on-federal-response"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-health-team-hands-on-federal-response.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-health-team-hands-on-federal-response.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82f2e1a9-be17-47ad-9e03-87cdb925e02d/3b181a5a-a397-4b4f-94ce-a60e3688ed33/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hunter Biden 'tax affairs' under federal investigation"
-    excerpt: "The U.S. Attorney’s Office in Delaware is investigating Hunter Biden’s “tax affairs,” President-elect Joe Biden’s son confirmed on Wednesday, saying he is taking the matter “very seriously” and is “confident” he handled his affairs “legally and appropriately.” \u2028"
-    publishedDateTime: 2020-12-09T21:05:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqduG92XE-M/hunter-biden-tax-affairs-under-federal-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-tax-affairs-under-federal-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-tax-affairs-under-federal-investigation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Ron Johnson pushes back on calls for Hunter Biden special counsel"
-    excerpt: "EXCLUSIVE: Senate Homeland Security Committee Chairman Ron Johnson, who has been looking into Hunter Biden’s foreign business dealings for over a year, told Fox News on Wednesday he opposes the appointment of a special counsel to investigate President-elect Joe Biden’s son, while vowing to continue looking"
-    publishedDateTime: 2020-12-09T22:34:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GchTH4Gp6z0/ron-johnson-hunter-biden-special-counsel-calls-pushback"
-    ampWebUrl: "https://www.foxnews.com/politics/ron-johnson-hunter-biden-special-counsel-calls-pushback.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ron-johnson-hunter-biden-special-counsel-calls-pushback.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -127,38 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Will Joe Biden fire the Hunter Biden investigators?"
-    excerpt: "President-elect Joe Biden has not said whether he’ll commit to keeping the Delaware U.S. Attorney investigating Hunter Biden in his position in the new administration. "
-    publishedDateTime: 2020-12-10T22:43:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B15Aa6slS64/will-joe-biden-fire-the-hunter-biden-investigators"
-    ampWebUrl: "https://www.foxnews.com/politics/will-joe-biden-fire-the-hunter-biden-investigators.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-joe-biden-fire-the-hunter-biden-investigators.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5da600fb-fbc4-43de-a50c-a2190fcc4c4e/c6eb9241-3c2b-4074-b59a-25c4600012a9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AG Barr knew about Hunter Biden probe for months: report"
-    excerpt: "Attorney General William Barr reportedly knew about investigations into Hunter Biden’s business and financial dealings for months, and worked to stop them being disclosed to the public during the election campaign."
-    publishedDateTime: 2020-12-11T17:08:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aph5PtHpV7s/ag-barr-hunter-biden-probe-spring-report"
-    ampWebUrl: "https://www.foxnews.com/politics/ag-barr-hunter-biden-probe-spring-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ag-barr-hunter-biden-probe-spring-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb434ef2-fe30-41c5-9c87-687265fa6239/5d3b2f20-1e86-4f21-aa83-8df313917cbc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Comer says investigation into Hunter Biden must go on unimpeded"
     excerpt: ""
     publishedDateTime: 2020-12-11T08:58:46Z
@@ -175,69 +95,37 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Joe Biden's brother James is also caught up in federal probe: report"
-    excerpt: "Federal authorities are reportedly conducting a criminal investigation into a hospital business tied to President-elect Joe Biden’s brother James."
-    publishedDateTime: 2020-12-11T00:52:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oiZ-fyQ8YsQ/joe-bidens-brother-james-federal-probe"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-bidens-brother-james-federal-probe.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-bidens-brother-james-federal-probe.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a6837db-74e7-4137-9fec-d45f0b35bdab/64b1d66c-f5d4-4ec0-96ec-4e475773dedc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "NY Gov. Cuomo among contenders for Biden attorney general"
-    excerpt: "New York Gov. Andrew Cuomo is one of several contenders under consideration by President-elect Joe Biden for the role of attorney general, a person with knowledge of the search process said Friday."
-    publishedDateTime: 2020-12-12T17:20:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0w1crn2Bhg8/cuomo-among-contenders-for-biden-attorney-general-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/cuomo-among-contenders-for-biden-attorney-general-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-among-contenders-for-biden-attorney-general-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Cuomo-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Hawley: Joe Biden has questions to answer about federal probe into Hunter"
-    excerpt: "In an interview on \"America's Newsroom,\" Sen. Josh Hawley, R-Mo., said President-elect Joe Biden had questions to answer about the federal investigation into his son Hunter's tax dealings and any U.S. Attorneys working on the case had to remain in their positions once Biden was inaugurated."
-    publishedDateTime: 2020-12-10T19:08:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dTZER3EI68o/hawley-joe-biden-questions-probe-hunter"
-    ampWebUrl: "https://www.foxnews.com/politics/hawley-joe-biden-questions-probe-hunter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-joe-biden-questions-probe-hunter.amp"
+  - title: "Ilhan Omar 'quite happy' with Biden officials' receptiveness to her ideas"
+    excerpt: "“Squad” member Rep. Ilhan Omar, D-Minn., said she was “quite happy” with the response after submitting a list of proposed left-wing executive actions at a meeting with President-elect Joe Biden’s transition team."
+    publishedDateTime: 2020-12-10T20:25:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8iJVj2AP128/ilhan-omar-quite-happy-biden-officials-receptiveness"
+    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-quite-happy-biden-officials-receptiveness.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-quite-happy-biden-officials-receptiveness.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f6c2c04-9adb-4a48-9e69-b8d1fedfe5aa/8bfd9c7b-c905-49aa-ab42-e3a6d00a48a2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Ilhan-Omar-REUTERS.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "GOP Rep. Ken Buck calls for Hunter Biden special counsel in letter to Barr"
-    excerpt: "EXCLUSIVE: Republican Rep. Ken Buck on Monday urged Attorney General William Barr to appoint a special counsel to investigate Hunter Biden's business dealings and a laptop purportedly belonging to him in order to ensure an investigation “free from political interference.”"
-    publishedDateTime: 2020-12-07T19:36:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPN7bxKFtu0/gop-rep-ken-buck-hunter-biden-special-counsel"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
+  - title: "Trump says Barr 'a big disappointment' after report AG knew about Hunter Biden investigation months ago"
+    excerpt: "President Trump on Saturday described Attorney General William Barr as a “big disappointment” after a report claiming the nation’s top lawyer knew about the Hunter Biden investigation months ago."
+    publishedDateTime: 2020-12-12T17:34:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TzjPtyHxiZg/trump-barr-big-disappointment-ag-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-barr-big-disappointment-ag-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-barr-big-disappointment-ag-hunter-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64208635-0349-48e0-a93c-f27a02bd14c0/3fd9dd5d-8e39-4843-83b3-4f10cbc9f0e3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Sen. Johnson: Voters, Congress should have known about DOJ Hunter Biden investigation"
     excerpt: "Sen. Ron Johnson, R-Wis., said members of Congress should have been informed that Hunter Biden's \"tax affairs\" were under investigation as they considered whether to vote to impeach President Trump in 2019."
@@ -271,196 +159,95 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "FLASHBACK: President-elect Biden pledged not to interfere with DOJ investigations in 2019"
-    excerpt: "“I would not dictate who should be prosecuted or who should be exonerated,\" Biden said during a debate in Nov. 2019."
-    publishedDateTime: 2020-12-10T02:54:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u734thyHz58/flashback-president-elect-biden-pledged-not-to-interfere-with-doj-investigations-in-2019"
-    ampWebUrl: "https://www.foxnews.com/politics/flashback-president-elect-biden-pledged-not-to-interfere-with-doj-investigations-in-2019.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-president-elect-biden-pledged-not-to-interfere-with-doj-investigations-in-2019.amp"
+  - title: "Trump administration adds China, Nigeria, Iran to list of countries lacking religious freedom"
+    excerpt: "The Trump administration on Monday added China, Nigeria and Iran to the list of countries that engage in violating or allowing violations of religious freedom within their borders — part of U.S. efforts to end religious persecution around the world. "
+    publishedDateTime: 2020-12-08T16:28:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u4fSEvVXMVc/trump-china-nigeria-iran-religious-freedom-violations"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c6b162e-be50-4a77-a376-4c526d5ece40/312aac65-1e1b-4147-8427-2f66b8964cf2/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cbf6a5de-4c6e-402d-ad75-1713dbc7e628/f49d8ca1-c005-47ec-8e0b-075fcd435fc5/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Bobulinski tells Tucker Carlson that Joe Biden lied about son Hunter's business dealings"
-    excerpt: "Former Hunter Biden business partner Tony Bobulinski claimed now-President-elect Joe Biden lied about having no knowledge of his son's foreign business dealings."
-    publishedDateTime: 2020-12-11T19:42:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7qwr6e3Yurs/flashback-bobulinski-tucker-hunter-carlson-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/flashback-bobulinski-tucker-hunter-carlson-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-bobulinski-tucker-hunter-carlson-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Joe Biden breaks silence on Hunter for first time since federal tax investigation surfaced"
-    excerpt: "“I’m proud of my son,” Biden said in response to a question from Fox News' Peter Doocy."
-    publishedDateTime: 2020-12-11T21:58:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vcpHfaLHDcc/joe-biden-breaks-silence-hunter-for-first-time-since-federal-tax-investigation-surfaced"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-breaks-silence-hunter-for-first-time-since-federal-tax-investigation-surfaced.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-breaks-silence-hunter-for-first-time-since-federal-tax-investigation-surfaced.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fdd4fa30-66ad-4e63-adb7-491d71f54190/dac5b2a1-6140-41e0-9388-9a2491361f93/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
-    excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."
-    publishedDateTime: 2020-12-12T19:22:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3DbN5onkhFg/hawley-biden-hunter-biden-investigators"
-    ampWebUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f6c2c04-9adb-4a48-9e69-b8d1fedfe5aa/8bfd9c7b-c905-49aa-ab42-e3a6d00a48a2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Democratic Gov. Gretchen Whitmer to serve as co-chair of President-elect Joe Biden's inauguration"
-    excerpt: "Michigan Gov. Gretchen Whitmer will serve as co-chair for President-elect Joe Biden’s inauguration next month. "
-    publishedDateTime: 2020-12-07T20:35:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/roZTFUpA4wU/democratic-gretchen-whitmer-co-chair-joe-biden-inauguration"
-    ampWebUrl: "https://www.foxnews.com/politics/democratic-gretchen-whitmer-co-chair-joe-biden-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-gretchen-whitmer-co-chair-joe-biden-inauguration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20338756509391.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Sarah Sanders says liberal media covered up for Hunter Biden during father's presidential campaign"
-    excerpt: "Reacting on \"Fox & Friends\" to news that Hunter Biden's tax affairs are the subject of a federal investigation on Thursday, Fox News contributor Sarah Sanders said Thursday that liberal media outlets \"covered it up\" for him during his father's presidential campaign."
-    publishedDateTime: 2020-12-10T15:05:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XiCezx9AAy0/liberal-media-hunter-biden-fathers-campaign-sanders"
-    ampWebUrl: "https://www.foxnews.com/politics/liberal-media-hunter-biden-fathers-campaign-sanders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liberal-media-hunter-biden-fathers-campaign-sanders.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c44c1849-3309-4d8c-ab1c-2d0a3e07c29c/383584ff-f5d9-493b-bc0a-3a0b9a1b1667/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hunter Biden’s foreign transactions repeatedly flagged as potential criminal activity, Senate probe found"
-    excerpt: "A Republican-led Senate investigation noted “potential criminal activity” among his transactions."
-    publishedDateTime: 2020-12-10T02:24:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X0N6doesa9k/hunter-biden-foreign-transactions-potential-criminal-activity-senate-probe"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-foreign-transactions-potential-criminal-activity-senate-probe.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-foreign-transactions-potential-criminal-activity-senate-probe.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c6b162e-be50-4a77-a376-4c526d5ece40/312aac65-1e1b-4147-8427-2f66b8964cf2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Tom Cotton: Hunter Biden's taxes are 'least damaging' part of probe into China dealings"
-    excerpt: "A grand jury investigation into Hunter Biden's taxes is the \"least damaging\" allegation against President-elect Joe Biden's son, Sen. Tom Cotton said Thursday."
-    publishedDateTime: 2020-12-10T16:41:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBlMuqDYz5o/hunter-biden-taxes-china-allegations-tom-cotton"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 147
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Tom-cotton-12-08.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Will Joe Biden fire the Hunter Biden investigators?"
-    excerpt: "President-elect Joe Biden has not said whether he’ll commit to keeping the Delaware U.S. Attorney investigating Hunter Biden in his position in the new administration."
-    publishedDateTime: 2020-12-12T11:54:00Z
-    webUrl: "https://www.foxnews.com/politics/will-joe-biden-fire-the-hunter-biden-investigators"
-    ampWebUrl: "https://www.foxnews.com/politics/will-joe-biden-fire-the-hunter-biden-investigators.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-joe-biden-fire-the-hunter-biden-investigators.amp"
+  - title: "Biden defends nomination of retired general to lead Defense Department"
+    excerpt: "Responding to criticism from fellow Democrats over Joe Biden's decision to name a recently retired general to lead the Defense Department, the president-elect is defending his choice of retired four-star Gen."
+    publishedDateTime: 2020-12-09T20:40:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-defends-nomination-of-retired-general-to-lead-defense-department"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-defends-nomination-of-retired-general-to-lead-defense-department.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defends-nomination-of-retired-general-to-lead-defense-department.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5da600fb-fbc4-43de-a50c-a2190fcc4c4e/c6eb9241-3c2b-4074-b59a-25c4600012a9/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20344680556597.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Cotton: 'Dangerous' for Joe Biden to rejoin Iran nuclear deal"
+    excerpt: "This is a rush transcript from “The Story with Martha MacCallum\" November 30, 2020. This copy may not be in its final form and may be updated. MARTHA MACCALLUM, FOX NEWS ANCHOR: Thank you, Bret. Good to see you tonight. Good evening, everybody. I'm Martha MacCallum in New York, and this is THE STORY. So, as President Trump prepares to head to Georgia on Saturday to rally the vote for the two Republicans who can make or break the GOP Senate majority, he will have to thread the needle of his dissatisfaction with Governor Kemp and the candidates who can cement his legacy. As Victor Davis Hanson writes of the president today, he has a year or more to decide whether he wishes to play kingmaker among would-be Republican congressional and presidential candidates or run himself for a second term. Geraldo Rivera, Fox News Correspondent-at-Large. GERALDO RIVERA, FOX NEWS CORRESPONDENT-AT-LARGE: Hi, Martha. MACCALLUM: Hi, everybody. Great to have you with us tonight. The first thing that I just want to note with regard to these election issues,"
+    publishedDateTime: 2020-12-10T13:11:00Z
+    webUrl: "https://www.foxnews.com/transcript/cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal"
+    ampWebUrl: "https://www.foxnews.com/transcript/cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2970927c-3de0-45c7-ac27-2dd8e5214ff2/fb93b2b6-66cf-45d1-a0b8-b588a1779790/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Hunter Biden 'tax affairs' under federal probe; links to China funds emerge, sources say"
-    excerpt: "Hunter Biden confirms grand jury investigation; links to China funds emerge, sources tell Fox News President-elect Joe Biden’s son Hunter Biden confirmed Wednesday that his \"tax affairs\" are under investigation by the U."
-    publishedDateTime: 2020-12-10T11:57:00Z
-    webUrl: "https://www.foxnews.com/us/hunter-biden-tax-affairs-under-federal-investigation-links-to-china-funds-emerge-sources-say"
-    ampWebUrl: "https://www.foxnews.com/us/hunter-biden-tax-affairs-under-federal-investigation-links-to-china-funds-emerge-sources-say.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/hunter-biden-tax-affairs-under-federal-investigation-links-to-china-funds-emerge-sources-say.amp"
+  - title: "Questions linger over the Left's plot against Donald Trump"
+    excerpt: "For four years, we listened to unsupported allegations of a conspiracy by a foreign government to interfere with our presidential election, that Russia stole the election of 2016, implanting their Russian asset,"
+    publishedDateTime: 2020-12-13T20:18:00Z
+    webUrl: "https://www.foxnews.com/transcript/questions-linger-over-the-lefts-plot-against-donald-trump"
+    ampWebUrl: "https://www.foxnews.com/transcript/questions-linger-over-the-lefts-plot-against-donald-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/questions-linger-over-the-lefts-plot-against-donald-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 126
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Biden-Hunter-Color-correct.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa6e2aad-22e4-4178-829c-91ad2bdc3551/a0090242-6ca2-4a14-b839-6834909e9e14/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Bobulinski tells Tucker Carlson that Joe Biden lied about son Hunter's business dealings"
-    excerpt: "Former Hunter Biden business partner Tony Bobulinski claimed now-President-elect Joe Biden lied about having no knowledge of his son's foreign business dealings."
-    publishedDateTime: 2020-12-11T19:57:00Z
-    webUrl: "https://www.foxnews.com/politics/flashback-bobulinski-tucker-hunter-carlson-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/flashback-bobulinski-tucker-hunter-carlson-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-bobulinski-tucker-hunter-carlson-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
-    excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."
-    publishedDateTime: 2020-12-13T01:28:00Z
-    webUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators?amp%2F"
-    ampWebUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
+  - title: "Trump administration names China, Nigeria, Iran to list of countries lacking religious freedom"
+    excerpt: "The Trump administration on Monday named China, Nigeria and Iran to the list of countries that engage in violating or allowing violations of religious freedom within their borders — part of U.S. efforts to end religious persecution around the world."
+    publishedDateTime: 2020-12-10T04:14:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 123
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f6c2c04-9adb-4a48-9e69-b8d1fedfe5aa/8bfd9c7b-c905-49aa-ab42-e3a6d00a48a2/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cbf6a5de-4c6e-402d-ad75-1713dbc7e628/f49d8ca1-c005-47ec-8e0b-075fcd435fc5/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
+  - title: "Time to Call in a Special Counsel on Hunter & Joe Biden"
+    excerpt: "Now that the election is over and it is safe for the media to cover the Hunter Biden scandal they ignored when The Post broke the story in October, things in Washington are getting back to normal. … Trump should expend every option possible to expose how the election was"
+    publishedDateTime: 2020-12-13T19:18:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/12/time_to_call_in_a_special_counsel_on_hunter_amp_joe_biden_531273.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "HEGuaVu33ItD4KQz53aAo1IvwZYCi2Pa1fc190K9ljCcs+l4Anp2V73fsa0Q1+6G5CIkdGvqi57D9SczptYNlv0iPw+uJxUHIlohY8Myqsr8T0mzuUHDz6fp5oh5S4XGg1VQicIrkMkbPLNPlCeKK6L+1dFV/swnywIrokiSKswv3mGgO3tpcBlta9JyhnljI8wl89OflTFbhH3gGNkLZD6ra2ZBQknN0g/niTpJ8NntJ1FBufOgl83pmQid3N40lepTgZojjYLQOqJ0oUGK9Cyo3QjM7m1+vTcs6s/kZvEf3FOIOSommKe45AMmcl0D3ToCU1Wpq8vj9pEocbkJWpX8OZ2u6o0/jxXgVQg3jpA=;Kc1+V9Xreg5XDnd/lO262Q=="
 ---

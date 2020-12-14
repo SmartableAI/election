@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "In Latin America, a Biden White House faces a rising China"
+    excerpt: "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home."
+    publishedDateTime: 2020-12-14T16:15:00Z
+    webUrl: "https://www.reuters.com/article/us-latam-usa-china-insight/in-latin-america-a-biden-white-house-faces-a-rising-china-idUSKBN28O18R?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O18R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544488578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0NX"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Though Biden Urged To Choose Black AG, All Current Contenders Are White: Report"
     excerpt: "New York Governor Andrew Cuomo and Judge Merrick Garland, whose 2016 nomination to the Supreme Court was blocked by Republicans, are said to be among President-elect Joe Biden's choices to serve as Attorney General."
     publishedDateTime: 2020-12-12T04:49:00Z

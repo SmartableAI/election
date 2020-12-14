@@ -245,17 +245,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Electors meeting to formally choose Biden as next president"
-    excerpt: "Presidential electors are meeting across the United States on Monday to Joe Biden as the nation's next president."
-    publishedDateTime: 2020-12-14T12:26:00Z
-    webUrl: "https://www.businessinsider.com/electors-meeting-to-formally-choose-biden-as-next-president-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/electors-meeting-to-formally-choose-biden-as-next-president-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/electors-meeting-to-formally-choose-biden-as-next-president-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Electoral College to formally vote for Joe Biden to become next president"
     excerpt: "As Electoral College members meet in each state to cast their ballots, formally affirming Joe Biden as the next president of the United States, President Trump is vowing to continue fighting the election results."
     publishedDateTime: 2020-12-14T14:54:00Z

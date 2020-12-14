@@ -2,62 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-12-05-consulting-firm-scrubs-wiki-page-of-bidens-covid-19-czar-report.md",
-      "title": "Consulting firm scrubs Wiki page of Biden’s COVID-19 czar: report",
-      "excerpt": "The Wikipedia page for President-elect Joe Biden’s new Covid czar Jeff Zients has been scrubbed of material that could portray him as not progressive enough, Politico first reported. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HaSgGLYjXU4/consulting-firm-scrubs-wiki-page-of-bidens-covid-czar-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HaSgGLYjXU4/consulting-firm-scrubs-wiki-page-of-bidens-covid-czar-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Jeff-Zients-REUTERS.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/consulting-firm-scrubs-wiki-page-of-bidens-covid-czar-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/consulting-firm-scrubs-wiki-page-of-bidens-covid-czar-report.amp",
-      "publishedDateTime": "2020-12-04T16:35:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-05-obama-and-pence-hit-georgia-campaign-trail-to-court-senate-runoff-voters.md",
       "title": "Obama and Pence hit Georgia campaign trail to court Senate runoff voters",
       "excerpt": "\"Anybody listening right now, you need to realize this is not just about Georgia,\" Obama said. \"This is about America - this is about the world.\"",
@@ -1358,6 +1302,62 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds.md",
+      "title": "Republicans demand probe into Padilla's $35M grant to Biden-linked firm, claim 'misuse' of taxpayer funds",
+      "excerpt": "EXCLUSIVE: Republicans on the House Oversight and House Administration Committees are demanding answers from California Secretary of State Alex Padilla, who has emerged the frontrunner to be appointed to Vice President-elect Kamala Harris’ Senate seat, about a “highly questionable” $35 million contract",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAqL3PyjFNE/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAqL3PyjFNE/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds.amp",
+      "publishedDateTime": "2020-12-03T15:30:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

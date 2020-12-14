@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-10-pence-announces-first-two-space-force-bases-in-us.md",
+      "title": "Pence announces first two Space Force bases in US",
+      "excerpt": "The renaming is ahead of a mission realignment, which should happen following a congressional briefing.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ccN52umR_lM/pence-announces-first-two-space-force-bases",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ccN52umR_lM/pence-announces-first-two-space-force-bases",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17930680-4317-4294-a17c-f95e64f44ab7/8128d7bd-3184-47fe-9cc7-59d4045e5537/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-announces-first-two-space-force-bases.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-announces-first-two-space-force-bases.amp",
+      "publishedDateTime": "2020-12-10T07:34:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-chris-rock-calls-on-joe-biden-to-create-supreme-court-of-science-to-handle-any-crisis-like-the-coronavirus.md",
       "title": "Chris Rock calls on Joe Biden to create 'Supreme Court of Science' to handle any crisis like the coronavirus",
       "excerpt": "Chris Rock called on President-elect Joe Biden to institute a fourth branch of government dedicated to science in order to combat another crisis like the coronavirus pandemic in a bipartisan way.",
@@ -55,120 +112,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal.md",
-      "title": "Cotton: 'Dangerous' for Joe Biden to rejoin Iran nuclear deal",
-      "excerpt": "This is a rush transcript from “The Story with Martha MacCallum\" November 30, 2020. This copy may not be in its final form and may be updated. MARTHA MACCALLUM, FOX NEWS ANCHOR: Thank you, Bret. Good to see you tonight. Good evening, everybody. I'm Martha MacCallum in New York, and this is THE STORY. So, as President Trump prepares to head to Georgia on Saturday to rally the vote for the two Republicans who can make or break the GOP Senate majority, he will have to thread the needle of his dissatisfaction with Governor Kemp and the candidates who can cement his legacy. As Victor Davis Hanson writes of the president today, he has a year or more to decide whether he wishes to play kingmaker among would-be Republican congressional and presidential candidates or run himself for a second term. Geraldo Rivera, Fox News Correspondent-at-Large. GERALDO RIVERA, FOX NEWS CORRESPONDENT-AT-LARGE: Hi, Martha. MACCALLUM: Hi, everybody. Great to have you with us tonight. The first thing that I just want to note with regard to these election issues,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal",
-      "originalUrl": "https://www.foxnews.com/transcript/cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2970927c-3de0-45c7-ac27-2dd8e5214ff2/fb93b2b6-66cf-45d1-a0b8-b588a1779790/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal.amp",
-      "publishedDateTime": "2020-12-10T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-trump-administration-names-china-nigeria-iran-to-list-of-countries-lacking-religious-freedom.md",
-      "title": "Trump administration names China, Nigeria, Iran to list of countries lacking religious freedom",
-      "excerpt": "The Trump administration on Monday named China, Nigeria and Iran to the list of countries that engage in violating or allowing violations of religious freedom within their borders — part of U.S. efforts to end religious persecution around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations",
-      "originalUrl": "https://www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cbf6a5de-4c6e-402d-ad75-1713dbc7e628/f49d8ca1-c005-47ec-8e0b-075fcd435fc5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp",
-      "publishedDateTime": "2020-12-09T20:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -298,7 +241,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 247,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -855,7 +798,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 495,
+      "heat": 455,
       "tags": null,
       "images": [
         {
@@ -1654,6 +1597,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp",
       "publishedDateTime": "2020-12-03T14:28:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-former-reagan-campaign-director-ed-rollins-slams-pro-trump-attorney-as-glorified-ambulance-chaser.md",
+      "title": "Former Reagan campaign director Ed Rollins slams pro-Trump attorney as 'glorified ambulance chaser'",
+      "excerpt": "Former Reagan campaign director Ed Rollins slammed President Trump's formal and allied legal teams on Fox News Radio's \"The Brian Kilmeade Show\" Thursday, at one point calling attorney Lin Wood a \"glorified ambulance chaser.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KVxtqP6Y8To/ed-rollins-slams-lin-wood-glorified-ambulance-chaser",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KVxtqP6Y8To/ed-rollins-slams-lin-wood-glorified-ambulance-chaser",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d944ee4f-9508-4a2d-82e2-68a551ca9fc3/e64b04e8-666b-48b4-92fd-d756c165e9b7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ed-rollins-slams-lin-wood-glorified-ambulance-chaser.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ed-rollins-slams-lin-wood-glorified-ambulance-chaser.amp",
+      "publishedDateTime": "2020-12-03T14:17:11-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

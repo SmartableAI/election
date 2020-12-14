@@ -5169,6 +5169,20 @@ related:
         width: 876
         height: 438
         isCached: true
+  - title: "Trump says he will leave the White House if the electoral college votes for Joe Biden"
+    excerpt: "President Trump said on Nov. 26, that he would leave the White House if the electoral college votes for Joe Biden on Dec. 14."
+    publishedDateTime: 2020-12-14T15:38:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/trump-says-he-will-leave-the-white-house-if-the-electoral-college-votes-for-joe-biden/2020/12/14/cacd2b05-6bb5-44f4-9d29-172a6e6e5499_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-14-2020/t_6d1ba2c9cf6949e9ba5aa7a922fa3e1d_name_Trump_photo.png&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 907
+        isCached: true
   - title: "Factbox: Congratulations for Biden from America's politicians and celebrities"
     excerpt: "Former U.S. presidents, politicians from both Republican and Democratic parties and celebrities congratulated Democrat Joe Biden on Saturday for winning the U.S. presidential election over Republican incumbent Donald Trump."
     publishedDateTime: 2020-11-07T20:45:00Z

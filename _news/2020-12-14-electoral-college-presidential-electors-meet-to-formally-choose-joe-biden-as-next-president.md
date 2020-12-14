@@ -233,17 +233,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Electors meeting to formally choose Biden as next president"
-    excerpt: "Presidential electors are meeting across the United States on Monday to Joe Biden as the nation's next president."
-    publishedDateTime: 2020-12-14T12:26:00Z
-    webUrl: "https://www.businessinsider.com/electors-meeting-to-formally-choose-biden-as-next-president-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/electors-meeting-to-formally-choose-biden-as-next-president-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/electors-meeting-to-formally-choose-biden-as-next-president-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Electoral College to formally vote for Joe Biden to become next president"
     excerpt: "As Electoral College members meet in each state to cast their ballots, formally affirming Joe Biden as the next president of the United States, President Trump is vowing to continue fighting the election results."
     publishedDateTime: 2020-12-14T14:54:00Z
@@ -388,6 +377,6 @@ related:
         height: 315
         isCached: true
 
-secured: "qhFJZh6eIpqlsBn3wMUj6OyF6yo+KMSUgS2VezikWD4+i05HtMlvTKRqmoqY6FkXdpMqTO88MnlPHVCGbbmQ7CMgNvGYNZ6gWlQk/4QRqLlzQDxW160n08SkhUg9w4nLi4N/LoR79AS/UTOlh4WrMMPpNA09Uxjr8igrAMQGxbd+SlyqTbWI4RPTsmSOMcp6KvdqFQOlRkCw/Cd56bRJEMM2UAR6GFrbqzUwjAwLIu4/DxKRoB9fwFcE3mHP4O2U/uZOoJ7FlehNPEZIGTtuzvmvlY5hvDPQ8Pzko7B1N6IvQLZuOyYniMVnBdbFvY2fzY6LSIKreFn7J9nHwbu5moNC5lbGy36l/WR0qY4nLCU=;LKiNxCMhAuCeCh73Hb30Vg=="
+secured: "NVDq5pNjyemVOZjrhG5qIFWwP/K1ALPeE2iPdfnCYvYLqTG7TFhEMSKJs0HNpCnfScnHX+Fo9gejQ2QKQHVb6s7vuSfzjI3DxVYp2bJ2O5X1yY05xqV20LNusP17cMBSw7g4GBSn3WgwXMzhV0VVwUhCz5SZS67eL1YXRAb/PXAy6tqz1fYhvtA6zKRf1jFiBIQUMC0urwgKuX3rBGUD0aM/04wB/P/nSUnBZhxumyzGNCewerJqg5vnXvz92i33CwmNIh54I99qvHEfT0vXhSJ3tp0F8hu21m92TAIzmKRORTBt1SiGkakN58jQCJucPWAmc2Mit4CA9a/nFvmsE70ozHVnv4oq8vVQtwmHjz2Ni9fMHAT4d2FxpgrMvL92veRAVYr3rSlY0dvAUYSat8i28TiU1ys6HLnmKb/jHKFIMP0iaaNkBFsHco2+wEL5FmrBVuHpzpTC3izluu5gRBSsYXVz+02bnUGEGHSlDS9ygekhxfapuU5MTncw6TPPv93odyO0eICMHDJcSr4RJQ==;/RZTiSBsWG2PhyTGY/cpqQ=="
 ---
 

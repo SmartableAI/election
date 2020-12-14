@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to name his defense secretary choice on Friday"
-    excerpt: "Biden to name his Defense secretary choice on Friday"
-    publishedDateTime: 2020-12-07T22:30:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ww_ZOH_z2Y/biden-to-name-his-defense-secretary-choice-on-friday"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp"
+  - title: "Trump, Biden officials condemn Iran regime's kidnapping, execution of reporter"
+    excerpt: "Officials in the Trump administration and Biden transition were united in their condemnation of the Iranian regime for its execution of a journalist whose work encouraged protests over the country’s economic decline."
+    publishedDateTime: 2020-12-14T16:45:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4UjY15p7cKU/trump-biden-officials-condemn-iran-reporter"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-officials-condemn-iran-reporter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-officials-condemn-iran-reporter.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 186
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20347367382392.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden defends nomination of retired general to lead Defense Department"
     excerpt: "Responding to criticism from fellow Democrats over Joe Biden's decision to name a recently retired general to lead the Defense Department, the president-elect is defending his choice of retired four-star Gen. Lloyd Austin as Defense secretary in his upcoming administration"
@@ -64,230 +64,191 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden mum on Rep. Swalwell's links to suspected Chinese spy"
-    excerpt: "President-elect Joe Biden has remained silent on a report that linked Democratic Rep. Eric Swalwell to an alleged Chinese spy who targeted up-and-coming politicians both locally and nationally during the Obama administration. "
-    publishedDateTime: 2020-12-09T17:51:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-Ytu-zVj6k/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy.amp"
+  - title: "Black Lives Matter calls out Biden for excluding them from meeting"
+    excerpt: "Black Lives Matter seemed to knock President-elect Joe Biden on Wednesday after it was revealed that he didn't include them in a meeting where multiple civil rights groups laid out their recommendations for his Justice Department."
+    publishedDateTime: 2020-12-10T02:21:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aWae4uIJhME/black-lives-matter-biden-doj-meeting"
+    ampWebUrl: "https://www.foxnews.com/politics/black-lives-matter-biden-doj-meeting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/black-lives-matter-biden-doj-meeting.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/205ccf99-784a-4268-b9b2-2a6afc8f8d5a/d6d9c0f6-398a-4bff-9fd4-cdcfd6541d4e/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4023def7-6307-4b82-9858-79d0ec409a14/09025484-6fb1-4971-a578-6b5948885433/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Multiple Senate Democrats signal opposition to Biden's Pentagon pick"
-    excerpt: "President-elect Joe Biden will officially tap retired four-star General Lloyd J. Austin III to be his Defense Secretary Wednesday, but some Senate Democrats are already expressing opposition to the pick because of a law that mandates the Pentagon chief must be retired from the military for at least seven"
-    publishedDateTime: 2020-12-09T01:38:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hrqRGYeL7GE/two-top-senate-democrats-signal-opposition-to-bidens-pick-for-pentagon-chief"
-    ampWebUrl: "https://www.foxnews.com/politics/two-top-senate-democrats-signal-opposition-to-bidens-pick-for-pentagon-chief.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/two-top-senate-democrats-signal-opposition-to-bidens-pick-for-pentagon-chief.amp"
+  - title: "Hunter Biden news raises stakes for A.G. pick"
+    excerpt: "Biden's biggest test is still ahead."
+    publishedDateTime: 2020-12-10T20:38:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vn9eUhlPggs/hunter-biden-news-raises-stakes-for-a-g-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-news-raises-stakes-for-a-g-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-news-raises-stakes-for-a-g-pick.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec68a32e-4817-41ce-a05e-09b225696e18/37ad2bac-a654-4987-91e7-4b3680fbb613/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden's Health and Human Services pick has no public health experience"
-    excerpt: "President-elect Joe Biden surprised the health community when he announced his pick for Health and Human Services Secretary earlier this week, Xavier Becerra, the attorney general of California."
-    publishedDateTime: 2020-12-11T23:22:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ODX7-larJ7M/bidens-health-and-human-services-pick-has-no-public-health-experience"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-health-and-human-services-pick-has-no-public-health-experience.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-health-and-human-services-pick-has-no-public-health-experience.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a7c63ef-15e6-4f06-a916-cd19381e51fa/67cd9b27-0df9-4d26-be2c-4a8fc09c475f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Key House Democrat pushes back on Biden picking general for defense secretary"
-    excerpt: "A prominent House Democrat who sits on the Armed Services Committee is raising concerns about President-elect Joe Biden’s expected pick for defense secretary."
-    publishedDateTime: 2020-12-08T16:02:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HW05KClJdVg/rep-slotkin-biden-general-defense-secretary"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-slotkin-biden-general-defense-secretary.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-slotkin-biden-general-defense-secretary.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden to nominate retired four-star Army general Lloyd Austin for secretary of defense"
-    excerpt: "If confirmed by the Senate, Austin would be the first Black leader of the Pentagon."
-    publishedDateTime: 2020-12-08T01:24:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YQSpNxVlQ9Y/biden-to-nominate-a-four-star-army-general-for-secretary-of-defense"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-to-nominate-a-four-star-army-general-for-secretary-of-defense.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-nominate-a-four-star-army-general-for-secretary-of-defense.amp"
+  - title: "Comer says investigation into Hunter Biden must go on unimpeded"
+    excerpt: ""
+    publishedDateTime: 2020-12-11T08:58:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rC_Eh0oYIrE/comer-says-investigation-into-hunter-biden-must-go-on-unimpeded"
+    ampWebUrl: "https://www.foxnews.com/politics/comer-says-investigation-into-hunter-biden-must-go-on-unimpeded.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comer-says-investigation-into-hunter-biden-must-go-on-unimpeded.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Ilhan Omar 'quite happy' with Biden officials' receptiveness to her ideas"
+    excerpt: "“Squad” member Rep. Ilhan Omar, D-Minn., said she was “quite happy” with the response after submitting a list of proposed left-wing executive actions at a meeting with President-elect Joe Biden’s transition team."
+    publishedDateTime: 2020-12-10T20:25:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8iJVj2AP128/ilhan-omar-quite-happy-biden-officials-receptiveness"
+    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-quite-happy-biden-officials-receptiveness.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-quite-happy-biden-officials-receptiveness.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Ilhan-Omar-REUTERS.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump says Barr 'a big disappointment' after report AG knew about Hunter Biden investigation months ago"
+    excerpt: "President Trump on Saturday described Attorney General William Barr as a “big disappointment” after a report claiming the nation’s top lawyer knew about the Hunter Biden investigation months ago."
+    publishedDateTime: 2020-12-12T17:34:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TzjPtyHxiZg/trump-barr-big-disappointment-ag-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-barr-big-disappointment-ag-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-barr-big-disappointment-ag-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64208635-0349-48e0-a93c-f27a02bd14c0/3fd9dd5d-8e39-4843-83b3-4f10cbc9f0e3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Sen. Johnson: Voters, Congress should have known about DOJ Hunter Biden investigation"
+    excerpt: "Sen. Ron Johnson, R-Wis., said members of Congress should have been informed that Hunter Biden's \"tax affairs\" were under investigation as they considered whether to vote to impeach President Trump in 2019."
+    publishedDateTime: 2020-12-13T17:06:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qgzkEr6DgMg/william-barr-hunter-biden-doj-investigation-ron-johnson"
+    ampWebUrl: "https://www.foxnews.com/politics/william-barr-hunter-biden-doj-investigation-ron-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/william-barr-hunter-biden-doj-investigation-ron-johnson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Hunter Biden’s China business deals leading up to 2018 probe detailed in Senate report"
+    excerpt: "Hunter Biden’s past dealings with Chinese nationals – including some flagged for “potential financial criminal activity” – are outlined in a Senate committee report reviewed by Fox News."
+    publishedDateTime: 2020-12-10T06:43:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KpERGRK55rg/hunter-bidens-china-business-deals-leading-up-to-2018-probe-detailed-in-senate-report"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-bidens-china-business-deals-leading-up-to-2018-probe-detailed-in-senate-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-bidens-china-business-deals-leading-up-to-2018-probe-detailed-in-senate-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/85337bb5-204b-463b-9f43-f1f0206fb7ef/77ef1044-1d52-4fd1-9090-96ae52c81ed9/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c6b162e-be50-4a77-a376-4c526d5ece40/312aac65-1e1b-4147-8427-2f66b8964cf2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden defense secretary pick puts Democrats who opposed Mattis' waiver in a tough spot"
-    excerpt: "Lawmakers would need to approve a waiver allowing him to serve."
-    publishedDateTime: 2020-12-09T01:53:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wnIRbzCu1SM/biden-defense-secretary-pick-dems-opposed-mattis"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-defense-secretary-pick-dems-opposed-mattis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defense-secretary-pick-dems-opposed-mattis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b82c52d-6baf-4dd2-90b8-e403898a75c6/9eea1eab-e62b-406b-912d-b8b272393d47/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden expected to name Marcia Fudge as HUD secretary, but she comes with a controversial past"
-    excerpt: "Fudge has served in the House for Ohio’s 11th Congressional District since 2008."
-    publishedDateTime: 2020-12-08T23:33:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rBTgOBmdppI/biden-marcia-fudge-hud-secretary"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-marcia-fudge-hud-secretary.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marcia-fudge-hud-secretary.amp"
+  - title: "Trump administration adds China, Nigeria, Iran to list of countries lacking religious freedom"
+    excerpt: "The Trump administration on Monday added China, Nigeria and Iran to the list of countries that engage in violating or allowing violations of religious freedom within their borders — part of U.S. efforts to end religious persecution around the world. "
+    publishedDateTime: 2020-12-08T16:28:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u4fSEvVXMVc/trump-china-nigeria-iran-religious-freedom-violations"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee035aba-07fe-4e96-ba76-3578de5ac693/750518e9-5a78-4b26-a746-28ba07fc263f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cbf6a5de-4c6e-402d-ad75-1713dbc7e628/f49d8ca1-c005-47ec-8e0b-075fcd435fc5/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Susan Rice tapped to lead Biden's Domestic Policy Council, Denis McDonough picked for VA secretary"
-    excerpt: "President-elect Joe Biden announced Thursday that he has selected former Obama adviser and envoy Susan Rice to lead the White House Domestic Policy Council."
-    publishedDateTime: 2020-12-10T15:47:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LszaglA27Dg/susan-rice-biden-domestic-policy-council-denis-mcdonough-va-secretary"
-    ampWebUrl: "https://www.foxnews.com/politics/susan-rice-biden-domestic-policy-council-denis-mcdonough-va-secretary.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-rice-biden-domestic-policy-council-denis-mcdonough-va-secretary.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Tom Cotton says senators 'across the spectrum' have reservations about Biden's defense secretary pick"
-    excerpt: "Army combat veteran Sen. Tom Cotton on Tuesday explained his “reservations” with President-elect Joe Biden’s expected choice to serve as secretary of defense in his administration."
-    publishedDateTime: 2020-12-08T14:20:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M3DvMfAxxJw/tom-cotton-reservations-biden-secretary-defense-lloyd-austin"
-    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-reservations-biden-secretary-defense-lloyd-austin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-reservations-biden-secretary-defense-lloyd-austin.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden to name Marcia Fudge as HUD secretary"
-    excerpt: "Fudge has served as representative for Ohio’s 11th congressional district since 2008. Prior to her selection as HUD Secretary, Fudge had campaigned for a Cabinet appointment and lobbied the Biden-Harris transition team to be secretary of agriculture."
-    publishedDateTime: 2020-12-08T23:47:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-marcia-fudge-hud-secretary"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-marcia-fudge-hud-secretary.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marcia-fudge-hud-secretary.amp"
+  - title: "Cotton: 'Dangerous' for Joe Biden to rejoin Iran nuclear deal"
+    excerpt: "This is a rush transcript from “The Story with Martha MacCallum\" November 30, 2020. This copy may not be in its final form and may be updated. MARTHA MACCALLUM, FOX NEWS ANCHOR: Thank you, Bret. Good to see you tonight. Good evening, everybody. I'm Martha MacCallum in New York, and this is THE STORY. So, as President Trump prepares to head to Georgia on Saturday to rally the vote for the two Republicans who can make or break the GOP Senate majority, he will have to thread the needle of his dissatisfaction with Governor Kemp and the candidates who can cement his legacy. As Victor Davis Hanson writes of the president today, he has a year or more to decide whether he wishes to play kingmaker among would-be Republican congressional and presidential candidates or run himself for a second term. Geraldo Rivera, Fox News Correspondent-at-Large. GERALDO RIVERA, FOX NEWS CORRESPONDENT-AT-LARGE: Hi, Martha. MACCALLUM: Hi, everybody. Great to have you with us tonight. The first thing that I just want to note with regard to these election issues,"
+    publishedDateTime: 2020-12-10T13:11:00Z
+    webUrl: "https://www.foxnews.com/transcript/cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal"
+    ampWebUrl: "https://www.foxnews.com/transcript/cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee035aba-07fe-4e96-ba76-3578de5ac693/750518e9-5a78-4b26-a746-28ba07fc263f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2970927c-3de0-45c7-ac27-2dd8e5214ff2/fb93b2b6-66cf-45d1-a0b8-b588a1779790/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden mum on Rep. Swalwell's links to suspected Chinese spy"
-    excerpt: "President-elect Joe Biden has remained silent on a report that linked Democratic Rep. Eric Swalwell to an alleged Chinese spy who targeted up-and-coming politicians both locally and nationally during the Obama administration."
-    publishedDateTime: 2020-12-09T18:03:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy.amp"
+  - title: "Questions linger over the Left's plot against Donald Trump"
+    excerpt: "For four years, we listened to unsupported allegations of a conspiracy by a foreign government to interfere with our presidential election, that Russia stole the election of 2016, implanting their Russian asset,"
+    publishedDateTime: 2020-12-13T20:18:00Z
+    webUrl: "https://www.foxnews.com/transcript/questions-linger-over-the-lefts-plot-against-donald-trump"
+    ampWebUrl: "https://www.foxnews.com/transcript/questions-linger-over-the-lefts-plot-against-donald-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/questions-linger-over-the-lefts-plot-against-donald-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/205ccf99-784a-4268-b9b2-2a6afc8f8d5a/d6d9c0f6-398a-4bff-9fd4-cdcfd6541d4e/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa6e2aad-22e4-4178-829c-91ad2bdc3551/a0090242-6ca2-4a14-b839-6834909e9e14/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's Health and Human Services pick has no public health experience"
-    excerpt: "President-elect Joe Biden surprised the health community when he announced his pick for Health and Human Services Secretary earlier this week, Xavier Becerra, the attorney general of California."
-    publishedDateTime: 2020-12-11T23:36:00Z
-    webUrl: "https://www.foxnews.com/politics/bidens-health-and-human-services-pick-has-no-public-health-experience"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-health-and-human-services-pick-has-no-public-health-experience.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-health-and-human-services-pick-has-no-public-health-experience.amp"
+  - title: "Trump administration names China, Nigeria, Iran to list of countries lacking religious freedom"
+    excerpt: "The Trump administration on Monday named China, Nigeria and Iran to the list of countries that engage in violating or allowing violations of religious freedom within their borders — part of U.S. efforts to end religious persecution around the world."
+    publishedDateTime: 2020-12-10T04:14:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 123
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a7c63ef-15e6-4f06-a916-cd19381e51fa/67cd9b27-0df9-4d26-be2c-4a8fc09c475f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cbf6a5de-4c6e-402d-ad75-1713dbc7e628/f49d8ca1-c005-47ec-8e0b-075fcd435fc5/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Defense Secretary pick at helm when team accused of ‘watering down’ ISIS intel"
-    excerpt: "President-elect Joe Biden’s choice for secretary of defense, retired Gen. Lloyd Austin, could make history as the first Black man to serve in the position, but getting his appointment through Congress could be an uphill battle."
-    publishedDateTime: 2020-12-10T01:58:00Z
-    webUrl: "https://www.foxnews.com/politics/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick.amp"
+  - title: "Time to Call in a Special Counsel on Hunter & Joe Biden"
+    excerpt: "Now that the election is over and it is safe for the media to cover the Hunter Biden scandal they ignored when The Post broke the story in October, things in Washington are getting back to normal. … Trump should expend every option possible to expose how the election was"
+    publishedDateTime: 2020-12-13T19:18:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/12/time_to_call_in_a_special_counsel_on_hunter_amp_joe_biden_531273.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d949b97e-0bd4-4ac9-a84a-f695a9768fe3/6ac99de3-ed39-49ea-93fa-03e61ba34473/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden breaks silence on Hunter for first time since federal tax investigation surfaced"
-    excerpt: "Hunter Biden disclosed earlier this week that the U.S. Attorney’s Office in Delaware had an active investigation into his tax history. The investigation began in 2018, a source"
-    publishedDateTime: 2020-12-11T22:03:00Z
-    webUrl: "https://www.foxnews.com/politics/joe-biden-breaks-silence-hunter-for-first-time-since-federal-tax-investigation-surfaced"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-breaks-silence-hunter-for-first-time-since-federal-tax-investigation-surfaced.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-breaks-silence-hunter-for-first-time-since-federal-tax-investigation-surfaced.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fdd4fa30-66ad-4e63-adb7-491d71f54190/dac5b2a1-6140-41e0-9388-9a2491361f93/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "xepS/LC2a6QP36B0bYeeWcDY2mu7HhznThKx9ylQ6Ss5xsM1ICqfaq0wt3/BhllZ8UUYna5W2GpiFC4S4LdQJypiDkv+pl9wnlMVz0AqXK5bnOoG2aa0uEvT6lXhEMop4CiGhnfyoX7xXNGExzLc2KnvNTUnRRSpiLKHvM9qgpFBx1vmh2l3Wtq/sDSXz/u3mzg0FINlFe3jbqVTXjoEZdpkxHW/9uQSnGk19mHbYnYizjSIRJbz3nUce2psndVgM5UuLIu0/elbvZ/Qg3S69IJliJGFotEXDQ4/XQKsYl8mwjJht13396LwdjsRqnt0N0V8wjRRqojru/bCTIrlOWX8DaOca41G094FXw7H7pEgiop6JU7Zz86diSAleg7z60/5ILUOyOekGY1w9BUE/yvLSQ9rDl2VRUYtFQxjt0p9ApQhsvKR/lMK37hjQPD00DT/8j5a6yKnhl3AgCaCvaPqpFgxhxwmJUFuTGTAPMC3l+rQvSKvob7Gnk0PBk1HWN1AUpGVwcpORFba6lCfpA==;QeBI32uXJCJxQX6R35CRyw=="
 ---

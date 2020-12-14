@@ -111,38 +111,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Black Lives Matter calls out Biden for excluding them from meeting"
-    excerpt: "Black Lives Matter seemed to knock President-elect Joe Biden on Wednesday after it was revealed that he didn't include them in a meeting where multiple civil rights groups laid out their recommendations for his Justice Department."
-    publishedDateTime: 2020-12-10T02:21:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aWae4uIJhME/black-lives-matter-biden-doj-meeting"
-    ampWebUrl: "https://www.foxnews.com/politics/black-lives-matter-biden-doj-meeting.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/black-lives-matter-biden-doj-meeting.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4023def7-6307-4b82-9858-79d0ec409a14/09025484-6fb1-4971-a578-6b5948885433/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hunter Biden news raises stakes for A.G. pick"
-    excerpt: "Biden's biggest test is still ahead."
-    publishedDateTime: 2020-12-10T20:38:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vn9eUhlPggs/hunter-biden-news-raises-stakes-for-a-g-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-news-raises-stakes-for-a-g-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-news-raises-stakes-for-a-g-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "AG Barr knew about Hunter Biden probe for months: report"
     excerpt: "Attorney General William Barr reportedly knew about investigations into Hunter Biden’s business and financial dealings for months, and worked to stop them being disclosed to the public during the election campaign."
     publishedDateTime: 2020-12-11T17:08:47Z
@@ -158,22 +126,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb434ef2-fe30-41c5-9c87-687265fa6239/5d3b2f20-1e86-4f21-aa83-8df313917cbc/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Comer says investigation into Hunter Biden must go on unimpeded"
-    excerpt: ""
-    publishedDateTime: 2020-12-11T08:58:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rC_Eh0oYIrE/comer-says-investigation-into-hunter-biden-must-go-on-unimpeded"
-    ampWebUrl: "https://www.foxnews.com/politics/comer-says-investigation-into-hunter-biden-must-go-on-unimpeded.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comer-says-investigation-into-hunter-biden-must-go-on-unimpeded.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Joe Biden's brother James is also caught up in federal probe: report"
     excerpt: "Federal authorities are reportedly conducting a criminal investigation into a hospital business tied to President-elect Joe Biden’s brother James."
@@ -238,38 +190,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Sen. Johnson: Voters, Congress should have known about DOJ Hunter Biden investigation"
-    excerpt: "Sen. Ron Johnson, R-Wis., said members of Congress should have been informed that Hunter Biden's \"tax affairs\" were under investigation as they considered whether to vote to impeach President Trump in 2019."
-    publishedDateTime: 2020-12-13T17:06:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qgzkEr6DgMg/william-barr-hunter-biden-doj-investigation-ron-johnson"
-    ampWebUrl: "https://www.foxnews.com/politics/william-barr-hunter-biden-doj-investigation-ron-johnson.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/william-barr-hunter-biden-doj-investigation-ron-johnson.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Hunter Biden’s China business deals leading up to 2018 probe detailed in Senate report"
-    excerpt: "Hunter Biden’s past dealings with Chinese nationals – including some flagged for “potential financial criminal activity” – are outlined in a Senate committee report reviewed by Fox News."
-    publishedDateTime: 2020-12-10T06:43:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KpERGRK55rg/hunter-bidens-china-business-deals-leading-up-to-2018-probe-detailed-in-senate-report"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-bidens-china-business-deals-leading-up-to-2018-probe-detailed-in-senate-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-bidens-china-business-deals-leading-up-to-2018-probe-detailed-in-senate-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c6b162e-be50-4a77-a376-4c526d5ece40/312aac65-1e1b-4147-8427-2f66b8964cf2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "FLASHBACK: President-elect Biden pledged not to interfere with DOJ investigations in 2019"
     excerpt: "“I would not dictate who should be prosecuted or who should be exonerated,\" Biden said during a debate in Nov. 2019."

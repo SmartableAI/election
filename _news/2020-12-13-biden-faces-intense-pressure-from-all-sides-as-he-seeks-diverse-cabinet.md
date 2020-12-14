@@ -128,6 +128,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Hunter probe compounds Biden’s attorney general dilemmas"
+    excerpt: "The president-elect is weighing a complex set of factors as he zeroes in on his choice to lead the Justice Department."
+    publishedDateTime: 2020-12-14T16:30:00Z
+    webUrl: "https://www.politico.com/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/4a/73/179ea39e451db1698724763adaa1/gettyimages-119583341-1.jpg"
+        width: 1161
+        height: 773
+        isCached: true
   - title: "Transition Live Updates: Biden to Formally Name Austin as Defense Secretary"
     excerpt: "President-elect Joe Biden is set to introduce Lloyd J. Austin III, a retired Army general, as his choice to lead the Pentagon. On Tuesday, Mr. Biden and President Trump offered the American people very divergent messages on the state of the virus."
     publishedDateTime: 2020-12-09T10:55:00Z

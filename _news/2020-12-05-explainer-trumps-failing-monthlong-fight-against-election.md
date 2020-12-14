@@ -521,6 +521,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Tennessee's 11 electors cast ballot for Trump, Pence"
+    excerpt: "Tennessee’s 11 representatives to the Electoral College on Monday cast their vote for President Donald Trump and Vice President Mike Pence. “Today we conclude what has been a unique election cycle,” said Elections Coordinator Mark Goins ahead of vote that took place in Tennessee’s House chamber."
+    publishedDateTime: 2020-12-14T16:54:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 120
   - title: "Donald Trump stood no chance in front of a conservative Supreme Court. Here's why."
     excerpt: "No one should be surprised that the justices, like the Trump-appointed lower court judges in all these elected cases, followed the law.\""
     publishedDateTime: 2020-12-12T12:14:00Z

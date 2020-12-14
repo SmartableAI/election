@@ -1486,14 +1486,14 @@ related:
         isCached: true
   - title: "Joe Biden, Kamala Harris are Time’s Person of the Year 2020"
     excerpt: "Joe Biden and Kamala Harris are Time’s 2020 Person of the Year, the magazine announced Thursday night. The President-elect and Vice President-elect beat out Donald Trump again, among other finalists."
-    publishedDateTime: 2020-12-11T16:18:00Z
-    webUrl: "https://www.cleveland.com/nation/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
-    ampWebUrl: "https://www.cleveland.com/nation/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
+    publishedDateTime: 2020-12-11T19:18:00Z
+    webUrl: "https://www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
+    ampWebUrl: "https://www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
+      name: MLive
+      domain: mlive.com
     quality: 90
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AY6P7DXUKNHJRI5LJGZPURHWEA.JPG"

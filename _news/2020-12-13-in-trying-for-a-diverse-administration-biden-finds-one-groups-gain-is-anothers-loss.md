@@ -384,6 +384,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trudeau's digital tax flexes Canada's muscles with Trump on the way out"
+    excerpt: "\"The idea that Canada would go ahead with an early tax probably would have invited a tariff by Trump,\" says one observer."
+    publishedDateTime: 2020-12-14T15:00:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ca/23/b637de3048f799b2373d53bea68e/ap20275647298968-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "hY2rVV+sAPnr40we3u+W6K48CCT+4ZHJ4+WtyV8xSgPZX9kJhfuy2zUh3u8R6wkyCjgPzU9w0YNAxTpNWuXVV06fW1GnhAb6pebspqFz3YqKyUm88ioOH3H/imFCMMjqnxalFFVx71YLFTEos9LeB5V/T1z1EdfD33O6vaj6sLX9Tj33PREZeAcixZ1h8WE6VGIMIJCiNS7vdKUbV0GhM4BSNBtX1ocLI0ngKsRHGL/RLQvb9nnUEMtVRUvdcRKjNdivK/Zj+HX7EIZT1kUQMD6MALLoq/7ms08QWASSdmcX0/ZJHFW9r/wP6wbIr8HLDOV0Najv2smq5Ad9dEgfuo3HmpzJ2DlxgSuNqcpP0B2fDe74BOd1KgYEbc7NGtJXE7qs/Q+2BizacrSo2tdgZupweygTRQNi+n+pdyTy1GitblGrXFL6RxBRkejCr3FlCKaldyz26Ufsvlh494SnC2Fvfa7kgAd8NoVE+bVVd3wi5qiZCW2noinAd0MYOwVcjUOM/b2wWeX5/hzX/94svA==;zxSEqXDRaRlCoiy8ORCpTQ=="
 ---

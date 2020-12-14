@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-name-his-defense-secretary
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp"
 type: article
 quality: 175
-heat: 495
+heat: 455
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden defends nomination of retired general to lead Defense Department"
-    excerpt: "Responding to criticism from fellow Democrats over Joe Biden's decision to name a recently retired general to lead the Defense Department, the president-elect is defending his choice of retired four-star Gen. Lloyd Austin as Defense secretary in his upcoming administration"
-    publishedDateTime: 2020-12-09T20:30:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uX_ycAfeYW4/biden-defends-nomination-of-retired-general-to-lead-defense-department"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-defends-nomination-of-retired-general-to-lead-defense-department.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defends-nomination-of-retired-general-to-lead-defense-department.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden mum on Rep. Swalwell's links to suspected Chinese spy"
     excerpt: "President-elect Joe Biden has remained silent on a report that linked Democratic Rep. Eric Swalwell to an alleged Chinese spy who targeted up-and-coming politicians both locally and nationally during the Obama administration. "
     publishedDateTime: 2020-12-09T17:51:31Z
@@ -206,22 +190,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee035aba-07fe-4e96-ba76-3578de5ac693/750518e9-5a78-4b26-a746-28ba07fc263f/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden defends nomination of retired general to lead Defense Department"
-    excerpt: "Responding to criticism from fellow Democrats over Joe Biden's decision to name a recently retired general to lead the Defense Department, the president-elect is defending his choice of retired four-star Gen."
-    publishedDateTime: 2020-12-09T20:40:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-defends-nomination-of-retired-general-to-lead-defense-department"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-defends-nomination-of-retired-general-to-lead-defense-department.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defends-nomination-of-retired-general-to-lead-defense-department.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20344680556597.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Biden mum on Rep. Swalwell's links to suspected Chinese spy"
     excerpt: "President-elect Joe Biden has remained silent on a report that linked Democratic Rep. Eric Swalwell to an alleged Chinese spy who targeted up-and-coming politicians both locally and nationally during the Obama administration."

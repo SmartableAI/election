@@ -2076,6 +2076,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Live politics updates: Wall Street Journal editorial board tells Trump it's time to concede"
+    excerpt: "\"He and the rest of the Republican Party can help the country and themselves by acknowledging the result and moving on,\" the editorial read."
+    publishedDateTime: 2020-12-14T16:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/14/politics-updates-joe-biden-donald-trump-electoral-college/6509929002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6509929002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6509929002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/14/USAT/da0e8538-ba9a-4f48-a725-3e95f96deaf1-GTY_1230113888.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Texas AG asks Supreme Court to overturn Trump's losses in key states. Don't hold your breath."
     excerpt: "Five weeks after Election Day and with states locking down electoral votes, Texas attorney general Ken Paxton has asked the high court to step in."
     publishedDateTime: 2020-12-09T06:17:00Z

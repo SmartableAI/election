@@ -77,22 +77,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Questions linger over the Left's plot against Donald Trump"
-    excerpt: "For four years, we listened to unsupported allegations of a conspiracy by a foreign government to interfere with our presidential election, that Russia stole the election of 2016, implanting their Russian asset,"
-    publishedDateTime: 2020-12-13T20:18:00Z
-    webUrl: "https://www.foxnews.com/transcript/questions-linger-over-the-lefts-plot-against-donald-trump"
-    ampWebUrl: "https://www.foxnews.com/transcript/questions-linger-over-the-lefts-plot-against-donald-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/questions-linger-over-the-lefts-plot-against-donald-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa6e2aad-22e4-4178-829c-91ad2bdc3551/a0090242-6ca2-4a14-b839-6834909e9e14/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "sVI3T3hVsm5uBJ7K13TpCgAqSvInbRV3EeekEx0dNVYznwk7Od0C2eAzW7NmQUQhHYQ4EaIiGJomBLdJXghDGk/VpBBQEvIgxGcAjYOj/pY41YKFrFp9VuiLxikn3+nHJ4rQOXaIzGi0WDBfvnH9ydcCNQV9iEi1EnDV+BbAE+TZfOnDwzV3a7jWpQqR9q5GO4z1z+J1+LttknI3ZigRLMdsb08Uuf2fGMUGvR3FqsmgAPMqNZe46VrMHYu7cKJCoP7i4xG9Ms/OG6R7ZOn+hCaLaP9ixrvDk+CJzNgFieY4367go35+0fhB/iSbFbGYdhlm+o+BCELXpCw+2rW9DrNqCnpQs8rfyxBTLE0SFV0=;3hB1pAJqtg8qDSoalOmaMA=="
 ---

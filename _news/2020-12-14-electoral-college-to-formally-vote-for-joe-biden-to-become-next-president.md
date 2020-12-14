@@ -247,17 +247,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Electors meeting to formally choose Biden as next president"
-    excerpt: "Presidential electors are meeting across the United States on Monday to Joe Biden as the nation's next president."
-    publishedDateTime: 2020-12-14T12:26:00Z
-    webUrl: "https://www.businessinsider.com/electors-meeting-to-formally-choose-biden-as-next-president-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/electors-meeting-to-formally-choose-biden-as-next-president-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/electors-meeting-to-formally-choose-biden-as-next-president-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "As A Stepparent, Kamala Harris Puts 'Families You Choose' In The Spotlight"
     excerpt: "When Vice President-elect Kamala Harris takes office, she brings with her what stepdaughter Ella Emhoff describes as a \"big blended family.\" Other blended families are celebrating that visibility."
     publishedDateTime: 2020-12-09T09:00:00Z
@@ -388,6 +377,6 @@ related:
         height: 315
         isCached: true
 
-secured: "eZJUD8roohXu8i75J8E1/A2kR8pe/vt5ed0zK0T622wXgd8yD5ElOOT54fV6BwmOgrnl2wjxXf7b3OPazpNuYPNTUUfeIcu6A4tiYQs6ZQELxahtNVsTt6mn7DDRrwN/yLEsnkd5ZfaCb8qz6xK9LcEuXFh7d9zbOxFSGTuWo8ovbKNbSYzhCnke3hocmFRopge4DdX3fqzhUHnvquectSnxdnFkMv28XqPpUwbNoqFx1NmhyrjDu5HQmlBET0x5Y/aszqez6IwvzMekybPpJqTu+bbYmxmYzaDEcuhfNOJGvqClhC2cfZVSkFijxQsksTpFCmA5mOHwuDVfboYDTDgCVDFonmP0LlwLpD/Ggkc=;EH4cbWB+CuYX0QnTMY+oIA=="
+secured: "rsgfQ5xFUC9Ws59RLbkMI2zZO1ZVpMMuc1NQ7qpvZXmtoq1BEPqGzmz9X4PfSDlIg2AYd82SXfstbIDr+LHzMIQxiPwVUFGCt8xgvTkO8VCfS7nzLmZU2liXTuR5sCugk0i/5sJWMtbSBa80R02KAefhOPtCIbCUCLrPGgHJksXiN/EiN5CWUeSFIrUF+HiRiYzSlGO948swkILkTvChW5mCD4QIs6Sia01n0zVEEBcuvhVMz6R5SpF1CBzCyzwqzg7+/ZmEt1dHGzxQPdLwPjQ38Yl0ryehYfx8lWQsejHDHyHiwE+XyYzTrW1jR1O5pXwL9WRbi45KHF31/ysunABk8aD4c+keQrYq+sQEaFHuBeQbZPICJSwe5SQ9Xx7Zgc/To3yVrwoO8iwGWKtDAH+FzcrlZdWaQaiWOU4FjJK/PIsOHbnBpr6ktRoiR6aU2vtk28m90RYwvV/3RGqQ+Ys5IMe95BXVwuLP9OD94ScrXymkdbqL+C/jZ5QCe2Qg6JV2WY90mD6s4mk2KwaZAw==;5jWM65l+JezixbqsGJcJEQ=="
 ---
 

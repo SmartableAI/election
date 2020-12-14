@@ -93,6 +93,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Indiana Presidential Electors Award Trump, Pence 11 Votes"
+    excerpt: "Indiana’s 11 representatives to the Electoral College unanimously cast their votes Monday for President Donald Trump."
+    publishedDateTime: 2020-12-14T16:37:00Z
+    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-12-14/indiana-presidential-electors-award-trump-pence-11-votes"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
 
 secured: "e+q+LbS48uH2bum8R750rnBQwONIzPGUHrvKTphuNAMPkjUilU6HG3e9P1JIatgXKbxf0J9Qva7QFlX7YrB93lbEISP6udU/zPr/1U8hWPmP72DbpR4j3xqDHv1R0XcD/1b/dZA3UFooNKjW81uGgNy2trErqV24RTzC4aoD8relwroEbwsfq2/o6wLyHQ0YJPq1cCvrBCSBrQaVoHmbJUkYGFCcJ4PFDj12va+khZDDfbNpFF9GwhDnuJ1jG7kUIFS3uIlAwVOsc1g/xW6RQlBMsrKSYFbnBlsgVvj7XUucXlA6T/eH6b7M3DK4zaLB0CQzYB5BIOPpFg8V9hwA/MaVerki1BLTwImVJjb4SdvIcbD7XfuAS7gq8RMLRCcTxmqNTM37WSPMLreWBjndzvklMS9r4iM1BRezymDYCiG0fblG+5O/o24iSL0PvIrR79v/RWLlbp/EFCIDwZ8djn+H+ZGyR6Ni8fsnf1TxSJwYzzEMSIDgFetDFu/DYhu0JeyJ2LfWnxFD2yTgLJJtSA==;d54Li/pk+iT6XghEbluPig=="
 ---

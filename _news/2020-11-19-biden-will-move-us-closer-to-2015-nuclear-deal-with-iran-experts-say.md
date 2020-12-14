@@ -240,6 +240,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Electoral College voting to select Biden as next president"
+    excerpt: "Members of the Electoral College are gathering in each state Monday to cast their votes for president and vice president of the United States."
+    publishedDateTime: 2020-12-14T16:45:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-legal-12-14-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-12-14-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-14-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
 
 secured: "oC8gSXR0/QCIYDl72oFZoFWgqQuxBoTVe4Xj6BXipBDQWzhGbPziCAvX1luEaJ+V3gsSew9RzFPfhal5Ht1bBfZaIkfce4YakRVxlFAvr2GSuZpsyPgEn3j2x+kaVgq3g5tLRgOO6FcchoLb6X2vuZUo9v79vqoQ6uBI/THQG4+IjQMb4Nsg6/YYWctFyz3WQ1/gCEAG9ClSe6Y4vtkHlilyB9oXqHkaNwZqiJAMsAqb0yfP0Y6662N/Kqr9dAbi0aGqO23U3Y6PqAfA60QMO1YlRmV2QxDhWrm1wDML1TRzkRGIq+I2PL8u70DmrOzp0Jzg1/rAmcAuyVl0eLFq0OSmW0NcLefk4lNIojlf89XZTwaRUaWmVjUmgLJaTVcPpz3+5w2snGkCMODoPNXdBmh6RmVwu+Zjltd9X5WN8WNCR+ROLDRW5Ti86EFKSpr0sbBsDsR68cWEvuJMU86Q3ka05TaeVPLGYbSt0/yvQLo78OxyqlDAd8eSoI3DDodpZqiFxBsB77iPGZhujAhqvg==;9PROyyGpPkC1FrXK2h2vvQ=="
 ---

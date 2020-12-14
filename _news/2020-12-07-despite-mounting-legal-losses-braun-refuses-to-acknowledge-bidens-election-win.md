@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/braun-legal-process-play-doubts-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937"
 type: article
 quality: 135
-heat: 1255
+heat: 1275
 published: true
 
 provider:
@@ -494,6 +494,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/917e0d2/2147483647/strip/true/crop/5591x3652+0+38/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7f%2Fd3%2F7a50b7183b1f03b43442ff45987a%2F356ca0eaf41c446db3ea424d5c48b946"
         width: 320
         height: 209
+        isCached: true
+  - title: "Electors meeting to formally choose Biden as next president"
+    excerpt: "Presidential electors are meeting across the United States on Monday to formally choose Joe Biden as the nation’s next president"
+    publishedDateTime: 2020-12-14T05:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/electors-meeting-formally-choose-biden-president-74709840"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/electors-meeting-formally-choose-biden-president-74709840"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/electors-meeting-formally-choose-biden-president-74709840"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_22cb7f1614ec49cd8418a9ca04bf00cc_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Progressives frustrated with representation as Biden Cabinet takes shape"
     excerpt: "Some progressives are getting increasingly frustrated with the how President-elect Joe Biden’s potential Cabinet is shaping up, venting that the incoming administration does not properly reflect the r"
