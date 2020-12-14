@@ -273,6 +273,22 @@ related:
         width: 1024
         height: 758
         isCached: true
+  - title: "Who Will Replace Kamala Harris in the Senate? California Governor Weighs a Shortlist of Firsts"
+    excerpt: "San Francisco Mayor Gavin Newsom ordered the county to issue same-sex marriage licenses in 2004. A young gay man in his 20s at the time, Garcia called it a “light switch” that ignited his passion for public service."
+    publishedDateTime: 2020-12-13T23:38:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 63
+    images:
+      - url: "https://media.nbcnewyork.com/2020/08/Robert-Garcia-Joe-Biden-DNC.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meet the First Second Gentleman-Elect, Kamala Harris' Husband Douglas Emhoff"
     excerpt: "Kamala Harris’ husband Douglas Emhoff, is one of the most adoring political spouses ever—and he will be a first in two major ways: Emhoff is the first second gentleman-elect, as well as the first Jewish spouse to a vice president."
     publishedDateTime: 2020-12-07T16:01:00Z

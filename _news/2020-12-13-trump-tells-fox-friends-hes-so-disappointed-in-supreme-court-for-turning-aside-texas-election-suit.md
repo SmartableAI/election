@@ -412,6 +412,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump, White House will be offered COVID vaccine within days, report says"
+    excerpt: "President Trump and other top White House officials will be offered Pfizer’s coronavirus vaccine within the next few days, according to a report on Sunday. Key government staffers will"
+    publishedDateTime: 2020-12-13T23:52:00Z
+    webUrl: "https://nypost.com/2020/12/13/trump-will-be-offered-covid-vaccine-within-days-report/"
+    ampWebUrl: "https://nypost.com/2020/12/13/trump-will-be-offered-covid-vaccine-within-days-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/13/trump-will-be-offered-covid-vaccine-within-days-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/Virus-Outbreak-Trump-Pence-Vaccine.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joey Jones blasts the politicization of the American flag during Trump presidency"
     excerpt: "Fox News contributor Joey Jones on Thursday blasted the politicization of the American flag during President Trump’s term in office."
     publishedDateTime: 2020-12-03T16:59:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/donald-trump-pandemic-el
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/donald-trump-pandemic-election-results-joe-biden/index.html"
 type: article
 quality: 184
-heat: 424
+heat: 444
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
       - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/1290144909.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trump Administration Plans a Rushed Effort to Encourage Americans to Be Vaccinated"
+    excerpt: "A large-scale public education campaign, delayed by false starts and investigations, will get off the ground just as the coronavirus vaccine becomes available to high-risk Americans."
+    publishedDateTime: 2020-12-13T22:59:00Z
+    webUrl: "https://www.nytimes.com/2020/12/13/us/politics/coronavirus-vaccine-education-campaign.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/13/us/politics/coronavirus-vaccine-education-campaign.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/us/politics/coronavirus-vaccine-education-campaign.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/13/us/politics/13dc-virus-vaccinecampaign/13dc-virus-vaccinecampaign-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump admin has yet to launch promised effort to get Americans to trust Covid-19 vaccines"
     excerpt: "At least 15 states told NBC News they are planning their own extensive communications campaigns to encourage the public to take the shot."

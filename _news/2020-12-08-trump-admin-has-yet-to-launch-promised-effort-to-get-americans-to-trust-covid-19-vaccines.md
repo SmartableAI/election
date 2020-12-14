@@ -206,6 +206,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump Administration Plans a Rushed Effort to Encourage Americans to Be Vaccinated"
+    excerpt: "A large-scale public education campaign, delayed by false starts and investigations, will get off the ground just as the coronavirus vaccine becomes available to high-risk Americans."
+    publishedDateTime: 2020-12-13T22:59:00Z
+    webUrl: "https://www.nytimes.com/2020/12/13/us/politics/coronavirus-vaccine-education-campaign.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/13/us/politics/coronavirus-vaccine-education-campaign.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/us/politics/coronavirus-vaccine-education-campaign.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/13/us/politics/13dc-virus-vaccinecampaign/13dc-virus-vaccinecampaign-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Federal watchdog finds 'substantial likelihood of wrongdoing' by Trump appointees overseeing Voice of America"
     excerpt: "The federal watchdog's findings mark the latest rebuke of the Trump-appointed CEO of the U.S. Agency for Global Media, Michael Pack."
     publishedDateTime: 2020-12-03T18:24:00Z

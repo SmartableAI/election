@@ -50,8 +50,8 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence",
-        "Donald Trump"
+        "Donald Trump",
+        "Mike Pence"
       ]
     },
     {
@@ -267,7 +267,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 760,
+      "heat": 780,
       "tags": null,
       "images": [
         {

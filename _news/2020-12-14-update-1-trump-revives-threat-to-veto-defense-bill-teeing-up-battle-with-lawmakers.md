@@ -3,8 +3,8 @@ category: news
 title: "UPDATE 1-Trump revives threat to veto defense bill, teeing up battle with lawmakers"
 excerpt: "U.S. President Donald Trump on Sunday repeated his threat to veto a massive defense policy bill, setting the stage for a major battle with U.S. lawmakers at a time when they are racing to hammer out a compromise on more coronavirus relief."
 publishedDateTime: 2020-12-13T22:14:00Z
-originalUrl: "https://www.reuters.com/article/usa-defense-trump/update-1-trump-revives-threat-to-veto-defense-bill-teeing-up-battle-with-lawmakers-idUSL1N2IT0MS"
-webUrl: "https://www.reuters.com/article/usa-defense-trump/update-1-trump-revives-threat-to-veto-defense-bill-teeing-up-battle-with-lawmakers-idUSL1N2IT0MS"
+originalUrl: "https://www.reuters.com/article/usa-defense-trump-idUSL1N2IT0MS"
+webUrl: "https://www.reuters.com/article/usa-defense-trump-idUSL1N2IT0MS"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28N0O5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28N0O5"
 type: article
@@ -528,20 +528,20 @@ related:
         height: 545
         isCached: true
   - title: "Georgia high court rejects latest Trump election appeal"
-    excerpt: "President Donald Trump has lost his latest legal challenge seeking to overturn Georgia's election results, with the state Supreme Court's rejection late Saturday of a case from Trump's campaign and Georgia Republican Party Chairman David Shafer."
-    publishedDateTime: 2020-12-13T17:42:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-high-court-rejects-latest-trump-election-appeal-74702272"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-high-court-rejects-latest-trump-election-appeal-74702272"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-high-court-rejects-latest-trump-election-appeal-74702272"
+    excerpt: "President Donald Trump has lost his latest legal challenge seeking to overturn Georgia’s election results, with the state Supreme Court’s rejection late Saturday of a case from Trump’s campaign and Georgia Republican Party Chairman David Shafer."
+    publishedDateTime: 2020-12-13T22:11:00Z
+    webUrl: "https://www.washingtonpost.com/national/georgia-high-court-rejects-latest-trump-election-appeal/2020/12/13/398902fa-3d66-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/georgia-high-court-rejects-latest-trump-election-appeal/2020/12/13/398902fa-3d66-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-high-court-rejects-latest-trump-election-appeal/2020/12/13/398902fa-3d66-11eb-b58b-1623f6267960_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_1bf3d79f08a34b4f9764bfee413a7082_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Armed pro-Trump protesters gather outside Michigan elections chief's home"
     excerpt: "Jocelyn Benson says gathering in which bogus claims were made about electoral fraud was ‘unambiguous, loud and threatening’"
@@ -1831,6 +1831,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump continues to dispute election results ahead Electoral College vote"
+    excerpt: "On Monday, the Electoral College will cast their votes to elect Joe Biden to the presidency, but President Trump is still insisting that he's not done fighting to stay in power. Chip Reid reports."
+    publishedDateTime: 2020-12-13T23:59:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-continues-to-dispute-election-results-ahead-electoral-college-vote/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/13/eccebe73-3f20-4764-a64d-0446d0dffbeb/thumbnail/1200x630/c9f44f148db5d1e0e3b935cd146a2f23/1213-en-reid-608686-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Wisconsin Supreme Court won’t hear Trump election lawsuit, likely dooming state court case seeking to overturn loss"
     excerpt: "The Wisconsin Supreme Court on Thursday refused to hear President Trump’s lawsuit attempting to overturn his loss to Democrat Joe Biden."
     publishedDateTime: 2020-12-03T18:42:00Z
@@ -2538,6 +2552,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "c9q2Vdy1k56Tpn0w7mZ6d3MSiWRJD1VUSjigqkEcHYJQO8/Zb0usDsTOMevfgPWADBR3CQnkw79AdvQFj9DUyvpzWtyVR39BpR+TEMqKZnPwLAS4rtjZgnch32VdLAsR2jHYw++6OxiV2B8MSwrT39VjJrjrKwxA2LtpaGpUh/aUkaR3TzFASW4h23OwCsJlUx+DpeT8x5HmzZsj3PmdfwFGrZm6waq51BDJrQ9R4UoOttIF/4cggYDTsaXX7m4kaQpJH8uSBLgKXljO+0uRiLhYZ8Hami4X4GHQPRHM/5ENOU9+Br2e3llrOLs/2i91woT98wRFSJWHim1LR6WuZjBXiq69o+s1061YIOKUKaE=;Unauy7aQvtXoj+amyGxYag=="
+secured: "s8uvajyFfaHQwo74ASz72FbaiGrAEi+xqVUcWKZYZ/ouW0ZDLjToIyhBIijgjMbhIBWoLcNOhf153+5sXrNoOMH/RVG+/YcnBKxXgBMwxKk0SWpSr7Wuy/p+AAIWtG7DWRrNG3ZfnDGkKFIWMpc2OEGgRpNKWQx+9rN0oAz4saOtZvyNgA6jQaeYigrMTwrON+JMKEepArd60HBlW1HnqzBc9Ha+Jkd49uPJsh1CCxKGrRGe6j/EIuazFLWlNH5DzPZhiu0mQPij3J+KSgElhxsDIC5KnLTEr+OqtpQq672qy9OSWd0XZG2vVAus/ZAPi61H9a8ClKqaSlnbF53nJ0VolyoxahVVhhENL5xqIVk=;Duj2cT/EzcI69ydmyJBaxA=="
 ---
 

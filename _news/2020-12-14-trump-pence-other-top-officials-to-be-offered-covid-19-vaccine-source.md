@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Mike Pence
   - Donald Trump
+  - Mike Pence
 
 images:
   - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201213&t=2&i=1544430348&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBC0I6"
@@ -524,6 +524,6 @@ related:
       domain: omaha.com
     quality: 55
 
-secured: "rBRMgONQgXFnOCLUD70SxAfA54HOvVVRY2nd4MbcZusjY0tuSY5NGJRSuidEXJ5Q8lM3b687vPP54MAnEaf+DW86EHaytYCNv+gM7+/3vY2BF+SNzlZKBwYD7erlI5iHIxNPNe8XlCsgMPWrhI5yituyIrQ96rkj15yroJQWnGICfcqqh1gQq1faxduGRH71ZP9J3faSPyEy0qUZVW5eNpvjIpg7dn0zOLCjcssnj6mGZ6+nBYctaI650e0LGJrUAtG+wwc8xABExlmypya2JheV79euZYLWlephvR1yZc20hiR2HVn08AhMlhvu1RMVx4um4JCb65d16mx6o8yfobiYlhL+dx+1RmvQVEUUzi0=;/EpvsRuLn8lnAsObs8xivg=="
+secured: "2aIJgOvB7Z5MoGpTRNovYP12xm1/TRK7d3QudGefvbWtlunADNtdYNsqibz7c0ZWqBs0CZyhz278I1UwICC4VAeQHu9EU9Kz+WJ0TOgNec8tDCVGN76HSIAuBAeMAcwB9g8QGkXW6tg6PCYGPZ2IBwvzlDs5BV5vfD64/MsOLaxTrJleY696gdtbrPjZhZvZFuJ1OSv1Bg+knXfSOs0KBZYfD6ZE/AKCjsdC799XVftGUFBWjyd83blb92BzexcQYsyd8wRVAoH4s6InIWZgein/YgSZfrWAB73v7If39khW7tT3YifRhE8nbXF/4Cw69skoyuAuapxmho7DR/mWwSLwBDGywtGgbAHZyspJgzk=;0FHpn3PnLDuZoScB4BXcBg=="
 ---
 

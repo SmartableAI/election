@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Georgia high court rejects latest Trump election appeal"
-excerpt: "President Donald Trump has lost his latest legal challenge seeking to overturn Georgia's election results, with the state Supreme Court's rejection late Saturday of a case from Trump's campaign and Georgia Republican Party Chairman David Shafer."
-publishedDateTime: 2020-12-13T17:42:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/georgia-high-court-rejects-latest-trump-election-appeal-74702272"
-webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-high-court-rejects-latest-trump-election-appeal-74702272"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-high-court-rejects-latest-trump-election-appeal-74702272"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-high-court-rejects-latest-trump-election-appeal-74702272"
+excerpt: "President Donald Trump has lost his latest legal challenge seeking to overturn Georgia’s election results, with the state Supreme Court’s rejection late Saturday of a case from Trump’s campaign and Georgia Republican Party Chairman David Shafer."
+publishedDateTime: 2020-12-13T22:11:00Z
+originalUrl: "https://www.washingtonpost.com/national/georgia-high-court-rejects-latest-trump-election-appeal/2020/12/13/398902fa-3d66-11eb-b58b-1623f6267960_story.html"
+webUrl: "https://www.washingtonpost.com/national/georgia-high-court-rejects-latest-trump-election-appeal/2020/12/13/398902fa-3d66-11eb-b58b-1623f6267960_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/georgia-high-court-rejects-latest-trump-election-appeal/2020/12/13/398902fa-3d66-11eb-b58b-1623f6267960_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-high-court-rejects-latest-trump-election-appeal/2020/12/13/398902fa-3d66-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 140
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_1bf3d79f08a34b4f9764bfee413a7082_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -1815,10 +1815,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump continues to dispute election results ahead Electoral College vote"
+    excerpt: "On Monday, the Electoral College will cast their votes to elect Joe Biden to the presidency, but President Trump is still insisting that he's not done fighting to stay in power. Chip Reid reports."
+    publishedDateTime: 2020-12-13T23:59:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-continues-to-dispute-election-results-ahead-electoral-college-vote/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/13/eccebe73-3f20-4764-a64d-0446d0dffbeb/thumbnail/1200x630/c9f44f148db5d1e0e3b935cd146a2f23/1213-en-reid-608686-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "UPDATE 1-Trump revives threat to veto defense bill, teeing up battle with lawmakers"
     excerpt: "U.S. President Donald Trump on Sunday repeated his threat to veto a massive defense policy bill, setting the stage for a major battle with U.S. lawmakers at a time when they are racing to hammer out a compromise on more coronavirus relief."
     publishedDateTime: 2020-12-13T22:14:00Z
-    webUrl: "https://www.reuters.com/article/usa-defense-trump/update-1-trump-revives-threat-to-veto-defense-bill-teeing-up-battle-with-lawmakers-idUSL1N2IT0MS"
+    webUrl: "https://www.reuters.com/article/usa-defense-trump-idUSL1N2IT0MS"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28N0O5"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28N0O5"
     type: article
@@ -2538,6 +2552,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "K1g/a95zBNh8Se42dlj7cvWqdu9jEy19N7H8eDsl4h5cc99kkIACxLLXiDl+rto3wACCrWyrkcaT+whHCbKZ7OOl5m5R8iZmpou4OxuHAT3p7QYxq8hhZayV7qvuvH69G+2IeLyUD+qYPjfS0AL7P2833Ae+boW071+eyCL4zQAXglfkANppV5+g4k4FPTiArtxB8HHziUh+OclvE2DZQ11BUrZnHuaeL6LmJIJTG0HAWL7AozuMwhWmCUb/KKfRZLDnwolymEompC9Kk7gbtFqYo1v7nMVmZAAH1iD6+6uWuSeJjXGiSLaUHAT+3rKFoDEw9SYe9fckLDk1Q38RWnQeOuldyTsmNTiF/rHu9No=;n3b89Pt+CET4JhXh5iNA5w=="
+secured: "yoYrO80OvJzDm1WKPS5rnjMrFG1UMZVOk9/6FpHEPJNJAOV7nf+PFIYmcktsCK5MQ+sIyseRBeNIJFyLUQFnBHu2tD0Ec0MLNMz9wUSKxkO0MPMGJDDQpbPvWBFwHa0tRzmPMJX7BptM/Q62Y6w5eQOVuHCkhchasl9FcCIjTQyey85jS5VutW8m7HMtk0XwHGP9hm1OyxV7oj5ijHFiuCxWuYWQqkYkgqE7gqvmNPI8w4/J1rt4Bd4AtsrqYVF0N3Djq0dWwqrDkib/eQyUR6vEzXUlX4ScT9jUrMz2ycAZkwETJEkyRf/RbT+dywSP2AJU6ntCl3AtytTGhs39C79NTLuNA86tUykRh3VI4kQ=;npU7WFdv3RhBAlmEx3GFxA=="
 ---
 
