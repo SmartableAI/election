@@ -1385,12 +1385,44 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Donald Trump reverses plan to give White House officials Covid vaccine"
+    excerpt: "Trump makes announcement hours after administration said senior officials would be offered jab as early as this week"
+    publishedDateTime: 2020-12-14T09:43:00Z
+    webUrl: "https://www.theguardian.com/world/2020/dec/14/donald-trump-reverses-plan-to-give-white-house-officials-covid-vaccine"
+    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/14/donald-trump-reverses-plan-to-give-white-house-officials-covid-vaccine"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/14/donald-trump-reverses-plan-to-give-white-house-officials-covid-vaccine"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/086c0878405b6949e55bb595845a4a76dcb1d5ae/1225_989_3525_2114/master/3525.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ec0bc9434f653dfa366714ade510b776"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump raises China concerns as reason to veto defense bill"
     excerpt: "President Donald Trump once again says he’ll veto the annual defense policy bill that covers the military’s budget and pay raises for service members, but this time he’s citing unspecified concerns ab"
     publishedDateTime: 2020-12-13T22:41:00Z
     webUrl: "https://www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html"
     ampWebUrl: "https://www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump says he’s nixing plan for early vaccine at White House"
+    excerpt: "President Donald Trump says he’s reversing an administration directive to vaccinate top government officials against COVID-19 while public distribution of the shot is limited to front-line health work"
+    publishedDateTime: 2020-12-14T09:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-says-hes-nixing-plan-for-early-vaccine-at-white-house/2020/12/13/657b7986-3dc2-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-says-hes-nixing-plan-for-early-vaccine-at-white-house/2020/12/13/657b7986-3dc2-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-says-hes-nixing-plan-for-early-vaccine-at-white-house/2020/12/13/657b7986-3dc2-11eb-b58b-1623f6267960_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -1967,6 +1999,22 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Electoral college meets as Trump rejects early White House vaccinations - live updates"
+    excerpt: "Electors will gather in state capitols to confirm Biden’s victory even as president Trump continues, without evidence, to dispute result"
+    publishedDateTime: 2020-12-14T10:33:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd739dc8f08b0a99da9579a"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/06d953220a96e03156f8ed3d93946e812f492906/201_0_1169_702/master/1169.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a3f431be0b9e39d48382e6477e09ad33"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Live political updates: President Trump expected to spend Thanksgiving at the White House"
     excerpt: "President Donald Trump and the first lady will be spending Thanksgiving at the White House for the first time since he began his tenure as president instead of at his Mar-a-Lago club in Florida. It is uncertain whether the change in scenery is attributable to the rising number of coronavirus cases,"
     publishedDateTime: 2020-11-26T15:10:00Z
@@ -2407,6 +2455,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 102
+  - title: "Coronavirus updates: Donald Trump says he's not 'scheduled' for vaccine as first Pfizer shipments reach US health care facilities"
+    excerpt: "Health care centers prep for arrival of Pfizer vaccine. Some Florida hospitals won't require vaccinations. U.S. nears 300K deaths. Latest COVID news."
+    publishedDateTime: 2020-12-14T09:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/12/14/covid-news-us-300-k-deaths-donald-trump-vaccine-pfizer/6532382002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6532382002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6532382002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 96
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/14/USAT/5131c139-0808-4d6e-9d1b-7b169af71897-AP20348471527844.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Local Matters: Georgia's Republican governor rejects Trump's request to call special session to overturn election results"
     excerpt: "Georgia's Republican Governor Brian Kemp has rejected a request from President Trump to call a special session to overturn the results of the November election. In a statement Sunday, Kemp said Mr. Trump asked him to choose a new slate of presidential electors for when the electoral college casts its official vote next week,"
     publishedDateTime: 2020-12-08T02:02:00Z

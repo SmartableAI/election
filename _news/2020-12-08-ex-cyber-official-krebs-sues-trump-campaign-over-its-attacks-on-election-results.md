@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/chris-krebs-lawsuit/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/chris-krebs-lawsuit/index.html"
 type: article
 quality: 185
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/02/us/politics/02dc-trump-1/02dc-trump-1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "In final years at Liberty, Falwell spent millions on pro-Trump causes"
+    excerpt: "The nonprofit university’s think tank ran Facebook ads to “pray for our president,” with Donald Trump’s image."
+    publishedDateTime: 2020-12-14T09:48:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/jerry-falwell-trump-liberty-university-444661"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/jerry-falwell-trump-liberty-university-444661"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/jerry-falwell-trump-liberty-university-444661"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/cd/6e/bf9c433347ec94fa846b542e3a94/1211falwelltrump.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump looms over Georgia's high-stakes Senate races, worrying Republicans"
     excerpt: "The president is scheduled to hold a rally in the state Saturday after spending weeks attacking GOP elected officials."

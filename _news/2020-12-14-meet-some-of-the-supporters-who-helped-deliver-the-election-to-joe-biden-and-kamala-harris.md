@@ -7,7 +7,7 @@ originalUrl: "https://time.com/5920880/voters-joe-biden-kamala-harris/"
 webUrl: "https://time.com/5920880/voters-joe-biden-kamala-harris/"
 type: article
 quality: 135
-heat: 555
+heat: 575
 published: true
 
 provider:
@@ -93,6 +93,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/15/54/71/20368962/7/375x250.jpg"
         width: 375
         height: 249
+        isCached: true
+  - title: "Electoral college members meet to formally choose Biden as next president"
+    excerpt: "Presidential electors are meeting across the United States on Monday to formally choose Joe Biden as the nation’s next president."
+    publishedDateTime: 2020-12-14T09:20:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-14/electoral-college-members-meet-formally-choose-biden-president"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-14/electoral-college-members-meet-formally-choose-biden-president?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-14/electoral-college-members-meet-formally-choose-biden-president?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/18bb0d1/2147483647/strip/true/crop/1000x653+0+344/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa2%2F3d%2Ff8c811a0dd67c7fa20d65716c010%2Fdf7b33a49ae0421fb1d1525f6a62ff47"
+        width: 320
+        height: 209
         isCached: true
   - title: "Biden facing pressure to pick Congresswoman Deb Haaland as Interior Secretary"
     excerpt: "Tribal leaders, progressives and prominent women have called for Biden to pick Haaland as his interior secretary."

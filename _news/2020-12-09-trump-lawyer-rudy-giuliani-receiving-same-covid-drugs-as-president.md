@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 861
         isCached: true
+  - title: "Trump suggests White House staff will wait longer for COVID-19 vaccines"
+    excerpt: "U.S. President Donald Trump suggested late Sunday that senior White House officials would wait longer for COVID-19 vaccines hours after media outlets reported senior officials were to receive doses within 10 days."
+    publishedDateTime: 2020-12-14T09:03:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-white-house-idUSKBN28N0UP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28N0UP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28N0UP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201213&t=2&i=1544430348&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBC0I6"
+        width: 801
+        height: 545
+        isCached: true
   - title: "Trump reportedly limited US purchases of Pfizer vaccine when offered - live"
     excerpt: "New York Times reports Trump passed on the offer in late summer and the company may not be able to provide more doses until next June"
     publishedDateTime: 2020-12-08T00:20:00Z

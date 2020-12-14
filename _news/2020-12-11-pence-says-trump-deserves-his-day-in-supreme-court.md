@@ -303,6 +303,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump says despite court setbacks, election challenges 'not over'"
+    excerpt: "Trump tells 'Fox & Friends' election challenges 'not over,' won’t disclose if he’ll attend Biden inauguration President Trump vowed that he and his campaign “are going to continue to go forward” with their legal challenges against November’s election results,"
+    publishedDateTime: 2020-12-14T10:56:00Z
+    webUrl: "https://www.foxnews.com/us/trump-tells-fox-friends-despite-court-setbacks-election-challenges-not-over"
+    ampWebUrl: "https://www.foxnews.com/us/trump-tells-fox-friends-despite-court-setbacks-election-challenges-not-over.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-tells-fox-friends-despite-court-setbacks-election-challenges-not-over.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump lays out election-fraud case in online video: 'Bad things happened'"
     excerpt: "Trump says if he's right about election fraud, 'Biden can't be president' President Trump is once again charging that last month’s presidential election was rigged and rife with fraud. In an address posted on his Twitter and Facebook pages that the president described as possibly “the most important speech,"
     publishedDateTime: 2020-12-03T10:07:00Z
