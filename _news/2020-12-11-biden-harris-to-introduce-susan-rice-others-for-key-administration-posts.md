@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250850"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250850"
 type: article
 quality: 158
-heat: 178
+heat: 198
 published: true
 
 provider:
@@ -48,6 +48,22 @@ related:
       - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/biden_econ_nom.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Who will replace Kamala Harris in the Senate? California governor weighs a shortlist of firsts"
+    excerpt: "The possible replacements include Long Beach Mayor Robert Garcia and California Secretary of State Alex Padilla."
+    publishedDateTime: 2020-12-14T13:58:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/who-will-replace-kamala-harris-u-s-senate-california-governor-n1250975"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250975"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250975"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 123
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434600/201209-los-angeles-alex-padilla-ac-419p_0_5eecaf7673fb2b6dd17bdf7d233aff1c.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "wEFg5mHMDIBjj4kyo8hXTzCZwA+mlTqeHXnlCfpfcUgqKAG9ZAX8/SuCukG84vTkj9WBA45x99nJWKxYY2S2nCISEY3HqHkjQ7JCwo0ima5/SK0e6xYC7kWhIdQsEyqOcBbdeQ9toqBnQYGjMl4Yw2PkQBP3Xdz4A/uP5ZyY9QuO0mh5gm6jL49Yc9jC87Hed2oYzrb7ZpZWsdZE9lfDus0pYtoV2sytoV0NzM+xBiuyesZhcRs3S1OjZwFiAK0MbvDdaHejxcvh106obO5vB5JuvRzs2AqK8fnPqY4WaeGysUbBWUQuVQlzR4CgpSkh8YaK3vKMAwvY6fyqsTuSLsyHCzGbjMq6hcPfCNh7EmkEiVfGuK9UQ1KdtsuN30IcAmpp6u14eXFpvKQGg4ACRP6SWstSPr5kDrDEpDbeEX2W6m6/FKJ7a3bI1GqmQ+3xtIBAhzxAc+PMGmF/bXGzkGBgXymqYpCgmOZszsq6Zzcp3lEIImG6hjHA9ScwmBbJbFh7KaN4507HEvpymVqvuQ==;wsvjPSjc4LYqdctjNNhy6w=="

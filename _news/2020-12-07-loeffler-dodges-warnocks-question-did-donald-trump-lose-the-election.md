@@ -45,6 +45,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "The Note: Electoral College voting brings crossroads for Trump and his GOP"
+    excerpt: "Trump looms large over the future of the Republican Party. But his interests and those of his party are already diverging."
+    publishedDateTime: 2020-12-14T13:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-electoral-college-voting-brings-crossroads-trump-gop/story?id=74591167"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-electoral-college-voting-brings-crossroads-trump-gop/story?id=74591167"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-electoral-college-voting-brings-crossroads-trump-gop/story?id=74591167"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Trump_rally_201_hpMain_20201213-185828_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Thousands gather in D.C. for pro-Trump demonstrations as city braces for clashes"
     excerpt: "Protesters who refuse to accept that President-elect Joe Biden won the election have begun arriving in Washington for what organizers have called a “March for Trump.” They are expected to fan out across the city Saturday,"
     publishedDateTime: 2020-12-12T22:23:00Z

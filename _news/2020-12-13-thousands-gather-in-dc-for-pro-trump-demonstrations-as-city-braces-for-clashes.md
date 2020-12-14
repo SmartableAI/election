@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "The Note: Electoral College voting brings crossroads for Trump and his GOP"
+    excerpt: "Trump looms large over the future of the Republican Party. But his interests and those of his party are already diverging."
+    publishedDateTime: 2020-12-14T13:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-electoral-college-voting-brings-crossroads-trump-gop/story?id=74591167"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-electoral-college-voting-brings-crossroads-trump-gop/story?id=74591167"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-electoral-college-voting-brings-crossroads-trump-gop/story?id=74591167"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Trump_rally_201_hpMain_20201213-185828_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Loeffler dodges Warnock’s question: ‘Did Donald Trump lose the election?’"
     excerpt: "Incumbent Sen. Kelly Loeffler (R) faced off against the Rev. Raphael Warnock (D) at a debate in Atlanta on Dec. 6."
     publishedDateTime: 2020-12-07T01:35:00Z

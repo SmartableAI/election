@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-14-intel-officials-who-called-hunter-biden-story-russian-disinformation-should-face-consequences-domenech.md",
+      "title": "Intel officials who called Hunter Biden story Russian disinformation should face consequences: Domenech",
+      "excerpt": "There should be consequences for former intelligence officials who called the Hunter Biden story Russian disinformation, Federalist publisher Ben Domenech said on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DnyNc2k6j6c/consequences-officials-hunter-biden-story-russian-disinformation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DnyNc2k6j6c/consequences-officials-hunter-biden-story-russian-disinformation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/consequences-officials-hunter-biden-story-russian-disinformation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/consequences-officials-hunter-biden-story-russian-disinformation.amp",
+      "publishedDateTime": "2020-12-14T06:44:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-how-the-deep-state-scientists-vilified-by-trump-helped-him-deliver-an-unprecedented-achievement.md",
+      "title": "How the ‘deep state’ scientists vilified by Trump helped him deliver an unprecedented achievement",
+      "excerpt": "A $14-billion partnership between government and industry is spurring the quickest vaccine development in U.S. history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/",
+      "originalUrl": "https://www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LPMJUBR5JQI6XNMLCYR7MJTZMA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/?outputType=amp",
+      "publishedDateTime": "2020-12-14T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-a-lifelong-republican-stood-up-to-trump-his-reward-death-threats.md",
       "title": "A lifelong Republican stood up to Trump. His reward: Death threats",
       "excerpt": "Georgia election official Gabriel Sterling is girding for another battle with conspiracy theories and lies about the integrity of the voting system.",
@@ -58,8 +166,8 @@
       "title": "In Latin America, a Biden White House faces a rising China",
       "excerpt": "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-latam-usa-china-insight/in-latin-america-a-biden-white-house-faces-a-rising-china-idUSKBN28O18R?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-latam-usa-china-insight/in-latin-america-a-biden-white-house-faces-a-rising-china-idUSKBN28O18R?edition-redirect=ca",
+      "webUrl": "https://www.reuters.com/article/us-latam-usa-china-insight-idUSKBN28O18R",
+      "originalUrl": "https://www.reuters.com/article/us-latam-usa-china-insight-idUSKBN28O18R",
       "featuredContent": null,
       "highlight": null,
       "heat": 225,
@@ -595,7 +703,7 @@
       "originalUrl": "https://time.com/5920880/voters-joe-biden-kamala-harris/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 595,
+      "heat": 615,
       "tags": null,
       "images": [
         {
@@ -1230,105 +1338,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-trump-engages-in-self-sabotage-ahead-of-historic-vaccine-rollout.md",
-      "title": "Trump engages in self-sabotage ahead of historic vaccine rollout ",
-      "excerpt": "As doses of a coronavirus vaccine are being prepared to be shipped to communities across the United States, President Donald Trump has an opportunity to mark a historic milestone for science -- and show some semblance of leadership in curbing the spread of Covid-19 as the number of US cases crosses 16",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wQTJczM9gnQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wQTJczM9gnQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201208205952-trump-file-1113-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/13/politics/donald-trump-william-barr-pfizer-vaccine/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/donald-trump-william-barr-pfizer-vaccine/index.html",
-      "publishedDateTime": "2020-12-12T21:37:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-house-dems-campaign-chief-a-moderate-who-wins-in-trump-land.md",
-      "title": "House Dems' campaign chief a moderate who wins in Trump land",
-      "excerpt": "Their dwindling majority in peril, House Democrats are entrusting their campaign operations to an analytical, openly gay moderate who’s been an attorney, businessman and five-time winner in his competitive congressional district.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12",
-      "originalUrl": "https://www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12?amp",
-      "publishedDateTime": "2020-12-12T20:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -5811,6 +5811,20 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "Electoral College to affirm Biden's victory as Trump remains defiant"
+    excerpt: "President-elect Joe Biden will be one step closer to the White House as members of the Electoral College meet today to affirm his victory. However, President Trump continues to refuse to accept the election results."
+    publishedDateTime: 2020-12-14T14:54:00Z
+    webUrl: "https://www.cbsnews.com/video/electoral-college-to-affirm-bidens-victory-trump-legal-fight/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/14/8ced5e6f-ca33-40c4-82b0-4bceaa4ea7b3/thumbnail/1200x630/d47bea47058534e93ae4536bee06abce/cbsn-fusion-members-of-electoral-college-to-affirm-bidens-victory-as-trump-forges-ahead-with-legal-efforts-thumbnail-608942-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump is apparently confused as to why news outlets projected the election winner as he rails against the results"
     excerpt: "Trump has refused to accept his loss, and on Sunday expressed confusion at the longstanding process of news outlets calling the election."
     publishedDateTime: 2020-11-08T21:45:00Z

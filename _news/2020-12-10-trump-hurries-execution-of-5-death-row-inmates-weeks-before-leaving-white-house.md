@@ -2002,8 +2002,8 @@ related:
         isCached: true
   - title: "Electoral college meets as Trump rejects early White House vaccinations - live updates"
     excerpt: "Electors will gather in state capitols to confirm Biden’s victory even as president Trump continues, without evidence, to dispute result"
-    publishedDateTime: 2020-12-14T10:33:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd739dc8f08b0a99da9579a"
+    publishedDateTime: 2020-12-14T14:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd76ce18f08b0a99da95ac1"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates"
     type: article
@@ -2012,7 +2012,7 @@ related:
       domain: theguardian.com
     quality: 117
     images:
-      - url: "https://i.guim.co.uk/img/media/06d953220a96e03156f8ed3d93946e812f492906/201_0_1169_702/master/1169.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a3f431be0b9e39d48382e6477e09ad33"
+      - url: "https://i.guim.co.uk/img/media/5d713e5a577118d1d7de4aeeec2a69a94b4cdb0b/0_104_5287_3174/master/5287.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dc79256f35e24e2d64ce8ae43e4159c3"
         width: 600
         height: 360
         isCached: true
@@ -2512,6 +2512,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/70f26f6c-bb5c-47b7-9bce-f8fe5fd26310/thumbnail/1200x630/c0929f2f330b4ce91f553b4858c6a84e/cbsn-fusion-georgias-republican-governor-rejects-presidents-request-to-call-special-session-to-overturn-election-results-thumbnail-603557-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Indiana presidential electors set to award state's 11 votes to Trump, Pence"
+    excerpt: "A Schererville woman will make history today when she joins 537 other Americans in all 50 states and Washington, D.C. to officially elect the next president of the United States."
+    publishedDateTime: 2020-12-14T13:30:00Z
+    webUrl: "https://www.nwitimes.com/news/local/govt-and-politics/elections/indiana-presidential-electors-set-to-award-states-11-votes-to-trump-pence/article_6a37eceb-e668-52cd-b9df-e1bbbdc1fc3f.html"
+    ampWebUrl: "https://www.nwitimes.com/news/local/govt-and-politics/elections/indiana-presidential-electors-set-to-award-states-11-votes-to-trump-pence/article_6a37eceb-e668-52cd-b9df-e1bbbdc1fc3f.amp.html"
+    cdnAmpWebUrl: "https://www-nwitimes-com.cdn.ampproject.org/c/s/www.nwitimes.com/news/local/govt-and-politics/elections/indiana-presidential-electors-set-to-award-states-11-votes-to-trump-pence/article_6a37eceb-e668-52cd-b9df-e1bbbdc1fc3f.amp.html"
+    type: article
+    provider:
+      name: Northwest Indiana Times
+      domain: nwitimes.com
+    quality: 88
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/21/121d0ff1-bfb4-5fcf-9b0d-f4a74e7bed19/5fbd5efff1d2a.image.jpg?resize=1024%2C602"
+        width: 1024
+        height: 602
         isCached: true
   - title: "Trump Allies Eye Long-Shot Election Reversal in Congress, Testing Pence"
     excerpt: "President Donald Trump lost key swing states by clear margins. His barrage of lawsuits claiming widespread voting fraud has been almost universally dismissed, most recently by the Supreme Court. And Monday,"

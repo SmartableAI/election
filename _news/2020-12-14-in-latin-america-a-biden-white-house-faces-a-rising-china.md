@@ -3,8 +3,8 @@ category: news
 title: "In Latin America, a Biden White House faces a rising China"
 excerpt: "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home."
 publishedDateTime: 2020-12-14T11:40:00Z
-originalUrl: "https://www.reuters.com/article/us-latam-usa-china-insight/in-latin-america-a-biden-white-house-faces-a-rising-china-idUSKBN28O18R?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/us-latam-usa-china-insight/in-latin-america-a-biden-white-house-faces-a-rising-china-idUSKBN28O18R?edition-redirect=ca"
+originalUrl: "https://www.reuters.com/article/us-latam-usa-china-insight-idUSKBN28O18R"
+webUrl: "https://www.reuters.com/article/us-latam-usa-china-insight-idUSKBN28O18R"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O18R"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R"
 type: article
@@ -100,6 +100,6 @@ related:
         height: 630
         isCached: true
 
-secured: "/y4DPnLPeHv9cf3ZJIfgjJ0CPQn/9QesIIqF0DvY/RjtH5QLivCR2IhsYV8kLo/sxvTdh9uPFUg2Fl3LQvHjsMVa2a2suITBeop/yHpikzRfBjW2kDV44QmtWW9C5XYWWFt48vphmSy24EUXeGaBCD6Lh2x88g2ov1DSF2XjGT9XrbeQO1ddzI3z6FuGo732Yb6t6ZkMhElLRonQNgdBSGXUsiT9RhQU2zRCMFHQc9gpkuh0byP5YniEwOCLMZH/7fTXljOtjVxg1KQCdVKeN9sOSudbashYOqvEHalhq4xfRo5QoG1BrYSUBpjAaA9uZ8Q2LpRmOXQD2dreYyHz2zJ0c5EjP20zQJlp9TXty4E=;04D4AvH7HCVGwIYw1m+L9A=="
+secured: "0UJnR8B73m4hWSq9ZTYNCIyy/pXdNuibNMImjUZbAIalNeR+2ItonvjrXEihsLJkuYNwWV2Vx9WO3ENRriLCGd2im4Uy/luChs/c5VMhsqukpY0pvGflm1CCYxnLiMzYfu6TsdcPpIjgxJLxuDSY0Id2D3WbTuIEDmvgQhyvZ+Yw5q8GShHxwXzzVmbhKo419zKXQ4TqqH0KVHHnyYcfszD1ofrLUA24oCmdRdKqINdWnsgbO60vbGZB49/nkWkbxKpph/gkMFQEGCnoDsXUzUkZdv77bHwH1CrtzHdjjUoikDR6neT+KW2GXRHkVDX1p8p99HESxSMcsFQFr0bwGEabbwN/fggEYiN8avYvK8w=;fNa76LsNITnWWPXkFPBmww=="
 ---
 

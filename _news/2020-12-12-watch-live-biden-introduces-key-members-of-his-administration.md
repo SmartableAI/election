@@ -48,6 +48,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Who will replace Kamala Harris in the Senate? California governor weighs a shortlist of firsts"
+    excerpt: "The possible replacements include Long Beach Mayor Robert Garcia and California Secretary of State Alex Padilla."
+    publishedDateTime: 2020-12-14T13:58:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/who-will-replace-kamala-harris-u-s-senate-california-governor-n1250975"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250975"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250975"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 123
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434600/201209-los-angeles-alex-padilla-ac-419p_0_5eecaf7673fb2b6dd17bdf7d233aff1c.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "5vyVzBcxnTxoNPZk08jZwt6SAYDETnsFoh8AHGyGiVmfAzvsaJ0xw9ytWTTyEjQcP6A/hO4+T0UK7X2MRo+8Gb05Caetcs3yiisBfEi7YKtzrJRqf2IOSYwHllS3+OUcPGUBPHbWIlJxGQe9KBNw+6JXHRujBYAlc5V5hQkD9q8n2gW8K+6zNp1T4V7ITC2uoOVEweAXZxhjtVrWxzAp4dOLfc2qB6UZKAhLbZZ2enI+0T2y36EjmMau4t4Rjt9oPu3WULxOufG+WeMO4w9d/9K1zE0hal6kvF9jRtne2RZaDMFc99jsEodj/JBPncroRvZFH5fRJFrdqeR2cnDuFkgjyxjH5iLp8V/5e0+b1oOHMUnbGaeioxxVBVSC1c0DA8oIuJQdS5qesILHFAPbsjxOl6oHY7SB0bvVlnMDTEb0ctcm0GaDBcKJbY/kOk4RwK9OhxGIPANEemv7CnJdWdx7C02sILfKS3DOc4kRAijLr2WYrmRIWcmLl0NLkIMI4O7qfIdJmyi6tOxgcK++4A==;Dxl+jmJj5XdKWIAIxt++zQ=="
 ---

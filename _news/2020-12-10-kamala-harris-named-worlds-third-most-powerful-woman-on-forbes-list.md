@@ -173,6 +173,22 @@ related:
         width: 1440
         height: 1004
         isCached: true
+  - title: "Electoral College: Presidential electors meet to formally choose Joe Biden as next president"
+    excerpt: "The electors' votes have drawn more attention than usual this year because President Donald Trump has refused to concede the election and continued to make baseless allegations of fraud."
+    publishedDateTime: 2020-12-14T13:23:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-electoral-college-meets-votes-20201214-ulwfiyghq5aujlg2b5yb6ok4s4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-electoral-college-meets-votes-20201214-ulwfiyghq5aujlg2b5yb6ok4s4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-electoral-college-meets-votes-20201214-ulwfiyghq5aujlg2b5yb6ok4s4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 114
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Gs0oY4xyEHWt8FotOvdtOyY71Ic=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2K2K726RBCE5PSUOFMZVMRVOJY.aspx"
+        width: 1200
+        height: 713
+        isCached: true
   - title: "President-elect Joe Biden's son Hunter says he is under federal investigation for 'tax affairs'"
     excerpt: "WASHINGTON -- President-elect Joe Biden's son Hunter says he is under federal investigation for 'tax affairs.' Facebook hit with antitrust lawsuit from FTC and 48 state attorneys general 24/7 coverage"
     publishedDateTime: 2020-12-09T22:07:00Z
@@ -228,6 +244,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Electoral College to formally vote for Joe Biden to become next president"
+    excerpt: "As Electoral College members meet in each state to cast their ballots, formally affirming Joe Biden as the next president of the United States, President Trump is vowing to continue fighting the election results."
+    publishedDateTime: 2020-12-14T14:54:00Z
+    webUrl: "https://www.cbsnews.com/video/electoral-college-to-formally-vote-for-joe-biden-to-become-next-president/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 104
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/14/613442a6-44e2-4b05-872b-aaa855e0c641/thumbnail/1200x630/07ce2e797ff1b06b6cfe02d667bae322/cbsn-fusion-electoral-college-to-formally-vote-for-joe-biden-to-become-next-president-thumbnail-608937-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "As A Stepparent, Kamala Harris Puts 'Families You Choose' In The Spotlight"
     excerpt: "When Vice President-elect Kamala Harris takes office, she brings with her what stepdaughter Ella Emhoff describes as a \"big blended family.\" Other blended families are celebrating that visibility."
     publishedDateTime: 2020-12-09T09:00:00Z
@@ -303,22 +333,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-PRESREACT-1108-3-1.jpg?w=1024&h=758"
         width: 1024
         height: 758
-        isCached: true
-  - title: "Who Will Replace Kamala Harris in the Senate? California Governor Weighs a Shortlist of Firsts"
-    excerpt: "San Francisco Mayor Gavin Newsom ordered the county to issue same-sex marriage licenses in 2004. A young gay man in his 20s at the time, Garcia called it a “light switch” that ignited his passion for public service."
-    publishedDateTime: 2020-12-13T23:38:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 63
-    images:
-      - url: "https://media.nbcnewyork.com/2020/08/Robert-Garcia-Joe-Biden-DNC.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Mary J. Blige on her new pinot grigio, Kamala Harris and her holiday plans"
     excerpt: "For Mary J. Blige, wine has been a ray of sunshine during the pandemic. In fact, she recently launched her own wine company, Sun Goddess."

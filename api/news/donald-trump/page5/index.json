@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-20-new-york-subpoenas-trump-organization-records-on-consulting-fees-paid-to-ivanka.md",
+      "title": "New York subpoenas Trump Organization records on consulting fees paid to Ivanka",
+      "excerpt": "New York’s attorney general has sent a subpoena to the Trump Organization for records related to consulting fees paid to Ivanka Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/6ae8be4/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5a%2F3b%2F8b3c08284a4b9772eac3ad91e97a%2Felection-2020-trump-86023.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes?_amp=true",
+      "publishedDateTime": "2020-11-20T02:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-trump-admin-cementing-legacy-with-israeli-settlement-visit-yemen-and-iran-sanctions.md",
       "title": "Trump admin cementing legacy with Israeli settlement visit, Yemen and Iran sanctions",
       "excerpt": "Secretary of State Mike Pompeo is pushing to cement a foreign policy legacy for an administration in its final days.",
@@ -1495,58 +1547,6 @@
       "ampWebUrl": "https://www.businessinsider.com/national-security-veterans-intelligence-officials-react-trump-election-bloodlust-2020-11?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/national-security-veterans-intelligence-officials-react-trump-election-bloodlust-2020-11?amp",
       "publishedDateTime": "2020-11-16T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-obama-said-he-was-surprised-at-top-republicans-who-did-a-complete-180-on-everything-they-claimed-to-believe-to-align-with-trump.md",
-      "title": "Obama said he was surprised at top Republicans who did a 'complete 180 on everything they claimed to believe' to align with Trump",
-      "excerpt": "Obama told The Atlantic he was not shocked by Trump's \"character and behavior\" while in office, but at top Republicans who emerged as his allies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/obama-trump-top-republicans-complete-180-2020-11",
-      "originalUrl": "https://www.businessinsider.com/obama-trump-top-republicans-complete-180-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fb29149402d49001924f150?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/obama-trump-top-republicans-complete-180-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-trump-top-republicans-complete-180-2020-11?amp",
-      "publishedDateTime": "2020-11-16T08:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
