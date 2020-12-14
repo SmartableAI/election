@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-09-judge-dismisses-case-against-michael-flynn-following-pardon-from-trump.md",
+      "title": "Judge dismisses case against Michael Flynn following pardon from Trump",
+      "excerpt": "A federal judge has dismissed the criminal case against former Trump administration national security advisor Michael Flynn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2020-12-08/judge-dismisses-flynn-case-following-pardon-from-trump",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-08/judge-dismisses-flynn-case-following-pardon-from-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/61afbc4/2147483647/strip/true/crop/4806x3139+0+31/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F92%2F7c%2F5d2514d52221a1da4bfb1749c57a%2F8641a1d016ff4c77bfd2be3e0af83b54",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-12-08/judge-dismisses-flynn-case-following-pardon-from-trump?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-08/judge-dismisses-flynn-case-following-pardon-from-trump?_amp=true",
+      "publishedDateTime": "2020-12-08T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-chris-cuomo-blasts-gop-congressman-for-skipping-his-show-over-trump-election-claim-questions.md",
+      "title": "Chris Cuomo blasts GOP congressman for skipping his show over Trump election-claim questions",
+      "excerpt": "Rep. Dusty Johnson (R-S.D.) replied that he was ready to discuss covid relief but not “hyper-partisan issues.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/",
+      "originalUrl": "https://www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UGSSZGRVTUI6XFUZADJRD4J5FU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/?outputType=amp",
+      "publishedDateTime": "2020-12-08T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-ex-cyber-official-krebs-sues-trump-campaign-over-its-attacks-on-election-results.md",
       "title": "Ex-cyber official Krebs sues Trump campaign over its attacks on election results",
       "excerpt": "Chris Krebs, the former top administration official for cybersecurity, whom President Donald Trump fired after the election, is suing the Trump campaign and a lawyer working with the campaign to overturn the results of the election, accusing them of defamation.\n    \n",
@@ -385,7 +489,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/politics-presidential-transition-news-joe-biden-donald-trump/6484311002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3470,
+      "heat": 3490,
       "tags": null,
       "images": [
         {
@@ -470,58 +574,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-today-marks-an-important-electoral-college-deadline-heres-why-thats-bad-news-for-trump.md",
-      "title": "Today marks an important Electoral College deadline. Here's why that's bad news for Trump",
-      "excerpt": "The safe harbor deadline falls six days before the Electoral College meets to formally cast votes for president based on the popular votes in states.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/safe-harbor-deadline-arrives-hurting-trumps-bid-overturn-election/6478954002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/safe-harbor-deadline-arrives-hurting-trumps-bid-overturn-election/6478954002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/06/USAT/d8313eb8-441c-4b59-84f5-a27ff5a1aac8-AFP_AFP_8WK484.jpg?auto=webp&crop=2351,1322,x0,y53&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6478954002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6478954002",
-      "publishedDateTime": "2020-12-08T01:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1288,58 +1340,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-unambiguous-loud-and-threatening-trump-supporters-protest-at-home-of-michigan-secretary-of-state-jocelyn-benson.md",
-      "title": "'Unambiguous, loud and threatening': Trump supporters protest at home of Michigan Secretary of State Jocelyn Benson",
-      "excerpt": "Secretary of State Jocelyn Benson said she and her son were preparing to watch a Christmas movie when the protesters showed up outside her home.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/06/michigan-secretary-state-jocelyn-benson-protest-home/3853743001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/06/michigan-secretary-state-jocelyn-benson-protest-home/3853743001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/10/03/PDTF/4d1cb9cc-996c-41ed-827d-f28cb68e9c8b-Jocelyn_Benson2.jpg?auto=webp&crop=3959,2227,x0,y183&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3853743001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3853743001",
-      "publishedDateTime": "2020-12-06T19:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

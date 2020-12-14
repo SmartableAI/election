@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Four People Stabbed and At Least 23 Arrested at Pro-Trump Rally in D.C."
+    excerpt: "Trump demonstrators after sundown Saturday. WRC-TV reported that four people were taken to a hospital with stab wounds, and the Metropolitan Police Department told the station that 23 people were arrested."
+    publishedDateTime: 2020-12-14T02:14:00Z
+    webUrl: "https://time.com/5921156/stabbing-trump-rally-washington/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/12/D.C..jpg"
+        width: 4841
+        height: 3227
+        isCached: true
   - title: "Most US voters don't want Trump to run in 2024 and 42% say he is 'one of the worst presidents' ever, Fox News poll finds"
     excerpt: "Voters disapprove of President Trump's handling of COVID-19, immigration, and healthcare. When it comes to economics, Trump is viewed more positively."
     publishedDateTime: 2020-12-12T10:29:00Z

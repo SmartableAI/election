@@ -34,7 +34,7 @@ related:
   - title: "Trump, Pence, other top officials to be offered COVID-19 vaccine: source"
     excerpt: "U.S. President Donald Trump, Vice President Mike Pence and other top U.S. officials will be offered the newly approved COVID-19 vaccine beginning Monday, according to a source familiar with the plans."
     publishedDateTime: 2020-12-13T22:35:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-white-house/trump-pence-other-top-officials-to-be-offered-covid-19-vaccine-source-idUSKBN28N0UP?edition-redirect=ca"
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-white-house-idUSKBN28N0UP"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28N0UP"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28N0UP"
     type: article
@@ -478,6 +478,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/aa43b0326b5deb79f2e3c35acff29d03650abc3a/0_197_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3e40d3e6031803dbbb1e1b649f700a6f"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump claimed that COVID-19 vaccine would have taken 'five years' to develop if he weren't president"
+    excerpt: "Trump's Operation Warp Speed has spent billions funding vaccine efforts, but Pfizer didn't take any federal money for research and development."
+    publishedDateTime: 2020-12-13T22:16:00Z
+    webUrl: "https://www.businessinsider.com/trump-claims-coronavirus-vaccine-five-years-if-he-werent-president-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-claims-coronavirus-vaccine-five-years-if-he-werent-president-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-coronavirus-vaccine-five-years-if-he-werent-president-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fd6736de00bce00188bb12c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Vice President Mike Pence to tour COVID vaccine facility in Bloomington next week"
     excerpt: "Vice President Mike Pence will be in Bloomington Tuesday to tour a vaccine production facility and discuss efforts to combat COVID-19"

@@ -3,13 +3,13 @@ category: news
 title: "Trump, Pence, other top officials to be offered COVID-19 vaccine: source"
 excerpt: "U.S. President Donald Trump, Vice President Mike Pence and other top U.S. officials will be offered the newly approved COVID-19 vaccine beginning Monday, according to a source familiar with the plans."
 publishedDateTime: 2020-12-13T22:35:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-white-house/trump-pence-other-top-officials-to-be-offered-covid-19-vaccine-source-idUSKBN28N0UP?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-white-house/trump-pence-other-top-officials-to-be-offered-covid-19-vaccine-source-idUSKBN28N0UP?edition-redirect=ca"
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-white-house-idUSKBN28N0UP"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-white-house-idUSKBN28N0UP"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28N0UP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28N0UP"
 type: article
 quality: 149
-heat: 769
+heat: 789
 published: true
 
 provider:
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Mike Pence
+  - Donald Trump
 
 images:
   - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201213&t=2&i=1544430348&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBC0I6"
@@ -464,6 +464,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump claimed that COVID-19 vaccine would have taken 'five years' to develop if he weren't president"
+    excerpt: "Trump's Operation Warp Speed has spent billions funding vaccine efforts, but Pfizer didn't take any federal money for research and development."
+    publishedDateTime: 2020-12-13T22:16:00Z
+    webUrl: "https://www.businessinsider.com/trump-claims-coronavirus-vaccine-five-years-if-he-werent-president-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-claims-coronavirus-vaccine-five-years-if-he-werent-president-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-coronavirus-vaccine-five-years-if-he-werent-president-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fd6736de00bce00188bb12c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Trump administration reportedly rejected an offer from Pfizer for more COVID-19 vaccine doses, and now other countries might get them"
     excerpt: "The Trump administration purchased 100 million doses of Pfizer's vaccine, but it's a two-dose treatment so it will only go to 50 million Americans."
     publishedDateTime: 2020-12-07T22:33:00Z
@@ -524,6 +540,6 @@ related:
       domain: omaha.com
     quality: 55
 
-secured: "2aIJgOvB7Z5MoGpTRNovYP12xm1/TRK7d3QudGefvbWtlunADNtdYNsqibz7c0ZWqBs0CZyhz278I1UwICC4VAeQHu9EU9Kz+WJ0TOgNec8tDCVGN76HSIAuBAeMAcwB9g8QGkXW6tg6PCYGPZ2IBwvzlDs5BV5vfD64/MsOLaxTrJleY696gdtbrPjZhZvZFuJ1OSv1Bg+knXfSOs0KBZYfD6ZE/AKCjsdC799XVftGUFBWjyd83blb92BzexcQYsyd8wRVAoH4s6InIWZgein/YgSZfrWAB73v7If39khW7tT3YifRhE8nbXF/4Cw69skoyuAuapxmho7DR/mWwSLwBDGywtGgbAHZyspJgzk=;0FHpn3PnLDuZoScB4BXcBg=="
+secured: "fxyOOksuUSJQl7oTifJFlO2w5n974OUi4PD9NNoYTHQYtuO9sfdkFBZkGprCGpFkqec2GLPRBxvzCqaHvaserIDUfZdv94Q4B/VA6KetxjgKxCHI5y4XIUIqA5Dk2mT/4gvIMi1x33GPmb8gfY3jDSvyRIuW8YymMQEjjnyl54RIbjolZzyroypzWfFe0kKxroeOwD/W8VaQXGHNwTuwM0d7dCUJx7Z4YyMrBkQDTFWrLVdj9fPvnSJQ8ipLhDRCJ2scz8R3HzsjhuiBm3KpfDaTtia9iIbH6RawjzmqLHDfBnnhLd3sw8sJqR0/EOciX3bVWNUD+Ng4ttgArmmPLuHwWQKxac5vNze/19vLf2s=;pQBUWxjguXU597uROzojpw=="
 ---
 

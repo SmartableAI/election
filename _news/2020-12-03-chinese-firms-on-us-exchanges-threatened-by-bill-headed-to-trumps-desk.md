@@ -895,6 +895,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump-Biden transition live updates: 'An absurdity': Chris Christie on Trump and allies' efforts to overturn election"
+    excerpt: "Former New Jersey governor and ABC News political contributor Chris Christie, criticized Donald Trump and his allies' efforts to overturn President-elect Joe Biden's ele"
+    publishedDateTime: 2020-12-14T00:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74573672"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 132
+    images:
+      - url: "https://s.abcnews.com/images/Politics/chris-christie-file-gty-jef-201213_1607887640612_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "US Covid deaths soar as Barr dismisses Trump's election conspiracy theories – live updates"
     excerpt: "US sees highest level of daily Covid deaths since April as over 180,000 new cases are recorded"
     publishedDateTime: 2020-12-02T14:24:00Z
@@ -1376,20 +1392,20 @@ related:
         height: 779
         isCached: true
   - title: "Trump raises China concerns as reason to veto defense bill"
-    excerpt: "President Donald Trump once again says he’ll veto the annual defense policy bill that covers the military’s budget and pay raises for service members, but this time he’s citing unspecified concerns ab"
-    publishedDateTime: 2020-12-13T22:41:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    excerpt: "President Donald Trump once again says he'll veto the annual defense policy bill that covers the military's budget and pay raises for service members, but this time he's citing unspecified concerns ab"
+    publishedDateTime: 2020-12-13T18:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_bbc3c4a1ff934f42af69979375eb3cc9_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump urges Georgia governor to call special session of state legislature"
     excerpt: "U.S. President Donald Trump on Saturday called on Georgia Governor Brian Kemp to hold a special session of the state legislature over election results there."

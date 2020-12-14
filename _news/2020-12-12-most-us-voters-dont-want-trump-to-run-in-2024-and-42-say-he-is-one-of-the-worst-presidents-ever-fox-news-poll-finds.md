@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Four People Stabbed and At Least 23 Arrested at Pro-Trump Rally in D.C."
+    excerpt: "Trump demonstrators after sundown Saturday. WRC-TV reported that four people were taken to a hospital with stab wounds, and the Metropolitan Police Department told the station that 23 people were arrested."
+    publishedDateTime: 2020-12-14T02:14:00Z
+    webUrl: "https://time.com/5921156/stabbing-trump-rally-washington/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/12/D.C..jpg"
+        width: 4841
+        height: 3227
+        isCached: true
 
 secured: "urkzI5V4ge+PTS58/NhQAgrfQN8mFwYZ4lhj7pwwCo96MyjDtTxZU3C8inRkPh1kIJz9cczhyYxMIregyqrQYmqr3Z1oksJRf0rCxlKEljjBuQCDmXx8K1NKfgbvhySs7fpmHGb9PFovDK79UIxMhAOAqmoXkwnTDqOBPn6KHOFpYLOmkRpp8ej1+CYoEJpOFMIxJ4s89sfBMIYN25V9UuzJ7csRtV63EbMbvCwrYMVTQbL9L8XgfaZJVkGa8k/3Hg58ILEVRtEwYoQrRc+jwi3X0mc3WxSumaxcezg7ENfJtosktlnrqfLt9jRnFCNQ7NMoAbHdxx1qrxK2Qn/HAV+DqWQ8iZfqDQ8IBHHn/u/xtBtxbWSmo5Z8tH2lwwTMjFQnFlI1/gcr3NI5FUIZJ8jxX/7C+E6r416s6VPUth2lVXM+0AOj/m1qsvnhWMkEOX02x9zuk//GhsMQruEx35nRYrJ9rodyx1sZqE12BkYFlWClP3H0Y/loPL1Cl2rSTzgCGlvZUIgUSX9OhqV+RA==;qhVPtqA1SQT/eHXnjwbnPQ=="
 ---

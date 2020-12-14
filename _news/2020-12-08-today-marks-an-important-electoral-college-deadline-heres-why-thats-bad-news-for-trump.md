@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/6478954002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6478954002"
 type: article
 quality: 116
-heat: 136
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Several people are stabbed and nearly 30 arrested in clashes after Trump supporters rally"
-    excerpt: "Trump demonstrators over the weekend in Washington, leading to dozens of arrests, several stabbings and injuries to police officers."
-    publishedDateTime: 2020-12-13T22:58:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-13/nearly-30-arrested-after-clashes-at-trump-supporters-rally"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-13/nearly-30-arrested-after-clashes-at-trump-supporters-rally?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-13/nearly-30-arrested-after-clashes-at-trump-supporters-rally?_amp=true"
+  - title: "Trump expands his cable diet to Newsmax and OAN. They benefit and so does he."
+    excerpt: "Presidential praise has boosted ratings, and more viewers can then increase pressure on Republicans to back Trump’s false claims of election fraud."
+    publishedDateTime: 2020-12-14T02:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 116
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/128424f/2147483647/strip/true/crop/5546x3622+0+37/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fff%2Fc2%2F70455de34c4e9d519e464222fd1f%2Fbiden-41790.jpg"
-        width: 320
-        height: 209
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V3ZFN5BLPAI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "8Wz1LwDOZmc4WkxskDjgkiFKXd7RQupGkplHpFO901WqdyWCsakOzIY34BQV5D0dOY8lXKCrRYD12/lLwJL0qYSuI4WtHIJ6UDXfvvXZckUw4EI2yydVKpnLiQrtmq7b3of9vOReHP/GmACfPS4PbMTpU7ojbRHXUv0cKh7jDK+K39FIOBM1WAG33/rE/JuDrN1qoVGU16I+VMM+eSaQgGM2U1d/Bj+X3uZQ6y5bijdCvR3Wk9PkuWLfT1K9sMfE5jj+/R0aBFpShevefhFN8m73sA7R7kPR6Vgr+J2KAPoCbQ9TObjUdvLRutKJRGKZQKnJ3MWcOLCLemHWSscJtvk+2wytqfJJZ1CL0pDqjhZ5Y7u5KnDElB9VbS+zUNgKQ5qyaXgqsnGDG5UwmPbFM1qT/InzL5MwO6uy1Y2D/QfHFnw7GMbnUlSqJGFvRkLTG4XH+QH8oZm+VvYv8LyuMuVh+54tIwgrievCN/t1My7cJAVh5XiFdXfKvpMihA1pHpSLFuQVVh99Y/KvkA21kQ==;Mz8LED9WvJ+L7GB/hFIIXg=="

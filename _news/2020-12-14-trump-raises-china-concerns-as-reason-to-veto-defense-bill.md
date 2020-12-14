@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Trump raises China concerns as reason to veto defense bill"
-excerpt: "President Donald Trump once again says he’ll veto the annual defense policy bill that covers the military’s budget and pay raises for service members, but this time he’s citing unspecified concerns ab"
-publishedDateTime: 2020-12-13T22:41:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html?outputType=amp"
+excerpt: "President Donald Trump once again says he'll veto the annual defense policy bill that covers the military's budget and pay raises for service members, but this time he's citing unspecified concerns ab"
+publishedDateTime: 2020-12-13T18:30:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_bbc3c4a1ff934f42af69979375eb3cc9_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -894,6 +894,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1683144/trump-operation-warp-speed-vaccine-summit.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump-Biden transition live updates: 'An absurdity': Chris Christie on Trump and allies' efforts to overturn election"
+    excerpt: "Former New Jersey governor and ABC News political contributor Chris Christie, criticized Donald Trump and his allies' efforts to overturn President-elect Joe Biden's ele"
+    publishedDateTime: 2020-12-14T00:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74573672"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 132
+    images:
+      - url: "https://s.abcnews.com/images/Politics/chris-christie-file-gty-jef-201213_1607887640612_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "US Covid deaths soar as Barr dismisses Trump's election conspiracy theories – live updates"
     excerpt: "US sees highest level of daily Covid deaths since April as over 180,000 new cases are recorded"
@@ -2552,6 +2568,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "dk9o4PNKWklPO4VGfsEGeqDPmi6WHbLsqICAiUPZteczX4v+XCEzp+VuZ4n/YfXVZXJ85wMP79PnVEI3W1BCkJr58Cns2e51CDWSRXm02+zzu4g47FcSfb+RkvHoHDWA/c1URHFqluBVA2YEye5nHcdaIeOdZHoWYrsyqVoCMywqPGG8xXd7zyHnr81jEgU1FdknSbOKN2WRyfekJT25sii+6VHojRpxS8CIjhhtAcH+a2XekhKQZeJqw4MUIdGvc87TOjsqjQ23n072kD/rzd9FozKH/g1wtuXWBXw4KjX4/cElMyTLPiPyyQ9+EsfDIdBYP2m2De4n3PcLXeV1fcAyQGfwb6lAzqcx4W9N0Jo=;aPR+C8q3TIFuKkLqANbD/w=="
+secured: "DZZaSw+wPW6i3Zaqg36cwF2yGkUJcchcfXXrkSSSsTkcf+PZoFfNhP+0oinR7Sp8pi6n3anZ4avOv02/4ixqirsUbLEbSnw+WuD9HFuh1eTOxReteTAv2jsv9PmirSoRsxsF1HEMvT24e90JpRIG0yHL0dSIZltDKvHxbC5vcT7FLU1UuicfStNeFnNCoAMRZGwEauGUiggOHHxITS3fPdOKJZMA8XMbdoKqGjYQaSuvOhpzPTrxCYN28nzDkBNxnOtnUWSzYXMo8zRWWSPG9TJsbokftk9fso7OCAceRanRTCLOR4haFnypfXghOqHPo/ZyYQ4fCu/gpint7AxLkzBNIfrHuFq1FsHRSfQNTak=;gQRXOdjhj2PAWSbZa4Roaw=="
 ---
 

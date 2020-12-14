@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 959
         isCached: true
+  - title: "At least 23 arrested as crowds turn unruly after pro-Trump rally in Washington, DC"
+    excerpt: "Supporters of President Donald Trump gathered Saturday to demand election integrity. The scene later turned tense as rival groups clashed."
+    publishedDateTime: 2020-12-14T02:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/12/12/trump-march-brings-thousands-dc-ahead-electoral-college-vote/3882935001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3882935001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3882935001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/12/USAT/98fde875-f323-48b1-956e-5deb594da45d-XXX_USATODAY_444201_jmg_22534_1.JPG?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Far-right protesters, counterdemonstrators plan to gather Saturday in D.C. amid pro-Trump rallies"
     excerpt: "The events have been promoted by far-right media personalities, white nationalists and conspiracists — several of whom announced plans to attend. Counterdemonstrations organized by anti-fascist and anti-racism groups are being planned nearby."
     publishedDateTime: 2020-11-13T04:48:00Z

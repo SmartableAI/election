@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-swipes-at-dewine-after-ohio-g
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-swipes-at-dewine-after-ohio-gov-biden.amp"
 type: article
 quality: 189
-heat: 409
+heat: 429
 published: true
 
 provider:
@@ -204,6 +204,20 @@ related:
       - url: "https://images.wsj.net/im-258844?size=1.5"
         width: 1280
         height: 853
+        isCached: true
+  - title: "President Trump: Joe Biden Lied About Hunter Biden Investigation On The Debate Stage"
+    excerpt: "President Trump discussed new reporting that confirms the FBI has indeed been investigating Joe Biden's son Hunter for financial crimes related to his business in Ukraine. President Trump was impeached for asking for help from an allied country about an ongoing criminal investigation."
+    publishedDateTime: 2020-12-13T15:51:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/12/13/president_trump_joe_biden_lied_about_hunter_biden_investigtion_on_the_debate_stage.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 73
+    images:
+      - url: "https://assets.realclear.com/images/52/529627.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "m8eGwETr+QOs+ophQoPqXxBB8skh+bc3oha5K/1Krba2cPLGUaIrzrGa1n5Ydw5x6eYn7El2JguiQGaKonZAdYZ4fL0nFubOnvzfqM/XYrQiwOAaJlbqbT928GqGX11cCwng+Zd6lxHPz2vvCCIEwlaikIINaBW+LFLilAwhwWIMCxjIQG7p1O/OynM/+Cn5YLFgdYCRR6BhyQs+E8HAxqd4Jmi1Qw8Vji3xOseykDy3Ac9Fwes7C6jxj78vnefrkoyuqrNRK07wh+ygakqR0djZORh29mWnjARBbMfKRSIt3+EKSQz8tx2EX3EaSudd7YwjfnnryY9AKBjdq1m62odRH1E71fRiNIvgNzBmsqc=;qOiG2LhtlGMZIZ6df6mYYw=="

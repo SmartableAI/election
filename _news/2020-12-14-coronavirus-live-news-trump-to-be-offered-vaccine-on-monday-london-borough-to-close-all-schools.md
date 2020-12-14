@@ -34,7 +34,7 @@ related:
   - title: "Trump, Pence, other top officials to be offered COVID-19 vaccine: source"
     excerpt: "U.S. President Donald Trump, Vice President Mike Pence and other top U.S. officials will be offered the newly approved COVID-19 vaccine beginning Monday, according to a source familiar with the plans."
     publishedDateTime: 2020-12-13T22:35:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-white-house/trump-pence-other-top-officials-to-be-offered-covid-19-vaccine-source-idUSKBN28N0UP?edition-redirect=ca"
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-white-house-idUSKBN28N0UP"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28N0UP"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28N0UP"
     type: article
@@ -462,6 +462,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/08/USAT/4be9a102-6ccc-439e-a0f5-84a67dc2fbaf-AFP_AFP_8WQ49E.jpg?auto=webp&crop=4497,2530,x0,y132&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump claimed that COVID-19 vaccine would have taken 'five years' to develop if he weren't president"
+    excerpt: "Trump's Operation Warp Speed has spent billions funding vaccine efforts, but Pfizer didn't take any federal money for research and development."
+    publishedDateTime: 2020-12-13T22:16:00Z
+    webUrl: "https://www.businessinsider.com/trump-claims-coronavirus-vaccine-five-years-if-he-werent-president-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-claims-coronavirus-vaccine-five-years-if-he-werent-president-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-coronavirus-vaccine-five-years-if-he-werent-president-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fd6736de00bce00188bb12c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "The Trump administration reportedly rejected an offer from Pfizer for more COVID-19 vaccine doses, and now other countries might get them"
     excerpt: "The Trump administration purchased 100 million doses of Pfizer's vaccine, but it's a two-dose treatment so it will only go to 50 million Americans."
