@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-officials-condemn-iran-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-officials-condemn-iran-reporter.amp"
 type: article
 quality: 186
-heat: 466
+heat: 486
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 167
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c6b162e-be50-4a77-a376-4c526d5ece40/312aac65-1e1b-4147-8427-2f66b8964cf2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "UN Ambassador Craft calls for reform of Human Rights Council, as Biden likely to rejoin"
+    excerpt: "U.N. Ambassador Kelly Craft on Monday called for significant reforms to the controversial Human Rights Council, warning that the U.S. should not rejoin unless it fixes its membership, elections and anti-Israel bias -- ahead of a likely change in policy from the incoming Biden administration."
+    publishedDateTime: 2020-12-14T21:41:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IRJaCtaELyE/un-ambassador-craft-reform-human-rights-council"
+    ampWebUrl: "https://www.foxnews.com/politics/un-ambassador-craft-reform-human-rights-council.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/un-ambassador-craft-reform-human-rights-council.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e4c3f5f-8738-4f0a-be02-531a88eb9c4b/d49fdefa-00b4-47f1-96e1-7cea7bbb3fe7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

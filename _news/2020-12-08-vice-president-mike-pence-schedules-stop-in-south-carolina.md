@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.thestate.com/news/politics-government/article247690655.h
 cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/politics-government/article247690655.html"
 type: article
 quality: 75
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Monroe County Airport prepares for Vice President Mike Pence's visit"
+    excerpt: "The vice president is expected to visit Bloomington's Catalent Biologics to tour the COVID-19 vaccine production line."
+    publishedDateTime: 2020-12-14T21:27:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/12/14/monroe-county-airport-prepares-vice-president-mike-pences-visit/6547244002/"
+    ampWebUrl: "https://amp.indystar.com/amp/6547244002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6547244002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/09/PDEM/f0d58c4c-3ed1-4359-8b8a-e8399130d50c-AP20344676064841.jpg?auto=webp&crop=5537,3115,x0,y281&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "South Carolina Electors Cast All 9 Votes for President Trump"
     excerpt: "South Carolina’s nine presidential electors have officially voted for President Donald Trump and Vice President Mike Pence."
     publishedDateTime: 2020-12-14T16:54:00Z

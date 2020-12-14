@@ -755,20 +755,20 @@ related:
         height: 675
         isCached: true
   - title: "Tennessee's 11 electors cast ballot for Trump, Pence"
-    excerpt: "Tennessee’s 11 representatives to the Electoral College on Monday cast their vote for President Donald Trump and Vice President Mike Pence. “Today we conclude what has been a unique election cycle,” said Elections Coordinator Mark Goins ahead of vote that took place in Tennessee’s House chamber."
-    publishedDateTime: 2020-12-14T17:42:00Z
-    webUrl: "https://www.mysanantonio.com/news/article/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
-    ampWebUrl: "https://www.mysanantonio.com/news/amp/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
-    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
+    excerpt: "Tennessee’s 11 representatives to the Electoral College on Monday cast their vote for President Donald Trump and Vice President Mike Pence."
+    publishedDateTime: 2020-12-14T21:54:00Z
+    webUrl: "https://tucson.com/news/national/govt-and-politics/tennessees-11-electors-cast-ballot-for-trump-pence/article_ab764ef3-846a-5c07-8a6c-cccec485dc8f.html"
+    ampWebUrl: "https://tucson.com/news/national/govt-and-politics/tennessees-11-electors-cast-ballot-for-trump-pence/article_ab764ef3-846a-5c07-8a6c-cccec485dc8f.amp.html"
+    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/national/govt-and-politics/tennessees-11-electors-cast-ballot-for-trump-pence/article_ab764ef3-846a-5c07-8a6c-cccec485dc8f.amp.html"
     type: article
     provider:
-      name: My San Antonio
-      domain: mysanantonio.com
+      name: Arizona Daily Star
+      domain: tucson.com
     quality: 90
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/b/62/b6222129-8f87-5cfa-a347-656d8e53812e/5fd7e4c39d5be.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Senate Falls Short of Halting Trump's $23B Arms Sales to UAE"
     excerpt: "The Senate has fallen short of disapproving the Trump administration’s proposed $23 billion arms sales to the United Arab Emirates."

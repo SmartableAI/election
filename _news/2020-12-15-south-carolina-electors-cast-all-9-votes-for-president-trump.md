@@ -39,6 +39,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Monroe County Airport prepares for Vice President Mike Pence's visit"
+    excerpt: "The vice president is expected to visit Bloomington's Catalent Biologics to tour the COVID-19 vaccine production line."
+    publishedDateTime: 2020-12-14T21:27:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/12/14/monroe-county-airport-prepares-vice-president-mike-pences-visit/6547244002/"
+    ampWebUrl: "https://amp.indystar.com/amp/6547244002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6547244002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/09/PDEM/f0d58c4c-3ed1-4359-8b8a-e8399130d50c-AP20344676064841.jpg?auto=webp&crop=5537,3115,x0,y281&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "j5+4DgLm4L8OZxdC3TXfeqjSZB3UxAhg2jb3G8sIH9g/WQT6zT1TgkG++yMzfFajn2lpC/aYfiImSfO8+q+5njw/532qf5EkbyI0ANlwn+/aprD4/EghkTz6AZWfWcJxaHXz1Q1xB9Qxs7TzkD8boFIYYsDJWR9DciTLA2XLDQVpSIlJ29j+sBivTk0jajaXEp1drYaiOlIEwtxJjy7LAYbyxBW+A5o2VYRAunEMS6znxAw/54gJqj+njTfNSOKVoSdeRk5emzi4JxWBJ9Qf8C6bVAKYv/P9g4sreOEY1vrnmlQZto+Bp7BKXjv3YAfl7+NJQYnm7XttYJdEDQqAf17RZObUosOrk0X28293T1o=;39gttb5Uulcm2HBDBp01oQ=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Trump, Pence, other top officials to be offered COVID-19 vaccine: source"
 excerpt: "U.S. President Donald Trump, Vice President Mike Pence and other top U.S. officials will be offered the newly approved COVID-19 vaccine beginning Monday, according to a source familiar with the plans."
 publishedDateTime: 2020-12-14T03:10:00Z
-originalUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28N0UP"
-webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28N0UP"
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-white-house/trump-pence-other-top-officials-to-be-offered-covid-19-vaccine-source-idUSKBN28N0UP?edition-redirect=ca"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-white-house/trump-pence-other-top-officials-to-be-offered-covid-19-vaccine-source-idUSKBN28N0UP?edition-redirect=ca"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28N0UP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28N0UP"
 type: article
@@ -441,6 +441,6 @@ related:
       domain: omaha.com
     quality: 55
 
-secured: "iaYPvi/hi5TJS9u9a9ZiYAGkABk0cpDjvHWJEC3mbQDh8eYCofz1SWt/UnIWeg+mSQMtnxeJZwTnC4DNDcETgmE6RwRJDiIf/vXdE7Qf6R51IHpyXRZjq8Kz9uR5otkbvf3FGz5258ycfRpTj0Npp3VyFh+0qtEAOQP5D0u+gXzbd0qoD8GqucSjoUcyedf7gvl1juvplt94dJpdTYzlT63T7YIF5uMY/1slGR1RBR5mzE9+eQJlVxFd224fsnQ9sdVeA+CIAYCGacIR0aTBPrE+Vp+B93zicdecy5L9FZQE7kwlBEL/aMuZU3wHt14So8tEwJpbt2Kabk/PVaZ9tV5GDxkwJZBLQ4z+BUrsc1Y=;z4awpbdYRDr8s+JI6XQg0A=="
+secured: "4xK49sQWFpLrRCArGIiLp+1KQtzyxq3SdymuszlN9u+pa4gYrvdBu3a3T2RWU1b4rY21wM6pJbF/6Ka12MaEbD5q3PE4jvBGY2zaXK2KGiR2+mRVmLKcM3r5Pul+Hu4mycVpililkSbR8aYCTaJF5DPqpWFvmsf2/1clRm08JpVEi66AlLWkhsJV3HtVOBIrGtBNuTveF/EhPV3nlo7TQuHKAqs7V/JZ77DcwbLHfdD2n01PfQJeUi2F9Ee65HktXcMj/F+iSpASTOApZh/L0RhWgzQNicITiBfUgCYO5gRW6HFAOxKjP8qlshdkiM+uaYOQbNkEFYp/Qq3CDwf+MorZqv+pu67wuI2ITodI2Ug=;swQ3YfSheEdLXt+AflTVlw=="
 ---
 

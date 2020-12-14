@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to call on nation to 'turn the page' and unite in speech after Electoral College vote"
+    excerpt: "President-elect Joe Biden will declare it time to \"turn the page, to unite, to heal\" in a speech Monday night after the Electoral College makes his victory over President Donald Trump official, according to excerpts of Biden's prepared remarks released by his transition team.\n    \n"
+    publishedDateTime: 2020-12-14T21:08:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VTp2PwNROKQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/joe-biden-speech-electoral-college/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/joe-biden-speech-electoral-college/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209092448-02-joe-biden-health-team-1208-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's Catholic faith will be on full display as the first churchgoing president in decades"
     excerpt: "Joe Biden rarely misses Sunday Mass. So it was notable when the President-elect didn't attend church on November 29, the first Sunday of Advent and the beginning of the season when Roman Catholics like Biden prepare for Christmas.\n    \n"
     publishedDateTime: 2020-12-13T15:39:13Z
@@ -192,6 +208,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "California’s electors are meeting now. Their votes are expected to push Biden over the top."
+    excerpt: "California’s 55 electors are meeting now as they prepare to cast their votes for President-elect Joseph R. Biden Jr. Their votes will push Mr. Biden over the 270 threshold to win the White House, formally delivering him a victory after a disruptive period in the nation’s history marked by extraordinary efforts by President Trump to overturn the results of the presidential election."
+    publishedDateTime: 2020-12-14T17:31:00Z
+    webUrl: "https://www.nytimes.com/2020/12/14/us/californias-electors-are-meeting-now-their-votes-are-expected-to-push-biden-over-the-top.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/14/us/californias-electors-are-meeting-now-their-votes-are-expected-to-push-biden-over-the-top.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/14/us/californias-electors-are-meeting-now-their-votes-are-expected-to-push-biden-over-the-top.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 125
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/14/us/politics/14vid-electoral-college-promo1/14vid-electoral-college-promo1-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "'Publicity stunt': AGs in battleground states blast Texas counterpart for challenging Biden's win"
     excerpt: "Texas Attorney General Ken Paxton wants the Supreme Court to invalidate election results in four states, citing repeatedly debunked allegations."
     publishedDateTime: 2020-12-08T18:50:00Z
@@ -223,6 +255,6 @@ related:
         height: 629
         isCached: true
 
-secured: "WEK2p8AyoJMDZ/L4Co67Iit1aFZKRkqPJhljDdbFsMYbTOUmpT1+LAb8kg+Khym6nA0pX5SvQOGY+AUZsiU82XHfC/Kai+oP+GQgx6HagdXNqTkXc5ZcGIg/ShtouO1Z/Ww81GQmtn8n8Ni0glyqhzMQg3JC4EWgcCyVXW5QifONe+n/olptpC+dsnv6gr+v9vhL5ILSziDafz6N1cBhV51KachfRKr64/LkJKgeRez1An0l2ttMFGAGG14slxf5mDlksF7zYv8dmA3n7HGm+O77X8fOk4Soe2g/lrk6xd3vMzuyVxmDXt8YWmGIwi1YdbGFhEk+ytT0TcVOxRjyd+8mx+N3IlHt+j04I04OXaA=;j6JiBf+xKPMF51niCSfFeg=="
+secured: "8soQWQB3Bx8aP/9tZlbJdbmZ/d8s7gqLnH1HsXAQN8GuJag2yr2URL4zLrt4ThxrcSW5AVGdc2SYcd58PSaWdusCh//qyHvFtEcspIsozDO7GMys9C0ni9tEYk7YBErkfd+vazRMLGPJkqbTGnlXPrYeOljELcvatLV5optyP0r3mCEM16QpKuoHlcFyE1dXzYvmP/cA/+VSMZXNcyNtDP7xVUOSuavIO25/ouANfFAo901SWroEhb4MD5WJVpKdagOsnE1JJWNnPIdUWe0tJKCoBFSLGaL7bgeTH7L0ygu1fDrQ1dIgZV07UAMGVFZp9J3Q8N8by0IUmGydvQ+J2viqyXfdXoMiwi78Pxq/yXI27tQ/LAMLfikpHUCkrtk/Ik/XMbckBHyfisJAYmfE97L9vi8FFmHUHMvLW7dZOKTBtkFhBoIlKBgQgqGfTh1LznNR0tzXDjan7jQoRjGYcVFD9fxbvXqF3FzxZ0F4U/wFYecTfS1r7yPGNY5aUpNlnOZgKYVVLNU3ls8oKIa7vA==;ejPKmZwcATRMmRmhkcZoRw=="
 ---
 

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Tennessee's 11 electors cast ballot for Trump, Pence"
-excerpt: "Tennessee’s 11 representatives to the Electoral College on Monday cast their vote for President Donald Trump and Vice President Mike Pence. “Today we conclude what has been a unique election cycle,” said Elections Coordinator Mark Goins ahead of vote that took place in Tennessee’s House chamber."
-publishedDateTime: 2020-12-14T17:42:00Z
-originalUrl: "https://www.mysanantonio.com/news/article/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
-webUrl: "https://www.mysanantonio.com/news/article/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
-ampWebUrl: "https://www.mysanantonio.com/news/amp/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
-cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Tennessee-s-11-electors-cast-ballot-for-Trump-15800302.php"
+excerpt: "Tennessee’s 11 representatives to the Electoral College on Monday cast their vote for President Donald Trump and Vice President Mike Pence."
+publishedDateTime: 2020-12-14T21:54:00Z
+originalUrl: "https://tucson.com/news/national/govt-and-politics/tennessees-11-electors-cast-ballot-for-trump-pence/article_ab764ef3-846a-5c07-8a6c-cccec485dc8f.html"
+webUrl: "https://tucson.com/news/national/govt-and-politics/tennessees-11-electors-cast-ballot-for-trump-pence/article_ab764ef3-846a-5c07-8a6c-cccec485dc8f.html"
+ampWebUrl: "https://tucson.com/news/national/govt-and-politics/tennessees-11-electors-cast-ballot-for-trump-pence/article_ab764ef3-846a-5c07-8a6c-cccec485dc8f.amp.html"
+cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/national/govt-and-politics/tennessees-11-electors-cast-ballot-for-trump-pence/article_ab764ef3-846a-5c07-8a6c-cccec485dc8f.amp.html"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: My San Antonio
-  domain: mysanantonio.com
+  name: Arizona Daily Star
+  domain: tucson.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/b/62/b6222129-8f87-5cfa-a347-656d8e53812e/5fd7e4c39d5be.image.jpg?resize=1024%2C682"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -798,6 +798,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "aL6lbxeC/DEH88u/fOPiyGH5EfvYbYDYUUxxw+SZaidWD5tXpWnw5GrQiOkKU8ZTWYHqyX2ce+BD2jmxRwBrln6Rkff0XLav8JUCnQNL00V6eYQnGT+iQimV5kWqY1tJkwr7OaqdHbFJPK+7+vni7URn2GgfPQ1lFpfITOqLZ2W4RVKzdZq87GF0U39NmI8r+OtoOfEZWgWuucsspaUom045gfWRONTSh1J2Yt0YHUYt0crftfxxvQtjqJRqrUzq6+hXHBQIZR+dyyljJi0iI9KpFy5W3/rp2AkF3EUgULvmIzIwqV6ppI7i0dvNZqZ/2VNc/sMpIe0LnoxpbUwzyi0QSgCvNnGDq6nPG+zrzxA=;mOG36A2QhDCuQGSEWatDRw=="
+secured: "6KXhK8IFkPOmeN+wvbHKG2YNIuTUv46v9sJkhmT28yfxWiTBejCA21pJ9hpoqaH26ZW4ohlONTdQcFcHN0nOJoK9+nOTB00MBOOIogkux1IYY8bFBJUyEfkTkFIzQ7et6/AVJodtQd2Pepx96uLHsA/9vip4juH/oX4+OIXL86HSUwb9/97uK9x+oHw8+tjXfn+zg66Dmu2HXFF/R4MmZwsfOZdpG0wFzbUpj6Hi72KbppvuPuMLKsdgaFRrfA810ECOjWKOrjSkNzvtQPIev+8r8Vn8uTF0fbO6FWz+9AXOdF8WnOkAkd/kAIQMQyCAMC2zYJ7UxYADVeevnYxvfcx7XcQoK8AhJljuEJrwokQ=;xNrptLk0olTNFUjgYjP2UQ=="
 ---
 

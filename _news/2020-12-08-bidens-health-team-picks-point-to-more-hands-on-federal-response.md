@@ -159,6 +159,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden’s message to nation: ‘It’s time to turn the page’"
+    excerpt: "President-elect Joe Biden will say that “the integrity” of the nation’s elections remains intact in an address he’ll give Monday evening, immediately after electors in all 50 states and the District of Columbia cast ballots, formalizing Biden’s victory of President Trump in last month’s presidential"
+    publishedDateTime: 2020-12-14T21:42:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KrcBo319WYo/bidens-message-to-nation-its-time-to-turn-the-page"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-message-to-nation-its-time-to-turn-the-page.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-message-to-nation-its-time-to-turn-the-page.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Hawley: Joe Biden has questions to answer about federal probe into Hunter"
     excerpt: "In an interview on \"America's Newsroom,\" Sen. Josh Hawley, R-Mo., said President-elect Joe Biden had questions to answer about the federal investigation into his son Hunter's tax dealings and any U.S. Attorneys working on the case had to remain in their positions once Biden was inaugurated."
     publishedDateTime: 2020-12-10T19:08:27Z

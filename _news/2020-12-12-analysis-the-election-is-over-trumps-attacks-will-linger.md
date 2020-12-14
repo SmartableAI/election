@@ -2670,6 +2670,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "WV electors cast all five votes for Trump-Pence ticket"
+    excerpt: "General Election ended in West Virginia Monday afternoon when the state’s five electors cast their votes for President Donald Trump and Vice President Mike Pence."
+    publishedDateTime: 2020-12-14T22:32:00Z
+    webUrl: "https://www.wvgazettemail.com/news/politics/wv-electors-cast-all-five-votes-for-trump-pence-ticket/article_c121c6db-07e8-54f4-a09c-61f7c2e48a88.html"
+    type: article
+    provider:
+      name: Charleston Gazette-Mail
+      domain: wvgazettemail.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wvgazettemail.com/content/tncms/assets/v3/editorial/c/12/c121c6db-07e8-54f4-a09c-61f7c2e48a88/5fd7e6b60c7d5.preview.jpg?resize=927%2C630"
+        width: 927
+        height: 630
+        isCached: true
   - title: "Trump Challenges Vote Results While Urging Turnout in Ga."
     excerpt: "President Donald Trump is pressing his grievances over losing the presidential election, using a weekend rally to spread baseless allegations of misconduct in last month’s voting in Georgia and beyond even as he pushed supporters to turn out for a pair of Republican Senate candidates in a runoff election in January."
     publishedDateTime: 2020-12-06T05:20:00Z

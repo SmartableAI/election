@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Attorney General William Barr to step down, Trump says"
+    excerpt: "William Barr will be leaving his role as attorney general, President Donald Trump tweeted on Monday evening.\n    \n"
+    publishedDateTime: 2020-12-14T22:58:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kSmnyEslCR4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/william-barr-out-as-attorney-general/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/william-barr-out-as-attorney-general/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201213004721-william-barr-1015-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Wisconsin’s Top Court Rejects Trump Lawsuit as His Election Push Fades"
     excerpt: "The Supreme Court in the state narrowed yet another legal path for the Trump campaign as it tries to overturn his loss to Joe Biden."
     publishedDateTime: 2020-12-04T00:11:00Z
