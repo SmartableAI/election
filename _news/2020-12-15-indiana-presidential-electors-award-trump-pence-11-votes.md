@@ -24,84 +24,148 @@ topics:
   - Mike Pence
 
 related:
-  - title: "Worst place, worst time: Trump faces virus spike in Midwest"
-    excerpt: "A college history professor who last cast a ballot for a Democratic candidate for president more than 20 years ago, Loiacono, who voted for American Solidarity Party presidential candidate Michael Maturen in 2016 is voting for Democrat Joe Biden because he thinks Trump has utterly failed in his handling of the coronavirus pandemic."
-    publishedDateTime: 2020-12-11T17:44:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/worst-place-worst-time-trump-faces-virus-spike-74673175"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/worst-place-worst-time-trump-faces-virus-spike-74673175"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/worst-place-worst-time-trump-faces-virus-spike-74673175"
+  - title: "Electoral college: key states confirm Joe Biden's victory in presidential election"
+    excerpt: "Votes in Georgia, Pennsylvania, Wisconsin and Arizona effectively end Donald Trump’s long-shot attempt to overturn results"
+    publishedDateTime: 2020-12-14T20:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 134
+    images:
+      - url: "https://i.guim.co.uk/img/media/db7d3342fc6619931c02b4b619d3d79bcc7d80ce/0_120_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4c8d6ddfbba62fd7cf15141727b34de8"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Tuesday's safe harbor deadline is boost for Biden"
+    excerpt: "A deadline set Tuesday under federal law essentially locks in President-elect Joe Biden’s victory, even though President Donald Trump is still falsely claiming he won reelection"
+    publishedDateTime: 2020-12-09T12:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/safe-harbor-law-locks-congress-accepting-bidens-win-74597839"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/safe-harbor-law-locks-congress-accepting-bidens-win-74597839"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/safe-harbor-law-locks-congress-accepting-bidens-win-74597839"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_7f24b0f1a2564a988de177c68975f9c8_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e9204dca46054191810493c0d6053ca0_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump injects politics into the vaccine — again — at a most inopportune time"
-    excerpt: "In an early-morning tweetstorm, Trump suggested the FDA and its head, Stephen Hahn, weren’t moving fast enough."
-    publishedDateTime: 2020-12-11T16:39:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/11/trump-injects-politics-into-vaccine-again-most-inopportune-time/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/11/trump-injects-politics-into-vaccine-again-most-inopportune-time/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/11/trump-injects-politics-into-vaccine-again-most-inopportune-time/?outputType=amp"
+  - title: "Wisconsin's 10 electors vote for Democrat Joe Biden for president"
+    excerpt: "Wisconsin's 10 electors voted for Democrat Joe Biden for president on Monday, confirming the president-elect's victory in the state in the 2020 U.S. presidential election."
+    publishedDateTime: 2020-12-14T18:46:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin/wisconsins-10-electors-vote-for-democrat-joe-biden-for-president-idUSKBN28O2LD?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O2LD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O2LD"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7F6WHEEEFYI6VANDS2IMTCARCE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544537476&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD1GR"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Coronavirus vaccine, pro-Trump DC rally, Army-Navy game: 5 things to know this weekend"
-    excerpt: "CDC advisors meet to review data on Pfizer and BioNTech's COVID vaccine, Trump supporters plan for DC rally and more things to start your weekend."
-    publishedDateTime: 2020-12-12T10:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/12/12/coronavirus-vaccine-army-navy-president-trump-rally-brexit/3872269001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3872269001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3872269001"
+  - title: "Supreme Court rejects GOP bid to overturn Biden's victory in Pennsylvania"
+    excerpt: "The high court spurned a request from Republican allies of President Trump to decertify Pennsylvania's election results."
+    publishedDateTime: 2020-12-09T12:36:00Z
+    webUrl: "https://www.cbsnews.com/news/supreme-court-rejects-pennsylvania-gop-suit-overturn-presidential-election-results/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-rejects-pennsylvania-gop-suit-overturn-presidential-election-results/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-rejects-pennsylvania-gop-suit-overturn-presidential-election-results/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/31dda42b-429a-49d4-9149-e586d64a933f-USATSI_15294432.jpg?auto=webp&crop=3499,1969,x0,y145&format=pjpg&width=1200"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/01/80c61613-2c50-466e-8bc0-c94e04340f94/thumbnail/1200x630/599c98122454d59cc8ef7b92437607ff/gettyimages-1223641796.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Four People Stabbed and At Least 23 Arrested at Pro-Trump Rally in D.C."
-    excerpt: "Trump demonstrators after sundown Saturday. WRC-TV reported that four people were taken to a hospital with stab wounds, and the Metropolitan Police Department told the station that 23 people were arrested."
-    publishedDateTime: 2020-12-14T02:14:00Z
-    webUrl: "https://time.com/5921156/stabbing-trump-rally-washington/"
+  - title: "GOP Sen. Cotton: Biden Will Fire Prosecutors Investigating Son 'If' He Becomes President"
+    excerpt: "\"Should Joe Biden become president, all of the prosecutors investigating Hunter Biden will be fired. There's a clear conflict of interest here– one that demands a special counsel,\" the Arkansas senator tweeted Thursday."
+    publishedDateTime: 2020-12-10T20:35:00Z
+    webUrl: "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940"
+    ampWebUrl: "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940?amp=1"
     type: article
     provider:
-      name: Time
-      domain: time.com
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1683898/mnuchin-powell-testify-cares-act.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden has chosen congresswoman Fudge for HUD secretary -Politico"
+    excerpt: "U.S. President-elect Joe Biden has selected Democratic Representative Marcia Fudge to be secretary of housing and urban development, Politico reported on Tuesday, citing two people with knowledge of the decision."
+    publishedDateTime: 2020-12-09T03:23:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-hud-fudge-idUSW1N2I903A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2I903A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2I903A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Biden's COVID-19 advisory board prepares for transition amid pandemic"
+    excerpt: "President-elect Joe Biden and his transition team will be taking responsibility for the nation's coronavirus response and the rollout of vaccines in the midst of an unprecedented health crisis. Dr. Celine Gounder,"
+    publishedDateTime: 2020-12-11T19:55:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-covid-19-advisory-board-transition-amid-pandemic/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://api.time.com/wp-content/uploads/2020/12/D.C..jpg"
-        width: 4841
-        height: 3227
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/11/e85bb149-95e7-4131-aabe-a8becbf9ef46/thumbnail/1200x630/8bd37a9a1b6735d713a5268207d8403b/cbsn-fusion-president-elect-biden-thumbnail-606376-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Most US voters don't want Trump to run in 2024 and 42% say he is 'one of the worst presidents' ever, Fox News poll finds"
-    excerpt: "Voters disapprove of President Trump's handling of COVID-19, immigration, and healthcare. When it comes to economics, Trump is viewed more positively."
-    publishedDateTime: 2020-12-12T10:29:00Z
-    webUrl: "https://www.businessinsider.com/42-trump-one-of-worst-presidents-ever-new-poll-finds-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/42-trump-one-of-worst-presidents-ever-new-poll-finds-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/42-trump-one-of-worst-presidents-ever-new-poll-finds-2020-12?amp"
+  - title: "Pennsylvania casts 20 electoral votes for Joe Biden"
+    excerpt: "Pennsylvania on Monday cast its 20 electoral votes for Democrat Joe Biden, the native son whose win in the state last month cemented his victory over President"
+    publishedDateTime: 2020-12-14T20:10:00Z
+    webUrl: "https://apnews.com/e1d2afadefa36cf2c82046be779463d1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 100
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/5fd490e39cf1420018d2f063?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://storage.googleapis.com/afs-prod/media/540f25d139ae4adaab857ee1f42b3817/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
+  - title: "Virginia cast 13 Electoral College votes for Joe Biden"
+    excerpt: "Virginia cast its 13 Electoral College votes for President-elect Joe Biden on Monday. The 13 electors gathered at the state House of Delegates for a ceremony that"
+    publishedDateTime: 2020-12-14T20:45:00Z
+    webUrl: "https://apnews.com/a8b1715cfeae0b4395ada82bb9afcc29"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Colorado Democratic Electors Cast Nine Votes for Joe Biden"
+    excerpt: "Colorado’s nine Democratic presidential electors cast their votes for Joe Biden at the state Capitol on Monday. The vote formally seals Biden’s win in Colorado, where he beat President Donald Trump by about 14 percentage points,"
+    publishedDateTime: 2020-12-14T20:10:00Z
+    webUrl: "https://www.usnews.com/news/best-states/washington-dc/articles/2020-12-14/colorado-democratic-electors-cast-nine-votes-for-joe-biden"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "T21e5GL4AYCDyHXvC26XEuptweORWW2QQZ7Fwmyl/jdJ/BNqyfVIzuWGL32Tg4bMqx6+AyJSo1HRClQSOy4ZlBtyPic18ac4y8KvN4E8GpmPB46fn8FgW27KtWz2nbKhmjirPAZmmKuufWSroBJp3goOEhyspi8VlwXuNyJho/Apybgwaxu74Ko4Y3YhpqF7lNPUMfuAxmYgz0s8z02CupAFPHsn/ZCzN1Xtmh+UeWIbJm93677bW87vW7kdC9V5XVKCduuNH89CSmZbuUDaYNVdGQnPi9YJA7w3TKsx0mlhqV0U7tttc/3/biMFypsaTqs9y31aO92/Mb7zulSOkCLJX/JthEJkgwobdH60htc=;5a2p/CV2ad/pSwP1vhFvKw=="
 ---

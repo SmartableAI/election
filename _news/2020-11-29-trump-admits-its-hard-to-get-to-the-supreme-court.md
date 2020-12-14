@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pentagon adds more Trump loyalists to Defense Policy Board"
+    excerpt: "The Pentagon has added more supporters of President Donald Trump to the Defense Policy Board following the removal of several high-profile members last month.\n    \n"
+    publishedDateTime: 2020-12-14T19:19:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6nO_D_TFpio/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/pentagon-defense-policy-board/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/pentagon-defense-policy-board/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: How Michael Flynn perfectly explains Donald Trump's presidency"
     excerpt: "Three weeks into Donald Trump's presidency, he fired Michael Flynn as his national security adviser. On Wednesday, eight weeks to the day when Trump will leave the White House, he pardoned Flynn for lying to the FBI as part of the investigation into Russian interference in the 2016 election.\n    \n"
     publishedDateTime: 2020-11-26T02:27:00Z

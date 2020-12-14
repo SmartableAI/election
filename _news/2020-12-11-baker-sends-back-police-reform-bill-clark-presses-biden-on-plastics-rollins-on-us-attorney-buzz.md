@@ -158,6 +158,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Wall Street Journal Opinion Editor Defends Item on Dr. Jill Biden"
+    excerpt: "There’s nothing like playing the race or gender card to stifle criticism,” Paul A. Gigot said as he accused Democrats of orchestrating a coordinated response to an op-ed piece."
+    publishedDateTime: 2020-12-14T17:46:00Z
+    webUrl: "https://www.nytimes.com/2020/12/13/business/media/dr-jill-biden-wall-street-journal.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/13/business/media/dr-jill-biden-wall-street-journal.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/business/media/dr-jill-biden-wall-street-journal.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/14/business/13wsj-gigot-print/13wsj-gigot-print-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Progressive Groups Urge Biden to Move Quickly on Diverse Slate of Judges"
     excerpt: "The president-elect faces pressure to install a diverse group of progressives in the courts, but the prospect of a Republican-controlled Senate looms as an obstacle."
     publishedDateTime: 2020-12-11T23:27:00Z

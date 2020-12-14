@@ -7,7 +7,7 @@ originalUrl: "https://www.politico.com/news/2020/12/14/newt-gingrich-pentagon-ad
 webUrl: "https://www.politico.com/news/2020/12/14/newt-gingrich-pentagon-advisory-board-445185"
 type: article
 quality: 115
-heat: 115
+heat: 120
 published: true
 
 provider:

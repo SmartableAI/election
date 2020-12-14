@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-09-biden-selects-marcia-l-fudge-as-hud-secretary-and-tom-vilsack-to-lead-agriculture-department.md",
+      "title": "Biden selects Marcia L. Fudge as HUD secretary and Tom Vilsack to lead Agriculture department",
+      "excerpt": "The Fudge decision, along with the naming of a Black Defense secretary-designate, occurred as Biden was pressured by organizations seeking diversity in his Cabinet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PR5O33RZWUI6XGGEEXOJ6SMH5A.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-08T16:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-trumps-election-fraud-claims-push-arizona-gop-to-ask-voters-if-they-are-willing-to-die-for-results.md",
       "title": "Trump's election-fraud claims push Arizona GOP to ask voters if they are 'willing' to die for results",
       "excerpt": "The Arizona Republican Party released a tweet Tuesday asking voters if they were “willing” to give their lives to overturn the results of the 2020 November election -- an attitude adopted after President Trump has repeatedly claimed the election was fraudulent.",
@@ -70,7 +122,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 355,
+      "heat": 375,
       "tags": null,
       "images": [
         {
@@ -178,7 +230,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-08/judge-dismisses-flynn-case-following-pardon-from-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -230,7 +282,7 @@
       "originalUrl": "https://www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -600,7 +652,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/politics-presidential-transition-news-joe-biden-donald-trump/6484311002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3650,
+      "heat": 3670,
       "tags": null,
       "images": [
         {
@@ -1285,63 +1337,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-biden-picks-california-attorney-general-xavier-becerra-to-lead-health-and-human-services.md",
-      "title": "Biden picks California Attorney General Xavier Becerra to lead Health and Human Services",
-      "excerpt": "As the nation’s next top health official, Becerra will arguably hold the most consequential Cabinet role at the outset of Biden’s new administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/biden-will-pick-california-attorney-general-xavier-becerra-lead-health-n1250170",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/biden-will-pick-california-attorney-general-xavier-becerra-lead-health-n1250170",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_32/3403124/200808-xavier-becerra-al-1014_ccd4811d1072657f57e99a351f1e4662.jpg",
-          "width": 2500,
-          "height": 1335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250170",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250170",
-      "publishedDateTime": "2020-12-07T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

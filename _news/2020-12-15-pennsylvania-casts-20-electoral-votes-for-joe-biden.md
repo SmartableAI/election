@@ -2,9 +2,9 @@
 category: news
 title: "Pennsylvania casts 20 electoral votes for Joe Biden"
 excerpt: "Pennsylvania on Monday cast its 20 electoral votes for Democrat Joe Biden, the native son whose win in the state last month cemented his victory over President"
-publishedDateTime: 2020-12-14T18:21:00Z
-originalUrl: "https://apnews.com/article/joe-biden-pennsylvania-coronavirus-pandemic-elections-harrisburg-e1d2afadefa36cf2c82046be779463d1"
-webUrl: "https://apnews.com/article/joe-biden-pennsylvania-coronavirus-pandemic-elections-harrisburg-e1d2afadefa36cf2c82046be779463d1"
+publishedDateTime: 2020-12-14T20:10:00Z
+originalUrl: "https://apnews.com/e1d2afadefa36cf2c82046be779463d1"
+webUrl: "https://apnews.com/e1d2afadefa36cf2c82046be779463d1"
 type: article
 quality: 105
 heat: -1
@@ -25,36 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "In court, Giuliani argues to block Biden win in Pennsylvania"
-    excerpt: "President Donald Trump’s personal lawyer Rudy Giuliani has gone before a federal judge to accuse Democrats in control of big cities of hatching a conspiracy to steal the election from the Republican e"
-    publishedDateTime: 2020-11-18T01:28:00Z
-    webUrl: "https://www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+  - title: "Electoral college: key states confirm Joe Biden's victory in presidential election"
+    excerpt: "Votes in Georgia, Pennsylvania, Wisconsin and Arizona effectively end Donald Trump’s long-shot attempt to overturn results"
+    publishedDateTime: 2020-12-14T20:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: The Guardian
+      domain: theguardian.com
+    quality: 134
+    images:
+      - url: "https://i.guim.co.uk/img/media/db7d3342fc6619931c02b4b619d3d79bcc7d80ce/0_120_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4c8d6ddfbba62fd7cf15141727b34de8"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Tuesday's safe harbor deadline is boost for Biden"
+    excerpt: "A deadline set Tuesday under federal law essentially locks in President-elect Joe Biden’s victory, even though President Donald Trump is still falsely claiming he won reelection"
+    publishedDateTime: 2020-12-09T12:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/safe-harbor-law-locks-congress-accepting-bidens-win-74597839"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/safe-harbor-law-locks-congress-accepting-bidens-win-74597839"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/safe-harbor-law-locks-congress-accepting-bidens-win-74597839"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e9204dca46054191810493c0d6053ca0_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Biden on verge of winning U.S. presidency, leads in Pennsylvania, Georgia"
-    excerpt: "Democrat Joe Biden stood on the verge of winning the U.S. presidency on Friday, as he expanded his narrow leads over President Donald Trump in the battleground states of Pennsylvania and Georgia three days after polls closed."
-    publishedDateTime: 2020-11-07T00:57:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27M0U5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27M0U5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27M0U5"
+  - title: "Wisconsin's 10 electors vote for Democrat Joe Biden for president"
+    excerpt: "Wisconsin's 10 electors voted for Democrat Joe Biden for president on Monday, confirming the president-elect's victory in the state in the 2020 U.S. presidential election."
+    publishedDateTime: 2020-12-14T18:46:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin/wisconsins-10-electors-vote-for-democrat-joe-biden-for-president-idUSKBN28O2LD?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O2LD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O2LD"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 124
+    quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540229634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50K9"
-        width: 846
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544537476&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD1GR"
+        width: 817
         height: 545
         isCached: true
   - title: "Supreme Court rejects GOP bid to overturn Biden's victory in Pennsylvania"
@@ -73,127 +89,80 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "U.S. Supreme Court rejects Republican challenge to Biden's Pennsylvania win"
-    excerpt: "The U.S. Supreme Court on Tuesday handed a defeat to Republicans seeking to throw out up to 2.5 million mail-in ballots in Pennsylvania as they try to undo President Donald Trump's election loss, with the justices refusing to block the state from formalizing"
-    publishedDateTime: 2020-12-09T02:56:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28I35L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I35L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I35L"
+  - title: "GOP Sen. Cotton: Biden Will Fire Prosecutors Investigating Son 'If' He Becomes President"
+    excerpt: "\"Should Joe Biden become president, all of the prosecutors investigating Hunter Biden will be fired. There's a clear conflict of interest here– one that demands a special counsel,\" the Arkansas senator tweeted Thursday."
+    publishedDateTime: 2020-12-10T20:35:00Z
+    webUrl: "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940"
+    ampWebUrl: "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1683898/mnuchin-powell-testify-cares-act.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden has chosen congresswoman Fudge for HUD secretary -Politico"
+    excerpt: "U.S. President-elect Joe Biden has selected Democratic Representative Marcia Fudge to be secretary of housing and urban development, Politico reported on Tuesday, citing two people with knowledge of the decision."
+    publishedDateTime: 2020-12-09T03:23:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-hud-fudge-idUSW1N2I903A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2I903A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2I903A"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543886187&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB71T6"
-        width: 828
-        height: 545
-        isCached: true
-  - title: "The Supreme Court has rejected Republicans' request to overturn Biden's Pennsylvania win"
-    excerpt: "The case was brought by a group of Republican state legislators in Pennsylvania and is another stinging defeat for the Trump campaign."
-    publishedDateTime: 2020-12-08T21:55:00Z
-    webUrl: "https://www.businessinsider.com/supreme-court-rejects-gops-request-to-overturn-biden-pennsylvania-win-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/supreme-court-rejects-gops-request-to-overturn-biden-pennsylvania-win-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-rejects-gops-request-to-overturn-biden-pennsylvania-win-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
-    images:
-      - url: "https://i.insider.com/5fb2e9ad1c741f0019aca1d1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Computer repairman who claimed he gave Hunter Biden data to Giuliani closes shop as laptop saga gets stranger"
-    excerpt: "Computer repairman John Paul Mac Isaac, who gave a copy of the laptop to Rudy Giuliani, shuttered his Delaware store and a neighbor said he left town."
-    publishedDateTime: 2020-11-25T00:43:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/24/hunter-biden-laptop-more-details-emerge-rudy-giuliani/6404635002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/6404635002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6404635002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/15/PWIL/dad49b08-774b-4bbb-b6bf-6e14faa8ad9b-Mac_shop.jpeg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden takes lead in Pennsylvania and Georgia, moves closer to win"
-    excerpt: "If Democratic presidential nominee Joe Biden wins Pennsylvania, the race is over. Biden's lead is also growing in Georgia, as absentee ballots are counted. Major Garrett takes a closer look."
-    publishedDateTime: 2020-11-06T23:56:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-takes-lead-in-pennsylvania-and-georgia-moves-closer-to-win/"
+    quality: 105
+  - title: "Biden's COVID-19 advisory board prepares for transition amid pandemic"
+    excerpt: "President-elect Joe Biden and his transition team will be taking responsibility for the nation's coronavirus response and the rollout of vaccines in the midst of an unprecedented health crisis. Dr. Celine Gounder,"
+    publishedDateTime: 2020-12-11T19:55:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-covid-19-advisory-board-transition-amid-pandemic/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/06/7ecae65f-0970-42d5-b0ca-e845355beb89/thumbnail/1200x630/085d5ef1de243cdcbeaa60e00584ccd1/cbsn-fusion-biden-takes-lead-in-pennsylvania-and-georgia-moves-closer-to-win-thumbnail-582812-640x360.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/11/e85bb149-95e7-4131-aabe-a8becbf9ef46/thumbnail/1200x630/8bd37a9a1b6735d713a5268207d8403b/cbsn-fusion-president-elect-biden-thumbnail-606376-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Joe Biden takes the lead in Pennsylvania and Georgia"
-    excerpt: "President Trump's path to 270 continues to narrow as more election results come in. Former Vice President Joe Biden now leads the president in both Pennsylvania and Georgia. \"Face the Nation\" moderator Margaret Brennan joined CBSN's Lana Zak to discuss that and more."
-    publishedDateTime: 2020-11-07T05:11:00Z
-    webUrl: "https://www.cbsnews.com/video/joe-biden-takes-lead-in-pennsylvania-and-georgia/"
+  - title: "Virginia cast 13 Electoral College votes for Joe Biden"
+    excerpt: "Virginia cast its 13 Electoral College votes for President-elect Joe Biden on Monday. The 13 electors gathered at the state House of Delegates for a ceremony that"
+    publishedDateTime: 2020-12-14T20:45:00Z
+    webUrl: "https://apnews.com/a8b1715cfeae0b4395ada82bb9afcc29"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Associated Press
+      domain: apnews.com
     quality: 105
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/07/60ae7f65-176e-46d9-a5dd-2831854f8ffd/thumbnail/1200x630/2e33e3d31d7c951051b6894dc930ccb8/cbsn-fusion-joe-biden-overtakes-president-trump-in-pennsylvania-and-georgia-thumbnail-583017-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "What put Biden over the edge in Pennsylvania"
-    excerpt: "Watch \"What put Biden over the edge in Pennsylvania\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-07T20:37:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201107200245-what-put-biden-over-the-edge-in-pennsylvania/"
+  - title: "Indiana Presidential Electors Award Trump, Pence 11 Votes"
+    excerpt: "Indiana’s 11 representatives to the Electoral College unanimously cast their votes Monday for President Donald Trump."
+    publishedDateTime: 2020-12-14T16:37:00Z
+    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-12-14/indiana-presidential-electors-award-trump-pence-11-votes"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/07/story_07595815_1604781064.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "UVA's Larry Sabato: Trend is very favorable to Joe Biden in Pennsylvania"
-    excerpt: "Larry Sabato, from the University of Virginia Center for Politics director, joins Shep Smith to provide insight on Pennsylvania's results."
-    publishedDateTime: 2020-11-06T01:06:00Z
-    webUrl: "https://www.cnbc.com/video/2020/11/05/uvas-larry-sabato-trend-is-very-favorable-to-joe-biden-in-pennsylvania.html"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
+  - title: "Colorado Democratic Electors Cast Nine Votes for Joe Biden"
+    excerpt: "Colorado’s nine Democratic presidential electors cast their votes for Joe Biden at the state Capitol on Monday. The vote formally seals Biden’s win in Colorado, where he beat President Donald Trump by about 14 percentage points,"
+    publishedDateTime: 2020-12-14T20:10:00Z
+    webUrl: "https://www.usnews.com/news/best-states/washington-dc/articles/2020-12-14/colorado-democratic-electors-cast-nine-votes-for-joe-biden"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106783131-UVAs-Larry-Sabato-Trend-is-very-favorable-to-Joe-Biden-in-Pennsylvania--jpg?v=1604623237"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Pennsylvania lawyers shredded Rudy Giuliani's arguments in Trump's biggest election lawsuit, calling them 'disgraceful' and 'really inventive'"
-    excerpt: "One defense lawyer described Giuliani as living in a \"fantasy world\" and said his arguments were \"disgraceful in an American courtroom.\""
-    publishedDateTime: 2020-11-18T08:31:00Z
-    webUrl: "https://www.businessinsider.com/pennsylvania-defense-lawyers-shredded-rudy-giuliani-trump-election-lawsuit-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/pennsylvania-defense-lawyers-shredded-rudy-giuliani-trump-election-lawsuit-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-defense-lawyers-shredded-rudy-giuliani-trump-election-lawsuit-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5fb451bfee44e7001ac113d8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
-secured: "+jm7fuvd2DshfBNNTaZIt1V83TDtNamstbmHabppXxaiUUHGfJL5m4x9lcMfTR5MH3FZhyj1aC81VszxUd28gD6jxH2ezTAC7aQm9HBVQXhX9ypUSkg7H7tFUJY54JcAxKGmDp/DBN1A+cZ/tgdtegAuGVr36qiTxJWrgiWQXJchL8EkMMyMhfFjdEKYe7BOpODlryVJdt924b+xnWzVkPZfSyBjHLuxet9fvSn9PzKCcU0IRL/LJxFPm8xHmfAo/LuZHuE9eujcnNtXUOtHl1Q+6TV3uop+xk3Zt6zfF9dRD5HJfsN19l2apa6ag9qmivBM2wqbUPA9eoJlswoXohRqEsDCWnn347/X9aPjq08=;1VJoIWm5TcpP0HS4EuIpqA=="
+secured: "vT0J3z22m8vfh2CsikoZ4/REVx4Z7k4+qrAwpEIZ9Zhjfa8vFkpwtQfsty4zyHp3DUKHBj0qFIfHyq1M34lw27/ZgqJk17b07iV5T92RAtMq/UGvbf1pnkpHrxfyETdKtf5CECZ5wjo0HAatqSUJz375D6Nm0AjYnWZP9HpkEvlUYTwIMYOXuJr4CfFZbxbRyxDixL90K7Q8DqdVZdwFj8JWlG92TiskuM69JwrMWtZvEz6+sPspqDzjDzm4VHMeysISmQYcNxfEInZ0RUafBLJBfcfHaDASx90m3G/66xA1nju0Fzf0LqhmPF1cllilxhWZ8Te0ilaU6g8KEu3jyAxSz1PY227YZrqIbfqndtA=;/tDwn9ikmJlPnXh9WqAcVA=="
 ---
 

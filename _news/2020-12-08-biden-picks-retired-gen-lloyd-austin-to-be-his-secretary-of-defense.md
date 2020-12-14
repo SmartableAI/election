@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's defense nominee courts Democrats amid concerns over waiver to lead the Pentagon  "
+    excerpt: "President-elect Joe Biden's team is ramping up its lobbying to win over Democratic support for a waiver that would allow Lloyd Austin to serve as the defense secretary amid concerns from the incoming President's own party about allowing another recently retired general to assume the top civilian post"
+    publishedDateTime: 2020-12-14T20:36:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/clGV7bKhBjM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/lloyd-austin-congress-outreach/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/lloyd-austin-congress-outreach/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209135821-03-biden-secretary-of-defense-announcement-1209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden set to appear with Gen. Lloyd Austin as he lobbies Democrats to back waiver for defense secretary nominee"
     excerpt: "President-elect Joe Biden will begin trying to sell his choice for defense secretary, retired Army Gen. Lloyd Austin, to congressional Democrats who are balking at the prospect of waiving the requirement that the position be filled by someone who has been out of active-duty military service for at least"
     publishedDateTime: 2020-12-09T17:50:02Z

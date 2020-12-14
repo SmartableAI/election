@@ -207,6 +207,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Progressives give Biden's Cabinet picks mixed reviews, demand more representation"
+    excerpt: "Some progressive Democrats are raising concerns about how President-elect Joe Biden's Cabinet is beginning to take shape and are demanding more representation in the incoming administration. "
+    publishedDateTime: 2020-12-14T19:08:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VWonzdVLudI/progressives-push-biden-for-more-cabinet-representation-amid-growing-frustration"
+    ampWebUrl: "https://www.foxnews.com/politics/progressives-push-biden-for-more-cabinet-representation-amid-growing-frustration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressives-push-biden-for-more-cabinet-representation-amid-growing-frustration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fcb251d9-02dd-417a-bd90-6515a31715cb/100bd5cb-8f4e-4ffb-acd5-9b84a7daf550/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "FLASHBACK: President-elect Biden pledged not to interfere with DOJ investigations in 2019"
     excerpt: "“I would not dictate who should be prosecuted or who should be exonerated,\" Biden said during a debate in Nov. 2019."
     publishedDateTime: 2020-12-10T02:54:14Z

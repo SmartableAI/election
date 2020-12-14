@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-suggests-biden-will-take-chris
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12?amp"
 type: article
 quality: 143
-heat: 283
+heat: 303
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://i.insider.com/5f1f57c2f0f4193a2a0bfda3?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Wisconsin Supreme Court upholds Biden's win, rejects Trump lawsuit"
+    excerpt: "The state Supreme Court ruled 4-3 to uphold Democrat Joe Biden's Wisconsin win Monday, handing President Donald Trump a defeat."
+    publishedDateTime: 2020-12-14T17:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/14/wisconsin-supreme-court-upholds-joe-bidens-win/6529642002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6529642002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6529642002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/23/PMJS/28642344-a2e6-45bb-af1c-6c9dfd7d982a-RECOUNT_Monday_00812.JPG?auto=webp&crop=2599,1462,x0,y171&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Republican Sen. Lamar Alexander says Trump must 'put country first' and concede to Biden"
     excerpt: "\"People can make their own judgment about whether the president's acting appropriately or not,\" Alexander told NBC News."

@@ -109,6 +109,22 @@ related:
         width: 768
         height: 434
         isCached: true
+  - title: "With executions in final days of presidency, Trump is solidifying his criminal justice legacy"
+    excerpt: "The execution of multiple prisoners by the Trump administration in its final days has the potential to be definitive for a president who often tried to paint himself as a champion of criminal justice reform."
+    publishedDateTime: 2020-12-14T20:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/14/with-executions-final-days-presidency-trump-is-solidifying-his-criminal-justice-legacy/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/14/with-executions-final-days-presidency-trump-is-solidifying-his-criminal-justice-legacy/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/14/with-executions-final-days-presidency-trump-is-solidifying-his-criminal-justice-legacy/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E7DCKOB3G4I6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 1027
+        isCached: true
 
 secured: "O4b7wN43g/y3evjMEXnMEFd365uP0+5s0CraoORO76uS3MYV6IHv6MYUwrvwBz9NYYdaIZ4LTpoUt5dEWrjI38Q7ZUK9Qf0sXKrDCorlb7d8MStkvIA0MrMoS6myvKubVStK6ucbHr18EBqdKk4leo2oh+gmI3rS4/FubuUP2J8w52/6xNoq9auTbeRGBSfBc1bxu9FJj5JVp4nujhFbTN+ghV7ythCzp3r9HPFswUqOVHbG6kFzV25PjKem9M9tt6Pm2pcEfTkI0Pqm5tYUj2knZ64su2nEI7KUYue2Zastw8VGv5FjqTEcG2I0K+eUMMSabk2P/DyvtBmD37H9ja0Bwy6uaaNEpPQgvPjJ7Hk=;dix4Q0OJWAnLF2RSYUFkFw=="
 ---

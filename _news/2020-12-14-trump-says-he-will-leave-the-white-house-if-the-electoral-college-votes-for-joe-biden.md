@@ -2887,6 +2887,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Trump-Biden transition updates: States ramp up security as electors cast ballots"
+    excerpt: "With the president and his allies continuing their pressure campaign to overturn the election, some of the battleground states where Biden won are taking additional security precautions to safeguard their electors meeting Monday."
+    publishedDateTime: 2020-12-14T19:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 135
+    images:
+      - url: "https://s.abcnews.com/images/International/biden-fauci-rt-jt-201208_1607457879671_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "'We're going to win this race': Biden predicts victory as his lead over Trump grows"
     excerpt: "Democrat Joe Biden said he was going to win the U.S. presidency as his lead grew over President Donald Trump in battleground states, although television networks held off from declaring him the victor as officials continued to count votes."
     publishedDateTime: 2020-11-07T11:31:00Z

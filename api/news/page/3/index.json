@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-12-trump-admin-offered-700m-to-911-victims-to-save-sudan-deal.md",
+      "title": "Trump admin offered $700M to 9/11 victims to save Sudan deal",
+      "excerpt": "In a last-minute pitch to save President Donald Trump's deal with Sudan, the Trump administration offered to pay victims of the Sept. 11 attacks $700 million of U.S. funds to drop their pursuit of claims against the African country,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-admin-offered-700m-911-victims-save-sudan/story?id=74672919",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-admin-offered-700m-911-victims-save-sudan/story?id=74672919",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-sudan-oval-office-gty-jc-201207_1607379112812_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-admin-offered-700m-911-victims-save-sudan/story?id=74672919",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-admin-offered-700m-911-victims-save-sudan/story?id=74672919",
+      "publishedDateTime": "2020-12-11T13:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-top-house-republican-pences-brother-join-gop-brief-asking-supreme-court-to-effectively-overturn-election.md",
+      "title": "Top House Republican, Pence’s brother join GOP brief asking Supreme Court to effectively overturn election",
+      "excerpt": "Minority Leader Kevin McCarthy (R-Calif.) added his name to the amicus brief filed in the case along with 19 other Republicans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/house-republicans-trump-biden/2020/12/11/66b4a9e2-3be4-11eb-9276-ae0ca72729be_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/house-republicans-trump-biden/2020/12/11/66b4a9e2-3be4-11eb-9276-ae0ca72729be_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZLIICR35QI6XETWVYGKOJZJXY.jpg&w=1440",
+          "width": 1440,
+          "height": 958,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/house-republicans-trump-biden/2020/12/11/66b4a9e2-3be4-11eb-9276-ae0ca72729be_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/house-republicans-trump-biden/2020/12/11/66b4a9e2-3be4-11eb-9276-ae0ca72729be_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-11T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-12-how-netflixs-the-prom-musical-was-inspired-by-mike-pence.md",
       "title": "How Netflix's 'The Prom' musical was inspired by Mike Pence",
       "excerpt": "Based on a 2018 stage musical of the same name, Ryan Murphy's highly anticipated latest directorial project premiered Friday on Netflix and in select theaters.",
@@ -345,7 +449,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/worst-place-worst-time-trump-faces-virus-spike-74673175",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1034,58 +1138,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-11-gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president.md",
-      "title": "GOP Sen. Cotton: Biden Will Fire Prosecutors Investigating Son 'If' He Becomes President",
-      "excerpt": "\"Should Joe Biden become president, all of the prosecutors investigating Hunter Biden will be fired. There's a clear conflict of interest here– one that demands a special counsel,\" the Arkansas senator tweeted Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940",
-      "originalUrl": "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1683898/mnuchin-powell-testify-cares-act.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940?amp=1",
-      "publishedDateTime": "2020-12-10T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-12-10-biden-further-slims-democratic-house-majority-with-usda-pick-despite-worries-from-some-top-democrats.md",
       "title": "Biden further slims Democratic House majority with USDA pick, despite worries from some top Democrats",
       "excerpt": "With House Democrats down to their slimmest majority in the chamber since World War II, a former chief of staff to House Speaker Nancy Pelosi is warning President-elect Joe Biden and his team to stop grabbing congressional Democrats for his incoming administration.",
@@ -1304,58 +1356,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-trump-announces-that-israel-and-morocco-will-normalize-relations.md",
-      "title": "Trump announces that Israel and Morocco will normalize relations",
-      "excerpt": "Morocco, with centuries of Jewish history, has long been rumored to be ready to establish ties with Israel after years of informal relations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/dd3c953/2147483647/strip/true/crop/5915x3863+0+40/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9d%2F58%2Fea95e0cf45a680c7a05fea261530%2Fgettyimages-1229950087.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations?_amp=true",
-      "publishedDateTime": "2020-12-10T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

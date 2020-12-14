@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/worst-place-worst-time
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/worst-place-worst-time-trump-faces-virus-spike-74673175"
 type: article
 quality: 125
-heat: 225
+heat: 205
 published: true
 
 provider:
@@ -93,15 +93,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Indiana Presidential Electors Award Trump, Pence 11 Votes"
-    excerpt: "Indiana’s 11 representatives to the Electoral College unanimously cast their votes Monday for President Donald Trump."
-    publishedDateTime: 2020-12-14T16:37:00Z
-    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-12-14/indiana-presidential-electors-award-trump-pence-11-votes"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 60
 
 secured: "rV8yOtdLujKeIjyMf+5ikXiMiH4J1kyE2VZ+05ir4kFGpL63ydAONOrZ7b1SVql8zRqGr2Sfb7VMxmsQDZoDIkOe7T3trR/svAghXU0QTJaErFr55JU+28BRKVbxI3jzA9H7hNRrr15MNobxkkCwJmExL6cI6SfPep54XKhZQghPv7XtSUfWNxn6K3IO+cBpscSHiJleSAN0tA0TVrOQelVucd53vh/34Tv00vwJRYDQJQMC5j2Are/r+jjLS98sq3GiAVaZhN6wo3SpyVprZCHPCNZCkXFSSLcia1MLk6OFE4AvzuEKiHzRssZFlWI1Uc7UIpD7mGujCp+XPTAu6z+b6dC0eGdVckl9aQuuaPk=;ZlujNu71Mj8sldkxorjmuA=="
 ---

@@ -25,33 +25,35 @@ topics:
   - Joe Biden
 
 related:
-  - title: "GOP Sen. Cotton: Biden Will Fire Prosecutors Investigating Son 'If' He Becomes President"
-    excerpt: "\"Should Joe Biden become president, all of the prosecutors investigating Hunter Biden will be fired. There's a clear conflict of interest here– one that demands a special counsel,\" the Arkansas senator tweeted Thursday."
-    publishedDateTime: 2020-12-10T20:35:00Z
-    webUrl: "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940"
-    ampWebUrl: "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940?amp=1"
+  - title: "Biden has reportedly chosen Capitol Hill staffer Katherine Tai as his US trade representative"
+    excerpt: "If she is picked, the House Ways and Means chief trade lawyer would be the first woman of color to hold the position."
+    publishedDateTime: 2020-12-10T12:22:00Z
+    webUrl: "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
     images:
-      - url: "https://d.newsweek.com/en/full/1683898/mnuchin-powell-testify-cares-act.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://i.insider.com/5fb2e9ad1c741f0019aca1d1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Biden's COVID-19 advisory board prepares for transition amid pandemic"
-    excerpt: "President-elect Joe Biden and his transition team will be taking responsibility for the nation's coronavirus response and the rollout of vaccines in the midst of an unprecedented health crisis. Dr. Celine Gounder,"
-    publishedDateTime: 2020-12-11T19:55:00Z
-    webUrl: "https://www.cbsnews.com/video/joe-biden-covid-19-advisory-board-transition-amid-pandemic/"
+  - title: "Biden to tap Katherine Tai for U.S. trade representative and Denis McDonough to head veterans affairs"
+    excerpt: "Tai would be the first Asian American woman to be USTR. McDonough was President Obama's White House chief of staff."
+    publishedDateTime: 2020-12-10T15:52:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 105
+    quality: 110
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/11/e85bb149-95e7-4131-aabe-a8becbf9ef46/thumbnail/1200x630/8bd37a9a1b6735d713a5268207d8403b/cbsn-fusion-president-elect-biden-thumbnail-606376-640x360.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/10/5dfa7453-737b-4d9a-9b23-b0401be1d262/thumbnail/1200x630/ad20fd9161a0dce85803688f7f56049e/screen-shot-2020-12-10-at-10-47-18-am.png"
         width: 1200
         height: 630
         isCached: true

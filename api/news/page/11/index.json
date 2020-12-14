@@ -2,6 +2,62 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-11-30-jonathan-turley-says-trumps-attacks-on-judges-over-election-rulings-unfair.md",
+      "title": "Jonathan Turley says Trump's attacks on judges over election rulings 'unfair'",
+      "excerpt": "G.W. University Law Professor Jonathan Turley said on Monday that President Trump's \"attacks\" against judges over their decisions on the 2020 election dispute are \"unfair.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Q-mzylnTHc/jonathan-turley-president-trump-attacks-judges-rejecting-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Q-mzylnTHc/jonathan-turley-president-trump-attacks-judges-rejecting-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jonathan-turley-president-trump-attacks-judges-rejecting-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jonathan-turley-president-trump-attacks-judges-rejecting-election.amp",
+      "publishedDateTime": "2020-11-30T05:47:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-trump-lashes-out-on-twitter-as-former-top-dhs-official-reasserts-that-election-was-secure.md",
       "title": "Trump lashes out on Twitter as former top DHS official reasserts that election was ‘secure’",
       "excerpt": "Trump turned to his Twitter feed to excoriate Christopher Krebs and \"60 Minutes,\" calling it “fake news,” and reasserting his unproven claims that the election was rigged.",
@@ -1256,62 +1312,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/donor-sues-pro-trump-group-inability-to-prove-voter-fraud.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donor-sues-pro-trump-group-inability-to-prove-voter-fraud.amp",
       "publishedDateTime": "2020-11-27T11:27:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-trump-team-removes-members-of-pentagons-defense-policy-board-including-kissinger-albright.md",
-      "title": "Trump team removes members of Pentagon's Defense Policy Board, including Kissinger, Albright",
-      "excerpt": "The Defense Department on Friday said that a number of members of its Defense Policy Board -- including former Secretaries of State Henry Kissinger and Madeleine Albright -- had been removed.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jwr-1vClAIw/trump-pentagon-defense-policy-board",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jwr-1vClAIw/trump-pentagon-defense-policy-board",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/jennifer-griffin-99438.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-pentagon-defense-policy-board.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pentagon-defense-policy-board.amp",
-      "publishedDateTime": "2020-11-27T10:44:17-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

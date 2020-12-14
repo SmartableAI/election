@@ -281,6 +281,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Nevada electors cast ballots for Biden as president"
+    excerpt: "Members of the electoral college from the state of Nevada convened on Dec. 14 to formally vote for Joe Biden as the next president of the United States."
+    publishedDateTime: 2020-12-14T19:20:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/nevada-electors-cast-ballots-for-biden-as-president/2020/12/14/b0b69daa-3288-4abf-aa03-831ed6abb888_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-14-2020/t_406d76e8f0cb4466bb284ef78086866c_name_nevada_electors.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
   - title: "Electoral College to formally vote for Joe Biden to become next president"
     excerpt: "As Electoral College members meet in each state to cast their ballots, formally affirming Joe Biden as the next president of the United States, President Trump is vowing to continue fighting the election results."
     publishedDateTime: 2020-12-14T14:54:00Z
@@ -354,6 +368,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DUZ6J4FCBVFXLBW5EWMMYJB4EA.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Michigan's Electoral College delegates cast all 16 votes for Joe Biden, Kamala Harris"
+    excerpt: "By law, Michigan delegates to the Electoral College are required to cast their votes for the winner of the popular vote."
+    publishedDateTime: 2020-12-14T20:14:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
+    ampWebUrl: "https://amp.freep.com/amp/6538683002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6538683002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 83
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/09/06/PDTF/2e56deb3-95a0-4669-884b-ee1fe94bafac-IMG_Michigan_State_Capit_1_.JPG?auto=webp&crop=3865,2174,x0,y357&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Bookies list Kamala Harris as early favorite for 2024"
     excerpt: "Elect Kamala Harris is favored by odds makers to win the 2024 presidential election, according to wagering website Odds Shark. Harris currently has +400 odds to win the next race. Harris is trailed by her running mate President-elect Joe Biden (+650) to secure the next term in the Oval Office,"
@@ -466,6 +496,6 @@ related:
         height: 315
         isCached: true
 
-secured: "YSwFFMcITD65yZxOKzZYoYi4u5rovSZLJBKmkDfaoFjTFtkuBP/eI0Z7LdAz6AZYsvM/P8hDItHmIbpbRxWnAy8hdaQMjYV2WIn4TSwUpU6MoXpgGT0xS4WhL6M/zVmkAvDV6g/xVQ+Qg18pFMvsem64Rf+DYWSIQwymv31gAXhiy+DHpc1u131k1Z1pey6L2Uiv1JGPXCAd7mwAhWYyvtxAoeyID+JnbR15ZcmtxGeWgMRFcmBrpVf5s2CV2zEB1gPfr2O5EXUtNOUPoMggADTHIEPh8c/VQfXXXAs2/+tD8D/ZUR/++bQpyYVP6ntylJB5JiMMeetJYb/mAtevbZ9itpLm8XL8NwvEbfTqLBc=;X7sZr5ACeOiUlvdGBpZauA=="
+secured: "4Yn8HCaaUdLp7dTJz0GGsc0HWZeXCyyk4pNNHGSZ+H8Pz1v/dpOvkDIp2z++OXv+7Tnqc33kGbUjC7XUiMedh8byTO4oLXyBy6JJpqiKbI56ItR3OoYewpeiPtLIA23gMlxVW6vH413QeSVWPFOROZfwUpto0QRahk/13ISbWWB06650USFIME9N3CiT4hPjzAw2PI9a5DTCrIOSptG/sieYYok3QrGKyNLLGbgJgvvarZrZK5KbQKJtcW8OKarJ+i18Do5myCgYlV2Dt4WDk0frtQgO0JXFy4jbY0Naas7CUQ5seAw8eVn1EPLsNf+HZIZ8zJtWbEpyQyLv0cBhoLOv00HC5MLsiSkxgRQuWlhhMQiR01hVz9CxFkcNXzyNpBt/AyoKrYPGvVy/wdjhou4+jdBvykLS6VCcwyp+6SlvTbtjnO05gxUTrwUuezox/tkth6/jCv4V8pjimx2bJO8V6yDSNj8l9K2okILyyg09UGC/BoDpEu9lrEwZuRWx5qhjfbGSQ3vPtFOfoNKCsw==;oEQgH5STvwaO0Y0TMXgZdA=="
 ---
 

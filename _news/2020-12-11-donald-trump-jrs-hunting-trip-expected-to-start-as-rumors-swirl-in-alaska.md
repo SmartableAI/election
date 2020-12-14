@@ -415,6 +415,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Company targeted by vote fraud claims strikes back at Trump"
+    excerpt: "The head of an electronic voting company being targeted by allies of President Donald Trump said baseless claims that it helped flip the 2020 election for Joe Biden threaten to undermine Americans’ fa"
+    publishedDateTime: 2020-12-14T18:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/company-targeted-vote-fraud-claims-strikes-back-trump-74719200"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/company-targeted-vote-fraud-claims-strikes-back-trump-74719200"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/company-targeted-vote-fraud-claims-strikes-back-trump-74719200"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Trump nominee takes seat at U.S. telecom regulator"
+    excerpt: "A senior Trump administration official who helped lead a regulatory effort seeking to rein in social media companies was sworn in to the five-member Federal Communications Commission (FCC) on Monday."
+    publishedDateTime: 2020-12-14T20:45:00Z
+    webUrl: "https://www.reuters.com/article/usa-tech-fcc-idUKKBN28O20B"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28O20B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28O20B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544515179&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD13O"
+        width: 807
+        height: 545
+        isCached: true
   - title: "Man arrested in Olympia, Wash., after pro-Trump demonstrations turn violent"
     excerpt: "Police in Washington state have arrested an armed right-wing protester on charges of first-degree assault Saturday in Olympia, the state capital, on suspicion of shooting a left-wing protester during demonstrations fueled by baseless claims that President Trump had been wrongly denied reelection."
     publishedDateTime: 2020-12-13T18:55:00Z

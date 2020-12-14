@@ -77,22 +77,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Tuesday's safe harbor deadline is boost for Biden"
-    excerpt: "A deadline set Tuesday under federal law essentially locks in President-elect Joe Biden’s victory, even though President Donald Trump is still falsely claiming he won reelection"
-    publishedDateTime: 2020-12-09T12:29:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/safe-harbor-law-locks-congress-accepting-bidens-win-74597839"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/safe-harbor-law-locks-congress-accepting-bidens-win-74597839"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/safe-harbor-law-locks-congress-accepting-bidens-win-74597839"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e9204dca46054191810493c0d6053ca0_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden selects Katherine Tai as U.S. trade representative"
     excerpt: "President-elect Joe Biden plans to nominate Katherine Tai to be U.S. trade representative, according to three people familiar with the decision. Tai, who has been the chief trade counsel on the House Ways and Means Committee since 2017,"
     publishedDateTime: 2020-12-09T23:08:00Z
@@ -261,17 +245,6 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
-  - title: "Biden has chosen congresswoman Fudge for HUD secretary -Politico"
-    excerpt: "U.S. President-elect Joe Biden has selected Democratic Representative Marcia Fudge to be secretary of housing and urban development, Politico reported on Tuesday, citing two people with knowledge of the decision."
-    publishedDateTime: 2020-12-09T03:23:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-hud-fudge-idUSW1N2I903A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2I903A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2I903A"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
     quality: 105
   - title: "Biden introduces his choice for defense secretary, Lloyd Austin"
     excerpt: "President-elect Joe Biden introduced retired Army General Lloyd Austin, his nominee to lead the Department of Defense, at a press event in Wilmington, Delaware. Austin spoke about the challenges ahead as he prepares to return to the Pentagon,"

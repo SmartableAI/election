@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-15-electoral-college-key-states-confirm-joe-bidens-victory-in-presidential-election.md",
+      "title": "Electoral college: key states confirm Joe Biden's victory in presidential election",
+      "excerpt": "Votes in Georgia, Pennsylvania, Wisconsin and Arizona effectively end Donald Trump’s long-shot attempt to overturn results",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 334,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/db7d3342fc6619931c02b4b619d3d79bcc7d80ce/0_120_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4c8d6ddfbba62fd7cf15141727b34de8",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election",
+      "publishedDateTime": "2020-12-14T12:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-as-border-numbers-increase-cbp-chief-says-us-faces-full-blown-crisis-if-trump-era-policies-end.md",
+      "title": "As border numbers increase, CBP chief says US faces 'full-blown crisis' if Trump-era policies end",
+      "excerpt": "The Trump administration announced Monday that 70,000 migrants were apprehended at the southwest border in November, a 64 percent increase compared to 2019 -- and a sign of a possible surge that Trump officials say could become a full-blown crisis if recent policies are ended.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JJAdMNRAPWQ/border-numbers-cbp-chief-crisis-policies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JJAdMNRAPWQ/border-numbers-cbp-chief-crisis-policies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2aca7c0-ec10-461f-a118-e2c9cd94e41b/4d3c9edf-8aea-4139-9828-9fed2994037d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/border-numbers-cbp-chief-crisis-policies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-numbers-cbp-chief-crisis-policies.amp",
+      "publishedDateTime": "2020-12-14T12:20:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-gingrich-among-trump-loyalists-named-to-pentagon-advisory-board.md",
       "title": "Gingrich among Trump loyalists named to Pentagon advisory board",
       "excerpt": "Chief among the new board appointees is former House Speaker Newt Gingrich, an ally of President Donald Trump. | Paul Morigi/ for Dentons The Pentagon named eight new members to the Defense Policy Board on Monday,",
@@ -14,7 +122,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 115,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -71,7 +179,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 395,
+      "heat": 415,
       "tags": null,
       "images": [
         {
@@ -1202,7 +1310,7 @@
       "originalUrl": "https://time.com/5920880/voters-joe-biden-kamala-harris/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 715,
+      "heat": 755,
       "tags": null,
       "images": [
         {
@@ -1244,114 +1352,6 @@
         "Election",
         "Joe Biden",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-scalise-not-ready-to-accept-biden-win-let-the-legal-process-play-out.md",
-      "title": "Scalise not ready to accept Biden win: 'Let the legal process play out'",
-      "excerpt": "House Minority Whip Steve Scalise, R-La., said he will continue supporting efforts challenging the election results even as the Electoral College is set to officially elect Joe Biden as the next president on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPMjJGfmt9s/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPMjJGfmt9s/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46f18e67-c1f3-4d8b-af0c-1cc8176ab6f1/e519d3ae-105a-4f1a-b174-681aa265a5e2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out.amp",
-      "publishedDateTime": "2020-12-13T08:18:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-trumps-legal-attempt-to-throw-out-votes-in-wisconsins-most-diverse-counties-smacks-of-racism-judge-says.md",
-      "title": "Trump's legal attempt to throw out votes in Wisconsin's most diverse counties 'smacks of racism,' judge says",
-      "excerpt": "Most Black Wisconsinites live in or around the two counties, Milwaukee and Dane, where the Trump legal team sort to throw out 221,000 absentee ballot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12",
-      "originalUrl": "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fd606459cf1420018d2f0ed?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12?amp",
-      "publishedDateTime": "2020-12-13T06:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/hilltv/rising/526137-sunrise-movement-leader-its
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/526137-sunrise-movement-leader-its-on-us-to-make-sure-biden-embraces-environmental?amp"
 type: article
 quality: 116
-heat: 156
+heat: 157
 published: true
 
 provider:

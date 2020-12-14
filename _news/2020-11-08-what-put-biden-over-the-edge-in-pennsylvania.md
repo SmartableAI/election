@@ -61,22 +61,6 @@ related:
         width: 846
         height: 545
         isCached: true
-  - title: "Supreme Court rejects GOP bid to overturn Biden's victory in Pennsylvania"
-    excerpt: "The high court spurned a request from Republican allies of President Trump to decertify Pennsylvania's election results."
-    publishedDateTime: 2020-12-09T12:36:00Z
-    webUrl: "https://www.cbsnews.com/news/supreme-court-rejects-pennsylvania-gop-suit-overturn-presidential-election-results/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-rejects-pennsylvania-gop-suit-overturn-presidential-election-results/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-rejects-pennsylvania-gop-suit-overturn-presidential-election-results/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 124
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/01/80c61613-2c50-466e-8bc0-c94e04340f94/thumbnail/1200x630/599c98122454d59cc8ef7b92437607ff/gettyimages-1223641796.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "U.S. Supreme Court rejects Republican challenge to Biden's Pennsylvania win"
     excerpt: "The U.S. Supreme Court on Tuesday handed a defeat to Republicans seeking to throw out up to 2.5 million mail-in ballots in Pennsylvania as they try to undo President Donald Trump's election loss, with the justices refusing to block the state from formalizing"
     publishedDateTime: 2020-12-09T02:56:00Z
@@ -152,20 +136,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/07/60ae7f65-176e-46d9-a5dd-2831854f8ffd/thumbnail/1200x630/2e33e3d31d7c951051b6894dc930ccb8/cbsn-fusion-joe-biden-overtakes-president-trump-in-pennsylvania-and-georgia-thumbnail-583017-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Pennsylvania casts 20 electoral votes for Joe Biden"
-    excerpt: "Pennsylvania on Monday cast its 20 electoral votes for Democrat Joe Biden, the native son whose win in the state last month cemented his victory over President"
-    publishedDateTime: 2020-12-14T18:21:00Z
-    webUrl: "https://apnews.com/article/joe-biden-pennsylvania-coronavirus-pandemic-elections-harrisburg-e1d2afadefa36cf2c82046be779463d1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/540f25d139ae4adaab857ee1f42b3817/3000.jpeg"
-        width: 3000
-        height: 2000
         isCached: true
   - title: "UVA's Larry Sabato: Trend is very favorable to Joe Biden in Pennsylvania"
     excerpt: "Larry Sabato, from the University of Virginia Center for Politics director, joins Shep Smith to provide insight on Pennsylvania's results."

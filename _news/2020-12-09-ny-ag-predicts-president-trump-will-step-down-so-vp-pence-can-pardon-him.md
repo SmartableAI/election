@@ -91,6 +91,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Florida Casts 29 Electoral College Votes for Trump"
+    excerpt: "Florida’s  29 Electoral College voters were cast for President Donald during a ceremony in the Senate chamber."
+    publishedDateTime: 2020-12-14T20:10:00Z
+    webUrl: "https://www.usnews.com/news/best-states/florida/articles/2020-12-14/florida-casts-29-electoral-college-votes-for-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "8VwKfV/N+uLN3DmGQpPuW+uhwU5RfwLFy+IQgMe1O30DqkW8ooiPAxV8r+P7XW8sqSSn8klPJDKquAMypguWAFtVQc3AnQQRxpst3A2kiJVIqdO079zvjqMkpJdBuM8oUJo/7lsUUVpaiPLBst9hff2LNV9niHaKO7bzgsP6PaN8L6ZDEpfd/J9Xr32lGhlz+NbelBfYGH2yhlBNZhvx0qWPX5OebZMqibNN4sgJ9YjXVaWenl3R5O0dMm302Cstz+ksYdGioKFX+n48X2LQEbM/Dbduv/D4WJAbS1Psp0Bu9UDKoMurnqNb53/uWckezEWv6ZMfD8ojo5KF6gUqlw8BiAeClm6AJ8Y0LlkOog4=;WURniq58BzIV1KqIxFwpoQ=="
 ---

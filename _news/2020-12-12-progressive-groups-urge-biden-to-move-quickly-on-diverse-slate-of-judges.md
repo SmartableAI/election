@@ -160,6 +160,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Wall Street Journal Opinion Editor Defends Item on Dr. Jill Biden"
+    excerpt: "There’s nothing like playing the race or gender card to stifle criticism,” Paul A. Gigot said as he accused Democrats of orchestrating a coordinated response to an op-ed piece."
+    publishedDateTime: 2020-12-14T17:46:00Z
+    webUrl: "https://www.nytimes.com/2020/12/13/business/media/dr-jill-biden-wall-street-journal.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/13/business/media/dr-jill-biden-wall-street-journal.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/business/media/dr-jill-biden-wall-street-journal.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/14/business/13wsj-gigot-print/13wsj-gigot-print-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Alexander: 'It looks very much like the electors will vote for Joe Biden'"
     excerpt: "Sen. Lamar Alexander (R-Tenn.) tells Chuck Todd that there shouldn't be any doubt about who won the 2020 presidential election after the Electoral College votes on Monday."
     publishedDateTime: 2020-12-13T13:47:00Z

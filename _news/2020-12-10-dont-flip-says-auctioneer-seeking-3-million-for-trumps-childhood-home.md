@@ -1808,6 +1808,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Idaho’s 4 electors cast votes for Trump and Pence"
+    excerpt: "All four of Idaho’s Republican electors on Monday cast their ballots for President Donald Trump and Vice President Mike Pence. The formal but brief ceremony at the"
+    publishedDateTime: 2020-12-14T19:55:00Z
+    webUrl: "https://apnews.com/e76e060937cfd23b9de1e70f19e7042c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 120
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "UPDATE 2-U.S. Republicans balk as Trump uses defense bill for leverage on Big Tech"
     excerpt: "President Donald Trump's threat to veto a defense bill if it does not repeal legal protections for social media companies faced stiff bipartisan opposition on Wednesday, setting the stage for a confrontation with lawmakers scrambling to pass the massive bill by year-end."
     publishedDateTime: 2020-12-03T02:35:00Z
@@ -2523,6 +2537,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Oklahoma's electors award 7 electoral votes to Trump, Pence"
+    excerpt: "Oklahoma’s seven presidential electors officially awarded the state’s electoral votes to President Donald Trump and Vice President Mike Pence on Monday during a meeting at the"
+    publishedDateTime: 2020-12-14T20:26:00Z
+    webUrl: "https://omaha.com/news/national/govt-and-politics/article_b3ee7c51-606e-59d0-8b92-2112afcc3516.html"
+    ampWebUrl: "https://omaha.com/news/national/govt-and-politics/oklahomas-electors-award-7-electoral-votes-to-trump-pence/article_b3ee7c51-606e-59d0-8b92-2112afcc3516.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/govt-and-politics/oklahomas-electors-award-7-electoral-votes-to-trump-pence/article_b3ee7c51-606e-59d0-8b92-2112afcc3516.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 90
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/6/c7/6c732ea5-ab37-510a-8865-3e068a8dc4a9/5fd7c47872b71.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Indiana presidential electors set to award state's 11 votes to Trump, Pence"
     excerpt: "A Schererville woman will make history today when she joins 537 other Americans in all 50 states and Washington, D.C. to officially elect the next president of the United States."
     publishedDateTime: 2020-12-14T13:30:00Z
@@ -2651,15 +2681,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
-  - title: "Oklahoma's Electors Award 7 Electoral Votes to Trump, Pence"
-    excerpt: "Oklahoma’s seven presidential electors have officially awarded the state’s electoral votes to President Donald Trump and Vice President Mike Pence."
-    publishedDateTime: 2020-12-14T18:06:00Z
-    webUrl: "https://www.usnews.com/news/best-states/oklahoma/articles/2020-12-14/oklahomas-electors-award-7-electoral-votes-to-trump-pence"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 60
   - title: "Trump Challenges Vote Results While Urging Turnout in Ga."
     excerpt: "President Donald Trump is pressing his grievances over losing the presidential election, using a weekend rally to spread baseless allegations of misconduct in last month’s voting in Georgia and beyond even as he pushed supporters to turn out for a pair of Republican Senate candidates in a runoff election in January."
     publishedDateTime: 2020-12-06T05:20:00Z

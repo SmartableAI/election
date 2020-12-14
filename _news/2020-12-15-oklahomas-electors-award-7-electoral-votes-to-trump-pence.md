@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Oklahoma's Electors Award 7 Electoral Votes to Trump, Pence"
-excerpt: "Oklahoma’s seven presidential electors have officially awarded the state’s electoral votes to President Donald Trump and Vice President Mike Pence."
-publishedDateTime: 2020-12-14T18:06:00Z
-originalUrl: "https://www.usnews.com/news/best-states/oklahoma/articles/2020-12-14/oklahomas-electors-award-7-electoral-votes-to-trump-pence"
-webUrl: "https://www.usnews.com/news/best-states/oklahoma/articles/2020-12-14/oklahomas-electors-award-7-electoral-votes-to-trump-pence"
+title: "Oklahoma's electors award 7 electoral votes to Trump, Pence"
+excerpt: "Oklahoma’s seven presidential electors officially awarded the state’s electoral votes to President Donald Trump and Vice President Mike Pence on Monday during a meeting at the"
+publishedDateTime: 2020-12-14T20:26:00Z
+originalUrl: "https://omaha.com/news/national/govt-and-politics/article_b3ee7c51-606e-59d0-8b92-2112afcc3516.html"
+webUrl: "https://omaha.com/news/national/govt-and-politics/article_b3ee7c51-606e-59d0-8b92-2112afcc3516.html"
+ampWebUrl: "https://omaha.com/news/national/govt-and-politics/oklahomas-electors-award-7-electoral-votes-to-trump-pence/article_b3ee7c51-606e-59d0-8b92-2112afcc3516.amp.html"
+cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/govt-and-politics/oklahomas-electors-award-7-electoral-votes-to-trump-pence/article_b3ee7c51-606e-59d0-8b92-2112afcc3516.amp.html"
 type: article
-quality: 60
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - Election
-  - Donald Trump
   - Mike Pence
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/6/c7/6c732ea5-ab37-510a-8865-3e068a8dc4a9/5fd7c47872b71.image.jpg?resize=1024%2C683"
+    width: 1024
+    height: 683
+    isCached: true
 
 related:
   - title: "Politics updates: Trump reached out to PA House speaker over election"
@@ -1807,6 +1810,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Idaho’s 4 electors cast votes for Trump and Pence"
+    excerpt: "All four of Idaho’s Republican electors on Monday cast their ballots for President Donald Trump and Vice President Mike Pence. The formal but brief ceremony at the"
+    publishedDateTime: 2020-12-14T19:55:00Z
+    webUrl: "https://apnews.com/e76e060937cfd23b9de1e70f19e7042c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 120
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "UPDATE 2-U.S. Republicans balk as Trump uses defense bill for leverage on Big Tech"
     excerpt: "President Donald Trump's threat to veto a defense bill if it does not repeal legal protections for social media companies faced stiff bipartisan opposition on Wednesday, setting the stage for a confrontation with lawmakers scrambling to pass the massive bill by year-end."
     publishedDateTime: 2020-12-03T02:35:00Z
@@ -2684,6 +2701,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "A41UYC1OPi2mbBukyrOxMZqFmfy67j3xpxqud99wD+NUFU1jdHJjx7gPZXn6CLDb4e8rAcZPp34dbLQwKql1DZZrxsH/23E2MrSarNr0P355sLJ1cHJHZyDxggVM875zAaxlo/cPDccDEsR/2Zx/cGb1Y039/Cbk/gIF9agBSerIpeH/hGvh9yUfXsNiaeO+rPv84Saup64Jj4zrRbs579L5JMw27+MZOselilAXCVUNNJoiPzTxEz1N/UZbiDXqyAe1jO4+ixShmzXAkmza6+9fSTMDoShep40bCLnvkipp/zY8xaxTvxDbn3wD+t9CVXwHKJ+CQvgnYBnrp3KxvigImBtToVcuXQdKy0o0o5Q=;v+BSAerap8m8PmOYlZ8BOQ=="
+secured: "uWtHo9FH6/461Sr9744UeYjFFoNQVlhJiUFX+zzZgEuGmETScalHT3L8H2hJsfJkDXDsThDv+iuc0x4UX9Frt/s+ekTXRHqr3C17mcbRlVFXApL2WTBO2hyBLSikJ5lhxaSBc0GaeckMt6ajp8PNTj+ePMPppXBh2Tsl0dYre9HSuZVb7QBEa79XChRLB3+HbAOdV4T2gby2e9xlwEw/DqtB2TWOfkizTTp2qIe1FlRmGSydCzYhw2YGrjnSKwrjxAXC4WOthJd5XLM2jp9PIaTOkPJaZ9Z4IG2vW+DkTRX+Ncb8h7078gYvreHEAbkXkr4zbFEpmky5QmkBQwb+8mB5+1whqXCUbDJ3tbHfvVI=;iAIN34PFN7oePCoVaf7qIQ=="
 ---
 
