@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Trump raises China concerns as reason to veto defense bill"
-excerpt: "President Donald Trump once again says he'll veto the annual defense policy bill that covers the military's budget and pay raises for service members, but this time he's citing unspecified concerns ab"
-publishedDateTime: 2020-12-13T18:30:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
+excerpt: "President Donald Trump once again says he’ll veto the annual defense policy bill that covers the military’s budget and pay raises for service members, but this time he’s citing unspecified concerns ab"
+publishedDateTime: 2020-12-13T22:41:00Z
+originalUrl: "https://www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html"
+webUrl: "https://www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_bbc3c4a1ff934f42af69979375eb3cc9_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -2568,6 +2568,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "DZZaSw+wPW6i3Zaqg36cwF2yGkUJcchcfXXrkSSSsTkcf+PZoFfNhP+0oinR7Sp8pi6n3anZ4avOv02/4ixqirsUbLEbSnw+WuD9HFuh1eTOxReteTAv2jsv9PmirSoRsxsF1HEMvT24e90JpRIG0yHL0dSIZltDKvHxbC5vcT7FLU1UuicfStNeFnNCoAMRZGwEauGUiggOHHxITS3fPdOKJZMA8XMbdoKqGjYQaSuvOhpzPTrxCYN28nzDkBNxnOtnUWSzYXMo8zRWWSPG9TJsbokftk9fso7OCAceRanRTCLOR4haFnypfXghOqHPo/ZyYQ4fCu/gpint7AxLkzBNIfrHuFq1FsHRSfQNTak=;gQRXOdjhj2PAWSbZa4Roaw=="
+secured: "FabEBf9plj9puFml+RVa+rSjHg3vU7BFOKDRM/vWyDDqJer9ocTvOjf9u6E187d3XWrfbzAK+Nuoc4VwdLfbXzgCw2rwIwT/NBjw/44AoQxRjDhidzCy5upSIYvzCBR8DFDDparT/NewfZiAhgLx8mqkjDXpCVkh4hIdDwfYNMtMcCF3t2XDCw9qnn8vK8wK6Ep0ItpNdETMg5QPCE00+ORAljtn4bRIPA2dBYxJGPZx9gdAelR9I2DHy5tu404dudclk6u5TeWwovgMXxxM1iDUxM9qZUhzzixmIYOQ2pTt/JGbUxSWzips0m2aYeUkKTcj+IcEnspvxpUTEan0q6BdFJXotpxF2Ngu/uaopYQ=;BCiIIB8ApaaAH2JQ9za7mQ=="
 ---
 

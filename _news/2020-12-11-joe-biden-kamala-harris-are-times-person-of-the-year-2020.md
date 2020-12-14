@@ -8,7 +8,7 @@ webUrl: "https://www.nj.com/news/2020/12/joe-biden-kamala-harris-are-times-perso
 ampWebUrl: "https://www.nj.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
 cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
 type: article
-quality: 90
+quality: 100
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Election
   - Kamala Harris
+  - Joe Biden
 
 images:
   - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AY6P7DXUKNHJRI5LJGZPURHWEA.JPG"
@@ -1774,6 +1775,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "V0UHOmzcOKJl1F3D2T5EEWzbpShGpo33KR0HbOl8I/FNERcQKe4Uq/DNZuKuTyLSRlPX11+uR3ySb3CwyigGmReuRFPfbF6vRRQv7kENRCC+Ni7v52kw7oZqlTju5MKAlqLY71qY95xvLpybBGUH9Ez5HIKOog2WpGDJerZcqQ6BqYP03D+MiZ8AJZCkrJbCquIMAm4irS94ZQHmBPo0YJj6D0u9FRqsMHAmgEGuhSaHDyWbKs68TJdSbMajVIJmLvHriUJx+XOyYoYHz5p1imATlPaSa3lW/oNux0ZEsGIyIBiXX2oFzgqovrzwDvXByP+66D66bPDKJ2yli1Upr5mif/1+swHci8xFW4C45So=;L8jFA8tOloRArsHHPTeM6w=="
+secured: "0DTFktJvg5bbJAsglelYi0d8BG5o0F5bGqWxCedSmFuXfNxaTuERWR9vOEOf12OEuceFj0CFeUpsiNECxDGSeY4urKrB5MGCrK8/EePVpPIwNGmxxTlvCuzv1bOCbgtdccXFl8NMR3ivMFT6LHfz90JQ/daI9ndS4NEa5HeJRqTpTSO+TVZrXnBTDgjLf5O/nAECP8OiemyGG42pMyETzaL7LAWJK0/QXnkO1mWeShtftnFEoKCtSeBPNc4wZj0fVGiZo1EG5CxlGAxpqu2DTXE3oJ1MTWXp+DFk0r7vlcpcoHSF9R7q2HMOoCZKfEE7jse7rTLW48XvxczpYp0cHitR3dd9UQ1Hh9IQnoMFzAQiRAqZ14nOkyjYsIy0iDuZsG0V+/JUZmlFNzsQ65Aq9FRm7YtRsWdb6+hrZAH1MsB6eeYjQbpBBPEAaR0tLyuVgl+1p7wXQ9E+C0AxEs1swSKv1bHDyWQP+NpdiWjbumZnLL8ib69RYXmujdMZ/sn27nBRd4+16xRoq1MDVEUDLg==;MIvguis+Tyha+qQB5fWFXw=="
 ---
 

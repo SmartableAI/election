@@ -1312,6 +1312,22 @@ related:
         width: 2056
         height: 2400
         isCached: true
+  - title: "Joe Biden, Kamala Harris are Time’s Person of the Year 2020"
+    excerpt: "Joe Biden and Kamala Harris are Time’s 2020 Person of the Year, the magazine announced Thursday night. The President-elect and Vice President-elect beat out Donald Trump again, among other finalists."
+    publishedDateTime: 2020-12-11T07:22:00Z
+    webUrl: "https://www.nj.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
+    ampWebUrl: "https://www.nj.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 100
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AY6P7DXUKNHJRI5LJGZPURHWEA.JPG"
+        width: 3295
+        height: 2197
+        isCached: true
   - title: "Kellyanne Conway: 'It looks like Joe Biden and Kamala Harris will prevail'"
     excerpt: "Kellyanne Conway, President Trump’s former adviser, counselor and campaign manager, became his latest ally to acknowledge his days in the White House are just about over during an interview Friday."
     publishedDateTime: 2020-12-05T19:12:00Z
@@ -1389,22 +1405,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/hypatia-h_8a9d9a05d2485c590cc4e2e8c3ce8904-h_8429915904bdff81983b59807763dd81.jpg?w=1024&h=576"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Joe Biden, Kamala Harris are Time’s Person of the Year 2020"
-    excerpt: "Joe Biden and Kamala Harris are Time’s 2020 Person of the Year, the magazine announced Thursday night. The President-elect and Vice President-elect beat out Donald Trump again, among other finalists."
-    publishedDateTime: 2020-12-11T07:22:00Z
-    webUrl: "https://www.nj.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
-    ampWebUrl: "https://www.nj.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AY6P7DXUKNHJRI5LJGZPURHWEA.JPG"
-        width: 3295
-        height: 2197
         isCached: true
   - title: "Joe Biden, Kamala Harris Named Time Magazine's 2020 Person Of The Year"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris were named Time magazine's Person of the Year for 2020, beating other finalists that included President Donald Trump, frontline health care workers with Dr."

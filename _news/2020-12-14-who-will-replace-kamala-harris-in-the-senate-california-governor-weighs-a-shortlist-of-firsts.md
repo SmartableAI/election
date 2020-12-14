@@ -3,8 +3,8 @@ category: news
 title: "Who Will Replace Kamala Harris in the Senate? California Governor Weighs a Shortlist of Firsts"
 excerpt: "San Francisco Mayor Gavin Newsom ordered the county to issue same-sex marriage licenses in 2004. A young gay man in his 20s at the time, Garcia called it a “light switch” that ignited his passion for public service."
 publishedDateTime: 2020-12-13T23:38:00Z
-originalUrl: "https://www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/?amp"
-webUrl: "https://www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/?amp"
+originalUrl: "https://www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/"
+webUrl: "https://www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/"
 ampWebUrl: "https://www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/?amp"
 type: article
@@ -329,6 +329,6 @@ related:
         height: 315
         isCached: true
 
-secured: "tSsIZGGJ6MHUl425B638hUrrCIjVO9x9ZmLsetmVU+5h9tMy6oEG/FFPa9/ijzltPoC5Cgmcwm6WNwf4iDulGhJ65yAVWjEnISJKiTlJywlAKv988v0hEQZBYpyKkjNAJwW+hgPjalQq9gBRI8kHTq0UuHl0SwEB3qm0z+Z4+yM+bPtplzjcLOfTR++dD1G1HKuWpi/PxtAnM/sA256htep4a5h9XzKjCvaWqqrhriHZ2auj38MPuSGjeQRIpXU5qK63Mh3xD+tOEIcZuOuZL8IibEFSdfjWYRYwcykcNv7hMTR6oE5WbOUG5Wk4tRvorca9n84ymw19p88jUrsqc4DoZlJ/uEjTDQ7GcOiGaUc=;ybGlT25v0wuw2VaGOhZQOA=="
+secured: "R1F/HZ3u4zNsxT0Y63hRdryTNLStkC7m8DwjiXWePcYwgRyju/WEZQD0wEJdYpGsbivPqrQiNQobBVVfdSAtiSAXtTgEgl46AG40zcjPuVuPdpATvvS+3QBociUB49LV2wvcPn3TEE6R5mS7SR9LXOI6HBXDgdcJ/EFEyQIj3HYsry1ypiS9plwTDaPtMBXRQmn28uNleIn539r6GP+84pMtfphW8q51ev0LabWZGNcup9h3So3SRO2FJqZtLsZrH3UFSSzTvXE6gMkLsFujAzosHVtodGPqrCdFudtRMg6i5cIlCtUyEE2e3nf21MVJn1HPfLAyQfX23S1N5Vqc3av4XGazK+zqiWVikHWPbi0=;pkDa7aPRfqRnevAlGVK9Hw=="
 ---
 

@@ -1382,20 +1382,20 @@ related:
         height: 779
         isCached: true
   - title: "Trump raises China concerns as reason to veto defense bill"
-    excerpt: "President Donald Trump once again says he'll veto the annual defense policy bill that covers the military's budget and pay raises for service members, but this time he's citing unspecified concerns ab"
-    publishedDateTime: 2020-12-13T18:30:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-raises-china-concerns-reason-veto-defense-bill-74702466"
+    excerpt: "President Donald Trump once again says he’ll veto the annual defense policy bill that covers the military’s budget and pay raises for service members, but this time he’s citing unspecified concerns ab"
+    publishedDateTime: 2020-12-13T22:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_bbc3c4a1ff934f42af69979375eb3cc9_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Chinese firms on U.S. exchanges threatened by bill headed to Trump's desk"
     excerpt: "The U.S. House of Representatives passed a law to kick Chinese companies off U.S. stock exchanges if they do not fully comply with the country's auditing rules, giving President Donald Trump one more tool to threaten Beijing with before leaving office."
