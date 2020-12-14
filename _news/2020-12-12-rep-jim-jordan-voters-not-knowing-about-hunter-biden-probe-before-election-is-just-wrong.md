@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/jim-jordan-hunter-biden-investigati
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-hunter-biden-investigation-voters-media.amp"
 type: article
 quality: 179
-heat: 699
+heat: 719
 published: true
 
 provider:
@@ -426,6 +426,22 @@ related:
     quality: 126
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Biden-Hunter-Color-correct.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Bobulinski tells Tucker Carlson that Joe Biden lied about son Hunter's business dealings"
+    excerpt: "Former Hunter Biden business partner Tony Bobulinski claimed now-President-elect Joe Biden lied about having no knowledge of his son's foreign business dealings."
+    publishedDateTime: 2020-12-11T19:57:00Z
+    webUrl: "https://www.foxnews.com/politics/flashback-bobulinski-tucker-hunter-carlson-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/flashback-bobulinski-tucker-hunter-carlson-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-bobulinski-tucker-hunter-carlson-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

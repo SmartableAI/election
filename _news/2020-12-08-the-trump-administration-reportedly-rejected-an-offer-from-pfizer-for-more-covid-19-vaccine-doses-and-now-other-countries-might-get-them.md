@@ -495,6 +495,36 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Coronavirus live news: GPs in England to start vaccinations; Trump says he is not scheduled to take vaccine"
+    excerpt: "Trump, Pence and other officials to be offered vaccine starting Monday; Although Trump has had Covid, his getting vaccinated is meant to inspire confidence in vaccine’s safety"
+    publishedDateTime: 2020-12-14T06:28:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/14/coronavirus-live-news-us-nears-300000-deaths-trump-to-be-offered-vaccine-on-monday?page=with:block-5fd705ef8f08758977b3d00e"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/14/coronavirus-live-news-us-nears-300000-deaths-trump-to-be-offered-vaccine-on-monday"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/14/coronavirus-live-news-us-nears-300000-deaths-trump-to-be-offered-vaccine-on-monday"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 107
+    images:
+      - url: "https://i.guim.co.uk/img/media/55238c6b9727cbd5a625e9759a509f2eae1622fa/0_134_4032_2419/master/4032.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=321584780e13a124f2a542f239cd6915"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump Says White House Officials Won't Be First To Receive COVID-19 Vaccine"
+    excerpt: "An administration spokesman said senior government officials would be among the first to get the vaccine, but the president himself later said that White House staff would get it later."
+    publishedDateTime: 2020-12-14T06:03:00Z
+    webUrl: "https://www.npr.org/sections/coronavirus-live-updates/2020/12/14/946142015/trump-says-white-house-officials-wont-be-first-to-receive-covid-19-vaccine"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 103
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/13/gettyimages-1230067031_wide-ce0413b079c5a9d14d96e3fb5b48ee1bfa0f4135.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Vice President Mike Pence to tour COVID vaccine facility in Bloomington next week"
     excerpt: "Vice President Mike Pence will be in Bloomington Tuesday to tour a vaccine production facility and discuss efforts to combat COVID-19"
     publishedDateTime: 2020-12-11T16:03:00Z

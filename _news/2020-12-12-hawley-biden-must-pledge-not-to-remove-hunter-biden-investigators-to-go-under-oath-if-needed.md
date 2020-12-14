@@ -429,6 +429,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Bobulinski tells Tucker Carlson that Joe Biden lied about son Hunter's business dealings"
+    excerpt: "Former Hunter Biden business partner Tony Bobulinski claimed now-President-elect Joe Biden lied about having no knowledge of his son's foreign business dealings."
+    publishedDateTime: 2020-12-11T19:57:00Z
+    webUrl: "https://www.foxnews.com/politics/flashback-bobulinski-tucker-hunter-carlson-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/flashback-bobulinski-tucker-hunter-carlson-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-bobulinski-tucker-hunter-carlson-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
     excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."
     publishedDateTime: 2020-12-13T01:28:00Z

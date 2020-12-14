@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/conway-calls-trump-effort-to-overtur
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12?amp"
 type: article
 quality: 124
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump has been blasting Georgia’s election system. Many Republicans plan to vote in the Senate runoffs anyway."
+    excerpt: "Some GOP officials have worried that the president’s baseless claims of fraud would prompt voters to skip the crucial Jan. 5 elections."
+    publishedDateTime: 2020-12-14T06:27:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-georgia-senate-runoffs-republican-voters/2020/12/11/1d32d96c-3a2f-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-georgia-senate-runoffs-republican-voters/2020/12/11/1d32d96c-3a2f-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-georgia-senate-runoffs-republican-voters/2020/12/11/1d32d96c-3a2f-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RVQ767R3JQI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 929
+        isCached: true
   - title: "The big lie that won’t die: How Trump and his allies’ favorite bogus fraud claim keeps surviving"
     excerpt: "When the history of President Trump’s failing effort to overturn the 2020 election results is written, there will be many bogus claims to chew on. But more than any other, one is emerging is the epitome of bad faith,"
     publishedDateTime: 2020-12-09T18:31:00Z

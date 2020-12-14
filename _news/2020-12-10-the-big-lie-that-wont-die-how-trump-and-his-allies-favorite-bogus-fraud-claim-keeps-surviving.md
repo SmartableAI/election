@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump has been blasting Georgia’s election system. Many Republicans plan to vote in the Senate runoffs anyway."
+    excerpt: "Some GOP officials have worried that the president’s baseless claims of fraud would prompt voters to skip the crucial Jan. 5 elections."
+    publishedDateTime: 2020-12-14T06:27:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-georgia-senate-runoffs-republican-voters/2020/12/11/1d32d96c-3a2f-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-georgia-senate-runoffs-republican-voters/2020/12/11/1d32d96c-3a2f-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-georgia-senate-runoffs-republican-voters/2020/12/11/1d32d96c-3a2f-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RVQ767R3JQI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 929
+        isCached: true
 
 secured: "xJGf8R/oeAK+hipHk7hjH5K/8MxhLX4WdI9gAVNq0DyXiPze1LEAb0bjfF8KKYGfHkF2hW1Lf+FDzkSu6SqD/Xqbu+i0aAhXAJhMUkCDE97R2VQzPStZISi3jU6gKsDcfUOwZdhw28r6k30GmiuR/VbvKeYny3OptCrS3sk8Z84RG6MyKbh78F3+Z3hS39buoVfgm2ZfWYU5S03DTzybPPxXo5J9UHoQOFxQ8Vu8qmzT1FmYqi+rbZ07LJCnKtusNZUWS99puVqk71AutaTuEOkFSARQWmyOhyqgMIjUm+EAglUJPlZ0ukIkQxkHztuylsiWGAK7IJJEg1OGaUpx+iqFkeqwvg0so7GNVBicB4U=;8ELnHlP2HlqkUInSdw/5dQ=="
 ---

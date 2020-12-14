@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-weighs-samantha-power-for-usa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-weighs-samantha-power-for-usaid-report.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 720
     isCached: true
 
-secured: "Z1kDrccWveG2SGNg4UXy5I5OC2U3fm6UL5sXOpVVne7sMpFaA/4tcUs2y11DuK/HWXMzPoLtlfiqE8BsZ2Vqq1XaojWJMt3HK3cvC4Gcz42jbFMtDD8NtH0rEmYOqLElUxAwT4P4TrBFj8lcfKnWC/mOCRGvOvaoMcqyLURJD2SS4xkx1v8yj1qC9RmNGYCY5eYLTTUmf6WJgCkLARFnDD20OOxqtXLYlMVNijXljC3AD3Ph3YYt9J7PHnzzWMrALuxbvvOHXb4+V5Ve4FW8E8G5WMl4fMHGQpLo7b2BY7oy6siR6Hh4Zxrh6gahGIuyjbEh6vjS4Domz7IId0uw1X23S3GXmXODKxmvlpB6jxM=;CNekuoElhMO51EEsUMsQXg=="
+related:
+  - title: "Biden offered Atlanta mayor position in his Cabinet, she declined: report"
+    excerpt: ""
+    publishedDateTime: 2020-12-14T05:42:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/boBhvPCOapY/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+
+secured: "QWf0u3NqPSsO18op1fp472+merye5yX1Zkk49cThzWPxsSaEUniYh0uVvKOf+d4zBXdGB2CFSTh7hzfq72v03w9QSIoZ754a3XO/BB6vPmAODEKyugDmAPUAlkmCmENAveso6TPGyXcNpH84PqSm1+iHJwyluej44uMmXbmRbCRryKy/cU62QbUyYjjbcsELMJOJvXYnIJlXuBY4pNi8I5PisaMluMC+mupSCHopPfmHhBsChlFRKX8mlYNs1UfYAppyklt6g5xk1uXjwB/RQODQJsNfsBXuNRgTw455gt98B9XCauK3zsbRtyc9jadWv9NAPRgpOnTCzN73rWCKR5rUmDRZXDVZ4fVOCYgQv9o=;v75319wHM98QsRVvF1M2yw=="
 ---
 

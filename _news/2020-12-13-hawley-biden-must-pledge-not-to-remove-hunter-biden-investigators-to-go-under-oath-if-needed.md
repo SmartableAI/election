@@ -446,6 +446,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Bobulinski tells Tucker Carlson that Joe Biden lied about son Hunter's business dealings"
+    excerpt: "Former Hunter Biden business partner Tony Bobulinski claimed now-President-elect Joe Biden lied about having no knowledge of his son's foreign business dealings."
+    publishedDateTime: 2020-12-11T19:57:00Z
+    webUrl: "https://www.foxnews.com/politics/flashback-bobulinski-tucker-hunter-carlson-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/flashback-bobulinski-tucker-hunter-carlson-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-bobulinski-tucker-hunter-carlson-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "u+4K5qdUpj3ZxAMcXWXMkaKvmxsKbAIG+MpaMvfzf4tQmVeCMV0QSKZfxWos5d+fqjcO0MaXSd/XXK6J5QwUP5OqN9YE9dJ4JcWBrttxHKkT3p5+WHa6obZPnGt0EKrN2judvlF0jjt+eVvu/CTxJzNyPzkp+gDCiCvJu4yXXKAW9TrkKx7QgVK0fWjoUby6gAlCuy6vyfI2R+ptfWua4MYqasWlAcX5M1wTgv/l7y6737Xjk/SSdD/EnoEgWVGRv8OudUUNKXIjNYuwXqGHboPdsVMKoMOR2y37kQ64P5d5yLIQGxkKRnmv7jLrm0NxbukTg25WdNOkBmMmeDLehO5pB1yHaLTTXVQLws/OALM9U+TpiiWeNvnPhTFbzfCD7wGQij0w9Hluj12bCO1eEreDpKgFnP3GuQR5Z2/Z7+B/sAtCt8VIwDN9fmUlJvidf/exj+/gaSJjfrrnAtccd25OwQ4REOteeZNjCV7ZliDESH7uuIm8QW6dImfdvy7lc5F5257NOGtB3p04QAqLbQ==;ujnypbOUbVqRAjG+6PZ5gA=="
 ---

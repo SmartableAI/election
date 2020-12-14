@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Electoral College set to seal Trump's fate -- yet again "
+    excerpt: "A constitutional ritual that is normally a little-noticed curiosity will Monday turn into a symbol of the US political system's durability while under assault from a defeated President seeking to overturn a democratic election.\n    \n"
+    publishedDateTime: 2020-12-14T05:01:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dfVUnXqwny0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/electoral-college-donald-trump-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/electoral-college-donald-trump-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201213211352-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Battles over Biden appointments signal a larger struggle over his strategy"
     excerpt: "The progressive uprising against a wide range of potential Joe Biden administration nominees reflects not only old ideological divisions among Democrats but also a new struggle over how the incoming president should advance his objectives in a closely divided Washington.\n    \n"
     publishedDateTime: 2020-12-08T05:55:49Z
