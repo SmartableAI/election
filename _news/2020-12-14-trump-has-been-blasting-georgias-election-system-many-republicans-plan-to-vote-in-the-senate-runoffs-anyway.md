@@ -47,6 +47,22 @@ related:
         width: 768
         height: 432
         isCached: true
+  - title: "Donald Trump Retweets Leading Figure in QAnon Conspiracy Theory"
+    excerpt: "The QAnon online community has recently helped to spread unfounded allegations about Dominion voting machines."
+    publishedDateTime: 2020-12-15T10:01:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-retweets-leading-figure-qanon-conspiracy-theory-1554744"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-retweets-leading-figure-qanon-conspiracy-theory-1554744?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-retweets-leading-figure-qanon-conspiracy-theory-1554744?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1686095/trump-supporter-holding-qanon-flag.jpg"
+        width: 3000
+        height: 2001
+        isCached: true
   - title: "Trump's conspiracies pose 'existential' threat to electronic voting industry -Smartmatic"
     excerpt: "Conspiracy theories about how voting machines were used to stop the re-election of Donald Trump have not just sapped Americans' faith in the democratic process - they also pose an existential threat to the market for electronic voting systems worldwide,"
     publishedDateTime: 2020-12-14T11:32:00Z

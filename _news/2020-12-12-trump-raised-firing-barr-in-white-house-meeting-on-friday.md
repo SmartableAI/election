@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/william-barr-donald-trum
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/william-barr-donald-trump-white-house-meeting/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static.politico.com/37/30/430be0e84797af6567fe75744e6a/ap20325734874531-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Inside the Right-Wing Media Bubble, Where the Myth of a Trump Win Lives On"
+    excerpt: "The Electoral College has affirmed Biden’s victory. That doesn’t mean that Trump-friendly news outlets have accepted it."
+    publishedDateTime: 2020-12-15T10:00:00Z
+    webUrl: "https://www.nytimes.com/2020/12/15/us/politics/trump-media.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/15/us/politics/trump-media.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/15/us/politics/trump-media.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/15/us/politics/15trumpmedia1/15trumpmedia1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "/yONq76rkEO92C7XbFHNoKI2csSWZoW0asVYWP1zVJm2sNvKnPqDkMxcC9M84B3Qx93fTYkVA7CA12LIstBHEyVFcIP+lnrA2KOf0F/6c+KJTRtUNIEm6UkIhqudwuKcYwc5SApk8K4C+DIaSUziM8nIOWyc4iec/IG23HFpu1GrRxBYy7MB3ho/8RPtZ6x7vbF+q6gKCYSPwaz0o2uijnNCwLkfdUHas/TiThW5y4iU6dR3qdUuo/2cqQDTy69V7Ud3dKkGZ6oR4VYdgKDqtnmhyFXty90Lt8aty7DIMTcfJGWjGwEopOwYCTkUoRUowI2gBX96D0g6ZhRDw119iKQPXSsg0zP5j9dGTiYQFmw=;RO8kDy8796Bz+CQA5l2L6A=="

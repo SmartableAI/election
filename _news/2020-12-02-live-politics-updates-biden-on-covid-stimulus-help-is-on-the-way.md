@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3782498001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3782498001"
 type: article
 quality: 125
-heat: 225
+heat: 205
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/29/USAT/00288076-ff0d-47d5-b774-babb23ac3b4a-GTY_1229788118.jpg?auto=webp&crop=4499,2531,x0,y175&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Live politics updates: Biden unveils health team; Giuliani in the hospital after testing positive for COVID"
-    excerpt: "If confirmed by the Senate, Xavier Becerra, 62, would be the first Latino to head the Department of Health and Human Services"
-    publishedDateTime: 2020-12-07T12:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/07/politics-updates-joe-biden-donald-trump-presidential-transition/3854979001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3854979001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3854979001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 107
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/02/05/USAT/aa5942fd-7582-4a29-9088-a4ed6825cfd4-AP_California_v_Trump.JPG?auto=webp&crop=4069,2303,x0,y158&format=pjpg&width=1200"
-        width: 1200
-        height: 679
         isCached: true
   - title: "Live politics updates: President-elect Biden to discuss economic crisis with workers and small-business owners"
     excerpt: "President-elect Joe Biden plans to meet online Wednesday with workers and small-business owners to discuss the economic crisis, as part of his preparations for taking office. Biden highlighted the need for more federal stimulus spending Tuesday while introducing his economics team,"

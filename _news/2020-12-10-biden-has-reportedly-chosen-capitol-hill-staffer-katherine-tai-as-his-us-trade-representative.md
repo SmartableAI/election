@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp"
 type: article
 quality: 114
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden presents new defense chief as son Hunter reveals his taxes are being investigated – as it happened"
-    excerpt: "President-elect introduces Lloyd Austin to lead US defense as news that Hunter Biden’s tax affairs are under review surfaces"
-    publishedDateTime: 2020-12-10T01:11:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd16d6d8f0892e7c1ad2d5c"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 88
 
 secured: "4VIrf4+7ErZoa6CGccqSltZQLfKRUQf+jzk1JHbsh67FczeUoxwr3EPGz2v90FKSE9276d5TDbf/2EjO+1bZ5r6yaDmzp7+zvrIiSVgBM0Qd1LNXEVd7moSeMMrwEv72TYzo7L0LYkVcbC/bB1uQAanntkix/K/IFd+pJoBTGUT0pyR/s+6pXYoPS4l0cLTNwnpnql+TGxrMxZBDjvKylm5QYOCMYgHAFHXboJMPzrkN+E0nCj89kvFTguq24cUIvVHrCtUOwpFlnseky8+2P2Cl5I9Q/46EEEYdE3a9NiG0NXw/MFHdyoj29pl4GN3oMCTHyDMK/qZ4gLD2l9054bLJEBAo9oA3tlQ+hBsXRaY=;juyGzjxPz47C5nOWrOjb6Q=="
 ---

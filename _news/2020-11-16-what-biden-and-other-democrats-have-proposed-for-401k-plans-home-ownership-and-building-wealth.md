@@ -47,22 +47,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "The Latest: Biden says his family following holiday guidance"
-    excerpt: "As Americans face the complications of holding holiday celebrations amid the ongoing pandemic, President-elect Joe Biden says he and his family are trying to navigate the same issues, with safety meas"
-    publishedDateTime: 2020-11-18T12:59:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/latest-biden-cites-trump-share-virus-plans-74239713"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/latest-biden-cites-trump-share-virus-plans-74239713"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-biden-cites-trump-share-virus-plans-74239713"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_560af5a4403c48c3b0af26ba47adb366_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden's secret weapon to fight climate change without Senate support"
     excerpt: "Welcome to Insider Energy, Business Insider's weekly energy newsletter. Sign up to get it in your inbox every Friday."
     publishedDateTime: 2020-11-20T18:32:00Z
