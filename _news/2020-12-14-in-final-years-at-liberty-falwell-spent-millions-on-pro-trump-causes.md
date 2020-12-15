@@ -304,6 +304,20 @@ related:
         width: 2500
         height: 1664
         isCached: true
+  - title: "Senate Democrats press Trump on possible vaccine shortage"
+    excerpt: "They questioned if the U.S. is facing a vaccine cliff after the administration reportedly passed up offers to buy more Pfizer doses."
+    publishedDateTime: 2020-12-15T06:29:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/senate-democrats-trump-vaccine-shortage-445226"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/2b/fe/a867da1f4174a1f95616016e1e5f/gettyimages-1230126547-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "z/o2+Y6rYHkoDBmweL9HDZ5rdtij7LGKGjNA1QYnotYFVMTLpeufZy4GZN+ZdMzh2DH+gqc4jx0vHJ1V5rC8Wgm8mzj81MM2KfqjO7PrnUPKpvcyrWLGfZSta8w8nyQAJAiNypYcc/ziYFtfUcuLGniWNfwWjH8gvKtfVpWOQa7XfNhuAOJTJxZI5cNjWdHIcICzVbIwRPgKxSQYSoQuUPx7/lV7v1W+OqK7NIKWoRPgTaHPxJHnBQeCstUyo70eK4qjFHloEu5oRwZOGAAfHeM2ExeEd1sSto3W4pMkRGhbwIx4AMRxnGDQPCTF4s9S3NtSEfzZwrvD+VmTadBRDMXcieHo5/Z6MH/shuJQ/P/Ho/vDQm0VhBU7oGzUI6ACEh3FEkp+Wm3hFJE/hHqrwg0IpPbzv9Ht6JSo9fNBRU+wMaVTKfzdI9CTLY9g5OIgUpeRcv0GzEOYyiYH8vo3BT96HCp32YI1tP+OBuMZE+pdsQ7FjAEmvfRFHCaHvwzG4grzbZrDC8Njap/4FzSiew==;y+A/34bzoY3sQW87JR0Cxg=="
 ---

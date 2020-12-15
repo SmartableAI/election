@@ -223,6 +223,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Biden addresses nation after Electoral College vote formalizes victory"
+    excerpt: "In his most forceful condemnation to date, Biden described the president's persistent efforts to reverse the election results as an \"unprecedented assault on our democracy.\" "
+    publishedDateTime: 2020-12-15T05:30:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AMgZqHXzyzA/live-updates-biden-transition-12-15-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-15-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-15-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a17aa2f0-ba7c-436f-8948-9a146dc2bc01/79f7ae1d-67c4-49af-bba8-4e4ebc9511e5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "FLASHBACK: President-elect Biden pledged not to interfere with DOJ investigations in 2019"
     excerpt: "“I would not dictate who should be prosecuted or who should be exonerated,\" Biden said during a debate in Nov. 2019."
     publishedDateTime: 2020-12-10T02:54:14Z

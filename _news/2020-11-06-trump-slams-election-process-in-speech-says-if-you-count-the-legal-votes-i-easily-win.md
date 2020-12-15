@@ -7964,6 +7964,20 @@ related:
       name: Time
       domain: time.com
     quality: 85
+  - title: "Biden Lashes Out At Trump After Election Win Confirmed"
+    excerpt: "Joe Biden said Monday that US democracy proved \"resilient\" against Donald Trump's \"abuse of power\" after the Electoral College confirmed him as the next president, shutting the door further on unprecedented efforts to overturn the results."
+    publishedDateTime: 2020-12-15T02:00:00Z
+    webUrl: "https://www.ibtimes.com/biden-lashes-out-trump-after-election-win-confirmed-3101280"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 85
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/13/us-president-donald-trump-and-president-elect-joe.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Mike Pence cancels Florida vacation to help Trump effort to overturn election"
     excerpt: "Mike Pence isn't going to Disney World anytime soon. The vice president scrapped plans for a Florida vacation so he could help lead President Donald Trump's effort to overturn President-elect Joe Biden's win in last week's election,"
     publishedDateTime: 2020-11-12T02:49:00Z

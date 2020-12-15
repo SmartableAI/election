@@ -173,6 +173,22 @@ related:
         width: 2500
         height: 1406
         isCached: true
+  - title: "Watch live: Biden delivers remarks following Electoral College victory"
+    excerpt: "President-elect Joe Biden is set to deliver remarks Monday evening following his official Electoral College victory.Electors across the country cast their votes on Monday, with California officially putting Biden over the 270 threshold."
+    publishedDateTime: 2020-12-14T23:02:00Z
+    webUrl: "https://thehill.com/video/campaign/530181-watch-live-biden-delivers-remarks-following-electoral-college-victory"
+    ampWebUrl: "https://thehill.com/video/campaign/530181-watch-live-biden-delivers-remarks-following-electoral-college-victory?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/530181-watch-live-biden-delivers-remarks-following-electoral-college-victory?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_100420getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Electoral college members meet to formally choose Biden as next president"
     excerpt: "Presidential electors are meeting across the United States on Monday to formally choose Joe Biden as the nation’s next president."
     publishedDateTime: 2020-12-14T09:20:00Z
@@ -606,6 +622,6 @@ related:
         height: 315
         isCached: true
 
-secured: "GIalpPDrdQFvpXKu25QbYup5/QiSkDCjsQuzMu9DOfkwFfnt8ejeTG4m0LGDj/gUTH414iDA86ZIXAWvE94FoISGqIiQaZLwF9UroxQpXKHJPvgBLPWAOuyzk8J+G2tFP31GafsxAdS/BjX0A4GpchCZU+sKRRkmXCez1ofIqOJkRvBvQWwAzimIiMBeMV05TnuquyVOnCuA1utQNu7wKDxf+l0ddIzHo8KbehxGuuDBwLaYo6DjbLVXsn3g9GWndWMPkZD8o/5OfHvt4Y0gj/SPwL2U4p4cQelmGX3IUiSYxO6DXU05XHNV4y5mdLkVUlFwtmf5jV2aJ7p1Q/ubsra2i6LyQi/792XzqqCTT2w=;sqr3zVv8dyIZDzZsEx/b0w=="
+secured: "veJTkZQay0L5tnOsdfa8E/qYZ+FbDrWYcqjufpnJTWJP089iTHAC7iHXs6+uKyFJe/SWApb3g4ZPlFSARA9vmRtupUPRvomXFb/ZxGEyoXGbJu/YTyoah0RoSQRDNqKg8yQH+UYLc3kvHJfEJhPeoZPG/uxZ7dStBqEpGbSciJXAQ2jFgPB+SoTWl6LBV3a51ygmaAI6npcRJDb4k8UpInCjY2cEcOUci2+l7mmnMLnDX7w2LQ/mPlS2FLfmd4bXNmJyZiorKzr67B/cXMlOPXF8Tef/tpVGvNEACdnn0DmdbAqHWwFC5q418Ne3jprLVnWHkfaF8rq1cTTwKWBxIwenAVKJM9eQA5nmJZ/U4glu7e+//WN7LlWWG7z0pcfu0gixqjIduZz+2nrsyCH/2tUFyZlINNhd/H1UvIp0lVUqhLfN33y4iJSvH0QLkDjRN4Sbde8sbd17hjCWtxORrPtYoAoCQ33PPqw7/7R7ZU65NZUx4U5A20oSCcLlBv7V18aXaw3nQMvJA64O1hAMJQ==;NG7A1Ka1Qozc25w4EI1i1A=="
 ---
 

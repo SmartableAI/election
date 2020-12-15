@@ -1,12 +1,12 @@
 ---
 category: news
 title: "U.S. Attorney General Barr steps down as Trump election defeat confirmed"
-excerpt: "U.S. Attorney General William Barr will step down next week, he said on Monday, as the Electoral College confirmed President Donald Trump's loss to Democratic President-elect Joe Biden."
-publishedDateTime: 2020-12-15T01:23:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump-barr-idUKKBN28O34R"
-webUrl: "https://www.reuters.com/article/uk-usa-trump-barr-idUKKBN28O34R"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28O34R"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28O34R"
+excerpt: "U.S. Attorney General William Barr will step down next week, he said on Monday, shortly after the Electoral College confirmed President Donald Trump's loss to Democratic President-elect Joe Biden."
+publishedDateTime: 2020-12-15T06:02:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-trump-barr-idAFKBN28O34R"
+webUrl: "https://www.reuters.com/article/uk-usa-trump-barr-idAFKBN28O34R"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28O34R"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28O34R"
 type: article
 quality: 139
 heat: -1
@@ -2810,6 +2810,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "uEiKfePyeBiikWM8bxmt0wDo9QY8qXEYriZC3D7+tZWjvZ4SMVBKyfZ5SdTqwncvjriSGnEfT4eggoRgZij+gIva8vuVhdIJL6UGf3v12jL2ff5N3QAsby6qMkDeW7zDHauWp0u+XrOXBjTJEQ3SQw/xl0ZVKsf6ntqMkG7K/lyyURNB0aHbHJlRuMUPZP298/3oFcI6SbDVOLRK0MAfosR6mXLP9vfmNbf52Tvtca7ny0rB1p5pW1jGFWr3m5OxKElu87PUJPkEfSnBxXYtAw7aSLB7oI5b9Ny6bLrB1l27ORmO++WVcHFV2QBXYeDM+SF8lG5PrRUg73uUiVDxWzHEHg7cjWkP8PlPEhsCClt/fysc9UvKlQUZ3blazRjz2YUbwGIseBbllZ/E3NulzaYTH6X7wzJEziHtvvs/NDdKDgU018QkFK+PnI/Uoywa7Bw8+by29XSaaPQfq2nS2H5xe9DjOaP4ZsblAG46gglbufHRRF5Ku6g0PKtCpzeEH1dkHIQt6P6xCt7Ad68+aA==;8LxO5IYa3Fe7DvcAsJMyOQ=="
+secured: "JJK9h5DYH2PxvvjmX8fD/Qh8OxrFuvxbjV4bs3vIbklSK6vb1ZUm3Pm2gq2wcGuSKkwdhUtVziFFqngeANCtWRc9IZw4l49HnQ263Bjqr7p9ER7C4gRrxd/TwDLjMUGYVLvHzPw35900MZQYpPC9y5onpV4H2/AHvlzhAcYCeaoIY7UJ1Vof0JxP47P90UyDUYfCUoI8HdZH3Cok6HDasNXbgFGvXrTiQZqMmz6IWBt9auQNgup1xxUnMrNlujhyZK33oAcm9HCKI8sC6GAsql02vGnPkBpsedUAl+ilyVhVWkY0CwwVtXQwAvgS5M4UzozexESWlqjYzBZ7MFYioYPD8wPL2cs5mPeJK8VDogc=;MrOP7zkd7xjUYYasZbKgXA=="
 ---
 

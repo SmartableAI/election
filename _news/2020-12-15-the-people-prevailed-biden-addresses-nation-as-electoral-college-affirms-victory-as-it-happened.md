@@ -2,9 +2,9 @@
 category: news
 title: "'The people prevailed': Biden addresses nation as electoral college affirms victory - as it happened"
 excerpt: "California – which has more electoral votes than any other state – sealed the presidency for Joe Biden"
-publishedDateTime: 2020-12-15T02:20:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd80c2b8f08a72f01adad91"
-webUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd80c2b8f08a72f01adad91"
+publishedDateTime: 2020-12-15T01:32:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd806118f08a72f01adad62"
+webUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd806118f08a72f01adad62"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates"
 type: article
@@ -91,10 +91,10 @@ related:
         isCached: true
   - title: "'Democracy prevailed,' Biden says after U.S. Electoral College confirms his win"
     excerpt: "President-elect Joe Biden delivered a forceful rebuke on Monday to President Donald Trump's attacks on the legitimacy of his victory, hours after winning the state-by-state Electoral College vote that officially determines the U."
-    publishedDateTime: 2020-12-15T01:45:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN28O0H0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28O0H0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28O0H0"
+    publishedDateTime: 2020-12-15T06:54:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/electoral-college-will-vote-monday-confirming-bidens-u-s-presidential-win-idUSKBN28O0FM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O0FM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O0FM"
     type: article
     provider:
       name: Reuters
@@ -145,6 +145,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/11/e85bb149-95e7-4131-aabe-a8becbf9ef46/thumbnail/1200x630/8bd37a9a1b6735d713a5268207d8403b/cbsn-fusion-president-elect-biden-thumbnail-606376-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Electoral College makes it official: Biden won"
+    excerpt: "The Electoral College decisively confirmed Joe Biden on Monday as the nation’s next president, ratifying his November victory in an authoritative state-by-state repudiation of President Donald Trump’s refusal to concede he had lost."
+    publishedDateTime: 2020-12-15T05:31:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/15/electoral-college-makes-official-biden-won/3901023001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/815449b8-6497-4ef2-bafa-450265f6c1b5_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Pennsylvania casts 20 electoral votes for Joe Biden"
     excerpt: "Pennsylvania on Monday cast its 20 electoral votes for Democrat Joe Biden, the native son whose win in the state last month cemented his victory over President"
@@ -204,6 +218,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "sLj7ky7TNS5hD/KZg2bWVf0oGyJhWVqY7kBA/IlNor6vjxDMx6x8SYx+XR4VIJ4GHC5MKsloF2B4fl/Ln/xdkOCuYqFby42MK9uDf/B5AAmkqr/5kq+ZEPj+M6YLp/CxtbDTBunvf5u7plY/krN3BJbSDS0oyKN5CpK9j/RFPhHPIbaXBDETj3PJEsM80FofkP3TUh7jky95oFjbu2HDWOFkIIlgwglGRJz3ZhReLSs/aa/0pgVMkf2pUApqNq7OWhuClqrw2KBZrXzLEyJxOYCQCRkKV4C0jqnPz1fqizBg31tWUOxMsriafNr/d1+wmHIuckx+aI5cRD3oBNCrU/AhLB+ok6qteUrLauJwSWl+DSkooP7yT1wwRK36lbvWP1FIwYds+TQPMftieHU1tlf56hE/+3JHDX0t5bfvkVzNyz9I5EytEyV/BIA3b0XkApyQVYMLc2Dwtl2NMPYeDetLSml/1GpUpJGiOzUuh+/CeCSZQ3nX+pc41VdlhgqysCG80k5du+iWbWNsTPqXWw==;55+2wHCLNhUimv2WBJrL5Q=="
+secured: "d5fnnId15DZO20FUT2PNAvepRjkA23dZpaWPAEmP/Y6kzVavxnCRfFxjwxxvkJ07LZhTVBXFjCRB1B+sMBiofB2NtwIiRaofrCnXFsKKhzd+TrDTw+nYCUUL5gToUhaWskrJrKNGf5ZI7aR16wHXKWCOue8oPAYGl80Fgi9ZJnRzPpOJ6RyLzhZGmyLl8V3xxGA4QcQQ36jgzYvJkVT3kAGs84nqoL7uVT/JwZcmSRBnaZp5GGqnsinl+mdQW5XruBIcdAwaBwQMQYbUfseBZSqIymzcXib/R3xm8IyAWpcJQZXlEDDmpzSf3lJW0U5k37gJbr7hFeHUf8EOBIEyAsbR05EsRI4MDnBCm2xO78ZMu3AcNlOFDfEuvzp/IyKxSQm3g8TrHCIj6FhVDJraU4+a60/Dv5by05y7UheqkVNkt4ovfNdu/Aba2ToFGQi3mpBi5MsvqSOeKmFCQmWlx0M286OpPgT8TAf2Ns/Vy1T1P8gxCRDNF946NgRE0Uip9ak6Uv7i3rMZFHo5AIhHPQ==;JeLHrkpDrav3Vj0HF2p/hw=="
 ---
 

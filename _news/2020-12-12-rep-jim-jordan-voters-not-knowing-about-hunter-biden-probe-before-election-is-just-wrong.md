@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/jim-jordan-hunter-biden-investigati
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-hunter-biden-investigation-voters-media.amp"
 type: article
 quality: 179
-heat: 659
+heat: 679
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
     quality: 170
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fcb251d9-02dd-417a-bd90-6515a31715cb/100bd5cb-8f4e-4ffb-acd5-9b84a7daf550/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Biden addresses nation after Electoral College vote formalizes victory"
+    excerpt: "In his most forceful condemnation to date, Biden described the president's persistent efforts to reverse the election results as an \"unprecedented assault on our democracy.\" "
+    publishedDateTime: 2020-12-15T05:30:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AMgZqHXzyzA/live-updates-biden-transition-12-15-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-15-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-15-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a17aa2f0-ba7c-436f-8948-9a146dc2bc01/79f7ae1d-67c4-49af-bba8-4e4ebc9511e5/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

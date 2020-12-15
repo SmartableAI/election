@@ -577,11 +577,11 @@ related:
         height: 800
         isCached: true
   - title: "U.S. Attorney General Barr steps down as Trump election defeat confirmed"
-    excerpt: "U.S. Attorney General William Barr will step down next week, he said on Monday, as the Electoral College confirmed President Donald Trump's loss to Democratic President-elect Joe Biden."
-    publishedDateTime: 2020-12-15T01:23:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-barr-idUKKBN28O34R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28O34R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28O34R"
+    excerpt: "U.S. Attorney General William Barr will step down next week, he said on Monday, shortly after the Electoral College confirmed President Donald Trump's loss to Democratic President-elect Joe Biden."
+    publishedDateTime: 2020-12-15T06:02:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-barr-idAFKBN28O34R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28O34R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28O34R"
     type: article
     provider:
       name: Reuters

@@ -7958,6 +7958,20 @@ related:
       name: Time
       domain: time.com
     quality: 85
+  - title: "Biden Lashes Out At Trump After Election Win Confirmed"
+    excerpt: "Joe Biden said Monday that US democracy proved \"resilient\" against Donald Trump's \"abuse of power\" after the Electoral College confirmed him as the next president, shutting the door further on unprecedented efforts to overturn the results."
+    publishedDateTime: 2020-12-15T02:00:00Z
+    webUrl: "https://www.ibtimes.com/biden-lashes-out-trump-after-election-win-confirmed-3101280"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 85
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/13/us-president-donald-trump-and-president-elect-joe.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Trump Slams Election Process In Speech, Says 'If You Count The Legal Votes I Easily Win'"
     excerpt: "Speaking to reporters on Thursday night, President Trump said he won the election if only legal votes are counted."
     publishedDateTime: 2020-11-06T00:31:00Z
