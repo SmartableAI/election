@@ -431,6 +431,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Barr couldn't pass Trump's loyalty test: shredding the US constitution"
+    excerpt: "The attorney general, who acted as Trump’s enforcer with apparent relish, ultimately wouldn’t help him steal an election"
+    publishedDateTime: 2020-12-15T22:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/14/bill-barr-donald-trump-resignation-us-constitution"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/14/bill-barr-donald-trump-resignation-us-constitution"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/14/bill-barr-donald-trump-resignation-us-constitution"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/064f2374ecc80effe0f8ce0230b9f76755519c6d/0_264_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f5b9b34a80210227c43d3507ec49d8d6"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Donald Trump Jr.'s Hunting Trip Expected to Start As Rumors Swirl in Alaska"
     excerpt: "In February, a week-long $150,000 \"dream hunt\" was raffled off with the winner joining Trump Jr. and his son on a yacht traveling along the Tongass National Forest coastline in southeastern Alaska."
     publishedDateTime: 2020-12-10T16:49:00Z

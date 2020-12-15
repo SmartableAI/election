@@ -1514,6 +1514,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden’s Cabinet Picks Are Good News for Kamala Harris’s 2024 Presidential Bid"
+    excerpt: "Kamala Harris is the odds-on favorite to be the Democratic presidential nominee in 2024. Joe Biden would turn 82 that year, and it’s unlikely America’s first octogenarian president would seek a second term."
+    publishedDateTime: 2020-12-15T21:09:00Z
+    webUrl: "https://www.nationalreview.com/corner/bidens-cabinet-picks-are-good-news-for-kamala-harriss-2024-presidential-bid/"
+    ampWebUrl: "https://www.nationalreview.com/corner/bidens-cabinet-picks-are-good-news-for-kamala-harriss-2024-presidential-bid/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/bidens-cabinet-picks-are-good-news-for-kamala-harriss-2024-presidential-bid/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 87
+    images:
+      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/11/joe-biden-kamala-harris-acceptance.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Biden Lashes Out At Trump After Election Win Confirmed"
     excerpt: "Joe Biden said Monday that US democracy proved \"resilient\" against Donald Trump's \"abuse of power\" after the Electoral College confirmed him as the next president, shutting the door further on unprecedented efforts to overturn the results."
     publishedDateTime: 2020-12-15T02:00:00Z

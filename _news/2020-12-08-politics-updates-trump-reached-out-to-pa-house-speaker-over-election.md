@@ -960,22 +960,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "White House refuses to follow McConnell in acknowledging Trump's election defeat – live"
-    excerpt: "Asked about the electoral college vote, Kayleigh McEnany said: ‘The president is still involved in ongoing litigation related to the election’"
-    publishedDateTime: 2020-12-15T20:38:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates?page=with:block-5fd902bb8f08b0a99da9702e"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 132
-    images:
-      - url: "https://i.guim.co.uk/img/media/e5d1fc0ed0bbfdb6beacc13c34e08674fca5a309/0_196_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4dcfd5e269a8af08321f30e77b856a81"
-        width: 600
-        height: 360
-        isCached: true
   - title: "US Covid deaths soar as Barr dismisses Trump's election conspiracy theories – live updates"
     excerpt: "US sees highest level of daily Covid deaths since April as over 180,000 new cases are recorded"
     publishedDateTime: 2020-12-02T14:24:00Z
@@ -2421,6 +2405,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "White House refuses to follow McConnell in acknowledging Trump's election defeat – live"
+    excerpt: "Asked about the electoral college vote, Kayleigh McEnany said: ‘The president is still involved in ongoing litigation related to the election’"
+    publishedDateTime: 2020-12-15T22:35:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates?page=with:block-5fd9342d8f08b0a99da972c1"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 112
   - title: "'I'd get my house bombed tonight': Pennsylvania Republican leaders details pressure to support Trump's efforts to overturn the election"
     excerpt: "Trump has run out of options to take Biden's win away, with the Supreme Court also refusing to hear a challenge to overturn Pennsylvania's results."
     publishedDateTime: 2020-12-09T22:37:00Z

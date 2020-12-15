@@ -447,6 +447,22 @@ related:
         width: 807
         height: 545
         isCached: true
+  - title: "Barr couldn't pass Trump's loyalty test: shredding the US constitution"
+    excerpt: "The attorney general, who acted as Trump’s enforcer with apparent relish, ultimately wouldn’t help him steal an election"
+    publishedDateTime: 2020-12-15T22:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/14/bill-barr-donald-trump-resignation-us-constitution"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/14/bill-barr-donald-trump-resignation-us-constitution"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/14/bill-barr-donald-trump-resignation-us-constitution"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/064f2374ecc80effe0f8ce0230b9f76755519c6d/0_264_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f5b9b34a80210227c43d3507ec49d8d6"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Man arrested in Olympia, Wash., after pro-Trump demonstrations turn violent"
     excerpt: "Police in Washington state have arrested an armed right-wing protester on charges of first-degree assault Saturday in Olympia, the state capital, on suspicion of shooting a left-wing protester during demonstrations fueled by baseless claims that President Trump had been wrongly denied reelection."
     publishedDateTime: 2020-12-13T18:55:00Z

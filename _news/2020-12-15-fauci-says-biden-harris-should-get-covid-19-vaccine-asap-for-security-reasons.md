@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/fauci-biden-harris-covid-19-vaccine
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-biden-harris-covid-19-vaccine-asap-security-reasons.amp"
 type: article
 quality: 195
-heat: 235
+heat: 275
 published: true
 
 provider:
@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden urges Americans to sit out inauguration to stop spread of coronavirus"
+    excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the festivities will be heavily pared down and urged supporters not to come to the White House to prevent the spread of COVID-19. "
+    publishedDateTime: 2020-12-15T22:08:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AmeFXjlv_8w/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c3bd447-8a3b-48ca-855f-1905ec761300/f9d04390-711f-4fdc-ae12-5d8d954e431c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "McConnell congratulates Joe Biden, Kamala Harris on election win from Senate"
     excerpt: "Senate Majority Leader Mitch McConnell on Tuesday congratulated President-elect Joe Biden on his victory following the Electoral College’s vote on Monday. “The Electoral College has"
     publishedDateTime: 2020-12-15T15:52:00Z
@@ -63,6 +79,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/mcconnell-biden.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden urges Americans to sit out inauguration to stop spread of coronavirus"
+    excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the festivities will be heavily pared down and urged supporters not to come to the White House to prevent the spread of COVID-19."
+    publishedDateTime: 2020-12-15T22:25:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c3bd447-8a3b-48ca-855f-1905ec761300/f9d04390-711f-4fdc-ae12-5d8d954e431c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "BQeq6iPkRxMXmin5Y4XpdWdXo/raNJxR1eLXZNuxiLOFybOQRQNP0kOPtZEbX74ocHRC223fJZkvbcvgZaobiU43AMuJgAQ3l3u2yAunwCe/96iiy6qvEJdtb5f8irImmgyIWSgEHXg5pEqqG6lBPgh6VcqTviHGGspxTpkoCdiI/TPSZto/edsvDcsmF0zjgZvQePs7ii65c1k+M14xQM50mDPTSBd004+JJiNytvBw+2Te0M1bys15ZJEDCHi01WRCVh0etIQ0+1AheeGrTjjDCNPSd3FtVEnAJQp4AizqltsAgT7QMNfJhPhbXwIRWmz3phROctlUrnjDjbUkdd5tZ+FsRokoQZtibvspSR0=;4afalvt+CUJD4msvbyAVJg=="

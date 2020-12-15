@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden blasts Georgia's GOP senators, saying they 'stood by' as Trump tried to undo state's election results"
+    excerpt: "President-elect Joe Biden on Tuesday slammed Georgia's two Republican senators, saying that David Perdue and Kelly Loeffler \"stood by\" and \"fully embraced nullifying nearly 5 million Georgia votes.\"\n    \n"
+    publishedDateTime: 2020-12-15T21:56:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-qcex_sgv64/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/biden-campaigns-in-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/biden-campaigns-in-georgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215160833-01-biden-georgia-1215-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump pressured Georgia governor in call to help overturn Biden's win in state"
     excerpt: "President Donald Trump on Saturday called Georgia Gov. Brian Kemp, pushing him to convince state legislators to overturn President-elect Joe Biden's win in the state.\n    \n"
     publishedDateTime: 2020-12-05T20:02:44Z
@@ -156,6 +172,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109123506-03-concession-speech-gore-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Dozens of members of Congress call on Biden to end the federal death penalty"
+    excerpt: "More than three dozen members of Congress are calling on Joe Biden's incoming administration to prioritize abolishing the death penalty in all jurisdictions, according to a letter sent Tuesday to the transition team for the President-elect and Vice President-elect Kamala Harris.\n    \n"
+    publishedDateTime: 2020-12-15T22:07:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IVo3QZQXexM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/death-penalty-congress-letter-pressley/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/death-penalty-congress-letter-pressley/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200828115424-06-march-on-washington-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

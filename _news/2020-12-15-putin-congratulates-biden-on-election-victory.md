@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/putin-congratulates-biden-on-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp"
 type: article
 quality: 190
-heat: 1310
+heat: 1350
 published: true
 
 provider:
@@ -332,6 +332,38 @@ related:
     quality: 175
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/samantha-power.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden tries out for new role in Georgia: Party leader"
+    excerpt: "Biden has some motivation in his trip to Georgia Tuesday."
+    publishedDateTime: 2020-12-15T21:01:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q2vtr33jvR8/biden-tries-out-for-new-role-in-georgia-party-leader"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tries-out-for-new-role-in-georgia-party-leader.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tries-out-for-new-role-in-georgia-party-leader.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "BLM doesn't want Biden to consider LA mayor to join administration"
+    excerpt: "Black Lives Matter supporters on Tuesday protested for the 22nd consecutive day outside the residence of Los Angeles Mayor Eric Garcetti to demand that his name be dropped from consideration for a Cabinet pick within Joe Biden’s administration."
+    publishedDateTime: 2020-12-15T20:59:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lOTMaa-bE8A/blm-protests-outside-la-mayor-garcetti-home-biden-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/blm-protests-outside-la-mayor-garcetti-home-biden-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blm-protests-outside-la-mayor-garcetti-home-biden-admin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc00411e-37d4-453b-b1d8-e57fe5cc7500/16f94411-373d-4d7c-b1d2-cc050a5e12f0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

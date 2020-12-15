@@ -60,6 +60,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden urges Americans to sit out inauguration to stop spread of coronavirus"
+    excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the festivities will be heavily pared down and urged supporters not to come to the White House to prevent the spread of COVID-19. "
+    publishedDateTime: 2020-12-15T22:08:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AmeFXjlv_8w/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c3bd447-8a3b-48ca-855f-1905ec761300/f9d04390-711f-4fdc-ae12-5d8d954e431c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden urges Americans to sit out inauguration to stop spread of coronavirus"
+    excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the festivities will be heavily pared down and urged supporters not to come to the White House to prevent the spread of COVID-19."
+    publishedDateTime: 2020-12-15T22:25:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c3bd447-8a3b-48ca-855f-1905ec761300/f9d04390-711f-4fdc-ae12-5d8d954e431c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "0wUniZIFpwyf18AcB8um3OKQcxMdhEO1ZUKAu5rMPeU17KJHoGhu8yn6xCeBw5+fJ4iLSV+VFhNjt1bjzEOlOz0afSrNkOhTLfimriW8KSjLW5Jaagd9j6lDrtXAkvffnXChKlMvhRKTMwdzKMbFeemUjiCC8tL+vKPFDBpNjSIQbz3Rtjhiz6DhWrWWrpIaDKxjYBP3iJEwLBh1/br36VIShRhO0zPTrw4+slR2beDW/llGKWofXEJ3RmExPm5RPkBazdZdBfU+eTCJg7QUbzFiJg+AXViw/pulp+jQx97IhmCYnotUcC18Axr3Ou5vAikabgLRdMIRv0TxTFPp+EM9RBqqDDaFCzjeLOZvS/E=;aWw1RZdW7wbNrq+3LI5xjw=="
 ---

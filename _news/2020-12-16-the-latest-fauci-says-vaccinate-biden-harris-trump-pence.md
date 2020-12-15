@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccin
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 190
-heat: 2570
+heat: 2590
 published: true
 
 provider:
@@ -1503,6 +1503,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DUZ6J4FCBVFXLBW5EWMMYJB4EA.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Biden’s Cabinet Picks Are Good News for Kamala Harris’s 2024 Presidential Bid"
+    excerpt: "Kamala Harris is the odds-on favorite to be the Democratic presidential nominee in 2024. Joe Biden would turn 82 that year, and it’s unlikely America’s first octogenarian president would seek a second term."
+    publishedDateTime: 2020-12-15T21:09:00Z
+    webUrl: "https://www.nationalreview.com/corner/bidens-cabinet-picks-are-good-news-for-kamala-harriss-2024-presidential-bid/"
+    ampWebUrl: "https://www.nationalreview.com/corner/bidens-cabinet-picks-are-good-news-for-kamala-harriss-2024-presidential-bid/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/bidens-cabinet-picks-are-good-news-for-kamala-harriss-2024-presidential-bid/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 87
+    images:
+      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/11/joe-biden-kamala-harris-acceptance.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Joe Biden and Kamala Harris's Inauguration: What You Need to Know About the Event"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are quickly approaching the moment when they'll be able to drop \"elect\" from their titles. Both Biden and Harris are set to be sworn into their posts at an inauguration ceremony unlike any other this January."

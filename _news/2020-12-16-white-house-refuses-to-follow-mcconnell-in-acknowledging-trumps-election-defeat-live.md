@@ -2,13 +2,13 @@
 category: news
 title: "White House refuses to follow McConnell in acknowledging Trump's election defeat – live"
 excerpt: "Asked about the electoral college vote, Kayleigh McEnany said: ‘The president is still involved in ongoing litigation related to the election’"
-publishedDateTime: 2020-12-15T20:38:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates?page=with:block-5fd902bb8f08b0a99da9702e"
-webUrl: "https://www.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates?page=with:block-5fd902bb8f08b0a99da9702e"
+publishedDateTime: 2020-12-15T22:35:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates?page=with:block-5fd9342d8f08b0a99da972c1"
+webUrl: "https://www.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates?page=with:block-5fd9342d8f08b0a99da972c1"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
 type: article
-quality: 132
+quality: 112
 heat: -1
 published: false
 
@@ -23,12 +23,6 @@ provider:
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://i.guim.co.uk/img/media/e5d1fc0ed0bbfdb6beacc13c34e08674fca5a309/0_196_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4dcfd5e269a8af08321f30e77b856a81"
-    width: 600
-    height: 360
-    isCached: true
 
 related:
   - title: "Politics updates: Trump reached out to PA House speaker over election"
@@ -2925,6 +2919,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "ga9ZL+nCt4pah0nZbeRl4RziOzA+qOWWnEBYZd2WhLT1+jRV4vOaJuXKUdobtj2TdrbD6f5qbE8Tk2OoTjoCn8djz2QOsK07RH0fhHu8Xhc1DsBlVvNOq/31kssym7hmLJAEGv6aVCPAUJ/hu1RtU5r0QzY4RBfTzjZTfOsN6zazqvNm7sfF/doKpQQT62Xn5dWI/TxVQ8dt8J7VTzs6PfiP9jToYO1JFOHt3/ORa7SfowG+88hBHgGrGGhTmMO/1lDYWXuUrQn2mG2TTPqHzdYzRAc/5cbNHlCCo56KILTDNO6qUwa7LsEh+UwEOlcoyEP88DB70S+vQ2ubQPgGpuBb5rBxRSAnsGU8y3oM5m4=;uQ1TjsErexFbfG9PDhoTSg=="
+secured: "tYiUhzjDj+fWgnMz0+F1J4PpBafrZ/HOOWe4i4QCnNEePZw6SAw3faAPReOlqYLiAVzQLO+M9F9LPkpWhTPNcsDyJKbzZg2pFABqTwjSYrXRibABXCCa1klgSTWLVYgxl5j1KNwHDe/7Bd+E3P3fzFlQ/I1HWNeW+1VEAlIqkWXuEi3VNGdr7uELCLb3aNmCiDJyQ9MiB9MwlTUOozXSZ32lWB+pjandh/DKQKqpuWDMhh/5cRKkDVsteUhfLDMoiE1pJKXDj9CW6eNaH1TektM8Uk4ChUemPbTgEA81ALMvg89Q/msn0HKkdZAZo8LmGKgmVjcBfj1guLhmznhRTM8LyYZ71yekRpemUoZtr1w=;j/HxgdnB05jiEZSlvvwUZg=="
 ---
 

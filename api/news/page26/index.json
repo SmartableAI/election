@@ -2,135 +2,23 @@
   "page": 26,
   "value": [
     {
-      "path": "_news/2020-10-28-ex-trump-campaign-aide-presidents-reelection-bid-is-working-against-free-speech-and-democracy.md",
-      "title": "Ex-Trump campaign aide: President's reelection bid is working against 'free speech and democracy'",
-      "excerpt": "A former Trump campaign official excoriated President Donald Trump's reelection bid Wednesday, insisting that his team has \"worked very much against free speech and democracy.\"\n    \n",
+      "path": "_news/2020-11-06-trump-likely-to-run-again-in-2024-if-he-loses-mick-mulvaney.md",
+      "title": "Trump 'likely' to run again in 2024 if he loses: Mick Mulvaney",
+      "excerpt": "Trump's former acting White House chief of staff Mick Mulvaney says the president isn't ready to bow out of politics.",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4YK8LbzWUJQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4YK8LbzWUJQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 277,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201028172941-jessica-denson-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/28/politics/jessica-denson-trump-campaign-aide-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/jessica-denson-trump-campaign-aide-cnntv/index.html",
-      "publishedDateTime": "2020-10-28T16:45:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-white-houses-stephen-miller-warns-of-nationwide-catch-and-release-if-biden-is-elected.md",
-      "title": "White House’s Stephen Miller warns of ‘nationwide catch and release’ if Biden is elected",
-      "excerpt": "White House adviser Stephen Miller on Wednesday warned of a policy of “nationwide catch and release” if Democratic nominee Joe Biden is elected to the White House -- painting a stark contrast with the Trump administration’s stance on immigration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DdvQtG7DGdQ/stephen-miller-nationwide-catch-and-release-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DdvQtG7DGdQ/stephen-miller-nationwide-catch-and-release-biden",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OdNWRORgN_Y/trump-2024-mick-mulvaney",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OdNWRORgN_Y/trump-2024-mick-mulvaney",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 166,
+      "heat": 155,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b530d401-035d-4417-afe9-6328f16ac9d0/c7bd7582-9739-4393-9db4-069bf0b51ebb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/stephen-miller-nationwide-catch-and-release-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-nationwide-catch-and-release-biden.amp",
-      "publishedDateTime": "2020-10-28T14:46:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-ben-shapiro-calls-biden-a-gateway-drug-to-radicalism-not-a-return-to-normalcy.md",
-      "title": "Ben Shapiro calls Biden a 'gateway drug to radicalism', not a return to normalcy",
-      "excerpt": "Joe Biden has based his presidential campaign on a promise to restore \"normalcy\" if he unseats President Trump, but the former vice president will act as nothing more than \"a gateway drug to radicalism,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ben-shapiro-biden-gateway-drug-radicalism",
-      "originalUrl": "https://www.foxnews.com/media/ben-shapiro-biden-gateway-drug-radicalism",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ceee29d0-c3c3-44ce-bfe5-fc7de7e56021/ace30db7-d411-4eb0-8ba1-fad27222a5e3/1280x720/match/image.jpg",
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/trump-Mick-Mulvaney.jpg",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -142,7 +30,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T13:35:00-07:00",
+      "publishedDateTime": "2020-11-06T09:54:08-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -166,26 +54,25 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     },
     {
-      "path": "_news/2020-10-29-anonymous-is-former-dhs-official-who-has-openly-opposed-trump.md",
-      "title": "\"Anonymous\" is former DHS official who has openly opposed Trump",
-      "excerpt": "The identity of a senior official in the Trump administration who wrote a New York Times op-ed about working against President Trump's \"worst inclinations\" has remained anonymous until now. The person who wrote the op-ed is Miles Taylor,",
+      "path": "_news/2020-11-07-republican-sen-pat-toomey-says-trumps-claims-of-large-scale-fraud-and-theft-of-the-election-are-just-not-substantiated.md",
+      "title": "Republican Sen. Pat Toomey says Trump's claims of 'large-scale fraud and theft of the election are just not substantiated'",
+      "excerpt": "Following Trump's claims of voter fraud and theft, Republican officials and former Trump associates are in disagreement.",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/anonymous-trump-critic-revealed/",
-      "originalUrl": "https://www.cbsnews.com/news/anonymous-trump-critic-revealed/",
+      "webUrl": "https://www.businessinsider.com/gop-senator-from-pennsylvania-says-trumps-claims-fraud-not-substantiated-2020-11",
+      "originalUrl": "https://www.businessinsider.com/gop-senator-from-pennsylvania-says-trumps-claims-fraud-not-substantiated-2020-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2019/10/22/812459fd-84cf-4dbf-a7de-e8a43424a224/thumbnail/1200x630/12f84b52ee8edd82c120ff8a4d47dbdc/gettyimages-672492960-copy.jpg",
+          "url": "https://i.insider.com/5fa57b22f7d1cb0019e3a399?width=1200&format=jpeg",
           "width": 1200,
-          "height": 630,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -193,16 +80,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/anonymous-trump-critic-revealed/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/anonymous-trump-critic-revealed/",
-      "publishedDateTime": "2020-10-28T13:16:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/gop-senator-from-pennsylvania-says-trumps-claims-fraud-not-substantiated-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-senator-from-pennsylvania-says-trumps-claims-fraud-not-substantiated-2020-11?amp",
+      "publishedDateTime": "2020-11-06T09:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -223,188 +110,23 @@
       ]
     },
     {
-      "path": "_news/2020-10-29-doesnt-that-make-me-a-smart-guy-trump-defends-chicago-business-deals-after-nyt-report.md",
-      "title": "‘Doesn’t that make me a smart guy?’: Trump defends Chicago business deals after NYT report",
-      "excerpt": "The president’s latest tweet closely resembles other arguments he has employed in response to news accounts of his financial records.",
+      "path": "_news/2020-11-06-trump-touts-gains-with-minorities-and-women-were-the-party-of-inclusion.md",
+      "title": "Trump touts gains with minorities and women: 'We're the party of inclusion'",
+      "excerpt": "President Trump touting his party’s gains with women and minorities, declared the Republican Party the “party of inclusion” in a news conference Thursday. ",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/28/trump-chicago-business-deals-nyt-report-433198",
-      "originalUrl": "https://www.politico.com/news/2020/10/28/trump-chicago-business-deals-nyt-report-433198",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/96/b8/f71768494a18998a63f902da97c6/201028-trump-tower-chicago-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-chelsea-handler-says-50-cent-wasnt-serious-about-supporting-trump.md",
-      "title": "Chelsea Handler says 50 Cent 'wasn't serious' about supporting Trump",
-      "excerpt": "Comedian Chelsea Handler details a phone call she had with rapper 50 Cent on \"The View\" after he expressed support for Pres. Trump and then renounced it.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Entertainment/chelsea-handler-50-cent-wasnt-supporting-trump/story?id=73881032",
-      "originalUrl": "https://abcnews.go.com/Entertainment/chelsea-handler-50-cent-wasnt-supporting-trump/story?id=73881032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/ChelseaHandler_1603906784512_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/chelsea-handler-50-cent-wasnt-supporting-trump/story?id=73881032",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/chelsea-handler-50-cent-wasnt-supporting-trump/story?id=73881032",
-      "publishedDateTime": "2020-10-28T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-ari-fleischer-biden-is-taking-advantage-of-a-broken-down-media-that-is-biased-against-trump.md",
-      "title": "Ari Fleischer: Biden is 'taking advantage of' a 'broken-down media' that is 'biased against Trump'",
-      "excerpt": "The Biden campaign is \"taking advantage\" of the media bias against President Trump to keep the controversy surrounding former Vice President Joe Biden's son Hunter out of the spotlight, former White House Press Secretary Ari Fleischer claimed Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pj5ZGug0TOo/ari-fleischer-biden-taking-advantage-broken-down-media",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pj5ZGug0TOo/ari-fleischer-biden-taking-advantage-broken-down-media",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xvg69Ti-dgI/trump-party-of-inclusion",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xvg69Ti-dgI/trump-party-of-inclusion",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 236,
+      "heat": 173,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ari-fleischer-biden-taking-advantage-broken-down-media.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-biden-taking-advantage-broken-down-media.amp",
-      "publishedDateTime": "2020-10-28T12:36:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-trump-philadelphia-police-shooting-a-terrible-event-but-rioting-comes-from-group-joe-biden-supports.md",
-      "title": "Trump: Philadelphia police shooting a 'terrible event,' but rioting comes from group Joe Biden 'supports'",
-      "excerpt": "President Trump called on Democrats in Philadelphia to crack down on recent rioting, and blamed Joe Biden for not condemning the unrest strongly enough. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fRiwxoXz5tY/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fRiwxoXz5tY/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3de87600-dbcb-4a99-96cb-260adff5cd13/76b665ff-3f3c-446c-a671-d8b9ba729f56/1280x720/match/image.jpg",
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f2655c9-ae5d-4607-94a3-33e61a24b66c/648337d5-952b-4c9a-8f58-2469df653a0f/1280x720/match/image.jpg",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -414,9 +136,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports.amp",
-      "publishedDateTime": "2020-10-28T12:25:54-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-party-of-inclusion.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-party-of-inclusion.amp",
+      "publishedDateTime": "2020-11-05T16:56:51-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -444,123 +166,19 @@
       ]
     },
     {
-      "path": "_news/2020-10-29-whitmer-on-trumps-response-to-kidnapping-plot-i-dont-think-its-funny.md",
-      "title": "Whitmer on Trump's response to kidnapping plot: \"I don't think it's funny\"",
-      "excerpt": "Michigan Governor Gretchen Whitmer said his response to the plot against her \"tells you everything you need to know about the character of this president.\"",
+      "path": "_news/2020-11-06-watch-live-biden-speaks-from-delaware.md",
+      "title": "Watch live: Biden speaks from Delaware",
+      "excerpt": "Democratic presidential candidate Joe Biden delivers remarks from Wilmington, Del.The event is scheduled to begin at 4:15 p.m.Watch the live video above.",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/gretchen-whitmer-trump-response-kidnapping-plot/?intcid=CNI-00-10aaa3a",
-      "originalUrl": "https://www.cbsnews.com/news/gretchen-whitmer-trump-response-kidnapping-plot/?intcid=CNI-00-10aaa3a",
+      "webUrl": "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware",
+      "originalUrl": "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 225,
       "tags": null,
       "images": [
         {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/09/a290333e-b3c3-44a2-b2c5-d1ce99bad0be/thumbnail/1200x630/64973db17fe2da9b0f6d9eb896eb5105/cbsn-fusion-feds-bust-alleged-plot-to-kidnap-michigan-governor-gretchen-whitmer-thumbnail-562619-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/gretchen-whitmer-trump-response-kidnapping-plot/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/gretchen-whitmer-trump-response-kidnapping-plot/",
-      "publishedDateTime": "2020-10-28T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police.md",
-      "title": "Trump Administration Uses Philadelphia Protests To Illustrate ‘Liberal Democrats’ War Against The Police’",
-      "excerpt": "The Trump administration said the protests in Philadelphia are “the most recent consequence of the Liberal Democrats’ war against the police.” The administration said all incidents of lethal force must be investigated,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/elanagross/2020/10/28/trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police/",
-      "originalUrl": "https://www.forbes.com/sites/elanagross/2020/10/28/trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f99b9b73e35a3c43d4b6a93%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D35%26cropY2%3D2566",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/elanagross/2020/10/28/trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elanagross/2020/10/28/trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police/amp/",
-      "publishedDateTime": "2020-10-28T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-biden-addresses-violence-in-philadelphia-no-excuse-for-looting.md",
-      "title": "Biden addresses violence in Philadelphia: 'No excuse' for looting",
-      "excerpt": "Democratic presidential nominee Joe Biden on Wednesday addressed the recent violence in Philadelphia over the police killing of Walter Wallace Jr., telling reporters that the death is not an excuse for looting or criminal activity.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting",
-      "originalUrl": "https://thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_10282020getty.jpg",
+          "url": "https://thehill.com/sites/default/files/bidenjoe2_11042020getty.jpg",
           "width": 980,
           "height": 551,
           "title": null,
@@ -570,9 +188,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting?amp",
-      "publishedDateTime": "2020-10-28T11:45:00-07:00",
+      "ampWebUrl": "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware?amp",
+      "publishedDateTime": "2020-11-05T13:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Hill",
@@ -598,757 +216,7 @@
         "Election",
         "Joe Biden"
       ]
-    },
-    {
-      "path": "_news/2020-10-28-jared-kushner-bragged-in-april-that-trump-was-taking-the-country-back-from-the-doctors.md",
-      "title": "Jared Kushner bragged in April that Trump was taking the country 'back from the doctors'",
-      "excerpt": "President Donald Trump's son-in-law and senior adviser Jared Kushner boasted in mid-April about how the President had cut out the doctors and scientists advising him on the unfolding coronavirus pandemic, comments that came as more than 40,000 Americans already had died from the virus, which was ravaging",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t4mCfafYvoA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t4mCfafYvoA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200430104756-01-trump-kushner-0402-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/28/politics/woodward-kushner-coronavirus-doctors/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/woodward-kushner-coronavirus-doctors/index.html",
-      "publishedDateTime": "2020-10-28T10:06:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-joe-biden-could-be-compromised-by-chinese-communist-party-rep-crenshaw.md",
-      "title": "Joe Biden could be compromised by Chinese Communist Party: Rep. Crenshaw",
-      "excerpt": "Joe Biden needs to answer whether or not he's compromised by China before the Nov. 3 election, Rep. Dan Crenshaw, R-Texas, said Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-joe-hunter-china-tony-bobulinski-dan-crenshaw",
-      "originalUrl": "https://www.foxnews.com/politics/biden-joe-hunter-china-tony-bobulinski-dan-crenshaw",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2777235-b525-491c-8227-83d7cafe8bfc/a68a044c-1a8b-46e7-a369-c8ae44314383/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-joe-hunter-china-tony-bobulinski-dan-crenshaw.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-china-tony-bobulinski-dan-crenshaw.amp",
-      "publishedDateTime": "2020-10-28T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-analysis-biden-would-face-uncertain-path-to-detente-with-wary-iran.md",
-      "title": "Analysis: Biden would face uncertain path to detente with wary Iran",
-      "excerpt": "Joe Biden plans to scrap what he calls the \"dangerous failure\" of President Donald Trump's maximum pressure policy on Iran should he win the U.S. election, but after years of confrontation his diplomacy-first approach to a historic Middle East foe could prove an",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-iran-analysis-int/analysis-biden-would-face-uncertain-path-to-detente-with-wary-iran-idUSKBN27D1E2",
-      "originalUrl": "https://www.reuters.com/article/usa-election-iran-analysis-int/analysis-biden-would-face-uncertain-path-to-detente-with-wary-iran-idUSKBN27D1E2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539111804&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R0RX",
-          "width": 789,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27D1E2",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D1E2",
-      "publishedDateTime": "2020-10-28T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says.md",
-      "title": "White House Claim That Trump Ended The Pandemic Was ‘Poorly Worded,’ Spokesperson Says",
-      "excerpt": "The White House said Wednesday that a news release that listed “ending the Covid-19 pandemic” as an accomplishment of the Trump administration was “poorly worded,” even as President Trump and members of his inner circle continue to talk about the pandemic as if it’s ending.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/",
-      "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f999042865a9df7bf8af58e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D192%26cropY2%3D1880",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/amp/",
-      "publishedDateTime": "2020-10-28T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022.md",
-      "title": "As Trump Claims Pandemic Will' End Quickly,' Fauci Warns U.S. May Not Return To 'Normal' Until 2022.",
-      "excerpt": "\"People were ridiculed for wearing masks. It depended on what side of the political spectrum you were at, which was so painful to me.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/",
-      "originalUrl": "https://www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9989a1933623c150489525%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3200%26cropY1%3D193%26cropY2%3D1993",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/amp/",
-      "publishedDateTime": "2020-10-28T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-new-jersey-congressmans-pledge-of-undying-support-for-trump-hangs-over-close-house-race.md",
-      "title": "New Jersey congressman's pledge of 'undying support' for Trump hangs over close House race",
-      "excerpt": "The congressman who represents Atlantic City made a risky political gamble last year. Now he's waiting to see whether it will pay off -- or if he's going home broke.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JJitFMueHGk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JJitFMueHGk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191219162951-trump-jeff-van-drew-12192019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/28/politics/jeff-van-drew-amy-kennedy-new-jersey-house-race/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/jeff-van-drew-amy-kennedy-new-jersey-house-race/index.html",
-      "publishedDateTime": "2020-10-28T07:47:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-hunter-biden-engaged-in-raw-influence-peddling-on-grand-global-scale-turley.md",
-      "title": "Hunter Biden engaged in ‘raw influence-peddling’ on grand, global scale: Turley",
-      "excerpt": "Joe Biden and his family engaged in \"legal corruption\" despite claims of no wrongdoing, Fox News contributor Jonathan Turley argued Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/59uqOKu4B-c/hunter-biden-joe-scandal-election-corruption-jonathan-turley",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/59uqOKu4B-c/hunter-biden-joe-scandal-election-corruption-jonathan-turley",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-joe-scandal-election-corruption-jonathan-turley.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-joe-scandal-election-corruption-jonathan-turley.amp",
-      "publishedDateTime": "2020-10-28T07:12:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-ricky-martin-says-its-super-sad-to-see-fellow-latinos-back-donald-trump.md",
-      "title": "Ricky Martin says it's 'super sad' to see fellow Latinos back Donald Trump",
-      "excerpt": "Ricky Martin discussed his support for Joe Biden and the “super sad” prospect of seeing fellow Latinos vote for Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/ricky-martin-joe-biden-fellow-latinos-back-donald-trump",
-      "originalUrl": "https://www.foxnews.com/entertainment/ricky-martin-joe-biden-fellow-latinos-back-donald-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Ricky-Martin1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/ricky-martin-joe-biden-fellow-latinos-back-donald-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/ricky-martin-joe-biden-fellow-latinos-back-donald-trump.amp",
-      "publishedDateTime": "2020-10-28T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-rehire-trump-as-national-ceo-to-continue-us-economic-renaissance-steve-cortes.md",
-      "title": "Rehire Trump as national CEO to continue US economic renaissance: Steve Cortes",
-      "excerpt": "President Trump will continue the thriving economy if re-elected, but Joe Biden threatens a reversal, Trump 2020 campaign senior adviser Steve Cortes told \"Fox & Friends.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yfJ5-5Rp2_A/trump-biden-election-vote-economy-2020-campaign-steve-cortes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yfJ5-5Rp2_A/trump-biden-election-vote-economy-2020-campaign-steve-cortes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-election-vote-economy-2020-campaign-steve-cortes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-election-vote-economy-2020-campaign-steve-cortes.amp",
-      "publishedDateTime": "2020-10-28T05:49:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-election-6-days-away-biden-back-in-delaware-as-trump-heads-to-arizona.md",
-      "title": "Election 6 days away: Biden back in Delaware as Trump heads to Arizona",
-      "excerpt": "President Trump will hold two campaign rallies in the battleground state of Arizona on Wednesday as his Democratic rival Joe Biden, back in his home state of Delaware, hears a briefing from public health officials on the coronavirus pandemic with just six days left until the election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/467SXE5fROE/trump-biden-presidential-campaign-election-october-28",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/467SXE5fROE/trump-biden-presidential-campaign-election-october-28",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 2665,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a990f151-f69e-45e0-b041-46b709e86db7/0ebbd0e4-f814-4e51-9b22-dc84899a6da0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-presidential-campaign-election-october-28.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-presidential-campaign-election-october-28.amp",
-      "publishedDateTime": "2020-10-28T04:59:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-trump-praises-himself-for-not-being-a-typical-politician-that-line-worked-in-2016-but-former-supporters-now-see-it-as-lack-of-experience.md",
-      "title": "Trump praises himself for not being a 'typical politician.' That line worked in 2016, but former supporters now see it as 'lack of experience.'",
-      "excerpt": "\"We need somebody that has experience, who knows what to do, knows what to say,\" a former Trump supporter who now supports Biden said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/former-trump-supporters-support-biden-typical-politican-2020-10",
-      "originalUrl": "https://www.businessinsider.com/former-trump-supporters-support-biden-typical-politican-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f9307ad212113001874077a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/former-trump-supporters-support-biden-typical-politican-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-trump-supporters-support-biden-typical-politican-2020-10?amp",
-      "publishedDateTime": "2020-10-28T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-heres-a-timeline-of-president-donald-trumps-and-dr-anthony-faucis-relationship.md",
-      "title": "Here's a timeline of President Donald Trump's and Dr. Anthony Fauci's relationship",
-      "excerpt": "Over the course of the coronavirus’ spread, President Trump’s relationship with Dr. Anthony Fauci has seemingly vacillated from support to disdain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/28/president-donald-trump-anthony-fauci-timeline-relationship-coronavirus-pandemic/3718797001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/28/president-donald-trump-anthony-fauci-timeline-relationship-coronavirus-pandemic/3718797001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/07/31/USAT/5f2d0ac9-24b5-43ca-bb6c-a6da956b363b-AFP_AFP_1VA3UJ.jpg?auto=webp&crop=4011,2257,x0,y355&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3718797001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3718797001",
-      "publishedDateTime": "2020-10-28T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-winnable-but-not-yet-won-why-joe-biden-and-mike-pence-are-both-headed-to-iowa-this-week.md",
-      "title": "Winnable but not yet won: Why Joe Biden and Mike Pence are both headed to Iowa this week",
-      "excerpt": "The pair of visits, as well as Trump's rally earlier this month, indicate that both campaigns see the state as winnable but not yet won.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
-      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/24/NBCC/07831130-e474-4b4b-b229-60370625a964-IMG_0726.JPG?auto=webp&crop=6075,3418,x0,y95&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.azcentral.com/amp/3754115001",
-      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3754115001",
-      "publishedDateTime": "2020-10-27T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Arizona Republic",
-        "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-the-wife-of-supreme-court-justice-clarence-thomas-is-using-her-facebook-page-to-spread-misinformation-about-joe-biden.md",
-      "title": "The wife of Supreme Court Justice Clarence Thomas is using her Facebook page to spread misinformation about Joe Biden",
-      "excerpt": "Longtime conservative activist Ginni Thomas, who often shares conspiracy theories, posted unsubstantiated claims alleging corruption by Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10",
-      "originalUrl": "https://www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f98a2b769331a0011bc59db?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10?amp",
-      "publishedDateTime": "2020-10-27T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
     }
   ],
-  "nextPage": 27
+  "nextPage": null
 }

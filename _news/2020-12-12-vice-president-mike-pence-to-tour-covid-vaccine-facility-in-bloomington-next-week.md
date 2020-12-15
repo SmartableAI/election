@@ -100,6 +100,17 @@ related:
       name: Omaha.com
       domain: omaha.com
     quality: 55
+  - title: "Pence looks forward to receiving COVID-19 vaccine"
+    excerpt: "Vice President Mike Pence says he looks forward in the days ahead to receiving a vaccine for COVID-19 and will do so without hesitation."
+    publishedDateTime: 2020-12-15T22:45:00Z
+    webUrl: "https://www.stltoday.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_36dc5a01-37d9-5280-a1dd-e997ec25733b.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_36dc5a01-37d9-5280-a1dd-e997ec25733b.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_36dc5a01-37d9-5280-a1dd-e997ec25733b.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
 
 secured: "eY6uV9xfkwk0o9A1SNNdFMARkxuptOOa501gnyfKr1JaYRrMTRKjKyu2o8OJzSTLRGtzJhL/5M+7N12vd7iTXwrPSXu4b66splzpiLN9dtOwrB/cPeXPh0yniqVgrW1GAl9Nr4WvuLnAVGb25E7Y/woKFlXH+d8aUzRTZTQ0/pLUYCIp9Rb/uxOhuvMY7m4zmo3nn7oHpuYwx7/YrSRzHV9rQVu6+qoIl8rjp6CCX1HqzCZ0+6DujIODiqzCqa08T3eq3V9/QdrOIN4Ij1aikJNlarwL89hNEalq4MwQpmv8oocZZJyxj5kuGv7C2aIS05tD21QqGSHOKZVcMgMERzHxwDNFadcQsxbb9LCWwvCO81dNZHpRrxKo5GAf2yHvnT4Ip9mNcd7fj3EdnvIAxtPdtRHRXYYNAfDl8Wvob4HxFbrV3NIdTb7K4El6+bZDKcxhypHVvqldXl7MhfJfhef5BESY0gCuAo1I84CExIXfhqYZr3F23Ih1Z9+5x+7TA+XtB3u7hjJM81dHyWY4bw==;KKyS/lbbpZdzdlYDusnwlg=="
 ---

@@ -2,6 +2,266 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-16-ap-sources-biden-to-pick-buttigieg-as-transportation-chief.md",
+      "title": "AP sources: Biden to pick Buttigieg as transportation chief",
+      "excerpt": "WASHINGTON — President-elect Joe Biden is expected to pick his former rival Pete Buttigieg as secretary of transportation, according to three people familiar with the plans. The decision leaves the former mayor of South Bend,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/ap-sources-biden-picks-buttigieg-as-transportation-chief/2020/12/15/87c1e442-3f09-11eb-b58b-1623f6267960_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/ap-sources-biden-picks-buttigieg-as-transportation-chief/2020/12/15/87c1e442-3f09-11eb-b58b-1623f6267960_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/ap-sources-biden-picks-buttigieg-as-transportation-chief/2020/12/15/87c1e442-3f09-11eb-b58b-1623f6267960_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-biden-picks-buttigieg-as-transportation-chief/2020/12/15/87c1e442-3f09-11eb-b58b-1623f6267960_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-15T14:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-pence-lauds-vaccine-effort-during-stop-at-indiana-plant.md",
+      "title": "Pence lauds vaccine effort during stop at Indiana plant",
+      "excerpt": "Vice President Mike Pence said Tuesday that he's looking forward to getting vaccinated for COVID-19 and that he expects to receive his first dose in the next",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/indiana-indianapolis-coronavirus-pandemic-072d19ccb696f25ff18715b831f072a5",
+      "originalUrl": "https://apnews.com/article/indiana-indianapolis-coronavirus-pandemic-072d19ccb696f25ff18715b831f072a5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/f754d3185f964607a8735a917ca88426/3000.jpeg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-bidens-treasury-nominees-meet-with-racial-justice-activists-defund-the-police-supporters.md",
+      "title": "Biden's Treasury nominees meet with racial justice activists, 'defund the police' supporters",
+      "excerpt": "President-elect Joe Biden's nominees to run the Treasury Department --  Treasury Secretary-designee Janet Yellen and Deputy Treasury Secretary-designee Wally Adeyemo -- held their first joint meeting Monday with racial and economic justice activists. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QsqJv_jaQws/bidens-treasury-nominees-meet-with-racial-justice-activists",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QsqJv_jaQws/bidens-treasury-nominees-meet-with-racial-justice-activists",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2299392b-2af1-4c36-83dc-31f7ee0fcadf/398d6296-a575-4a8a-bb47-2cf5b457d924/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-treasury-nominees-meet-with-racial-justice-activists.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-treasury-nominees-meet-with-racial-justice-activists.amp",
+      "publishedDateTime": "2020-12-15T14:29:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-rep-ayanna-pressley-tells-gavin-newsom-to-appoint-a-black-woman-to-vp-elect-kamala-harris-senate-seat.md",
+      "title": "Rep. Ayanna Pressley tells Gavin Newsom to appoint a Black woman to VP-elect Kamala Harris' Senate seat",
+      "excerpt": "\"We absolutely cannot go backwards,\" Pressley tweeted Tuesday. \"With the election of @KamalaHarris to VP-elect, @CAgovernor must prioritize this leadership, perspective & representation in the vacated U.S. Senate seat & appoint a Black woman.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0GxkkNp08Q/ayanna-pressley-newsom-black-woman-harris-senate",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0GxkkNp08Q/ayanna-pressley-newsom-black-woman-harris-senate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Karen-Bass-FOX.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ayanna-pressley-newsom-black-woman-harris-senate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ayanna-pressley-newsom-black-woman-harris-senate.amp",
+      "publishedDateTime": "2020-12-15T13:46:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-fact-check-fake-anti-christmas-quote-attributed-to-kamala-harris-began-as-satire.md",
+      "title": "Fact check: Fake anti-Christmas quote attributed to Kamala Harris began as satire",
+      "excerpt": "Users took to Facebook to post a quote about Christmas that they claim came from Vice President-elect Kamala Harris. The fake quote began as satire.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-anti-christmas-quote-attributed-kamala-harris-satire/6540043002/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-anti-christmas-quote-attributed-kamala-harris-satire/6540043002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/12/05/USAT/751f29ad-47cd-4791-9506-d4b6b846b53e-KamalaHarris.jpg?auto=webp&crop=3703,2083,x0,y188&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6540043002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6540043002",
+      "publishedDateTime": "2020-12-15T13:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-pence-likely-to-get-the-coronavirus-vaccine-by-friday.md",
       "title": "Pence likely to get the coronavirus vaccine by Friday",
       "excerpt": "Vice President Mike Pence is likely to receive the coronavirus vaccine by Friday, two sources familiar with the plans tell CNN.\n    \n",
@@ -226,7 +486,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -335,7 +595,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2570,
+      "heat": 2590,
       "tags": null,
       "images": [
         {
@@ -554,7 +814,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1310,
+      "heat": 1350,
       "tags": null,
       "images": [
         {
@@ -1064,275 +1324,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/jordan-georgia-senate-runoff-election-freedom-trump.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jordan-georgia-senate-runoff-election-freedom-trump.amp",
       "publishedDateTime": "2020-12-14T10:02:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-trump-administration-rushes-to-roll-out-a-250-million-public-education-effort-to-encourage-americans-to-get-vaccinated.md",
-      "title": "Trump administration rushes to roll out a $250 million public education effort to encourage Americans to get vaccinated",
-      "excerpt": "A large-scale public education campaign, delayed by false starts and investigations, will get off the ground just as the coronavirus vaccine becomes available to high-risk Americans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html",
-      "originalUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/vhYxJnm77JRG0ft5QUfsg3oZUCk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VK557JGXCB74AHEZ4WDSK7AYNU.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-14T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-kamala-harris-niece-defends-sasha-obama-after-viral-photo.md",
-      "title": "Kamala Harris' Niece Defends Sasha Obama After Viral Photo",
-      "excerpt": "Meena The lawyer and niece of Vice President elect Kamala Harris took to Twitter late Sunday evening to defend the 19-year-old. \"Keep Sasha Obama's name out of your damn mouth,\" she wrote. On Sunday evening,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593",
-      "originalUrl": "https://www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1685754/meena-harris.jpg",
-          "width": 2500,
-          "height": 1406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593?amp=1",
-      "publishedDateTime": "2020-12-14T09:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-most-federal-employees-to-get-the-day-off-dec-24-under-trump-executive-order.md",
-      "title": "Most federal employees to get the day off Dec. 24 under Trump executive order",
-      "excerpt": "Trump follows a tradition of presidents excusing federal employees from work on the day before Christmas when the Christmas Day federal holiday falls on a Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KSJT7RBTC4I6XFUZADJRD4J5FU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-14T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-vc-daily-venture-firms-ready-for-payday-nvca-lobbies-biden-with-letter-softbank-ends-year-on-high-note.md",
-      "title": "VC Daily: Venture Firms Ready for Payday; NVCA Lobbies Biden With Letter; SoftBank Ends Year on High Note",
-      "excerpt": "Last week, the National Venture Capital Association sent a letter to President-elect Joe Biden to get a lobbying head start.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/vc-daily-venture-firms-ready-for-payday-nvca-lobbies-biden-with-letter-softbank-ends-year-on-high-note-11607955869",
-      "originalUrl": "https://www.wsj.com/articles/vc-daily-venture-firms-ready-for-payday-nvca-lobbies-biden-with-letter-softbank-ends-year-on-high-note-11607955869",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.wsj.net/img/meta/wsj-social-share.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-hunter-biden-email-shows-400g-unreported-income-from-burisma-states-he-needs-to-amend-tax-returns.md",
-      "title": "Hunter Biden email shows $400G unreported income from Burisma, states he needs to 'amend' tax returns",
-      "excerpt": "Hunter Biden did not report “approximately $400,000” in income he collected from his position on the board of Ukrainian natural gas firm Burisma Holdings when he joined in 2014, according to an attorney for his firm who noted that his tax returns needed to be amended, a new email obtained by Fox News",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vI_7pnpmcEk/hunter-biden-email-tax-returns-unreported-burisma-income",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vI_7pnpmcEk/hunter-biden-email-tax-returns-unreported-burisma-income",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-email-tax-returns-unreported-burisma-income.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-email-tax-returns-unreported-burisma-income.amp",
-      "publishedDateTime": "2020-12-14T07:54:49-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

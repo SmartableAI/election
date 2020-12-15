@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-20-vp-mike-pences-daughter-delivers-powerful-explanation-of-where-sin-can-lead.md",
+      "title": "VP Mike Pence’s daughter delivers powerful explanation of where ‘sin can lead’",
+      "excerpt": "Doubt is a normal part of any faith journey, but how do doubt and sin interact — and what role does spiritual uncertainty play in pushing people away from God?",
+      "sourceUrl": null,
+      "webUrl": "https://www.christianpost.com/news/vp-mike-pences-daughter-charlotte-explains-where-sin-can-lead.html",
+      "originalUrl": "https://www.christianpost.com/news/vp-mike-pences-daughter-charlotte-explains-where-sin-can-lead.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.christianpost.com/files/cache/image/13/91/139137_w_400_601.jpg",
+          "width": 400,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.christianpost.com/amp/vp-mike-pences-daughter-charlotte-explains-where-sin-can-lead.html",
+      "cdnAmpWebUrl": "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/vp-mike-pences-daughter-charlotte-explains-where-sin-can-lead.html",
+      "publishedDateTime": "2020-11-20T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Christian Post",
+        "domain": "christianpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-trump-administration-does-not-support-lockdown-school-closures-pence.md",
       "title": "Trump administration does not support lockdown, school closures: Pence",
       "excerpt": "The Trump administration does not support another lockdown or school closures to stem the spread of the deadly coronavirus, Vice President Mike Pence said on Thursday, even as infections have hit record highs in recent days in the United States.",

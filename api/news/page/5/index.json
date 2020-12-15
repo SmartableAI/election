@@ -2,6 +2,224 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-10-chris-rock-calls-on-joe-biden-to-create-supreme-court-of-science-to-handle-any-crisis-like-the-coronavirus.md",
+      "title": "Chris Rock calls on Joe Biden to create 'Supreme Court of Science' to handle any crisis like the coronavirus",
+      "excerpt": "Chris Rock called on President-elect Joe Biden to institute a fourth branch of government dedicated to science in order to combat another crisis like the coronavirus pandemic in a bipartisan way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus",
+      "originalUrl": "https://www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Chris-Rock.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus.amp",
+      "publishedDateTime": "2020-12-10T05:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-biden-has-reportedly-chosen-capitol-hill-staffer-katherine-tai-as-his-us-trade-representative.md",
+      "title": "Biden has reportedly chosen Capitol Hill staffer Katherine Tai as his US trade representative",
+      "excerpt": "If she is picked, the House Ways and Means chief trade lawyer would be the first woman of color to hold the position.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12",
+      "originalUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fb2e9ad1c741f0019aca1d1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp",
+      "publishedDateTime": "2020-12-10T04:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-biden-will-travel-to-georgia-to-boost-ossoff-and-warnock-in-runoff-elections.md",
+      "title": "Biden will travel to Georgia to boost Ossoff and Warnock in runoff elections",
+      "excerpt": "Biden's trip to Atlanta on Tuesday will be his first campaign event since he secured the presidency last month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/biden-will-travel-georgia-boost-ossoff-warnock-runoff-elections-n1250632",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/biden-will-travel-georgia-boost-ossoff-warnock-runoff-elections-n1250632",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_50/3434621/201209-joe-biden-ew-650p_be2e1e53bb9eca7f378fef24b3d4a39d.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250632",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250632",
+      "publishedDateTime": "2020-12-10T02:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-joe-bidens-centrist-dilemma-police-groups-say-hes-gone-too-far-left-activists-say-he-hasnt-gone-far-enough.md",
+      "title": "Joe Biden's centrist dilemma: Police groups say he's gone too far left; activists say he hasn't gone far enough",
+      "excerpt": "Conflicting interests from police and social justice groups will test Joe Biden's reputation as a centrist as he tries to implement police reform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/10/biden-reform-plan-tests-black-lives-matter-police-support/6422611002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/10/biden-reform-plan-tests-black-lives-matter-police-support/6422611002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/08/USAT/d95e320a-8181-49f1-aabd-79087d150b2b-XXX__DSC5622.JPG?auto=webp&crop=5999,3374,x0,y140&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6422611002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6422611002",
+      "publishedDateTime": "2020-12-10T02:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-donald-trumps-2024-campaign-theme-we-wuz-robbed-and-we-wont-be-robbed-again-aides-say.md",
       "title": "Donald Trump's 2024 Campaign Theme: 'We Wuz Robbed and We Won't Be Robbed Again,' Aides Say",
       "excerpt": "The president's rage at the media and Democrats, and criticism that he is \"delegitimizing\" Biden's win, have hardened his resolve to get revenge four years from now.",
@@ -1138,211 +1356,6 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-former-israeli-space-security-chief-says-extraterrestrials-exist-and-trump-knows-about-it.md",
-      "title": "Former Israeli space security chief says extraterrestrials exist, and Trump knows about it",
-      "excerpt": "\"The Unidentified Flying Objects have asked not to publish that they are here, humanity is not ready,\" Haim Eshed said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333",
-      "originalUrl": "https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_50/3434098/201208-space-contact-mc-1000_2ccd3fbfb3e3d974e910d1abd9b81c1a.jpg",
-          "width": 2500,
-          "height": 1584,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250333",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250333",
-      "publishedDateTime": "2020-12-08T05:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-vice-president-mike-pence-schedules-stop-in-south-carolina.md",
-      "title": "Vice President Mike Pence schedules stop in South Carolina",
-      "excerpt": "Pence is scheduled to hold a round table discussion on Operation Warp Speed, the administrations effort to promote the development of the coronavirus vaccine as quickly as possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestate.com/news/politics-government/article247690655.html",
-      "originalUrl": "https://www.thestate.com/news/politics-government/article247690655.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998035001/5717e438-c9d2-43cc-9edc-de8c4bd3f94b/main/1280x720/23s861ms/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.thestate.com/news/politics-government/article247690655.html",
-      "cdnAmpWebUrl": "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/politics-government/article247690655.html",
-      "publishedDateTime": "2020-12-08T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The State",
-        "domain": "thestate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-politics-updates-trump-reached-out-to-pa-house-speaker-over-election.md",
-      "title": "Politics updates: Trump reached out to PA House speaker over election",
-      "excerpt": "The Trump campaign has pressed Republicans to find ways to overturn election results in certain states the president lost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/politics-presidential-transition-news-joe-biden-donald-trump/6484311002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/politics-presidential-transition-news-joe-biden-donald-trump/6484311002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 3950,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/07/USAT/3c1f8107-9a3f-41e3-ab0b-4e49861b8e47-AP_Trump_1.jpg?auto=webp&crop=2391,1345,x0,y358&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6484311002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6484311002",
-      "publishedDateTime": "2020-12-08T05:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-biden-picks-retired-us-army-gen-lloyd-austin-to-head-the-pentagon-if-confirmed-hed-be-the-first-black-man-to-lead-the-defense-department.md",
-      "title": "Biden picks retired US Army Gen. Lloyd Austin to head the Pentagon. If confirmed, he'd be the first Black man to lead the Defense Department.",
-      "excerpt": "Retired US Army Gen. Lloyd Austin would be America's first Black defense secretary, if confirmed by Congress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12",
-      "originalUrl": "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc16dcb50e71a0011557c1f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12?amp",
-      "publishedDateTime": "2020-12-08T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

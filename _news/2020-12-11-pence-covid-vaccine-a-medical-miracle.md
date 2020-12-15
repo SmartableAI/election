@@ -99,6 +99,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pence looks forward to receiving COVID-19 vaccine"
+    excerpt: "Vice President Mike Pence says he looks forward in the days ahead to receiving a vaccine for COVID-19 and will do so without hesitation."
+    publishedDateTime: 2020-12-15T22:45:00Z
+    webUrl: "https://www.stltoday.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_36dc5a01-37d9-5280-a1dd-e997ec25733b.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_36dc5a01-37d9-5280-a1dd-e997ec25733b.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_36dc5a01-37d9-5280-a1dd-e997ec25733b.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
 
 secured: "q3XzBWX+Mm18WjY+9YIC8L6PpT1w+pkkmLzAzNL/7P8gzjlyKHZxZHB7iFEA7/hWRiBnOezHJcpKg96ylqYjVMzqJCN6ry345s9617j7twGKOvpx3w3asTjN6o1bHbMMbADuuRFHQ3JoOjEvw3GStJhOeU19tPN/mIOWcPkUYGEUmQUs5604QV1YwLDInZyzHNJ4NT1YtfjWvPMnsJsM0RnnxZF4L9Qsce14oNWZ0rBgPzl2zLWBciLbqiRgHDBJXhR7xMDET29kkzsnbDvXZ2iBSNovjmRO6VNK13RaZ30MfcuSQYOeWrMQbw53GOu9KHOBbtx1ruo5HdJfEs03lywN3xy0538sxKK2MN4Mnf1oqPJpSAiEPnUVKqr5pCkU7Rl+j+ZiWjselmes4kOCZNB1MEC+54ZoQ3O2h4zdCZTGZ5mSThTOeyN2P1R9Dviq5eRMNHagb5fwGg1ljc8N6mA1qYyiuSe2ipq4NopPzc7UO/213oKrIARDynKxWzbngSJM7H0+rQF1t+oP+Z71aQ==;ZX5Kb2ds0BBf13M7PNBxRw=="
 ---

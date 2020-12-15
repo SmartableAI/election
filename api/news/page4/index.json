@@ -2,6 +2,274 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-12-worst-place-worst-time-trump-faces-virus-spike-in-midwest.md",
+      "title": "Worst place, worst time: Trump faces virus spike in Midwest",
+      "excerpt": "A college history professor who last cast a ballot for a Democratic candidate for president more than 20 years ago, Loiacono, who voted for American Solidarity Party presidential candidate Michael Maturen in 2016 is voting for Democrat Joe Biden because he thinks Trump has utterly failed in his handling of the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/worst-place-worst-time-trump-faces-virus-spike-74673175",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/worst-place-worst-time-trump-faces-virus-spike-74673175",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_7f24b0f1a2564a988de177c68975f9c8_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/worst-place-worst-time-trump-faces-virus-spike-74673175",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/worst-place-worst-time-trump-faces-virus-spike-74673175",
+      "publishedDateTime": "2020-12-11T09:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-ag-barr-knew-about-hunter-biden-probe-for-months-report.md",
+      "title": "AG Barr knew about Hunter Biden probe for months: report",
+      "excerpt": "Attorney General William Barr reportedly knew about investigations into Hunter Biden’s business and financial dealings for months, and worked to stop them being disclosed to the public during the election campaign.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aph5PtHpV7s/ag-barr-hunter-biden-probe-spring-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aph5PtHpV7s/ag-barr-hunter-biden-probe-spring-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb434ef2-fe30-41c5-9c87-687265fa6239/5d3b2f20-1e86-4f21-aa83-8df313917cbc/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ag-barr-hunter-biden-probe-spring-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ag-barr-hunter-biden-probe-spring-report.amp",
+      "publishedDateTime": "2020-12-11T09:08:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-michelle-goldberg-column-covid-meds-are-scarce-but-not-for-trump-cronies.md",
+      "title": "Michelle Goldberg column: COVID meds are scarce, but not for Trump cronies",
+      "excerpt": "According to a document from the Department of Health and Human Services, a total of 108 doses of Regeneron’s monoclonal antibody cocktail have been allocated to Washington, which had 265 new coronavirus cases on Wednesday alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-coronavirus-giuliani-regeneron-michelle-goldberg-column-20201211-5mflfstsubf6vbp3673riy6jcu-story.html",
+      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-coronavirus-giuliani-regeneron-michelle-goldberg-column-20201211-5mflfstsubf6vbp3673riy6jcu-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/9ig9JnhIafT6BnPx8qKep5z10-I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GXQZRRSPOORM5DIYNUNLIFF6I4.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-coronavirus-giuliani-regeneron-michelle-goldberg-column-20201211-5mflfstsubf6vbp3673riy6jcu-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-coronavirus-giuliani-regeneron-michelle-goldberg-column-20201211-5mflfstsubf6vbp3673riy6jcu-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-11T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-whitmer-says-michigan-gop-went-too-far-against-anti-trump-state-democrat.md",
+      "title": "Whitmer says Michigan GOP went ‘too far’ against anti-Trump state Democrat",
+      "excerpt": "Michigan state Republicans went “too far” in saying they would pull committee assignments from a state Democrat who threatened Trump supporters in a viral video, the state’s Democratic governor said Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/r3OnYTULLDE/whitmer-says-michigan-gop-went-too-far-against-anti-trump-state-democrat",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/r3OnYTULLDE/whitmer-says-michigan-gop-went-too-far-against-anti-trump-state-democrat",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/whitmer-johnson-.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/whitmer-says-michigan-gop-went-too-far-against-anti-trump-state-democrat.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-says-michigan-gop-went-too-far-against-anti-trump-state-democrat.amp",
+      "publishedDateTime": "2020-12-11T03:33:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-republicans-have-concerns-about-trump-but-wont-let-reporters-quote-them-by-name-about-it.md",
+      "title": "Republicans have ‘concerns’ about Trump — but won’t let reporters quote them by name about it",
+      "excerpt": "Many GOP lawmakers have long shied from going on-the-record with their thoughts. It’s created a dissonance in political journalism as Trump attempts to overturn the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/lifestyle/media/republicans-anonymous-private-concerns-media/2020/12/10/301e98a6-2e75-11eb-bae0-50bb17126614_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/media/republicans-anonymous-private-concerns-media/2020/12/10/301e98a6-2e75-11eb-bae0-50bb17126614_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RQNUZTB2NUI6XKWZRFMSE4UAYQ.jpg&w=1440",
+          "width": 1440,
+          "height": 903,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/media/republicans-anonymous-private-concerns-media/2020/12/10/301e98a6-2e75-11eb-bae0-50bb17126614_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/republicans-anonymous-private-concerns-media/2020/12/10/301e98a6-2e75-11eb-bae0-50bb17126614_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-11T03:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-in-leaked-audio-joe-biden-says-defund-the-police-was-used-to-beat-the-living-hell-out-of-democrats.md",
       "title": "In leaked audio, Joe Biden says 'defund the police' was used to 'beat the living hell' out of Democrats",
       "excerpt": "WASHINGTON — President-elect Joe Biden told civil rights leaders in a meeting on Tuesday he thought Republicans used the \"defund the police\" movement to defeat Democrats in down",
@@ -367,62 +635,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-biden-in-leaked-audio-suggests-gop-beat-the-living-h-out-of-us-over-defund-the-police.md",
-      "title": "Biden, in leaked audio, suggests GOP 'beat the living h--- out of us' over 'defund the police'",
-      "excerpt": "Biden said that public calls for police reform should be avoided ahead of the Georgia Senate runoff vote.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/StJsS8M-EY8/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/StJsS8M-EY8/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ec1a53c-f49f-4fc6-8b84-18fe1bbfadfe/8551395f-6676-4a6b-b491-ef4400e0b91f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police.amp",
-      "publishedDateTime": "2020-12-10T13:30:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },
@@ -928,7 +1140,7 @@
       "originalUrl": "https://www.pbs.org/newshour/politics/watch-live-pence-participates-in-covid-19-vaccine-roundtable",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1117,224 +1329,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-chris-rock-calls-on-joe-biden-to-create-supreme-court-of-science-to-handle-any-crisis-like-the-coronavirus.md",
-      "title": "Chris Rock calls on Joe Biden to create 'Supreme Court of Science' to handle any crisis like the coronavirus",
-      "excerpt": "Chris Rock called on President-elect Joe Biden to institute a fourth branch of government dedicated to science in order to combat another crisis like the coronavirus pandemic in a bipartisan way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus",
-      "originalUrl": "https://www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Chris-Rock.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus.amp",
-      "publishedDateTime": "2020-12-10T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-biden-has-reportedly-chosen-capitol-hill-staffer-katherine-tai-as-his-us-trade-representative.md",
-      "title": "Biden has reportedly chosen Capitol Hill staffer Katherine Tai as his US trade representative",
-      "excerpt": "If she is picked, the House Ways and Means chief trade lawyer would be the first woman of color to hold the position.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12",
-      "originalUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fb2e9ad1c741f0019aca1d1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp",
-      "publishedDateTime": "2020-12-10T04:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-biden-will-travel-to-georgia-to-boost-ossoff-and-warnock-in-runoff-elections.md",
-      "title": "Biden will travel to Georgia to boost Ossoff and Warnock in runoff elections",
-      "excerpt": "Biden's trip to Atlanta on Tuesday will be his first campaign event since he secured the presidency last month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/biden-will-travel-georgia-boost-ossoff-warnock-runoff-elections-n1250632",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/biden-will-travel-georgia-boost-ossoff-warnock-runoff-elections-n1250632",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_50/3434621/201209-joe-biden-ew-650p_be2e1e53bb9eca7f378fef24b3d4a39d.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250632",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250632",
-      "publishedDateTime": "2020-12-10T02:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-joe-bidens-centrist-dilemma-police-groups-say-hes-gone-too-far-left-activists-say-he-hasnt-gone-far-enough.md",
-      "title": "Joe Biden's centrist dilemma: Police groups say he's gone too far left; activists say he hasn't gone far enough",
-      "excerpt": "Conflicting interests from police and social justice groups will test Joe Biden's reputation as a centrist as he tries to implement police reform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/10/biden-reform-plan-tests-black-lives-matter-police-support/6422611002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/10/biden-reform-plan-tests-black-lives-matter-police-support/6422611002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/08/USAT/d95e320a-8181-49f1-aabd-79087d150b2b-XXX__DSC5622.JPG?auto=webp&crop=5999,3374,x0,y140&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6422611002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6422611002",
-      "publishedDateTime": "2020-12-10T02:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

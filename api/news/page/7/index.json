@@ -2,6 +2,223 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-07-trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19.md",
+      "title": "Trump tweets Rudy Giuliani has tested positive for COVID-19",
+      "excerpt": "President Trump’s lawyer and former New York City mayor Rudy Giuliani, who has been pressing the case that the 2020 election was rife with fraud, has the coronavirus, Trump tweeted on",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/",
+      "originalUrl": "https://nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/rudy-covid.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/amp/",
+      "publishedDateTime": "2020-12-06T12:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-06-white-house-vaccine-chief-praises-bidens-plan-to-ask-americans-to-wear-masks-for-first-100-days.md",
+      "title": "White House vaccine chief praises Biden's plan to ask Americans to wear masks for first 100 days",
+      "excerpt": "Moncef Slaoui, the head of the US government's effort to develop a vaccine against Covid-19, on Sunday praised President-elect Joe Biden's plan to ask all Americans to wear masks to curb the spread of the coronavirus, saying the practice is key as the country awaits widespread distribution of the vaccine.\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NIpK41eop9Y/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NIpK41eop9Y/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201130203553-dr-moncef-slaoui-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/06/politics/moncef-slaoui-biden-mask-mandate-coronavirus-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/moncef-slaoui-biden-mask-mandate-coronavirus-cnntv/index.html",
+      "publishedDateTime": "2020-12-06T08:33:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-06-trump-rants-about-his-election-grievances-in-georgia-even-though-it-may-hurt-the-gop.md",
+      "title": "Trump rants about his election grievances in Georgia, even though it may hurt the GOP",
+      "excerpt": "President Donald Trump expanded his extraordinary efforts to overturn the election Saturday, attempting to pressure Georgia's governor to force a special session of the legislature to change the result, while using an evening rally for two GOP Senate candidates to rant about his own grievances and thrash",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O4hvebnkQvk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O4hvebnkQvk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 363,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201205212226-01-trump-rally-georgia-1205-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/05/politics/donald-trump-kelly-loeffler-david-perdue-coronavirus-election/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/donald-trump-kelly-loeffler-david-perdue-coronavirus-election/index.html",
+      "publishedDateTime": "2020-12-06T06:38:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-06-karen-bass-wants-african-american-woman-to-replace-kamala-harris-in-the-senate.md",
+      "title": "Karen Bass wants African American woman to replace Kamala Harris in the Senate",
+      "excerpt": "Rep. Karen Bass, D-Calif., pointed to the fact that there will be no Black women in the Senate after the departure of Vice President-elect Kamala Harris during an interview last week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JElhNFmbEHI/karen-bass-california-senate-kamala-harris-replacement-african-american-woman",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JElhNFmbEHI/karen-bass-california-senate-kamala-harris-replacement-african-american-woman",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20316781826951.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/karen-bass-california-senate-kamala-harris-replacement-african-american-woman.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karen-bass-california-senate-kamala-harris-replacement-african-american-woman.amp",
+      "publishedDateTime": "2020-12-06T05:55:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-06-patrick-basham-explains-why-biden-victory-not-statistically-impossible-but-statistically-implausible.md",
       "title": "Patrick Basham explains why Biden victory 'not statistically impossible, but ... statistically implausible'",
       "excerpt": "President-elect Joe Biden defied key \"non-polling metrics\" to defeat President Trump in a way that is \"not statistically impossible, but it's statistically implausible,\" pollster Patrick Basham told Fox News' \"Life, Liberty & Levin\" in an interview airing Sunday night.",
@@ -1146,219 +1363,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-iowas-contact-tracing-firm-helped-trump-reynolds-campaigns.md",
-      "title": "Iowa's contact-tracing firm helped Trump, Reynolds campaigns",
-      "excerpt": "After facing a workforce shortage for months, Iowa has awarded an emergency $2.3 million contact-tracing contract to a company owned by a Republican Party insider",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/iowas-contact-tracing-firm-helped-trump-reynolds-campaigns-74540682",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/iowas-contact-tracing-firm-helped-trump-reynolds-campaigns-74540682",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/WireAP_770cc5422fa54239b22226f62130282c_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/iowas-contact-tracing-firm-helped-trump-reynolds-campaigns-74540682",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/iowas-contact-tracing-firm-helped-trump-reynolds-campaigns-74540682",
-      "publishedDateTime": "2020-12-04T09:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-fact-check-facebook-post-touting-decreasing-drug-prices-under-trump-is-misleading.md",
-      "title": "Fact check: Facebook post touting decreasing drug prices under Trump is misleading",
-      "excerpt": "A viral claim appears to take data out of context to tout decreasing drug prices under President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/04/fact-check-post-decreasing-rx-drug-prices-contains-outdated-info/3769032001/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/04/fact-check-post-decreasing-rx-drug-prices-contains-outdated-info/3769032001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/08/27/PDEM/c3395239-b93c-47ff-9c0e-1e00867e5431-Prescription_pills_with_money.jpg?auto=webp&crop=4155,2338,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3769032001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3769032001",
-      "publishedDateTime": "2020-12-04T06:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-trump-ignores-facts-with-claim-of-improper-vote-dumps.md",
-      "title": "Trump ignores facts with claim of improper 'vote dumps'",
-      "excerpt": "In lawsuits, tweets and a 46-minute taped diatribe, the president has promoted a false narrative about vote counting in several states.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/trump-ignores-facts-claim-improper-vote-dumps-n1249987",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/trump-ignores-facts-claim-improper-vote-dumps-n1249987",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_49/3433213/201204-donald-trump-mn-0840_3ff08bf71b3ccb940cbf49b781f12604.jpg",
-          "width": 2500,
-          "height": 1458,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249987",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249987",
-      "publishedDateTime": "2020-12-04T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-the-technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet.md",
-      "title": "The Technology 202: Trump administration’s immigration feud with Silicon Valley isn't over yet",
-      "excerpt": "The Trump administration is continuing to wage war against Silicon Valley on immigration, even in its dwindling days in office. The Justice Department sued Facebook for allegedly illegally discriminating against U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/12/04/technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/04/technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LW6IDFBJG4I6XHBBHTCQDUEYD4.jpg&w=1440",
-          "width": 1440,
-          "height": 919,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/04/technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet/?outputType=amp",
-      "publishedDateTime": "2020-12-04T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

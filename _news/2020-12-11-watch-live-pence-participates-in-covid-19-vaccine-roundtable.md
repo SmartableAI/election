@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-pence-participa
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-pence-participates-in-covid-19-vaccine-roundtable"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -103,6 +103,17 @@ related:
     provider:
       name: Omaha.com
       domain: omaha.com
+    quality: 55
+  - title: "Pence looks forward to receiving COVID-19 vaccine"
+    excerpt: "Vice President Mike Pence says he looks forward in the days ahead to receiving a vaccine for COVID-19 and will do so without hesitation."
+    publishedDateTime: 2020-12-15T22:45:00Z
+    webUrl: "https://www.stltoday.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_36dc5a01-37d9-5280-a1dd-e997ec25733b.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_36dc5a01-37d9-5280-a1dd-e997ec25733b.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_36dc5a01-37d9-5280-a1dd-e997ec25733b.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 55
 
 secured: "mUf1wPTUZ1qN4E5PL9Hnn2ovJkXpZMBsQ9f63wn/cyVcPn2/kcUb63frJ0FtipQd+W4tf0zVuYfPBEXc486FM8vIDDfo0t41QgQA9bfz09JgZ95wQh9Yw7osSC/fxRWPVm8MLuTK04SdFnY+lHmuym46t0dW+PQMy82Fn39qt+VVc6serb/wuYGB8Og4hQKyWiOVYVefWrg4f9vnH9cVmJR3rJOor4Xo4yThWuXIr3dE2kO12dvnQszoEmiNRYd5jMyqEh8ASEiBf79DgRbGIzNrKKF1GWJoV77d0/upyoMLSiaxOs+dHQ9JTltMPJeLd4EsrioRqbmOlTNQK1b2VLOiQZ8nAtxXWjUimTgtAyw=;easDUQfMSoZWOcql+8z+4A=="

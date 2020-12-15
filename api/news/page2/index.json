@@ -2,6 +2,275 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-15-trump-administration-rushes-to-roll-out-a-250-million-public-education-effort-to-encourage-americans-to-get-vaccinated.md",
+      "title": "Trump administration rushes to roll out a $250 million public education effort to encourage Americans to get vaccinated",
+      "excerpt": "A large-scale public education campaign, delayed by false starts and investigations, will get off the ground just as the coronavirus vaccine becomes available to high-risk Americans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html",
+      "originalUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/vhYxJnm77JRG0ft5QUfsg3oZUCk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VK557JGXCB74AHEZ4WDSK7AYNU.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-14T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-kamala-harris-niece-defends-sasha-obama-after-viral-photo.md",
+      "title": "Kamala Harris' Niece Defends Sasha Obama After Viral Photo",
+      "excerpt": "Meena The lawyer and niece of Vice President elect Kamala Harris took to Twitter late Sunday evening to defend the 19-year-old. \"Keep Sasha Obama's name out of your damn mouth,\" she wrote. On Sunday evening,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593",
+      "originalUrl": "https://www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1685754/meena-harris.jpg",
+          "width": 2500,
+          "height": 1406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593?amp=1",
+      "publishedDateTime": "2020-12-14T09:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-most-federal-employees-to-get-the-day-off-dec-24-under-trump-executive-order.md",
+      "title": "Most federal employees to get the day off Dec. 24 under Trump executive order",
+      "excerpt": "Trump follows a tradition of presidents excusing federal employees from work on the day before Christmas when the Christmas Day federal holiday falls on a Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KSJT7RBTC4I6XFUZADJRD4J5FU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-14T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-vc-daily-venture-firms-ready-for-payday-nvca-lobbies-biden-with-letter-softbank-ends-year-on-high-note.md",
+      "title": "VC Daily: Venture Firms Ready for Payday; NVCA Lobbies Biden With Letter; SoftBank Ends Year on High Note",
+      "excerpt": "Last week, the National Venture Capital Association sent a letter to President-elect Joe Biden to get a lobbying head start.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/vc-daily-venture-firms-ready-for-payday-nvca-lobbies-biden-with-letter-softbank-ends-year-on-high-note-11607955869",
+      "originalUrl": "https://www.wsj.com/articles/vc-daily-venture-firms-ready-for-payday-nvca-lobbies-biden-with-letter-softbank-ends-year-on-high-note-11607955869",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.wsj.net/img/meta/wsj-social-share.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-hunter-biden-email-shows-400g-unreported-income-from-burisma-states-he-needs-to-amend-tax-returns.md",
+      "title": "Hunter Biden email shows $400G unreported income from Burisma, states he needs to 'amend' tax returns",
+      "excerpt": "Hunter Biden did not report “approximately $400,000” in income he collected from his position on the board of Ukrainian natural gas firm Burisma Holdings when he joined in 2014, according to an attorney for his firm who noted that his tax returns needed to be amended, a new email obtained by Fox News",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vI_7pnpmcEk/hunter-biden-email-tax-returns-unreported-burisma-income",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vI_7pnpmcEk/hunter-biden-email-tax-returns-unreported-burisma-income",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-email-tax-returns-unreported-burisma-income.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-email-tax-returns-unreported-burisma-income.amp",
+      "publishedDateTime": "2020-12-14T07:54:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-intel-officials-who-called-hunter-biden-story-russian-disinformation-should-face-consequences-domenech.md",
       "title": "Intel officials who called Hunter Biden story Russian disinformation should face consequences: Domenech",
       "excerpt": "There should be consequences for former intelligence officials who called the Hunter Biden story Russian disinformation, Federalist publisher Ben Domenech said on Monday.",
@@ -1073,275 +1342,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-statement-atlanta-mayor-turned-down-bidens-cabinet-offer.md",
-      "title": "Statement: Atlanta mayor turned down Biden's Cabinet offer",
-      "excerpt": "A spokesperson for Atlanta Mayor Keisha Lance Bottoms says the prominent Democrat turned down an opportunity to serve in President-elect Joe Biden’s Cabinet",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/statement-atlanta-mayor-turned-bidens-cabinet-offer-74696339",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/statement-atlanta-mayor-turned-bidens-cabinet-offer-74696339",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_fc019b7817574bc3800453cce85f455d_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/statement-atlanta-mayor-turned-bidens-cabinet-offer-74696339",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/statement-atlanta-mayor-turned-bidens-cabinet-offer-74696339",
-      "publishedDateTime": "2020-12-12T21:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-trump-engages-in-self-sabotage-ahead-of-historic-vaccine-rollout.md",
-      "title": "Trump engages in self-sabotage ahead of historic vaccine rollout ",
-      "excerpt": "As doses of a coronavirus vaccine are being prepared to be shipped to communities across the United States, President Donald Trump has an opportunity to mark a historic milestone for science -- and show some semblance of leadership in curbing the spread of Covid-19 as the number of US cases crosses 16",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wQTJczM9gnQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wQTJczM9gnQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201208205952-trump-file-1113-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/13/politics/donald-trump-william-barr-pfizer-vaccine/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/donald-trump-william-barr-pfizer-vaccine/index.html",
-      "publishedDateTime": "2020-12-12T21:37:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-twitter-says-it-inadvertently-limited-engagements-on-trumps-flagged-tweets.md",
-      "title": "Twitter says it 'inadvertently' limited engagements on Trump's flagged tweets",
-      "excerpt": "Twitter Inc said on Saturday it had \"inadvertently\" limited engagements for a brief period on U.S. President Donald Trump's tweets with \"disputed\" labels but later reversed its action.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-usa-election-trump-twitter-idUKKBN28M0VX",
-      "originalUrl": "https://www.reuters.com/article/uk-usa-election-trump-twitter-idUKKBN28M0VX",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544359954&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB0GC",
-          "width": 943,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN28M0VX",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28M0VX",
-      "publishedDateTime": "2020-12-12T16:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-fox-news-conspired-to-overthrow-trump-mypillow-ceo-tells-stop-the-steal-march.md",
-      "title": "Fox News Conspired to Overthrow Trump, MyPillow CEO Tells 'Stop the Steal' March",
-      "excerpt": "\"I'm serious, they had to be on it!\" Mike Lindell said of Fox News. \"They should all go to prison when they are found out.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/fox-news-conspired-overthrow-trump-mypillow-ceo-tells-stop-steal-march-1554370",
-      "originalUrl": "https://www.newsweek.com/fox-news-conspired-overthrow-trump-mypillow-ceo-tells-stop-steal-march-1554370",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1685457/my-pillow-ceo-michael-lindell.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/fox-news-conspired-overthrow-trump-mypillow-ceo-tells-stop-steal-march-1554370?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fox-news-conspired-overthrow-trump-mypillow-ceo-tells-stop-steal-march-1554370?amp=1",
-      "publishedDateTime": "2020-12-12T16:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-trump-supporters-counterprotesters-clash-in-olympia-wash.md",
-      "title": "Trump supporters, counterprotesters clash in Olympia, Wash.",
-      "excerpt": "Protests are raging on for another weekend in Olympia, Wash. Trump supporters and members of the Proud Boys gathered at Washington's state Capitol, along with leftist counterprotesters. There was at least one street brawl between the groups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa",
-      "originalUrl": "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/protest-cropped-417a.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp",
-      "publishedDateTime": "2020-12-12T14:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],
