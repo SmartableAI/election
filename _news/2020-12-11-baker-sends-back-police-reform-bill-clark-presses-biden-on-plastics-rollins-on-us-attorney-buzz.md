@@ -222,6 +222,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Watch live: Biden delivers remarks on electoral college vote certification"
+    excerpt: "Watch live coverage as President-elect Joe Biden speaks from Wilmington, De., after the electoral college voted to make his victory in the 2020 election official."
+    publishedDateTime: 2020-12-14T23:51:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-biden-delivers-remarks-on-electoral-college-vote-certification-97710149537"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97710149537"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97710149537"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/biden-cert-2.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "California’s electors are meeting now. Their votes are expected to push Biden over the top."
     excerpt: "California’s 55 electors are meeting now as they prepare to cast their votes for President-elect Joseph R. Biden Jr. Their votes will push Mr. Biden over the 270 threshold to win the White House, formally delivering him a victory after a disruptive period in the nation’s history marked by extraordinary efforts by President Trump to overturn the results of the presidential election."
     publishedDateTime: 2020-12-14T17:31:00Z

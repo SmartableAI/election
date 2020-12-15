@@ -224,6 +224,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Watch live: Biden delivers remarks on electoral college vote certification"
+    excerpt: "Watch live coverage as President-elect Joe Biden speaks from Wilmington, De., after the electoral college voted to make his victory in the 2020 election official."
+    publishedDateTime: 2020-12-14T23:51:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-biden-delivers-remarks-on-electoral-college-vote-certification-97710149537"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97710149537"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97710149537"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/biden-cert-2.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "'Publicity stunt': AGs in battleground states blast Texas counterpart for challenging Biden's win"
     excerpt: "Texas Attorney General Ken Paxton wants the Supreme Court to invalidate election results in four states, citing repeatedly debunked allegations."
     publishedDateTime: 2020-12-08T18:50:00Z
@@ -255,6 +271,6 @@ related:
         height: 629
         isCached: true
 
-secured: "pj+nYgZ7uKTJJWpxLFHKJoxwuEiNjcOoITtXu3Pgvdcv7fnB7v4b6E/J+m6M1Nj/tUWW1Cs1nma8Bn9u/AXMe6mFPeHhInJbqmPnqWwLqB8fOAApzel3L4zOI9WFFWwGGPvyE/DNTWUW4DG3+/OIBRqwb6zx+tHsTEzHUqFWEweo3Y5yYgTyBWxSHKh7PjDP6x/onZAc4HNXbj9IsP8pF+EPV/qXecIOkdQgeZLf312CrDX7F7Z7vWiDEUJWphHkL53Ci0e9HL2jCmy/i+DQmcZdt5gm8zYT8NtnzwD6u+2j3mMQ+oHrZ+JTInR+PAu8YM3BY/L0gABORdx3wt9WxcfXSeuYH9piDOk8Si+RxM8=;3eJKSeae8mj2v7UtzrA6uQ=="
+secured: "zkdgC09dE+KW5oMIzWLvIxsVhZjGpQy6o+7KGK91tvDYDeAlp6b5sAvBQVViv4R9oLOFbK8P+AtD5Fs2lYaWIP/AbICu40ymkZD1AdEV6E6F5o/jh8/RV8LysQjoxMNWZZlyYWFPrQZythlqHCH7RdBX25zh9KoUYeXfF9QF6Qni0SxgSIr4LNX+iaDIhsM59nFRfASS32yWVLbbxRgPM7pWAsQmG6Gu4XUvfTo9DVLzkbqZgZ+NqGbOTBh34Q38ARZQ4GrY3uyqY2kKdrMKA9rYdSgn/bSwvLw6cItgWWFntfJq/09KBq1174jQi/JpjLZSd27srEZCW+rTZnJUY/vxT4dU9+LdAuZYDezvAja0FcfL6VKyy8zBgKFUJDxxuW4O8luwIGhZe0fMQRFapvCbcf4bkuzVGAOjFq/jf9erw6bzgRgYGb05OymG1oII6bH4sAxFGWskmjIfmVIkAqHfqvz+Y9imfFTzA8iNP7YdhvtjZICFZ4kE89Mc34o6GjYDTtqlXbLSIsdDGPli4w==;NbwbN2DWyc3n36rpAtFGIw=="
 ---
 

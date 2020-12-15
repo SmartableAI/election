@@ -2,26 +2,26 @@
 category: news
 title: "Tennessee's 11 electors cast ballot for Trump, Pence"
 excerpt: "Tennessee’s 11 representatives to the Electoral College on Monday cast their vote for President Donald Trump and Vice President Mike Pence."
-publishedDateTime: 2020-12-14T21:54:00Z
-originalUrl: "https://tucson.com/news/national/govt-and-politics/tennessees-11-electors-cast-ballot-for-trump-pence/article_ab764ef3-846a-5c07-8a6c-cccec485dc8f.html"
-webUrl: "https://tucson.com/news/national/govt-and-politics/tennessees-11-electors-cast-ballot-for-trump-pence/article_ab764ef3-846a-5c07-8a6c-cccec485dc8f.html"
-ampWebUrl: "https://tucson.com/news/national/govt-and-politics/tennessees-11-electors-cast-ballot-for-trump-pence/article_ab764ef3-846a-5c07-8a6c-cccec485dc8f.amp.html"
-cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/national/govt-and-politics/tennessees-11-electors-cast-ballot-for-trump-pence/article_ab764ef3-846a-5c07-8a6c-cccec485dc8f.amp.html"
+publishedDateTime: 2020-12-14T23:51:00Z
+originalUrl: "https://thesouthern.com/news/national/govt-and-politics/tennessees-11-electors-cast-ballot-for-trump-pence/article_d92d21d3-6ed5-5560-b9ac-61d915a89876.html"
+webUrl: "https://thesouthern.com/news/national/govt-and-politics/tennessees-11-electors-cast-ballot-for-trump-pence/article_d92d21d3-6ed5-5560-b9ac-61d915a89876.html"
+ampWebUrl: "https://thesouthern.com/news/national/govt-and-politics/tennessees-11-electors-cast-ballot-for-trump-pence/article_d92d21d3-6ed5-5560-b9ac-61d915a89876.amp.html"
+cdnAmpWebUrl: "https://thesouthern-com.cdn.ampproject.org/c/s/thesouthern.com/news/national/govt-and-politics/tennessees-11-electors-cast-ballot-for-trump-pence/article_d92d21d3-6ed5-5560-b9ac-61d915a89876.amp.html"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Arizona Daily Star
-  domain: tucson.com
+  name: The Southern Illinoisan
+  domain: thesouthern.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/b/62/b6222129-8f87-5cfa-a347-656d8e53812e/5fd7e4c39d5be.image.jpg?resize=1024%2C682"
+  - url: "https://bloximages.chicago2.vip.townnews.com/thesouthern.com/content/tncms/assets/v3/editorial/d/22/d22b5bb6-ed77-52d8-b0f8-d0f087c90068/5fd7e3f8a2f77.image.jpg?resize=1024%2C682"
     width: 1024
     height: 682
     isCached: true
@@ -413,19 +413,19 @@ related:
         isCached: true
   - title: "Company targeted by vote fraud claims strikes back at Trump"
     excerpt: "The head of an electronic voting company being targeted by allies of President Donald Trump said baseless claims that it helped flip the 2020 election for Joe Biden threaten to undermine Americans’ fa"
-    publishedDateTime: 2020-12-14T18:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/company-targeted-vote-fraud-claims-strikes-back-trump-74719200"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/company-targeted-vote-fraud-claims-strikes-back-trump-74719200"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/company-targeted-vote-fraud-claims-strikes-back-trump-74719200"
+    publishedDateTime: 2020-12-14T23:12:00Z
+    webUrl: "https://www.washingtonpost.com/national/company-targeted-by-vote-fraud-claims-strikes-back-at-trump/2020/12/14/e1b2c94e-3e37-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/company-targeted-by-vote-fraud-claims-strikes-back-at-trump/2020/12/14/e1b2c94e-3e37-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/company-targeted-by-vote-fraud-claims-strikes-back-at-trump/2020/12/14/e1b2c94e-3e37-11eb-b58b-1623f6267960_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump nominee takes seat at U.S. telecom regulator"
     excerpt: "A senior Trump administration official who helped lead a regulatory effort seeking to rein in social media companies was sworn in to the five-member Federal Communications Commission (FCC) on Monday."
@@ -798,6 +798,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "6KXhK8IFkPOmeN+wvbHKG2YNIuTUv46v9sJkhmT28yfxWiTBejCA21pJ9hpoqaH26ZW4ohlONTdQcFcHN0nOJoK9+nOTB00MBOOIogkux1IYY8bFBJUyEfkTkFIzQ7et6/AVJodtQd2Pepx96uLHsA/9vip4juH/oX4+OIXL86HSUwb9/97uK9x+oHw8+tjXfn+zg66Dmu2HXFF/R4MmZwsfOZdpG0wFzbUpj6Hi72KbppvuPuMLKsdgaFRrfA810ECOjWKOrjSkNzvtQPIev+8r8Vn8uTF0fbO6FWz+9AXOdF8WnOkAkd/kAIQMQyCAMC2zYJ7UxYADVeevnYxvfcx7XcQoK8AhJljuEJrwokQ=;xNrptLk0olTNFUjgYjP2UQ=="
+secured: "8xpK4lSqP4y/zuFGdDd9lAhPR4bOF0kUZkr40gXgIDlrCopqp7EZS2w4TBa9T3R0djAeggJugpyTs7SKSiA7TU5UYVDmlCGg3oQBrnZhunxxEqzxHRTd7xtqvplJJthYUg9VmKlJRnZKg9ggR1nMu/DNlgUpXlAXP7fFNLSQbxzCkZssp+hGjqSszMMoHyd8llqPHrD1hnPC7awkmpNPkn5y9s2BHxnlL6Y8Ln18WmDFlnOB4fEvBVXVwV6c4YCa01TGSc/qi7ywwI6CY4QK9mr2jcpXOBobEJ4c07+/Jir0sxZNGTcXRFGkCkiIqnYFmQ0wQmjhrfpNOohPQqcRJHFFo6Tu0Vdckl1noMgX6ms=;ZvV1SiKpbRWr9fIlrX0RSQ=="
 ---
 

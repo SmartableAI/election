@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's health secretary: 'Of course, we would' vaccinate Biden publicly if he asks"
+    excerpt: "Health and Human Services Secretary Alex Azar said Monday that if President-elect Joe Biden wants the newly released Covid-19 vaccine, the agency will ensure that he receives it.\n    \n"
+    publishedDateTime: 2020-12-14T22:29:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xyUkAcbdqh8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/azar-vaccinate-biden-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/azar-vaccinate-biden-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214170919-alex-azar-1214-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden unveils health team that will lead pandemic response"
     excerpt: "President-elect Joe Biden on Monday announced the health team that will lead his administration's response to the coronavirus pandemic when he takes office in January.\n    \n"
     publishedDateTime: 2020-12-07T14:46:59Z

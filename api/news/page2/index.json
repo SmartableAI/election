@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-14-trump-threatens-to-veto-defense-spending-bill-citing-china.md",
+      "title": "Trump threatens to veto defense spending bill, citing China",
+      "excerpt": "President Trump on Sunday reiterated his threat to veto a $740 billion defense spending bill, setting up a showdown with the Congress that passed the legislation last week by veto-proof margins.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/",
+      "originalUrl": "https://nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/Trump-ndaa-veto-3.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/amp/",
+      "publishedDateTime": "2020-12-13T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-meet-some-of-the-supporters-who-helped-deliver-the-election-to-joe-biden-and-kamala-harris.md",
       "title": "Meet Some of the Supporters Who Helped Deliver the Election to Joe Biden and Kamala Harris",
       "excerpt": "Elect Kamala Harris were named TIME’s 2020 person of the year on December 10, after winning the White House with a record-breaking 81 million votes. A diverse coalition of supporters in key states, like Wisconsin,",
@@ -10,7 +58,7 @@
       "originalUrl": "https://time.com/5920880/voters-joe-biden-kamala-harris/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 795,
+      "heat": 855,
       "tags": null,
       "images": [
         {
@@ -272,58 +320,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-attorney-general-william-barr-is-reportedly-brushing-off-trumps-attacks-over-hunter-biden-investigation-as-a-deposed-king-ranting.md",
-      "title": "Attorney General William Barr is reportedly brushing off Trump's attacks over Hunter Biden investigation as a 'deposed king ranting'",
-      "excerpt": "Attorney General William Barr is \"not intimidated\" by President Trump's threats to fire him, a source told CNN.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ag-barr-brushes-off-trumps-attacks-as-deposed-king-ranting-2020-12",
-      "originalUrl": "https://www.businessinsider.com/ag-barr-brushes-off-trumps-attacks-as-deposed-king-ranting-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f6321c357b7da001ee12207?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ag-barr-brushes-off-trumps-attacks-as-deposed-king-ranting-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ag-barr-brushes-off-trumps-attacks-as-deposed-king-ranting-2020-12?amp",
-      "publishedDateTime": "2020-12-13T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -751,6 +747,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-13-trump-supporters-counterprotesters-clash-in-olympia-wash.md",
+      "title": "Trump supporters, counterprotesters clash in Olympia, Wash.",
+      "excerpt": "Protests are raging on for another weekend in Olympia, Wash. Trump supporters and members of the Proud Boys gathered at Washington's state Capitol, along with leftist counterprotesters. There was at least one street brawl between the groups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa",
+      "originalUrl": "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/protest-cropped-417a.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp",
+      "publishedDateTime": "2020-12-12T14:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-12-trump-raised-firing-barr-in-white-house-meeting-on-friday.md",
       "title": "Trump raised firing Barr in White House meeting on Friday",
       "excerpt": "President Donald Trump raised the prospect of firing Attorney General William Barr in a meeting on Friday, but it's unclear whether he'll choose to dismiss Barr before the end of his term next month.\n    \n",
@@ -871,7 +924,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 649,
+      "heat": 669,
       "tags": null,
       "images": [
         {
@@ -1270,62 +1323,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp",
       "publishedDateTime": "2020-12-11T15:01:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-black-lives-matter-accuses-biden-of-ignoring-them-its-demeaning-to-our-hurt-and-trauma.md",
-      "title": "Black Lives Matter accuses Biden of ignoring them: 'It's demeaning to our hurt and trauma'",
-      "excerpt": "Black Lives Matter accused President-elect Joe Biden of ignoring their request for a meeting and disregarding the Black voters that helped secure his White House victory.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zddP-gUC9y4/black-lives-matter-biden-ignoring-demeaning",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zddP-gUC9y4/black-lives-matter-biden-ignoring-demeaning",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6add624-18f2-464f-a0ca-315c5ac368e6/7fd6e35d-ab29-42cb-aae6-ddc2c2754fa9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/black-lives-matter-biden-ignoring-demeaning.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/black-lives-matter-biden-ignoring-demeaning.amp",
-      "publishedDateTime": "2020-12-11T14:53:37-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

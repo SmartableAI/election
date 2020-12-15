@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-15-internet-fact-checker-at-firm-that-works-with-facebook-reveals-distrust-of-trump-wh.md",
+      "title": "Internet fact-checker at firm that works with Facebook reveals distrust of Trump WH",
+      "excerpt": "Companies like Facebook work with groups licensed by individuals at the International Fact-Checking Network.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eMCBfLQZb4k/fact-checker-anti-trump-bias",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eMCBfLQZb4k/fact-checker-anti-trump-bias",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/578c0eab-8f63-4387-a70b-27ada2627f0c/6830dc2d-7b97-4f0d-a32f-ba7913410cf0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fact-checker-anti-trump-bias.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fact-checker-anti-trump-bias.amp",
+      "publishedDateTime": "2020-12-14T16:36:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-as-border-numbers-increase-cbp-chief-says-us-faces-full-blown-crisis-if-trump-era-policies-end.md",
       "title": "As border numbers increase, CBP chief says US faces 'full-blown crisis' if Trump-era policies end",
       "excerpt": "The Trump administration announced Monday that 70,000 migrants were apprehended at the southwest border in November, a 64 percent increase compared to 2019 -- and a sign of a possible surge that Trump officials say could become a full-blown crisis if recent policies are ended.",
@@ -719,6 +775,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-trump-supporters-counterprotesters-clash-in-olympia-wash.md",
+      "title": "Trump supporters, counterprotesters clash in Olympia, Wash.",
+      "excerpt": "Protests are raging on for another weekend in Olympia, Wash. Trump supporters and members of the Proud Boys gathered at Washington's state Capitol, along with leftist counterprotesters. There was at least one street brawl between the groups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa",
+      "originalUrl": "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/protest-cropped-417a.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp",
+      "publishedDateTime": "2020-12-12T14:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -1458,7 +1571,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 840,
+      "heat": 820,
       "tags": null,
       "images": [
         {
@@ -1547,118 +1660,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-biden-in-leaked-audio-suggests-gop-beat-the-living-h-out-of-us-over-defund-the-police.md",
-      "title": "Biden, in leaked audio, suggests GOP 'beat the living h--- out of us' over 'defund the police'",
-      "excerpt": "Biden said that public calls for police reform should be avoided ahead of the Georgia Senate runoff vote.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/StJsS8M-EY8/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/StJsS8M-EY8/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ec1a53c-f49f-4fc6-8b84-18fe1bbfadfe/8551395f-6676-4a6b-b491-ef4400e0b91f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police.amp",
-      "publishedDateTime": "2020-12-10T13:30:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-biden-further-slims-democratic-house-majority-with-usda-pick-despite-worries-from-some-top-democrats.md",
-      "title": "Biden further slims Democratic House majority with USDA pick, despite worries from some top Democrats",
-      "excerpt": "With House Democrats down to their slimmest majority in the chamber since World War II, a former chief of staff to House Speaker Nancy Pelosi is warning President-elect Joe Biden and his team to stop grabbing congressional Democrats for his incoming administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EK1oNhXTAxs/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EK1oNhXTAxs/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats.amp",
-      "publishedDateTime": "2020-12-10T11:51:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

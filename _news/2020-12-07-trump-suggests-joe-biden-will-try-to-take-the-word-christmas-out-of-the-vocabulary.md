@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-suggests-biden-will-take-chris
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12?amp"
 type: article
 quality: 143
-heat: 303
+heat: 323
 published: true
 
 provider:
@@ -158,6 +158,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump says Barr resigning, will leave before Christmas"
+    excerpt: "Attorney General William Barr, one of President Donald Trump’s staunchest allies, is resigning amid lingering tension with the president over the president’s baseless claims of election fraud and the investigation into president-elect Joe Biden’s son."
+    publishedDateTime: 2020-12-15T00:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-says-barr-resigning-will-leave-before-christmas-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-says-barr-resigning-will-leave-before-christmas-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-barr-resigning-will-leave-before-christmas-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "2aZtY1s2Rb+WgT0Gl2wKJf1nHFoj2S1VytR/juy8atWX/YSLBXsgwD2QUSmDxk/udhyjdFE10UhBM3yc/3O7LnNPpFT0PzHakcycT7FY/i4mp+10jw3z+Cg4zcFd92QbWSSA3cQzqiw5x04BHd+TfkhqRHYfOo0bfuXHM/FjW0MqeIpaT//IJoZWxlbQqmrt7r7ryx6mjuUJ6KVu2hHkU+Ke5+BjLToces+5vcIrYNyaO8XfdtpnYuuuU4UclSG+65cYZewCEjNiQ/1M46F/YxCWrpNfEfsmH8Wm6Ii4rKNZ3FVzCWw2oqFv811kcmeJrVL8cyW/rT4CIm2LsFCSt8jL168BpHfgOb5EbfENg3nrTDpklbPDKtp/qJuq0+tXraSz/QAqDGDHYxavvF1UU60185VkAVqZ3BNQ0eUdcaPlVCsbRnqENWigZOWjZzZB8GUrWUPA1vmnGiT++eJUJ2G71DUs0dl8gp7+zy2jPWcEuHaIi26dTYiwb6nvRa8vdQd1Zk2FghN1pfEZDQTmUQ==;PvHzr8hZpjMC9Ov2VFlFkQ=="
 ---

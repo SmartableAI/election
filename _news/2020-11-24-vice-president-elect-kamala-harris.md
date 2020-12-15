@@ -473,6 +473,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Electoral College affirms Joe Biden-Kamala Harris victory"
+    excerpt: "The Electoral College on Monday cast its votes to elect Joe Biden and Kamala Harris president and vice president, following weeks of efforts by President Donald Trump to cast doubt on the election process."
+    publishedDateTime: 2020-12-14T12:49:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/12/14/Electoral-College-affirms-Joe-Biden-Kamala-Harris-victory/4821607896946/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/14/Electoral-College-affirms-Joe-Biden-Kamala-Harris-victory/4821607896946/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/14/Electoral-College-affirms-Joe-Biden-Kamala-Harris-victory/4821607896946/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 90
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/4821607896946/2020/1/5dea4f3742acb8201f7fefa2534fbe48/v1.5/Electoral-College-affirms-Joe-Biden-Kamala-Harris-victory.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Electoral College casting votes to confirm Joe Biden-Kamala Harris win"
     excerpt: "The Electoral College on Monday was casting its votes to elect Joe Biden and Kamala Harris president and vice president, following weeks of efforts by President Donald Trump to cast doubt on the election process."
     publishedDateTime: 2020-12-14T12:49:00Z

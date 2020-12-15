@@ -523,6 +523,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Wisconsin Supreme Court tosses Trump election lawsuit"
+    excerpt: "The Wisconsin Supreme Court has rejected President Donald Trump’s lawsuit attempting to overturn his loss to Democrat Joe Biden in the battleground state"
+    publishedDateTime: 2020-12-15T00:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/wisconsin-supreme-court-tosses-trump-election-lawsuit-74717684"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wisconsin-supreme-court-tosses-trump-election-lawsuit-74717684"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wisconsin-supreme-court-tosses-trump-election-lawsuit-74717684"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ffc49f2217ed4fb08c48607068ebc598_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Armed pro-Trump protesters gather outside Michigan elections chief's home"
     excerpt: "Jocelyn Benson says gathering in which bogus claims were made about electoral fraud was ‘unambiguous, loud and threatening’"
     publishedDateTime: 2020-12-07T14:45:00Z
@@ -586,6 +602,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/20/PMJS/a22167b5-40a6-449c-b7d2-471b660b7260-MJS-recount_dirr_1.jpg?auto=webp&crop=1919,1079,x1,y197&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump-Biden transition updates: Biden in touch with Fauci on taking vaccine"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 37 days. According to early excerpts of his speech Monday evening, Biden is expected to emphasize that the 2020 election proved that even a pandemic or \"an abuse of power\" can’t stop democracy from playing out."
+    publishedDateTime: 2020-12-14T22:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 138
+    images:
+      - url: "https://s.abcnews.com/images/International/biden-ap-jt-201208_1607454736741_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "As lawyers keep pushing Trump election challenges, calls for sanctions mount"
     excerpt: "As President Donald Trump and his allies continue to bring legal challenges in an effort to overturn the election, some election officials are starting to cry foul."
@@ -2698,6 +2730,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/trump-returns-to-court-in-wisconsin-as-time-running-out"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/trump-returns-to-court-in-wisconsin-as-time-running-out?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-11/trump-returns-to-court-in-wisconsin-as-time-running-out?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Why Trump's Latest Electoral College Ploy Is Doomed to Fail"
+    excerpt: "Even as President-elect Joe Biden’s victory was affirmed by the Electoral College, Republican electors supporting President Donald Trump met in a handful of battleground states won by Biden and tried to appoint themselves as “alternate electors\" that could keep the president in office."
+    publishedDateTime: 2020-12-14T22:48:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-14/why-trumps-latest-electoral-college-ploy-is-doomed-to-fail"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-14/why-trumps-latest-electoral-college-ploy-is-doomed-to-fail?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-14/why-trumps-latest-electoral-college-ploy-is-doomed-to-fail?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

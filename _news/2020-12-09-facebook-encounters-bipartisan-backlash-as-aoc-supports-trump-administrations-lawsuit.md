@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/facebook-encounters-bipartisan-back
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-encounters-bipartisan-backlash-as-aoc-supports-trump-administrations-lawsuit.amp"
 type: article
 quality: 167
-heat: 227
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,53 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump supporters, counterprotesters clash in Olympia, Wash."
-    excerpt: "Protests are raging on for another weekend in Olympia, Wash. Trump supporters and members of the Proud Boys gathered at Washington's state Capitol, along with leftist counterprotesters. There was at least one street brawl between the groups."
-    publishedDateTime: 2020-12-12T22:21:00Z
-    webUrl: "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa"
-    ampWebUrl: "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp"
+  - title: "Internet fact-checker at firm that works with Facebook reveals distrust of Trump WH"
+    excerpt: "Companies like Facebook work with groups licensed by individuals at the International Fact-Checking Network."
+    publishedDateTime: 2020-12-15T00:36:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eMCBfLQZb4k/fact-checker-anti-trump-bias"
+    ampWebUrl: "https://www.foxnews.com/politics/fact-checker-anti-trump-bias.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fact-checker-anti-trump-bias.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 169
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/protest-cropped-417a.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/578c0eab-8f63-4387-a70b-27ada2627f0c/6830dc2d-7b97-4f0d-a32f-ba7913410cf0/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Trump supporters, counter-protesters in violent clash in DC"
-    excerpt: "Follow for the latest updates on the D.C. protests."
-    publishedDateTime: 2020-12-13T04:57:00Z
-    webUrl: "https://www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020"
-    ampWebUrl: "https://www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ae7bb54-eeb3-4e89-b4b0-ad66c6ffb1ef/9f4c5af7-1da5-482c-bc85-23b80ae8e810/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump Administration Claims Facebook Improperly Reserved Jobs for H-1B Workers"
-    excerpt: "A Justice Department lawsuit accuses the social-media company of illegally reserving high-paying jobs for immigrant workers it was sponsoring for permanent residence and failing to adequately search for U."
-    publishedDateTime: 2020-12-03T20:21:00Z
-    webUrl: "https://www.wsj.com/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 131
-    images:
-      - url: "https://images.wsj.net/im-267936/social"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "37/bkMbMW8voNjBLUUzDbnGoiWqKivhcnmBMA7c3vhiC5VR/RAjKRJOIW3559jxeD7ycmGP7KPKVlEF50lMJ/Wvqzvz9MvK7YXAy9SH/lMRRGIJX2j+m87hKABClRo5ftQX+j7PrFOIEsWMTzUAve/TZ+SaF0AGR5K7RjJnLr8Mi790j7AMWYOC+OjLQfxMex41Smxz/Z+DtrmTAgKPzwa0jBJwwRAGA0eQwjI08sYmkOKVEbv9OB95fTaZlpgXRCaLTHJYo3PYmKMBkUbiKoAZBCdMJu0IZ5CIqJTS3H/e0RVJhs+Y9AKm/wT8pc6AB4n7iJD1Fk8u9+kEyLvE9tpLVmijstgwZxN3wz5jseks=;89650B6uywiHvZqVImNxJA=="

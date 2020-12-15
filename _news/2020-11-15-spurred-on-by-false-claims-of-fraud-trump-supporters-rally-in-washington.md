@@ -591,6 +591,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Wisconsin Supreme Court rules against Trump lawsuit -CNN"
+    excerpt: "The Wisconsin Supreme Court ruled against Republican President Donald Trump's election lawsuit on Monday and upheld Democratic President-elect Joe Biden's win in the state, according to CNN."
+    publishedDateTime: 2020-12-14T23:00:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin-lawsuit-idUSKBN28O2JM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O2JM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O2JM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544535272&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD1FN"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump campaign would have to pay nearly $8 million for Wisconsin recount"
     excerpt: "President Donald Trump's campaign would have to pay nearly $8 million to start a recount in Wisconsin, a state he narrowly lost two weeks ago."
     publishedDateTime: 2020-11-17T11:57:00Z

@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-10-biden-in-leaked-audio-suggests-gop-beat-the-living-h-out-of-us-over-defund-the-police.md",
+      "title": "Biden, in leaked audio, suggests GOP 'beat the living h--- out of us' over 'defund the police'",
+      "excerpt": "Biden said that public calls for police reform should be avoided ahead of the Georgia Senate runoff vote.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/StJsS8M-EY8/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/StJsS8M-EY8/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ec1a53c-f49f-4fc6-8b84-18fe1bbfadfe/8551395f-6676-4a6b-b491-ef4400e0b91f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police.amp",
+      "publishedDateTime": "2020-12-10T13:30:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-biden-further-slims-democratic-house-majority-with-usda-pick-despite-worries-from-some-top-democrats.md",
+      "title": "Biden further slims Democratic House majority with USDA pick, despite worries from some top Democrats",
+      "excerpt": "With House Democrats down to their slimmest majority in the chamber since World War II, a former chief of staff to House Speaker Nancy Pelosi is warning President-elect Joe Biden and his team to stop grabbing congressional Democrats for his incoming administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EK1oNhXTAxs/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EK1oNhXTAxs/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats.amp",
+      "publishedDateTime": "2020-12-10T11:51:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-morocco-normalizing-ties-with-israel-4th-country-to-do-so-under-trumps-arab-peace-plan.md",
       "title": "Morocco normalizing ties with Israel, 4th country to do so under Trump's Arab peace plan",
       "excerpt": "Morocco will normalize relations with Israel, making it the fourth country to do so in recent days under a U.S.-brokered deal.",
@@ -337,62 +449,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-facebook-encounters-bipartisan-backlash-as-aoc-supports-trump-administrations-lawsuit.md",
-      "title": "Facebook encounters bipartisan backlash as AOC supports Trump administration's lawsuit",
-      "excerpt": "Facebook is uniting both sides of the aisle with its alleged anti-competitive behavior.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OvZiyhyjH4Y/facebook-encounters-bipartisan-backlash-as-aoc-supports-trump-administrations-lawsuit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OvZiyhyjH4Y/facebook-encounters-bipartisan-backlash-as-aoc-supports-trump-administrations-lawsuit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3adaa9fa-da2f-49ad-b72c-00f3f78435a6/2983e575-4673-484c-833c-2f3da838f6f2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/facebook-encounters-bipartisan-backlash-as-aoc-supports-trump-administrations-lawsuit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-encounters-bipartisan-backlash-as-aoc-supports-trump-administrations-lawsuit.amp",
-      "publishedDateTime": "2020-12-09T15:55:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },
@@ -1620,62 +1676,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds.md",
-      "title": "Republicans demand probe into Padilla's $35M grant to Biden-linked firm, claim 'misuse' of taxpayer funds",
-      "excerpt": "EXCLUSIVE: Republicans on the House Oversight and House Administration Committees are demanding answers from California Secretary of State Alex Padilla, who has emerged the frontrunner to be appointed to Vice President-elect Kamala Harris’ Senate seat, about a “highly questionable” $35 million contract",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAqL3PyjFNE/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAqL3PyjFNE/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds.amp",
-      "publishedDateTime": "2020-12-03T15:30:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

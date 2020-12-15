@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-secretary-o
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-secretary-of-defense-joe-biden/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -190,6 +190,20 @@ related:
       - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/n_hallie_brk_rice_biden_201210_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Electoral College affirms Biden's victory"
+    excerpt: "Democratic electors cast their votes without incident states where Trump has contested the results, like Pennsylvania and Georgia."
+    publishedDateTime: 2020-12-14T23:10:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/12/14/electoral-college-affirms-bidens-victory-1346450"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/87/fa/04107b0c4742923ec02a4bbcaa9d/20201213-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "Mmi0nQGaVsytKfHwucs2DYChER34D+bAu/df7ZTU+Yc4kToSAmqpVxd6jCYjOlVg+qnPfvCVq7pLyKquLHvjFuTzPSSRRwsHAsQalKu3XPwoRw+Sw+jtjPmYYN8yz0cwFXRAUHoZJyeh+75kun1TGhu0GUVOIeqe84m8k/YEhBlw02UMILarDnKYdJlc33lbG5W+7LyHFBd/AJQVDbb0PQc/2ZJLwoD8EESCgRiO2C8VvENNVWMzEjzAteevAfDZk/7XNCBmmJtUAt8eBgPaHYmELnzx8usfO0YV0RUjoHQktp+n9tt25vt4h+wtjn7gpt8f1DpwmIcuE6CrHm6e3ZwxZgp0xpgCN9H/Fxn8kAo=;+syM4oNYOOOVVL0K9iTUEQ=="

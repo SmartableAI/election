@@ -481,6 +481,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Electoral College affirms Joe Biden-Kamala Harris victory"
+    excerpt: "The Electoral College on Monday cast its votes to elect Joe Biden and Kamala Harris president and vice president, following weeks of efforts by President Donald Trump to cast doubt on the election process."
+    publishedDateTime: 2020-12-14T12:49:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/12/14/Electoral-College-affirms-Joe-Biden-Kamala-Harris-victory/4821607896946/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/14/Electoral-College-affirms-Joe-Biden-Kamala-Harris-victory/4821607896946/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/14/Electoral-College-affirms-Joe-Biden-Kamala-Harris-victory/4821607896946/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 90
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/4821607896946/2020/1/5dea4f3742acb8201f7fefa2534fbe48/v1.5/Electoral-College-affirms-Joe-Biden-Kamala-Harris-victory.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Here's What Young Voters Want From Joe Biden and Kamala Harris in the Next Four Years"
     excerpt: "Young voters were were key to getting Joe Biden and Kamala Harris elected. Here’s what they want to see from them in the next four years."
     publishedDateTime: 2020-11-20T12:43:34Z
@@ -727,6 +743,6 @@ related:
       domain: marketplace.org
     quality: 35
 
-secured: "ojsIStZAA0Gxu8iNoP0c1SXffFFyzHAje6MeGjYzgVvVFHtVmrPDBc+1y9W82fEPD9dfhSiKYx1Vok/oYg/wdv0hq1yDU5Nyt8BjKzD/Q00ifA8+WsGTP9f9OI/QA0kRAmUZ+Jor5/+nG1GM5xudhIgj8TShiRQUz8FYvSKjtrxJo19E0EJaQ/CwN68ew6k/TPnAkxgElcZ5s43Qqfbq2rBkK7phhX8c0mTReFSE5rGsxJBNsthyNUNzK1dkALkMRzUT8YA1a27Fl5Ppv/o/bRjonRd/ZtFr8mb0BRtzsH2KoKz0PsXmdBY0KQcYQGgZCZSPrFn8k9oK+lMUyyqyYM11M8stp/v3ir2mD2NWoh4=;Ln4gysmSsOM2Xwgd08FXww=="
+secured: "cCxtFLGSziCZZd8XNCeogyWb+fA5WaPbFy8Ic+9FhjCOaaWpZYX5gKMJ+GsMtU8j67wyrdlUEBlNaR7Yb4fVuQ/amkxmWc3JZ3PvfKveshwh1NL1DrIlivJXVysJR+2gJqSDQRPWZ+qoBdY68dRJbZU3J2sZQvUDwFcTn9g9Iio+Sc61huV+p0KaydHrm/iJmjTusnUrhU1yhundcpG5k4aUqynpqTjy/aaVQAa+ZcxKORD3RR4slX0a7RTkaGy4ldG6SoXhcsyeUxXN7uvYihiAUN2mYPKH2pIIx6O6rZu2LzMp1k9LuptNykofrSI8eRW3hN5IDglDAwavUFLJP5MAN427m8YpkooAi1ICOBbow0DPdFKoTYMgw773jDPCkb0Fc+ANiPeHvH/d22VPm94URpdUpxp9rj4CB5KNSqwgOHZRzVLnvD8qo3WZEuEi9wjKolgnLqQ+l1fTFmjagKFv+vmaNH13kD9CMdgsfPSQ+MH2qbHr/561s8QNMEUIrNf0jzl8hISURAgh3SWsxg==;m5ZxjLHmn3VNoCnW2xhY7g=="
 ---
 

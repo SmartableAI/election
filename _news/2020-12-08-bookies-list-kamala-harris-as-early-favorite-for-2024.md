@@ -297,6 +297,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "President-elect Joe Biden clears 270-vote threshold in Electoral College count, formalizing his victory"
+    excerpt: "WASHINGTON — President-elect Joe Biden clears 270-vote threshold in Electoral College count, formalizing his victory. Copyright 2020 The. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2020-12-14T22:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/president-elect-joe-biden-clears-270-vote-threshold-in-electoral-college-count-formalizing-his-victory/2020/12/14/12bd77ae-3e5c-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/president-elect-joe-biden-clears-270-vote-threshold-in-electoral-college-count-formalizing-his-victory/2020/12/14/12bd77ae-3e5c-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/president-elect-joe-biden-clears-270-vote-threshold-in-electoral-college-count-formalizing-his-victory/2020/12/14/12bd77ae-3e5c-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Who will replace Kamala D. Harris in the Senate?"
     excerpt: "The Post’s Scott Wilson explains how California Gov. Gavin Newsom (D) faces pressure to appoint a Latino or Black woman to Vice President-elect Kamala D. Harris’s senate seat."
     publishedDateTime: 2020-12-11T22:16:00Z
@@ -413,19 +429,35 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Michigan's Electoral College delegates cast all 16 votes for Joe Biden, Kamala Harris"
-    excerpt: "By law, Michigan delegates to the Electoral College are required to cast their votes for the winner of the popular vote."
-    publishedDateTime: 2020-12-14T20:14:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
-    ampWebUrl: "https://amp.freep.com/amp/6538683002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6538683002"
+  - title: "Colorado’s Electoral College electors make Joe Biden, Kamala Harris win official"
+    excerpt: "Nine Colorado Democrats gathered in the west foyer of the state Capitol at high noon Monday to put the final stamp on Joe Biden’s and Kamala Harris’ Nov. 3 victory, as the Electoral"
+    publishedDateTime: 2020-12-14T20:10:00Z
+    webUrl: "https://www.denverpost.com/2020/12/14/electoral-college-biden-trump-colorado/"
+    ampWebUrl: "https://www.denverpost.com/2020/12/14/electoral-college-biden-trump-colorado/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/12/14/electoral-college-biden-trump-colorado/amp/"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 85
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/12/AP20349797001436.jpg?w=1024&h=647"
+        width: 1024
+        height: 647
+        isCached: true
+  - title: "Michigan's Electoral College delegates cast all 16 votes for Joe Biden, Kamala Harris"
+    excerpt: "By law, Michigan delegates to the Electoral College are required to cast their votes for the winner of the popular vote."
+    publishedDateTime: 2020-12-14T23:15:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6538683002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6538683002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 83
     images:
-      - url: "https://www.gannett-cdn.com/presto/2019/09/06/PDTF/2e56deb3-95a0-4669-884b-ee1fe94bafac-IMG_Michigan_State_Capit_1_.JPG?auto=webp&crop=3865,2174,x0,y357&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/14/PDTF/8855f26a-225d-4845-9a4d-876b9a8fd6dd-GTY_AFP_8X66JW.jpg.jpg?auto=webp&crop=3910,2200,x0,y198&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -444,6 +476,20 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-PRESREACT-1108-3-1.jpg?w=1024&h=758"
         width: 1024
         height: 758
+        isCached: true
+  - title: "Wisconsin's 10 electoral votes were officially cast for Joe Biden and Kamala Harris"
+    excerpt: "Democratic electors met with Gov. Tony Evers' to finalize the state's 10 electoral votes for President-elect Biden and Vice President-elect Kamala Harris,"
+    publishedDateTime: 2020-12-14T23:40:00Z
+    webUrl: "https://www.jsonline.com/videos/news/2020/12/14/joe-biden-and-kamala-harris-get-wisconsins-10-electoral-votes/6549689002/"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/14/PMJS/74ab24df-502a-4778-b0d8-f3e190494555-AP_Electoral_College_Wisconsin.jpg?quality=10"
+        width: 4192
+        height: 2795
         isCached: true
   - title: "Illinois casts all 20 electoral votes for Joe Biden and Kamala Harris; Mayor Lori Lightfoot wielded gavel as electors cast ballots"
     excerpt: "Secretary of State Jesse White, who officially oversees the quadrennial session, passed the gavel to Mayor Lori Lightfoot, an elector."

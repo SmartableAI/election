@@ -103,6 +103,20 @@ related:
         width: 3549
         height: 2366
         isCached: true
+  - title: "Florida’s electoral college casts votes for Donald Trump, Mike Pence"
+    excerpt: "Florida’s Electoral College cast their 29 votes on Monday for President Donald Trump and Vice President Mike Pence during a ceremony inside the Capitol Senate Chamber. Trump won Florida with more than 371,"
+    publishedDateTime: 2020-12-15T00:02:00Z
+    webUrl: "https://floridapolitics.com/archives/388818-floridas-electoral-college-casts-votes-for-donald-trump-mike-pence"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 70
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/12/IMG_6098-1000x563.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "46ssnjFlzpGA/LHNlXt4yoYEsi5IlPCzfxf5JXMqyVnjyge7HH2JvA1Vx04fSgUg4O2nDkcBnVc64IegifEF7LYGbapgGw24iPtMtWIPJVNAOfa1Sah/wfRf1W8D4xFXgY/iYWDzOBvmrJywUDwZxOtbctV+05cVjt8OGHIGFVE/V8iKI4SjVm33MooELaUqeA3sdhP1UlqMn/2SN3gycyVmNK7TW9RkJVlHIM8MqXmBbjhYzceIRhnTvyH0Wgv/nWJ+tBs4AWaEEbqTRC5JuUeMnL7tIRZJa0mxULHQIymMF79UVmHtKRngn1vIY/q4i1TF9rUn9fxxXvGUY4jR0wYwSE0pjuMoDo9qAV36tIs=;KnWO5PdxIbvscyWDadiAzA=="
 ---

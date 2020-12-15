@@ -157,6 +157,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump says Barr resigning, will leave before Christmas"
+    excerpt: "Attorney General William Barr, one of President Donald Trump’s staunchest allies, is resigning amid lingering tension with the president over the president’s baseless claims of election fraud and the investigation into president-elect Joe Biden’s son."
+    publishedDateTime: 2020-12-15T00:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-says-barr-resigning-will-leave-before-christmas-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-says-barr-resigning-will-leave-before-christmas-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-barr-resigning-will-leave-before-christmas-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "Cnrbb5UQbVD5slMH1t32qgNGWexX+bKCMstQq4oC0N6iNTbDeB7O7tUknttyz4vJNE31S/2r/z+ZDZ3D3yNOmbgdVAQftUKxgc1woPZbt7XZ1ig69t/zVrkSJ6mwsP9jcyoUGQTa9sKJgh6nalyz/Cg5mbWus273aUZfRRw/yL1XmMKdOKwQt4bZsiTurDGh2k3UjP5+W6vCcOrynBkt3PYI+7Oowb/NBXejLiA6S0CObmokJVG7R2J9AT1pzCamK/BQEmLQ7FBtqcPcVd+G+aQvcZ8DgddRVdCtCEbllkq00j+idHzWVjJW+nVKp9iN6iKjrCve6fGYiKmjYlKDl+wLZBYnmZWVYzHNbRtjsXY=;x0R8rkHLqV8N/fQ6FPMXkA=="
 ---

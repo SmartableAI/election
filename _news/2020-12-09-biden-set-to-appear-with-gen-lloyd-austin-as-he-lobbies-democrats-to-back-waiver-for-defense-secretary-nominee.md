@@ -191,6 +191,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Electoral College affirms Biden's victory"
+    excerpt: "Democratic electors cast their votes without incident states where Trump has contested the results, like Pennsylvania and Georgia."
+    publishedDateTime: 2020-12-14T23:10:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/12/14/electoral-college-affirms-bidens-victory-1346450"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/87/fa/04107b0c4742923ec02a4bbcaa9d/20201213-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "g0NwFTZeLR2dLs9tkftflPbLxrcGz1EmjYFOOzKehh2XZJav8duL34fKyBv88KVTnuJI1L/ARJwgyOyYSS842ZYQWKvKA19tYv1fN+VrC+CLFqDvA861ReSgNeinXPDhD1QSiB7TMnuQHgvJUCZhbT9frur/Nh9dEMo3Xz92ed1/LyIJGIxkDws5GRt54dR1YYHJP422Olz+VdyGD5JhRrfpyZo3euyRxTpvTYDCsdO+0Vf85YuRzWjWCo78cjwEJuiCPsKDtwL613lG0y3KGV0c2omcYFD0Zjzwh34KvYo82yMajTlOWNbsHYf9LJWCgA85SiEryOoP8Fd1+mY+AH/rfh2+gRrGAkEfZXet5UU=;pfCFoO+sJYnRcswjOC+NJg=="
 ---

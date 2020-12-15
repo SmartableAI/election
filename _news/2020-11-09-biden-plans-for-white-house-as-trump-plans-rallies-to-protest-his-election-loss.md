@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
 type: article
 quality: 161
-heat: 10701
+heat: 10721
 published: true
 
 provider:
@@ -2751,6 +2751,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CRSDW3BPL4I6XOXAKC5ROETGCQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Donald Trump will keep protesting, despite Electoral College vote for Joe Biden"
+    excerpt: "Far from conceding, Trump served notice he will keep protesting, no matter that he has no chance of reversing his loss to Biden."
+    publishedDateTime: 2020-12-14T23:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/14/donald-trump-keep-protesting-despite-electoral-college-vote/6536849002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6536849002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6536849002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/03/USAT/171a421a-3d61-4825-b357-5bc3d776607a-AP20338663126539_1.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Joe Biden beats Donald Trump to win US election – live 2020 updates"
     excerpt: "Democrat wins Pennsylvania and its 20 electoral votes, surpassing 270 needed to win White House"
