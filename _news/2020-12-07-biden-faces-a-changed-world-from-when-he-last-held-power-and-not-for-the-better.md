@@ -142,20 +142,20 @@ related:
         height: 545
         isCached: true
   - title: "Biden clears 270-vote mark as electors affirm his victory"
-    excerpt: "Electors in the electoral college are casting the votes that will formally choose Joe Biden as the nation’s next president."
-    publishedDateTime: 2020-12-14T22:45:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-14/electors-meeting-to-formally-choose-biden-as-next-president"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-14/electors-meeting-to-formally-choose-biden-as-next-president?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-14/electors-meeting-to-formally-choose-biden-as-next-president?_amp=true"
+    excerpt: "Presidential electors have given Joe Biden a majority of their votes, formalizing his victory in last month’s election"
+    publishedDateTime: 2020-12-15T02:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/electors-meeting-formally-choose-biden-president-74709840"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/electors-meeting-formally-choose-biden-president-74709840"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/electors-meeting-formally-choose-biden-president-74709840"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/7749282/2147483647/strip/true/crop/4341x2835+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F08%2Fbd%2Fcbf72ac3438eacfccf3ea6d430f8%2Fbiden-55451.jpg"
-        width: 320
-        height: 209
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f5ace61a324d464e81b9ae85f7e3da54_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Electoral college meeting to formally choose Biden as next president"
     excerpt: "Electors in the electoral college are casting the votes that will formally choose Joe Biden as the nation’s next president."
@@ -220,6 +220,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/b2eecec4-b9a3-4c93-86db-a3f95fb27228/thumbnail/1200x630/90609bf67298dd0107ed148f9f4142a1/gettyimages-1044568894.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris’s husband, lawyer Doug Emhoff, to teach next semester at Georgetown"
+    excerpt: "The incoming second gentleman has landed a new job at the Georgetown University Law Center, school officials announced. Doug Emhoff, husband to Vice President-elect Kamala D. Harris, announced last month he would leave his Los Angeles law firm by Inauguration Day."
+    publishedDateTime: 2020-12-14T08:19:00Z
+    webUrl: "https://www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2YNFSAR37YI6XETWVYGKOJZJXY.jpg&w=1440"
+        width: 1440
+        height: 958
         isCached: true
   - title: "From Kamala Harris To Jacinda Ardern: The World’s Most Powerful Women In Politics In 2020"
     excerpt: "With more uncertainty on the horizon, the female leaders on the 2020 Forbes list of the World’s Most Powerful Women are holding onto their hard-won political gains and working to reverse alarming trends around the pandemic’s disproportionate effects on women."

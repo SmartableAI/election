@@ -2,9 +2,9 @@
 category: news
 title: "Electoral College affirms Biden's victory"
 excerpt: "Democratic electors cast their votes without incident states where Trump has contested the results, like Pennsylvania and Georgia."
-publishedDateTime: 2020-12-14T23:10:00Z
-originalUrl: "https://www.politico.com/states/california/story/2020/12/14/electoral-college-affirms-bidens-victory-1346450"
-webUrl: "https://www.politico.com/states/california/story/2020/12/14/electoral-college-affirms-bidens-victory-1346450"
+publishedDateTime: 2020-12-14T23:09:00Z
+originalUrl: "https://www.politico.com/news/2020/12/14/electoral-college-biden-victory-444952"
+webUrl: "https://www.politico.com/news/2020/12/14/electoral-college-biden-victory-444952"
 type: article
 quality: 115
 heat: -1
@@ -61,6 +61,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/111129080221-biden-and-general-story-top.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "GOP senators still won't acknowledge Biden's win as some begin to recognize reality"
+    excerpt: "A bevy of Senate Republicans, after refusing for weeks to acknowledge Joe Biden's victory in the presidential race, still wouldn't do so Monday evening even after the Electoral College made the win official.\n    \n"
+    publishedDateTime: 2020-12-15T01:55:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FXHyRSaoKDE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/republican-senators-biden-electoral-college-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/republican-senators-biden-electoral-college-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170504130713-john-kennedy-louisiana-1210-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Biden faces Democratic pushback over waiver to allow retired general to lead Pentagon "
     excerpt: "Senate Democrats are uneasy about granting a rarely invoked waiver that would allow President-elect Joe Biden's pick of retired Gen. Lloyd Austin to head the Defense Department, the first nominee to encounter resistance from senators in the incoming President's own party.\n    \n"
@@ -207,6 +223,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "eowCNupmZnbyM2ARhw4z3o/BnyOyruQEL+gTjAeXXctv9IUWD2CEioO8m4WeCvz8pjZps3CXjQaZP/M8OnK1D2t7I7u+Bi3Bl2y3MyMzP2UgXe0J6yw2KPi6GfEbJsvXiq70/OwTvFZnONNFZAlVsM3u99mitqqKXV049Wzu4BDlcegqNV0da9/LzMYQrQyoBC04wTeN1LZVkusro6ruxa0Nm6VGPshlFnHfFzlGW3ShFCDbrfflVLyUAjXkO2r7NYvwwnUlls9jJx+Ijygess2qpK7I1asM2+HsV7utKNIqvWB4vvGo2ToD0uEoNRxFtG7FO8pEpcIzEOXzSxd9TlUh8uiNSQ/a6WOO6plsW9U=;XAZdKN/IlpKwNaOzi0Bnfg=="
+secured: "WV/FBZOfX6W2GtRUNuvM4W02M/BLd7a537ucZMrGnX5l2bUs9Imo8m+zELxlmL6+6Cd5/KWTTA2RmmJULFLkIea6JG0+k3i7g3HswE44iPOmz7Z7VvA5q/Ayu+9SYzHtjo+OZeewfLkc684IgBmq86ggXXWPb5mouT/AzqRfhUOKNRQtYy0MQlrLhBhF3VBwoPXyiwckSaM6cSHkl8dSq5uPcF2V2bs2n3dWaIarfj5fqAcxdAgGD6BK0ZdH5W96JqiIp4scKWNNorctr6I2ytiwsS5+ae2uk5iTJttMx0OobQsNH6iIg0URL6O6YGgPm1wnA1DdHT3DQJ9t5zoEzQ5c7qjsHmza/GAa5K0aQ0o=;x7lPlrwfJettHsvw2xD+7Q=="
 ---
 

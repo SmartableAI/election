@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html"
 type: article
 quality: 185
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/11/us/politics/11transition-briefing-scotus/11transition-briefing-scotus-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Supreme Court puts off ruling on Trump census case to exclude undocumented immigrants"
+    excerpt: "The administration had asked the justices to fast-track a decision before it must report the numbers to Congress."
+    publishedDateTime: 2020-12-15T01:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/supreme-court-puts-ruling-trump-census-case-exclude-undocumented-immigrants-n1251109"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251109"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251109"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3435583/201214-census-protest-supreme-court-se-1040a_75e731785be9870c623e6f900274f51e.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "ivwzxHdjAiFwETu2W9CI1rmwiXOx2e/eTuLB84s9CYCKQNaObXCHRWEqs8nqOIspoZXz8nWETTEHS23MsUcC6ybMbLa3v/geUxBoJNv+TwgCaWFWZQ+YcTrACep5Dr1PM1BVaJH+9suxs4KSB78ky9QinqBspPqZ3lLfY8sFwPcNqfZwFBoHIwHvEg54y8tR3twIiwugelDO2OvBJsL2oAS6vT/81gzTD95zIY9D0z+MwD+6UbHlnzu7vfilwOs9fA2+otH8tfiln4SknEBA+6IUiA6ezXa7G8EV+GDM6/YhOPINNakwiJ+au1xheN8yjgPwNUIAR0iCpFxYksNAifQ1wxXwIgUb/CmraJnrzoc=;7vrLoi647FEthjaWhdHOMA=="

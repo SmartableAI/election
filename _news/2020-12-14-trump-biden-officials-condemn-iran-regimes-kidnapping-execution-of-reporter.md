@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-officials-condemn-iran-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-officials-condemn-iran-reporter.amp"
 type: article
 quality: 186
-heat: 486
+heat: 506
 published: true
 
 provider:
@@ -254,6 +254,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cbf6a5de-4c6e-402d-ad75-1713dbc7e628/f49d8ca1-c005-47ec-8e0b-075fcd435fc5/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "US sanctions could further strain relations with NATO ally Turkey amid Biden transition: analysts"
+    excerpt: "The State Department announced Monday that the U.S. is imposing sanctions on Turkey over its acquisition of Russian S-400 air missile defense system, which could further strain relations with the longtime NATO ally as President-elect Joe Biden prepares to take office,"
+    publishedDateTime: 2020-12-15T01:33:00Z
+    webUrl: "https://www.foxnews.com/world/us-sanctions-nato-ally-turkey-biden-transition-analysts"
+    ampWebUrl: "https://www.foxnews.com/world/us-sanctions-nato-ally-turkey-biden-transition-analysts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/us-sanctions-nato-ally-turkey-biden-transition-analysts.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/erdogan.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Time to Call in a Special Counsel on Hunter & Joe Biden"
     excerpt: "Now that the election is over and it is safe for the media to cover the Hunter Biden scandal they ignored when The Post broke the story in October, things in Washington are getting back to normal. … Trump should expend every option possible to expose how the election was"

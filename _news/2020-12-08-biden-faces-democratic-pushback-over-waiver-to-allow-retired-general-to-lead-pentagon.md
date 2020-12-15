@@ -63,6 +63,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "GOP senators still won't acknowledge Biden's win as some begin to recognize reality"
+    excerpt: "A bevy of Senate Republicans, after refusing for weeks to acknowledge Joe Biden's victory in the presidential race, still wouldn't do so Monday evening even after the Electoral College made the win official.\n    \n"
+    publishedDateTime: 2020-12-15T01:55:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FXHyRSaoKDE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/republican-senators-biden-electoral-college-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/republican-senators-biden-electoral-college-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170504130713-john-kennedy-louisiana-1210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's defense nominee courts Democrats amid concerns over waiver to lead the Pentagon  "
     excerpt: "President-elect Joe Biden's team is ramping up its lobbying to win over Democratic support for a waiver that would allow Lloyd Austin to serve as the defense secretary amid concerns from the incoming President's own party about allowing another recently retired general to assume the top civilian post"
     publishedDateTime: 2020-12-14T20:36:36Z
@@ -193,8 +209,8 @@ related:
         isCached: true
   - title: "Electoral College affirms Biden's victory"
     excerpt: "Democratic electors cast their votes without incident states where Trump has contested the results, like Pennsylvania and Georgia."
-    publishedDateTime: 2020-12-14T23:10:00Z
-    webUrl: "https://www.politico.com/states/california/story/2020/12/14/electoral-college-affirms-bidens-victory-1346450"
+    publishedDateTime: 2020-12-14T23:09:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/electoral-college-biden-victory-444952"
     type: article
     provider:
       name: Politico

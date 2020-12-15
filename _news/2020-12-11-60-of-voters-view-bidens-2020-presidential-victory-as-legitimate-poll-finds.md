@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden HHS nominee was an investor in company sued over elder abuse claims"
+    excerpt: "Xavier Becerra sold his shares in the company earlier this year."
+    publishedDateTime: 2020-12-15T01:23:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XzH50Ib5XUA/biden-hhs-nominee-investor-elder-abuse"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-nominee-investor-elder-abuse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-nominee-investor-elder-abuse.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President of Soros’ Open Society Foundations resigns, clearing way for potential Biden Cabinet position"
     excerpt: "The president of George Soros’ Open Society Foundations, Patrick Gaspard, will resign, opening the way for him to take a possible position in the Biden administration."
     publishedDateTime: 2020-12-05T22:30:03Z

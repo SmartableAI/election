@@ -2765,6 +2765,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "As electoral college formalizes Biden’s win, Trump backers hold their own vote"
+    excerpt: "ATLANTA — Republicans in six states won by President-elect Joe Biden held their own electoral college-style votes Monday for President Trump — hoping that future court decisions would throw out Biden's votes and count the GOP ones instead."
+    publishedDateTime: 2020-12-15T02:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-backers-electoral-college/2020/12/14/f0fcc59c-3e52-11eb-9453-fc36ba051781_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-backers-electoral-college/2020/12/14/f0fcc59c-3e52-11eb-9453-fc36ba051781_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-backers-electoral-college/2020/12/14/f0fcc59c-3e52-11eb-9453-fc36ba051781_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 136
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D7PUOQR6HUI6XNMLCYR7MJTZMA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Donald Trump will keep protesting, despite Electoral College vote for Joe Biden"
     excerpt: "Far from conceding, Trump served notice he will keep protesting, no matter that he has no chance of reversing his loss to Biden."
     publishedDateTime: 2020-12-14T23:56:00Z
@@ -5860,6 +5876,20 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-24-2020/t_d19024315770447497f8c4327878970c_name_439f76aa_2e7c_11eb_9dd6_2d0179981719_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 834
+        isCached: true
+  - title: "Electoral College confirms Biden's win over Trump"
+    excerpt: "World Electoral College confirms Biden's win over Trump. Posted . Democrat Joe Biden on Monday won the state-by-state Electoral College vote that formally determines the U.S. pres"
+    publishedDateTime: 2020-12-15T01:22:00Z
+    webUrl: "https://www.reuters.com/video/watch/electoral-college-confirms-bidens-win-ov-id723067968?chan=8gwsyvzx"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201215&i=OVD8ZIRU3&r=OVD8ZIRU3&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."

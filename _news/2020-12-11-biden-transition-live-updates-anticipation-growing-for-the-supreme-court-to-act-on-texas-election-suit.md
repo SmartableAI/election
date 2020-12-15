@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Supreme Court puts off ruling on Trump census case to exclude undocumented immigrants"
+    excerpt: "The administration had asked the justices to fast-track a decision before it must report the numbers to Congress."
+    publishedDateTime: 2020-12-15T01:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/supreme-court-puts-ruling-trump-census-case-exclude-undocumented-immigrants-n1251109"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251109"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251109"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3435583/201214-census-protest-supreme-court-se-1040a_75e731785be9870c623e6f900274f51e.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "MM5e7fLmh/sQ/Cr3cELiWUVwea9XSqlKZtkyrLSHmNZiCHOCIgvA3G8ujQ/BQEf3RrxfnFeSX3DxaCl04dLLShzbPnrbV21ui2h09rQ6QuyxpuFVSweUHv+ElnozVCTMkN622OtP5rsUIZ/Sv1qg0IRPsaKgjx1Z1CAv2zwX6m91C26PUwCOBrmapoOXuM+FN2abeopKdArOpzikUuRI6zsp3K7yK7VOvDQxNdkvr/Y2HOfemQNZWGJtwaADG5Lek8kDi7w+VtJFECgpUX0dbHxXIcmpAP//IKbXFIBn1s01Z13D+xyAIO0DdhVXBndptXS8HvCgvKl+ilQ/58xlphRmZjIzFpw+6ZQXFGUDkNj7DUhH7uvGIXmiVYCY2ox9MNxT5I3kFjILKkOKCjDwhduar8bbwxkZ2gHwJDXLV2kIkiFyQKfEvo9GyIS9TgTvqnfzMJnZbV8wyQ5lBPL9eWkI+5ApRJAFVa8En3E3/4Ru9tPTYMjnqLey8eC9Qf4sE6G6yuDhfXiVz2TYAK5Y/w==;Rv0pFeCgoP8GFJQ5os56gA=="
 ---

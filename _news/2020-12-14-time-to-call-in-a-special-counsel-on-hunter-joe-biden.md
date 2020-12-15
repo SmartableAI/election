@@ -260,6 +260,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "US sanctions could further strain relations with NATO ally Turkey amid Biden transition: analysts"
+    excerpt: "The State Department announced Monday that the U.S. is imposing sanctions on Turkey over its acquisition of Russian S-400 air missile defense system, which could further strain relations with the longtime NATO ally as President-elect Joe Biden prepares to take office,"
+    publishedDateTime: 2020-12-15T01:33:00Z
+    webUrl: "https://www.foxnews.com/world/us-sanctions-nato-ally-turkey-biden-transition-analysts"
+    ampWebUrl: "https://www.foxnews.com/world/us-sanctions-nato-ally-turkey-biden-transition-analysts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/us-sanctions-nato-ally-turkey-biden-transition-analysts.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/erdogan.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "W2VSVr6s7ygb3paQ38pK4gEdOYNe8dNVjnPNka/G7ZZAlZF6f23THHwHlPMjZFGYMHqPW8MIl/KuvTRAwSflF86nsY20d1sJV7OaLvTSWR3LheDR2kumxJVabhNDqqRuxSuInsvz0zg/TuIbU56DbYnINEoeVTe0Pn7AU9j2Z6qeVkumrY8k1s/Km6Eek5YWa42hnIGnfB2yqOhySxqPpePOtiFo2GcfzVEQAmg+N2gVjah4ymZ12WmcaWnYqlomiC/RRmNqENtZQY381xJhVZyFvi6cJUVH957AwUmbHRVY459bwKTQ99bvY810+/Ed8mZkJuevEjBqhTPRVUrx8G9BD50lwOI4zH4YsYRNHsA=;tZYvv9P+s9XVYzXq9Dfs1w=="
 ---

@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'Democracy prevailed,' Biden says after U.S. Electoral College confirms his win"
+    excerpt: "Democrat Joe Biden called on Americans to \"turn the page\" on the Trump era in a prime-time speech on Monday, hours after prevailing over the Republican in the state-by-state Electoral College vote that officially determines the U."
+    publishedDateTime: 2020-12-15T01:45:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN28O0FM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O0FM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O0FM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544576223&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE03I"
+        width: 881
+        height: 545
+        isCached: true
   - title: "GOP Sen. Cotton: Biden Will Fire Prosecutors Investigating Son 'If' He Becomes President"
     excerpt: "\"Should Joe Biden become president, all of the prosecutors investigating Hunter Biden will be fired. There's a clear conflict of interest here– one that demands a special counsel,\" the Arkansas senator tweeted Thursday."
     publishedDateTime: 2020-12-10T20:35:00Z
@@ -144,6 +160,28 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "'The people prevailed': Biden addresses nation as electoral college affirms victory - live"
+    excerpt: "California – which has more electoral votes than any other state – sealed the presidency for Joe Biden"
+    publishedDateTime: 2020-12-15T01:08:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd805798f08b0a99da962f3"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 95
+  - title: "'The people prevailed': Biden addresses nation as electoral college affirms victory - as it happened"
+    excerpt: "California – which has more electoral votes than any other state – sealed the presidency for Joe Biden"
+    publishedDateTime: 2020-12-15T01:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd806118f08a72f01adad62"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 90
   - title: "Indiana Presidential Electors Award Trump, Pence 11 Votes"
     excerpt: "Indiana’s 11 representatives to the Electoral College unanimously cast their votes Monday for President Donald Trump."
     publishedDateTime: 2020-12-14T16:37:00Z

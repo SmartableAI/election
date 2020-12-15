@@ -138,20 +138,20 @@ related:
         height: 545
         isCached: true
   - title: "Biden clears 270-vote mark as electors affirm his victory"
-    excerpt: "Electors in the electoral college are casting the votes that will formally choose Joe Biden as the nation’s next president."
-    publishedDateTime: 2020-12-14T22:45:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-14/electors-meeting-to-formally-choose-biden-as-next-president"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-14/electors-meeting-to-formally-choose-biden-as-next-president?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-14/electors-meeting-to-formally-choose-biden-as-next-president?_amp=true"
+    excerpt: "Presidential electors have given Joe Biden a majority of their votes, formalizing his victory in last month’s election"
+    publishedDateTime: 2020-12-15T02:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/electors-meeting-formally-choose-biden-president-74709840"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/electors-meeting-formally-choose-biden-president-74709840"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/electors-meeting-formally-choose-biden-president-74709840"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/7749282/2147483647/strip/true/crop/4341x2835+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F08%2Fbd%2Fcbf72ac3438eacfccf3ea6d430f8%2Fbiden-55451.jpg"
-        width: 320
-        height: 209
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f5ace61a324d464e81b9ae85f7e3da54_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Electoral college meeting to formally choose Biden as next president"
     excerpt: "Electors in the electoral college are casting the votes that will formally choose Joe Biden as the nation’s next president."
@@ -232,6 +232,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/ba41504/2147483647/strip/true/crop/5636x3681+0+57/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2F44%2F56cb36034f4792e1203a5779f5fe%2Fla-photos-1staff-644724-fg-1105-universityattack-mwy-0989.JPG"
         width: 320
         height: 209
+        isCached: true
+  - title: "Kamala Harris’s husband, lawyer Doug Emhoff, to teach next semester at Georgetown"
+    excerpt: "The incoming second gentleman has landed a new job at the Georgetown University Law Center, school officials announced. Doug Emhoff, husband to Vice President-elect Kamala D. Harris, announced last month he would leave his Los Angeles law firm by Inauguration Day."
+    publishedDateTime: 2020-12-14T08:19:00Z
+    webUrl: "https://www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2YNFSAR37YI6XETWVYGKOJZJXY.jpg&w=1440"
+        width: 1440
+        height: 958
         isCached: true
   - title: "From Kamala Harris To Jacinda Ardern: The World’s Most Powerful Women In Politics In 2020"
     excerpt: "With more uncertainty on the horizon, the female leaders on the 2020 Forbes list of the World’s Most Powerful Women are holding onto their hard-won political gains and working to reverse alarming trends around the pandemic’s disproportionate effects on women."
@@ -570,6 +586,6 @@ related:
         height: 315
         isCached: true
 
-secured: "qC0P/wkRZACQ3oDNhoTrU3jdhGQsZwrRfkZOupvZT7wxPFqqs/VNBcf1BV5P3WurwKpg4tbAXCaGNSitLYe2jGNN0wWMqU8bBko0nT9RCdq2ujSCMZ/x8NzwkxuLd2Uv9v3dvH5NOnDQ1VJie0RmJ/dUORvFLx3j9VM0z3dm0pfFTQY4GdB5XfmM2jgaOkZsBj9F55QvfvR1ywE6c9Kh+wYHT8UyPnDYbvBdRvEx+izKNKcBxIBjbpX2ylQAAVpO5/u/nmMf84I5mlakVY/Altxg5raRcoFGlmn4iAwGXg7SCqCCsbD898fTDxYQw6ytdQApn5j0n8iGY5qeePPkHpWwheetdzUL1wbdiXnfqRg=;jFfcCQ9r3dXE+yKhOvFvaw=="
+secured: "M1RF6dGmujl1BQxXSP/kTqesBMkxlDHBsIhWqWz8W8QnJYesUPSTOvEV2qCvDYJNS1kaLEDgqaSe4trxkRM5xGvVNQAEALuA8CDt+mjYMW6hY7rVrAALO+aQDeolmsWIgNCxmCvkPnG722QmEvaK8K1UfEiqjs1fmybuvM+wHIo3BofoTpNMgBmG9q39N6wkYG5f7AQ8oxmyTFybKCADd1ghPqx3UpZsBMcs5th7cnV8zB4yjPbHczGL8bTuS3knHGoPauEgCL2BxeF4KCs8in658sDSBYWlHbPvIsZOIrHZ4pPJi2LdxQuy11ebIInxRJYRyTx1jlIq1qteBYIfppZCvkAOqUFvigH2QK74nyMKtpnP8WU24f7TWmAjlB/xMWsYlMxqx8RwFo0wA5Fi2prpOp0HJgDuqoWYCzuhpdYoITE6C0aByWgg4pvdbWZstR1sFsAXhfU/ceZx6Vf2wx+kJXKbIERgKbO+6G/Vi5rJTms5oUT5sefskeFiXppoDBQ614hhyXzCful0EvLoOA==;MN/kWfWFO/kQKYOYkSoNHA=="
 ---
 

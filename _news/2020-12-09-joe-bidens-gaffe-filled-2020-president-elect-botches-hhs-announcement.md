@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/joe-bidens-best-teleprompter-gaffes
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-bidens-best-teleprompter-gaffes-2020.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden HHS nominee was an investor in company sued over elder abuse claims"
+    excerpt: "Xavier Becerra sold his shares in the company earlier this year."
+    publishedDateTime: 2020-12-15T01:23:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XzH50Ib5XUA/biden-hhs-nominee-investor-elder-abuse"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-nominee-investor-elder-abuse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-nominee-investor-elder-abuse.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "60% of voters view Biden's 2020 presidential victory as legitimate, poll finds"
     excerpt: "The results skewed heavily based on party affiliation."
     publishedDateTime: 2020-12-11T02:46:33Z
