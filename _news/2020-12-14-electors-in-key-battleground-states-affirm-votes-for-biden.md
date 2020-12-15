@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html"
 type: article
 quality: 175
-heat: 615
+heat: 635
 published: true
 
 provider:
@@ -350,6 +350,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434192/201208-ken-paxton-jm-1218_11a694b478893a4a252cb3725659bec1.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Presidential Transition Highlights: Election ‘Should Be Celebrated, Not Attacked,’ Biden Says as Electoral College Affirms His Victory"
+    excerpt: "Electors in states across the country have cast their votes for president, and the winner is not in doubt: Joseph R. Biden Jr. will be officially declared the president-elect."
+    publishedDateTime: 2020-12-15T10:20:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/14/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 118
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/14/us/politics/14electoralcollege-vote00-toned/14electoralcollege-vote00-toned-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Watch Live: Biden Speaks Following Electoral College Certification"
     excerpt: "President-elect Joseph R. Biden Jr. delivers remarks after electors in states across the country cast their votes for president."

@@ -352,6 +352,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Presidential Transition Highlights: Election ‘Should Be Celebrated, Not Attacked,’ Biden Says as Electoral College Affirms His Victory"
+    excerpt: "Electors in states across the country have cast their votes for president, and the winner is not in doubt: Joseph R. Biden Jr. will be officially declared the president-elect."
+    publishedDateTime: 2020-12-15T10:20:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/14/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 118
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/14/us/politics/14electoralcollege-vote00-toned/14electoralcollege-vote00-toned-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Watch Live: Biden Speaks Following Electoral College Certification"
     excerpt: "President-elect Joseph R. Biden Jr. delivers remarks after electors in states across the country cast their votes for president."
     publishedDateTime: 2020-12-14T22:28:00Z
@@ -381,6 +397,6 @@ related:
         height: 629
         isCached: true
 
-secured: "s7bxQfbSBr9FeZHAZSJ8dDrdMmERJfjHpPydLLnY1DMRNiqAr69RkVVWnWg+iRTr99gBPsCUyDALNp2CcwojwTVMmGb8IMYQP1x+N300Eqa9b20Wkzwj+iXFoqvE+gN52qBOpemiNUZqjo9HR7v0YAMq9+sZz5ImRxuKF00GqGb1WskQUbU/X8r+bWMOZ3AM1PJihfQwwhq6meCG7LAe64IsTaGSFIsLbArh/D8uypOFf1WRv4eOMset1UuORskpE17DHa5hDukldoYdoZjXqMIW5TJebhKvMVi5B2ynvLodu1Hr3olhvf8ipW8R8mCSBmDxYTpijC53J83dfFz6h/VgSKsNZxZ+TSNk3gWi0rg=;cFz7sfjjKWuB5RXqKVAI+g=="
+secured: "dO4d/Amlwm9ledXzMfL1CwgqhjExU4MfuaeDEKo5ycaPOJYpw8enpAvPxEC8nHO99uES+yzxvx6v1dB1iNGlt2hZMGPCm58Nww1YDvtQ5JgDzIoJhTdKnI/BMeOrfTN2PG+Rq4h/7ipDuXhOdXW0RzcdiqtAXrpHw8Mp4h4c46QefFFdv0ia70EY9PkdlJXL1OeMs+p+r/0Bp9K8lfYmLqM593JHVQuZvVMmNy2EXbcyK2S1iP4Q1XXx+tfoYUIHUv8tWUAw3UiYdSLmBpLHmJ4ksZodtWCar6g6uhs8mZYVcE3Z8dbxqKbnuqk76J46pjcIM3OxGyjXE+7OwNpc2w1mKRZ3XrObjCHZKDVFuJSfYWb02S/8mP6DmC7BG1W2g8Ay1m76cBL8P5F7jDAjTmAZh+1ofHnNVHXhW5ISG56s3mwl37nEODMB18nYqQYhtpDcQ6NGYY+LnTKpPTY9HyEgXttAUC6NnZ54IbY0gvTUecV5gQ2HRuZya1oxlfh6LcYfb5Xl3jQgtCBoHbC3yQ==;3NIX6v6qPEezXVPl10o3xw=="
 ---
 

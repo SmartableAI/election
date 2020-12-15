@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/trump-morocco-analysis-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/trump-morocco-analysis-intl/index.html"
 type: article
 quality: 189
-heat: 629
+heat: 649
 published: true
 
 provider:
@@ -382,6 +382,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/11/us/politics/12dc-cabinet1/11dc-cabinet1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden's boom or bust economy"
+    excerpt: "I write this morning about the two roads that President-elect Joe Biden’s presidency could go down, depending on vaccine distribution and new stimulus. He could preside over a historic boom or a disappointing bust."
+    publishedDateTime: 2020-12-15T13:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2020/12/15/bidens-boom-or-bust-economy-792309"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "d4DpJz8yZb056nXx75a/Bj6Nk3CqQ/cHIbI7Fe5msFpGECx5yw58id60O8mNQXSRqdNyuEur8Lx3VAHjj2d2fPP9Yrn0D8kn/I8AEOJ5wEkRfu6nTeNIPNK7vbUVmnRhQ87Xp8ZE/VEs70LKLss6E81IelA8DtNnUHKMCp3VoX3v+5pZzuHWPGN6YpTwMjYT5sHZJxjbQa5yJ9w0oiRZYmOI9f1HN7ib9ZFIl7egDuZeMbLbYyiZUn0pGw5YCqrE7pe7SbZwOB/r/E5iKgEEJ0WPc7gb+yxKXWihAoT8fNZaJS16AIhW9ltmtXVpwx0wW6YFeNDO652gYNiI7zNKccb2KS/hSMHAJg/KKbGc8Bg=;AJj+kptxakHciRNbRremgw=="

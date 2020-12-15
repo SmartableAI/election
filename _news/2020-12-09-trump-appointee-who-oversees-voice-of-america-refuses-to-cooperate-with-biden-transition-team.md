@@ -354,7 +354,7 @@ related:
   - title: "Trump, Pence, other top officials to be offered COVID-19 vaccine: source"
     excerpt: "U.S. President Donald Trump, Vice President Mike Pence and other top U.S. officials will be offered the newly approved COVID-19 vaccine beginning Monday, according to a source familiar with the plans."
     publishedDateTime: 2020-12-14T03:10:00Z
-    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28N0UP"
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-white-house/trump-pence-other-top-officials-to-be-offered-covid-19-vaccine-source-idUSKBN28N0UP?edition-redirect=ca"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28N0UP"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28N0UP"
     type: article
@@ -683,6 +683,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Biden officially earns over 270 Electoral College votes, cementing his victory over Trump"
+    excerpt: "Slates of presidential electors in all 50 states and the District of Columbia voted on Monday to make Biden's win official."
+    publishedDateTime: 2020-12-15T16:13:00Z
+    webUrl: "https://www.businessinsider.com/biden-earns-over-270-electoral-college-votes-confirming-victory-2020-12?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.businessinsider.com/biden-earns-over-270-electoral-college-votes-confirming-victory-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-earns-over-270-electoral-college-votes-confirming-victory-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 131
+    images:
+      - url: "https://i.insider.com/5fd782949cf1420018d2f22a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden & Kamala Harris address the economy..."
     excerpt: "Watch \"President-elect Joe Biden & Vice President-elect Kamala Harris address the economy\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-16T20:57:00Z
@@ -696,6 +712,22 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/11/16/story_07715160_1605559805.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Fauci says to give COVID-19 vaccine to Biden, Harris, Trump, Pence"
+    excerpt: "Dr. Anthony Fauci says 'for security reasons' President-elect Biden and Vice President-elect Harris should be vaccinated for COVID-19 as soon as possible."
+    publishedDateTime: 2020-12-15T16:48:00Z
+    webUrl: "https://www.11alive.com/article/news/health/coronavirus/fauci-says-covid-19-vaccine-should-go-to-biden-harris-trump-pence-asap/507-ef6f6643-99ab-49cf-b360-f582c8b0920a"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/health/coronavirus/fauci-says-covid-19-vaccine-should-go-to-biden-harris-trump-pence-asap/507-ef6f6643-99ab-49cf-b360-f582c8b0920a"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/health/coronavirus/fauci-says-covid-19-vaccine-should-go-to-biden-harris-trump-pence-asap/507-ef6f6643-99ab-49cf-b360-f582c8b0920a"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 130
+    images:
+      - url: "https://media.11alive.com/assets/CCT/images/31529b7b-26be-43cf-ac59-8125e2da975e/31529b7b-26be-43cf-ac59-8125e2da975e_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Politics live updates: Fudge and Vilsack to be tapped for Biden White House posts, Trump election challenges rejected by courts"
     excerpt: "Rep. Marcia Fudge would be the second Black woman to lead HUD. Former Agriculture Secretary Tom Vilsack would return to his Obama administration role."
@@ -758,6 +790,22 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-14-2020/t_6d1ba2c9cf6949e9ba5aa7a922fa3e1d_name_Trump_photo.png&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 907
+        isCached: true
+  - title: "Healthcare.gov open enrollment ends today. Obamacare seems to have survived Trump, may thrive under Biden."
+    excerpt: "A crush of sign-ups expected Tuesday on the last day of open enrollment for HealthCare.gov could help solidify the standing of Obamacare as an improbable survivor in the Donald Trump years."
+    publishedDateTime: 2020-12-15T15:52:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-obamacare-aca-open-enollment-deadline-20201215-z53a34caprhjze22v6gjj2ke3y-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-obamacare-aca-open-enollment-deadline-20201215-z53a34caprhjze22v6gjj2ke3y-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-obamacare-aca-open-enollment-deadline-20201215-z53a34caprhjze22v6gjj2ke3y-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 122
+    images:
+      - url: "https://www.chicagotribune.com/resizer/LUUj9hnzclSijcewkJivT6uENwQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5AG6IPQSWLBK3XMPHLEBP2HE5M.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Joe Biden & Kamala Harris to address nation"
     excerpt: "Watch \"Joe Biden and Kamala Harris to address the nation\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -996,6 +1044,22 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Arizona Trump fans posed as electors to submit a document trying to seize the state's 11 votes for him instead of Biden, report says"
+    excerpt: "The group styled themselves as 'electors' in Arizona and filed a document to grant President Trump the state's 11 votes, even though he lost there."
+    publishedDateTime: 2020-12-15T14:25:00Z
+    webUrl: "https://www.businessinsider.com/arizona-pro-trump-group-fake-election-certificate-overturn-biden-win-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/arizona-pro-trump-group-fake-election-certificate-overturn-biden-win-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arizona-pro-trump-group-fake-election-certificate-overturn-biden-win-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5fd8b8232069f400194c7c8e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Coronavirus live news: GPs in England to start vaccinations; Trump says he is not scheduled to take vaccine"
     excerpt: "Trump, Pence and other officials to be offered vaccine starting Monday; Although Trump has had Covid, his getting vaccinated is meant to inspire confidence in vaccine’s safety"
     publishedDateTime: 2020-12-14T08:50:00Z
@@ -1081,6 +1145,22 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "Mitch McConnell congratulates Joe Biden, Kamala Harris for election win"
+    excerpt: "The Electoral College has spoken,” McConnell said during a speech on the Senate floor in which he also praised President Donald Trump's accomplishments. McConnell said he wanted to “congratulate President-elect Joe Biden” and Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-12-15T16:02:00Z
+    webUrl: "https://www.jsonline.com/story/news/politics/elections/2020/12/15/mitch-mcconnell-congratulates-joe-biden-kamala-harris-election/3903325001/"
+    ampWebUrl: "https://amp.jsonline.com/amp/3903325001"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3903325001"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/6b0a7b6a-f95f-4b5d-abfb-8171d39ffad5-DESK_THUMB.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris on Joe Biden, Being a 'First' and Restoring the Soul of the Nation: The 2020 TIME Person of the Year Interview"
     excerpt: "Kamala Harris is the first Vice President-elect to be named TIME’s Person of the Year. TIME senior correspondent Charlotte Alter sat down with the California senator in Wilmington, Del., on Dec. 7—which happened to be Harris’s mother’s birthday."
     publishedDateTime: 2020-12-12T22:44:00Z
@@ -1124,6 +1204,22 @@ related:
       - url: "https://mma.prnewswire.com/media/1360687/C_and_B_Logo.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Politics live updates: Mitch McConnell congratulates Joe Biden, Kamala Harris for election win"
+    excerpt: "Senate Majority Leader Mitch McConnell said Tuesday he wanted to \"congratulate the president-elect, Joe Biden.\""
+    publishedDateTime: 2020-12-15T15:25:00Z
+    webUrl: "https://www.app.com/story/news/politics/elections/2020/12/15/politics-updates-biden-campaign-ossoff-warnock-georgia/3901724001/"
+    ampWebUrl: "https://amp.app.com/amp/3901724001"
+    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/3901724001"
+    type: article
+    provider:
+      name: app.com
+      domain: app.com
+    quality: 93
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/bc08a3d2dedcdb34ea9fffc48b50357b9ca2e191/c=1-20-478-290/local/-/media/USATODAY/USATODAY/2014/11/08/635510444095890283-bidenmcconnell.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 679
         isCached: true
   - title: "Twitter Reacts To Joe Biden, Kamala Harris Beating Out Donald Trump As Time's Person Of The Year"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris were chosen as Time's 2020 Person of the Year from a shortlist that included President Donald Trump, Dr. Anthony Fauci, frontline COVID-19 workers and racial justice movements."
@@ -1557,6 +1653,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Connecticut’s presidential electors cast 7 ballots for Democrats Joe Biden and Kamala Harris in Electoral College"
+    excerpt: "Connecticut’s seven Democratic electors voted for President-elect Joe Biden during a noontime Electoral College ceremony at the state Capitol Monday, placing their individual paper ballots in a historic,"
+    publishedDateTime: 2020-12-15T16:56:00Z
+    webUrl: "https://www.courant.com/politics/hc-pol-connecticut-electors-for-joe-biden-20201214-hcfhgnh6fbgtvknc27pomqazcy-story.html"
+    ampWebUrl: "https://www.courant.com/politics/hc-pol-connecticut-electors-for-joe-biden-20201214-hcfhgnh6fbgtvknc27pomqazcy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-connecticut-electors-for-joe-biden-20201214-hcfhgnh6fbgtvknc27pomqazcy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 69
+    images:
+      - url: "https://www.courant.com/resizer/jApQITGhzn7otSTJ_mC2JNija8Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NLD44KDXDDUMYDJCN4FGGFUQGM.jpg"
+        width: 1200
+        height: 820
+        isCached: true
   - title: "Wisconsin's 10 electoral votes were officially cast for Joe Biden and Kamala Harris"
     excerpt: "Democratic electors met with Gov. Tony Evers' to finalize the state's 10 electoral votes for President-elect Biden and Vice President-elect Kamala Harris,"
     publishedDateTime: 2020-12-14T23:40:00Z

@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "McConnell sets up a clash with Trump over who’s in charge in the GOP"
+    excerpt: "The Senate majority leader acknowledged Joe Biden's win Tuesday. How Trump responds now has huge implications for control of Washington."
+    publishedDateTime: 2020-12-15T16:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/15/mcconnell-sets-up-clash-with-trump-over-whos-charge-gop/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/15/mcconnell-sets-up-clash-with-trump-over-whos-charge-gop/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/15/mcconnell-sets-up-clash-with-trump-over-whos-charge-gop/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-15-2020/t_c7bb50fbfd62414fa85809038816d032_name_MediaLive_1___10_00_AM___11_00_AM___10_13_08_AM.jpg&w=1440"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Thousands gather in D.C. for pro-Trump demonstrations as city braces for clashes"
     excerpt: "Protesters who refuse to accept that President-elect Joe Biden won the election have begun arriving in Washington for what organizers have called a “March for Trump.” They are expected to fan out across the city Saturday,"
     publishedDateTime: 2020-12-12T22:23:00Z

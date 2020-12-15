@@ -352,6 +352,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Presidential Transition Highlights: Election ‘Should Be Celebrated, Not Attacked,’ Biden Says as Electoral College Affirms His Victory"
+    excerpt: "Electors in states across the country have cast their votes for president, and the winner is not in doubt: Joseph R. Biden Jr. will be officially declared the president-elect."
+    publishedDateTime: 2020-12-15T10:20:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/14/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 118
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/14/us/politics/14electoralcollege-vote00-toned/14electoralcollege-vote00-toned-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Watch Live: Biden Speaks Following Electoral College Certification"
     excerpt: "President-elect Joseph R. Biden Jr. delivers remarks after electors in states across the country cast their votes for president."
     publishedDateTime: 2020-12-14T22:28:00Z

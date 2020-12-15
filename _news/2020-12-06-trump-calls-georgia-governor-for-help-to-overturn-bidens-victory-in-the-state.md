@@ -384,6 +384,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden's boom or bust economy"
+    excerpt: "I write this morning about the two roads that President-elect Joe Biden’s presidency could go down, depending on vaccine distribution and new stimulus. He could preside over a historic boom or a disappointing bust."
+    publishedDateTime: 2020-12-15T13:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2020/12/15/bidens-boom-or-bust-economy-792309"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "kGKAE1iBslfzKqKz9b6VK3aBjWv2Q6PRg3MYQe/k8WDqrNvr9S4vZzMsgjZqnq9lPLsI3B39I0IDSpK+S/0ul/ba/ZjsuWNsOkXAUErC+WS5ZrbDN4Xq9lOZtLtic30c2obIc3zFhMtdqv97/MAwDb6yw0w+SS6VFDNB1NkLxNVi2qSO+uUAnxz1tQGoO9LdT8kLxGv62bGNI/vIFfJx6Q85M08mhvTc8MpYaO7LQlN8kuHFgheyWN5SkWS6jSc/SRSGViyV9L5BTuQ8o6Cz3u7vwO23QcELVtceJDz0Pdu6Yd2UUC4vTsykAQTfbamAXOTtJqAsLBcWm85y6vrmYbR9jbZ2L1hoQpk1pmytiZSy6bw2rDiehuSqEzQZQ8sUzBGp5lAwjxka7nwA7rwYE6u8Hzfyi1kdq25hQakQxWYniY+pttr4DFIK2xVpMmhywzbWkCPAq/Y1+WFccReB5GTV9Pi2iaz1CwJw6QfNQmzRglyhL++ajTESHys3jeACWFynURcHkWTo0ivosdZozQ==;Y6c1yMndZJNV8m6g2beJFA=="
 ---

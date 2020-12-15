@@ -1531,6 +1531,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "After the White House, Trump faces uncertain future and legal threats"
+    excerpt: "President Donald Trump is leaving the White House but he is not going to fade away quietly. After failing in his legal efforts to overturn his Nov. 3 election loss to Democrat Joe Biden, who on Monday won the state-by-state Electoral College vote that formally determines the U."
+    publishedDateTime: 2020-12-15T16:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN28P19C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P19C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P19C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544627308&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE0OY"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Chinese firms on U.S. exchanges threatened by bill headed to Trump's desk"
     excerpt: "The U.S. House of Representatives passed a law to kick Chinese companies off U.S. stock exchanges if they do not fully comply with the country's auditing rules, giving President Donald Trump one more tool to threaten Beijing with before leaving office."
     publishedDateTime: 2020-12-03T00:45:00Z

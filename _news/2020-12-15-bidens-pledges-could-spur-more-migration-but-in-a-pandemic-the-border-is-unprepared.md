@@ -434,6 +434,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 90
+  - title: "US election: Mitch McConnell congratulates Joe Biden after electoral college vote"
+    excerpt: "Top Republican Mitch McConnell has acknowledge Joe Biden as US president-elect for the first time since the 3 November election. The Senate majority leader also congratulated Kamala Harris: \"Beyond our differences all Americans can take pride that our nation has a female vice-president-elect for the very first time."
+    publishedDateTime: 2020-12-15T16:50:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/election-us-2020-55324387"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 65
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p091jsj5.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Indiana Presidential Electors Award Trump, Pence 11 Votes"
     excerpt: "Indiana’s 11 representatives to the Electoral College unanimously cast their votes Monday for President Donald Trump."
     publishedDateTime: 2020-12-14T16:37:00Z
@@ -453,6 +467,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "e02IH4bfQrj7rxNFyqESeTEvKxZjsZC4+N3iDST5ZpCNsThTI5SjJEM9w/4BNbHPo2CMrnaR4TyFQu/PPKpiESLvmwmNW6ePNvdWlqoY9NZWTNsxJZOUitVcY9KbyBVqxit91tWTs+wTXW7wwa1LalpLegm/J4cXh/4PY9feHogmEqKGPMgDrScwjcGaXprz1bLhmM+o/SgEsgkbpTCKoNV/NFYPKGb2PWVXPGlHXRnJ2WJWeyuL42A+/UGtb9H/rlPYXG/qU11K+JUWjBAG0pT2bCYraxV0IUZY3ds9ViwIHwbdtYOUom0fD4FfkuX8VdyKenCKHBpqrz2oJMxffcLaeMLrTOMBaNkWyxNSO80=;R1LPXih3dUfRkG+YnjngKA=="
+secured: "Hxxd+zTAohLNwYmGk9RjkSMGuzNVW63PedvnaOlOXEecwe4tlhk+Ks2xTFsrIK2ywGber3S04bnjvYTI3L7ylFQ49CZ61Qn/pGRlJh0jZmFJXXom4S2IqG47gCsYBmRSS+JB2el2MKDa7hjWceiMgz+ll2OyMqcsbntXQTtg7wBtlt7o9OVpmj8tSgquOXdD3SFyvyHtd1QuWJ6dHogREJmMqtlI8AQELYnKymC1cSQ7+jBEPTWd241ZVHb8/M+3uMlOHp7/ueepVF25EkS4Kr0PltKC6lyGxUXtHVegLNguh5F0zsAUQLQOXdLmFoHx+dC4a/AJ44ZR8CsRVk3CPGQxj99EmSCYsR7LDk7ya4U3vzLlY70C18pcwpjbBRDZJzwI/S5nFbzewSXYy9+61875m4DfG7BE/JVVn++dl5bbJ9wHK9ZVZ2xZwoRUI1xyf7Lezpl4wLAyTBwy2CPZseVlvx7nDGqaWGhNd8gKo7kSZaa/sV1pnXJ0w/OUt3hSNYnVuwif40bC8J1x5Z7/0g==;4b3jwYb+j/yiuzyzVlX7rA=="
 ---
 

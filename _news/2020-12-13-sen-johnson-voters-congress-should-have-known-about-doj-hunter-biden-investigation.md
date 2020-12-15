@@ -479,6 +479,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "House Republicans demand hearing on Big Tech's censorship of Hunter Biden stories"
+    excerpt: "House Republicans have doubled down on their request for an emergency hearing on Big Tech's censorship of stories damaging to Hunter Biden, the president-elect's son, just days before the Nov. 3 election. "
+    publishedDateTime: 2020-12-15T16:00:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/La9No09D_mY/house-republicans-demand-hearing-big-tech-censorship-hunter-biden-stories"
+    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-demand-hearing-big-tech-censorship-hunter-biden-stories.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-demand-hearing-big-tech-censorship-hunter-biden-stories.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Zuckerberg-Dorsey-REUTERS.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Live Updates: Biden addresses nation after Electoral College vote formalizes victory"
     excerpt: "In his most forceful condemnation to date, Biden described the president's persistent efforts to reverse the election results as an \"unprecedented assault on our democracy.\" "
     publishedDateTime: 2020-12-15T05:30:58Z
@@ -622,6 +638,38 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "McConnell congratulates Joe Biden, Kamala Harris on election win from Senate"
+    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday congratulated President-elect Joe Biden on his victory following the Electoral College’s vote on Monday. “The Electoral College has"
+    publishedDateTime: 2020-12-15T15:52:00Z
+    webUrl: "https://nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/"
+    ampWebUrl: "https://nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 162
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/mcconnell-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "McConnell, top GOP senators acknowledge Biden as president-elect: 'The Electoral College has spoken'"
+    excerpt: "Top Senate Republicans are officially accepting President-elect Joe Biden's 2020 victory after the Electoral College confirmed his win on Monday."
+    publishedDateTime: 2020-12-15T15:30:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u8FY3PrPjdg/mcconnell-senate-republicans-biden-president-elect-electoral-college"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-senate-republicans-biden-president-elect-electoral-college.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-senate-republicans-biden-president-elect-electoral-college.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20345602979352.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Hunter Biden’s foreign transactions repeatedly flagged as potential criminal activity, Senate probe found"
     excerpt: "A Republican-led Senate investigation noted “potential criminal activity” among his transactions."
@@ -778,6 +826,22 @@ related:
     quality: 134
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20342805312726.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "House Republicans demand hearing on Big Tech's censorship of Hunter Biden stories"
+    excerpt: "House Republicans have doubled down on their request for an emergency hearing on Big Tech's censorship of stories damaging to Hunter Biden, the president-elect's son, just days before the Nov. 3 election."
+    publishedDateTime: 2020-12-15T16:17:00Z
+    webUrl: "https://www.foxnews.com/politics/house-republicans-demand-hearing-big-tech-censorship-hunter-biden-stories"
+    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-demand-hearing-big-tech-censorship-hunter-biden-stories.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-demand-hearing-big-tech-censorship-hunter-biden-stories.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Zuckerberg-Dorsey-REUTERS.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

@@ -434,6 +434,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 90
+  - title: "US election: Mitch McConnell congratulates Joe Biden after electoral college vote"
+    excerpt: "Top Republican Mitch McConnell has acknowledge Joe Biden as US president-elect for the first time since the 3 November election. The Senate majority leader also congratulated Kamala Harris: \"Beyond our differences all Americans can take pride that our nation has a female vice-president-elect for the very first time."
+    publishedDateTime: 2020-12-15T16:50:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/election-us-2020-55324387"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 65
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p091jsj5.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Indiana Presidential Electors Award Trump, Pence 11 Votes"
     excerpt: "Indiana’s 11 representatives to the Electoral College unanimously cast their votes Monday for President Donald Trump."
     publishedDateTime: 2020-12-14T16:37:00Z
