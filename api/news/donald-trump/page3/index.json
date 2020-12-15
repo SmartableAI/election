@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-12-04-the-technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet.md",
-      "title": "The Technology 202: Trump administration’s immigration feud with Silicon Valley isn't over yet",
-      "excerpt": "The Trump administration is continuing to wage war against Silicon Valley on immigration, even in its dwindling days in office. The Justice Department sued Facebook for allegedly illegally discriminating against U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/12/04/technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/04/technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LW6IDFBJG4I6XHBBHTCQDUEYD4.jpg&w=1440",
-          "width": 1440,
-          "height": 919,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/04/technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet/?outputType=amp",
-      "publishedDateTime": "2020-12-04T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-04-in-race-to-cement-legacy-trump-pushes-dozens-of-midnight-regulations.md",
       "title": "In race to cement legacy, Trump pushes dozens of 'midnight regulations'",
       "excerpt": "The Trump administration is quietly racing to solidify its legacy, fulfill campaign promises and overhaul federal regulations that could take Joe Biden years to undo.",
@@ -1565,6 +1513,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-this-is-propaganda-fox-news-maria-bartiromo-slammed-for-softball-trump-interview.md",
+      "title": "'This is propaganda': Fox News' Maria Bartiromo slammed for 'softball' Trump interview",
+      "excerpt": "Fox News anchor Maria Bartiromo faced criticism Sunday for failing to challenge President Trump on his claims of widespread election fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/29/fox-news-maria-bartiromo-slammed-softball-trump-interview/6456086002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/29/fox-news-maria-bartiromo-slammed-softball-trump-interview/6456086002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/29/USAT/46aeb674-3e91-4937-9f5a-b517decf268f-GTY_464511258.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6456086002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6456086002",
+      "publishedDateTime": "2020-11-29T19:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

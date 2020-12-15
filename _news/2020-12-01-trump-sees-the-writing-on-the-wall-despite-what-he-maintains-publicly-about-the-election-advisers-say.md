@@ -173,22 +173,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump signs executive order prioritizing Covid vaccine for Americans"
-    excerpt: "President Trump signs an executive order that prioritizes Americans' access to the Covid-19 vaccines before the U.S. potentially begins helping the country."
-    publishedDateTime: 2020-12-08T22:16:00Z
-    webUrl: "https://www.nbcnews.com/video/trump-signs-executive-order-prioritizing-covid-vaccine-for-americans-97358917758"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97358917758"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97358917758"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/1290144909.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Trump Administration Plans a Rushed Effort to Encourage Americans to Be Vaccinated"
     excerpt: "A large-scale public education campaign, delayed by false starts and investigations, will get off the ground just as the coronavirus vaccine becomes available to high-risk Americans."
     publishedDateTime: 2020-12-13T22:59:00Z
@@ -204,22 +188,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/13/us/politics/13dc-virus-vaccinecampaign/13dc-virus-vaccinecampaign-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Trump admin has yet to launch promised effort to get Americans to trust Covid-19 vaccines"
-    excerpt: "At least 15 states told NBC News they are planning their own extensive communications campaigns to encourage the public to take the shot."
-    publishedDateTime: 2020-12-08T14:03:00Z
-    webUrl: "https://www.nbcnews.com/health/health-news/trump-admin-has-yet-launch-promised-effort-get-americans-trust-n1250194"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250194"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250194"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 126
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_50/3433805/201207-coronavirus-vaccine-sign-jm-0743_9e0230244e32c51e85c713c9030bb33b.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Federal watchdog finds 'substantial likelihood of wrongdoing' by Trump appointees overseeing Voice of America"
     excerpt: "The federal watchdog's findings mark the latest rebuke of the Trump-appointed CEO of the U.S. Agency for Global Media, Michael Pack."

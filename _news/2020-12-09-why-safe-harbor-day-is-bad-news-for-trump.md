@@ -48,22 +48,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump touts a false narrative — and forces allies to come along for the lie"
-    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
-    publishedDateTime: 2020-12-10T14:11:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/trump-touts-false-narrative-forces-allies-come-along-lie-n1250690"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250690"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250690"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434730/201210-donald-trump-al-0805_c044deb93d6188d8ad4a3663c1f7d599.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "QzRPH/yJgOj5FT5gk31wqeMWtfoRnITxEa6S8fbwFVWeqyhQl3S0GLyrYCmSCo54rVH5tArx5YSJKUrvRLHb+v7pnaXfbE24x342TO5V+ctUqKdt0ZYl5oaoEwnVDSeEPd5eRILJavyoqcecRXFaU1MUYNpScQDTaBvsL3hIltLveJ8sj64bHTZE05hP1mpzIlHNvBEr0/aYWA6LrAQR4ng9Gq/97BTMdTXL8Vwc7UkMlidH7bqULyrEDBH0suYNZrNTRZ9rgMmXVl7n30KeRepdHDlO6xhBmgrA7uPowCgn/rtloUH7nS0ypu5pUAss4tnYGMsL+YioLWUfNJt8f4w07N2yA5GqTN57kcrNxF4=;5M4blY69vepYurXhwA4djg=="
 ---

@@ -176,22 +176,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Electoral College set to seal Trump's fate -- yet again "
-    excerpt: "A constitutional ritual that is normally a little-noticed curiosity will Monday turn into a symbol of the US political system's durability while under assault from a defeated President seeking to overturn a democratic election.\n    \n"
-    publishedDateTime: 2020-12-14T05:01:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dfVUnXqwny0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/electoral-college-donald-trump-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/electoral-college-donald-trump-joe-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201213211352-donald-trump-1212-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden's pick to lead Pentagon faces questions about whether he's right for the job"
     excerpt: "President-elect Joe Biden's choice to lead the Pentagon is already facing critics, who question his judgment while he served as the top US commander in the Middle East, an issue that could complicate Gen. Lloyd Austin's path to confirmation.\n    \n"
     publishedDateTime: 2020-12-10T22:10:47Z
@@ -367,22 +351,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/12/us/12trump-wisconsin/merlin_179552091_dbf4228e-570d-4d46-897e-ad283b8fb58c-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Trump unleashes an army of sore losers"
-    excerpt: "GOP candidates for House, legislative and gubernatorial races in more than half a dozen states are claiming voter fraud and still refusing to acknowledge defeat."
-    publishedDateTime: 2020-12-13T12:24:00Z
-    webUrl: "https://www.politico.com/news/2020/12/13/trump-2020-election-gop-444682"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/13/trump-2020-election-gop-444682"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/13/trump-2020-election-gop-444682"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/82/6e/a8eebaf743268c8d3932d1d8652f/webp.net-resizeimage%20(33).jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Trudeau's digital tax flexes Canada's muscles with Trump on the way out"
     excerpt: "\"The idea that Canada would go ahead with an early tax probably would have invited a tariff by Trump,\" says one observer."

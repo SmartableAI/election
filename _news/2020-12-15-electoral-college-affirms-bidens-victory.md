@@ -2,9 +2,9 @@
 category: news
 title: "Electoral College affirms Biden's victory"
 excerpt: "Democratic electors cast their votes without incident states where Trump has contested the results, like Pennsylvania and Georgia."
-publishedDateTime: 2020-12-14T23:09:00Z
-originalUrl: "https://www.politico.com/news/2020/12/14/electoral-college-biden-victory-444952"
-webUrl: "https://www.politico.com/news/2020/12/14/electoral-college-biden-victory-444952"
+publishedDateTime: 2020-12-14T23:10:00Z
+originalUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/12/14/electoral-college-affirms-bidens-victory-1346450"
+webUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/12/14/electoral-college-affirms-bidens-victory-1346450"
 type: article
 quality: 115
 heat: -1
@@ -239,6 +239,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "CSn5+tDivl20D6Z7B8R5JUl2OUhqWjkfeXF5cE12Aukn4Td92cOhGzOIXFtskpYj5g4b2TdAwK1a3gv0pFJ/u3LGDW/hW1GlFOaNZs5RCwqo14nyJwHasdrwcgsmdRCUw6GfSU0281UGg1VzNzv7xpc/icW/unWjzJdCp7FyQGqL8UyEVo/7+OUnn0N5q7FC0WnIwMwKeA2M5N6gQEEQrl7zne0Lo/wqiim8IOr/wsBHWgKHZ+IB458VVF1GYTokGNzigB94FkAA3ZcOehPFBiOA1EPnc5OySsK3HLWLsPF2cideaz9z4BftTmGktNmrKHU1jFbYQbbpPBg9ry63iT3zE7a9B92E0A1/aXowzZCp4iAFKQrY5Hfc103GxcRHHvs4MvVrr5lAFUsUPtuaWmQ5RCayMmtGtcmgPW1EAy56BukEb8k7Je2ckceOOHmG2LT4g50RuD92Iz52USXJKyJn/S5AY1ocN4keeyeL8yQm+j1R7OxHk9XH/swIDlSe0iasVOJ4/riVNvHwkGfxFQ==;ujBJkVoC6N4SE0fk2Z5vqQ=="
+secured: "rpKlrUuMglAGvyXoYiLBnWJmq+np+kHSi2j3VN/kCRd22CH7usG5IB+j98Ktsk77r/WnWJnqvM6DPq28tdbAmwMXaVmod74tKpgEogNd0TjxDXDeXc0R46xNwQfBoX8Tw9r9hlk/9cso4lNx6ko1j3oW/IkW3TFhrWLeNKm2RnsW8z/iHrIMOkc7gp9dsnTDnZRsa7qzeJBBvZ1VMRroFdlTB8D3Y0oxJARXEXBf76P0ZwOmV29c41K12+7tzKkot2I9fCrEcTGW3IiPCoYOKovQDCyvTihY6YQA37oNnGRZgGNdN28yBvTISBbY9jGzK9bgnyXlu5mjzBtIC2OJ+4o/va8andNroGBN7+sTmXE=;LOIfw7pAKtjVWt+b0a5yCw=="
 ---
 

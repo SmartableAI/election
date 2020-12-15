@@ -272,6 +272,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "First U.S. vaccines, Electoral College affirms Biden win and Barr is out"
+    excerpt: "Health care workers get first vaccines as Covid death toll tops 300,000. With the prick of a needle, the battle against Covid-19 took what could be a decisive turn Monday as the f"
+    publishedDateTime: 2020-12-15T13:36:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/first-u-s-vaccines-electoral-college-affirms-biden-win-barr-n1251233"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251233"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251233"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3435796/201215-biden-mc-1151_83138c3e116d56aec776b6c91d99bc12.JPG"
+        width: 5380
+        height: 3329
+        isCached: true
   - title: "Biden Transition Live Updates: Electoral College Vote Underway Across the Country"
     excerpt: "Electors in states across the country have cast their votes for president, and the winner is not in doubt: Joseph R. Biden Jr. will be officially declared the president-elect."
     publishedDateTime: 2020-12-14T15:49:00Z
@@ -285,6 +301,22 @@ related:
     quality: 130
     images:
       - url: "https://static01.nyt.com/images/2020/12/14/us/politics/14transition-briefing-biden-speech/14transition-briefing-biden-speech-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Transition Live Updates: Formally President-Elect, Biden Looks Ahead to Stimulus"
+    excerpt: "President-elect Joe Biden condemns President Trump’s efforts to undermine the election, which will have lasting effects on democracy."
+    publishedDateTime: 2020-12-15T08:45:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/15/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/15/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/15/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/15/us/politics/15transition-briefing-lead/15transition-briefing-lead-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

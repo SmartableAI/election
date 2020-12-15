@@ -3,10 +3,10 @@ category: news
 title: "Biden's pledges could spur more migration. But in a pandemic, the border is unprepared"
 excerpt: "After spending eight months of 2019 in a makeshift tent camp in the dangerous Mexican border city of Matamoros, Israel Martinez abandoned his hopes of seeking asylum in the United States."
 publishedDateTime: 2020-12-15T11:26:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-immigration-border-insight/bidens-pledges-could-spur-more-migration-but-in-a-pandemic-the-border-is-unprepared-idUSKBN28P18G"
-webUrl: "https://www.reuters.com/article/us-usa-biden-immigration-border-insight/bidens-pledges-could-spur-more-migration-but-in-a-pandemic-the-border-is-unprepared-idUSKBN28P18G"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P18G"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P18G"
+originalUrl: "https://www.reuters.com/article/usa-biden-immigration-border-insight-idUKKBN28P1A1"
+webUrl: "https://www.reuters.com/article/usa-biden-immigration-border-insight-idUKKBN28P1A1"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28P1A1"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28P1A1"
 type: article
 quality: 117
 heat: -1
@@ -453,6 +453,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "qPxykQr+vzS6zAyMRsdTLtHZAGjrPdLnc/qQFtobxV8F7P0sEvLcT3v5wmEyffGK3FaqBwqkJdbE8eIjALnnxf66/dGPSHqZjPq9Iyxo9ghQg1AhAykxO5NfWiX2IoTSEUvpgO7Zl1u8UX8sszVpoNQJ+/ybMbfMaxI/SLRtvN5sR3BZs9xARkMeOPtG5Wlbv2fkTwDyzuDIR9wVfHtAp90SDQROgZfdgyrKrH+Yv7VepO7G+Dsw1yy3W/Z5vLYqkZPv/H8qG9Qep86OVnyyRbJhqldleZlzAn9XS6lv8H1qi2rvLKeFmNaHCEYt31D8tjCJVKnX8ZFrsOkquhGulqsFzYOQ55dAi3kvP09CMFM=;z/WYGijAf7wUqFjALVvxrw=="
+secured: "e02IH4bfQrj7rxNFyqESeTEvKxZjsZC4+N3iDST5ZpCNsThTI5SjJEM9w/4BNbHPo2CMrnaR4TyFQu/PPKpiESLvmwmNW6ePNvdWlqoY9NZWTNsxJZOUitVcY9KbyBVqxit91tWTs+wTXW7wwa1LalpLegm/J4cXh/4PY9feHogmEqKGPMgDrScwjcGaXprz1bLhmM+o/SgEsgkbpTCKoNV/NFYPKGb2PWVXPGlHXRnJ2WJWeyuL42A+/UGtb9H/rlPYXG/qU11K+JUWjBAG0pT2bCYraxV0IUZY3ds9ViwIHwbdtYOUom0fD4FfkuX8VdyKenCKHBpqrz2oJMxffcLaeMLrTOMBaNkWyxNSO80=;R1LPXih3dUfRkG+YnjngKA=="
 ---
 

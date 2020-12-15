@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-sen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-senate-vote-fail/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 195
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says he halted plan to immediately vaccinate White House staffers"
-    excerpt: "High-ranking White House officials are set to receive some of the first coronavirus vaccines in the United States, according to a White House official and a person familiar.\n    \n"
-    publishedDateTime: 2020-12-14T12:28:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p9LxkhN0YIg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/white-house-coronavirus-vaccine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/white-house-coronavirus-vaccine/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119150031-white-house-1117-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump tells allies he will run in 2024, but hints he may back out"
     excerpt: "In calls to allies, Trump has been asking how to navigate the next two years and floated a possible trip to the Middle East."
     publishedDateTime: 2020-12-14T09:37:00Z

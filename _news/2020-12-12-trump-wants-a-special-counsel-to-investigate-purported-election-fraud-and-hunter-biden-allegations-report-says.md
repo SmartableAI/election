@@ -33,19 +33,19 @@ images:
 related:
   - title: "The Latest: Fauci says vaccinate Biden, Harris, Trump, Pence"
     excerpt: "Top U.S. infectious disease expert Dr. Anthony Fauci says President-elect Joe Biden and Vice President-elect Kamala Harris should be vaccinated for COVID-19 as soon as possible"
-    publishedDateTime: 2020-12-15T12:46:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    publishedDateTime: 2020-12-15T12:50:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 190
+      name: ABC
+      domain: abcnews.go.com
+    quality: 180
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Health/WireAP_22bdf9791c6749db8600b787bc5bdc58_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Kellyanne Conway breaks from Trump and says 'Joe Biden and Kamala Harris will prevail'"
     excerpt: "Former White House advisor Kellyanne Conway's comments in an interview with The 19th go directly against Trump's claims undermining the 2020 election."
@@ -479,6 +479,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Most Trump voters are ready to give Biden a chance. Are Republican politicians?"
+    excerpt: "Roy Blunt (R-Mo.), who was one of three Republican leaders to reject a resolution last week that would have recognized Biden’s win. Or like President Vladimir Putin of Russia. That’s a joke, but only partially."
+    publishedDateTime: 2020-12-15T14:57:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/15/most-trump-voters-are-ready-give-biden-chance-are-republican-politicians/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/15/most-trump-voters-are-ready-give-biden-chance-are-republican-politicians/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/15/most-trump-voters-are-ready-give-biden-chance-are-republican-politicians/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 136
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALIEXTB6PMI6XNMLCYR7MJTZMA.jpg&w=1440"
+        width: 1440
+        height: 891
+        isCached: true
   - title: "Wisconsin state court judge rules against Trump campaign lawsuit seeking to overturn Joe Biden’s win"
     excerpt: "Wisconsin state court judge rules against Trump campaign lawsuit seeking to overturn Joe Biden’s win."
     publishedDateTime: 2020-12-12T00:59:00Z
@@ -634,6 +650,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/01/31/USAT/8abbd0cf-e2d8-45af-b78c-522f467f1a64-Alexander_interview_photo_1.JPG?auto=webp&crop=3451,1941,x1,y249&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "After electoral college backs Biden, Trump continues falsely insisting he won: ‘This Fake Election can no longer stand’"
+    excerpt: "Trump's cascade of late-night tweets made it clear that he intends to continue undermining the election results with baseless claims of fraud."
+    publishedDateTime: 2020-12-15T14:20:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/15/trump-electoral-college-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/15/trump-electoral-college-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/15/trump-electoral-college-biden/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 131
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-15-2020/t_62f80a279d874911acfdfa3cff181351_name_Biden1_1080.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Joe Biden & Kamala Harris address the economy..."
     excerpt: "Watch \"President-elect Joe Biden & Vice President-elect Kamala Harris address the economy\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -1387,6 +1419,22 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2020/12/AP20349797001436.jpg?w=1024&h=647"
         width: 1024
         height: 647
+        isCached: true
+  - title: "Michigan's Electoral College delegates cast all 16 votes for Joe Biden, Kamala Harris"
+    excerpt: "By law, Michigan delegates to the Electoral College are required to cast their votes for the winner of the popular vote."
+    publishedDateTime: 2020-12-14T00:00:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/6538683002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6538683002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 83
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/14/PDTF/8855f26a-225d-4845-9a4d-876b9a8fd6dd-GTY_AFP_8X66JW.jpg.jpg?auto=webp&crop=3910,2200,x0,y198&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Michigan's Electoral College delegates cast all 16 votes for Joe Biden, Kamala Harris"
     excerpt: "By law, Michigan delegates to the Electoral College are required to cast their votes for the winner of the popular vote."

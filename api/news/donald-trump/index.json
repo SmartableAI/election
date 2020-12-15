@@ -2,60 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-15-the-latest-fauci-says-vaccinate-biden-harris-trump-pence.md",
-      "title": "The Latest: Fauci says vaccinate Biden, Harris, Trump, Pence",
-      "excerpt": "Top U.S. infectious disease expert Dr. Anthony Fauci says President-elect Joe Biden and Vice President-elect Kamala Harris should be vaccinated for COVID-19 as soon as possible",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2330,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-15T04:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-15-trump-antagonizes-republicans-with-georgia-fundraising-ploy.md",
       "title": "Trump antagonizes Republicans with Georgia fundraising ploy",
       "excerpt": "Emails and texts raising cash for Trump's PAC have rankled Republicans, who want cash to flow directly to Georgia's endangered GOP senators.",
@@ -385,7 +331,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 190,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -1234,7 +1180,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/worst-place-worst-time-trump-faces-virus-spike-74673175",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1570,6 +1516,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-trevor-noah-on-trumps-supreme-court-dismissal-his-bar-fight-with-reality-may-be-over.md",
+      "title": "Trevor Noah on Trump's supreme court dismissal: his 'bar fight with reality' may be over",
+      "excerpt": "Late-night hosts recap the supreme court’s rebuke of a Hail Mary lawsuit to overturn the election in Pennsylvania, and discuss Trump’s pardon-palooza",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/culture/2020/dec/10/trump-supreme-court-dismissal-trevor-noah-late-night-tv",
+      "originalUrl": "https://www.theguardian.com/culture/2020/dec/10/trump-supreme-court-dismissal-trevor-noah-late-night-tv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/3a427f87e530696c1c244d8a4793ec558e73402a/144_110_2529_1518/master/2529.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e0c95c972eb9fee625310a1b5219b6ef",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/culture/2020/dec/10/trump-supreme-court-dismissal-trevor-noah-late-night-tv",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2020/dec/10/trump-supreme-court-dismissal-trevor-noah-late-night-tv",
+      "publishedDateTime": "2020-12-10T10:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

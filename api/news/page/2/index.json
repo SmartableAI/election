@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-14-biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report.md",
+      "title": "Biden offered Atlanta mayor position in his Cabinet, she declined: report",
+      "excerpt": "President-elect Joe Biden reportedly asked Atlanta Mayor Keisha Lance Bottoms to serve in his Cabinet, but the Democrat turned down the offer.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/boBhvPCOapY/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/boBhvPCOapY/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report.amp",
+      "publishedDateTime": "2020-12-13T21:42:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-northwestern-distances-itself-from-former-lecturer-after-controversial-op-ed-urging-jill-biden-to-drop-dr-title.md",
+      "title": "Northwestern distances itself from former lecturer after controversial op-ed urging Jill Biden to drop 'Dr.' title",
+      "excerpt": "Northwestern University is distancing itself from a former lecturer who called on incoming first lady Jill Biden to stop using the \"Dr.\" honorific because she has a doctorate in education, not an MD.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W-0zqakLQbA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W-0zqakLQbA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201003154742-jill-biden-090120-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/13/politics/jill-biden-dr-first-lady-op-ed-joseph-epstein-northwestern/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/jill-biden-dr-first-lady-op-ed-joseph-epstein-northwestern/index.html",
+      "publishedDateTime": "2020-12-13T18:48:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-trump-expands-his-cable-diet-to-newsmax-and-oan-they-benefit-and-so-does-he.md",
       "title": "Trump expands his cable diet to Newsmax and OAN. They benefit and so does he.",
       "excerpt": "Presidential praise has boosted ratings, and more viewers can then increase pressure on Republicans to back Trump’s false claims of election fraud.",
@@ -1027,7 +1139,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 669,
+      "heat": 629,
       "tags": null,
       "images": [
         {
@@ -1229,115 +1341,6 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-the-us-sends-egypt-billions-in-aid-fearing-extinction-rights-activists-hope-biden-will-act.md",
-      "title": "The U.S. sends Egypt billions in aid. Fearing 'extinction,' rights activists hope Biden will act.",
-      "excerpt": "Fearing 'extinction,' rights activists hope Biden will act. Rights groups say the scale of oppression under Egyptian President Abdel-Fattah el-Sissi is “unprecedented.” Jess Kelly said she knew her husband,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/u-s-sends-egypt-billions-aid-fearing-extinction-rights-activists-n1250554",
-      "originalUrl": "https://www.nbcnews.com/news/world/u-s-sends-egypt-billions-aid-fearing-extinction-rights-activists-n1250554",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_49/3432074/201201-egypt-el-sissi-mc-9182_ded51f2664c788e3890578a34275e2e0.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250554",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250554",
-      "publishedDateTime": "2020-12-12T01:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-us-supreme-court-ends-texas-lawsuit-seeking-to-undo-trump-election-loss.md",
-      "title": "U.S. Supreme Court ends Texas lawsuit seeking to undo Trump election loss",
-      "excerpt": "The U.S. Supreme Court on Friday brought an abrupt end to a long-shot lawsuit filed by Texas and backed by President Donald Trump seeking to throw out voting results in four states, dealing him a crushing setback in his quest to undo his election loss to",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-trump/u-s-supreme-court-ends-texas-lawsuit-seeking-to-undo-trump-election-loss-idUSKBN28L2YY",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump/u-s-supreme-court-ends-texas-lawsuit-seeking-to-undo-trump-election-loss-idUSKBN28L2YY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544304373&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB000",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28L2YY",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L2YY",
-      "publishedDateTime": "2020-12-11T20:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -61,17 +61,6 @@ related:
         width: 1484
         height: 834
         isCached: true
-  - title: "'Democracy prevailed': Biden aims to unify divided nation"
-    excerpt: "WILMINGTON, Del. (AP) — President-elect Joe Biden pointedly criticized President Donald Trump on Monday for threatening core principles of democracy even as he told Americans that their form of self-government ultimately “prevailed."
-    publishedDateTime: 2020-12-15T11:54:00Z
-    webUrl: "https://www.businessinsider.com/democracy-prevailed-biden-aims-to-unify-divided-nation-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/democracy-prevailed-biden-aims-to-unify-divided-nation-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democracy-prevailed-biden-aims-to-unify-divided-nation-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
 
 secured: "u7h/8NVSRy5AyOcVLqafF39oQqD5ZGQeTPuHYwSFTexYf+yE+v2hO2d62l0DpLt4VG8DmteoD0uyKsGVVBtXjFMxVw6fpeeTjdhFk95tZQvJ+++UYG83HfYgpIqAdkoytC3e7nHz8VFGCT4rZs9Cg2LwI/9jlKSsYn543UR6+7Z/cvOrlEivprTai9bgjB0sup78ajJC5CDKEcDU71LL2eZhu3zh6RdQG/F/Hjwfwjg1VbxVyqB+OmaQr/4hn7oxfw/sy/r9DWwBhFfnTCmhzZkW8qTV7mEdtAadLwDajp4N4AVKOMNvWSH30ZuEOGcSMTKUIX1HOqxAUMeDNJfB9EdIE1PdRb7PHvJWkjlWg63oUo2sdy8XabbI1eFDKkRvK6j5eeMtBVoaXTQ+cTHlX49EqLyw//ZB0Trfc1p5GL4Z8o3PtI/S+zPfzYialA09VGLYB5Piaxz6ar2X2EVsKJk9NhiSkePL3oWExBTEbaMzMlN8tGs9XVxVFfwxplQP2fx1oiDgy6KjMbFkbSuZuQ==;ygQQVxpAk3OFJmznp8xugQ=="
 ---

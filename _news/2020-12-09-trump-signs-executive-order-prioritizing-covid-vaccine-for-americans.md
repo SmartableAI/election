@@ -32,179 +32,117 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's pandemic blindness and election denial darkens America's desperate winter "
-    excerpt: "Donald Trump's final-days denial is darkening America's winter of sickness and death, damaging democracy, hampering Joe Biden's nascent presidency and jeopardizing Republican hopes of clinging to the Senate.\n    \n"
-    publishedDateTime: 2020-12-07T05:41:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hSuo6xOBNS0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/donald-trump-pandemic-election-results-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/donald-trump-pandemic-election-results-joe-biden/index.html"
+  - title: "Fauci recommends Trump and Pence get vaccinated for Covid-19"
+    excerpt: "Dr. Anthony Fauci would recommend that both President Donald Trump and Vice President Mike Pence receive the Covid-19 vaccine, which has been approved for emergency use authorization and is being rolled out nationwide.\n    \n"
+    publishedDateTime: 2020-12-15T14:31:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aQhMcwMRt6Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/fauci-coronavirus-vaccine-trump-pence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/fauci-coronavirus-vaccine-trump-pence/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 184
+    quality: 200
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201205212226-01-trump-rally-georgia-1205-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002094331-01-trump-pence-0928-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Gore: Americans still supporting 'lost cause' of Trump's reelection should put country first"
-    excerpt: "Former Vice President Al Gore on Sunday called for Americans who continue to rally behind President Donald Trump's failed reelection bid to prioritize their country.\n    \n"
-    publishedDateTime: 2020-12-13T17:13:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bzDbg2l0zWQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/al-gore-trump-republicans-election-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/al-gore-trump-republicans-election-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 179
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201213095817-al-gore-sotu-intv-vpx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration must accept new DACA applications, judge orders"
-    excerpt: "The Trump administration must post a public notice that it will accept new applications for the Obama-era program shielding undocumented immigrants who came to the US as children from deportation, a federal judge ordered Friday.\n    \n"
-    publishedDateTime: 2020-12-04T22:38:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKkg1yjy1Qs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/171116102112-daca-protest-02-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "All eyes are on Georgia ahead of Trump's rally and Senate debate"
-    excerpt: "The eyes of the political universe will turn to Georgia this weekend, as the voter registration deadline for January's Senate runoffs approaches.\n    \n"
-    publishedDateTime: 2020-12-05T16:00:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SJKKQCLU4DE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/georgia-state-of-play/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/georgia-state-of-play/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201202101313-warnock-ossoff-perdue-loefler-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump will leave office with a historically bad economic record"
-    excerpt: "President Donald Trump still can't accept the numbers measuring his loss to Joe Biden: more than 7 million popular votes and 74 electoral votes.\n    \n"
-    publishedDateTime: 2020-12-13T16:24:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yQoTeKQflQg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/trump-economy-record/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/trump-economy-record/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207085911-food-bank-usa-1201-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump sees 'the writing on the wall' despite what he maintains publicly about the election, advisers say "
-    excerpt: "Despite what President Donald Trump is tweeting and saying publicly in the wake of Arizona and Wisconsin certifying President-elect Joe Biden's victory Monday, Trump sees the scoreboard and understands he has no chance of hanging on to the presidency, two White House advisers told CNN.\n    \n"
-    publishedDateTime: 2020-12-01T02:27:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GHexN5-hjxI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/trump-writing-on-the-wall-election-advisers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/trump-writing-on-the-wall-election-advisers/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130002955-donald-trump-videoconference-1126-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Melania Trump cheers new White House tennis pavilion amid ongoing pandemic"
-    excerpt: "First lady Melania Trump's office announced Monday the finalization of the White House Tennis Pavilion -- a tone deaf accomplishment to trumpet amid the ongoing coronavirus pandemic and as the federal government remains locked on providing further economic relief to millions of suffering Americans.\n"
-    publishedDateTime: 2020-12-07T16:04:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LlnOWMu9Wkk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/melania-trump-tennis-pavilion/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/melania-trump-tennis-pavilion/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200305155803-03-melania-wh-tennis-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump to sign order aimed at prioritizing Covid-19 vaccine shipment to Americans"
-    excerpt: "President Donald Trump is expected to sign an executive order on Tuesday aimed at prioritizing the shipment of the coronavirus vaccine to Americans before other nations, according to senior administration officials.\n    \n"
-    publishedDateTime: 2020-12-08T00:07:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Huv687f8YEM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/operation-warp-speed-vaccine-distribution-executive-order/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/operation-warp-speed-vaccine-distribution-executive-order/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118051338-01-donald-trump-rose-garden-1113-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "GOP senators' strategy on Trump's election fraud claims: Keep quiet and carry on "
-    excerpt: "A wide range of Republican senators are shrugging off President Donald Trump's evidence-free claims that mass voter fraud cost him the election, ignoring their party leader's relentless attacks against a foundation of American democracy amid their growing expectation that the matter will be resolved"
-    publishedDateTime: 2020-12-01T02:44:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jZHRsL5biNA/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106100610-01-biden-mcconnell-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How to Protect America From the Next Donald Trump"
-    excerpt: "The Constitution is supposed to protect us from demagogues. Can we make it work again? Voting Donald Trump out of office was crucial, but it will not be enough to save the American experiment. Many critics have used the words “authoritarian” or “fascist” to describe the president’s mode of politics,"
-    publishedDateTime: 2020-11-09T14:00:00Z
-    webUrl: "https://www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.amp.html"
+  - title: "Trump Allies Eye Long-Shot Election Overturn in Congress, Testing Pence"
+    excerpt: "Some House Republicans plan to try to use Congress’s tallying of electoral results on Jan. 6 to tip the election to President Trump. The attempt will put Republicans in a pinch."
+    publishedDateTime: 2020-12-13T10:00:00Z
+    webUrl: "https://www.nytimes.com/2020/12/13/us/politics/trump-allies-election-overturn-congress-pence.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/13/us/politics/trump-allies-election-overturn-congress-pence.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/us/politics/trump-allies-election-overturn-congress-pence.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
+    quality: 175
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/12/us/politics/13dc-overturn-1/merlin_181149501_545a5a52-9c27-44f3-891f-1caf1453f16a-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Electoral College set to seal Trump's fate -- yet again "
+    excerpt: "A constitutional ritual that is normally a little-noticed curiosity will Monday turn into a symbol of the US political system's durability while under assault from a defeated President seeking to overturn a democratic election.\n    \n"
+    publishedDateTime: 2020-12-14T05:01:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dfVUnXqwny0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/electoral-college-donald-trump-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/electoral-college-donald-trump-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201213211352-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump says he halted plan to immediately vaccinate White House staffers"
+    excerpt: "High-ranking White House officials are set to receive some of the first coronavirus vaccines in the United States, according to a White House official and a person familiar.\n    \n"
+    publishedDateTime: 2020-12-14T12:28:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p9LxkhN0YIg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/white-house-coronavirus-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/white-house-coronavirus-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119150031-white-house-1117-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump unleashes an army of sore losers"
+    excerpt: "GOP candidates for House, legislative and gubernatorial races in more than half a dozen states are claiming voter fraud and still refusing to acknowledge defeat."
+    publishedDateTime: 2020-12-13T12:24:00Z
+    webUrl: "https://www.politico.com/news/2020/12/13/trump-2020-election-gop-444682"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/13/trump-2020-election-gop-444682"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/13/trump-2020-election-gop-444682"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/06/opinion/06garsten/06garsten-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/82/6e/a8eebaf743268c8d3932d1d8652f/webp.net-resizeimage%20(33).jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Trump Administration Plans a Rushed Effort to Encourage Americans to Be Vaccinated"
-    excerpt: "A large-scale public education campaign, delayed by false starts and investigations, will get off the ground just as the coronavirus vaccine becomes available to high-risk Americans."
-    publishedDateTime: 2020-12-13T22:59:00Z
-    webUrl: "https://www.nytimes.com/2020/12/13/us/politics/coronavirus-vaccine-education-campaign.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/13/us/politics/coronavirus-vaccine-education-campaign.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/us/politics/coronavirus-vaccine-education-campaign.amp.html"
+  - title: "Trump to sign executive order to prioritize Covid-19 vaccine shipment to US"
+    excerpt: "NBC's Peter Alexander discusses Trump signing an executive order aimed at prioritizing the shipment of the coronavirus vaccine to the U.S. before other nations."
+    publishedDateTime: 2020-12-08T18:28:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/trump-to-sign-executive-order-to-prioritize-covid-19-vaccine-shipment-to-us-97342021966"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97342021966"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97342021966"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 129
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
     images:
-      - url: "https://static01.nyt.com/images/2020/12/13/us/politics/13dc-virus-vaccinecampaign/13dc-virus-vaccinecampaign-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/1607451706770_n_mtpd_clip_peter_201208_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump touts a false narrative — and forces allies to come along for the lie"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2020-12-10T14:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/trump-touts-false-narrative-forces-allies-come-along-lie-n1250690"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250690"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250690"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434730/201210-donald-trump-al-0805_c044deb93d6188d8ad4a3663c1f7d599.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump admin has yet to launch promised effort to get Americans to trust Covid-19 vaccines"
     excerpt: "At least 15 states told NBC News they are planning their own extensive communications campaigns to encourage the public to take the shot."
@@ -222,21 +160,19 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Federal watchdog finds 'substantial likelihood of wrongdoing' by Trump appointees overseeing Voice of America"
-    excerpt: "The federal watchdog's findings mark the latest rebuke of the Trump-appointed CEO of the U.S. Agency for Global Media, Michael Pack."
-    publishedDateTime: 2020-12-03T18:24:00Z
-    webUrl: "https://www.nbcnews.com/news/world/federal-watchdog-finds-substantial-likelihood-wrongdoing-trump-appointees-overseeing-voice-n1249851"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249851"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249851"
+  - title: "Senate Democrats press Trump on possible vaccine shortage"
+    excerpt: "They questioned if the U.S. is facing a vaccine cliff after the administration reportedly passed up offers to buy more Pfizer doses."
+    publishedDateTime: 2020-12-15T06:29:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/senate-democrats-trump-vaccine-shortage-445226"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 116
+      name: Politico
+      domain: politico.com
+    quality: 115
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_49/3391302/200619-michael-pack-us-senate-ew-130p_c58f8b658898b995f375e0c2268ac5b4.jpg"
-        width: 2500
-        height: 1400
+      - url: "https://static.politico.com/2b/fe/a867da1f4174a1f95616016e1e5f/gettyimages-1230126547-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "JC794Zcl9aLQURExKqFA6YCxFfRIAI379/p5pqu/lA4ulC3oHdNWy23BzPrGfbw0XoZ+uUf3e2OQ/biMBtMkFEXmKFFx490irjs5DI6BneW6NOs/X5tyxYVe0XULEHWFgl5wXMrJYYvzE7jXiN4SG5mva88MPYMqzTc7tAWj3czEns8SM24nlQBdoTAaroqqVhfI4ysYGAg5PdUUeGLLboSygmMrgXX/u/VLApjZPWgJ2OKueZAOjs4JQGhYqyr2iRqRxs+S6cQ5fDiUxT4lz+RX1614FOJ2CkkU6l7xbJ+Qaes3CsVTFayUVyR/KNvCTsGmNRn7kEyeqlXCCf3YzF9sXJv/z0X6sP8khX2id0M=;pJimkvcKEzDV4Ha3N9uPYQ=="

@@ -226,9 +226,9 @@ related:
   - title: "Biden's pledges could spur more migration. But in a pandemic, the border is unprepared"
     excerpt: "After spending eight months of 2019 in a makeshift tent camp in the dangerous Mexican border city of Matamoros, Israel Martinez abandoned his hopes of seeking asylum in the United States."
     publishedDateTime: 2020-12-15T11:26:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-immigration-border-insight/bidens-pledges-could-spur-more-migration-but-in-a-pandemic-the-border-is-unprepared-idUSKBN28P18G"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P18G"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P18G"
+    webUrl: "https://www.reuters.com/article/usa-biden-immigration-border-insight-idUKKBN28P1A1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28P1A1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28P1A1"
     type: article
     provider:
       name: Reuters
@@ -453,6 +453,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "zybdS5gxS5A5phhMkid3Qjf/ItP7KAXVRz8GV5gpr2pm8Ve6o/oCo/l7b+MmO67xLsAYVWI8FbF/b+VBjQ/oY+UBonCyDcEEZjOSPbae2qe6LF5T655c7XJP6KKz5yADZLX8ND4lVynKtONQgDALE//B0khA4Ig1JE1TQL/UqjvxYKEpNjVVs5gGub1w6nr1xqcgQmUjEYFQEDIL/auU6uSbObOPMw2gdWCWbnr7eytlLAw3c31rRHPP7zFMDYtEyYUM7BVcTR0RPwGM4rcRzTx3C3YiAwVTCXlbd7fYpOEuU5RjARdqK3qjWTR5mryLUqmyK48NOSdVzFcLZ7vM+vwyxOC+VqtHozSop+cnA2A=;oBSo9szFVi5i+vMnTFjNOA=="
+secured: "uAyDi0pJJFMtpvl0A7iwJ5Rjulg0yP6g7RIAzQZFpLfHRAdo2r8zpO/ZNjUP2lMu89xMXtO7KMMoEisdlHQW/SncKzq527SLS/a1jjZRYYwvhyPQafohG+klfX5M5f7vevKOes5uR/2kxIJrSYmJ3lBt6/h99pesA85RW7blOHLSK5XTfXwPAy4iZwesH+4PhuYwN3bhjhSrGrdTZ4fdz4Fwfd8ibIi+bJIxWL8VliUmLMNDZLHwbZ0ySALT5k5AChnbWnwC0ReD6O4PAb+AY947qN6ybuwYsMyGGdt1eQECrfYp6MQmsnx4BVnI3iDxpwsEhJQef1sb++rdAgMpEDg5sWaAUdHOeSFYbDUoRiHhdGdLrDQznDrs4aDw7to5lkLhdFPYxZFUZrMBPCn8f0er1K8/9bIhmQPPiWw3Y8Et86tWxZQpsa6Xa21rCrtrt4LFVHvYj3puX+6BPO9rtcWRfqyozEb++FITJwdgbUbQZKwWPJhfEz+R/TnagOUyMGF8/JfKcx5d9G0yZSn9CA==;LZSyg675/1lt5D/e0v3vdg=="
 ---
 

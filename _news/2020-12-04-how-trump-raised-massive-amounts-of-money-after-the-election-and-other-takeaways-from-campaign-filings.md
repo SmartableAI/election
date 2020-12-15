@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump Allies Eye Long-Shot Election Overturn in Congress, Testing Pence"
-    excerpt: "Some House Republicans plan to try to use Congress’s tallying of electoral results on Jan. 6 to tip the election to President Trump. The attempt will put Republicans in a pinch."
-    publishedDateTime: 2020-12-13T10:00:00Z
-    webUrl: "https://www.nytimes.com/2020/12/13/us/politics/trump-allies-election-overturn-congress-pence.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/13/us/politics/trump-allies-election-overturn-congress-pence.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/us/politics/trump-allies-election-overturn-congress-pence.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 175
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/12/us/politics/13dc-overturn-1/merlin_181149501_545a5a52-9c27-44f3-891f-1caf1453f16a-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "White House exodus begins even as Trump continues to baselessly claim victory"
     excerpt: "White House staffers at all levels are plotting their departures as a growing number of aides to President Donald Trump are abandoning his quest to overturn the 2020 election results -- some in frustration with the building they are leaving behind.\n    \n"
     publishedDateTime: 2020-12-04T22:21:06Z
@@ -302,20 +286,6 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_49/3433737/201206-carlos-markisha-swepson-blvd-harlem-2x1-se-530p_43d2f696fe4dac84a7205d86a0382d51.jpg"
         width: 2500
         height: 1664
-        isCached: true
-  - title: "Senate Democrats press Trump on possible vaccine shortage"
-    excerpt: "They questioned if the U.S. is facing a vaccine cliff after the administration reportedly passed up offers to buy more Pfizer doses."
-    publishedDateTime: 2020-12-15T06:29:00Z
-    webUrl: "https://www.politico.com/news/2020/12/14/senate-democrats-trump-vaccine-shortage-445226"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/2b/fe/a867da1f4174a1f95616016e1e5f/gettyimages-1230126547-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "bL5aimuprOprQqB5mQPBXHgU123JzjAh1j0Y/0+6nIFw0bbiD7pb0NVEYbjRsetiRUV0kMzvXl34Mqiyvnws92xwADSAVrbOJlYj6ulDDsp/qnum5Tpch4F5HOo1fP18EVdiP/x2Og9l5+YXsjmhE/bOPhZmlJ4UD5B1XEeIqswMdi4F6h6G8Pd7xP6uIULdafM8RJU6+nZWsu8TGcIgM3FMnadJUC8ZgtENKF24NdetkuvMNYZWDeocjbeDDjwHgVSbjG3J5cvH06PceBUn5Aexf0PMFViKOieiRoiHhDR8Q0p0nDWl+UNCMTE2GhsJt8AMg9fzTwx2hVJNELXOwwZ7SkHAbv1mN5xxKiEBEUA=;r15xSFBT3scLQJptGV87DA=="

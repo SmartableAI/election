@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/12/14/us/trump-voters-stolen-election.a
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/14/us/trump-voters-stolen-election.amp.html"
 type: article
 quality: 150
-heat: 190
+heat: 170
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_safeharbdead_201208_1920x1080.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Trump touts a false narrative — and forces allies to come along for the lie"
-    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
-    publishedDateTime: 2020-12-10T14:11:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/trump-touts-false-narrative-forces-allies-come-along-lie-n1250690"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250690"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250690"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434730/201210-donald-trump-al-0805_c044deb93d6188d8ad4a3663c1f7d599.jpg"
-        width: 2500
-        height: 1667
         isCached: true
 
 secured: "ooa9wz6vRqUTImoriLGFBWObSv41Kbf9ZRgsgiO5FazcMLIEnk/1o9lBs/83kSEu5Y5uTVko0mb2AKnCOuvgofx9NPzRn/rTEy9J5t+7JeKOOlBKXojJaVffvoeZp7CdNRkwjBr7Ih8wGfnasFAXnbzOop3iL9kxQLwGxwTvgEfl8Pu3YJly+wIZxSHm6CdcSRJoQ/TVBVFfrFFluDbQhPhF3I2sJwXFTYdY/AiIQfmZZ/LdUZvBiQyZqqlWFeda0s8rivUFp+BoJ3lfrqzdFYa39AXn8l0DHDBdYqdvQrov/YUEfWmMgZpftAoDuMQvil9WzS9cXwlqAd/Ysj/EzcQ82OFl4qXS/vfB8tUBMCNgMzOCSfTb/264tHCy6ApmaTfXE3XDvIxMsagqoO4Ec2Tey/VbJ9PZQQOX+UHakFL+dGZup51EWAUY/OI1xZLSVcuf64wMWsiZEzI0IMxSADatrCrzkJP3kdyzsOw4QSaqxrfAc3iMOw4wLQfIFGtYjWRfevhMoS06b4HGjlZBLw==;VlLGYOJyb02Twau0X+NWFw=="

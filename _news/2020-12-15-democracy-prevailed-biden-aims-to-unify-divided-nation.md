@@ -25,51 +25,35 @@ topics:
   - Joe Biden
 
 related:
-  - title: "In leaked audio, Joe Biden says 'defund the police' was used to 'beat the living hell' out of Democrats"
-    excerpt: "WASHINGTON — President-elect Joe Biden told civil rights leaders in a meeting on Tuesday he thought Republicans used the \"defund the police\" movement to defeat Democrats in down"
-    publishedDateTime: 2020-12-11T01:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/10/biden-said-gop-used-defund-police-against-dems-leaked-audio/3887911001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3887911001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3887911001"
+  - title: "Joe Biden heads to Georgia to support Democrats in crucial Senate runoffs – live"
+    excerpt: "Biden will be in Georgia to campaign for two Democratic US Senate candidates whose runoff elections could make or break his policy agenda"
+    publishedDateTime: 2020-12-15T14:29:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates?page=with:block-5fd8c5c08f08b0a99da96c01"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/04/USAT/9fac5866-b3ae-48b6-a692-862b958b0386-AP20339752338738.jpg?auto=webp&crop=5626,3165,x0,y318&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://i.guim.co.uk/img/media/cebbf418b5cbd4752c7f9a43c4d20d410e22d20d/0_31_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0f6021407f574536f7ea0695c55f5872"
+        width: 600
+        height: 360
         isCached: true
-  - title: "McDonough says Biden administration will 'fight like hell' for veterans"
-    excerpt: "President-elect Joe Biden introduced Denis McDouough as his Veterans Affairs Secretary nominee at an event in Wilmington, Del. on Dec. 11."
-    publishedDateTime: 2020-12-11T23:50:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/mcdonough-says-biden-administration-will-fight-like-hell-for-veterans/2020/12/11/d0a8254f-d813-4de6-9323-7e7a4b63faa4_video.html"
+  - title: "'Democracy prevailed': Biden after official win"
+    excerpt: "Biden after official win. Posted . Democrat Joe Biden called on Americans to \"turn the page\" on the Trump era in a prime-time speech on Monday (D"
+    publishedDateTime: 2020-12-15T06:28:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD94HSYN"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-11-2020/t_6a931d6c5e944923980408fa241c2a43_name_bad8873a_3bf0_11eb_aad9_8959227280c4_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
-  - title: "Biden tells civil rights leaders that Republicans weaponized the 'defund the police' slogan to 'beat the hell' out of Democrats"
-    excerpt: "\"That's how they beat the living hell out of us across the country, saying that we're talking about defunding the police,\" Biden said of Republicans."
-    publishedDateTime: 2020-12-10T22:44:00Z
-    webUrl: "https://www.businessinsider.com/biden-told-civil-rights-leaders-avoid-defund-the-police-slogan-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-told-civil-rights-leaders-avoid-defund-the-police-slogan-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-told-civil-rights-leaders-avoid-defund-the-police-slogan-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
-    images:
-      - url: "https://i.insider.com/5fd286912dc42e0018f0e471?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://static.reuters.com/resources/r/?d=20201215&i=OVD94HSYN&r=OVD94HSYN&t=2"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "71cyV69flkpYw+EvW4zn/1wjQdmbghUwA8t29aMYxzKii1OmiZWM+jMQuvyZGA0jBrFROjru2IGD9Nxht/XcUef+0cOp9rO22TvQnS+2/JjZa1ZwA8zRN86n+oYewEzqUpt/NZHJ2JJpefiFGXmg0G78zz6kgen0bjP0k5SRakWZihJkEgSApcNXO6+SyxWsUIMa0Y2Y8Q7BRWRtAzam5/uccvmc6+J+qaknzsF6aU99+3HLstyaquZffpGq5i2kwnbcWjWwk88rUy3UTHAnjx+I1yt169aXQIwRcNdrohECLEYBeDi1C21M+24yHhPqH1EPkL5A7b0J0/ECOZ1nJI8m1QxWWKPS6UEf1/kYQHs=;tyN6RgTuCw4LIGNvgloj9g=="

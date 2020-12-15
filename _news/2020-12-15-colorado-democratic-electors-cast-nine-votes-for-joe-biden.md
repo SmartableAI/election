@@ -234,9 +234,9 @@ related:
   - title: "Biden's pledges could spur more migration. But in a pandemic, the border is unprepared"
     excerpt: "After spending eight months of 2019 in a makeshift tent camp in the dangerous Mexican border city of Matamoros, Israel Martinez abandoned his hopes of seeking asylum in the United States."
     publishedDateTime: 2020-12-15T11:26:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-immigration-border-insight/bidens-pledges-could-spur-more-migration-but-in-a-pandemic-the-border-is-unprepared-idUSKBN28P18G"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P18G"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P18G"
+    webUrl: "https://www.reuters.com/article/usa-biden-immigration-border-insight-idUKKBN28P1A1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28P1A1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28P1A1"
     type: article
     provider:
       name: Reuters

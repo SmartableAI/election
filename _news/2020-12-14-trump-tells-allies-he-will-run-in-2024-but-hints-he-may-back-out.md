@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump says he halted plan to immediately vaccinate White House staffers"
-    excerpt: "High-ranking White House officials are set to receive some of the first coronavirus vaccines in the United States, according to a White House official and a person familiar.\n    \n"
-    publishedDateTime: 2020-12-14T12:28:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p9LxkhN0YIg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/white-house-coronavirus-vaccine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/white-house-coronavirus-vaccine/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119150031-white-house-1117-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "KiN4gh+5PqJsThnPehhzRz4WeJo5Da8Qe4HvAcINRN/CdysAFH8NnwLqGpi0iV+QSbG1IVse8KrpF2i/Soe+5RvqSwT/S8K7oPUWM8FwO70f+EaV7XKXCiwIMMuHVsZPwoVHetb+4EO4Em8HRdCMS8Phqk1KUbzkJ8GRrUMTm9nJQdh8heh+FxGpLtxZdJPTOAoktQzk+QPKQVkigp72TZbp7vg8MX7WA+heTFHl/WdBDcfVhYz6ubeOVYuAfMidWe7vqxw7cDJT7w9HCn28MloDOBa8FGVa5E9ul0NiWKUcTP9yZuKqXnfVGoJKzEti1ifhfsXMYVaZvBKGnQzFltzLCPZ9/YHiaFFMsDdDKATld1sjuweeKGBWNPk3cdck2urOMmOlgBdoyZmnq0Krzz4sFk+Nkh/jnCSSkhmAZD/eUIgMLX1PLnlW0GLLN0WJo4bGPOPE4K3jZAKafNIDPeEjFRJvtaFUdlOngmRDewYUcuccLD5tQW+TMXPnjJVWy6W3shoIx0V3NVC5WdVxVA==;Flo1o5PjiCtZmiYojfQXGg=="
 ---

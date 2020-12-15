@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Top Facebook, Twitter execs donated tens of thousands of dollars to Biden campaign"
+    excerpt: "Top executives at Facebook and Twitter donated tens of thousands of dollars to President-elect Joe Biden's campaign, Federal Election Commission records reviewed by Fox News reveal, as the social media platforms come under fire for limiting the circulation of reports surrounding Hunter Biden’s business"
+    publishedDateTime: 2020-12-15T14:49:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p51jS2evj3M/facebook-twitter-biden-campaign-donations-censorship"
+    ampWebUrl: "https://www.foxnews.com/politics/facebook-twitter-biden-campaign-donations-censorship.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-twitter-biden-campaign-donations-censorship.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
     excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."
     publishedDateTime: 2020-12-12T19:22:54Z

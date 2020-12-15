@@ -2,21 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-15-the-latest-fauci-says-vaccinate-biden-harris-trump-pence.md",
-      "title": "The Latest: Fauci says vaccinate Biden, Harris, Trump, Pence",
-      "excerpt": "Top U.S. infectious disease expert Dr. Anthony Fauci says President-elect Joe Biden and Vice President-elect Kamala Harris should be vaccinated for COVID-19 as soon as possible",
+      "path": "_news/2020-12-15-fauci-recommends-trump-and-pence-get-vaccinated-for-covid-19.md",
+      "title": "Fauci recommends Trump and Pence get vaccinated for Covid-19",
+      "excerpt": "Dr. Anthony Fauci would recommend that both President Donald Trump and Vice President Mike Pence receive the Covid-19 vaccine, which has been approved for emergency use authorization and is being rolled out nationwide.\n    \n",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aQhMcwMRt6Y/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aQhMcwMRt6Y/index.html",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 2330,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 380,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201002094331-01-trump-pence-0928-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +28,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-15T04:46:00-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/15/politics/fauci-coronavirus-vaccine-trump-pence/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/fauci-coronavirus-vaccine-trump-pence/index.html",
+      "publishedDateTime": "2020-12-15T06:31:30-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,9 +54,61 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-the-latest-fauci-says-vaccinate-biden-harris-trump-pence.md",
+      "title": "The Latest: Fauci says vaccinate Biden, Harris, Trump, Pence",
+      "excerpt": "Top U.S. infectious disease expert Dr. Anthony Fauci says President-elect Joe Biden and Vice President-elect Kamala Harris should be vaccinated for COVID-19 as soon as possible",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2380,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Health/WireAP_22bdf9791c6749db8600b787bc5bdc58_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137",
+      "publishedDateTime": "2020-12-15T04:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Mike Pence",
-        "Donald Trump"
+        "Kamala Harris"
       ]
     },
     {
@@ -1474,58 +1530,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-pence-on-virus-us-has-never-been-more-prepared.md",
-      "title": "Pence on virus: US 'has never been more prepared'",
-      "excerpt": "Vice President Mike Pence offered an upbeat assessment of the coronavirus situation in the U.S., despite a surge in cases, hospitalizations and more than 250,000 deaths. He spoke at the first coronavirus task force briefing in months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/11/19/pence-virus-us-has-never-been-more-prepared/6349703002/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/11/19/pence-virus-us-has-never-been-more-prepared/6349703002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/1b2d795c-256d-4fd7-9029-79fd5463556e_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T16:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Mike Pence"
       ]
     }

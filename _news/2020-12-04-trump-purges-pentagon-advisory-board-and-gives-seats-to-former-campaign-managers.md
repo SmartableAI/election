@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump Allies Eye Long-Shot Election Overturn in Congress, Testing Pence"
-    excerpt: "Some House Republicans plan to try to use Congress’s tallying of electoral results on Jan. 6 to tip the election to President Trump. The attempt will put Republicans in a pinch."
-    publishedDateTime: 2020-12-13T10:00:00Z
-    webUrl: "https://www.nytimes.com/2020/12/13/us/politics/trump-allies-election-overturn-congress-pence.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/13/us/politics/trump-allies-election-overturn-congress-pence.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/us/politics/trump-allies-election-overturn-congress-pence.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 175
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/12/us/politics/13dc-overturn-1/merlin_181149501_545a5a52-9c27-44f3-891f-1caf1453f16a-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "How Trump raised massive amounts of money after the election and other takeaways from campaign filings"
     excerpt: "President Donald Trump raised staggering amounts after losing the White House. Casino billionaire Sheldon Adelson kept donating in the election's waning days, and South Carolina Sen. Lindsey Graham set a new fundraising high water mark for Senate incumbents.\n    \n"
     publishedDateTime: 2020-12-04T20:59:12Z
@@ -302,20 +286,6 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_49/3433737/201206-carlos-markisha-swepson-blvd-harlem-2x1-se-530p_43d2f696fe4dac84a7205d86a0382d51.jpg"
         width: 2500
         height: 1664
-        isCached: true
-  - title: "Senate Democrats press Trump on possible vaccine shortage"
-    excerpt: "They questioned if the U.S. is facing a vaccine cliff after the administration reportedly passed up offers to buy more Pfizer doses."
-    publishedDateTime: 2020-12-15T06:29:00Z
-    webUrl: "https://www.politico.com/news/2020/12/14/senate-democrats-trump-vaccine-shortage-445226"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/2b/fe/a867da1f4174a1f95616016e1e5f/gettyimages-1230126547-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "UcN47vbrtanARy4Bw3pU2+HdNeEtoBMuCo/ruddBGusAK3uh8t4y6s7TebO2GeSl0lfbkwyiF4kGroO3xyhRQ/76jyzXLtJC/CSnWHeg2GvDNQGoigLb5J0gpmdbuWZir2zcKcgjrlG41c5zUAdXulwe7wQZyMxGisBrvI16MVZdBnOW0XPmL4bH/U/KEEwCLjwpxbfdRSREKkC1tlBE9dx87m/i8sQZsI/3uWl+oMzb6LGE+WywJxjAo0GSuZOYfNlLLdD8YU+207Uw0vT/CBMutiUuGhnEZU2Q833cSqnKLBZDUyDCygFPiC7HtOFrD1F1ZzgP5EWHTNjLu+IUloJgv/MmCtKafNK9IpYF1So=;/lxERJqCyrLwAn1fjCdL7w=="
