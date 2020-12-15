@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/will-biden-consider-republicans-adm
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-biden-consider-republicans-administration.amp"
 type: article
 quality: 175
-heat: 415
+heat: 395
 published: true
 
 provider:
@@ -207,15 +207,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Religious Freedom Is at Risk in a Biden Administration"
-    excerpt: "Liberal voices across the country have claimed victory in the presidential race and have begun laying the framework for a Joe Biden administration. It should come as no surprise that these plans are broad in scope and radical in intent."
-    publishedDateTime: 2020-12-13T19:58:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/11/religious_freedom_is_at_risk_in_a_biden_administration_531161.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "fw3v+w/ZohXmslW1QP8toKuTAS9NoKGJNP19gIyXuCK3/r7SSi9ziFS6pXze340H4OmpuZQx1rQ1/84WUnifJKOEr40yqn/RW/uq7aK9xSOe8EJh0PbbGSVUzlC7fSZ+IG1xbcMD7G8eSm9UsomSLATQbiuFuCDWJdNztPnP5loVMBWCsFptLmZokG2gMJiQ75XBUpdHk1bXE92DxAak0efsWciEPOvrdVD0eSHRd7zZNzCNV4XoNepTMFYGYaXZ+bT2KdUpVclDOp68ohqSfe3D01BebAZvz4bb1aF7iMmtqYaxLJMQbannM8m4uaAdhIR2Wu0a3g2L6FuBNJzio5rPMQxYdL8wrb8mBaACDC8=;nsKychfsJnHFrAVgUUVHow=="
 ---

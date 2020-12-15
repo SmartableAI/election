@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Attorney General William Barr resigns after recent clashes with Trump, still defends president"
+    excerpt: "William Barr, who has served as President Donald Trump's most effective shield and advocate for broad presidential authority, is leaving before Christmas."
+    publishedDateTime: 2020-12-15T08:22:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/14/attorney-general-william-barr-leaving-trump-administration/5993228002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5993228002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5993228002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/01/USAT/70fdbe50-e9b6-48b0-ab1d-32b8986206d3-USATSI_14865079.jpg?auto=webp&crop=5471,3077,x0,y571&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Major Architects Group Will Stop Designing Death Chambers Amid Trump's Record-Breaking Executions"
     excerpt: "Convicted murderer Alfred Bourgeois was put to death on Friday, becoming the second man to be executed in two days."
     publishedDateTime: 2020-12-12T10:21:00Z

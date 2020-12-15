@@ -205,20 +205,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "President Trump: Joe Biden Lied About Hunter Biden Investigation On The Debate Stage"
-    excerpt: "President Trump discussed new reporting that confirms the FBI has indeed been investigating Joe Biden's son Hunter for financial crimes related to his business in Ukraine. President Trump was impeached for asking for help from an allied country about an ongoing criminal investigation."
-    publishedDateTime: 2020-12-13T15:51:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/12/13/president_trump_joe_biden_lied_about_hunter_biden_investigtion_on_the_debate_stage.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 73
-    images:
-      - url: "https://assets.realclear.com/images/52/529627.jpg"
-        width: 750
-        height: 562
-        isCached: true
 
 secured: "iQb+IMtjhtI3iFoiK8HQTB9/4J60w73QVpVMrJ3glRoSzSYiERgmaTs8dx899YbVNr/wo60skUsFRffrOfXjsRDM1t/UTIMSICUvNDLB3e8glqpcDf+gL7348w5YKXvXwuqxtIZCnAMizrs/bXbl6evwCNjRC+eJ4uzUGgYuYk0DM/eA8L0jseIKZNAgWan0G0z05FqVnwo4lSYt+ZWQsNZ3vEWPXe/59mMg3WbMsLXx9K2qaFSWx30XyH3PhRcwhlws5ZGl5njJ4zDWB/7e9zthdXnhQK2LecMPG1yIpS7aGLd/X5vg+wF6BlZeZSfeHkvu7vr1qbSAYOtlujDWPo/CxtHPTIHaY3KzXEACdHo=;6bkH0v+YqrD3VQqeLYDPSQ=="
 ---

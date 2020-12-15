@@ -3,8 +3,8 @@ category: news
 title: "'The people prevailed': Biden addresses nation as electoral college affirms victory - as it happened"
 excerpt: "California – which has more electoral votes than any other state – sealed the presidency for Joe Biden"
 publishedDateTime: 2020-12-15T01:32:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd806118f08a72f01adad62"
-webUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd806118f08a72f01adad62"
+originalUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd7fed38f08a72f01adad20"
+webUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd7fed38f08a72f01adad20"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates"
 type: article
@@ -91,10 +91,10 @@ related:
         isCached: true
   - title: "'Democracy prevailed,' Biden says after U.S. Electoral College confirms his win"
     excerpt: "President-elect Joe Biden delivered a forceful rebuke on Monday to President Donald Trump's attacks on the legitimacy of his victory, hours after winning the state-by-state Electoral College vote that officially determines the U."
-    publishedDateTime: 2020-12-15T06:54:00Z
-    webUrl: "https://www.reuters.com/article/usa-election/electoral-college-will-vote-monday-confirming-bidens-u-s-presidential-win-idUSKBN28O0FM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O0FM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O0FM"
+    publishedDateTime: 2020-12-15T08:11:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN28O0H0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28O0H0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28O0H0"
     type: article
     provider:
       name: Reuters
@@ -218,6 +218,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "d5fnnId15DZO20FUT2PNAvepRjkA23dZpaWPAEmP/Y6kzVavxnCRfFxjwxxvkJ07LZhTVBXFjCRB1B+sMBiofB2NtwIiRaofrCnXFsKKhzd+TrDTw+nYCUUL5gToUhaWskrJrKNGf5ZI7aR16wHXKWCOue8oPAYGl80Fgi9ZJnRzPpOJ6RyLzhZGmyLl8V3xxGA4QcQQ36jgzYvJkVT3kAGs84nqoL7uVT/JwZcmSRBnaZp5GGqnsinl+mdQW5XruBIcdAwaBwQMQYbUfseBZSqIymzcXib/R3xm8IyAWpcJQZXlEDDmpzSf3lJW0U5k37gJbr7hFeHUf8EOBIEyAsbR05EsRI4MDnBCm2xO78ZMu3AcNlOFDfEuvzp/IyKxSQm3g8TrHCIj6FhVDJraU4+a60/Dv5by05y7UheqkVNkt4ovfNdu/Aba2ToFGQi3mpBi5MsvqSOeKmFCQmWlx0M286OpPgT8TAf2Ns/Vy1T1P8gxCRDNF946NgRE0Uip9ak6Uv7i3rMZFHo5AIhHPQ==;JeLHrkpDrav3Vj0HF2p/hw=="
+secured: "zq+LhPxI67NWH/lb2hIH39tKeVhwb+gkBsNmUh1MpFVDCBXJWZVDV+d9h27M89JmgryqZS/oGDcYa2g5rTj/8DR3OXJG/tUKjJV/55Z9uYgrWmE3QmR9NvOuqM15lDPvw6oin0gc6ePb9k/Usj56gC64gIpuGTjq5LyhLofrVvAn9xPrLSkKOgY7LzL6FFuLxNWnRJ5qIIfwWTO92W2Es0B+b+UBGq8aKE0U/2C2sVzSUCZMl6jMcO7XiYVy2/kFgNRkws4qSyYbJF5V5bQbNlLziF37ztoQf7RakxUAtLnznO881OFf8zH2iZ9zQeXKgnJf+IYTtTSK9BNSFIAC1lYTftorb/PGCUPx5j/Q4bNBUNcIRoZ8iLNZH2BLSs1qBuBw7MKtEifdo6P5g4y8HEToUOxVBftLMTsO46VRtWgiN8i8uHfDrlpwL6VjLtZJfB6Av4LNOe+bnBSQVLAIoAA19M9D/f+eavLrQnInIPHdSJFhuN2Ru/sz3vp+iLN+1+r7EkdHvVGxVpHrVrX9Zg==;I1Djw+ynxspdoPd090fzeg=="
 ---
 

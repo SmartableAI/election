@@ -63,70 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Multiple Senate Democrats signal opposition to Biden's Pentagon pick"
-    excerpt: "President-elect Joe Biden will officially tap retired four-star General Lloyd J. Austin III to be his Defense Secretary Wednesday, but some Senate Democrats are already expressing opposition to the pick because of a law that mandates the Pentagon chief must be retired from the military for at least seven"
-    publishedDateTime: 2020-12-09T01:38:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hrqRGYeL7GE/two-top-senate-democrats-signal-opposition-to-bidens-pick-for-pentagon-chief"
-    ampWebUrl: "https://www.foxnews.com/politics/two-top-senate-democrats-signal-opposition-to-bidens-pick-for-pentagon-chief.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/two-top-senate-democrats-signal-opposition-to-bidens-pick-for-pentagon-chief.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec68a32e-4817-41ce-a05e-09b225696e18/37ad2bac-a654-4987-91e7-4b3680fbb613/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden's Health and Human Services pick has no public health experience"
-    excerpt: "President-elect Joe Biden surprised the health community when he announced his pick for Health and Human Services Secretary earlier this week, Xavier Becerra, the attorney general of California."
-    publishedDateTime: 2020-12-11T23:22:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ODX7-larJ7M/bidens-health-and-human-services-pick-has-no-public-health-experience"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-health-and-human-services-pick-has-no-public-health-experience.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-health-and-human-services-pick-has-no-public-health-experience.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a7c63ef-15e6-4f06-a916-cd19381e51fa/67cd9b27-0df9-4d26-be2c-4a8fc09c475f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Key House Democrat pushes back on Biden picking general for defense secretary"
-    excerpt: "A prominent House Democrat who sits on the Armed Services Committee is raising concerns about President-elect Joe Biden’s expected pick for defense secretary."
-    publishedDateTime: 2020-12-08T16:02:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HW05KClJdVg/rep-slotkin-biden-general-defense-secretary"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-slotkin-biden-general-defense-secretary.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-slotkin-biden-general-defense-secretary.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden defense secretary pick puts Democrats who opposed Mattis' waiver in a tough spot"
-    excerpt: "Lawmakers would need to approve a waiver allowing him to serve."
-    publishedDateTime: 2020-12-09T01:53:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wnIRbzCu1SM/biden-defense-secretary-pick-dems-opposed-mattis"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-defense-secretary-pick-dems-opposed-mattis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defense-secretary-pick-dems-opposed-mattis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b82c52d-6baf-4dd2-90b8-e403898a75c6/9eea1eab-e62b-406b-912d-b8b272393d47/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden expected to name Marcia Fudge as HUD secretary, but she comes with a controversial past"
     excerpt: "Fudge has served in the House for Ohio’s 11th Congressional District since 2008."
     publishedDateTime: 2020-12-08T23:33:20Z
@@ -175,22 +111,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden to name Marcia Fudge as HUD secretary"
-    excerpt: "Fudge has served as representative for Ohio’s 11th congressional district since 2008. Prior to her selection as HUD Secretary, Fudge had campaigned for a Cabinet appointment and lobbied the Biden-Harris transition team to be secretary of agriculture."
-    publishedDateTime: 2020-12-08T23:47:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-marcia-fudge-hud-secretary"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-marcia-fudge-hud-secretary.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marcia-fudge-hud-secretary.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee035aba-07fe-4e96-ba76-3578de5ac693/750518e9-5a78-4b26-a746-28ba07fc263f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden mum on Rep. Swalwell's links to suspected Chinese spy"
     excerpt: "President-elect Joe Biden has remained silent on a report that linked Democratic Rep. Eric Swalwell to an alleged Chinese spy who targeted up-and-coming politicians both locally and nationally during the Obama administration."
     publishedDateTime: 2020-12-09T18:03:00Z
@@ -207,22 +127,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's Health and Human Services pick has no public health experience"
-    excerpt: "President-elect Joe Biden surprised the health community when he announced his pick for Health and Human Services Secretary earlier this week, Xavier Becerra, the attorney general of California."
-    publishedDateTime: 2020-12-11T23:36:00Z
-    webUrl: "https://www.foxnews.com/politics/bidens-health-and-human-services-pick-has-no-public-health-experience"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-health-and-human-services-pick-has-no-public-health-experience.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-health-and-human-services-pick-has-no-public-health-experience.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a7c63ef-15e6-4f06-a916-cd19381e51fa/67cd9b27-0df9-4d26-be2c-4a8fc09c475f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden Defense Secretary pick at helm when team accused of ‘watering down’ ISIS intel"
     excerpt: "President-elect Joe Biden’s choice for secretary of defense, retired Gen. Lloyd Austin, could make history as the first Black man to serve in the position, but getting his appointment through Congress could be an uphill battle."
     publishedDateTime: 2020-12-10T01:58:00Z
@@ -236,22 +140,6 @@ related:
     quality: 128
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d949b97e-0bd4-4ac9-a84a-f695a9768fe3/6ac99de3-ed39-49ea-93fa-03e61ba34473/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden breaks silence on Hunter for first time since federal tax investigation surfaced"
-    excerpt: "Hunter Biden disclosed earlier this week that the U.S. Attorney’s Office in Delaware had an active investigation into his tax history. The investigation began in 2018, a source"
-    publishedDateTime: 2020-12-11T22:03:00Z
-    webUrl: "https://www.foxnews.com/politics/joe-biden-breaks-silence-hunter-for-first-time-since-federal-tax-investigation-surfaced"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-breaks-silence-hunter-for-first-time-since-federal-tax-investigation-surfaced.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-breaks-silence-hunter-for-first-time-since-federal-tax-investigation-surfaced.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fdd4fa30-66ad-4e63-adb7-491d71f54190/dac5b2a1-6140-41e0-9388-9a2491361f93/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

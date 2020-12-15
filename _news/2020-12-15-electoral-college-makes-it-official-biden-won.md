@@ -95,10 +95,10 @@ related:
         isCached: true
   - title: "'Democracy prevailed,' Biden says after U.S. Electoral College confirms his win"
     excerpt: "President-elect Joe Biden delivered a forceful rebuke on Monday to President Donald Trump's attacks on the legitimacy of his victory, hours after winning the state-by-state Electoral College vote that officially determines the U."
-    publishedDateTime: 2020-12-15T06:54:00Z
-    webUrl: "https://www.reuters.com/article/usa-election/electoral-college-will-vote-monday-confirming-bidens-u-s-presidential-win-idUSKBN28O0FM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O0FM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O0FM"
+    publishedDateTime: 2020-12-15T08:11:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN28O0H0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28O0H0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28O0H0"
     type: article
     provider:
       name: Reuters
@@ -192,7 +192,7 @@ related:
   - title: "'The people prevailed': Biden addresses nation as electoral college affirms victory - as it happened"
     excerpt: "California – which has more electoral votes than any other state – sealed the presidency for Joe Biden"
     publishedDateTime: 2020-12-15T01:32:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd806118f08a72f01adad62"
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd7fed38f08a72f01adad20"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates"
     type: article
@@ -219,6 +219,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "yre31UU/cf/p49C6ryc5Bt4Mezd/KSDaNEavsGHJZu5lyt76Ht+ojwUaIwqgsab8Qf6HoTwUtu39T+QFg6lxEcuv0QSBQIBIdjZyA2BHi49Pu0dcjaucv/n5OPCGwy/Ae6kjhUhkPuqj6vl3fRkh/+/RyUXDvaQoL76krVU/oMwQPGC4KHIf6Asiec+PEkd/vguzIEJTcnU5yBoXCWwJmk5pztBoaT7RcZ3RHLtQM6ArORs2Qeu8YcZYf6/7hEvgW3nTyEqpkBA3dJJhyD7bfzIaDoiP8c01+tuzzURNox6mJ+UuGGaGSUy7jrbHl7ZLRqpVg/gR+yGDXPyHY9kMbKPRG1w6wcvaBhmax52bmVY=;QEwvuD0vfbBSUSFmBgzfpg=="
+secured: "+KPb81D7X1r5XL+bmp0Hs30ueLVne98EGsVTnXnkOwIZ4rzQJIGbR1KjiFtT6ivAXZ+fGx3eeAzpVnJ7aTKSlsWsYQ1PgIOTQfAatV0MFVKDil5vLaoY1ZLJbae6Opnfl+8j1Ut6W6XeNhQ95ZAEernq0nNfStwqBfNrpYUNpl9L5y8VPTafFt22ZRCTyH+7HGyEV+MEMB+vTvJ0I5KJ47xSi3r090wsJ9UB7mY1CBs+5Vw99BePxV4IpMyeJsDb3vR14H3p6zD54xe7J6SXqzClThg3RfK1mpuLKF4ZrVehCy6iFQZimhSsGU1JbNUo5RA8qzEStFEyihstoO80uGcvKG6OCA569Z4UCTtCkjFo28IY7JCfla4NmCDWNr1s54Fcmk9kFWBvtAtO4h3tfIYlP3DaUdqcFlZZsScrY9bmBQEd/NPOxSavd0++U437FOluWQysF08gmd0a2v2A+LTzqsJnwIRTOWFXVDf3K3vPz3eID+EBlqUu/ZRM4mtKY7+3eTj5JpvUsQXs/eQp6w==;nnwspYnfGslX4mp5Rm7mjA=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "AOC 'Squad' member says hearing of these two possible Biden Cabinet picks 'makes my skin crawl'"
+    excerpt: "Congressman-elect Jamaal Bowman, D-N.Y., on Thursday said he was satisfied with some of President-elect Joe Biden’s Cabinet picks, but others made his “skin crawl.”  "
+    publishedDateTime: 2020-12-03T20:21:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yw0TqvxuaD0/aoc-squad-member-says-hearing-these-two-possible-biden-cabinet-picks-makes-my-skin-crawl"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-squad-member-says-hearing-these-two-possible-biden-cabinet-picks-makes-my-skin-crawl.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-squad-member-says-hearing-these-two-possible-biden-cabinet-picks-makes-my-skin-crawl.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/476505cb-4144-4900-9013-5dafd7429c20/6aac77d4-37a1-453b-8d1f-88f467a26d48/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden administration pick Neera Tanden outed sexual harassment victim at liberal think tank: report"
     excerpt: "President-elect Joe Biden's pick to lead the White House Office of Management and Budget, Neera Tanden — like his other expected nominees — is likely to see a contentious confirmation hearing, but she is no stranger to controversy after reportedly revealing the name of an alleged sexual harassment victim"
     publishedDateTime: 2020-12-02T14:40:50Z

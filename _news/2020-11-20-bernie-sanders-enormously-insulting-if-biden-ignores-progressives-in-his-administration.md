@@ -207,15 +207,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Religious Freedom Is at Risk in a Biden Administration"
-    excerpt: "Liberal voices across the country have claimed victory in the presidential race and have begun laying the framework for a Joe Biden administration. It should come as no surprise that these plans are broad in scope and radical in intent."
-    publishedDateTime: 2020-12-13T19:58:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/11/religious_freedom_is_at_risk_in_a_biden_administration_531161.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "akyZnY/rhkUI0Rii2pxjxd3mqCE3PD7xZLuHHj+Fl2yoYeq7OYyaYeX6T+zVrrrt7OO0yKuD9wg7VhQNCuubg3noeB3PpaV/ckG3Rj5Zv6Fc44yi6nj1cR2SAo0RjDgBX3D4M5mcni2pNQEq9HxofTz2HFWWbdAa8FUroSoTU9U4unel1ojs09U6AETzbbNcPOtgeRLxW2bZtYWwqxy3k31cj67nGwBGX4vyjohyc+sIJe6TLyFNpo15OA7W50Q0lHUYgeqgkU/cWFlFTRuRSat3exN8CPEAvqMQk8EK+ys1QmhhjXUjwfykubvpRzhmDVVIGQ+ghmxl2JBcUgeCF2zKtPgSa4i9hOgUOlUnqNg=;g7pyD5ObiLBaiMiD6oPahQ=="
 ---

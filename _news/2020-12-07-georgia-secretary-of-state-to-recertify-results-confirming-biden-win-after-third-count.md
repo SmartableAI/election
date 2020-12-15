@@ -63,22 +63,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Azar says he's already met with Biden transition team"
-    excerpt: "Health and Human Services Secretary Alex Azar said Wednesday that he’s already met with the Biden transition team, looking to ensure a smooth transition of power. "
-    publishedDateTime: 2020-12-09T20:24:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9nB69YUg78E/azar-met-with-biden-transition-team"
-    ampWebUrl: "https://www.foxnews.com/politics/azar-met-with-biden-transition-team.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/azar-met-with-biden-transition-team.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8c9545a-a072-4743-a566-6e5a86b358a3/fa34f2bf-f746-417f-a5ef-403bbde4e836/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden considering Buttigieg for China ambassador: report"
     excerpt: "President-elect Biden reportedly might choose his former opponent, Mayor Pete Buttigieg, to serve as ambassador to China. "
     publishedDateTime: 2020-12-09T21:44:06Z
@@ -94,22 +78,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Buttigieg-DNC-AP-2.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden urges Americans to have ‘confidence’ in new COVID vaccine"
-    excerpt: "President-elect Joe Biden says Americans “should have confidence” in a new coronavirus vaccine produced by the drug maker Pfizer that could be imminently approved by the U.S. Food and Drug Administration (FDA) for immediate use."
-    publishedDateTime: 2020-12-11T22:53:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sHi1tTu8kzM/biden-urges-americans-to-have-confidence-in-new-covid-vaccine"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-urges-americans-to-have-confidence-in-new-covid-vaccine.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-americans-to-have-confidence-in-new-covid-vaccine.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Biden remains silent on string of Democrats caught flouting their own COVID guidelines"
     excerpt: "As more Democratic officials have come under fire for flouting their own coronavirus advocacy, the nation's top Democrat, President-Elect Biden, appeared to refrain from criticizing them."
@@ -158,22 +126,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20336659224888-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Biden Defense pick could make for strange Capitol Hill bedfellows in looming confirmation battle"
-    excerpt: "Retired four-star Gen. Lloyd Austin, President-elect Biden's choice for secretary of defense, is forcing members of both parties in Congress to weigh how comfortable they are with placing a recently-retired general in what is meant to be a civilian position leading the American armed forces."
-    publishedDateTime: 2020-12-09T17:21:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mDfh0-w--g0/biden-defense-secretary-pick-congress-waiver"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-defense-secretary-pick-congress-waiver.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defense-secretary-pick-congress-waiver.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "BLM supporters continue to protest Biden's consideration of LA Mayor Garcetti for cabinet"
     excerpt: "Black Lives Matter activists protested outside the home of Los Angeles Mayor Eric Garcetti to protest the mayor’s potential nomination to President-elect Joe Biden’s cabinet."

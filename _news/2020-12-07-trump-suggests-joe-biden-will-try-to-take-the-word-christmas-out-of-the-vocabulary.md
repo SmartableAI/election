@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-suggests-biden-will-take-chris
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12?amp"
 type: article
 quality: 143
-heat: 323
+heat: 343
 published: true
 
 provider:
@@ -174,6 +174,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Electoral College Makes It Official: Biden Won, Trump Lost"
+    excerpt: "The Electoral College has formally confirmed that Joe Biden will be the nation’s next president, giving him a solid electoral majority of 306 votes to affirm his victory in last month’s election."
+    publishedDateTime: 2020-12-15T03:25:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-15/electoral-college-makes-it-official-biden-won-trump-lost"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-15/electoral-college-makes-it-official-biden-won-trump-lost?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-15/electoral-college-makes-it-official-biden-won-trump-lost?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
 
 secured: "2aZtY1s2Rb+WgT0Gl2wKJf1nHFoj2S1VytR/juy8atWX/YSLBXsgwD2QUSmDxk/udhyjdFE10UhBM3yc/3O7LnNPpFT0PzHakcycT7FY/i4mp+10jw3z+Cg4zcFd92QbWSSA3cQzqiw5x04BHd+TfkhqRHYfOo0bfuXHM/FjW0MqeIpaT//IJoZWxlbQqmrt7r7ryx6mjuUJ6KVu2hHkU+Ke5+BjLToces+5vcIrYNyaO8XfdtpnYuuuU4UclSG+65cYZewCEjNiQ/1M46F/YxCWrpNfEfsmH8Wm6Ii4rKNZ3FVzCWw2oqFv811kcmeJrVL8cyW/rT4CIm2LsFCSt8jL168BpHfgOb5EbfENg3nrTDpklbPDKtp/qJuq0+tXraSz/QAqDGDHYxavvF1UU60185VkAVqZ3BNQ0eUdcaPlVCsbRnqENWigZOWjZzZB8GUrWUPA1vmnGiT++eJUJ2G71DUs0dl8gp7+zy2jPWcEuHaIi26dTYiwb6nvRa8vdQd1Zk2FghN1pfEZDQTmUQ==;PvHzr8hZpjMC9Ov2VFlFkQ=="
 ---

@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-15-biden-admits-to-a-bit-of-a-cold-after-electoral-college-victory-speech.md",
-      "title": "Biden admits to a 'bit of a cold' after Electoral College victory speech",
-      "excerpt": "Biden’s voice was slightly hoarse during the address, which took place shortly after he surpassed the 270-vote threshold required to win the White House.",
+      "path": "_news/2020-12-15-putin-congratulates-biden-on-election-victory.md",
+      "title": "Putin congratulates Biden on election victory",
+      "excerpt": "",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ckEiGdq99E/biden-acknowledges-he-has-little-bit-of-a-cold-after-presidential-victory-speech",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ckEiGdq99E/biden-acknowledges-he-has-little-bit-of-a-cold-after-presidential-victory-speech",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ov1bROivNoQ/putin-congratulates-biden-on-election-victory",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ov1bROivNoQ/putin-congratulates-biden-on-election-victory",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 174,
+      "heat": 1250,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bb17ad28-ae6e-42d1-8679-bd42bdd8dab0/7cbadd7e-fcd4-4f9c-b4c9-63f546a675f6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-acknowledges-he-has-little-bit-of-a-cold-after-presidential-victory-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-acknowledges-he-has-little-bit-of-a-cold-after-presidential-victory-speech.amp",
-      "publishedDateTime": "2020-12-14T19:22:15-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp",
+      "publishedDateTime": "2020-12-15T00:44:46-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -707,62 +707,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-14-trump-biden-officials-condemn-iran-regimes-kidnapping-execution-of-reporter.md",
-      "title": "Trump, Biden officials condemn Iran regime's kidnapping, execution of reporter",
-      "excerpt": "Officials in the Trump administration and Biden transition were united in their condemnation of the Iranian regime for its execution of a journalist whose work encouraged protests over the country’s economic decline.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4UjY15p7cKU/trump-biden-officials-condemn-iran-reporter",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4UjY15p7cKU/trump-biden-officials-condemn-iran-reporter",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 506,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20347367382392.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-officials-condemn-iran-reporter.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-officials-condemn-iran-reporter.amp",
-      "publishedDateTime": "2020-12-14T08:45:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-15-vc-daily-venture-firms-ready-for-payday-nvca-lobbies-biden-with-letter-softbank-ends-year-on-high-note.md",
       "title": "VC Daily: Venture Firms Ready for Payday; NVCA Lobbies Biden With Letter; SoftBank Ends Year on High Note",
       "excerpt": "Last week, the National Venture Capital Association sent a letter to President-elect Joe Biden to get a lobbying head start.",
@@ -888,7 +832,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 159,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1202,25 +1146,25 @@
       ]
     },
     {
-      "path": "_news/2020-12-14-biden-considers-samantha-power-for-usaid-report.md",
-      "title": "Biden considers Samantha Power for USAID: Report",
-      "excerpt": "President-elect Joe Biden is reportedly considering former United Nations Ambassador Samantha Power to lead the U.S. Agency for International Development (USAID).",
+      "path": "_news/2020-12-14-biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report.md",
+      "title": "Biden offered Atlanta mayor position in his Cabinet, she declined: report",
+      "excerpt": "President-elect Joe Biden reportedly asked Atlanta Mayor Keisha Lance Bottoms to serve in his Cabinet, but the Democrat turned down the offer.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZsYeFyMrgSU/biden-weighs-samantha-power-for-usaid-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZsYeFyMrgSU/biden-weighs-samantha-power-for-usaid-report",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/boBhvPCOapY/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/boBhvPCOapY/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 174,
       "tags": null,
       "images": [
         {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/samantha-power.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1228,9 +1172,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-weighs-samantha-power-for-usaid-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-weighs-samantha-power-for-usaid-report.amp",
-      "publishedDateTime": "2020-12-13T20:25:02-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report.amp",
+      "publishedDateTime": "2020-12-13T21:42:43-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1363,6 +1307,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-trump-expands-his-cable-diet-to-newsmax-and-oan-they-benefit-and-so-does-he.md",
+      "title": "Trump expands his cable diet to Newsmax and OAN. They benefit and so does he.",
+      "excerpt": "Presidential praise has boosted ratings, and more viewers can then increase pressure on Republicans to back Trump’s false claims of election fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V3ZFN5BLPAI6XHBBHTCQDUEYD4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-13T18:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

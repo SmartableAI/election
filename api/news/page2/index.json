@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-14-trump-expands-his-cable-diet-to-newsmax-and-oan-they-benefit-and-so-does-he.md",
-      "title": "Trump expands his cable diet to Newsmax and OAN. They benefit and so does he.",
-      "excerpt": "Presidential praise has boosted ratings, and more viewers can then increase pressure on Republicans to back Trump’s false claims of election fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V3ZFN5BLPAI6XHBBHTCQDUEYD4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-13T18:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-14-cnns-jake-tapper-thanks-trump-for-exposing-republicans-who-supported-texas-un-democratic-un-american-mendacious-joke-of-a-lawsuit.md",
       "title": "CNN's Jake Tapper thanks Trump for 'exposing' Republicans who supported Texas' 'un-democratic, un-American, mendacious joke of a lawsuit'",
       "excerpt": "Tapper closed his show with a blistering attack on Trump and Republicans for their \"desperate desire to subvert the will of the American people.\"",
@@ -118,7 +66,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 177,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -439,7 +387,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 240,
+      "heat": 260,
       "tags": null,
       "images": [
         {
@@ -744,62 +692,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-flashback-biden-praised-constant-unrelenting-stream-of-immigration-into-us.md",
-      "title": "Flashback: Biden praised ‘constant,' 'unrelenting’ stream of immigration into US",
-      "excerpt": "President-elect Joe Biden, during the Obama administration, said the U.S. benefits from a “constant” and “unrelenting” stream of immigration -- and that those with white European heritage becoming a minority in the U.S. is \"a source of our strength.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bsMogvw3hWI/flashback-joe-biden-constant-unrelenting-immigration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bsMogvw3hWI/flashback-joe-biden-constant-unrelenting-immigration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/105a243f-647e-49c0-a21a-db935c01db1a/2b2f4938-3d66-4bc8-899f-72bd96357331/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/flashback-joe-biden-constant-unrelenting-immigration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-joe-biden-constant-unrelenting-immigration.amp",
-      "publishedDateTime": "2020-12-12T17:33:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -1343,6 +1235,114 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-us-supreme-court-ends-texas-lawsuit-seeking-to-undo-trump-election-loss.md",
+      "title": "U.S. Supreme Court ends Texas lawsuit seeking to undo Trump election loss",
+      "excerpt": "The U.S. Supreme Court on Friday brought an abrupt end to a long-shot lawsuit filed by Texas and backed by President Donald Trump seeking to throw out voting results in four states, dealing him a crushing setback in his quest to undo his election loss to",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-trump/u-s-supreme-court-ends-texas-lawsuit-seeking-to-undo-trump-election-loss-idUSKBN28L2YY",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump/u-s-supreme-court-ends-texas-lawsuit-seeking-to-undo-trump-election-loss-idUSKBN28L2YY",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544304373&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB000",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28L2YY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L2YY",
+      "publishedDateTime": "2020-12-11T20:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-fox-news-poll-most-republicans-say-president-trump-was-robbed.md",
+      "title": "Fox News Poll: Most Republicans say President Trump was robbed",
+      "excerpt": "Sixty-eight percent of Republicans believe the election was stolen from President Trump, according to the latest Fox News national survey of registered voters.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5C767sT7RQ8/republicans-president-trump-robbed-poll",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5C767sT7RQ8/republicans-president-trump-robbed-poll",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/dana-blanton-master.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp",
+      "publishedDateTime": "2020-12-11T15:01:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

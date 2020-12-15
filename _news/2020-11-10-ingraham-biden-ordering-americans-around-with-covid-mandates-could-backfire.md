@@ -191,22 +191,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden announces 3-pronged plan to combat coronavirus when he takes office"
-    excerpt: "Masks, vaccinations, opening schools President-elect Joe Biden on Tuesday announced a three-part plan to combat the coronavirus pandemic in the first 100 days of his administration. Biden, speaking in his hometown of Wilmington,"
-    publishedDateTime: 2020-12-09T10:42:00Z
-    webUrl: "https://www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office"
-    ampWebUrl: "https://www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20342805312726.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "ZWDJjbrUJSMfnpFSbtpRC4sAL7bmk5Tgg7Ss3XIe0C/7YhsDS2ukAUBMwl0TWju595hNfiJJZ2xDZBdmq1hKgsoxx5u8+xtdtc70sSzHEhpNRo3OR60i+oqLGzpwBJvqx66JBgapJMyQ038AUflWp8rnZ00yaZTEixsubW/slTIjButIx2xdnoEmhCUMIDn1xQjUGHZyrH6iniQaqK8GdJ636j9s3VtCm0Ey/J+Pnpc8D/13/+SXpGejBIR7LuC52l7nnKlqxVrwuBBwVaJBkWSIXK2r/dmwMTmZb6gY8XENToUm5DewYnVSP6FG3lpowhOWDlAnOK82UKUfaUwn+GpwOirkfzkeimFll295PDE=;HVANn4pNxt0A5pSduZPbeA=="
 ---

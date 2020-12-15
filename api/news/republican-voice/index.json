@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-15-biden-admits-to-a-bit-of-a-cold-after-electoral-college-victory-speech.md",
-      "title": "Biden admits to a 'bit of a cold' after Electoral College victory speech",
-      "excerpt": "Biden’s voice was slightly hoarse during the address, which took place shortly after he surpassed the 270-vote threshold required to win the White House.",
+      "path": "_news/2020-12-15-putin-congratulates-biden-on-election-victory.md",
+      "title": "Putin congratulates Biden on election victory",
+      "excerpt": "",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ckEiGdq99E/biden-acknowledges-he-has-little-bit-of-a-cold-after-presidential-victory-speech",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ckEiGdq99E/biden-acknowledges-he-has-little-bit-of-a-cold-after-presidential-victory-speech",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ov1bROivNoQ/putin-congratulates-biden-on-election-victory",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ov1bROivNoQ/putin-congratulates-biden-on-election-victory",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 174,
+      "heat": 1250,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bb17ad28-ae6e-42d1-8679-bd42bdd8dab0/7cbadd7e-fcd4-4f9c-b4c9-63f546a675f6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-acknowledges-he-has-little-bit-of-a-cold-after-presidential-victory-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-acknowledges-he-has-little-bit-of-a-cold-after-presidential-victory-speech.amp",
-      "publishedDateTime": "2020-12-14T19:22:15-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp",
+      "publishedDateTime": "2020-12-15T00:44:46-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -226,62 +226,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-14-trump-biden-officials-condemn-iran-regimes-kidnapping-execution-of-reporter.md",
-      "title": "Trump, Biden officials condemn Iran regime's kidnapping, execution of reporter",
-      "excerpt": "Officials in the Trump administration and Biden transition were united in their condemnation of the Iranian regime for its execution of a journalist whose work encouraged protests over the country’s economic decline.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4UjY15p7cKU/trump-biden-officials-condemn-iran-reporter",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4UjY15p7cKU/trump-biden-officials-condemn-iran-reporter",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 506,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20347367382392.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-officials-condemn-iran-reporter.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-officials-condemn-iran-reporter.amp",
-      "publishedDateTime": "2020-12-14T08:45:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-15-vc-daily-venture-firms-ready-for-payday-nvca-lobbies-biden-with-letter-softbank-ends-year-on-high-note.md",
       "title": "VC Daily: Venture Firms Ready for Payday; NVCA Lobbies Biden With Letter; SoftBank Ends Year on High Note",
       "excerpt": "Last week, the National Venture Capital Association sent a letter to President-elect Joe Biden to get a lobbying head start.",
@@ -407,7 +351,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 159,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -451,25 +395,25 @@
       ]
     },
     {
-      "path": "_news/2020-12-14-biden-considers-samantha-power-for-usaid-report.md",
-      "title": "Biden considers Samantha Power for USAID: Report",
-      "excerpt": "President-elect Joe Biden is reportedly considering former United Nations Ambassador Samantha Power to lead the U.S. Agency for International Development (USAID).",
+      "path": "_news/2020-12-14-biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report.md",
+      "title": "Biden offered Atlanta mayor position in his Cabinet, she declined: report",
+      "excerpt": "President-elect Joe Biden reportedly asked Atlanta Mayor Keisha Lance Bottoms to serve in his Cabinet, but the Democrat turned down the offer.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZsYeFyMrgSU/biden-weighs-samantha-power-for-usaid-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZsYeFyMrgSU/biden-weighs-samantha-power-for-usaid-report",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/boBhvPCOapY/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/boBhvPCOapY/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 174,
       "tags": null,
       "images": [
         {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/samantha-power.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -477,9 +421,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-weighs-samantha-power-for-usaid-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-weighs-samantha-power-for-usaid-report.amp",
-      "publishedDateTime": "2020-12-13T20:25:02-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report.amp",
+      "publishedDateTime": "2020-12-13T21:42:43-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -519,7 +463,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 177,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -735,7 +679,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 240,
+      "heat": 260,
       "tags": null,
       "images": [
         {
@@ -752,62 +696,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-fox-and-friends-election-challenges-not-over-electoral-college-vote.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fox-and-friends-election-challenges-not-over-electoral-college-vote.amp",
       "publishedDateTime": "2020-12-13T04:48:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-flashback-biden-praised-constant-unrelenting-stream-of-immigration-into-us.md",
-      "title": "Flashback: Biden praised ‘constant,' 'unrelenting’ stream of immigration into US",
-      "excerpt": "President-elect Joe Biden, during the Obama administration, said the U.S. benefits from a “constant” and “unrelenting” stream of immigration -- and that those with white European heritage becoming a minority in the U.S. is \"a source of our strength.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bsMogvw3hWI/flashback-joe-biden-constant-unrelenting-immigration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bsMogvw3hWI/flashback-joe-biden-constant-unrelenting-immigration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/105a243f-647e-49c0-a21a-db935c01db1a/2b2f4938-3d66-4bc8-899f-72bd96357331/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/flashback-joe-biden-constant-unrelenting-immigration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-joe-biden-constant-unrelenting-immigration.amp",
-      "publishedDateTime": "2020-12-12T17:33:40-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1053,62 +941,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-12-rep-jim-jordan-voters-not-knowing-about-hunter-biden-probe-before-election-is-just-wrong.md",
-      "title": "Rep. Jim Jordan: Voters not knowing about Hunter Biden probe before election 'is just wrong'",
-      "excerpt": "The media and the American people should have known about the federal investigation into President-elect Joe Biden's son Hunter prior to last month's presidential election, Rep. Jim Jordan, R-Ohio, said on Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6l6tzgljFzQ/jim-jordan-hunter-biden-investigation-voters-media",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6l6tzgljFzQ/jim-jordan-hunter-biden-investigation-voters-media",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 679,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jim-jordan-hunter-biden-investigation-voters-media.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-hunter-biden-investigation-voters-media.amp",
-      "publishedDateTime": "2020-12-11T21:42:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-11-fox-news-poll-most-republicans-say-president-trump-was-robbed.md",
       "title": "Fox News Poll: Most Republicans say President Trump was robbed",
       "excerpt": "Sixty-eight percent of Republicans believe the election was stolen from President Trump, according to the latest Fox News national survey of registered voters.",
@@ -1278,6 +1110,62 @@
       ]
     },
     {
+      "path": "_news/2020-12-11-bobulinski-tells-tucker-carlson-that-joe-biden-lied-about-son-hunters-business-dealings.md",
+      "title": "Bobulinski tells Tucker Carlson that Joe Biden lied about son Hunter's business dealings",
+      "excerpt": "Former Hunter Biden business partner Tony Bobulinski claimed now-President-elect Joe Biden lied about having no knowledge of his son's foreign business dealings.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7qwr6e3Yurs/flashback-bobulinski-tucker-hunter-carlson-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7qwr6e3Yurs/flashback-bobulinski-tucker-hunter-carlson-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/flashback-bobulinski-tucker-hunter-carlson-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-bobulinski-tucker-hunter-carlson-biden.amp",
+      "publishedDateTime": "2020-12-11T11:42:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-12-msnbcs-maddow-ive-learned-from-trump-era-not-to-blindly-trust-government-officials.md",
       "title": "MSNBC's Maddow: I've learned from Trump era not to blindly trust government officials",
       "excerpt": "Liberal MSNBC host Rachel Maddow said Wednesday she had learned from the Donald Trump era not to blindly trust the word of government officials, an interesting assertion given her reliance on intelligence leaks,",
@@ -1391,6 +1279,62 @@
       ]
     },
     {
+      "path": "_news/2020-12-11-ag-barr-knew-about-hunter-biden-probe-for-months-report.md",
+      "title": "AG Barr knew about Hunter Biden probe for months: report",
+      "excerpt": "Attorney General William Barr reportedly knew about investigations into Hunter Biden’s business and financial dealings for months, and worked to stop them being disclosed to the public during the election campaign.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aph5PtHpV7s/ag-barr-hunter-biden-probe-spring-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aph5PtHpV7s/ag-barr-hunter-biden-probe-spring-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb434ef2-fe30-41c5-9c87-687265fa6239/5d3b2f20-1e86-4f21-aa83-8df313917cbc/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ag-barr-hunter-biden-probe-spring-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ag-barr-hunter-biden-probe-spring-report.amp",
+      "publishedDateTime": "2020-12-11T09:08:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-whitmer-says-michigan-gop-went-too-far-against-anti-trump-state-democrat.md",
       "title": "Whitmer says Michigan GOP went ‘too far’ against anti-Trump state Democrat",
       "excerpt": "Michigan state Republicans went “too far” in saying they would pull committee assignments from a state Democrat who threatened Trump supporters in a viral video, the state’s Democratic governor said Thursday.",
@@ -1447,118 +1391,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-11-aoc-knocks-joe-bidens-agenda-as-a-little-hazy.md",
-      "title": "AOC knocks Joe Biden’s agenda as ‘a little hazy’",
-      "excerpt": "President-elect Joe Biden has started to fill out key roles in his cabinet and staff before he takes office, but Congresswoman Alexandria Ocasio-Cortez, D-N.Y., said this week that she'd like to see a more unified unit. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y2o_wp2ku20/ocasio-cortez-wants-biden-administration-to-have-a-more-cohesive-vision",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y2o_wp2ku20/ocasio-cortez-wants-biden-administration-to-have-a-more-cohesive-vision",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94263045-eb33-4a8d-a418-079be75f1161/e3bf2dbe-1805-4073-8722-3e255f507b05/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ocasio-cortez-wants-biden-administration-to-have-a-more-cohesive-vision.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ocasio-cortez-wants-biden-administration-to-have-a-more-cohesive-vision.amp",
-      "publishedDateTime": "2020-12-10T19:27:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-ari-fleischer-mainstream-media-committed-dereliction-of-duty-by-not-reporting-on-hunter-biden.md",
-      "title": "Ari Fleischer: Mainstream media committed 'dereliction of duty' by not reporting on Hunter Biden",
-      "excerpt": "\"The press was derelict in its duty\" by not following up on the New York Post's reporting about Hunter Biden's overseas business dealings, former White House Press Secretary Ari Fleischer told “Outnumbered Overtime” on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wqAhP-4ld4M/ari-fleischer-on-coverage-of-hunter-biden-mainstream-media-committed-dereliction-of-duty",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wqAhP-4ld4M/ari-fleischer-on-coverage-of-hunter-biden-mainstream-media-committed-dereliction-of-duty",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ari-fleischer-on-coverage-of-hunter-biden-mainstream-media-committed-dereliction-of-duty.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-on-coverage-of-hunter-biden-mainstream-media-committed-dereliction-of-duty.amp",
-      "publishedDateTime": "2020-12-10T17:49:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-10-bidens-pick-of-denis-mcdonough-for-va-sparks-pushback-from-veterans.md",
       "title": "Biden's pick of Denis McDonough for VA sparks pushback from veterans",
       "excerpt": "The aftermath of President-elect Joe Biden’s pick for secretary of Veteran Affairs has been met with responses of “surprise” after long-time Obama aide Denis McDonough was selected to be only the second non-veteran to take up the seat Thursday.",
@@ -1571,7 +1403,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1669,6 +1501,166 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-kamala-harriss-husband-will-teach-at-georgetown-law-school.md",
+      "title": "Kamala Harris’s husband will teach at Georgetown Law school",
+      "excerpt": "Vice President-elect Kamala Harris’ husband Douglas Emhoff will join the staff of Georgetown University’s law school next month. Emhoff, 56, will be the first non-female and first Jewish ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/",
+      "originalUrl": "https://nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/georgetown-law1.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/amp/",
+      "publishedDateTime": "2020-12-10T13:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-biden-in-leaked-audio-suggests-gop-beat-the-living-h-out-of-us-over-defund-the-police.md",
+      "title": "Biden, in leaked audio, suggests GOP 'beat the living h--- out of us' over 'defund the police'",
+      "excerpt": "Biden said that public calls for police reform should be avoided ahead of the Georgia Senate runoff vote.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/StJsS8M-EY8/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/StJsS8M-EY8/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ec1a53c-f49f-4fc6-8b84-18fe1bbfadfe/8551395f-6676-4a6b-b491-ef4400e0b91f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police.amp",
+      "publishedDateTime": "2020-12-10T13:30:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-ilhan-omar-quite-happy-with-biden-officials-receptiveness-to-her-ideas.md",
+      "title": "Ilhan Omar 'quite happy' with Biden officials' receptiveness to her ideas",
+      "excerpt": "“Squad” member Rep. Ilhan Omar, D-Minn., said she was “quite happy” with the response after submitting a list of proposed left-wing executive actions at a meeting with President-elect Joe Biden’s transition team.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8iJVj2AP128/ilhan-omar-quite-happy-biden-officials-receptiveness",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8iJVj2AP128/ilhan-omar-quite-happy-biden-officials-receptiveness",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Ilhan-Omar-REUTERS.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ilhan-omar-quite-happy-biden-officials-receptiveness.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-quite-happy-biden-officials-receptiveness.amp",
+      "publishedDateTime": "2020-12-10T12:25:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

@@ -173,6 +173,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Electoral College Makes It Official: Biden Won, Trump Lost"
+    excerpt: "The Electoral College has formally confirmed that Joe Biden will be the nation’s next president, giving him a solid electoral majority of 306 votes to affirm his victory in last month’s election."
+    publishedDateTime: 2020-12-15T03:25:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-15/electoral-college-makes-it-official-biden-won-trump-lost"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-15/electoral-college-makes-it-official-biden-won-trump-lost?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-15/electoral-college-makes-it-official-biden-won-trump-lost?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
 
 secured: "NixzfrdRgkvRG/wXTZ4+mJi46IspcKykuCgPV/NfFYM3KlGBf/kwOpC1512/INiNysdafmTiJiB8kR59al4f+g3qmTuiiL1tvAD4aSccx21seSmmcYI7vkYBBPdiEMxroN+MFXjpMMJo17A/RpY3vpfPMHfgcTaIePIyb3eGcG3xSK871kl4+J10dWlKjnVHx4X9S6XCPcbcTy3OHexGpqBIXbTEiVGmgTKRCj+A06Vd0VISxXxGMQCMij9hT4IYcFvkNZK8V6h+pHVHpVci2gM7CsFBNXfBuQHR9l8ATix+GPLDmUNPr9VVB2nmhmARHa8eHeDE0YQChotnT942EuGEC7b7NKkKTqgJMuIHSf1bIIodFWprOHUaEOseeh7BgQSc2QXnEg+AWTMiKONSa/17W+69rTf7glNCt5JO7oz63Sq6JGdtp0HyODJ7PugXtMl95vWDO9cTv6u9snVM3hPdjGr8AGYELz+YjTo8zy85j+2eXsKEDMTXN7UBjm20bHTufy9j6lALdqtzBM/CAw==;OhC6WXc7g22IW6Sz1+J3Ug=="
 ---

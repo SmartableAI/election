@@ -2,62 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-12-07-biden-to-name-his-defense-secretary-choice-on-friday.md",
-      "title": "Biden to name his defense secretary choice on Friday",
-      "excerpt": "Biden to name his Defense secretary choice on Friday",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ww_ZOH_z2Y/biden-to-name-his-defense-secretary-choice-on-friday",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ww_ZOH_z2Y/biden-to-name-his-defense-secretary-choice-on-friday",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 455,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp",
-      "publishedDateTime": "2020-12-07T14:30:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-07-the-point-how-kelly-loeffler-backed-into-admitting-donald-trump-lost.md",
       "title": "The Point: How Kelly Loeffler backed into admitting Donald Trump lost",
       "excerpt": "Since coming to the Senate in January, Georgia Kelly Loeffler's has been the single biggest supporter of President Donald Trump's agenda. But even she knows the jig is up when it comes to his ongoing attempts to contest an election that he quite clearly lost.\n    \n",
@@ -283,7 +227,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 323,
+      "heat": 343,
       "tags": null,
       "images": [
         {
@@ -922,6 +866,62 @@
       ]
     },
     {
+      "path": "_news/2020-12-05-president-of-soros-open-society-foundations-resigns-clearing-way-for-potential-biden-cabinet-position.md",
+      "title": "President of Soros’ Open Society Foundations resigns, clearing way for potential Biden Cabinet position",
+      "excerpt": "The president of George Soros’ Open Society Foundations, Patrick Gaspard, will resign, opening the way for him to take a possible position in the Biden administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4czFeuEP1wo/president-of-soros-open-society-foundations-biden-cabinet",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4czFeuEP1wo/president-of-soros-open-society-foundations-biden-cabinet",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57210d5f-358a-4ff8-acbe-abaf067e07f8/a94f5a55-e631-4532-af94-215a01db6a60/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/president-of-soros-open-society-foundations-biden-cabinet.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-of-soros-open-society-foundations-biden-cabinet.amp",
+      "publishedDateTime": "2020-12-05T14:30:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-06-joe-bidens-groundhog-day-moment.md",
       "title": "Joe Biden’s ‘Groundhog Day’ moment",
       "excerpt": "But Joe Biden is actually living that reality. It’s not simply that Biden was elected president after serving as vice president. It’s that the situation he will face when he enters the White House next month is eerily parallel to the one he faced with Barack Obama when they were elected in 2008.",
@@ -1085,62 +1085,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-trump-administration-shuts-down-chinese-cultural-exchange-programs-calls-them-soft-power-propaganda-tools.md",
-      "title": "Trump administration shuts down Chinese cultural exchange programs, calls them 'soft power propaganda tools'",
-      "excerpt": "The Trump administration on Friday announced that it had ended five cultural exchange programs with China -- describing them as being used by the Chinese communist government as “soft power propaganda tools.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oT_Zp2JLmu4/trump-administration-chinese-cultural-exchange-propaganda",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oT_Zp2JLmu4/trump-administration-chinese-cultural-exchange-propaganda",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9babd3a7-b8e1-4f74-9a48-4bc4d9e1c08a/1c738c8c-66e1-4cad-85d4-cd7487d0995f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-administration-chinese-cultural-exchange-propaganda.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-chinese-cultural-exchange-propaganda.amp",
-      "publishedDateTime": "2020-12-05T08:00:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -1346,6 +1290,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-lara-trump-teases-potential-senate-run-in-north-carolina.md",
+      "title": "Lara Trump teases potential Senate run in North Carolina",
+      "excerpt": "Lara Trump teased a potential Senate run in North Carolina Friday to replace Sen. Richard Burr, who is retiring after three terms in 2022. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wBJhXZWMQcE/lara-trump-senate-run-north-carolina",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wBJhXZWMQcE/lara-trump-senate-run-north-carolina",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c4cf900-7e8a-4ea4-9509-3cec99500b9a/8c80d9e2-d8c8-442d-9efb-75024fb9150d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/lara-trump-senate-run-north-carolina.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-senate-run-north-carolina.amp",
+      "publishedDateTime": "2020-12-04T18:33:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],
