@@ -112,6 +112,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Trump says Barr resigning, will leave before Christmas"
+    excerpt: "Attorney General William Barr, one of President Donald Trump’s staunchest allies, is resigning amid lingering tension with the president over the president’s baseless claims of election fraud and the"
+    publishedDateTime: 2020-12-15T03:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-barr-resigning-leave-christmas-74725943"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-barr-resigning-leave-christmas-74725943"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-barr-resigning-leave-christmas-74725943"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_599641c5141449b59413cfa6b1fc0562_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump teases 2024 run for president at White House Christmas party: ‘I’ll see you in four years’"
     excerpt: "President Donald Trump teased running again for president in 2024 as he hosted a holiday reception at the White House."
     publishedDateTime: 2020-12-02T19:59:00Z
@@ -158,17 +174,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump says Barr resigning, will leave before Christmas"
-    excerpt: "Attorney General William Barr, one of President Donald Trump’s staunchest allies, is resigning amid lingering tension with the president over the president’s baseless claims of election fraud and the investigation into president-elect Joe Biden’s son."
-    publishedDateTime: 2020-12-15T00:00:00Z
-    webUrl: "https://www.businessinsider.com/trump-says-barr-resigning-will-leave-before-christmas-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-says-barr-resigning-will-leave-before-christmas-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-barr-resigning-will-leave-before-christmas-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
 
 secured: "2aZtY1s2Rb+WgT0Gl2wKJf1nHFoj2S1VytR/juy8atWX/YSLBXsgwD2QUSmDxk/udhyjdFE10UhBM3yc/3O7LnNPpFT0PzHakcycT7FY/i4mp+10jw3z+Cg4zcFd92QbWSSA3cQzqiw5x04BHd+TfkhqRHYfOo0bfuXHM/FjW0MqeIpaT//IJoZWxlbQqmrt7r7ryx6mjuUJ6KVu2hHkU+Ke5+BjLToces+5vcIrYNyaO8XfdtpnYuuuU4UclSG+65cYZewCEjNiQ/1M46F/YxCWrpNfEfsmH8Wm6Ii4rKNZ3FVzCWw2oqFv811kcmeJrVL8cyW/rT4CIm2LsFCSt8jL168BpHfgOb5EbfENg3nrTDpklbPDKtp/qJuq0+tXraSz/QAqDGDHYxavvF1UU60185VkAVqZ3BNQ0eUdcaPlVCsbRnqENWigZOWjZzZB8GUrWUPA1vmnGiT++eJUJ2G71DUs0dl8gp7+zy2jPWcEuHaIi26dTYiwb6nvRa8vdQd1Zk2FghN1pfEZDQTmUQ==;PvHzr8hZpjMC9Ov2VFlFkQ=="
 ---

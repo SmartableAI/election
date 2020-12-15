@@ -428,6 +428,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "William Barr Resigns as Attorney General, Trump Says"
+    excerpt: "President Trump announced the departure of the nation’s top law-enforcement official, who shielded federal investigations into Hunter Biden from public view during the heated election campaign."
+    publishedDateTime: 2020-12-15T04:28:00Z
+    webUrl: "https://www.wsj.com/articles/attorney-general-william-barr-resigns-effective-dec-23-11607986828"
+    ampWebUrl: "https://www.wsj.com/amp/articles/attorney-general-william-barr-resigns-effective-dec-23-11607986828"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/attorney-general-william-barr-resigns-effective-dec-23-11607986828"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-273339/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump, White House will be offered COVID vaccine within days, report says"
     excerpt: "President Trump and other top White House officials will be offered Pfizer’s coronavirus vaccine within the next few days, according to a report on Sunday. Key government staffers will"
     publishedDateTime: 2020-12-13T23:52:00Z

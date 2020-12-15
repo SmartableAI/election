@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-says-trump-deserves-his-day-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-trump-deserves-his-day-in-supreme-court.amp"
 type: article
 quality: 200
-heat: 820
+heat: 840
 published: true
 
 provider:
@@ -425,6 +425,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-272094/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "William Barr Resigns as Attorney General, Trump Says"
+    excerpt: "President Trump announced the departure of the nation’s top law-enforcement official, who shielded federal investigations into Hunter Biden from public view during the heated election campaign."
+    publishedDateTime: 2020-12-15T04:28:00Z
+    webUrl: "https://www.wsj.com/articles/attorney-general-william-barr-resigns-effective-dec-23-11607986828"
+    ampWebUrl: "https://www.wsj.com/amp/articles/attorney-general-william-barr-resigns-effective-dec-23-11607986828"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/attorney-general-william-barr-resigns-effective-dec-23-11607986828"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-273339/social"
         width: 1280
         height: 640
         isCached: true

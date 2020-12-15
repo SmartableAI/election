@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Trump says Barr resigning, will leave before Christmas"
-excerpt: "Attorney General William Barr, one of President Donald Trump’s staunchest allies, is resigning amid lingering tension with the president over the president’s baseless claims of election fraud and the investigation into president-elect Joe Biden’s son."
-publishedDateTime: 2020-12-15T00:00:00Z
-originalUrl: "https://www.businessinsider.com/trump-says-barr-resigning-will-leave-before-christmas-2020-12"
-webUrl: "https://www.businessinsider.com/trump-says-barr-resigning-will-leave-before-christmas-2020-12"
-ampWebUrl: "https://www.businessinsider.com/trump-says-barr-resigning-will-leave-before-christmas-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-barr-resigning-will-leave-before-christmas-2020-12?amp"
+excerpt: "Attorney General William Barr, one of President Donald Trump’s staunchest allies, is resigning amid lingering tension with the president over the president’s baseless claims of election fraud and the"
+publishedDateTime: 2020-12-15T03:17:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-barr-resigning-leave-christmas-74725943"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-barr-resigning-leave-christmas-74725943"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-barr-resigning-leave-christmas-74725943"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-barr-resigning-leave-christmas-74725943"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/International/WireAP_599641c5141449b59413cfa6b1fc0562_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Trump suggests Joe Biden will try to take the word Christmas 'out of the vocabulary'"
@@ -168,6 +174,6 @@ related:
         height: 600
         isCached: true
 
-secured: "aXyo7ia3LjlPDLVx7VzdeoHr363gjQLHUfzPNe8McEh9y8Na1HvGPfeSEuu8gpphdT/VBEpRu+hQtg19sUCuUmMQL5w3N3acH6Wuht2qtYR4llk+QzPLLIcj8CEFvnyfrS3D5pJQM7fGyFNVYdRzUi+sRMFY8U0zjqoilqG8nyAaHakeYrp0xRoRO/gNELc13P4dnheaynNlfP2FhqH6ksl2axmINqULfLIZ6pliWTRYrspIUIu8soegWI05lTNcxOjDxMYpXwiU4XTWtYIwdz6pd2a6dUOYR6zqO1ZipBmsA1kUAgwIpJxCfmKheCz8X2uXR/+gVbO2mqgrRImxT2Oy2cLC2tjgdlSauEaKSUg=;IYvJZ3HSJw+uQPieqLYZUw=="
+secured: "VjnAXzVKXP1JmjnAKzNTT70z8QcFsDtdWxLJNajIbU3U/bSY40mQnuD5YFLA+GQRSUghmLxE8jf3fsVNv/aXyls0jYUNZCA4tCsTkS4LeQcYyDFaWmkYJZg2LppB9lrA97E2urUNKR5J8+AuoTvsBL+UmQEJDEskAxNxWWPGuM3WlLAL33RJTjl72kKieqhXX9fVvwPycOKxqMJFZrOfkIPJuqq4GDAwMkL29rLp1f5Hdbmyq8LoYox7keb7fZ29MgVwuKJf6+WJ0wmW9V1gF9Ss4CzHqvCrkJJVL94PXvgabD0sX7x7nixUm/PS/yfoTfpgTrklyNOs1t5nNySvcZ0GWltYHVRDMGBMG1Pvpqg=;ypzD45/zoNg9PN+C5UDHFw=="
 ---
 

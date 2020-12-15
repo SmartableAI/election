@@ -2,19 +2,19 @@
 category: news
 title: "Michigan's Electoral College delegates cast all 16 votes for Joe Biden, Kamala Harris"
 excerpt: "By law, Michigan delegates to the Electoral College are required to cast their votes for the winner of the popular vote."
-publishedDateTime: 2020-12-14T23:15:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/6538683002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6538683002"
+publishedDateTime: 2020-12-14T22:50:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
+webUrl: "https://www.indystar.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
+ampWebUrl: "https://amp.indystar.com/amp/6538683002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6538683002"
 type: article
 quality: 83
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -138,20 +138,20 @@ related:
         height: 545
         isCached: true
   - title: "Biden clears 270-vote mark as electors affirm his victory"
-    excerpt: "Presidential electors have given Joe Biden a majority of their votes, formalizing his victory in last month’s election"
-    publishedDateTime: 2020-12-15T02:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/electors-meeting-formally-choose-biden-president-74709840"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/electors-meeting-formally-choose-biden-president-74709840"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/electors-meeting-formally-choose-biden-president-74709840"
+    excerpt: "The voting milestone came late Monday when California electors affirmed Biden’s massive 5 million-vote win last month in the nation’s largest state."
+    publishedDateTime: 2020-12-14T22:45:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-14/electors-meeting-to-formally-choose-biden-as-next-president"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-14/electors-meeting-to-formally-choose-biden-as-next-president?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-14/electors-meeting-to-formally-choose-biden-as-next-president?_amp=true"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_f5ace61a324d464e81b9ae85f7e3da54_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f7c20cd/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd0%2F24%2F7f959987465cafef5482c63f37d2%2Fla-na-pol-biden-birthday13.JPG"
+        width: 320
+        height: 209
         isCached: true
   - title: "Electoral college meeting to formally choose Biden as next president"
     excerpt: "Electors in the electoral college are casting the votes that will formally choose Joe Biden as the nation’s next president."
@@ -493,6 +493,22 @@ related:
         width: 1024
         height: 758
         isCached: true
+  - title: "How Massachusetts electors made history when they elected Joe Biden and Kamala Harris to the White House"
+    excerpt: "Massachusetts' 11 electors cast their votes for Joe Biden and Kamala Harris. Their votes were historic in more ways than one."
+    publishedDateTime: 2020-12-15T03:51:00Z
+    webUrl: "https://www.masslive.com/politics/2020/12/how-massachusetts-electors-made-history-when-they-elected-joe-biden-and-kamala-harris-to-the-white-house.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/12/how-massachusetts-electors-made-history-when-they-elected-joe-biden-and-kamala-harris-to-the-white-house.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/12/how-massachusetts-electors-made-history-when-they-elected-joe-biden-and-kamala-harris-to-the-white-house.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/25T54CSN25CMVD6C7P55YEJPP4.jpg"
+        width: 4032
+        height: 3024
+        isCached: true
   - title: "Wisconsin's 10 electoral votes were officially cast for Joe Biden and Kamala Harris"
     excerpt: "Democratic electors met with Gov. Tony Evers' to finalize the state's 10 electoral votes for President-elect Biden and Vice President-elect Kamala Harris,"
     publishedDateTime: 2020-12-14T23:40:00Z
@@ -586,6 +602,6 @@ related:
         height: 315
         isCached: true
 
-secured: "rreH3VLXU6BeEb3voxXiGw420pK1Uye6ZvzZ3cuwoNTyUa3jwpYry/DkscuAcF6+hA7ycAEeADedlRfkGNPXGXYLs7FF+CfsI+dSsETxBDoHaGTtKOl/eub7u4JI6X+mHUxEbMewnbO011bX0Z62qCTlmekTJDGFr6OIBbKzzN4PVHFUjeSRcfUj7dABjsXEuwhn6K4uGZsO9YtdMFcZXd2ioEax8qzJfSv3s8YIgV8kQ2OOPqFZkLT1VqWq1VshB0Fej53Iff+9npNpzHrZJ3Tl+hGQKdQpr/FCkuvISdSU5KX0NaUFt9NSdR3mjMVE/dj20Ffkvc/jZf3eKqUJ94hHsuqVsB2cKQOcLT1pi10=;PH3bjY7xwWiT+NyH0PQjKQ=="
+secured: "TuTlok/6Fg+XJp8Zo45etf7LYl4urGgdmepcspNydwk2Bc+4dL64/aHypRISckNDtZ6WufgbEOwmV1eerpxEQCOIbcHxVl8Zk5OXWryX4UOG5vBN/h6DpFveE7q+FyN4dTNRm/yegOvtrjyNTuwN5s3iHbQi1vgptXbCrIUCoKhoyZTLmbvziA+VAgGv5lrlMYLbsWgCohMWkaaSjjJPVFBz8DuIvLoUbgK0wa6RMgJc+MfAW6hz4waAMzAbr8S5wrCllVPd1AiqC0OUvFtz7AlGSz/4uw4IJf+b/BLpxr8MUJx6+CuaHabgoqNG8w77xOwY6bBMdeKSBaLUitSlYdTQEm9NIGEpsng2iHjGA3E=;6E9x+D4u4JML4vDAczS3rA=="
 ---
 

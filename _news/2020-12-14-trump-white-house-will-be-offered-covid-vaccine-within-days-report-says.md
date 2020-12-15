@@ -440,6 +440,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "William Barr Resigns as Attorney General, Trump Says"
+    excerpt: "President Trump announced the departure of the nation’s top law-enforcement official, who shielded federal investigations into Hunter Biden from public view during the heated election campaign."
+    publishedDateTime: 2020-12-15T04:28:00Z
+    webUrl: "https://www.wsj.com/articles/attorney-general-william-barr-resigns-effective-dec-23-11607986828"
+    ampWebUrl: "https://www.wsj.com/amp/articles/attorney-general-william-barr-resigns-effective-dec-23-11607986828"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/attorney-general-william-barr-resigns-effective-dec-23-11607986828"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-273339/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump tells 'Fox & Friends' he's 'so disappointed' in Supreme Court for turning aside Texas election suit"
     excerpt: "President Trump told Fox News Saturday that he is \"so disappointed\" in the Supreme Court for declining to hear a lawsuit brought by the state of Texas that sought to nullify the election results in four battleground states."
     publishedDateTime: 2020-12-13T06:56:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "'The people prevailed': Biden addresses nation as electoral college affirms victory - as it happened"
 excerpt: "California – which has more electoral votes than any other state – sealed the presidency for Joe Biden"
-publishedDateTime: 2020-12-15T01:32:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd806118f08a72f01adad62"
-webUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd806118f08a72f01adad62"
+publishedDateTime: 2020-12-15T02:20:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd80c2b8f08a72f01adad91"
+webUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd80c2b8f08a72f01adad91"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates"
 type: article
@@ -90,11 +90,11 @@ related:
         height: 630
         isCached: true
   - title: "'Democracy prevailed,' Biden says after U.S. Electoral College confirms his win"
-    excerpt: "Democrat Joe Biden called on Americans to \"turn the page\" on the Trump era in a prime-time speech on Monday, hours after prevailing over the Republican in the state-by-state Electoral College vote that officially determines the U."
+    excerpt: "President-elect Joe Biden delivered a forceful rebuke on Monday to President Donald Trump's attacks on the legitimacy of his victory, hours after winning the state-by-state Electoral College vote that officially determines the U."
     publishedDateTime: 2020-12-15T01:45:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN28O0FM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O0FM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O0FM"
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN28O0H0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28O0H0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28O0H0"
     type: article
     provider:
       name: Reuters
@@ -177,7 +177,7 @@ related:
   - title: "'The people prevailed': Biden addresses nation as electoral college affirms victory - live"
     excerpt: "California – which has more electoral votes than any other state – sealed the presidency for Joe Biden"
     publishedDateTime: 2020-12-15T01:08:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd805798f08b0a99da962f3"
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd806d08f08b0a99da962fc"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates"
     type: article
@@ -204,6 +204,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "HNLwJbsmOjshA5QvDA77OV5KGs7em60qIsgwHELqcKZ5guXrFpMLcZFra8esieJEbwfP2hsTGshs3ET1Hq8y6qBybERCfJ2RdCjtHubNYm7dRSRlGE+bvgGBQHp6WMFuuUDAcUZWQNDwTmFc3hC+CBOMaheEI6itZs+VAzRNLxAGqqDe2xr8AnmYmKzPrK5gedTqAeNv6x+ohSWFt418Mc0ckITJAoryqHw5UZWS/yaq1vTy95dDa1G0m0d5z0JPgAJ092mVHYWYMSGy8dh+0MNUtAqQHbOG13RajLaTiyNjFQntjgURdyYMTaqwLrGYfey7W1PLoRg72loUXEWmjMAIOzdT1IU4ydE6BlmlFMfttJqwh+nEVJWLA0bq5f+9BehlzTzkGUy8mFn4wC7FkXvLwg43b4yCL02exxGPL3koZ0QO4w9zEkItoWkT1H4kceAtE2fSyoWy5P2dLMr21fCJB4jAs2gLD7/7SrR76jdRSK2ByTxbSgyIXvmNt1ZPyuRIDlDWrSNuarPmQgC5Hg==;WUN2tdTdkj627hUwe3SVUw=="
+secured: "sLj7ky7TNS5hD/KZg2bWVf0oGyJhWVqY7kBA/IlNor6vjxDMx6x8SYx+XR4VIJ4GHC5MKsloF2B4fl/Ln/xdkOCuYqFby42MK9uDf/B5AAmkqr/5kq+ZEPj+M6YLp/CxtbDTBunvf5u7plY/krN3BJbSDS0oyKN5CpK9j/RFPhHPIbaXBDETj3PJEsM80FofkP3TUh7jky95oFjbu2HDWOFkIIlgwglGRJz3ZhReLSs/aa/0pgVMkf2pUApqNq7OWhuClqrw2KBZrXzLEyJxOYCQCRkKV4C0jqnPz1fqizBg31tWUOxMsriafNr/d1+wmHIuckx+aI5cRD3oBNCrU/AhLB+ok6qteUrLauJwSWl+DSkooP7yT1wwRK36lbvWP1FIwYds+TQPMftieHU1tlf56hE/+3JHDX0t5bfvkVzNyz9I5EytEyV/BIA3b0XkApyQVYMLc2Dwtl2NMPYeDetLSml/1GpUpJGiOzUuh+/CeCSZQ3nX+pc41VdlhgqysCG80k5du+iWbWNsTPqXWw==;55+2wHCLNhUimv2WBJrL5Q=="
 ---
 

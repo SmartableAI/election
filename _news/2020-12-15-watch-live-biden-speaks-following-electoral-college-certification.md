@@ -126,6 +126,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Democracy prevailed': Biden tries to close the door on a tumultuous election"
+    excerpt: "As the Electoral College moves to seal his victory, the president-elect is shifting his attention to the pandemic."
+    publishedDateTime: 2020-12-14T21:55:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 147
+    images:
+      - url: "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden's economic plan is bold. Is it possible?"
     excerpt: "Elect Joe Biden has sketched out a bold economic agenda, but his ability to enact it could be determined by the upcoming races for control of the Senate."
     publishedDateTime: 2020-12-11T14:02:00Z
@@ -333,6 +349,6 @@ related:
         height: 629
         isCached: true
 
-secured: "HfgZp1j3LfckQuyLmMq2XflfZpDD5WW3xBMBNCTMGi39XpLhsLWQBD5c3AA84W98YL9BXyrCoqTWLxteafmTG1MAOowI2l0oDzBriEGC4ZfvZwXBfLBLMOaatqDGPbyELBFUS+JUsBJt/jcpN1W6ELrgWqbaU27SCHFESXa+fhf+/hLBfL7zzJOwhVwgyMyNMSTfEZFM5FxlINVduLkKWk+mA1L+edhUW/CDFHbcSkzQWgKWZMMHmC/fNVS7wuL6uf7m5Q4QG6NMTabIoD2QCwI5U4sDHycANg6oQdoIBZ+FF3S94I08VbaUEz6+9DqriIjw7XZcV7OLMOhXQl8hZyiBmV+EvqW88aWO2txxc3E=;OQoC0xoH0P37yr+XfkZbig=="
+secured: "HRv5cZaTaPKoWxaTtT8xeaxb3vIbwZAF2zK2mfYLOaios95GIN0VjdEhNHriz+tdMli5E9FnwafI/k3VaueIITFDZoEWIzsLMjIPmriVkH5hQomIHZaOfsszatUKsyGzgVpUbBI95aC0rqYZR9E3TdUFPHE7oNjTiRAUYTzbQMU6pmEJwGqVzJGGUUSwiIJBu7Ob33+Mu47rL1xfHvhWjWFnVhXDrMCcne3gBhRen7cMF874JxilgdjG9mTbJMTI2Uve9eLsEaAk80afwofWdPP2J1ZLxzRArz3UiIbfpVIAr5jBpzU9ci8qxNlsWusCXQFuoEMQuHsaWLmP9dIiun5KPXphgSYlv6/O2Zx7NZyXX2NG0C+iuH4CWOn+BhdfJZUXAw1Nol59FklsHOYTSfsV1TK9v7BhalgXytJMce3ikpnd5Vp27BoZvjt8tC+kLOLI+K82MVB08q9KlnG6MFzyTed9zUAaRVSzaOn1t+lL5i+DEUyP4NBpR3CPF8OQqYPwGk9eidDrW1j1mlpgZQ==;SYiewWS4FO0a8xKF4JU6wg=="
 ---
 

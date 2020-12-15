@@ -79,6 +79,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump's conspiracies pose 'existential' threat to electronic voting industry -Smartmatic"
+    excerpt: "Conspiracy theories alleging that voting machines were used to steal the election from President Donald Trump pose a major threat to the worldwide market for electronic voting systems, the CEO of Smartmatic,"
+    publishedDateTime: 2020-12-15T03:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-voting-tech-idUSKBN28O19M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O19M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O19M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544558267&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0OK"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump attacks Republicans while attending Army-Navy football game"
     excerpt: "Navy football game this Saturday, President Trump tweeted attacks against fellow Republicans and allies who urge the President to accept the election results. Chip Reid has more."
     publishedDateTime: 2020-12-13T00:10:00Z
