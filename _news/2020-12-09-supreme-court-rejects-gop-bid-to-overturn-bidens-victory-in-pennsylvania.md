@@ -191,6 +191,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Mexico’s president sends letter congratulating Biden"
+    excerpt: "Mexican President Andrés Manuel López Obrador says he sent congratulations to U.S. President-elect Joe Biden, one of the last world leaders to do so."
+    publishedDateTime: 2020-12-15T17:31:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-15/andres-manuel-lopez-obrador-congratulates-biden"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-15/andres-manuel-lopez-obrador-congratulates-biden?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-15/andres-manuel-lopez-obrador-congratulates-biden?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f589bea/2147483647/strip/true/crop/4636x3028+130+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F56%2F15e93f212f9a1f912fcadf49dd3a%2F8ef26b62759549a7af6861cc3e8d4b47"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Electoral college members meet to formally choose Biden as next president"
     excerpt: "Presidential electors are meeting across the United States on Monday to formally choose Joe Biden as the nation’s next president."
     publishedDateTime: 2020-12-14T09:20:00Z

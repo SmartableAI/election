@@ -65,6 +65,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "READ: Mitch McConnell's floor speech congratulating President-elect Biden"
+    excerpt: "Senate Majority Leader Mitch McConnell recognized Joe Biden's victory on Tuesday in a floor speech, where he congratulated the President-elect but also praised Donald Trump's presidency.\n    \n"
+    publishedDateTime: 2020-12-15T17:11:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lloSgAao-P4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/mcconnell-floor-speech-text-president-elect/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/mcconnell-floor-speech-text-president-elect/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215105233-mcconnell-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to call on nation to 'turn the page' and unite in speech after Electoral College vote"
     excerpt: "President-elect Joe Biden will declare it time to \"turn the page, to unite, to heal\" in a speech Monday night after the Electoral College makes his victory over President Donald Trump official, according to excerpts of Biden's prepared remarks released by his transition team.\n    \n"
     publishedDateTime: 2020-12-14T21:08:04Z
@@ -320,6 +336,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/15/us/politics/15transition-briefing-lead/15transition-briefing-lead-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden inauguration to feature scaled-back ceremony and festivities, organizers say"
+    excerpt: "Capitol, their inauguration committee said Tuesday. Biden and Harris will follow tradition and be sworn in at the Capitol’s West Front, but other parts of the celebration will be largely virtual because of the coronavirus pandemic,"
+    publishedDateTime: 2020-12-15T17:35:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-inauguration-feature-scaled-back-ceremony-festivities-organizers-say-n1251273"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251273"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251273"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_51/3435880/201215-biden-harris-jm-1146_84e0ab047d805fe85c0ad3c1db870fd5.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "California’s electors are meeting now. Their votes are expected to push Biden over the top."
     excerpt: "California’s 55 electors are meeting now as they prepare to cast their votes for President-elect Joseph R. Biden Jr. Their votes will push Mr. Biden over the 270 threshold to win the White House, formally delivering him a victory after a disruptive period in the nation’s history marked by extraordinary efforts by President Trump to overturn the results of the presidential election."

@@ -2,9 +2,9 @@
 category: news
 title: "After the White House, Trump faces uncertain future and legal threats"
 excerpt: "President Donald Trump is leaving the White House but he is not going to fade away quietly. After failing in his legal efforts to overturn his Nov. 3 election loss to Democrat Joe Biden, who on Monday won the state-by-state Electoral College vote that formally determines the U."
-publishedDateTime: 2020-12-15T16:09:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN28P19C"
-webUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN28P19C"
+publishedDateTime: 2020-12-15T18:28:00Z
+originalUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28P19C"
+webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28P19C"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P19C"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P19C"
 type: article
@@ -2142,6 +2142,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "After Electoral College vote, White House says Trump still involved in legal challenge"
+    excerpt: "President Donald Trump is still involved in legal challenges to the 2020 election, White House spokeswoman Kayleigh McEnany said on Tuesday when asked how the president responded to the Electoral College vote confirming Democrat Joe Biden as the U."
+    publishedDateTime: 2020-12-15T18:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump/after-electoral-college-vote-white-house-says-trump-still-involved-in-legal-challenge-idUSKBN28P2IW?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2IW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2IW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544661888&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1KL"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Live political updates: President Trump expected to spend Thanksgiving at the White House"
     excerpt: "President Donald Trump and the first lady will be spending Thanksgiving at the White House for the first time since he began his tenure as president instead of at his Mar-a-Lago club in Florida. It is uncertain whether the change in scenery is attributable to the rising number of coronavirus cases,"
     publishedDateTime: 2020-11-26T15:10:00Z
@@ -2879,6 +2895,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "b+n7VSny0/4raVsPzjbtg4mPd4e/0Nm/gTFBwGODsrqBtHf+H8DJEG4MbF8hRu2lv3JZUucUhik/MAMrpBK2lQfxYnJ06EkRCw+8WyEh1Jq7hRD48ETtdfLOJDlLueZIWm1U15XpTHnfcXnZfbrLRIMEDp1ZRoHMRxxnfISy85yNbBvt0MuMGvfwIqcdx4yzsNJutE69sdf3sUcoFoIc3haaFuOH2Y5OObzmj4WTp5DrvEbM+377aoakyh4QjZ/0IsAlA0JELLrPGIJxuVUVY60XSNkhjP0NDr8bm+1JWDLnNpt3ud3Zqjlu1NMjzBg8Nb6X2mJkAdS5x69QdlJj/qypNqzgngyM95qJ8JAeXeU=;yluF27vong3KBGPF7FuAKg=="
+secured: "EJ4ec57rSZtOaerRpp8oE16sI6AlmCc85sIH/bDgSVgT6iGb0iPQDRmjJJlBIASs61Ku0pM46MzSjOuJaF64yWXgYRc7TBMgkoSRgSgEJMFbnSUusMEf/f9GoZseV4XLjI60n2R5IX8iKY5lyS0JXIi64f9w7P151vqkp5I2ubTLH/w3jy+EmdVUUZAdgBjBpYajVF/G7jFh/Ef4ChnFTm/EFtDRTF9BX8H9tLi73dw04AGXNLaSqTP4v8xiZAsj1DYCvAP8hFF8G+DQ4wnbjA993I1PgcoKVeJ7LWB7xn3B+ZbtIpThtPM6eQQVRoBDqqmMmBJ0hz3TMFRENXYR9xJ+cfq+rRgOpE0G5qU6elw=;5zDv8frNjbMiJEyQrx/Pfw=="
 ---
 

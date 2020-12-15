@@ -100,6 +100,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden's inaugural committee is urging Americans to stay home instead of traveling to Washington, DC, for the festivities"
+    excerpt: "While Biden will give a speech on Jan. 20, attendance will be restricted and most of the traditional inauguration celebrations will be virtual."
+    publishedDateTime: 2020-12-15T17:53:00Z
+    webUrl: "https://www.businessinsider.com/biden-inaugural-committee-urges-americans-stay-home-coronavirus-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-inaugural-committee-urges-americans-stay-home-coronavirus-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-inaugural-committee-urges-americans-stay-home-coronavirus-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5fd8e617dc030c001aab6b6f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "What we know about retired General Lloyd Austin, Biden's choice for defense secretary"
     excerpt: "President-elect Joe Biden has chosen retired General Lloyd Austin to be his defense secretary. CBS News correspondent Nikole Killion joins CBSN to discuss what makes the pick so historic."
     publishedDateTime: 2020-12-10T03:16:00Z

@@ -77,6 +77,17 @@ related:
         width: 801
         height: 545
         isCached: true
+  - title: "Trump, Pence, other top officials to be offered COVID-19 vaccine - source"
+    excerpt: "U.S. President Donald Trump, Vice President Mike Pence and other top U.S. officials will be offered the newly approved COVID-19 vaccine beginning Monday, according to a source familiar with the plans."
+    publishedDateTime: 2020-12-14T03:04:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-white-house/trump-pence-other-top-officials-to-be-offered-covid-19-vaccine-source-idUSL1N2IT0NP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IT0NP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IT0NP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
   - title: "Promising more lawsuits, Trump attorney Rudy Giuliani recycles litany of debunked claims"
     excerpt: "Rudy Giuliani on Thursday staged a bizarre 90-minute press conference where they outlined plans to resurrect a crumbling legal strategy."
     publishedDateTime: 2020-11-20T04:01:00Z

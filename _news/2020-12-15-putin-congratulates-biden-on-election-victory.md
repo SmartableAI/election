@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/putin-congratulates-biden-on-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp"
 type: article
 quality: 190
-heat: 1330
+heat: 1350
 published: true
 
 provider:
@@ -382,6 +382,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bb17ad28-ae6e-42d1-8679-bd42bdd8dab0/7cbadd7e-fcd4-4f9c-b4c9-63f546a675f6/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden campaigns in Georgia runoffs, hoping for Democrat-controlled Senate"
+    excerpt: "President-elect Joe Biden hits the campaign trail on Tuesday for the first time since Election Day on Nov. 3. With the success of his incoming administration’s agenda very much hinging on whether the Democrats sweep both of Georgia’s twin Jan. 5 runoff elections and regain the majority in the Senate,"
+    publishedDateTime: 2020-12-15T17:04:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_MdMu4L9jFo/biden-campaigns-georgia-runoffs-ossoff-warnock"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaigns-georgia-runoffs-ossoff-warnock.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaigns-georgia-runoffs-ossoff-warnock.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden HHS nominee was an investor in company sued over elder abuse claims"
     excerpt: "Xavier Becerra sold his shares in the company earlier this year."

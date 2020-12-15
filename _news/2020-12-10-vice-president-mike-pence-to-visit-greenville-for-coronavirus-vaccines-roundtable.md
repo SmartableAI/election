@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 618
         isCached: true
+  - title: "WATCH LIVE: Pence leads COVID-19 vaccine roundtable discussion"
+    excerpt: "Vice President Mike Pence will lead a roundtable discussion on Operation Warp Speed Dec. 15 after touring a COVID-19 vaccine production facility in Bloomington, Indiana."
+    publishedDateTime: 2020-12-15T17:45:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-pence-leads-covid-19-vaccine-roundtable-discussion"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 105
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/assets/images/social-share.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vice President Mike Pence to tour COVID vaccine facility in Bloomington next week"
     excerpt: "Vice President Mike Pence will be in Bloomington Tuesday to tour a vaccine production facility and discuss efforts to combat COVID-19"
     publishedDateTime: 2020-12-11T16:03:00Z

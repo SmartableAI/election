@@ -115,6 +115,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Biden's inaugural committee is urging Americans to stay home instead of traveling to Washington, DC, for the festivities"
+    excerpt: "While Biden will give a speech on Jan. 20, attendance will be restricted and most of the traditional inauguration celebrations will be virtual."
+    publishedDateTime: 2020-12-15T17:53:00Z
+    webUrl: "https://www.businessinsider.com/biden-inaugural-committee-urges-americans-stay-home-coronavirus-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-inaugural-committee-urges-americans-stay-home-coronavirus-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-inaugural-committee-urges-americans-stay-home-coronavirus-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5fd8e617dc030c001aab6b6f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "RIFo9FlUCUjXAdEivLYMuVFGGTc4CxDz9HbOcoYmCXgBXY5dT1tsLFNH6vlinR9vTpyT0fKSmUlvXIAbmK3sXk77TaL2XSC9LYQhAsTJuRn5Vc05AnhgSHOvLhE9rg1BvnKdF0lrpdD5PEPXyEtKpUr1RaTI5fUveRzoWALAQsP5OaM3lUmo1PpZH7UVgFHDZgaYsRL9T+ixqzVpUub4dytXwmJKEqBXJ60EX+qpAvL1hQbvIddYR5l5KZks1WBkFd64eR5ljO0b+OgVDWHL7m81OIqEU+exIZZyiIRZl3ThExhTcyXsmqDA8wrh6qI7P9v4Q/3Salo2bzMvLJas8ceg6Kkg5nLOqN3DwB+QY+v+SGU+ki7OkfJeTFHUrvMlZF1VbYHBvetn+P+yLb/JvliABDM9/opNy9Ixy5XWi4fOAEAVlxT0wsWObJ/Ayo5z8VJWePD5GXlxSYwTlsk/nP9iuyxMw4NErtoOLDBxksqR6ZW0ufGI1Sfw8aOjH95woylV+eOPUQRclAt8AV3umw==;zQ+h0bP6cTokyno++d0HUA=="
 ---
