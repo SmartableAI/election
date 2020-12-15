@@ -45,6 +45,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'Democracy prevailed': Biden aims to unify divided nation"
+    excerpt: "WILMINGTON, Del. (AP) — President-elect Joe Biden pointedly criticized President Donald Trump on Monday for threatening core principles of democracy even as he told Americans that their form of self-government ultimately “prevailed."
+    publishedDateTime: 2020-12-15T11:54:00Z
+    webUrl: "https://www.businessinsider.com/democracy-prevailed-biden-aims-to-unify-divided-nation-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/democracy-prevailed-biden-aims-to-unify-divided-nation-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democracy-prevailed-biden-aims-to-unify-divided-nation-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden tells civil rights leaders that Republicans weaponized the 'defund the police' slogan to 'beat the hell' out of Democrats"
     excerpt: "\"That's how they beat the living hell out of us across the country, saying that we're talking about defunding the police,\" Biden said of Republicans."
     publishedDateTime: 2020-12-10T22:44:00Z

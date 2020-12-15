@@ -692,15 +692,6 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 50
-  - title: "Deep roots exist between Joe Biden, Kamala Harris and the world of sports"
-    excerpt: "From high school football to a youth dance troupe, President-elect Joe Biden and Vice President-elect Kamala Harris have a long history with sports."
-    publishedDateTime: 2020-11-08T20:18:00Z
-    webUrl: "https://www.cincinnati.com/story/sports/2020/11/08/joe-biden-kamala-harris-sports-histories/6140675002/"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 49
 
 secured: "AnS2U3NXEgnGpGuW/gw1MeSg/Lxlv+YVqop2WTx2ElKxwkFTqzWIkfWZsxUhyCKaeKEeIkh2x+a4kbEL65jbxzKeQX3JAzoWXbLaJU9RdE0ULkPoUr/HNyMSnYjNY8tB7yutG3jqGvTJlKpxpknyDsU42QJN3XU0w+AadoFXXzcJJBxd9ak4vo9oGmCNK8xMOx+ESja17M/EzlxVE/pIimSr3SVA+nsXA/A+dIemU7JG2O+KU8BAXpY/Rbcugx65x4fEjJP2hHe9ay6v58dAjFcG1otJjzRCAQCf1yE0bs1E9MryK2Y8r8pyrtQjlzFJiBNrcU01YB55eOql8Li1vVgedOelqYQWiFpYEWThC1zLDQpfRGEL2BHnAei1DG50rCrIW/3ghRbbb6qarOQnJ262zIV+MsdySBAXD9yOFpun5W1cjtyety4bZZZf8Ip2A1gSY3zPIcQmV2IlDkFsznA2E8LKbcBXjupzjli2gfjVpj5Bxv5M+H/gpjgBuG4lXdiFugoGGhZR+4y/3u/xLg==;lTVhr8hsB1pitSk2FC+GVQ=="
 ---

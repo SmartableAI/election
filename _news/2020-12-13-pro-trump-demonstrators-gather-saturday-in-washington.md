@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -158,6 +158,20 @@ related:
       - url: "https://i.insider.com/5fd29d01e00bce00188baa90?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump says U.S. Attorney General Barr resigns"
+    excerpt: "U.S. Attorney General William Barr will step down next week, he said on Monday, shortly after the Electoral College confirmed President Donald Trump's loss to Democratic President-elect Joe Biden."
+    publishedDateTime: 2020-12-15T09:00:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPMHv?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fd8312ae4b04d44576323f2-1608003884993?location=LANDSCAPE"
+        width: 2241
+        height: 1495
         isCached: true
 
 secured: "6MtDfIaSibnBQI15YgR1DqzunwxSAg9yvpIaLhEm517vcXYmkGMbXEvLbS2Kwq9SXQfydUfi9vR+pdQkQaArvtS8CTpwuZohBnMFmpU7x+Kgh4GNU7/UmxW9vVLOfEcSTF+9Hk7C0LyWt6Yn89pug9L6LHNmt72lYxLfxr9QgfWJ08HzEdP7+/I5MYVrMAdbk7f53d7KTc64lAocJyjEY7R1RWb/ETCGOIQYMnDRb4x0XMo4vTgiBnbsM1hb8MzNWGJEvKUGMfPF0I8YzAucufQCZhY5PrmssW7mN7XaR4u6GABECInmAbNZKE6esNX+R/ORIjIfRCXRUUtUxjCCS4SVoO5ukdLt8v2t3oe2WuxmZ3476FomBbou+eF+lZ9mnH8Ev2OrBNLDGVrlcPtXLyi2vdyD3/Oa1eI+R5oVQ2tXnQNJFjG7+XYt2tcRduXyZo4bhzAEcTUpvykLtTKg7vnD+eQ2IJ6mHQUD2ZyxbIdyNbym/2M+tPQhcm8eHDNqQvuVWeqTqEQqcCuu/pMulg==;DaPVKNFYh1CBBcQs5QWwrA=="

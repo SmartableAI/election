@@ -1403,17 +1403,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The Latest: Trump ally Netanyahu calls Biden president-elect"
-    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
-    publishedDateTime: 2020-11-17T20:04:00Z
-    webUrl: "https://www.businessinsider.com/the-latest-trump-ally-netanyahu-calls-biden-president-elect-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/the-latest-trump-ally-netanyahu-calls-biden-president-elect-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-trump-ally-netanyahu-calls-biden-president-elect-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
   - title: "Biden says Trump's refusal to concede is \"incredibly damaging\" and \"totally irresponsible\""
     excerpt: "President-elect Joe Biden was asked at a news conference Thursday about President Trump's continued refusal to concede the election or cooperate with the transition. \"I don't know his motive, but I just think it's totally irresponsible,"
     publishedDateTime: 2020-11-19T22:03:00Z
@@ -1474,6 +1463,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump adviser broke law with Biden criticism, watchdog says"
+    excerpt: "A federal watchdog agency on Monday reported that one of President Donald Trump’s economic advisers repeatedly violated the law during the campaign season with his criticisms of Joe Biden, now the president-elect."
+    publishedDateTime: 2020-12-08T02:35:00Z
+    webUrl: "https://www.businessinsider.com/trump-adviser-broke-law-with-biden-criticism-watchdog-says-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-adviser-broke-law-with-biden-criticism-watchdog-says-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-adviser-broke-law-with-biden-criticism-watchdog-says-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Biden says U.S., allies need to set global trade rules to counter China's influence"
     excerpt: "U.S. President-elect Joe Biden said on Monday the United States needed to negotiate with allies to set global trading rules to counter China's growing influence but declined to say whether he would join a new China-backed Asian trade pact signed on Sunday."
     publishedDateTime: 2020-11-17T08:09:00Z

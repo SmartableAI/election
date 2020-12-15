@@ -43,6 +43,29 @@ related:
         width: 1200
         height: 669
         isCached: true
+  - title: "Pence to visit Tennessee, talk virus vaccines"
+    excerpt: "Vice President Mike Pence is scheduled to visit Memphis on Thursday to discuss the development and distribution of the COVID-19 vaccines, according to his office."
+    publishedDateTime: 2020-12-03T15:30:00Z
+    webUrl: "https://www.timesnews.net/living/health-care/pence-to-visit-tennessee-talk-virus-vaccines/article_0001c35c-3580-11eb-ab1e-134818ed0d1f.html"
+    type: article
+    provider:
+      name: Times News
+      domain: timesnews.net
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/3/23/323f7f7c-da0d-11ea-8e7a-6796a476e0b5/5f2f9df19a75b.image.jpg?crop=800%2C450%2C0%2C16&resize=800%2C450&order=crop%2Cresize"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Pence plans visit to state to discuss virus vaccines"
+    excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss novel coronavirus vaccines as federal officials are expected to"
+    publishedDateTime: 2020-12-12T05:00:00Z
+    webUrl: "https://www.journalgazette.net/news/local/indiana/20201212/pence-plans-visit-to-state-to-discuss-virus-vaccines"
+    type: article
+    provider:
+      name: The Journal Gazette
+      domain: journalgazette.net
+    quality: 35
 
 secured: "SzySd43hMGTdZp3n8UggRMPZRAQCU6CNuXLma6Vx2e8L/1AOnBIA+/3htV8v2OzZUS0aKJg0xRO+Uwufab3F2sINILLX98dNYBbjj1pErT3J0wdFkM6rYSXfbx+X8TfhEChhTWhlQLFAyUy7kNdqJI6kOW1YtOITRt/3/ESAv0c8+Gst4ZJ6IEH72nXc7QN7SMqh4HVCIS1z0IVkcOX5pf7wq4nba2K8lPV4Trq8MzELnpCBc0rzE3IA5xeIs38wfTtHaEssnyyf0i8vWcAzg/MQxEgFX0bQEhlS70V/CrV7rMTwOyy9gW/TAKbt2fhUj4jjlOncHVJfvY35nv60cIwNS59pDjpHGerpYvleaz0=;pz1j9w1EX6j6bYwpNkXMSQ=="
 ---

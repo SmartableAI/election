@@ -77,20 +77,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Prison Fellowship’s Statement on Joe Biden-Kamala Harris Election Victory"
-    excerpt: "Prison Fellowship’s Leadership Urges New Administration to Advance Policies Helping Men and Women Imp"
-    publishedDateTime: 2020-11-17T14:00:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-11-17/prison-fellowship-s-statement-on-joe-biden-kamala-harris-election-victory"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 134
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Here’s what young voters want from Joe Biden and Kamala Harris in the next four years"
     excerpt: "Young voters were were key to getting Joe Biden and Kamala Harris elected. Here's what they want to see from them in the next four years."
     publishedDateTime: 2020-11-20T22:43:00Z
@@ -106,20 +92,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106673168-1598009902907-106673168-15980084512020-08-21t044417z_1720381439_rc23ii98u8ea_rtrmadp_0_usa-election-convention.jpg?v=1605819943"
         width: 3138
         height: 2106
-        isCached: true
-  - title: "Joe Biden & Kamala Harris address the economy..."
-    excerpt: "Watch \"President-elect Joe Biden & Vice President-elect Kamala Harris address the economy\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-16T20:57:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201116201403-president-elect-joe-biden-vice-president-elect-kamala-harris-address-the-economy/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 130
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/16/story_07715160_1605559805.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "'America is back': Biden and Harris announce first cabinet picks – live"
     excerpt: "Biden emphasizes fight against the climate crisis while Kamala Harris hails ‘cabinet that looks like America’ – follow all the latest news"
@@ -275,20 +247,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541548105&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1QY"
         width: 802
         height: 545
-        isCached: true
-  - title: "Joe Biden and Kamala Harris: The Post’s Stories"
-    excerpt: "With the Democrat’s win on Nov. 7, Biden will resume a decades-long career in public service, while Sen. Kamala D. Harris (D-Calif.) will become the first Black and Asian American female vice president. We’ve compiled some of our most deeply reported ..."
-    publishedDateTime: 2020-11-10T16:52:00Z
-    webUrl: "https://www.washingtonpost.com/elections/2020/11/10/biden-harris-background/?arc404=true"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/resizer/w29vakFJD5g-rcE8gEB8MYQHFNc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SGF7KP6EHJHHHNUEX6ZM2T5XUQ.jpg"
-        width: 1484
-        height: 989
         isCached: true
   - title: "Vice President-elect Kamala Harris’s husband, Doug, to give up job to help his wife"
     excerpt: "Doug Emhoff, the 56-year-old husband of Vice President-elect Kamala Harris, will leave his private law practice by Inauguration Day to focus on his role at the White House, a spokesperson said Tuesday."
@@ -468,38 +426,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/16/USAT/f735d0ac-917f-4b02-9a8c-a85244c63864-AP20321743256252.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Electoral College affirms Joe Biden-Kamala Harris victory"
-    excerpt: "The Electoral College on Monday cast its votes to elect Joe Biden and Kamala Harris president and vice president, following weeks of efforts by President Donald Trump to cast doubt on the election process."
-    publishedDateTime: 2020-12-14T12:49:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/12/14/Electoral-College-affirms-Joe-Biden-Kamala-Harris-victory/4821607896946/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/14/Electoral-College-affirms-Joe-Biden-Kamala-Harris-victory/4821607896946/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/14/Electoral-College-affirms-Joe-Biden-Kamala-Harris-victory/4821607896946/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 90
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/4821607896946/2020/1/5dea4f3742acb8201f7fefa2534fbe48/v1.5/Electoral-College-affirms-Joe-Biden-Kamala-Harris-victory.jpg"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "Electoral College casting votes to confirm Joe Biden-Kamala Harris win"
-    excerpt: "The Electoral College on Monday was casting its votes to elect Joe Biden and Kamala Harris president and vice president, following weeks of efforts by President Donald Trump to cast doubt on the election process."
-    publishedDateTime: 2020-12-14T12:49:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/12/14/Electoral-College-casting-votes-to-confirm-Joe-Biden-Kamala-Harris-win/4821607896946/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/14/Electoral-College-casting-votes-to-confirm-Joe-Biden-Kamala-Harris-win/4821607896946/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/14/Electoral-College-casting-votes-to-confirm-Joe-Biden-Kamala-Harris-win/4821607896946/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 90
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/4821607896946/2020/1/5dea4f3742acb8201f7fefa2534fbe48/v1.5/Electoral-College-casting-votes-to-confirm-Joe-Biden-Kamala-Harris-win.jpg"
-        width: 800
-        height: 534
         isCached: true
   - title: "Here's What Young Voters Want From Joe Biden and Kamala Harris in the Next Four Years"
     excerpt: "Young voters were were key to getting Joe Biden and Kamala Harris elected. Here’s what they want to see from them in the next four years."

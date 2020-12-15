@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden faces a changed world from when he last held power, and not for the better"
+    excerpt: "In foreign policy, Joe Biden can't pick up where he and President Obama left off. He faces heightened tensions, especially with China and Iran."
+    publishedDateTime: 2020-12-07T12:14:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-07/biden-faces-different-world-than-he-left-four-years-ago"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-07/biden-faces-different-world-than-he-left-four-years-ago?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-07/biden-faces-different-world-than-he-left-four-years-ago?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 120
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/ba41504/2147483647/strip/true/crop/5636x3681+0+57/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2F44%2F56cb36034f4792e1203a5779f5fe%2Fla-photos-1staff-644724-fg-1105-universityattack-mwy-0989.JPG"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Biden weighs Rahm Emanuel for transportation secretary"
     excerpt: "CHICAGO (AP) — President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel, a substantial and somewhat divisive figure in Democratic Party politics, to serve as his transportation secretary."
     publishedDateTime: 2020-12-01T09:28:00Z

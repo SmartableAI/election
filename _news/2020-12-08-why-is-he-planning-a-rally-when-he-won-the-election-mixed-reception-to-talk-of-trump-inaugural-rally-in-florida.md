@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6481693002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6481693002"
 type: article
 quality: 118
-heat: 158
+heat: 138
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R3HN3EB2SQI6XKWZRFMSE4UAYQ.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Trump administration threatened to oust the head of the FDA if the Pfizer vaccine isn't cleared by the end of Friday, a new report says"
-    excerpt: "Dr. Stephen Hahn denied the report, telling Business Insider that \"this is an untrue representation of the phone call with the Chief of Staff.\""
-    publishedDateTime: 2020-12-11T21:45:00Z
-    webUrl: "https://www.businessinsider.com/white-house-reportedly-threatened-fda-hahn-pfizer-coronavirus-vaccine-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/white-house-reportedly-threatened-fda-hahn-pfizer-coronavirus-vaccine-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-reportedly-threatened-fda-hahn-pfizer-coronavirus-vaccine-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
-    images:
-      - url: "https://i.insider.com/5fd3c9b2e00bce00188bae82?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "1SUWqTf9N/OwapDPE7VMiBBg+hrCPKUrifuMr3wleCM+xZJYYx+HEngMMKlKxq8ThhIUHwnOCwc6SuBDjhWpBXAR+RQ5h0UYWP80M4i8vnYB/k2r4eIBHW/ne3qM8ORjm0tTCCWb79BBEnC0JxFBAlw0/inL5W/cH8cl9XOVzHExOsfjnoUQJ/OXbAMkBbPo4AW9jKue/UgYzjbyfn6ML3S+3x4POYyOyKar2gVujhvu8H14zzP403TRo/OhQNBf2BB8eOnhql9rO8Y2YLksb+e2jikooZJ2QKaICHlesa7oXFsvdh6xy7iotEGM0K7K++8jeGFx4Aylw4aZLmOWs8Zvrd3nKVN2iFq1SkcPmsI=;8I6eEkYMA0I/4ZTOvWN4iA=="

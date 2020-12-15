@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/biden-picks-black-general-lloyd-aust
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12?amp"
 type: article
 quality: 90
-heat: -1
-published: false
+heat: 90
+published: true
 
 provider:
   name: Business Insider
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "What we know about retired General Lloyd Austin, Biden's choice for defense secretary"
-    excerpt: "President-elect Joe Biden has chosen retired General Lloyd Austin to be his defense secretary. CBS News correspondent Nikole Killion joins CBSN to discuss what makes the pick so historic."
-    publishedDateTime: 2020-12-10T03:16:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-defense-secretary-lloyd-austin-defense-secretary/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 98
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/39b77f61-0070-42f7-98ea-c83f8e7abbaf/thumbnail/1200x630/d78b2ab96f243284d5134b31a3a484f9/cbsn-fusion-pres-elect-to-tap-retired-gen-lloyd-austin-as-defense-secretary-thumbnail-603805-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "9lus8GnW4NQuGnjcFHXyhzUJI3tSLeBQzFz4wQBELsE9j6DEis3XpqJWRD/N2Bi2Zc2XNPzTe6TLr9o0en/e0dthK3uTA9a6ckya7sqEupkDKpHNNNWOWtlG+HcjDemLKXVpoy7sfS+JP8/4EdgNJz7ty6NH3Y2Ax9PWGQ9tj1Po5VdjbSOXx7tV9Kl1wRzHGQfQsh1OvW5GTTKeMp+u3e6kmV/W19VYfrFGHFxLZyF9buA/fAw9VW6SaBXUrK4toH10XlgVpiqLcu04jrJMVS4NonoaCatHX4RMa2lvoTimF0XydjiO7w9ebK0pPJkYF1y6RavjEZlO4WlwIUBnVNV/L91LzLd6SlNtME/ukUpkpRvdjGZxP3kj7ZvTG0ncYHZclKw5DhCdnGS26+WwA0tjpAkZdNNB4lQhZraDj/nhhaxoW3E6fCAWa5pOXpOvXty7O4+ppi8l/RCSsBkQaMWCZM0/e6a8Hjed60qD5+Tdab3cvkLbpjUozk565HU6qHNRmUu4DaxPQoOVwR4JhQ==;MymBi+SYdtY5cbfmTBGNlg=="
 ---

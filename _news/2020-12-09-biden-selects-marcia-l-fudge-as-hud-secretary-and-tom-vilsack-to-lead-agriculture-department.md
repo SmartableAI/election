@@ -31,49 +31,33 @@ images:
     isCached: true
 
 related:
-  - title: "AP sources: Biden picks Fudge for housing, Vilsack for USDA"
-    excerpt: "President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary and former Agriculture Secretary Tom Vilsack to reprise that role in his administration"
-    publishedDateTime: 2020-12-09T12:52:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
+  - title: "Biden facing pressure to pick Congresswoman Deb Haaland as Interior Secretary"
+    excerpt: "Tribal leaders, progressives and prominent women have called for Biden to pick Haaland as his interior secretary."
+    publishedDateTime: 2020-12-11T01:10:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a247689e42154871b07009bde790748f_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/b2eecec4-b9a3-4c93-86db-a3f95fb27228/thumbnail/1200x630/90609bf67298dd0107ed148f9f4142a1/gettyimages-1044568894.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Biden picks Fudge for housing head, Vilsack for USDA"
-    excerpt: "President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary and former Agriculture Secretary Tom Vilsack to reprise that role in his administration."
-    publishedDateTime: 2020-12-09T14:58:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-12-09/biden-fudge-housing-vilsack-usda"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-09/biden-fudge-housing-vilsack-usda?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-09/biden-fudge-housing-vilsack-usda?_amp=true"
+  - title: "Biden presents new defense chief as son Hunter reveals his taxes are being investigated – as it happened"
+    excerpt: "President-elect introduces Lloyd Austin to lead US defense as news that Hunter Biden’s tax affairs are under review surfaces"
+    publishedDateTime: 2020-12-10T01:11:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd16d6d8f0892e7c1ad2d5c"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/617461d/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2F8b%2Feaeb399388efa447df0174e9947d%2Fc8491d06726742889c7dc900e4ce52f5"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "AP sources: Biden picks Rep. Marcia Fudge as housing chief"
-    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary, according to three people familiar with the decision."
-    publishedDateTime: 2020-12-09T02:23:00Z
-    webUrl: "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
+      name: The Guardian
+      domain: theguardian.com
+    quality: 88
 
 secured: "wlhvR5gPph8kvzp1j9EGk2K20lF85om3HvqlNKOP3HnciR8peEhxQqQtpmLE0++6GHgXXiAIMIsfx8TmCZcjnMMwJBWpL6Pb2C8OW0yTnwSKwhT739ccisaySbKKd1koYgDBhLjBk6cZ6/rxdOPNpYBLLxb+6DGxCLdxa5/0lQ+vNPOB7t9UbVbuxjGxScboouFhO420Q934m3fOlXvDUQ7Cr/xq5J78aflWuQ0v3ost8v26ptcmJS8P9G01q7VuYoakFHEg/zFP7RdmQxsS1bA1cNRV6xLug2wUEPu20pag3zF5pkSlbIYfRnxnZI6TQD9m4qeTP0KE3e1K4qkjzmog1BCnudMkoQShOX+pFeLpw3+frfT9fbzZj603Y1dx+3/pu7+fKyzr+jjzxjrKUgOgu1e/aFooqu6ewnxmD1lbwgSClbkIdpYjU+D17soAiBGI9MM/NIpWR60gP1PS4TY3B1L9R7cpVkL4E4Y78MqJmm3x/ZEYqq++n1YMKKrLTv7gBlrzLj6Ju9tDFyg6Kw==;2ourHLKB4j/Wg7vjNGaJ2g=="
 ---

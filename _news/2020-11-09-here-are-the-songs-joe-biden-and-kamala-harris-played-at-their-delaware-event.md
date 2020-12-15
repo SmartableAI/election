@@ -678,15 +678,6 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 50
-  - title: "Deep roots exist between Joe Biden, Kamala Harris and the world of sports"
-    excerpt: "From high school football to a youth dance troupe, President-elect Joe Biden and Vice President-elect Kamala Harris have a long history with sports."
-    publishedDateTime: 2020-11-08T20:18:00Z
-    webUrl: "https://www.cincinnati.com/story/sports/2020/11/08/joe-biden-kamala-harris-sports-histories/6140675002/"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 49
   - title: "'In her destiny lies my destiny': Black female New York politicians reflect on Kamala Harris as VP"
     excerpt: "Three women, who broke barriers as Black female leaders at the city, county and state levels of New York government, spoke to the Times Union on Sunday afternoon about their reaction to the earthquake in national politics Saturday morning when Biden and Harris were declared the presumptive victors of the presidential election."
     publishedDateTime: 2020-11-10T02:59:00Z

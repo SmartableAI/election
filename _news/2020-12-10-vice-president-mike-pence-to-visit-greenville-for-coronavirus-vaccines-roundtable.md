@@ -27,61 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "The Latest: Pence talks vaccines in SC as virus cases rise"
-    excerpt: "Vice President Mike Pence has traveled to South Carolina to talk about coronavirus vaccines, as cases are rising in the state"
-    publishedDateTime: 2020-12-10T05:25:00Z
-    webUrl: "https://www.washingtonpost.com/health/the-latest-doctor-has-concern-about-vaccine-availability/2020/12/09/291437fe-3a7e-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/the-latest-doctor-has-concern-about-vaccine-availability/2020/12/09/291437fe-3a7e-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/the-latest-doctor-has-concern-about-vaccine-availability/2020/12/09/291437fe-3a7e-11eb-aad9-8959227280c4_story.html?outputType=amp"
+  - title: "WATCH LIVE: Pence participates in COVID-19 vaccine roundtable"
+    excerpt: "Vice President Mike Pence will participate in a roundtable Dec. 10 about COVID-19 vaccines in Greenville, South Carolina."
+    publishedDateTime: 2020-12-10T16:21:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-pence-participates-in-covid-19-vaccine-roundtable"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-pence-participates-in-covid-19-vaccine-roundtable"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-pence-participates-in-covid-19-vaccine-roundtable"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: PBS
+      domain: pbs.org
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-07-08T154528Z_1976070878_RC23PH9SQGLE_RTRMADP_3_HEALTH-CORONAVIRUS-USA-1024x618.jpg"
+        width: 1024
+        height: 618
         isCached: true
-  - title: "Pence sets Indiana trip to discuss coronavirus vaccine"
-    excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss coronavirus vaccines as federal officials are expected to soon authorize the first such vaccine for widespread use."
-    publishedDateTime: 2020-12-11T19:40:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
+  - title: "Vice President Mike Pence to tour COVID vaccine facility in Bloomington next week"
+    excerpt: "Vice President Mike Pence will be in Bloomington Tuesday to tour a vaccine production facility and discuss efforts to combat COVID-19"
+    publishedDateTime: 2020-12-11T16:03:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/12/11/mike-pence-tour-covid-19-vaccine-facility-bloomington/3894170001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3894170001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3894170001"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 70
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/10/virus_outbreak_south_carolina_pence_38030_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PIND/fb21da3d-bf78-41a9-a554-80a704625016-102220-Mike_Pence_in_Fort_Wayne_Ind-cb-74.JPG?auto=webp&crop=2597,1461,x0,y132&format=pjpg&width=1200"
         width: 1200
-        height: 700
+        height: 675
         isCached: true
-  - title: "Pence to visit Tennessee, talk virus vaccines"
-    excerpt: "Vice President Mike Pence is scheduled to visit Memphis on Thursday to discuss the development and distribution of the COVID-19 vaccines, according to his office."
-    publishedDateTime: 2020-12-03T15:30:00Z
-    webUrl: "https://www.timesnews.net/living/health-care/pence-to-visit-tennessee-talk-virus-vaccines/article_0001c35c-3580-11eb-ab1e-134818ed0d1f.html"
+  - title: "COVID-19 vaccines called 'medical miracle' by Vice President Mike Pence in Greenville"
+    excerpt: "Vice President Mike Pence visited Greenville Thursday to join Gov. Henry McMaster and other officials to discuss coronavirus vaccines."
+    publishedDateTime: 2020-12-10T23:29:00Z
+    webUrl: "https://www.greenvilleonline.com/story/news/local/south-carolina/2020/12/10/covid-19-vaccines-discussed-vp-mike-pence-greenville-sc/3872616001/"
+    ampWebUrl: "https://amp.greenvilleonline.com/amp/3872616001"
+    cdnAmpWebUrl: "https://amp-greenvilleonline-com.cdn.ampproject.org/c/s/amp.greenvilleonline.com/amp/3872616001"
     type: article
     provider:
-      name: Times News
-      domain: timesnews.net
-    quality: 55
+      name: Greenville News
+      domain: greenvilleonline.com
+    quality: 68
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/3/23/323f7f7c-da0d-11ea-8e7a-6796a476e0b5/5f2f9df19a75b.image.jpg?crop=800%2C450%2C0%2C16&resize=800%2C450&order=crop%2Cresize"
-        width: 800
-        height: 450
+      - url: "https://www.gannett-cdn.com/presto/2020/12/10/PGRE/5b693446-e21b-4f5e-8002-fb8e5641bec9-MicrosoftTeams-image_4.png?auto=webp&crop=3283,1847,x1,y190&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Pence plans visit to state to discuss virus vaccines"
-    excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss novel coronavirus vaccines as federal officials are expected to"
-    publishedDateTime: 2020-12-12T05:00:00Z
-    webUrl: "https://www.journalgazette.net/news/local/indiana/20201212/pence-plans-visit-to-state-to-discuss-virus-vaccines"
+  - title: "Pence: COVID vaccine 'a medical miracle'"
+    excerpt: "As U.S. experts convene to decide whether to approve the Pfizer vaccine, Vice President Mike Pence is calling the development of a vaccine to combat the coronavirus pandemic as \"a"
+    publishedDateTime: 2020-12-11T00:54:00Z
+    webUrl: "https://omaha.com/news/national/pence-covid-vaccine-a-medical-miracle/video_aafd968a-ea4e-53a8-8206-453e1906f7ef.html"
+    ampWebUrl: "https://omaha.com/news/national/pence-covid-vaccine-a-medical-miracle/video_aafd968a-ea4e-53a8-8206-453e1906f7ef.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/pence-covid-vaccine-a-medical-miracle/video_aafd968a-ea4e-53a8-8206-453e1906f7ef.amp.html"
     type: article
     provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 35
+      name: Omaha.com
+      domain: omaha.com
+    quality: 55
 
 secured: "CIVWNRzCfkbP3SmSBpEhk3ka6lcayykLv9+nwSbtXNdbvesKBCl4eAmzdlZUKchJ3DG5e4b6khtDnTDmJ8U9ECuw5lER3EBayZuZcUabzxvKntSxx2xetgb6r3RD/bzJcZR/fE83jBAyDW6CjIAc2aDsEFpKyaO3+eIs1ldulCSqLS/ONWsJ9rjAZBaVdAOOOGIgSmC+w80mVRXx+jIWrfQ698YJzoW2X7ti+Srh1iW/JTSCQn2cfs/RRSBio6BhuyzXcPxHQpwkcwtWMYSjJbltIxx7UgsrqBRzqbJiM3pCQDYtQLsrUj+hkr8DO9kV6dtxlr3A98esGwX/HtKRSuxoruDt+cCNwTunlEwNJMEQMyhJ0Pl1ccMY5bhaizSdCRyh0YJs8/9QJ6tjERTV5gXgn+ZrJj2lo1wzM56JSEeu8UjHze9PBIfEBFREr8k9GB+o0xm7Np9TP7BnD+NuqVYh1rYU16olm/P3GwYpUoBcuSOmVkh87qNOkMI69dXZX0wcwrFNaRewbI4Dyhudng==;GAqeD5vwvdRJDxa75pxQQA=="
 ---

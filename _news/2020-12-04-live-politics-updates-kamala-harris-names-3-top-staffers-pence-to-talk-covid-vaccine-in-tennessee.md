@@ -76,21 +76,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Live politics updates: President-elect Biden to discuss economic crisis with workers and small-business owners"
-    excerpt: "President-elect Joe Biden plans to meet online Wednesday with workers and small-business owners to discuss the economic crisis, as part of his preparations for taking office. Biden highlighted the need for more federal stimulus spending Tuesday while introducing his economics team,"
-    publishedDateTime: 2020-12-02T15:04:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/02/presidential-transition-updates-politics-joe-biden-donald-trump/3791958001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3791958001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3791958001"
+  - title: "Live politics updates: Biden unveils health team; Giuliani in the hospital after testing positive for COVID"
+    excerpt: "If confirmed by the Senate, Xavier Becerra, 62, would be the first Latino to head the Department of Health and Human Services"
+    publishedDateTime: 2020-12-07T12:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/07/politics-updates-joe-biden-donald-trump-presidential-transition/3854979001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3854979001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3854979001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 105
+    quality: 107
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/02/USAT/0ea21f1c-a0a4-477a-be43-069126ee14c8-biden_economics_team.jpg?auto=webp&crop=7462,4198,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2019/02/05/USAT/aa5942fd-7582-4a29-9088-a4ed6825cfd4-AP_California_v_Trump.JPG?auto=webp&crop=4069,2303,x0,y158&format=pjpg&width=1200"
         width: 1200
-        height: 675
+        height: 679
         isCached: true
 
 secured: "9sLLDY4PnJLsJR5IEH8aLdxz6URlRnRd1glFfCY5u+m7Ka6Lz/3JnfwKOsNRhpO/ZS+BEhrd7ukHPaIK5LTcJV0hHoOvr3Tg/8qIo58psanoYvkEclrS7ybKWx8v71pDck6I6P2fffBj5TGIXBDKNpCxgg+MovHCaViTBsBN38F2RTeTx8hkQIamv8aHan19NlLEd6fJ9DXO8WR8YtlmixBAFc/bK4mFFMMTR9l6yzt6jMU3yaWpK5iKtu3XEKvHkchoazLrCNLfjOCbcQUVpszAT3TCHRp6+/x/BAFB0CDhYA9jzXoe/vov8xTI7rebW4d2yEYdQC6pFrJrhzRy8tsyY4WCi53FM9+8uHGwmFA=;sn78CelUia/MWB7yYhEV6w=="
