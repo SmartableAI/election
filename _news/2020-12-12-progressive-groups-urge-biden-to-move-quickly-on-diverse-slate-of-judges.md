@@ -256,6 +256,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "‘In Bad Shape and Getting Worse,’ Guantánamo Poses Headaches for Biden"
+    excerpt: "The new administration confronts decaying infrastructure and a military justice system moving at a glacial pace."
+    publishedDateTime: 2020-12-15T18:27:00Z
+    webUrl: "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/15/us/politics/15dc-gitmo/15dc-gitmo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Alexander: 'It looks very much like the electors will vote for Joe Biden'"
     excerpt: "Sen. Lamar Alexander (R-Tenn.) tells Chuck Todd that there shouldn't be any doubt about who won the 2020 presidential election after the Electoral College votes on Monday."
     publishedDateTime: 2020-12-13T13:47:00Z

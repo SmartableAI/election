@@ -254,6 +254,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "‘In Bad Shape and Getting Worse,’ Guantánamo Poses Headaches for Biden"
+    excerpt: "The new administration confronts decaying infrastructure and a military justice system moving at a glacial pace."
+    publishedDateTime: 2020-12-15T18:27:00Z
+    webUrl: "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/15/us/politics/15dc-gitmo/15dc-gitmo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Progressive Groups Urge Biden to Move Quickly on Diverse Slate of Judges"
     excerpt: "The president-elect faces pressure to install a diverse group of progressives in the courts, but the prospect of a Republican-controlled Senate looms as an obstacle."
     publishedDateTime: 2020-12-11T23:27:00Z

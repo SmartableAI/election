@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-15-fauci-says-biden-harris-should-get-covid-19-vaccine-asap-for-security-reasons.md",
+      "title": "Fauci says Biden, Harris should get COVID-19 vaccine ASAP 'for security reasons'",
+      "excerpt": "After the first American was inoculated with a coronavirus vaccine on Monday, the nation’s top infectious disease expert recommended that President-elect Joe Biden and Vice President-elect Kamala Harris should move toward the front of the line.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3jP6646MLm8/fauci-biden-harris-covid-19-vaccine-asap-security-reasons",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3jP6646MLm8/fauci-biden-harris-covid-19-vaccine-asap-security-reasons",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5affd312-5021-48bd-bd9a-ed5c5607ccf8/f467789e-3b2b-44ee-be75-39e8312c303c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fauci-biden-harris-covid-19-vaccine-asap-security-reasons.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-biden-harris-covid-19-vaccine-asap-security-reasons.amp",
+      "publishedDateTime": "2020-12-15T10:56:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-the-latest-fauci-says-vaccinate-biden-harris-trump-pence.md",
       "title": "The Latest: Fauci says vaccinate Biden, Harris, Trump, Pence",
       "excerpt": "Top U.S. infectious disease expert Dr. Anthony Fauci says President-elect Joe Biden and Vice President-elect Kamala Harris should be vaccinated for COVID-19 as soon as possible",
@@ -10,7 +67,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2550,
+      "heat": 2570,
       "tags": null,
       "images": [
         {
@@ -1552,63 +1609,6 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.md",
-      "title": "California governor quiet on Kamala Harris replacement: 'No timeline has been established'",
-      "excerpt": "The race to fill Vice President-elect Kamala Harris' open Senate seat is underway, but California Gov. Gavin Newsom has so far remained mum about potential contenders.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6QNvSnc7z4/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6QNvSnc7z4/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20272849406731.jpg",
-          "width": 1024,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.amp",
-      "publishedDateTime": "2020-11-11T06:51:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Kamala Harris"
       ]
     }

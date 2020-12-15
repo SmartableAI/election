@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/putin-congratulates-biden-on-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp"
 type: article
 quality: 190
-heat: 1350
+heat: 1310
 published: true
 
 provider:
@@ -254,22 +254,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94263045-eb33-4a8d-a418-079be75f1161/e3bf2dbe-1805-4073-8722-3e255f507b05/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden urges Americans to have ‘confidence’ in new COVID vaccine"
-    excerpt: "President-elect Joe Biden says Americans “should have confidence” in a new coronavirus vaccine produced by the drug maker Pfizer that could be imminently approved by the U.S. Food and Drug Administration (FDA) for immediate use."
-    publishedDateTime: 2020-12-11T22:53:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sHi1tTu8kzM/biden-urges-americans-to-have-confidence-in-new-covid-vaccine"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-urges-americans-to-have-confidence-in-new-covid-vaccine.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-americans-to-have-confidence-in-new-covid-vaccine.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Biden's Health and Human Services pick has no public health experience"
     excerpt: "President-elect Joe Biden surprised the health community when he announced his pick for Health and Human Services Secretary earlier this week, Xavier Becerra, the attorney general of California."
@@ -654,22 +638,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "McConnell congratulates Joe Biden, Kamala Harris on election win from Senate"
-    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday congratulated President-elect Joe Biden on his victory following the Electoral College’s vote on Monday. “The Electoral College has"
-    publishedDateTime: 2020-12-15T15:52:00Z
-    webUrl: "https://nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/"
-    ampWebUrl: "https://nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 162
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/mcconnell-biden.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "McConnell, top GOP senators acknowledge Biden as president-elect: 'The Electoral College has spoken'"
     excerpt: "Top Senate Republicans are officially accepting President-elect Joe Biden's 2020 victory after the Electoral College confirmed his win on Monday."

@@ -975,6 +975,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "White House refuses to follow McConnell in acknowledging Trump's election defeat – live"
+    excerpt: "Asked about the electoral college vote, Kayleigh McEnany said: ‘The president is still involved in ongoing litigation related to the election’"
+    publishedDateTime: 2020-12-15T20:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates?page=with:block-5fd902bb8f08b0a99da9702e"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 132
+    images:
+      - url: "https://i.guim.co.uk/img/media/e5d1fc0ed0bbfdb6beacc13c34e08674fca5a309/0_196_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4dcfd5e269a8af08321f30e77b856a81"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump unveils $207 million fundraising haul since election as he tries to overturn results"
     excerpt: "President Donald Trump's campaign and the Republican National Committee have raised a combined $207.5 million since Election Day, according to a statement on Thursday, as Trump has sought donations to fund his efforts to overturn Democrat Joe Biden's win in the Nov."
     publishedDateTime: 2020-12-04T06:39:00Z
@@ -1939,6 +1955,20 @@ related:
       - url: "https://apnews.com/images/ShareLogo2.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "McEnany: Trump 'still pursuing' election litigation"
+    excerpt: "Despite a solid Electoral College victory for Joe Biden, the White House is still refusing to accept the election results. Press Secretary Kayleigh McEnany described the Electoral College vote as just “one step in the constitutional process."
+    publishedDateTime: 2020-12-15T20:23:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/15/mcenany-trump-still-pursuing-election-litigation/3910237001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1b5d4396-2202-41ae-aa2d-5a0f84b95ca9_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "UPDATE 2-U.S. Republicans balk as Trump uses defense bill for leverage on Big Tech"
     excerpt: "President Donald Trump's threat to veto a defense bill if it does not repeal legal protections for social media companies faced stiff bipartisan opposition on Wednesday, setting the stage for a confrontation with lawmakers scrambling to pass the massive bill by year-end."

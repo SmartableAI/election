@@ -384,6 +384,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "U.S. Senate leader McConnell acknowledges Biden victory; laments Trump defeat"
+    excerpt: "U.S. Senate Majority Leader Mitch McConnell, a Republican, on Tuesday congratulated Democratic President-elect Joe Biden and Vice President-elect Kamala Harris on their Nov. 3 election victories, ending his long silence on the outcome of the presidential race."
+    publishedDateTime: 2020-12-15T19:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-mcconnell-idUSKBN28P225"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P225"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P225"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544659461&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1AS"
+        width: 754
+        height: 545
+        isCached: true
   - title: "Here's what it could take for Biden to undo Trump's big changes at the Pentagon"
     excerpt: "The Trump administration has brought massive changes to the Pentagon in the weeks since Trump lost the election."
     publishedDateTime: 2020-12-11T20:30:00Z

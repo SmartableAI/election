@@ -47,22 +47,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Trump makes another largely symbolic effort to combat coronavirus"
-    excerpt: "President Donald Trump made yet another symbolic effort Tuesday to combat coronavirus -- even as cases continue to rise and administration officials have admitted that the White House missed an opportunity to acquire more vaccine doses.\n    \n"
-    publishedDateTime: 2020-12-08T21:14:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UmBHOnqiuEQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/trump-vaccine-pfizer-coronavirus-executive-order/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/trump-vaccine-pfizer-coronavirus-executive-order/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170222094412-trump-signing-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden urges Congress to pass coronavirus package with state and local government funding"
     excerpt: "President-elect Joe Biden urged Congress to pass a coronavirus relief package that includes funding to help state and local governments with payrolls for public workers like teachers and first responders.\n    \n"
     publishedDateTime: 2020-11-16T22:31:43Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/entertainment/neil-young-drops-lawsuit-donal
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/neil-young-drops-lawsuit-donald-trump-music-campaign-events.amp"
 type: article
 quality: 127
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Trump campaign files lawsuit over New Mexico ballot drop boxes"
+    excerpt: "As New Mexico electors cast their votes on Monday, President Trump's campaign team filed a suit over the state's use of ballot drop boxes."
+    publishedDateTime: 2020-12-15T20:21:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jn8uE8tIPwM/trump-campaign-files-lawsuit-over-nm-drop-boxes"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-files-lawsuit-over-nm-drop-boxes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-files-lawsuit-over-nm-drop-boxes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20350011448560.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "Krh7C7Pk46luWsW0MpXBb2T+za1ePzJZNz/N/oVFl6nmmK3Jspz2eQGrjHOBW7LMGJ4BiDeh3PBY6len21JBPKeH7jKBPRYzMraffAeua8E404fcCmt6kFWVP/70vdkNSOahG/pITxe+bvsZZYub9tHvgfP4hcqSxmQmxz7GojR10EvoNKYoHKeeIYN4sKfYls7xIFhayEeJBbsQEBdQ3FiocJiyGjIjtdnNz93MLbVUFVD0VY/2XknHiMczrp4zCOvtCS4wgx1ls/4NyeNfPMuuJiCllRkXYlLgGjIPiihsp9mbfAB9VoXMu76gFwNeduuZ+u6/63FFRg1xqmdrf3j0MxLiy5Z0uFUEilFNq0yIeAYs0wEVrOc8UHyC/tdg+fF3yegRB9HvvgRHumchqBsF8GjhZIMrKblIYeZoQ6Mj02lodnifzmsLoWqSiA3QUf4vFlljIaJFx46zReIvnPXPFv8ADEccHi2k+Nmcms8pVXWh9lXocw23kxm7tQ4s9g3w3pLgJ1Gemsuy5Epbnw==;Mz5+IkDedAMK3HO6kZ1/Cw=="
 ---

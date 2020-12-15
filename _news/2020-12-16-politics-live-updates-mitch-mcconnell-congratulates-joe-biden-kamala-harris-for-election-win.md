@@ -395,6 +395,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "U.S. Senate leader McConnell acknowledges Biden victory; laments Trump defeat"
+    excerpt: "U.S. Senate Majority Leader Mitch McConnell, a Republican, on Tuesday congratulated Democratic President-elect Joe Biden and Vice President-elect Kamala Harris on their Nov. 3 election victories, ending his long silence on the outcome of the presidential race."
+    publishedDateTime: 2020-12-15T19:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-mcconnell-idUSKBN28P225"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P225"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P225"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544659461&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1AS"
+        width: 754
+        height: 545
+        isCached: true
   - title: "Here's what it could take for Biden to undo Trump's big changes at the Pentagon"
     excerpt: "The Trump administration has brought massive changes to the Pentagon in the weeks since Trump lost the election."
     publishedDateTime: 2020-12-11T20:30:00Z
@@ -1789,6 +1805,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "/5jAhNtTcveT52rMXRV2GYLdVK0GRovgsSihLUe343bC5JEb2XvOnUN/vm2zxgm1CZxSB9AGSrE+GiQdH88fYECyijumOhUWRbic8vLU8WxqPPjAlVyxk98O3O6rZXCEBf2dCjXnycYPieqrddyEFFvza7psf9VKsablklMvxuYHKSdG/zbMLXHwW+ZwYmHbW05hRB7SizCOI6gXTNYjl6gkSFiwiIDHgidfr+0etcmzSWsGH49WFLlkQFHf9N6df7dpOyK6Kh9GGrw9km3BAxPP+hOXid+FmmpZl+VMW6Tq1mNq5iPFtdR/TIsD7oiDET/TG0bgS0E+qGUxHYdSbJkJlbgDdmQFwvclCOag5X0=;VaDR/lSNvmuQ3qTB6QwlRw=="
+secured: "4dm7yAuRDTgDV752fs0VaGXXKn5A0n7HEBKfPOqrl/x8ECUuxotBpYxVtl5IrHERwXv8jJsUs2UhsC3QX2lpqcMjlWxwhy5l1pODB4VpHADBQtCdSU81SA/HJaFofXtDohtyZpI+tjiwQFiFQdeaFX6ImWsKMvgcJfqFG5S3033Yo+Teu6JCRUbxifoR4fkxdlIF+pbv2bdxXCEUNmTI0p796l5624KgXYNe+p+6dIuML6sNJ4H4YLFovFNW0ISou+SmK4pl9eIIer/OPWCaT9tx/38XamNxrNbS8tvKld9/b6183ag6+pu6Dab+bUnBbfiyDglBfjldeUKMLfJCVOnFP9TjjW5wMc4/7rJuDxNf9f9gNCyR1gdKk4n5JMG2myKVs4idkNVvGg4+G8PGIdvSWgygSkLwmEdGcukn1ZB2zK1yrAACDYRjxBC7yTI2koPqdrcyEjEsWDrac+s8chZ3+c7Z3WdaiUcYJU2bEOEAjDFOxSOMLWy3ChNCLm7+Miw6ACK4/aX84uPfA3hj1Q==;ahMLenTiVKkLYuq375PJCQ=="
 ---
 

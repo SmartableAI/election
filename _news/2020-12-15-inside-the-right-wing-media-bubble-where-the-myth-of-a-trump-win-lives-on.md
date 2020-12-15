@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Jeffrey Rosen steps into the spotlight as he replaces Barr for Trump's last month"
+    excerpt: "Jeffrey Rosen, set to take over as acting attorney general next week, is an unknown quantity in Trump White House politics, even after serving for more than a year as No. 2 to Attorney General William Barr, the especially vocal and controversial public face of the Justice Department.\n    \n"
+    publishedDateTime: 2020-12-15T20:22:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VQGnbf_OTx8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/jeffrey-rosen-deputy-attorney-general/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/jeffrey-rosen-deputy-attorney-general/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214222753-jeffrey-rosen-0922-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's drug cards clear key hurdle following pressure from White House"
     excerpt: "A key panel blessed the president's promised drug-discount cards, surprising even some officials who worked on the plan."
     publishedDateTime: 2020-12-15T03:21:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html"
 type: article
 quality: 175
-heat: 675
+heat: 695
 published: true
 
 provider:
@@ -236,6 +236,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/12/14/business/13wsj-gigot-print/13wsj-gigot-print-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "‘In Bad Shape and Getting Worse,’ Guantánamo Poses Headaches for Biden"
+    excerpt: "The new administration confronts decaying infrastructure and a military justice system moving at a glacial pace."
+    publishedDateTime: 2020-12-15T18:27:00Z
+    webUrl: "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/15/us/politics/15dc-gitmo/15dc-gitmo-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
