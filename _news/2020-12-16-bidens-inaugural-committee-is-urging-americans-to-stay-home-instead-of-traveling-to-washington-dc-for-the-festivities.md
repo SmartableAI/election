@@ -79,6 +79,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Exclusive-Biden taps former EPA chief for White House climate coordinator role -sources"
+    excerpt: "President-elect Joe Biden will name Gina McCarthy, former administrator of the Environmental Protection Agency under the Obama administration to a new role leading domestic climate policy coordination at the White House,"
+    publishedDateTime: 2020-12-16T00:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-mccarthy-exclusive-idUSKBN28P35Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P35Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P35Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544686850&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1SS"
+        width: 817
+        height: 545
+        isCached: true
   - title: "'Need a miracle': Permanent resident facing deportation hoping he can last until Biden administration"
     excerpt: "Kelvin Silva faces deportation from ICE, even though he's been a legal permanent resident of the United States since the 1980s."
     publishedDateTime: 2020-12-11T11:45:00Z

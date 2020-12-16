@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/top-aide-biden-expected-to-visit-ge
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6add624-18f2-464f-a0ca-315c5ac368e6/7fd6e35d-ab29-42cb-aae6-ddc2c2754fa9/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Linda Sarsour, too radical for Joe Biden, to campaign for Ossoff and Warnock in Georgia Senate race"
+    excerpt: "Former Women’s March leader Linda Sarsour said on Monday she plans to canvass in Georgia on behalf of Democratic Senate candidates Rev. Raphael Warnock and Jon Ossoff for the Jan. 5 runoff election."
+    publishedDateTime: 2020-12-16T02:09:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iUrFs5jAVEw/linda-sarsour-too-radical-joe-biden-campaign-ossoff-warnock-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/linda-sarsour-too-radical-joe-biden-campaign-ossoff-warnock-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/linda-sarsour-too-radical-joe-biden-campaign-ossoff-warnock-georgia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Linda-Sarsour-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden expected to make trip to Georgia to stump for Ossoff, Warnock"
     excerpt: "The push to win both races could see the Democrats pull a divided Senate, which would force both parties to work on passing any legislation."

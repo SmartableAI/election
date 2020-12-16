@@ -190,6 +190,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "McConnell breaks with Trump in finally recognizing Biden as the new president"
+    excerpt: "Senate Majority Leader Mitch McConnell (R-Ky.) made his sharpest and most significant break from President Trump on Tuesday, finally acknowledging Joe Biden as the rightful president-elect even as Trump refused to publicly admit his decisive loss in both the electoral college and the popular vote."
+    publishedDateTime: 2020-12-16T01:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/mcconnell-trump-biden-election/2020/12/15/af8a7a2a-3f13-11eb-8db8-395dedaaa036_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/mcconnell-trump-biden-election/2020/12/15/af8a7a2a-3f13-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/mcconnell-trump-biden-election/2020/12/15/af8a7a2a-3f13-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 147
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A3JS4HB7GII6XDNYHFO63KVAGY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "What a Joe BIden-Kamala Harris administration means for markets, tech, healthcare, cannabis, and Donald Trump"
     excerpt: "The AP, NBC, CNN, The New York Times, and The Washington Post called the presidential election for Joe Biden shortly after 11 a.m. ET Saturday."
     publishedDateTime: 2020-11-09T03:22:00Z
@@ -334,6 +350,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mitch McConnell: Top Trump ally breaks silence to congratulate Biden"
+    excerpt: "A top member of US President Donald Trump's Republican Party, Senate Majority Leader Mitch McConnell, has congratulated Joe Biden on winning the presidential election last month. Senator McConnell spoke after the electoral college formally confirmed Mr Biden's victory over Mr Trump."
+    publishedDateTime: 2020-12-16T02:52:00Z
+    webUrl: "https://www.bbc.com/news/election-us-2020-55323407?fbclid=IwAR0pp8_Grt2HrLJyG1R1mgsSLvZCqSILVjNT5B0uXG2z_3s4Bnjr1MFD-SY"
+    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55323407"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55323407"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/A059/production/_116094014_mediaitem116094013.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Trump asking about special prosecutor for Hunter Biden"
+    excerpt: "President Donald Trump is considering pushing to have a special counsel appointed to advance the federal tax investigation into the son of President-elect Joe Biden"
+    publishedDateTime: 2020-12-16T02:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-special-prosecutor-hunter-biden-74750242"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-special-prosecutor-hunter-biden-74750242"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-special-prosecutor-hunter-biden-74750242"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9a54050bd77943bdadcf2a1fc6120bc3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to present new defense chief as Trump clings to failed effort to overturn election result – live"
     excerpt: "Trump calls to ‘overturn’ results as legal attempts to reverse Biden’s victory dwindle, while president-elect will nominate Lloyd Austin to lead US defense"
     publishedDateTime: 2020-12-09T18:13:00Z
@@ -400,10 +448,10 @@ related:
         isCached: true
   - title: "U.S. Senate leader McConnell acknowledges Biden victory; laments Trump defeat"
     excerpt: "U.S. Senate Majority Leader Mitch McConnell, a Republican, on Tuesday congratulated Democratic President-elect Joe Biden and Vice President-elect Kamala Harris on their Nov. 3 election victories, ending his long silence on the outcome of the presidential race."
-    publishedDateTime: 2020-12-15T19:44:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-mcconnell-idUSKBN28P225"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P225"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P225"
+    publishedDateTime: 2020-12-16T00:16:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-mcconnell-idUSKBN28P27W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P27W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P27W"
     type: article
     provider:
       name: Reuters
@@ -1190,19 +1238,33 @@ related:
         width: 1484
         height: 834
         isCached: true
-  - title: "Mitch McConnell congratulates Joe Biden, Kamala Harris for election win"
-    excerpt: "The Electoral College has spoken,” McConnell said during a speech on the Senate floor in which he also praised President Donald Trump's accomplishments. McConnell said he wanted to “congratulate President-elect Joe Biden” and Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-12-15T16:02:00Z
-    webUrl: "https://www.jsonline.com/story/news/politics/elections/2020/12/15/mitch-mcconnell-congratulates-joe-biden-kamala-harris-election/3903325001/"
-    ampWebUrl: "https://amp.jsonline.com/amp/3903325001"
-    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3903325001"
+  - title: "Biden's inauguration to be largely virtual"
+    excerpt: "Posted [NFA] President-elect Joe Biden and Vice President-elect Kamala Harris will be sworn into office on Jan. 20 on the s"
+    publishedDateTime: 2020-12-16T01:25:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPMbn?now=true"
     type: article
     provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/6b0a7b6a-f95f-4b5d-abfb-8171d39ffad5-DESK_THUMB.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fd9568be4b04f7ff7c2da6f-1608078987819?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mitch McConnell congratulates Joe Biden, Kamala Harris for election win"
+    excerpt: "The Electoral College has spoken,” McConnell said during a speech on the Senate floor in which he also praised President Donald Trump's accomplishments. McConnell said he wanted to “congratulate President-elect Joe Biden” and Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-12-15T19:41:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/12/15/mitch-mcconnell-congratulates-joe-biden-kamala-harris-election/3903325001/"
+    ampWebUrl: "https://amp.tennessean.com/amp/3903325001"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3903325001"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/28/USAT/64162e8d-b664-4755-b472-a4d5aae214eb-AP_Kentucky_McConnell_1.jpg?auto=webp&crop=5414,3046,x0,y275&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

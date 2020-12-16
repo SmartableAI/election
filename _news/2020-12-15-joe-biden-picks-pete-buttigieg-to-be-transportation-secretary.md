@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to name Gina McCarthy to top domestic climate job"
+    excerpt: "President-elect Joe Biden will name Gina McCarthy as his White House climate czar, a source familiar with the decision tells CNN, making the former head of the Environmental Protection Agency his top domestic climate coordinator.\n    \n"
+    publishedDateTime: 2020-12-16T01:17:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qX_tA_svVOo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/gina-mccarthy-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/gina-mccarthy-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161202160232-gina-mccarthy-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden nominates Denis McDonough to lead VA, turning to another longtime Obama adviser"
     excerpt: "President-elect Joe Biden is poised to tap Denis McDonough to lead the Department of Veterans Affairs, a person familiar with the decision says, adding the longtime chief of staff to former President Barack Obama to his new Cabinet.\n    \n"
     publishedDateTime: 2020-12-10T16:03:33Z

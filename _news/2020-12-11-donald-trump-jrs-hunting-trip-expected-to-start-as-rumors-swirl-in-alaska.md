@@ -479,6 +479,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "U.S. finalizes shower head rule after Trump complaints about hair rinsing"
+    excerpt: "The U.S. Energy Department on Tuesday finalized two rules easing energy standards on consumer fixtures and appliances, including one on shower heads after President Donald Trump complained some showers don't adequately rinse his hair."
+    publishedDateTime: 2020-12-16T02:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-energy-efficiency-idUSKBN28P2XZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2XZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2XZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544679145&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1Q8"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Man arrested in Olympia, Wash., after pro-Trump demonstrations turn violent"
     excerpt: "Police in Washington state have arrested an armed right-wing protester on charges of first-degree assault Saturday in Olympia, the state capital, on suspicion of shooting a left-wing protester during demonstrations fueled by baseless claims that President Trump had been wrongly denied reelection."
     publishedDateTime: 2020-12-13T18:55:00Z

@@ -2782,6 +2782,22 @@ related:
         width: 810
         height: 540
         isCached: true
+  - title: "The Time Trump Told Boy Scouts About Sexy Yacht Parties"
+    excerpt: "The president’s address to the Boy Scout Jamboree featured attacks on enemies and underlings, as well as risqué tales of his own greatness."
+    publishedDateTime: 2020-12-16T02:21:00Z
+    webUrl: "https://nymag.com/intelligencer/article/trump-boy-scout-jamboree-speech.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/trump-boy-scout-jamboree-speech.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-boy-scout-jamboree-speech.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/eee/568/bbb59b0e7ed8eb2b4df67f90db6baef20e-that-happened-boyscouts.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "Mike Pence rallies Peach State Republicans, says ‘election contests continue’ for Donald Trump"
     excerpt: "As our election contests continue here in Georgia and in courts across the country,” Pence vowed that the administration will “keep fighting until every legal vote is counted and every illegal vote is thrown out,"
     publishedDateTime: 2020-12-04T23:57:00Z

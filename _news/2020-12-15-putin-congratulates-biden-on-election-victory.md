@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/putin-congratulates-biden-on-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp"
 type: article
 quality: 190
-heat: 1370
+heat: 1390
 published: true
 
 provider:
@@ -364,6 +364,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc00411e-37d4-453b-b1d8-e57fe5cc7500/16f94411-373d-4d7c-b1d2-cc050a5e12f0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden butchers Jon Ossoff's name at Georgia rally"
+    excerpt: "President-elect Joe Biden mispronounced Democratic Senate hopeful John Ossoff's name during an election event Tuesday ahead of the crucial runoff races. "
+    publishedDateTime: 2020-12-16T01:10:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jzj6pCsvQlc/joe-biden-butchers-jon-ossoffs-name-at-georgia-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-butchers-jon-ossoffs-name-at-georgia-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-butchers-jon-ossoffs-name-at-georgia-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f98e1f8c-cd6f-4852-9633-18a5e391a3fd/268d78bf-145e-43a9-828d-749a63b16c84/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

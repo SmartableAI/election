@@ -3,8 +3,8 @@ category: news
 title: "Coronavirus live news: Donald Trump will 'absolutely' encourage Americans to take vaccine, says press secretary"
 excerpt: "EU to bring forward decision on Pfizer/BioNTech vaccine to 21 December; Turkey says 235 more people have died after a Covid diagnosis"
 publishedDateTime: 2020-12-15T19:27:00Z
-originalUrl: "https://www.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain?page=with:block-5fd902938f08b0a99da9702c"
-webUrl: "https://www.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain?page=with:block-5fd902938f08b0a99da9702c"
+originalUrl: "https://www.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain?fbclid=IwAR2N9qHceTB-zUC-jDQz2j6Ozm2XZsUq99F89mDS8jAkQzjuQ-5qzZsdl2g"
+webUrl: "https://www.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain?fbclid=IwAR2N9qHceTB-zUC-jDQz2j6Ozm2XZsUq99F89mDS8jAkQzjuQ-5qzZsdl2g"
 ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain"
 type: article
@@ -94,6 +94,6 @@ related:
         height: 630
         isCached: true
 
-secured: "vzNFtBMNPmPT0d7/jmOrHc4yA6lpYzIa2TDuVmOcm6bMjinL/X4FdXU+O3P7eDCjHXch2WxAEa0OSJiPnmnerhFX2OnHquW+u7gv4qdW1gCQGtTVtWvqmUIB/OKdRuAxfqKnqMCpAtSao1DR8jW8FhnytE9gXTd4LfkZCD0TOt28DpiL+k2I+2Ko20SF+IP6TZ8ASyHHP0QE6SRy1gKj/jchFsvBEA96Bi4/ZX9IkhCeEuhI3gTGlrfBmxjjNNEvAzQp/yO3b7Q8soDj+oplX3Q2UdXNoaWE8dDNwlY4i1tsIPM1vGn6MI7FtoC/nQLhrBswsRd4jv6EI0HJoQI8D+QCvWIqqKa/rw5m2DAaafE=;x24KRhE+coItZRBbppbIJw=="
+secured: "YsRA3s95Lo/eWnGg3JDdLYrlB5lBCKWtfezRhf6iDLE+Yyb9vCeRcWozHaGBIhvVnr9pMBnwfRyjSzG2FZRIuUxJD78t+TuNdqeJ/aSHn9zF6lY3vfHTWx1jT5s46S+SuZEK814RP+nLI/dECsaZrtf/8GD5fOsCvckRb9SpnxdKo4rdn8rW3qs70EJaNbfpjgPs8gDEMvEnc4dzS/46LYqp4Q4U2UMgHpqCYT4PomdrFLJ6m22bp92Q8jPsSHU+Lxi6OLVcRRkWrVBrB87LFMSa92T1b5WWGxloEDy7xKOMEfojKQzCfhYK2WLW/ZLgOabZRPQLCS5QrKel1EqsWeNsK1ZZxxC2xgQ13ER3PO4=;DoWCq9nuwqx2QHBb6KMSmQ=="
 ---
 

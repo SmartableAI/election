@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-sec
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/"
 type: article
 quality: 122
-heat: 162
+heat: 142
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Biden presents new defense chief as son Hunter reveals his taxes are being investigated – as it happened"
-    excerpt: "President-elect introduces Lloyd Austin to lead US defense as news that Hunter Biden’s tax affairs are under review surfaces"
-    publishedDateTime: 2020-12-10T01:11:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd16d6d8f0892e7c1ad2d5c"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 88
 
 secured: "chefqoKvf+918Kc6G4k000vccwqWDtAH6LAdblBlSKjFDg7LuA69aUEWnT4eysyQGBkgpJ0Hoh3Ec6iL+GK4Dl0522vESw6kQU5brkEbyRdsEkjam9fDMLscNJ2ReF2E8v+6dJeqlT5ny+DaCzEMWh4Z/hAyPsZqw5TG+mWD3qcxXrLaoL3HAqTbNYjXErrD0eX+y8gIUbFrj5BCoQIhVwG7H04lAgof8Ers7jfJidTfut+NFgxD+NQahd+C/EUIx2pN+5KztwzOq+8DyzbiDk9adME4v2Rvt4tigAap93yo/pA20Ibz7/5ZtNhgsqIZ6EKjxDkYXIogsvi/cfc+OsHm6fkRFQFWrpl0d7C6Y2ulnd4/KkRfptZ3YFhLEqT6WtZ9KmveP2jK/ssdrPjWflQr/wXEMStrJzQ5afm8xdT3k4fsd2IbXC9pyuY2C8kx9lZ0HnTdxYredIFqLHhIKud3J9Pgm9C1C33OFm+JFqnYpe1R3RXFHws3uAUXUJHJkxtcx4Uz6/nMYKXiDYALhA==;QZyO82zh2IJf7Y0DDXBcFg=="
 ---

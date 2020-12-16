@@ -304,6 +304,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump Organization must turn over documents to NY attorney general, judge rules"
+    excerpt: "A state judge ruled Tuesday that the Trump Organization must turn over documents related to a property whose tax abatements were being investigated by New York Attorney General Letitia James' office."
+    publishedDateTime: 2020-12-15T23:21:00Z
+    webUrl: "https://www.cnn.com/2020/12/15/politics/trump-organization-documents-ny-attorney-general/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/trump-organization-documents-ny-attorney-general/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/trump-organization-documents-ny-attorney-general/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 131
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190118093741-20190118-trump-tower-exterior-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "ULsyM3/yKIEL/x6K+Cb/1Z5iKGnCsJ6XqlDk1T+TnWUxdhAycfNnQCkmNZ8jKH2QoReP9op39tT+8kySfRlFPfsyUsJO6j496irSV5VBnmvSUJzqJc0Y+xBVgABfSG5pQeEe2LRiPP6wJvUWdwGGR5FMbH54r8Vq3AzopurKMlrJlyRbC0tIC0PW93HCmrD5KhcPPd+Or564oOC7X/bO6dEh7FMpPQHd9r71KNbWomPLRb9YrghQ6590AxXhmmSvjnjcqNuR5MP+ut36bTSWBluIOxxFVU3M1xHLXhAQcSRJCk5Hp2ENJOLm6Sv1MJojg4IhBfkuYoNBVv7CIdZkKFCELhKKxj+ZuxyS7xo4PHQ=;Oc6I4DmRIqewQvUGMLnB2w=="
 ---

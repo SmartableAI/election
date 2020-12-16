@@ -288,6 +288,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump Organization must turn over documents to NY attorney general, judge rules"
+    excerpt: "A state judge ruled Tuesday that the Trump Organization must turn over documents related to a property whose tax abatements were being investigated by New York Attorney General Letitia James' office."
+    publishedDateTime: 2020-12-15T23:21:00Z
+    webUrl: "https://www.cnn.com/2020/12/15/politics/trump-organization-documents-ny-attorney-general/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/trump-organization-documents-ny-attorney-general/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/trump-organization-documents-ny-attorney-general/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 131
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190118093741-20190118-trump-tower-exterior-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New Trump administration rules make it easier for lenders to charge small businesses super-high interest rates"
     excerpt: "\"This is my life,\" says Carlos Swepson, owner of a New York bistro with his wife. He's trying to pay off loans with an effective interest rate of 268 percent."
     publishedDateTime: 2020-12-08T10:04:00Z

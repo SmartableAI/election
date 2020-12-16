@@ -923,6 +923,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden makes plea to Georgia voters"
+    excerpt: "Watch \"Joe Biden makes plea to Georgia voters in the Senate runoff races in the state as Republicans acknowledge the president-elect's victory\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2020-12-16T02:20:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201216001400-joe-biden-makes-plea-to-georgia-voters-in-the-senate-runoff-races-in-the-state-as-republicans-acknowledge-the-president-elects-victory/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/16/story_08131867_1608078664.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President-elect Biden names four White House staffers, including directors for legislative affairs and personnel"
     excerpt: "President-elect Joe Biden named four more White House staffers Friday, including directors overseeing legislation and personnel."
     publishedDateTime: 2020-11-20T16:07:00Z

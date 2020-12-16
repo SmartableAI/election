@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/california-senate-swee
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/california-senate-sweepstakes-kamala-harris-job-74168361"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 67
     images:
       - url: "https://media.nbcnewyork.com/2020/11/Maya-Rudolph-VP-elect-SNL.jpg?crop=296px%2C38px%2C2599px%2C1462px&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Who Will Replace Kamala Harris in the Senate? California Governor Weighs a Shortlist of Firsts"
+    excerpt: "San Francisco Mayor Gavin Newsom ordered the county to issue same-sex marriage licenses in 2004. A young gay man in his 20s at the time, Garcia called it a “light switch” that ignited his passion for public service."
+    publishedDateTime: 2020-12-13T23:38:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts/2778025/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 63
+    images:
+      - url: "https://media.nbcnewyork.com/2020/08/Robert-Garcia-Joe-Biden-DNC.jpg?resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true
