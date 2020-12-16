@@ -3,18 +3,18 @@ category: news
 title: "Mitch McConnell congratulates Joe Biden, Kamala Harris for election win"
 excerpt: "The Electoral College has spoken,” McConnell said during a speech on the Senate floor in which he also praised President Donald Trump's accomplishments. McConnell said he wanted to “congratulate President-elect Joe Biden” and Vice President-elect Kamala Harris."
 publishedDateTime: 2020-12-15T00:00:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/12/15/mitch-mcconnell-congratulates-joe-biden-kamala-harris-election/3903325001/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/12/15/mitch-mcconnell-congratulates-joe-biden-kamala-harris-election/3903325001/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/3903325001"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3903325001"
+originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/12/15/mitch-mcconnell-congratulates-joe-biden-kamala-harris-election/3903325001/"
+webUrl: "https://www.indystar.com/story/news/politics/elections/2020/12/15/mitch-mcconnell-congratulates-joe-biden-kamala-harris-election/3903325001/"
+ampWebUrl: "https://amp.indystar.com/amp/3903325001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3903325001"
 type: article
 quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -659,6 +659,22 @@ related:
       - url: "https://s.abcnews.com/images/International/biden-fauci-rt-jt-201208_1607457879671_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Fact check: Biden did not post picture of his dogs playing with a Trump chew toy"
+    excerpt: "December 2020, social media accounts began highlighting the alleged hypocrisy of Biden’s calls for national unity and healing by claiming he shared pictures of his dogs fighting over a chew toy in the likeness of President Donald Trump."
+    publishedDateTime: 2020-12-16T19:04:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-dogs-trump-toy/fact-check-biden-did-not-post-picture-of-his-dogs-playing-with-a-trump-chew-toy-idUSKBN28Q2PQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q2PQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q2PQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544792637&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF1GV"
+        width: 818
+        height: 545
         isCached: true
   - title: "Prison Fellowship’s Statement on Joe Biden-Kamala Harris Election Victory"
     excerpt: "Prison Fellowship’s Leadership Urges New Administration to Advance Policies Helping Men and Women Imp"
@@ -2050,6 +2066,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "r0bBwJe9XplktLkMnsthszZ9fmtyCFwOxdm7bS+dChN1uSU0AjmAy4ZdzqG+Ae6wLLryoZ/4rHI4tvJ4WTrz7XqyZXwTAwnUQS/S5lGhkzZgXdIprcRrtAMkAwMT1Xysk2DgqQj2AIejxUsba/2kTGKFP9OsCr1oehI3MTczkLMxE2gZNAcs6W8KSdUjEFDLuKY0fpnWRbA0k9plMnHwjoeFfCvywGJw5nknnBuqdU196yDitMOSqqwqW0XJBRX2VjuSJZlpA/Ut+f9RVjcCKwiBRCuq7fy7x1Is3nXWbYkzri7cSupmBaASpDkXW7ulcslXta8bZazgPdUzjpYESaML7MfDjZSLtvHsp4zrvzE=;crgf49vm8uWTbikmDmc75g=="
+secured: "BpL8AMkL8aPYoTKCst86qwr+N9MiaHoQ51n7IYmZecb/C4jxlKMfxa6xgP2+Lfy6e3vOWPxLKUIVuaTdqPMrHKsBlOmW06zg2qi5QA68wIzSBwbSfSDzN1JRje5ntwaw+gBRwL7T/HLrbxJaYBB631mYVsRNXYFk1G+Ymn/DOU9p6WsEthdxzqQTva5+ZpZpwa6k2jRfnacCFA2HW4Pkfj89X/aqk/LYs01v2NEbetBNVcXB9f57J0bIN+fr92ib4TdIvgSsMUl3WBdkwclrurVnsYJRXwyCaz7mR/TjY3kcerysOwCy4Je2yUUTSqyL6c3JCRrnalKQCzegbKyYiKpl/1t9M+AAcZxtVbD+aqI=;aELS/MITDfmxpfDgBqBWNQ=="
 ---
 

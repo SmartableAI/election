@@ -44,6 +44,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Georgia secretary of state orders study of mail-in ballot signatures after Trump pressure "
+    excerpt: "Georgia Secretary of State Brad Raffensperger said Wednesday that there will be a statewide signature match study after pressure from President Trump and his supporters."
+    publishedDateTime: 2020-12-16T19:42:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y7ZgpxwDPCE/georgia-secretary-of-state-mail-in-ballot-signatures-trump-study"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-secretary-of-state-mail-in-ballot-signatures-trump-study.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-secretary-of-state-mail-in-ballot-signatures-trump-study.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20349715127433.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "lHSQTvyY34rMWmexaEXP20XeAfKCEQPNVuQxZgubPF+ShQgpzVpiz2XUmcpkYIRUCCSx2x8MYfuQj+RvYwxHajnVZd+r7RsCBvnMu2NM9tcVEZMfpXPDBCuKW1aZ48V0/OTZD3c9LewjJ9Hvh2I4uVZ7DpnrCAkvkMpm1VEHAP+3/ff4oq7FJA+CgFWflS9gDU2w/o0oj/9yXdocTMoBHITulcrcugJ4oOVH3ueSrksAt5M+KF4FiYLltbqqEb2aAYAa/QOtH5lD6B2tTom+AylVUwiXb3eRZUY6pYO7SkD/itS5NP5bGobrklpop0Y6QFwNtkKAC1KegMEA3SrWnTm/CFfwGQRwo5wliotGGe4=;fAC2nChhHJ3xhqVMggnWLA=="
 ---

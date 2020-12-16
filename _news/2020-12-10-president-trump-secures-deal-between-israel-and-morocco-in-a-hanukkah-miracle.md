@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump campaign poll asks if he should run for president in 2024"
+    excerpt: "In a Tuesday email, President Trump's campaign wrote to supporters asking if he should run for office again in 2024. "
+    publishedDateTime: 2020-12-16T19:51:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9PVt6EjZJZc/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20348035939365.jpg"
+        width: 3990
+        height: 2660
+        isCached: true
   - title: "Trump lost the 2020 election, but he proved America can win again"
     excerpt: "Whatever happened in the 2020 election, the first draft of history should be clear: President Donald Trump proved that American decline can be resisted and reversed. He showed that our nation can"
     publishedDateTime: 2020-12-05T15:21:00Z
@@ -142,6 +158,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee331ede-b231-4332-804e-fcd02265cb3e/2bdcb55b-ac61-46c8-ab1b-d2c239278a91/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump campaign poll asks if he should run for president in 2024"
+    excerpt: "In a Tuesday email, President Trump's campaign wrote to supporters asking if he should run for office again in 2024."
+    publishedDateTime: 2020-12-16T20:02:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20348035939365.jpg"
+        width: 3990
+        height: 2660
         isCached: true
   - title: "Trump to award wrestling legend Dan Gable the Presidential Medal of Freedom"
     excerpt: "President Trump will award Olympic gold medalist and college wrestling legend Dan Gable the Presidential Medal of Freedom on Monday."

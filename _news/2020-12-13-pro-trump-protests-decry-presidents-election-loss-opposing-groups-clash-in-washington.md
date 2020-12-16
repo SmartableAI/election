@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28M0E5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0E5"
 type: article
 quality: 132
-heat: 692
+heat: 712
 published: true
 
 provider:
@@ -442,6 +442,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-12-12/trump-loyalists-converging-again-on-washington-over-election"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-12/trump-loyalists-converging-again-on-washington-over-election?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-12/trump-loyalists-converging-again-on-washington-over-election?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Biggest Vets Groups Step up Pressure on Trump to Fire Wilkie"
+    excerpt: "The nation’s six largest veterans groups are calling on President Donald Trump to immediately fire Veterans Affairs Secretary Robert Wilkie over the mishandling of a congressional aide’s allegation of a sexual assault at a VA hospital."
+    publishedDateTime: 2020-12-16T19:31:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

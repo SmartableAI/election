@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-16-its-turned-crazy-inside-the-scramble-for-trump-pardons.md",
+      "title": "'It's turned crazy': Inside the scramble for Trump pardons",
+      "excerpt": "President Donald Trump may not be willing to accept his term is ending, but as the clock ticks down on his time in office, hundreds of his allies -- including some of his closest business associates and many high-profile criminals -- are ramping up their efforts to squeeze out the final ounces of his",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ndOK92FyRNA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ndOK92FyRNA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201214233417-trump-intento-biden-conclu-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/16/politics/donald-trump-pardons-lame-duck/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/donald-trump-pardons-lame-duck/index.html",
+      "publishedDateTime": "2020-12-16T11:55:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-biden-gets-buttigieg-husbands-name-wrong-calls-him-kristen.md",
+      "title": "Biden gets Buttigieg husband's name wrong, calls him 'Kristen'",
+      "excerpt": "President-elect Joe Biden during a speech on Wednesday accidentally referred to the husband of former South Bend Mayor Pete Buttigieg by the wrong name.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2OIDjKMU9FY/biden-calls-buttigieg-husbands-name-wrong-calls-him-kristen",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2OIDjKMU9FY/biden-calls-buttigieg-husbands-name-wrong-calls-him-kristen",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d48a1508-5938-48ec-8d61-d3278e41c1b8/39a23cf2-debb-4dd9-84fa-2a19f837f39e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-buttigieg-husbands-name-wrong-calls-him-kristen.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-buttigieg-husbands-name-wrong-calls-him-kristen.amp",
+      "publishedDateTime": "2020-12-16T11:19:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-north-carolina-gop-lawmaker-urges-trump-to-suspend-civil-liberties-to-keep-power-invoke-the-insurrection-act.md",
       "title": "North Carolina GOP lawmaker urges Trump to suspend civil liberties to keep power: ‘Invoke the Insurrection Act’",
       "excerpt": "Republican North Carolina state Sen. Bob Steinburg said President Trump should declare a national emergency, suspend civil rights, and remain in power over his baseless claims of electoral fraud.",
@@ -66,7 +178,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -521,25 +633,25 @@
       ]
     },
     {
-      "path": "_news/2020-12-16-biden-aide-calls-gop-a-bunch-of-fu-while-praising-his-call-for-unity.md",
-      "title": "Biden aide calls GOP 'a bunch of fu-----' while praising his call for unity",
-      "excerpt": "President-elect Joe Biden’s deputy chief of staff, Jen O'Malley Dillon, called Republicans \"a bunch of f---ers\" while praising Biden's call for unity in an interview with Glamour magazine.",
+      "path": "_news/2020-12-16-macklem-bidens-arrival-could-eliminate-canadas-competitive-edge-on-immigration.md",
+      "title": "Macklem: Biden's arrival could eliminate Canada's competitive edge on immigration",
+      "excerpt": "The Trudeau government has talked up the importance of attracting top global talent as part of its pursuit of stronger economic growth.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NWCMMFXy3Mo/biden-deputy-chief-gop-bunch-of-f-ers",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NWCMMFXy3Mo/biden-deputy-chief-gop-bunch-of-f-ers",
+      "webUrl": "https://www.politico.com/news/2020/12/16/biden-canada-immigration-445784",
+      "originalUrl": "https://www.politico.com/news/2020/12/16/biden-canada-immigration-445784",
       "featuredContent": null,
       "highlight": {
-        "text": "Republican Voice",
+        "text": "Democratic Voice",
         "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
+        "backgroundColor": "#0015BC"
       },
-      "heat": 173,
+      "heat": 110,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/720c3b05-0120-4bac-9997-05b32886b143/b7f1c478-7057-4cc1-b544-e432868cb4b4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://static.politico.com/5c/35/04980ac8420aac0a80f72f5c5e79/201209-krotoszynski-biden-ap.jpg",
+          "width": 1160,
+          "height": 773,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -547,16 +659,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-deputy-chief-gop-bunch-of-f-ers.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-deputy-chief-gop-bunch-of-f-ers.amp",
-      "publishedDateTime": "2020-12-16T07:00:50-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T07:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
+        "name": "Politico",
+        "domain": "politico.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -573,7 +685,8 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
+        "Joe Biden",
+        "Democratic Voice"
       ]
     },
     {
@@ -753,7 +866,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 951,
+      "heat": 991,
       "tags": null,
       "images": [
         {
@@ -1220,105 +1333,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-pence-lauds-vaccine-effort-during-stop-at-indiana-plant.md",
-      "title": "Pence lauds vaccine effort during stop at Indiana plant",
-      "excerpt": "Vice President Mike Pence said Tuesday that he's looking forward to getting vaccinated for COVID-19 and that he expects to receive his first dose in the next",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/072d19ccb696f25ff18715b831f072a5",
-      "originalUrl": "https://apnews.com/072d19ccb696f25ff18715b831f072a5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/f754d3185f964607a8735a917ca88426/3000.jpeg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T16:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-biden-poised-to-nominate-granholm-to-lead-department-of-energy.md",
-      "title": "Biden poised to nominate Granholm to lead Department of Energy",
-      "excerpt": "President-elect Joe Biden is poised to tap former Michigan Gov. Jennifer Granholm to lead the Department of Energy, two people familiar with the matter say, inviting a longtime adviser who played a critical role in his debate preparations over the years to join his Cabinet.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7Fe7bPzbPRU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7Fe7bPzbPRU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/160728203436-jennifer-granholm-0728-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/15/politics/jennifer-granholm-biden-energy-secretary/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/jennifer-granholm-biden-energy-secretary/index.html",
-      "publishedDateTime": "2020-12-15T15:33:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

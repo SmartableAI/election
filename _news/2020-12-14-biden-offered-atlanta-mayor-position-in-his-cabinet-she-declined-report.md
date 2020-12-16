@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden pushes back against critics, touts 'Cabinet of firsts'"
+    excerpt: "After weeks of pressure from all sides of the Democratic Party’s vast coalition over the makeup of his incoming administration, President-elect Joe Biden on Wednesday pushed back against his critics as he made another history-making Cabinet nomination."
+    publishedDateTime: 2020-12-16T19:26:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-responds-critics-cabinet-picks"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-responds-critics-cabinet-picks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-responds-critics-cabinet-picks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/8d0ac08f-AP20351645750460-e1608142820899.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "mp+TNv8nhcffCZrA7D7gLLsFgwEEuQFhTJrOzqR7JQhjHie3md/x4BZlFsJYIwQDCnGYsKcenUxXU3IuVS4PCTjPB/yTqMM+4JyhzjtiMhZm0PiR/DMMydZFxc2PL93VvRUaov+SxoqLcsdxeACpEysO3RDpXyeY2hgLqqlVK/EzYwhIJTDh58k+N+8oBPNjERJEFWxp3/xjOUzYVAZ5yycvRkIG+CDgh7kThq8YDXZ6iSK+KXeFgXt1FGiSxP9AS+GTsenB8ZytFKUTH9W18p7GSJvulAsdAy67ETUISpxY2mWOeXg6QXwPGtZrUj2SXv6oErZIAGxYqdaNUAf5jtHhnXCVe6H0sOPZdNEDaSo=;OSYp5rHNaGyLRqLm2bZMsg=="
 ---

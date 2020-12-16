@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump won't be getting vaccine until it's recommended by medical team"
+    excerpt: "President Donald Trump won't be administered a coronavirus vaccine until it's recommended by the White House medical team, a White House official told CNN on Wednesday.\n    \n"
+    publishedDateTime: 2020-12-16T20:26:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Bcq6PS-P3PI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/donald-trump-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/donald-trump-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209094335-05-trump-operation-warp-speed-1208-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump signs executive order prioritizing Covid vaccine for Americans"
     excerpt: "President Trump signs an executive order that prioritizes Americans' access to the Covid-19 vaccines before the U.S. potentially begins helping the country."
     publishedDateTime: 2020-12-08T22:16:00Z

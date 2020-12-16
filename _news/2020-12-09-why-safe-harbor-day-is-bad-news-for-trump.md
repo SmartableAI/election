@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97357381564"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97357381564"
 type: article
 quality: 135
-heat: -1
-published: false
+heat: 135
+published: true
 
 provider:
   name: NBC News
@@ -30,24 +30,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "What’s Next for Trump Voters Who Believe the Election Was Stolen?"
-    excerpt: "Some are certain the election was fraudulent. Others aren’t so sure. What becomes of their skepticism has important implications for American democracy."
-    publishedDateTime: 2020-12-14T10:00:00Z
-    webUrl: "https://www.nytimes.com/2020/12/14/us/trump-voters-stolen-election.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/14/us/trump-voters-stolen-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/14/us/trump-voters-stolen-election.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/13/us/TRUMPVOTERS-1/TRUMPVOTERS-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "QzRPH/yJgOj5FT5gk31wqeMWtfoRnITxEa6S8fbwFVWeqyhQl3S0GLyrYCmSCo54rVH5tArx5YSJKUrvRLHb+v7pnaXfbE24x342TO5V+ctUqKdt0ZYl5oaoEwnVDSeEPd5eRILJavyoqcecRXFaU1MUYNpScQDTaBvsL3hIltLveJ8sj64bHTZE05hP1mpzIlHNvBEr0/aYWA6LrAQR4ng9Gq/97BTMdTXL8Vwc7UkMlidH7bqULyrEDBH0suYNZrNTRZ9rgMmXVl7n30KeRepdHDlO6xhBmgrA7uPowCgn/rtloUH7nS0ypu5pUAss4tnYGMsL+YioLWUfNJt8f4w07N2yA5GqTN57kcrNxF4=;5M4blY69vepYurXhwA4djg=="
 ---

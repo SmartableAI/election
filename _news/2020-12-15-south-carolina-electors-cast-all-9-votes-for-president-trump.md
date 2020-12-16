@@ -455,6 +455,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Biggest Vets Groups Step up Pressure on Trump to Fire Wilkie"
+    excerpt: "The nation’s six largest veterans groups are calling on President Donald Trump to immediately fire Veterans Affairs Secretary Robert Wilkie over the mishandling of a congressional aide’s allegation of a sexual assault at a VA hospital."
+    publishedDateTime: 2020-12-16T19:31:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "j5+4DgLm4L8OZxdC3TXfeqjSZB3UxAhg2jb3G8sIH9g/WQT6zT1TgkG++yMzfFajn2lpC/aYfiImSfO8+q+5njw/532qf5EkbyI0ANlwn+/aprD4/EghkTz6AZWfWcJxaHXz1Q1xB9Qxs7TzkD8boFIYYsDJWR9DciTLA2XLDQVpSIlJ29j+sBivTk0jajaXEp1drYaiOlIEwtxJjy7LAYbyxBW+A5o2VYRAunEMS6znxAw/54gJqj+njTfNSOKVoSdeRk5emzi4JxWBJ9Qf8C6bVAKYv/P9g4sreOEY1vrnmlQZto+Bp7BKXjv3YAfl7+NJQYnm7XttYJdEDQqAf17RZObUosOrk0X28293T1o=;39gttb5Uulcm2HBDBp01oQ=="
 ---

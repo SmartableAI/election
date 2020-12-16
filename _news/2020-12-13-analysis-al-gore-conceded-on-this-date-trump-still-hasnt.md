@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking Trump's claims of voting machine errors in Michigan"
+    excerpt: "The Electoral College officially confirmed President-elect Joe Biden's win Monday, yet President Donald Trump has continued to insist the results are fraudulent.\n    \n"
+    publishedDateTime: 2020-12-16T20:09:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKtWXdI5KD4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/antrim-county-michigan-error-trump-tweets-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/antrim-county-michigan-error-trump-tweets-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014133801-01-voting-machines-1014-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "7/pMuIxWuyHCh19/stEkKdxd7Tml1D0JPKQA3mphiJ48N7e+L7ZHBbnFsaPZIOR0yCmzKCOlXn4NHhI7nde9G8+edfPcMNLlPaFGkLnDlottXLMTA5NY6AwmNt8Y50sMRCw6m9vFIFdCHaMnf1YGetiXImkVAGWW8gc+aQAtb2ghzJuJ5cbQ7f4Eeoi05/i++Mb971j/+GyQyWY0HG00vDHycJ7E+/5zWktZ34w0NTYq8gCThwRLuW7q2EqCn/GlK1LoBZ9QOSIuSTcOEYzEq+TbrDgDA6AJFmQ96ZVVH7mvDmwE/0qZqsHPwOD5Cj18oI6fyzMaNieOJ+Q2LtzlojCKRvs/84aJy6KM0d24zs0=;JnWKtkJ10h0hSnH/+dG20Q=="
 ---

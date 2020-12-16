@@ -658,6 +658,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Fact check: Biden did not post picture of his dogs playing with a Trump chew toy"
+    excerpt: "December 2020, social media accounts began highlighting the alleged hypocrisy of Biden’s calls for national unity and healing by claiming he shared pictures of his dogs fighting over a chew toy in the likeness of President Donald Trump."
+    publishedDateTime: 2020-12-16T19:04:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-dogs-trump-toy/fact-check-biden-did-not-post-picture-of-his-dogs-playing-with-a-trump-chew-toy-idUSKBN28Q2PQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q2PQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q2PQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544792637&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF1GV"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Prison Fellowship’s Statement on Joe Biden-Kamala Harris Election Victory"
     excerpt: "Prison Fellowship’s Leadership Urges New Administration to Advance Policies Helping Men and Women Imp"
     publishedDateTime: 2020-11-17T14:00:00Z
@@ -1362,13 +1378,13 @@ related:
   - title: "Mitch McConnell congratulates Joe Biden, Kamala Harris for election win"
     excerpt: "The Electoral College has spoken,” McConnell said during a speech on the Senate floor in which he also praised President Donald Trump's accomplishments. McConnell said he wanted to “congratulate President-elect Joe Biden” and Vice President-elect Kamala Harris."
     publishedDateTime: 2020-12-15T00:00:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/12/15/mitch-mcconnell-congratulates-joe-biden-kamala-harris-election/3903325001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/3903325001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3903325001"
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/12/15/mitch-mcconnell-congratulates-joe-biden-kamala-harris-election/3903325001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3903325001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3903325001"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/08/28/USAT/64162e8d-b664-4755-b472-a4d5aae214eb-AP_Kentucky_McConnell_1.jpg?auto=webp&crop=5414,3046,x0,y275&format=pjpg&width=1200"

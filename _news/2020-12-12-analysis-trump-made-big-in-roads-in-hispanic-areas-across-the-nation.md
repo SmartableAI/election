@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/trump-hispanic-vote/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/trump-hispanic-vote/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109123506-03-concession-speech-gore-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact-checking Trump's claims of voting machine errors in Michigan"
+    excerpt: "The Electoral College officially confirmed President-elect Joe Biden's win Monday, yet President Donald Trump has continued to insist the results are fraudulent.\n    \n"
+    publishedDateTime: 2020-12-16T20:09:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKtWXdI5KD4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/antrim-county-michigan-error-trump-tweets-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/antrim-county-michigan-error-trump-tweets-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014133801-01-voting-machines-1014-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
