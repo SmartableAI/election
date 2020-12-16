@@ -1199,6 +1199,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Fact check: CNN did not report that Trump would likely get a second term in office weeks after declaring Biden President-elect"
+    excerpt: "Days before the Electoral College voted for president and vice president of the United States, social media users had been sharing posts claiming CNN reported that outgoing President Donald Trump “will likely get his second term."
+    publishedDateTime: 2020-12-16T15:46:00Z
+    webUrl: "https://www.reuters.com/article/uk-fact-check-cnn-did-not-report-trump-w-idUSKBN28Q23S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q23S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q23S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 112
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544768094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF14U"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Fauci says vaccinate Biden, Harris, Trump, Pence"
     excerpt: "Dr. Anthony S. Fauci said it was his “strong recommendation” that President-elect Joseph R. Biden Jr. and Vice President-elect Kamala Harris receive a COVID-19 vaccine quickly."
     publishedDateTime: 2020-12-15T23:12:00Z
@@ -2006,6 +2022,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "HbmWtEJcn9BrFAvsWd3zvS2Ou34pAqhwjOyuI2pqFmUMI688RzaiDd4Oqquo3jwUBDvjCIGtYnxy/cAstTmz4obetv6V16SQDHVaXLHWiWk7c4/PNH851yfGBH4I4VMD83rSs2O9VOJ9tUNnV62QjJDhL139Fpa4g3nmYa025xVXvPKn+/Mo/Psgrd2MAjBh65FHKhc/Wu/E/QF2rN9xi0cIdR0KXHvb8qcp6VBumd5HYHL1bGivgjZwpw5UDUcPRi4QLh8s3NkgwEVAozY2FqTJrikWL2ffoVc6hZxkrL/GnfIV5QS4zpYbCxlWdWrAw6BSSZC5oVyXwQZqLMnjnLkYhx+kVZUppoG3fgw7VT8=;Jxp92JKK1G5/ClabpytkmQ=="
+secured: "hkkjIjeCrGAfezbp1QCInLNID2TfFqyK/ZJDR75d/Rs/JEVgdkL10w0js/rk/8yA9hvC/GfLooG2LJcWXiOUkgHnlGWP7hYKcsKYEFPcOz8qutDhCtaKIBgntjqkcF8F5vaTdcuFPVgOoimS79OvfRo59X3kE1h4r5amNV0bZI1kuFcGdAKKq0fFeul6aIGeHHefUR3zntsozI0htuhIZk4wGoUKETfQHFPVyzIwkpK/ESniqTIz/LqfVIdCkdGAkqfb0Rl1TlBrgMoVmG3r/ZdpswlFT1YfL2dSzWixE5HXemDJbwzbpc1xcYs7BbJSMyAz6VgVMkv2RxRETK0kFa9bv/jG0bslP4nCCBiBy+s1EQ6NCh022EiuqQHYsn/Ckp60hnRvL6KCdIxijGXKUDV1HojvLQMfGUTUuntkoO+WbwxQ+fhhh4ckVwm38uFiVINCgJrfe/cAIx9UqrFKphSDnW4cebqx812Of55KDK2gpdXr7QT9Ec5Y/K7/A8i9Q0ByovwSmXNzFGLRKQcgUA==;vnEcgXeLPtGjvvpGKaGK4g=="
 ---
 

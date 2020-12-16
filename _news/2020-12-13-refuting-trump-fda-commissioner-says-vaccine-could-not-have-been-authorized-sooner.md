@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "How far did Ron DeSantis’s loyalty to Trump go?"
+    excerpt: "When Ron DeSantis ran for governor of Florida in 2018, he made a politically savvy decision: He would be the most pro-President-Trump candidate possible. He popped up on Fox News repeatedly, understanding that it would be an effective way to get Trump’s attention."
+    publishedDateTime: 2020-12-16T16:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/16/how-far-did-ron-desantiss-loyalty-trump-go/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/16/how-far-did-ron-desantiss-loyalty-trump-go/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/16/how-far-did-ron-desantiss-loyalty-trump-go/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JLU34TR7FEI6XNMLCYR7MJTZMA.jpg&w=1440"
+        width: 1440
+        height: 1011
+        isCached: true
 
 secured: "1oSiRMRkPzpkS12ctBRyOpUf71bW8sCjRSn31kco32BGyWUweNUHQhyTp05KddvdTFvkZaugDeQ35HQCsRNP1ud151RyzKSkV4wL4LzsRFZboCJwAyNTNJgDniOgS1yBr8uBM34T4cjcEpO+Jt+Td/gW5i9HahAAwqT90ghr+Kn4//jp/cHasg490MzM6ZxY58AuVa8Squ2uMRIpIg+Oq7yOr0dINMTQczrpOkULNMb9Uy0+4OcPOFwxzdnEVGOcy1RgB5LPPH6tcRT5yVMGScpZTfOMMlGkfvOVhWwUwZAvPWYL7EtS+Bh1LuYD+RFAkwokgbgRiETeg9aSNxiNBW2fCDt72OTqIPKiD9mdc060Z7PQV3sYpJ6VBcStiqlm9V6fuMBU5gw1Ee5BxP1ExFC3l0P8O+vE/w3Oi0g8j+Q7ihms6ug8OhO3PCmUDhFoRER4JF7mVo4Rw8jMsgyJ8eYyYBg4XWeRrxMxzj176XdpuqBHcz/3aS/oUT7nS7sMND/GvxmjvJbLHb9a2BH9Nw==;7kk4sXdIlw8Jyip/Ojh5mw=="
 ---

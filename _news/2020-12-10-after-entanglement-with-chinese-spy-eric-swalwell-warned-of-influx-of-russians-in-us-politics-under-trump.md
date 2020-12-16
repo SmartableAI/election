@@ -48,22 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Flynn: Feds should have been looking into Swalwell instead of him and Trump"
-    excerpt: "Former National Security Adviser Michael Flynn told Fox News' \"Sunday Morning Futures\" that counterintelligence officials should not have been devoting time and resources into investigating him and President Trump's campaign – instead they should have been looking at Rep. Eric Swalwell, D-Calif."
-    publishedDateTime: 2020-12-13T17:47:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pc6KFp6cyIM/flynn-feds-swalwell-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/flynn-feds-swalwell-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flynn-feds-swalwell-investigation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c143550-2ee3-4970-ba38-ad45c77eda6c/71ba4c7f-e650-476e-abab-f4a64cdfb91e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Swalwell rips Trump campaign adviser Jason Miller over child support amid China controversy"
     excerpt: "Rep. Eric Swalwell, D-Calif., ripped Trump campaign adviser Jason Miller after he tweeted an article about Swalwell and an alleged Chinese spy. "
     publishedDateTime: 2020-12-11T20:12:22Z

@@ -32,37 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Pompeo applauds Barr's loyalty to Trump following AG's resignation"
-    excerpt: "Secretary of State Mike Pompeo praised Attorney General William Barr and lauded his loyalty to President Trump just a day after Barr resigned from his post. "
-    publishedDateTime: 2020-12-16T00:34:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hj3tsXQjoVU/mike-pompeo-william-barr-resignation-trump-loyalty"
-    ampWebUrl: "https://www.foxnews.com/politics/mike-pompeo-william-barr-resignation-trump-loyalty.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-william-barr-resignation-trump-loyalty.amp"
+  - title: "Trump Won New York’s Suffolk County. Why That Signals Hope for Democrats."
+    excerpt: "A razor-thin GOP margin in the most populous county carried by President Trump gives Democrats hope that an urban electoral coalition is putting down deeper roots."
+    publishedDateTime: 2020-12-08T19:51:00Z
+    webUrl: "https://www.wsj.com/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109"
+    ampWebUrl: "https://www.wsj.com/amp/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 134
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a861ef0-3d82-42aa-9033-ade01358a10c/f1e888a1-a635-407b-94bb-f9ebfb0558ba/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-267145/social"
         width: 1280
-        height: 720
-        isCached: true
-  - title: "Senate confirmation of Barrett replacement adds to Trump's record on judges"
-    excerpt: "President Trump continued to add to his tally of successful judicial appointments Tuesday with the confirmation of Thomas Kirsch II as a judge on the 7th Circuit Court of Appeals."
-    publishedDateTime: 2020-12-16T14:02:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-vc9xsYkE0w/senate-confirms-barrett-replacement-trump-record-on-judges"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-confirms-barrett-replacement-trump-record-on-judges.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-confirms-barrett-replacement-trump-record-on-judges.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/GettyImages-Thomas-Kirsch-II.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+        height: 640
         isCached: true
 
 secured: "PrazSR55fKb6RwM85YVABQtrv1Q0wPkyjY9IwpQp2L388iH3CL/W7w6vIFt8hFPuXDJvroNJR0R64O5+AIqGlC42wXV8m/VsYmhmHoG4Ds9zZXQyohC0F/Sphp/SUfA+QuKzdYfNrSxtOgDNoXdWpN48ACY9r2yqDK46qGhXjilCMtWFDwkEnH9EiEHN7K7c9jUSi8AFf2VNneNnayD0L0tz3g/NLP1O2Q2TYtFdYG/1V2wap5TZkTJ9hAjIoLcbA5acVyDsoxNfJBKVoztPSu3bzI0mSpXqNlxpPUhHRVDhIgJMJVUeacPhzNZcUjOha3dRByoCUEJIuG7XRgHQ4aO/UEka0A1cOgxbvg3SjAc=;5A/BLEasupUex+vy9E2itg=="

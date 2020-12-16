@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/scalise-noncommittal-accepting-bide
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out.amp"
 type: article
 quality: 175
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Biden’s message to nation: ‘It’s time to turn the page’"
-    excerpt: "President-elect Joe Biden will say that “the integrity” of the nation’s elections remains intact in an address he’ll give Monday evening, immediately after electors in all 50 states and the District of Columbia cast ballots, formalizing Biden’s victory of President Trump in last month’s presidential"
-    publishedDateTime: 2020-12-14T21:42:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KrcBo319WYo/bidens-message-to-nation-its-time-to-turn-the-page"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-message-to-nation-its-time-to-turn-the-page.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-message-to-nation-its-time-to-turn-the-page.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "ze1xIUwCliMgzRbOAg46Ngt1cCwmOhLwXJV7cYwnU0S00O1bzZIOi+oiXOd5VErIJsT4Ok6hhB2msaqZfbG2Q67otEMBuSwuB6gDyFYi3EuHS99FArvHc+/XaVVu4gbzTLzx6oYQOr/kADrWVSuFgX75GXH9bXhvEVPZI2OAwvhMrZPiGHdW20cK57brTTbrIbnS9s8FXW35Ou0FNObKqA6PIpfrB1grUsBDOkTqznH3D1gcWLO2UV3b9Kf6ZBahUR7nNBqEGqzOHlJeCdxm5XNYcAuE3Hx7fXDk8KQs0Rmp+zLvdQLPrX1ObvsEIqBveCr+pNREnPmuCrqRgaS/Huk2l/wUudxN3oGG1runusQ=;ji1y61kHaVRx/8kgLoU9vw=="
 ---

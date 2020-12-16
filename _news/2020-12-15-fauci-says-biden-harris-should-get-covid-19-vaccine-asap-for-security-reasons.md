@@ -64,22 +64,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Biden inauguration planners urge supporters to skip event due to COVID-19"
-    excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the Jan. 20 festivities will be heavily pared down and urged supporters to prevent the spread of the coronavirus by not coming to the event. "
-    publishedDateTime: 2020-12-16T05:14:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_qh4HN1ntBg/live-updates-biden-12-16-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-12-16-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-16-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/720c3b05-0120-4bac-9997-05b32886b143/b7f1c478-7057-4cc1-b544-e432868cb4b4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "McConnell congratulates Joe Biden, Kamala Harris on election win from Senate"
     excerpt: "Senate Majority Leader Mitch McConnell on Tuesday congratulated President-elect Joe Biden on his victory following the Electoral College’s vote on Monday. “The Electoral College has"
     publishedDateTime: 2020-12-15T15:52:00Z
@@ -109,6 +93,22 @@ related:
     quality: 133
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c3bd447-8a3b-48ca-855f-1905ec761300/f9d04390-711f-4fdc-ae12-5d8d954e431c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Biden inauguration planners urge supporters to skip event due to COVID-19"
+    excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the Jan. 20 festivities will be heavily pared down and urged supporters to prevent the spread of the coronavirus by not coming to the event."
+    publishedDateTime: 2020-12-16T05:27:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-12-16-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-12-16-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-16-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/720c3b05-0120-4bac-9997-05b32886b143/b7f1c478-7057-4cc1-b544-e432868cb4b4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -303,6 +303,20 @@ related:
         width: 881
         height: 545
         isCached: true
+  - title: "Chris Ruddy: Newsmax calls the election for Joe Biden"
+    excerpt: "Chris Ruddy, the CEO of Newsmax Media, has defended his US channel's post election coverage when President Donald Trump challenged the result. He told Hardtalk's Stephen Sackur: \"There is a media-spin that somehow we are trying to deny the election or as you say out-Trump,"
+    publishedDateTime: 2020-12-16T16:11:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55334234"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 120
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p091mmz2.jpg"
+        width: 400
+        height: 224
+        isCached: true
   - title: "GOP Sen. Cotton: Biden Will Fire Prosecutors Investigating Son 'If' He Becomes President"
     excerpt: "\"Should Joe Biden become president, all of the prosecutors investigating Hunter Biden will be fired. There's a clear conflict of interest here– one that demands a special counsel,\" the Arkansas senator tweeted Thursday."
     publishedDateTime: 2020-12-10T20:35:00Z

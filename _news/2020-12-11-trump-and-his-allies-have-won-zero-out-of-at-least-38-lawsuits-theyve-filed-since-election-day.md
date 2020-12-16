@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-campaign-lawsuits-election-res
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11?amp"
 type: article
 quality: 128
-heat: 508
+heat: 528
 published: true
 
 provider:
@@ -331,6 +331,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Idaho’s 4 electors cast votes for Trump and Pence"
+    excerpt: "All four of Idaho’s Republican electors have cast their ballots for President Donald Trump and Vice President Mike Pence."
+    publishedDateTime: 2020-12-16T14:43:00Z
+    webUrl: "https://www.theolympian.com/news/politics-government/national-politics/article247837130.html"
+    ampWebUrl: "https://amp.theolympian.com/news/politics-government/national-politics/article247837130.html"
+    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/news/politics-government/national-politics/article247837130.html"
+    type: article
+    provider:
+      name: The Olympian
+      domain: theolympian.com
+    quality: 70
 
 secured: "W5wRhbzqsK5VYvGKpEHwaGNqF7A9RnWiNYhYdt52Mi1uqG2eg6pAmsHFZceIhgvBYIrnfGo+TJ+ha2c+5GvzrKTftMZBPSRgM/5ME4TgC22Au/XuC8V/es4zqQC0DQ7c+a02NmiQTVKbDpUObNIcQNnCj/In7QKe6ukVhDeap74yzOWG0ZR/KSWS/9ThxemWP9jbQZlRjz09uDODvdl8WtAt+ST4xGfz1wvSSV7S/CkHSiHpyg5/8ymJ5hAAGJZUui1j3oHA7F+iaJLQCJailBQtq5C1kLXkgQYyIBOuOudZRgkLglve9hDMA02ozGaspqMCp59iaT5NxeXfYM6x8cU+5fzSgVS4hmgxZI8QBE8=;T/jkLbdu/IPIztJmdq1PBg=="
 ---

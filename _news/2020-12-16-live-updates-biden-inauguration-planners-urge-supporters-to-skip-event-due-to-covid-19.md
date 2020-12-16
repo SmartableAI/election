@@ -1,14 +1,14 @@
 ---
 category: news
 title: "LIVE UPDATES: Biden inauguration planners urge supporters to skip event due to COVID-19"
-excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the Jan. 20 festivities will be heavily pared down and urged supporters to prevent the spread of the coronavirus by not coming to the event. "
-publishedDateTime: 2020-12-16T05:14:25Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_qh4HN1ntBg/live-updates-biden-12-16-2020"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_qh4HN1ntBg/live-updates-biden-12-16-2020"
+excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the Jan. 20 festivities will be heavily pared down and urged supporters to prevent the spread of the coronavirus by not coming to the event."
+publishedDateTime: 2020-12-16T05:27:00Z
+originalUrl: "https://www.foxnews.com/politics/live-updates-biden-12-16-2020"
+webUrl: "https://www.foxnews.com/politics/live-updates-biden-12-16-2020"
 ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-12-16-2020.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-16-2020.amp"
 type: article
-quality: 167
+quality: 127
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -112,6 +113,6 @@ related:
         height: 720
         isCached: true
 
-secured: "zyBgd9gHNWmDiCt3vRFIxAr8SqHfQoUeXOeF1+f0+KL8FYuDT6HYuCYbG5gLwTKppLUHgzK0ChiCnofy3+3+H8n/1uxuqUMneajcozCclUdmr6JhWk4bfKeQ0TKwmRWCkpILnkpkVfpBujRy3gzsx4FEK3z+UItq4w6Yxm3q87pPdg05viEjDIF+S2MXeNSZh+YAp9mLRoc1tYN/c30KctrkniZXlSuQVWvdrsI/1bpqREq/LucNxh3RAPqUEma+OqLtsLmqTikfR3Ln//MvMAzHlQYbi/JhzzSGhAhJpRt1vlX6yaFpxCt56w+AvHXcs1zZi90lM3z1VFRx67wxIHIQ0fF2ITGtPNbwNlqFLDM=;jl4lHaefpJc2QbcjP+xHsA=="
+secured: "LvB6tjYixUH+d5nQXqzBMtzAanAtjVZThYZ1TF+VxlFNqyQ5W71lrmb4pokPdH7qkw6jfcwoCtAPHbSysq5amXTJLVinPVoeLW1B/MKlx5z2tA/HPufWF+UZWj80soiNuqUKQUKs9QQJxWkUZHtYU5iiIQo0SKccAXi2KiB2Am9da9XOWh3kpgKxgqgGSBUKeGupWAGO9EHGw6fLr+zNEDvEhMNhqloDKO15CTToLHJs317bzIMvj+0Srw2iHJ+Y9IPPIl2B8eemU9GipdmfjPn6RFdtZ5LcQ8CZmFyM9QozWN9n+tAV3qOzYWQQVXl0NCV/wcvJu39JdlS7wzuuPtgqNEqFt7EQsxhPAxOIM+s=;K9EbR1oP4p1xnG2DuenwUA=="
 ---
 

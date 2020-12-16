@@ -331,6 +331,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Idaho’s 4 electors cast votes for Trump and Pence"
+    excerpt: "All four of Idaho’s Republican electors have cast their ballots for President Donald Trump and Vice President Mike Pence."
+    publishedDateTime: 2020-12-16T14:43:00Z
+    webUrl: "https://www.theolympian.com/news/politics-government/national-politics/article247837130.html"
+    ampWebUrl: "https://amp.theolympian.com/news/politics-government/national-politics/article247837130.html"
+    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/news/politics-government/national-politics/article247837130.html"
+    type: article
+    provider:
+      name: The Olympian
+      domain: theolympian.com
+    quality: 70
 
 secured: "qaHuigtgoNz8uOR3j8COvt+rEbdChVoACex4w/iDgHC31a5osr/ECibtCBYqluO7MwUe2KxjNWjcZ38u72EF2e81CbKqQyenRprmBrT+dhUpyx2DA3ydeuw77Cvxv6UheGEwWFxKdPQbA6e5jjO22HbK4gpaK6k9HzrnNrLYljYPRj2D/XlN20GDrW31azkWgfk7mIyftowurF1aSUKPW7e0P6sWmCw4JjDf6wV/QF5uGNkvRrDny+L+H971OLlVo3c9Y6AZe5XPVD2mJqgX78Lcnh+/Rn/N+qWPZCUpKpxFX+sZR2G7DOr+htDaeeCm+vuz4ATnwDB7nz3DGLuBSvoSyI9KXYgjHnUSE9D49uo=;9tfOEKRXy3kLJ87G19QOhA=="
 ---
