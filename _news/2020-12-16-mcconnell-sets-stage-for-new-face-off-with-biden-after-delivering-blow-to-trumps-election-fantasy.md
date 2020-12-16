@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/joe-biden-mitch-mcconnel
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/joe-biden-mitch-mcconnell-donald-trump/index.html"
 type: article
 quality: 191
-heat: 911
+heat: 931
 published: true
 
 provider:
@@ -542,6 +542,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/14/us/politics/14vid-electoral-college-promo1/14vid-electoral-college-promo1-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Path cleared for a second vaccine, McConnell congratulates Biden and Northeast braces for major snowstorm"
+    excerpt: "Good morning, NBC News readers. Another Covid-19 vaccine is on the horizon, the top Senate Republican finally acknowledged President-elect Joe Biden's victory and a major winter storm is headed straight for the East Coast."
+    publishedDateTime: 2020-12-16T14:25:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/path-cleared-second-vaccine-mcconnell-congratulates-biden-northeast-braces-major-n1251364"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251364"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251364"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 118
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436062/201216-buttigieg-mc-1139_19a0ba5959deb6dcd743bf28f8bfcff2.JPG"
+        width: 2500
+        height: 1666
         isCached: true
   - title: "Biden's boom or bust economy"
     excerpt: "I write this morning about the two roads that President-elect Joe Biden’s presidency could go down, depending on vaccine distribution and new stimulus. He could preside over a historic boom or a disappointing bust."

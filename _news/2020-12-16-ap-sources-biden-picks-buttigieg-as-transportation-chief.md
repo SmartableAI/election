@@ -41,6 +41,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Politics live updates: Biden to introduce Buttigieg as incoming Transportation chief Wednesday"
+    excerpt: "Pete Buttigieg is scheduled to appear with Biden Wednesday for a formal announcement. On Twitter, he called the nomination a \"tremendous opportunity.\""
+    publishedDateTime: 2020-12-16T14:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/16/politics-updates-biden-introduce-buttigieg-incoming-dot-chief/3916579001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3916579001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3916579001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/16/USAT/36266745-f2f2-4cd8-ae8a-afc00b0c588c-GTY_1230145961.jpg?auto=webp&crop=5288,2975,x0,y352&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "8mBZSUWv7BxOk7+w4dD1PHfRL4RA2TSP+rB+4Hjwa95iw4gE9MZ0qa2GPC39C0DMcZDTj68orkRbE5hPpkFQRzc/vAhlBOYhPc73fmO0PHSjPF9/UqIXzVZLuOZv8pLNqqhketcZbki/ykd7iVYwvwegbwAgN9AHd57NVg8OBoMA8vj85ws41Ui0jP0hrhL3jRVt6UUwItzvtwTsHuCfs10BHAxs5DY18NE9vY9afW9fl6nexejPVYtrCtnX6b92Zfp3TRJKfh2qa/llWQZPqpACrTfId5mDV2OMUIDppBN0TQ8MozYDXOkN+lMaRN3f82OBvxqirTQiHQ8mR7jLFQQhmgm0ZngvLnF7X4qF3LU=;ymK6fKx01Cfuqw/7BkDQCQ=="
 ---

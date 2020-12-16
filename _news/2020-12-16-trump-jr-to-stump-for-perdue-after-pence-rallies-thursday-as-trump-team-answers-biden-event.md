@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-pence-rallies-thursday-trump-team-answers-biden-event.amp"
 type: article
 quality: 204
-heat: 504
+heat: 524
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20347367382392.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump asking about potential special counsel to investigate Hunter Biden after Barr resignation"
+    excerpt: "President Trump is talking to advisers about asking for a special counsel to be appointed to continue investigations into the \"tax affairs\" of Hunter Biden, the son of President-elect Biden, according to a report."
+    publishedDateTime: 2020-12-16T13:37:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SjIq4H_lGM4/trump-potential-special-counsel-hunter-biden-barr-resignation"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-potential-special-counsel-hunter-biden-barr-resignation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-potential-special-counsel-hunter-biden-barr-resignation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Hunter Biden news raises stakes for A.G. pick"
     excerpt: "Biden's biggest test is still ahead."
@@ -267,6 +283,6 @@ related:
         height: 562
         isCached: true
 
-secured: "3LJp++F4FNDLOemf2G7n1U3gsWKZ4JUYcmANkzqgEmaOyFq8fHePkXIIflWoqHaEcJL6DosliaCiJCdAxVmLJqtzWEJjJq+ANVq/MhRYyVpbjM2F2hE+q6cFxWe4ornT8V/KZzhbB3d4+qK574pGGxYf/bJMjFegGF8Hd2ayksC0IRjb/0t9suCWgPR2xeBLHxjKI6FZci/GfBSdVwDB4W/A38dK45Ad7fBDxHOVjQqchxFydLlOf2FnxNbkI/Y+BichY3ikjPwK5sU5BR1MuxRmA7MD2eqW9WDEnIrgf2rBF7djW4mG9tgcgH2fwiUwZKvHzHTddA8r4R6PId0iWGJ6vJPTosuPFn/v+nqG3gA=;LCGHg4V63eeVMCuRKoVuPw=="
+secured: "PtB0LQ/Srx6KjwVU2kRXzuEKi7FkXCLablwk15Kmcq7s4Zw2alBDAo5avlbB4wtFfu2sa1cN8rd7EldI1MHZF4RzBWcldQUafexLQbaGseGzTqFDFkq5Ctn6dWE4CRvnyCtCrFILLeNmaEDVUFYI8f//uA4qAyKMFb3mvnndLie0nzjp+jL/m+ldp/JWK3cOB1FtyI8HP2aEURJ5WNrzfepvJem6VhiGCyBAqlwYQtMTIsc0NcuFrlzfRJlQlMZULu2hd4uIYjb8attCo9rrUjJbPnynlInResogkmXz6XGpnm3+CGsVA2kM0bPID58LakOAYNqZKaDdW2mYC3LJhlCC6+Uxf8BjAfl5Gb9C7ms=;IqkgTPZh644/zSHtcKjePg=="
 ---
 

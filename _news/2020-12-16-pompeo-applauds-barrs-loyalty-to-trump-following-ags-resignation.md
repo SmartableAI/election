@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mike-pompeo-william-barr-resignatio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-william-barr-resignation-trump-loyalty.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Senate confirmation of Barrett replacement adds to Trump's record on judges"
+    excerpt: "President Trump continued to add to his tally of successful judicial appointments Tuesday with the confirmation of Thomas Kirsch II as a judge on the 7th Circuit Court of Appeals."
+    publishedDateTime: 2020-12-16T14:02:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-vc9xsYkE0w/senate-confirms-barrett-replacement-trump-record-on-judges"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-confirms-barrett-replacement-trump-record-on-judges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-confirms-barrett-replacement-trump-record-on-judges.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/GettyImages-Thomas-Kirsch-II.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump Organization Ordered to Turn Over Documents to New York Attorney General"
     excerpt: "A New York judge ordered the Trump Organization to hand over documents related to its sprawling Westchester County estate to the state attorney general’s office as it pursues a civil fraud investigation into the president and his company."
     publishedDateTime: 2020-12-16T04:35:00Z

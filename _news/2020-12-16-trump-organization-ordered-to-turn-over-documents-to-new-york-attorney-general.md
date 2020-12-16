@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Senate confirmation of Barrett replacement adds to Trump's record on judges"
+    excerpt: "President Trump continued to add to his tally of successful judicial appointments Tuesday with the confirmation of Thomas Kirsch II as a judge on the 7th Circuit Court of Appeals."
+    publishedDateTime: 2020-12-16T14:02:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-vc9xsYkE0w/senate-confirms-barrett-replacement-trump-record-on-judges"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-confirms-barrett-replacement-trump-record-on-judges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-confirms-barrett-replacement-trump-record-on-judges.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/GettyImages-Thomas-Kirsch-II.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "PrazSR55fKb6RwM85YVABQtrv1Q0wPkyjY9IwpQp2L388iH3CL/W7w6vIFt8hFPuXDJvroNJR0R64O5+AIqGlC42wXV8m/VsYmhmHoG4Ds9zZXQyohC0F/Sphp/SUfA+QuKzdYfNrSxtOgDNoXdWpN48ACY9r2yqDK46qGhXjilCMtWFDwkEnH9EiEHN7K7c9jUSi8AFf2VNneNnayD0L0tz3g/NLP1O2Q2TYtFdYG/1V2wap5TZkTJ9hAjIoLcbA5acVyDsoxNfJBKVoztPSu3bzI0mSpXqNlxpPUhHRVDhIgJMJVUeacPhzNZcUjOha3dRByoCUEJIuG7XRgHQ4aO/UEka0A1cOgxbvg3SjAc=;5A/BLEasupUex+vy9E2itg=="
 ---

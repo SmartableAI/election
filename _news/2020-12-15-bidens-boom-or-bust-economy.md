@@ -558,6 +558,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Path cleared for a second vaccine, McConnell congratulates Biden and Northeast braces for major snowstorm"
+    excerpt: "Good morning, NBC News readers. Another Covid-19 vaccine is on the horizon, the top Senate Republican finally acknowledged President-elect Joe Biden's victory and a major winter storm is headed straight for the East Coast."
+    publishedDateTime: 2020-12-16T14:25:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/path-cleared-second-vaccine-mcconnell-congratulates-biden-northeast-braces-major-n1251364"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251364"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251364"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 118
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436062/201216-buttigieg-mc-1139_19a0ba5959deb6dcd743bf28f8bfcff2.JPG"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Electoral College affirms Biden's victory"
     excerpt: "Democratic electors cast their votes without incident states where Trump has contested the results, like Pennsylvania and Georgia."
     publishedDateTime: 2020-12-14T23:10:00Z

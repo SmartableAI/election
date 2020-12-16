@@ -33,19 +33,19 @@ images:
 related:
   - title: "Election 2020 Today: Trump base resigned, Buttigieg picked"
     excerpt: "Now that the Electoral College has formalized Joe Biden’s win and Republican officials are finally acknowledging Biden as president-elect, many Trump voters across the country seem to be doing the sam"
-    publishedDateTime: 2020-12-16T11:28:00Z
-    webUrl: "https://www.washingtonpost.com/politics/election-2020-today-trump-base-resigned-buttigieg-picked/2020/12/16/bcea00c8-3f90-11eb-b58b-1623f6267960_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-trump-base-resigned-buttigieg-picked/2020/12/16/bcea00c8-3f90-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-trump-base-resigned-buttigieg-picked/2020/12/16/bcea00c8-3f90-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    publishedDateTime: 2020-12-16T11:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/election-2020-today-trump-base-resigned-buttigieg-picked-74755240"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/election-2020-today-trump-base-resigned-buttigieg-picked-74755240"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/election-2020-today-trump-base-resigned-buttigieg-picked-74755240"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5557287d6a5f4a1b867acf4d62e5191d_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden, fresh off Electoral College win, accuses Trump of \"unprecedented assault on democracy\""
     excerpt: "President-elect Joe Biden accused President Trump of an \"unprecedented assault on democracy\" in a speech Monday night hours after the Electoral College formalized his victory. Mr. Trump has refused to concede the election and has tried repeatedly to use the courts to challenge the results without success."

@@ -2,13 +2,13 @@
 category: news
 title: "Linda Sarsour, too radical for Joe Biden, to campaign for Ossoff and Warnock in Georgia Senate race"
 excerpt: "Former Women’s March leader Linda Sarsour said on Monday she plans to canvass in Georgia on behalf of Democratic Senate candidates Rev. Raphael Warnock and Jon Ossoff for the Jan. 5 runoff election."
-publishedDateTime: 2020-12-16T02:09:03Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iUrFs5jAVEw/linda-sarsour-too-radical-joe-biden-campaign-ossoff-warnock-georgia"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iUrFs5jAVEw/linda-sarsour-too-radical-joe-biden-campaign-ossoff-warnock-georgia"
+publishedDateTime: 2020-12-16T02:24:00Z
+originalUrl: "https://www.foxnews.com/politics/linda-sarsour-too-radical-joe-biden-campaign-ossoff-warnock-georgia"
+webUrl: "https://www.foxnews.com/politics/linda-sarsour-too-radical-joe-biden-campaign-ossoff-warnock-georgia"
 ampWebUrl: "https://www.foxnews.com/politics/linda-sarsour-too-radical-joe-biden-campaign-ossoff-warnock-georgia.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/linda-sarsour-too-radical-joe-biden-campaign-ossoff-warnock-georgia.amp"
 type: article
-quality: 161
+quality: 121
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -112,6 +113,6 @@ related:
         height: 320
         isCached: true
 
-secured: "xxsHsEtV/FIGy+tOJfwTpWkjNafaxWXcfNRVBE1pDdi+ewdhjTmlQA7YY1kggrDu6bNfF2swA+fM+gmseknAtvCjh2kt79zIu8J79mYcFzSs76ETUkCK2SzDmtqLBDoYDC1Mv5phZCnrJvK0Z3o4K1u9vR2c+Gmowj0q+6zsp4e+AI619oAiyfOmpdlZhLdBtD77CUpYpaBeoP7zyKYvVO4TG7e1HFZOr6hRZdMsq1fS/3LaDCeOv2kf52yG46ZkAEz9q2TjHKu5Lo3mUS6CAC9lhlaJWURWF3qbdViQ9OfLgiktuneATcSCD2tIbiDQ1l28kjKqMD24maNEdbyGSUNb3nNzdvuxbTjcTJjdQSo=;5WfS3YMsHx3yigT9faTVrw=="
+secured: "x2reH/o1dhiomeZquoiM8qlwYAMDjoALDtc/CutMV99O+3dPCKxSMfI1uQf2lRJF+eNjPOTbDs9m0XQWEU61tKd+79Kvou+hof8dcSNfH6yiEdUtrkZFYHQOBfxk1slgi5LyD+Sask9nwbQveSgTnFZsqS0vKzd0yG4gHXRYxgTI+kDcu4vD7xmLW7K3nUaeo2Lde3bTxJXzwPWD/53OEhaYJ2f13qgP8HJ3IGHjTkXZE8UHZVAcir0CCAIyMgRJoANwdQyDcmTmhynSXOgFfhhgxU0SuJPLJryiRnQPEXpOTWhZxRA5yacS8uf9KVQeIkcj/E2LJgIT8huFA2kISsCbiGhMwMS+7j8JAvBTCqk=;JOVHRMQtLxi1dZ0rfkyaPQ=="
 ---
 

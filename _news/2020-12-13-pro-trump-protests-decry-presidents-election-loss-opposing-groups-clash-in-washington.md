@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28M0E5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0E5"
 type: article
 quality: 132
-heat: 672
+heat: 692
 published: true
 
 provider:
@@ -364,6 +364,20 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/5fd603a1e4b04f7ff7c2d8ff-1607861153721?location=LANDSCAPE"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Amazon cites Trump 'bias' in Pentagon deal loss"
+    excerpt: "Business Amazon cites Trump 'bias' in Pentagon deal loss. Posted . Amazon has urged a U.S. judge to toss out the Pentagon's $10 billion cloud computing contract with Microsoft, ar"
+    publishedDateTime: 2020-12-16T12:15:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD99HNYJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201216&i=OVD99HNYJ&r=OVD99HNYJ&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "DC Comics 'investigating' Proud Boys for using its logo to advertise a pro-Trump march in Washington"
     excerpt: "The company behind Superman is considering legal action after the Proud Boys used the DC Comics logo, according to an email obtained by Insider."

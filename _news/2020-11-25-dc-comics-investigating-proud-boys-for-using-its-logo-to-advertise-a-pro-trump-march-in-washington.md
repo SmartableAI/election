@@ -379,6 +379,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon cites Trump 'bias' in Pentagon deal loss"
+    excerpt: "Business Amazon cites Trump 'bias' in Pentagon deal loss. Posted . Amazon has urged a U.S. judge to toss out the Pentagon's $10 billion cloud computing contract with Microsoft, ar"
+    publishedDateTime: 2020-12-16T12:15:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD99HNYJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201216&i=OVD99HNYJ&r=OVD99HNYJ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "NY AG predicts President Trump will step down so VP Pence can pardon him"
     excerpt: "New York Attorney General Letitia James is predicting President Donald Trump will step down from office so Vice President Mike Pence can pardon him. “He can preemptively pardon individuals, and the ,” James said on ABC’s “The View” Tuesday."
     publishedDateTime: 2020-12-09T14:58:00Z
