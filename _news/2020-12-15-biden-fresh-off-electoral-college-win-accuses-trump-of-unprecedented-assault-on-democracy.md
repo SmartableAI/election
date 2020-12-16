@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump lashes out at McConnell for recognizing Biden’s victory: ‘People are angry!’"
+    excerpt: "President Trump pleaded with Senate Majority Leader Mitch McConnell to continue supporting his efforts to undermine the election after McConnell acknowledged President-elect Joe Biden's win in the electoral college."
+    publishedDateTime: 2020-12-16T10:13:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/16/trump-mcconnell-election-biden-president/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/16/trump-mcconnell-election-biden-president/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/16/trump-mcconnell-election-biden-president/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MGEFVYGLBII6VGNQQQTOE3JAHM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "'Unconscionable': Biden criticises Trump while accepting electoral college victory – live updates"
     excerpt: "President-elect says ‘urgent work in front of all of us’ as Covid deaths reach 300,000"
     publishedDateTime: 2020-12-15T12:16:00Z

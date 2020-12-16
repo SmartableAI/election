@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-11-30-this-is-propaganda-fox-news-maria-bartiromo-slammed-for-softball-trump-interview.md",
+      "title": "'This is propaganda': Fox News' Maria Bartiromo slammed for 'softball' Trump interview",
+      "excerpt": "Fox News anchor Maria Bartiromo faced criticism Sunday for failing to challenge President Trump on his claims of widespread election fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/29/fox-news-maria-bartiromo-slammed-softball-trump-interview/6456086002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/29/fox-news-maria-bartiromo-slammed-softball-trump-interview/6456086002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/29/USAT/46aeb674-3e91-4937-9f5a-b517decf268f-GTY_464511258.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6456086002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6456086002",
+      "publishedDateTime": "2020-11-29T19:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-tom-cotton-slams-bidens-unity-platform-points-to-admin-picks.md",
       "title": "Tom Cotton slams Biden's 'unity' platform, points to admin picks",
       "excerpt": "Sen. Tom Cotton, R-Ark., on Sunday took President-elect Joe Biden to task over his pledge to unify the country yet still choose controversial people to fill his cabinet.",
@@ -1275,58 +1327,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-trumps-furniture-fail-thats-not-a-desk-donald-its-a-table-for-tv-dinners.md",
-      "title": "Trump's furniture fail: that's not a desk, Donald – it's a table for TV dinners",
-      "excerpt": "The Resolute desk at the White House is made of timbers taken from a Royal Navy ship. It projects pure power. Is that why the defeated US president has switched to an occasional table he can barely squeeze his legs under?",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/artanddesign/2020/nov/27/trumps-furniture-fail-desk-donald-table-tv-dinners",
-      "originalUrl": "https://www.theguardian.com/artanddesign/2020/nov/27/trumps-furniture-fail-desk-donald-table-tv-dinners",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/16cb7b7093d8a5252e82b5c01d2d72c758b0c441/0_0_5916_3944/master/5916.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f35b785ba07815a5d778c7bd2f281979",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/artanddesign/2020/nov/27/trumps-furniture-fail-desk-donald-table-tv-dinners",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2020/nov/27/trumps-furniture-fail-desk-donald-table-tv-dinners",
-      "publishedDateTime": "2020-11-27T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

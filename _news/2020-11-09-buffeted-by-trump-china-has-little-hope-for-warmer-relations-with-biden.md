@@ -2046,6 +2046,22 @@ related:
         width: 2500
         height: 1513
         isCached: true
+  - title: "Trump-Biden divide hampers Covid vaccine trust-building effort"
+    excerpt: "Biden’s team is wary of enlisting Trump and his allies. Yet Trump’s aides say they won’t want to help Biden because he's not giving Trump due credit."
+    publishedDateTime: 2020-12-16T10:33:00Z
+    webUrl: "https://www.politico.com/news/2020/12/15/trump-biden-covid-vaccine-trust-445956"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/15/trump-biden-covid-vaccine-trust-445956"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/15/trump-biden-covid-vaccine-trust-445956"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/44/ff/5a0e21044d8a87e58733f5767d52/ap20297044686582-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden Faces Early Test With Immigration and Homeland Security After Trump"
     excerpt: "The Department of Homeland Security was molded in President Trump’s image, and not just on immigration policy. President-elect Joseph R. Biden Jr. will have work to do to remake it."
     publishedDateTime: 2020-11-15T10:05:00Z

@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump lashes out at McConnell for recognizing Biden’s victory: ‘People are angry!’"
+    excerpt: "President Trump pleaded with Senate Majority Leader Mitch McConnell to continue supporting his efforts to undermine the election after McConnell acknowledged President-elect Joe Biden's win in the electoral college."
+    publishedDateTime: 2020-12-16T10:13:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/16/trump-mcconnell-election-biden-president/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/16/trump-mcconnell-election-biden-president/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/16/trump-mcconnell-election-biden-president/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MGEFVYGLBII6VGNQQQTOE3JAHM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden, fresh off Electoral College win, accuses Trump of \"unprecedented assault on democracy\""
     excerpt: "President-elect Joe Biden accused President Trump of an \"unprecedented assault on democracy\" in a speech Monday night hours after the Electoral College formalized his victory. Mr. Trump has refused to concede the election and has tried repeatedly to use the courts to challenge the results without success."
     publishedDateTime: 2020-12-15T12:32:00Z
@@ -529,6 +545,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "oqeNoURcwic5pMG4TtnlnEOKakcpdP5UIZhXjpm7EYPx871+wMvCI+wep6hRMYDcpSRYxdCw+j0yllAQsE7hMcYda5Hv0uGudkFmWxnzoscdGWrumldStl3sffy3OJ9quOrmHLk7MGeJAKw+fJx1yF/aDfa5EeMGif+cjbceMewBOgQO6kTyEmJP1LAnSwiiCggQhwMVpShV/tGyY0Hy0pSHlUW2ObPz4RJvwAlxk2slfuOEp3xBXxpqHwCQhrXJLVP4XFSL00UFolNRT/OrjHsDOOsDN7xKkcdLhMUv53rnOF+ugN7rI1quOUARkXlGCibX8p5Sv4sOIyDwrdFxKS/XIIKfUT56CHV9LU5ZREA=;D0TbSQq6k0VGyhy36Hf3VA=="
+secured: "KS/Tccz+7T8aGFB8GtGEs1YU0OhExDYJqkw2ASYtRGTcdmATzxc1g03tH/cF7od9CNvo1ojilivTVpj8hsrrRs0CBArkyW5C1ptH9oSnFJt09hZs1yD0FJtEXPyR/Ca0e3hhs4ucRK7hJrUSxLcYiwO4aAHN1sp2VexjxhGUwjuz2Y5CtHxwDmWnYkRIQTDIXQy7GkMf2C/sfT1aiaJhyfn5HhHtSrE2DZJpDjQp+TlfUa7Cru8xa6S+fJh2l3sZ69YT7dImE4ylVkW30ZKQo9pljVeRWn3WW5ldNdL27hZAM6gYmeNLSKlJM/Z0+93Yvf8QT1dUPxjgrOTYs33Akpe+TFiY6dRfz7HyD/fDJ/Q5GLElLvcnerIW3KRwp8wf2Y9l3FWyxaWSEUKvaXnKk7vjTV2IT4+4smywMGqxdDDFphxuKBZ8RTVwRcXeIlxX8zfmVCQdlo1kHIEMG/fB8/JA64aYtSldAjzYIIjizyYRnfZyAWE8VeQUVsmeDhoJlCO9/Wgc5QwNE20948NOKg==;t+VPaNP7mS3tugs7hpXk/w=="
 ---
 

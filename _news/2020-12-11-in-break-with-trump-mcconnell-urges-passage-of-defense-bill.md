@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/in-break-with-trump-mcconnel
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-break-with-trump-mcconnell-urges-passage-of-defense-bill/2020/12/10/13930b5e-3b0e-11eb-aad9-8959227280c4_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544521382&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD175"
         width: 817
         height: 545
+        isCached: true
+  - title: "Attorney General William Barr resigns after clashes with Trump, still defends president"
+    excerpt: "William Barr, who served as President Donald Trump's most effective shield and advocate for broad presidential authority, will leave before Christmas."
+    publishedDateTime: 2020-12-16T09:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/14/attorney-general-william-barr-leaving-trump-administration/5993228002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5993228002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5993228002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/01/USAT/70fdbe50-e9b6-48b0-ab1d-32b8986206d3-USATSI_14865079.jpg?auto=webp&crop=5471,3077,x0,y571&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump administration pushes out more leading defense advisors as the Pentagon purge continues"
     excerpt: "The removal of members of the Defense Business Board follows the purge of the Defense Policy Board just last week"

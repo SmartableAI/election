@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-trump-joe-biden-coronavirus/index.html"
 type: article
 quality: 205
-heat: 3705
+heat: 3725
 published: true
 
 provider:
@@ -2028,6 +2028,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434930/201210-electoral-count-congress-2013-ac-606p_ea22e3050be6b29ce9da3ad45ea6fbfa.jpg"
         width: 2500
         height: 1513
+        isCached: true
+  - title: "Trump-Biden divide hampers Covid vaccine trust-building effort"
+    excerpt: "Biden’s team is wary of enlisting Trump and his allies. Yet Trump’s aides say they won’t want to help Biden because he's not giving Trump due credit."
+    publishedDateTime: 2020-12-16T10:33:00Z
+    webUrl: "https://www.politico.com/news/2020/12/15/trump-biden-covid-vaccine-trust-445956"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/15/trump-biden-covid-vaccine-trust-445956"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/15/trump-biden-covid-vaccine-trust-445956"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/44/ff/5a0e21044d8a87e58733f5767d52/ap20297044686582-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Buffeted by Trump, China Has Little Hope for Warmer Relations With Biden"
     excerpt: "Many in Beijing believe that the United States will remain hostile to the country’s rise, regardless of who is president."

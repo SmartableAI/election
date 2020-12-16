@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-16-like-a-hand-grasping-trump-appointees-describe-the-crushing-of-the-cdc.md",
+      "title": "‘Like a Hand Grasping’: Trump Appointees Describe the Crushing of the C.D.C.",
+      "excerpt": "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, go public on the Trump administration’s manipulation of the agency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/09/us/politics/00dc-virus-cdc-2/00dc-virus-cdc-2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/16/us/politics/cdc-trump.amp.html",
+      "publishedDateTime": "2020-12-16T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-irans-rouhani-says-he-is-happy-that-lawless-trump-is-leaving-office.md",
       "title": "Iran's Rouhani says he is happy that 'lawless' Trump is leaving office",
       "excerpt": "Iranian President Hassan Rouhani said on Wednesday he was happy that Donald Trump was leaving office, calling him \"the most lawless U.S. president\" and a \"terrorist\".",
@@ -812,7 +869,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2770,
+      "heat": 2790,
       "tags": null,
       "images": [
         {
@@ -1289,62 +1346,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-simply-unacceptable-congressman-exiting-gop-calls-out-trumps-racist-attacks.md",
-      "title": "'Simply unacceptable:' Congressman exiting GOP calls out Trump's racist attacks",
-      "excerpt": "Rep. Paul Mitchell tells CNN's Jake Tapper that he no longer wants to be affiliated with the Republican Party and calls out President Trump's racist attacks.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yqAbUrpzivk/mitchell-son-russia-republican-party-exit-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yqAbUrpzivk/mitchell-son-russia-republican-party-exit-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201214165531-tapper-mitchell-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/12/14/mitchell-son-russia-republican-party-exit-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/14/mitchell-son-russia-republican-party-exit-vpx.cnn",
-      "publishedDateTime": "2020-12-14T14:11:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

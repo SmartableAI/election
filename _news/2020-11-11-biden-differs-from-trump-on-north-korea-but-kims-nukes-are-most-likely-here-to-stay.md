@@ -2031,6 +2031,22 @@ related:
         width: 2500
         height: 1513
         isCached: true
+  - title: "Trump-Biden divide hampers Covid vaccine trust-building effort"
+    excerpt: "Biden’s team is wary of enlisting Trump and his allies. Yet Trump’s aides say they won’t want to help Biden because he's not giving Trump due credit."
+    publishedDateTime: 2020-12-16T10:33:00Z
+    webUrl: "https://www.politico.com/news/2020/12/15/trump-biden-covid-vaccine-trust-445956"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/15/trump-biden-covid-vaccine-trust-445956"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/15/trump-biden-covid-vaccine-trust-445956"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/44/ff/5a0e21044d8a87e58733f5767d52/ap20297044686582-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Buffeted by Trump, China Has Little Hope for Warmer Relations With Biden"
     excerpt: "Many in Beijing believe that the United States will remain hostile to the country’s rise, regardless of who is president."
     publishedDateTime: 2020-11-09T10:40:00Z

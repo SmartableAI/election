@@ -857,6 +857,22 @@ related:
         width: 1440
         height: 1018
         isCached: true
+  - title: "Putin has finally congratulated Joe Biden after the Electoral College confirmed Trump's defeat"
+    excerpt: "President Putin was one of the last major world leaders to congratulate Biden on winning the election."
+    publishedDateTime: 2020-12-16T09:41:00Z
+    webUrl: "https://www.businessinsider.com/putin-congratulates-joe-biden-after-trump-loses-electoral-college-2020-12?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.businessinsider.com/putin-congratulates-joe-biden-after-trump-loses-electoral-college-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/putin-congratulates-joe-biden-after-trump-loses-electoral-college-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 128
+    images:
+      - url: "https://i.insider.com/5fd8a3d578a5740019a15720?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Latest: Pence talks vaccines in SC as virus cases rise"
     excerpt: "Vice President Mike Pence has traveled to South Carolina to talk about coronavirus vaccines, as cases are rising in the state"
     publishedDateTime: 2020-12-10T05:25:00Z

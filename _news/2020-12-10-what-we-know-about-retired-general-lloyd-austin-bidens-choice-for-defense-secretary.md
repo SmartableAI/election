@@ -79,8 +79,8 @@ related:
         isCached: true
   - title: "Exclusive-Biden taps former EPA chief for White House climate coordinator role -sources"
     excerpt: "President-elect Joe Biden will name Gina McCarthy, former administrator of the Environmental Protection Agency under the Obama administration to a new role leading domestic climate policy coordination at the White House,"
-    publishedDateTime: 2020-12-16T00:42:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-mccarthy-exclusive-idUSKBN28P35Y"
+    publishedDateTime: 2020-12-16T04:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-mccarthy-exclusive/exclusive-biden-taps-former-epa-chief-for-white-house-climate-coordinator-role-sources-idUSKBN28P35Y"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P35Y"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P35Y"
     type: article

@@ -40,6 +40,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump lashes out at McConnell for recognizing Biden’s victory: ‘People are angry!’"
+    excerpt: "President Trump pleaded with Senate Majority Leader Mitch McConnell to continue supporting his efforts to undermine the election after McConnell acknowledged President-elect Joe Biden's win in the electoral college."
+    publishedDateTime: 2020-12-16T10:13:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/16/trump-mcconnell-election-biden-president/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/16/trump-mcconnell-election-biden-president/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/16/trump-mcconnell-election-biden-president/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MGEFVYGLBII6VGNQQQTOE3JAHM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden, fresh off Electoral College win, accuses Trump of \"unprecedented assault on democracy\""
     excerpt: "President-elect Joe Biden accused President Trump of an \"unprecedented assault on democracy\" in a speech Monday night hours after the Electoral College formalized his victory. Mr. Trump has refused to concede the election and has tried repeatedly to use the courts to challenge the results without success."
     publishedDateTime: 2020-12-15T12:32:00Z

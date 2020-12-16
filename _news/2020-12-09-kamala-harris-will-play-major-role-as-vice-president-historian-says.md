@@ -851,6 +851,22 @@ related:
         width: 1440
         height: 1018
         isCached: true
+  - title: "Putin has finally congratulated Joe Biden after the Electoral College confirmed Trump's defeat"
+    excerpt: "President Putin was one of the last major world leaders to congratulate Biden on winning the election."
+    publishedDateTime: 2020-12-16T09:41:00Z
+    webUrl: "https://www.businessinsider.com/putin-congratulates-joe-biden-after-trump-loses-electoral-college-2020-12?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.businessinsider.com/putin-congratulates-joe-biden-after-trump-loses-electoral-college-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/putin-congratulates-joe-biden-after-trump-loses-electoral-college-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 128
+    images:
+      - url: "https://i.insider.com/5fd8a3d578a5740019a15720?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Politics live updates: Fudge and Vilsack to be tapped for Biden White House posts, Trump election challenges rejected by courts"
     excerpt: "Rep. Marcia Fudge would be the second Black woman to lead HUD. Former Agriculture Secretary Tom Vilsack would return to his Obama administration role."
     publishedDateTime: 2020-12-09T13:49:00Z

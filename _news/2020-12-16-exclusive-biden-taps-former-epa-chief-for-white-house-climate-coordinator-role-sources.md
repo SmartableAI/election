@@ -2,9 +2,9 @@
 category: news
 title: "Exclusive-Biden taps former EPA chief for White House climate coordinator role -sources"
 excerpt: "President-elect Joe Biden will name Gina McCarthy, former administrator of the Environmental Protection Agency under the Obama administration to a new role leading domestic climate policy coordination at the White House,"
-publishedDateTime: 2020-12-16T00:42:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-mccarthy-exclusive-idUSKBN28P35Y"
-webUrl: "https://www.reuters.com/article/us-usa-biden-mccarthy-exclusive-idUSKBN28P35Y"
+publishedDateTime: 2020-12-16T04:52:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-mccarthy-exclusive/exclusive-biden-taps-former-epa-chief-for-white-house-climate-coordinator-role-sources-idUSKBN28P35Y"
+webUrl: "https://www.reuters.com/article/us-usa-biden-mccarthy-exclusive/exclusive-biden-taps-former-epa-chief-for-white-house-climate-coordinator-role-sources-idUSKBN28P35Y"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P35Y"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P35Y"
 type: article
@@ -148,6 +148,6 @@ related:
         height: 630
         isCached: true
 
-secured: "kFB4hEriijdGFy4Zihh+0Ldyj/WWlMQQpowiaLutP9Hvwx3GWg4EDS017BGi45wiuu8JmD00JBDnF5NqKAF/YDIL1eXVZOd3vayHm4e8XqMrGe3T+P6M45YpSmK4OoPPFBJatCf10BVXO47TZXxJqLHBhFFdiFhpMDa+b39kwYVd9HqUZyvbUD5K0031FIZ7fihdbos644URGiQg41Pp/NLmXDD+/922iqQlZNvJuX+8pULNp+QypiLo0tdwWby90BBSgf6xHV++l9AzONg9T+BKjtvJoJMtrgsLxglpePmUrZm+SMWL8IhtnvYp5Hf4ok/HFWSDSwOS2TGAUi1uEm6yMlajfBSOfXnAQtrwyQbzzcnXlk5QMrXSxBbz7my+AwFYxkXVe2IfllxYbulLBYATh0KNzuazmxeU6nn1h94DGyPWcP8GWdjwnSv01UDRaUfosIcTUrY6ZYF0RxAkYVYVQIkFyixYR4YHCv4SeX9zbRi3+byU+WggB5oZjl8RlO6bxm1reYVRBeQPIMMEhw==;y72DpiVckZqSEzzTasXXRw=="
+secured: "ONlK4ynFdsN2phkyoEl/YlG1Vj7g8DCgLBN7T2SKFqDM6KH2eERjLgx58A61RnQgkGMFUEU71U7mQJ5cSTH/N0qTkFSBfC+InLNsvv7X7346/wwNwAjRIxPwznhBKrT6iFcKw2OVtVG44CMrzMM+B12shlFlTBnlt++3swuMbk7XXTp5sXx45nD8zzOx5P5kAVQv2bTHeXuczkZWg/3MEPYo5WLDg6Drp9pKSgDESdWCryo35BfqdlT16WA9c/AzgEKMCbrdI4nFT6VdIuYVIYeiPweeJXi0XNKGK1mZhlNHm1Tz8EorhG3QXQVvKSB1dmEoTeBNqSCGm7oyPTkItAvawlHQdX8i+WVKcygqzR4=;Ubgjsi5u9IWFxDJX3gjTvg=="
 ---
 

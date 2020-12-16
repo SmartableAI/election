@@ -240,6 +240,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "DeVos urges career staff to ‘be the resistance’ as Biden takes over"
+    excerpt: "The secretary's remarks come after nearly four years of frequently sparring with the career employees of her department."
+    publishedDateTime: 2020-12-16T00:06:00Z
+    webUrl: "https://www.politico.com/news/2020/12/15/betsy-devos-biden-education-department-445900"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/15/betsy-devos-biden-education-department-445900"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/15/betsy-devos-biden-education-department-445900"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/a8/53/14b4729a45d19396481a7440ac6a/gettyimages-1255052290-2-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "‘In Bad Shape and Getting Worse,’ Guantánamo Poses Headaches for Biden"
     excerpt: "The new administration confronts decaying infrastructure and a military justice system moving at a glacial pace."
     publishedDateTime: 2020-12-15T18:27:00Z
