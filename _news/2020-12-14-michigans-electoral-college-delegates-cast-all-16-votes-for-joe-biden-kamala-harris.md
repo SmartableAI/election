@@ -365,17 +365,33 @@ related:
         isCached: true
   - title: "Trump asking about special prosecutor for Hunter Biden"
     excerpt: "President Donald Trump is considering pushing to have a special counsel appointed to advance the federal tax investigation into the son of President-elect Joe Biden"
-    publishedDateTime: 2020-12-16T02:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-special-prosecutor-hunter-biden-74750242"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-special-prosecutor-hunter-biden-74750242"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-special-prosecutor-hunter-biden-74750242"
+    publishedDateTime: 2020-12-16T06:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-asking-about-special-prosecutor-for-hunter-biden/2020/12/15/33d3f186-3f40-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-asking-about-special-prosecutor-for-hunter-biden/2020/12/15/33d3f186-3f40-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-asking-about-special-prosecutor-for-hunter-biden/2020/12/15/33d3f186-3f40-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump voters accept Biden victory 'with reservations'"
+    excerpt: "For weeks, President Donald Trump has been on a mission to convince his loyal base that his victory was stolen and the contest rigged"
+    publishedDateTime: 2020-12-16T05:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-voters-accept-biden-victory-reservations-74753007"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-voters-accept-biden-victory-reservations-74753007"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-voters-accept-biden-victory-reservations-74753007"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_9a54050bd77943bdadcf2a1fc6120bc3_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e1541ebcbf7f4243b9af5652b28619f1_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -1050,6 +1066,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Trump ally congratulates Biden, White House talks 'ongoing litigation'"
+    excerpt: "But when speaking to reporters later on, White House press secretary Kayleigh McEnany referred to \"ongoing litigation\" over the election. The electoral college formally confirmed Joe Biden's victory over Donald Trump on Monday."
+    publishedDateTime: 2020-12-16T06:07:00Z
+    webUrl: "https://www.bbc.com/news/av/election-us-2020-55326989"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 120
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p01tlf61.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Here’s what Kamala Harris is likely to take on as Biden’s vice president"
     excerpt: "The vice presidency may be the most loosely defined job in American politics. But all indications point to Kamala Harris being a consequential second in the White House."
     publishedDateTime: 2020-11-10T05:31:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Biden makes plea to Georgia voters"
 excerpt: "Watch \"Joe Biden makes plea to Georgia voters in the Senate runoff races in the state as Republicans acknowledge the president-elect's victory\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
 publishedDateTime: 2020-12-16T02:20:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201216001400-joe-biden-makes-plea-to-georgia-voters-in-the-senate-runoff-races-in-the-state-as-republicans-acknowledge-the-president-elects-victory/"
-webUrl: "https://www.cbsnews.com/live/video/20201216001400-joe-biden-makes-plea-to-georgia-voters-in-the-senate-runoff-races-in-the-state-as-republicans-acknowledge-the-president-elects-victory/"
+originalUrl: "https://www.cbsnews.com/live/video/20201216041358-joe-biden-makes-plea-to-georgia-voters-in-the-senate-runoff-races-in-the-state-as-republicans-acknowledge-the-president-elects-victory/"
+webUrl: "https://www.cbsnews.com/live/video/20201216041358-joe-biden-makes-plea-to-georgia-voters-in-the-senate-runoff-races-in-the-state-as-republicans-acknowledge-the-president-elects-victory/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/16/story_08131867_1608078664.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/16/story_08134266_1608092284.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -1061,6 +1061,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "08/rgZXVrWo7UVlY3BQ4zrUpf6Q51BysHfHa/wx6lSObvR5D3w3JwIdATo0Q53Erv7VWYPA3NAC4EV8jwGWfK4GAG+73Z0J1GrGDzAbwHgb4FWP3nmGhhMVToWoo7v7anNktNGK9gF5ND1C2RJXiS28iGyvCDMRZQrs3nsftNi98x/uIKq40QpD/xlcLJc2MAZ6cJ57Yc8oHM2qwEY2ZKGmkfSNljsHTiVccd2pko5Itnifz7+38yAMxRn/0LroYtVqXz5EzuLbfFPHHX4N5C4b7Jg9qW9MdwRdde1AQTtoz7Cr1BWnI4lOPDj7C7rOIvz4ApdKBk6CxA/rkhxUVzxGvm6NiSEr60k72WHk/Znk=;7Dlr3EKeqWNopaKb/4djiA=="
+secured: "LF6EBvN/9F2erC7n/JWSp1Wt75f2QAeiyeJQgKIt0h7RGIFsGvHsjjywPAsF6l2CoaAsgm3YXWFZUU4+1bpd2W0RrrnhT7xDGBhfcR0qhIi81orrpkJKtdT1QQcyFikslktQ4DVpDKs92SKnUcslVicmAbLX+JEnfP8kqPax+peSypvVy4RdzKKchD4yUOH9lZERdYFrN+MeUcuTB1g/2c6IWUbI1A9ecfvuyUSXtSX/wzsHGAi1eSHG5mgct0NNWrG8Cyh4URZ/dYrzMUzTolyXvqg5Jchza9ljZRaa/6foldM7/ZIJ1HPqDq3bUhUAOhoChPdcnnMW+h73lekNkGmrGO/JuohukUs58G65BRM=;HcPplYFZGH5xjMnLOAE44Q=="
 ---
 

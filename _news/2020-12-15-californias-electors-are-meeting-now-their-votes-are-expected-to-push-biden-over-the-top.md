@@ -384,6 +384,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "'Vote like your lives depend on it': Biden makes urgent plea in Georgia Senate races"
+    excerpt: "During the Atlanta rally, Biden put the race in national terms, and said his administration's agenda is on the line."
+    publishedDateTime: 2020-12-15T22:16:00Z
+    webUrl: "https://www.politico.com/news/2020/12/15/biden-plea-georgia-senate-races-445705"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/15/biden-plea-georgia-senate-races-445705"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/15/biden-plea-georgia-senate-races-445705"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 128
+    images:
+      - url: "https://static.politico.com/91/3f/2dcd541d43819ed67adbd7930921/gettyimages-1291478059-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "'Publicity stunt': AGs in battleground states blast Texas counterpart for challenging Biden's win"
     excerpt: "Texas Attorney General Ken Paxton wants the Supreme Court to invalidate election results in four states, citing repeatedly debunked allegations."
     publishedDateTime: 2020-12-08T18:50:00Z

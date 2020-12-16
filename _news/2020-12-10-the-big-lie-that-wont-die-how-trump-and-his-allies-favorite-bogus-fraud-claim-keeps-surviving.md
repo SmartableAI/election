@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump retweeted a call to have him jailed but Georgia Gov. Brian Kemp still won't concede that Trump lost the election"
+    excerpt: "In a new interview, Kemp declined to say that the election was over, while Trump retweeted a call for Kemp to be jailed."
+    publishedDateTime: 2020-12-16T05:41:00Z
+    webUrl: "https://www.businessinsider.com/after-being-taunted-by-president-georgia-gov-kemp-backs-trump-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/after-being-taunted-by-president-georgia-gov-kemp-backs-trump-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/after-being-taunted-by-president-georgia-gov-kemp-backs-trump-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5fd9795a6524f10019792432?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "xJGf8R/oeAK+hipHk7hjH5K/8MxhLX4WdI9gAVNq0DyXiPze1LEAb0bjfF8KKYGfHkF2hW1Lf+FDzkSu6SqD/Xqbu+i0aAhXAJhMUkCDE97R2VQzPStZISi3jU6gKsDcfUOwZdhw28r6k30GmiuR/VbvKeYny3OptCrS3sk8Z84RG6MyKbh78F3+Z3hS39buoVfgm2ZfWYU5S03DTzybPPxXo5J9UHoQOFxQ8Vu8qmzT1FmYqi+rbZ07LJCnKtusNZUWS99puVqk71AutaTuEOkFSARQWmyOhyqgMIjUm+EAglUJPlZ0ukIkQxkHztuylsiWGAK7IJJEg1OGaUpx+iqFkeqwvg0so7GNVBicB4U=;8ELnHlP2HlqkUInSdw/5dQ=="
 ---

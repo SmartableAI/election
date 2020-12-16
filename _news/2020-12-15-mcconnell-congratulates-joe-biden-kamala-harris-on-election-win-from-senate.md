@@ -76,6 +76,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Biden inauguration planners urge supporters to skip event due to COVID-19"
+    excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the Jan. 20 festivities will be heavily pared down and urged supporters to prevent the spread of the coronavirus by not coming to the event. "
+    publishedDateTime: 2020-12-16T05:14:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_qh4HN1ntBg/live-updates-biden-12-16-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-12-16-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-16-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/720c3b05-0120-4bac-9997-05b32886b143/b7f1c478-7057-4cc1-b544-e432868cb4b4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden urges Americans to sit out inauguration to stop spread of coronavirus"
     excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the festivities will be heavily pared down and urged supporters not to come to the White House to prevent the spread of COVID-19."
     publishedDateTime: 2020-12-15T22:25:00Z

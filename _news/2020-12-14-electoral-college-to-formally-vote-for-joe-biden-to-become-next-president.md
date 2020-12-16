@@ -444,6 +444,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Biden's challenge: Creating a COVID-19-free White House"
+    excerpt: "Three blocks from the White House, office space for more than 500 Biden transition staffers sits mostly idle. The government is shipping out laptops so staffers can work from home. President-elect Joe Biden,"
+    publishedDateTime: 2020-12-16T05:39:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/bidens-challenge-creating-covid-19-free-white-house-74753046"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_10cae1e803da4b8c8f885e994a6b31f1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "'The people prevailed': Biden addresses nation as electoral college affirms victory - live"
     excerpt: "California – which has more electoral votes than any other state – sealed the presidency for Joe Biden"
     publishedDateTime: 2020-12-15T01:08:00Z

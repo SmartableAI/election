@@ -45,8 +45,8 @@ related:
         isCached: true
   - title: "Coronavirus live news: London enters tier 3 restrictions; Trump will 'absolutely' encourage vaccine use"
     excerpt: "One in four people globally may not get vaccines until 2022; EU likely to approve vaccine within days; Canada signs deal to accelerate Moderna vaccine deliveries"
-    publishedDateTime: 2020-12-16T04:36:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary?page=with:block-5fd98e828f08a72f01adc0a3"
+    publishedDateTime: 2020-12-16T06:08:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary?page=with:block-5fd9936a8f08758977b3f0ed"
     ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary"
     type: article

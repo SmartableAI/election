@@ -2710,6 +2710,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Live politics updates: Newt Gingrich savaged for claiming ballot dropboxes hurt GOP's chances; Donald Trump to veto defense bill"
+    excerpt: "Trump to veto defense spending bill; Pelosi calls for VA chief to resign over handling of sexual assault case – politics updates."
+    publishedDateTime: 2020-12-16T05:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/13/live-politics-updates-joe-biden-donald-trump/6529431002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6529431002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6529431002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 96
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/01/24/USAT/da2a9acc-8192-4847-abf2-98a0cf57e922-Newt_Gingrich.JPG?auto=webp&crop=2425,1364,x0,y321&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Local Matters: Georgia's Republican governor rejects Trump's request to call special session to overturn election results"
     excerpt: "Georgia's Republican Governor Brian Kemp has rejected a request from President Trump to call a special session to overturn the results of the November election. In a statement Sunday, Kemp said Mr. Trump asked him to choose a new slate of presidential electors for when the electoral college casts its official vote next week,"
     publishedDateTime: 2020-12-08T02:02:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6484311002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6484311002"
 type: article
 quality: 150
-heat: 3970
+heat: 3990
 published: true
 
 provider:
@@ -2696,6 +2696,22 @@ related:
     quality: 96
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/12/14/USAT/5131c139-0808-4d6e-9d1b-7b169af71897-AP20348471527844.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Live politics updates: Newt Gingrich savaged for claiming ballot dropboxes hurt GOP's chances; Donald Trump to veto defense bill"
+    excerpt: "Trump to veto defense spending bill; Pelosi calls for VA chief to resign over handling of sexual assault case – politics updates."
+    publishedDateTime: 2020-12-16T05:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/13/live-politics-updates-joe-biden-donald-trump/6529431002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6529431002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6529431002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 96
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/01/24/USAT/da2a9acc-8192-4847-abf2-98a0cf57e922-Newt_Gingrich.JPG?auto=webp&crop=2425,1364,x0,y321&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

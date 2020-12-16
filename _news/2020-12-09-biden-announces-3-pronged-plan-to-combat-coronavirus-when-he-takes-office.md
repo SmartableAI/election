@@ -878,6 +878,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden tries out for new role in Georgia: Party leader"
+    excerpt: "So what does Joe Biden want out of Georgia? Two new senators and a Democratic Senate majority, duh. But what he would also like would be to steer his party in a direction that might let him govern. The results of the Jan."
+    publishedDateTime: 2020-12-15T21:14:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-tries-out-for-new-role-in-georgia-party-leader"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tries-out-for-new-role-in-georgia-party-leader.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tries-out-for-new-role-in-georgia-party-leader.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c3bd447-8a3b-48ca-855f-1905ec761300/f9d04390-711f-4fdc-ae12-5d8d954e431c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House Republicans demand hearing on Big Tech's censorship of Hunter Biden stories"
     excerpt: "House Republicans have doubled down on their request for an emergency hearing on Big Tech's censorship of stories damaging to Hunter Biden, the president-elect's son, just days before the Nov. 3 election."
     publishedDateTime: 2020-12-15T16:17:00Z

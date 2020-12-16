@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html"
 type: article
 quality: 175
-heat: 695
+heat: 715
 published: true
 
 provider:
@@ -366,6 +366,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_51/3435880/201215-biden-harris-jm-1146_84e0ab047d805fe85c0ad3c1db870fd5.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "'Vote like your lives depend on it': Biden makes urgent plea in Georgia Senate races"
+    excerpt: "During the Atlanta rally, Biden put the race in national terms, and said his administration's agenda is on the line."
+    publishedDateTime: 2020-12-15T22:16:00Z
+    webUrl: "https://www.politico.com/news/2020/12/15/biden-plea-georgia-senate-races-445705"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/15/biden-plea-georgia-senate-races-445705"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/15/biden-plea-georgia-senate-races-445705"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 128
+    images:
+      - url: "https://static.politico.com/91/3f/2dcd541d43819ed67adbd7930921/gettyimages-1291478059-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "California’s electors are meeting now. Their votes are expected to push Biden over the top."
     excerpt: "California’s 55 electors are meeting now as they prepare to cast their votes for President-elect Joseph R. Biden Jr. Their votes will push Mr. Biden over the 270 threshold to win the White House, formally delivering him a victory after a disruptive period in the nation’s history marked by extraordinary efforts by President Trump to overturn the results of the presidential election."
