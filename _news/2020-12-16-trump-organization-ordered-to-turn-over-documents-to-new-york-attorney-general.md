@@ -1,0 +1,54 @@
+---
+category: news
+title: "Trump Organization Ordered to Turn Over Documents to New York Attorney General"
+excerpt: "A New York judge ordered the Trump Organization to hand over documents related to its sprawling Westchester County estate to the state attorney general’s office as it pursues a civil fraud investigation into the president and his company."
+publishedDateTime: 2020-12-16T04:35:00Z
+originalUrl: "https://www.wsj.com/articles/trump-organization-ordered-to-turn-over-documents-to-new-york-attorney-general-11608073387"
+webUrl: "https://www.wsj.com/articles/trump-organization-ordered-to-turn-over-documents-to-new-york-attorney-general-11608073387"
+ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-ordered-to-turn-over-documents-to-new-york-attorney-general-11608073387"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-ordered-to-turn-over-documents-to-new-york-attorney-general-11608073387"
+type: article
+quality: 131
+heat: -1
+published: false
+
+provider:
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+  - Republican Voice
+
+images:
+  - url: "https://images.wsj.net/im-273956/social"
+    width: 1280
+    height: 640
+    isCached: true
+
+related:
+  - title: "Pompeo applauds Barr's loyalty to Trump following AG's resignation"
+    excerpt: "Secretary of State Mike Pompeo praised Attorney General William Barr and lauded his loyalty to President Trump just a day after Barr resigned from his post. "
+    publishedDateTime: 2020-12-16T00:34:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hj3tsXQjoVU/mike-pompeo-william-barr-resignation-trump-loyalty"
+    ampWebUrl: "https://www.foxnews.com/politics/mike-pompeo-william-barr-resignation-trump-loyalty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-william-barr-resignation-trump-loyalty.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a861ef0-3d82-42aa-9033-ade01358a10c/f1e888a1-a635-407b-94bb-f9ebfb0558ba/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "PrazSR55fKb6RwM85YVABQtrv1Q0wPkyjY9IwpQp2L388iH3CL/W7w6vIFt8hFPuXDJvroNJR0R64O5+AIqGlC42wXV8m/VsYmhmHoG4Ds9zZXQyohC0F/Sphp/SUfA+QuKzdYfNrSxtOgDNoXdWpN48ACY9r2yqDK46qGhXjilCMtWFDwkEnH9EiEHN7K7c9jUSi8AFf2VNneNnayD0L0tz3g/NLP1O2Q2TYtFdYG/1V2wap5TZkTJ9hAjIoLcbA5acVyDsoxNfJBKVoztPSu3bzI0mSpXqNlxpPUhHRVDhIgJMJVUeacPhzNZcUjOha3dRByoCUEJIuG7XRgHQ4aO/UEka0A1cOgxbvg3SjAc=;5A/BLEasupUex+vy9E2itg=="
+---
+

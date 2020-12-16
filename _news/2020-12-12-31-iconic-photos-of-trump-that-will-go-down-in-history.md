@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Some advisers urge Trump not to veto defense bill: source"
+    excerpt: "U.S. President Donald Trump is being urged by some advisers not to go ahead with his plan to veto a major defense bill because it is all but certain to be overridden by the U.S. Congress, a source familiar with the situation said on Tuesday."
+    publishedDateTime: 2020-12-16T03:06:00Z
+    webUrl: "https://www.reuters.com/article/usa-defense-congress-trump/some-advisers-urge-trump-not-to-veto-defense-bill-source-idUSL1N2IV2L2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IV2L2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IV2L2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544682785&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1QK"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump faces Dec. 23 deadline to veto - or sign - massive NDAA defense bill"
     excerpt: "U.S. President Donald Trump has until Dec. 23 to decide whether to veto the $740 billion National Defense Authorization Act or allow the annual measure setting policy for the Department of Defense to become law,"
     publishedDateTime: 2020-12-14T16:32:00Z

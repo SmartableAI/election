@@ -940,6 +940,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden hits Georgia campaign trail ahead of runoffs"
+    excerpt: "Politics Biden hits Georgia campaign trail ahead of runoffs. Posted [NFA] Hours after speaking with Republican Senator Mitch McConnell and vowing to try to work together, Presiden"
+    publishedDateTime: 2020-12-16T00:52:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD94IM73"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201216&i=OVD94IM73&r=OVD94IM73&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Biden makes plea to Georgia voters"
     excerpt: "Watch \"Joe Biden makes plea to Georgia voters in the Senate runoff races in the state as Republicans acknowledge the president-elect's victory\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
     publishedDateTime: 2020-12-16T02:20:00Z

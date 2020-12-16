@@ -924,6 +924,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Laura Ingraham: Chinese officials know Biden win was ‘huge victory’ for Communist Party"
+    excerpt: "The Chinese Communist Party (CCP) isn’t trying to hide their excitement at Joe Biden’s presidential election victory, Laura Ingraham said Tuesday night."
+    publishedDateTime: 2020-12-16T04:50:00Z
+    webUrl: "https://www.foxnews.com/media/laura-ingraham-biden-china-muscle-flexing-ccp"
+    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-biden-china-muscle-flexing-ccp.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-biden-china-muscle-flexing-ccp.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b02ae19e-dca7-4ce3-8d45-b0ac32921107/86b32ae9-3b4a-400e-8113-1546bc7ef335/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "US sanctions could further strain relations with NATO ally Turkey amid Biden transition: analysts"
     excerpt: "The State Department announced Monday that the U.S. is imposing sanctions on Turkey over its acquisition of Russian S-400 air missile defense system, which could further strain relations with the longtime NATO ally as President-elect Joe Biden prepares to take office,"
     publishedDateTime: 2020-12-15T01:33:00Z

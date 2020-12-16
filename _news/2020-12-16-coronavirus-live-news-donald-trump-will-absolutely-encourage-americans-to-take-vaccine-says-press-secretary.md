@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Coronavirus live news: London enters tier 3 restrictions; Trump will 'absolutely' encourage vaccine use"
+    excerpt: "One in four people globally may not get vaccines until 2022; EU likely to approve vaccine within days; Canada signs deal to accelerate Moderna vaccine deliveries"
+    publishedDateTime: 2020-12-16T04:36:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary?page=with:block-5fd98e828f08a72f01adc0a3"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 109
+    images:
+      - url: "https://i.guim.co.uk/img/media/a9e40093460b49c3609271c8c600e4790fd83685/0_0_4200_2520/master/4200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=feb9d1fec72b9a323db0e7ecf911894d"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Coronavirus live news: Trump will 'absolutely' encourage Americans to take Covid vaccine, says press secretary"
     excerpt: "One in four people globally may not get vaccines until 2022; EU likely to approve vaccine within days; Canada signs deal to accelerate Moderna vaccine deliveries"
     publishedDateTime: 2020-12-16T00:40:00Z
@@ -94,6 +110,6 @@ related:
         height: 630
         isCached: true
 
-secured: "YsRA3s95Lo/eWnGg3JDdLYrlB5lBCKWtfezRhf6iDLE+Yyb9vCeRcWozHaGBIhvVnr9pMBnwfRyjSzG2FZRIuUxJD78t+TuNdqeJ/aSHn9zF6lY3vfHTWx1jT5s46S+SuZEK814RP+nLI/dECsaZrtf/8GD5fOsCvckRb9SpnxdKo4rdn8rW3qs70EJaNbfpjgPs8gDEMvEnc4dzS/46LYqp4Q4U2UMgHpqCYT4PomdrFLJ6m22bp92Q8jPsSHU+Lxi6OLVcRRkWrVBrB87LFMSa92T1b5WWGxloEDy7xKOMEfojKQzCfhYK2WLW/ZLgOabZRPQLCS5QrKel1EqsWeNsK1ZZxxC2xgQ13ER3PO4=;DoWCq9nuwqx2QHBb6KMSmQ=="
+secured: "oIJTWnWsjTvwRC0tlIZuYFPBh+28Q2rYUB4MEskoerXEvMB5kzK4Io/M4vW2DUSnlij/tKnhMX6GJk9Vy8YgwaMIAcE0VBdP3VpUwHhtwjjdXzJkIbY3L8g2uLZ9EVZoR1ki1YnJEMDOpImYOCqkfdC8O/9BYUjLTdFnBi4UlKXl+ZzMHq+8Q2eVMIsyf8OcwuvwKLQKoucIXZC1oXX8YgLiA+E/+plwOgsFue6qwrXUABN7AzfWoSUA94UxnM1hvlxr+4zUJay+B3bd8IvdpNNnmAvWa/FdkTpT1Wlm98Bfu+1ZVfbv0qWPs5kgcwtIuSe3NvDewL99t6LDYelcHZI+JoyK8VDfNhfwfQlZCyBDkQ6TxHCGSlFFoQSMV69MMdGH7fuM/zZNZbeHRI5lWVAFC5Fb4zVcBj0vSMX211kZ94oRJRuyXz2tUse9jfQpD8PnzsOapSuvn2BIJ/CizHf5FxFcovTDw8OpAgZ4afkHALhUGYIWF4MdveBo8Iz7uYBPNCwcipicYO6lv/n4iA==;rbtT3XwnFoI/gt+SVKSgZw=="
 ---
 

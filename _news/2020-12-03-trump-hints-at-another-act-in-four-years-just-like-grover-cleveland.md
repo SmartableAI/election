@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump campaign asks supporters if the President should run in 2024"
+    excerpt: "President Donald Trump has not conceded the presidential election, but it appears a fundraising appeal from his campaign may have finally done so.\n    \n"
+    publishedDateTime: 2020-12-16T02:42:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DE3qbVoTzKM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/trump-2024-run/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/trump-2024-run/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201213211352-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How Trump raised massive amounts of money after the election and other takeaways from campaign filings"
     excerpt: "President Donald Trump raised staggering amounts after losing the White House. Casino billionaire Sheldon Adelson kept donating in the election's waning days, and South Carolina Sen. Lindsey Graham set a new fundraising high water mark for Senate incumbents.\n    \n"
     publishedDateTime: 2020-12-04T20:59:12Z

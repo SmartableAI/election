@@ -924,6 +924,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Laura Ingraham: Chinese officials know Biden win was ‘huge victory’ for Communist Party"
+    excerpt: "The Chinese Communist Party (CCP) isn’t trying to hide their excitement at Joe Biden’s presidential election victory, Laura Ingraham said Tuesday night."
+    publishedDateTime: 2020-12-16T04:50:00Z
+    webUrl: "https://www.foxnews.com/media/laura-ingraham-biden-china-muscle-flexing-ccp"
+    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-biden-china-muscle-flexing-ccp.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-biden-china-muscle-flexing-ccp.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b02ae19e-dca7-4ce3-8d45-b0ac32921107/86b32ae9-3b4a-400e-8113-1546bc7ef335/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden breaks silence on Hunter for first time since federal tax investigation surfaced"
     excerpt: "Hunter Biden disclosed earlier this week that the U.S. Attorney’s Office in Delaware had an active investigation into his tax history. The investigation began in 2018, a source"
     publishedDateTime: 2020-12-11T22:03:00Z

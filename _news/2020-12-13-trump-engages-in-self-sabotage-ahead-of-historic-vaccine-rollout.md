@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/donald-trump-william-bar
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/donald-trump-william-barr-pfizer-vaccine/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Trump administration finalizes rollback of showerhead standards"
+    excerpt: "The US Department of Energy on Tuesday finalized a pair of new rules rolling back water efficiency standards on showerheads and other consumer appliances, punctuating President Donald Trump's long-documented water flow grievances in the final weeks of his administration.\n    \n"
+    publishedDateTime: 2020-12-16T02:42:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZVeIYi6Xbho/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/showerhead-standards-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/showerhead-standards-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201213211352-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "+7QEtvZJYXx1uF5Nc+DMeDCpr2vTCHRjP0s6MRWSnjNc5zDl+xylJ4JC+xTIJ4z6noc/P6JC0h6PZJLt56qnYwyX6zfcPZBGUnCkY2cVWgPswCQNjNvF1uFlVhCsRxWZBCucOQFNApWabl29FxjKuOxkAaurTUMH7SpWYEsH0FYJ991LAr+9PQp8zAm+TCP/Wa8S2WV9qHW8J2VNMKtg3jrGb/3qRKjTvDLzYAuh8anYu02VQo5H52c5f9Gbo0+wg3/CvenS67CHCW3tYe4vG/1JEeL/rZ/Jy0NXuXDoolRe+Buz/sx1ON/+kwno9vUJM4dGZGeejM45lPhwb7k9P6dWaxBYhNWvAiU4/hnLBwE=;9fGJ1hEKfzdcC+M784AVCA=="
 ---
