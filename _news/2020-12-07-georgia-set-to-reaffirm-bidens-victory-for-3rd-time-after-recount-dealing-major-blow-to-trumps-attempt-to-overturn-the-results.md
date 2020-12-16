@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Congressional inaugural committee announces attendance will be limited for Biden's inauguration"
+    excerpt: "The congressional committee tasked with overseeing the presidential inauguration announced Wednesday planned limitations on the number of guests in attendance for President-elect Joe Biden's inauguration next month.\n    \n"
+    publishedDateTime: 2020-12-16T17:59:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/T7yqsiZqKY0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/inauguration-tickets-joe-biden-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/inauguration-tickets-joe-biden-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110115300-capitol-building-inauguration-stage-1109-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration pushes 'midnight regulations' after breaking records for final-year rulemaking "
     excerpt: "President Donald Trump's political appointees are finalizing an array of last-minute federal regulations ahead of Joe Biden's inauguration, including rules that would make it harder to enforce environmental protections, tighten immigration, remove penalties for killing birds, and possibly eliminate food"
     publishedDateTime: 2020-12-06T14:14:32Z

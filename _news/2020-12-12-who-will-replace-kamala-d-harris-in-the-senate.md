@@ -914,6 +914,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Latest: Biden touts Cabinet diversity, names Buttigieg"
+    excerpt: "President-elect Joe Biden says his Cabinet will be more representative of the American people than any other in U.S. history"
+    publishedDateTime: 2020-12-16T05:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-set-to-pick-mccarthy-as-us-climate-czar/2020/12/15/11ac0a3c-3f34-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-set-to-pick-mccarthy-as-us-climate-czar/2020/12/15/11ac0a3c-3f34-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-set-to-pick-mccarthy-as-us-climate-czar/2020/12/15/11ac0a3c-3f34-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Time’s Person of the Year is Joe Biden and Kamala Harris, a ticket that ‘represents something historic’"
     excerpt: "Joe Biden is the latest in a long line of presidents to be named Time's Person of the Year -- but Kamala Harris is the first vice-president to also receive the title."
     publishedDateTime: 2020-12-11T04:58:00Z
@@ -1343,6 +1359,22 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/42d63cf4-bb12-4b19-8e4d-8ed99c6dc512_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Mitch McConnell congratulates Joe Biden, Kamala Harris for election win"
+    excerpt: "The Electoral College has spoken,” McConnell said during a speech on the Senate floor in which he also praised President Donald Trump's accomplishments. McConnell said he wanted to “congratulate President-elect Joe Biden” and Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-12-15T00:00:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/12/15/mitch-mcconnell-congratulates-joe-biden-kamala-harris-election/3903325001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/3903325001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3903325001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/28/USAT/64162e8d-b664-4755-b472-a4d5aae214eb-AP_Kentucky_McConnell_1.jpg?auto=webp&crop=5414,3046,x0,y275&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden's inauguration to be largely virtual"
     excerpt: "Posted [NFA] President-elect Joe Biden and Vice President-elect Kamala Harris will be sworn into office on Jan. 20 on the s"

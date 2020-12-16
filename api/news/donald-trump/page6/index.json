@@ -2,6 +2,214 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-18-trump-fires-top-us-election-cybersecurity-official-who-defended-vote.md",
+      "title": "Trump fires top U.S. election cybersecurity official who defended vote",
+      "excerpt": "President Donald Trump on Tuesday fired top cybersecurity official Chris Krebs in a message on Twitter, accusing him without evidence of making a \"highly inaccurate\" statement affirming the Nov. 3 election was secure and rejecting claims of fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-usa-election-trump-krebs-idUKKBN27Y01A",
+      "originalUrl": "https://www.reuters.com/article/uk-usa-election-trump-krebs-idUKKBN27Y01A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 880,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541581388&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH07G",
+          "width": 753,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27Y01A",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y01A",
+      "publishedDateTime": "2020-11-18T01:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-us-drops-strong-case-against-ex-mexico-defense-chief-salvador-cienfuegos-a-huge-gift-from-donald-trump-former-dea-official-says.md",
+      "title": "US drops 'strong' case against ex-Mexico defense chief Salvador Cienfuegos, a 'huge gift' from Donald Trump, former DEA official says",
+      "excerpt": "Salvador Cienfuegos, arrested in Los Angeles last month on drug trafficking and money laundering charges, faced 10 years in U.S. prison if convicted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/11/17/us-drops-case-salvador-cienfuegos-mexico-drug-trafficking/6336288002/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/11/17/us-drops-case-salvador-cienfuegos-mexico-drug-trafficking/6336288002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/16/USAT/95d90aa0-817b-4688-ac8a-e3c1212d5330-AP20290091049365.jpg?auto=webp&crop=3003,1690,x0,y159&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6336288002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6336288002",
+      "publishedDateTime": "2020-11-17T19:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-twitter-fact-checks-donald-trump-tweet-about-the-firing-of-chris-krebs-on-twitter.md",
+      "title": "Twitter fact-checks Donald Trump tweet about the firing of Chris Krebs (on Twitter)",
+      "excerpt": "Twitter appended a label to fact-check President Donald Trump’s tweet about his firing of the nation’s top election security official Chris Krebs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/tech/2020/11/17/twitter-fact-checks-donald-trump-tweet-highly-inaccurate-chris-krebs-firing/6335471002/",
+      "originalUrl": "https://www.usatoday.com/story/tech/2020/11/17/twitter-fact-checks-donald-trump-tweet-highly-inaccurate-chris-krebs-firing/6335471002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/18/USAT/01a35a8f-239a-485d-9cf8-fc2c341d56b5-AP_20297817077474.jpg?auto=webp&crop=4663,2623,x0,y236&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6335471002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6335471002",
+      "publishedDateTime": "2020-11-17T18:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-trump-fed-nominee-shelton-blocked-in-senate-for-now.md",
+      "title": "Trump Fed nominee Shelton blocked in Senate, for now",
+      "excerpt": "The U.S. Senate on Tuesday blocked President Donald Trump's controversial nomination of Judy Shelton to the Federal Reserve's board, though a White House spokesman expressed confidence she would eventually be confirmed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-fed-shelton-blocked-idUSKBN27X2UD",
+      "originalUrl": "https://www.reuters.com/article/us-usa-fed-shelton-blocked-idUSKBN27X2UD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541544795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1PP",
+          "width": 840,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27X2UD",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2UD",
+      "publishedDateTime": "2020-11-17T14:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump.md",
       "title": "Rockets ‘revolt’ linked to owner Tilman Fertitta’s ties to Trump",
       "excerpt": "The Houston Rockets are having one of the more tumultuous offseasons in the NBA. Both of their superstars, Russell Westbrook and James Harden, have already requested trades. One NBA insider said",
@@ -1357,224 +1565,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-parler-mewe-gab-gain-momentum-as-conservative-social-media-alternatives-in-post-trump-age.md",
-      "title": "Parler, MeWe, Gab gain momentum as conservative social media alternatives in post-Trump age",
-      "excerpt": "The rise of conservative-friendly platform Parler raises the specter of further political polarization through digital means.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2020/11/11/parler-mewe-gab-social-media-trump-election-facebook-twitter/6232351002/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2020/11/11/parler-mewe-gab-social-media-trump-election-facebook-twitter/6232351002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/18/USAT/8c399606-d7e9-41de-bdad-fa14b9a11576-AP_Election_2020_Social_Media.jpg?auto=webp&crop=2050,1154,x0,y50&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6232351002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6232351002",
-      "publishedDateTime": "2020-11-11T01:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-fox-news-cuts-away-from-trump-campaign-news-conference-cant-in-good-countenance-continue-showing-this.md",
-      "title": "Fox News cuts away from Trump campaign news conference: 'Can't in good countenance continue showing this'",
-      "excerpt": "Fox News anchor Neil Cavuto broke in and cut away from the news conference after \"explosive charges\" were made about voter fraud without evidence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/09/fox-cuts-coverage-kayleigh-mcenany-trump-campaign-press-conference/6228124002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/09/fox-cuts-coverage-kayleigh-mcenany-trump-campaign-press-conference/6228124002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/09/USAT/c71df6e1-0af4-437e-8010-343af0b5c535-Fox_News.PNG?auto=webp&crop=981,552,x207,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6228124002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6228124002",
-      "publishedDateTime": "2020-11-11T01:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-jimmy-kimmel-trump-is-a-reality-show-host-who-cant-accept-reality.md",
-      "title": "Jimmy Kimmel: Trump Is a Reality Show Host Who Can’t Accept Reality",
-      "excerpt": "Republicans are handling the president with kid gloves because those are the only gloves that fit him,” Kimmel joked of President Trump’s refusal to concede to Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/11/arts/11latenight/11latenight-facebookJumbo.png",
-          "width": 865,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.amp.html",
-      "publishedDateTime": "2020-11-10T23:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-why-a-trump-loss-may-be-no-match-for-rupert-murdochs-realpolitik.md",
-      "title": "Why a Trump Loss May Be No Match for Rupert Murdoch’s Realpolitik",
-      "excerpt": "Fox News has lasted through “multiple presidents, and they’re going to be around for multiple more,” said one right-wing media executive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/09/business/09murdoch-trump/09murdoch-trump-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.amp.html",
-      "publishedDateTime": "2020-11-10T18:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

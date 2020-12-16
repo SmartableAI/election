@@ -2,6 +2,224 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-02-trump-is-leaving-washington-as-he-governed-chaotically.md",
+      "title": "Trump is leaving Washington as he governed — chaotically",
+      "excerpt": "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684",
+      "originalUrl": "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_49/3432524/201202-donald-trump-mc-1314_76baad09f4ea18edab7aa6aafee2438b.JPG",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249684",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249684",
+      "publishedDateTime": "2020-12-02T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-as-trump-rages-voters-in-a-key-county-move-on-im-not-sweating-it.md",
+      "title": "As Trump Rages, Voters in a Key County Move On: ‘I’m Not Sweating It’",
+      "excerpt": "Pre-election tensions ran high in Bucks County, Pa. But Biden supporters there are increasingly comfortable tuning President Trump out and moving on, with an eye toward January.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/02/us/politics/02biden-doylestown1/02biden-doylestown1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.amp.html",
+      "publishedDateTime": "2020-12-02T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-while-cuban-americans-in-florida-came-out-big-for-trump-cubans-stuck-in-mexico-pinned-their-hopes-on-biden.md",
+      "title": "While Cuban-Americans in Florida came out big for Trump, Cubans stuck in Mexico pinned their hopes on Biden",
+      "excerpt": "\"I will remain hoping for a change. I'm glad Trump is out for good, and no thanks to my family in Florida,\" a Cuban doctor in Mexico told Insider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12",
+      "originalUrl": "https://www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc6cfb5037cbd00186133de?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12?amp",
+      "publishedDateTime": "2020-12-02T00:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-trump-allies-barr-giuliani-at-odds-on-discredited-election-fraud-claims.md",
+      "title": "Trump allies Barr, Giuliani at odds on discredited election fraud claims",
+      "excerpt": "Cracks emerged between two of President Donald Trump's key legal allies on Tuesday as Attorney General William Barr said his department had found no evidence of the widespread voter fraud Trump alleges,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-barr/trump-allies-barr-giuliani-at-odds-on-discredited-election-fraud-claims-idUSKBN28B685",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-barr/trump-allies-barr-giuliani-at-odds-on-discredited-election-fraud-claims-idUSKBN28B685",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 859,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543106880&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03GT",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28B685",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B685",
+      "publishedDateTime": "2020-12-01T22:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years.md",
       "title": "Donald Trump suggests 2024 presidential bid: 'I'll see you in four years'",
       "excerpt": "President makes comments to Republicans at a White House reception, where video shows dozens of people crammed together without masks",
@@ -1345,215 +1563,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-carl-bernstein-says-21-gop-senators-contemptuous-of-trump.md",
-      "title": "Carl Bernstein says 21 GOP senators contemptuous of Trump",
-      "excerpt": "Veteran Watergate sleuth Carl Bernstein took to Twitter to specifically “out” 21 Republican senators who he says have privately expressed contempt for President Donald Trump",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/f4f91ba0-2dfe-11eb-9dd6-2d0179981719_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/f4f91ba0-2dfe-11eb-9dd6-2d0179981719_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/f4f91ba0-2dfe-11eb-9dd6-2d0179981719_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/f4f91ba0-2dfe-11eb-9dd6-2d0179981719_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-23T18:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-trump-is-reportedly-worried-that-his-legal-team-is-made-up-of-fools-that-are-making-him-look-bad.md",
-      "title": "Trump is reportedly worried that his legal team is made up of 'fools that are making him look bad'",
-      "excerpt": "The president did not like seeing Rudy Giuliani's hair dye dripping down the side of the attorney's face at a news conference.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-concerned-with-legal-team-giuliani-rudy-election-sidney-powell-2020-11",
-      "originalUrl": "https://www.businessinsider.com/trump-concerned-with-legal-team-giuliani-rudy-election-sidney-powell-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fbc2bcd32f2170011f70c55?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-concerned-with-legal-team-giuliani-rudy-election-sidney-powell-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-concerned-with-legal-team-giuliani-rudy-election-sidney-powell-2020-11?amp",
-      "publishedDateTime": "2020-11-23T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-befriended-by-trump-populists-in-europes-east-brace-for-change.md",
-      "title": "Befriended by Trump, Populists in Europe’s East Brace for Change",
-      "excerpt": "Populist and authoritarian politicians in Central Europe, who viewed President Trump as a valuable ally, are bracing for the incoming Biden administration’s new stress on promoting democracy and the rule of law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/befriendedby-trump-populists-in-europes-east-brace-for-change-11606156894",
-      "originalUrl": "https://www.wsj.com/articles/befriendedby-trump-populists-in-europes-east-brace-for-change-11606156894",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-263590/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/befriendedby-trump-populists-in-europes-east-brace-for-change-11606156894",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/befriendedby-trump-populists-in-europes-east-brace-for-change-11606156894",
-      "publishedDateTime": "2020-11-23T10:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-melania-trump-celebrates-arrival-of-annual-white-house-christmas-tree.md",
-      "title": "Melania Trump celebrates arrival of annual White House Christmas tree",
-      "excerpt": "First lady Melania Trump on Monday celebrated the arrival of the annual White House Christmas tree — without President Trump or their son Barron Trump, who have attended the event in past",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/",
-      "originalUrl": "https://nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/Trump.1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/amp/",
-      "publishedDateTime": "2020-11-23T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

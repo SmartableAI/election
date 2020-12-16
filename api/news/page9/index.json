@@ -2,6 +2,323 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-04-the-technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet.md",
+      "title": "The Technology 202: Trump administration’s immigration feud with Silicon Valley isn't over yet",
+      "excerpt": "The Trump administration is continuing to wage war against Silicon Valley on immigration, even in its dwindling days in office. The Justice Department sued Facebook for allegedly illegally discriminating against U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/12/04/technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/04/technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LW6IDFBJG4I6XHBBHTCQDUEYD4.jpg&w=1440",
+          "width": 1440,
+          "height": 919,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/04/technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet/?outputType=amp",
+      "publishedDateTime": "2020-12-04T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-biden-wrestles-with-politics-in-effort-to-depoliticize-the-justice-department.md",
+      "title": "Biden wrestles with politics in effort to depoliticize the Justice Department ",
+      "excerpt": "Political questions from Democrats and a new Republican litmus test have suddenly become complicating factors in one of President-elect Joe Biden's most critical choices: picking a new Attorney General to lead the Justice Department out of its highly politicized era.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JrsNL3KCkDA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JrsNL3KCkDA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 271,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201129183807-biden-file-1125-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-search/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-search/index.html",
+      "publishedDateTime": "2020-12-04T03:03:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-in-race-to-cement-legacy-trump-pushes-dozens-of-midnight-regulations.md",
+      "title": "In race to cement legacy, Trump pushes dozens of 'midnight regulations'",
+      "excerpt": "The Trump administration is quietly racing to solidify its legacy, fulfill campaign promises and overhaul federal regulations that could take Joe Biden years to undo.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
+      "originalUrl": "https://abcnews.go.com/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-ap-er-201203_1607026156831_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
+      "publishedDateTime": "2020-12-04T02:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-republican-congressman-tells-trump-to-delete-your-account-after-he-tweeted-a-45-minute-speech-repeating-baseless-voter-fraud-claims.md",
+      "title": "Republican congressman tells Trump to 'delete your account' after he tweeted a 45-minute speech repeating baseless voter-fraud claims",
+      "excerpt": "Republican Rep. Adam Kinzinger, who represents Illinois' 16th District, quote-tweeted Trump on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/republican-congressman-tells-trump-to-delete-your-account-2020-12?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "originalUrl": "https://www.businessinsider.com/republican-congressman-tells-trump-to-delete-your-account-2020-12?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc8a986037cbd0018613869?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/republican-congressman-tells-trump-to-delete-your-account-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republican-congressman-tells-trump-to-delete-your-account-2020-12?amp",
+      "publishedDateTime": "2020-12-04T02:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-trump-pence-to-campaign-in-georgia-as-senate-runoff-turnout-concerns-grow-among-gop.md",
+      "title": "Trump, Pence to campaign in Georgia as Senate runoff turnout concerns grow among GOP",
+      "excerpt": "Mike Pence and President Donald Trump's rallies for Georgia's senators will be against a backdrop of growing concerns about GOP turnout in the Senate runoff election.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1483,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/pence-loeffler-perdue-gty-jc-201203_1607035893960_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "publishedDateTime": "2020-12-04T02:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-dangerously-viral-how-trump-supporters-spread-false-claims.md",
+      "title": "Dangerously viral: How Trump, supporters spread false claims",
+      "excerpt": "It took just a day for a cellphone video of a man hauling a large box into a Detroit election office to be viewed more than a million times",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_2d577ba5f467404c81900887ef2cd68b_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348",
+      "publishedDateTime": "2020-12-04T02:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-harris-on-her-working-relationship-with-biden-we-are-full-partners-in-this-process.md",
       "title": "Harris on her working relationship with Biden: 'We are full partners in this process' ",
       "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris may have been fierce rivals in the Democratic primary, but now, as they prepare to take control of the White House, they say they are full partners who agree on how to approach the country's most pressing issues.\n    \n",
@@ -127,7 +444,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 648,
+      "heat": 668,
       "tags": null,
       "images": [
         {
@@ -1037,334 +1354,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-kennedy-democrats-some-republicans-have-their-bowels-in-an-uproar-over-trump-not-conceding.md",
-      "title": "Kennedy: Democrats, some Republicans 'have their bowels in an uproar' over Trump not conceding",
-      "excerpt": "Sen. John Kennedy, R-La., said President Trump had every right to contest the results of the 2020 election in an appearance on \"America's Newsroom.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yaRhk-AF1gY/kennedy-democrats-republicans-bowels-uproar-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yaRhk-AF1gY/kennedy-democrats-republicans-bowels-uproar-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b3666d9-d0ce-4a8a-ac95-d2970fd93791/468e9eed-4dd8-4fcf-a499-59cddc9b2507/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kennedy-democrats-republicans-bowels-uproar-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kennedy-democrats-republicans-bowels-uproar-election.amp",
-      "publishedDateTime": "2020-12-03T08:22:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-simply-unthinkable-law-officers-call-for-halt-to-executions-in-trumps-final-weeks.md",
-      "title": "'Simply unthinkable': Law officers call for halt to executions in Trump's final weeks",
-      "excerpt": "Five executions are scheduled before Biden, who opposes capital punishment, takes office. Ninety current and former law officials want them to stop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/03/law-officers-call-halt-executions-trumps-final-weeks/3806399001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/03/law-officers-call-halt-executions-trumps-final-weeks/3806399001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/24/USAT/02a629ee-2141-493b-a18e-db31b05b3c81-iA01_NLINE_MUG_21.JPG?auto=webp&crop=1882,1059,x0,y100&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3806399001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3806399001",
-      "publishedDateTime": "2020-12-03T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-the-latest-biden-picks-deese-for-national-economic-council.md",
-      "title": "The Latest: Biden picks Deese for National Economic Council",
-      "excerpt": "President-elect Joe Biden has tapped former Obama administration senior economic adviser Brian Deese to be director of the National Economic Council",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-03T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-comey-to-teach-at-columbia-law-school-alongside-professor-who-leaked-trump-memo.md",
-      "title": "Comey to teach at Columbia Law School alongside professor who leaked Trump memo",
-      "excerpt": "Ex-FBI chief to teach a seminar called “Lawyers and Leaders.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qX6dge0i47g/comey-columbia-law-school-professor-leaked-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qX6dge0i47g/comey-columbia-law-school-professor-leaked-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a9640e1-b124-4884-981d-3231a1bcb7e3/ddd90e79-5e88-4cba-b1c1-498dbe63c867/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/comey-columbia-law-school-professor-leaked-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-columbia-law-school-professor-leaked-trump.amp",
-      "publishedDateTime": "2020-12-02T16:52:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-gov-michelle-lujan-grisham-turned-down-biden-administration-post-sources-say.md",
-      "title": "Gov. Michelle Lujan Grisham turned down Biden administration post, sources say",
-      "excerpt": "The Democratic governor of New Mexico is rumored to be a contender for a separate position in the administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/85qBkTTlXU8/biden-cabinet-michelle-lujan-grisham-interior",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/85qBkTTlXU8/biden-cabinet-michelle-lujan-grisham-interior",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ebbffdc8-b293-431a-8469-af03d8321f1e/95999e35-9a82-4907-be13-19f63604e35a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-cabinet-michelle-lujan-grisham-interior.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-michelle-lujan-grisham-interior.amp",
-      "publishedDateTime": "2020-12-02T16:39:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-to-vote-in-senate-runoffs-without-changes.md",
-      "title": "Pro-Trump attorneys Sidney Powell, Lin Wood urge Georgians not to vote in Senate runoffs without changes",
-      "excerpt": "Powell and Wood are not working for the Trump campaign in an official capacity.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bYYQ6L3byYI/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bYYQ6L3byYI/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/926eda10-9604-40ca-a794-91c182962a24/c64d4ae4-1c22-4b6f-9a81-0044a07f02cb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp",
-      "publishedDateTime": "2020-12-02T15:55:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

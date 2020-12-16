@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump still plans to veto defense spending bill"
+    excerpt: "President Donald Trump's vow to veto the bipartisan National Defense Authorization Act places Capitol Hill in a bind and could lead to Congress having to return to session between Christmas and New Year's.\n    \n"
+    publishedDateTime: 2020-12-16T18:43:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/befXOvGMC0Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/donald-trump-ndaa-congress-armed-services-defense/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/donald-trump-ndaa-congress-armed-services-defense/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216111257-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Dozens of members of Congress call on Biden to end the federal death penalty"
     excerpt: "More than three dozen members of Congress are calling on Joe Biden's incoming administration to prioritize abolishing the death penalty in all jurisdictions, according to a letter sent Tuesday to the transition team for the President-elect and Vice President-elect Kamala Harris.\n    \n"
     publishedDateTime: 2020-12-15T22:07:41Z

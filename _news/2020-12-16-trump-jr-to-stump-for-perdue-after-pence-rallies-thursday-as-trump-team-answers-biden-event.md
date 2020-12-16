@@ -177,6 +177,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden says 'I'm confident' Hunter did nothing wrong, amid federal probe into 'tax affairs'"
+    excerpt: "President-elect Biden on Wednesday directly addressed questions about a federal investigation into his son, Hunter Biden, for the first time, saying \"I'm confident\" that he did nothing wrong."
+    publishedDateTime: 2020-12-16T17:47:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1B4KF7eeTXw/biden-says-im-confident-hunter-did-nothing-wrong-amid-federal-probe-into-tax-affairs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-im-confident-hunter-did-nothing-wrong-amid-federal-probe-into-tax-affairs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-im-confident-hunter-did-nothing-wrong-amid-federal-probe-into-tax-affairs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
     excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."
     publishedDateTime: 2020-12-12T19:22:54Z
@@ -272,6 +288,6 @@ related:
         height: 720
         isCached: true
 
-secured: "gs+mHc7n298RBj34X3q/i2w4IlYYW0xwqG59vvCBwuWb7MHiNwxw7ep4pD7zd8g8dbA+YAiOy7JN2W3GuZI1zSIUgrry4nnHMnMuoj7/MMEyymTeaQUdMl0icfyBFphVA9tz7i1WMx4sGjIxCTJFgX3gmT9lt2+gAVJTtevibj9gXXoMZumAtGDx0l4u8EtmaIe3MwQF4KLBbfM/AJt7i+ffJj3FHdOqgGjCKP2ic/VYrdvaSbIjvgyYDaH/6ye16kXKpaPpBqWBM5FDdCT3RTFTCxnxIYPS0TL8nV+YCyoI4sEo1UKGESppElZbRItl95dTpbygm8OJ3W8eioTDvsyE0WAyskfKBCuAR1fwG/U=;gelv7TSmNMgZbTXVh1x30g=="
+secured: "AS3d06sT0+/IBhDZUp6MEJpXc3sk2DwCOFdkEAFaiZ13ovoA3iB7xSSSK0PCyJC3CvnrJ7W0I2WinXosOWYxMXc4dwR10HIfHWgLhXPvJNZhpAC8l5MZMcmTOtnrB+ac/xzTzPbaCHJo4XbTz3fCeCJa8tD7n7PRFz+FFEsz0ELotOh2D7bDHK8iyGdYfVSXgRm0yOFsK61hTcSvBISOijXL3I5QfUfUsJ5cJRJfEnPWDojbU7gHiv+o3CJ4I6/W+yJBxqhn7ny4tgsRoxt3BwL1P6LI5jI6ZTSjWcoGmbEzXQLKlzm85bAmqjfiSpNh/Yv/Lh7Z77bNfU/xxe/NOsScZvvp/zKRvolHzPexi+27EkG+JO8mKbpWKzSXjrLLUUAf0VeAd7RGGRmRPSo5fWTDZ8gQrJ+2xJTM8w+7h0G5POrpzLvb2wGat0NeaO7sTbKsyy8D4/F9lx2F2lnG0NHmhqG/j2E2cTev2edUt6+lQeafTAFZD+IyIpHXQTYWpENOjUIBn52jCNqW25cgjA==;+M5e7x84i5lIYyKhdX+WBA=="
 ---
 

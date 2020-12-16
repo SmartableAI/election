@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-16-biden-pushes-back-against-critics-touts-cabinet-of-firsts.md",
+      "title": "Biden pushes back against critics, touts 'Cabinet of firsts'",
+      "excerpt": "After weeks of pressure from all sides of the Democratic Party’s vast coalition over the makeup of his incoming administration, President-elect Joe Biden on Wednesday pushed back against his critics as he made another history-making Cabinet nomination.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TNq58tgjw5U/biden-responds-critics-cabinet-picks",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TNq58tgjw5U/biden-responds-critics-cabinet-picks",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-responds-critics-cabinet-picks.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-responds-critics-cabinet-picks.amp",
+      "publishedDateTime": "2020-12-16T10:38:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-biden-aide-calls-gop-a-bunch-of-fu-while-praising-his-call-for-unity.md",
       "title": "Biden aide calls GOP 'a bunch of fu-----' while praising his call for unity",
       "excerpt": "President-elect Joe Biden’s deputy chief of staff, Jen O'Malley Dillon, called Republicans \"a bunch of f---ers\" while praising Biden's call for unity in an interview with Glamour magazine.",
@@ -126,7 +182,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 478,
+      "heat": 498,
       "tags": null,
       "images": [
         {
@@ -789,62 +845,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-14-biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report.md",
-      "title": "Biden offered Atlanta mayor position in his Cabinet, she declined: report",
-      "excerpt": "President-elect Joe Biden reportedly asked Atlanta Mayor Keisha Lance Bottoms to serve in his Cabinet, but the Democrat turned down the offer.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/boBhvPCOapY/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/boBhvPCOapY/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-offered-atlanta-mayor-position-in-his-cabinet-she-declined-report.amp",
-      "publishedDateTime": "2020-12-13T21:42:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-13-former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe.md",
       "title": "Former WH communications director Alyssa Farah says GA Senate runoffs will play role in Hunter Biden probe",
       "excerpt": "Former White House communications cirector Alyssa Farah asserted Sunday that the result of January's Georgia Senate runoff races would play a role in the future of a probe into Hunter Biden's business dealings. ",
@@ -1243,7 +1243,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {

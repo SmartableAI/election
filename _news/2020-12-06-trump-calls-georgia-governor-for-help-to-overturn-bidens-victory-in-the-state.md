@@ -240,6 +240,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Congressional inaugural committee announces attendance will be limited for Biden's inauguration"
+    excerpt: "The congressional committee tasked with overseeing the presidential inauguration announced Wednesday planned limitations on the number of guests in attendance for President-elect Joe Biden's inauguration next month.\n    \n"
+    publishedDateTime: 2020-12-16T17:59:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/T7yqsiZqKY0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/inauguration-tickets-joe-biden-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/inauguration-tickets-joe-biden-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110115300-capitol-building-inauguration-stage-1109-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia set to reaffirm Biden's victory for 3rd time after recount, dealing major blow to Trump's attempt to overturn the results"
     excerpt: "Georgia is set to recertify its presidential election results on Monday, which will again find Joe Biden as the winner following three counts of ballots, Secretary of State Brad Raffensperger said.\n    \n"
     publishedDateTime: 2020-12-07T16:41:47Z

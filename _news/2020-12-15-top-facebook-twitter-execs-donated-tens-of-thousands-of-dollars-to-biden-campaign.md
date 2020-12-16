@@ -159,6 +159,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden says 'I'm confident' Hunter did nothing wrong, amid federal probe into 'tax affairs'"
+    excerpt: "President-elect Biden on Wednesday directly addressed questions about a federal investigation into his son, Hunter Biden, for the first time, saying \"I'm confident\" that he did nothing wrong."
+    publishedDateTime: 2020-12-16T17:47:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1B4KF7eeTXw/biden-says-im-confident-hunter-did-nothing-wrong-amid-federal-probe-into-tax-affairs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-im-confident-hunter-did-nothing-wrong-amid-federal-probe-into-tax-affairs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-im-confident-hunter-did-nothing-wrong-amid-federal-probe-into-tax-affairs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump Jr. to stump for Perdue after Pence rallies Thursday, as Trump team answers Biden event"
     excerpt: "Donald Trump Jr. will hold his first in-person events of the Georgia Senate runoffs this week for Sen. David Perdue, adding himself to the long list of boldface political names to descend on the Peach State for the critical Jan."
     publishedDateTime: 2020-12-16T12:03:00Z
