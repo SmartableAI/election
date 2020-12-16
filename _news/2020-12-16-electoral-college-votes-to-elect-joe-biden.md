@@ -189,35 +189,19 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden to take oath outside Capitol amid virus restrictions"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will take their oaths of office outside the U.S. Capital building, but it probably won't look like other inaugurations"
-    publishedDateTime: 2020-12-16T00:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c24f606b827343ab87fb216f6d3d9f1b_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Factbox: The Biden Cabinet - president-elect fills out his team"
     excerpt: "Democratic President-elect Joe Biden has begun nominating members of his Cabinet and White House team, working to fulfill his promise to build an administration that reflects the United States' diversity."
-    publishedDateTime: 2020-12-16T10:08:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN28Q07G"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q07G"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q07G"
+    publishedDateTime: 2020-12-16T06:02:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-the-biden-cabinet-president-elect-fills-out-his-team-idUSL1N2IQ1W4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q048"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q048"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544709443&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF036"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544692898&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF01L"
         width: 817
         height: 545
         isCached: true
@@ -490,6 +474,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Biden to take oath outside Capitol amid virus restrictions"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden and Vice President-elect Kamala Harris will take their oaths of office outside the U.S. Capitol building as inauguration planners seek to craft an event that captures the traditional grandeur of the historic ceremony while complying with COVID-19 protocols."
+    publishedDateTime: 2020-12-16T10:19:00Z
+    webUrl: "https://www.businessinsider.com/biden-to-take-oath-outside-capitol-amid-virus-restrictions-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-to-take-oath-outside-capitol-amid-virus-restrictions-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-take-oath-outside-capitol-amid-virus-restrictions-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden's challenge: Creating a COVID-19-free White House"
     excerpt: "Three blocks from the White House, office space for more than 500 Biden transition staffers sits mostly idle. The government is shipping out laptops so staffers can work from home. President-elect Joe Biden,"
     publishedDateTime: 2020-12-16T05:39:00Z

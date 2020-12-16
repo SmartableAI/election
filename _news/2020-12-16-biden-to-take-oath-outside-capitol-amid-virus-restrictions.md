@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Biden to take oath outside Capitol amid virus restrictions"
-excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will take their oaths of office outside the U.S. Capital building, but it probably won't look like other inaugurations"
-publishedDateTime: 2020-12-16T00:32:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
+excerpt: "WASHINGTON (AP) — President-elect Joe Biden and Vice President-elect Kamala Harris will take their oaths of office outside the U.S. Capitol building as inauguration planners seek to craft an event that captures the traditional grandeur of the historic ceremony while complying with COVID-19 protocols."
+publishedDateTime: 2020-12-16T10:19:00Z
+originalUrl: "https://www.businessinsider.com/biden-to-take-oath-outside-capitol-amid-virus-restrictions-2020-12"
+webUrl: "https://www.businessinsider.com/biden-to-take-oath-outside-capitol-amid-virus-restrictions-2020-12"
+ampWebUrl: "https://www.businessinsider.com/biden-to-take-oath-outside-capitol-amid-virus-restrictions-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-take-oath-outside-capitol-amid-virus-restrictions-2020-12?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_c24f606b827343ab87fb216f6d3d9f1b_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Electoral college: key states confirm Joe Biden's victory in presidential election"
@@ -193,17 +187,17 @@ related:
         isCached: true
   - title: "Factbox: The Biden Cabinet - president-elect fills out his team"
     excerpt: "Democratic President-elect Joe Biden has begun nominating members of his Cabinet and White House team, working to fulfill his promise to build an administration that reflects the United States' diversity."
-    publishedDateTime: 2020-12-16T10:08:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN28Q07G"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q07G"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q07G"
+    publishedDateTime: 2020-12-16T06:02:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-the-biden-cabinet-president-elect-fills-out-his-team-idUSL1N2IQ1W4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q048"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q048"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544709443&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF036"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544692898&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF01L"
         width: 817
         height: 545
         isCached: true
@@ -564,6 +558,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "KS/Tccz+7T8aGFB8GtGEs1YU0OhExDYJqkw2ASYtRGTcdmATzxc1g03tH/cF7od9CNvo1ojilivTVpj8hsrrRs0CBArkyW5C1ptH9oSnFJt09hZs1yD0FJtEXPyR/Ca0e3hhs4ucRK7hJrUSxLcYiwO4aAHN1sp2VexjxhGUwjuz2Y5CtHxwDmWnYkRIQTDIXQy7GkMf2C/sfT1aiaJhyfn5HhHtSrE2DZJpDjQp+TlfUa7Cru8xa6S+fJh2l3sZ69YT7dImE4ylVkW30ZKQo9pljVeRWn3WW5ldNdL27hZAM6gYmeNLSKlJM/Z0+93Yvf8QT1dUPxjgrOTYs33Akpe+TFiY6dRfz7HyD/fDJ/Q5GLElLvcnerIW3KRwp8wf2Y9l3FWyxaWSEUKvaXnKk7vjTV2IT4+4smywMGqxdDDFphxuKBZ8RTVwRcXeIlxX8zfmVCQdlo1kHIEMG/fB8/JA64aYtSldAjzYIIjizyYRnfZyAWE8VeQUVsmeDhoJlCO9/Wgc5QwNE20948NOKg==;t+VPaNP7mS3tugs7hpXk/w=="
+secured: "qMYmOYmN15+JMUv4CezP8UEfwrcjkifdsQyaBhIrWvz0nxEaXjvxDIBsYy6A8RIfMHk5+ZX2D0PCUb1YXTMs+NcF9y2DoLfIQ5kT6TqdMb7riEyop8UIxjmPs7WSFk6muCRMMRFo2V+8ECakpSM1HA1L2zBu+35ml/rCK5FUEdaKEz7ZCNy7X9GGTvvZLGwYpWS5uI8Cgb2vHJrb3HB3drwre+9AFL5oo+Kkgk5IfQE3y++VnixnsjCtdazVLzO2Uf7Za6Iwea3DmQfkHFw7lfHVe+3QtNpp7bhL6eTipfV67pmXv23bHjOIpqJAKzuRX9YI5ygd4TXkWiXunr5HCFjQ8wsTuWpV4h7aSMKWcHk=;slVmQQ/BfIQ81qFr/LDINA=="
 ---
 

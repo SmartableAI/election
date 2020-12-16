@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-16-georgia-sec-of-state-says-trump-lost-because-gop-got-outworked.md",
+      "title": "Georgia Sec. of State says Trump lost because GOP 'got outworked'",
+      "excerpt": "President-elect Biden won Georgia by a margin of roughly 12,000 votes.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PPXn6xWEveU/georgia-sec-of-state-trump-lost-gop-outworked",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PPXn6xWEveU/georgia-sec-of-state-trump-lost-gop-outworked",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49a30cbd-f973-4984-aec1-a75313c3f705/3a911ff7-1e20-4a21-a2cb-162a58c9f767/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/georgia-sec-of-state-trump-lost-gop-outworked.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-sec-of-state-trump-lost-gop-outworked.amp",
+      "publishedDateTime": "2020-12-16T14:45:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-biden-gets-buttigieg-husbands-name-wrong-calls-him-kristen.md",
       "title": "Biden gets Buttigieg husband's name wrong, calls him 'Kristen'",
       "excerpt": "President-elect Joe Biden during a speech on Wednesday accidentally referred to the husband of former South Bend Mayor Pete Buttigieg by the wrong name.",
@@ -464,7 +520,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1470,
+      "heat": 1510,
       "tags": null,
       "images": [
         {
@@ -1613,62 +1669,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-us-china-tensions-worsen-with-hunter-biden-eric-swalwell-revelations-gop-lawmakers.md",
-      "title": "US-China tensions worsen with Hunter Biden, Eric Swalwell revelations: GOP lawmakers",
-      "excerpt": "The clouds over Hunter Biden, whose business dealings in China were investigated by two GOP committee chairs in the Senate, and Rep. Eric Swalwell, D-Calif., raise fresh questions about how the United States will confront one of its top strategic foes in 2021 and beyond.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fC0ZKskQ6lE/china-hunter-biden-eric-swalwell-beirelationship-beijing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fC0ZKskQ6lE/china-hunter-biden-eric-swalwell-beirelationship-beijing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Obama-biden-hunter-SAI-sharpen.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/china-hunter-biden-eric-swalwell-beirelationship-beijing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/china-hunter-biden-eric-swalwell-beirelationship-beijing.amp",
-      "publishedDateTime": "2020-12-11T09:51:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

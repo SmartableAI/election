@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Mar-a-Lago neighbors want Trump to go elsewhere after he leaves the White House "
+    excerpt: "First lady Melania Trump plans to slip down to Palm Beach via government jet on Friday for a weekend walk-through of renovations underway at the Trump family's private quarters at Mar-a-Lago, according to a source familiar with the first lady's schedule, to make sure it's to her liking before she and"
+    publishedDateTime: 2020-12-16T22:13:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S13yS8J-94Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/donald-trump-mar-a-lago/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/donald-trump-mar-a-lago/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209101030-mar-a-lago-resort-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "In final meeting of Trump administration, Fed gets the last word on 2020"
     excerpt: "Federal Reserve Chair Jerome Powell has frequently urged lawmakers, using increasingly strong language, to pass more fiscal stimulus."
     publishedDateTime: 2020-12-16T18:43:00Z

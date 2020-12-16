@@ -87,6 +87,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Senate Republican uses hearing to pursue baseless election fraud claims as Trump tweets approval"
+    excerpt: "A Senate Republican committee chairman used a hearing Wednesday to pursue baseless election fraud claims as Trump tweeted approval."
+    publishedDateTime: 2020-12-16T21:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/senate-republican-hearing-pursue-baseless-election-fraud-claims/story?id=74761509"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/senate-republican-hearing-pursue-baseless-election-fraud-claims/story?id=74761509"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/senate-republican-hearing-pursue-baseless-election-fraud-claims/story?id=74761509"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 127
+    images:
+      - url: "https://s.abcnews.com/images/Politics/ron-johnson-rt-jt-201216_1608143370616_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump administration plans 2nd execution in as many days"
     excerpt: "The Trump administration plans to continue its unprecedented series of post-election federal executions by putting to death a truck driver who abused his 2-year-old daughter for weeks, then killed her by slamming her head against a truck’s windows and dashboard."
     publishedDateTime: 2020-12-11T23:48:00Z

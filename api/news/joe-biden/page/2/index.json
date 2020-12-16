@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-07-trump-suggests-joe-biden-will-try-to-take-the-word-christmas-out-of-the-vocabulary.md",
+      "title": "Trump suggests Joe Biden will try to take the word Christmas 'out of the vocabulary'",
+      "excerpt": "Trump claimed credit for re-introducing the Americans' right to say 'Merry Christmas' during his time in office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 343,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fce1adbeadd8400183df6be?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12?amp",
+      "publishedDateTime": "2020-12-07T04:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-despite-mounting-legal-losses-braun-refuses-to-acknowledge-bidens-election-win.md",
       "title": "Despite mounting legal losses, Braun refuses to acknowledge Biden's election win",
       "excerpt": "The majority of the nearly 50 court cases brought by the Trump campaign have been tossed out by judges across the country.",
@@ -1522,58 +1575,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-biden-says-federal-reserves-interest-rate-policy-has-been-positive.md",
-      "title": "Biden says Federal Reserve's interest rate policy has been 'positive'",
-      "excerpt": "U.S. President-elect Joe Biden on Thursday said he supports the way the Federal Reserve has managed interest rate policy and that he has selected a person to run the Treasury Department.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/ousivMolt/idUSKBN27Z34L",
-      "originalUrl": "https://www.reuters.com/article/ousivMolt/idUSKBN27Z34L",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541824389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1UT",
-          "width": 825,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Z34L",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z34L",
-      "publishedDateTime": "2020-11-19T18:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -65,6 +65,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "'Cabinet of firsts': Joe Biden touts Pete Buttigieg's historic nomination"
+    excerpt: "Buttigieg is expected to be the first Senate-confirmed gay member of a presidential Cabinet. He acknowledged the “eyes of history are on this appointment.”"
+    publishedDateTime: 2020-12-16T22:09:00Z
+    webUrl: "https://www.nbcnews.com/feature/nbc-out/cabinet-firsts-joe-biden-touts-pete-buttigieg-s-historic-nomination-n1251477"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251477"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251477"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_51/3436251/201216-pete-buttigieg-jm-1649_bfe6eb7042971e4b7219e97925e8d90d.jpg"
+        width: 2500
+        height: 1481
+        isCached: true
 
 secured: "wEFg5mHMDIBjj4kyo8hXTzCZwA+mlTqeHXnlCfpfcUgqKAG9ZAX8/SuCukG84vTkj9WBA45x99nJWKxYY2S2nCISEY3HqHkjQ7JCwo0ima5/SK0e6xYC7kWhIdQsEyqOcBbdeQ9toqBnQYGjMl4Yw2PkQBP3Xdz4A/uP5ZyY9QuO0mh5gm6jL49Yc9jC87Hed2oYzrb7ZpZWsdZE9lfDus0pYtoV2sytoV0NzM+xBiuyesZhcRs3S1OjZwFiAK0MbvDdaHejxcvh106obO5vB5JuvRzs2AqK8fnPqY4WaeGysUbBWUQuVQlzR4CgpSkh8YaK3vKMAwvY6fyqsTuSLsyHCzGbjMq6hcPfCNh7EmkEiVfGuK9UQ1KdtsuN30IcAmpp6u14eXFpvKQGg4ACRP6SWstSPr5kDrDEpDbeEX2W6m6/FKJ7a3bI1GqmQ+3xtIBAhzxAc+PMGmF/bXGzkGBgXymqYpCgmOZszsq6Zzcp3lEIImG6hjHA9ScwmBbJbFh7KaN4507HEvpymVqvuQ==;wsvjPSjc4LYqdctjNNhy6w=="
 ---

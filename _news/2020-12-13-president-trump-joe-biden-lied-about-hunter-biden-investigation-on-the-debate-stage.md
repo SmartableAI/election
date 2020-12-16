@@ -506,6 +506,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden transition team deletes old ad hammering Buttigieg's lack of experience"
+    excerpt: "President-elect Joe Biden’s transition team has deleted an ad hammering Pete Buttigieg’s lack of experience from the Democratic primary after Biden chose the former mayor to serve as transportation secretary. "
+    publishedDateTime: 2020-12-16T22:21:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tQrrI9VZ6AQ/biden-transition-deletes-ad-hammering-buttigiegs-lack-of-experience"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-deletes-ad-hammering-buttigiegs-lack-of-experience.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-deletes-ad-hammering-buttigiegs-lack-of-experience.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20351632662706-e1608148698619.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "60% of voters view Biden's 2020 presidential victory as legitimate, poll finds"
     excerpt: "The results skewed heavily based on party affiliation."
     publishedDateTime: 2020-12-11T02:46:33Z
@@ -681,6 +697,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fdd4fa30-66ad-4e63-adb7-491d71f54190/dac5b2a1-6140-41e0-9388-9a2491361f93/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden inaugural committee offers special VIP access to corporations that donate $1 million"
+    excerpt: "For a donation of $1 million, President-elect Joe Biden’s inaugural committee is offering a special VIP package to organizations. "
+    publishedDateTime: 2020-12-16T21:49:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8S2dZBjRofA/biden-inauguration-1-million-vip-chair"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-1-million-vip-chair.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-1-million-vip-chair.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20350034759334.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Hillary Clinton calls for abolishing Electoral College after casting electoral vote for Biden"
     excerpt: "Hillary Clinton is once again calling for the scrapping of the Electoral College to pick presidents."

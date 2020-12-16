@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden picks Mallory to lead White House Council on Environmental Quality"
+    excerpt: "President-elect Joe Biden will tap Brenda Mallory to lead the White House Council on Environmental Quality, according to two people familiar with selection, which would put the veteran environmental lawyer in charge of an office with sweeping purview over how the federal government assesses environmental effects of policies,"
+    publishedDateTime: 2020-12-16T21:28:00Z
+    webUrl: "https://www.politico.com/news/2020/12/16/biden-white-house-council-environmental-quality-446995"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/16/biden-white-house-council-environmental-quality-446995"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/16/biden-white-house-council-environmental-quality-446995"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 134
+    images:
+      - url: "https://static.politico.com/f4/20/6dcf41294356bf7d220b24f0b8b2/201216-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Transition Live Updates: Formally President-Elect, Biden Looks Ahead to Stimulus"
     excerpt: "President-elect Joe Biden condemns President Trump’s efforts to undermine the election, which will have lasting effects on democracy."
     publishedDateTime: 2020-12-15T08:45:00Z

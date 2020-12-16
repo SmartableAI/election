@@ -2,11 +2,11 @@
 category: news
 title: "Factbox: The Biden Cabinet - president-elect fills out his team"
 excerpt: "Democratic President-elect Joe Biden has begun nominating members of his Cabinet and White House team, working to fulfill his promise to build an administration that reflects the United States' diversity."
-publishedDateTime: 2020-12-16T10:08:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN28Q07G"
-webUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN28Q07G"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q07G"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q07G"
+publishedDateTime: 2020-12-16T06:02:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-the-biden-cabinet-president-elect-fills-out-his-team-idUSL1N2IQ1W4"
+webUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-the-biden-cabinet-president-elect-fills-out-his-team-idUSL1N2IQ1W4"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q048"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q048"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544709443&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF036"
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544692898&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF01L"
     width: 817
     height: 545
     isCached: true
@@ -190,22 +190,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544537476&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD1GR"
         width: 817
         height: 545
-        isCached: true
-  - title: "Biden to take oath outside Capitol amid virus restrictions"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will take their oaths of office outside the U.S. Capital building, but it probably won't look like other inaugurations"
-    publishedDateTime: 2020-12-16T00:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c24f606b827343ab87fb216f6d3d9f1b_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Mexico’s president sends letter congratulating Biden"
     excerpt: "Mexican President Andrés Manuel López Obrador says he sent congratulations to U.S. President-elect Joe Biden, one of the last world leaders to do so."
@@ -476,6 +460,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Biden to take oath outside Capitol amid virus restrictions"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden and Vice President-elect Kamala Harris will take their oaths of office outside the U.S. Capitol building as inauguration planners seek to craft an event that captures the traditional grandeur of the historic ceremony while complying with COVID-19 protocols."
+    publishedDateTime: 2020-12-16T10:19:00Z
+    webUrl: "https://www.businessinsider.com/biden-to-take-oath-outside-capitol-amid-virus-restrictions-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-to-take-oath-outside-capitol-amid-virus-restrictions-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-take-oath-outside-capitol-amid-virus-restrictions-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden's challenge: Creating a COVID-19-free White House"
     excerpt: "Three blocks from the White House, office space for more than 500 Biden transition staffers sits mostly idle. The government is shipping out laptops so staffers can work from home. President-elect Joe Biden,"
     publishedDateTime: 2020-12-16T05:39:00Z
@@ -564,6 +559,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "59kIjEum7gJXWNGGXRsOP4ma9M3zpXEsFKB7LEoULMWUeUr2XNZMswm83VZslMj9iwYX3uY/JLAsERi4Ja5TyH9N/N3F4O/rmoawBUysScEwRWwOiZS7xCJlYyXz+d0EYMj86Jlx9xcYtpyXt4S71Xz1tDHt5bXBhQS56EJ8Rh9t5tWJPTql6VmuCu/oY0XgZPqDrzwqtcqUcPAPqfp+APzcFlWiQI79gsbgr42oINGoCtIpdUGKSZnmvgfWISr1EDWPi9tYIB1+XcXQidGqz2guifGOxQRT3kfM58gqt9YIOGN3h/roBPYRzTCOUcWVmyzvQIYp9LpfA5QGlZMOS71gmChs9ppxZOq6a8P0Eqc=;6FEJ/gsNlmkdC6A3A8lHgg=="
+secured: "WI9LYU/QctyWp9JNEfQDlsFfx/5WDQ2KWxHPMLZY25yY2fXYIWHIq+14DBmKygiwsi5hekbAs7+eKO43brZjLrrtS/DHnJZC9IXu4A3ppFknWPPHyO2WT1Js8Eepiybr/TkTQ1EXPzRoTb9IFZPfDH58zZkPZ/NXKDewnU1Zn9curT68Q5wyvUdUfDRfpf2IRlr2U7rQNSZL2TEiEWwB7E3dN+FAczY87b22OhktvI5nS9TrVoJUIbIRg8fb2g2ox8zuUXZUSTscd8L8vVM4ZebzL7wPCvIX1wV8DGb/Q6mlvur6hybUM0ah+7IY22UCSl3Iip2yS0KZEg4HEbJxmsXivWt3timuBm0WB7Wkwcc=;lkrYpxaV6NQi3KagUNgtDA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/biden-pete-buttigieg-eve
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/biden-pete-buttigieg-event/index.html"
 type: article
 quality: 170
-heat: 210
+heat: 230
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/biden_econ_nom.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "'Cabinet of firsts': Joe Biden touts Pete Buttigieg's historic nomination"
+    excerpt: "Buttigieg is expected to be the first Senate-confirmed gay member of a presidential Cabinet. He acknowledged the “eyes of history are on this appointment.”"
+    publishedDateTime: 2020-12-16T22:09:00Z
+    webUrl: "https://www.nbcnews.com/feature/nbc-out/cabinet-firsts-joe-biden-touts-pete-buttigieg-s-historic-nomination-n1251477"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251477"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251477"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_51/3436251/201216-pete-buttigieg-jm-1649_bfe6eb7042971e4b7219e97925e8d90d.jpg"
+        width: 2500
+        height: 1481
         isCached: true
 
 secured: "f4ycHKhD27h1UO6Oor+pMOPmcEr3Y5H3fTigFNgyCedd2WmzGw00tJa8iHRyZq5KRGY7Czr/ZNmhHgWWgyqzgOwsNQ3/TMC6rtwbP6GtZGef2G1cCqdLdIsdK1BHQC+XD6/c6HC5XA61PkZOaH78WYAFe8+4uxJcdYHO+mMqFhMbbBmUZkzpV0YfLzoO9XLGPLiGACbeHrWaequUy2q6xUiFYqaoHv7fWqO5csYBV72bsJUhS0B3L9bGFkM/rxgCL6ssjMduNQzUR2lld6IhulPzu9+xupODIMEoZct67hg/+H4ygywF1VXBHtgmFfuNmqCB86WIlLwsW8aV2u0DSgrNIwPN4xm0rw1zrZmW0yk=;GlkUfkwCuFJQjn/Pb6kuHw=="

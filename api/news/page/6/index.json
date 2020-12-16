@@ -2,6 +2,167 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-10-biden-has-reportedly-chosen-capitol-hill-staffer-katherine-tai-as-his-us-trade-representative.md",
+      "title": "Biden has reportedly chosen Capitol Hill staffer Katherine Tai as his US trade representative",
+      "excerpt": "If she is picked, the House Ways and Means chief trade lawyer would be the first woman of color to hold the position.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12",
+      "originalUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fb2e9ad1c741f0019aca1d1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp",
+      "publishedDateTime": "2020-12-10T04:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-biden-will-travel-to-georgia-to-boost-ossoff-and-warnock-in-runoff-elections.md",
+      "title": "Biden will travel to Georgia to boost Ossoff and Warnock in runoff elections",
+      "excerpt": "Biden's trip to Atlanta on Tuesday will be his first campaign event since he secured the presidency last month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/biden-will-travel-georgia-boost-ossoff-warnock-runoff-elections-n1250632",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/biden-will-travel-georgia-boost-ossoff-warnock-runoff-elections-n1250632",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_50/3434621/201209-joe-biden-ew-650p_be2e1e53bb9eca7f378fef24b3d4a39d.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250632",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250632",
+      "publishedDateTime": "2020-12-10T02:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-on-record-day-for-covid-19-deaths-trump-falsely-proclaims-at-packed-hanukkah-party-were-going-to-win-this-election.md",
+      "title": "On record day for covid-19 deaths, Trump falsely proclaims at packed Hanukkah party, ‘We’re going to win this election’",
+      "excerpt": "Trump continued promoted unfounded claims of election fraud at a White House holiday party held the same day that 3,140 people died of covid-19 in the U.S., a pandemic record.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2020/12/10/hanukkah-party-trump-covid-election-results/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2020/12/10/hanukkah-party-trump-covid-election-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R3HN3EB2SQI6XKWZRFMSE4UAYQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/12/10/hanukkah-party-trump-covid-election-results/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/10/hanukkah-party-trump-covid-election-results/?outputType=amp",
+      "publishedDateTime": "2020-12-10T02:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-joe-bidens-centrist-dilemma-police-groups-say-hes-gone-too-far-left-activists-say-he-hasnt-gone-far-enough.md",
       "title": "Joe Biden's centrist dilemma: Police groups say he's gone too far left; activists say he hasn't gone far enough",
       "excerpt": "Conflicting interests from police and social justice groups will test Joe Biden's reputation as a centrist as he tries to implement police reform.",
@@ -551,7 +712,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -603,7 +764,7 @@
       "originalUrl": "https://www.bbc.com/news/world-55243581",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1200,167 +1361,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-trump-act-v-shakespeare-but-with-a-twist.md",
-      "title": "Trump, Act V: Shakespeare, but With a Twist",
-      "excerpt": "A reader says the Bard’s heroes, unlike the president, were remorseful in the end. Also: Children at play among the leaves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/08/opinion/letters/trump-shakespeare.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/08/opinion/letters/trump-shakespeare.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/07/business/07dc-presidentA1-inyt/merlin_180770211_a7e6f448-b301-478d-9187-fe0092cf5bb1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/08/opinion/letters/trump-shakespeare.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/08/opinion/letters/trump-shakespeare.amp.html",
-      "publishedDateTime": "2020-12-08T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-trump-administration-adds-china-nigeria-iran-to-list-of-countries-lacking-religious-freedom.md",
-      "title": "Trump administration adds China, Nigeria, Iran to list of countries lacking religious freedom",
-      "excerpt": "The Trump administration on Monday added China, Nigeria and Iran to the list of countries that engage in violating or allowing violations of religious freedom within their borders — part of U.S. efforts to end religious persecution around the world. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u4fSEvVXMVc/trump-china-nigeria-iran-religious-freedom-violations",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u4fSEvVXMVc/trump-china-nigeria-iran-religious-freedom-violations",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cbf6a5de-4c6e-402d-ad75-1713dbc7e628/f49d8ca1-c005-47ec-8e0b-075fcd435fc5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp",
-      "publishedDateTime": "2020-12-08T08:28:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-vp-pence-mike-pompeo-will-go-to-georgia-ahead-of-senate-run-off-elections.md",
-      "title": "VP Pence, Mike Pompeo will go to Georgia ahead of Senate run-off elections",
-      "excerpt": "Vice President Pence and Secretary of State Mike Pompeo will both head to Georgia this week ahead of the two Senate run-offs that will decide which party controls the body. Pompeo will appear",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/12/08/pence-pompeo-heading-to-georgia-ahead-of-senate-run-offs/",
-      "originalUrl": "https://nypost.com/2020/12/08/pence-pompeo-heading-to-georgia-ahead-of-senate-run-offs/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/pompeo-pence-georgia-senate.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/12/08/pence-pompeo-heading-to-georgia-ahead-of-senate-run-offs/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/08/pence-pompeo-heading-to-georgia-ahead-of-senate-run-offs/amp/",
-      "publishedDateTime": "2020-12-08T06:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
       ]
     }
   ],

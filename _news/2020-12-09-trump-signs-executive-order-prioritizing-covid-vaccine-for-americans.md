@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former Trump appointee encouraged herd immunity strategy for Covid-19, internal emails reveal  "
+    excerpt: "A former top Trump appointee urged health officials to adopt a \"herd immunity\" approach to Covid-19, according to internal emails obtained by the House Oversight Committee and shared with reporters.\n    \n"
+    publishedDateTime: 2020-12-16T22:05:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KP4lKI9sE3w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/trump-administration-herd-immunity/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/trump-administration-herd-immunity/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214220507-coronavirus-testing-201210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump unleashes an army of sore losers"
     excerpt: "GOP candidates for House, legislative and gubernatorial races in more than half a dozen states are claiming voter fraud and still refusing to acknowledge defeat."
     publishedDateTime: 2020-12-13T12:24:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/fired-election-security-official-su
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot.amp"
 type: article
 quality: 169
-heat: 189
+heat: 209
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Cybersecurity Official Fired by Trump Last Month Says U.S. Election Was Secure"
+    excerpt: "Christopher Krebs told a Senate panel that allegations that voting equipment was manipulated during the election are baseless, and that spreading them undermines confidence in democracy and the election outcome."
+    publishedDateTime: 2020-12-16T22:11:00Z
+    webUrl: "https://www.wsj.com/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802"
+    ampWebUrl: "https://www.wsj.com/amp/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 146
+    images:
+      - url: "https://images.wsj.net/im-274231/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "q1LR/YXD9r0qgRyiRY0O0a15av4DoQBu++ayO+riO4CeBhLosQxgnW2n61TV0+ZvPB0u176SYrXxPtHaR5BoNtlqB1/8KG0mzIXE9M01s16Nxo3PFQ1KrXIvo0ohlNyh/RhNPQ7TRC1o0dz+ioPQxFtnDgQ0ZRco2CCWtkzAIZnqZHlJAu+blW01A05USPPhhod2ePmVu3LF2TqGe+75PzVNt3TyJHSpqSuZCbzDFR088OMab1sM0/4yWCQSY8wjy8HC9xDuPGy7r1Gs+LYhnjSOjxl//kXfwmnjmNPeIoBNYcgChAE09tBiaFBSLMhtRl2yiH8NPZWsHhqz79fFhPSDWRTd6VuA1wBxTyZazTI=;KlKh7onvOU+oZZrELJJ3CA=="

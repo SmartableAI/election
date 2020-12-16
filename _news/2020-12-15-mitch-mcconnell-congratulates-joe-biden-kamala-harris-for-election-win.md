@@ -438,22 +438,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump, Pence, other top officials to be offered COVID-19 vaccine: source"
-    excerpt: "U.S. President Donald Trump, Vice President Mike Pence and other top U.S. officials will be offered the newly approved COVID-19 vaccine beginning Monday, according to a source familiar with the plans."
-    publishedDateTime: 2020-12-14T03:10:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-white-house/trump-pence-other-top-officials-to-be-offered-covid-19-vaccine-source-idUSKBN28N0UP?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28N0UP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28N0UP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 139
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201213&t=2&i=1544430348&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBC0I6"
-        width: 801
-        height: 545
-        isCached: true
   - title: "Biden picks defense secretary as Trump hosts vaccine summit – live updates"
     excerpt: "In September, California Attorney General Xavier Becerra – recently tapped up to be president-elect Joe Biden’s new health secretary – filed a lawsuit asking a federal judge to order ATF to change its policy,"
     publishedDateTime: 2020-12-08T10:41:00Z
@@ -2066,6 +2050,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "BpL8AMkL8aPYoTKCst86qwr+N9MiaHoQ51n7IYmZecb/C4jxlKMfxa6xgP2+Lfy6e3vOWPxLKUIVuaTdqPMrHKsBlOmW06zg2qi5QA68wIzSBwbSfSDzN1JRje5ntwaw+gBRwL7T/HLrbxJaYBB631mYVsRNXYFk1G+Ymn/DOU9p6WsEthdxzqQTva5+ZpZpwa6k2jRfnacCFA2HW4Pkfj89X/aqk/LYs01v2NEbetBNVcXB9f57J0bIN+fr92ib4TdIvgSsMUl3WBdkwclrurVnsYJRXwyCaz7mR/TjY3kcerysOwCy4Je2yUUTSqyL6c3JCRrnalKQCzegbKyYiKpl/1t9M+AAcZxtVbD+aqI=;aELS/MITDfmxpfDgBqBWNQ=="
+secured: "zUNkZUXH3vXCXIEbiYmDYvD/9ozs35s4jTlJQEQzJwC+T+3S5a4BoT6Wgs36cV/Ek/W/iz+8FFY/CM0NJJbHknB1r1DEpZWaNxHpiE6i+7MWRr0afdjNgDxpqFq/Ufn25+RHqT3hfNj2UK4J8/r+ttJOOkzNAnqbcVMduuGbqY5VHmGTOyYLcwJK5B736lvn7B5A2WWpFSOiojnD6VBpdLAkfUvaN2nk2c+BDSr83iAxToPTiMP7dBrba7Gqhr91GeJke0c3jnUElkORCgWAP0DbcuMjofaP5mQfJ1uCQUbAqHedHlSCwfA0yos7WWk6gwgITGxWaEhfxWI/J4ddu/rlyO+35lQTT/AuaIXqK1l86eaz66FsoaleoFDAIe9gDLS662bbx7IAGQAXZJFEcN7bwXcAadrHOSo7BmhDzSmlvfZsHjXlPiFuLLIqgHLOFpVi7RLPn1HkCzciI35yF1SVT4XY6FDsJg2kib0loNFjJ2m54T/oG18+o3VqNon5NzL6wMls0FIglFmjLKF67w==;NmwOf/yh1T/R7G8cn57DLA=="
 ---
 

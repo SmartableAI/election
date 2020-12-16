@@ -128,6 +128,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden picks Mallory to lead White House Council on Environmental Quality"
+    excerpt: "President-elect Joe Biden will tap Brenda Mallory to lead the White House Council on Environmental Quality, according to two people familiar with selection, which would put the veteran environmental lawyer in charge of an office with sweeping purview over how the federal government assesses environmental effects of policies,"
+    publishedDateTime: 2020-12-16T21:28:00Z
+    webUrl: "https://www.politico.com/news/2020/12/16/biden-white-house-council-environmental-quality-446995"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/16/biden-white-house-council-environmental-quality-446995"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/16/biden-white-house-council-environmental-quality-446995"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 134
+    images:
+      - url: "https://static.politico.com/f4/20/6dcf41294356bf7d220b24f0b8b2/201216-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "fbdD5dQUF0F5VKc2tu49TMWIiMp2ba5csuoMXAxrY1v66Y69NkMtTXGWVXkjTkidjZ7aiSgnu6p8b7wFEsuowa8+ue5FHZFSBUWlubHUNSonDcqEp7cl7F8Jf0XejU4ZC+LHYvb8moGZS92EcLggLH9S8S0VJoIu8VWLM4eYiIk+I8NrGFdJKJI9xSiaMG/6JqSoz/CXfpR3tnDssDJp9SuRDW/oSZzS5ULVzkckofJ9fI9wNX2A/tbq86TfwVm7izVyodB0lMca0bGURUDRlJ4vBWBBDvFh20o72+qUuemY3+hz3EJWwr1Lo3802Y9Z/Zy7FepwAEdX9B7RU+X8JMmqBoRlrBZupdEwoNWi0v8=;Nby1t5Y2gxvYg7T4AvkZsw=="
 ---

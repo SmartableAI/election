@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Mar-a-Lago neighbors want Trump to go elsewhere after he leaves the White House "
+    excerpt: "First lady Melania Trump plans to slip down to Palm Beach via government jet on Friday for a weekend walk-through of renovations underway at the Trump family's private quarters at Mar-a-Lago, according to a source familiar with the first lady's schedule, to make sure it's to her liking before she and"
+    publishedDateTime: 2020-12-16T22:13:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S13yS8J-94Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/donald-trump-mar-a-lago/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/donald-trump-mar-a-lago/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209101030-mar-a-lago-resort-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Melania Trump breaks children's hospital rules by taking her mask off to read to patients"
     excerpt: "First lady Melania Trump broke stated mask policy at Children's National Hospital Tuesday when she removed her mask to read a holiday book to children.\n    \n"
     publishedDateTime: 2020-12-15T20:34:49Z
