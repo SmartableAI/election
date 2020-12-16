@@ -191,6 +191,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden to take oath outside Capitol amid virus restrictions"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will take their oaths of office outside the U.S. Capital building, but it probably won't look like other inaugurations"
+    publishedDateTime: 2020-12-16T00:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c24f606b827343ab87fb216f6d3d9f1b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Mexico’s president sends letter congratulating Biden"
     excerpt: "Mexican President Andrés Manuel López Obrador says he sent congratulations to U.S. President-elect Joe Biden, one of the last world leaders to do so."
     publishedDateTime: 2020-12-15T17:31:00Z
@@ -513,6 +529,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "atN4bJJYFr3TZ114GPIWHny+HwOz3kbE4T8HnyIUxya0UBds3ZuPq550Nr/2q7XLMGHD2Ort4gzB0k/ULu26BMxqbvjYlO+VB9dVnIs2p/GS3NSpPNKQdyjehgpIve8RB+J592+5n67dW05diwE3WHPDsmMS0Joha1yLG84BswtplfYa80qoqeUBL97Ubeg4aLXprfxDHHJ5KLSov8t+qgALdvjkTydenSZnRzBu/9rXqh/yPbG6hdI9Hh4De9Z0RCtRZGdJqBr7oCqaUpjDh6BYDYLYx6a02q5tkviWvu2zasuQDt1pMZ757LAA/O4k38NN0VKNXWS2gzplfUfJDD3dS247ONG//jBuQahUMTY=;wNfTo4vn6O5CyqunkVapVA=="
+secured: "2+kYYGOixsNcCYA4sSj7/vc6619XQw2hS6fVE/ncBjjlDXqKjvcjle+c4ummuL1ZQKiMUnS1jLJgNRS5hVZbOmzaQGCe5cA7FFqmtFFe/p8OkaIUAlqP9PxGBodMVTiqQlya5TK/e424lNhVOa68iroPtojJzgpQhuqFXfeNstiJuP5EROZtWBTvGcPA4bdfDVPo5LmyzWN1+/P+NmmNf5MvDigd902/yx+8aK2oOVOJW9izxgl6XJKfQzTOhVEIl2E1ZvHej14Bkvenw6NV9v7/9mixCEEA47yMRDDmF7M3agd9Z0wptFPrdvptsOJc6kVGibXIDlVbs9uYzU1ioqT+EmIwVzABgjfb/WSK+YQDVL80XFhLSkh3rcarV4JsZRcHg/l/GqF8/fw30wN5oeA2C/pIUmIlYMQqH3D9lbKg9vZ+QvFrxJLxTuUlcapQH2JJ5igFeNLNh1Ruvy+5oa3Ac50K9F8gtekihoGDnmDkpu7AeUliNCQQZwx2P6W6cg2LxId7P3yJnxCAiEMkzA==;ow1JEGa5cgm7B7At9a7qSQ=="
 ---
 

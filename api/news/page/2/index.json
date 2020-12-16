@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-15-electoral-college-key-states-confirm-joe-bidens-victory-in-presidential-election.md",
+      "title": "Electoral college: key states confirm Joe Biden's victory in presidential election",
+      "excerpt": "Votes in Georgia, Pennsylvania, Wisconsin and Arizona effectively end Donald Trump’s long-shot attempt to overturn results",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 814,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/db7d3342fc6619931c02b4b619d3d79bcc7d80ce/0_120_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4c8d6ddfbba62fd7cf15141727b34de8",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election",
+      "publishedDateTime": "2020-12-14T12:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-as-border-numbers-increase-cbp-chief-says-us-faces-full-blown-crisis-if-trump-era-policies-end.md",
       "title": "As border numbers increase, CBP chief says US faces 'full-blown crisis' if Trump-era policies end",
       "excerpt": "The Trump administration announced Monday that 70,000 migrants were apprehended at the southwest border in November, a 64 percent increase compared to 2019 -- and a sign of a possible surge that Trump officials say could become a full-blown crisis if recent policies are ended.",
@@ -1297,58 +1349,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-analysis-senate-gangs-show-biden-whats-possible-and-not.md",
-      "title": "Analysis: Senate 'gangs' show Biden what's possible, and not",
-      "excerpt": "Senators met day after day, night after night, trying to hammer out a framework for a $900 billion-plus COVID-19 aid and economic relief package",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/analysis-senate-gangs-show-biden-74685929",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/analysis-senate-gangs-show-biden-74685929",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_6bac3ffdc5f74a06a16c2493a02e3037_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/analysis-senate-gangs-show-biden-74685929",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-senate-gangs-show-biden-74685929",
-      "publishedDateTime": "2020-12-13T00:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

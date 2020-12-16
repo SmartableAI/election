@@ -65,10 +65,10 @@ related:
         isCached: true
   - title: "Some advisers urge Trump not to veto defense bill: source"
     excerpt: "U.S. President Donald Trump is being urged by some advisers not to go ahead with his plan to veto a major defense bill because it is all but certain to be overridden by the U.S. Congress, a source familiar with the situation said on Tuesday."
-    publishedDateTime: 2020-12-16T03:06:00Z
-    webUrl: "https://www.reuters.com/article/usa-defense-congress-trump/some-advisers-urge-trump-not-to-veto-defense-bill-source-idUSL1N2IV2L2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IV2L2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IV2L2"
+    publishedDateTime: 2020-12-16T03:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-defense-congress-trump/some-advisers-urge-trump-not-to-veto-defense-bill-source-idUSKBN28P2Z0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2Z0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2Z0"
     type: article
     provider:
       name: Reuters

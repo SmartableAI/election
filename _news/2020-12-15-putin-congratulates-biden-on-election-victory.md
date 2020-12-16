@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/putin-congratulates-biden-on-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp"
 type: article
 quality: 190
-heat: 1430
+heat: 1450
 published: true
 
 provider:
@@ -892,6 +892,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20342805312726.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Do-over: Biden clinches, columnists left and right dump on Trump"
+    excerpt: "William Barr may have chosen to resign, but it was clear that his relationship with President Trump had simply become untenable."
+    publishedDateTime: 2020-12-16T08:15:00Z
+    webUrl: "https://www.foxnews.com/media/do-over-biden-clinches-columnists-left-and-right-dump-on-trump"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/8daf5c9f-Trump-Biden-Recent-AP.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "House Republicans demand hearing on Big Tech's censorship of Hunter Biden stories"
     excerpt: "House Republicans have doubled down on their request for an emergency hearing on Big Tech's censorship of stories damaging to Hunter Biden, the president-elect's son, just days before the Nov. 3 election."

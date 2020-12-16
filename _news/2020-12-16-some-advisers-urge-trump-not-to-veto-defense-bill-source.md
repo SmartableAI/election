@@ -2,11 +2,11 @@
 category: news
 title: "Some advisers urge Trump not to veto defense bill: source"
 excerpt: "U.S. President Donald Trump is being urged by some advisers not to go ahead with his plan to veto a major defense bill because it is all but certain to be overridden by the U.S. Congress, a source familiar with the situation said on Tuesday."
-publishedDateTime: 2020-12-16T03:06:00Z
-originalUrl: "https://www.reuters.com/article/usa-defense-congress-trump/some-advisers-urge-trump-not-to-veto-defense-bill-source-idUSL1N2IV2L2"
-webUrl: "https://www.reuters.com/article/usa-defense-congress-trump/some-advisers-urge-trump-not-to-veto-defense-bill-source-idUSL1N2IV2L2"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IV2L2"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IV2L2"
+publishedDateTime: 2020-12-16T03:37:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-defense-congress-trump/some-advisers-urge-trump-not-to-veto-defense-bill-source-idUSKBN28P2Z0"
+webUrl: "https://www.reuters.com/article/us-usa-defense-congress-trump/some-advisers-urge-trump-not-to-veto-defense-bill-source-idUSKBN28P2Z0"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2Z0"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2Z0"
 type: article
 quality: 125
 heat: -1
@@ -112,6 +112,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "i7MkyiRSTuGpoLLfkgumjCNIVRPt1meY/1ym6QBM7Exsuxt2nvQ82QmZUjCDVDD+/5+/1HgPPS6odfVM+2X1eA4H2HOvlV23iYkFlQKRyU2ln9p+Tj3qUcEZONTyY5RoVCvXMdGL293XRcFvwBkZ53xzZGn/sMIIyzF7FgZgMergJL6sJZDg2iv8mbxqfwtZdUvkl+m1DWIbAfwnrtVzqK2zKyWQ1TSi6cODKJzRtd0RK5ReOYISAO3Iul1vfdFmf+IZD2CPyE2HSUXh2KHRaq7W3SYxtjodRcJMWN+SEJ9b1F6tz1ZPseZYaO63zhn5rEjLPyb1GdE4PEURSilhCod374cmupnF5zr4biS6WBA=;6narmFjv7X6Fa++4Y6GmhQ=="
+secured: "J3OjtvkzF0MP2Dn58Bux7lnfl6aH3i/D+gBuU2j9hatTvOP3XaHyVPBIo65bj6GtUci7XN2jQblRQk2TjxJeBDXIA1G46XKw7tF3+6TRezNZlYjXtrEXK3YTM4LXvtSIsNvfnHtHnIYPz00ZqCjL3CIJe7yC9kVMi3S4In3QPgc/cEgzzqOsrfXZSB7MVudgZYswqf0ci2mWzUGrgjlYs8iKzid+zo/Fe4fwVKZpqQwzFRRxTWSvLMdBFq/G48o7V8Z8v40ZnVqnPvIvUmOUtigyi76V5PkuLot1VO4T2qEJBahAUipcLyXtIWlmSRmKWQkUGlY9uQ9Sf9gPp/0nBFNmpcYS1E0Rn3nreZVbiHE=;VR1aSJW3akOySyQWUfHWPw=="
 ---
 

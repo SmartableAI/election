@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/14/electoral-college-jo
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election"
 type: article
 quality: 134
-heat: 794
+heat: 814
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544537476&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD1GR"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden to take oath outside Capitol amid virus restrictions"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will take their oaths of office outside the U.S. Capital building, but it probably won't look like other inaugurations"
+    publishedDateTime: 2020-12-16T00:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c24f606b827343ab87fb216f6d3d9f1b_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Mexico’s president sends letter congratulating Biden"
     excerpt: "Mexican President Andrés Manuel López Obrador says he sent congratulations to U.S. President-elect Joe Biden, one of the last world leaders to do so."

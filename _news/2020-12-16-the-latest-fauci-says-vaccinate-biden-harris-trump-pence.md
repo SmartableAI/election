@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccin
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 190
-heat: 2730
+heat: 2770
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
     quality: 150
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/07/7736671b-071a-4222-96ad-bafe263891af/thumbnail/1200x630/26da47d6456273ab6082cad35d70385c/2020-11-07t163609z-1597063157-rc2gyj96wvm1-rtrmadp-3-usa-election-biden.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden and Harris to be sworn in at Capitol, but public urged to stay home"
+    excerpt: "The inaugural committee said in a statement that it urged the public not to travel to attend the inauguration in January."
+    publishedDateTime: 2020-12-15T21:40:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-harris-inauguration-capitol-steps-stay-at-home/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-harris-inauguration-capitol-steps-stay-at-home/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-harris-inauguration-capitol-steps-stay-at-home/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 149
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/15/00f7414c-5fcb-4931-917b-9ca555b39a1b/thumbnail/1200x630g4/2d503a0eabb51b61366ec967a1445487/gettyimages-1230071696.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -416,6 +432,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/3f5e1cc363cf72360d9f776ee1664b19f7e5facc/0_71_3049_1830/master/3049.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7ea6fb3c4e554c3032bffc98a1651b20"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump, Pence, other top officials to be offered COVID-19 vaccine: source"
+    excerpt: "U.S. President Donald Trump, Vice President Mike Pence and other top U.S. officials will be offered the newly approved COVID-19 vaccine beginning Monday, according to a source familiar with the plans."
+    publishedDateTime: 2020-12-14T03:10:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-white-house/trump-pence-other-top-officials-to-be-offered-covid-19-vaccine-source-idUSKBN28N0UP?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28N0UP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28N0UP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201213&t=2&i=1544430348&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBC0I6"
+        width: 801
+        height: 545
         isCached: true
   - title: "Biden picks defense secretary as Trump hosts vaccine summit – live updates"
     excerpt: "In September, California Attorney General Xavier Becerra – recently tapped up to be president-elect Joe Biden’s new health secretary – filed a lawsuit asking a federal judge to order ATF to change its policy,"

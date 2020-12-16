@@ -79,17 +79,6 @@ related:
         width: 801
         height: 545
         isCached: true
-  - title: "Trump, Pence, other top officials to be offered COVID-19 vaccine - source"
-    excerpt: "U.S. President Donald Trump, Vice President Mike Pence and other top U.S. officials will be offered the newly approved COVID-19 vaccine beginning Monday, according to a source familiar with the plans."
-    publishedDateTime: 2020-12-14T03:04:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-white-house/trump-pence-other-top-officials-to-be-offered-covid-19-vaccine-source-idUSL1N2IT0NP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IT0NP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IT0NP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
   - title: "Trump scraps plan to have top White House personnel among first vaccinated against COVID-19"
     excerpt: "President scraps administration order saying they should get the shots along with frontline health workers and people in nursing homes and long-term care facilities."
     publishedDateTime: 2020-12-14T12:29:00Z

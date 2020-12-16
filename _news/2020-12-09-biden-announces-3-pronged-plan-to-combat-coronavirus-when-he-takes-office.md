@@ -894,6 +894,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Do-over: Biden clinches, columnists left and right dump on Trump"
+    excerpt: "William Barr may have chosen to resign, but it was clear that his relationship with President Trump had simply become untenable."
+    publishedDateTime: 2020-12-16T08:15:00Z
+    webUrl: "https://www.foxnews.com/media/do-over-biden-clinches-columnists-left-and-right-dump-on-trump"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/8daf5c9f-Trump-Biden-Recent-AP.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "House Republicans demand hearing on Big Tech's censorship of Hunter Biden stories"
     excerpt: "House Republicans have doubled down on their request for an emergency hearing on Big Tech's censorship of stories damaging to Hunter Biden, the president-elect's son, just days before the Nov. 3 election."
     publishedDateTime: 2020-12-15T16:17:00Z

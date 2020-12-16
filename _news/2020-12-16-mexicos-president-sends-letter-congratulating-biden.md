@@ -191,6 +191,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden to take oath outside Capitol amid virus restrictions"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will take their oaths of office outside the U.S. Capital building, but it probably won't look like other inaugurations"
+    publishedDateTime: 2020-12-16T00:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c24f606b827343ab87fb216f6d3d9f1b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Supreme Court rejects GOP bid to overturn Biden's victory in Pennsylvania"
     excerpt: "The high court spurned a request from Republican allies of President Trump to decertify Pennsylvania's election results."
     publishedDateTime: 2020-12-09T12:36:00Z

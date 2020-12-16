@@ -60,7 +60,7 @@ related:
   - title: "Coronavirus live news: Donald Trump will 'absolutely' encourage Americans to take vaccine, says press secretary"
     excerpt: "EU to bring forward decision on Pfizer/BioNTech vaccine to 21 December; Turkey says 235 more people have died after a Covid diagnosis"
     publishedDateTime: 2020-12-15T19:27:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain?fbclid=IwAR2N9qHceTB-zUC-jDQz2j6Ozm2XZsUq99F89mDS8jAkQzjuQ-5qzZsdl2g"
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain?page=with:block-5fd902938f08b0a99da9702c"
     ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain"
     type: article

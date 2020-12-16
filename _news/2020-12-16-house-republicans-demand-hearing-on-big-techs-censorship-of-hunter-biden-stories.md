@@ -910,6 +910,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Do-over: Biden clinches, columnists left and right dump on Trump"
+    excerpt: "William Barr may have chosen to resign, but it was clear that his relationship with President Trump had simply become untenable."
+    publishedDateTime: 2020-12-16T08:15:00Z
+    webUrl: "https://www.foxnews.com/media/do-over-biden-clinches-columnists-left-and-right-dump-on-trump"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/8daf5c9f-Trump-Biden-Recent-AP.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Republicans Backing Trump Fraud Claims Even As Biden Wins Electoral College"
     excerpt: "If tens of millions of Republicans believe Joe Biden is an illegitimate president--Trump actually used that phrase--it could well damage his administration. And at a deeper level, if much of one political party believes an election is being stolen--and next time it could be the Democrats--that seriously damages democracy."
     publishedDateTime: 2020-12-15T08:15:00Z
