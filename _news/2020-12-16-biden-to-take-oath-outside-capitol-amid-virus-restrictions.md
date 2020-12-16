@@ -63,22 +63,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden, fresh off Electoral College win, accuses Trump of \"unprecedented assault on democracy\""
-    excerpt: "President-elect Joe Biden accused President Trump of an \"unprecedented assault on democracy\" in a speech Monday night hours after the Electoral College formalized his victory. Mr. Trump has refused to concede the election and has tried repeatedly to use the courts to challenge the results without success."
-    publishedDateTime: 2020-12-15T12:32:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-president-elect-speech-trump/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-president-elect-speech-trump/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-president-elect-speech-trump/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 129
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/15/cf2a5f9d-4a6a-4664-a4ea-297853bf8e72/thumbnail/1200x630/b0818684b059c2d2959006c2524eed98/biden.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "'Unconscionable': Biden criticises Trump while accepting electoral college victory – live updates"
     excerpt: "President-elect says ‘urgent work in front of all of us’ as Covid deaths reach 300,000"
     publishedDateTime: 2020-12-15T12:16:00Z
@@ -204,6 +188,22 @@ related:
     quality: 125
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544537476&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD1GR"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Factbox: The Biden Cabinet - president-elect fills out his team"
+    excerpt: "Democratic President-elect Joe Biden has begun nominating members of his Cabinet and White House team, working to fulfill his promise to build an administration that reflects the United States' diversity."
+    publishedDateTime: 2020-12-16T10:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN28Q07G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q07G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q07G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544709443&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF036"
         width: 817
         height: 545
         isCached: true
@@ -476,6 +476,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Electoral College votes to elect Joe Biden"
+    excerpt: "Watch \"Electoral College votes to elect Joe Biden; president-elect thanks supporters during speech\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-16T12:33:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201215123920-electoral-college-votes-to-elect-joe-biden-president-elect-thanks-supporters-during-speech/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/15/story_08122500_1608036183.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Electoral College to formally vote for Joe Biden to become next president"
     excerpt: "As Electoral College members meet in each state to cast their ballots, formally affirming Joe Biden as the next president of the United States, President Trump is vowing to continue fighting the election results."
     publishedDateTime: 2020-12-14T14:54:00Z
@@ -526,15 +540,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Indiana Presidential Electors Award Trump, Pence 11 Votes"
-    excerpt: "Indiana’s 11 representatives to the Electoral College unanimously cast their votes Monday for President Donald Trump."
-    publishedDateTime: 2020-12-14T16:37:00Z
-    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-12-14/indiana-presidential-electors-award-trump-pence-11-votes"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 60
   - title: "Colorado Democratic Electors Cast Nine Votes for Joe Biden"
     excerpt: "Colorado’s nine Democratic presidential electors cast their votes for Joe Biden at the state Capitol on Monday. The vote formally seals Biden’s win in Colorado, where he beat President Donald Trump by about 14 percentage points,"
     publishedDateTime: 2020-12-14T20:10:00Z

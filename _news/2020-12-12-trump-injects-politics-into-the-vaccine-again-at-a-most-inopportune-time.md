@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Watch Live: Trump does coin toss at Army-Navy Game"
+    excerpt: "Navy coin toss before the game on Saturday afternoon. The event begins at 3:00 p.m. EST. Watch the live video above."
+    publishedDateTime: 2020-12-12T20:06:00Z
+    webUrl: "https://thehill.com/video/in-the-news/529963-watch-live-trump-attends-army-navy-game-participates-in-coin-toss"
+    ampWebUrl: "https://thehill.com/video/in-the-news/529963-watch-live-trump-attends-army-navy-game-participates-in-coin-toss?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/529963-watch-live-trump-attends-army-navy-game-participates-in-coin-toss?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald1_12052020_gettyimages.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Coronavirus vaccine, pro-Trump DC rally, Army-Navy game: 5 things to know this weekend"
     excerpt: "CDC advisors meet to review data on Pfizer and BioNTech's COVID vaccine, Trump supporters plan for DC rally and more things to start your weekend."
     publishedDateTime: 2020-12-12T10:38:00Z
@@ -62,20 +78,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/31dda42b-429a-49d4-9149-e586d64a933f-USATSI_15294432.jpg?auto=webp&crop=3499,1969,x0,y145&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Four People Stabbed and At Least 23 Arrested at Pro-Trump Rally in D.C."
-    excerpt: "Trump demonstrators after sundown Saturday. WRC-TV reported that four people were taken to a hospital with stab wounds, and the Metropolitan Police Department told the station that 23 people were arrested."
-    publishedDateTime: 2020-12-14T02:14:00Z
-    webUrl: "https://time.com/5921156/stabbing-trump-rally-washington/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 105
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/12/D.C..jpg"
-        width: 4841
-        height: 3227
         isCached: true
   - title: "Most US voters don't want Trump to run in 2024 and 42% say he is 'one of the worst presidents' ever, Fox News poll finds"
     excerpt: "Voters disapprove of President Trump's handling of COVID-19, immigration, and healthcare. When it comes to economics, Trump is viewed more positively."

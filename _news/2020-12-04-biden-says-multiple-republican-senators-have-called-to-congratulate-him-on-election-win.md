@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-sen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html"
 type: article
 quality: 182
-heat: 942
+heat: 962
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden unveils health team that will lead pandemic response"
+    excerpt: "President-elect Joe Biden on Monday announced the health team that will lead his administration's response to the coronavirus pandemic when he takes office in January.\n    \n"
+    publishedDateTime: 2020-12-07T14:46:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oFWBhC8CliE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/biden-health-team-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/biden-health-team-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -319,22 +335,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden set to stump for Georgia Runoff candidates, kicking off a big push for early voting"
-    excerpt: "President-elect Joe Biden will travel to Georgia next Tuesday to headline a rally in support of the Democratic candidates in the state's US Senate runoff election, the Biden campaign announced Thursday.\n    \n"
-    publishedDateTime: 2020-12-10T17:49:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-Xc_NLsboTE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/joe-biden-georgia-runoff-plans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/joe-biden-georgia-runoff-plans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209092240-01-joe-biden-health-team-1208-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden expected to nominate Rep. Marcia Fudge as secretary of Housing and Urban Development"
     excerpt: "President-elect Joe Biden is expected to nominate Ohio Rep. Marcia Fudge as secretary of Housing and Urban Development, two people familiar with the transition said, a decision that would add another African American woman to the ranks of his Cabinet.\n    \n"
     publishedDateTime: 2020-12-09T00:18:23Z
@@ -444,6 +444,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/07/opinion/07hanna-01/07hanna-01-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Biden's ambassador to the GOP"
+    excerpt: "Those partnerships will be more important than ever as Biden faces the real possibility of at least two years of a GOP Senate majority and a Republican Party still led by an antagonistic former President Donald Trump."
+    publishedDateTime: 2020-12-07T09:36:00Z
+    webUrl: "https://www.politico.com/news/2020/12/07/chris-coons-biden-gop-relationship-443008"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/07/chris-coons-biden-gop-relationship-443008"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/07/chris-coons-biden-gop-relationship-443008"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/b1/2b/3476dcae409ba52571a59cbcbc64/201205-coons-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "5 big problems with Texas' bid to overturn Biden's win at the Supreme Court"
     excerpt: "Texas' bid to overturn Biden's win at the Supreme Court \"This case is hopeless,\" said SCOTUSblog publisher Tom Goldstein, who argues frequently before the court. President Donald Trump calls it \"the big one,"

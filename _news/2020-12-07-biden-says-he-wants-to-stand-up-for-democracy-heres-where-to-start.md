@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden unveils health team that will lead pandemic response"
+    excerpt: "President-elect Joe Biden on Monday announced the health team that will lead his administration's response to the coronavirus pandemic when he takes office in January.\n    \n"
+    publishedDateTime: 2020-12-07T14:46:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oFWBhC8CliE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/biden-health-team-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/biden-health-team-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's extremely ambitious first 100 days"
     excerpt: "President-elect Joe Biden faces a wildly daunting first 100 days in office.\n    \n"
     publishedDateTime: 2020-12-08T23:30:35Z
@@ -336,22 +352,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden set to stump for Georgia Runoff candidates, kicking off a big push for early voting"
-    excerpt: "President-elect Joe Biden will travel to Georgia next Tuesday to headline a rally in support of the Democratic candidates in the state's US Senate runoff election, the Biden campaign announced Thursday.\n    \n"
-    publishedDateTime: 2020-12-10T17:49:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-Xc_NLsboTE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/joe-biden-georgia-runoff-plans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/joe-biden-georgia-runoff-plans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209092240-01-joe-biden-health-team-1208-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden expected to nominate Rep. Marcia Fudge as secretary of Housing and Urban Development"
     excerpt: "President-elect Joe Biden is expected to nominate Ohio Rep. Marcia Fudge as secretary of Housing and Urban Development, two people familiar with the transition said, a decision that would add another African American woman to the ranks of his Cabinet.\n    \n"
     publishedDateTime: 2020-12-09T00:18:23Z
@@ -443,6 +443,22 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/83/de/b9ea4027407c90eb5835f66aaf32/20201203-gina-raimondo-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden's ambassador to the GOP"
+    excerpt: "Those partnerships will be more important than ever as Biden faces the real possibility of at least two years of a GOP Senate majority and a Republican Party still led by an antagonistic former President Donald Trump."
+    publishedDateTime: 2020-12-07T09:36:00Z
+    webUrl: "https://www.politico.com/news/2020/12/07/chris-coons-biden-gop-relationship-443008"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/07/chris-coons-biden-gop-relationship-443008"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/07/chris-coons-biden-gop-relationship-443008"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/b1/2b/3476dcae409ba52571a59cbcbc64/201205-coons-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

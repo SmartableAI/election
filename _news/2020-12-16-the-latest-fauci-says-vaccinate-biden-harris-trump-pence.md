@@ -1,36 +1,29 @@
 ---
 category: news
 title: "The Latest: Fauci says vaccinate Biden, Harris, Trump, Pence"
-excerpt: "Top U.S. infectious disease expert Dr. Anthony Fauci says President-elect Joe Biden and Vice President-elect Kamala Harris should be vaccinated for COVID-19 as soon as possible"
-publishedDateTime: 2020-12-15T17:37:00Z
-originalUrl: "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html"
-webUrl: "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html?outputType=amp"
+excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
+publishedDateTime: 2020-12-15T16:19:00Z
+originalUrl: "https://www.businessinsider.com/the-latest-fauci-says-vaccinate-biden-harris-trump-pence-2020-12"
+webUrl: "https://www.businessinsider.com/the-latest-fauci-says-vaccinate-biden-harris-trump-pence-2020-12"
+ampWebUrl: "https://www.businessinsider.com/the-latest-fauci-says-vaccinate-biden-harris-trump-pence-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-fauci-says-vaccinate-biden-harris-trump-pence-2020-12?amp"
 type: article
-quality: 190
-heat: 2790
-published: true
+quality: 160
+heat: -1
+published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Mike Pence
   - Kamala Harris
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "The Latest: Fauci says vaccinate Biden, Harris, Trump, Pence"
@@ -891,6 +884,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Kamala Harris assumes critical role – now and later: The Note"
+    excerpt: "Harris will be a Black vice president in an administration facing criticism for a relative lack of diversity. She will be a key figure in convincing communities of color to trust the COVID-19 vaccine."
+    publishedDateTime: 2020-12-16T11:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/kamala-harris-assumes-critical-role-now-note/story?id=74591169"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-assumes-critical-role-now-note/story?id=74591169"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-assumes-critical-role-now-note/story?id=74591169"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala-harris-robin-roberts-interview-06-abc-jc-201215_1608076757078_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Time’s Person of the Year is Joe Biden and Kamala Harris, a ticket that ‘represents something historic’"
     excerpt: "Joe Biden is the latest in a long line of presidents to be named Time's Person of the Year -- but Kamala Harris is the first vice-president to also receive the title."
     publishedDateTime: 2020-12-11T04:58:00Z
@@ -1173,6 +1182,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/15/61/01/20385910/11/rawImage.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Trump is already considering axing his new attorney general if he won't agree to a special counsel probe into Hunter Biden"
+    excerpt: "Trump is reportedly determined to launch a special counsel probe into Hunter Biden's tax affairs, with only weeks before Joe Biden takes office."
+    publishedDateTime: 2020-12-16T12:21:00Z
+    webUrl: "https://www.businessinsider.com/trump-discussing-firing-barrs-successor-as-attorney-general-report-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-discussing-firing-barrs-successor-as-attorney-general-report-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-discussing-firing-barrs-successor-as-attorney-general-report-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fd9e0ce1803a80018adfb4b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Fauci says vaccinate Biden, Harris, Trump, Pence"
     excerpt: "Dr. Anthony S. Fauci said it was his “strong recommendation” that President-elect Joseph R. Biden Jr. and Vice President-elect Kamala Harris receive a COVID-19 vaccine quickly."
@@ -1738,14 +1763,14 @@ related:
         isCached: true
   - title: "Michigan's Electoral College delegates cast all 16 votes for Joe Biden, Kamala Harris"
     excerpt: "By law, Michigan delegates to the Electoral College are required to cast their votes for the winner of the popular vote."
-    publishedDateTime: 2020-12-14T22:50:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
-    ampWebUrl: "https://amp.indystar.com/amp/6538683002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6538683002"
+    publishedDateTime: 2020-12-14T23:15:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6538683002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6538683002"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 83
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/12/14/PDTF/8855f26a-225d-4845-9a4d-876b9a8fd6dd-GTY_AFP_8X66JW.jpg.jpg?auto=webp&crop=3910,2200,x0,y198&format=pjpg&width=1200"
@@ -1981,6 +2006,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "Cfti7OAXrm1MQdcQ51UheeY1NceFqPauIKf2ca9fABSOGdYBblJKuoJPhyD3nX74+SLsST5/6DlA2G17j2VweOmnqgJRu0aXvgPq38Im5Z2Z9h3S8HSTERz3i1FQSlymV5LAMRyttl2iopmexb5kyaAoNIBIjIj2Ke2y8NnAb7L7tjj6lAGfHiDq8A/1x5x0XBltY9W5hCbTDe7EYXLbqzr+YA32URP/ZRQI4evB8l6xNiNG9mFsz51d1kG4ciO0Db2Tdp7hjhyplsQC2Tw2A3V0o5m/hloyQVq0eradUUhW1SEBRdd2pHgVhYiL5Vu+JtN7DJEokrOUQSf5mKRa1hxLxIsDPb4flFh/Z6Pzgd0=;KW0XMrh0yNmFvc6jcJMOpA=="
+secured: "T/Pw2XNexLZxL1yXkNHnGWN2T7RNgf64rNBQ6uYseL6BA739D6in/Y8s0/cLiFGDw5k4BWmoXCK56HWivHVfeXqFouX3L8oWX+/VIxvS0OAC9vKete8xf2m/AAetJr4T4WsPYq2sQOPg2dfkNumonXPw00okKAEFeWvzCOBziHDcF7Bx+qt1G9rTMxGuEk8aAoGFdLkcgUBr4DdWjGVs1baPzrd4bP3nl9znhS6kyNmqwfUtGHK6WpwFfwefa0OciELNHHQ6y5VcPoNDwFuhCyjaaU32rFLXZ/P21lTsvOrUpvAy8KgWw62G8LI7+CK2+zmoVYYw2ZOuDOvXPqNxL4KBRfBeZq6Epj8hTlTJGtQ=;r40bxccloHylbur23JDBVg=="
 ---
 

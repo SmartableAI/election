@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D2XS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D2XS"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nissan joins GM in exiting auto group backing Trump"
+    excerpt: "Japanese automaker Nissan Motor Co said on Friday it was joining General Motors in exiting a group of automakers that had backed U.S. President Donald Trump in his bid to prevent California from imposing its own vehicle emissions rules."
+    publishedDateTime: 2020-12-04T21:59:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-emissions-trump/nissan-joins-gm-in-exiting-auto-group-backing-trump-idUSKBN28E326"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E326"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E326"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543501229&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31PO"
+        width: 747
+        height: 545
+        isCached: true
   - title: "Senate fails to block Trump administration's controversial arms deal with the UAE"
     excerpt: "Critics say the weapons deal could spark an arms race in the Middle East and rewards a country with a checkered record on human rights."
     publishedDateTime: 2020-12-09T23:25:00Z

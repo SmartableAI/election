@@ -63,22 +63,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "The Trump administration is delivering on a 2020 vaccine, but not at the levels he suggested"
-    excerpt: "Many of the promises and projections that the Trump administration made on coronavirus vaccines have since been revised or contradicted by Trump officials or by President Trump himself."
-    publishedDateTime: 2020-12-10T16:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-10-2020/t_86660cef3e8b4d0e8383f3bbc5bc196b_name_20201209_TRUMP_VACCINE_V3.png&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
 
 secured: "4t2W5jMRgRkX8+7C4k6vS7eCs1CmL5f4FFfXTFtQzmmE/TVnU4pV6TQR6DK4bA+/WaNxIvPQm+PTJagv+5oSAovJtqDoga+FSy0pjFQJu9NxmWO/z8v8RP0Xb1c576I7QFRRgMZBhVS4cQDOj/zhxaMQyGTImOEMqitOAxCUSmLYms/BGh0ffW2doZxC36uHnctaDxbFSCPRzgaGMuLVKyB2NkuvfnzED+Cn7E5mY2s6oQTMR8W0ay4QTu2wPzqe6vTZT0ihpxfb6AiJJ7sQYUXw3I4kZ+PT0DLloILwaoJC9ahZyRfcBeIJsYIWjSehCP/ufihx2I0F+xzwIrCtzIrDxfxvOGAx7/viRf2MeENIKW0CsyMCRaLFYJg2QUG0LB4hTxcJfqm3dIPGDoEEBbP1kTsKOnXe0k5UzFLVV3UC7FXItvinTqkhgPIt0fGO1MHpjGhVzOZUvqwh1heHskBMYLoPP4chp9w8RBPQbBmKtOK6DJ89UO9JnxvL2gxKiak8kQV786wb7dB7ZVnlgA==;4szid5YJiVyPxJUV70wRKQ=="
 ---

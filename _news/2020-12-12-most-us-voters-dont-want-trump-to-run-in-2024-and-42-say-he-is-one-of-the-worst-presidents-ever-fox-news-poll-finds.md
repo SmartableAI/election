@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Watch Live: Trump does coin toss at Army-Navy Game"
+    excerpt: "Navy coin toss before the game on Saturday afternoon. The event begins at 3:00 p.m. EST. Watch the live video above."
+    publishedDateTime: 2020-12-12T20:06:00Z
+    webUrl: "https://thehill.com/video/in-the-news/529963-watch-live-trump-attends-army-navy-game-participates-in-coin-toss"
+    ampWebUrl: "https://thehill.com/video/in-the-news/529963-watch-live-trump-attends-army-navy-game-participates-in-coin-toss?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/529963-watch-live-trump-attends-army-navy-game-participates-in-coin-toss?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald1_12052020_gettyimages.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump injects politics into the vaccine — again — at a most inopportune time"
     excerpt: "In an early-morning tweetstorm, Trump suggested the FDA and its head, Stephen Hahn, weren’t moving fast enough."
     publishedDateTime: 2020-12-11T16:39:00Z
@@ -78,20 +94,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/31dda42b-429a-49d4-9149-e586d64a933f-USATSI_15294432.jpg?auto=webp&crop=3499,1969,x0,y145&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Four People Stabbed and At Least 23 Arrested at Pro-Trump Rally in D.C."
-    excerpt: "Trump demonstrators after sundown Saturday. WRC-TV reported that four people were taken to a hospital with stab wounds, and the Metropolitan Police Department told the station that 23 people were arrested."
-    publishedDateTime: 2020-12-14T02:14:00Z
-    webUrl: "https://time.com/5921156/stabbing-trump-rally-washington/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 105
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/12/D.C..jpg"
-        width: 4841
-        height: 3227
         isCached: true
   - title: "West Virginia’s electors cast votes for Trump, Pence"
     excerpt: "West Virginia’s members of the Electoral College met on Monday with each member voting for President Donald Trump and Vice President Mike Pence. Secretary of State Mac Warner oversaw the vote, which took place at the state Capitol."

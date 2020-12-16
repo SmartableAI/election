@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Attorney general remains key spot to fill in Biden Cabinet, with Doug Jones seen as a leading contender"
-    excerpt: "As President-elect Joe Biden formally introduces his defense secretary nominee Wednesday, the role of attorney general remains the biggest outstanding position in the Cabinet yet to be named.\n    \n"
-    publishedDateTime: 2020-12-09T14:27:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YKPspZxOpMg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/biden-attorney-general-pick/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/biden-attorney-general-pick/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119232738-doug-jones-september-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden goes to bat for Defense secretary nominee Austin"
     excerpt: "President-elect Joe Biden speaks during an event to announce his choice of retired Army Gen. Lloyd Austin, right, to be secretary of defense, at The Queen theater in Wilmington, Del. | AP Photo/Susan Walsh President-elect Joe Biden addressed concerns Wednesday about nominating a recently retired four-star general to lead the Department of Defense,"
     publishedDateTime: 2020-12-09T20:16:00Z

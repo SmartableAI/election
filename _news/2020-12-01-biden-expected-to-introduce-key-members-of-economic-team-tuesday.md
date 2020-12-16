@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/biden-economic-team-even
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/biden-economic-team-event/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203235613-biden-presidete-crisis-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "How Joe Biden’s Digital Team Tamed the MAGA Internet"
+    excerpt: "The campaign’s empathetic digital strategy held up surprisingly well against President Trump’s passionate digital following."
+    publishedDateTime: 2020-12-06T10:00:00Z
+    webUrl: "https://www.nytimes.com/2020/12/06/technology/joe-biden-internet-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/06/technology/joe-biden-internet-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/06/technology/joe-biden-internet-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/03/business/00roose3/merlin_168733392_16c1ea80-610a-432f-b94e-c320eeba195b-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden meets with struggling workers, calls for more Covid relief amid economic crisis"
     excerpt: "President-elect Joe Biden on Wednesday used a virtual roundtable with workers and small-business owners struggling economically due to the worsening coronavirus pandemic to offer another full-throated call for more Covid-19 stimulus."

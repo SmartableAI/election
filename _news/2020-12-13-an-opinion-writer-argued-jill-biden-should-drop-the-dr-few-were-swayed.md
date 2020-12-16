@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "DeVos urges career staff to ‘be the resistance’ as Biden takes over"
+    excerpt: "The secretary's remarks come after nearly four years of frequently sparring with the career employees of her department."
+    publishedDateTime: 2020-12-16T00:06:00Z
+    webUrl: "https://www.politico.com/news/2020/12/15/betsy-devos-biden-education-department-445900"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/15/betsy-devos-biden-education-department-445900"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/15/betsy-devos-biden-education-department-445900"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/a8/53/14b4729a45d19396481a7440ac6a/gettyimages-1255052290-2-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "A12SIfUVW8fDW79WXLmstVpG/53LSVDZwt3pSiXLmslMZCstMH+Jk311RqVoWCcbd3rNOVEMeZ0NZrm+saWEjaEIkGh/5RdXqVEdI6mxDHcgG7/RcoMYAoh5VUXLW7l+2LEdyuzoblvnFAk7rAnhnvE8opaIUK56oHXnUj9pEjHsAOSzAdsUDkcXQyjYUbW7EAgMb8En0imAPl6/Kz4R8sTfe7tZe+ymDGMV+RyrTFYjaWPV/oz12piWyMJ2cdV5KUZI8QBn9EIqOqcAuq9jWA/jLicZibnnUB1rmsGacB8Igk5JvH/TBa26rytDOkvyc30B9slpWjnJjgvuRVNbB2xEkGsj5wwa4FKOSMZ1DD+963h2Er76mxxheUdVW392DKRwAjYQGvb6R9bhpoNqoaBp39wtViSZBZguFgdtzo33GBXh5OxAPdyiGarNiwnv35Otib/8golOc8pWuG4mBEov5Rl/daawC2sE9PuGvyIEpIiUxfn9kak8HQjTMtIEW9HCOhOBtGW0OQYL4qLV7g==;CJD+ox9dhH6q7wEwOJ8t4g=="
 ---

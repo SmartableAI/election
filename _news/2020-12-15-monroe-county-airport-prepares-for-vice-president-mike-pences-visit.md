@@ -43,15 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "South Carolina Electors Cast All 9 Votes for President Trump"
-    excerpt: "South Carolina’s nine presidential electors have officially voted for President Donald Trump and Vice President Mike Pence."
-    publishedDateTime: 2020-12-14T16:54:00Z
-    webUrl: "https://www.usnews.com/news/best-states/south-carolina/articles/2020-12-14/south-carolina-electors-cast-all-9-votes-for-president-trump"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "6busO9ETbRBI51cx9FZmxoigmVgO/E6PaPsIYveZG4Qw0rc6tA3kYHu2BZv6lv4FgfWNkV9VQ8/x2LoGcTHlJ2AkSniYP6DLUt/+jUAdf7HKHbnA63LG1JmOdmNy4p60HTrFxv4a9YNLt+7lGzLhBRDSMo2yntlHHO+rzy5eiAC58h1L2X498ws2lC4ZHNbsztBbtRIswTJD9FwnQDBTIIzV7paW8LTdeo7pA+zQzilo9otQEXHdGi/CqfHgjryzWT+rHosG6QztwX4WJ6oDVUywWr+4iV/3ZOCJ/Q6k1qSGXVty6a4zxjRkcPgEpTDq+9bqph+MHRSn/PjBFIbfFgSPX2G+aylF4tRBOGCjGIHEOz0qV2rubvZwOzjc3JTPMNOTyJyU79/2ka1Cd7msviusSdtqZjbfSavP+oHEYS7CDn5Lrwwj/7uqMezJvSppVam4I4jVvvsh3qkU3piQVhicofpWQUTxPQTcphoAaP5vstQQu/Sq/3+AzTJDuK8VBHh8WH4yVkR/0cSjwNM1aA==;vIkyQFCODLx97ylCciu26g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/conway-calls-trump-effort-to-overtur
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12?amp"
 type: article
 quality: 124
-heat: 164
+heat: 124
 published: true
 
 provider:
@@ -29,40 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Trump retweeted a call to have him jailed but Georgia Gov. Brian Kemp still won't concede that Trump lost the election"
-    excerpt: "In a new interview, Kemp declined to say that the election was over, while Trump retweeted a call for Kemp to be jailed."
-    publishedDateTime: 2020-12-16T05:41:00Z
-    webUrl: "https://www.businessinsider.com/after-being-taunted-by-president-georgia-gov-kemp-backs-trump-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/after-being-taunted-by-president-georgia-gov-kemp-backs-trump-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/after-being-taunted-by-president-georgia-gov-kemp-backs-trump-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
-    images:
-      - url: "https://i.insider.com/5fd9795a6524f10019792432?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The big lie that won’t die: How Trump and his allies’ favorite bogus fraud claim keeps surviving"
-    excerpt: "When the history of President Trump’s failing effort to overturn the 2020 election results is written, there will be many bogus claims to chew on. But more than any other, one is emerging is the epitome of bad faith,"
-    publishedDateTime: 2020-12-09T18:31:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/09/big-lie-that-wont-die-how-trump-his-allies-favorite-bogus-fraud-claim-keeps-surviving/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/09/big-lie-that-wont-die-how-trump-his-allies-favorite-bogus-fraud-claim-keeps-surviving/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/09/big-lie-that-wont-die-how-trump-his-allies-favorite-bogus-fraud-claim-keeps-surviving/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NF22EOQBDII6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "H40Kvf3TPijdH9H3VfJhiuKjOrj2woK2rpFcw0NDHmo9K38SxkrCl8ouNNNN/BHuMM1SDSFcOReugGigVXLhlLX2P5TwvROwlL8NlGwzaRZ2rgKBUc47Qi431yP7IS5SJXWMzWlPkoCZtjEYY5pI4LmO/UEEIR8z8CSCRSPtsM3Yn7n5vFWngD511crLtZH5vtul+VJayWspwsn0c9KDG0+4xhSGM/fsn+6dQQAk26kNvY9mzzBaooluBe6A26Jz+QwENjXAGedU7AstbOqpl6V2KYOJWaylovK95HaIGO1sv9T9vWSvp9qz1ep+sfaxAbCxcVAtwGwFEEfZxTO7yx8AvGyuxUS+FHje9TPSuC+lXavwiRzzp0z55frtXipuM2ZZVBRVQ+Lc8Qqwm4Ie+jmlOsu0uANNOcDDDIeD4G75+dxL2gtfcgefDxJeibC0xoogbUcOYqYoJk/pRUMlnaZN8si3MVoyALXSR3YGoVw3a4Rnr3YbU83KwTdPff0Hlk9fQUPAL9xx6J1w4qVhxg==;ElAgyu3ALZInFoZZ0fPPiw=="
 ---

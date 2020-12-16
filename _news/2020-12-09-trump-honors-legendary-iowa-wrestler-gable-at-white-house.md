@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "With Texas AG facing federal probe, lawsuit to help Trump comes amid whispers of pardons"
+    excerpt: "The Texas politician challenging the 2020 election is the subject of an FBI investigation -- a thorny problem President Trump could eliminate with a presidential pardon."
+    publishedDateTime: 2020-12-11T02:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/texas-ag-facing-federal-probe-lawsuit-trump-amid/story?id=74654894"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/texas-ag-facing-federal-probe-lawsuit-trump-amid/story?id=74654894"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/texas-ag-facing-federal-probe-lawsuit-trump-amid/story?id=74654894"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/Politics/texas-ag-ken-paxton-rtr-jc-201210_1607642915058_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Former soldier who pleaded guilty to killing 16 Afghans and 7 other former troops and contractors are asking Trump for pardons"
     excerpt: "At least eight former service members and Blackwater guards convicted of war crimes have filed petitions seeking pardons or clemency from Trump."
     publishedDateTime: 2020-12-07T08:36:00Z
@@ -79,6 +95,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Michigan's Top Court Rejects Appeal by Trump Campaign"
+    excerpt: "President Donald Trump's campaign was handed a unanimous defeat Friday at the Michigan Supreme Court, which declined to hear an appeal about how absentee ballots were handled in Detroit as well as other issues."
+    publishedDateTime: 2020-12-11T22:05:00Z
+    webUrl: "https://www.usnews.com/news/best-states/michigan/articles/2020-12-11/michigans-top-court-rejects-appeal-by-trump-campaign"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "kDeRkogbNK8iKzwuMhkz/yJtgvuzzERHstYVJz1U5dWJ5zV9f5touz+LCWwpUMhNhAly01RQQBd5lWwihuKB3yejaQquRvlzOcI/wKtzQTaPbaIopfw1HBIsXcUNy8WTvMURJem7k/V9XTbwGajNBjUInTBwUWyXnL2tBspoLLoR+7y+QxKG462cmkNUpFMT+V5OmA/eTt+iu1H4WDcSP3AdwLMAKpOEza1hnojUmcjlwWi6LHPinpJy+kMMYlu8APLh3ETwoNktmpC+pJgLIUFdrxcxpe1/FzTCSlZ1cS7uVc0dNx4rEOTVWLz1azjRBn9Dpzd8NK3g/WNSd/ETRsM1GmP3NBW2UInq21x5A8m2pQzyefUOTnor47Z9bmSugOom0Fu+uIwHFaJKk0tbfe/2mv5JlQqKYoo/+6ZrEBRVBemRF7+bzGaQT6S5JJR8/0laiDcJ0wlYYFeFgpxkgk7cseMb+5N/FLgENmjagHxUXxrwJrdu7v1VKli9+71vAVfaH2P4x8BIyFfEPMgWOA==;1c3fB1SbyUnYaCLcuRFP0g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/jennifer-granholm-biden-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/jennifer-granholm-biden-energy-secretary/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 295
 published: true
 
 provider:
@@ -78,6 +78,54 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210095900-denis-mcdonough-2018-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden's economic plan is bold. Is it possible?"
+    excerpt: "Elect Joe Biden has sketched out a bold economic agenda, but his ability to enact it could be determined by the upcoming races for control of the Senate."
+    publishedDateTime: 2020-12-11T14:02:00Z
+    webUrl: "https://www.cnn.com/videos/business/2020/12/11/biden-economy-taxes-stimulus-student-debt-trump-covid-orig.cnn-business"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/12/11/biden-economy-taxes-stimulus-student-debt-trump-covid-orig.cnn-business"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/11/biden-economy-taxes-stimulus-student-debt-trump-covid-orig.cnn-business"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201206234438-joe-biden-1204-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Progressive Groups Urge Biden to Move Quickly on Diverse Slate of Judges"
+    excerpt: "The president-elect faces pressure to install a diverse group of progressives in the courts, but the prospect of a Republican-controlled Senate looms as an obstacle."
+    publishedDateTime: 2020-12-11T23:27:00Z
+    webUrl: "https://www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/11DC-JUDGES/11DC-JUDGES-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Transition Live Updates: Formally President-Elect, Biden Looks Ahead to Stimulus"
+    excerpt: "President-elect Joe Biden condemns President Trump’s efforts to undermine the election, which will have lasting effects on democracy."
+    publishedDateTime: 2020-12-15T08:45:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/15/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/15/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/15/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/15/us/politics/15transition-briefing-lead/15transition-briefing-lead-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "bas00uhO0KiOh68WG6aZFuusOvjdtnm1Rc5ijf0lyjs82IuxjgOdDoVS0E9kkIVpvdgjI6a9X/ArXFu1NtWkQSwTQ2f6CHxM1mOYFhrpKNAEFVDetXkbfQOtgB2Du11uLOtzlcXq79K/GZg9V0dsqE6xLIj0b8eZ8QNiNFZmfkC0uQH5wjW/LqP/xX5SRWVjuXpzrI7m3Ec/AYlh876uaQXhm/A+3YQa9HgKWndTPlfkyMt1zlNQnf+45/IZnAhijMRUE8FsLu2TM97UOYyi/VS78X0pfCPF3jWEttOba2PdO7+YFcWEpsIdsiVxFUaWuNRmGTDAoOoXIiyE2b5Y3Frer6aRuHM8z2SMhjUpu0k=;6VRlZn9HTJlL1aSS9tHK2Q=="

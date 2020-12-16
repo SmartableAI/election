@@ -127,6 +127,33 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fact check: Statistical analysis supporting pro-Trump Supreme Court case is 'ludicrous'"
+    excerpt: "The purported statistical analysis wrongly assumes votes in the November election were randomly distributed across each state."
+    publishedDateTime: 2020-12-10T21:48:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/12/10/fact-check-ludicrous-statistical-analysis-supporting-pro-trump-case/3877743001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3877743001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3877743001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/09/USAT/29e07d5e-f819-4835-a34b-48f8fe3ba36b-AP20343706441792.jpg?auto=webp&crop=4272,2403,x10,y11&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Senate Falls Short of Halting Trump's $23B Arms Sales to UAE"
+    excerpt: "The Senate has fallen short of disapproving the Trump administration’s proposed $23 billion arms sales to the United Arab Emirates."
+    publishedDateTime: 2020-12-10T00:06:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "Bff4twgxVvFa/xbXO8uLPidYhRbsucPj/YOpld4Yol4sQEbZMeK8qIBukWZs15QI+PNrsyBw+8SYYCpd7c0GEO4nnOvq9WZrUUzmPgutmfmIKSiddlTH/ZHFQ1tQApmfdMIVa2pJ14ZSkR+Bk1QQ72WiBvHrvyoopHJ9QCIWUKaIr1wt7jjjGAcrI8oxmZR7mOTXiZwsbJKzlb1nwC2j0fyTpVZQoyl6Jvi/+FJMo58RBTNN9/MgcZl6UWcMPa2rvHzazRylNIiBKubZld9qY8CJEJLJzwvazz4q9ER7b6u79/+wGIrPmn2GfMrftyMkDKX1kzc1zW9x8yADfpH1LyMmKsRoG/mELiQp6SuigJZ1UtWwH47HZDVSXd7nQiX8uZlg+p/Lor+itKD/7T+YQMzqNwNDAA4AJBrSRHeemk6a+Witti8uNuxvg5ARPBc9fYjiGEJVw36B+YdljZq0aeT17xACToUz2EnMLZvNwe6+yrDGj6j4tKlaZMr9b67LtWzuKAWRQbMm0FuKtOVa6Q==;lvHw4FP9R27g7EnUPvwFxg=="
 ---

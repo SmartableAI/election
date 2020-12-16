@@ -31,147 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Pro-Trump demonstrators gather Saturday in Washington"
-    excerpt: "Protesters who refuse to accept that President-elect Joe Biden won the election have begun arriving in Washington for what organizers have called a “March for Trump.” They are expected to fan out across the city Saturday,"
-    publishedDateTime: 2020-12-12T18:00:00Z
-    webUrl: "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp"
+  - title: "The Technology 202: Trump administration’s immigration feud with Silicon Valley isn't over yet"
+    excerpt: "The Trump administration is continuing to wage war against Silicon Valley on immigration, even in its dwindling days in office. The Justice Department sued Facebook for allegedly illegally discriminating against U."
+    publishedDateTime: 2020-12-04T14:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 113
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZH6EKZR4SEI6XKWZRFMSE4UAYQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LW6IDFBJG4I6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 919
+        isCached: true
+  - title: "Trump administration to impose long-awaited sanctions on Turkey over Russian missile defense system"
+    excerpt: "Ankara's purchase and testing of the S-400 system alarmed its NATO allies, and touched off demands in Washington to impose sanctions. The annoucement comes as Congress is poised to pass a defense bill that would have forced the administration's hand."
+    publishedDateTime: 2020-12-11T04:53:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/trump-administration-to-impose-long-awaited-sanctions-on-turkey-over-russian-missile-defense-system/2020/12/10/c266682c-3b15-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-administration-to-impose-long-awaited-sanctions-on-turkey-over-russian-missile-defense-system/2020/12/10/c266682c-3b15-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-administration-to-impose-long-awaited-sanctions-on-turkey-over-russian-missile-defense-system/2020/12/10/c266682c-3b15-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4RWTV6R3DEI6XPDIS2XQ3KXHFA.jpg&w=1440"
+        width: 1440
+        height: 983
+        isCached: true
+  - title: "‘Betrayed’ Black asylum seekers say Trump administration is ramping up deportations by force and fraud"
+    excerpt: "ICE uses physical abuse, solitary confinement and false documents to force Black and African asylum seekers onto 'death planes,' The Times has found through interviews and legal documents."
+    publishedDateTime: 2020-11-27T12:13:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 109
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/aa4cd1d/2147483647/strip/true/crop/5785x3778+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F01%2Fc4%2F01af9ef14b14aec3e57f0fd96307%2Ftrump-64946.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Trump administration pushes pay freeze for federal workers, after initially calling for a 1 percent raise"
+    excerpt: "Trump’s early-year budget plan had called for the raise along with proposals to reduce the value of retirement benefits."
+    publishedDateTime: 2020-12-02T21:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HZMWMTW3OMI6VNHREW3WFTN36Q.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Saturday Night Live Mocks Trump's New Favorite Network Newsmax"
-    excerpt: "Trump network Newsmax's coverage with a sketch introducing its latest television offering—a sports network that refuses to acknowledge the New York Jets ever lose. The sketch opens with a voiceover that claims \"millions of real Americans are switching from Fox News to Newsmax because Newsmax tells them the"
-    publishedDateTime: 2020-12-13T10:41:00Z
-    webUrl: "https://www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381"
-    ampWebUrl: "https://www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1685494/snl.png"
-        width: 890
-        height: 593
-        isCached: true
-  - title: "Violence erupts in Washington D.C. after Trump supporters rally"
-    excerpt: "At least four people were stabbed near Black Lives Matter Plaza, about four blocks from the White House, and there were 33 unrelated arrests."
-    publishedDateTime: 2020-12-14T12:36:00Z
-    webUrl: "https://www.cbsnews.com/news/washington-dc-protest-violence-trump-supporters-rally/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/washington-dc-protest-violence-trump-supporters-rally/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/washington-dc-protest-violence-trump-supporters-rally/"
+  - title: "Trump's arguments on undocumented immigrants?..."
+    excerpt: "Watch \"What are Trump's legal arguments on removing undocumented immigrants from the census\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-01T04:56:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201201043811-what-are-trumps-legal-arguments-on-removing-undocumented-immigrants-from-the-census/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/13/a32d67c1-f73f-4ea0-b926-b571f35559cb/thumbnail/1200x630/4e3243bbdcf10a2e07bffc5333f4aa23/ap-20348189040437.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Street closures planned Saturday in downtown Washington for pro-Trump rallies"
-    excerpt: "The street closures will go into effect about 6 a.m. Saturday and will be enforced through the end of the day."
-    publishedDateTime: 2020-12-09T22:46:00Z
-    webUrl: "https://www.washingtonpost.com/transportation/2020/12/09/street-closures-dc-protests/"
-    ampWebUrl: "https://www.washingtonpost.com/transportation/2020/12/09/street-closures-dc-protests/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/transportation/2020/12/09/street-closures-dc-protests/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2HTI4WRGXYI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 959
-        isCached: true
-  - title: "Trump supporters plan rallies in Washington DC, experts warn extremists may attend"
-    excerpt: "It's unclear how many people will go to rallies in support of President Trump in Washington, D.C., but experts warn right-wing extremists may attend."
-    publishedDateTime: 2020-11-14T04:35:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/13/trump-supporters-plan-washington-dc-rallies-experts-warn-extremists/6265591002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6265591002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6265591002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/c9445b3e-4891-4b6d-8858-278174f9fa31-XXX_ILSPR_110720_PHOTO_Rally_03.jpg?auto=webp&crop=4533,2550,x0,y389&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "At least 23 arrested as crowds turn unruly after pro-Trump rally in Washington, DC"
-    excerpt: "Supporters of President Donald Trump gathered Saturday to demand election integrity. The scene later turned tense as rival groups clashed."
-    publishedDateTime: 2020-12-14T02:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/12/12/trump-march-brings-thousands-dc-ahead-electoral-college-vote/3882935001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3882935001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3882935001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/12/USAT/98fde875-f323-48b1-956e-5deb594da45d-XXX_USATODAY_444201_jmg_22534_1.JPG?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Far-right protesters, counterdemonstrators plan to gather Saturday in D.C. amid pro-Trump rallies"
-    excerpt: "The events have been promoted by far-right media personalities, white nationalists and conspiracists — several of whom announced plans to attend. Counterdemonstrations organized by anti-fascist and anti-racism groups are being planned nearby."
-    publishedDateTime: 2020-11-13T04:48:00Z
-    webUrl: "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6HLV6YAYPMI6XC62QFGKK3QTRM.jpg&w=1440"
-        width: 1440
-        height: 961
-        isCached: true
-  - title: "Policing protests: Demonstrators say officers are taking sides as D.C. hosts pro-Trump rallies Saturday"
-    excerpt: "D.C. protesters who have spent months calling for criminal justice reform say they were outnumbered and violently attacked by Proud Boys and other far-right agitators while police stood by on Nov. 14."
-    publishedDateTime: 2020-12-12T04:47:00Z
-    webUrl: "https://www.washingtonpost.com/local/dc-maga-protest/2020/12/11/fe7859d2-3afd-11eb-98c4-25dc9f4987e8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/dc-maga-protest/2020/12/11/fe7859d2-3afd-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/dc-maga-protest/2020/12/11/fe7859d2-3afd-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R4M2OKRGY4I6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 950
-        isCached: true
-  - title: "Trump says U.S. Attorney General Barr resigns"
-    excerpt: "U.S. Attorney General William Barr will step down next week, he said on Monday, shortly after the Electoral College confirmed President Donald Trump's loss to Democratic President-elect Joe Biden."
-    publishedDateTime: 2020-12-15T09:00:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPMHv?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
     quality: 105
     images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fd8312ae4b04d44576323f2-1608003884993?location=LANDSCAPE"
-        width: 2241
-        height: 1495
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/01/story_07914228_1606797964.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "xZEX2woQnPatd2bRHakjpUMNh+nz/7WPdr4I9lLyCsdwk1asahqkJ79reN+qMA8dO20B4mLIPo54Ua88Ee82WfaU3XDeMCSGnP8HIO5ROyfKmKrIHOsIKWynf3wDt16KP18yfhyXynQ5ZCjlykud6zV/9LysIvhikfTZcrjv5mG0b0U6QnMGXFPSeR1S8UzZKSkzldK4PCUgBn8k3gs3s4J8huyOTDN5x1ePb42Nm03N90JKG/K4MITVYN4/aA5Y5r3ioxgawbcloXcKN0X7IdNXXdZpai+r+3L7ZWTVcgbGbqj6xkrhsrMI5NhZ+4+x/zaQRSd6cVk3fACRjGDDoN00NGZ2+Sb2EaVd/rZoyIk=;JEtUeyWi3+S8jGnDtCuf1w=="

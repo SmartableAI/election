@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "U.S. finalizes shower head rule after Trump complaints about hair rinsing"
+    excerpt: "The U.S. Energy Department on Tuesday finalized two rules easing energy standards on consumer fixtures and appliances, including one on shower heads after President Donald Trump complained some showers don't adequately rinse his hair."
+    publishedDateTime: 2020-12-16T02:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-energy-efficiency-idUSKBN28P2XZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2XZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2XZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544679145&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1Q8"
+        width: 818
+        height: 545
+        isCached: true
   - title: "The Note: Electoral College voting brings crossroads for Trump and his GOP"
     excerpt: "Trump looms large over the future of the Republican Party. But his interests and those of his party are already diverging."
     publishedDateTime: 2020-12-14T13:31:00Z
@@ -79,22 +95,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Thousands gather in D.C. for pro-Trump demonstrations as city braces for clashes"
-    excerpt: "Protesters who refuse to accept that President-elect Joe Biden won the election have begun arriving in Washington for what organizers have called a “March for Trump.” They are expected to fan out across the city Saturday,"
-    publishedDateTime: 2020-12-12T22:23:00Z
-    webUrl: "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TF5BIQB4UAI6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Loeffler dodges Warnock’s question: ‘Did Donald Trump lose the election?’"
     excerpt: "Incumbent Sen. Kelly Loeffler (R) faced off against the Rev. Raphael Warnock (D) at a debate in Atlanta on Dec. 6."
     publishedDateTime: 2020-12-07T01:35:00Z
@@ -109,21 +109,21 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "With executions in final days of presidency, Trump is solidifying his criminal justice legacy"
-    excerpt: "The execution of multiple prisoners by the Trump administration in its final days has the potential to be definitive for a president who often tried to paint himself as a champion of criminal justice reform."
-    publishedDateTime: 2020-12-14T20:41:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/14/with-executions-final-days-presidency-trump-is-solidifying-his-criminal-justice-legacy/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/14/with-executions-final-days-presidency-trump-is-solidifying-his-criminal-justice-legacy/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/14/with-executions-final-days-presidency-trump-is-solidifying-his-criminal-justice-legacy/?outputType=amp"
+  - title: "Trump and his GOP allies vow to ‘fight on’ after Supreme Court rejects legal challenge to overturn election results"
+    excerpt: "The Supreme Court’s final blow to legal efforts to overturn the presidential election only amplified the rhetoric and false claims that the election was stolen from Trump."
+    publishedDateTime: 2020-12-12T22:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-and-his-gop-allies-vow-to-fight-on-after-supreme-court-rejects-legal-challenge-to-overturn-election-results/2020/12/12/904c719c-3c82-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-and-his-gop-allies-vow-to-fight-on-after-supreme-court-rejects-legal-challenge-to-overturn-election-results/2020/12/12/904c719c-3c82-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-and-his-gop-allies-vow-to-fight-on-after-supreme-court-rejects-legal-challenge-to-overturn-election-results/2020/12/12/904c719c-3c82-11eb-bc68-96af0daae728_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 114
+    quality: 118
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E7DCKOB3G4I6XKWZRFMSE4UAYQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TGQ34XB4TEI6XPDIS2XQ3KXHFA.jpg&w=1440"
         width: 1440
-        height: 1027
+        height: 960
         isCached: true
   - title: "The Technology 202: Trump's misleading claims about Section 230 could last beyond his showdown with Congress"
     excerpt: "If Trump follows through on his threat to veto the must-pass military operations bill unless it contains language to repeal Section 230, he could face his first potential veto override of his presidency,"

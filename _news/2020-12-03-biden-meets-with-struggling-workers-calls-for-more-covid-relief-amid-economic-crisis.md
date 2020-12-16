@@ -192,6 +192,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Joe Biden’s Digital Team Tamed the MAGA Internet"
+    excerpt: "The campaign’s empathetic digital strategy held up surprisingly well against President Trump’s passionate digital following."
+    publishedDateTime: 2020-12-06T10:00:00Z
+    webUrl: "https://www.nytimes.com/2020/12/06/technology/joe-biden-internet-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/06/technology/joe-biden-internet-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/06/technology/joe-biden-internet-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/03/business/00roose3/merlin_168733392_16c1ea80-610a-432f-b94e-c320eeba195b-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "ljvRg+VJmObnvyKflPH1QDtIS5TRrE1S/A2DWsWwz3kHXscln36YyZOmpDijS87Xn/5CRf77Bw/W3J7Uit7xwZsZRg7UCGpjf5oAcgfTv1vgwRka/zhaH9zVGnt7CYRsrjRIbLPpkbXROlymeu0sj2QgQqZXJP7IgTHYggvShBTnf/azQauEe0/eMd6ylCxWCyKs3L9mdnlGHZPqF0MC3gxQX+ixhqt+BIacTp/VT3nqwG9khz5LerXi6PxnJ1Szc/RBZziAdoE5RvM3jcLfiu770lgOausF0T4sBzkqS+pa9wjjG+gToGAolBizFsmdvk7bONctBvoGLC2q1LetH8CkUJBylJEZ9LVqprNbrxCnYb9yF8J63zTP483b/DkyfQ1CqWUOBv3067NyBKJtADuMRhspmsGDnufgHlBb5dAJvTgzlyqugt0YkmO/M8uSb0rnBw9ml6VaEPk+yLJIgygoSJLjQOjv1QCGzIeXbGKcBPN3ihIjp03UL2g/FiT910mB1+asaAxmZoFl/iAl8g==;cQ5RYyz2CtVLzsj3lSEAXg=="
 ---

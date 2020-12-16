@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/jill-biden-dr-first-lady
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/jill-biden-dr-first-lady-op-ed-joseph-epstein-northwestern/index.html"
 type: article
 quality: 153
-heat: 173
+heat: 193
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeVos urges career staff to ‘be the resistance’ as Biden takes over"
+    excerpt: "The secretary's remarks come after nearly four years of frequently sparring with the career employees of her department."
+    publishedDateTime: 2020-12-16T00:06:00Z
+    webUrl: "https://www.politico.com/news/2020/12/15/betsy-devos-biden-education-department-445900"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/15/betsy-devos-biden-education-department-445900"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/15/betsy-devos-biden-education-department-445900"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/a8/53/14b4729a45d19396481a7440ac6a/gettyimages-1255052290-2-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "An Opinion Writer Argued Jill Biden Should Drop the ‘Dr.’ (Few Were Swayed.)"
     excerpt: "Many women said Joseph Epstein’s suggestion in The Wall Street Journal was blatantly sexist and underscored the way men often dismiss women’s credentials."
     publishedDateTime: 2020-12-13T03:03:00Z

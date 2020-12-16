@@ -2,19 +2,19 @@
 category: news
 title: "Michigan's Electoral College delegates cast all 16 votes for Joe Biden, Kamala Harris"
 excerpt: "By law, Michigan delegates to the Electoral College are required to cast their votes for the winner of the popular vote."
-publishedDateTime: 2020-12-14T22:50:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
-webUrl: "https://www.indystar.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
-ampWebUrl: "https://amp.indystar.com/amp/6538683002"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6538683002"
+publishedDateTime: 2020-12-14T23:15:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/6538683002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6538683002"
 type: article
 quality: 83
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Latest: Fauci says vaccinate Biden, Harris, Trump, Pence"
-    excerpt: "Top U.S. infectious disease expert Dr. Anthony Fauci says President-elect Joe Biden and Vice President-elect Kamala Harris should be vaccinated for COVID-19 as soon as possible"
-    publishedDateTime: 2020-12-15T17:37:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 190
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "The Latest: Fauci says vaccinate Biden, Harris, Trump, Pence"
     excerpt: "Top U.S. infectious disease expert Dr. Anthony Fauci says President-elect Joe Biden and Vice President-elect Kamala Harris should be vaccinated for COVID-19 as soon as possible"
     publishedDateTime: 2020-12-15T12:50:00Z
@@ -75,6 +59,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The Latest: Fauci says vaccinate Biden, Harris, Trump, Pence"
+    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
+    publishedDateTime: 2020-12-15T16:19:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-fauci-says-vaccinate-biden-harris-trump-pence-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-fauci-says-vaccinate-biden-harris-trump-pence-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-fauci-says-vaccinate-biden-harris-trump-pence-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 160
   - title: "Election 2020 Today: Biden’s defense pick, Trump challenges"
     excerpt: "The Associated Press has learned that President-elect Joe Biden will nominate retired four-star Army general Lloyd J"
     publishedDateTime: 2020-12-08T10:34:00Z
@@ -901,6 +896,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Kamala Harris assumes critical role – now and later: The Note"
+    excerpt: "Harris will be a Black vice president in an administration facing criticism for a relative lack of diversity. She will be a key figure in convincing communities of color to trust the COVID-19 vaccine."
+    publishedDateTime: 2020-12-16T11:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/kamala-harris-assumes-critical-role-now-note/story?id=74591169"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-assumes-critical-role-now-note/story?id=74591169"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-assumes-critical-role-now-note/story?id=74591169"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala-harris-robin-roberts-interview-06-abc-jc-201215_1608076757078_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Time’s Person of the Year is Joe Biden and Kamala Harris, a ticket that ‘represents something historic’"
     excerpt: "Joe Biden is the latest in a long line of presidents to be named Time's Person of the Year -- but Kamala Harris is the first vice-president to also receive the title."
     publishedDateTime: 2020-12-11T04:58:00Z
@@ -1183,6 +1194,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/15/61/01/20385910/11/rawImage.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Trump is already considering axing his new attorney general if he won't agree to a special counsel probe into Hunter Biden"
+    excerpt: "Trump is reportedly determined to launch a special counsel probe into Hunter Biden's tax affairs, with only weeks before Joe Biden takes office."
+    publishedDateTime: 2020-12-16T12:21:00Z
+    webUrl: "https://www.businessinsider.com/trump-discussing-firing-barrs-successor-as-attorney-general-report-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-discussing-firing-barrs-successor-as-attorney-general-report-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-discussing-firing-barrs-successor-as-attorney-general-report-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fd9e0ce1803a80018adfb4b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Fauci says vaccinate Biden, Harris, Trump, Pence"
     excerpt: "Dr. Anthony S. Fauci said it was his “strong recommendation” that President-elect Joseph R. Biden Jr. and Vice President-elect Kamala Harris receive a COVID-19 vaccine quickly."
@@ -1975,6 +2002,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "rBgeLasxRp0M3QYU1sWbfUxthnjqtKoJSmUPoGI+/AG2bN4tLmQadL/iBvyvwhxUoOT+aS3vjuQkmgFYTaFmxVgm9fNmSg9ZvYK0WWN7ndYZIm8GaNcom+J018JTVXOcxhPR6qi2mRZhDbQo724ivG44uHQeOm6ZcqMDcUIhZqakKm1gwwrldxy9fE2LJlPdDmtkScjG7OW/4Q1aPHUE+AP2M6f0v+ad325QrEeqoLSH2wHyLkppxRGqoWF4+GMKOIIZmugSgbU1etmhKvyUMFMX+7TTu6QgDu4SOEgB7v+0oCFtZJm0zWCahsS8srrkIYSELlI06oW+/ohtApQyFhdkZZqEJs9UkPalTTLjJHu/skuFzvmF27Mr2KQMBvlH+y/DLjcLzYihvX06xPTS2jWRvpqxcuUhb0bV1RAdZuq7GJX+p7N2hdM8dHtTrXTRe3YqWL3KGNurFggFt8QYKYTLDSKZ5em9TnmaqsF8ql4DH0cRrN0mbF2NjgivWRyDFgNmqqptLBVBDUXodiJ5Tg==;AIgph6kZD22v9iGxu4nB6g=="
+secured: "IyXWDpWZyqXT658ElY45dp9F1lYVmASt1BPQei8uo6jqgLVSUWmZteGoJIqi34O2mqe0GiHAS9ApYZeZlR+gofCrVN8BU/elKEhcjaEdaSjoRxn2tAzAtfatzewXUj8HgSufyaOlwZfVUn4dV3yxFI8xTrq4dF0ZJoz//7fPLNgK4xPwLyBt4wnxh98aswzsXo1Q6UUdTE2J62WJiydcK0LOmrbZtqNBWn0JFpH2NIq40dikWEZYIXCo/r9QGx7ZQdB2pKvIFhH2UoBLROMfFo3fOmgXEQAQ4pm7pTqG+mH9+yQGDPZ5ft0LmwcR8vWFXBcpUkEDG72KJLBiVgdmIA/QKvOeW/UzxStTwrVLrkc=;iQ/BJ4bYUfmWvtsRntKWUA=="
 ---
 

@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-16-the-us-government-changed-the-rules-to-allow-more-powerful-showers-after-trump-complained-about-not-getting-enough-water-to-wash-his-hair.md",
+      "title": "The US government changed the rules to allow more powerful showers after Trump complained about not getting enough water to wash his hair",
+      "excerpt": "At a White House event in July, President Trump complained that showers weren't providing enough water for him to properly wash his hair.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/us-rolls-back-shower-restrictions-after-trump-complained-2020-12",
+      "originalUrl": "https://www.businessinsider.com/us-rolls-back-shower-restrictions-after-trump-complained-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fd9f5721803a80018adfb87?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/us-rolls-back-shower-restrictions-after-trump-complained-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-rolls-back-shower-restrictions-after-trump-complained-2020-12?amp",
+      "publishedDateTime": "2020-12-16T04:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-election-2020-today-trump-base-resigned-buttigieg-picked.md",
+      "title": "Election 2020 Today: Trump base resigned, Buttigieg picked",
+      "excerpt": "Now that the Electoral College has formalized Joe Biden’s win and Republican officials are finally acknowledging Biden as president-elect, many Trump voters across the country seem to be doing the sam",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/election-2020-today-trump-base-resigned-buttigieg-picked/2020/12/16/bcea00c8-3f90-11eb-b58b-1623f6267960_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/election-2020-today-trump-base-resigned-buttigieg-picked/2020/12/16/bcea00c8-3f90-11eb-b58b-1623f6267960_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 500,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/election-2020-today-trump-base-resigned-buttigieg-picked/2020/12/16/bcea00c8-3f90-11eb-b58b-1623f6267960_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-trump-base-resigned-buttigieg-picked/2020/12/16/bcea00c8-3f90-11eb-b58b-1623f6267960_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-16T03:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-analysis-federal-reserve-boneheads-emerge-from-trump-era-unscathed.md",
+      "title": "Analysis-Federal Reserve 'boneheads' emerge from Trump era unscathed",
+      "excerpt": "\"Boneheads.\" \"Pathetic.\" An \"enemy\" of the United States. President Donald Trump was often vicious in his critique of the U.S. Federal Reserve, bashing the central bank governors' monetary policy decisions with tweets and verbal barbs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-fed-trump-idINKBN28Q1CZ",
+      "originalUrl": "https://www.reuters.com/article/usa-fed-trump-idINKBN28Q1CZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544742238&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF0PG",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28Q1CZ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28Q1CZ",
+      "publishedDateTime": "2020-12-16T03:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-like-a-hand-grasping-trump-appointees-describe-the-crushing-of-the-cdc.md",
       "title": "‘Like a Hand Grasping’: Trump Appointees Describe the Crushing of the C.D.C.",
       "excerpt": "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, go public on the Trump administration’s manipulation of the agency.",
@@ -111,6 +267,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-16-coronavirus-live-news-london-enters-tier-3-restrictions-trump-will-absolutely-encourage-vaccine-use.md",
+      "title": "Coronavirus live news: London enters tier 3 restrictions; Trump will 'absolutely' encourage vaccine use",
+      "excerpt": "One in four people globally may not get vaccines until 2022; EU likely to approve vaccine within days; Canada signs deal to accelerate Moderna vaccine deliveries",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary?page=with:block-5fd9936a8f08758977b3f0ed",
+      "originalUrl": "https://www.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary?page=with:block-5fd9936a8f08758977b3f0ed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a9e40093460b49c3609271c8c600e4790fd83685/0_0_4200_2520/master/4200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=feb9d1fec72b9a323db0e7ecf911894d",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary",
+      "publishedDateTime": "2020-12-15T22:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-ron-johnson-gambles-his-political-future-on-trump.md",
       "title": "Ron Johnson gambles his political future on Trump",
       "excerpt": "The Wisconsin Republican is holding a hearing on alleged election “irregularities” even after Biden secured an Electoral College victory.",
@@ -168,21 +376,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-16-the-latest-fauci-says-vaccinate-biden-harris-trump-pence.md",
-      "title": "The Latest: Fauci says vaccinate Biden, Harris, Trump, Pence",
-      "excerpt": "Top U.S. infectious disease expert Dr. Anthony Fauci says President-elect Joe Biden and Vice President-elect Kamala Harris should be vaccinated for COVID-19 as soon as possible",
+      "path": "_news/2020-12-16-mar-a-lago-neighbors-to-trump-spend-your-post-presidency-elsewhere.md",
+      "title": "Mar-a-Lago neighbors to Trump: Spend your post-presidency elsewhere",
+      "excerpt": "Lago, President Trump’s private club in Palm Beach, Fla., that he has called his Winter White House, have a message for the outgoing commander in chief: We don’t want you to be our neighbor. Support our journalism.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html",
+      "webUrl": "https://www.washingtonpost.com/lifestyle/style/trump-mar-a-lago-neighbors-dispute/2020/12/15/bc2ce1d0-3ed4-11eb-9453-fc36ba051781_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/style/trump-mar-a-lago-neighbors-dispute/2020/12/15/bc2ce1d0-3ed4-11eb-9453-fc36ba051781_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2790,
+      "heat": 165,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZTQ3QX744I6TC5LB7BATYDFVA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -190,9 +398,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-fauci-says-vaccinate-biden-harris-trump-pence/2020/12/15/3d3a84ec-3ed2-11eb-b58b-1623f6267960_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-15T09:37:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/style/trump-mar-a-lago-neighbors-dispute/2020/12/15/bc2ce1d0-3ed4-11eb-9453-fc36ba051781_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-mar-a-lago-neighbors-dispute/2020/12/15/bc2ce1d0-3ed4-11eb-9453-fc36ba051781_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-15T16:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -216,9 +424,111 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Mike Pence",
-        "Kamala Harris"
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-barr-couldnt-pass-trumps-loyalty-test-shredding-the-us-constitution.md",
+      "title": "Barr couldn't pass Trump's loyalty test: shredding the US constitution",
+      "excerpt": "The attorney general, who acted as Trump’s enforcer with apparent relish, ultimately wouldn’t help him steal an election",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/dec/14/bill-barr-donald-trump-resignation-us-constitution",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/14/bill-barr-donald-trump-resignation-us-constitution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/064f2374ecc80effe0f8ce0230b9f76755519c6d/0_264_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f5b9b34a80210227c43d3507ec49d8d6",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/14/bill-barr-donald-trump-resignation-us-constitution",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/14/bill-barr-donald-trump-resignation-us-constitution",
+      "publishedDateTime": "2020-12-15T14:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-under-attack-from-trump-americas-democratic-institutions-bend-but-dont-break.md",
+      "title": "Under attack from Trump, America’s democratic institutions bend but don’t break",
+      "excerpt": "Historians and democracy experts said they feared that the tumultuous post-election period had exposed the fragility of the instruments of democracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/hI1Y5FYhOzQSxPk_372qNQCsw4I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XBBB32DW26JFTNJSF6TAYX7P2A.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-14T18:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -279,20 +589,20 @@
       ]
     },
     {
-      "path": "_news/2020-12-15-trump-says-attorney-general-barr-resigns.md",
-      "title": "Trump says Attorney General Barr resigns",
-      "excerpt": "President Donald Trump said on Monday that Attorney General William Barr will be leaving his job just before Christmas and Deputy Attorney General Jeff Rosen will become acting attorney general.",
+      "path": "_news/2020-12-15-trump-nominee-takes-seat-at-us-telecom-regulator.md",
+      "title": "Trump nominee takes seat at U.S. telecom regulator",
+      "excerpt": "A senior Trump administration official who helped lead a regulatory effort seeking to rein in social media companies was sworn in to the five-member Federal Communications Commission (FCC) on Monday.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-barr/trump-says-attorney-general-barr-resigns-idUSKBN28O329",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-barr/trump-says-attorney-general-barr-resigns-idUSKBN28O329",
+      "webUrl": "https://www.reuters.com/article/usa-tech-fcc-idUKKBN28O20B",
+      "originalUrl": "https://www.reuters.com/article/usa-tech-fcc-idUKKBN28O20B",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 145,
       "tags": null,
       "images": [
         {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544561952&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD1PU",
-          "width": 817,
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544515179&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD13O",
+          "width": 807,
           "height": 545,
           "title": null,
           "attribution": null,
@@ -301,9 +611,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28O329",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O329",
-      "publishedDateTime": "2020-12-14T15:14:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN28O20B",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28O20B",
+      "publishedDateTime": "2020-12-14T12:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -331,21 +641,25 @@
       ]
     },
     {
-      "path": "_news/2020-12-15-trump-administration-rushes-to-roll-out-a-250-million-public-education-effort-to-encourage-americans-to-get-vaccinated.md",
-      "title": "Trump administration rushes to roll out a $250 million public education effort to encourage Americans to get vaccinated",
-      "excerpt": "A large-scale public education campaign, delayed by false starts and investigations, will get off the ground just as the coronavirus vaccine becomes available to high-risk Americans.",
+      "path": "_news/2020-12-14-trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out.md",
+      "title": "Trudeau's digital tax flexes Canada's muscles with Trump on the way out",
+      "excerpt": "\"The idea that Canada would go ahead with an early tax probably would have invited a tariff by Trump,\" says one observer.",
       "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html",
-      "originalUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html",
+      "webUrl": "https://www.politico.com/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999",
+      "originalUrl": "https://www.politico.com/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://www.chicagotribune.com/resizer/vhYxJnm77JRG0ft5QUfsg3oZUCk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VK557JGXCB74AHEZ4WDSK7AYNU.jpg",
-          "width": 1200,
-          "height": 801,
+          "url": "https://static.politico.com/ca/23/b637de3048f799b2373d53bea68e/ap20275647298968-1.jpg",
+          "width": 1160,
+          "height": 773,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -353,16 +667,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-14T09:15:00-08:00",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999",
+      "publishedDateTime": "2020-12-14T07:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
+        "name": "Politico",
+        "domain": "politico.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -379,59 +693,8 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-most-federal-employees-to-get-the-day-off-dec-24-under-trump-executive-order.md",
-      "title": "Most federal employees to get the day off Dec. 24 under Trump executive order",
-      "excerpt": "Trump follows a tradition of presidents excusing federal employees from work on the day before Christmas when the Christmas Day federal holiday falls on a Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KSJT7RBTC4I6XFUZADJRD4J5FU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-14T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -495,7 +758,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -596,162 +859,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-14-trump-expands-his-cable-diet-to-newsmax-and-oan-they-benefit-and-so-does-he.md",
-      "title": "Trump expands his cable diet to Newsmax and OAN. They benefit and so does he.",
-      "excerpt": "Presidential praise has boosted ratings, and more viewers can then increase pressure on Republicans to back Trump’s false claims of election fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V3ZFN5BLPAI6XHBBHTCQDUEYD4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-13T18:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-coronavirus-live-news-trump-to-be-offered-vaccine-on-monday-london-borough-to-close-all-schools.md",
-      "title": "Coronavirus live news: Trump 'to be offered vaccine on Monday'; London borough to close all schools",
-      "excerpt": "Greenwich ‘in a period of exponential growth that demands immediate action’; Spain’s health minister says vaccine could bring herd immunity by summer",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day?page=with:block-5fd68aab8f08b0a99da950e2",
-      "originalUrl": "https://www.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day?page=with:block-5fd68aab8f08b0a99da950e2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/aa43b0326b5deb79f2e3c35acff29d03650abc3a/0_197_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3e40d3e6031803dbbb1e1b649f700a6f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day",
-      "publishedDateTime": "2020-12-13T14:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-cnns-jake-tapper-thanks-trump-for-exposing-republicans-who-supported-texas-un-democratic-un-american-mendacious-joke-of-a-lawsuit.md",
-      "title": "CNN's Jake Tapper thanks Trump for 'exposing' Republicans who supported Texas' 'un-democratic, un-American, mendacious joke of a lawsuit'",
-      "excerpt": "Tapper closed his show with a blistering attack on Trump and Republicans for their \"desperate desire to subvert the will of the American people.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12",
-      "originalUrl": "https://www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fd689d69cf1420018d2f14a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12?amp",
-      "publishedDateTime": "2020-12-13T13:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-14-trump-threatens-to-veto-defense-spending-bill-citing-china.md",
       "title": "Trump threatens to veto defense spending bill, citing China",
       "excerpt": "President Trump on Sunday reiterated his threat to veto a $740 billion defense spending bill, setting up a showdown with the Congress that passed the legislation last week by veto-proof margins.",
@@ -800,21 +907,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-13-trumps-legal-attempt-to-throw-out-votes-in-wisconsins-most-diverse-counties-smacks-of-racism-judge-says.md",
-      "title": "Trump's legal attempt to throw out votes in Wisconsin's most diverse counties 'smacks of racism,' judge says",
-      "excerpt": "Most Black Wisconsinites live in or around the two counties, Milwaukee and Dane, where the Trump legal team sort to throw out 221,000 absentee ballot.",
+      "path": "_news/2020-12-13-saturday-night-live-mocks-trumps-new-favorite-network-newsmax.md",
+      "title": "Saturday Night Live Mocks Trump's New Favorite Network Newsmax",
+      "excerpt": "Trump network Newsmax's coverage with a sketch introducing its latest television offering—a sports network that refuses to acknowledge the New York Jets ever lose. The sketch opens with a voiceover that claims \"millions of real Americans are switching from Fox News to Newsmax because Newsmax tells them the",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12",
-      "originalUrl": "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12",
+      "webUrl": "https://www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381",
+      "originalUrl": "https://www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 165,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5fd606459cf1420018d2f0ed?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://d.newsweek.com/en/full/1685494/snl.png",
+          "width": 890,
+          "height": 593,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -822,9 +929,61 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12?amp",
-      "publishedDateTime": "2020-12-13T06:18:00-08:00",
+      "ampWebUrl": "https://www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381?amp=1",
+      "publishedDateTime": "2020-12-13T02:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-attorney-general-william-barr-is-reportedly-brushing-off-trumps-attacks-over-hunter-biden-investigation-as-a-deposed-king-ranting.md",
+      "title": "Attorney General William Barr is reportedly brushing off Trump's attacks over Hunter Biden investigation as a 'deposed king ranting'",
+      "excerpt": "Attorney General William Barr is \"not intimidated\" by President Trump's threats to fire him, a source told CNN.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ag-barr-brushes-off-trumps-attacks-as-deposed-king-ranting-2020-12",
+      "originalUrl": "https://www.businessinsider.com/ag-barr-brushes-off-trumps-attacks-as-deposed-king-ranting-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f6321c357b7da001ee12207?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ag-barr-brushes-off-trumps-attacks-as-deposed-king-ranting-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ag-barr-brushes-off-trumps-attacks-as-deposed-king-ranting-2020-12?amp",
+      "publishedDateTime": "2020-12-13T02:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -832,6 +991,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-pro-trump-protests-decry-presidents-election-loss-opposing-groups-clash-in-washington.md",
+      "title": "Pro-Trump protests decry president's election loss, opposing groups clash in Washington",
+      "excerpt": "Conservative groups claiming without evidence that the Nov. 3 election was stolen from President Donald Trump staged protests across the country on Saturday, with one in Washington turning violent at times as police broke up sporadic clashes after dark.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-protests-idUSKBN28M0E5",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-protests-idUSKBN28M0E5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 672,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201213&t=2&i=1544375607&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBC01C",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28M0E5",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0E5",
+      "publishedDateTime": "2020-12-13T02:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -884,6 +1095,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-federal-court-judge-dismisses-extraordinary-trump-lawsuit-seeking-to-overturn-wisconsin-election.md",
+      "title": "Federal court judge dismisses 'extraordinary' Trump lawsuit seeking to overturn Wisconsin election",
+      "excerpt": "U.S. District Judge Brett Ludwig — a Trump nominee — concluded Wisconsin officials had followed state laws when they conducted the Nov. 3 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/12/trump-wisconsin-lawsuit-dismissed-federal-judge/3894689001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/12/trump-wisconsin-lawsuit-dismissed-federal-judge/3894689001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/10/PMJS/ee1680b4-5450-40a4-afa7-1023a5c58f66-Brett_Ludwig.jpg?auto=webp&crop=533,300,x0,y205&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3894689001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3894689001",
+      "publishedDateTime": "2020-12-12T16:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1013,21 +1276,25 @@
       ]
     },
     {
-      "path": "_news/2020-12-13-pro-trump-demonstrators-gather-saturday-in-washington.md",
-      "title": "Pro-Trump demonstrators gather Saturday in Washington",
-      "excerpt": "Protesters who refuse to accept that President-elect Joe Biden won the election have begun arriving in Washington for what organizers have called a “March for Trump.” They are expected to fan out across the city Saturday,",
+      "path": "_news/2020-12-13-federal-judge-in-wisconsin-deals-trump-another-court-defeat.md",
+      "title": "Federal Judge in Wisconsin Deals Trump Another Court Defeat",
+      "excerpt": "A Trump appointee in Milwaukee, Judge Brett H. Ludwig, dismissed a suit contesting the election with a withering rebuke.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html",
+      "webUrl": "https://www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.html",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZH6EKZR4SEI6XKWZRFMSE4UAYQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://static01.nyt.com/images/2020/12/12/us/12trump-wisconsin/merlin_179552091_dbf4228e-570d-4d46-897e-ad283b8fb58c-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1035,16 +1302,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-12T10:00:00-08:00",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.amp.html",
+      "publishedDateTime": "2020-12-12T14:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "New York Times",
+        "domain": "nytimes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1061,7 +1328,8 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -1122,21 +1390,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-12-us-supreme-court-ends-texas-lawsuit-seeking-to-undo-trump-election-loss.md",
-      "title": "U.S. Supreme Court ends Texas lawsuit seeking to undo Trump election loss",
-      "excerpt": "The U.S. Supreme Court on Friday brought an abrupt end to a long-shot lawsuit filed by Texas and backed by President Donald Trump seeking to throw out voting results in four states, dealing him a crushing setback in his quest to undo his election loss to",
+      "path": "_news/2020-12-12-new-jersey-representative-asks-pelosi-to-refuse-to-seat-any-house-members-who-supported-trumps-election-lawsuits.md",
+      "title": "New Jersey representative asks Pelosi to 'refuse to seat' any House members who supported Trump's election lawsuits",
+      "excerpt": "Rep. Bill Pascrell slammed lawmakers who backed lawsuits that sought to \"overturn the election and make Donald Trump an unelected dictator.\"",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-trump/u-s-supreme-court-ends-texas-lawsuit-seeking-to-undo-trump-election-loss-idUSKBN28L2YY",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump/u-s-supreme-court-ends-texas-lawsuit-seeking-to-undo-trump-election-loss-idUSKBN28L2YY",
+      "webUrl": "https://www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12",
+      "originalUrl": "https://www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1199,
+      "heat": 118,
       "tags": null,
       "images": [
         {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544304373&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB000",
-          "width": 817,
-          "height": 545,
+          "url": "https://i.insider.com/5fd4c1859cf1420018d2f075?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1144,16 +1412,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28L2YY",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L2YY",
-      "publishedDateTime": "2020-12-11T20:40:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12?amp",
+      "publishedDateTime": "2020-12-12T06:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1291,7 +1559,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/2020/12/11/climate-point-nissan-dumps-trump-nevada-protected-bombing/6494580002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1315,271 +1583,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-msnbcs-maddow-ive-learned-from-trump-era-not-to-blindly-trust-government-officials.md",
-      "title": "MSNBC's Maddow: I've learned from Trump era not to blindly trust government officials",
-      "excerpt": "Liberal MSNBC host Rachel Maddow said Wednesday she had learned from the Donald Trump era not to blindly trust the word of government officials, an interesting assertion given her reliance on intelligence leaks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/maddow-trump-blindly-trust-government-officials",
-      "originalUrl": "https://www.foxnews.com/media/maddow-trump-blindly-trust-government-officials",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b363eab2-ac74-465e-b3f1-10d3879e7279/0bc90726-6ad3-4bd1-8e53-201f95983aa7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/maddow-trump-blindly-trust-government-officials.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/maddow-trump-blindly-trust-government-officials.amp",
-      "publishedDateTime": "2020-12-11T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-worst-place-worst-time-trump-faces-virus-spike-in-midwest.md",
-      "title": "Worst place, worst time: Trump faces virus spike in Midwest",
-      "excerpt": "A college history professor who last cast a ballot for a Democratic candidate for president more than 20 years ago, Loiacono, who voted for American Solidarity Party presidential candidate Michael Maturen in 2016 is voting for Democrat Joe Biden because he thinks Trump has utterly failed in his handling of the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/worst-place-worst-time-trump-faces-virus-spike-74673175",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/worst-place-worst-time-trump-faces-virus-spike-74673175",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_7f24b0f1a2564a988de177c68975f9c8_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/worst-place-worst-time-trump-faces-virus-spike-74673175",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/worst-place-worst-time-trump-faces-virus-spike-74673175",
-      "publishedDateTime": "2020-12-11T09:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-michelle-goldberg-column-covid-meds-are-scarce-but-not-for-trump-cronies.md",
-      "title": "Michelle Goldberg column: COVID meds are scarce, but not for Trump cronies",
-      "excerpt": "According to a document from the Department of Health and Human Services, a total of 108 doses of Regeneron’s monoclonal antibody cocktail have been allocated to Washington, which had 265 new coronavirus cases on Wednesday alone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-coronavirus-giuliani-regeneron-michelle-goldberg-column-20201211-5mflfstsubf6vbp3673riy6jcu-story.html",
-      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-coronavirus-giuliani-regeneron-michelle-goldberg-column-20201211-5mflfstsubf6vbp3673riy6jcu-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/9ig9JnhIafT6BnPx8qKep5z10-I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GXQZRRSPOORM5DIYNUNLIFF6I4.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-coronavirus-giuliani-regeneron-michelle-goldberg-column-20201211-5mflfstsubf6vbp3673riy6jcu-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-coronavirus-giuliani-regeneron-michelle-goldberg-column-20201211-5mflfstsubf6vbp3673riy6jcu-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-11T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-republicans-have-concerns-about-trump-but-wont-let-reporters-quote-them-by-name-about-it.md",
-      "title": "Republicans have ‘concerns’ about Trump — but won’t let reporters quote them by name about it",
-      "excerpt": "Many GOP lawmakers have long shied from going on-the-record with their thoughts. It’s created a dissonance in political journalism as Trump attempts to overturn the election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/lifestyle/media/republicans-anonymous-private-concerns-media/2020/12/10/301e98a6-2e75-11eb-bae0-50bb17126614_story.html",
-      "originalUrl": "https://www.washingtonpost.com/lifestyle/media/republicans-anonymous-private-concerns-media/2020/12/10/301e98a6-2e75-11eb-bae0-50bb17126614_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RQNUZTB2NUI6XKWZRFMSE4UAYQ.jpg&w=1440",
-          "width": 1440,
-          "height": 903,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/media/republicans-anonymous-private-concerns-media/2020/12/10/301e98a6-2e75-11eb-bae0-50bb17126614_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/republicans-anonymous-private-concerns-media/2020/12/10/301e98a6-2e75-11eb-bae0-50bb17126614_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-11T03:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-in-break-with-trump-mcconnell-urges-passage-of-defense-bill.md",
-      "title": "In break with Trump, McConnell urges passage of defense bill",
-      "excerpt": "In a rare break with President Donald Trump, Senate Majority Leader Mitch McConnell is urging passage of a wide-ranging defense policy bill that Trump has threatened to veto",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/in-break-with-trump-mcconnell-urges-passage-of-defense-bill/2020/12/10/13930b5e-3b0e-11eb-aad9-8959227280c4_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/in-break-with-trump-mcconnell-urges-passage-of-defense-bill/2020/12/10/13930b5e-3b0e-11eb-aad9-8959227280c4_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/in-break-with-trump-mcconnell-urges-passage-of-defense-bill/2020/12/10/13930b5e-3b0e-11eb-aad9-8959227280c4_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-break-with-trump-mcconnell-urges-passage-of-defense-bill/2020/12/10/13930b5e-3b0e-11eb-aad9-8959227280c4_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-10T14:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

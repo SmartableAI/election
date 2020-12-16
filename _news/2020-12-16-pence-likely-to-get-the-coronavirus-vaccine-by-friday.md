@@ -25,86 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Coronavirus live news: Trump 'to be offered vaccine on Monday'; London borough to close all schools"
-    excerpt: "Greenwich ‘in a period of exponential growth that demands immediate action’; Spain’s health minister says vaccine could bring herd immunity by summer"
-    publishedDateTime: 2020-12-13T22:29:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day?page=with:block-5fd68aab8f08b0a99da950e2"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day"
+  - title: "Vice President Mike Pence to visit Greenville for coronavirus-response discussion"
+    excerpt: "Vice President Mike Pence will visit Greenville on Thursday to talk about response to COVID-19 before traveling to a campaign rally in Augusta, Georgia. According to his office, Pence is visiting Greenville to take part in a roundtable discussion highlighting the public-private partnership to combat the coronavirus,"
+    publishedDateTime: 2020-12-08T10:22:00Z
+    webUrl: "https://www.greenvilleonline.com/story/news/local/2020/12/07/vice-president-mike-pence-visit-greenville-sc-talk-covid/6484240002/"
+    ampWebUrl: "https://amp.greenvilleonline.com/amp/6484240002"
+    cdnAmpWebUrl: "https://amp-greenvilleonline-com.cdn.ampproject.org/c/s/amp.greenvilleonline.com/amp/6484240002"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 111
+      name: Greenville News
+      domain: greenvilleonline.com
+    quality: 70
     images:
-      - url: "https://i.guim.co.uk/img/media/aa43b0326b5deb79f2e3c35acff29d03650abc3a/0_197_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3e40d3e6031803dbbb1e1b649f700a6f"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Coronavirus live news: London enters tier 3 restrictions; Trump will 'absolutely' encourage vaccine use"
-    excerpt: "One in four people globally may not get vaccines until 2022; EU likely to approve vaccine within days; Canada signs deal to accelerate Moderna vaccine deliveries"
-    publishedDateTime: 2020-12-16T06:08:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary?page=with:block-5fd9936a8f08758977b3f0ed"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 109
-    images:
-      - url: "https://i.guim.co.uk/img/media/a9e40093460b49c3609271c8c600e4790fd83685/0_0_4200_2520/master/4200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=feb9d1fec72b9a323db0e7ecf911894d"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Coronavirus live news: Donald Trump will 'absolutely' encourage Americans to take vaccine, says press secretary"
-    excerpt: "EU to bring forward decision on Pfizer/BioNTech vaccine to 21 December; Turkey says 235 more people have died after a Covid diagnosis"
-    publishedDateTime: 2020-12-15T19:27:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain?page=with:block-5fd902938f08b0a99da9702c"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/d5e96c76ef8c8e7c6c6beaab0a2736b4d19a9703/0_25_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=221db07b2862a04c278523814bee21e8"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Coronavirus live news: Trump will 'absolutely' encourage Americans to take Covid vaccine, says press secretary"
-    excerpt: "One in four people globally may not get vaccines until 2022; EU likely to approve vaccine within days; Canada signs deal to accelerate Moderna vaccine deliveries"
-    publishedDateTime: 2020-12-16T00:40:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary?page=with:block-5fd950d88f08a72f01adbe51"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/a9e40093460b49c3609271c8c600e4790fd83685/0_0_4200_2520/master/4200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=feb9d1fec72b9a323db0e7ecf911894d"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Pence sets Indiana trip to discuss coronavirus vaccine"
-    excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss coronavirus vaccines as federal officials are expected to soon authorize the first such vaccine for widespread use."
-    publishedDateTime: 2020-12-11T19:40:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/10/virus_outbreak_south_carolina_pence_38030_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
+      - url: "https://www.gannett-cdn.com/presto/2019/03/30/PGRE/26d93d2a-50d7-4a29-a0ad-83b758897d6c-SS_pence_03_30_2019_1539.JPG?auto=webp&crop=2999,1671,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 700
+        height: 669
         isCached: true
+  - title: "Mike Pence's return to Greenville fuels speculation about a 2024 run for the White House"
+    excerpt: "There is speculation that Vice President Mike Pence's second visit to Greenville since late October may be a precursor to a 2024 presidential run."
+    publishedDateTime: 2020-12-09T21:57:00Z
+    webUrl: "https://www.greenvilleonline.com/story/news/local/2020/12/09/mike-pence-eyeing-presidential-run-he-returns-greenville-sc/3867921001/"
+    ampWebUrl: "https://amp.greenvilleonline.com/amp/3867921001"
+    cdnAmpWebUrl: "https://amp-greenvilleonline-com.cdn.ampproject.org/c/s/amp.greenvilleonline.com/amp/3867921001"
+    type: article
+    provider:
+      name: Greenville News
+      domain: greenvilleonline.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/27/PGRE/165641e0-a587-438b-80ba-566498a53205-PenceRally-MB17-10272020.jpg?auto=webp&crop=2499,1406,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pence to visit Tennessee, talk virus vaccines"
+    excerpt: "Vice President Mike Pence is scheduled to visit Memphis on Thursday to discuss the development and distribution of the COVID-19 vaccines, according to his office."
+    publishedDateTime: 2020-12-03T15:30:00Z
+    webUrl: "https://www.timesnews.net/living/health-care/pence-to-visit-tennessee-talk-virus-vaccines/article_0001c35c-3580-11eb-ab1e-134818ed0d1f.html"
+    type: article
+    provider:
+      name: Times News
+      domain: timesnews.net
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/3/23/323f7f7c-da0d-11ea-8e7a-6796a476e0b5/5f2f9df19a75b.image.jpg?crop=800%2C450%2C0%2C16&resize=800%2C450&order=crop%2Cresize"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Pence plans visit to state to discuss virus vaccines"
+    excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss novel coronavirus vaccines as federal officials are expected to"
+    publishedDateTime: 2020-12-12T05:00:00Z
+    webUrl: "https://www.journalgazette.net/news/local/indiana/20201212/pence-plans-visit-to-state-to-discuss-virus-vaccines"
+    type: article
+    provider:
+      name: The Journal Gazette
+      domain: journalgazette.net
+    quality: 35
 
 secured: "0WO93ICTVwoNjUAZ6KNmKim3ZzaTmMeXWzx3Px4/B+f9UZIGZ9GhGqK9ilmsnCTM9+0QeySAsqttkNo8Tz/okAkBGnIXbDIni/VqxQhr/yWOORRI+3vag3dMs/hHYy6JYxa8Mf+kxw8we1cYt7x59FOj16OQSxSTlSzXCDeZHBvGrLtOcZQlY5+aWQXUxQbK7ya4R66pO6bQUOY1/hvCK5QKIlMnnSdd6IOxOx5/N5ld0XSds2VZe8jR5NP1+28yyjxqpFAk5hMJPOtjb2cb+WBar35TkgPH4/6cTqRPSy3UQ+1tvwZ2E5cwqh0Zy+FzsLpT2jY/lg2LGW2p6ehIc3OSFTNX3Qki87DeeTlyous=;y80LqAnjDuU1czSrIsaItg=="
 ---

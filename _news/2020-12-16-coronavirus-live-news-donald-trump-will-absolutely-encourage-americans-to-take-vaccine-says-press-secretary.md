@@ -31,83 +31,64 @@ images:
     isCached: true
 
 related:
-  - title: "Coronavirus live news: Trump 'to be offered vaccine on Monday'; London borough to close all schools"
-    excerpt: "Greenwich ‘in a period of exponential growth that demands immediate action’; Spain’s health minister says vaccine could bring herd immunity by summer"
-    publishedDateTime: 2020-12-13T22:29:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day?page=with:block-5fd68aab8f08b0a99da950e2"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day"
+  - title: "Under attack from Trump, America’s democratic institutions bend but don’t break"
+    excerpt: "Historians and democracy experts said they feared that the tumultuous post-election period had exposed the fragility of the instruments of democracy."
+    publishedDateTime: 2020-12-15T02:15:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html?outputType=amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 111
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 121
     images:
-      - url: "https://i.guim.co.uk/img/media/aa43b0326b5deb79f2e3c35acff29d03650abc3a/0_197_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3e40d3e6031803dbbb1e1b649f700a6f"
-        width: 600
-        height: 360
+      - url: "https://www.chicagotribune.com/resizer/hI1Y5FYhOzQSxPk_372qNQCsw4I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XBBB32DW26JFTNJSF6TAYX7P2A.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Coronavirus live news: London enters tier 3 restrictions; Trump will 'absolutely' encourage vaccine use"
-    excerpt: "One in four people globally may not get vaccines until 2022; EU likely to approve vaccine within days; Canada signs deal to accelerate Moderna vaccine deliveries"
-    publishedDateTime: 2020-12-16T06:08:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary?page=with:block-5fd9936a8f08758977b3f0ed"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary"
+  - title: "House Dems' campaign chief a moderate who wins in Trump land"
+    excerpt: "Their dwindling majority in peril, House Democrats are entrusting their campaign operations to an analytical, openly gay moderate who’s been an attorney, businessman and five-time winner in his competitive congressional district."
+    publishedDateTime: 2020-12-13T04:42:00Z
+    webUrl: "https://www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 109
-    images:
-      - url: "https://i.guim.co.uk/img/media/a9e40093460b49c3609271c8c600e4790fd83685/0_0_4200_2520/master/4200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=feb9d1fec72b9a323db0e7ecf911894d"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Coronavirus live news: Trump will 'absolutely' encourage Americans to take Covid vaccine, says press secretary"
-    excerpt: "One in four people globally may not get vaccines until 2022; EU likely to approve vaccine within days; Canada signs deal to accelerate Moderna vaccine deliveries"
-    publishedDateTime: 2020-12-16T00:40:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary?page=with:block-5fd950d88f08a72f01adbe51"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/a9e40093460b49c3609271c8c600e4790fd83685/0_0_4200_2520/master/4200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=feb9d1fec72b9a323db0e7ecf911894d"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Pence sets Indiana trip to discuss coronavirus vaccine"
-    excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss coronavirus vaccines as federal officials are expected to soon authorize the first such vaccine for widespread use."
-    publishedDateTime: 2020-12-11T19:40:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
+  - title: "Trump administration rushes to roll out a $250 million public education effort to encourage Americans to get vaccinated"
+    excerpt: "A large-scale public education campaign, delayed by false starts and investigations, will get off the ground just as the coronavirus vaccine becomes available to high-risk Americans."
+    publishedDateTime: 2020-12-14T17:15:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html?outputType=amp"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/10/virus_outbreak_south_carolina_pence_38030_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
+      - url: "https://www.chicagotribune.com/resizer/vhYxJnm77JRG0ft5QUfsg3oZUCk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VK557JGXCB74AHEZ4WDSK7AYNU.jpg"
         width: 1200
-        height: 700
+        height: 801
         isCached: true
-  - title: "Pence likely to get the coronavirus vaccine by Friday"
-    excerpt: "Vice President Mike Pence is likely to receive the coronavirus vaccine by Friday, two sources familiar with the plans tell CNN."
-    publishedDateTime: 2020-12-15T20:14:00Z
-    webUrl: "https://www.newspressnow.com/news/national_news/election2020/pence-likely-to-get-the-coronavirus-vaccine-by-friday/article_e0e8d432-00c6-5620-9ddf-fd55d10ed27b.html"
+  - title: "CNN's Jake Tapper thanks Trump for 'exposing' Republicans who supported Texas' 'un-democratic, un-American, mendacious joke of a lawsuit'"
+    excerpt: "Tapper closed his show with a blistering attack on Trump and Republicans for their \"desperate desire to subvert the will of the American people.\""
+    publishedDateTime: 2020-12-13T21:51:00Z
+    webUrl: "https://www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12?amp"
     type: article
     provider:
-      name: News-Press NOW
-      domain: newspressnow.com
-    quality: 55
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/custom/image/bcf8e96c-4b35-11e5-9c03-7b4fbbdd1e31.jpg"
+      - url: "https://i.insider.com/5fd689d69cf1420018d2f14a?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
 
 secured: "RH19O49TPETz2jpuAOsGbuUDikFmvs8XnndOu6Raf+s+Dn6UVdjRaCndRYFxtI5FhZ14lK9RdBg9f+TnTA1ojjv4IaKmHcL2X1g0oA7/7NDETcmHRubeBZ7oSlIiLLYPI5hQW5CAZnFeEZQd7RSKPmb4sCU4/mkbGBntwl7VYZBB/9PbaUb8lit8G8snyiCp1Za0BPUQvng8W+hyfRhWx5OXZn7kOcBZUHXqAwo/fOZrQ6XTp85E6e13Q30XtxdoJZYeNM2ok+2qu5CaurC1nANtYN/Xgn4Sa5oselL4T4/hchvYP4SneA4T1hlC3u8oqEjm2+a7sj3Lm3X5ekSE3eI8D/kUDQPeT9M35Fn7EAzsTRXCTu4EU7uUkqFSNR9I6/nUlF3JxkB79d+DzgDAcTyV9hOVm5JraRaCmJ+FlFcso0qGEec/5LoDrUeOvy90Z3Oz75G6HmJOKqgKNegdtWjoVKp2YLGNQymTDTtzcYA33f5l0Z+m6Y5jX2ySbcwJIZHkJmkQTmpdz3uLRWO1gA==;yThJmNae7jspLHEsppBjkQ=="

@@ -63,22 +63,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "McConnell for the first time recognizes Biden as President-elect"
-    excerpt: "Senate Majority Leader Mitch McConnell said Tuesday that following the electors meeting on Monday, \"as of this morning, our country officially has a President-elect and a vice president-elect.\"\n    \n"
-    publishedDateTime: 2020-12-15T16:20:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NH5cr9zn2DE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/mitch-mcconnell-congratulates-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/mitch-mcconnell-congratulates-joe-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106100610-01-biden-mcconnell-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Pompeo to meet Biden's secretary of state nominee this week"
     excerpt: "President-elect Joe Biden's pick for secretary of state is expected to visit the State Department and meet with Secretary of State Mike Pompeo on Thursday for the first time since Biden's victory, according to three sources familiar with the planning.\n    \n"
     publishedDateTime: 2020-12-15T12:23:29Z
@@ -111,38 +95,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's defense nominee courts Democrats amid concerns over waiver to lead the Pentagon  "
-    excerpt: "President-elect Joe Biden's team is ramping up its lobbying to win over Democratic support for a waiver that would allow Lloyd Austin to serve as the defense secretary amid concerns from the incoming President's own party about allowing another recently retired general to assume the top civilian post"
-    publishedDateTime: 2020-12-14T20:36:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/clGV7bKhBjM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/lloyd-austin-congress-outreach/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/lloyd-austin-congress-outreach/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209135821-03-biden-secretary-of-defense-announcement-1209-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden set to appear with Gen. Lloyd Austin as he lobbies Democrats to back waiver for defense secretary nominee"
-    excerpt: "President-elect Joe Biden will begin trying to sell his choice for defense secretary, retired Army Gen. Lloyd Austin, to congressional Democrats who are balking at the prospect of waiving the requirement that the position be filled by someone who has been out of active-duty military service for at least"
-    publishedDateTime: 2020-12-09T17:50:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dE1N_GYyXrk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/biden-nominates-lloyd-austin/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/biden-nominates-lloyd-austin/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 155
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207192520-01-gen-lloyd-austin-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Hunter probe complicates Joe Biden's attorney general pick"
     excerpt: "The president-elect is weighing a complex set of factors as he zeroes in on his choice to lead the Justice Department."
     publishedDateTime: 2020-12-12T01:49:00Z
@@ -158,38 +110,6 @@ related:
       - url: "https://static.politico.com/4a/73/179ea39e451db1698724763adaa1/gettyimages-119583341-1.jpg"
         width: 1161
         height: 773
-        isCached: true
-  - title: "Biden Faces Intense Pressure From All Sides as He Seeks Diverse Cabinet"
-    excerpt: "The pressure on the Democratic president-elect is intense, even as his efforts to ensure ethnic and gender diversity already go far beyond those of President Trump. And it’s coming from all sides."
-    publishedDateTime: 2020-12-12T16:31:00Z
-    webUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/12dc-cabinet1/11dc-cabinet1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "As Biden Prepares to Take Office, a New Rush at the Border"
-    excerpt: "The president-elect has promised a more humane border policy. But devastated economies and natural disasters in Latin America have fueled a spike in migration that could make pledges hard to keep."
-    publishedDateTime: 2020-12-13T20:50:00Z
-    webUrl: "https://www.nytimes.com/2020/12/13/us/border-crossing-migrants-biden.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/13/us/border-crossing-migrants-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/us/border-crossing-migrants-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/11/us/00BORDER-1-SUB/merlin_180953598_82987d66-deda-4124-a4d2-62a8e173e4b1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Hunter probe compounds Biden’s attorney general dilemmas"
     excerpt: "The president-elect is weighing a complex set of factors as he zeroes in on his choice to lead the Justice Department."
@@ -238,20 +158,6 @@ related:
       - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/n_hallie_brk_rice_biden_201210_1920x1080.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Electoral College affirms Biden's victory"
-    excerpt: "Democratic electors cast their votes without incident states where Trump has contested the results, like Pennsylvania and Georgia."
-    publishedDateTime: 2020-12-14T23:10:00Z
-    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/12/14/electoral-college-affirms-bidens-victory-1346450"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/87/fa/04107b0c4742923ec02a4bbcaa9d/20201213-joe-biden-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "3VcpfrCD3ZU6hruCQr2rUtFdiKBMuSgYddSBL6EOj7CEW2QueJnwUGSGkZcFrxkhx8TcAW8NwAxw48d3BHqSGIQXJobM+9+QiZUuAcc/NwfMQlUCbr0vE7tNsbySzdoIc48jlJ+yaZa7tcqmyNLyfpspjC7CapM7HZGrzFmA4zAdYJK0xIx3UtEOrq1gr7ymS52qyBiEA6zRoKFZBW2AmjzpyJ5hdU3EPojks2RVnA/RYJeN5payE8+GGN2fpU9yKjnbAh9GSGyNPp/rdPVetDEMle6Ajx6JU7zs60uQa8Jh9/dq/f1M860n1Xjx8uNoq0WfPER8mMiry0TJwJpYLOTQGI2WCcqNLyV4+8hUsS8=;aQmKHu692dXdTGZkFWUbNQ=="

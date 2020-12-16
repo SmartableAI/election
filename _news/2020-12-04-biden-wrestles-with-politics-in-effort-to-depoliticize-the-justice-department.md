@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-s
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-search/index.html"
 type: article
 quality: 171
-heat: 231
+heat: 271
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden’s Cabinet picks give Kamala an edge in 2024"
+    excerpt: "Biden has opted for seasoned technocrats over ambitious pols for key jobs, denying potential political rivals to Harris a political springboard."
+    publishedDateTime: 2020-12-12T02:58:00Z
+    webUrl: "https://www.politico.com/news/2020/12/11/biden-cabinet-kamala-2024-444482"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/11/biden-cabinet-kamala-2024-444482"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/biden-cabinet-kamala-2024-444482"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/24/67/10b110394fbaa06752f3cd58206d/gettyimages-1284977949-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Wikipedia page for Biden's new Covid czar scrubbed of politically damaging material"
     excerpt: "A Democratic consulting firm made numerous changes to Jeff Zients' page as he became a more important figure on Biden’s team this summer and fall."
     publishedDateTime: 2020-12-03T22:36:00Z
@@ -78,6 +94,20 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434875/201210-joe-biden-ew-323p_fa242b6345a3492961d3c49904198d21.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "BAKER sends back POLICE REFORM bill — CLARK presses BIDEN on plastics — ROLLINS on U.S. ATTORNEY buzz"
+    excerpt: "He's not in office yet, but Rep. Katherine Clark is already calling on President-elect Joe Biden to address the world's \"indisputable plastic pollution crisis.\" Clark penned a letter with Oregon Sen."
+    publishedDateTime: 2020-12-11T12:30:00Z
+    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2020/12/11/where-baker-stands-on-police-reform-clark-biden-plastics-rollins-on-us-attorney-buzz-491119"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 100
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "9OkQmVQ9j0JSCytkznY3pYzPT5ynZdM7y2EJql1/vbawgxw1TIWKxrsJSoa0kV0yYGSoIXuuFldspJwctP78t7I60vRoUjXOIOZLTrSA1dxo6zbj2/gNrSsX0iqigQJ65pXAHSz/ZO6gmm4vwp7lozoSpRlzBFZywqbiwR7oJe9cvK7bzQY1cUGt0+qfVeyrJ+eRB9DBwhjGYnm+vHpRMdWKXPXWui6B6BLmoW85x4c7DsVYEbqxgFzxn37aQHV494vTU2PFdeIWhMeZ/v+HWHBMpA2+j8K68k5OMfpCnIUQcXp9ig2S8Z0aDuBeOZ/Do5HwzdpxvDEVwkrV8zBUKsNGSvMy1EQ/ItuF7cU8x6Q=;Iffdhs3x0RS4j7kNbWY5rQ=="

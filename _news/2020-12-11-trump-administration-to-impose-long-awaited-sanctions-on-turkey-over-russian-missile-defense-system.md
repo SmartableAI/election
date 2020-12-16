@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "With weeks left in office, the Trump administration is doing a 180-degree turn on a frustrating NATO ally"
+    excerpt: "Trump has avoided sanctioning Turkey for its purchase of Russia's S-400. With just weeks left in office, that appears to be changing."
+    publishedDateTime: 2020-12-10T23:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5fd29d01e00bce00188baa90?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump's arguments on undocumented immigrants?..."
     excerpt: "Watch \"What are Trump's legal arguments on removing undocumented immigrants from the census\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-12-01T04:56:00Z
@@ -92,22 +108,6 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/12/01/story_07914228_1606797964.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Pentagon advisor resigns in protest, saying the Trump administration is putting the nation 'at risk' by purging posts to fill them with loyalists"
-    excerpt: "He said purging advisory boards and replacing members with 'political partisans' has 'now put the nation's safety and security at risk.'"
-    publishedDateTime: 2020-12-07T18:58:00Z
-    webUrl: "https://www.businessinsider.com/pentagon-advisor-resigns-says-trump-admin-putting-nation-at-risk-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/pentagon-advisor-resigns-says-trump-admin-putting-nation-at-risk-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pentagon-advisor-resigns-says-trump-admin-putting-nation-at-risk-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
-    images:
-      - url: "https://i.insider.com/5e3959c25bc79c1f9c787b67?width=1200&format=jpeg"
-        width: 1024
-        height: 512
         isCached: true
 
 secured: "j1oEas3Eyo9OGxuKlL7rFU3mCfXZMdZwtqyrJ6EVdfW07eMTIFu8ot2JOqxirKay4jwOEZLhP13JKqAaVIY1DmtC/v63lh1VTNS+fZTC3aqcVaDD5W4c6M1dkioa2A8o696a0f1Ra6vf7POd5iBhSL/qrJDjy+JGkHbddb7/NNK7oj0zyJR9IRBc2qoD3VEQdsQBX5Yr/s3TZVOEh/dcpAoiQF/lTiOtmLrItbBBZUvv9YkOCy0J5U5M+9BGSuPuatbk65Fvc5dGNWw98X8YQvYPO7llAjvxgthVejS0DsY5AKBkAALNdl+kxesIwhL8FFl1pWDnVLBeJayxplOlyWpYtSNqpIgfuxUAs41A5Lo=;ZaimxpJHx7lsd6e2sQJb9A=="

@@ -160,38 +160,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump slams lack of media coverage of Hunter Biden"
-    excerpt: "President Trump questioned why the media did not cover Hunter Biden before the election, before again claiming that he won. "
-    publishedDateTime: 2020-12-11T18:32:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4VavpxlwzfM/trump-slams-media-coverage-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/HunterBiden-JoeBiden.jpg"
-        width: 4896
-        height: 2754
-        isCached: true
-  - title: "Trump coronavirus official Birx seeks to join Fauci in Biden administration"
-    excerpt: "White House coronavirus task force official Dr. Deborah Birx is reportedly looking to join National Institute of Allergy and Infectious Diseases Director Dr. Anthony Fauci in President-elect Joe Biden's administration."
-    publishedDateTime: 2020-12-10T16:11:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GojdMbZs3UE/trump-coronavirus-birx-biden-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 188
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Deborah-Birx-2-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump plans to outshine Biden on Inauguration Day with opposing rally: report"
     excerpt: "A new report from Axios claims that President Trump is considering a dramatic White House departure that includes a final Air Force One flight to Florida where he will host a political rally during Joe Biden's inauguration."
     publishedDateTime: 2020-12-06T23:23:43Z
@@ -656,22 +624,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Loeffler and Perdue back Texas suit aiming to overturn elector slates in Georgia, other states Biden won"
-    excerpt: "Sens. David Perdue and Kelly Loeffler Tuesday announced their support of a Texas lawsuit at the Supreme Court which seeks to have the justices declare that Pennsylvania, Michigan, Wisconsin and Georgia are \"in violation of the Electors Clause of and the Fourteenth Amendment\" and bar those states' current"
-    publishedDateTime: 2020-12-09T14:09:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-TqJXuCgM8k/loeffler-and-perdue-back-texas-lawsuit-aiming-to-overturn-elector-slates-in-georgia-other-states-biden-won"
-    ampWebUrl: "https://www.foxnews.com/politics/loeffler-and-perdue-back-texas-lawsuit-aiming-to-overturn-elector-slates-in-georgia-other-states-biden-won.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/loeffler-and-perdue-back-texas-lawsuit-aiming-to-overturn-elector-slates-in-georgia-other-states-biden-won.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Obama joining Georgia Dems in virtual rally Friday before Trump heads to state Saturday in critical runoffs"
     excerpt: "Former President Barack Obama will join Georgia Democratic Senate candidates Jon Ossoff and Raphael Warnock for a virtual rally Friday as the two U.S. Senate runoffs are little more than one month away and the control of the upper chamber hangs in the balance."
     publishedDateTime: 2020-12-03T15:07:02Z
@@ -752,86 +704,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Following Trump, Biden Seeks Waiver for Defense-Chief Pick"
-    excerpt: "The nomination of the retired Army general renews a debate about civil-military relations and could put some congressional Democrats in the position of defending a move they had criticized four years ago."
-    publishedDateTime: 2020-12-10T02:10:00Z
-    webUrl: "https://www.wsj.com/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-270768/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Seventeen states, Trump join Texas SCOTUS suit to toss Biden electors"
-    excerpt: "Seventeen states on Wednesday filed a brief with the Supreme Court siding with a Texas lawsuit against four battleground states Joe Biden won — charging that they acted"
-    publishedDateTime: 2020-12-09T22:21:00Z
-    webUrl: "https://nypost.com/2020/12/09/17-states-trump-join-texas-scotus-suit-to-toss-biden-electors/"
-    ampWebUrl: "https://nypost.com/2020/12/09/17-states-trump-join-texas-scotus-suit-to-toss-biden-electors/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/09/17-states-trump-join-texas-scotus-suit-to-toss-biden-electors/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/Ken-Paxton2.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biden, Trump, Fauci among Time's finalists for Person of the Year"
-    excerpt: "Time magazine unveiled its 2020 Person of the Year finalists on Thursday, with President Donald Trump, President-elect Joe Biden, the “movement for racial justice” and frontline healthcare workers including Dr."
-    publishedDateTime: 2020-12-10T20:06:00Z
-    webUrl: "https://www.foxnews.com/media/trump-biden-fauci-among-times-finalists-for-person-of-the-year"
-    ampWebUrl: "https://www.foxnews.com/media/trump-biden-fauci-among-times-finalists-for-person-of-the-year.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-biden-fauci-among-times-finalists-for-person-of-the-year.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Biden-Trump.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump critic Richard Painter calls for Hunter Biden special counsel"
-    excerpt: "One of President Trump’s harshest critics has jumped on the bandwagon that’s calling for a special counsel to investigate President-elect Joe Biden’s son."
-    publishedDateTime: 2020-12-11T18:22:00Z
-    webUrl: "https://nypost.com/2020/12/11/richard-painter-calling-for-a-hunter-biden-special-counsel/"
-    ampWebUrl: "https://nypost.com/2020/12/11/richard-painter-calling-for-a-hunter-biden-special-counsel/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/11/richard-painter-calling-for-a-hunter-biden-special-counsel/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/Richard-Painter-special-counsel-biden.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump slams lack of media coverage of Hunter Biden"
-    excerpt: "President Trump questioned why the media did not cover Hunter Biden before the election, before again claiming that he won."
-    publishedDateTime: 2020-12-11T18:44:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/HunterBiden-JoeBiden.jpg"
-        width: 4896
-        height: 2754
-        isCached: true
   - title: "Georgia Official Urges Trump to Condemn Threats Against Election Workers"
     excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."
     publishedDateTime: 2020-12-02T02:08:00Z
@@ -847,38 +719,6 @@ related:
       - url: "https://images.wsj.net/im-266968/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Liberal media ‘snuffed out' Hunter Biden coverage until after election to help defeat Trump, critics say"
-    excerpt: "The liberal mainstream media largely ignored the ongoing Hunter Biden scandal until after his father won the presidential election and media watchdogs feel it was a strategic move by the liberal media to help Joe Biden defeat President Trump."
-    publishedDateTime: 2020-12-10T16:27:00Z
-    webUrl: "https://www.foxnews.com/media/liberal-media-ignored-hunter-biden-scandal-election-defeat-trump"
-    ampWebUrl: "https://www.foxnews.com/media/liberal-media-ignored-hunter-biden-scandal-election-defeat-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/liberal-media-ignored-hunter-biden-scandal-election-defeat-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 148
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/tapper-cnn.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump coronavirus official Birx seeks to join Fauci in Biden administration"
-    excerpt: "White House coronavirus task force official Dr. Deborah Birx is reportedly looking to join National Institute of Allergy and Infectious Diseases Director Dr. Anthony Fauci in President-elect Joe Biden's administration."
-    publishedDateTime: 2020-12-10T16:21:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-coronavirus-birx-biden-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 148
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Deborah-Birx-2-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Trump-Era Tax Rule Benefiting Some Multinationals May Get Revised Under Biden"
     excerpt: "A regulation that cut the tax bills of companies such as Philip Morris and Sealed Air could be poised for reversal in 2021 as the Biden administration tries to deliver on its campaign promise to raise taxes on corporations."

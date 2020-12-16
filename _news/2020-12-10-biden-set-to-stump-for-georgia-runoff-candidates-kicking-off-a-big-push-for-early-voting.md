@@ -31,520 +31,522 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says multiple Republican senators have called to congratulate him on election win"
-    excerpt: "President-elect Joe Biden revealed Thursday that \"more than several\" Republican senators have called to privately congratulate him on his election win, despite the fact that most of them have not publicly acknowledged his victory last month.\n    \n"
-    publishedDateTime: 2020-12-04T03:21:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CsxxWF3xIMs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html"
+  - title: "McConnell sets stage for new face-off with Biden after delivering blow to Trump's election fantasy"
+    excerpt: "President Donald Trump is now learning, in the words of his Rolling Stones campaign anthem, that he can't always get what he wants. Sen. Mitch McConnell, on the other hand, usually does.\n    \n"
+    publishedDateTime: 2020-12-16T12:17:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/44n-hfRbpmQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/joe-biden-mitch-mcconnell-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/joe-biden-mitch-mcconnell-donald-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 182
+    quality: 191
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203175418-02-biden-intv-tapper-1203-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215105233-mcconnell-biden-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump says he'll travel to Georgia to support Republican Senate candidates in runoff election"
-    excerpt: "President Donald Trump said Thursday he will travel to Georgia to support the state's Republican Senate candidates ahead of the January 5 runoff election.\n    \n"
-    publishedDateTime: 2020-11-27T02:11:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gzHZPjjJvNo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
+  - title: "Analysis: Trump deal with Morocco is yet another headache for Biden team"
+    excerpt: "On Thursday, Morocco became the fourth Arab state this year to announce it would establish relations with Israel. It was another diplomatic win for the Trump administration, with US President Donald Trump tweeting that it was \"a massive breakthrough for peace in the Middle East!\"\n    \n"
+    publishedDateTime: 2020-12-12T17:34:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j0m9Q7y9TfI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/trump-morocco-analysis-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/trump-morocco-analysis-intl/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 179
+    quality: 189
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126174410-01-donald-trump-white-house-1126-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211141734-trump-1207-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden announces all-female senior White House communications team "
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris on Sunday announced an all-female White House senior communications team.\n    \n"
-    publishedDateTime: 2020-11-29T22:48:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hxmhZyiQRjo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-white-house-female-communications-team/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-white-house-female-communications-team/index.html"
+  - title: "Biden blasts Georgia's GOP senators, saying they 'stood by' as Trump tried to undo state's election results"
+    excerpt: "President-elect Joe Biden on Tuesday slammed Georgia's two Republican senators, saying that David Perdue and Kelly Loeffler \"stood by\" and \"fully embraced nullifying nearly 5 million Georgia votes.\"\n    \n"
+    publishedDateTime: 2020-12-15T21:56:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-qcex_sgv64/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/biden-campaigns-in-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/biden-campaigns-in-georgia/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 187
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103080726-02-white-house-1103-restricted-super-tease.jpeg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215160833-01-biden-georgia-1215-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The fate of millions of Americans rests on Biden's economic team"
-    excerpt: "Joe Biden's incoming economic team will shoulder the desperate hopes of millions of Americans who have lost jobs, face eviction from their homes or who are going hungry in a monstrous Covid-19-induced slump.\n    \n"
-    publishedDateTime: 2020-12-01T12:12:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tmPc7foOmag/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/joe-biden-economic-team-white-house/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/joe-biden-economic-team-white-house/index.html"
+  - title: "Explaining the Supreme Court lawsuit from Texas and Trump challenging Biden's win"
+    excerpt: "Although all 50 states have certified their election results and the Supreme Court swiftly rejected an emergency request from Pennsylvania Republicans to block election results in the commonwealth, the justices are now grappling with a new controversial bid from Texas, supported by President Donald Trump"
+    publishedDateTime: 2020-12-10T12:07:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WL5vIx4arp0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/trump-texas-supreme-court-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/trump-texas-supreme-court-election/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123153507-janet-yellen-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209213654-ken-paxton-donald-trump-200611-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fauci expected to meet with Biden transition team Thursday "
-    excerpt: "Dr. Anthony Fauci confirmed to CNN that he will meet virtually with President-elect Joe Biden's transition team on Thursday afternoon about the coronavirus pandemic.\n    \n"
-    publishedDateTime: 2020-12-03T16:18:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqZS8NDWNQU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/anthony-fauci-biden-transition/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/anthony-fauci-biden-transition/index.html"
+  - title: "Trump's health secretary: 'Of course, we would' vaccinate Biden publicly if he asks"
+    excerpt: "Health and Human Services Secretary Alex Azar said Monday that if President-elect Joe Biden wants the newly released Covid-19 vaccine, the agency will ensure that he receives it.\n    \n"
+    publishedDateTime: 2020-12-14T22:29:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xyUkAcbdqh8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/azar-vaccinate-biden-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/azar-vaccinate-biden-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 184
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200512102610-01-fauci-lead-image-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214170919-alex-azar-1214-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's desire to stop the border wall could be costly and arduous "
-    excerpt: "President-elect Joe Biden pledged to end construction of his predecessor's signature border wall, but halting the ongoing, multibillion-dollar project will be an arduous, complex and potentially costly process.\n    \n"
-    publishedDateTime: 2020-12-05T22:56:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r_zsQDlrnnA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/biden-border-wall/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/biden-border-wall/index.html"
+  - title: "Congressman cites Trump's efforts to overturn election in announcing decision to quit GOP"
+    excerpt: "In an exclusive interview, Rep. Paul Mitchell, Republican of Michigan, told CNN that his disgust and disappointment with President Donald Trump's efforts to overturn the results of the election have led him to request that the Clerk of the House change his party affiliation to \"independent,\" and to notify"
+    publishedDateTime: 2020-12-14T21:53:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7lvSrj0C3GE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/paul-mitchell-quits-gop/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/paul-mitchell-quits-gop/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 181
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925153336-trump-border-wall-0623-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214155118-rep-paul-mitchell-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Joe Biden weighs picks to lead his big infrastructure push"
-    excerpt: "Joe Biden's plan to remake America's crumbling infrastructure as President is expected to increase the pressure on three key Cabinet picks to work together for results that Americans can see clearly and quickly in the early months of his presidency, sources told CNN.\n    \n"
-    publishedDateTime: 2020-12-05T14:23:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wP4JuZ7YXVI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/biden-infrastructure-cabinet/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/biden-infrastructure-cabinet/index.html"
+  - title: "GOP senators ready to acknowledge Biden won but struggle with Trump's refusal to concede  "
+    excerpt: "A growing number of Senate Republicans are ready to publicly acknowledge what's been widely known for weeks but what they've refused to say: Joe Biden won the presidency and will be sworn in on January 20.\n    \n"
+    publishedDateTime: 2020-12-10T02:32:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GQuPNFqMAoc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/republican-reaction-trump-refusal-to-concede/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/republican-reaction-trump-refusal-to-concede/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 180
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201140638-04-biden-economic-team-1201-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181005192042-republican-senators-1004-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden transition to receive defense intelligence briefings on Monday"
-    excerpt: "Members of the Biden transition team are scheduled to receive briefings from the Pentagon's intelligence agencies beginning on Monday, according to defense officials.\n    \n"
-    publishedDateTime: 2020-12-06T19:52:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eWCCMJ6YQX4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/biden-transition-defense-intelligence-briefings/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/biden-transition-defense-intelligence-briefings/index.html"
+  - title: "After Electoral College affirmed Biden win, Ron Johnson to hold hearing to probe 2020 election"
+    excerpt: "One day after Senate Majority Leader Mitch McConnell said plainly that Joe Biden was the President-elect, Wisconsin Republican Sen. Ron Johnson is holding a controversial hearing Wednesday to probe the 2020 election.\n    \n"
+    publishedDateTime: 2020-12-16T12:09:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KXX4Kg1H5mM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/ron-johnson-senate-hearing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/ron-johnson-senate-hearing/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 178
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003135536-01b-sen-ron-johnson-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's extremely ambitious first 100 days"
-    excerpt: "President-elect Joe Biden faces a wildly daunting first 100 days in office.\n    \n"
-    publishedDateTime: 2020-12-08T23:30:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hgWnrQ5DU8Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/biden-100-days-coronavirus-vaccines/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/biden-100-days-coronavirus-vaccines/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208140911-01-biden-health-team-announcement-1208-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "What you need to know about Biden's nominees"
-    excerpt: "President-elect Joe Biden has moved swiftly to build out his administration since his election last month, and has named several people to top roles in his Cabinet and other key posts.\n    \n"
-    publishedDateTime: 2020-12-09T18:03:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pdB85qBLaj0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/what-to-know-about-biden-cabinet-picks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/what-to-know-about-biden-cabinet-picks/index.html"
+  - title: "Trump will leave office with a historically bad economic record"
+    excerpt: "President Donald Trump still can't accept the numbers measuring his loss to Joe Biden: more than 7 million popular votes and 74 electoral votes.\n    \n"
+    publishedDateTime: 2020-12-13T16:24:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yQoTeKQflQg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/trump-economy-record/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/trump-economy-record/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209105126-biden-cabinet-announcement-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207085911-food-bank-usa-1201-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to tap Susan Rice to lead White House Domestic Policy Council"
-    excerpt: "President-elect Joe Biden is expected to tap Susan Rice, the former national security adviser during the Obama administration, to lead the White House Domestic Policy Council, two sources familiar told CNN.\n    \n"
-    publishedDateTime: 2020-12-10T16:00:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sSexxaFkpFg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/susan-rice-white-house-domestic-policy-council/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/susan-rice-white-house-domestic-policy-council/index.html"
+  - title: "Electors in key battleground states affirm votes for Biden"
+    excerpt: "Electors in Vermont and Tennessee cast their ballots for president Monday morning, opening the formal Electoral College process of sealing Joe Biden's election as the 46th president of the United States.\n    \n"
+    publishedDateTime: 2020-12-14T18:09:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vrRedsEWYVk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200730003015-02-susan-rice-lead-image-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214124640-electoral-college-iowa-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Expect a White House deep clean when Biden moves in "
-    excerpt: "When the White House welcomes a new first family it gets a thorough cleaning in the five hours allotted for the turnover. But with a global pandemic raging -- and an outgoing President whose orbit is rife with people shunning public health guidelines and coming down with Covid-19, this January 20 is"
-    publishedDateTime: 2020-12-10T18:17:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qpeAGoO10hU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/white-house-clean-trump-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/white-house-clean-trump-biden/index.html"
+  - title: "California puts Biden over 270 electoral votes for the presidency"
+    excerpt: "Electors in Vermont and Tennessee cast their ballots for president Monday morning, opening the formal Electoral College process of sealing Joe Biden's election as the 46th president of the United States.\n    \n"
+    publishedDateTime: 2020-12-15T02:00:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vrRedsEWYVk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210125211-restricted-white-house-cleaning-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214124640-electoral-college-iowa-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "GOP leadership rejects resolution acknowledging Biden as President-elect"
-    excerpt: "Congressional Republican leaders on Tuesday rejected a resolution that asserted that Joe Biden is President-elect, the latest refusal by the GOP on Capitol Hill to accept the election results even though it's been clear for weeks that President Donald Trump lost.\n    \n"
-    publishedDateTime: 2020-12-08T18:31:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rKn8-wolMHc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/gop-leadership-congress-biden-president-elect/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/gop-leadership-congress-biden-president-elect/index.html"
+  - title: "McConnell for the first time recognizes Biden as President-elect"
+    excerpt: "Senate Majority Leader Mitch McConnell said Tuesday that following the electors meeting on Monday, \"as of this morning, our country officially has a President-elect and a vice president-elect.\"\n    \n"
+    publishedDateTime: 2020-12-15T16:20:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NH5cr9zn2DE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/mitch-mcconnell-congratulates-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/mitch-mcconnell-congratulates-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106100610-01-biden-mcconnell-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "READ: Mitch McConnell's floor speech congratulating President-elect Biden"
+    excerpt: "Senate Majority Leader Mitch McConnell recognized Joe Biden's victory on Tuesday in a floor speech, where he congratulated the President-elect but also praised Donald Trump's presidency.\n    \n"
+    publishedDateTime: 2020-12-15T17:11:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lloSgAao-P4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/mcconnell-floor-speech-text-president-elect/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/mcconnell-floor-speech-text-president-elect/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207162605-mitch-mcconnell-nancy-pelosi-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215105233-mcconnell-biden-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden expected to nominate Katherine Tai to serve as US Trade Representative"
-    excerpt: "President-elect Joe Biden is expected to nominate Katherine Tai as US Trade Representative, three sources familiar with the decision confirmed to CNN.\n    \n"
-    publishedDateTime: 2020-12-09T23:55:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-sN5aLSwiX8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/katherine-tai-us-trade-representative/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/katherine-tai-us-trade-representative/index.html"
+  - title: "Dozens of members of Congress call on Biden to end the federal death penalty"
+    excerpt: "More than three dozen members of Congress are calling on Joe Biden's incoming administration to prioritize abolishing the death penalty in all jurisdictions, according to a letter sent Tuesday to the transition team for the President-elect and Vice President-elect Kamala Harris.\n    \n"
+    publishedDateTime: 2020-12-15T22:07:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IVo3QZQXexM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/death-penalty-congress-letter-pressley/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/death-penalty-congress-letter-pressley/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209175851-katherine-tai-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200828115424-06-march-on-washington-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Supreme Court rejects Pennsylvania Republicans' attempt to block Biden victory"
-    excerpt: "The Supreme Court has denied a request from Pennsylvania Republicans to block certification of Pennsylvania's election results, delivering a near fatal blow to the GOP's long-shot bid to invalidate President-elect Joe Biden's victory.\n    \n"
-    publishedDateTime: 2020-12-08T22:23:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kr91OQD-Fc4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/supreme-court-pennsylvania-trump-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/supreme-court-pennsylvania-trump-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126010811-supreme-court-111020-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's trailblazing Pentagon pick set to make history unless Democrats resist"
-    excerpt: "Gen. Lloyd Austin, President-elect Joe Biden's choice to lead the Pentagon, is poised to make history as the first Black secretary of defense and is \"the person we need in this moment,\" Biden says -- but first, he will have to overcome resistance from the President-elect's own party.\n    \n"
-    publishedDateTime: 2020-12-09T00:36:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qvg3NxYfL4g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-challenge-journey-profile/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-challenge-journey-profile/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/111129080221-biden-and-general-story-top.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Biden expected to nominate Dr. Vivek Murthy to reprise role as US surgeon general"
-    excerpt: "As he builds out his health team, President-elect Joe Biden is expected to nominate Dr. Vivek Murthy as US Surgeon General, two sources familiar with the matter confirmed to CNN, returning to the role he served in during the Obama administration.\n    \n"
-    publishedDateTime: 2020-12-07T02:54:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8_L4HhVNrTU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/vivek-murthy-surgeon-general/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/vivek-murthy-surgeon-general/index.html"
+  - title: "Immigrant advocates urge Biden to quickly rectify the trauma of family separation"
+    excerpt: "Immigrant advocacy groups, who for years scrambled to identify and reunite families separated at the US-Mexico border, are now preparing for the incoming administration and steps to rectify the trauma experienced by parents and children.\n    \n"
+    publishedDateTime: 2020-12-16T10:11:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IvgW82qAtWU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/immigration-family-separation-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/immigration-family-separation-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200416163416-02-vivek-murthy-2015-climate-change-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215062439-02-joe-biden-1214-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden readies major stimulus push and flurry of executive actions in first 100 days"
-    excerpt: "President-elect Joe Biden and his transition team are preparing for an early, all-out push to pass an ambitious new stimulus bill, while also drawing up plans for a flurry of executive actions aimed at delivering on campaign promises and undoing the Trump administration's efforts to undermine key government"
-    publishedDateTime: 2020-12-01T12:02:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ACcFlaxuQ68/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/biden-first-100-days/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/biden-first-100-days/index.html"
+  - title: "Biden's pick to lead Pentagon faces questions about whether he's right for the job"
+    excerpt: "President-elect Joe Biden's choice to lead the Pentagon is already facing critics, who question his judgment while he served as the top US commander in the Middle East, an issue that could complicate Gen. Lloyd Austin's path to confirmation.\n    \n"
+    publishedDateTime: 2020-12-10T22:10:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/foB3oIw40yk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/austin-confirmation-challenges/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/austin-confirmation-challenges/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125153328-02-biden-thanksgiving-remarks-1125-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209140912-01-lloyd-austin-secretary-of-defense-announcement-1209-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden says he will ask Americans to wear masks for the first 100 days he's in office"
-    excerpt: "President-elect Joe Biden told CNN's Jake Tapper on Thursday that he has asked Dr. Anthony Fauci to be a chief medical adviser and part of his Covid-19 response team when his administration begins next year.\n    \n"
-    publishedDateTime: 2020-12-03T22:44:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vBMq_AvZBFo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/biden-harris-interview-jake-tapper/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-harris-interview-jake-tapper/index.html"
+  - title: "Biden's defense nominee courts Democrats amid concerns over waiver to lead the Pentagon  "
+    excerpt: "President-elect Joe Biden's team is ramping up its lobbying to win over Democratic support for a waiver that would allow Lloyd Austin to serve as the defense secretary amid concerns from the incoming President's own party about allowing another recently retired general to assume the top civilian post"
+    publishedDateTime: 2020-12-14T20:36:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/clGV7bKhBjM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/lloyd-austin-congress-outreach/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/lloyd-austin-congress-outreach/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203164514-tapper-biden-harris-1203-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209135821-03-biden-secretary-of-defense-announcement-1209-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden expected to nominate Rep. Marcia Fudge as secretary of Housing and Urban Development"
-    excerpt: "President-elect Joe Biden is expected to nominate Ohio Rep. Marcia Fudge as secretary of Housing and Urban Development, two people familiar with the transition said, a decision that would add another African American woman to the ranks of his Cabinet.\n    \n"
-    publishedDateTime: 2020-12-09T00:18:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jUHJfkpbhXU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/marcia-fudge-hud-secretary/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/marcia-fudge-hud-secretary/index.html"
+  - title: "Biden to call on nation to 'turn the page' and unite in speech after Electoral College vote"
+    excerpt: "President-elect Joe Biden will declare it time to \"turn the page, to unite, to heal\" in a speech Monday night after the Electoral College makes his victory over President Donald Trump official, according to excerpts of Biden's prepared remarks released by his transition team.\n    \n"
+    publishedDateTime: 2020-12-14T21:08:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VTp2PwNROKQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/joe-biden-speech-electoral-college/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/joe-biden-speech-electoral-college/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208175659-marcia-fudge-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209092448-02-joe-biden-health-team-1208-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: 88% of House and Senate Republicans refuse to publicly acknowledge the obvious: Joe Biden won"
-    excerpt: "The silence isn't just deafening. It's dangerous.\n    \n"
-    publishedDateTime: 2020-12-07T16:03:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hp9WZ8NRolc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/donald-trump-joe-biden-2020-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/donald-trump-joe-biden-2020-election/index.html"
+  - title: "Biden's Catholic faith will be on full display as the first churchgoing president in decades"
+    excerpt: "Joe Biden rarely misses Sunday Mass. So it was notable when the President-elect didn't attend church on November 29, the first Sunday of Advent and the beginning of the season when Roman Catholics like Biden prepare for Christmas.\n    \n"
+    publishedDateTime: 2020-12-13T15:39:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zbSkPYtoYyE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/joe-biden-catholic-faith/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/joe-biden-catholic-faith/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 158
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023120254-35d-mitch-mcconnell-play-button-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211142524-biden-st-joseph-1208-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden expected to nominate Tom Vilsack as Agriculture secretary later this week"
-    excerpt: "President-elect Joe Biden is expected to nominate Tom Vilsack to lead the Department of Agriculture, two sources familiar with the matter said.\n    \n"
-    publishedDateTime: 2020-12-09T00:43:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IHph6EYcEAo/index.html"
+  - title: "Attorney general remains key spot to fill in Biden Cabinet, with Doug Jones seen as a leading contender"
+    excerpt: "As President-elect Joe Biden formally introduces his defense secretary nominee Wednesday, the role of attorney general remains the biggest outstanding position in the Cabinet yet to be named.\n    \n"
+    publishedDateTime: 2020-12-09T14:27:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YKPspZxOpMg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/biden-attorney-general-pick/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/biden-attorney-general-pick/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 151
+    quality: 159
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160720165245-vilsack-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119232738-doug-jones-september-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden Expected to Name Top Economic Officials This Week"
-    excerpt: "President-elect Joseph R. Biden Jr. is expected to nominate Neera Tanden, a divisive figure within the Democratic Party, to lead the budget office. He also named an all-female communications staff."
-    publishedDateTime: 2020-11-29T22:38:00Z
-    webUrl: "https://www.nytimes.com/2020/11/29/us/politics/biden-cabinet-tanden-rouse-adeyemo.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/29/us/politics/biden-cabinet-tanden-rouse-adeyemo.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/29/us/politics/biden-cabinet-tanden-rouse-adeyemo.amp.html"
+  - title: "Biden set to appear with Gen. Lloyd Austin as he lobbies Democrats to back waiver for defense secretary nominee"
+    excerpt: "President-elect Joe Biden will begin trying to sell his choice for defense secretary, retired Army Gen. Lloyd Austin, to congressional Democrats who are balking at the prospect of waiving the requirement that the position be filled by someone who has been out of active-duty military service for at least"
+    publishedDateTime: 2020-12-09T17:50:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dE1N_GYyXrk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/biden-nominates-lloyd-austin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/biden-nominates-lloyd-austin/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 155
     images:
-      - url: "https://static01.nyt.com/images/2020/11/29/us/politics/29dc-bidenecon/29dc-bidenecon-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207192520-01-gen-lloyd-austin-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Legacy civil rights groups feel left out of Biden transition"
-    excerpt: "Biden has named several Black officials to fill high profile jobs, but the civil rights leaders want to be included in the decision-making process."
-    publishedDateTime: 2020-12-01T20:14:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/legacy-civil-rights-groups-feel-left-out-biden-transition-n1249495"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249495"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249495"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432088/201201-derrick_johnson-mc-1152_9f8ecccc4c4f61fd4f90136f36e97245.JPG"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Raimondo says she won't be Biden's health secretary"
-    excerpt: "The Rhode Island governor, who had recently emerged as a frontrunner for the job, was strongly opposed by progressives."
-    publishedDateTime: 2020-12-03T22:25:00Z
-    webUrl: "https://www.politico.com/news/2020/12/03/raimondo-biden-hhs-secretary-442672"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/03/raimondo-biden-hhs-secretary-442672"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/03/raimondo-biden-hhs-secretary-442672"
+  - title: "Biden’s electors prepare to seal his victory, as Trump and coronavirus rage"
+    excerpt: "In interviews, more than two dozen swing-state electors detailed plans for Monday’s vote — and a hint of anxiety about Trump."
+    publishedDateTime: 2020-12-11T09:34:00Z
+    webUrl: "https://www.politico.com/news/2020/12/11/biden-electoral-college-vote-444487"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/11/biden-electoral-college-vote-444487"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/biden-electoral-college-vote-444487"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 135
+    quality: 148
     images:
-      - url: "https://static.politico.com/83/de/b9ea4027407c90eb5835f66aaf32/20201203-gina-raimondo-ap-773.jpg"
+      - url: "https://static.politico.com/39/62/1793a0994b6a8899368da2f129ba/201210-biden-getty-773.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "Biden Says He Wants to Stand Up for Democracy. Here’s Where to Start."
-    excerpt: "President-elect Joe Biden has pledged to put democracy back on the agenda after four years of  Trump’s unapologetic coddling of dictators. Mr. Biden has promised to hos"
-    publishedDateTime: 2020-12-07T10:00:00Z
-    webUrl: "https://www.nytimes.com/2020/12/07/opinion/biden-egypt-human-rights.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/07/opinion/biden-egypt-human-rights.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/07/opinion/biden-egypt-human-rights.amp.html"
+  - title: "Trump Castigates Barr for Not Publicly Disclosing Hunter Biden Investigation"
+    excerpt: "President Trump on Saturday excoriated Attorney General William P. Barr, castigating him on Twitter for not violating Justice Department policy to publicly reveal an investigation into President-Elect Joseph R."
+    publishedDateTime: 2020-12-12T20:40:00Z
+    webUrl: "https://www.nytimes.com/2020/12/12/us/politics/trump-barr-biden-investigation.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/12/us/politics/trump-barr-biden-investigation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/politics/trump-barr-biden-investigation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 147
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/12/us/politics/12dc-trump/merlin_181147668_6fd8fd9b-f17f-4be1-9ffb-8d29242e5ac6-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump meets with state attorneys general after joining Supreme Court election challenge"
+    excerpt: "Meanwhile, Biden named his choices for several top administration spots, including Susan Rice as domestic policy adviser and Denis McDonough as VA secretary."
+    publishedDateTime: 2020-12-10T20:06:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/trump-meet-state-attorneys-general-after-joining-supreme-court-election-n1250678"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250678"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250678"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434870/201210-donald-trump-al-1504_8f03395f3d085e9d1250fa8d29e9defd.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "Biden Clashes With the Left"
+    excerpt: "Democrats are trying to work out their differences as Biden prepares to take office. It’s Friday, and this is your politics tip sheet."
+    publishedDateTime: 2020-12-11T12:01:00Z
+    webUrl: "https://www.nytimes.com/2020/12/11/us/politics/biden-defund-police-student-loans.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/11/us/politics/biden-defund-police-student-loans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/11/us/politics/biden-defund-police-student-loans.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/12/07/opinion/07hanna-01/07hanna-01-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/01/10/multimedia/onpolitics-biden/onpolitics-barber-still-facebookJumbo-v2.png"
         width: 1050
         height: 549
         isCached: true
-  - title: "5 big problems with Texas' bid to overturn Biden's win at the Supreme Court"
-    excerpt: "Texas' bid to overturn Biden's win at the Supreme Court \"This case is hopeless,\" said SCOTUSblog publisher Tom Goldstein, who argues frequently before the court. President Donald Trump calls it \"the big one,"
-    publishedDateTime: 2020-12-10T00:17:00Z
-    webUrl: "https://www.nbcnews.com/politics/supreme-court/5-glaring-problems-texas-bid-overturn-biden-s-win-u-n1250606"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250606"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250606"
+  - title: "Biden Faces Intense Pressure From All Sides as He Seeks Diverse Cabinet"
+    excerpt: "The pressure on the Democratic president-elect is intense, even as his efforts to ensure ethnic and gender diversity already go far beyond those of President Trump. And it’s coming from all sides."
+    publishedDateTime: 2020-12-12T16:31:00Z
+    webUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/12dc-cabinet1/11dc-cabinet1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "As Biden Prepares to Take Office, a New Rush at the Border"
+    excerpt: "The president-elect has promised a more humane border policy. But devastated economies and natural disasters in Latin America have fueled a spike in migration that could make pledges hard to keep."
+    publishedDateTime: 2020-12-13T20:50:00Z
+    webUrl: "https://www.nytimes.com/2020/12/13/us/border-crossing-migrants-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/13/us/border-crossing-migrants-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/us/border-crossing-migrants-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/00BORDER-1-SUB/merlin_180953598_82987d66-deda-4124-a4d2-62a8e173e4b1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Wall Street Journal Opinion Editor Defends Item on Dr. Jill Biden"
+    excerpt: "There’s nothing like playing the race or gender card to stifle criticism,” Paul A. Gigot said as he accused Democrats of orchestrating a coordinated response to an op-ed piece."
+    publishedDateTime: 2020-12-14T03:20:00Z
+    webUrl: "https://www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/14/business/13wsj-gigot-print/13wsj-gigot-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Wall Street Journal Opinion Editor Defends Item on Dr. Jill Biden"
+    excerpt: "There’s nothing like playing the race or gender card to stifle criticism,” Paul A. Gigot said as he accused Democrats of orchestrating a coordinated response to an op-ed piece."
+    publishedDateTime: 2020-12-14T17:46:00Z
+    webUrl: "https://www.nytimes.com/2020/12/13/business/media/dr-jill-biden-wall-street-journal.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/13/business/media/dr-jill-biden-wall-street-journal.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/business/media/dr-jill-biden-wall-street-journal.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/14/business/13wsj-gigot-print/13wsj-gigot-print-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Watch live: Biden delivers remarks on electoral college vote certification"
+    excerpt: "Watch live coverage as President-elect Joe Biden speaks from Wilmington, De., after the electoral college voted to make his victory in the 2020 election official."
+    publishedDateTime: 2020-12-14T23:51:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-biden-delivers-remarks-on-electoral-college-vote-certification-97710149537"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97710149537"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97710149537"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 133
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434566/201209-donald-trump-jm-1603_f57dd82fbced153aa6bcd2fbae9f2b3a.jpg"
-        width: 2500
-        height: 1607
-        isCached: true
-  - title: "President-elect Joe Biden's cabinet picks draw criticism for lack of diversity"
-    excerpt: "Steve Kornacki tells Chuck Todd that Democrats are betting on \"growing non-white population and an assumption that they're going to continue to rack up gigantic margins\" in the vote."
-    publishedDateTime: 2020-12-06T16:17:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/president-elect-joe-biden-s-cabinet-picks-draw-criticism-for-lack-of-diversity-97212997650"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97212997650"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97212997650"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/1607266802197_mtp_clip_kornackidemos_201206_1920x1080.jpg"
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/biden-cert-2.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden tests Congress' desire for norms versus history-making with Pentagon pick"
-    excerpt: "Four-star general Lloyd Austin retired in 2016. The law says a defense secretary must wait seven years after relief from active duty."
-    publishedDateTime: 2020-12-09T19:50:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/biden-tests-congress-desire-norms-versus-history-making-pentagon-pick-n1250452"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250452"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250452"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434289/201208-llyod-austin-2016-ac-532p_ce2d18012447ed1cba44c8ffb2005a7f.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Presidential Transition Live Updates: Biden Builds a Cabinet of Longtime Allies"
-    excerpt: "The president-elect is putting a premium on personal relationships as he selects his team. The biggest gun control advocacy group, run by former Mayor Michael Bloomberg, wants the Biden administration to act immediately with executive orders."
-    publishedDateTime: 2020-12-10T08:29:00Z
-    webUrl: "https://www.nytimes.com/live/2020/12/10/us/joe-biden-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/12/10/us/joe-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/10/us/joe-biden-trump.amp.html"
+  - title: "In Trying for a Diverse Administration, Biden Finds One Group’s Gain is Another’s Loss"
+    excerpt: "The pressure on the Democratic president-elect is intense, even as his efforts to ensure ethnic and gender diversity already go far beyond those of President Trump. And it’s coming from all sides."
+    publishedDateTime: 2020-12-12T16:31:00Z
+    webUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 131
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/10/us/politics/10transition-brief-cabinet/10transition-brief-cabinet-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden urged to change immigration policy to send more health workers to Covid hot spots"
-    excerpt: "Backers of the legislation think linking health worker shortages with immigration policy will resonate with the incoming administration."
-    publishedDateTime: 2020-12-03T09:49:00Z
-    webUrl: "https://www.politico.com/news/2020/12/03/biden-immigration-policy-health-workers-442411"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/03/biden-immigration-policy-health-workers-442411"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/03/biden-immigration-policy-health-workers-442411"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
     quality: 127
     images:
-      - url: "https://static.politico.com/8a/5f/f94fd7c34f65a2b21373e5ff3869/gettyimages-1229807401-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/12dc-cabinet1/11dc-cabinet1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Presidential Transition Live Updates: Biden Sets Ambitious Pandemic Response Goals for First 100 Days"
-    excerpt: "President-elect Joe Biden introduced his health team at an event in Wilmington, Del. Tuesday is the safe harbor deadline, when all state-level election challenges are supposed to be completed."
-    publishedDateTime: 2020-12-08T16:53:00Z
-    webUrl: "https://www.nytimes.com/live/2020/12/08/us/joe-biden-donald-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/12/08/us/joe-biden-donald-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/08/us/joe-biden-donald-trump.amp.html"
+  - title: "California’s electors are meeting now. Their votes are expected to push Biden over the top."
+    excerpt: "California’s 55 electors are meeting now as they prepare to cast their votes for President-elect Joseph R. Biden Jr. Their votes will push Mr. Biden over the 270 threshold to win the White House, formally delivering him a victory after a disruptive period in the nation’s history marked by extraordinary efforts by President Trump to overturn the results of the presidential election."
+    publishedDateTime: 2020-12-14T17:31:00Z
+    webUrl: "https://www.nytimes.com/2020/12/14/us/californias-electors-are-meeting-now-their-votes-are-expected-to-push-biden-over-the-top.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/14/us/californias-electors-are-meeting-now-their-votes-are-expected-to-push-biden-over-the-top.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/14/us/californias-electors-are-meeting-now-their-votes-are-expected-to-push-biden-over-the-top.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 120
+    quality: 125
     images:
-      - url: "https://static01.nyt.com/images/2020/12/08/us/politics/08dc-biden-hud/merlin_180259026_2bec246a-6d52-414e-8c87-424cbc560e38-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/14/us/politics/14vid-electoral-college-promo1/14vid-electoral-college-promo1-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Will the Biden administration really look like America?"
-    excerpt: "As candidates, Joe Biden and Kamala Harris promised an administration that “looks like America.” But they’re facing increasing pressure from interest groups that worry Biden and Harris won’t follow through and deliver a historically diverse Cabinet and staff."
-    publishedDateTime: 2020-12-04T17:30:00Z
-    webUrl: "https://www.politico.com/newsletters/women-rule/2020/12/04/will-the-biden-administration-really-look-like-america-491062"
+  - title: "Biden's boom or bust economy"
+    excerpt: "I write this morning about the two roads that President-elect Joe Biden’s presidency could go down, depending on vaccine distribution and new stimulus. He could preside over a historic boom or a disappointing bust."
+    publishedDateTime: 2020-12-15T13:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2020/12/15/bidens-boom-or-bust-economy-792309"
     type: article
     provider:
       name: Politico
@@ -555,75 +557,47 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "Biden selects Becerra as secretary of Health and Human Services"
-    excerpt: "WASHINGTON — President-elect Joe Biden has selected California Attorney General Xavier Becerra to serve as his secretary of Health and Human Services, choosing an experienced politician to help oversee the government’s response to the coronavirus pandemic,"
-    publishedDateTime: 2020-12-06T23:53:00Z
-    webUrl: "https://www.politico.com/states/california/story/2020/12/06/biden-selects-becerra-as-secretary-of-health-and-human-services-1342516"
+  - title: "Electoral College affirms Biden's victory"
+    excerpt: "Democratic electors cast their votes without incident states where Trump has contested the results, like Pennsylvania and Georgia."
+    publishedDateTime: 2020-12-14T23:10:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/12/14/electoral-college-affirms-bidens-victory-1346450"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/1b/12/b3e1e2e043c1bf3e71ac53922be2/ap20008822339217-1.jpg"
+      - url: "https://static.politico.com/87/fa/04107b0c4742923ec02a4bbcaa9d/20201213-joe-biden-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "Biden, Austin vow to safeguard civilian control"
-    excerpt: "Joe Biden defends his choice of Lloyd Austin for defense secretary and says he will get civil-military relations “back on track.” — A new blueprint outlines how Congress can get back in the business of fulfilling its war powers responsibilities."
-    publishedDateTime: 2020-12-10T15:00:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-defense/2020/12/10/biden-austin-vow-to-safeguard-civilian-control-792196"
+  - title: "Watch Live: Biden Speaks Following Electoral College Certification"
+    excerpt: "President-elect Joseph R. Biden Jr. delivers remarks after electors in states across the country cast their votes for president."
+    publishedDateTime: 2020-12-14T22:28:00Z
+    webUrl: "https://www.nytimes.com/video/us/elections/100000007503306/joe-biden-live-speech-video.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
+      name: New York Times
+      domain: nytimes.com
     quality: 115
     images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
+      - url: "https://static01.nyt.com/images/2020/12/14/us/politics/14vid-biden/14vid-biden-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Biden taps Susan Rice for top White House domestic policy job"
-    excerpt: "President-elect Joe Biden has tapped Obama’s former national security adviser Susan Rice to run the White House Domestic Policy Council, according to people familiar with the decision. Rice, who also served as the U."
-    publishedDateTime: 2020-12-10T15:20:00Z
-    webUrl: "https://www.politico.com/news/2020/12/10/biden-taps-susan-rice-for-top-white-house-domestic-policy-job-444231"
+  - title: "How McConnell and the GOP let Trump down gently"
+    excerpt: "Before recognizing Joe Biden as America’s next president, Mitch McConnell was careful to make sure President Donald Trump was in the loop. The Senate majority leader transmitted a message to the White House ahead of time that he would be giving remarks congratulating Biden on his win over Trump,"
+    publishedDateTime: 2020-12-15T23:36:00Z
+    webUrl: "https://www.politico.com/news/2020/12/15/mcconnell-gop-let-trump-down-gently-election-445690"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/56/16/b146704b4ab68f168a8bfcbefdd6/susan-rice-773-ap.jpg"
+      - url: "https://static.politico.com/c4/38/729278f34d458534f28f6f35e8a9/ap20350731665251-c.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "California labor secretary in serious contention for Biden cabinet"
-    excerpt: "California's labor secretary began her legal career fighting for Thai garment workers held captive in a Los Angeles sweatshop. Decades later, she's in serious contention to join the Biden administration as secretary of the U."
-    publishedDateTime: 2020-12-11T03:08:00Z
-    webUrl: "https://www.politico.com/states/california/story/2020/12/10/california-labor-secretary-in-serious-contention-for-biden-cabinet-1345100"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/e0/9c/faa336fa4794a0ea215d1e7510ce/201210-julie-su-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden pledges to vaccinate tens of millions, reopen schools in first 100 days"
-    excerpt: "The new pledges came as Biden introduced his picks to lead key health agencies and coordinate the federal response to a pandemic that's infected almost 15 million people in the U.S."
-    publishedDateTime: 2020-12-08T21:16:00Z
-    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/12/08/biden-pledges-to-vaccinate-tens-of-millions-reopen-schools-in-first-100-days-1343688"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 112
-    images:
-      - url: "https://static.politico.com/35/f1/fb5a27c946b9b98ed967f5a49a3f/20201208-joe-biden-ap-773.jpg"
-        width: 4425
-        height: 2950
         isCached: true
 
 secured: "fU1m+owUWSwX76kLfZJl47xDlboghRgZKsw9W4G5ZeD4rULGzbitKXkgeFFBzbysFSVaH1OQTNC+k1VUwOdxqyXANXJsfGPsIToMdOpmPoptojRa0oTAl9h7V9gCLSfbWEktiEkw5IhAxoWaFEioBU5Gyw+78CeGOmomiTcNIm5ZQ58oSKQjiF753/dkTEmTqrNW2TUTsI/vwDXwfBYVueYxsu+d0T5V2orJ5wTbrXAbEnCRzdgpBVYj0rxoiQ3xyab7D3xvn4INubd4BcUb+kkJ5Ej0Reooogyy7ku6glRxKct1bN07P2IANKPvHAiFS1oS8d66bWFB40DC7cPpnvM/i1tiWIZcabFzoXLHKSU=;yEK228EHxxdKawbrSby8xw=="
