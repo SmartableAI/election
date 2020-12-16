@@ -1053,6 +1053,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Fauci says vaccinate Biden, Harris, Trump, Pence"
+    excerpt: "Dr. Anthony S. Fauci said it was his “strong recommendation” that President-elect Joseph R. Biden Jr. and Vice President-elect Kamala Harris receive a COVID-19 vaccine quickly."
+    publishedDateTime: 2020-12-15T23:12:00Z
+    webUrl: "https://www.bostonglobe.com/2020/12/15/nation/fauci-says-vaccinate-biden-harris-trump-pence/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 110
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/j-OFaLhPe5lpOz2HmzITsXkCgsA=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/4YJNFXV4KZFE5MPQ6632P6WCG4.jpg"
+        width: 506
+        height: 285
+        isCached: true
   - title: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin"
     excerpt: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin."
     publishedDateTime: 2020-12-13T12:01:00Z

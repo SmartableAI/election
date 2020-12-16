@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/putin-congratulates-biden-on-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp"
 type: article
 quality: 190
-heat: 1350
+heat: 1370
 published: true
 
 provider:
@@ -428,6 +428,22 @@ related:
     quality: 174
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Dozens of House Democrats join 'Squad' in demanding Biden end death penalty"
+    excerpt: "More than three dozen members of Congress signed onto a letter Tuesday calling for President-elect Joe Biden to halt the federal government's use of the death penalty and show he's willing \"to dismantle its use altogether.\""
+    publishedDateTime: 2020-12-16T00:53:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nfDYFuKi5QI/house-dems-squad-biden-death-penalty"
+    ampWebUrl: "https://www.foxnews.com/politics/house-dems-squad-biden-death-penalty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-dems-squad-biden-death-penalty.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d557601-35f9-4fef-9ec8-1b9c55219f32/b989605a-9f99-410a-aa7a-c4d0930b55c5/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

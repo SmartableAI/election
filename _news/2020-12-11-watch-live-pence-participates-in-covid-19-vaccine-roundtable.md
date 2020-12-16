@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-pence-participa
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-pence-participates-in-covid-19-vaccine-roundtable"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/assets/images/social-share.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Pence says he'll receive COVID-19 vaccine in 'the days ahead'"
+    excerpt: "Vice President Mike Pence said Tuesday he's looking forward to receiving the Pfizer-BioNTech COVID-19 vaccine in the \"days ahead ... without hesitation,\" and CNN's Kaitlan Collins later reported that two sources confirmed he would be inoculated by Friday."
+    publishedDateTime: 2020-12-15T23:22:00Z
+    webUrl: "https://theweek.com/speedreads/955399/pence-says-hell-receive-covid19-vaccine-days-ahead"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/955399/pence-says-hell-receive-covid19-vaccine-days-ahead"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/955399/pence-says-hell-receive-covid19-vaccine-days-ahead"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 75
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1289450908.jpg?itok=jgUbbyOD"
+        width: 840
+        height: 560
         isCached: true
   - title: "Vice President Mike Pence to visit Greenville for coronavirus vaccines roundtable"
     excerpt: "Vice President Mike Pence will visit Greenville on Thursday to talk about COVID-19 vaccinations before traveling to a campaign rally in Augusta, Georgia. According to his office, Pence is visiting Greenville to take part in a roundtable discussion highlighting the public-private partnership to combat the coronavirus,"
@@ -106,14 +122,14 @@ related:
     quality: 55
   - title: "Pence looks forward to receiving COVID-19 vaccine"
     excerpt: "Vice President Mike Pence says he looks forward in the days ahead to receiving a vaccine for COVID-19 and will do so without hesitation."
-    publishedDateTime: 2020-12-15T22:45:00Z
-    webUrl: "https://www.stltoday.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_36dc5a01-37d9-5280-a1dd-e997ec25733b.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_36dc5a01-37d9-5280-a1dd-e997ec25733b.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_36dc5a01-37d9-5280-a1dd-e997ec25733b.amp.html"
+    publishedDateTime: 2020-12-15T23:22:00Z
+    webUrl: "https://napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.html"
+    ampWebUrl: "https://napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.amp.html"
+    cdnAmpWebUrl: "https://napavalleyregister-com.cdn.ampproject.org/c/s/napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.amp.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Napa Valley Register
+      domain: napavalleyregister.com
     quality: 55
 
 secured: "mUf1wPTUZ1qN4E5PL9Hnn2ovJkXpZMBsQ9f63wn/cyVcPn2/kcUb63frJ0FtipQd+W4tf0zVuYfPBEXc486FM8vIDDfo0t41QgQA9bfz09JgZ95wQh9Yw7osSC/fxRWPVm8MLuTK04SdFnY+lHmuym46t0dW+PQMy82Fn39qt+VVc6serb/wuYGB8Og4hQKyWiOVYVefWrg4f9vnH9cVmJR3rJOor4Xo4yThWuXIr3dE2kO12dvnQszoEmiNRYd5jMyqEh8ASEiBf79DgRbGIzNrKKF1GWJoV77d0/upyoMLSiaxOs+dHQ9JTltMPJeLd4EsrioRqbmOlTNQK1b2VLOiQZ8nAtxXWjUimTgtAyw=;easDUQfMSoZWOcql+8z+4A=="

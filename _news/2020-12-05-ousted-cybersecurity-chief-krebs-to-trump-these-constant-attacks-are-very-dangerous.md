@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Organization must turn over documents to NY attorney general, judge rules "
+    excerpt: "A state judge ruled Tuesday that the Trump Organization must turn over documents related to a property whose tax abatements were being investigated by New York Attorney General Letitia James' office.\n    \n"
+    publishedDateTime: 2020-12-15T23:21:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MgXZILndT9A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/trump-organization-documents-ny-attorney-general/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/trump-organization-documents-ny-attorney-general/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190118093741-20190118-trump-tower-exterior-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump moves to sanction Turkey over Russian missile defense system under pressure from Congress"
     excerpt: "The Trump administration will sanction Turkey for its purchase of a Russian surface-to-air missile system more than a year after Ankara took delivery of the weapons, a delay that so frustrated Congress that lawmakers made the sanctions mandatory.\n    \n"
     publishedDateTime: 2020-12-14T21:16:07Z

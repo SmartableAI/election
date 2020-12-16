@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.amp.html"
 type: article
 quality: 133
-heat: -1
-published: false
+heat: 133
+published: true
 
 provider:
   name: New York Times
@@ -30,24 +30,6 @@ images:
     width: 1050
     height: 550
     isCached: true
-
-related:
-  - title: "Joe Biden picks Pete Buttigieg to be transportation secretary"
-    excerpt: "President-elect Joe Biden will nominate Pete Buttigieg to be his transportation secretary, sources familiar with the matter tell CNN, elevating the former South Bend, Indiana, mayor and 2020 Democratic presidential candidate to a top post in the federal government.\n    \n"
-    publishedDateTime: 2020-12-15T20:20:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GPanXIsLRr0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/pete-buttigieg-transportation-secretary/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/pete-buttigieg-transportation-secretary/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200205110445-bt101-pete-buttigieg-020520-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "5fKEoYcMC4yPemU6MGcrnfQ34m89OhtUJaU2SYKCbpp1K9TAmFdlNA3EpjQdJD33wgje9o8Z0lPVwh8dJlUIiTSNQHTu7w78lmiWKddhinJdlt8gxIPcAF8CRkiXrB6c56INU8qoVly/wKSeaLgaZFvyd7GsxzhH/mqoprr/7VBYirod2jt2dX2tdez8Ag9cdphJ2VRLYp5Ze4PO2qRiCQMku1pH++mvVKV33UiCA116Q2Q5Fo8gCTu60DIrsz9UyxbCJnUXVJVHmpc5VQ9euBaTeV92SyHhoXMB7jsT+6SoTtnxwUh0pYqFR3bdJs1T90mXhnf6iuhVcHWAk9v9iuLaX5x0TADopL1NXnexils=;3YLvgyMorfX9RquGkxHHyA=="
 ---

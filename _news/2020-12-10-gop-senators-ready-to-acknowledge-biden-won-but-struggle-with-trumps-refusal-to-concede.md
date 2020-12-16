@@ -429,6 +429,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "How McConnell and the GOP let Trump down gently"
+    excerpt: "Before recognizing Joe Biden as America’s next president, Mitch McConnell was careful to make sure President Donald Trump was in the loop. The Senate majority leader transmitted a message to the White House ahead of time that he would be giving remarks congratulating Biden on his win over Trump,"
+    publishedDateTime: 2020-12-15T23:36:00Z
+    webUrl: "https://www.politico.com/news/2020/12/15/mcconnell-gop-let-trump-down-gently-election-445690"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/c4/38/729278f34d458534f28f6f35e8a9/ap20350731665251-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "jzJq5ELcCgI0nd00oEyA87+kquJ+Nq+AWtB+2biSnLK+NXsp+4UeyEZNh2ThAaVClpY9x9b3h7COXD1FO8OrSfA4S/djxafju3843BAjmbDl6zRaT5fcbhX7UE9nqH8l9iEks7SZyQWkLdEc3mG6/ybHvdrDVhCf7qgBK2neWkH1Mc+O6IaooekUeNJv9VqfDUx0Vqkfrd5KFF61Bc+2e+u4y9wyyjrYhcoNac93vOlu3njpDnNM2Ovb4ZnZ9IZ1k6GN1+Fwzp83JfaKoTbgGm4FwBxQJ/t5Ns8Twkh71is4eaHtiuMuoI459ZawUJiUUGRy1Z5tbPqDF8dtUyXlUeehX+QZ/8TMv/662lWUeTw=;DGOpl1GEXu4kKwLsVghBFA=="
 ---

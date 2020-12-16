@@ -41,6 +41,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden slams GOP senators who \"did nothing\" as Trump tried to nullify Georgia votes"
+    excerpt: "President-elect Joe Biden returned to the campaign trail in Atlanta on Tuesday to speak at a rally on behalf of Democratic Senate candidates Jon Ossoff and Raphael Warnock. The outcome of Georgia's Senate runoff elections will determine which party controls the chamber during Mr."
+    publishedDateTime: 2020-12-16T00:41:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-slams-gop-senators-perdue-loeffler-georgia-runoff/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/15/7a8cf98f-f3fe-4ccd-a834-b83b47c98bee/thumbnail/1200x630/bd17bc3aadac374a91fe7490e16d3d86/cbsn-fusion-president-elect-biden-slams-gop-senators-who-did-nothing-during-attempts-to-nullify-georgia-votes-thumbnail-610155-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'Democracy prevailed': Biden after official win"
     excerpt: "Biden after official win. Posted . Democrat Joe Biden called on Americans to \"turn the page\" on the Trump era in a prime-time speech on Monday (D"
     publishedDateTime: 2020-12-15T06:28:00Z
@@ -54,6 +68,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20201215&i=OVD94HSYN&r=OVD94HSYN&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Biden: Lives depend on Georgia Senate race outcome"
+    excerpt: "President-elect Joe Biden campaigned in Atlanta Tuesday, thanking Georgians for delivering him the state in last month's election and urging them to vote in the runoffs January 5th for two Senate seats,"
+    publishedDateTime: 2020-12-15T23:27:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/15/biden-lives-depend-georgia-senate-race-outcome/3914297001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/76eb0933-81b0-4879-9bf5-c9cb7f8afd5d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "71cyV69flkpYw+EvW4zn/1wjQdmbghUwA8t29aMYxzKii1OmiZWM+jMQuvyZGA0jBrFROjru2IGD9Nxht/XcUef+0cOp9rO22TvQnS+2/JjZa1ZwA8zRN86n+oYewEzqUpt/NZHJ2JJpefiFGXmg0G78zz6kgen0bjP0k5SRakWZihJkEgSApcNXO6+SyxWsUIMa0Y2Y8Q7BRWRtAzam5/uccvmc6+J+qaknzsF6aU99+3HLstyaquZffpGq5i2kwnbcWjWwk88rUy3UTHAnjx+I1yt169aXQIwRcNdrohECLEYBeDi1C21M+24yHhPqH1EPkL5A7b0J0/ECOZ1nJI8m1QxWWKPS6UEf1/kYQHs=;tyN6RgTuCw4LIGNvgloj9g=="

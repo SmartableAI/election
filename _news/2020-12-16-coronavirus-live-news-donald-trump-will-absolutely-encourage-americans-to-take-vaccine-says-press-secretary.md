@@ -3,8 +3,8 @@ category: news
 title: "Coronavirus live news: Donald Trump will 'absolutely' encourage Americans to take vaccine, says press secretary"
 excerpt: "EU to bring forward decision on Pfizer/BioNTech vaccine to 21 December; Turkey says 235 more people have died after a Covid diagnosis"
 publishedDateTime: 2020-12-15T19:27:00Z
-originalUrl: "https://www.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain?page=with:block-5fd9061d8f08a72f01adbabf"
-webUrl: "https://www.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain?page=with:block-5fd9061d8f08a72f01adbabf"
+originalUrl: "https://www.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain?page=with:block-5fd902938f08b0a99da9702c"
+webUrl: "https://www.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain?page=with:block-5fd902938f08b0a99da9702c"
 ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain"
 type: article
@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Coronavirus live news: Trump will 'absolutely' encourage Americans to take Covid vaccine, says press secretary"
+    excerpt: "One in four people globally may not get vaccines until 2022; EU likely to approve vaccine within days; Canada signs deal to accelerate Moderna vaccine deliveries"
+    publishedDateTime: 2020-12-16T00:40:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary?page=with:block-5fd950d88f08a72f01adbe51"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/a9e40093460b49c3609271c8c600e4790fd83685/0_0_4200_2520/master/4200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=feb9d1fec72b9a323db0e7ecf911894d"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Pence sets Indiana trip to discuss coronavirus vaccine"
     excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss coronavirus vaccines as federal officials are expected to soon authorize the first such vaccine for widespread use."
     publishedDateTime: 2020-12-11T19:40:00Z
@@ -78,6 +94,6 @@ related:
         height: 630
         isCached: true
 
-secured: "JJJb8HHKeS2Dp/vENQYXI3OWfbDddoLqnsj7AhJlHEcCDrktpnYkk47z0nkDX3Os9uANCoQzbqQeAKp8Vi2CdmUMnnbkO+o37nOmorijcXy0ulpMqrsVCjEwvBzfClcG+jiTpL0y4N/1hr59u6XXb+QYMD3QrG1gMh72NaOytz6Os91NqLfJCdsO7tK7lCP/KiH02p/5egM/AexlsqWaWOpxo02klzHOyvIHG0Eqq/XySEO9fEZbmxh9Ai5C819hlhBj6TruSKmpvG/2ErFDI8H1CoQntH//g1G30nVdbhpuBi34hpKkTcuwKDwkAUmr52gJiW0GPbZLxJnzC46GSCkLGpGlgW1ZbL2Ky2hu+Jo=;aBPCx1a6fNTSqzfZxrdhsA=="
+secured: "vzNFtBMNPmPT0d7/jmOrHc4yA6lpYzIa2TDuVmOcm6bMjinL/X4FdXU+O3P7eDCjHXch2WxAEa0OSJiPnmnerhFX2OnHquW+u7gv4qdW1gCQGtTVtWvqmUIB/OKdRuAxfqKnqMCpAtSao1DR8jW8FhnytE9gXTd4LfkZCD0TOt28DpiL+k2I+2Ko20SF+IP6TZ8ASyHHP0QE6SRy1gKj/jchFsvBEA96Bi4/ZX9IkhCeEuhI3gTGlrfBmxjjNNEvAzQp/yO3b7Q8soDj+oplX3Q2UdXNoaWE8dDNwlY4i1tsIPM1vGn6MI7FtoC/nQLhrBswsRd4jv6EI0HJoQI8D+QCvWIqqKa/rw5m2DAaafE=;x24KRhE+coItZRBbppbIJw=="
 ---
 

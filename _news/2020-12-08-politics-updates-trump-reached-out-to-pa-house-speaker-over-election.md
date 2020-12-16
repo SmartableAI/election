@@ -2159,8 +2159,8 @@ related:
         isCached: true
   - title: "After Electoral College vote, White House says Trump still involved in legal challenge"
     excerpt: "President Donald Trump is still involved in legal challenges to the 2020 election, White House spokeswoman Kayleigh McEnany said on Tuesday when asked how the president responded to the Electoral College vote confirming Democrat Joe Biden as the U."
-    publishedDateTime: 2020-12-15T18:58:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump/after-electoral-college-vote-white-house-says-trump-still-involved-in-legal-challenge-idUSKBN28P2IW?edition-redirect=ca"
+    publishedDateTime: 2020-12-15T23:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump/after-electoral-college-vote-white-house-says-trump-still-involved-in-legal-challenge-idUSKBN28P2IW"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2IW"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2IW"
     type: article

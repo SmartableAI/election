@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/15/us-election-ele
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
 type: article
 quality: 120
-heat: 160
+heat: 200
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biden slams GOP senators who \"did nothing\" as Trump tried to nullify Georgia votes"
+    excerpt: "President-elect Joe Biden returned to the campaign trail in Atlanta on Tuesday to speak at a rally on behalf of Democratic Senate candidates Jon Ossoff and Raphael Warnock. The outcome of Georgia's Senate runoff elections will determine which party controls the chamber during Mr."
+    publishedDateTime: 2020-12-16T00:41:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-slams-gop-senators-perdue-loeffler-georgia-runoff/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/15/7a8cf98f-f3fe-4ccd-a834-b83b47c98bee/thumbnail/1200x630/bd17bc3aadac374a91fe7490e16d3d86/cbsn-fusion-president-elect-biden-slams-gop-senators-who-did-nothing-during-attempts-to-nullify-georgia-votes-thumbnail-610155-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'Democracy prevailed': Biden after official win"
     excerpt: "Biden after official win. Posted . Democrat Joe Biden called on Americans to \"turn the page\" on the Trump era in a prime-time speech on Monday (D"
     publishedDateTime: 2020-12-15T06:28:00Z
@@ -56,6 +70,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden: Lives depend on Georgia Senate race outcome"
+    excerpt: "President-elect Joe Biden campaigned in Atlanta Tuesday, thanking Georgians for delivering him the state in last month's election and urging them to vote in the runoffs January 5th for two Senate seats,"
+    publishedDateTime: 2020-12-15T23:27:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/15/biden-lives-depend-georgia-senate-race-outcome/3914297001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/76eb0933-81b0-4879-9bf5-c9cb7f8afd5d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "FBQKxsfVhjQJ4cKoFycCdlFVU21CYcZ3A72knpsYWmqEq4xv+fzL5BixFNTjHSiJ5Vm9dpiX9Tbl2gOcjLXcxHBclUmPfC0GrThbJi+RC3LPipp33/x8dip14oje1YHmVHcbkmWm2dBe+VAVb3J3HNBFRT/LOFmjUZ2N8FqQ9wClokdaucqj0Lk6Eroh1kKCX0xSXxw8g4CLOw02Y6xaPXPXkQERAGmRlSmckwYyE9nrYcqhA8n/vW2JpLa+Rcu8/l92pfhhiBGxpScVOmHJbD0Wz4LBpQ5IDnBRT46BBXWerUGBWhzeIiCzuwhKSrZV3zRnqlQ2pqGFy0RJE1lQFBmZsXk4yCmYMDtDsOPXG8c=;RrsIqxrKhSTpmc58gEXL/A=="
 ---

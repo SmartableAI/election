@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Pence says he'll receive COVID-19 vaccine in 'the days ahead'"
+    excerpt: "Vice President Mike Pence said Tuesday he's looking forward to receiving the Pfizer-BioNTech COVID-19 vaccine in the \"days ahead ... without hesitation,\" and CNN's Kaitlan Collins later reported that two sources confirmed he would be inoculated by Friday."
+    publishedDateTime: 2020-12-15T23:22:00Z
+    webUrl: "https://theweek.com/speedreads/955399/pence-says-hell-receive-covid19-vaccine-days-ahead"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/955399/pence-says-hell-receive-covid19-vaccine-days-ahead"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/955399/pence-says-hell-receive-covid19-vaccine-days-ahead"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 75
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1289450908.jpg?itok=jgUbbyOD"
+        width: 840
+        height: 560
+        isCached: true
   - title: "Vice President Mike Pence to visit Greenville for coronavirus vaccines roundtable"
     excerpt: "Vice President Mike Pence will visit Greenville on Thursday to talk about COVID-19 vaccinations before traveling to a campaign rally in Augusta, Georgia. According to his office, Pence is visiting Greenville to take part in a roundtable discussion highlighting the public-private partnership to combat the coronavirus,"
     publishedDateTime: 2020-12-09T21:06:00Z
@@ -101,14 +117,14 @@ related:
         isCached: true
   - title: "Pence looks forward to receiving COVID-19 vaccine"
     excerpt: "Vice President Mike Pence says he looks forward in the days ahead to receiving a vaccine for COVID-19 and will do so without hesitation."
-    publishedDateTime: 2020-12-15T22:45:00Z
-    webUrl: "https://www.stltoday.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_36dc5a01-37d9-5280-a1dd-e997ec25733b.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_36dc5a01-37d9-5280-a1dd-e997ec25733b.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_36dc5a01-37d9-5280-a1dd-e997ec25733b.amp.html"
+    publishedDateTime: 2020-12-15T23:22:00Z
+    webUrl: "https://napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.html"
+    ampWebUrl: "https://napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.amp.html"
+    cdnAmpWebUrl: "https://napavalleyregister-com.cdn.ampproject.org/c/s/napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.amp.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Napa Valley Register
+      domain: napavalleyregister.com
     quality: 55
 
 secured: "q3XzBWX+Mm18WjY+9YIC8L6PpT1w+pkkmLzAzNL/7P8gzjlyKHZxZHB7iFEA7/hWRiBnOezHJcpKg96ylqYjVMzqJCN6ry345s9617j7twGKOvpx3w3asTjN6o1bHbMMbADuuRFHQ3JoOjEvw3GStJhOeU19tPN/mIOWcPkUYGEUmQUs5604QV1YwLDInZyzHNJ4NT1YtfjWvPMnsJsM0RnnxZF4L9Qsce14oNWZ0rBgPzl2zLWBciLbqiRgHDBJXhR7xMDET29kkzsnbDvXZ2iBSNovjmRO6VNK13RaZ30MfcuSQYOeWrMQbw53GOu9KHOBbtx1ruo5HdJfEs03lywN3xy0538sxKK2MN4Mnf1oqPJpSAiEPnUVKqr5pCkU7Rl+j+ZiWjselmes4kOCZNB1MEC+54ZoQ3O2h4zdCZTGZ5mSThTOeyN2P1R9Dviq5eRMNHagb5fwGg1ljc8N6mA1qYyiuSe2ipq4NopPzc7UO/213oKrIARDynKxWzbngSJM7H0+rQF1t+oP+Z71aQ==;ZX5Kb2ds0BBf13M7PNBxRw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-butti
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-biden-picks-buttigieg-as-transportation-chief/2020/12/15/87c1e442-3f09-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     height: 779
     isCached: true
 
-secured: "qLkRx2OgY6yAq4+JLLtw8wsMwmZ38wdZyOOrWNImg4w/IU9WvxQ9B6ofSOWMo/VLiw/cB9aj6VfIzGLNm+/H4DXyV+RulwjrUFhEaW+NebqH8yyIaVLY7o3pgB/ZLrUDlvIKajidBEmoUyp8hH1lD9f/tOmNuI3Cs4piPtldLrcpSkKN05xJIsNnXIKwd4Me565H4klavREU7/zv71BoyLfd6b/COsbCYVvmEBxweIXGGYZlNUvOH1D+5riZ8eAXVEbi4yTnKlqS99u3SDfxwMzGg1XEvPGpF6MLy4NrS/ipThu+X9dT6wYfVqsrY6bi9DIx0z2dwEebreMNm2YP+hoyc6Qkb2TJEJWy2Q2IncA=;JYbxqQJSOTIr3lcoZ5lcUQ=="
+related:
+  - title: "AP sources: Biden picks Buttigieg as transportation chief"
+    excerpt: "President-elect Joe Biden is expected to pick former South Bend, Indiana, mayor Pete Buttigieg to head the transportation department, according to three people familiar with the plans."
+    publishedDateTime: 2020-12-15T23:04:00Z
+    webUrl: "https://www.businessinsider.com/ap-sources-biden-picks-buttigieg-as-transportation-chief-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/ap-sources-biden-picks-buttigieg-as-transportation-chief-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-sources-biden-picks-buttigieg-as-transportation-chief-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+
+secured: "PG/O1noUXC+ziwNJJo+lRw9HlE3vEZ8eu4mxlsDcmPLq6s15z9tSz1ea/ebgofH95jl0aolXLZnRnepMYwS/vAQ9eF6paZUOlRl4IO06f0PYqZqBG7IuvI8lElquS/UQzaRWY+eJC0sLSsdn2WzvVghQARy0xlblZga3G8VEkzQBfvrfSqDGdb7XJvKKHP7cpYooB3zS/K9ynAamrbTy6WUr/NZLs8p1BC38B/o+X52AMvDPSBOnJ4IYzXsxhFMeykdBshraNE5VyD1bNW0yqCtEIcoy+RJqa6D2WhmU0prjxTD6V6jwhGmf4dI37CJh/gcgjrtyQApKOkuDWEv28UUMhZCWcbtjDUNURDCDjlA=;RWZ7jS5thx7UzV/B5KeZiA=="
 ---
 

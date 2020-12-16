@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/biden-philadelphia-campaign-rally-
 webUrl: "https://www.businessinsider.com/biden-philadelphia-campaign-rally-finance-2020-12"
 type: article
 quality: 77
-heat: 79
+heat: 77
 published: true
 
 provider:

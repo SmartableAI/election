@@ -239,6 +239,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Biden to be sworn into office in largely virtual event as COVID-19 rages"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will be sworn into office on Jan. 20 on the steps of the U.S. Capitol, but the inaugural festivities will be largely virtual due to the COVID-19 pandemic,"
+    publishedDateTime: 2020-12-15T23:02:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-idUSKBN28P2GO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2GO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544658548&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1JM"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden's pledges could spur more migration. But in a pandemic, the border is unprepared"
     excerpt: "After spending eight months of 2019 in a makeshift tent camp in the dangerous Mexican border city of Matamoros, Israel Martinez abandoned his hopes of seeking asylum in the United States."
     publishedDateTime: 2020-12-15T11:26:00Z

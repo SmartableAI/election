@@ -447,6 +447,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Dozens of House Democrats join 'Squad' in demanding Biden end death penalty"
+    excerpt: "More than three dozen members of Congress signed onto a letter Tuesday calling for President-elect Joe Biden to halt the federal government's use of the death penalty and show he's willing \"to dismantle its use altogether.\""
+    publishedDateTime: 2020-12-16T00:53:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nfDYFuKi5QI/house-dems-squad-biden-death-penalty"
+    ampWebUrl: "https://www.foxnews.com/politics/house-dems-squad-biden-death-penalty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-dems-squad-biden-death-penalty.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d557601-35f9-4fef-9ec8-1b9c55219f32/b989605a-9f99-410a-aa7a-c4d0930b55c5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "60% of voters view Biden's 2020 presidential victory as legitimate, poll finds"
     excerpt: "The results skewed heavily based on party affiliation."
     publishedDateTime: 2020-12-11T02:46:33Z

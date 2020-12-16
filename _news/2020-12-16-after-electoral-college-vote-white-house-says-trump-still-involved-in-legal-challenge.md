@@ -2,9 +2,9 @@
 category: news
 title: "After Electoral College vote, White House says Trump still involved in legal challenge"
 excerpt: "President Donald Trump is still involved in legal challenges to the 2020 election, White House spokeswoman Kayleigh McEnany said on Tuesday when asked how the president responded to the Electoral College vote confirming Democrat Joe Biden as the U."
-publishedDateTime: 2020-12-15T18:58:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-trump/after-electoral-college-vote-white-house-says-trump-still-involved-in-legal-challenge-idUSKBN28P2IW?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/us-usa-election-trump/after-electoral-college-vote-white-house-says-trump-still-involved-in-legal-challenge-idUSKBN28P2IW?edition-redirect=ca"
+publishedDateTime: 2020-12-15T23:32:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-trump/after-electoral-college-vote-white-house-says-trump-still-involved-in-legal-challenge-idUSKBN28P2IW"
+webUrl: "https://www.reuters.com/article/us-usa-election-trump/after-electoral-college-vote-white-house-says-trump-still-involved-in-legal-challenge-idUSKBN28P2IW"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2IW"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2IW"
 type: article
@@ -2920,6 +2920,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "xTqbFpsfg1l7MkQThzRMuNL3Yu6IusKQW8C0FzT+lVq2IjNjcn9HFu9gmjXFKTwzGeqGAbkxlruAoJhB5KVBd1zPkWSA0/2JBldglIVuR8L6tOg3lFS3jocUemmt9ab4ZmluwH0QNi7JlLAxUOQ/BUH9Jz1h4FavSWOAHxQae3oOde+899Z3s932EJd+hzmWbbDmKpVMqtujahU9iPPEwTFTLp1JvJuq1KBw9jWY0dr04poL1g1pByWrNjHV3dupz6bW941RTUfcLHrI8yJ11BTegNClFGn5To9Gt071m3Z+ip8kWJWsKW8apcPnIXLVpN4XPuj5waCm6zMXqmprOaYZrXjODF9A1IoV093FXpE=;jW2DEUvEVpPn6EWOPASsFQ=="
+secured: "TOTYY0X0QahOCti+Estig9HgbxookBIRYPhWqTv0dxGYURhgeV0UFsdWxym+WoSFcv5rnf3farTmUTn/u8uUlDAEczuzHXogopgHHY2vTzxiITMEoKri0aRWStPuJR/fXDew0FLNTQAe5v/kbHzCw1ee1WBvmmLwYvhqAsb0dmOAv3atb3ed1MjRvuodurczAjY9l8uF6mkdBDXf6SEzIwy7CiSU9+qTP7cbgA12hjXSjUkcrlUjR6jq//fx9KgTwpGhM3wUY8n9v1nDrbzXyjY5cteR8GzUkE1v9YlSwSAtcnK+bag24xBg+lBqUwQNe0X83+WWEt0+w5BDJS/XmNYe05jf5lAsIojsZ/gmhyE=;fjflQEaDiYHMnGms6AXM8Q=="
 ---
 

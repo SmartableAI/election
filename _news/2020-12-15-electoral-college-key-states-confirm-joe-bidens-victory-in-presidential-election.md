@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/14/electoral-college-jo
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election"
 type: article
 quality: 134
-heat: 754
+heat: 774
 published: true
 
 provider:
@@ -222,6 +222,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/18bb0d1/2147483647/strip/true/crop/1000x653+0+344/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa2%2F3d%2Ff8c811a0dd67c7fa20d65716c010%2Fdf7b33a49ae0421fb1d1525f6a62ff47"
         width: 320
         height: 209
+        isCached: true
+  - title: "Biden to be sworn into office in largely virtual event as COVID-19 rages"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will be sworn into office on Jan. 20 on the steps of the U.S. Capitol, but the inaugural festivities will be largely virtual due to the COVID-19 pandemic,"
+    publishedDateTime: 2020-12-15T23:02:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-idUSKBN28P2GO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2GO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544658548&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1JM"
+        width: 817
+        height: 545
         isCached: true
   - title: "'Democracy prevailed,' Biden says after U.S. Electoral College confirms his win"
     excerpt: "President-elect Joe Biden delivered a forceful rebuke on Monday to President Donald Trump's attacks on the legitimacy of his victory, hours after winning the state-by-state Electoral College vote that officially determines the U."
