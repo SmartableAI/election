@@ -576,6 +576,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Congress braces for painful veto clash with Trump on defense bill"
+    excerpt: "Congressional leaders are scrambling to avoid an unusual scenario in which lawmakers are summoned back to Washington in the days between Christmas and New Year’s for a dramatic, eleventh-hour vote to overturn Trump's promised veto of a massive national defense bill."
+    publishedDateTime: 2020-12-17T21:20:00Z
+    webUrl: "https://www.politico.com/news/2020/12/17/congress-trump-defense-bill-veto-447900"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/congress-trump-defense-bill-veto-447900"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/congress-trump-defense-bill-veto-447900"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/de/3e/2ecd7d6241fe83c9e3f29ee1aade/gettyimages-1223644845.jpg"
+        width: 4000
+        height: 2665
+        isCached: true
   - title: "Trump vows to veto defense bill that Congress sent him"
     excerpt: "President Donald Trump said Thursday that he plans to follow through on his threat to veto the annual defense policy bill that passed with veto-proof majorities in the House and the Senate last week."
     publishedDateTime: 2020-12-17T16:39:00Z
@@ -727,6 +743,6 @@ related:
         height: 773
         isCached: true
 
-secured: "5BxXr9CeRFYODYW2q6BWhITrptg135b4XEdPzJy1ccfy/8F7KeO+EvjkQ8SO3Hqq1Czzm03jEhCW81MBWNjUKSqd/+CtDM0qypgPxQp5yveYWm+L2cpMwQEu7O1Eow4PKbh54YNt+gzRRwlpePFG35kPqY3/Wi7M3DumnbU9BGHCaQvrj/Ifj6zfbcaPA4l8CMLU/BaSMQK/6AnyD1VMsRf5bJNczWoZx6/dQ0U+RZmm4dQ098ofe8oFjYbos2r3bMb/2kb+BAhmuYZ4BKhsOyk2GnwZQHXsVPay77oAMSnuE+kbSmd+bTe6ETWkeOcvhDGUYzMsRGCFlUKIiuG6N4bj9RrDP2gV0LId6lZgAg0=;gzVMpGP8IEyYhU60MrCcYw=="
+secured: "L3aijGxNpxB0w30EslgAl/sS1Oa2eyxSuElSsgvnF5SCuZPIK8P4L/JUIb8No02fGRNVYXaQ6tbaIGNQsmoH141tL+zkZxT8Q9hT+seZBDZcTEQXiMoLf83xeY+1s9oN83KixXoowjhqIntJnwW5uJlpFLMOhVFtWjV+JH3gQNfkZj9rIsH7uOtNtzlk1GKzhPtEP5OgSGfwySmB6q2bEz8uR/+kO3W2o7NZ2SmJcT+lPit08Ao5E/GbB9C4IYiDSfVxOHlDaMSgK9Pusmq0haWC3tw4JibMAJAnu3H60etOXbqE4X9MhdP60it0yZGnxUO/c7G1iSJB9qZRn5mlsR4uO4cqNWVMm5mtejfOeZRM5Tk9pFHqDJ52mWUXXDlesRP1/XBEg7hCSsC58auou7yjZxc755lJvD2ZpeZGs0cRHhQObwy9GvlpqTe3cSfwnJzm+KucLtx2bNoH1g69Niy7f63q5YacUbLyygruGnE84sgfIWgYTNmDyI/uU+YbBSBpOUfW6XfnNmjSl4FqlQ==;TVnUrWNxfCj1rl6q4w+UOA=="
 ---
 

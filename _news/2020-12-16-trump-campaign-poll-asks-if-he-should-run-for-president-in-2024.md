@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "For Pence in Georgia, it’s location, location, location"
+    excerpt: "For Vice President Mike Pence, the locations of his campaign stops in the Georgia Senate runoff elections may be more telling that his stump speeches at the rallies."
+    publishedDateTime: 2020-12-17T22:14:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iRXfEynJlic/pence-georgia-location-location-location"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-georgia-location-location-location.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-georgia-location-location-location.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Georgia Sec. of State says Trump lost because GOP 'got outworked'"
     excerpt: "President-elect Biden won Georgia by a margin of roughly 12,000 votes."
     publishedDateTime: 2020-12-16T22:45:15Z

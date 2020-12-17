@@ -34,9 +34,9 @@ related:
   - title: "Trump spoke with Saudi Arabia's King Salman about regional security -White House statement"
     excerpt: "President Donald Trump spoke with King Salman bin Abdulaziz Al Saud of Saudi Arabia on Thursday, discussing regional security issues, according to a statement from the White House."
     publishedDateTime: 2020-12-17T20:38:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-saudi-trump/trump-spoke-with-saudi-arabias-king-salman-about-regional-security-white-house-statement-idUSKBN28R335?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28R33C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R33C"
+    webUrl: "https://www.reuters.com/article/us-usa-saudi-trump/trump-spoke-with-saudi-arabias-king-salman-about-regional-security-white-house-statement-idUSKBN28R335"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28R335"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R335"
     type: article
     provider:
       name: Reuters

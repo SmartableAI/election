@@ -184,6 +184,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pence and Biden will get COVID-19 vaccine shots to build public support"
+    excerpt: "Vice President Mike Pence and President-elect Joe Biden will receive the vaccine for the novel coronavirus publicly as part of an effort by officials to build public confidence in"
+    publishedDateTime: 2020-12-17T18:12:00Z
+    webUrl: "https://thehill.com/changing-america/well-being/prevention-cures/530686-pence-and-biden-will-get-covid-19-vaccine-shots"
+    ampWebUrl: "https://thehill.com/changing-america/well-being/prevention-cures/530686-pence-and-biden-will-get-covid-19-vaccine-shots?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/prevention-cures/530686-pence-and-biden-will-get-covid-19-vaccine-shots?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 150
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_pencebidenvaccine_121720getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Pence, Biden to get COVID-19 vaccine in bid to build public support"
     excerpt: "Vice President Mike Pence will receive the coronavirus vaccine in public on Friday as the outgoing U.S. administration and President-elect Joe Biden's team try to build support for a mass inoculation to stanch the deadly pandemic."
     publishedDateTime: 2020-12-17T16:27:00Z
@@ -1253,6 +1269,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden says he will 'not stand idly by' on the massive US cyberattack that Trump hasn't bothered to address yet"
+    excerpt: "Biden's strong statement stood in sharp contrast to Trump's silence on the SolarWinds hack that compromised hundreds of US entities."
+    publishedDateTime: 2020-12-17T22:33:00Z
+    webUrl: "https://www.businessinsider.com/biden-statement-solarwinds-cyberattack-trump-russia-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-statement-solarwinds-cyberattack-trump-russia-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-statement-solarwinds-cyberattack-trump-russia-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5fd286912dc42e0018f0e471?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Here’s what Kamala Harris is likely to take on as Biden’s vice president"
     excerpt: "The vice presidency may be the most loosely defined job in American politics. But all indications point to Kamala Harris being a consequential second in the White House."
     publishedDateTime: 2020-11-10T05:31:00Z
@@ -1997,7 +2029,7 @@ related:
   - title: "Mike Pence to receive COVID-19 vaccine Friday; Joe Biden will get vaccinated as soon as next week"
     excerpt: "Vice President Mike Pence will get the COVID-19 vaccine publicly Friday, while President-elect Joe Biden will get vaccinated as soon as next week."
     publishedDateTime: 2020-12-17T00:40:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
+    webUrl: "https://www.freep.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/?itm_source=parsely-api"
     ampWebUrl: "https://amp.freep.com/amp/3933565001"
     cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3933565001"
     type: article

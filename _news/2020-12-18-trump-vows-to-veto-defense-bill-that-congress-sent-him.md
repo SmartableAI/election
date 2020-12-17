@@ -592,6 +592,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Congress braces for painful veto clash with Trump on defense bill"
+    excerpt: "Congressional leaders are scrambling to avoid an unusual scenario in which lawmakers are summoned back to Washington in the days between Christmas and New Year’s for a dramatic, eleventh-hour vote to overturn Trump's promised veto of a massive national defense bill."
+    publishedDateTime: 2020-12-17T21:20:00Z
+    webUrl: "https://www.politico.com/news/2020/12/17/congress-trump-defense-bill-veto-447900"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/congress-trump-defense-bill-veto-447900"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/congress-trump-defense-bill-veto-447900"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/de/3e/2ecd7d6241fe83c9e3f29ee1aade/gettyimages-1223644845.jpg"
+        width: 4000
+        height: 2665
+        isCached: true
   - title: "Watch live: Biden delivers remarks on electoral college vote certification"
     excerpt: "Watch live coverage as President-elect Joe Biden speaks from Wilmington, De., after the electoral college voted to make his victory in the 2020 election official."
     publishedDateTime: 2020-12-14T23:51:00Z
@@ -727,6 +743,6 @@ related:
         height: 773
         isCached: true
 
-secured: "UBoAcIxVxqIZLk6h3DX610AyyAve3rFKjvwcB90Fd29oeRFQbO6AHYsG4pdA8g5shOVijW8HGVWmnpY7HidTOcSfc3u++Z4WfW7yn0r4uSCnDyofPvgkvwfHdBvMJ1bG3b1yyi5vDdim9DnDwUTcSSRoXHH3g8e2Xlr04VJsuZl5xirQMYaDQs6t56FJFuC5Tw8LvFmhOHCHTRR+f1Nkbut4hbQKoEjHib32D3sE7cCqkL8xwCStBLKXGkGkQ3q5nXF/tZ6//vlZMl/RZC1bhRIo40UCxo2NlKAru1anPVP9GAB5z3M66v80ArLUDfPVQDLwjfO4TiQ6tIbxeehoje6KSJ6A/iAkf4kzWFZDuXE=;hNhs/Jy45Tl69uQ7w9jEaA=="
+secured: "fAsZwfWrMKSGnJcSWr3QKRDi8BUR8nO6Ei431ZLAhRXEutldHFoxb/OnTvfPbh569WLx87cgEMWt6wOvyxxj2Z1OeXjGxprViV0leQRPvYCSCKiX3ZaPSP3rO+RDMQZQJZ1PS/jPPrIbGhdM+/1vlFhk2XeSd7/cW+Inq/eoe+WzHblXJBKWVaVY1F8mCcv+plrccgOuiYbARq8yIPxq8XbKKQn9xME0mizD9Ocftcgu7Lz41uMCAZhx/o1YFf7SllaEUMDTRSudCzYM8W6Dk0f3N0Ad96gH1u91BWqjuCJgPTZ+0I4H41bmstX9BF6WttNr0spQfsALkIXJic2H7p6KD0dV9b6kApKMhDhBnDZLfpNQ/HVVN/oVuZ7nwMLwFhYBIXA/ICcNDThBjwIZX+PZZFYyyZBOOMzIc9t1dKwUOgu9ncmfe/TISrzLnARaKufa6l1AKyNneu8fxbA2G9HIRH6pF43Su/F9ME3KMH3EM0YSKBYx67VWG5zfM4+YDCaQ61QdDXV7swsqxFQCBw==;FWP6B0ck3xVZWkWcO9JQ7g=="
 ---
 

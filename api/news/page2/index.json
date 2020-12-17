@@ -2,6 +2,228 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-17-kt-mcfarland-there-is-significant-evidence-hunter-biden-has-been-compromised-by-chinese.md",
+      "title": "KT McFarland: There is 'significant evidence' Hunter Biden has been 'compromised by Chinese'",
+      "excerpt": "Former Deputy National Security Adviser K.T. McFarland echoed calls Wednesday from top Republican lawmakers urging President Trump to appoint a special counsel to investigate Hunter Biden’s business dealings in China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government",
+      "originalUrl": "https://www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f108777-fca7-4218-961c-c6c4cda89d2d/6f3bdca7-7016-446a-b879-59f4abb555f7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government.amp",
+      "publishedDateTime": "2020-12-16T18:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-bidens-search-for-an-attorney-general-complicated-by-competing-questions.md",
+      "title": "Biden's search for an attorney general complicated by 'competing questions'",
+      "excerpt": "The deliberations among President-elect Joe Biden's tight circle of advisers about whom he should nominate as attorney general have emerged as some of the more complicated of the transition, sources familiar with the process tell CNN, with possible investigations into President Donald Trump, a federal",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-10qhQXfO-o/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-10qhQXfO-o/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201215062840-03-joe-biden-1214-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/16/politics/biden-attorney-general/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/biden-attorney-general/index.html",
+      "publishedDateTime": "2020-12-16T18:16:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-cardinal-pell-on-trump-benedict-xvi-and-a-plot-against-him.md",
+      "title": "Cardinal Pell on Trump, Benedict XVI and a plot against him",
+      "excerpt": "Pope Francis’ former treasurer, Cardinal George Pell, has praised President Donald Trump’s “splendid” Supreme Court appointments and defense of Christian values",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/WireAP_db87ce70924f4bd1942b890a41d3f72d_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530",
+      "publishedDateTime": "2020-12-16T17:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-pence-to-get-coronavirus-vaccine-friday-biden-next-week.md",
+      "title": "Pence to get coronavirus vaccine Friday, Biden next week",
+      "excerpt": "President Trump said over the weekend that he thought White House staff should receive doses later in the program.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HungcgET-zU/pence-covid-vaccine-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HungcgET-zU/pence-covid-vaccine-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 600,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5327fed2-2d29-49e8-8409-9d29fe5c919d/2ed3c092-0c27-4836-922d-aecc7730ce5c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-covid-vaccine-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-covid-vaccine-biden.amp",
+      "publishedDateTime": "2020-12-16T17:06:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-democratic-donors-want-apology-from-biden-aide-after-bunch-of-f-ers-remark.md",
       "title": "Democratic donors want apology from Biden aide after 'bunch of f--ers' remark",
       "excerpt": "Some of President-elect Joe Biden’s donors want his aide Jennifer O’Malley Dillon to apologize after she called Republicans on Capitol Hill \"a bunch of f---ers,\" and at the same time praised Biden’s call for unity.",
@@ -655,58 +877,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-17-betsy-devos-asked-her-department-of-education-staff-to-become-the-resistance-when-biden-takes-office.md",
-      "title": "Betsy DeVos asked her Department of Education staff to become 'the resistance' when Biden takes office",
-      "excerpt": "Education Secretary Betsy DeVos was recorded telling Department of Education staff to become \"the resistance\" during a virtual meeting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/betsy-devos-told-doe-staff-become-resistance-biden-administration-2020-12",
-      "originalUrl": "https://www.businessinsider.com/betsy-devos-told-doe-staff-become-resistance-biden-administration-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fda26b81803a80018adfc0e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/betsy-devos-told-doe-staff-become-resistance-biden-administration-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/betsy-devos-told-doe-staff-become-resistance-biden-administration-2020-12?amp",
-      "publishedDateTime": "2020-12-16T09:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-12-17-2-former-cdc-officials-say-the-trump-administration-sidelined-science-and-hobbled-the-agencys-covid-19-response.md",
       "title": "2 former CDC officials say the Trump administration 'sidelined' science and hobbled the agency's COVID-19 response",
       "excerpt": "\"Every time that the science clashed with the messaging, messaging won,\" former CDC chief of staff Kyle McGowan told The New York Times.",
@@ -863,6 +1033,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-17-thomas-l-friedman-column-kamala-harris-deserves-a-more-important-job.md",
+      "title": "Thomas L. Friedman column: Kamala Harris deserves a more important job",
+      "excerpt": "I’d love to see President-elect Joe Biden give her a more important job: his de facto secretary of rural development, in charge of closing the opportunity gap, the connectivity gap, the learning gap,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-kamala-harris-more-important-job-20201216-5tu7yrzp7fbsjesq6o2xox2dg4-story.html",
+      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-kamala-harris-more-important-job-20201216-5tu7yrzp7fbsjesq6o2xox2dg4-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/RF3GhjR0fAOTK1soRN5cXOzPR-E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KN5UISKQ4FGJBHJ4X7T3UDZBFI.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-kamala-harris-more-important-job-20201216-5tu7yrzp7fbsjesq6o2xox2dg4-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-kamala-harris-more-important-job-20201216-5tu7yrzp7fbsjesq6o2xox2dg4-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-16T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-kamala-harris-i-dont-understand-the-hesitation-on-covid-19-relief.md",
       "title": "Kamala Harris: 'I don't understand the hesitation' on COVID-19 relief",
       "excerpt": "Vice President-elect Sen. Kamala D. Harris said in an interview that aired Wednesday that she doesn’t understand what’s taking so long to pass another round of COVID-19 relief.",
@@ -871,7 +1093,7 @@
       "originalUrl": "https://www.washingtontimes.com/news/2020/dec/16/kamala-harris-i-dont-understand-hesitation-covid-1/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1031,7 +1253,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1071,
+      "heat": 1091,
       "tags": null,
       "images": [
         {
@@ -1124,224 +1346,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-like-a-hand-grasping-trump-appointees-describe-the-crushing-of-the-cdc.md",
-      "title": "‘Like a Hand Grasping’: Trump Appointees Describe the Crushing of the C.D.C.",
-      "excerpt": "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, go public on the Trump administration’s manipulation of the agency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/09/us/politics/00dc-virus-cdc-2/00dc-virus-cdc-2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/16/us/politics/cdc-trump.amp.html",
-      "publishedDateTime": "2020-12-16T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-irans-rouhani-says-he-is-happy-that-lawless-trump-is-leaving-office.md",
-      "title": "Iran's Rouhani says he is happy that 'lawless' Trump is leaving office",
-      "excerpt": "Iranian President Hassan Rouhani said on Wednesday he was happy that Donald Trump was leaving office, calling him \"the most lawless U.S. president\" and a \"terrorist\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/iran-usa-rouhani-int-idUSKBN28Q0SS",
-      "originalUrl": "https://www.reuters.com/article/iran-usa-rouhani-int-idUSKBN28Q0SS",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544720502&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF0EW",
-          "width": 868,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28Q0T2",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q0T2",
-      "publishedDateTime": "2020-12-16T00:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-some-advisers-urge-trump-not-to-veto-defense-bill-source.md",
-      "title": "Some advisers urge Trump not to veto defense bill: source",
-      "excerpt": "U.S. President Donald Trump is being urged by some advisers not to go ahead with his plan to veto a major defense bill because it is all but certain to be overridden by the U.S. Congress, a source familiar with the situation said on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-defense-congress-trump/some-advisers-urge-trump-not-to-veto-defense-bill-source-idUSKBN28P2Z0",
-      "originalUrl": "https://www.reuters.com/article/us-usa-defense-congress-trump/some-advisers-urge-trump-not-to-veto-defense-bill-source-idUSKBN28P2Z0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544682785&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1QK",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28P2Z0",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2Z0",
-      "publishedDateTime": "2020-12-15T19:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-ron-johnson-gambles-his-political-future-on-trump.md",
-      "title": "Ron Johnson gambles his political future on Trump",
-      "excerpt": "The Wisconsin Republican is holding a hearing on alleged election “irregularities” even after Biden secured an Electoral College victory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/15/ron-johnson-trump-political-future-445871",
-      "originalUrl": "https://www.politico.com/news/2020/12/15/ron-johnson-trump-political-future-445871",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/ad/ee/483e569342368417f62e352e6c56/201215-ron-johnson-trump-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T18:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

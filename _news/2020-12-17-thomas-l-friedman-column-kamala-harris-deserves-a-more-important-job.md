@@ -2,26 +2,30 @@
 category: news
 title: "Thomas L. Friedman column: Kamala Harris deserves a more important job"
 excerpt: "I’d love to see President-elect Joe Biden give her a more important job: his de facto secretary of rural development, in charge of closing the opportunity gap, the connectivity gap, the learning gap,"
-publishedDateTime: 2020-12-16T22:03:00Z
-originalUrl: "https://www.courant.com/featured/sns-nyt-op-kamala-harris-more-important-job-20201216-5tu7yrzp7fbsjesq6o2xox2dg4-story.html"
-webUrl: "https://www.courant.com/featured/sns-nyt-op-kamala-harris-more-important-job-20201216-5tu7yrzp7fbsjesq6o2xox2dg4-story.html"
-ampWebUrl: "https://www.courant.com/featured/sns-nyt-op-kamala-harris-more-important-job-20201216-5tu7yrzp7fbsjesq6o2xox2dg4-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/featured/sns-nyt-op-kamala-harris-more-important-job-20201216-5tu7yrzp7fbsjesq6o2xox2dg4-story.html?outputType=amp"
+publishedDateTime: 2020-12-16T16:05:00Z
+originalUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-kamala-harris-more-important-job-20201216-5tu7yrzp7fbsjesq6o2xox2dg4-story.html"
+webUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-kamala-harris-more-important-job-20201216-5tu7yrzp7fbsjesq6o2xox2dg4-story.html"
+ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-kamala-harris-more-important-job-20201216-5tu7yrzp7fbsjesq6o2xox2dg4-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-kamala-harris-more-important-job-20201216-5tu7yrzp7fbsjesq6o2xox2dg4-story.html?outputType=amp"
 type: article
-quality: 75
-heat: -1
-published: false
+quality: 125
+heat: 185
+published: true
 
 provider:
-  name: Hartford Courant
-  domain: courant.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.courant.com/resizer/RF3GhjR0fAOTK1soRN5cXOzPR-E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KN5UISKQ4FGJBHJ4X7T3UDZBFI.jpg"
+  - url: "https://www.chicagotribune.com/resizer/RF3GhjR0fAOTK1soRN5cXOzPR-E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KN5UISKQ4FGJBHJ4X7T3UDZBFI.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -59,7 +63,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Hamilton County Sheriff's Civil Service Board chairman resigns after allegedly making sexually explicit comments about Kamala Harris"
+    excerpt: "The chairman of the Hamilton County Sheriff's Office Civil Service Board and member of the county's Health and Safety Board resigned after sexually explicit comments he allegedly made about Vice President-elect Kamala Harris circulated on social media Wednesday."
+    publishedDateTime: 2020-12-10T23:20:00Z
+    webUrl: "https://www.timesfreepress.com/news/local/story/2020/dec/10/board-chair-resigns/537635/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 24
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2020/12/10/1607637652_0208_WEB_b1_renovations_r_t800_ha498fc944d4c98d69f129562ba34ad44d5491794_gs_t1070_hb988c5c0c819b9876da53647cff404d44626ec1c.jpg"
+        width: 1070
+        height: 714
+        isCached: true
 
-secured: "SUKHvVzXOzsaUxWhH8mu+HpHfXZfcywO0M5ZHtgsz8+ysAN9Ot6RNLkXauwVfHMmDiD7P/ifwD4Wgd82f4UxqDfqotDvNaKCJrZtEQb4ETdHA6fWHYQBbiZY8BipqvMlgLhMPpGIpfPdxaoTsKEFeug1cEWTVORCaFJp9y9ST0UF91avFPxM9NxUqlZwlfxCWKOw1y9yBzeltV1wWm/G10S3JWQr5HPZ/fWxhQ+NQLeb1uu1MCqtuHS25i918xiCQZfPVE+72kLrHIayHtH20f486V4TnMqMqc5GKuaLxN0DkrJgSYlkcy2v1foddLdsYs4l/tOyburfPSiNbplx72oiPlP0yKWspiZ/I984eH1KG6KoR15GPKxvD2aeTzUHzoMLKLSYQpyxLQMiWxN6IOEwuegDJ0BcYr+SHDCfEK9UC/QeochkM8Caq8WweKOufWN4geGPfRQDdqZvXs92AX0FKNmryv6VwXnJ8TcHS3bYQVa8sfnocyxLFtTG1cRxtXb85okmybGmjpnTlbLmGw==;zXlrChXUb5wzn5Ur91kL6w=="
+secured: "KriztgnqaZDc4IpZSN6IlQtDP+okukCCCZZ29HlOAo/au1hp3PnbW8r4K6BCl+SD0Pt4Rt7zRWKvjNAO18IqG4JvyQczCyeRTO5Dd8ntglf707OuXUdMDUCkIVTP9uyzkR5F8CarB6udsCjrCitaPtx/osRcpN3TrHEPjqBCoCh+LuncmOQdhW+54e6GDnY7CYAYNxh6FJCIbkLqXXvhBoldrcsyHPiC5/mBFfXg9UlJMx9uVajVcVjmRZ0L6rEvuDU39OtH5mEVVT0Tzw7Y1B8b5WuuZePtDCzGoIMdZHbcnhkx3Ud2P/oNjPDYmv6LMwtoBr4batUiWxp1t/ohp3JEuLyOKUyh1AbKycQUGnY=;vtUWM/5U3d0AFD63h1tmWw=="
 ---
 

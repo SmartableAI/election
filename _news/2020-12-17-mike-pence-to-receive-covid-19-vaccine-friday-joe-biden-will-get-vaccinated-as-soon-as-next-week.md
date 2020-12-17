@@ -3,8 +3,8 @@ category: news
 title: "Mike Pence to receive COVID-19 vaccine Friday; Joe Biden will get vaccinated as soon as next week"
 excerpt: "Vice President Mike Pence will get the COVID-19 vaccine publicly Friday, while President-elect Joe Biden will get vaccinated as soon as next week."
 publishedDateTime: 2020-12-17T00:40:00Z
-originalUrl: "https://www.freep.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
-webUrl: "https://www.freep.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
+originalUrl: "https://www.freep.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/?itm_source=parsely-api"
+webUrl: "https://www.freep.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/?itm_source=parsely-api"
 ampWebUrl: "https://amp.freep.com/amp/3933565001"
 cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3933565001"
 type: article
@@ -181,6 +181,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/07/7736671b-071a-4222-96ad-bafe263891af/thumbnail/1200x630/26da47d6456273ab6082cad35d70385c/2020-11-07t163609z-1597063157-rc2gyj96wvm1-rtrmadp-3-usa-election-biden.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Pence and Biden will get COVID-19 vaccine shots to build public support"
+    excerpt: "Vice President Mike Pence and President-elect Joe Biden will receive the vaccine for the novel coronavirus publicly as part of an effort by officials to build public confidence in"
+    publishedDateTime: 2020-12-17T18:12:00Z
+    webUrl: "https://thehill.com/changing-america/well-being/prevention-cures/530686-pence-and-biden-will-get-covid-19-vaccine-shots"
+    ampWebUrl: "https://thehill.com/changing-america/well-being/prevention-cures/530686-pence-and-biden-will-get-covid-19-vaccine-shots?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/prevention-cures/530686-pence-and-biden-will-get-covid-19-vaccine-shots?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 150
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_pencebidenvaccine_121720getty.jpg"
+        width: 1440
+        height: 880
         isCached: true
   - title: "Pence, Biden to get COVID-19 vaccine in bid to build public support"
     excerpt: "Vice President Mike Pence will receive the coronavirus vaccine in public on Friday as the outgoing U.S. administration and President-elect Joe Biden's team try to build support for a mass inoculation to stanch the deadly pandemic."
@@ -1251,6 +1267,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden says he will 'not stand idly by' on the massive US cyberattack that Trump hasn't bothered to address yet"
+    excerpt: "Biden's strong statement stood in sharp contrast to Trump's silence on the SolarWinds hack that compromised hundreds of US entities."
+    publishedDateTime: 2020-12-17T22:33:00Z
+    webUrl: "https://www.businessinsider.com/biden-statement-solarwinds-cyberattack-trump-russia-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-statement-solarwinds-cyberattack-trump-russia-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-statement-solarwinds-cyberattack-trump-russia-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5fd286912dc42e0018f0e471?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Here’s what Kamala Harris is likely to take on as Biden’s vice president"
     excerpt: "The vice presidency may be the most loosely defined job in American politics. But all indications point to Kamala Harris being a consequential second in the White House."
     publishedDateTime: 2020-11-10T05:31:00Z
@@ -2237,6 +2269,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "mZruPKuXmp7uyD0uI80ygkkvFu9hvYXrwHyL1z6k7TN8NTc00sPESl+SZkiyKbie3bIM7f32yVBEfI232WanQM477Enf2eUa04BKB2siC55WaKFbO28AjH7N/5id5MGnWkMoB12vO8Wt7ceW3f3wtCjH3O2kPHwIyuU9zV+55GzbgKQxHIche2PMgOVRbcfztItUKW5t8LCHxnnu6crKTIxae0JWSgH9FxMqoNuYbpcVwvjhtDgXxuZqOP6DgQAoJeFBTOS04LbyQART/4ncgm3Xm8grMfJcsb9oY+wAXCldxIgXYm7cRLeJFYYBybdyTw80Qugy/xYS4oJ6u2jpLsh42sPgD4c+hoVsxVprp3KV63pcErqp9Rx3MLPpwRTRgWtW0Qh05FW9pVr3zMa1X0hBHsZoG6jH+U6ggnPSzmGw8BsiZdAxuB1pfuSeXDayPD0z54abuceB/uF09c4fBoecNDmFfE5AF5bdUpXOvzr0p1rn2T5I0tRuTyxRw1FztETXU7ONIF6Q988HpsQCzw==;Nv1GyFCEqqNqlLOhAzFgCA=="
+secured: "EMmktuBkvG3uIw43Ow6LbAlPYOM/4wQSR9q8XIZrpQzjtCCyuMl4lGFmwT65R9/xdB9Ld6cpIXR2t5n0NzfBaFvH6HaB2W9roX2pOvG1mW3iYF6n7BxjHyLB5nJbeNcxwn8W+kg+IP6ZZTwPsfq5QBvTq1QxamjUc/OkGhOOJahbCZmOY773MGWPAFmd8/4gGQtEZ085XB1bWYXe2lKgv7Lhrme9A4CafSE/nAeFLDBCdjbOZHn3jrNZ6L9TU3nbb9zEctcu51SYOkMiMS+tbdPE7zD0Z/9DgM1x4u5ViccomsnVUBPZoaMGnnZ66dsLtmzlHAetQMrCWS800nqAchsZiFicWIqevNfcXE/BhSQ=;vWvW/az1OQnPR0TvVXASJg=="
 ---
 

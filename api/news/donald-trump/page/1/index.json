@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-18-the-us-declares-switzerland-and-vietnam-as-currency-manipulators-in-the-final-days-of-trumps-administration.md",
+      "title": "The US declares Switzerland and Vietnam as currency manipulators in the final days of Trump's administration",
+      "excerpt": "Joe Biden's incoming administration, according to a chief emerging markets strategist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/us-calls-switzerland-vietnam-manipulators-in-trump-trade-shot-2020-12",
+      "originalUrl": "https://www.businessinsider.com/us-calls-switzerland-vietnam-manipulators-in-trump-trade-shot-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fdb492dc910a400192e8017?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/us-calls-switzerland-vietnam-manipulators-in-trump-trade-shot-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-calls-switzerland-vietnam-manipulators-in-trump-trade-shot-2020-12?amp",
+      "publishedDateTime": "2020-12-17T13:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-seth-meyers-trumps-going-to-be-our-first-nomad-ex-president.md",
       "title": "Seth Meyers: Trump's 'going to be our first nomad ex-president'",
       "excerpt": "Late-night hosts discuss a request by residents of Palm Beach, Florida, to keep Trump from residing in Mar-a-Lago and belated GOP admissions of Biden’s victory",
@@ -1506,58 +1558,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-twitter-says-it-inadvertently-limited-engagements-on-trumps-flagged-tweets.md",
-      "title": "Twitter says it 'inadvertently' limited engagements on Trump's flagged tweets",
-      "excerpt": "Twitter Inc said on Saturday it had \"inadvertently\" limited engagements for a brief period on U.S. President Donald Trump's tweets with \"disputed\" labels but later reversed its action.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-usa-election-trump-twitter-idUKKBN28M0VX",
-      "originalUrl": "https://www.reuters.com/article/uk-usa-election-trump-twitter-idUKKBN28M0VX",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544359954&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB0GC",
-          "width": 943,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN28M0VX",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28M0VX",
-      "publishedDateTime": "2020-12-12T16:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

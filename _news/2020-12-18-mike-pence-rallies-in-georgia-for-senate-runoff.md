@@ -1,32 +1,24 @@
 ---
 category: news
 title: "Mike Pence rallies in Georgia for Senate runoff"
-excerpt: "Vice President Mike Pence is seemingly holding rallies everywhere in Georgia lately — except Atlanta and its inner suburbs. Pence returned Thursday for events in Columbus and Macon to support Republican Sens."
-publishedDateTime: 2020-12-17T19:39:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2020/12/17/mike-pence-rallies-georgia-senate-runoff/3945003001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/17/mike-pence-rallies-georgia-senate-runoff/3945003001/"
+excerpt: "Vice President Mike Pence is seemingly holding rallies everywhere in Georgia lately — except Atlanta and its inner suburbs."
+publishedDateTime: 2020-12-17T21:22:00Z
+originalUrl: "https://www.stltoday.com/news/national/mike-pence-rallies-in-georgia-for-senate-runoff/video_e868a47e-236a-50d8-947b-d9364bfa37de.html"
+webUrl: "https://www.stltoday.com/news/national/mike-pence-rallies-in-georgia-for-senate-runoff/video_e868a47e-236a-50d8-947b-d9364bfa37de.html"
+ampWebUrl: "https://www.stltoday.com/news/national/mike-pence-rallies-in-georgia-for-senate-runoff/video_e868a47e-236a-50d8-947b-d9364bfa37de.amp.html"
+cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/mike-pence-rallies-in-georgia-for-senate-runoff/video_e868a47e-236a-50d8-947b-d9364bfa37de.amp.html"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Election
   - Mike Pence
-
-images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2e1d175c-c4ea-45c6-ab01-1e5a997abea4_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "Election 2020 Today: Pence to Georgia, Biden’s climate team"
@@ -477,22 +469,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Stay away: Thumbs down on inauguration crowds for Biden"
-    excerpt: "Stay away. That’s the message from the congressional committee organizing inauguration ceremonies for President-elect Joe Biden and Vice President-elect Kamala Harris. A day after Biden’s own organizing committee announced that the swearing-in would take place on Jan."
-    publishedDateTime: 2020-12-17T04:21:00Z
-    webUrl: "https://www.washingtonpost.com/politics/stay-away-thumbs-down-on-inauguration-crowds-for-biden/2020/12/16/6b651ca0-3ff5-11eb-b58b-1623f6267960_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/stay-away-thumbs-down-on-inauguration-crowds-for-biden/2020/12/16/6b651ca0-3ff5-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/stay-away-thumbs-down-on-inauguration-crowds-for-biden/2020/12/16/6b651ca0-3ff5-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Biden taps Susan Rice as top domestic policy adviser amid flurry of moves"
     excerpt: "U.S. President-elect Joe Biden chose Susan Rice, who was national security adviser to former President Barack Obama, on Thursday to lead the White House's domestic policy council as part of a flurry of appointments to his developing administration."
     publishedDateTime: 2020-12-10T18:32:00Z
@@ -871,6 +847,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Stay away: Thumbs down on inauguration crowds for Biden"
+    excerpt: "Stay away."
+    publishedDateTime: 2020-12-17T12:49:00Z
+    webUrl: "https://www.businessinsider.com/stay-away-thumbs-down-on-inauguration-crowds-for-biden-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/stay-away-thumbs-down-on-inauguration-crowds-for-biden-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stay-away-thumbs-down-on-inauguration-crowds-for-biden-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Electoral College to formally vote for Joe Biden to become next president"
     excerpt: "As Electoral College members meet in each state to cast their ballots, formally affirming Joe Biden as the next president of the United States, President Trump is vowing to continue fighting the election results."
     publishedDateTime: 2020-12-14T14:54:00Z
@@ -1014,6 +1001,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "nTcuBXm7yznDS93n9mJ+hwI0zGYiGV3kx3Awpf/br5npqePTeyukgbKN4aF5RP43hkAwMIakIeMSNCAJPR7v9TfUTixoPDwfFvHaT+7w0VJbR/a05wXc8jBM0adoheTpSnLYIkqMop7mG27AO6EXM24+AAkNn+wMGcUd/p5oQpCTVOz6qZ5MyP+SN0iYFoPk2RGc3nIp0gjN8CWJeKBir/oA6uDUcigIvMqxF+DPOPe4DmFJvw02IcZ/X/2bNz6b2Jbv10BaXjiQjSLBbsyVkbVVwacLST2in8TauBBPnpL+VnWyISvIesp8ILUVsbmmR9ILWw6iBSdswOZGLZn1kQTdXzEUh7C7aBaB+VgrIrg=;pcDODB2G+3XJgsFPgtHSnw=="
+secured: "kD+lb/zhSSDnUROOnTxkQ2+Pyagq2t4rNK8hwZ5mS+hTan022CCOYcjLoA01xFj3Xb+Ylm1+VQ8qiIqpcTJXqtIudKJb43JdqIRaWxrVjPM+ZYR4QQgjgkku+R2O36ALLGl63Y3ZEbl5xaBJR5ESRCC45xaHm+rD8fuGchU64u2s3IZtoFzAvtYYMPmTvTGwQvSAPumnuKwGO5UbtzluINbucNQCsw1SDvGaDdnf6P1ZyKOYt/BA80CATlJwuce7f0t1chdN+yjLeymnRS0nqdFDcHvLNZQIH2LOjJiy60NtwgZ3PbsUU+SwRXiLapEZ7snD80zMvwXpXS5hnK6RaUso+hAqVCeXsVmbOHtepaQgW7W6WhEdGKU5ZGpLUjey4qGo33K62+sX/dEcM4mjspuLD1DA3PoZP3mX783UfrEupFPAhBpY+dSWKlE4WcmJ6CLgh3FddQ1k37MUi8sqGD06B0alQKS13Hrr5g5vSdzFx+vVsxk4xvUY3lg2OElyNUTQ+/TLa3TYPAzVLud4dQ==;1FRBZbr98byQKnOLuocVKw=="
 ---
 

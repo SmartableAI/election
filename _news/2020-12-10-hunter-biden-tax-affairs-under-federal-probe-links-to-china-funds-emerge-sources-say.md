@@ -252,6 +252,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden adviser's brother lobbying for drugmaker under federal probe"
+    excerpt: "Jeff Ricchetti, the brother of an incoming adviser to President-elect Joe Biden, is now lobbying for a drugmaker that is under federal investigation for inflating its role in Operation Warp Speed."
+    publishedDateTime: 2020-12-17T21:19:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20351620248369.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "Z/kxqctKDOtMXKI/DuO0pezRasiuBpNlhXN53SCRNHOdM6HO3PIXiwmJ8Kk4wtIi6+iaJDpTD99fUsu2N+yMR/Dcw4ycOtY1KcdbWewiN6mrtNh8so4UfjgPV5vMJUy5zPXtT4hRCFKwJ39TXg/FLQMFqImY+DkXTg4rCiQ7vR3zO8ZzCvpHu9RLSwOVURK0v32VkxdYc8kALoyJlmiek8OrVl0gUN9jrbS8PIO1sO6ZDiJMkyLY0mOUwoz/SGZkgjCiZ0aPOmX4xCRHnVMUv5S7bdMsNfdmg5JNj08fftPekqlD4mMLcL9urW8PQBde+aBdMiCIAyKoIhJgx5TRxdj7v/enrFLlO0/6qABg6fM=;ClISGy47EdoQvFJSjrLJ8w=="
 ---

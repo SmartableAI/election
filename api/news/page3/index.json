@@ -2,6 +2,224 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-16-like-a-hand-grasping-trump-appointees-describe-the-crushing-of-the-cdc.md",
+      "title": "‘Like a Hand Grasping’: Trump Appointees Describe the Crushing of the C.D.C.",
+      "excerpt": "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, go public on the Trump administration’s manipulation of the agency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/09/us/politics/00dc-virus-cdc-2/00dc-virus-cdc-2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/16/us/politics/cdc-trump.amp.html",
+      "publishedDateTime": "2020-12-16T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-irans-rouhani-says-he-is-happy-that-lawless-trump-is-leaving-office.md",
+      "title": "Iran's Rouhani says he is happy that 'lawless' Trump is leaving office",
+      "excerpt": "Iranian President Hassan Rouhani said on Wednesday he was happy that Donald Trump was leaving office, calling him \"the most lawless U.S. president\" and a \"terrorist\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/iran-usa-rouhani-int-idUSKBN28Q0SS",
+      "originalUrl": "https://www.reuters.com/article/iran-usa-rouhani-int-idUSKBN28Q0SS",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544720502&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF0EW",
+          "width": 868,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28Q0T2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q0T2",
+      "publishedDateTime": "2020-12-16T00:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-some-advisers-urge-trump-not-to-veto-defense-bill-source.md",
+      "title": "Some advisers urge Trump not to veto defense bill: source",
+      "excerpt": "U.S. President Donald Trump is being urged by some advisers not to go ahead with his plan to veto a major defense bill because it is all but certain to be overridden by the U.S. Congress, a source familiar with the situation said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-defense-congress-trump/some-advisers-urge-trump-not-to-veto-defense-bill-source-idUSKBN28P2Z0",
+      "originalUrl": "https://www.reuters.com/article/us-usa-defense-congress-trump/some-advisers-urge-trump-not-to-veto-defense-bill-source-idUSKBN28P2Z0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544682785&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1QK",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28P2Z0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2Z0",
+      "publishedDateTime": "2020-12-15T19:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-ron-johnson-gambles-his-political-future-on-trump.md",
+      "title": "Ron Johnson gambles his political future on Trump",
+      "excerpt": "The Wisconsin Republican is holding a hearing on alleged election “irregularities” even after Biden secured an Electoral College victory.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/15/ron-johnson-trump-political-future-445871",
+      "originalUrl": "https://www.politico.com/news/2020/12/15/ron-johnson-trump-political-future-445871",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/ad/ee/483e569342368417f62e352e6c56/201215-ron-johnson-trump-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T18:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-fact-check-laptop-repairman-at-center-of-hunter-biden-saga-is-alive.md",
       "title": "Fact check: Laptop repairman at center of Hunter Biden saga is alive",
       "excerpt": "Some users on Facebook have falsely claimed John Paul Mac Isaac — the laptop repairman at the center of the Hunter Biden laptop saga — was found dead.",
@@ -426,58 +644,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-16-fact-check-fake-anti-christmas-quote-attributed-to-kamala-harris-began-as-satire.md",
-      "title": "Fact check: Fake anti-Christmas quote attributed to Kamala Harris began as satire",
-      "excerpt": "Users took to Facebook to post a quote about Christmas that they claim came from Vice President-elect Kamala Harris. The fake quote began as satire.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-anti-christmas-quote-attributed-kamala-harris-satire/6540043002/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-anti-christmas-quote-attributed-kamala-harris-satire/6540043002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/12/05/USAT/751f29ad-47cd-4791-9506-d4b6b846b53e-KamalaHarris.jpg?auto=webp&crop=3703,2083,x0,y188&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6540043002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6540043002",
-      "publishedDateTime": "2020-12-15T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-12-15-pence-likely-to-get-the-coronavirus-vaccine-by-friday.md",
       "title": "Pence likely to get the coronavirus vaccine by Friday",
       "excerpt": "Vice President Mike Pence is likely to receive the coronavirus vaccine by Friday, two sources familiar with the plans tell CNN.\n    \n",
@@ -812,7 +978,7 @@
       "originalUrl": "https://abcnews.go.com/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3120,
+      "heat": 3160,
       "tags": null,
       "images": [
         {
@@ -921,7 +1087,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1690,
+      "heat": 1710,
       "tags": null,
       "images": [
         {
@@ -1174,175 +1340,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-simply-unacceptable-congressman-exiting-gop-calls-out-trumps-racist-attacks.md",
-      "title": "'Simply unacceptable:' Congressman exiting GOP calls out Trump's racist attacks",
-      "excerpt": "Rep. Paul Mitchell tells CNN's Jake Tapper that he no longer wants to be affiliated with the Republican Party and calls out President Trump's racist attacks.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yqAbUrpzivk/mitchell-son-russia-republican-party-exit-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yqAbUrpzivk/mitchell-son-russia-republican-party-exit-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201214165531-tapper-mitchell-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/12/14/mitchell-son-russia-republican-party-exit-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/14/mitchell-son-russia-republican-party-exit-vpx.cnn",
-      "publishedDateTime": "2020-12-14T14:11:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-democracy-prevailed-biden-tries-to-close-the-door-on-a-tumultuous-election.md",
-      "title": "'Democracy prevailed': Biden tries to close the door on a tumultuous election",
-      "excerpt": "As the Electoral College moves to seal his victory, the president-elect is shifting his attention to the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216",
-      "originalUrl": "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216",
-      "publishedDateTime": "2020-12-14T13:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-as-border-numbers-increase-cbp-chief-says-us-faces-full-blown-crisis-if-trump-era-policies-end.md",
-      "title": "As border numbers increase, CBP chief says US faces 'full-blown crisis' if Trump-era policies end",
-      "excerpt": "The Trump administration announced Monday that 70,000 migrants were apprehended at the southwest border in November, a 64 percent increase compared to 2019 -- and a sign of a possible surge that Trump officials say could become a full-blown crisis if recent policies are ended.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JJAdMNRAPWQ/border-numbers-cbp-chief-crisis-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JJAdMNRAPWQ/border-numbers-cbp-chief-crisis-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2aca7c0-ec10-461f-a118-e2c9cd94e41b/4d3c9edf-8aea-4139-9828-9fed2994037d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/border-numbers-cbp-chief-crisis-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-numbers-cbp-chief-crisis-policies.amp",
-      "publishedDateTime": "2020-12-14T12:20:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

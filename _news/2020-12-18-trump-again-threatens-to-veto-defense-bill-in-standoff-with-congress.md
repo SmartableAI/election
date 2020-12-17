@@ -527,6 +527,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Mr. Trump could quell the violence"
+    excerpt: "The responsibility for the disgraceful vandalism and stabbings that took place in D.C. last weekend lies solely at the feet of President Trump, who continues to dangerously push the fantasy that he won the Nov."
+    publishedDateTime: 2020-12-17T22:00:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-trump-could-quell-the-violence/2020/12/17/a3e0f026-3efc-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-trump-could-quell-the-violence/2020/12/17/a3e0f026-3efc-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/mr-trump-could-quell-the-violence/2020/12/17/a3e0f026-3efc-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2I6A53BZSMI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "U.S. finalizes shower head rule after Trump complaints about hair rinsing"
     excerpt: "The U.S. Energy Department on Tuesday finalized two rules easing energy standards on consumer fixtures and appliances, including one on shower heads after President Donald Trump complained some showers don't adequately rinse his hair."
     publishedDateTime: 2020-12-16T02:52:00Z

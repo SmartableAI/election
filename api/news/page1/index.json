@@ -2,6 +2,218 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-18-bidens-incoming-deputy-chief-of-staff-apologizes-for-calling-republicans-a-bunch-of-f-ers.md",
+      "title": "Biden's incoming deputy chief of staff apologizes for calling Republicans 'a bunch of f---ers'",
+      "excerpt": "\"I used some words that I probably could have chosen better,\" O'Malley Dillon said on Thursday, per a Politico report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-staffer-jen-omalley-dillon-apologizes-gop-expletive-2020-12",
+      "originalUrl": "https://www.businessinsider.com/biden-staffer-jen-omalley-dillon-apologizes-gop-expletive-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fdbc16bc910a400192e82a5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-staffer-jen-omalley-dillon-apologizes-gop-expletive-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-staffer-jen-omalley-dillon-apologizes-gop-expletive-2020-12?amp",
+      "publishedDateTime": "2020-12-17T13:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-rand-paul-calls-for-trump-to-pardon-edward-snowden.md",
+      "title": "Rand Paul calls for Trump to pardon Edward Snowden",
+      "excerpt": "Snowden has lived in Russia for the last several years to avoid federal prosecution.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SVvE5l4RO48/rand-paul-trump-pardon-edward-snowden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SVvE5l4RO48/rand-paul-trump-pardon-edward-snowden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/87d54718-d17b-43b2-81bd-0b73602d6a6d/6d74d503-da1b-4a76-8fed-2a0c4291d098/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rand-paul-trump-pardon-edward-snowden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-trump-pardon-edward-snowden.amp",
+      "publishedDateTime": "2020-12-17T13:33:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-the-us-declares-switzerland-and-vietnam-as-currency-manipulators-in-the-final-days-of-trumps-administration.md",
+      "title": "The US declares Switzerland and Vietnam as currency manipulators in the final days of Trump's administration",
+      "excerpt": "Joe Biden's incoming administration, according to a chief emerging markets strategist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/us-calls-switzerland-vietnam-manipulators-in-trump-trade-shot-2020-12",
+      "originalUrl": "https://www.businessinsider.com/us-calls-switzerland-vietnam-manipulators-in-trump-trade-shot-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fdb492dc910a400192e8017?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/us-calls-switzerland-vietnam-manipulators-in-trump-trade-shot-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-calls-switzerland-vietnam-manipulators-in-trump-trade-shot-2020-12?amp",
+      "publishedDateTime": "2020-12-17T13:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-betsy-devos-tells-education-department-employees-to-resist-biden-administration-report-says.md",
+      "title": "Betsy DeVos tells Education Department employees to 'resist' Biden administration, report says",
+      "excerpt": "The education secretary under President Trump reportedly told agency workers to “be the resistance\" against changes they believe could hurt students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/education/2020/12/16/betsy-devos-education-department-resist/3921340001/",
+      "originalUrl": "https://www.usatoday.com/story/news/education/2020/12/16/betsy-devos-education-department-resist/3921340001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/07/07/PDTF/b9c1ab22-05fd-4a78-8850-47d04f2cbf3b-AP20133643287574.jpg?auto=webp&crop=5109,2874,x0,y259&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3921340001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3921340001",
+      "publishedDateTime": "2020-12-17T13:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-rep-elect-yvette-herrell-relates-to-trumps-voter-fraud-claims-i-know-exactly-what-hes-going-through.md",
       "title": "Rep.-elect Yvette Herrell relates to Trump's voter fraud claims: 'I know exactly what he's going through'",
       "excerpt": "Rep.-elect Yvette Herrell understands the joy of leading on election night and then the sinking feeling of having that advantage slowly erased as mail-in ballots are counted.",
@@ -126,7 +338,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 300,
+      "heat": 320,
       "tags": null,
       "images": [
         {
@@ -391,7 +603,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 466,
+      "heat": 486,
       "tags": null,
       "images": [
         {
@@ -1114,228 +1326,6 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-kt-mcfarland-there-is-significant-evidence-hunter-biden-has-been-compromised-by-chinese.md",
-      "title": "KT McFarland: There is 'significant evidence' Hunter Biden has been 'compromised by Chinese'",
-      "excerpt": "Former Deputy National Security Adviser K.T. McFarland echoed calls Wednesday from top Republican lawmakers urging President Trump to appoint a special counsel to investigate Hunter Biden’s business dealings in China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government",
-      "originalUrl": "https://www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f108777-fca7-4218-961c-c6c4cda89d2d/6f3bdca7-7016-446a-b879-59f4abb555f7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government.amp",
-      "publishedDateTime": "2020-12-16T18:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-bidens-search-for-an-attorney-general-complicated-by-competing-questions.md",
-      "title": "Biden's search for an attorney general complicated by 'competing questions'",
-      "excerpt": "The deliberations among President-elect Joe Biden's tight circle of advisers about whom he should nominate as attorney general have emerged as some of the more complicated of the transition, sources familiar with the process tell CNN, with possible investigations into President Donald Trump, a federal",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-10qhQXfO-o/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-10qhQXfO-o/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201215062840-03-joe-biden-1214-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/16/politics/biden-attorney-general/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/biden-attorney-general/index.html",
-      "publishedDateTime": "2020-12-16T18:16:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-cardinal-pell-on-trump-benedict-xvi-and-a-plot-against-him.md",
-      "title": "Cardinal Pell on Trump, Benedict XVI and a plot against him",
-      "excerpt": "Pope Francis’ former treasurer, Cardinal George Pell, has praised President Donald Trump’s “splendid” Supreme Court appointments and defense of Christian values",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/WireAP_db87ce70924f4bd1942b890a41d3f72d_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530",
-      "publishedDateTime": "2020-12-16T17:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-pence-to-get-coronavirus-vaccine-friday-biden-next-week.md",
-      "title": "Pence to get coronavirus vaccine Friday, Biden next week",
-      "excerpt": "President Trump said over the weekend that he thought White House staff should receive doses later in the program.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HungcgET-zU/pence-covid-vaccine-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HungcgET-zU/pence-covid-vaccine-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 600,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5327fed2-2d29-49e8-8409-9d29fe5c919d/2ed3c092-0c27-4836-922d-aecc7730ce5c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-covid-vaccine-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-covid-vaccine-biden.amp",
-      "publishedDateTime": "2020-12-16T17:06:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Mike Pence"
       ]
     }

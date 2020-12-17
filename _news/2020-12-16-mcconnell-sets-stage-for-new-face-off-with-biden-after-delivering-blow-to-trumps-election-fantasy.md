@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/joe-biden-mitch-mcconnel
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/joe-biden-mitch-mcconnell-donald-trump/index.html"
 type: article
 quality: 191
-heat: 1071
+heat: 1091
 published: true
 
 provider:
@@ -574,6 +574,22 @@ related:
       - url: "https://static.politico.com/26/e0/b307118d44dfb9124b1b33c25bee/1216wh.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Congress braces for painful veto clash with Trump on defense bill"
+    excerpt: "Congressional leaders are scrambling to avoid an unusual scenario in which lawmakers are summoned back to Washington in the days between Christmas and New Year’s for a dramatic, eleventh-hour vote to overturn Trump's promised veto of a massive national defense bill."
+    publishedDateTime: 2020-12-17T21:20:00Z
+    webUrl: "https://www.politico.com/news/2020/12/17/congress-trump-defense-bill-veto-447900"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/congress-trump-defense-bill-veto-447900"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/congress-trump-defense-bill-veto-447900"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/de/3e/2ecd7d6241fe83c9e3f29ee1aade/gettyimages-1223644845.jpg"
+        width: 4000
+        height: 2665
         isCached: true
   - title: "Trump vows to veto defense bill that Congress sent him"
     excerpt: "President Donald Trump said Thursday that he plans to follow through on his threat to veto the annual defense policy bill that passed with veto-proof majorities in the House and the Senate last week."

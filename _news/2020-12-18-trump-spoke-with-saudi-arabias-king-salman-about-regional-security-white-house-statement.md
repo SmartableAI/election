@@ -3,10 +3,10 @@ category: news
 title: "Trump spoke with Saudi Arabia's King Salman about regional security -White House statement"
 excerpt: "President Donald Trump spoke with King Salman bin Abdulaziz Al Saud of Saudi Arabia on Thursday, discussing regional security issues, according to a statement from the White House."
 publishedDateTime: 2020-12-17T20:38:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-saudi-trump/trump-spoke-with-saudi-arabias-king-salman-about-regional-security-white-house-statement-idUSKBN28R335?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/us-usa-saudi-trump/trump-spoke-with-saudi-arabias-king-salman-about-regional-security-white-house-statement-idUSKBN28R335?edition-redirect=ca"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28R33C"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R33C"
+originalUrl: "https://www.reuters.com/article/us-usa-saudi-trump/trump-spoke-with-saudi-arabias-king-salman-about-regional-security-white-house-statement-idUSKBN28R335"
+webUrl: "https://www.reuters.com/article/us-usa-saudi-trump/trump-spoke-with-saudi-arabias-king-salman-about-regional-security-white-house-statement-idUSKBN28R335"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28R335"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R335"
 type: article
 quality: 115
 heat: -1
@@ -48,6 +48,6 @@ related:
         height: 545
         isCached: true
 
-secured: "JiaVPoYQtAIwVk1LrZWga1D2oAlXmdC3L/VAhBNxwyOlAR6CZ6eZa6bEtjzkrCNlLtcIKau4Mh3Qw/s2Aeqt6FRnnb+EuuE4OmBn2OMeozLETO+2bZ8PvnFq1TwDu5gpRACKqpRmxPUtJdLCylcbC+sbrTauwowD4RpWM00+jLSJXI3DL4FwuMod2Sr3nV/qZV7GGkA6e/vuHVvwd0dck0ijRvQTBxjGaNzBT6ua1vAMWW62T1J+t7KFRvX5/oXZD+CMEjV1/30WoihKJ3T/m/9c4RuzIOs140zAzf8HjvQNSepA5HEzWLLgruzDJdADlFriLkeVKXRiU+0vfL9HHNyUF7Ee66q5yXdVf4CwWQE=;7y3m20+TCqcChjtqiwArcA=="
+secured: "DphInHzcJzvkNPgDOqjka3vb8D1d2DoG9MAB3PBucvjUQ7Beg8NOBFBsK1nXxCUYMyxZDcWWL+swZhN4D2I30C1BP/80joTa9wpNUwI81mDFKHkRcFNmDgMeFgcVa525oncPP0+6hkuHlR9J0RSsG+OtQsN9pf3VcX7KeKbo6YPDiUe1i3aLDv2kxqxg6bnNqypIltE3P4JLmGcSKmOhIRVeexZJWBew8Hud4liNG7KOxkA6hYWDYF6dQ5Zc6HOJ6zLAtDdkmunG1fl7+DQ/01L6t+V3GMVEvQfUJkEzE+Z4X/qCjeQKQ/W3+rMa7QSanCkrpe5ZVBtkRInUiBCZ2plnOokN5ZHIOOhcpOe8BYo=;bhhcTZt6suVH3bG6f9ysag=="
 ---
 

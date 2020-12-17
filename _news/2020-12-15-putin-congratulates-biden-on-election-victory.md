@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/putin-congratulates-biden-on-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp"
 type: article
 quality: 190
-heat: 1690
+heat: 1710
 published: true
 
 provider:
@@ -380,6 +380,22 @@ related:
     quality: 175
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Michael-Regan-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "How Biden just gave House Republicans a major boost"
+    excerpt: "Biden's most recent administration pick could leave House Democrats in a lurch."
+    publishedDateTime: 2020-12-17T21:31:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qy8Fk3ub884/biden-house-republicans-major-boost"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-house-republicans-major-boost.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-house-republicans-major-boost.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99ab4cdb-ec1c-4f20-96c6-2ed03ef0b690/5f7c0011-8a99-4911-ba8b-72634accde89/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
