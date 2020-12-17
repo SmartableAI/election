@@ -367,6 +367,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Biden cuts ad for Ossoff, Warnock"
+    excerpt: "President-elect Joe Biden urged Georgians to vote for Democratic Senate candidates Jon Ossoff and Rev. Raphael Warnock in a brand-new ad after campaigning for them in Georgia this week."
+    publishedDateTime: 2020-12-17T05:33:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ggFutYivllw/live-updates-georgia-senate-12-17-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-senate-12-17-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-senate-12-17-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f98e1f8c-cd6f-4852-9633-18a5e391a3fd/268d78bf-145e-43a9-828d-749a63b16c84/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hawley: Joe Biden has questions to answer about federal probe into Hunter"
     excerpt: "In an interview on \"America's Newsroom,\" Sen. Josh Hawley, R-Mo., said President-elect Joe Biden had questions to answer about the federal investigation into his son Hunter's tax dealings and any U.S. Attorneys working on the case had to remain in their positions once Biden was inaugurated."
     publishedDateTime: 2020-12-10T19:08:27Z
@@ -508,22 +524,6 @@ related:
     quality: 172
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20351632662706-e1608148698619.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden says schools should reopen within first 100 days in call with governors"
-    excerpt: "Biden has emphasized school reopenings as a key initial step in his incoming administration’s plan to combat the coronavirus pandemic."
-    publishedDateTime: 2020-12-17T02:43:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zovhd7K5ZqU/biden-schools-should-reopen-within-first-100-days-in-call-with-governors"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-schools-should-reopen-within-first-100-days-in-call-with-governors.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-schools-should-reopen-within-first-100-days-in-call-with-governors.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f63ac40d-c3f5-4649-880f-d3d25c419466/5a3fc880-79f3-427b-8782-b1db7a069d53/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -970,6 +970,22 @@ related:
     quality: 134
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d84048f7-5ae5-4394-9d7b-cecf95ee1791/47a99c53-d927-4f9c-b2ad-38eb6d18d93f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden says schools should reopen within first 100 days in call with governors"
+    excerpt: "Biden has emphasized school reopenings as a key initial step in his incoming administration’s plan to combat the coronavirus pandemic."
+    publishedDateTime: 2020-12-17T03:25:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-schools-should-reopen-within-first-100-days-in-call-with-governors"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-schools-should-reopen-within-first-100-days-in-call-with-governors.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-schools-should-reopen-within-first-100-days-in-call-with-governors.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f63ac40d-c3f5-4649-880f-d3d25c419466/5a3fc880-79f3-427b-8782-b1db7a069d53/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

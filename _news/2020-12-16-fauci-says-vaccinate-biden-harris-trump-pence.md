@@ -181,6 +181,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pence, Biden to get COVID-19 vaccine in bid to build public support"
+    excerpt: "Vice President Mike Pence will receive the coronavirus vaccine in public on Friday as the outgoing U.S. administration and President-elect Joe Biden's team try to build support for a mass inoculation to stanch the deadly pandemic."
+    publishedDateTime: 2020-12-17T16:27:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-idUKKBN28R1FT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28R1FT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28R1FT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 150
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544878072&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0UE"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden and Harris to be sworn in at Capitol, but public urged to stay home"
     excerpt: "The inaugural committee said in a statement that it urged the public not to travel to attend the inauguration in January."
     publishedDateTime: 2020-12-15T21:40:00Z
@@ -1762,6 +1778,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Mike Pence to Head Overseas Hours After Declaring Joe Biden the Presidential Victor Over Donald Trump"
+    excerpt: "Pence will travel overseas hours after formally declaring that Biden beat Trump in November’s presidential election."
+    publishedDateTime: 2020-12-17T16:07:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/mike-pence-to-head-overseas-hours-after-declaring-joe-biden-the-presidential-victor-over-donald-trump/2786788/?amp"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/mike-pence-to-head-overseas-hours-after-declaring-joe-biden-the-presidential-victor-over-donald-trump/2786788/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/mike-pence-to-head-overseas-hours-after-declaring-joe-biden-the-presidential-victor-over-donald-trump/2786788/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 90
+    images:
+      - url: "https://media.nbcnewyork.com/2020/12/106808968-1607554570766-pence.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "After years of indifference and denial under President Trump, experts expect Joe Biden to confront the dangers of domestic extremism"
     excerpt: "Former federal security officials are urging President-elect Joe Biden to more seriously acknowledge the growing danger of domestic terrorism."
     publishedDateTime: 2020-12-09T12:24:00Z
@@ -1942,6 +1974,22 @@ related:
       - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1286019386.jpg?itok=X1likKTA"
         width: 840
         height: 560
+        isCached: true
+  - title: "Politics live updates: Tickets to Joe Biden, Kamala Harris swearing-in ceremony to be limited"
+    excerpt: "Pete Buttigieg is scheduled to appear with Biden Wednesday for a formal announcement. On Twitter, he called the nomination a \"tremendous opportunity.\""
+    publishedDateTime: 2020-12-16T14:17:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2020/12/16/politics-updates-biden-introduce-buttigieg-incoming-dot-chief/3916579001/"
+    ampWebUrl: "https://amp.freep.com/amp/3916579001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3916579001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 79
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/16/USAT/36266745-f2f2-4cd8-ae8a-afc00b0c588c-GTY_1230145961.jpg?auto=webp&crop=5288,2975,x0,y352&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Mike Pence to receive COVID-19 vaccine Friday; Joe Biden will get vaccinated as soon as next week"
     excerpt: "Vice President Mike Pence will get the COVID-19 vaccine publicly Friday, while President-elect Joe Biden will get vaccinated as soon as next week."

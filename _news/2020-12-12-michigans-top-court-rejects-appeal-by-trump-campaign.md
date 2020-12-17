@@ -503,6 +503,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump again threatens to veto defense bill in standoff with Congress"
+    excerpt: "The president has threatened to veto the National Defense Authorization Act, which passed Congress with a veto-proof majority."
+    publishedDateTime: 2020-12-17T16:50:00Z
+    webUrl: "https://www.cbsnews.com/news/national-defense-spending-bill-trump-veto-threat-not-issued-yet/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/national-defense-spending-bill-trump-veto-threat-not-issued-yet/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/national-defense-spending-bill-trump-veto-threat-not-issued-yet/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/12/9f041b88-1a5f-4dd5-9213-d06622116b6c/thumbnail/1200x630/6219b8c8009a7033546036bc1223f898/gettyimages-1230087931.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. finalizes shower head rule after Trump complaints about hair rinsing"
     excerpt: "The U.S. Energy Department on Tuesday finalized two rules easing energy standards on consumer fixtures and appliances, including one on shower heads after President Donald Trump complained some showers don't adequately rinse his hair."
     publishedDateTime: 2020-12-16T02:52:00Z

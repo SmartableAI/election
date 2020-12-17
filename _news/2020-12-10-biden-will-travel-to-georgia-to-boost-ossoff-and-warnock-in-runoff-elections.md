@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250632"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250632"
 type: article
 quality: 147
-heat: 167
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden appears in campaign ad for Georgia's Jon Ossoff and Raphael Warnock"
+    excerpt: "President-elect Joe Biden urged Georgians to vote for Jon Ossoff and Raphael Warnock in a campaign ad released Thursday, saying he needed the two Democrats in the Senate to pass legislation providing economic relief to Americans amid the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2020-12-17T15:37:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/chB6fc3fXJ4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/biden-campaign-ad-ossoff-warnock/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/biden-campaign-ad-ossoff-warnock/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215190047-biden-ossoff-warnock-bottoms-abrams-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Vote like your lives depend on it': Biden makes urgent plea in Georgia Senate races"
     excerpt: "During the Atlanta rally, Biden put the race in national terms, and said his administration's agenda is on the line."
     publishedDateTime: 2020-12-15T22:16:00Z

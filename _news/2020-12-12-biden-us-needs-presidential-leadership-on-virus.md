@@ -45,6 +45,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Election 2020 Today: Pence to Georgia, Biden's climate team"
+    excerpt: "Here’s what’s happening Thursday in Election 2020 and President-elect Joe Biden's transition. GOP FOCUS: Vice President Mike Pence touches down in Georgia again for a pair of rallies in Columbus and Macon."
+    publishedDateTime: 2020-12-17T16:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/election-2020-today-pence-georgia-bidens-climate-team-74776478"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/election-2020-today-pence-georgia-bidens-climate-team-74776478"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/election-2020-today-pence-georgia-bidens-climate-team-74776478"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 155
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a0e72d1e3d754cf280205f691fe6d837_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Georgia certifies election results, making Biden victory official"
     excerpt: "Georgia certified the general election Friday, officially making President-elect Biden the victor. The Trump campaign has until Tuesday to request a recount."
     publishedDateTime: 2020-11-21T03:50:00Z

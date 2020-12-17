@@ -2,13 +2,13 @@
 category: news
 title: "Biden says schools should reopen within first 100 days in call with governors"
 excerpt: "Biden has emphasized school reopenings as a key initial step in his incoming administration’s plan to combat the coronavirus pandemic."
-publishedDateTime: 2020-12-17T02:43:32Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zovhd7K5ZqU/biden-schools-should-reopen-within-first-100-days-in-call-with-governors"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zovhd7K5ZqU/biden-schools-should-reopen-within-first-100-days-in-call-with-governors"
+publishedDateTime: 2020-12-17T03:25:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-schools-should-reopen-within-first-100-days-in-call-with-governors"
+webUrl: "https://www.foxnews.com/politics/biden-schools-should-reopen-within-first-100-days-in-call-with-governors"
 ampWebUrl: "https://www.foxnews.com/politics/biden-schools-should-reopen-within-first-100-days-in-call-with-governors.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-schools-should-reopen-within-first-100-days-in-call-with-governors.amp"
 type: article
-quality: 172
+quality: 132
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -373,6 +374,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jzj6pCsvQlc/joe-biden-butchers-jon-ossoffs-name-at-georgia-rally"
     ampWebUrl: "https://www.foxnews.com/politics/joe-biden-butchers-jon-ossoffs-name-at-georgia-rally.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-butchers-jon-ossoffs-name-at-georgia-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f98e1f8c-cd6f-4852-9633-18a5e391a3fd/268d78bf-145e-43a9-828d-749a63b16c84/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Biden cuts ad for Ossoff, Warnock"
+    excerpt: "President-elect Joe Biden urged Georgians to vote for Democratic Senate candidates Jon Ossoff and Rev. Raphael Warnock in a brand-new ad after campaigning for them in Georgia this week."
+    publishedDateTime: 2020-12-17T05:33:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ggFutYivllw/live-updates-georgia-senate-12-17-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-senate-12-17-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-senate-12-17-2020.amp"
     type: article
     provider:
       name: Fox News
@@ -1096,6 +1113,6 @@ related:
         height: 562
         isCached: true
 
-secured: "HFmAS7qIe66rIVijxK3c1UjD08yMT42AWqK5hPS2e/ic/065KwrKhlIJy56yw0nUIgJ/jAslhqnHmD19bby4a7ybv8YWHgjnoNBqec1TbipZJj7LY8eVJuSH85DEBN5IrEtqTWOETyW8ZkpRAwXY2ERMD40fZh+rU01FQ2Otmuf7wuBCQc7towFcJou3Y9RTQFHgwMZLkvUDYCb2xYgF5Vn7uRv2ezelG/GFyljDLMphjrcfsuYos09/GoPKBela3Mqsi5uOdlR+QCkZW/Na5IXjV7+2DIgzWm0Qln60OVaXwWR4M5SFxkiFCkhZvaTV8ERHv5fURSqd9+O/JknAQ2CgL85yPaC1c9/Y749B/xE=;F07YC3hCnCuLszwioX2k2w=="
+secured: "hN7Uq/HOg/stAewCQK50dNkJtJjHNtzY7MdBnjP4U9S8mIxeU34sCF07MAVdeIgA4K4CcMMt/i6wZ7otLLpL7y0cJ7FYg5/kAw0jjcz2bpeKqHVf7AXUsRGJKRQEIK1A0uz/ByvBLf/7o68jYgiomZPm7CpaO6IQusyi0CyibR6sujioDSL4wrTNMmcqxx0jlySSrVYdpiDAEPwZ26OUNzEfJbLpvUYdReIwWIlX7XcboWuccHb1iTJHJ65Su9XiJ1hoCxmwfl29i8xFOhQMRqyfcvwLLUQEdFAA3aRBgyYtJDDp5Gb8lNw7Ccef+sNmGx8KJdTfBEykXwTD01wgaMcWPybBkqCHazr2GcEkA7c=;bWq3HpPjbBaLbN404eAZJA=="
 ---
 
