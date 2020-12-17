@@ -115,6 +115,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Alert: White House: Vice President Mike Pence, wife Karen to receive COVID-19 vaccine Friday"
+    excerpt: "Vice President Mike Pence, wife Karen to receive COVID-19 vaccine Friday."
+    publishedDateTime: 2020-12-16T17:45:00Z
+    webUrl: "https://www.chron.com/news/article/Alert-White-House-Vice-President-Mike-Pence-15809505.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Alert-White-House-Vice-President-Mike-Pence-15809505.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-White-House-Vice-President-Mike-Pence-15809505.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 64
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Pence: COVID vaccine 'a medical miracle'"
     excerpt: "As U.S. experts convene to decide whether to approve the Pfizer vaccine, Vice President Mike Pence is calling the development of a vaccine to combat the coronavirus pandemic as \"a"
     publishedDateTime: 2020-12-11T00:54:00Z

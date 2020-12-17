@@ -45,22 +45,6 @@ related:
         width: 1440
         height: 919
         isCached: true
-  - title: "Trump administration to impose long-awaited sanctions on Turkey over Russian missile defense system"
-    excerpt: "Ankara's purchase and testing of the S-400 system alarmed its NATO allies, and touched off demands in Washington to impose sanctions. The annoucement comes as Congress is poised to pass a defense bill that would have forced the administration's hand."
-    publishedDateTime: 2020-12-11T04:53:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/trump-administration-to-impose-long-awaited-sanctions-on-turkey-over-russian-missile-defense-system/2020/12/10/c266682c-3b15-11eb-bc68-96af0daae728_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-administration-to-impose-long-awaited-sanctions-on-turkey-over-russian-missile-defense-system/2020/12/10/c266682c-3b15-11eb-bc68-96af0daae728_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-administration-to-impose-long-awaited-sanctions-on-turkey-over-russian-missile-defense-system/2020/12/10/c266682c-3b15-11eb-bc68-96af0daae728_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 111
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4RWTV6R3DEI6XPDIS2XQ3KXHFA.jpg&w=1440"
-        width: 1440
-        height: 983
-        isCached: true
   - title: "‘Betrayed’ Black asylum seekers say Trump administration is ramping up deportations by force and fraud"
     excerpt: "ICE uses physical abuse, solitary confinement and false documents to force Black and African asylum seekers onto 'death planes,' The Times has found through interviews and legal documents."
     publishedDateTime: 2020-11-27T12:13:00Z
@@ -92,22 +76,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HZMWMTW3OMI6VNHREW3WFTN36Q.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "With weeks left in office, the Trump administration is doing a 180-degree turn on a frustrating NATO ally"
-    excerpt: "Trump has avoided sanctioning Turkey for its purchase of Russia's S-400. With just weeks left in office, that appears to be changing."
-    publishedDateTime: 2020-12-10T23:14:00Z
-    webUrl: "https://www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
-    images:
-      - url: "https://i.insider.com/5fd29d01e00bce00188baa90?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "llG3kq+wpEyr9EOIZlT700fpL0M1DNWo0XMEbsTQ1dCxF/jYm4Ul3/jcZi4UoXPaGglDMb9glj96r+7zuHO0bSoRGZEGglkkunGlMuTox7W4YHgTn26Ct2D9+cF2CInrerIQ7KrsR/5FBk1eupm3ZfSNmbFLhiZiPicUQgfOsCSwhaNoVF9miTsp88Jg3n2J4Kz2kerN+yI8WSbGjvi1iI/9cwoQh76rJU0+gwVOqiv9Zdlx6cUcFim0/AReTGPOca7Ii+ChtCeGeRJ7v+XsLNgb7OLfyE4HnT6C+3IRf8J5mPsifo2zvpkrK7J43PeThDiUFzXH5YcL2WHpP2mMpJTBH9FwzvUX2RfFnacXnow=;Nh+aJbDZOekG4MCEASFnKw=="

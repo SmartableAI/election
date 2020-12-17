@@ -699,8 +699,8 @@ related:
         isCached: true
   - title: "Fact check: Biden did not post picture of his dogs playing with a Trump chew toy"
     excerpt: "December 2020, social media accounts began highlighting the alleged hypocrisy of Biden’s calls for national unity and healing by claiming he shared pictures of his dogs fighting over a chew toy in the likeness of President Donald Trump."
-    publishedDateTime: 2020-12-16T19:04:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-dogs-trump-toy/fact-check-biden-did-not-post-picture-of-his-dogs-playing-with-a-trump-chew-toy-idUSKBN28Q2PQ"
+    publishedDateTime: 2020-12-16T23:38:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-dogs-trump-toy-idUSKBN28Q2PQ"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q2PQ"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q2PQ"
     type: article
@@ -772,6 +772,22 @@ related:
     quality: 134
     images:
       - url: "https://s.abcnews.com/images/Politics/biden-nominees-01-rtr-jc-201211_1607717218375_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Trump-Biden transition live updates: Biden meets with governors on COVID-19 response"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 37 days."
+    publishedDateTime: 2020-12-17T03:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-kamala_hpMain_20201216-174130_16x9_1600.jpg"
         width: 1600
         height: 900
         isCached: true

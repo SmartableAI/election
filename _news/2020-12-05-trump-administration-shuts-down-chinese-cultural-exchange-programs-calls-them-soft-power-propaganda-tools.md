@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump administration names China, Nigeria, Iran to list of countries lacking religious freedom"
-    excerpt: "The Trump administration on Monday named China, Nigeria and Iran to the list of countries that engage in violating or allowing violations of religious freedom within their borders — part of U.S. efforts to end religious persecution around the world."
-    publishedDateTime: 2020-12-10T04:14:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cbf6a5de-4c6e-402d-ad75-1713dbc7e628/f49d8ca1-c005-47ec-8e0b-075fcd435fc5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "YNoBQG3+a2+32ovNINxCRCrUjTwoI7l+IwGO6kMRKWtsjmYlzVLKGs+6wnv4w9Fj4y++94SGU0e4nfkejv7rl8YhUD0ZMtL9cvT/NVJ11sE23WZN+PtVuYfOT7jDZ2Wr8gK7XqTS7e25DE8AI1d6S6vz6zeVQkKoDrRRxeGKn1qla2PhTeLQvbR8I663QBxYUuvHwSYOG2+jJxEDuAhEEZwA/K3a0Lc/vEnG8dyJ4kw4m4QWA+YRkvPHx6Y9HcMno5+6yCFpFebQpWWIjAUa0jrg13vbKsb00x+jGcR5pypUt29y5TAM/GzW+ggiyy0SDUs43Nmn/VXcMEesOV+zqznXV20hqEwNPSzP4lp35n4=;8AuEyz33bhk3sbLWA2AkxQ=="
 ---

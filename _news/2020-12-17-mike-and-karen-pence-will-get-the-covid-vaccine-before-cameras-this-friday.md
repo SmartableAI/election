@@ -3,8 +3,8 @@ category: news
 title: "Mike And Karen Pence Will Get The COVID Vaccine Before Cameras This Friday"
 excerpt: "Vice President Mike Pence is set to get the COVID-19 vaccine at the White House on Friday, officials announced Wednesday, making him the highest-ranking person in government to receive a dosage. Pence and second lady Karen Pence are expected to get the vaccine in public before media \"to promote the safety and efficacy of the vaccine and build confidence among the American people,"
 publishedDateTime: 2020-12-17T02:49:00Z
-originalUrl: "https://www.buzzfeednews.com/article/salvadorhernandez/mike-pence-joe-biden-vaccine?origin=web-hf"
-webUrl: "https://www.buzzfeednews.com/article/salvadorhernandez/mike-pence-joe-biden-vaccine?origin=web-hf"
+originalUrl: "https://www.buzzfeednews.com/article/salvadorhernandez/mike-pence-joe-biden-vaccine"
+webUrl: "https://www.buzzfeednews.com/article/salvadorhernandez/mike-pence-joe-biden-vaccine"
 ampWebUrl: "https://www.buzzfeednews.com/amphtml/salvadorhernandez/mike-pence-joe-biden-vaccine"
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/salvadorhernandez/mike-pence-joe-biden-vaccine"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-12/14/22/campaign_images/c84267b5258a/which-twilight-movie-matches-your-personality-2-8362-1607986529-30_dblbig.jpg"
+  - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-12/8/21/campaign_images/f348116ee526/biden-plans-to-give-50-million-americans-covid-19-2-2341-1607463581-2_dblbig.jpg"
     width: 625
     height: 415
     isCached: true
@@ -46,6 +46,6 @@ related:
         height: 630
         isCached: true
 
-secured: "1lSpUnizKcszlhyRGdxlqaEFKBVvo9wbfsMQa5AvN5yZBA5V9iZhdnOCv147HsxaakJe4fceZiFCacL6UOSrgP4Ed2dFEysvv0BdG9tdPnaOgIQobqqAeMQMLNpnVNNSMLwW7kuqPRuaKzp0jDMhsSB9uBoN9oDAAYX+2WFq7rHaUTxE21dGGelBOg9KKr5L3IqovJBvxjFZMwUidyS4ZIJBdsI+pPAe17dPVO2Uhl5ZEX0NZHl416eUSZH00IIdFDW7FhcCwB676x3t5QO6X9KyTZyVVwQwTM25HdfTnhaLPuxJ0IrQL+3abyGdxoXTtvcFJBFxDUXjqIsPOsD+BuoDjU2dJ7dWeus/h8wLZLg=;zxor5QCFld3yF3WV3xrpyA=="
+secured: "6Ylc8Ccnz/iptMxJfVUoo5lnP0yLFiP6TPitgB/YG77Z/KIZhon2AWHAWd2M/0W4IyiJSwVv5HM7ZMniSP4h/C51gBXJ4uYAkHF6Io/iQdZReHwmmnC2+KTzkwlFf+bi3zV0IWJaMnfWFkSCZ1F3OSY4F5I2tzV/DwjQnq3uIY+wgyFts1exDupqHB6+a3B6870TgXL0PjS/nwDb848q4dOZ6vlYtlaxCc5F46bgmGg0oixDRTuwpYzB/n1mGnyAKHXsxBp9lHN4qsamveL7MBWxxNX2w3TE58BB6JHOYUXDUC5DLJoEk5GP4nIIrau1Ck2sfeClKOHOa/q+wHIFkS42xxjeuQcnwnr/CZviNJM=;s3mPgqdsQWESPTHQLwFYSA=="
 ---
 

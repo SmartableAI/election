@@ -698,8 +698,8 @@ related:
         isCached: true
   - title: "Fact check: Biden did not post picture of his dogs playing with a Trump chew toy"
     excerpt: "December 2020, social media accounts began highlighting the alleged hypocrisy of Biden’s calls for national unity and healing by claiming he shared pictures of his dogs fighting over a chew toy in the likeness of President Donald Trump."
-    publishedDateTime: 2020-12-16T19:04:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-dogs-trump-toy/fact-check-biden-did-not-post-picture-of-his-dogs-playing-with-a-trump-chew-toy-idUSKBN28Q2PQ"
+    publishedDateTime: 2020-12-16T23:38:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-dogs-trump-toy-idUSKBN28Q2PQ"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q2PQ"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q2PQ"
     type: article
@@ -787,6 +787,22 @@ related:
     quality: 134
     images:
       - url: "https://s.abcnews.com/images/Politics/biden-nominees-01-rtr-jc-201211_1607717218375_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Trump-Biden transition live updates: Biden meets with governors on COVID-19 response"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 37 days."
+    publishedDateTime: 2020-12-17T03:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-kamala_hpMain_20201216-174130_16x9_1600.jpg"
         width: 1600
         height: 900
         isCached: true
@@ -2161,6 +2177,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "nQiPXZPm6dHa92ySP1KcfPGf/6ZtJb/sVh2SuO4zk+eXI6R0oOeJ9MZ0swBEBASpcoxJCRlCp+iI9P4NHzhQgW5+GHNcY4gmTJrxLCXRRgJ2TWc3OdTWGmvO4t3kWp9PtTiaqRjLoSTL0bqdAecJEvZ8pCwwLV+UPzwOwZVpdmTE8h8fC+MFmpxoOfSDk6x6HD/IjlW/a7hF+vjPYugJKt91B1kZKFbAefMtxAe3UVgTSSOOeI2zlVfMFMOURbNorxMANUuyef3/SFrZoUtQhFrMg0m9vNBqidLFn/mD2Xz0cb0BOgEtGlxg60ws71g0OpE9ERTRVNJuMCiv3iO/z/SZFjvupdbs9fo2dPwMn+M=;4OkI2HxaaFAucABb6AzeUA=="
+secured: "IoI3mhRXJTOm3zT6W0CMvLoiyoThSV8jV/y0okLA8VY6AbdlPZs4TBF1snnzAZYxhwLijRPfWO2rrXeku0hi7ZbdrbUyUa6YJHC1Agf43KmnsXp4Hv9Ox2AHc53TBXNpSWuXLtHKMyg0yPMNkqKI5hWQ6Futypvr94l6Fj9PvPY7rm3Vg1c19gT/o3lhcbuZ9kVjm04EZJy/LLig36I6nMGAp6qx0kHFknvg+Qh0MIYdbr2tTalLxGv8oxRN+cGfUuJtdSbyfP90DMvjL3X7H40IOUT7/5jT1hv5C2Hw95gIul1JZS0AFn/2Qhfzy1AXMNF4o4+ecTRqdxQs1xzXL62wW8b6J2Z7QV5pId0boW5h09DVzfH91QcXwBmjEkPxvom8/3x3vV/1a2yx6g3cDA/XE/+GMlfyIyGiG/iKr7IdOqS1CcdCIt26E1T3uDUPgX7cgs4ui6HriG/8liKCf8QoEqMt0hOUAnMeIaRi6BeILVHS+8/S1TbYLJz2Ef8oN4NE+0wYt+GBhDnQKOVkwg==;enAvdPVky1uj9XZ3GAdodw=="
 ---
 

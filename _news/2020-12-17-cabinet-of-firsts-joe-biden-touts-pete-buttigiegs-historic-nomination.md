@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden introduces Pete Buttigieg as transportation secretary nominee"
+    excerpt: "President-elect Joe Biden will introduce former South Bend, Indiana, Mayor Pete Buttigieg as his nominee for transportation secretary at an event in Wilmington, Delaware on Wednesday.\n    \n"
+    publishedDateTime: 2020-12-17T03:39:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pzpz_blqcT4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/biden-pete-buttigieg-event/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/biden-pete-buttigieg-event/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216123723-03-pete-buttigieg-1216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to introduce Pete Buttigieg as transportation secretary nominee Wednesday "
     excerpt: "President-elect Joe Biden will introduce former South Bend, Indiana, Mayor Pete Buttigieg as his nominee for transportation secretary at an event in Wilmington, Delaware on Wednesday.\n    \n"
     publishedDateTime: 2020-12-16T15:33:02Z
