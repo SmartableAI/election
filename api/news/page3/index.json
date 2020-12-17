@@ -2,6 +2,166 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-15-putin-congratulates-biden-on-election-victory.md",
+      "title": "Putin congratulates Biden on election victory",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ov1bROivNoQ/putin-congratulates-biden-on-election-victory",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ov1bROivNoQ/putin-congratulates-biden-on-election-victory",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1490,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp",
+      "publishedDateTime": "2020-12-15T00:44:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-a-talk-with-frances-ambassador-on-biden-climate-accord-and-restoring-allies-trust.md",
+      "title": "A talk with France’s ambassador: On Biden, climate accord and restoring allies’ trust",
+      "excerpt": "The Times speaks with Philippe Etienne, France's envoy to the U.S., on Biden's promise to rejoin the five-year-old Paris Accord that Trump disavowed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/politics/story/2020-12-14/a-talk-with-frances-ambassador-on-biden-climate-accord-and-restoring-allies-trust",
+      "originalUrl": "https://www.latimes.com/politics/story/2020-12-14/a-talk-with-frances-ambassador-on-biden-climate-accord-and-restoring-allies-trust",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/a08b3ce/2147483647/strip/true/crop/4336x2832+180+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdb%2F59%2F4a9965f21e1457f290a5206c1d43%2F865883e16a53418e8cf38fa7726ded7d",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/politics/story/2020-12-14/a-talk-with-frances-ambassador-on-biden-climate-accord-and-restoring-allies-trust?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-14/a-talk-with-frances-ambassador-on-biden-climate-accord-and-restoring-allies-trust?_amp=true",
+      "publishedDateTime": "2020-12-14T18:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-under-attack-from-trump-americas-democratic-institutions-bend-but-dont-break.md",
+      "title": "Under attack from Trump, America’s democratic institutions bend but don’t break",
+      "excerpt": "Historians and democracy experts said they feared that the tumultuous post-election period had exposed the fragility of the instruments of democracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/hI1Y5FYhOzQSxPk_372qNQCsw4I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XBBB32DW26JFTNJSF6TAYX7P2A.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-14T18:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-internet-fact-checker-at-firm-that-works-with-facebook-reveals-distrust-of-trump-wh.md",
       "title": "Internet fact-checker at firm that works with Facebook reveals distrust of Trump WH",
       "excerpt": "Companies like Facebook work with groups licensed by individuals at the International Fact-Checking Network.",
@@ -114,6 +274,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-15-democracy-prevailed-biden-tries-to-close-the-door-on-a-tumultuous-election.md",
+      "title": "'Democracy prevailed': Biden tries to close the door on a tumultuous election",
+      "excerpt": "As the Electoral College moves to seal his victory, the president-elect is shifting his attention to the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216",
+      "originalUrl": "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216",
+      "publishedDateTime": "2020-12-14T13:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-trump-nominee-takes-seat-at-us-telecom-regulator.md",
       "title": "Trump nominee takes seat at U.S. telecom regulator",
       "excerpt": "A senior Trump administration official who helped lead a regulatory effort seeking to rein in social media companies was sworn in to the five-member Federal Communications Commission (FCC) on Monday.",
@@ -174,7 +391,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election",
       "featuredContent": null,
       "highlight": null,
-      "heat": 874,
+      "heat": 914,
       "tags": null,
       "images": [
         {
@@ -1094,62 +1311,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-13-trump-coronavirus-vaccine-would-have-taken-five-years-if-i-wasnt-president.md",
-      "title": "Trump: Coronavirus vaccine would have taken 'five years' if I wasn't president",
-      "excerpt": "President Trump said finding a coronavirus vaccine would have taken \"five years\" if he weren't president during an interview that aired Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nO8omASb0DA/trump-coronavirus-vaccine-pfizer-biontech-timeline",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nO8omASb0DA/trump-coronavirus-vaccine-pfizer-biontech-timeline",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20335157446144.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-coronavirus-vaccine-pfizer-biontech-timeline.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-pfizer-biontech-timeline.amp",
-      "publishedDateTime": "2020-12-13T05:35:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-13-trump-tells-fox-friends-election-challenges-not-over-ahead-of-electoral-college-vote.md",
       "title": "Trump tells 'Fox & Friends' election challenges 'not over' ahead of Electoral College vote",
       "excerpt": "President Trump vowed that he and his campaign “are going to continue to go forward” with their legal challenges against November’s election results, despite the Electoral College getting set to cast their votes on Monday.",
@@ -1203,162 +1364,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-saturday-night-live-mocks-trumps-new-favorite-network-newsmax.md",
-      "title": "Saturday Night Live Mocks Trump's New Favorite Network Newsmax",
-      "excerpt": "Trump network Newsmax's coverage with a sketch introducing its latest television offering—a sports network that refuses to acknowledge the New York Jets ever lose. The sketch opens with a voiceover that claims \"millions of real Americans are switching from Fox News to Newsmax because Newsmax tells them the",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381",
-      "originalUrl": "https://www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1685494/snl.png",
-          "width": 890,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381?amp=1",
-      "publishedDateTime": "2020-12-13T02:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-attorney-general-william-barr-is-reportedly-brushing-off-trumps-attacks-over-hunter-biden-investigation-as-a-deposed-king-ranting.md",
-      "title": "Attorney General William Barr is reportedly brushing off Trump's attacks over Hunter Biden investigation as a 'deposed king ranting'",
-      "excerpt": "Attorney General William Barr is \"not intimidated\" by President Trump's threats to fire him, a source told CNN.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ag-barr-brushes-off-trumps-attacks-as-deposed-king-ranting-2020-12",
-      "originalUrl": "https://www.businessinsider.com/ag-barr-brushes-off-trumps-attacks-as-deposed-king-ranting-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f6321c357b7da001ee12207?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ag-barr-brushes-off-trumps-attacks-as-deposed-king-ranting-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ag-barr-brushes-off-trumps-attacks-as-deposed-king-ranting-2020-12?amp",
-      "publishedDateTime": "2020-12-13T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-pro-trump-protests-decry-presidents-election-loss-opposing-groups-clash-in-washington.md",
-      "title": "Pro-Trump protests decry president's election loss, opposing groups clash in Washington",
-      "excerpt": "Conservative groups claiming without evidence that the Nov. 3 election was stolen from President Donald Trump staged protests across the country on Saturday, with one in Washington turning violent at times as police broke up sporadic clashes after dark.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-protests-idUSKBN28M0E5",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-protests-idUSKBN28M0E5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 732,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201213&t=2&i=1544375607&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBC01C",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28M0E5",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0E5",
-      "publishedDateTime": "2020-12-13T02:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

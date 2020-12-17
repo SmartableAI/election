@@ -32,83 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden after Electoral College affirms win: 'The rule of law, our Constitution and the will of the people prevailed'"
-    excerpt: "President-elect Joe Biden will declare it time to \"turn the page, to unite, to heal\" in a speech Monday night after the Electoral College makes his victory over President Donald Trump official, according to excerpts of Biden's prepared remarks released by his transition team.\n    \n"
-    publishedDateTime: 2020-12-15T01:26:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VTp2PwNROKQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/joe-biden-speech-electoral-college/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/joe-biden-speech-electoral-college/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 153
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209092448-02-joe-biden-health-team-1208-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'Democracy prevailed': Biden tries to close the door on a tumultuous election"
-    excerpt: "As the Electoral College moves to seal his victory, the president-elect is shifting his attention to the pandemic."
-    publishedDateTime: 2020-12-14T21:55:00Z
-    webUrl: "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 147
-    images:
-      - url: "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Alexander: 'It looks very much like the electors will vote for Joe Biden'"
-    excerpt: "Sen. Lamar Alexander (R-Tenn.) tells Chuck Todd that there shouldn't be any doubt about who won the 2020 presidential election after the Electoral College votes on Monday."
-    publishedDateTime: 2020-12-13T13:47:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/alexander-it-looks-very-much-like-the-electors-will-vote-for-joe-biden-97645637979"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97645637979"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97645637979"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_clip_lamaralexandermr1_201213.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden Transition Live Updates: Electoral College Vote Underway Across the Country"
-    excerpt: "Electors in states across the country have cast their votes for president, and the winner is not in doubt: Joseph R. Biden Jr. will be officially declared the president-elect."
-    publishedDateTime: 2020-12-14T15:49:00Z
-    webUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/14/us/joe-biden-trump.amp.html"
+  - title: "‘In Bad Shape and Getting Worse,’ Guantánamo Poses Headaches for Biden"
+    excerpt: "The new administration confronts decaying infrastructure and a military justice system moving at a glacial pace."
+    publishedDateTime: 2020-12-15T18:27:00Z
+    webUrl: "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 130
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/12/14/us/politics/14transition-briefing-biden-speech/14transition-briefing-biden-speech-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Presidential Transition Highlights: Election ‘Should Be Celebrated, Not Attacked,’ Biden Says as Electoral College Affirms His Victory"
-    excerpt: "Electors in states across the country have cast their votes for president, and the winner is not in doubt: Joseph R. Biden Jr. will be officially declared the president-elect."
-    publishedDateTime: 2020-12-15T10:20:00Z
-    webUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/14/us/joe-biden-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 118
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/14/us/politics/14electoralcollege-vote00-toned/14electoralcollege-vote00-toned-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/15/us/politics/15dc-gitmo/15dc-gitmo-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-17-george-pell-trump-is-a-barbarian-but-in-some-important-ways-hes-our-barbarian.md",
+      "title": "George Pell: Trump is a barbarian, but 'in some important ways' he's our barbarian",
+      "excerpt": "Cardinal praises president’s ‘splendid’ supreme court appointments at the launch of his prison journal",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/australia-news/2020/dec/17/george-pell-trump-is-a-barbarian-but-in-some-important-ways-hes-our-barbarian",
+      "originalUrl": "https://www.theguardian.com/australia-news/2020/dec/17/george-pell-trump-is-a-barbarian-but-in-some-important-ways-hes-our-barbarian",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a1c8e57a076a7d3d3646b9555dbad5efda037fec/0_10_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=34a518665ddd9a135335792c884b19f7",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/australia-news/2020/dec/17/george-pell-trump-is-a-barbarian-but-in-some-important-ways-hes-our-barbarian",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2020/dec/17/george-pell-trump-is-a-barbarian-but-in-some-important-ways-hes-our-barbarian",
+      "publishedDateTime": "2020-12-16T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-north-carolina-gop-lawmaker-urges-trump-to-suspend-civil-liberties-to-keep-power-invoke-the-insurrection-act.md",
       "title": "North Carolina GOP lawmaker urges Trump to suspend civil liberties to keep power: ‘Invoke the Insurrection Act’",
       "excerpt": "Republican North Carolina state Sen. Bob Steinburg said President Trump should declare a national emergency, suspend civil rights, and remain in power over his baseless claims of electoral fraud.",
@@ -103,6 +155,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-we-want-them-infected-trump-appointee-demanded-herd-immunity-strategy-emails-reveal.md",
+      "title": "‘We want them infected’: Trump appointee demanded ‘herd immunity’ strategy, emails reveal",
+      "excerpt": "HHS science adviser Paul Alexander called for millions of Americans to be infected as means of fighting Covid-19.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/16/trump-appointee-demanded-herd-immunity-strategy-446408",
+      "originalUrl": "https://www.politico.com/news/2020/12/16/trump-appointee-demanded-herd-immunity-strategy-446408",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/f9/53/1615c24b4e62bbaccda080acbd5f/ap20338801391322.jpg",
+          "width": 4827,
+          "height": 3216,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/16/trump-appointee-demanded-herd-immunity-strategy-446408",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/16/trump-appointee-demanded-herd-immunity-strategy-446408",
+      "publishedDateTime": "2020-12-16T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -270,7 +379,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/election-2020-today-trump-base-resigned-buttigieg-picked-74755240",
       "featuredContent": null,
       "highlight": null,
-      "heat": 560,
+      "heat": 580,
       "tags": null,
       "images": [
         {
@@ -1481,115 +1590,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-jordan-claims-trump-paid-what-he-owed-in-response-to-ny-times-report.md",
-      "title": "Jordan claims Trump 'paid what he owed' in response to NY Times report",
-      "excerpt": "One poll says nearly three in four registered voters plan to tune in to see President Trump face off against Democratic nominee Joe Biden tonight.  MACCALLUM: Fireworks are anticipated as theshowdown comes against a tense backdrop in thenation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/jordan-claims-trump-paid-what-he-owed-in-response-to-ny-times-report",
-      "originalUrl": "https://www.foxnews.com/transcript/jordan-claims-trump-paid-what-he-owed-in-response-to-ny-times-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8241411b-5bcb-46d6-bbe8-f51124ee7cda/a39ee341-3490-443f-bbbe-b3badea4f82c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-12T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-new-jersey-representative-asks-pelosi-to-refuse-to-seat-any-house-members-who-supported-trumps-election-lawsuits.md",
-      "title": "New Jersey representative asks Pelosi to 'refuse to seat' any House members who supported Trump's election lawsuits",
-      "excerpt": "Rep. Bill Pascrell slammed lawmakers who backed lawsuits that sought to \"overturn the election and make Donald Trump an unelected dictator.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12",
-      "originalUrl": "https://www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fd4c1859cf1420018d2f075?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12?amp",
-      "publishedDateTime": "2020-12-12T06:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

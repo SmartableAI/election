@@ -192,21 +192,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump Jr. to stump for Perdue after Pence rallies Thursday, as Trump team answers Biden event"
-    excerpt: "Donald Trump Jr. will hold his first in-person events of the Georgia Senate runoffs this week for Sen. David Perdue, adding himself to the long list of boldface political names to descend on the Peach State for the critical Jan."
-    publishedDateTime: 2020-12-16T12:03:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-pence-rallies-thursday-trump-team-answers-biden-event"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-pence-rallies-thursday-trump-team-answers-biden-event.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-pence-rallies-thursday-trump-team-answers-biden-event.amp"
+  - title: "KT McFarland: There is 'significant evidence' Hunter Biden has been 'compromised by Chinese'"
+    excerpt: "Former Deputy National Security Adviser K.T. McFarland echoed calls Wednesday from top Republican lawmakers urging President Trump to appoint a special counsel to investigate Hunter Biden’s business dealings in China."
+    publishedDateTime: 2020-12-17T02:09:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/omMkcGelBls/mcfarland-significant-evidence-hunter-biden-chinese-government"
+    ampWebUrl: "https://www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-Jr-GETTY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f108777-fca7-4218-961c-c6c4cda89d2d/6f3bdca7-7016-446a-b879-59f4abb555f7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
     excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."

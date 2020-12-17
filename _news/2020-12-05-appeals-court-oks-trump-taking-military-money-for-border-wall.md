@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/appeals-court-rules-for-trump-takin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/appeals-court-rules-for-trump-taking-military-money-for-wall.amp"
 type: article
 quality: 175
-heat: 255
+heat: 235
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-267090/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "House Panel Accuses Trump Administration of Concealing Evidence in CDC Coronavirus Probe"
-    excerpt: "A senior CDC official told House oversight subcommittee staff that she was instructed to delete an Aug. 8 email that showed a political appointee tried to meddle in a key report, according to a letter from Rep."
-    publishedDateTime: 2020-12-10T20:30:00Z
-    webUrl: "https://www.wsj.com/articles/house-panel-accuses-trump-administration-of-concealing-evidence-in-cdc-coronavirus-probe-11607614200"
-    ampWebUrl: "https://www.wsj.com/amp/articles/house-panel-accuses-trump-administration-of-concealing-evidence-in-cdc-coronavirus-probe-11607614200"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/house-panel-accuses-trump-administration-of-concealing-evidence-in-cdc-coronavirus-probe-11607614200"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 126
-    images:
-      - url: "https://images.wsj.net/im-271252/social"
         width: 1280
         height: 640
         isCached: true

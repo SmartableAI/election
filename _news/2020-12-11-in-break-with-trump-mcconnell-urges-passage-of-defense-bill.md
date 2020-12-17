@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/in-break-with-trump-mcconnel
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-break-with-trump-mcconnell-urges-passage-of-defense-bill/2020/12/10/13930b5e-3b0e-11eb-aad9-8959227280c4_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544682785&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1QK"
         width: 817
         height: 545
+        isCached: true
+  - title: "Cardinal Pell on Trump, Benedict XVI and a plot against him"
+    excerpt: "Pope Francis’ former treasurer, Cardinal George Pell, has praised President Donald Trump’s “splendid” Supreme Court appointments and defense of Christian values"
+    publishedDateTime: 2020-12-17T01:41:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_db87ce70924f4bd1942b890a41d3f72d_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump faces Dec. 23 deadline to veto - or sign - massive NDAA defense bill"
     excerpt: "U.S. President Donald Trump has until Dec. 23 to decide whether to veto the $740 billion National Defense Authorization Act or allow the annual measure setting policy for the Department of Defense to become law,"

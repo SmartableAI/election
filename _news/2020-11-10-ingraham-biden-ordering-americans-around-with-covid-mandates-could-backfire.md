@@ -31,28 +31,12 @@ images:
     isCached: true
 
 related:
-  - title: "Biden coronavirus team to include Rick Bright, ousted HHS official"
-    excerpt: "Rick Bright, the ousted Health and Human Services official, will be one of 10 advisory board members on Democratic President-elect Joe Biden's coronavirus task force, Biden's transition team announced on Monday."
-    publishedDateTime: 2020-11-09T12:25:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nNJ_j8adYkU/biden-coronavirus-task-force-rick-rick-bright"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-task-force-rick-rick-bright.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-task-force-rick-rick-bright.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/RickBright051820.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Who will Biden's Cabinet picks be? Here are some leading contenders"
-    excerpt: "With Inauguration Day on Jan. 20, President-elect Joe Biden has just over two months to chose a team that will help him steer the country and deal with the worst pandemic in a century and an economy deflated by the coronavirus."
-    publishedDateTime: 2020-11-11T11:57:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cf8kp4qVGwQ/biden-cabinet-picks-candidates"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-picks-candidates.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-picks-candidates.amp"
+  - title: "Biden urges Americans to wear masks: ‘Not a political statement’"
+    excerpt: "President-elect Joe Biden says that wearing a mask remains “the most potent weapon” against the coronavirus, and emphasizes that “a mask is not a political statement.”"
+    publishedDateTime: 2020-11-09T18:23:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rnKPKSd6mzU/biden-urges-americans-masks-not-a-political-statement"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-urges-americans-masks-not-a-political-statement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-americans-masks-not-a-political-statement.amp"
     type: article
     provider:
       name: Fox News
@@ -63,133 +47,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden coronavirus adviser makes grim prediction after Thanksgiving holiday"
-    excerpt: "A member of President-elect Joe Biden's COVID-19 advisory board on Saturday made a grim prediction about U.S. coronavirus cases in the coming weeks after millions of Americans traveled for Thanksgiving, despite warnings from public health officials."
-    publishedDateTime: 2020-11-29T20:25:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SygX3JrEKqc/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday.amp"
+  - title: "Biden says he's telling foreign leaders it’s 'not America alone' anymore"
+    excerpt: "President-elect Joe Biden on Tuesday pledged to work closely with foreign leaders, telling them in phone calls that “it’s not America alone,” in a thinly-veiled swipe at President Donald Trump’s “America First” foreign policy."
+    publishedDateTime: 2020-11-10T21:58:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oz4BZRWDtIY/biden-foreign-leaders-not-america-alone"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-foreign-leaders-not-america-alone.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-foreign-leaders-not-america-alone.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20333787581360.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20314631482354.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Biden coronavirus adviser Dr. Zeke Emanuel once argued it's not worth living past 75"
-    excerpt: "Oncologist Dr. Zeke Emanuel, one of 10 advisory board members named to Democratic President-elect Joe Biden's coronavirus task force, argued in a 2014 essay that he doesn't want to live past 75."
-    publishedDateTime: 2020-11-09T15:42:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dDJRYI_p4w4/biden-coronavirus-adviser-zeke-emanuel-age-75-the-atlantic-essay"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-adviser-zeke-emanuel-age-75-the-atlantic-essay.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-adviser-zeke-emanuel-age-75-the-atlantic-essay.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/Zeke-Emanuel-1-Getty.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "DC mayor tells everyone who voted to get tested for COVID, but mum on Biden celebrations"
-    excerpt: "District of Columbia Mayor Muriel Bowser on Sunday encouraged those who voted in the 2020 Presidential Election to get tested for COVID-19, yet she has been noticeably quiet on the thousands of Americans who – at the risk of spreading the coronavirus – participated in public celebrations of Joe Biden’s"
-    publishedDateTime: 2020-11-08T23:45:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2kEBtXd3ug0/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win"
-    ampWebUrl: "https://www.foxnews.com/politics/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309670626830.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden wants mask mandate in every state to fight coronavirus — but these governors won't commit"
-    excerpt: "President-elect Joe Biden has laid out several ways to combat the coronavirus at the beginning of his term, including working with state and local leaders to enact a national mask mandate -- but for now, not every state has committed to help."
-    publishedDateTime: 2020-11-11T19:16:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fb_NTBfGD7U/biden-backs-mask-mandate-in-every-state-but-some-governors-wont-commit"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-backs-mask-mandate-in-every-state-but-some-governors-wont-commit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-mask-mandate-in-every-state-but-some-governors-wont-commit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315765327815.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Biden unveils Transition COVID-19 Advisory Board to 'help shape' approach to coronavirus pandemic"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris on Monday announced the formation of the Transition COVID-19 Advisory Board which will “help shape” the incoming administration’s approach to managing the coronavirus pandemic."
-    publishedDateTime: 2020-11-09T10:00:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bjn2u51sdgc/biden-unveils-transition-covid-19-advisory-board-to-help-shape-approach-to-coronavirus-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-unveils-transition-covid-19-advisory-board-to-help-shape-approach-to-coronavirus-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-unveils-transition-covid-19-advisory-board-to-help-shape-approach-to-coronavirus-pandemic.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden advisers differ on national coronavirus lockdown, as one calls it 'measure of last resort'"
-    excerpt: "The co-chair of President-elect Joe Biden’s coronavirus task force, former Surgeon General Dr. Vivek Murthy, described lockdowns Sunday as \"a measure of last resort,\" countering comments last week by another task force member."
-    publishedDateTime: 2020-11-15T14:57:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/toehSlhz5UE/biden-coronavirus-vivek-murthy-lockdown-fox-news-sunday"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-vivek-murthy-lockdown-fox-news-sunday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-vivek-murthy-lockdown-fox-news-sunday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/iStock-1205972800-10.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "De Blasio dismisses coronavirus risks during Biden victory celebrations, contrary to CDC guidelines"
-    excerpt: "New York City Mayor Bill De Blasio on Monday appeared to brush off concerns that weekend celebrations over Joe Biden’s presidential victory could contribute to the further spread of the coronavirus."
-    publishedDateTime: 2020-11-09T21:53:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ta0P3NXwKIs/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines"
-    ampWebUrl: "https://www.foxnews.com/politics/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Capture.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Elizabeth Warren's ex-chief of staff, senior Bernie Sanders adviser among members of Biden transition team"
-    excerpt: "The transition organization for President-elect Joe Biden announced its \"agency review teams\" on Tuesday, and among those who will be laying the groundwork for the Biden-Harris administration are a senior adviser to Sen. Bernie Sanders and the former chief of staff to Sen. Elizabeth Warren."
-    publishedDateTime: 2020-11-11T18:51:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lic4MTWjabY/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team"
-    ampWebUrl: "https://www.foxnews.com/politics/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "ZWDJjbrUJSMfnpFSbtpRC4sAL7bmk5Tgg7Ss3XIe0C/7YhsDS2ukAUBMwl0TWju595hNfiJJZ2xDZBdmq1hKgsoxx5u8+xtdtc70sSzHEhpNRo3OR60i+oqLGzpwBJvqx66JBgapJMyQ038AUflWp8rnZ00yaZTEixsubW/slTIjButIx2xdnoEmhCUMIDn1xQjUGHZyrH6iniQaqK8GdJ636j9s3VtCm0Ey/J+Pnpc8D/13/+SXpGejBIR7LuC52l7nnKlqxVrwuBBwVaJBkWSIXK2r/dmwMTmZb6gY8XENToUm5DewYnVSP6FG3lpowhOWDlAnOK82UKUfaUwn+GpwOirkfzkeimFll295PDE=;HVANn4pNxt0A5pSduZPbeA=="

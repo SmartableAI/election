@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Elizabeth Warren's ex-chief of staff, senior Bernie Sanders adviser among members of Biden transition team"
+    excerpt: "The transition organization for President-elect Joe Biden announced its \"agency review teams\" on Tuesday, and among those who will be laying the groundwork for the Biden-Harris administration are a senior adviser to Sen. Bernie Sanders and the former chief of staff to Sen. Elizabeth Warren."
+    publishedDateTime: 2020-11-11T18:51:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lic4MTWjabY/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team"
+    ampWebUrl: "https://www.foxnews.com/politics/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "xt0xakfq0kJWpjNq+NqRf//caGtbgMuMaDrXUo0/Gz0TpDPQDtu/dmf4qsQiIeHEuSrpdFjDhTrKiZTDRsjUT+bkPYWK1XYuPoVaOzPdueBrfpLf3pv73rizBv0RraA4tip9n/F6N2MWkI/kP+bZa3BKkg7Koc+fzFIBzvLn5ARxHiyIlIYE/lGdI3xvuvEBkJ3nU3Kc/7gRJN8CoBQCp7YSNzoHK3V8QcSNRUuYXycK+g4bx14KsR1sKecvYvX6hlI+U4o1Gt0dVcGVVkMgilQlhqaFQ7evzBWntk4Df4foRRMhvaa7hPEM7I6NNzEV2sfjvgTL8aRIv/zoASjaiPWisXKhd2g51fJ6l15ceFQ=;mwXMZfFIX02ZVv3c6TG7kQ=="
 ---

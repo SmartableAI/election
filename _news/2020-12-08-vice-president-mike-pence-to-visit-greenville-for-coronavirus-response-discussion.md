@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.greenvilleonline.com/amp/6484240002"
 cdnAmpWebUrl: "https://amp-greenvilleonline-com.cdn.ampproject.org/c/s/amp.greenvilleonline.com/amp/6484240002"
 type: article
 quality: 70
-heat: 150
+heat: 130
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/3/23/323f7f7c-da0d-11ea-8e7a-6796a476e0b5/5f2f9df19a75b.image.jpg?crop=800%2C450%2C0%2C16&resize=800%2C450&order=crop%2Cresize"
         width: 800
         height: 450
-        isCached: true
-  - title: "Pence likely to get the coronavirus vaccine by Friday"
-    excerpt: "Vice President Mike Pence is likely to receive the coronavirus vaccine by Friday, two sources familiar with the plans tell CNN."
-    publishedDateTime: 2020-12-15T20:14:00Z
-    webUrl: "https://www.newspressnow.com/news/national_news/election2020/pence-likely-to-get-the-coronavirus-vaccine-by-friday/article_e0e8d432-00c6-5620-9ddf-fd55d10ed27b.html"
-    type: article
-    provider:
-      name: News-Press NOW
-      domain: newspressnow.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/custom/image/bcf8e96c-4b35-11e5-9c03-7b4fbbdd1e31.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Pence plans visit to state to discuss virus vaccines"
     excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss novel coronavirus vaccines as federal officials are expected to"

@@ -31,28 +31,28 @@ images:
     isCached: true
 
 related:
-  - title: "Biden coronavirus team to include Rick Bright, ousted HHS official"
-    excerpt: "Rick Bright, the ousted Health and Human Services official, will be one of 10 advisory board members on Democratic President-elect Joe Biden's coronavirus task force, Biden's transition team announced on Monday."
-    publishedDateTime: 2020-11-09T12:25:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nNJ_j8adYkU/biden-coronavirus-task-force-rick-rick-bright"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-task-force-rick-rick-bright.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-task-force-rick-rick-bright.amp"
+  - title: "Will Biden consider adding Republicans to his administration?"
+    excerpt: "Among GOP names floating around for a Biden cabinet are John Kasich, Quibi CEO Meg Whitman, Massachusetts Gov. Charlie Baker and former Sen. Jeff Flake and former Rep. Charlie Dent."
+    publishedDateTime: 2020-11-13T23:37:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jAb4k9xJI3E/will-biden-consider-republicans-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/will-biden-consider-republicans-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-biden-consider-republicans-administration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/RickBright051820.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315794984780-1.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Who will Biden's Cabinet picks be? Here are some leading contenders"
-    excerpt: "With Inauguration Day on Jan. 20, President-elect Joe Biden has just over two months to chose a team that will help him steer the country and deal with the worst pandemic in a century and an economy deflated by the coronavirus."
-    publishedDateTime: 2020-11-11T11:57:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cf8kp4qVGwQ/biden-cabinet-picks-candidates"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-picks-candidates.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-picks-candidates.amp"
+  - title: "Biden warns of another 200K dead from COVID by inauguration"
+    excerpt: "With new coronavirus cases surging again from coast to coast, President-elect Joe Biden is warning of a potential grim milestone - the potential of another 200,000 COVID deaths by his inauguration"
+    publishedDateTime: 2020-11-18T22:33:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/evu2XTDFB9k/biden-warns-of-another-200k-dead-from-covid-by-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp"
     type: article
     provider:
       name: Fox News
@@ -63,133 +63,165 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden coronavirus adviser makes grim prediction after Thanksgiving holiday"
-    excerpt: "A member of President-elect Joe Biden's COVID-19 advisory board on Saturday made a grim prediction about U.S. coronavirus cases in the coming weeks after millions of Americans traveled for Thanksgiving, despite warnings from public health officials."
-    publishedDateTime: 2020-11-29T20:25:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SygX3JrEKqc/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday.amp"
+  - title: "Ex-Clinton adviser questions Biden vote over his stance on more shutdowns"
+    excerpt: "President-Elect Biden has said he will follow the advice of scientists to get the pandemic under control."
+    publishedDateTime: 2020-11-10T01:24:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/epwnhudD93A/joe-biden-economic-lockdowns-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-economic-lockdowns-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-economic-lockdowns-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38efdbc8-5532-4aa4-8110-6895c604cb59/7f9a67ed-ea23-4f99-a30e-fed73ec9286f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rep. Cedric Richmond to serve in Biden administration, resign from Congress"
+    excerpt: "Rep. Cedric Richmond is joining the Biden administration as a senior adviser to President-elect Joe Biden in the White House Office of Public Engagement, leaving his seat in the House of Representatives."
+    publishedDateTime: 2020-11-17T16:47:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_VAjosGxiAI/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20333787581360.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Ingraham: Biden 'ordering' Americans around with COVID mandates could 'backfire'"
-    excerpt: "In her \"Ingraham Angle\" monologue on Monday, host Laura Ingraham responded to President-elect Joe Biden's call to unite the country by way of a potential national mask mandate -- as well as his announcement of a coronavirus response task force similar to the one President Trump has utilized."
-    publishedDateTime: 2020-11-10T04:10:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-L4otzKsWgY/ingraham-biden-ordering-americans-around-with-covid-mandates-could-backfire"
-    ampWebUrl: "https://www.foxnews.com/politics/ingraham-biden-ordering-americans-around-with-covid-mandates-could-backfire.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ingraham-biden-ordering-americans-around-with-covid-mandates-could-backfire.amp"
+  - title: "US-China relationship remains a challenge for Biden amid Hong Kong struggles"
+    excerpt: "Chinese President Xi Jinping is one of the few major super powers yet to congratulate president-elect Joe Biden on his presidential win, though this is unlikely to further tamper the slew of foreign policy challenges facing U.S.-China relations."
+    publishedDateTime: 2020-11-12T02:48:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KxNaIm84qMs/us-china-relationship-challenge-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/us-china-relationship-challenge-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-china-relationship-challenge-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/34b8b186-66c3-42e0-927b-a6ae6f5bee36/37a2e376-1023-4b4f-8f4a-db37547b2e4a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8419c359-d988-43d2-a50c-f30f8e478624/000564f8-cd7e-46c0-a921-27cb7fc5fc8c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden coronavirus adviser Dr. Zeke Emanuel once argued it's not worth living past 75"
-    excerpt: "Oncologist Dr. Zeke Emanuel, one of 10 advisory board members named to Democratic President-elect Joe Biden's coronavirus task force, argued in a 2014 essay that he doesn't want to live past 75."
-    publishedDateTime: 2020-11-09T15:42:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dDJRYI_p4w4/biden-coronavirus-adviser-zeke-emanuel-age-75-the-atlantic-essay"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-adviser-zeke-emanuel-age-75-the-atlantic-essay.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-adviser-zeke-emanuel-age-75-the-atlantic-essay.amp"
+  - title: "Bernie Sanders confirms interest in Labor Secretary job under Biden administration"
+    excerpt: "Sanders was routinely critical of Biden's policy record on the campaign trail, but ultimately endorsed him for president."
+    publishedDateTime: 2020-11-12T02:28:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RmU2xvYx31Y/bernie-sanders-confirms-interest-labor-secretary-job-under-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-confirms-interest-labor-secretary-job-under-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-confirms-interest-labor-secretary-job-under-biden-administration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/Zeke-Emanuel-1-Getty.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b76b2b0f-fcb9-48aa-b2b1-a51905a51954/44349009-d613-4890-9a79-b7cf9e14182a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Some Catholics sounding alarm about Biden administration, conflicts with moral teachings"
+    excerpt: "Some Catholic groups and leaders are warning that President-elect Biden would, despite being a member of the faith, enact harmful policies and create confusion about church teachings."
+    publishedDateTime: 2020-11-21T01:55:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BDmPE_w-QKg/catholics-warn-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/catholics-warn-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/catholics-warn-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2d1cb93-b2ec-4a6e-a30f-1c1c1b3c3993/a08bb5b2-fb09-4b94-91af-d86ad3a69ce4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Bernie Sanders: 'Enormously insulting' if Biden ignores progressives in his administration"
+    excerpt: "Bernie Sanders and Elizabeth Warren, leaders of the Democratic Party's left wing, are at risk of being excluded from the senior ranks of President-elect Joe Biden's administration as the incoming president balances the demands of his party's progressive base against the political realities of a narrowly"
+    publishedDateTime: 2020-11-20T16:45:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IboItUQG_gY/bernie-sanders-biden-progressives-in-his-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-biden-progressives-in-his-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-biden-progressives-in-his-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1203406186.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden wants mask mandate in every state to fight coronavirus — but these governors won't commit"
-    excerpt: "President-elect Joe Biden has laid out several ways to combat the coronavirus at the beginning of his term, including working with state and local leaders to enact a national mask mandate -- but for now, not every state has committed to help."
-    publishedDateTime: 2020-11-11T19:16:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fb_NTBfGD7U/biden-backs-mask-mandate-in-every-state-but-some-governors-wont-commit"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-backs-mask-mandate-in-every-state-but-some-governors-wont-commit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-mask-mandate-in-every-state-but-some-governors-wont-commit.amp"
+  - title: "Some Roman Catholics sounding alarm about Biden administration, conflicts with moral teachings"
+    excerpt: "Some Roman Catholic groups and leaders are warning that President-elect Biden would, despite being a member of the faith, enact harmful policies and create confusion about church teachings."
+    publishedDateTime: 2020-11-21T01:55:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c6Q9PW5qhBA/roman-catholics-warn-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/roman-catholics-warn-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roman-catholics-warn-biden-administration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 163
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315765327815.jpg"
-        width: 1024
-        height: 683
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2d1cb93-b2ec-4a6e-a30f-1c1c1b3c3993/a08bb5b2-fb09-4b94-91af-d86ad3a69ce4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden unveils Transition COVID-19 Advisory Board to 'help shape' approach to coronavirus pandemic"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris on Monday announced the formation of the Transition COVID-19 Advisory Board which will “help shape” the incoming administration’s approach to managing the coronavirus pandemic."
-    publishedDateTime: 2020-11-09T10:00:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bjn2u51sdgc/biden-unveils-transition-covid-19-advisory-board-to-help-shape-approach-to-coronavirus-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-unveils-transition-covid-19-advisory-board-to-help-shape-approach-to-coronavirus-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-unveils-transition-covid-19-advisory-board-to-help-shape-approach-to-coronavirus-pandemic.amp"
+  - title: "A sign of America’s future under Biden? This transition team member has questioned the First Amendment"
+    excerpt: "The leader of President-elect Joe Biden’s transition team for federal media outlets has, in the past, publicly endorsed both weakening the First Amendment and governments' use of propaganda on their own citizens."
+    publishedDateTime: 2020-11-19T23:53:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QN3cB4B5N9M/stengel-biden-transition-first-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/stengel-biden-transition-first-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stengel-biden-transition-first-amendment.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 159
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden advisers differ on national coronavirus lockdown, as one calls it 'measure of last resort'"
-    excerpt: "The co-chair of President-elect Joe Biden’s coronavirus task force, former Surgeon General Dr. Vivek Murthy, described lockdowns Sunday as \"a measure of last resort,\" countering comments last week by another task force member."
-    publishedDateTime: 2020-11-15T14:57:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/toehSlhz5UE/biden-coronavirus-vivek-murthy-lockdown-fox-news-sunday"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-vivek-murthy-lockdown-fox-news-sunday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-vivek-murthy-lockdown-fox-news-sunday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/iStock-1205972800-10.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Richard-Stengel-GETTY.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "De Blasio dismisses coronavirus risks during Biden victory celebrations, contrary to CDC guidelines"
-    excerpt: "New York City Mayor Bill De Blasio on Monday appeared to brush off concerns that weekend celebrations over Joe Biden’s presidential victory could contribute to the further spread of the coronavirus."
-    publishedDateTime: 2020-11-09T21:53:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ta0P3NXwKIs/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines"
-    ampWebUrl: "https://www.foxnews.com/politics/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines.amp"
+  - title: "'Personnel is policy': Progressive group gives Biden transition team 400 names to consider for administration"
+    excerpt: "A group aligned with Sen. Elizabeth Warren, D-Calif., handed over a list of 400 names that they recommend could fill positions in the incoming Biden-Harris administration beyond his cabinet on Friday."
+    publishedDateTime: 2020-11-17T21:22:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MLi8caz0WhU/progressive-biden-transition-400-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/progressive-biden-transition-400-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-biden-transition-400-administration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 156
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Capture.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c817048-0b62-4c63-a202-c52b8ac2c822/450109cf-c164-4192-bd66-a5d0541fc370/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Elizabeth Warren's ex-chief of staff, senior Bernie Sanders adviser among members of Biden transition team"
-    excerpt: "The transition organization for President-elect Joe Biden announced its \"agency review teams\" on Tuesday, and among those who will be laying the groundwork for the Biden-Harris administration are a senior adviser to Sen. Bernie Sanders and the former chief of staff to Sen. Elizabeth Warren."
-    publishedDateTime: 2020-11-11T18:51:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lic4MTWjabY/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team"
-    ampWebUrl: "https://www.foxnews.com/politics/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team.amp"
+  - title: "FLASHBACK: Biden's chief of staff pick admits Obama admin did everything wrong with H1N1"
+    excerpt: "The former Obama administration official said it was pure luck H1N1 wasn’t one of the great mass casualty events in American history."
+    publishedDateTime: 2020-11-12T02:46:00Z
+    webUrl: "https://www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1"
+    ampWebUrl: "https://www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 126
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/155cc3c3-e6cd-4d92-8fd5-59afb1417b81/cb3148a7-2aea-4e6f-ac4f-518d7f99bcfb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "9ydYQVUV9blA/WeGjxIbDWtOfe+I/xDtCYLGnxCPcR7f1OD6q16L4sF7jVFwVf0ayHm1x4z4QUD2Zbqi/fa6baEfJ1VfW03QgIdgXZVK+Z0tsOdmojmQ88g9YX7vKSMmUgX1YDwEPF+KMskRqJmZcDBpQHa2KmXeQLzoq8QWKC0EFGkdceqt+ITVjh4eD4fM3qcPmfzVCqqW+bTZbvEamDOcsd1a2c2XH2VqXjSVJB3OGhscDupS6NlpPkVlVZQizHFcIG9NXbCveLtIyS41u4exoFr+PNYbvJ+VlOXTaHZGTtvLR+Hf4W6cL1OvD/UhOlqf4/i3QtujCRIYvCuevU+K4uidFKk5NYMIgllFJig=;NY9V72GzBAhPvxF9iNIV4A=="

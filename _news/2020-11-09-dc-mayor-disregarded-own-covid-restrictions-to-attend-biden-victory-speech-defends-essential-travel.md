@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden unveils Transition COVID-19 Advisory Board to 'help shape' approach to coronavirus pandemic"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris on Monday announced the formation of the Transition COVID-19 Advisory Board which will “help shape” the incoming administration’s approach to managing the coronavirus pandemic."
+    publishedDateTime: 2020-11-09T10:00:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bjn2u51sdgc/biden-unveils-transition-covid-19-advisory-board-to-help-shape-approach-to-coronavirus-pandemic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-unveils-transition-covid-19-advisory-board-to-help-shape-approach-to-coronavirus-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-unveils-transition-covid-19-advisory-board-to-help-shape-approach-to-coronavirus-pandemic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "56NI1sBbhHqHCzL6D8k92DiHUJ6Ll3HIYq42ePXvIzl5areRlHOHAXiAoDV2vgHi0M+2N129/mhdPvOy365HRQWRoRcIzMp3nz/qpbHsbwtVexKDpQVpxQC/tHQE0YjoOk0uPUE25BUMBXrvGEJiaLYib+m+KrULzgCUbb0Xaj0wXvMzRPefYbKuT71ngGt+/c0q81llgICdqtCdrselhhQM4yoYCoAbjmpcp7VFshMFC3sPXAGU17SXQThVp3Ibr3mpd3ynDgWaUsKeoniMihEKNuoY7j33QT6gnjQllYOb9/uuT90XuHddP5qsbet0TzYc4D6SWYH2m35qG+JrUwDC1dM1LeSh+Qo1KGImSrU=;dkLzFhIFF2dAOoJ/uw1P/g=="
 ---

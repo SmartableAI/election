@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "DC mayor tells everyone who voted to get tested for COVID, but mum on Biden celebrations"
+    excerpt: "District of Columbia Mayor Muriel Bowser on Sunday encouraged those who voted in the 2020 Presidential Election to get tested for COVID-19, yet she has been noticeably quiet on the thousands of Americans who – at the risk of spreading the coronavirus – participated in public celebrations of Joe Biden’s"
+    publishedDateTime: 2020-11-08T23:45:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2kEBtXd3ug0/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win"
+    ampWebUrl: "https://www.foxnews.com/politics/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309670626830.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Bernie Sanders: 'Enormously insulting' if Biden ignores progressives in his administration"
     excerpt: "Bernie Sanders and Elizabeth Warren, leaders of the Democratic Party's left wing, are at risk of being excluded from the senior ranks of President-elect Joe Biden's administration as the incoming president balances the demands of his party's progressive base against the political realities of a narrowly"
     publishedDateTime: 2020-11-20T16:45:32Z

@@ -301,6 +301,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Biden introduces Buttigieg as transportation secretary nominee, meets virtually with governors"
+    excerpt: "As President-elect Joe Biden continues to build his administration, President Trump still insists that he won the election."
+    publishedDateTime: 2020-12-16T17:02:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EO3LUUR76EI6XNMLCYR7MJTZMA.jpg&w=1440"
+        width: 1440
+        height: 895
+        isCached: true
   - title: "Trump says U.S. Attorney General Barr resigns"
     excerpt: "U.S. Attorney General William Barr will step down next week, he said on Monday, shortly after the Electoral College confirmed President Donald Trump's loss to Democratic President-elect Joe Biden."
     publishedDateTime: 2020-12-15T09:00:00Z

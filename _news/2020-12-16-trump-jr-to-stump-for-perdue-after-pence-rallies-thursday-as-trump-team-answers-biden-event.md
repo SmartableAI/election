@@ -33,44 +33,76 @@ images:
     isCached: true
 
 related:
-  - title: "Trump asking about potential special counsel to investigate Hunter Biden after Barr resignation"
-    excerpt: "President Trump is talking to advisers about asking for a special counsel to be appointed to continue investigations into the \"tax affairs\" of Hunter Biden, the son of President-elect Biden, according to a report."
-    publishedDateTime: 2020-12-16T13:37:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SjIq4H_lGM4/trump-potential-special-counsel-hunter-biden-barr-resignation"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-potential-special-counsel-hunter-biden-barr-resignation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-potential-special-counsel-hunter-biden-barr-resignation.amp"
+  - title: "Pence to get coronavirus vaccine Friday, Biden next week"
+    excerpt: "President Trump said over the weekend that he thought White House staff should receive doses later in the program."
+    publishedDateTime: 2020-12-17T01:06:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HungcgET-zU/pence-covid-vaccine-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 178
+    quality: 200
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5327fed2-2d29-49e8-8409-9d29fe5c919d/2ed3c092-0c27-4836-922d-aecc7730ce5c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "AG Barr knew about Hunter Biden probe for months: report"
-    excerpt: "Attorney General William Barr reportedly knew about investigations into Hunter Biden’s business and financial dealings for months, and worked to stop them being disclosed to the public during the election campaign."
-    publishedDateTime: 2020-12-11T17:08:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aph5PtHpV7s/ag-barr-hunter-biden-probe-spring-report"
-    ampWebUrl: "https://www.foxnews.com/politics/ag-barr-hunter-biden-probe-spring-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ag-barr-hunter-biden-probe-spring-report.amp"
+  - title: "Fauci says Biden, Harris should get COVID-19 vaccine ASAP 'for security reasons'"
+    excerpt: "After the first American was inoculated with a coronavirus vaccine on Monday, the nation’s top infectious disease expert recommended that President-elect Joe Biden and Vice President-elect Kamala Harris should move toward the front of the line."
+    publishedDateTime: 2020-12-15T18:56:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3jP6646MLm8/fauci-biden-harris-covid-19-vaccine-asap-security-reasons"
+    ampWebUrl: "https://www.foxnews.com/politics/fauci-biden-harris-covid-19-vaccine-asap-security-reasons.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-biden-harris-covid-19-vaccine-asap-security-reasons.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 195
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5affd312-5021-48bd-bd9a-ed5c5607ccf8/f467789e-3b2b-44ee-be75-39e8312c303c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden coronavirus team to include Rick Bright, ousted HHS official"
+    excerpt: "Rick Bright, the ousted Health and Human Services official, will be one of 10 advisory board members on Democratic President-elect Joe Biden's coronavirus task force, Biden's transition team announced on Monday."
+    publishedDateTime: 2020-11-09T12:25:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nNJ_j8adYkU/biden-coronavirus-task-force-rick-rick-bright"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-task-force-rick-rick-bright.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-task-force-rick-rick-bright.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb434ef2-fe30-41c5-9c87-687265fa6239/5d3b2f20-1e86-4f21-aa83-8df313917cbc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/RickBright051820.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Biden’s message to nation: ‘It’s time to turn the page’"
-    excerpt: "President-elect Joe Biden will say that “the integrity” of the nation’s elections remains intact in an address he’ll give Monday evening, immediately after electors in all 50 states and the District of Columbia cast ballots, formalizing Biden’s victory of President Trump in last month’s presidential"
-    publishedDateTime: 2020-12-14T21:42:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KrcBo319WYo/bidens-message-to-nation-its-time-to-turn-the-page"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-message-to-nation-its-time-to-turn-the-page.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-message-to-nation-its-time-to-turn-the-page.amp"
+  - title: "Hunter Biden news raises stakes for A.G. pick"
+    excerpt: "Biden's biggest test is still ahead."
+    publishedDateTime: 2020-12-10T20:38:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vn9eUhlPggs/hunter-biden-news-raises-stakes-for-a-g-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-news-raises-stakes-for-a-g-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-news-raises-stakes-for-a-g-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden urges Americans to have ‘confidence’ in new COVID vaccine"
+    excerpt: "President-elect Joe Biden says Americans “should have confidence” in a new coronavirus vaccine produced by the drug maker Pfizer that could be imminently approved by the U.S. Food and Drug Administration (FDA) for immediate use."
+    publishedDateTime: 2020-12-11T22:53:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sHi1tTu8kzM/biden-urges-americans-to-have-confidence-in-new-covid-vaccine"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-urges-americans-to-have-confidence-in-new-covid-vaccine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-americans-to-have-confidence-in-new-covid-vaccine.amp"
     type: article
     provider:
       name: Fox News
@@ -81,212 +113,200 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Pompeo applauds Barr's loyalty to Trump following AG's resignation"
-    excerpt: "Secretary of State Mike Pompeo praised Attorney General William Barr and lauded his loyalty to President Trump just a day after Barr resigned from his post. "
-    publishedDateTime: 2020-12-16T00:34:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hj3tsXQjoVU/mike-pompeo-william-barr-resignation-trump-loyalty"
-    ampWebUrl: "https://www.foxnews.com/politics/mike-pompeo-william-barr-resignation-trump-loyalty.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-william-barr-resignation-trump-loyalty.amp"
+  - title: "BLM doesn't want Biden to consider LA mayor to join administration"
+    excerpt: "Black Lives Matter supporters on Tuesday protested for the 22nd consecutive day outside the residence of Los Angeles Mayor Eric Garcetti to demand that his name be dropped from consideration for a Cabinet pick within Joe Biden’s administration."
+    publishedDateTime: 2020-12-15T20:59:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lOTMaa-bE8A/blm-protests-outside-la-mayor-garcetti-home-biden-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/blm-protests-outside-la-mayor-garcetti-home-biden-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blm-protests-outside-la-mayor-garcetti-home-biden-admin.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a861ef0-3d82-42aa-9033-ade01358a10c/f1e888a1-a635-407b-94bb-f9ebfb0558ba/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc00411e-37d4-453b-b1d8-e57fe5cc7500/16f94411-373d-4d7c-b1d2-cc050a5e12f0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump says Barr 'a big disappointment' after report AG knew about Hunter Biden investigation months ago"
-    excerpt: "President Trump on Saturday described Attorney General William Barr as a “big disappointment” after a report claiming the nation’s top lawyer knew about the Hunter Biden investigation months ago."
-    publishedDateTime: 2020-12-12T17:34:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TzjPtyHxiZg/trump-barr-big-disappointment-ag-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-barr-big-disappointment-ag-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-barr-big-disappointment-ag-hunter-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64208635-0349-48e0-a93c-f27a02bd14c0/3fd9dd5d-8e39-4843-83b3-4f10cbc9f0e3/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "GOP Rep. Ken Buck calls for Hunter Biden special counsel in letter to Barr"
-    excerpt: "EXCLUSIVE: Republican Rep. Ken Buck on Monday urged Attorney General William Barr to appoint a special counsel to investigate Hunter Biden's business dealings and a laptop purportedly belonging to him in order to ensure an investigation “free from political interference.”"
-    publishedDateTime: 2020-12-07T19:36:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPN7bxKFtu0/gop-rep-ken-buck-hunter-biden-special-counsel"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
+  - title: "Biden coronavirus adviser makes grim prediction after Thanksgiving holiday"
+    excerpt: "A member of President-elect Joe Biden's COVID-19 advisory board on Saturday made a grim prediction about U.S. coronavirus cases in the coming weeks after millions of Americans traveled for Thanksgiving, despite warnings from public health officials."
+    publishedDateTime: 2020-11-29T20:25:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SygX3JrEKqc/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Flynn: Feds should have been looking into Swalwell instead of him and Trump"
-    excerpt: "Former National Security Adviser Michael Flynn told Fox News' \"Sunday Morning Futures\" that counterintelligence officials should not have been devoting time and resources into investigating him and President Trump's campaign – instead they should have been looking at Rep. Eric Swalwell, D-Calif."
-    publishedDateTime: 2020-12-13T17:47:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pc6KFp6cyIM/flynn-feds-swalwell-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/flynn-feds-swalwell-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flynn-feds-swalwell-investigation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c143550-2ee3-4970-ba38-ad45c77eda6c/71ba4c7f-e650-476e-abab-f4a64cdfb91e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Senate confirmation of Barrett replacement adds to Trump's record on judges"
-    excerpt: "President Trump continued to add to his tally of successful judicial appointments Tuesday with the confirmation of Thomas Kirsch II as a judge on the 7th Circuit Court of Appeals."
-    publishedDateTime: 2020-12-16T14:02:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-vc9xsYkE0w/senate-confirms-barrett-replacement-trump-record-on-judges"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-confirms-barrett-replacement-trump-record-on-judges.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-confirms-barrett-replacement-trump-record-on-judges.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/GettyImages-Thomas-Kirsch-II.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20333787581360.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Top Facebook, Twitter execs donated tens of thousands of dollars to Biden campaign"
-    excerpt: "Top executives at Facebook and Twitter donated tens of thousands of dollars to President-elect Joe Biden's campaign, Federal Election Commission records reviewed by Fox News reveal, as the social media platforms come under fire for limiting the circulation of reports surrounding Hunter Biden’s business"
-    publishedDateTime: 2020-12-15T14:49:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p51jS2evj3M/facebook-twitter-biden-campaign-donations-censorship"
-    ampWebUrl: "https://www.foxnews.com/politics/facebook-twitter-biden-campaign-donations-censorship.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-twitter-biden-campaign-donations-censorship.amp"
+  - title: "Biden urges Americans to sit out inauguration to stop spread of coronavirus"
+    excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the festivities will be heavily pared down and urged supporters not to come to the White House to prevent the spread of COVID-19. "
+    publishedDateTime: 2020-12-15T22:08:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AmeFXjlv_8w/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c3bd447-8a3b-48ca-855f-1905ec761300/f9d04390-711f-4fdc-ae12-5d8d954e431c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump: Coronavirus vaccine would have taken 'five years' if I wasn't president"
+    excerpt: "President Trump said finding a coronavirus vaccine would have taken \"five years\" if he weren't president during an interview that aired Sunday."
+    publishedDateTime: 2020-12-13T13:35:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nO8omASb0DA/trump-coronavirus-vaccine-pfizer-biontech-timeline"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-vaccine-pfizer-biontech-timeline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-pfizer-biontech-timeline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20335157446144.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden’s 3-part plan to tackle the coronavirus: Masks, vaccinations, opening schools"
+    excerpt: "President-elect Joe Biden on Tuesday announced a three-part plan to combat the coronavirus pandemic in the first 100 days of his administration. Biden, speaking in his hometown of Wilmington, Delaware as he formally unveiled his team of top health officials, emphasized “masking, vaccinations, opening"
+    publishedDateTime: 2020-12-08T20:45:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hFWSWUVnHL0/bidens-3-part-plan-to-tackle-the-coronavirus-masks-vaccinations-opening-schools"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-3-part-plan-to-tackle-the-coronavirus-masks-vaccinations-opening-schools.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-3-part-plan-to-tackle-the-coronavirus-masks-vaccinations-opening-schools.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden says 'I'm confident' Hunter did nothing wrong, amid federal probe into 'tax affairs'"
-    excerpt: "President-elect Biden on Wednesday directly addressed questions about a federal investigation into his son, Hunter Biden, for the first time, saying \"I'm confident\" that he did nothing wrong."
-    publishedDateTime: 2020-12-16T17:47:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1B4KF7eeTXw/biden-says-im-confident-hunter-did-nothing-wrong-amid-federal-probe-into-tax-affairs"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-im-confident-hunter-did-nothing-wrong-amid-federal-probe-into-tax-affairs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-im-confident-hunter-did-nothing-wrong-amid-federal-probe-into-tax-affairs.amp"
+  - title: "Biden urges taking coronavirus vaccine, wearing masks but says they shouldn’t be mandatory"
+    excerpt: "Biden urges taking coronavirus vaccine and wearing masks but says they shouldn’t be mandatory"
+    publishedDateTime: 2020-12-04T22:30:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XjteyxVDXNc/biden-urges-taking-coronavirus-vaccine-and-wearing-masks-but-says-they-shouldnt-be-mandatory"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-urges-taking-coronavirus-vaccine-and-wearing-masks-but-says-they-shouldnt-be-mandatory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-taking-coronavirus-vaccine-and-wearing-masks-but-says-they-shouldnt-be-mandatory.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
-    excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."
-    publishedDateTime: 2020-12-12T19:22:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3DbN5onkhFg/hawley-biden-hunter-biden-investigators"
-    ampWebUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
+  - title: "Many Republicans Now Say Joe Biden Is President-Elect"
+    excerpt: "The affirmation came as state electors made Joe Biden’s electoral victory official."
+    publishedDateTime: 2020-12-15T08:12:00Z
+    webUrl: "https://www.wsj.com/articles/many-republicans-now-say-joe-biden-is-president-elect-11608001929"
+    ampWebUrl: "https://www.wsj.com/amp/articles/many-republicans-now-say-joe-biden-is-president-elect-11608001929"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/many-republicans-now-say-joe-biden-is-president-elect-11608001929"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f6c2c04-9adb-4a48-9e69-b8d1fedfe5aa/8bfd9c7b-c905-49aa-ab42-e3a6d00a48a2/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-273450/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
-  - title: "Sarah Sanders says liberal media covered up for Hunter Biden during father's presidential campaign"
-    excerpt: "Reacting on \"Fox & Friends\" to news that Hunter Biden's tax affairs are the subject of a federal investigation on Thursday, Fox News contributor Sarah Sanders said Thursday that liberal media outlets \"covered it up\" for him during his father's presidential campaign."
-    publishedDateTime: 2020-12-10T15:05:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XiCezx9AAy0/liberal-media-hunter-biden-fathers-campaign-sanders"
-    ampWebUrl: "https://www.foxnews.com/politics/liberal-media-hunter-biden-fathers-campaign-sanders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liberal-media-hunter-biden-fathers-campaign-sanders.amp"
+  - title: "Biden announces 3-pronged plan to combat coronavirus when he takes office"
+    excerpt: "Masks, vaccinations, opening schools President-elect Joe Biden on Tuesday announced a three-part plan to combat the coronavirus pandemic in the first 100 days of his administration. Biden, speaking in his hometown of Wilmington,"
+    publishedDateTime: 2020-12-09T10:42:00Z
+    webUrl: "https://www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office"
+    ampWebUrl: "https://www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 134
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c44c1849-3309-4d8c-ab1c-2d0a3e07c29c/383584ff-f5d9-493b-bc0a-3a0b9a1b1667/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Tom Cotton: Hunter Biden's taxes are 'least damaging' part of probe into China dealings"
-    excerpt: "A grand jury investigation into Hunter Biden's taxes is the \"least damaging\" allegation against President-elect Joe Biden's son, Sen. Tom Cotton said Thursday."
-    publishedDateTime: 2020-12-10T16:41:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBlMuqDYz5o/hunter-biden-taxes-china-allegations-tom-cotton"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 147
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Tom-cotton-12-08.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden Defense Secretary pick at helm when team accused of ‘watering down’ ISIS intel"
-    excerpt: "President-elect Joe Biden’s choice for secretary of defense, retired Gen. Lloyd Austin, could make history as the first Black man to serve in the position, but getting his appointment through Congress could be an uphill battle."
-    publishedDateTime: 2020-12-10T01:58:00Z
-    webUrl: "https://www.foxnews.com/politics/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d949b97e-0bd4-4ac9-a84a-f695a9768fe3/6ac99de3-ed39-49ea-93fa-03e61ba34473/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hunter Biden 'tax affairs' under federal probe; links to China funds emerge, sources say"
-    excerpt: "Hunter Biden confirms grand jury investigation; links to China funds emerge, sources tell Fox News President-elect Joe Biden’s son Hunter Biden confirmed Wednesday that his \"tax affairs\" are under investigation by the U."
-    publishedDateTime: 2020-12-10T11:57:00Z
-    webUrl: "https://www.foxnews.com/us/hunter-biden-tax-affairs-under-federal-investigation-links-to-china-funds-emerge-sources-say"
-    ampWebUrl: "https://www.foxnews.com/us/hunter-biden-tax-affairs-under-federal-investigation-links-to-china-funds-emerge-sources-say.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/hunter-biden-tax-affairs-under-federal-investigation-links-to-china-funds-emerge-sources-say.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Biden-Hunter-Color-correct.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20342805312726.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
-    excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."
-    publishedDateTime: 2020-12-13T01:28:00Z
-    webUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators?amp%2F"
-    ampWebUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
+  - title: "Biden urges Americans to sit out inauguration to stop spread of coronavirus"
+    excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the festivities will be heavily pared down and urged supporters not to come to the White House to prevent the spread of COVID-19."
+    publishedDateTime: 2020-12-15T22:25:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 123
+    quality: 133
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f6c2c04-9adb-4a48-9e69-b8d1fedfe5aa/8bfd9c7b-c905-49aa-ab42-e3a6d00a48a2/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c3bd447-8a3b-48ca-855f-1905ec761300/f9d04390-711f-4fdc-ae12-5d8d954e431c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
+  - title: "House Panel Accuses Trump Administration of Concealing Evidence in CDC Coronavirus Probe"
+    excerpt: "A senior CDC official told House oversight subcommittee staff that she was instructed to delete an Aug. 8 email that showed a political appointee tried to meddle in a key report, according to a letter from Rep."
+    publishedDateTime: 2020-12-10T20:30:00Z
+    webUrl: "https://www.wsj.com/articles/house-panel-accuses-trump-administration-of-concealing-evidence-in-cdc-coronavirus-probe-11607614200"
+    ampWebUrl: "https://www.wsj.com/amp/articles/house-panel-accuses-trump-administration-of-concealing-evidence-in-cdc-coronavirus-probe-11607614200"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/house-panel-accuses-trump-administration-of-concealing-evidence-in-cdc-coronavirus-probe-11607614200"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 126
+    images:
+      - url: "https://images.wsj.net/im-271252/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Chris Rock calls on Joe Biden to create 'Supreme Court of Science' to handle any crisis like the coronavirus"
+    excerpt: "Chris Rock called on President-elect Joe Biden to institute a fourth branch of government dedicated to science in order to combat another crisis like the coronavirus pandemic in a bipartisan way."
+    publishedDateTime: 2020-12-10T13:31:00Z
+    webUrl: "https://www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Chris-Rock.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Religious Freedom Is at Risk in a Biden Administration"
+    excerpt: "Liberal voices across the country have claimed victory in the presidential race and have begun laying the framework for a Joe Biden administration. It should come as no surprise that these plans are broad in scope and radical in intent."
+    publishedDateTime: 2020-12-13T19:58:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/11/religious_freedom_is_at_risk_in_a_biden_administration_531161.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
+  - title: "Time to Call in a Special Counsel on Hunter & Joe Biden"
+    excerpt: "Now that the election is over and it is safe for the media to cover the Hunter Biden scandal they ignored when The Post broke the story in October, things in Washington are getting back to normal. … Trump should expend every option possible to expose how the election was"
+    publishedDateTime: 2020-12-13T19:18:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/12/time_to_call_in_a_special_counsel_on_hunter_amp_joe_biden_531273.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "AS3d06sT0+/IBhDZUp6MEJpXc3sk2DwCOFdkEAFaiZ13ovoA3iB7xSSSK0PCyJC3CvnrJ7W0I2WinXosOWYxMXc4dwR10HIfHWgLhXPvJNZhpAC8l5MZMcmTOtnrB+ac/xzTzPbaCHJo4XbTz3fCeCJa8tD7n7PRFz+FFEsz0ELotOh2D7bDHK8iyGdYfVSXgRm0yOFsK61hTcSvBISOijXL3I5QfUfUsJ5cJRJfEnPWDojbU7gHiv+o3CJ4I6/W+yJBxqhn7ny4tgsRoxt3BwL1P6LI5jI6ZTSjWcoGmbEzXQLKlzm85bAmqjfiSpNh/Yv/Lh7Z77bNfU/xxe/NOsScZvvp/zKRvolHzPexi+27EkG+JO8mKbpWKzSXjrLLUUAf0VeAd7RGGRmRPSo5fWTDZ8gQrJ+2xJTM8w+7h0G5POrpzLvb2wGat0NeaO7sTbKsyy8D4/F9lx2F2lnG0NHmhqG/j2E2cTev2edUt6+lQeafTAFZD+IyIpHXQTYWpENOjUIBn52jCNqW25cgjA==;+M5e7x84i5lIYyKhdX+WBA=="
 ---

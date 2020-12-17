@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-17-pence-to-get-coronavirus-vaccine-friday-biden-next-week.md",
+      "title": "Pence to get coronavirus vaccine Friday, Biden next week",
+      "excerpt": "President Trump said over the weekend that he thought White House staff should receive doses later in the program.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HungcgET-zU/pence-covid-vaccine-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HungcgET-zU/pence-covid-vaccine-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 560,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5327fed2-2d29-49e8-8409-9d29fe5c919d/2ed3c092-0c27-4836-922d-aecc7730ce5c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-covid-vaccine-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-covid-vaccine-biden.amp",
+      "publishedDateTime": "2020-12-16T17:06:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-democratic-donors-want-apology-from-biden-aide-after-bunch-of-f-ers-remark.md",
       "title": "Democratic donors want apology from Biden aide after 'bunch of f--ers' remark",
       "excerpt": "Some of President-elect Joe Biden’s donors want his aide Jennifer O’Malley Dillon to apologize after she called Republicans on Capitol Hill \"a bunch of f---ers,\" and at the same time praised Biden’s call for unity.",
@@ -507,63 +564,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-15-fauci-says-biden-harris-should-get-covid-19-vaccine-asap-for-security-reasons.md",
-      "title": "Fauci says Biden, Harris should get COVID-19 vaccine ASAP 'for security reasons'",
-      "excerpt": "After the first American was inoculated with a coronavirus vaccine on Monday, the nation’s top infectious disease expert recommended that President-elect Joe Biden and Vice President-elect Kamala Harris should move toward the front of the line.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3jP6646MLm8/fauci-biden-harris-covid-19-vaccine-asap-security-reasons",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3jP6646MLm8/fauci-biden-harris-covid-19-vaccine-asap-security-reasons",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5affd312-5021-48bd-bd9a-ed5c5607ccf8/f467789e-3b2b-44ee-be75-39e8312c303c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fauci-biden-harris-covid-19-vaccine-asap-security-reasons.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-biden-harris-covid-19-vaccine-asap-security-reasons.amp",
-      "publishedDateTime": "2020-12-15T10:56:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-12-15-putin-congratulates-biden-on-election-victory.md",
       "title": "Putin congratulates Biden on election victory",
       "excerpt": "",
@@ -576,7 +576,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1550,
+      "heat": 1490,
       "tags": null,
       "images": [
         {
@@ -1117,62 +1117,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-13-trump-coronavirus-vaccine-would-have-taken-five-years-if-i-wasnt-president.md",
-      "title": "Trump: Coronavirus vaccine would have taken 'five years' if I wasn't president",
-      "excerpt": "President Trump said finding a coronavirus vaccine would have taken \"five years\" if he weren't president during an interview that aired Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nO8omASb0DA/trump-coronavirus-vaccine-pfizer-biontech-timeline",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nO8omASb0DA/trump-coronavirus-vaccine-pfizer-biontech-timeline",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20335157446144.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-coronavirus-vaccine-pfizer-biontech-timeline.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-pfizer-biontech-timeline.amp",
-      "publishedDateTime": "2020-12-13T05:35:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-13-trump-tells-fox-friends-election-challenges-not-over-ahead-of-electoral-college-vote.md",
       "title": "Trump tells 'Fox & Friends' election challenges 'not over' ahead of Electoral College vote",
       "excerpt": "President Trump vowed that he and his campaign “are going to continue to go forward” with their legal challenges against November’s election results, despite the Electoral College getting set to cast their votes on Monday.",
@@ -1668,6 +1612,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-msnbcs-maddow-ive-learned-from-trump-era-not-to-blindly-trust-government-officials.md",
+      "title": "MSNBC's Maddow: I've learned from Trump era not to blindly trust government officials",
+      "excerpt": "Liberal MSNBC host Rachel Maddow said Wednesday she had learned from the Donald Trump era not to blindly trust the word of government officials, an interesting assertion given her reliance on intelligence leaks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/maddow-trump-blindly-trust-government-officials",
+      "originalUrl": "https://www.foxnews.com/media/maddow-trump-blindly-trust-government-officials",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b363eab2-ac74-465e-b3f1-10d3879e7279/0bc90726-6ad3-4bd1-8e53-201f95983aa7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/maddow-trump-blindly-trust-government-officials.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/maddow-trump-blindly-trust-government-officials.amp",
+      "publishedDateTime": "2020-12-11T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     }

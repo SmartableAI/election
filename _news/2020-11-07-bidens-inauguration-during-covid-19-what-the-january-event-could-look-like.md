@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/a-presidential-inauguration-amid-co
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/a-presidential-inauguration-amid-coronavirus-pandemic-what-the-event-could-look-like-come-january.amp"
 type: article
 quality: 172
-heat: 212
+heat: 232
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden unveils Transition COVID-19 Advisory Board to 'help shape' approach to coronavirus pandemic"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris on Monday announced the formation of the Transition COVID-19 Advisory Board which will “help shape” the incoming administration’s approach to managing the coronavirus pandemic."
+    publishedDateTime: 2020-11-09T10:00:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bjn2u51sdgc/biden-unveils-transition-covid-19-advisory-board-to-help-shape-approach-to-coronavirus-pandemic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-unveils-transition-covid-19-advisory-board-to-help-shape-approach-to-coronavirus-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-unveils-transition-covid-19-advisory-board-to-help-shape-approach-to-coronavirus-pandemic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "DC mayor disregarded own COVID restrictions to attend Biden victory speech, defends 'essential travel'"
     excerpt: "Despite Delaware being on District of Columbia Mayor Muriel Bower’s list of high-risk states, the mayor and her staff attended President-elect Joe Biden’s victory speech in Delaware Saturday, reportedly defending the trip as “essential travel.”"

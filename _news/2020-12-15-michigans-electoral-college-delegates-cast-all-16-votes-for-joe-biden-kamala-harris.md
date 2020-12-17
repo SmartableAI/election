@@ -406,6 +406,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden and Mike Pence will receive COVID-19 vaccine soon"
+    excerpt: "President-elect Joe Biden and Vice President Mike Pence are set to receive the COVID-19 vaccine soon. According to two transition officials familiar with the matter, Biden will receive the vaccine publicly as soon as next week."
+    publishedDateTime: 2020-12-17T01:00:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-16/joe-biden-and-mike-pence-will-receive-covid-19-vaccine-soon"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-16/joe-biden-and-mike-pence-will-receive-covid-19-vaccine-soon?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-16/joe-biden-and-mike-pence-will-receive-covid-19-vaccine-soon?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 140
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/ebb8421/2147483647/strip/true/crop/5731x3743+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faa%2Fe7%2F1be1dc5f4145beb620119e8129a3%2Fvirus-outbreak-vaccine-california-60828.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Biden to present new defense chief as Trump clings to failed effort to overturn election result – live"
     excerpt: "Trump calls to ‘overturn’ results as legal attempts to reverse Biden’s victory dwindle, while president-elect will nominate Lloyd Austin to lead US defense"
     publishedDateTime: 2020-12-09T18:13:00Z
@@ -943,6 +959,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/kamala-harris-robin-roberts-interview-06-abc-jc-201215_1608076757078_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "In picking a team, Biden has been guided by memories of his late son"
+    excerpt: "Joe Biden's memories of late son Beau have influenced his plans for his new administration. Republicans want to turn his surviving son, Hunter, into a liability."
+    publishedDateTime: 2020-12-17T01:45:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-16/for-biden-memories-of-one-son-and-the-woes-of-another-loom-large"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-16/for-biden-memories-of-one-son-and-the-woes-of-another-loom-large?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-16/for-biden-memories-of-one-son-and-the-woes-of-another-loom-large?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/0cae9f4/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2Feb%2F7553734d4a519332513aa0718392%2Fbiden-52612.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "The Latest: Biden tells governors that he'll work with them"
     excerpt: "President-elect Joe Biden has told governors from more than 30 states that the federal government needs to “get its act together” amid a surge in coronavirus infections and deaths"
@@ -2000,6 +2032,22 @@ related:
       - url: "https://www.courant.com/resizer/jApQITGhzn7otSTJ_mC2JNija8Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NLD44KDXDDUMYDJCN4FGGFUQGM.jpg"
         width: 1200
         height: 820
+        isCached: true
+  - title: "Donald Trump, Mike Pence, Congress, Supreme Court will be offered COVID-19 vaccine in coming days, officials say"
+    excerpt: "It was not clear if President-elect Joe Biden, Vice President-elect Kamala Harris and members of his transition team would get early vaccinations."
+    publishedDateTime: 2020-12-16T08:25:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2020/12/13/trump-pence-congress-supreme-court-coronavirus-vaccine/6533449002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6533449002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6533449002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/13/USAT/a52e7e4e-e2be-44bf-87a8-e608c83418cc-GTY_1230113245.jpg?auto=webp&crop=3620,2036,x934,y796&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Wisconsin's 10 electoral votes were officially cast for Joe Biden and Kamala Harris"
     excerpt: "Democratic electors met with Gov. Tony Evers' to finalize the state's 10 electoral votes for President-elect Biden and Vice President-elect Kamala Harris,"

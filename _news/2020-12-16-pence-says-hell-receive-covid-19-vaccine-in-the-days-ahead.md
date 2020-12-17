@@ -143,17 +143,17 @@ related:
         isCached: true
   - title: "White House: Vice President Mike Pence, wife Karen to receive COVID-19 vaccine Friday"
     excerpt: "Vice President Mike Pence, wife Karen to receive COVID-19 vaccine Friday. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission."
-    publishedDateTime: 2020-12-16T23:58:00Z
-    webUrl: "https://omaha.com/news/national/govt-and-politics/white-house-vice-president-mike-pence-wife-karen-to-receive-covid-19-vaccine-friday/article_5de5451a-f3a8-549b-a544-14f750b5a8c4.html"
+    publishedDateTime: 2020-12-17T02:34:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/white-house-vice-president-mike-pence-wife-karen-to-receive-covid-19-vaccine-friday/article_b0b61c33-5eee-5c19-8d65-a1c756aa5eb2.html"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 48
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
+        width: 600
+        height: 517
         isCached: true
 
 secured: "NGaqnWXzB1juoxkiFNfaYa5oQb+/J6Ao1+oFyjriuLTYwY5vLvtKDLgvgekrn63DXvj219K28DmccXr+/ZP3oxcdiFzH1sNUdIddgY+j8PQ8w2CJnv8RpYXb1REFQrZpuhlwkVFa8DUy2F9HNZgpeggKsCF+aCjIGN+iEYSk8Hodf/JVGhgEVaXEJW0SuGkO+m2z/3VsZlmksAhICOG0PAatjbwqbO2dCLWBTrk0Iu4FWz3We4QYm2au26a52If44PUS5fh9kucD8B25x2JLNKIqWB0j8uF6s4hZ7mAfgAmp7iSs/d7AjPbONDu/t74W+dmNKSLkq40k+F1t07s3tGadtW6ihEVLHU9+rCyEtxM=;f2GpVsC08np6aFCd5VU9dg=="

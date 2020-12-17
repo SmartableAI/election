@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pence to get coronavirus vaccine Friday, Biden next week"
+    excerpt: "President Trump said over the weekend that he thought White House staff should receive doses later in the program."
+    publishedDateTime: 2020-12-17T01:06:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HungcgET-zU/pence-covid-vaccine-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5327fed2-2d29-49e8-8409-9d29fe5c919d/2ed3c092-0c27-4836-922d-aecc7730ce5c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Fauci says Biden, Harris should get COVID-19 vaccine ASAP 'for security reasons'"
     excerpt: "After the first American was inoculated with a coronavirus vaccine on Monday, the nation’s top infectious disease expert recommended that President-elect Joe Biden and Vice President-elect Kamala Harris should move toward the front of the line."
     publishedDateTime: 2020-12-15T18:56:51Z
@@ -46,6 +62,70 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5affd312-5021-48bd-bd9a-ed5c5607ccf8/f467789e-3b2b-44ee-be75-39e8312c303c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden coronavirus team to include Rick Bright, ousted HHS official"
+    excerpt: "Rick Bright, the ousted Health and Human Services official, will be one of 10 advisory board members on Democratic President-elect Joe Biden's coronavirus task force, Biden's transition team announced on Monday."
+    publishedDateTime: 2020-11-09T12:25:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nNJ_j8adYkU/biden-coronavirus-task-force-rick-rick-bright"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-task-force-rick-rick-bright.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-task-force-rick-rick-bright.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/RickBright051820.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Hunter Biden news raises stakes for A.G. pick"
+    excerpt: "Biden's biggest test is still ahead."
+    publishedDateTime: 2020-12-10T20:38:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vn9eUhlPggs/hunter-biden-news-raises-stakes-for-a-g-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-news-raises-stakes-for-a-g-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-news-raises-stakes-for-a-g-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "BLM doesn't want Biden to consider LA mayor to join administration"
+    excerpt: "Black Lives Matter supporters on Tuesday protested for the 22nd consecutive day outside the residence of Los Angeles Mayor Eric Garcetti to demand that his name be dropped from consideration for a Cabinet pick within Joe Biden’s administration."
+    publishedDateTime: 2020-12-15T20:59:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lOTMaa-bE8A/blm-protests-outside-la-mayor-garcetti-home-biden-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/blm-protests-outside-la-mayor-garcetti-home-biden-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blm-protests-outside-la-mayor-garcetti-home-biden-admin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc00411e-37d4-453b-b1d8-e57fe5cc7500/16f94411-373d-4d7c-b1d2-cc050a5e12f0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden coronavirus adviser makes grim prediction after Thanksgiving holiday"
+    excerpt: "A member of President-elect Joe Biden's COVID-19 advisory board on Saturday made a grim prediction about U.S. coronavirus cases in the coming weeks after millions of Americans traveled for Thanksgiving, despite warnings from public health officials."
+    publishedDateTime: 2020-11-29T20:25:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SygX3JrEKqc/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20333787581360.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden urges Americans to sit out inauguration to stop spread of coronavirus"
     excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the festivities will be heavily pared down and urged supporters not to come to the White House to prevent the spread of COVID-19. "
@@ -63,21 +143,101 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "McConnell congratulates Joe Biden, Kamala Harris on election win from Senate"
-    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday congratulated President-elect Joe Biden on his victory following the Electoral College’s vote on Monday. “The Electoral College has"
-    publishedDateTime: 2020-12-15T15:52:00Z
-    webUrl: "https://nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/"
-    ampWebUrl: "https://nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/amp/"
+  - title: "Trump: Coronavirus vaccine would have taken 'five years' if I wasn't president"
+    excerpt: "President Trump said finding a coronavirus vaccine would have taken \"five years\" if he weren't president during an interview that aired Sunday."
+    publishedDateTime: 2020-12-13T13:35:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nO8omASb0DA/trump-coronavirus-vaccine-pfizer-biontech-timeline"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-vaccine-pfizer-biontech-timeline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-pfizer-biontech-timeline.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 162
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/mcconnell-biden.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20335157446144.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden’s 3-part plan to tackle the coronavirus: Masks, vaccinations, opening schools"
+    excerpt: "President-elect Joe Biden on Tuesday announced a three-part plan to combat the coronavirus pandemic in the first 100 days of his administration. Biden, speaking in his hometown of Wilmington, Delaware as he formally unveiled his team of top health officials, emphasized “masking, vaccinations, opening"
+    publishedDateTime: 2020-12-08T20:45:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hFWSWUVnHL0/bidens-3-part-plan-to-tackle-the-coronavirus-masks-vaccinations-opening-schools"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-3-part-plan-to-tackle-the-coronavirus-masks-vaccinations-opening-schools.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-3-part-plan-to-tackle-the-coronavirus-masks-vaccinations-opening-schools.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden urges taking coronavirus vaccine, wearing masks but says they shouldn’t be mandatory"
+    excerpt: "Biden urges taking coronavirus vaccine and wearing masks but says they shouldn’t be mandatory"
+    publishedDateTime: 2020-12-04T22:30:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XjteyxVDXNc/biden-urges-taking-coronavirus-vaccine-and-wearing-masks-but-says-they-shouldnt-be-mandatory"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-urges-taking-coronavirus-vaccine-and-wearing-masks-but-says-they-shouldnt-be-mandatory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-taking-coronavirus-vaccine-and-wearing-masks-but-says-they-shouldnt-be-mandatory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump Jr. to stump for Perdue after Pence rallies Thursday, as Trump team answers Biden event"
+    excerpt: "Donald Trump Jr. will hold his first in-person events of the Georgia Senate runoffs this week for Sen. David Perdue, adding himself to the long list of boldface political names to descend on the Peach State for the critical Jan."
+    publishedDateTime: 2020-12-16T12:03:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-pence-rallies-thursday-trump-team-answers-biden-event"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-pence-rallies-thursday-trump-team-answers-biden-event.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-pence-rallies-thursday-trump-team-answers-biden-event.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-Jr-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Many Republicans Now Say Joe Biden Is President-Elect"
+    excerpt: "The affirmation came as state electors made Joe Biden’s electoral victory official."
+    publishedDateTime: 2020-12-15T08:12:00Z
+    webUrl: "https://www.wsj.com/articles/many-republicans-now-say-joe-biden-is-president-elect-11608001929"
+    ampWebUrl: "https://www.wsj.com/amp/articles/many-republicans-now-say-joe-biden-is-president-elect-11608001929"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/many-republicans-now-say-joe-biden-is-president-elect-11608001929"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-273450/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden announces 3-pronged plan to combat coronavirus when he takes office"
+    excerpt: "Masks, vaccinations, opening schools President-elect Joe Biden on Tuesday announced a three-part plan to combat the coronavirus pandemic in the first 100 days of his administration. Biden, speaking in his hometown of Wilmington,"
+    publishedDateTime: 2020-12-09T10:42:00Z
+    webUrl: "https://www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office"
+    ampWebUrl: "https://www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20342805312726.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden urges Americans to sit out inauguration to stop spread of coronavirus"
     excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the festivities will be heavily pared down and urged supporters not to come to the White House to prevent the spread of COVID-19."
@@ -95,22 +255,56 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Biden inauguration planners urge supporters to skip event due to COVID-19"
-    excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the Jan. 20 festivities will be heavily pared down and urged supporters to prevent the spread of the coronavirus by not coming to the event."
-    publishedDateTime: 2020-12-16T05:27:00Z
-    webUrl: "https://www.foxnews.com/politics/live-updates-biden-12-16-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-12-16-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-16-2020.amp"
+  - title: "House Panel Accuses Trump Administration of Concealing Evidence in CDC Coronavirus Probe"
+    excerpt: "A senior CDC official told House oversight subcommittee staff that she was instructed to delete an Aug. 8 email that showed a political appointee tried to meddle in a key report, according to a letter from Rep."
+    publishedDateTime: 2020-12-10T20:30:00Z
+    webUrl: "https://www.wsj.com/articles/house-panel-accuses-trump-administration-of-concealing-evidence-in-cdc-coronavirus-probe-11607614200"
+    ampWebUrl: "https://www.wsj.com/amp/articles/house-panel-accuses-trump-administration-of-concealing-evidence-in-cdc-coronavirus-probe-11607614200"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/house-panel-accuses-trump-administration-of-concealing-evidence-in-cdc-coronavirus-probe-11607614200"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 126
+    images:
+      - url: "https://images.wsj.net/im-271252/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Chris Rock calls on Joe Biden to create 'Supreme Court of Science' to handle any crisis like the coronavirus"
+    excerpt: "Chris Rock called on President-elect Joe Biden to institute a fourth branch of government dedicated to science in order to combat another crisis like the coronavirus pandemic in a bipartisan way."
+    publishedDateTime: 2020-12-10T13:31:00Z
+    webUrl: "https://www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 127
+    quality: 116
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/720c3b05-0120-4bac-9997-05b32886b143/b7f1c478-7057-4cc1-b544-e432868cb4b4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Chris-Rock.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
+  - title: "Religious Freedom Is at Risk in a Biden Administration"
+    excerpt: "Liberal voices across the country have claimed victory in the presidential race and have begun laying the framework for a Joe Biden administration. It should come as no surprise that these plans are broad in scope and radical in intent."
+    publishedDateTime: 2020-12-13T19:58:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/11/religious_freedom_is_at_risk_in_a_biden_administration_531161.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
+  - title: "Time to Call in a Special Counsel on Hunter & Joe Biden"
+    excerpt: "Now that the election is over and it is safe for the media to cover the Hunter Biden scandal they ignored when The Post broke the story in October, things in Washington are getting back to normal. … Trump should expend every option possible to expose how the election was"
+    publishedDateTime: 2020-12-13T19:18:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/12/time_to_call_in_a_special_counsel_on_hunter_amp_joe_biden_531273.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "4LdNdfXr2cwzKnxx11ICj5zbyl9mRqeZIDzKx3JWnxil7pqT7X7Ug4/d724CbfvMomLBOJprd5ss7icBGmAAIHLlQSQQiVsEY8F2qZKlCMD/8aTbmB9cs0dIeJN97EXT7MRMOHZ604xHe7gX1PslVxPZRKCoJxUPNAM90WuGZeKIok1s4RQoRZQ9NlLENsFxqvl0kRuaDKtAmZl7xJI5VrUKMoqR/VtGrP62jSxU5vvJo0ahxj1l8GsyYG0KwhzrXTWI/mRXM1JGc1H+P7q8z++qaVRlxi2hHenHHLnFWwtPJFu7LNV9Um6K+Pq9D/kfdDLO2mFcw7+rp1KAwkun74xRXFe0QQVh5ZxrJ61CvRc=;b08CjG3md/aolP49UcZY/w=="
 ---

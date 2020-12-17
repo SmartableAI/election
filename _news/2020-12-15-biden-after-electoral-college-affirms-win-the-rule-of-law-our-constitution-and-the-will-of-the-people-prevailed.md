@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/joe-biden-speech-elector
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/joe-biden-speech-electoral-college/index.html"
 type: article
 quality: 153
-heat: 253
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,69 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "'Democracy prevailed': Biden tries to close the door on a tumultuous election"
-    excerpt: "As the Electoral College moves to seal his victory, the president-elect is shifting his attention to the pandemic."
-    publishedDateTime: 2020-12-14T21:55:00Z
-    webUrl: "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216"
+  - title: "Biden's search for an attorney general complicated by 'competing questions'"
+    excerpt: "The deliberations among President-elect Joe Biden's tight circle of advisers about whom he should nominate as attorney general have emerged as some of the more complicated of the transition, sources familiar with the process tell CNN, with possible investigations into President Donald Trump, a federal"
+    publishedDateTime: 2020-12-17T02:16:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-10qhQXfO-o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/biden-attorney-general/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/biden-attorney-general/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 147
+      name: CNN
+      domain: cnn.com
+    quality: 173
     images:
-      - url: "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215062840-03-joe-biden-1214-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Alexander: 'It looks very much like the electors will vote for Joe Biden'"
-    excerpt: "Sen. Lamar Alexander (R-Tenn.) tells Chuck Todd that there shouldn't be any doubt about who won the 2020 presidential election after the Electoral College votes on Monday."
-    publishedDateTime: 2020-12-13T13:47:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/alexander-it-looks-very-much-like-the-electors-will-vote-for-joe-biden-97645637979"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97645637979"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97645637979"
+  - title: "Electoral College to confirm Biden victory on Monday"
+    excerpt: "During a live stream on Monday, the Electoral College is expected to cement President-elect Joe Biden’s victory in the 2020 presidential election."
+    publishedDateTime: 2020-12-14T00:33:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/electoral-college-to-confirm-biden-victory-on-monday-97664069532?playlist=mmlsnnd_bestofnbc-nnd"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97664069532"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97664069532"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 134
+    quality: 135
     images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_clip_lamaralexandermr1_201213.jpg"
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kod_electoral_college_vote_xtalk_201213_1920x1080.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "First U.S. vaccines, Electoral College affirms Biden win and Barr is out"
-    excerpt: "Health care workers get first vaccines as Covid death toll tops 300,000. With the prick of a needle, the battle against Covid-19 took what could be a decisive turn Monday as the f"
-    publishedDateTime: 2020-12-15T13:36:00Z
-    webUrl: "https://www.nbcnews.com/news/morning-briefing/first-u-s-vaccines-electoral-college-affirms-biden-win-barr-n1251233"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251233"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251233"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3435796/201215-biden-mc-1151_83138c3e116d56aec776b6c91d99bc12.JPG"
-        width: 5380
-        height: 3329
-        isCached: true
-  - title: "Biden Transition Live Updates: Electoral College Vote Underway Across the Country"
-    excerpt: "Electors in states across the country have cast their votes for president, and the winner is not in doubt: Joseph R. Biden Jr. will be officially declared the president-elect."
-    publishedDateTime: 2020-12-14T15:49:00Z
-    webUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/14/us/joe-biden-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 130
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/14/us/politics/14transition-briefing-biden-speech/14transition-briefing-biden-speech-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Presidential Transition Highlights: Election ‘Should Be Celebrated, Not Attacked,’ Biden Says as Electoral College Affirms His Victory"
     excerpt: "Electors in states across the country have cast their votes for president, and the winner is not in doubt: Joseph R. Biden Jr. will be officially declared the president-elect."

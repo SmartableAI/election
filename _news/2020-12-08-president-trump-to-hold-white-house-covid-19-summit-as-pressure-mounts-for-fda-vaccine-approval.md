@@ -170,6 +170,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump 'penned political suicide note' at every Covid press conference, former Australian PM says"
+    excerpt: "If US president handled coronavirus pandemic ‘half-decently’ he would have won election, John Howard says"
+    publishedDateTime: 2020-12-16T16:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/17/trump-penned-political-suicide-note-at-every-covid-press-conference-former-australian-pm-says"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/17/trump-penned-political-suicide-note-at-every-covid-press-conference-former-australian-pm-says"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/17/trump-penned-political-suicide-note-at-every-covid-press-conference-former-australian-pm-says"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 112
+    images:
+      - url: "https://i.guim.co.uk/img/media/b313b2d8fcdf19bc0deec89605a864cc624a936b/310_0_4752_2851/master/4752.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c524f276219e23e262a50558b87723e3"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump claimed that COVID-19 vaccine would have taken 'five years' to develop if he weren't president"
     excerpt: "Trump's Operation Warp Speed has spent billions funding vaccine efforts, but Pfizer didn't take any federal money for research and development."
     publishedDateTime: 2020-12-13T22:16:00Z

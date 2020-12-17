@@ -2,6 +2,171 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-17-mike-and-karen-pence-will-get-the-covid-vaccine-before-cameras-this-friday.md",
+      "title": "Mike And Karen Pence Will Get The COVID Vaccine Before Cameras This Friday",
+      "excerpt": "Vice President Mike Pence is set to get the COVID-19 vaccine at the White House on Friday, officials announced Wednesday, making him the highest-ranking person in government to receive a dosage. Pence and second lady Karen Pence are expected to get the vaccine in public before media \"to promote the safety and efficacy of the vaccine and build confidence among the American people,",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/salvadorhernandez/mike-pence-joe-biden-vaccine?origin=web-hf",
+      "originalUrl": "https://www.buzzfeednews.com/article/salvadorhernandez/mike-pence-joe-biden-vaccine?origin=web-hf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-12/14/22/campaign_images/c84267b5258a/which-twilight-movie-matches-your-personality-2-8362-1607986529-30_dblbig.jpg",
+          "width": 625,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/salvadorhernandez/mike-pence-joe-biden-vaccine",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/salvadorhernandez/mike-pence-joe-biden-vaccine",
+      "publishedDateTime": "2020-12-16T18:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BuzzFeed News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-bidens-search-for-an-attorney-general-complicated-by-competing-questions.md",
+      "title": "Biden's search for an attorney general complicated by 'competing questions'",
+      "excerpt": "The deliberations among President-elect Joe Biden's tight circle of advisers about whom he should nominate as attorney general have emerged as some of the more complicated of the transition, sources familiar with the process tell CNN, with possible investigations into President Donald Trump, a federal",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-10qhQXfO-o/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-10qhQXfO-o/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201215062840-03-joe-biden-1214-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/16/politics/biden-attorney-general/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/biden-attorney-general/index.html",
+      "publishedDateTime": "2020-12-16T18:16:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-pence-to-get-coronavirus-vaccine-friday-biden-next-week.md",
+      "title": "Pence to get coronavirus vaccine Friday, Biden next week",
+      "excerpt": "President Trump said over the weekend that he thought White House staff should receive doses later in the program.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HungcgET-zU/pence-covid-vaccine-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HungcgET-zU/pence-covid-vaccine-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 560,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5327fed2-2d29-49e8-8409-9d29fe5c919d/2ed3c092-0c27-4836-922d-aecc7730ce5c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-covid-vaccine-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-covid-vaccine-biden.amp",
+      "publishedDateTime": "2020-12-16T17:06:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-democratic-donors-want-apology-from-biden-aide-after-bunch-of-f-ers-remark.md",
       "title": "Democratic donors want apology from Biden aide after 'bunch of f--ers' remark",
       "excerpt": "Some of President-elect Joe Biden’s donors want his aide Jennifer O’Malley Dillon to apologize after she called Republicans on Capitol Hill \"a bunch of f---ers,\" and at the same time praised Biden’s call for unity.",
@@ -55,6 +220,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-george-pell-trump-is-a-barbarian-but-in-some-important-ways-hes-our-barbarian.md",
+      "title": "George Pell: Trump is a barbarian, but 'in some important ways' he's our barbarian",
+      "excerpt": "Cardinal praises president’s ‘splendid’ supreme court appointments at the launch of his prison journal",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/australia-news/2020/dec/17/george-pell-trump-is-a-barbarian-but-in-some-important-ways-hes-our-barbarian",
+      "originalUrl": "https://www.theguardian.com/australia-news/2020/dec/17/george-pell-trump-is-a-barbarian-but-in-some-important-ways-hes-our-barbarian",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a1c8e57a076a7d3d3646b9555dbad5efda037fec/0_10_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=34a518665ddd9a135335792c884b19f7",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/australia-news/2020/dec/17/george-pell-trump-is-a-barbarian-but-in-some-important-ways-hes-our-barbarian",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2020/dec/17/george-pell-trump-is-a-barbarian-but-in-some-important-ways-hes-our-barbarian",
+      "publishedDateTime": "2020-12-16T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -547,6 +764,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-we-want-them-infected-trump-appointee-demanded-herd-immunity-strategy-emails-reveal.md",
+      "title": "‘We want them infected’: Trump appointee demanded ‘herd immunity’ strategy, emails reveal",
+      "excerpt": "HHS science adviser Paul Alexander called for millions of Americans to be infected as means of fighting Covid-19.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/16/trump-appointee-demanded-herd-immunity-strategy-446408",
+      "originalUrl": "https://www.politico.com/news/2020/12/16/trump-appointee-demanded-herd-immunity-strategy-446408",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/f9/53/1615c24b4e62bbaccda080acbd5f/ap20338801391322.jpg",
+          "width": 4827,
+          "height": 3216,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/16/trump-appointee-demanded-herd-immunity-strategy-446408",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/16/trump-appointee-demanded-herd-immunity-strategy-446408",
+      "publishedDateTime": "2020-12-16T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -1058,275 +1332,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-mcconnell-sets-stage-for-new-face-off-with-biden-after-delivering-blow-to-trumps-election-fantasy.md",
-      "title": "McConnell sets stage for new face-off with Biden after delivering blow to Trump's election fantasy",
-      "excerpt": "President Donald Trump is now learning, in the words of his Rolling Stones campaign anthem, that he can't always get what he wants. Sen. Mitch McConnell, on the other hand, usually does.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/44n-hfRbpmQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/44n-hfRbpmQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 991,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201215105233-mcconnell-biden-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/16/politics/joe-biden-mitch-mcconnell-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/joe-biden-mitch-mcconnell-donald-trump/index.html",
-      "publishedDateTime": "2020-12-16T04:17:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-election-2020-today-trump-base-resigned-buttigieg-picked.md",
-      "title": "Election 2020 Today: Trump base resigned, Buttigieg picked",
-      "excerpt": "Now that the Electoral College has formalized Joe Biden’s win and Republican officials are finally acknowledging Biden as president-elect, many Trump voters across the country seem to be doing the sam",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/election-2020-today-trump-base-resigned-buttigieg-picked-74755240",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/election-2020-today-trump-base-resigned-buttigieg-picked-74755240",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 560,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_5557287d6a5f4a1b867acf4d62e5191d_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/election-2020-today-trump-base-resigned-buttigieg-picked-74755240",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/election-2020-today-trump-base-resigned-buttigieg-picked-74755240",
-      "publishedDateTime": "2020-12-16T03:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-analysis-federal-reserve-boneheads-emerge-from-trump-era-unscathed.md",
-      "title": "Analysis-Federal Reserve 'boneheads' emerge from Trump era unscathed",
-      "excerpt": "\"Boneheads.\" \"Pathetic.\" An \"enemy\" of the United States. President Donald Trump was often vicious in his critique of the U.S. Federal Reserve, bashing the central bank governors' monetary policy decisions with tweets and verbal barbs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-fed-trump-idINKBN28Q1CZ",
-      "originalUrl": "https://www.reuters.com/article/usa-fed-trump-idINKBN28Q1CZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544742238&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF0PG",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28Q1CZ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28Q1CZ",
-      "publishedDateTime": "2020-12-16T03:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-like-a-hand-grasping-trump-appointees-describe-the-crushing-of-the-cdc.md",
-      "title": "‘Like a Hand Grasping’: Trump Appointees Describe the Crushing of the C.D.C.",
-      "excerpt": "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, go public on the Trump administration’s manipulation of the agency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/09/us/politics/00dc-virus-cdc-2/00dc-virus-cdc-2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/16/us/politics/cdc-trump.amp.html",
-      "publishedDateTime": "2020-12-16T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-irans-rouhani-says-he-is-happy-that-lawless-trump-is-leaving-office.md",
-      "title": "Iran's Rouhani says he is happy that 'lawless' Trump is leaving office",
-      "excerpt": "Iranian President Hassan Rouhani said on Wednesday he was happy that Donald Trump was leaving office, calling him \"the most lawless U.S. president\" and a \"terrorist\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/iran-usa-rouhani-int-idUSKBN28Q0SS",
-      "originalUrl": "https://www.reuters.com/article/iran-usa-rouhani-int-idUSKBN28Q0SS",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544720502&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF0EW",
-          "width": 868,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28Q0T2",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q0T2",
-      "publishedDateTime": "2020-12-16T00:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

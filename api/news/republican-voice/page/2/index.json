@@ -2,63 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-12-msnbcs-maddow-ive-learned-from-trump-era-not-to-blindly-trust-government-officials.md",
-      "title": "MSNBC's Maddow: I've learned from Trump era not to blindly trust government officials",
-      "excerpt": "Liberal MSNBC host Rachel Maddow said Wednesday she had learned from the Donald Trump era not to blindly trust the word of government officials, an interesting assertion given her reliance on intelligence leaks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/maddow-trump-blindly-trust-government-officials",
-      "originalUrl": "https://www.foxnews.com/media/maddow-trump-blindly-trust-government-officials",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b363eab2-ac74-465e-b3f1-10d3879e7279/0bc90726-6ad3-4bd1-8e53-201f95983aa7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/maddow-trump-blindly-trust-government-officials.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/maddow-trump-blindly-trust-government-officials.amp",
-      "publishedDateTime": "2020-12-11T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-11-us-china-tensions-worsen-with-hunter-biden-eric-swalwell-revelations-gop-lawmakers.md",
       "title": "US-China tensions worsen with Hunter Biden, Eric Swalwell revelations: GOP lawmakers",
       "excerpt": "The clouds over Hunter Biden, whose business dealings in China were investigated by two GOP committee chairs in the Senate, and Rep. Eric Swalwell, D-Calif., raise fresh questions about how the United States will confront one of its top strategic foes in 2021 and beyond.",
@@ -554,63 +497,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-chris-rock-calls-on-joe-biden-to-create-supreme-court-of-science-to-handle-any-crisis-like-the-coronavirus.md",
-      "title": "Chris Rock calls on Joe Biden to create 'Supreme Court of Science' to handle any crisis like the coronavirus",
-      "excerpt": "Chris Rock called on President-elect Joe Biden to institute a fourth branch of government dedicated to science in order to combat another crisis like the coronavirus pandemic in a bipartisan way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus",
-      "originalUrl": "https://www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Chris-Rock.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus.amp",
-      "publishedDateTime": "2020-12-10T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     },
     {
@@ -1284,6 +1170,62 @@
       ]
     },
     {
+      "path": "_news/2020-12-07-trump-to-sign-coronavirus-vaccine-executive-order-prioritizing-americans-over-foreign-nations.md",
+      "title": "Trump to sign coronavirus vaccine executive order prioritizing Americans over foreign nations",
+      "excerpt": "EXCLUSIVE: President Trump is expected to sign an executive order Tuesday that will ensure all Americans have access to the coronavirus vaccine before the U.S. government begins aiding nations around the world, Fox News has learned.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gY0UJnc0-Sg/trump-executive-order-coronavirus-vaccine-america-first",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gY0UJnc0-Sg/trump-executive-order-coronavirus-vaccine-america-first",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-executive-order-coronavirus-vaccine-america-first.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-executive-order-coronavirus-vaccine-america-first.amp",
+      "publishedDateTime": "2020-12-07T10:58:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19.md",
       "title": "Trump tweets Rudy Giuliani has tested positive for COVID-19",
       "excerpt": "President Trump’s lawyer and former New York City mayor Rudy Giuliani, who has been pressing the case that the 2020 election was rife with fraud, has the coronavirus, Trump tweeted on",
@@ -1570,7 +1512,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1666,6 +1608,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-msnbcs-kasie-hunt-panned-for-saying-shes-struck-how-biden-as-a-rule-doesnt-lie.md",
+      "title": "MSNBC's Kasie Hunt panned for saying she's 'struck' how Biden 'as a rule, doesn’t lie'",
+      "excerpt": "MSNBC anchor Kasie Hunt was widely mocked on social media Friday for being excessively trusting of President-elect Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/msnbc-kasie-hunt-biden-as-a-rule-doesnt-lie",
+      "originalUrl": "https://www.foxnews.com/media/msnbc-kasie-hunt-biden-as-a-rule-doesnt-lie",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2834c4a-59cb-4100-b7d6-b7ee683d190e/49ce0484-dc44-47bf-b266-f43b8449cacb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/msnbc-kasie-hunt-biden-as-a-rule-doesnt-lie.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-kasie-hunt-biden-as-a-rule-doesnt-lie.amp",
+      "publishedDateTime": "2020-12-04T17:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     }

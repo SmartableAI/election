@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-17-bidens-search-for-an-attorney-general-complicated-by-competing-questions.md",
+      "title": "Biden's search for an attorney general complicated by 'competing questions'",
+      "excerpt": "The deliberations among President-elect Joe Biden's tight circle of advisers about whom he should nominate as attorney general have emerged as some of the more complicated of the transition, sources familiar with the process tell CNN, with possible investigations into President Donald Trump, a federal",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-10qhQXfO-o/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-10qhQXfO-o/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201215062840-03-joe-biden-1214-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/16/politics/biden-attorney-general/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/biden-attorney-general/index.html",
+      "publishedDateTime": "2020-12-16T18:16:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-george-w-bush-sends-holiday-card-with-pointed-message-as-trump-denies-election-loss.md",
       "title": "George W. Bush sends holiday card with pointed message as Trump denies election loss",
       "excerpt": "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss.\n    \n",
@@ -166,6 +222,63 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-we-want-them-infected-trump-appointee-demanded-herd-immunity-strategy-emails-reveal.md",
+      "title": "‘We want them infected’: Trump appointee demanded ‘herd immunity’ strategy, emails reveal",
+      "excerpt": "HHS science adviser Paul Alexander called for millions of Americans to be infected as means of fighting Covid-19.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/16/trump-appointee-demanded-herd-immunity-strategy-446408",
+      "originalUrl": "https://www.politico.com/news/2020/12/16/trump-appointee-demanded-herd-immunity-strategy-446408",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/f9/53/1615c24b4e62bbaccda080acbd5f/ap20338801391322.jpg",
+          "width": 4827,
+          "height": 3216,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/16/trump-appointee-demanded-herd-immunity-strategy-446408",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/16/trump-appointee-demanded-herd-immunity-strategy-446408",
+      "publishedDateTime": "2020-12-16T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -578,7 +691,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -736,62 +849,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-15-biden-after-electoral-college-affirms-win-the-rule-of-law-our-constitution-and-the-will-of-the-people-prevailed.md",
-      "title": "Biden after Electoral College affirms win: 'The rule of law, our Constitution and the will of the people prevailed'",
-      "excerpt": "President-elect Joe Biden will declare it time to \"turn the page, to unite, to heal\" in a speech Monday night after the Electoral College makes his victory over President Donald Trump official, according to excerpts of Biden's prepared remarks released by his transition team.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VTp2PwNROKQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VTp2PwNROKQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 253,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201209092448-02-joe-biden-health-team-1208-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/14/politics/joe-biden-speech-electoral-college/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/joe-biden-speech-electoral-college/index.html",
-      "publishedDateTime": "2020-12-14T17:26:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-14-simply-unacceptable-congressman-exiting-gop-calls-out-trumps-racist-attacks.md",
       "title": "'Simply unacceptable:' Congressman exiting GOP calls out Trump's racist attacks",
       "excerpt": "Rep. Paul Mitchell tells CNN's Jake Tapper that he no longer wants to be affiliated with the Republican Party and calls out President Trump's racist attacks.\n    \n",
@@ -844,6 +901,63 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-democracy-prevailed-biden-tries-to-close-the-door-on-a-tumultuous-election.md",
+      "title": "'Democracy prevailed': Biden tries to close the door on a tumultuous election",
+      "excerpt": "As the Electoral College moves to seal his victory, the president-elect is shifting his attention to the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216",
+      "originalUrl": "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216",
+      "publishedDateTime": "2020-12-14T13:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -1580,119 +1694,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-trevor-noah-trump-takes-another-l-trying-to-unlose-the-election.md",
-      "title": "Trevor Noah: Trump Takes Another ‘L’ Trying to ‘Unlose’ the Election",
-      "excerpt": "Not only did they shut this case down, but they shut it down in just 34 minutes,” Noah said of the Supreme Court. “They didn’t even pretend that they were going to consider it.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/10/arts/television/trevor-noah-trump-supreme-court.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/10/arts/television/trevor-noah-trump-supreme-court.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/10/arts/10latenight/10latenight-facebookJumbo-v2.png",
-          "width": 669,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/10/arts/television/trevor-noah-trump-supreme-court.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/10/arts/television/trevor-noah-trump-supreme-court.amp.html",
-      "publishedDateTime": "2020-12-09T22:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-trump-asked-ted-cruz-to-argue-texas-election-lawsuit-if-it-reaches-supreme-court.md",
-      "title": "Trump asked Ted Cruz to argue Texas election lawsuit if it reaches Supreme Court",
-      "excerpt": "President Donald Trump personally asked Republican Sen. Ted Cruz of Texas if he would argue a long-shot election lawsuit seeking to overturrn the election results in four battleground states, should the Supreme Court agree to take it up, two sources told CNN on Wednesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HcIORmwVZHw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HcIORmwVZHw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201013140500-14-barrett-hearing-1013-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html",
-      "publishedDateTime": "2020-12-09T18:29:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

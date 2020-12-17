@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/will-biden-consider-republicans-adm
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-biden-consider-republicans-administration.amp"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b76b2b0f-fcb9-48aa-b2b1-a51905a51954/44349009-d613-4890-9a79-b7cf9e14182a/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "DC mayor tells everyone who voted to get tested for COVID, but mum on Biden celebrations"
+    excerpt: "District of Columbia Mayor Muriel Bowser on Sunday encouraged those who voted in the 2020 Presidential Election to get tested for COVID-19, yet she has been noticeably quiet on the thousands of Americans who – at the risk of spreading the coronavirus – participated in public celebrations of Joe Biden’s"
+    publishedDateTime: 2020-11-08T23:45:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2kEBtXd3ug0/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win"
+    ampWebUrl: "https://www.foxnews.com/politics/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309670626830.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Some Catholics sounding alarm about Biden administration, conflicts with moral teachings"
     excerpt: "Some Catholic groups and leaders are warning that President-elect Biden would, despite being a member of the faith, enact harmful policies and create confusion about church teachings."

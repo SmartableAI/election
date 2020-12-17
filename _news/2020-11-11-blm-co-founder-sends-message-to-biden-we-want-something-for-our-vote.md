@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/blm-co-founder-to-biden-we-want-som
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blm-co-founder-to-biden-we-want-something-for-our-vote.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2c60aaf-1f68-48b9-8946-c3f624ae8763/891e0b9e-a8f3-4b7e-b280-504c1e456a76/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Elizabeth Warren's ex-chief of staff, senior Bernie Sanders adviser among members of Biden transition team"
+    excerpt: "The transition organization for President-elect Joe Biden announced its \"agency review teams\" on Tuesday, and among those who will be laying the groundwork for the Biden-Harris administration are a senior adviser to Sen. Bernie Sanders and the former chief of staff to Sen. Elizabeth Warren."
+    publishedDateTime: 2020-11-11T18:51:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lic4MTWjabY/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team"
+    ampWebUrl: "https://www.foxnews.com/politics/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "EWqZOXdk9ZArlLHaZbrVLhuHO9/BlTfYl9v0G1igOPLvQuRG64XUO5u0rKk5u8ddM7P24/N9eFBiZ2NOmvtX6IvQaCo3kkLWvwXRXso6UET62eza7r7vXjm/3Xd5eZ+tHvMVCx/0UXcyQ3FvZQ0xbyyfTUpqmjl4Vh54rxc1rm624LFWp1FIu9mmtiaJ9+9OHefSJVeHT/3JwVorMyyQ+JOgjApD6WNJL6AcCOsZOZzGteQbuOog0FlAu3qPs3v31iFlcjXq0tL4ZGhOYVnwapNH/SNkAkDvJLvXFUUtBtIHxYRadoUTwjukPOQXnnBDxVv/8QfbrqCOE3e3ekV5d4YJUBbHc7X7k98krkPNSaw=;+hAAKt6plgsnsQrzW9xKOQ=="

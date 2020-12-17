@@ -239,22 +239,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Hunter Biden news raises stakes for A.G. pick"
-    excerpt: "Biden's biggest test is still ahead."
-    publishedDateTime: 2020-12-10T20:38:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vn9eUhlPggs/hunter-biden-news-raises-stakes-for-a-g-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-news-raises-stakes-for-a-g-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-news-raises-stakes-for-a-g-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Will Joe Biden fire the Hunter Biden investigators?"
     excerpt: "President-elect Joe Biden has not said whether he’ll commit to keeping the Delaware U.S. Attorney investigating Hunter Biden in his position in the new administration. "
     publishedDateTime: 2020-12-10T22:43:14Z
@@ -382,22 +366,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "BLM doesn't want Biden to consider LA mayor to join administration"
-    excerpt: "Black Lives Matter supporters on Tuesday protested for the 22nd consecutive day outside the residence of Los Angeles Mayor Eric Garcetti to demand that his name be dropped from consideration for a Cabinet pick within Joe Biden’s administration."
-    publishedDateTime: 2020-12-15T20:59:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lOTMaa-bE8A/blm-protests-outside-la-mayor-garcetti-home-biden-admin"
-    ampWebUrl: "https://www.foxnews.com/politics/blm-protests-outside-la-mayor-garcetti-home-biden-admin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blm-protests-outside-la-mayor-garcetti-home-biden-admin.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc00411e-37d4-453b-b1d8-e57fe5cc7500/16f94411-373d-4d7c-b1d2-cc050a5e12f0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Joe Biden butchers Jon Ossoff's name at Georgia rally"
     excerpt: "President-elect Joe Biden mispronounced Democratic Senate hopeful John Ossoff's name during an election event Tuesday ahead of the crucial runoff races. "
@@ -540,6 +508,22 @@ related:
     quality: 172
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20351632662706-e1608148698619.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden says schools should reopen within first 100 days in call with governors"
+    excerpt: "Biden has emphasized school reopenings as a key initial step in his incoming administration’s plan to combat the coronavirus pandemic."
+    publishedDateTime: 2020-12-17T02:43:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zovhd7K5ZqU/biden-schools-should-reopen-within-first-100-days-in-call-with-governors"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-schools-should-reopen-within-first-100-days-in-call-with-governors.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-schools-should-reopen-within-first-100-days-in-call-with-governors.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f63ac40d-c3f5-4649-880f-d3d25c419466/5a3fc880-79f3-427b-8782-b1db7a069d53/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -783,6 +767,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "McConnell congratulates Joe Biden, Kamala Harris on election win from Senate"
+    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday congratulated President-elect Joe Biden on his victory following the Electoral College’s vote on Monday. “The Electoral College has"
+    publishedDateTime: 2020-12-15T15:52:00Z
+    webUrl: "https://nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/"
+    ampWebUrl: "https://nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 162
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/mcconnell-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "McConnell, top GOP senators acknowledge Biden as president-elect: 'The Electoral College has spoken'"
     excerpt: "Top Senate Republicans are officially accepting President-elect Joe Biden's 2020 victory after the Electoral College confirmed his win on Monday."
     publishedDateTime: 2020-12-15T15:30:27Z
@@ -925,22 +925,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Many Republicans Now Say Joe Biden Is President-Elect"
-    excerpt: "The affirmation came as state electors made Joe Biden’s electoral victory official."
-    publishedDateTime: 2020-12-15T08:12:00Z
-    webUrl: "https://www.wsj.com/articles/many-republicans-now-say-joe-biden-is-president-elect-11608001929"
-    ampWebUrl: "https://www.wsj.com/amp/articles/many-republicans-now-say-joe-biden-is-president-elect-11608001929"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/many-republicans-now-say-joe-biden-is-president-elect-11608001929"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-273450/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Biden tries out for new role in Georgia: Party leader"
     excerpt: "So what does Joe Biden want out of Georgia? Two new senators and a Democratic Senate majority, duh. But what he would also like would be to steer his party in a direction that might let him govern. The results of the Jan."
     publishedDateTime: 2020-12-15T21:14:00Z
@@ -956,22 +940,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c3bd447-8a3b-48ca-855f-1905ec761300/f9d04390-711f-4fdc-ae12-5d8d954e431c/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden announces 3-pronged plan to combat coronavirus when he takes office"
-    excerpt: "Masks, vaccinations, opening schools President-elect Joe Biden on Tuesday announced a three-part plan to combat the coronavirus pandemic in the first 100 days of his administration. Biden, speaking in his hometown of Wilmington,"
-    publishedDateTime: 2020-12-09T10:42:00Z
-    webUrl: "https://www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office"
-    ampWebUrl: "https://www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20342805312726.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Do-over: Biden clinches, columnists left and right dump on Trump"
     excerpt: "William Barr may have chosen to resign, but it was clear that his relationship with President Trump had simply become untenable."
@@ -1033,6 +1001,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Biden inauguration planners urge supporters to skip event due to COVID-19"
+    excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the Jan. 20 festivities will be heavily pared down and urged supporters to prevent the spread of the coronavirus by not coming to the event."
+    publishedDateTime: 2020-12-16T05:27:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-12-16-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-12-16-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-16-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/720c3b05-0120-4bac-9997-05b32886b143/b7f1c478-7057-4cc1-b544-e432868cb4b4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden breaks silence on Hunter for first time since federal tax investigation surfaced"
     excerpt: "Hunter Biden disclosed earlier this week that the U.S. Attorney’s Office in Delaware had an active investigation into his tax history. The investigation began in 2018, a source"
     publishedDateTime: 2020-12-11T22:03:00Z
@@ -1079,24 +1063,6 @@ related:
         width: 750
         height: 562
         isCached: true
-  - title: "Religious Freedom Is at Risk in a Biden Administration"
-    excerpt: "Liberal voices across the country have claimed victory in the presidential race and have begun laying the framework for a Joe Biden administration. It should come as no surprise that these plans are broad in scope and radical in intent."
-    publishedDateTime: 2020-12-13T19:58:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/11/religious_freedom_is_at_risk_in_a_biden_administration_531161.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
-  - title: "Time to Call in a Special Counsel on Hunter & Joe Biden"
-    excerpt: "Now that the election is over and it is safe for the media to cover the Hunter Biden scandal they ignored when The Post broke the story in October, things in Washington are getting back to normal. … Trump should expend every option possible to expose how the election was"
-    publishedDateTime: 2020-12-13T19:18:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/12/time_to_call_in_a_special_counsel_on_hunter_amp_joe_biden_531273.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "OnN2Gt3hRWqUgUuHO3MMrH6BP3Kp0zgyBOsQTLZkSrajbHIOy7JNP8q84HuvMTW1YjAmj0ZHMSCF8d/6vbzMr5Qq583FvMltmoJzbl9nlGN8yreqOPfzWJilGMchsRA0dPpVvVOlI0R3oOVEMpzP6oxt4If0H+khTTASPHZzJPofLVI8WQnASHyDasKE9O2r1LYJLLIZIW0VpX3evX3yv7Un67QUCQ6gHIkl/Agd6Xl5Rr4X44LOusdcnL9R6dRG4SCzhw8+p0aqM5wIs4mpgaQfRG0MsyGPPScYjUIBJAN15Op7hroU9t14mFgw+rpHZAxZ6BybaehFUJYFo6ZOSV6jWro6YVbT2PimHMY9k8c=;YgWBiqX5YPQt+a5LjFLLBg=="
 ---

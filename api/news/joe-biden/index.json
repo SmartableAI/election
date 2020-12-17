@@ -279,7 +279,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -480,6 +480,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-15-democracy-prevailed-biden-tries-to-close-the-door-on-a-tumultuous-election.md",
+      "title": "'Democracy prevailed': Biden tries to close the door on a tumultuous election",
+      "excerpt": "As the Electoral College moves to seal his victory, the president-elect is shifting his attention to the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216",
+      "originalUrl": "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216",
+      "publishedDateTime": "2020-12-14T13:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-electoral-college-key-states-confirm-joe-bidens-victory-in-presidential-election.md",
       "title": "Electoral college: key states confirm Joe Biden's victory in presidential election",
       "excerpt": "Votes in Georgia, Pennsylvania, Wisconsin and Arizona effectively end Donald Trump’s long-shot attempt to overturn results",
@@ -488,7 +545,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election",
       "featuredContent": null,
       "highlight": null,
-      "heat": 874,
+      "heat": 914,
       "tags": null,
       "images": [
         {
@@ -955,63 +1012,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-chris-rock-calls-on-joe-biden-to-create-supreme-court-of-science-to-handle-any-crisis-like-the-coronavirus.md",
-      "title": "Chris Rock calls on Joe Biden to create 'Supreme Court of Science' to handle any crisis like the coronavirus",
-      "excerpt": "Chris Rock called on President-elect Joe Biden to institute a fourth branch of government dedicated to science in order to combat another crisis like the coronavirus pandemic in a bipartisan way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus",
-      "originalUrl": "https://www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Chris-Rock.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus.amp",
-      "publishedDateTime": "2020-12-10T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     },
     {

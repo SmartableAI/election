@@ -111,6 +111,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Cardinal Pell on Trump, Benedict XVI and a plot against him"
+    excerpt: "Pope Francis’ former treasurer, Cardinal George Pell, has praised President Donald Trump’s “splendid” Supreme Court appointments and defense of Christian values"
+    publishedDateTime: 2020-12-17T01:41:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_db87ce70924f4bd1942b890a41d3f72d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump faces Dec. 23 deadline to veto - or sign - massive NDAA defense bill"
     excerpt: "U.S. President Donald Trump has until Dec. 23 to decide whether to veto the $740 billion National Defense Authorization Act or allow the annual measure setting policy for the Department of Defense to become law,"
     publishedDateTime: 2020-12-14T16:32:00Z

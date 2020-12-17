@@ -169,6 +169,22 @@ related:
         width: 733
         height: 545
         isCached: true
+  - title: "Tracking Biden's Cabinet picks as the incoming administration takes shape"
+    excerpt: "The president-elect has announced more than a dozen nominees to lead key departments and agencies throughout the federal government."
+    publishedDateTime: 2020-12-17T00:55:00Z
+    webUrl: "https://www.cbsnews.com/news/bidens-administration-cabinet-updates/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/bidens-administration-cabinet-updates/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/bidens-administration-cabinet-updates/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/16/ea1b9def-eb19-449e-8f70-69d7c84d4e94/thumbnail/1200x630/908c085095406940af467ecbb9046eb5/gettyimages-1291300530.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden says he has picked a Treasury secretary who will please all Democrats"
     excerpt: "President-elect Joe Biden said on Thursday he had selected his Treasury secretary and would reveal his choice as soon as next week."
     publishedDateTime: 2020-11-19T23:11:00Z

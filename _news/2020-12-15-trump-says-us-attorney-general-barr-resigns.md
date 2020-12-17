@@ -301,6 +301,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Biden introduces Buttigieg as transportation secretary nominee, meets virtually with governors"
+    excerpt: "As President-elect Joe Biden continues to build his administration, President Trump still insists that he won the election."
+    publishedDateTime: 2020-12-16T17:02:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EO3LUUR76EI6XNMLCYR7MJTZMA.jpg&w=1440"
+        width: 1440
+        height: 895
+        isCached: true
   - title: "'The moment of truth': The Electoral College prepares to hand Trump the loss he refuses to accept"
     excerpt: "Facing a loss in the Electoral College, Trump's allies have shifted their focus to Jan. 6, when Congress will count the electoral votes."
     publishedDateTime: 2020-12-11T10:15:00Z

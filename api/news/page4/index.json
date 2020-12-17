@@ -2,6 +2,162 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-13-saturday-night-live-mocks-trumps-new-favorite-network-newsmax.md",
+      "title": "Saturday Night Live Mocks Trump's New Favorite Network Newsmax",
+      "excerpt": "Trump network Newsmax's coverage with a sketch introducing its latest television offering—a sports network that refuses to acknowledge the New York Jets ever lose. The sketch opens with a voiceover that claims \"millions of real Americans are switching from Fox News to Newsmax because Newsmax tells them the",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381",
+      "originalUrl": "https://www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1685494/snl.png",
+          "width": 890,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381?amp=1",
+      "publishedDateTime": "2020-12-13T02:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-attorney-general-william-barr-is-reportedly-brushing-off-trumps-attacks-over-hunter-biden-investigation-as-a-deposed-king-ranting.md",
+      "title": "Attorney General William Barr is reportedly brushing off Trump's attacks over Hunter Biden investigation as a 'deposed king ranting'",
+      "excerpt": "Attorney General William Barr is \"not intimidated\" by President Trump's threats to fire him, a source told CNN.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ag-barr-brushes-off-trumps-attacks-as-deposed-king-ranting-2020-12",
+      "originalUrl": "https://www.businessinsider.com/ag-barr-brushes-off-trumps-attacks-as-deposed-king-ranting-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f6321c357b7da001ee12207?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ag-barr-brushes-off-trumps-attacks-as-deposed-king-ranting-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ag-barr-brushes-off-trumps-attacks-as-deposed-king-ranting-2020-12?amp",
+      "publishedDateTime": "2020-12-13T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-pro-trump-protests-decry-presidents-election-loss-opposing-groups-clash-in-washington.md",
+      "title": "Pro-Trump protests decry president's election loss, opposing groups clash in Washington",
+      "excerpt": "Conservative groups claiming without evidence that the Nov. 3 election was stolen from President Donald Trump staged protests across the country on Saturday, with one in Washington turning violent at times as police broke up sporadic clashes after dark.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-protests-idUSKBN28M0E5",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-protests-idUSKBN28M0E5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 732,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201213&t=2&i=1544375607&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBC01C",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28M0E5",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0E5",
+      "publishedDateTime": "2020-12-13T02:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-analysis-senate-gangs-show-biden-whats-possible-and-not.md",
       "title": "Analysis: Senate 'gangs' show Biden what's possible, and not",
       "excerpt": "Senators met day after day, night after night, trying to hammer out a framework for a $900 billion-plus COVID-19 aid and economic relief package",
@@ -1174,176 +1330,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-how-netflixs-the-prom-musical-was-inspired-by-mike-pence.md",
-      "title": "How Netflix's 'The Prom' musical was inspired by Mike Pence",
-      "excerpt": "Based on a 2018 stage musical of the same name, Ryan Murphy's highly anticipated latest directorial project premiered Friday on Netflix and in select theaters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/feature/nbc-out/how-netflix-s-prom-musical-was-inspired-mike-pence-n1250946",
-      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/how-netflix-s-prom-musical-was-inspired-mike-pence-n1250946",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_50/3435185/201211-the-prom-netflix-ew-305p_1b7b20b1bc6468f75bbba783f3514f59.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250946",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250946",
-      "publishedDateTime": "2020-12-11T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-cnns-harwood-republicans-would-smack-their-moms-in-the-face-to-please-donald-trump.md",
-      "title": "CNN's Harwood: Republicans would 'smack their moms in the face' to please Donald Trump",
-      "excerpt": "CNN White House correspondent John Harwood said Friday that Republican members of Congress would hit their own mothers if President Trump wanted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump",
-      "originalUrl": "https://www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22c8df7a-eaf0-44ed-a011-63755a0a2217/95f0028d-74bf-4110-98a2-0fcbbc174d75/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump.amp",
-      "publishedDateTime": "2020-12-11T12:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-bobulinski-tells-tucker-carlson-that-joe-biden-lied-about-son-hunters-business-dealings.md",
-      "title": "Bobulinski tells Tucker Carlson that Joe Biden lied about son Hunter's business dealings",
-      "excerpt": "Former Hunter Biden business partner Tony Bobulinski claimed now-President-elect Joe Biden lied about having no knowledge of his son's foreign business dealings.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7qwr6e3Yurs/flashback-bobulinski-tucker-hunter-carlson-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7qwr6e3Yurs/flashback-bobulinski-tucker-hunter-carlson-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/flashback-bobulinski-tucker-hunter-carlson-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-bobulinski-tucker-hunter-carlson-biden.amp",
-      "publishedDateTime": "2020-12-11T11:42:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

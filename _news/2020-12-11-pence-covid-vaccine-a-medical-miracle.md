@@ -142,17 +142,17 @@ related:
         isCached: true
   - title: "White House: Vice President Mike Pence, wife Karen to receive COVID-19 vaccine Friday"
     excerpt: "Vice President Mike Pence, wife Karen to receive COVID-19 vaccine Friday. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission."
-    publishedDateTime: 2020-12-16T23:58:00Z
-    webUrl: "https://omaha.com/news/national/govt-and-politics/white-house-vice-president-mike-pence-wife-karen-to-receive-covid-19-vaccine-friday/article_5de5451a-f3a8-549b-a544-14f750b5a8c4.html"
+    publishedDateTime: 2020-12-17T02:34:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/white-house-vice-president-mike-pence-wife-karen-to-receive-covid-19-vaccine-friday/article_b0b61c33-5eee-5c19-8d65-a1c756aa5eb2.html"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 48
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
+        width: 600
+        height: 517
         isCached: true
 
 secured: "q3XzBWX+Mm18WjY+9YIC8L6PpT1w+pkkmLzAzNL/7P8gzjlyKHZxZHB7iFEA7/hWRiBnOezHJcpKg96ylqYjVMzqJCN6ry345s9617j7twGKOvpx3w3asTjN6o1bHbMMbADuuRFHQ3JoOjEvw3GStJhOeU19tPN/mIOWcPkUYGEUmQUs5604QV1YwLDInZyzHNJ4NT1YtfjWvPMnsJsM0RnnxZF4L9Qsce14oNWZ0rBgPzl2zLWBciLbqiRgHDBJXhR7xMDET29kkzsnbDvXZ2iBSNovjmRO6VNK13RaZ30MfcuSQYOeWrMQbw53GOu9KHOBbtx1ruo5HdJfEs03lywN3xy0538sxKK2MN4Mnf1oqPJpSAiEPnUVKqr5pCkU7Rl+j+ZiWjselmes4kOCZNB1MEC+54ZoQ3O2h4zdCZTGZ5mSThTOeyN2P1R9Dviq5eRMNHagb5fwGg1ljc8N6mA1qYyiuSe2ipq4NopPzc7UO/213oKrIARDynKxWzbngSJM7H0+rQF1t+oP+Z71aQ==;ZX5Kb2ds0BBf13M7PNBxRw=="

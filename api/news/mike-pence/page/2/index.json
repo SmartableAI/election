@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-21-pence-pitches-georgia-senators-as-last-line-of-gop-defense.md",
+      "title": "Pence pitches Georgia senators as last line of GOP defense",
+      "excerpt": "Vice President Mike Pence campaigned Friday in Georgia in support of the state’s two Republican senators and warning of a potential Democratic takeover of Washington in January",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319047",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319047",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_379847ea0f644970a1858391707aad70_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319047",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319047",
+      "publishedDateTime": "2020-11-20T16:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-mike-pence-rallies-with-loeffler-perdue-in-cherokee-county.md",
+      "title": "Mike Pence rallies with Loeffler, Perdue in Cherokee County",
+      "excerpt": "Vice President Mike Pence traveled to Georgia today to attend rallies in support of incumbent Republican Sens. Kelly Loeffler and David Perdue, as those Senate runoff races begin to take the state's political center stage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khou.com/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698",
+      "originalUrl": "https://www.khou.com/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.khou.com/assets/WXIA/images/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khou.com/amp/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698",
+      "cdnAmpWebUrl": "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698",
+      "publishedDateTime": "2020-11-20T11:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHOU 11",
+        "domain": "khou.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-vp-mike-pences-daughter-delivers-powerful-explanation-of-where-sin-can-lead.md",
       "title": "VP Mike Pence’s daughter delivers powerful explanation of where ‘sin can lead’",
       "excerpt": "Doubt is a normal part of any faith journey, but how do doubt and sin interact — and what role does spiritual uncertainty play in pushing people away from God?",

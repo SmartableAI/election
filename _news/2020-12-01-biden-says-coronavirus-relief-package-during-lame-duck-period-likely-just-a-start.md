@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-covid-19-relief-package-lame-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-19-relief-package-lame-duck-period-likely-just-a-start.amp"
 type: article
 quality: 169
-heat: 209
+heat: 189
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden urges taking coronavirus vaccine, wearing masks but says they shouldn’t be mandatory"
-    excerpt: "Biden urges taking coronavirus vaccine and wearing masks but says they shouldn’t be mandatory"
-    publishedDateTime: 2020-12-04T22:30:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XjteyxVDXNc/biden-urges-taking-coronavirus-vaccine-and-wearing-masks-but-says-they-shouldnt-be-mandatory"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-urges-taking-coronavirus-vaccine-and-wearing-masks-but-says-they-shouldnt-be-mandatory.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-taking-coronavirus-vaccine-and-wearing-masks-but-says-they-shouldnt-be-mandatory.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden warns 'we're likely to lose another 250,000' Americans from coronavirus 'between now and January'"
     excerpt: "President-elect Biden offered a very grim forecast of an uptick in coronavirus deaths in the United States as winter steadily approaches. "
     publishedDateTime: 2020-12-03T00:27:26Z

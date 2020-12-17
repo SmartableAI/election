@@ -143,19 +143,19 @@ related:
     quality: 55
   - title: "White House: Vice President Mike Pence, wife Karen to receive COVID-19 vaccine Friday"
     excerpt: "Vice President Mike Pence, wife Karen to receive COVID-19 vaccine Friday. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission."
-    publishedDateTime: 2020-12-16T23:58:00Z
-    webUrl: "https://omaha.com/news/national/govt-and-politics/white-house-vice-president-mike-pence-wife-karen-to-receive-covid-19-vaccine-friday/article_5de5451a-f3a8-549b-a544-14f750b5a8c4.html"
+    publishedDateTime: 2020-12-17T02:34:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/white-house-vice-president-mike-pence-wife-karen-to-receive-covid-19-vaccine-friday/article_b0b61c33-5eee-5c19-8d65-a1c756aa5eb2.html"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 48
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
+        width: 600
+        height: 517
         isCached: true
 
-secured: "4BI0UuKwPPuwkur1djT+0k7/pzPcHINIIxNmn7RG7arh5QllDnuGt7lLPYdQLJviKCfNcuY2ZPJTL6sD7jWD7sven7bY3BfhEvpiJ9tbZf4NC6K6S85z1VQHkHqrNywDS34kCpuoYBjO/QW3hftHUFBqOSSvrmvzyDZnSG8RVkG0zk1gF9ucvTCM6h3h3VnuuHr3dI0dp+LSLnwBBimsBWo1tdZCXq85kcBD23DaGUKVyPBs1H7aBF9b1cJ8AH6GhaBXZ1PSeM44i8VzZsBZBfyeVSa6zrZ9ESii02Y/CCiuJnUbq35/jyn8kRfOkKMrU5DpvzkrMLR95N7pYjlB8moDkCc+L1J9xrgAYSf6Q2Q=;uHFn5K5F97pKfz670hGFTg=="
+secured: "n67ncV3Ggys43DK3jfYVzz11jLeXnWYwESDOpYbU+aL6cpZ6P0NM82nvzbGoYFiRpm6urbmS2UP1JciPWgRUwDJgzxov3OB3qgqoNi1m7PEwW0w7Rjc9Lr2/TbZ5aIxXfZRj3Rbla0oDlWTRf6KW3KSz3WOmpU41IM2HdvmQKqZohNbd4Rie4J8vfHlf+vlX2BG8xtgXE1D3/FW30VbftbHJnC+rCGhXCiPyHI1d7Z8UPihdA+oNXTPrHNYtk1D0gEJtLmixmj1Yh+Yj4+UOuKl7RN/2v+pD9KvdIG1wkVZbu+6QFqQd6tS7X62B3l7iRPEwovYq9/uryc2gyV0+4R+8lH3QlnCgjwXLT4Ay0GA+ZTuz7qY0gZE4M1lt9WjUT01zKPLM3c9N7oIC9gOTOih1MBOftRPg6Nb1RNJ7nmt2ICagbEKjaS+47volT+FaLKTB5Gsef3NWrtWiqTZW9y4znPGv8bG+S3cIDMuLx3pDEM02CpJ3m7uNDa04mRs0rxHauGIQSGGZYhI8wzOFXg==;oaTa9jF9U0DlLPFii6WECQ=="
 ---
 
