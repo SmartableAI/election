@@ -974,6 +974,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sen. Lindsey Graham calls for special counsel to investigate Hunter Biden"
+    excerpt: "The senator called for the special counsel to probe whether “any crimes were committed” and determine any “conflicts” that exist for President-elect Joe Biden’s incoming administration."
+    publishedDateTime: 2020-12-16T23:26:00Z
+    webUrl: "https://www.foxnews.com/politics/sen-lindsey-graham-special-counsel-investigate-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-lindsey-graham-special-counsel-investigate-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-lindsey-graham-special-counsel-investigate-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d84048f7-5ae5-4394-9d7b-cecf95ee1791/47a99c53-d927-4f9c-b2ad-38eb6d18d93f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Do-over: Biden clinches, columnists left and right dump on Trump"
     excerpt: "William Barr may have chosen to resign, but it was clear that his relationship with President Trump had simply become untenable."
     publishedDateTime: 2020-12-16T08:15:00Z

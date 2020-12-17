@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/putin-congratulates-biden-on-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp"
 type: article
 quality: 190
-heat: 1510
+heat: 1530
 published: true
 
 provider:
@@ -954,6 +954,22 @@ related:
     quality: 135
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c3bd447-8a3b-48ca-855f-1905ec761300/f9d04390-711f-4fdc-ae12-5d8d954e431c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Sen. Lindsey Graham calls for special counsel to investigate Hunter Biden"
+    excerpt: "The senator called for the special counsel to probe whether “any crimes were committed” and determine any “conflicts” that exist for President-elect Joe Biden’s incoming administration."
+    publishedDateTime: 2020-12-16T23:26:00Z
+    webUrl: "https://www.foxnews.com/politics/sen-lindsey-graham-special-counsel-investigate-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-lindsey-graham-special-counsel-investigate-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-lindsey-graham-special-counsel-investigate-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d84048f7-5ae5-4394-9d7b-cecf95ee1791/47a99c53-d927-4f9c-b2ad-38eb6d18d93f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Hacker Reveals Trump's Twitter Password And It's A Very Easy, Obvious One"
+    excerpt: "The cybersecurity researcher said it only took him five attempts to successfully log into President Donald Trump's Twitter account."
+    publishedDateTime: 2020-12-17T03:37:00Z
+    webUrl: "https://www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003"
+    ampWebUrl: "https://www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/29/us-president-donald-trump-says-he-will-not.jpg"
+        width: 1024
+        height: 716
+        isCached: true
 
 secured: "v49Gv/Nir+rZrpuuddhevDe/d7JpPvN6k9kApWAlEIldDQ0vKQr2OZirTihFBC3FR97ftSyo5PwBMhK5Vc7DGrbO9QSCDX0EQXh0cfeNeUtm7Oo3wyZdPhgMka975bFCVwN840Liiyn0O0j1o5lT8ZJT9TIuTzEXLGtUncJ8zb6qAdSkr3fHJxPcAx26R3NK+QdiHxaPkV9q5j46pfHG4n1svJV8qIT4i4eSIS710XVH3w2PNsheR7dbKmsMbbVJJkdnxXxWx4lwZpm7Mb0GlgiDaagkdQ95Hwh6FOCCDCypB3EcqJvk7zTzOR+wswRadJ4bwO/QFHowqtXtrGn7X1EYo7BVB9r7/BdjT0G/7MPsM5HFueLHoFvVqe8Ufew97T1h3wKYTCC+VoNvu2lDFJE40t8vkdi/VHPks47PSL5pNk5QSRzFyqnVgzL2UxMK0zTGBCz2udeyHP+egKjNmnlwgl3Jf/lVNG1FlhnJ4kLfi7a8dhhu7liHMOehSHsWtAEyTjgycSUmGg1F6+U7IA==;RZQI9Wn7Z1vu2VeBm5ztsQ=="
 ---

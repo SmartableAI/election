@@ -1,22 +1,22 @@
 ---
 category: news
-title: "George W. Bush sends holiday card with pointed message as Trump denies election loss"
-excerpt: "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss."
-publishedDateTime: 2020-12-16T23:44:00Z
-originalUrl: "https://www.cnn.com/2020/12/16/politics/bush-christmas-card-trump/index.html"
-webUrl: "https://www.cnn.com/2020/12/16/politics/bush-christmas-card-trump/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
+title: "As Trump Leaves the White House, His Imprint on the Judiciary Deepens"
+excerpt: "Published opinions from the nation’s appeals courts this year show that Trump appointees stand out from other judges, even those named by other Republican presidents."
+publishedDateTime: 2020-12-17T08:00:00Z
+originalUrl: "https://www.nytimes.com/2020/12/17/us/politics/trump-judges-appeals-courts.html"
+webUrl: "https://www.nytimes.com/2020/12/17/us/politics/trump-judges-appeals-courts.html"
+ampWebUrl: "https://www.nytimes.com/2020/12/17/us/politics/trump-judges-appeals-courts.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/17/us/politics/trump-judges-appeals-courts.amp.html"
 type: article
-quality: 143
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200602180649-george-bush-file-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2020/12/16/multimedia/00trumpjudges/00trumpjudges-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "George W. Bush sends holiday card with pointed message as Trump denies election loss"
+    excerpt: "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss."
+    publishedDateTime: 2020-12-16T23:44:00Z
+    webUrl: "https://www.cnn.com/2020/12/16/politics/bush-christmas-card-trump/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 143
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200602180649-george-bush-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump tells allies he will run in 2024, but hints he may back out"
     excerpt: "In calls to allies, Trump has been asking how to navigate the next two years and floated a possible trip to the Middle East."
     publishedDateTime: 2020-12-14T09:37:00Z
@@ -95,22 +111,6 @@ related:
       - url: "https://static.politico.com/da/1f/59b5d43848958d4f1d12f634434c/gettyimages-1230110704-1.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "As Trump Leaves the White House, His Imprint on the Judiciary Deepens"
-    excerpt: "Published opinions from the nation’s appeals courts this year show that Trump appointees stand out from other judges, even those named by other Republican presidents."
-    publishedDateTime: 2020-12-17T08:00:00Z
-    webUrl: "https://www.nytimes.com/2020/12/17/us/politics/trump-judges-appeals-courts.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/17/us/politics/trump-judges-appeals-courts.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/17/us/politics/trump-judges-appeals-courts.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/16/multimedia/00trumpjudges/00trumpjudges-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "In final meeting of Trump administration, Fed gets the last word on 2020"
     excerpt: "Federal Reserve Chair Jerome Powell has frequently urged lawmakers, using increasingly strong language, to pass more fiscal stimulus."
@@ -145,6 +145,6 @@ related:
         height: 550
         isCached: true
 
-secured: "HBT0UQxdnyuw3b5GAe5wCDtENn4Esa3T3UXvLYETxwGw7IsaDkzVWHlxg5NhqfrdTPzaU/zafw8zRCvswUvkc25CmGJHGOM6p4AmWk/FdE6ScnfO2VxeHDX0TBVsRPMH1W1VIdjVfgdM91VxSXHp3TXbUknHYDH0ZQqGEbeEYoqint21XXXaimJyK6A2TYOMuwj9KqROOWlG8I1QDXIZFBO7W4mpMcRzYiLm05J7he+nGyEVcDzn3R3y6p+BTlFDtlu9soey25PKHzGDC74c3jN+073x2Lwmp2pyh1nmv50qSm8D7emPX73b216N8DfFuzvKKjkjGz2J60aBvm1vJDz2S3KbL47pm4y62pt8X0jDMKOV/ix+C5uPBtv3oVg/+VX6ZF1c9y+kU46RKM5lTo8dKV0m19VkBOX1n+xfSdO2jl+T0vZ+hxxXORCPnQlfKxLEFdrZjaDOjhSAKE+2o5v34ZaIExm0owtG1d99nC/x1PoFkOnAZtFGAlFP3PMmjPtUMKpjN6qC6fCZiGWpSQ==;Bd0YdQXMtYxCCh9tV+tfiQ=="
+secured: "L0X4Z2pUA0g1ogvZtLER0VkwMTAs17UAuu1UOhbVQ1zIGQl0bG5Y+25u1+bz7VSSJBTNP0WVnHkAZSDc0sg0nu3+47xZ8xAgTCowH/ZiHkJopkDY1MsgE215WJ2UDhimCVMFEWfcRR3A/typuSr2dHt4FkfjJYp4lmWXwJqbe9Fo9oRAjFRIl1ozaGMXci4b0g38kiao/mrOp4kgjd450vhQlEuRoAMf8C0RUx3DiaqQxvF6KW6TZLi0kJw081IY7guL5ljLwu5yepWAaZqeF7+y9jPSSny0AgLnyNZJnjiROvn17icrV2fDsKdLYKtoSXoDP4hrNthCQiHqbJUB1BHKzQ7QniPrVxMrFYaksKE=;47TEqeIBLZ4OQkIZ+2MwmQ=="
 ---
 

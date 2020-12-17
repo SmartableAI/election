@@ -1,22 +1,22 @@
 ---
 category: news
 title: "City to auction spot to push demolish button on Trump casino"
-excerpt: "One of President Donald Trump's former Atlantic City casinos will be blown up next month, and for the right amount of money, you could be the one to press the button that brings it down"
-publishedDateTime: 2020-12-16T19:58:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/city-auction-spot-push-demolish-button-trump-casino-74764352"
-webUrl: "https://abcnews.go.com/US/wireStory/city-auction-spot-push-demolish-button-trump-casino-74764352"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/city-auction-spot-push-demolish-button-trump-casino-74764352"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/city-auction-spot-push-demolish-button-trump-casino-74764352"
+excerpt: "One of President Donald Trump’s former Atlantic City casinos will be blown up next month, and for the right amount of money, you could be the one to press the button that brings it down"
+publishedDateTime: 2020-12-17T00:41:00Z
+originalUrl: "https://www.washingtonpost.com/national/city-to-auction-spot-to-push-demolish-button-on-trump-casino/2020/12/16/a454f34c-3fd6-11eb-b58b-1623f6267960_story.html"
+webUrl: "https://www.washingtonpost.com/national/city-to-auction-spot-to-push-demolish-button-on-trump-casino/2020/12/16/a454f34c-3fd6-11eb-b58b-1623f6267960_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/city-to-auction-spot-to-push-demolish-button-on-trump-casino/2020/12/16/a454f34c-3fd6-11eb-b58b-1623f6267960_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/city-to-auction-spot-to-push-demolish-button-on-trump-casino/2020/12/16/a454f34c-3fd6-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/US/WireAP_a38b7a3134c7404d9ffa340d683dcf3d_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -366,6 +366,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "t5I3QI+S5l3+FEWkUCLQH0gXGbpd42K67TJ6f97MpUNZPOdnY1/9wevd7oyoWzkJmPilB3Hu1GTtSqrKl48+ivtGVYEUN/tjbOoP/Tlge3gtSC5MMwl9P7p0jqTapzDf64aku2WjlgiKMLE6vjCsCaEpQVH+obvEigJykkLPEDOAHvMPMgAEwiOQuCiCP05lR1WHgafo53dn64wAEIqb/0JARh7XNSKWik+gUduQbkK9h3OoBYtz1JY/UuQy/C+F1LBKGEbXcfAecTPIRghM4iN0frtbmtOZ+CTf+7E8vYS74JPKyEEdH/Zb36B3fGL7sEVfBcgeeD9E3ZENqdCkMpSueq7Nf9qsahAXYdjdn5w=;YWPpcfBm5r2IDWHx53nzzw=="
+secured: "EveFTwq5Z4V9UwReZShF2VG60iuzxB+Rm/OK9LZj3j/daSy7aegKRyVeH6kTmO7yqGkr01Rr6U4tZB60IxbHFCvsxQLp6iOXir7ONBcw9IeLdQxFjXOB/0sGGG0wdRp4ZzbCT9s1V4Phfp+z21H3TqlNQDo8IFHN7NTtQOFv6YZ0oxPAnesM4QBMrIjQ5fkQARWjxfBJAaFqq2Dv75CuJmuREYJGFmOxSFmj/Si/08isJjJ83IHHDvruNsrnh1JLe+NEj8g+Rnb1nQrKQdC8jLYkC9ryKOkhCEq0JEzRKFgCB2s3WA+q+zmRnC5/V6WtUUL8kuQCPjVlTbrgbTBgmkGl/Q1WlTSRhtUzQM1vzyY=;IMVTu2F+Hwq+H3NzDiElcQ=="
 ---
 

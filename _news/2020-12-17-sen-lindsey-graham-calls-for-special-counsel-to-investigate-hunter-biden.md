@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Live Updates: GA Senate runoffs will play role in Hunter Biden probe, says former WH communications director"
-excerpt: "Control of the Senate will hinge on whether Sen. David Perdue, R-Ga., will beat 33-year-old Democratic media executive Jon Ossoff and whether Sen. Kelly Loeffler, R-Ga., will defeat Raphael Warnock."
-publishedDateTime: 2020-12-14T05:30:25Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x621FWhGDiY/live-updates-senate-12-14-2020"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x621FWhGDiY/live-updates-senate-12-14-2020"
-ampWebUrl: "https://www.foxnews.com/politics/live-updates-senate-12-14-2020.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-senate-12-14-2020.amp"
+title: "Sen. Lindsey Graham calls for special counsel to investigate Hunter Biden"
+excerpt: "The senator called for the special counsel to probe whether “any crimes were committed” and determine any “conflicts” that exist for President-elect Joe Biden’s incoming administration."
+publishedDateTime: 2020-12-16T23:26:00Z
+originalUrl: "https://www.foxnews.com/politics/sen-lindsey-graham-special-counsel-investigate-hunter-biden"
+webUrl: "https://www.foxnews.com/politics/sen-lindsey-graham-special-counsel-investigate-hunter-biden"
+ampWebUrl: "https://www.foxnews.com/politics/sen-lindsey-graham-special-counsel-investigate-hunter-biden.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-lindsey-graham-special-counsel-investigate-hunter-biden.amp"
 type: article
-quality: 156
+quality: 134
 heat: -1
 published: false
 
@@ -22,10 +22,11 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bbe35e1b-90e0-4b18-bbfb-d282af4d778f/cef75d0e-7eaf-439b-b82f-045dc25e3cff/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d84048f7-5ae5-4394-9d7b-cecf95ee1791/47a99c53-d927-4f9c-b2ad-38eb6d18d93f/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -831,6 +832,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: GA Senate runoffs will play role in Hunter Biden probe, says former WH communications director"
+    excerpt: "Control of the Senate will hinge on whether Sen. David Perdue, R-Ga., will beat 33-year-old Democratic media executive Jon Ossoff and whether Sen. Kelly Loeffler, R-Ga., will defeat Raphael Warnock."
+    publishedDateTime: 2020-12-14T05:30:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x621FWhGDiY/live-updates-senate-12-14-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-senate-12-14-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-senate-12-14-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bbe35e1b-90e0-4b18-bbfb-d282af4d778f/cef75d0e-7eaf-439b-b82f-045dc25e3cff/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: Biden's transition team deletes old ad criticizing his transportation secretary pick Buttigieg"
     excerpt: "Biden announced his pick Tuesday, calling the former mayor of South Bend, Ind., a \"leader, patriot, and problem-solver.\" "
     publishedDateTime: 2020-12-17T05:27:15Z
@@ -957,22 +974,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Sen. Lindsey Graham calls for special counsel to investigate Hunter Biden"
-    excerpt: "The senator called for the special counsel to probe whether “any crimes were committed” and determine any “conflicts” that exist for President-elect Joe Biden’s incoming administration."
-    publishedDateTime: 2020-12-16T23:26:00Z
-    webUrl: "https://www.foxnews.com/politics/sen-lindsey-graham-special-counsel-investigate-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-lindsey-graham-special-counsel-investigate-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-lindsey-graham-special-counsel-investigate-hunter-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d84048f7-5ae5-4394-9d7b-cecf95ee1791/47a99c53-d927-4f9c-b2ad-38eb6d18d93f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Do-over: Biden clinches, columnists left and right dump on Trump"
     excerpt: "William Barr may have chosen to resign, but it was clear that his relationship with President Trump had simply become untenable."
     publishedDateTime: 2020-12-16T08:15:00Z
@@ -1096,6 +1097,6 @@ related:
         height: 562
         isCached: true
 
-secured: "Qdb0GyIgMSeP+4NHEoIAuH6QAUrokBfXau9XmVIVuBkqpSYyI3EdsDbDt0QCvIlyPnZLXdiPZjt9gfUvPnKirhYE3JMK0UC+SQJsn2ODL+EdtC5XfgAHlXtKB6VKpWsJwB5s1EBdg0vrFf4QmpFF8WOItNnsVjSbFoI9yrQSBgtOAO+uYL23TaI5WVFCgf2KbDhMpiY062DNYItxl8AhoXrHryMPe5IBcjR+fTANPfgY/OFUFjHzbFTIzr6jG4N/RMQu3prUyqVIzLeiJ8us4SYyr4cdEmvAOYRIvYCr1dAktFFsxdVyWKPYaye5NuOOo3/RxkEBE5KVsnldNxlDsSziKAEi6gNFqBrrzv34YVI=;h5w6Wxo0RhiqhEc6krL/PA=="
+secured: "J5dnfsdipiWiwRDp6sUDWHJZb9LmHJeilxOh6BEUxTYozrDU0PY1iGsiBYXYF4OYm/6RVDsX3sod8wFa0NqaiWn5pspkw90hF6nFg/FKu0QGIfFVJ5HU4a6ynrJs/jPm3eBBSQs7vdSY8quTjICZgCRhNJkxv44NlSCKBltDRfTN8vPxc2zDAjdJ0hNaop9/HPaCJaAqa+MBV518FaBFNKzsR/r79yZBR3mvADQqrADFwik8U7hlO4eKtSZS2r9ZtfMmxIVW4Ruul1SyQJ37a7Ke4P7qZ/gxe7NxnQJ0LVjVlUpaUmAgfc593O91rVNO4KKQLZle9K/m6/TEG3IxutbzzFFaT8VsOC/aJCqP91A=;HcytOAEjlf3G7agI4LNM9w=="
 ---
 
