@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration says it will withhold $200 million in California Medicaid funding over abortion insurance requirement"
+    excerpt: "The Trump administration announced two measures on Wednesday seeking to restrict abortion access, including withholding hundreds of millions in federal funding from California, one in a series of parting shots from an outgoing administration that has repeatedly sought to limit the procedure on religious"
+    publishedDateTime: 2020-12-17T05:12:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UQS8y_S0TXQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/trump-administration-abortion-medicaid-california/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/trump-administration-abortion-medicaid-california/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 149
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209084134-alex-azar-hhs-vaccine-distribution-newday-camerota-vpx-00000412-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "ooa9wz6vRqUTImoriLGFBWObSv41Kbf9ZRgsgiO5FazcMLIEnk/1o9lBs/83kSEu5Y5uTVko0mb2AKnCOuvgofx9NPzRn/rTEy9J5t+7JeKOOlBKXojJaVffvoeZp7CdNRkwjBr7Ih8wGfnasFAXnbzOop3iL9kxQLwGxwTvgEfl8Pu3YJly+wIZxSHm6CdcSRJoQ/TVBVFfrFFluDbQhPhF3I2sJwXFTYdY/AiIQfmZZ/LdUZvBiQyZqqlWFeda0s8rivUFp+BoJ3lfrqzdFYa39AXn8l0DHDBdYqdvQrov/YUEfWmMgZpftAoDuMQvil9WzS9cXwlqAd/Ysj/EzcQ82OFl4qXS/vfB8tUBMCNgMzOCSfTb/264tHCy6ApmaTfXE3XDvIxMsagqoO4Ec2Tey/VbJ9PZQQOX+UHakFL+dGZup51EWAUY/OI1xZLSVcuf64wMWsiZEzI0IMxSADatrCrzkJP3kdyzsOw4QSaqxrfAc3iMOw4wLQfIFGtYjWRfevhMoS06b4HGjlZBLw==;VlLGYOJyb02Twau0X+NWFw=="
 ---

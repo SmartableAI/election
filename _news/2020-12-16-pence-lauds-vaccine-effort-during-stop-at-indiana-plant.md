@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/072d19ccb696f25ff18715b831f072a5"
 webUrl: "https://apnews.com/072d19ccb696f25ff18715b831f072a5"
 type: article
 quality: 105
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pence sets Indiana trip to discuss coronavirus vaccine"
-    excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss coronavirus vaccines as federal officials are expected to soon authorize the first such vaccine for widespread use."
-    publishedDateTime: 2020-12-11T19:40:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/10/virus_outbreak_south_carolina_pence_38030_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Pence Lauds Vaccine Effort During Stop At Bloomington's Catalent"
     excerpt: "Vice President Mike Pence said Tuesday that he’s looking forward to getting vaccinated for COVID-19 and that he expects to receive his first dose in the next few days"
     publishedDateTime: 2020-12-15T23:32:00Z

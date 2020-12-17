@@ -48,6 +48,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden introduces Buttigieg as transportation secretary nominee, meets virtually with governors"
+    excerpt: "As President-elect Joe Biden continues to build his administration, President Trump still insists that he won the election."
+    publishedDateTime: 2020-12-16T17:02:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EO3LUUR76EI6XNMLCYR7MJTZMA.jpg&w=1440"
+        width: 1440
+        height: 895
+        isCached: true
   - title: "AP sources: Biden picks Buttigieg as transportation chief"
     excerpt: "President-elect Joe Biden is expected to pick former South Bend, Indiana, mayor Pete Buttigieg to head the transportation department, according to three people familiar with the plans."
     publishedDateTime: 2020-12-15T23:04:00Z

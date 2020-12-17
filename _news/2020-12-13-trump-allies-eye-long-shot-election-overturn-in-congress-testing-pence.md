@@ -223,6 +223,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "The upcoming Trump implosion"
+    excerpt: "Small is going to auction off the opportunity to press the button that brings down Trump Plaza, turning the hulking tower that has for years sat vacant and derelict along the boardwalk into a pile of rubble."
+    publishedDateTime: 2020-12-17T11:58:00Z
+    webUrl: "https://www.politico.com/newsletters/new-jersey-playbook/2020/12/17/the-upcoming-trump-implosion-491174"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "gNe41rl7Z6Y5UJ5aoyNKHmY5yWK1nctzEiw3YX6EOWcAMlKygsUyrOd6EFr3+5C/22yPjUAGhKorYL2RoVyGasZ7l+LWE8yWCd3saooyCFNkGo6yxbHWR+1xNiL1BAOLycP6o99Awp5eBm00PpSRBEOkkCWgHfXxufd7vngA/KzvSZO63noykV+AxIc4V0pBk+d0/JtkjUxTWw4Cfo7VRmQUOxq6z9eAEz/z4t7yq/8mUo8iczmYkYl3pc4BXTGuNoE6fQtgfA4fd/BLLCmDjWHMRllHvhHR3YIZQnQLyK20H9D4PvXVFoau1fHWgoMFgZx6viEDZYfxcC+nqMsD+qvsofrX49EPYqBBZ2OkSIta4pHRAaa9TY9LLoyXsSbFvRyTZqr7J3eufuY2fgMSWGL8HtILkfuWXZ7zQOm90j6qDw5zFZjW9A9uv6K5UhJQnHi5Ra8RmL88m4+tlZtDWl5rhX9XCFvWF450yrjakiAV4AJvN9NRzM8FiyoBT6QLZlbdyXRAp2uL869g1WX+oA==;paLEYnek7gz7/T7boSJ8xg=="
 ---

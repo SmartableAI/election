@@ -189,22 +189,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Gun restrictions face uphill battle even under Biden"
-    excerpt: "The gun debate in America will soon enter a new chapter with a Democrat in the White House after four years under President Donald Trump in which gun control advocates developed a long wish list for reform amid a spate of large-scale mass killings in places like Las Vegas,"
-    publishedDateTime: 2020-12-10T22:24:00Z
-    webUrl: "https://www.washingtonpost.com/health/gun-restrictions-face-uphill-battle-even-under-biden/2020/12/10/89868ad6-3b0c-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/gun-restrictions-face-uphill-battle-even-under-biden/2020/12/10/89868ad6-3b0c-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/gun-restrictions-face-uphill-battle-even-under-biden/2020/12/10/89868ad6-3b0c-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Obama reunion? Biden fills Cabinet with former WH leaders"
     excerpt: "WASHINGTON — President-elect Joe Biden is getting the old gang back together. Increasingly deep into the process of selecting Cabinet members and other senior staff, the incoming Biden administration has a distinctly Obama feel."
     publishedDateTime: 2020-12-11T11:11:00Z
@@ -236,22 +220,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Biden's transition contends with probe into son's finances"
-    excerpt: "The revelation that federal prosecutors have launched a tax investigation into President-elect Joe Biden’s son Hunter is now looming over the incoming administration's transition efforts"
-    publishedDateTime: 2020-12-11T19:44:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/bidens-transition-contends-probe-sons-finances-74661119"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/bidens-transition-contends-probe-sons-finances-74661119"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/bidens-transition-contends-probe-sons-finances-74661119"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_eb6fdf9e9ae14882ab437470936ab848_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Focus on union leader as Biden searches for education secretary"
     excerpt: "No matter whom Biden chooses, the person is sure to represent an about-face from current Secretary Betsy DeVos, who has made school choice her signature issue. The depar"
@@ -365,22 +333,6 @@ related:
         width: 689
         height: 545
         isCached: true
-  - title: "Justice department plans to execute five inmates before Biden's inauguration"
-    excerpt: "Brandon Bernard, who was convicted at 18, to die on Thursday in Trump administration decision that breaks with precedent"
-    publishedDateTime: 2020-12-10T16:07:00Z
-    webUrl: "https://www.theguardian.com/world/2020/dec/10/trump-administration-justice-department-federal-executions"
-    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/10/trump-administration-justice-department-federal-executions"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/10/trump-administration-justice-department-federal-executions"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
-    images:
-      - url: "https://i.guim.co.uk/img/media/b8a35976a36e4f47b3fc387ecd45d3aaa9cecf3a/0_107_4654_2793/master/4654.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=951e29e03391afce35c4690f7586774a"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Joe Biden's staff nominations are early test of relationship with progressives"
     excerpt: "The Democratic left rallied around the party’s nominee but are now warily surveying his picks for top administration positions"
     publishedDateTime: 2020-12-06T10:03:00Z
@@ -412,22 +364,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543357826&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21I4"
         width: 859
         height: 545
-        isCached: true
-  - title: "Hunter Biden inquiry now weighs on president-elect's looming attorney general nomination"
-    excerpt: "The investigation into Hunter Biden's taxes represents first test of Joe Biden's pledge to guard the Justice Department from White House influence."
-    publishedDateTime: 2020-12-10T19:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/10/hunter-biden-tax-investigation-weighs-joe-biden-attorney-general-pick/3878150001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3878150001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3878150001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/10/03/USAT/2ae97134-1746-46ac-9866-3308dae0288b-008_EPA_-FILE-_USA_UKRAINE_WHISTLEBLOWER_COMPLAINT_TRUMP_BIDEN.2.JPG?auto=webp&crop=3499,1968,x1,y14&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Biden injures foot while playing with his dog"
     excerpt: "President-elect Joe Biden suffered hairline fractures in his foot while playing with his dog on Nov. 29. Biden will wear a walking boot for several weeks."
@@ -523,22 +459,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/H8nN4ZoaWHxWUviuMDxj3sYgoDM=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X5UJMARTS4I6XFUZADJRD4J5FU.jpg"
         width: 1484
         height: 990
-        isCached: true
-  - title: "President-elect Joe Biden taps former Obama adviser and envoy Susan Rice to lead White House Domestic Policy Council"
-    excerpt: "President-elect Joe Biden taps former Obama adviser and envoy Susan Rice to lead White House Domestic Policy Council"
-    publishedDateTime: 2020-12-10T15:21:00Z
-    webUrl: "https://www.washingtonpost.com/politics/president-elect-joe-biden-taps-former-obama-adviser-and-envoy-susan-rice-to-lead-white-house-domestic-policy-council/2020/12/10/7e8574d8-3afa-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/president-elect-joe-biden-taps-former-obama-adviser-and-envoy-susan-rice-to-lead-white-house-domestic-policy-council/2020/12/10/7e8574d8-3afa-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/president-elect-joe-biden-taps-former-obama-adviser-and-envoy-susan-rice-to-lead-white-house-domestic-policy-council/2020/12/10/7e8574d8-3afa-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Joe Biden's Novel Approach to Climate Change Could Side-Step a Divided Congress"
     excerpt: "As the country burned and flooded, Joe Biden leaned into climate change more than any other general-election presidential contender in U.S. history. Now, even as he faces the possibility of a divided Congress,"

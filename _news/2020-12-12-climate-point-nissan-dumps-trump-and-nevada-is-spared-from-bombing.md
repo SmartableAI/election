@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6494580002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6494580002"
 type: article
 quality: 125
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 680
     isCached: true
-
-related:
-  - title: "Donald Trump handles coin-toss duty at Army-Navy game at West Point"
-    excerpt: "President Donald Trump made the trip to West Point, New York, for 121st Army-Navy football game and performed the coin toss in the pregame ceremony."
-    publishedDateTime: 2020-12-12T20:58:00Z
-    webUrl: "https://www.usatoday.com/story/sports/ncaaf/2020/12/12/donald-trump-handles-coin-toss-duty-army-navy-football/6522209002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6522209002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6522209002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/12/USAT/b6f579ec-014c-4265-b6dc-6f332ddc6823-armynavytrump.jpg?auto=webp&crop=2611,1469,x1477,y2053&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "99xy+af3RlGlNt3p4ATM7JO9qb4aT3m/LceoroL+aPELja4zC+2+6T6C3y3ydrch4g6ivLpkp9kwjYBLDVBP/di6LLube6j8vmAXLiaAGM2lOeNerG219Bo2INNeX4E7DdPES5jun7P9qfReoFF++Q4fY3kqj2BNe0JsJcS4bFPUDWJXQZhK9qIqbpjgmIefgPjU1zffok0x1A9GUEgS3//c/eeMyFyZ9IOZ89Loe4g1fewncICvOAX5Kb3hj/A7Ononky9MH7BHKiGW9B/2cyRSBmy2ow78U48v90nMJrv93amI4GP415Q4zOQ/bjSFSwgQhRoPaP+/OskfWuw9eiB5M5/1g6oWyUeA4QA205c=;YwqFoGyrb+N52/DoZatz8A=="
 ---

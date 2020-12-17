@@ -47,6 +47,70 @@ related:
         width: 825
         height: 545
         isCached: true
+  - title: "Birthday time: Biden turns 78, will be oldest U.S. president"
+    excerpt: "Biden will be sworn in as the oldest president in the nation’s history, displacing Ronald Reagan, who left the White House in 1989 when he was 77 years and 349 days old. The age"
+    publishedDateTime: 2020-11-20T08:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_afcc289c76504d47b99037d98f0001f1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden aide Blinken voices concern about rights group in Egypt"
+    excerpt: "A top adviser to President-elect Joe Biden, who has pledged a renewed U.S. emphasis on human rights, on Friday voiced concern about a prominent Egyptian rights group that said security agents had arrested its executive director this week."
+    publishedDateTime: 2020-11-20T23:06:00Z
+    webUrl: "https://www.reuters.com/article/us-egypt-rights-biden-idUSKBN2802UJ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2802UJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2802UJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541955281&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ1MJ"
+        width: 725
+        height: 545
+        isCached: true
+  - title: "Birthday time: Biden turns 78, will be oldest U.S. president"
+    excerpt: "President-elect Joe Biden turned 78 Friday, and he’ll soon take the reins of a politically fractured nation facing the worst public health crisis in a century, high unemployment and a reckoning on rac"
+    publishedDateTime: 2020-11-21T01:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/birthday-time-biden-turns-78-will-be-oldest-us-president/2020/11/20/77052604-2b96-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/birthday-time-biden-turns-78-will-be-oldest-us-president/2020/11/20/77052604-2b96-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/birthday-time-biden-turns-78-will-be-oldest-us-president/2020/11/20/77052604-2b96-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Joe Biden to nominate Antony Blinken as Secretary of State"
+    excerpt: "President-elect Joe Biden is planning to announce that he has selected Tony Blinken, one of his closest and longest serving foreign policy advisers, to be his Secretary of State. It puts Blinken at one of the highest-profile cabinet positions at a time when Biden is planning to put foreign policy as a major pillar in his administration,"
+    publishedDateTime: 2020-11-23T02:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/22/joe-biden-nominate-antony-blinken-secretary-state/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/22/joe-biden-nominate-antony-blinken-secretary-state/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/22/joe-biden-nominate-antony-blinken-secretary-state/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3SNO7NBNGMI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 922
+        isCached: true
   - title: "The Latest: Biden names 2 aides to legislative affairs team"
     excerpt: "WASHINGTON — The Latest on President-elect Joe Biden (all times local): 11:35 a.m. Support our journalism. Subscribe today. President-elect Joe Biden has named two longtime Capitol Hill aides to his legislative affairs team."
     publishedDateTime: 2020-11-23T16:40:00Z
@@ -95,6 +159,38 @@ related:
         width: 801
         height: 545
         isCached: true
+  - title: "Joe Biden to deliver a Thanksgiving address seeking US unity"
+    excerpt: "President-elect Joe Biden is slated to deliver a Thanksgiving address to the nation seeking to unify Americans in the face of the coronavirus pandemic as experts warn of a possible spike in cases resu"
+    publishedDateTime: 2020-11-25T19:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/america-back-biden-pushes-past-trump-era-nominees-74391208"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/america-back-biden-pushes-past-trump-era-nominees-74391208"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/america-back-biden-pushes-past-trump-era-nominees-74391208"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b3a3db32032442239d6be4cc5e7f43c4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden says he has picked a Treasury secretary who will please all Democrats"
+    excerpt: "President-elect Joe Biden said on Thursday he had selected his Treasury secretary and would reveal his choice as soon as next week."
+    publishedDateTime: 2020-11-19T23:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-dollar-idUSKBN27Z34L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z34L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z34L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541824389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1UT"
+        width: 825
+        height: 545
+        isCached: true
   - title: "Biden taps Blinken as secretary of state as foreign policy team takes shape"
     excerpt: "President-elect Joe Biden on Monday named the key members of his foreign policy team, tapping Antony Blinken as the next U.S. secretary of state, Jake Sullivan as national security adviser and Linda Thomas-Greenfield as the U."
     publishedDateTime: 2020-11-23T23:40:00Z
@@ -111,37 +207,69 @@ related:
         width: 824
         height: 545
         isCached: true
-  - title: "State Department tells staff: transition to Biden administration has begun"
-    excerpt: "The U.S. State Department has informed staff that the transition process has begun and a team had been assigned inside the agency to support a handover to the incoming Biden administration, according to an internal email seen by Reuters on Wednesday."
-    publishedDateTime: 2020-11-26T00:10:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-biden-statedepartment/state-department-tells-staff-transition-to-biden-administration-has-begun-idUSKBN2852XS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2852XS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2852XS"
+  - title: "Georgia confirms Biden's victory in state as it completes hand audit of ballots"
+    excerpt: "Georgia confirmed Democratic President-elect Joe Biden as the winner of the Nov. 3 election in the state as it completed a hand audit of ballots on Thursday, Secretary of State Brad Raffensperger said."
+    publishedDateTime: 2020-11-20T07:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-idUSKBN28000U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28000U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28000U"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 123
+    quality: 121
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542458526&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1KP"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541841031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ02V"
         width: 817
         height: 545
         isCached: true
-  - title: "Biden COVID-19 task force says transition delay could be compromising U.S. virus response"
-    excerpt: "Medical experts advising President-elect Joe Biden on the COVID-19 pandemic fear that the federal government’s delay in recognizing Biden’s election victory could be compromising the U.S. response to the virus,"
-    publishedDateTime: 2020-11-17T21:31:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN27X2WD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X2WD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2WD"
+  - title: "Can Joe Biden forgive student debt without Congress? Here's what the experts say"
+    excerpt: "Can the president forgive student debt without Congress? A lot is riding on that answer. With Republicans generally hostile toward the idea of debt cancellation, the legislative route could prove difficult."
+    publishedDateTime: 2020-11-21T19:39:00Z
+    webUrl: "https://www.cnbc.com/2020/11/21/can-joe-biden-forgive-student-debt-without-congress-experts-weigh-in.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/11/21/can-joe-biden-forgive-student-debt-without-congress-experts-weigh-in.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/21/can-joe-biden-forgive-student-debt-without-congress-experts-weigh-in.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
+      name: CNBC
+      domain: cnbc.com
+    quality: 120
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541548736&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1R8"
-        width: 781
-        height: 545
+      - url: "https://image.cnbcfm.com/api/v1/image/106797715-1605562384011-gettyimages-1286022154-cz9i6227_2020111634442987.jpeg?v=1605814178"
+        width: 3429
+        height: 2472
+        isCached: true
+  - title: "Cannabis industry has 30-40% more upside, pot ETF issuer says after Joe Biden victory"
+    excerpt: "Cannabis companies have an eventful four years ahead of them. Pot stocks have been hot following Election Day, with big names in the space including Canopy Growth, Aurora Cannabis, Cronos Group and Tilray all lighting up on the prospects of a Joe Biden presidency."
+    publishedDateTime: 2020-11-21T21:37:00Z
+    webUrl: "https://www.cnbc.com/2020/11/21/cannabis-industry-has-30-40percent-upside-etf-issuer-says-after-biden-win.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/11/21/cannabis-industry-has-30-40percent-upside-etf-issuer-says-after-biden-win.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/21/cannabis-industry-has-30-40percent-upside-etf-issuer-says-after-biden-win.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 118
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106800529-1605909943714-gettyimages-166995067-1051226800.jpeg?v=1605910000"
+        width: 4256
+        height: 2799
+        isCached: true
+  - title: "Biden searches for attorney general to restore Justice Dept.’s independence, refocus on civil rights"
+    excerpt: "After years seemingly at the center of every major political fight in Washington, the Justice Department is about to get new leadership, and President-elect Joe Biden’s choice for attorney general will have to balance competing demands within his party on thorny issues of civil rights,"
+    publishedDateTime: 2020-11-25T00:22:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-attorney-general/2020/11/24/bbd7da7a-2e97-11eb-bae0-50bb17126614_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-attorney-general/2020/11/24/bbd7da7a-2e97-11eb-bae0-50bb17126614_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-attorney-general/2020/11/24/bbd7da7a-2e97-11eb-bae0-50bb17126614_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QNYKKSBOTEI6XOXAKC5ROETGCQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "AP source: Biden taps ex-Fed chair Yellen to lead treasury"
     excerpt: "WASHINGTON (AP) — President-elect Joe Biden has chosen former Federal Reserve Chair Janet Yellen to serve as treasury secretary, a pivotal role in which she would help shape and direct his economic policies,"
@@ -154,17 +282,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "The Latest: Biden says his picks show US back on world stage"
-    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
-    publishedDateTime: 2020-11-24T19:42:00Z
-    webUrl: "https://www.businessinsider.com/the-latest-biden-says-his-picks-show-us-back-on-world-stage-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-says-his-picks-show-us-back-on-world-stage-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-says-his-picks-show-us-back-on-world-stage-2020-11?amp"
+  - title: "Biden urges 'sacrifice' in Thanksgiving address"
+    excerpt: "Rough Cuts Biden urges 'sacrifice' in Thanksgiving address. Posted . U.S. President-elect Joe Biden and his wife released a video acknowledging the scaled-back Thanksgiving celebr"
+    publishedDateTime: 2020-11-27T04:30:00Z
+    webUrl: "https://www.reuters.com/video/watch/biden-urges-sacrifice-in-thanksgiving-ad-id722408740"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201127&i=OVD6CLUCF&r=OVD6CLUCF&t=2"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "QZnn2zAqhaLcE16c/vxLJjJ53JoWG5Yks8xAU7AfM4dKM+1Tb6Qr5J50Yex0UGKV3+QdC76NUq2NK/m8OE/EQsHEShM8jYHJ4/zxLtLMe62WfSNNxFv7zhpaEo/aDpTN8boKZLOnEwQMFIaXZ1vSXVwfkd42yxI+3rjMJxJcvzEG/NS/Upg7iFYeDMa2+UsqKEl2r2k766EdRxEPl9JaFAHvQqHvbXvc9+lk+xLkvyvttfhwZIAAWPM49PC5crqJBkjY8VyOyqmEwfXDdsLcKa4mlQAaLy7E1gf4WVQRLxu4VQt+DykzVLYRjVnnnlJds0aKHxm/EzmabUYPvgq3mz+Xfot9NKUcJmo67btIsdGS0a7fKDMonM+XC7aAwu1VVPwe3cLC2X1uMhbvlVxqofaF0BM798sFCH4lK+MDERxiTaOcaXeyfOhXOm7dUfgkZEoSEN/m4ahRFjux1CdpL11nJoSuLCzf0RMaZuNh5fPU+EeWvFjWb4XHNP62yTFQDed3RhZ5wSCCJuOe16UdpQ==;Fk/Mp9phdA4TI2KFon0k0Q=="
 ---

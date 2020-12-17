@@ -39,6 +39,38 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "31 iconic photos of Trump that will go down in history"
+    excerpt: "Take a trip down memory lane with some of the most wildly memorable images that define Trump's presidency."
+    publishedDateTime: 2020-12-12T13:06:00Z
+    webUrl: "https://www.businessinsider.com/best-donald-trump-pictures-presidency-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/best-donald-trump-pictures-presidency-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/best-donald-trump-pictures-presidency-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fce91eb037cbd0018614586?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump administration has executed more Americans than all states combined, report finds"
+    excerpt: "The execution spree was a first in US history and stands contrary to the declining trend in death penalty practices"
+    publishedDateTime: 2020-12-17T04:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/15/trump-administration-us-death-penalty-executions"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/15/trump-administration-us-death-penalty-executions"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/15/trump-administration-us-death-penalty-executions"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/c6134321964e5e85d4a234e5765ed3808dd9c540/0_0_3000_2000/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d35092e2bf7e12355d11f30f8374b11"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Trump: US to recognize Morocco's sovereignty over disputed Western Sahara region in return for Israel normalization"
     excerpt: "US to recognize Morocco's sovereignty over disputed Western Sahara region in return for Israel normalization."
     publishedDateTime: 2020-12-10T16:42:00Z
@@ -55,6 +87,17 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Idaho’s 4 electors cast votes for Trump and Pence"
+    excerpt: "All four of Idaho’s Republican electors have cast their ballots for President Donald Trump and Vice President Mike Pence."
+    publishedDateTime: 2020-12-16T14:43:00Z
+    webUrl: "https://www.theolympian.com/news/politics-government/national-politics/article247837130.html"
+    ampWebUrl: "https://amp.theolympian.com/news/politics-government/national-politics/article247837130.html"
+    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/news/politics-government/national-politics/article247837130.html"
+    type: article
+    provider:
+      name: The Olympian
+      domain: theolympian.com
+    quality: 70
 
 secured: "fcIX1HO6ip7PHY7JLYIZh+vNr6GOjGhpK9PkjBzi7NQ8s3EzYc3T/jHSYlCYFInYcT8hN2jD9P1E8LDJu2T6xknamP2PGkns6B2pIa0ncNFdKDUkaP4lhPfNyvgvODSV6b6RWZ0TsIM1qVYkI7kpPhU0jeyWZdTRz739CCWfzx3xAWqnRRnv17YJUdMjfySAxw50fM6U8m/y6vk/2OC/9uB0Z+Hze630NuhGO6pOKqRrDOKbWlVf+k+gsf9dwFUuKzoIfEU4HLZ4KSiATV8nAMHykf4N2OZs6PGMyEy56g1NOMybnJOa+CmSCEexZK9zr4wBxylZzCyixhzEctE1MNdm7vAc9DV9LiNRxksA08VYr1IeeDAT7VpqgEM7oOoVC6v4CSCaiO5Sja4yLlFClU+qf/dSJVt1pwslKElHdu/Z7D4BbMxbH+FOByZvYqjoKAqPsE7ui9M5c0zPeUUL7jFAwe3K73giQ8ky0ItCP6dwPDbNLEjHaL2pRg3JP+iSWvuRNHyf1ZSFz7sjJSLDyA==;0inImi6vOWsApNAJqlZvrA=="
 ---

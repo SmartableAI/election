@@ -93,20 +93,6 @@ related:
         width: 1484
         height: 834
         isCached: true
-  - title: "Hunter Biden's taxes are under investigation by the US attorney's office in Delaware"
-    excerpt: "President-elect Joe Biden's son was in the spotlight during the presidential campaign for his business dealings with Ukraine and China."
-    publishedDateTime: 2020-12-10T00:35:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2020/12/10/hunter-bidens-taxes-under-investigation-us-attorneys-office/3873160001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 98
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/dd7975a8-d63a-4e8b-b306-739763b38569-VPC_HUNTER_BIDEN_TAXES_DESK.00_00_32_05.Still001.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "Z/lMdjlp/qXFPha7SusGiBNfsZhbtCP83toWx5YaurfxOiDZqBoy7PqGlcUiWFodDn8uc5ElBM8cjTx9ZVv+Rq02gXjFhR++hccI+HSN8btjuo8cgwbks9tThIL9AVpDfwB5PTOR8kAKgAOqwbeelYCyZj9avxjIxuc4lZ8fni1TLKD13lswIE6VEC4fhjHRYxf2brFNWtgo6n0GoAYC0/pVKIHUGPm9Fcd609vZg9xfR2XxIsscQIuPMFwr8rvKRfJWnHgpEm0ueQLUe4bMeO++NfXZyVbxy8TWwaNwJDrn+hKYStZKQU6S3H9vGt1SzcOvqtIbkJ7WGDloGk9GU9m91h1+92P2qvYFiUOcDKBbuDQrBWPky4bXYqkoXVLrCkQG2q3gS51BbI+BHOt6MDq8d2TrK0iwfGhhpTVtUMhuU14zwGKO0cuU/GM80B1eIX25xV+9kpUSMrH9hjLN1nVpIMscjQQ4fpjAVdDXS6VgIsK/lxQipfNxv11QOtI4RO2n1mRqxQZvAxKHud7LMw==;sd6BTTODu3T56Qz3lN178Q=="
 ---

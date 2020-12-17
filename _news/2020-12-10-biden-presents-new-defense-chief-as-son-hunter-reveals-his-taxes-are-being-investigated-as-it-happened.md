@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Fact check: Claim of Georgia vote spike for Biden after pipe burst at counting site is false"
-    excerpt: "A pipe break in Georgia and a counting stop seen on surveillance video happened on two different occasions and are not related in any way."
-    publishedDateTime: 2020-12-16T17:22:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/12/16/fact-check-claim-ga-vote-spike-biden-after-pipe-burst-false/3879081001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3879081001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3879081001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/25/USAT/9756d6b6-5a16-426f-a633-3f5746980893-AP_Election_2020_Georgia_Vote_Counting.jpg?auto=webp&crop=1023,575,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Hunter Biden reveals he is under federal investigation for \"tax affairs\""
     excerpt: "Hunter Biden, the son of President-elect Joe Biden, says he is under investigation over his tax affairs by the U.S. Attorney's Office in Delaware in a probe that dates back to 2018. CBS News political correspondent Ed O'Keefe joins \"CBSN AM\" to discuss the latest."
     publishedDateTime: 2020-12-10T13:43:00Z

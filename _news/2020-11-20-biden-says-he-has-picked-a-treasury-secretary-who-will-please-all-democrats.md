@@ -31,85 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Who are the top contenders for the Biden administration?"
-    excerpt: "President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks."
-    publishedDateTime: 2020-11-17T18:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN27X1OD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1OD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1OD"
+  - title: "Biden says Federal Reserve's interest rate policy has been 'positive'"
+    excerpt: "U.S. President-elect Joe Biden on Thursday said he supports the way the Federal Reserve has managed interest rate policy and that he has selected a person to run the Treasury Department."
+    publishedDateTime: 2020-11-20T02:38:00Z
+    webUrl: "https://www.reuters.com/article/ousivMolt/idUSKBN27Z34L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z34L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z34L"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541519015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0YJ"
-        width: 817
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541824389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1UT"
+        width: 825
         height: 545
         isCached: true
-  - title: "Biden set to meet Friday with top Democratic leaders in Congress"
-    excerpt: "U.S. President-elect Joe Biden is scheduled to meet on Friday with House of Representatives Speaker Nancy Pelosi and Senate Democratic Leader Chuck Schumer, according to a Pelosi aide."
-    publishedDateTime: 2020-11-20T02:20:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27Z32Z"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z32Z"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z32Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541818310&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1TB"
-        width: 832
-        height: 545
-        isCached: true
-  - title: "Birx wants to stay on in Biden administration: Colleagues"
-    excerpt: "Dr. Deborah Birx, White House coronavirus response coordinator, has said she would be interested in helping the Biden administration get up and running, colleagues said."
-    publishedDateTime: 2020-11-20T23:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/birx-stay-biden-administration-colleagues/story?id=74315290"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/birx-stay-biden-administration-colleagues/story?id=74315290"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/birx-stay-biden-administration-colleagues/story?id=74315290"
+  - title: "Birthday time: Biden turns 78, will be oldest U.S. president"
+    excerpt: "Biden will be sworn in as the oldest president in the nation’s history, displacing Ronald Reagan, who left the White House in 1989 when he was 77 years and 349 days old. The age"
+    publishedDateTime: 2020-11-20T08:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/deborah-birx-ss-jt-201120_1605888616659_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_afcc289c76504d47b99037d98f0001f1_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Pompeo touts Iran policy in Gulf ahead of Biden presidency"
-    excerpt: "U.S. Secretary of State Mike Pompeo is defending his tour of Arab Gulf states and the Trump administration’s continued efforts to squeeze Iran, even as a new U.S. administration led by Joe Biden prepa"
-    publishedDateTime: 2020-11-22T13:44:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/pompeo-touts-iran-policy-gulf-ahead-biden-presidency-74344603"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/pompeo-touts-iran-policy-gulf-ahead-biden-presidency-74344603"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/pompeo-touts-iran-policy-gulf-ahead-biden-presidency-74344603"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/International/WireAP_79b95503c7e24edf9b39f4c30a2704cd_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden inauguration will be scaled down amid COVID, aide says"
-    excerpt: "The inauguration of President-elect Joe Biden will be a scaled-down version of the usual traditions that will not endanger Americans health amid the coronavirus pandemic, a top aide said on Sunday."
-    publishedDateTime: 2020-11-22T17:03:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-inauguration/biden-inauguration-will-be-scaled-down-amid-covid-aide-says-idUSL1N2I80B7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2820LG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2820LG"
+  - title: "Biden aide Blinken voices concern about rights group in Egypt"
+    excerpt: "A top adviser to President-elect Joe Biden, who has pledged a renewed U.S. emphasis on human rights, on Friday voiced concern about a prominent Egyptian rights group that said security agents had arrested its executive director this week."
+    publishedDateTime: 2020-11-20T23:06:00Z
+    webUrl: "https://www.reuters.com/article/us-egypt-rights-biden-idUSKBN2802UJ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2802UJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2802UJ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542071473&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL0DT"
-        width: 689
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541955281&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ1MJ"
+        width: 725
         height: 545
+        isCached: true
+  - title: "Birthday time: Biden turns 78, will be oldest U.S. president"
+    excerpt: "President-elect Joe Biden turned 78 Friday, and he’ll soon take the reins of a politically fractured nation facing the worst public health crisis in a century, high unemployment and a reckoning on rac"
+    publishedDateTime: 2020-11-21T01:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/birthday-time-biden-turns-78-will-be-oldest-us-president/2020/11/20/77052604-2b96-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/birthday-time-biden-turns-78-will-be-oldest-us-president/2020/11/20/77052604-2b96-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/birthday-time-biden-turns-78-will-be-oldest-us-president/2020/11/20/77052604-2b96-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Joe Biden to nominate Antony Blinken as Secretary of State"
     excerpt: "President-elect Joe Biden is planning to announce that he has selected Tony Blinken, one of his closest and longest serving foreign policy advisers, to be his Secretary of State. It puts Blinken at one of the highest-profile cabinet positions at a time when Biden is planning to put foreign policy as a major pillar in his administration,"
@@ -127,12 +111,12 @@ related:
         width: 1440
         height: 922
         isCached: true
-  - title: "Europe hopes for reset, end to ‘damage control’ under Biden"
-    excerpt: "European relations under the Biden administration can end years in which Europe was mainly concerned with “damage control.”"
-    publishedDateTime: 2020-11-24T11:41:00Z
-    webUrl: "https://www.washingtonpost.com/business/europe-hopes-for-reset-end-to-damage-control-under-biden/2020/11/24/f7137836-2e49-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/europe-hopes-for-reset-end-to-damage-control-under-biden/2020/11/24/f7137836-2e49-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/europe-hopes-for-reset-end-to-damage-control-under-biden/2020/11/24/f7137836-2e49-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+  - title: "The Latest: Biden names 2 aides to legislative affairs team"
+    excerpt: "WASHINGTON — The Latest on President-elect Joe Biden (all times local): 11:35 a.m. Support our journalism. Subscribe today. President-elect Joe Biden has named two longtime Capitol Hill aides to his legislative affairs team."
+    publishedDateTime: 2020-11-23T16:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-names-2-aides-to-legislative-affairs-team/2020/11/23/a1fe7d2c-2daa-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-names-2-aides-to-legislative-affairs-team/2020/11/23/a1fe7d2c-2daa-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-names-2-aides-to-legislative-affairs-team/2020/11/23/a1fe7d2c-2daa-11eb-9dd6-2d0179981719_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -143,204 +127,174 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Keep the tough approach or seek cooperation? China looms large for Biden."
-    excerpt: "How the United States fashions its most consequential foreign relationship will depend a lot on which view of Xi Jinping the president-elect embraces."
-    publishedDateTime: 2020-11-11T00:29:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I4U264BCD4I6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden received 'congratulations' from Pope Francis: transition statement"
-    excerpt: "Elect Joe Biden spoke with Pope Francis on Thursday, and Biden thanked him for his \"blessing and congratulations,\" his transition team said in a statement."
-    publishedDateTime: 2020-11-12T23:08:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-pope/biden-received-congratulations-from-pope-francis-transition-statement-idUSKBN27S2TQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S2TQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2TQ"
+  - title: "Biden says UK border with Ireland must be open"
+    excerpt: "U.S. President-elect Joe Biden said on Tuesday he did not want to see a guarded border between Ireland and the United Kingdom, adding that he had previously discussed the matter with the British and Irish prime ministers and other European leaders."
+    publishedDateTime: 2020-11-25T05:38:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-ireland-idAFKBN2843BF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2843BF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2843BF"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 124
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541026140&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1WO"
-        width: 733
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542354032&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1P7"
+        width: 740
         height: 545
         isCached: true
-  - title: "Tracking Biden's Cabinet picks as the incoming administration takes shape"
-    excerpt: "The president-elect has announced more than a dozen nominees to lead key departments and agencies throughout the federal government."
-    publishedDateTime: 2020-12-17T00:55:00Z
-    webUrl: "https://www.cbsnews.com/news/bidens-administration-cabinet-updates/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/bidens-administration-cabinet-updates/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/bidens-administration-cabinet-updates/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 124
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/16/ea1b9def-eb19-449e-8f70-69d7c84d4e94/thumbnail/1200x630/908c085095406940af467ecbb9046eb5/gettyimages-1291300530.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "China's Wang vows to uphold trade deal during Biden administration: U.S. business group"
-    excerpt: "Chinese Foreign Minister Wang Yi assured U.S. executives during a videoconference on Sunday that Beijing remained committed to the Phase 1 trade deal with the United States, the head of the US-China Business Council said."
-    publishedDateTime: 2020-12-08T13:25:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trade-china/china-foreign-minister-pledges-to-uphold-trade-deal-during-biden-administration-us-china-business-council-idUSKBN28H30Y"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H30Y"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H30Y"
+  - title: "Biden says U.S. 'ready to lead' again on global stage"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday began a new phase in his transition to the White House after the Trump administration gave the Democrat access to critical resources that will enable him to take the reins of power in January."
+    publishedDateTime: 2020-11-25T00:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/biden-forges-ahead-with-building-team-after-trump-clears-way-for-transition-idUSKBN2841BA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2841BA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2841BA"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 117
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543785941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61OL"
-        width: 788
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542321930&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1GU"
+        width: 801
         height: 545
         isCached: true
-  - title: "Plagued by COVID outbreaks, the meatpacking industry could be forced to change under Biden"
-    excerpt: "President-elect Joe Biden could direct his agencies to implement and enforce strict safety measures to protect worker health, experts said."
-    publishedDateTime: 2020-11-20T22:36:00Z
-    webUrl: "https://www.usatoday.com/story/news/investigations/2020/11/20/meatpacking-industry-could-face-significant-changes-under-joe-biden/3777230001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3777230001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3777230001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/21/USAT/9079416e-8378-4e8f-a692-4b24bef7a647-tyson_workers.JPG?auto=webp&crop=2015,1134,x0,y186&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Former US Secretary of State Henry Kissinger reveals his hopes for the next president: 'I like Joe Biden'"
-    excerpt: "Kissinger discussed what he expects from the new president, what successes he thinks Trump's administration had, and his longing for harmony."
-    publishedDateTime: 2020-11-11T03:28:00Z
-    webUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
-    images:
-      - url: "https://i.insider.com/5faaca37f7d1cb0019e3ad4e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Biden made his first administration hire this week, with others on the horizon. Here are some top contenders."
-    excerpt: "Biden has long said that his cabinet will also reflect how the country looks, noting he will have women and people of color in leadership positions. Here are some of the top names being floated for cabinet positions: Doug Jones,"
-    publishedDateTime: 2020-11-14T13:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/14/biden-administration-top-contenders-include-susan-rice-tom-perez/6279888002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6279888002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6279888002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/07/NTHR/ee89b08f-f36f-4e66-b69a-49b8e6c5ef7b-biden_ap_photo.jpg?auto=webp&crop=3983,2241,x0,y203&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Europe hopes for reset, end to 'damage control' under Biden"
-    excerpt: "European relations under the Biden administration can end years in which Europe was mainly concerned with “damage control.”"
-    publishedDateTime: 2020-11-24T20:30:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/europe-hopes-reset-end-damage-control-biden-74374411"
+  - title: "Joe Biden to deliver a Thanksgiving address seeking US unity"
+    excerpt: "President-elect Joe Biden is slated to deliver a Thanksgiving address to the nation seeking to unify Americans in the face of the coronavirus pandemic as experts warn of a possible spike in cases resu"
+    publishedDateTime: 2020-11-25T19:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/america-back-biden-pushes-past-trump-era-nominees-74391208"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/america-back-biden-pushes-past-trump-era-nominees-74391208"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/america-back-biden-pushes-past-trump-era-nominees-74391208"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 105
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/International/WireAP_df57ed474f6947c8a31ad471313afa06_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b3a3db32032442239d6be4cc5e7f43c4_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Health officials lay out wish list for Biden Administration: Restore the CDC, prioritize health across the globe"
-    excerpt: "A who's who of health officials published a commentary Wednesday outlining their wish list for the incoming Biden-Harris Administration, starting with their desire for the U.S. to rejoin the global public health community."
-    publishedDateTime: 2020-12-03T18:04:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/12/03/health-experts-call-biden-restore-cdc-prioritize-global-health/3792331001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3792331001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3792331001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/505fe506013ba96c4ebd6d67660c8f64967f96f8/c=949-779-4680-2887/local/-/media/2018/02/20/USATODAY/USATODAY/636547234970675887-IMG-0406.JPG?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
-  - title: "Canada will press Biden administration for integrated 'Buy North America' approach"
-    excerpt: "Canada will press the new U.S. administration for an integrated \"Buy North America\" approach, a top official said on Monday after President-elect Joe Biden announced his government would not give contracts to firms without U."
-    publishedDateTime: 2020-11-17T02:27:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-biden-canada/canada-will-press-biden-administration-for-integrated-buy-north-america-approach-idUST5N2FK01W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUST5N2FK01W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUST5N2FK01W"
+  - title: "Biden taps Blinken as secretary of state as foreign policy team takes shape"
+    excerpt: "President-elect Joe Biden on Monday named the key members of his foreign policy team, tapping Antony Blinken as the next U.S. secretary of state, Jake Sullivan as national security adviser and Linda Thomas-Greenfield as the U."
+    publishedDateTime: 2020-11-23T23:40:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN2830ET"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2830EI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2830EI"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 99
-  - title: "Biden to nominate Avril Haines as next director of national intelligence; she would be the first woman to hold the position"
-    excerpt: "Haines, a lawyer by training, held senior national security roles in the Obama administration, including as the No. 2 at CIA."
-    publishedDateTime: 2020-11-23T23:15:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/avril-haines-to-head-intelligence-community/2020/11/23/e9dce3f4-2daf-11eb-96c2-aac3f162215d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/avril-haines-to-head-intelligence-community/2020/11/23/e9dce3f4-2daf-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/avril-haines-to-head-intelligence-community/2020/11/23/e9dce3f4-2daf-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    quality: 123
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542227095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN02V"
+        width: 824
+        height: 545
+        isCached: true
+  - title: "Georgia confirms Biden's victory in state as it completes hand audit of ballots"
+    excerpt: "Georgia confirmed Democratic President-elect Joe Biden as the winner of the Nov. 3 election in the state as it completed a hand audit of ballots on Thursday, Secretary of State Brad Raffensperger said."
+    publishedDateTime: 2020-11-20T07:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-idUSKBN28000U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28000U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28000U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541841031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ02V"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Can Joe Biden forgive student debt without Congress? Here's what the experts say"
+    excerpt: "Can the president forgive student debt without Congress? A lot is riding on that answer. With Republicans generally hostile toward the idea of debt cancellation, the legislative route could prove difficult."
+    publishedDateTime: 2020-11-21T19:39:00Z
+    webUrl: "https://www.cnbc.com/2020/11/21/can-joe-biden-forgive-student-debt-without-congress-experts-weigh-in.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/11/21/can-joe-biden-forgive-student-debt-without-congress-experts-weigh-in.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/21/can-joe-biden-forgive-student-debt-without-congress-experts-weigh-in.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 120
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106797715-1605562384011-gettyimages-1286022154-cz9i6227_2020111634442987.jpeg?v=1605814178"
+        width: 3429
+        height: 2472
+        isCached: true
+  - title: "Cannabis industry has 30-40% more upside, pot ETF issuer says after Joe Biden victory"
+    excerpt: "Cannabis companies have an eventful four years ahead of them. Pot stocks have been hot following Election Day, with big names in the space including Canopy Growth, Aurora Cannabis, Cronos Group and Tilray all lighting up on the prospects of a Joe Biden presidency."
+    publishedDateTime: 2020-11-21T21:37:00Z
+    webUrl: "https://www.cnbc.com/2020/11/21/cannabis-industry-has-30-40percent-upside-etf-issuer-says-after-biden-win.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/11/21/cannabis-industry-has-30-40percent-upside-etf-issuer-says-after-biden-win.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/21/cannabis-industry-has-30-40percent-upside-etf-issuer-says-after-biden-win.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 118
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106800529-1605909943714-gettyimages-166995067-1051226800.jpeg?v=1605910000"
+        width: 4256
+        height: 2799
+        isCached: true
+  - title: "'That's his first love': Why Biden may be a foreign policy president despite domestic crises"
+    excerpt: "The president-elect already knows many of the players on the world stage – from Vladimir Putin to Angela Merkel to Benjamin Netanyahu."
+    publishedDateTime: 2020-11-20T19:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/20/joe-biden-has-more-foreign-experience-than-trump-obama-bush-clinton/6315516002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6315516002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6315516002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/f52547b1-2a3a-4726-82b9-11f1b16bc5a5-A07_BIDEN_NETANYAHU_16.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden searches for attorney general to restore Justice Dept.’s independence, refocus on civil rights"
+    excerpt: "After years seemingly at the center of every major political fight in Washington, the Justice Department is about to get new leadership, and President-elect Joe Biden’s choice for attorney general will have to balance competing demands within his party on thorny issues of civil rights,"
+    publishedDateTime: 2020-11-25T00:22:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-attorney-general/2020/11/24/bbd7da7a-2e97-11eb-bae0-50bb17126614_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-attorney-general/2020/11/24/bbd7da7a-2e97-11eb-bae0-50bb17126614_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-attorney-general/2020/11/24/bbd7da7a-2e97-11eb-bae0-50bb17126614_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 99
+    quality: 110
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6BVSY3BNWQI6XHOWFUAXTGAXDE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QNYKKSBOTEI6XOXAKC5ROETGCQ.jpg&w=1440"
         width: 1440
-        height: 978
+        height: 960
         isCached: true
-  - title: "One of Biden's top coronavirus advisors calls for focused restrictions based on disease spread instead of a nationwide lockdown"
-    excerpt: "\"So we've got to follow science, but we've got to also be more precise than we were in the spring,\" Dr. Vivek Murthy said on Friday."
-    publishedDateTime: 2020-11-13T18:23:00Z
-    webUrl: "https://www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11?amp"
+  - title: "AP source: Biden taps ex-Fed chair Yellen to lead treasury"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has chosen former Federal Reserve Chair Janet Yellen to serve as treasury secretary, a pivotal role in which she would help shape and direct his economic policies,"
+    publishedDateTime: 2020-11-23T22:15:00Z
+    webUrl: "https://www.businessinsider.com/ap-source-biden-taps-ex-fed-chair-yellen-to-lead-treasury-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/ap-source-biden-taps-ex-fed-chair-yellen-to-lead-treasury-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-source-biden-taps-ex-fed-chair-yellen-to-lead-treasury-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 97
-    images:
-      - url: "https://i.insider.com/5faebd8b402d49001924ed2f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Joe Biden promises to fix discrimination in housing. Here are 3 ways he plans to tackle it."
-    excerpt: "President-elect Joe Biden wants to root out discriminatory housing practices via a barrage of measures, down to changing the way houses get appraised."
-    publishedDateTime: 2020-11-22T14:48:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-housing-policy-real-estate-discrimination-2020-11"
+    quality: 105
+  - title: "Biden urges 'sacrifice' in Thanksgiving address"
+    excerpt: "Rough Cuts Biden urges 'sacrifice' in Thanksgiving address. Posted . U.S. President-elect Joe Biden and his wife released a video acknowledging the scaled-back Thanksgiving celebr"
+    publishedDateTime: 2020-11-27T04:30:00Z
+    webUrl: "https://www.reuters.com/video/watch/biden-urges-sacrifice-in-thanksgiving-ad-id722408740"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 95
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/5fb6911732f2170011f70056?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://static.reuters.com/resources/r/?d=20201127&i=OVD6CLUCF&r=OVD6CLUCF&t=2"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "89Gd//T5/lNmWsQOW0iw/KGzcIa+mJrQWcXVMhDPVHeS2tzJUwN9C5RPKXJMgC64nFFEu80KbMtwg2r1Fg+X2+5MJA4cKis3EMKgRVOYKiBTt3DCZMAVKF1L8GZ90AlVrL0lwr/dbHqzTM5Z9bahbhU82JyAL0UMSSI/LG1IexPEzgVK8hChpIJiIv/1rDUY1b3ID/dJVLxMIdcNyV3JvRBfMxEn/r++6cgVtlQPigoYthjplFxcCHiXcG16GwESI5jfzDmxzHSmeyn2CIA2fi6xtkgER9LheiS1JWvLOiHvf9B5iPrlERyCf45dvb9N7W8o94qBGrOvzxLsMlYI7VVbJmB4qvPIRVoST4Y3daw=;d1t9XIU5UgbyDsETAXt/2Q=="

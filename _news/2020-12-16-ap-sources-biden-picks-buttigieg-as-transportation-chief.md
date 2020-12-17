@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden introduces Buttigieg as transportation secretary nominee, meets virtually with governors"
+    excerpt: "As President-elect Joe Biden continues to build his administration, President Trump still insists that he won the election."
+    publishedDateTime: 2020-12-16T17:02:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EO3LUUR76EI6XNMLCYR7MJTZMA.jpg&w=1440"
+        width: 1440
+        height: 895
+        isCached: true
 
 secured: "8mBZSUWv7BxOk7+w4dD1PHfRL4RA2TSP+rB+4Hjwa95iw4gE9MZ0qa2GPC39C0DMcZDTj68orkRbE5hPpkFQRzc/vAhlBOYhPc73fmO0PHSjPF9/UqIXzVZLuOZv8pLNqqhketcZbki/ykd7iVYwvwegbwAgN9AHd57NVg8OBoMA8vj85ws41Ui0jP0hrhL3jRVt6UUwItzvtwTsHuCfs10BHAxs5DY18NE9vY9afW9fl6nexejPVYtrCtnX6b92Zfp3TRJKfh2qa/llWQZPqpACrTfId5mDV2OMUIDppBN0TQ8MozYDXOkN+lMaRN3f82OBvxqirTQiHQ8mR7jLFQQhmgm0ZngvLnF7X4qF3LU=;ymK6fKx01Cfuqw/7BkDQCQ=="
 ---

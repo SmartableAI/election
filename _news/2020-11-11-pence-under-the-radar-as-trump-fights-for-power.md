@@ -304,6 +304,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Why hasn't Biden or Trump gotten vaccinated for Covid?"
+    excerpt: "Neither President Donald Trump nor President-elect Joe Biden has gotten vaccinated for Covid-19, a fact that's beginning to draw some attention days after the first shots in the US were administered.\n    \n"
+    publishedDateTime: 2020-12-17T11:46:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UFzoZimszbA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/what-matters-december-16/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/what-matters-december-16/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Dejected' Trump continues to waffle over waging baseless election fight"
     excerpt: "How much longer President Donald Trump continues waging battle over an election he lost remained in question Thursday as more of his advisers voiced doubt his gambit to contest the results would succeed. One person who spoke to him called him \"dejected\" over the ordeal.\n    \n"
     publishedDateTime: 2020-11-12T17:45:07Z

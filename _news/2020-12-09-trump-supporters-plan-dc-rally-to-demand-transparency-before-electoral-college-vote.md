@@ -111,22 +111,6 @@ related:
         width: 3500
         height: 2334
         isCached: true
-  - title: "Fact check: Statistical analysis supporting pro-Trump Supreme Court case is 'ludicrous'"
-    excerpt: "The purported statistical analysis wrongly assumes votes in the November election were randomly distributed across each state."
-    publishedDateTime: 2020-12-10T21:48:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/12/10/fact-check-ludicrous-statistical-analysis-supporting-pro-trump-case/3877743001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3877743001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3877743001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/09/USAT/29e07d5e-f819-4835-a34b-48f8fe3ba36b-AP20343706441792.jpg?auto=webp&crop=4272,2403,x10,y11&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "An important Electoral College deadline has passed. Here's why that's bad news for Trump"
     excerpt: "The safe harbor deadline falls six days before the Electoral College meets to formally cast votes for president based on the popular votes in states."
     publishedDateTime: 2020-12-09T05:49:00Z
@@ -143,17 +127,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Senate Falls Short of Halting Trump's $23B Arms Sales to UAE"
-    excerpt: "The Senate has fallen short of disapproving the Trump administration’s proposed $23 billion arms sales to the United Arab Emirates."
-    publishedDateTime: 2020-12-10T00:06:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "uD0xhnvhm3vmViTHIA+aUnVkh9sD6w6l0VVdsex+lxSvI219eEz0gvmjU/mog0SdzTXgZDUjWYBPk0+24zuuzC5RK3Zt/8Z04IJ9Y2lDq/JWigN9IFo1h0q+odEuA3NoP1QczVrB6uPRiHHy2ja/J6kLQn3g/zL1+W6tts0KzsZe4u/2DWui4+ibr8T+ypycUmnXmf8rsAtqVoUDXpa1HO8zreJBC+2Rz+y5badaEUdBS/2rk5Aq0DwMgtNkSYXjuFVAza6cuI3Q2DbDdVSySPGPoxtptYqm38UlL0vfG4HkwttyFxfquNE8J6XGKzWoe0P+xxlfIe6uHKPQORKD2wrJ6N+rMVy2G2VCP0obHGE=;rLvGT7Ud6LieNTUiFsHmdg=="
 ---

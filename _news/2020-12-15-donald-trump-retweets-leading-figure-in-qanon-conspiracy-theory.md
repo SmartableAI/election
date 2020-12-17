@@ -79,21 +79,35 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Inside the ‘nasty’ feud between Trump and the Republican governor he blames for losing Georgia"
-    excerpt: "The defeated president has fixated on Brian Kemp for refusing to question the integrity of his state’s election, worsening long-simmering tensions between the two Republicans."
-    publishedDateTime: 2020-12-14T11:15:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-kemp-election/2020/12/13/d8adc202-3b37-11eb-bc68-96af0daae728_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-kemp-election/2020/12/13/d8adc202-3b37-11eb-bc68-96af0daae728_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-kemp-election/2020/12/13/d8adc202-3b37-11eb-bc68-96af0daae728_story.html?outputType=amp"
+  - title: "Major Architects Group Will Stop Designing Death Chambers Amid Trump's Record-Breaking Executions"
+    excerpt: "Convicted murderer Alfred Bourgeois was put to death on Friday, becoming the second man to be executed in two days."
+    publishedDateTime: 2020-12-12T10:21:00Z
+    webUrl: "https://www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310"
+    ampWebUrl: "https://www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
+      name: Newsweek
+      domain: newsweek.com
+    quality: 112
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OALTB7R3JYI6XPDIS2XQ3KXHFA.jpg&w=1440"
-        width: 1440
-        height: 1149
+      - url: "https://d.newsweek.com/en/full/1685394/lethal-injection-facility-san-quentin-california.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump attacks Republicans while attending Army-Navy football game"
+    excerpt: "Navy football game this Saturday, President Trump tweeted attacks against fellow Republicans and allies who urge the President to accept the election results. Chip Reid has more."
+    publishedDateTime: 2020-12-13T00:10:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-attacks-republicans-while-attending-army-navy-football-game/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/13/7cbaa70c-b218-411b-8363-bc3da5691388/thumbnail/1200x630/2e13b0afd7921afd4ad282cebebdc306/cbsn-fusion-trump-attacks-republicans-while-attending-army-navy-football-game-thumbnail-607720-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "zSPUMADUU2ESbXNIl3ftUxkkg7dVZ12l8+dT2kmfTxfde/7ieygWMZEAv/YFzm1yG/gkhyvLPu19mgqG5qg9w/Wf1isr3qE+LLNp9JILbTiBsq1XBxX2MvVFRUQ9QKzs+Rimf2mI4iHuXU4o95y77SFT7aRCUXujDhTa9H8631qPnSuxKLu7o+6cooDSdekH7FXYLz8KOtpz5b3dIdPfAbGXyOlAlCP9fUKWknCZChY6erk8m8j42UAl3oemY24zi93Z4skBFL90vJprkE1tk6Eyf+ycwAL5DfLkl6BiEgTQ9UJqg/SxqVEHtC8mv2ggVbeuC4/ZiWZ2kjeeVIluoeO26TcIRJiF2vGKH3yOPJxe9R4frFPiomS36Q79VVL9Gehdd74iSImBOJSrDF22kFczipcsWbtn6wAICPOP2c8DaZWw7Y05uFW3prlltu2me0U+xT7uClfpHwO57DmFvr2TlIMEYx7ist5tpPbULcZup7hIFUb/RETOwF8TmqE4BeLYgO7Jeu1lt1nkI/wZTw==;y1Ic4OksbFsOCQHM1fV3rw=="

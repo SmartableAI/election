@@ -224,6 +224,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Reporter tests positive for coronavirus after covering Biden in Georgia, transition office says"
+    excerpt: "A member of the press who traveled with President-elect Biden on Tuesday tested positive for the coronavirus on Wednesday, according to Biden's transition team."
+    publishedDateTime: 2020-12-17T11:25:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d2ONUXUGFDY/reporter-tests-positive-for-coronavirus-after-covering-biden-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/reporter-tests-positive-for-coronavirus-after-covering-biden-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reporter-tests-positive-for-coronavirus-after-covering-biden-georgia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden announces 3-pronged plan to combat coronavirus when he takes office"
     excerpt: "Masks, vaccinations, opening schools President-elect Joe Biden on Tuesday announced a three-part plan to combat the coronavirus pandemic in the first 100 days of his administration. Biden, speaking in his hometown of Wilmington,"
     publishedDateTime: 2020-12-09T10:42:00Z

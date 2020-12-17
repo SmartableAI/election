@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3936091001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3936091001"
 type: article
 quality: 114
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump administration to impose long-awaited sanctions on Turkey over Russian missile defense system"
-    excerpt: "Ankara's purchase and testing of the S-400 system alarmed its NATO allies, and touched off demands in Washington to impose sanctions. The annoucement comes as Congress is poised to pass a defense bill that would have forced the administration's hand."
-    publishedDateTime: 2020-12-11T04:53:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/trump-administration-to-impose-long-awaited-sanctions-on-turkey-over-russian-missile-defense-system/2020/12/10/c266682c-3b15-11eb-bc68-96af0daae728_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-administration-to-impose-long-awaited-sanctions-on-turkey-over-russian-missile-defense-system/2020/12/10/c266682c-3b15-11eb-bc68-96af0daae728_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-administration-to-impose-long-awaited-sanctions-on-turkey-over-russian-missile-defense-system/2020/12/10/c266682c-3b15-11eb-bc68-96af0daae728_story.html?outputType=amp"
+  - title: "Trump administration rushes to roll out a $250 million public education effort to encourage Americans to get vaccinated"
+    excerpt: "A large-scale public education campaign, delayed by false starts and investigations, will get off the ground just as the coronavirus vaccine becomes available to high-risk Americans."
+    publishedDateTime: 2020-12-14T17:15:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html?outputType=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 111
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4RWTV6R3DEI6XPDIS2XQ3KXHFA.jpg&w=1440"
-        width: 1440
-        height: 983
-        isCached: true
-  - title: "With weeks left in office, the Trump administration is doing a 180-degree turn on a frustrating NATO ally"
-    excerpt: "Trump has avoided sanctioning Turkey for its purchase of Russia's S-400. With just weeks left in office, that appears to be changing."
-    publishedDateTime: 2020-12-10T23:14:00Z
-    webUrl: "https://www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
-    images:
-      - url: "https://i.insider.com/5fd29d01e00bce00188baa90?width=1200&format=jpeg"
+      - url: "https://www.chicagotribune.com/resizer/vhYxJnm77JRG0ft5QUfsg3oZUCk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VK557JGXCB74AHEZ4WDSK7AYNU.jpg"
         width: 1200
-        height: 600
+        height: 801
         isCached: true
 
 secured: "RxSH9Z2MTiV0ebEwbZg/0mzBDayYDHG9QvoW+izTFkKHu7r3hYpcz9UiuVoImXOUPHfBTMKWP9LhPO7SY3ZlIw8Cwyb5rf+cRheMpxuuQ21fW/dh6BVkwdqijyD0WhO0Fx+RWI8NFVmOPuC3Hbb7HpAgsZqnvRGRk2pe/vQ9WwRnn9ZcPEgPk35KZkg68aVnJDlqA3GHGIwUXGy4xXudhBZiM/UZdbQd3YlhMJqAAGDsQ8LaKuMFFVHLyCLS8cLsuyP0nvb15sEgdnmg3zOv19eelyUEuE22H2C1P+gdp/nAxWJwGv0JoGTnz6+7ct7jjOVbRl9zfZrvbjw3ZIcJoTb5ZJk9SpH/1N7gWwYTC/k=;o7dACq5W/uPYuvHQZHjZ6w=="

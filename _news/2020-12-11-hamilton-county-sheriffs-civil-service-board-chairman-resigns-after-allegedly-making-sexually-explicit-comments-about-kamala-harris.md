@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fact check: Fake anti-Christmas quote attributed to Kamala Harris began as satire"
+    excerpt: "Users took to Facebook to post a quote about Christmas that they claim came from Vice President-elect Kamala Harris. The fake quote began as satire."
+    publishedDateTime: 2020-12-15T08:00:00Z
+    webUrl: "https://www.azcentral.com/story/news/factcheck/2020/12/15/fact-check-anti-christmas-quote-attributed-kamala-harris-satire/6540043002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6540043002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6540043002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/05/USAT/751f29ad-47cd-4791-9506-d4b6b846b53e-KamalaHarris.jpg?auto=webp&crop=3703,2083,x0,y188&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "bjM+RqoBQ8f/0hSUFkbh5a2dGxJFSYoZCXaSLty7CiwCoKu3mPq8OTy+B3vZXHSeS0W/VYL1GjBW0TDnGPgB6BNyTGrE3uprh3LyuXCTxPMCUnKFTkX0aodEraLfIGy/zVLufgGc1SjkR66qTDyV2n+5twhfutVgYVXb/Rxw2SozuKysNihWzfkQ/Mcd+8jYuWH9CkCvQMLYzh3BbpxFg3MZ5zLfxfcPuSUdeim1SML1UkD6WfZ3AIEJrzdepaBSF9UDaoLy3JBYx7zdRs7ZuHGvxVwM698UzlrHJc3QWDYAj6JGtfuBQGCP9OUv5v3mlsPwXD7Df3/nmT7QGwjaYHqUNYcK0cT4/k5JNcK4H6Fr8+ghDWLbGLt7xWudwXNF6KhOSYuMW8uWftaKcj/ZdZoGhgTagJh3Blechr2VgIwn293T0boKKp+TfNIyhZF7l98YEiu2u8oXAiF5KvS06SoGFpmt61wHmm8rZZ98BKJ+Vvfam4fw6dq57hga6wemLi0MRJMPmZebY0qzYDPP2Q==;cfiCqEK7g8lJN7Fo5qpPfQ=="
 ---

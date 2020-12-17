@@ -43,22 +43,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "VP Mike Pence comes to Georgia ahead of Senate runoffs"
-    excerpt: "Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that will determine who controls the Senate at the outset of President-elect Joe Biden's administration."
-    publishedDateTime: 2020-11-20T22:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319045"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319045"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319045"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_6a23d35018294cff8363c35b29d376cc_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Pence arrives in Georgia to help Republican turnout in U.S. Senate battleground"
     excerpt: "Vice President Mike Pence jumped into the fray of two red-hot U.S. Senate campaigns in Georgia on Friday, aiming to get Republican voters to turn out in force for a Jan. 5 runoff election that will decide which party controls the Senate."
     publishedDateTime: 2020-11-20T23:20:00Z
@@ -122,6 +106,20 @@ related:
       - url: "https://media.11alive.com/assets/WXIA/images/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Mike Pence tells Georgia crowd presidential election isn’t over"
+    excerpt: "U.S. Vice President Mike Pence traveled to Georgia to rally for Senate candidates Friday with two events. But he made it clear there’s unfinished business regarding the November vote. “As our election contest continues here in Georgia and in courts throughout the country,"
+    publishedDateTime: 2020-11-21T02:50:00Z
+    webUrl: "https://floridapolitics.com/archives/384675-mike-pence-election"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 70
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/11/Pence-1000x563.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "VP Mike Pence goes to Georgia ahead of Senate runoffs"
     excerpt: "Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that will determine who controls the Senate at"

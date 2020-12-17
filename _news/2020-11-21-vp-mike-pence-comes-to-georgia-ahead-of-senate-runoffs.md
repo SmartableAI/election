@@ -31,135 +31,68 @@ images:
     isCached: true
 
 related:
-  - title: "Pence pitches Georgia senators as last line of GOP defense"
-    excerpt: "Vice President Mike Pence campaigned Friday in Georgia in support of the state’s two Republican senators and warning of a potential Democratic takeover of Washington in January"
-    publishedDateTime: 2020-11-21T00:30:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319047"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319047"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319047"
+  - title: "EXPLAINER: Why AP called Georgia for Biden"
+    excerpt: "More than two weeks after Election Day, The Associated Press has declared Democrat Joe Biden the winner of the presidential contest in Georgia, a longtime Republican state"
+    publishedDateTime: 2020-11-20T03:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/explainer-ap-called-georgia-biden-74308939"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/explainer-ap-called-georgia-biden-74308939"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/explainer-ap-called-georgia-biden-74308939"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_379847ea0f644970a1858391707aad70_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_db0ae4e570ef4efa8dc71916b1895cf7_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Pence arrives in Georgia to help Republican turnout in U.S. Senate battleground"
-    excerpt: "Vice President Mike Pence jumped into the fray of two red-hot U.S. Senate campaigns in Georgia on Friday, aiming to get Republican voters to turn out in force for a Jan. 5 runoff election that will decide which party controls the Senate."
-    publishedDateTime: 2020-11-20T23:20:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-idUSKBN28015T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28015T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28015T"
+  - title: "Top California air, climate regulator hopes to run Biden EPA"
+    excerpt: "Mary Nichols will soon leave her job as California’s top air regulator after more than four decades of advocating for ambitious climate policies in the nation’s most populous state"
+    publishedDateTime: 2020-11-27T05:52:00Z
+    webUrl: "https://www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541882775&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ0JC"
-        width: 823
-        height: 545
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Pence goes down to Georgia as Republicans stir turnout in battleground Senate races"
-    excerpt: "Vice President Mike Pence will jump into the fray of two red-hot U.S. Senate campaigns in Georgia on Friday, aiming to get Republican voters to turn out in force for a Jan. 5 runoff election battle that will decide Senate control."
-    publishedDateTime: 2020-11-20T16:01:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28015T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28015T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28015T"
+  - title: "Joe Biden officially declared winner of Georgia following recount – as it happened"
+    excerpt: "Audit upheld the original tally, Georgia secretary of state’s office said"
+    publishedDateTime: 2020-11-20T02:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/19/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fb7139e8f08161b0b9c90d5"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/19/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/19/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 119
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541882775&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ0JC"
-        width: 823
-        height: 545
+      - url: "https://i.guim.co.uk/img/media/ff8825f43985d6014cbeb12ed53fad87a858d14e/0_187_5614_3369/master/5614.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f201c487f62826b504bc6e4dc0187888"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Details released for VP Mike Pence 'bus tour' this Friday in Georgia"
-    excerpt: "Vice President Mike Pence will be in Georgia on Friday to campaign for Senators David Perdue and Kelly Loeffler as they face an important January runoff. Pence will travel to Georgia and then embark on a \"bus tour,"
-    publishedDateTime: 2020-11-17T02:57:00Z
-    webUrl: "https://www.khou.com/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d"
-    ampWebUrl: "https://www.khou.com/amp/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d"
+  - title: "Cindy McCain: 'It's time we get behind Joe Biden as our next president'"
+    excerpt: "The wife of late Senator John McCain reacts as the traditionally Republican state of Arizona is called for Mr Biden."
+    publishedDateTime: 2020-11-13T18:22:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/election-us-2020-54937348"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 75
-    images:
-      - url: "https://media.khou.com/assets/WXIA/images/fae39ff4-1320-4789-8acc-8810b4f6567f/fae39ff4-1320-4789-8acc-8810b4f6567f_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Mike Pence visit to Georgia today | Everything you need to know"
-    excerpt: "Vice President Mike Pence is traveling to Georgia today to attend rallies in support of incumbent Republican Sens. Kelly Loeffler and David Perdue, as those Senate runoff races begin to take the state's political center stage."
-    publishedDateTime: 2020-11-20T14:29:00Z
-    webUrl: "https://www.11alive.com/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 75
-    images:
-      - url: "https://media.11alive.com/assets/WXIA/images/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Pence pitches Georgia senators as last line of GOP defense"
-    excerpt: "Vice President Mike Pence campaigned with Georgia's two Republican senators Friday, trying to hold off their Democratic challengers in Jan. 5 runoffs that will determine who"
-    publishedDateTime: 2020-11-23T04:19:00Z
-    webUrl: "https://www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 75
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/fb/dfb407a1-2b44-576e-a616-82384c37d4c2/5fb804904e9cd.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "VP Mike Pence goes to Georgia ahead of Senate runoffs"
-    excerpt: "Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that will determine who controls the Senate at"
-    publishedDateTime: 2020-11-20T17:44:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation/vp-mike-pence-comes-to-georgia-ahead-of-senate-runoffs/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation/vp-mike-pence-comes-to-georgia-ahead-of-senate-runoffs/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation/vp-mike-pence-comes-to-georgia-ahead-of-senate-runoffs/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: BBC
+      domain: bbc.co.uk
     quality: 55
-  - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs | Charlotte Observer"
-    excerpt: "CANTON, Ga. Vice President Mike Pence campaigned with Georgia's two Republican senators Friday, trying to hold off their Democratic challengers in Jan. 5 runoffs that will determi"
-    publishedDateTime: 2020-11-20T20:30:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article247316979.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/national-politics/article247316979.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/national-politics/article247316979.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 51
-  - title: "VP Mike Pence comes to Georgia ahead of Senate runoffs | Raleigh News & Observer"
-    excerpt: "CANTON, Ga. Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that"
-    publishedDateTime: 2020-11-20T16:21:00Z
-    webUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article247316979.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/national-politics/article247316979.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article247316979.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 50
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08ydgdh.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "ZghcGuFKQnambgSnGmCKL/eH+cGvfvLWP8UZxhO+EfNJRRAqkmnSsNg1qfmtg2DBTMdsYbbMDjjdyKjIcohXTigmPb1i5SHKw5bArxLtxcrhIxLsOv4kHk1o5RXIDp+TsmIHJnCzaZ1jcPeJQyg12FyeXkmvHGRyIPTGZqNS9s0bMHLbuzekFA8KZB285NRH0cwvV3xmvqyAuS+iCbYsw7APQQPqHXWoAyXKvxxkQkNo6h27WDG2pcqoAH9D/zoLPdSIiZShRTIpZwfRjfa5QM6QZ3S6GCtkw0J0YErrSJimu6fHQ/qi2A2eWALa7tq5e1WC+OkbrcOWIfQvnhDj2fDGaVa4E9cy9AUoaG/xoDyB1rcC2BoriZ+KFU9cnldnzeHxglMToJ13JN2fvEAFbZTwwL+Wlcika3Kgvz1PADDqPNMa4qoDPGi740yDA/7kucQa/URRMpt5CfIYcTzg5Q1OdAozd7PEzYqS/DX2lI4hoeQPPAaaybL+9+USrS7bW6kW2bt1uuDoDsGE0nFTUw==;MxzLAaTVT/nhxJ0wEyQ/4w=="
 ---

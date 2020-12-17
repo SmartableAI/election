@@ -31,53 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Mar-a-Lago neighbors to Trump: Spend your post-presidency elsewhere"
-    excerpt: "Lago, President Trump’s private club in Palm Beach, Fla., that he has called his Winter White House, have a message for the outgoing commander in chief: We don’t want you to be our neighbor. Support our journalism."
-    publishedDateTime: 2020-12-16T00:15:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/style/trump-mar-a-lago-neighbors-dispute/2020/12/15/bc2ce1d0-3ed4-11eb-9453-fc36ba051781_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/trump-mar-a-lago-neighbors-dispute/2020/12/15/bc2ce1d0-3ed4-11eb-9453-fc36ba051781_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-mar-a-lago-neighbors-dispute/2020/12/15/bc2ce1d0-3ed4-11eb-9453-fc36ba051781_story.html?outputType=amp"
+  - title: "If no crime was committed, how can Trump issue pardons to his inner circle?"
+    excerpt: "Don’t let Trump discredit the pardon ,” op-ed, Dec. 1]. This presents a logical quandary: This administration has held that it has committed no crimes. How does a pardon work in absence of crime? The president has pardoned convicted criminals such as."
+    publishedDateTime: 2020-12-06T22:48:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle/2020/12/04/4cc534b8-357f-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle/2020/12/04/4cc534b8-357f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle/2020/12/04/4cc534b8-357f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 123
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZTQ3QX744I6TC5LB7BATYDFVA.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z6AWUJXIYUI6NEB5TMI627MNFI.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump campaign asks supporters whether he should run in 2024"
-    excerpt: "Trump has not conceded or admitted that he lost this year’s election, but his campaign emailed supporters asking whether he should run again in 2024"
-    publishedDateTime: 2020-12-16T02:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/15/trump-campaign-asks-supporters-possible-2024-presidential-run/3915868001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3915868001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3915868001"
+  - title: "Historians sue Trump administration to stop ‘bonfire of records in the Rose Garden’"
+    excerpt: "The American Historical Association and other groups fear President Trump, Jared Kushner, Ivanka Trump and others in his inner circle may not preserve critical records"
+    publishedDateTime: 2020-12-05T12:10:00Z
+    webUrl: "https://www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/"
+    ampWebUrl: "https://www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/16/USAT/39f65dce-c41a-4dc2-baf7-6136ca73b276-GTY_1230110683.jpg?auto=webp&crop=4457,2508,x0,y226&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AORK3MQIWQI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 959
         isCached: true
-  - title: "Hacker Reveals Trump's Twitter Password And It's A Very Easy, Obvious One"
-    excerpt: "The cybersecurity researcher said it only took him five attempts to successfully log into President Donald Trump's Twitter account."
-    publishedDateTime: 2020-12-17T03:37:00Z
-    webUrl: "https://www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003"
-    ampWebUrl: "https://www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003?amp=1"
+  - title: "Roles of Trump fundraiser, Kushner's attorney were scrutinized in pardon bribe probe"
+    excerpt: "A former Trump fundraiser and a prominent lawyer were among the people scrutinized by the Justice Department for their roles in what a judge described as a possible bribery scheme to win a presidential pardon for a convicted felon,"
+    publishedDateTime: 2020-12-04T09:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-pardon-idUSKBN28E0CL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E0CL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E0CL"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 74
+      name: Reuters
+      domain: reuters.com
+    quality: 118
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/29/us-president-donald-trump-says-he-will-not.jpg"
-        width: 1024
-        height: 716
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543441769&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB3063"
+        width: 817
+        height: 545
         isCached: true
 
 secured: "n4DSFRBMJw2DAwj9ZUMpkGHbSb0QJtpLuTqJXBLtsMu03gEG0Gbb/m9xnmlcLITY6pEQWYwGAn4kZEzrYun7dYrzx75tVGNUR0k3mKuhjqeIfaoAxMCuXrFI8yowXMKi1OUi65btMK5rkWwINm5QLHJPH22dLeFszN1KIsVaCIN3vf4JTZZ+ehv9iy2rKQupV+jIyG3ZiSiZcJQqqPZ196w1rEgptOU/xSUARYw7bQ/BFck7fpZg2+WOfSyp00Z9jj/pWNF+ij7saMTu/c8FE0CXBl9UgeO66uwuIZkPy8ecyE3QLEuplueRwl1Pwx8QTWItsXuE7acfVJ0aTltQl6C3MiU702EZTxwUVz5PBxG+sWnRhfo9KwKfU2POlvhu6MULXCZRLN2vqC/4QtbPPE8EXAyGV+AlzXgqwXurzYqgm4QBClmli4ESQ+MSISJYEuB+en5CJbVyZhn2IF2hBYJMvJknTXzNRKFrPRS9KHENWMA8VXRP1kYChirQTY929kaJ/Nu4xp/PCwvor0gIvw==;xRLlt8a5I02vWSbXWQCoYw=="

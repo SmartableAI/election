@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/fauci-coronavirus-vaccin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/fauci-coronavirus-vaccine-trump-pence/index.html"
 type: article
 quality: 200
-heat: 440
+heat: 460
 published: true
 
 provider:
@@ -221,6 +221,20 @@ related:
       - url: "https://static.politico.com/2b/fe/a867da1f4174a1f95616016e1e5f/gettyimages-1230126547-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "The upcoming Trump implosion"
+    excerpt: "Small is going to auction off the opportunity to press the button that brings down Trump Plaza, turning the hulking tower that has for years sat vacant and derelict along the boardwalk into a pile of rubble."
+    publishedDateTime: 2020-12-17T11:58:00Z
+    webUrl: "https://www.politico.com/newsletters/new-jersey-playbook/2020/12/17/the-upcoming-trump-implosion-491174"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "o3L9OHriohyXruQePKu2iPECKcYa8dJ0hJo51eRqughucmq07cGlOVsXQbBEKKavOS72ybCn4ZFVkNkkKKry7w2uVcsp/JpUlcnHNo5iTUlr5lUO+WuXzfAnYzbYBJqxNMp3xiamcsYN12vRJhqtcS7MR101REMDqJJ4EElb+uC+X/AnXl96w486nTXO4G27jX/MXXapKMmy1CGaNtVtoxSP/KNdhs4qjbMZzs+eJw4f6jt4uk8a9Xa9NQS1A64smpucx8FnvuophWCwa6dlllG8a+bPEeqdGQZJoul6PaqpgRDkfYmR+6hIUPj+gCh4PoP/jMSwH/tADqt1NcQGX8tvldNVenXkOl/HyKibkBw=;A6pL3KzUKqDqsdNBHq0rkA=="

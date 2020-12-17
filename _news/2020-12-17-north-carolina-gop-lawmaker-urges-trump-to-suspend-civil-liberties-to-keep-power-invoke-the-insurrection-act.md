@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/16/north-carolina-repu
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/?outputType=amp"
 type: article
 quality: 105
-heat: 105
+heat: 125
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1440
     height: 960
     isCached: true
+
+related:
+  - title: "South Carolina Electors Cast All 9 Votes for President Trump"
+    excerpt: "South Carolina’s nine presidential electors have officially voted for President Donald Trump and Vice President Mike Pence."
+    publishedDateTime: 2020-12-14T16:54:00Z
+    webUrl: "https://www.usnews.com/news/best-states/south-carolina/articles/2020-12-14/south-carolina-electors-cast-all-9-votes-for-president-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "WyIE7hFLKJSwPV8RLLPzGYthc5rNWUdqZGU405bGeNCQmE/XhqKi0HXZe4PMZt8XzHHddq96ScRls8G1kl22rj8oEri64u4BgbkH/1NyG5N7Snw5sDRpRUtHo38Tupiwcs19MDrKBFcHlE9+U6bbgJut5N2KbZG/qUM3t+YG4e+QE+2gZqBIr4PtIngyT/hGI8VwiwiS074eYaaD3rOBD3aIPIJ4+npVn7gJOGXtZsnAG1ZUbknkdlLdn0/4Bpvr7E6qZoslZm4EfRCw1cTJlBCVmAV6eQ7MrqyqwJmCjlfCSdusZWWaxipFl9bQ3IIwHZ0BobnKULg9/DTid/wEVh/3ufs/HumwZhKPo9e4o2zIWMbhjGIWAE1xXhw1mIGynGH0SxdcX18Im0Unx+gPPfdRUqbJlD8NlyQbFFRpL7HVBpnn8zziVO/vKPCCYiZjP2KEkPbNnJFaCdPOMnGsN1NRFTVlaCicMXFF5pUMCazRYLySUVjGayt/yloWI7Q5olhgeJNZCtpi5BnV5KucFA==;OpEepuS1/Ed2mR7mNQ3nHg=="
 ---

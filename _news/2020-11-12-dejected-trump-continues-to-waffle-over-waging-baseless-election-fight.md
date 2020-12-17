@@ -319,6 +319,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Why hasn't Biden or Trump gotten vaccinated for Covid?"
+    excerpt: "Neither President Donald Trump nor President-elect Joe Biden has gotten vaccinated for Covid-19, a fact that's beginning to draw some attention days after the first shots in the US were administered.\n    \n"
+    publishedDateTime: 2020-12-17T11:46:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UFzoZimszbA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/what-matters-december-16/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/what-matters-december-16/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump wavers between reality and election fiction with eye on his legacy "
     excerpt: "President Donald Trump had an eye on his legacy as he strode to the microphone in the White House Rose Garden Friday and touted the administration's \"unequaled and unrivaled\" efforts to help produce a coronavirus vaccine through Operation Warp Speed. Then, for a brief moment, he seemed close to acknowledging"
     publishedDateTime: 2020-11-14T22:02:17Z

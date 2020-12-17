@@ -2,9 +2,9 @@
 category: news
 title: "Cybersecurity Official Fired by Trump Last Month Says U.S. Election Was Secure"
 excerpt: "Christopher Krebs told a Senate panel that allegations that voting equipment was manipulated during the election are baseless, and that spreading them undermines confidence in democracy and the election outcome."
-publishedDateTime: 2020-12-16T22:11:00Z
-originalUrl: "https://www.wsj.com/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802"
-webUrl: "https://www.wsj.com/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802"
+publishedDateTime: 2020-12-17T02:56:00Z
+originalUrl: "https://www.wsj.com/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802?mod=politics_lead_pos5"
+webUrl: "https://www.wsj.com/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802?mod=politics_lead_pos5"
 ampWebUrl: "https://www.wsj.com/amp/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802"
 type: article
@@ -81,6 +81,6 @@ related:
         height: 640
         isCached: true
 
-secured: "0kFS5EXpSjPtJ5jUHKW9K7o3nnP75nixNmMV8PNnYy+NSVW8Zf3ccmWJL/hUKByRv5chRiiHULAxP1zA91tKxdp/Xy3ipjQhW+E6Maspzeou3vzGIFD4jLJAPmFOZRNFWnKdG06dr1qD4oglsn8QBkRYGhakd3Tnk39Ozdf2dQzPT2DehAGjnGtW6ZyHDSepvBYwc01GI2FEP0dCGCVwFnN1PsSOam9esN45uXB3/0bV+TpfEIEXpJtcnz//ODXfTeFLiyU4hT9YyafkkI1zdwERllcx7iT82W2Y6xwdHwpnP+u4BP5iTdiTCKJ64bZIrNWPsDwoP3zyOFWCdDzQNPdYq/tOPD3xpfNDt5YPoI0=;feCGC3crJUG2QNtj09gq3g=="
+secured: "6FxNMoIMzKWu2R+nLtVPB9AFzpTfl0briX//c51oISV/Xv7LnayJEmVrvWdUItiHTpVP/y6+nNWALyRLlxR3M7P+Zac3fJDOSRX26ZWPenM2rOroCsDQx6PrAHoZm191d0Rmtbx0SodCc3wzOSvZy8i/rxhXaYDrY2RQFG7uNC3jyK5ZCVN9RPGeneCZPyZaqF1PRJjkSHN0amhAHFyRDD4EX43Zwyt99ZKP8LbV1K5xWH6iEic+AGDnX7hVKutkji2RFiQh/XDxaJ4KIfRg4Ma/WuAp0q8zhUbK85dIXUwxMygEJqLTPjbaBU96PRuLU6XT9/Lr/Ume8RsyK7idrGW60WpnJW6Hf26FypYPMT0=;zz7r8VlfN9Lzu80cUj6UEw=="
 ---
 

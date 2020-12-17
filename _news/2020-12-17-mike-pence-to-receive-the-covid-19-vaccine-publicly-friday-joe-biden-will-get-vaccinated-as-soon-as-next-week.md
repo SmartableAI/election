@@ -2,26 +2,30 @@
 category: news
 title: "Mike Pence to receive the COVID-19 vaccine publicly Friday; Joe Biden will get vaccinated as soon as next week"
 excerpt: "President-elect Joe Biden and Vice President Mike Pence are set to receive the COVID-19 vaccine soon. According to two transition officials familiar with the matter, Biden will receive the vaccine publicly as early as next week."
-publishedDateTime: 2020-12-16T23:51:00Z
-originalUrl: "https://www.baltimoresun.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html"
-webUrl: "https://www.baltimoresun.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html"
-ampWebUrl: "https://www.baltimoresun.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html?outputType=amp"
+publishedDateTime: 2020-12-17T01:58:00Z
+originalUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html"
+webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html"
+ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html?outputType=amp"
 type: article
-quality: 70
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/hYN6EUFAOTPNMejHaG53Z3Ee8s4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/HCKIMEA6QG5AJ3X3SLM52NSIDE.aspx"
+  - url: "https://www.chicagotribune.com/resizer/hYN6EUFAOTPNMejHaG53Z3Ee8s4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/HCKIMEA6QG5AJ3X3SLM52NSIDE.aspx"
     width: 1200
     height: 800
     isCached: true
@@ -2173,6 +2177,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "OLi40dYEjLMy5akPaLArqSJIwpRYJ3FpL2SqigJgqFmXjSEWzFhcYe8GoXF90iX6pnQGFW/LimbUzhUQWl/kJqbb8GAoErsb51684cvb4kmkZs0X8OUfb7xluGCJzNs+mpZ9/XNkclc+WUaK2Z2kNym7cin0dZ7p2iCGoo7v3EAeRyvDhDbuHTLkse9thDfsKW3a7puIYzgXqX2TamSUQdTcnNFHNBg52KfcDB/X3e8tBy7sxZyUl9hC1xSuyXSwpdNEzzHB26TgvhOv6olM6u64CwrYfayxyDB/eu34oViTEOIPWuv/XS0Rskli9LHj5/kwtBh/hc9pq4EhGk9fY/cOFhRp/3BITjjXTuWJQfr5g8rRo3eqpkBtN42leBiRAv/K9JdE1cfjKGIKAmQzy5oiIMugkoMl2BTskq1etVAwIavJBpoSr6cVlKjJ3YrhqHLC28low01Hm27lhvVjO/z7W3dnU0Xf7cRDXWM01l5M2VdTpmysbBUUau9OZZoxoGntZHjrQ3N7HNUSpZ1wpw==;rDcLCSGkQjaqlYZXv6SXXA=="
+secured: "Puezj0F13u9JeLRcELIsYlEyXPkc7IonczyFAyGdfzRXFn+nlUKtb8eIEnzt880gN1lqh/ozTuE+QoICXTXCXQGj4b86SMyNMf0OyAAegr26csJPmv3xJFq2P40NPp5sSBl97WQjXNEpvVsoCBeyduxsPwbcMjOSLMjj0u3ix4+FQXK0JWdzjVftSEbUc9kI5TIchEVp9F+9k75lc7iQ0Sz/kifPTLiKGkMstXiK15XCHtVJ/mZbZRfXsSBL21/Zh1IIWvscZmvjokGlDVU19pQk55Vhu53JheVUB4nXfiJxqbwHUoNDmBrZmjJusSl+S9KQg+2tqza3MUzSCCFVwPBviL+CPpocBh4Dus3oYGs=;L4+0m7vyKZPMQqdaQXmmcQ=="
 ---
 
