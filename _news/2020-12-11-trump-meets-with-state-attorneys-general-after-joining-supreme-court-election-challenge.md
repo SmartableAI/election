@@ -448,6 +448,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Glimmers of progress in stimulus negotiations as Trump's election sideshow drags on"
+    excerpt: "For the first time in months there were small signs of a functioning government Wednesday as congressional leaders negotiated a Covid-19 relief package and millions of vaccine doses were shipped out under the watchful eye of officials with Operation Warp Speed while carrying out contingency planning for delays due to the winter storm."
+    publishedDateTime: 2020-12-17T00:56:00Z
+    webUrl: "https://www.cnn.com/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 144
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216164205-us-capitol-snow-1216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden Clashes With the Left"
     excerpt: "Democrats are trying to work out their differences as Biden prepares to take office. It’s Friday, and this is your politics tip sheet."
     publishedDateTime: 2020-12-11T12:01:00Z

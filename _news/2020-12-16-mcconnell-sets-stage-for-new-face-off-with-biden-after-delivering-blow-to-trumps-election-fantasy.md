@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/joe-biden-mitch-mcconnel
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/joe-biden-mitch-mcconnell-donald-trump/index.html"
 type: article
 quality: 191
-heat: 991
+heat: 1011
 published: true
 
 provider:
@@ -430,6 +430,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/12/us/politics/12dc-trump/merlin_181147668_6fd8fd9b-f17f-4be1-9ffb-8d29242e5ac6-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Glimmers of progress in stimulus negotiations as Trump's election sideshow drags on"
+    excerpt: "For the first time in months there were small signs of a functioning government Wednesday as congressional leaders negotiated a Covid-19 relief package and millions of vaccine doses were shipped out under the watchful eye of officials with Operation Warp Speed while carrying out contingency planning for delays due to the winter storm."
+    publishedDateTime: 2020-12-17T00:56:00Z
+    webUrl: "https://www.cnn.com/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 144
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216164205-us-capitol-snow-1216-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Trump meets with state attorneys general after joining Supreme Court election challenge"
     excerpt: "Meanwhile, Biden named his choices for several top administration spots, including Susan Rice as domestic policy adviser and Denis McDonough as VA secretary."

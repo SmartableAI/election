@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/putin-congratulates-biden-on-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp"
 type: article
 quality: 190
-heat: 1490
+heat: 1510
 published: true
 
 provider:
@@ -828,6 +828,22 @@ related:
     quality: 156
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bbe35e1b-90e0-4b18-bbfb-d282af4d778f/cef75d0e-7eaf-439b-b82f-045dc25e3cff/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Biden's transition team deletes old ad criticizing his transportation secretary pick Buttigieg"
+    excerpt: "Biden announced his pick Tuesday, calling the former mayor of South Bend, Ind., a \"leader, patriot, and problem-solver.\" "
+    publishedDateTime: 2020-12-17T05:27:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OkizBmiIJmk/live-updates-biden-transition-12-17-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-17-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-17-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f63ac40d-c3f5-4649-880f-d3d25c419466/5a3fc880-79f3-427b-8782-b1db7a069d53/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

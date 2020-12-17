@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
 type: article
 quality: 200
-heat: 560
+heat: 580
 published: true
 
 provider:
@@ -253,6 +253,22 @@ related:
     quality: 133
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c3bd447-8a3b-48ca-855f-1905ec761300/f9d04390-711f-4fdc-ae12-5d8d954e431c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Reporter who traveled with Biden tests positive for coronavirus"
+    excerpt: "Biden is expected to be vaccinated as soon as next week. Follow below for more coronavirus updates. Mobile users click here."
+    publishedDateTime: 2020-12-17T05:56:00Z
+    webUrl: "https://www.foxnews.com/health/live-updates-coronavirus-12-17-2020"
+    ampWebUrl: "https://www.foxnews.com/health/live-updates-coronavirus-12-17-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/live-updates-coronavirus-12-17-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78c47b41-ab45-4ceb-965d-6139ddfe1269/a37e3859-6ec2-4112-a949-9a375f243314/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

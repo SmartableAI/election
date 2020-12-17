@@ -272,6 +272,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Reporter who traveled with Biden tests positive for coronavirus"
+    excerpt: "Biden is expected to be vaccinated as soon as next week. Follow below for more coronavirus updates. Mobile users click here."
+    publishedDateTime: 2020-12-17T05:56:00Z
+    webUrl: "https://www.foxnews.com/health/live-updates-coronavirus-12-17-2020"
+    ampWebUrl: "https://www.foxnews.com/health/live-updates-coronavirus-12-17-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/live-updates-coronavirus-12-17-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78c47b41-ab45-4ceb-965d-6139ddfe1269/a37e3859-6ec2-4112-a949-9a375f243314/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House Panel Accuses Trump Administration of Concealing Evidence in CDC Coronavirus Probe"
     excerpt: "A senior CDC official told House oversight subcommittee staff that she was instructed to delete an Aug. 8 email that showed a political appointee tried to meddle in a key report, according to a letter from Rep."
     publishedDateTime: 2020-12-10T20:30:00Z

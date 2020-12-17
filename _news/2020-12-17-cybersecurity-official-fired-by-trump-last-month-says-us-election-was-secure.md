@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cybersecurity Official Fired by Trump Says U.S. Election Was Secure"
+    excerpt: "Christopher Krebs told a Senate panel that allegations that voting equipment was manipulated during the election are baseless, and that spreading them undermines confidence in democracy and the election outcome."
+    publishedDateTime: 2020-12-17T06:11:00Z
+    webUrl: "https://www.wsj.com/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802?mod=lead_feature_below_a_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-274231/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "0kFS5EXpSjPtJ5jUHKW9K7o3nnP75nixNmMV8PNnYy+NSVW8Zf3ccmWJL/hUKByRv5chRiiHULAxP1zA91tKxdp/Xy3ipjQhW+E6Maspzeou3vzGIFD4jLJAPmFOZRNFWnKdG06dr1qD4oglsn8QBkRYGhakd3Tnk39Ozdf2dQzPT2DehAGjnGtW6ZyHDSepvBYwc01GI2FEP0dCGCVwFnN1PsSOam9esN45uXB3/0bV+TpfEIEXpJtcnz//ODXfTeFLiyU4hT9YyafkkI1zdwERllcx7iT82W2Y6xwdHwpnP+u4BP5iTdiTCKJ64bZIrNWPsDwoP3zyOFWCdDzQNPdYq/tOPD3xpfNDt5YPoI0=;feCGC3crJUG2QNtj09gq3g=="
 ---
