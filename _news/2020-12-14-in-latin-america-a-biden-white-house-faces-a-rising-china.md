@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O18R"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -162,6 +162,22 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_10cae1e803da4b8c8f885e994a6b31f1_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden to select Deb Haaland as Interior Secretary, the first Native American to hold that position, if confirmed"
+    excerpt: "If confirmed, Haaland would be the first Indigenous person to not only serve in as Interior Secretary but hold any presidential Cabinet position."
+    publishedDateTime: 2020-12-17T19:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/17/joe-biden-selects-deb-haaland-lead-interior-first-native-american-role/3778041001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3778041001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3778041001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/413ee057-bb7c-4259-b38e-1684dc19d948-NAFirst.jpg?auto=webp&crop=5615,3159,x0,y285&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden's inaugural committee is urging Americans to stay home instead of traveling to Washington, DC, for the festivities"
     excerpt: "While Biden will give a speech on Jan. 20, attendance will be restricted and most of the traditional inauguration celebrations will be virtual."

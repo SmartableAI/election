@@ -511,6 +511,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Implosion of former Trump casino pushed back a few weeks"
+    excerpt: "The implosion of one of President Donald Trump 's former Atlantic City casinos is being delayed by a few weeks. Atlantic City Mayor Marty Small said Thursday that the demolition company handling the job told the city the former Trump Plaza casino cannot be brought down as scheduled on Jan."
+    publishedDateTime: 2020-12-17T19:17:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/implosion-trump-casino-pushed-back-weeks-74785157"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/implosion-trump-casino-pushed-back-weeks-74785157"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/implosion-trump-casino-pushed-back-weeks-74785157"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_a38b7a3134c7404d9ffa340d683dcf3d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "U.S. finalizes shower head rule after Trump complaints about hair rinsing"
     excerpt: "The U.S. Energy Department on Tuesday finalized two rules easing energy standards on consumer fixtures and appliances, including one on shower heads after President Donald Trump complained some showers don't adequately rinse his hair."
     publishedDateTime: 2020-12-16T02:52:00Z

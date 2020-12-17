@@ -31,163 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Fox News Poll: Most Republicans say President Trump was robbed"
-    excerpt: "Sixty-eight percent of Republicans believe the election was stolen from President Trump, according to the latest Fox News national survey of registered voters."
-    publishedDateTime: 2020-12-11T23:01:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5C767sT7RQ8/republicans-president-trump-robbed-poll"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp"
+  - title: "Pence in Georgia vows he and Trump will 'keep fighting'"
+    excerpt: "For Vice President Mike Pence, it’s a delicate balance on the Georgia Senate runoffs campaign trail."
+    publishedDateTime: 2020-12-17T19:38:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q1ps6svr5JE/pence-georgia-vows-trump-will-keep-fighting"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Georgia Sec. of State says Trump lost because GOP 'got outworked'"
+    excerpt: "President-elect Biden won Georgia by a margin of roughly 12,000 votes."
+    publishedDateTime: 2020-12-16T22:45:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PPXn6xWEveU/georgia-sec-of-state-trump-lost-gop-outworked"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-sec-of-state-trump-lost-gop-outworked.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-sec-of-state-trump-lost-gop-outworked.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/dana-blanton-master.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Fox News Poll: Voters give President Trump mixed reviews after 4 years"
-    excerpt: "Trump ends 2020 with positive ratings for his handling of the economy, but mixed reviews from voters on other issues -- and for his performance overall."
-    publishedDateTime: 2020-12-11T23:01:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wHASXdWkvhk/president-trump-voters-mixed-reviews-poll"
-    ampWebUrl: "https://www.foxnews.com/politics/president-trump-voters-mixed-reviews-poll.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-voters-mixed-reviews-poll.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/dana-blanton-master.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "President Trump secures deal between Israel and Morocco in a Hanukkah miracle"
-    excerpt: "News of today’s historic announcement of normalization between Israel and Morocco brokered by the Trump administration was met with a lukewarm reaction by the United Nations and diplomats at the world body’s headquarters."
-    publishedDateTime: 2020-12-10T23:03:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pcDaSs62nOE/president-trump-israel-and-morocco-deal"
-    ampWebUrl: "https://www.foxnews.com/politics/president-trump-israel-and-morocco-deal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-israel-and-morocco-deal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64eafaca-7ae0-45a9-80b4-9364c88d4519/10bb732c-1723-43e0-ba28-4865ffee598a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49a30cbd-f973-4984-aec1-a75313c3f705/3a911ff7-1e20-4a21-a2cb-162a58c9f767/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump lost the 2020 election, but he proved America can win again"
-    excerpt: "Whatever happened in the 2020 election, the first draft of history should be clear: President Donald Trump proved that American decline can be resisted and reversed. He showed that our nation can"
-    publishedDateTime: 2020-12-05T15:21:00Z
-    webUrl: "https://nypost.com/2020/12/05/trump-lost-the-2020-election-but-he-proved-america-can-win-again/"
-    ampWebUrl: "https://nypost.com/2020/12/05/trump-lost-the-2020-election-but-he-proved-america-can-win-again/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/05/trump-lost-the-2020-election-but-he-proved-america-can-win-again/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/donald-trump-rally.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "House Republicans urge Trump to veto omnibus spending bill, call it example of ‘swamp politics’"
-    excerpt: "EXCLUSIVE: A group of House Republicans on Wednesday urged President Trump to veto an approximately $1.4 trillion omnibus spending bill being negotiated in Congress, describing it as an example of “swamp politics” in Washington D.C."
-    publishedDateTime: 2020-12-17T00:07:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N1HHeIz8g6o/house-republicans-trump-veto-omnibus-spending-bill"
+  - title: "Georgia secretary of state orders study of mail-in ballot signatures after Trump pressure "
+    excerpt: "Georgia Secretary of State Brad Raffensperger said Wednesday that there will be a statewide signature match study after pressure from President Trump and his supporters."
+    publishedDateTime: 2020-12-16T19:42:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y7ZgpxwDPCE/georgia-secretary-of-state-mail-in-ballot-signatures-trump-study"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-secretary-of-state-mail-in-ballot-signatures-trump-study.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-secretary-of-state-mail-in-ballot-signatures-trump-study.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 143
+    quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b300ec5-e6cb-4dcb-9b6d-ce7d4eada6bf/d1092241-4b99-4650-8d43-4d7cef082db5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Israel and Morocco Agree to Normalize Relations, Trump Says"
-    excerpt: "The deal, which required a U.S. shift on Morocco policy, marks another advance in U.S. efforts to strengthen ties between once-hostile nations in the Middle East"
-    publishedDateTime: 2020-12-10T18:31:00Z
-    webUrl: "https://www.wsj.com/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-271478/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Rep. Kevin Brady calls for probe into leak of President Trump's taxes"
-    excerpt: "We know, for the president, Rudy Giuliani and Chris Christie have been prepping the president and alternating playing roles acting as Joe Biden. As for the former vice president, he has been relying on his former chief of staff Ron Klain,"
-    publishedDateTime: 2020-12-12T14:39:00Z
-    webUrl: "https://www.foxnews.com/transcript/rep-kevin-brady-calls-probe-into-leak-of-president-trumps-taxes"
-    ampWebUrl: "https://www.foxnews.com/transcript/rep-kevin-brady-calls-probe-into-leak-of-president-trumps-taxes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/rep-kevin-brady-calls-probe-into-leak-of-president-trumps-taxes.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/deb31fac-e5c1-42e8-9a09-7d27440b42f1/c69902d9-ac13-4eb5-8b7b-31c93af3ca0d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump gets West Point ovation at last Army-Navy game of his presidency"
-    excerpt: "The storied match-up, normally held in Philadelphia’s cavernous Lincoln Financial Field, this year moved to the US Military Academy’s much cozier gridiron due to the coronavirus"
-    publishedDateTime: 2020-12-12T21:40:00Z
-    webUrl: "https://nypost.com/2020/12/12/trump-gets-ovation-at-last-army-navy-game-of-his-presidency/"
-    ampWebUrl: "https://nypost.com/2020/12/12/trump-gets-ovation-at-last-army-navy-game-of-his-presidency/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/12/trump-gets-ovation-at-last-army-navy-game-of-his-presidency/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-army-navy.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 794
-        isCached: true
-  - title: "McEnany claims Trump was not allowed orderly transition in 2016"
-    excerpt: "Tonight, President Trump is ignoring all the hysteria from the media mob and the Democratic Party and vowing to fight for you, the American people. Watch this. DONALD TRUMP, PRESIDENT OF THE UNITED STATES: Big pharma ran millions of dollars of negative advertisements against me during the campaign,"
-    publishedDateTime: 2020-12-13T20:08:00Z
-    webUrl: "https://www.foxnews.com/transcript/mcenany-claims-trump-was-not-allowed-orderly-transition-in-2016"
-    ampWebUrl: "https://www.foxnews.com/transcript/mcenany-claims-trump-was-not-allowed-orderly-transition-in-2016.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mcenany-claims-trump-was-not-allowed-orderly-transition-in-2016.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee331ede-b231-4332-804e-fcd02265cb3e/2bdcb55b-ac61-46c8-ab1b-d2c239278a91/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "House Republicans urge Trump to veto omnibus spending bill"
-    excerpt: "A group of House Republicans on Wednesday urged President Trump to veto an approximately $1.4 trillion omnibus spending bill being negotiated in Congress, describing it as an example of \"swamp politics\" in Washington D."
-    publishedDateTime: 2020-12-17T10:43:00Z
-    webUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill"
-    ampWebUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-1.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20349715127433.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Pence in Georgia vows he and Trump will 'keep fighting'"
+    excerpt: "For Vice President Mike Pence, it’s a delicate balance on the Georgia Senate runoffs campaign trail. But Pence – aiming to energize Trump supporters and other Republicans to vote for GOP Sens. David Perdue and Kelly Loeffler in contests that will be won by the party that does a better job turning out its base – vowed that \"we’re going to keep fighting,"
+    publishedDateTime: 2020-12-17T19:50:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump campaign poll asks if he should run for president in 2024"
     excerpt: "In a Tuesday email, President Trump's campaign wrote to supporters asking if he should run for office again in 2024."
@@ -204,22 +110,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20348035939365.jpg"
         width: 3990
         height: 2660
-        isCached: true
-  - title: "Trump to award wrestling legend Dan Gable the Presidential Medal of Freedom"
-    excerpt: "President Trump will award Olympic gold medalist and college wrestling legend Dan Gable the Presidential Medal of Freedom on Monday."
-    publishedDateTime: 2020-12-04T20:12:00Z
-    webUrl: "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom"
-    ampWebUrl: "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Dan-Gable.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "qTF6kxd8Vb0uUR9m7q24NNwTC+KbeBMKGuYmYdRlZq+2kUz8QapOOZpk8RnEzWgsLCDNguSVu5v2GvRBiekv7QiAXS2SFp3YTA4Ywb1j5keIEPirQwq1OixH2oOQqJbw9wtJuWV6NVeCm4hXRIZm/+7isFcHMBluXUcRcUrgiFy/NH3kd65AjZq1jLtxCt1alrpSCLX7/4u1bOUZ2+0oZEtN1LaIYePyv8iGFf5Vfi1Aws+u5pPZN8W9XgXQ6ixf63kdv+Pt+yEMVFAp+MqAb9MOu/gTMY6LP5FhAF+QiMK1GEZBE7VhwXjKqcfhqnU7G1Peo/3WjF1w+LF9Xbth44JFEnlYVwQ/XrUOoFY9R5A=;yUIJLZM75qjWCUOS3pW+Og=="

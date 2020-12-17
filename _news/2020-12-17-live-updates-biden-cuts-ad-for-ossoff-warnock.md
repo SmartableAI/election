@@ -383,6 +383,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden picks Michael Regan to head  Environmental Protection Agency"
+    excerpt: "President-elect Joe Biden tapped Michael Regan to serve as administrator of the Environmental Protection Agency on Thursday, Fox News has confirmed."
+    publishedDateTime: 2020-12-17T20:45:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4VToRMAIl7o/biden-picks-michael-regan-to-head-epa"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-picks-michael-regan-to-head-epa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-picks-michael-regan-to-head-epa.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Michael-Regan-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Loeffler again refuses to accept Biden as president-elect"
+    excerpt: "Sen. Kelly Loeffler in remarks to the press Wednesday continues to refuse to acknowledge that Joe Biden is the president-elect, even after the Electoral College officially cast their votes for Biden on Monday and Senate Majority Leader Mitch McConnell on Tuesday acknowledged that Biden will be the next"
+    publishedDateTime: 2020-12-17T19:32:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-5QWpqvCReQ/loeffler-again-refuses-to-acknowledge-biden-as-president-elect"
+    ampWebUrl: "https://www.foxnews.com/politics/loeffler-again-refuses-to-acknowledge-biden-as-president-elect.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/loeffler-again-refuses-to-acknowledge-biden-as-president-elect.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Hawley: Joe Biden has questions to answer about federal probe into Hunter"
     excerpt: "In an interview on \"America's Newsroom,\" Sen. Josh Hawley, R-Mo., said President-elect Joe Biden had questions to answer about the federal investigation into his son Hunter's tax dealings and any U.S. Attorneys working on the case had to remain in their positions once Biden was inaugurated."
     publishedDateTime: 2020-12-10T19:08:27Z
@@ -652,6 +684,22 @@ related:
     quality: 168
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a17aa2f0-ba7c-436f-8948-9a146dc2bc01/79f7ae1d-67c4-49af-bba8-4e4ebc9511e5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Cotton calls on Joe Biden to hold press conference about family's business interests"
+    excerpt: "Sen. Tom Cotton, R-Ark., called on President-elect Joe Biden Thursday to \"come entirely clean\" and address questions about his family's overseas business dealings."
+    publishedDateTime: 2020-12-17T20:35:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XEzsWWlJI3U/tom-cotton-joe-biden-hold-press-conference-family-dealings"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-joe-biden-hold-press-conference-family-dealings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-joe-biden-hold-press-conference-family-dealings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5b64c31-87be-4161-944b-196c7070a1e7/eb1df6e5-1e93-4d6d-8834-6f90a4ef9723/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1078,6 +1126,22 @@ related:
     quality: 128
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/BIDEN-TRUMP-SBS.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Cotton calls on Joe Biden to hold press conference about family's business interests"
+    excerpt: "Sen. Tom Cotton, R-Ark., called on President-elect Joe Biden Thursday to \"come entirely clean\" and address questions about his family's overseas business dealings."
+    publishedDateTime: 2020-12-17T20:47:00Z
+    webUrl: "https://www.foxnews.com/politics/tom-cotton-joe-biden-hold-press-conference-family-dealings"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-joe-biden-hold-press-conference-family-dealings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-joe-biden-hold-press-conference-family-dealings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5b64c31-87be-4161-944b-196c7070a1e7/eb1df6e5-1e93-4d6d-8834-6f90a4ef9723/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/jordan-georgia-senate-runoff-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jordan-georgia-senate-runoff-election-freedom-trump.amp"
 type: article
 quality: 182
-heat: 222
+heat: 202
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Georgia secretary of state orders study of mail-in ballot signatures after Trump pressure "
-    excerpt: "Georgia Secretary of State Brad Raffensperger said Wednesday that there will be a statewide signature match study after pressure from President Trump and his supporters."
-    publishedDateTime: 2020-12-16T19:42:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y7ZgpxwDPCE/georgia-secretary-of-state-mail-in-ballot-signatures-trump-study"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-secretary-of-state-mail-in-ballot-signatures-trump-study.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-secretary-of-state-mail-in-ballot-signatures-trump-study.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20349715127433.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Georgia secretary of state blasts Trump, Stacey Abrams for sowing election doubt"
     excerpt: "Georgia’s GOP Secretary of State Brad Raffensperger on Monday criticized both President Trump and Democratic darling Stacey Abrams for casting doubt on the election process as the Peach"
     publishedDateTime: 2020-12-07T16:51:00Z

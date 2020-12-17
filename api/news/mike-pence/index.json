@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-17-pence-in-georgia-vows-he-and-trump-will-keep-fighting.md",
+      "title": "Pence in Georgia vows he and Trump will 'keep fighting'",
+      "excerpt": "For Vice President Mike Pence, it’s a delicate balance on the Georgia Senate runoffs campaign trail.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q1ps6svr5JE/pence-georgia-vows-trump-will-keep-fighting",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q1ps6svr5JE/pence-georgia-vows-trump-will-keep-fighting",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 300,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp",
+      "publishedDateTime": "2020-12-17T11:38:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-vp-mike-pence-plans-trip-to-middle-east-europe-in-january.md",
+      "title": "VP Mike Pence plans trip to Middle East, Europe in January",
+      "excerpt": "Vice President Mike Pence is planning a trip to the Middle East and Europe immediately after he is set to oversee Congress during the confirmation of the Electoral College vote, according to reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2020/12/17/VP-Mike-Pence-plans-trip-to-Middle-East-Europe-in-January/9241608230281/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2020/12/17/VP-Mike-Pence-plans-trip-to-Middle-East-Europe-in-January/9241608230281/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/9241608230281/2020/1/3a4f39f83b3711538712761a73b59eaa/v1.5/VP-Mike-Pence-plans-trip-to-Middle-East-Europe-in-January.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2020/12/17/VP-Mike-Pence-plans-trip-to-Middle-East-Europe-in-January/9241608230281/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/17/VP-Mike-Pence-plans-trip-to-Middle-East-Europe-in-January/9241608230281/",
+      "publishedDateTime": "2020-12-17T11:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-election-2020-today-pence-to-georgia-bidens-climate-team.md",
       "title": "Election 2020 Today: Pence to Georgia, Biden’s climate team",
       "excerpt": "Here’s what’s happening Thursday in Election 2020 and President-elect Joe Biden’s transition. GOP FOCUS: Vice President Mike Pence touches down in Georgia again for a pair of rallies in Columbus and Macon.",
@@ -10,7 +110,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1415,
+      "heat": 1455,
       "tags": null,
       "images": [
         {
@@ -1435,101 +1535,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-vice-president-mike-pence-will-visit-memphis-thursday-heres-why.md",
-      "title": "Vice President Mike Pence will visit Memphis Thursday. Here's why.",
-      "excerpt": "Vice President Mike Pence is planning to travel to Memphis Thursday to discuss Operation Warp Speed, the nation's COVID-19 pandemic response.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2020/12/01/vice-president-mike-pence-visit-memphis-operation-warp-speed/3786333001/",
-      "originalUrl": "https://www.usatoday.com/story/news/2020/12/01/vice-president-mike-pence-visit-memphis-operation-warp-speed/3786333001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/19/USAT/a9990e0f-1d48-4a88-8453-d7b48ac0ff46-GTY_1285534426.jpg?auto=webp&crop=3672,2066,x0,y186&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3786333001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3786333001",
-      "publishedDateTime": "2020-11-30T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue.md",
-      "title": "Mike Pence will visit Savannah Friday to rally for Loeffler, Perdue",
-      "excerpt": "Vice President Mike Pence will be in Georgia for the second time in two weeks on Friday, and this time, he’ll be in Savannah. Pence will return to",
-      "sourceUrl": null,
-      "webUrl": "https://www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue",
-      "originalUrl": "https://www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.savannahnow.com/apps/pbcsi.dll/bilde?Site=GA&Date=20201130&Category=NEWS&ArtNo=201139931&Ref=AR",
-          "width": 2331,
-          "height": 1556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue?template=ampart",
-      "cdnAmpWebUrl": "https://www-savannahnow-com.cdn.ampproject.org/c/s/www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue?template=ampart",
-      "publishedDateTime": "2020-11-30T18:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Savannah Morning News",
-        "domain": "savannahnow.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

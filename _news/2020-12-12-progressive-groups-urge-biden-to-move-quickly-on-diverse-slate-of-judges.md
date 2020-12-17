@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to tap New Mexico Rep. Deb Haaland as interior secretary"
+    excerpt: "President-elect Joe Biden has selected New Mexico Rep. Deb Haaland to serve as interior secretary, three people familiar with the matter tell CNN, marking another historic choice by nominating the first Native American to lead the department.\n    \n"
+    publishedDateTime: 2020-12-17T20:51:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p1rrbV-Mj4A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/deb-haaland-interior-secretary-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/deb-haaland-interior-secretary-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110111702-14-biden-admin-possibilities-haaland-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden expected to nominate North Carolina environmental official to run EPA"
     excerpt: "President-elect Joe Biden is poised to nominate Michael Regan of North Carolina to run the Environmental Protection Agency, two people familiar with the matter tell CNN.\n    \n"
     publishedDateTime: 2020-12-17T18:20:18Z

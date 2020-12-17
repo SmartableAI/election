@@ -179,6 +179,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to select Deb Haaland as Interior Secretary, the first Native American to hold that position, if confirmed"
+    excerpt: "If confirmed, Haaland would be the first Indigenous person to not only serve in as Interior Secretary but hold any presidential Cabinet position."
+    publishedDateTime: 2020-12-17T19:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/17/joe-biden-selects-deb-haaland-lead-interior-first-native-american-role/3778041001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3778041001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3778041001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/413ee057-bb7c-4259-b38e-1684dc19d948-NAFirst.jpg?auto=webp&crop=5615,3159,x0,y285&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "What we know about retired General Lloyd Austin, Biden's choice for defense secretary"
     excerpt: "President-elect Joe Biden has chosen retired General Lloyd Austin to be his defense secretary. CBS News correspondent Nikole Killion joins CBSN to discuss what makes the pick so historic."
     publishedDateTime: 2020-12-10T03:16:00Z

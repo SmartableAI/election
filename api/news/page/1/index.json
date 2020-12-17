@@ -2,6 +2,275 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-17-rep-elect-yvette-herrell-relates-to-trumps-voter-fraud-claims-i-know-exactly-what-hes-going-through.md",
+      "title": "Rep.-elect Yvette Herrell relates to Trump's voter fraud claims: 'I know exactly what he's going through'",
+      "excerpt": "Rep.-elect Yvette Herrell understands the joy of leading on election night and then the sinking feeling of having that advantage slowly erased as mail-in ballots are counted.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ro5VXs0johg/rep-elect-yvette-herrell-trump-voter-fraud-claims",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ro5VXs0johg/rep-elect-yvette-herrell-trump-voter-fraud-claims",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Yvette-Herrell-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-elect-yvette-herrell-trump-voter-fraud-claims.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-elect-yvette-herrell-trump-voter-fraud-claims.amp",
+      "publishedDateTime": "2020-12-17T12:38:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-biden-picks-deb-haaland-for-interior-aoc-praises-the-progressive-move.md",
+      "title": "Biden picks Deb Haaland for Interior, AOC praises the 'progressive' move",
+      "excerpt": "President-elect Joe Biden has picked New Mexico Democrat Rep. Deb Haaland as secretary of Interior, sources confirmed for Fox News Thursday, making her the first Native American to fill the position that oversees U.S. natural resources and tribal lands.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kzHQ8gmD2K0/biden-picks-deb-haaland-for-interior-aoc-praises-the-progressive-move",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kzHQ8gmD2K0/biden-picks-deb-haaland-for-interior-aoc-praises-the-progressive-move",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/482e5064-8bf9-43f5-96fb-72dd71d1cfc8/087d8b12-cfe7-4091-9756-3b9bdfb28a7d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-picks-deb-haaland-for-interior-aoc-praises-the-progressive-move.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-picks-deb-haaland-for-interior-aoc-praises-the-progressive-move.amp",
+      "publishedDateTime": "2020-12-17T12:15:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-pence-in-georgia-vows-he-and-trump-will-keep-fighting.md",
+      "title": "Pence in Georgia vows he and Trump will 'keep fighting'",
+      "excerpt": "For Vice President Mike Pence, it’s a delicate balance on the Georgia Senate runoffs campaign trail.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q1ps6svr5JE/pence-georgia-vows-trump-will-keep-fighting",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q1ps6svr5JE/pence-georgia-vows-trump-will-keep-fighting",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 300,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp",
+      "publishedDateTime": "2020-12-17T11:38:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-vp-mike-pence-plans-trip-to-middle-east-europe-in-january.md",
+      "title": "VP Mike Pence plans trip to Middle East, Europe in January",
+      "excerpt": "Vice President Mike Pence is planning a trip to the Middle East and Europe immediately after he is set to oversee Congress during the confirmation of the Electoral College vote, according to reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2020/12/17/VP-Mike-Pence-plans-trip-to-Middle-East-Europe-in-January/9241608230281/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2020/12/17/VP-Mike-Pence-plans-trip-to-Middle-East-Europe-in-January/9241608230281/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/9241608230281/2020/1/3a4f39f83b3711538712761a73b59eaa/v1.5/VP-Mike-Pence-plans-trip-to-Middle-East-Europe-in-January.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2020/12/17/VP-Mike-Pence-plans-trip-to-Middle-East-Europe-in-January/9241608230281/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/17/VP-Mike-Pence-plans-trip-to-Middle-East-Europe-in-January/9241608230281/",
+      "publishedDateTime": "2020-12-17T11:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-biden-to-tap-north-carolina-environmental-regulator-regan-to-head-epa.md",
+      "title": "Biden to tap North Carolina environmental regulator Regan to head EPA",
+      "excerpt": "The pick is a major nod to the party's progressive wing that pushed Biden's team to emphasize minority and poor communities facing threats from pollution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/17/epa-administrator-michael-regan-447747",
+      "originalUrl": "https://www.politico.com/news/2020/12/17/epa-administrator-michael-regan-447747",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/09/f4/c81d7b12424ba657532f53b09681/regan-773.jpg",
+          "width": 1160,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/17/epa-administrator-michael-regan-447747",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/epa-administrator-michael-regan-447747",
+      "publishedDateTime": "2020-12-17T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-seth-meyers-trumps-going-to-be-our-first-nomad-ex-president.md",
       "title": "Seth Meyers: Trump's 'going to be our first nomad ex-president'",
       "excerpt": "Late-night hosts discuss a request by residents of Palm Beach, Florida, to keep Trump from residing in Mar-a-Lago and belated GOP admissions of Biden’s victory",
@@ -122,7 +391,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 446,
+      "heat": 466,
       "tags": null,
       "images": [
         {
@@ -390,7 +659,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1415,
+      "heat": 1455,
       "tags": null,
       "images": [
         {
@@ -442,7 +711,7 @@
       "originalUrl": "https://www.reuters.com/article/israel-usa-morocco-un-idUSKBN28R0D1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1068,286 +1337,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-democratic-donors-want-apology-from-biden-aide-after-bunch-of-f-ers-remark.md",
-      "title": "Democratic donors want apology from Biden aide after 'bunch of f--ers' remark",
-      "excerpt": "Some of President-elect Joe Biden’s donors want his aide Jennifer O’Malley Dillon to apologize after she called Republicans on Capitol Hill \"a bunch of f---ers,\" and at the same time praised Biden’s call for unity.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x2xvF3NDkME/unity-democratic-donors-apology-biden-aide",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x2xvF3NDkME/unity-democratic-donors-apology-biden-aide",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/biden-apJen-O-Malley-Dillon-getty.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/unity-democratic-donors-apology-biden-aide.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/unity-democratic-donors-apology-biden-aide.amp",
-      "publishedDateTime": "2020-12-16T16:30:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-george-w-bush-sends-holiday-card-with-pointed-message-as-trump-denies-election-loss.md",
-      "title": "George W. Bush sends holiday card with pointed message as Trump denies election loss",
-      "excerpt": "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XUU1iQQ1IGE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XUU1iQQ1IGE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 343,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200602180649-george-bush-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html",
-      "publishedDateTime": "2020-12-16T15:44:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-georgia-sec-of-state-says-trump-lost-because-gop-got-outworked.md",
-      "title": "Georgia Sec. of State says Trump lost because GOP 'got outworked'",
-      "excerpt": "President-elect Biden won Georgia by a margin of roughly 12,000 votes.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PPXn6xWEveU/georgia-sec-of-state-trump-lost-gop-outworked",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PPXn6xWEveU/georgia-sec-of-state-trump-lost-gop-outworked",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49a30cbd-f973-4984-aec1-a75313c3f705/3a911ff7-1e20-4a21-a2cb-162a58c9f767/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/georgia-sec-of-state-trump-lost-gop-outworked.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-sec-of-state-trump-lost-gop-outworked.amp",
-      "publishedDateTime": "2020-12-16T14:45:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-lara-trumps-potential-senate-candidacy-does-little-to-scare-away-republican-challengers-in-north-carolina.md",
-      "title": "Lara Trump's potential Senate candidacy does little to scare away Republican challengers in North Carolina",
-      "excerpt": "The 2022 US Senate race in North Carolina could provide an early test of whether the Republican Party will continue to embrace President Donald Trump after his loss, potentially featuring Lara Trump, the President's daughter-in-law, against a field of current and former Republican officials unwilling",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ta5rNqu6NgU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ta5rNqu6NgU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201003203702-29-trump-covid-circle-lara-trump-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/16/politics/lara-trump-north-carolina-senate-mark-walker/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/lara-trump-north-carolina-senate-mark-walker/index.html",
-      "publishedDateTime": "2020-12-16T14:12:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-its-turned-crazy-inside-the-scramble-for-trump-pardons.md",
-      "title": "'It's turned crazy': Inside the scramble for Trump pardons",
-      "excerpt": "President Donald Trump may not be willing to accept his term is ending, but as the clock ticks down on his time in office, hundreds of his allies -- including some of his closest business associates and many high-profile criminals -- are ramping up their efforts to squeeze out the final ounces of his",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ndOK92FyRNA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ndOK92FyRNA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201214233417-trump-intento-biden-conclu-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/16/politics/donald-trump-pardons-lame-duck/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/donald-trump-pardons-lame-duck/index.html",
-      "publishedDateTime": "2020-12-16T11:55:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

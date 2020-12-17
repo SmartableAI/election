@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-11-fox-news-poll-most-republicans-say-president-trump-was-robbed.md",
+      "title": "Fox News Poll: Most Republicans say President Trump was robbed",
+      "excerpt": "Sixty-eight percent of Republicans believe the election was stolen from President Trump, according to the latest Fox News national survey of registered voters.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5C767sT7RQ8/republicans-president-trump-robbed-poll",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5C767sT7RQ8/republicans-president-trump-robbed-poll",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/dana-blanton-master.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp",
+      "publishedDateTime": "2020-12-11T15:01:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-black-lives-matter-accuses-biden-of-ignoring-them-its-demeaning-to-our-hurt-and-trauma.md",
+      "title": "Black Lives Matter accuses Biden of ignoring them: 'It's demeaning to our hurt and trauma'",
+      "excerpt": "Black Lives Matter accused President-elect Joe Biden of ignoring their request for a meeting and disregarding the Black voters that helped secure his White House victory.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zddP-gUC9y4/black-lives-matter-biden-ignoring-demeaning",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zddP-gUC9y4/black-lives-matter-biden-ignoring-demeaning",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6add624-18f2-464f-a0ca-315c5ac368e6/7fd6e35d-ab29-42cb-aae6-ddc2c2754fa9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/black-lives-matter-biden-ignoring-demeaning.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/black-lives-matter-biden-ignoring-demeaning.amp",
+      "publishedDateTime": "2020-12-11T14:53:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-12-cnns-harwood-republicans-would-smack-their-moms-in-the-face-to-please-donald-trump.md",
       "title": "CNN's Harwood: Republicans would 'smack their moms in the face' to please Donald Trump",
       "excerpt": "CNN White House correspondent John Harwood said Friday that Republican members of Congress would hit their own mothers if President Trump wanted.",
@@ -1554,119 +1666,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-patrick-basham-explains-why-biden-victory-not-statistically-impossible-but-statistically-implausible.md",
-      "title": "Patrick Basham explains why Biden victory 'not statistically impossible, but ... statistically implausible'",
-      "excerpt": "President-elect Joe Biden defied key \"non-polling metrics\" to defeat President Trump in a way that is \"not statistically impossible, but it's statistically implausible,\" pollster Patrick Basham told Fox News' \"Life, Liberty & Levin\" in an interview airing Sunday night.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zBlRDCVKiZY/2020-presidential-election-joe-biden-donald-trump-patrick-basham-mark-levin",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zBlRDCVKiZY/2020-presidential-election-joe-biden-donald-trump-patrick-basham-mark-levin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b48d50c3-ace8-4c6b-b129-3b661b55fa7a/e249a213-52e6-4085-8808-f8e743c39797/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/2020-presidential-election-joe-biden-donald-trump-patrick-basham-mark-levin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/2020-presidential-election-joe-biden-donald-trump-patrick-basham-mark-levin.amp",
-      "publishedDateTime": "2020-12-06T04:30:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-jill-biden-will-back-debt-free-community-college-as-student-debt-nears-17-trillion-report.md",
-      "title": "Jill Biden will back debt-free community college as student debt nears $1.7 trillion: report",
-      "excerpt": "Dr. Jill Biden will advocate for debt-free community college as First Lady, a source close to President-elect Joe Biden's wife told Yahoo News.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady",
-      "originalUrl": "https://www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9f95446-19c6-49f1-9e81-2990fc27ae48/dddd10c9-8149-4b93-8944-9f5121330efb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady.amp",
-      "publishedDateTime": "2020-12-05T18:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

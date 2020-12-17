@@ -163,6 +163,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Biden to select Deb Haaland as Interior Secretary, the first Native American to hold that position, if confirmed"
+    excerpt: "If confirmed, Haaland would be the first Indigenous person to not only serve in as Interior Secretary but hold any presidential Cabinet position."
+    publishedDateTime: 2020-12-17T19:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/17/joe-biden-selects-deb-haaland-lead-interior-first-native-american-role/3778041001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3778041001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3778041001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/413ee057-bb7c-4259-b38e-1684dc19d948-NAFirst.jpg?auto=webp&crop=5615,3159,x0,y285&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden's inaugural committee is urging Americans to stay home instead of traveling to Washington, DC, for the festivities"
     excerpt: "While Biden will give a speech on Jan. 20, attendance will be restricted and most of the traditional inauguration celebrations will be virtual."
     publishedDateTime: 2020-12-15T17:53:00Z

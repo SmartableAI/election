@@ -414,6 +414,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden advisers warn Trump mass vaccine timeline may be too optimistic"
+    excerpt: "Democrats are warning that the Trump may have unrealistically raised expectations to make Biden look bad if the shots are delayed."
+    publishedDateTime: 2020-12-17T19:58:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-advisers-warn-trump-mass-vaccine-timeline-may-be-too-n1251499"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251499"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251499"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_51/3436379/201217-covid-vaccine-mc-1212_9e1e7028658f6ef625d0c15ea0ea9053.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden’s electors prepare to seal his victory, as Trump and coronavirus rage"
     excerpt: "In interviews, more than two dozen swing-state electors detailed plans for Monday’s vote — and a hint of anxiety about Trump."
     publishedDateTime: 2020-12-11T09:34:00Z

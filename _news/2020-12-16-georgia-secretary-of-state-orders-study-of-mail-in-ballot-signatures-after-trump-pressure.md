@@ -31,37 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Jim Jordan: Georgians understand ‘freedom,’ Trump policies at stake in Senate elections"
-    excerpt: "Georgians “understand” what is at stake in the Peach State’s upcoming Senate runoff elections, Rep. Jim Jordan, R-Ohio, said on Monday."
-    publishedDateTime: 2020-12-14T18:02:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n_d4SqvPd7E/jordan-georgia-senate-runoff-election-freedom-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/jordan-georgia-senate-runoff-election-freedom-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jordan-georgia-senate-runoff-election-freedom-trump.amp"
+  - title: "Pence in Georgia vows he and Trump will 'keep fighting'"
+    excerpt: "For Vice President Mike Pence, it’s a delicate balance on the Georgia Senate runoffs campaign trail."
+    publishedDateTime: 2020-12-17T19:38:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q1ps6svr5JE/pence-georgia-vows-trump-will-keep-fighting"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 182
+    quality: 200
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Georgia secretary of state blasts Trump, Stacey Abrams for sowing election doubt"
-    excerpt: "Georgia’s GOP Secretary of State Brad Raffensperger on Monday criticized both President Trump and Democratic darling Stacey Abrams for casting doubt on the election process as the Peach"
-    publishedDateTime: 2020-12-07T16:51:00Z
-    webUrl: "https://nypost.com/2020/12/07/brad-raffensperger-blasts-trump-abrams-for-sewing-election-doubt/"
-    ampWebUrl: "https://nypost.com/2020/12/07/brad-raffensperger-blasts-trump-abrams-for-sewing-election-doubt/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/07/brad-raffensperger-blasts-trump-abrams-for-sewing-election-doubt/amp/"
+  - title: "Georgia Sec. of State says Trump lost because GOP 'got outworked'"
+    excerpt: "President-elect Biden won Georgia by a margin of roughly 12,000 votes."
+    publishedDateTime: 2020-12-16T22:45:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PPXn6xWEveU/georgia-sec-of-state-trump-lost-gop-outworked"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-sec-of-state-trump-lost-gop-outworked.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-sec-of-state-trump-lost-gop-outworked.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 145
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/Election-2020-Georgia.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49a30cbd-f973-4984-aec1-a75313c3f705/3a911ff7-1e20-4a21-a2cb-162a58c9f767/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump campaign poll asks if he should run for president in 2024"
+    excerpt: "In a Tuesday email, President Trump's campaign wrote to supporters asking if he should run for office again in 2024. "
+    publishedDateTime: 2020-12-16T19:51:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9PVt6EjZJZc/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20348035939365.jpg"
+        width: 3990
+        height: 2660
+        isCached: true
+  - title: "Pence in Georgia vows he and Trump will 'keep fighting'"
+    excerpt: "For Vice President Mike Pence, it’s a delicate balance on the Georgia Senate runoffs campaign trail. But Pence – aiming to energize Trump supporters and other Republicans to vote for GOP Sens. David Perdue and Kelly Loeffler in contests that will be won by the party that does a better job turning out its base – vowed that \"we’re going to keep fighting,"
+    publishedDateTime: 2020-12-17T19:50:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump campaign poll asks if he should run for president in 2024"
+    excerpt: "In a Tuesday email, President Trump's campaign wrote to supporters asking if he should run for office again in 2024."
+    publishedDateTime: 2020-12-16T20:02:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20348035939365.jpg"
+        width: 3990
+        height: 2660
         isCached: true
 
 secured: "9K5GC+iCa0EyF6EJwa5PvlVBH8GWSOvtcnitNM0BreBQqTP2XMw0mPyv99pfuETGPTR/e5ZV4M8yrIPgq6QuyJKTX4pjz3YSyukJdySBTY7EpSDA2K9JTWG9gQE53QWJRAV+aaQ3iFFGgDk/tOpwhMlUsnRUaqzJvgXdoz+yBmz62bZxhoDp08Ch9ImC68twYH7mTTFin91d2vKTkLOIjUKODWhBYfa4BihDdcg+PjuuDbwuHxr9KoESo/bGrMYfryyhOxHPX4h2hiKAgam/S9mlHVRaHPAs6rzDAAHprcLtKB/CV4f6sHLlHLViTAMeyyuvIejKn5IUXFmDmVZZcVcoGKloRnz0Z7NgqMnuyDU=;zzXqCHolxAG1UrAu3S+8pw=="

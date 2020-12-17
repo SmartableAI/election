@@ -2,6 +2,175 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-17-rep-elect-yvette-herrell-relates-to-trumps-voter-fraud-claims-i-know-exactly-what-hes-going-through.md",
+      "title": "Rep.-elect Yvette Herrell relates to Trump's voter fraud claims: 'I know exactly what he's going through'",
+      "excerpt": "Rep.-elect Yvette Herrell understands the joy of leading on election night and then the sinking feeling of having that advantage slowly erased as mail-in ballots are counted.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ro5VXs0johg/rep-elect-yvette-herrell-trump-voter-fraud-claims",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ro5VXs0johg/rep-elect-yvette-herrell-trump-voter-fraud-claims",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Yvette-Herrell-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-elect-yvette-herrell-trump-voter-fraud-claims.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-elect-yvette-herrell-trump-voter-fraud-claims.amp",
+      "publishedDateTime": "2020-12-17T12:38:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-biden-picks-deb-haaland-for-interior-aoc-praises-the-progressive-move.md",
+      "title": "Biden picks Deb Haaland for Interior, AOC praises the 'progressive' move",
+      "excerpt": "President-elect Joe Biden has picked New Mexico Democrat Rep. Deb Haaland as secretary of Interior, sources confirmed for Fox News Thursday, making her the first Native American to fill the position that oversees U.S. natural resources and tribal lands.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kzHQ8gmD2K0/biden-picks-deb-haaland-for-interior-aoc-praises-the-progressive-move",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kzHQ8gmD2K0/biden-picks-deb-haaland-for-interior-aoc-praises-the-progressive-move",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/482e5064-8bf9-43f5-96fb-72dd71d1cfc8/087d8b12-cfe7-4091-9756-3b9bdfb28a7d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-picks-deb-haaland-for-interior-aoc-praises-the-progressive-move.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-picks-deb-haaland-for-interior-aoc-praises-the-progressive-move.amp",
+      "publishedDateTime": "2020-12-17T12:15:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-pence-in-georgia-vows-he-and-trump-will-keep-fighting.md",
+      "title": "Pence in Georgia vows he and Trump will 'keep fighting'",
+      "excerpt": "For Vice President Mike Pence, it’s a delicate balance on the Georgia Senate runoffs campaign trail.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q1ps6svr5JE/pence-georgia-vows-trump-will-keep-fighting",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q1ps6svr5JE/pence-georgia-vows-trump-will-keep-fighting",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 300,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp",
+      "publishedDateTime": "2020-12-17T11:38:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-former-trump-adviser-points-finger-at-russia-for-brazen-solarwinds-hack-calls-for-response.md",
       "title": "Former Trump adviser points finger at Russia for 'brazen' SolarWinds hack, calls for response",
       "excerpt": "Thomas Bossert, former Homeland Security adviser to President Trump, in a Wednesday op-ed said there is evidence that Russia is to blame for what he called a \"brazen\" cyberattack on software company SolarWinds through cybersecurity company FireEye.",
@@ -70,7 +239,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 446,
+      "heat": 466,
       "tags": null,
       "images": [
         {
@@ -313,62 +482,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/unity-democratic-donors-apology-biden-aide.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/unity-democratic-donors-apology-biden-aide.amp",
       "publishedDateTime": "2020-12-16T16:30:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-georgia-sec-of-state-says-trump-lost-because-gop-got-outworked.md",
-      "title": "Georgia Sec. of State says Trump lost because GOP 'got outworked'",
-      "excerpt": "President-elect Biden won Georgia by a margin of roughly 12,000 votes.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PPXn6xWEveU/georgia-sec-of-state-trump-lost-gop-outworked",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PPXn6xWEveU/georgia-sec-of-state-trump-lost-gop-outworked",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49a30cbd-f973-4984-aec1-a75313c3f705/3a911ff7-1e20-4a21-a2cb-162a58c9f767/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/georgia-sec-of-state-trump-lost-gop-outworked.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-sec-of-state-trump-lost-gop-outworked.amp",
-      "publishedDateTime": "2020-12-16T14:45:15-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -801,7 +914,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1610,
+      "heat": 1690,
       "tags": null,
       "images": [
         {
@@ -969,7 +1082,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 222,
+      "heat": 202,
       "tags": null,
       "images": [
         {
@@ -1564,118 +1677,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-fox-news-poll-most-republicans-say-president-trump-was-robbed.md",
-      "title": "Fox News Poll: Most Republicans say President Trump was robbed",
-      "excerpt": "Sixty-eight percent of Republicans believe the election was stolen from President Trump, according to the latest Fox News national survey of registered voters.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5C767sT7RQ8/republicans-president-trump-robbed-poll",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5C767sT7RQ8/republicans-president-trump-robbed-poll",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/dana-blanton-master.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp",
-      "publishedDateTime": "2020-12-11T15:01:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-black-lives-matter-accuses-biden-of-ignoring-them-its-demeaning-to-our-hurt-and-trauma.md",
-      "title": "Black Lives Matter accuses Biden of ignoring them: 'It's demeaning to our hurt and trauma'",
-      "excerpt": "Black Lives Matter accused President-elect Joe Biden of ignoring their request for a meeting and disregarding the Black voters that helped secure his White House victory.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zddP-gUC9y4/black-lives-matter-biden-ignoring-demeaning",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zddP-gUC9y4/black-lives-matter-biden-ignoring-demeaning",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6add624-18f2-464f-a0ca-315c5ac368e6/7fd6e35d-ab29-42cb-aae6-ddc2c2754fa9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/black-lives-matter-biden-ignoring-demeaning.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/black-lives-matter-biden-ignoring-demeaning.amp",
-      "publishedDateTime": "2020-12-11T14:53:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-hunter-biden-special-prosecut
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
 type: article
 quality: 186
-heat: 446
+heat: 466
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden adviser's brother lobbying for drugmaker under federal probe"
+    excerpt: "Jeff Ricchetti, the brother of an incoming adviser to President-elect Joe Biden, is now lobbying for a drugmaker that is under federal investigation for inflating its role in Operation Warp Speed."
+    publishedDateTime: 2020-12-17T20:28:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OZs82XMrWUI/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20351620248369.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump says Barr 'a big disappointment' after report AG knew about Hunter Biden investigation months ago"
     excerpt: "President Trump on Saturday described Attorney General William Barr as a “big disappointment” after a report claiming the nation’s top lawyer knew about the Hunter Biden investigation months ago."

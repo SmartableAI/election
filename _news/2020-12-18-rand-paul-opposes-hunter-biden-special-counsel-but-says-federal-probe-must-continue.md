@@ -384,6 +384,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden picks Michael Regan to head  Environmental Protection Agency"
+    excerpt: "President-elect Joe Biden tapped Michael Regan to serve as administrator of the Environmental Protection Agency on Thursday, Fox News has confirmed."
+    publishedDateTime: 2020-12-17T20:45:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4VToRMAIl7o/biden-picks-michael-regan-to-head-epa"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-picks-michael-regan-to-head-epa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-picks-michael-regan-to-head-epa.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Michael-Regan-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Biden cuts ad for Ossoff, Warnock"
     excerpt: "President-elect Joe Biden urged Georgians to vote for Democratic Senate candidates Jon Ossoff and Rev. Raphael Warnock in a brand-new ad after campaigning for them in Georgia this week."
     publishedDateTime: 2020-12-17T05:33:14Z
@@ -399,6 +415,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f98e1f8c-cd6f-4852-9633-18a5e391a3fd/268d78bf-145e-43a9-828d-749a63b16c84/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Loeffler again refuses to accept Biden as president-elect"
+    excerpt: "Sen. Kelly Loeffler in remarks to the press Wednesday continues to refuse to acknowledge that Joe Biden is the president-elect, even after the Electoral College officially cast their votes for Biden on Monday and Senate Majority Leader Mitch McConnell on Tuesday acknowledged that Biden will be the next"
+    publishedDateTime: 2020-12-17T19:32:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-5QWpqvCReQ/loeffler-again-refuses-to-acknowledge-biden-as-president-elect"
+    ampWebUrl: "https://www.foxnews.com/politics/loeffler-again-refuses-to-acknowledge-biden-as-president-elect.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/loeffler-again-refuses-to-acknowledge-biden-as-president-elect.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Hawley: Joe Biden has questions to answer about federal probe into Hunter"
     excerpt: "In an interview on \"America's Newsroom,\" Sen. Josh Hawley, R-Mo., said President-elect Joe Biden had questions to answer about the federal investigation into his son Hunter's tax dealings and any U.S. Attorneys working on the case had to remain in their positions once Biden was inaugurated."
@@ -669,6 +701,22 @@ related:
     quality: 168
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a17aa2f0-ba7c-436f-8948-9a146dc2bc01/79f7ae1d-67c4-49af-bba8-4e4ebc9511e5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Cotton calls on Joe Biden to hold press conference about family's business interests"
+    excerpt: "Sen. Tom Cotton, R-Ark., called on President-elect Joe Biden Thursday to \"come entirely clean\" and address questions about his family's overseas business dealings."
+    publishedDateTime: 2020-12-17T20:35:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XEzsWWlJI3U/tom-cotton-joe-biden-hold-press-conference-family-dealings"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-joe-biden-hold-press-conference-family-dealings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-joe-biden-hold-press-conference-family-dealings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5b64c31-87be-4161-944b-196c7070a1e7/eb1df6e5-1e93-4d6d-8834-6f90a4ef9723/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1082,6 +1130,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cotton calls on Joe Biden to hold press conference about family's business interests"
+    excerpt: "Sen. Tom Cotton, R-Ark., called on President-elect Joe Biden Thursday to \"come entirely clean\" and address questions about his family's overseas business dealings."
+    publishedDateTime: 2020-12-17T20:47:00Z
+    webUrl: "https://www.foxnews.com/politics/tom-cotton-joe-biden-hold-press-conference-family-dealings"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-joe-biden-hold-press-conference-family-dealings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-joe-biden-hold-press-conference-family-dealings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5b64c31-87be-4161-944b-196c7070a1e7/eb1df6e5-1e93-4d6d-8834-6f90a4ef9723/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Laura Ingraham: Chinese officials know Biden win was ‘huge victory’ for Communist Party"
     excerpt: "The Chinese Communist Party (CCP) isn’t trying to hide their excitement at Joe Biden’s presidential election victory, Laura Ingraham said Tuesday night."
     publishedDateTime: 2020-12-16T04:50:00Z
@@ -1161,6 +1225,6 @@ related:
         height: 562
         isCached: true
 
-secured: "+SoNQ3gmdLA/nOxrpiFjOTstQ+08KmwmGGS/i+JCwstfae4kRtqmfUzp1x8u3EvvQyaM7iYwmUCGxCE0F1U2e93CKvCN0+5gsM8L5tkX9uyEP/HejuSWy44PP4BIo8X87pLI9+egXFIrEam8nofbssIPQxmJfygEbV37W0otuREJCF0Z8+4fK133Im/9DFQzH3jhQ4PN9IESMTZzt7ET/SDAlYIrzKm9/068deTkIQpDcox32I09v6gVR7vf5s/78ilq6F7SBHVKP14ph2nAhc1OitieucjWC/7z0C+RZdLUB0SuRKJIi+UgWkia0EUbl52qQ7GuZeePGcQ2hPOGT6H6lCajDDXwxgJqb9JIZlI=;MwRzLl9keVL8158OytsCNw=="
+secured: "vgwzeZi1lChpRn0s3codX4PQ4B1jrkY6HSrAqaCzdZLebmYxphHNJ9rElAK0fs0zFHWEp2ogU8e1ygkrLZCctutr+spVPkphbkPCGjnwukJm+F/jLk51nPEclCgPK6XG1tRPp7zTEUKjVKy6KHP5k6Fcb5xAZXz3GiSFmmnQe4Gt9hgf0FTXWqv4vEb6SBvzrzUtqezvub/UmMP8ljgMCDBPnXLGSSeSs1Sy42+KeSeYownU3Stx5jVl+MkFREeyLJogwPAS6r7dyrZx4evjzN/yFleuI3sinCeeecqiu8Dj8biJB/oKYqO7a7yW1lJeagDVOaf5nOyJtKCAobUfQv5Jpq2/C9SAGzuHCDlkJ+Tdai1isEoO2R0Y055z58a8jM819BI7JUMPbZ7GTmi4sQyIAeSp8QGO2g3WSWW/0Iuhm9h9NjC8kckgafz+24JZrzAipvjusoPU0dZzfP5daTw9lEfYBD66e81y2cw9vL8zv4nRHc4p8aSzoWXoZDDOJ1Vt6bOfz2Fkj1B0Dn/edw==;NI5bZnIVmDGteo++PFKyhw=="
 ---
 
