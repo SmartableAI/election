@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "House Republicans urge Trump to veto omnibus spending bill, call it example of ‘swamp politics’"
+    excerpt: "EXCLUSIVE: A group of House Republicans on Wednesday urged President Trump to veto an approximately $1.4 trillion omnibus spending bill being negotiated in Congress, describing it as an example of “swamp politics” in Washington D.C."
+    publishedDateTime: 2020-12-17T00:07:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N1HHeIz8g6o/house-republicans-trump-veto-omnibus-spending-bill"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b300ec5-e6cb-4dcb-9b6d-ce7d4eada6bf/d1092241-4b99-4650-8d43-4d7cef082db5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Rep. Kevin Brady calls for probe into leak of President Trump's taxes"
     excerpt: "We know, for the president, Rudy Giuliani and Chris Christie have been prepping the president and alternating playing roles acting as Joe Biden. As for the former vice president, he has been relying on his former chief of staff Ron Klain,"
     publishedDateTime: 2020-12-12T14:39:00Z

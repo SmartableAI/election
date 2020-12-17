@@ -32,53 +32,101 @@ images:
     isCached: true
 
 related:
-  - title: "Melania Trump 'just wants to go home'"
-    excerpt: "In mid-November, as President Donald Trump railed against the election results, his wife, first lady Melania Trump publicly agreed with his sentiments. But privately, a handful of days after the final state tally, the first lady tasked an emissary with discreetly finding out what was available to her"
-    publishedDateTime: 2020-12-09T16:18:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5VsprdbHDco/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/melania-trump-future/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/melania-trump-future/index.html"
+  - title: "George W. Bush sends holiday card with pointed message as Trump denies election loss"
+    excerpt: "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss.\n    \n"
+    publishedDateTime: 2020-12-16T23:44:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XUU1iQQ1IGE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200602180649-george-bush-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pentagon adds more Trump loyalists to Defense Policy Board"
+    excerpt: "The Pentagon has added more supporters of President Donald Trump to the Defense Policy Board following the removal of several high-profile members last month.\n    \n"
+    publishedDateTime: 2020-12-14T19:19:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6nO_D_TFpio/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/pentagon-defense-policy-board/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/pentagon-defense-policy-board/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209104411-02-melania-trump-2017-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Mar-a-Lago neighbors want Trump to go elsewhere after he leaves the White House "
-    excerpt: "First lady Melania Trump plans to slip down to Palm Beach via government jet on Friday for a weekend walk-through of renovations underway at the Trump family's private quarters at Mar-a-Lago, according to a source familiar with the first lady's schedule, to make sure it's to her liking before she and"
-    publishedDateTime: 2020-12-16T22:13:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S13yS8J-94Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/donald-trump-mar-a-lago/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/donald-trump-mar-a-lago/index.html"
+  - title: "George W. Bush sends holiday card with pointed message as Trump denies election loss"
+    excerpt: "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss."
+    publishedDateTime: 2020-12-16T23:44:00Z
+    webUrl: "https://www.cnn.com/2020/12/16/politics/bush-christmas-card-trump/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 143
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209101030-mar-a-lago-resort-2018-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200602180649-george-bush-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Melania Trump breaks children's hospital rules by taking her mask off to read to patients"
-    excerpt: "First lady Melania Trump broke stated mask policy at Children's National Hospital Tuesday when she removed her mask to read a holiday book to children.\n    \n"
-    publishedDateTime: 2020-12-15T20:34:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dPPSaWhEWtY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/melania-trump-childrens-national-mask/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/melania-trump-childrens-national-mask/index.html"
+  - title: "Trump tells allies he will run in 2024, but hints he may back out"
+    excerpt: "In calls to allies, Trump has been asking how to navigate the next two years and floated a possible trip to the Middle East."
+    publishedDateTime: 2020-12-14T09:37:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/trump-2024-possible-run-444460"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-2024-possible-run-444460"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-2024-possible-run-444460"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215133704-melania-removes-mask-1215-screengrab-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump antagonizes Republicans with Georgia fundraising ploy"
+    excerpt: "Emails and texts raising cash for Trump's PAC have rankled Republicans, who want cash to flow directly to Georgia's endangered GOP senators."
+    publishedDateTime: 2020-12-15T01:25:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/da/1f/59b5d43848958d4f1d12f634434c/gettyimages-1230110704-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Inside the Right-Wing Media Bubble, Where the Myth of a Trump Win Lives On"
+    excerpt: "The Electoral College has affirmed Biden’s victory. That doesn’t mean that Trump-friendly news outlets have accepted it."
+    publishedDateTime: 2020-12-15T10:00:00Z
+    webUrl: "https://www.nytimes.com/2020/12/15/us/politics/trump-media.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/15/us/politics/trump-media.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/15/us/politics/trump-media.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/15/us/politics/15trumpmedia1/15trumpmedia1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "mBDAE5co0PHfcbzTrX7M6+jDihjllYsXlwjbXklc9mc8eCnT5Ja5fb1kaYCZbNm2x578/z+H6fmLpkgHrlDSng4hi6w+WAvTlHDiaqmhf8dQfU6ykkVm2ghXAiBaftwgKBK/9XoCTggE0F8BJCTY4SFj2BvzsceetDhVRhCHK5K7FzxzHMRBbEhK63VWkMOZP9G62Fk0d3jfrDkUHDLpA3jz8pileuAod1LlQL8PKRhnP0INvY82/WQPds/UnNOkJBN17ZX43IReg1GJkGvpnX2hjeWaNy1FUDeNr151EeCRCA6QVcksp0GG5FkchO6KrDoexfGTBgaaeFLmB27BfFjTc8EBsEvC8pgY0b5q3X4=;3PUBuxSPdAOa7uVIZwKWJg=="

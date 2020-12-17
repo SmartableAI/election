@@ -175,6 +175,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "City to auction spot to push demolish button on Trump casino"
+    excerpt: "One of President Donald Trump's former Atlantic City casinos will be blown up next month, and for the right amount of money, you could be the one to press the button that brings it down"
+    publishedDateTime: 2020-12-16T19:58:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/city-auction-spot-push-demolish-button-trump-casino-74764352"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/city-auction-spot-push-demolish-button-trump-casino-74764352"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/city-auction-spot-push-demolish-button-trump-casino-74764352"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_a38b7a3134c7404d9ffa340d683dcf3d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump finalizes sweeping asylum restrictions in last-minute immigration push"
     excerpt: "The Trump administration finalized a regulation on Thursday that greatly restricts access to asylum in the United States, part of a last-minute immigration crackdown that incoming President-elect Joe Biden will likely try to reverse."
     publishedDateTime: 2020-12-10T21:19:00Z
@@ -334,6 +350,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "s8dcE98LtwqSNmL7ooogKmoXUFtuXMtEAUYoMZvt3doBmOLzXV4TR2fyE2viD2phS1NPQUTp2+6e2mpNQ06nQsL9omcW65dK6nzcuj4Z/Rh4x/6v37eYzA8JbSZ6FO5oAOtiPfw8zT56Qcz5dk9tn7YtwXLpdk5AENCehlAyOBbw7WIsJs6mXHZFzf6SDj9zzsxEqIFHoAU31DFITA9FQhq9VOTe2hGcs61WXvczRyPT624o+ARVvQlwcYkbSpHf0RVzYNgOEHBHStFuRCsc8DwApq9oHZYJxk0RJrYPVCtKT0ip2Gw08hdxz5m4DxI3IlUWV+Px/DDW3uPH5alS7avqapi3zj/ZPSjJFC2fngA=;joCijrq8yX8HME8ZEgvqZg=="
+secured: "Owu1MpNk+5eH+JuwG3kZUSkkse2jUHjW2kSzIm+AvzGY9Zw0Yn1+rXb7yO9xar4WV7r3YaFEZ3S6BG6mwB3Uj73Av1j6Fj/7p/4dps02riGBRP1pavJKzRlK3j5NO3vWG5VjNAea4Xsvgm3P/r8cK5sYhY84MfoHBN97KWk0t8v7xKpDKNPnfcbh+BHAxCjPTg3IIuBsV7KbtTJGPPrpuF8bIjyw9ioBe2rarPZ0Uvm9Qtbw2BAZEXQqYHBNiYvsXpAbJpmpspBoOdwo/KTBCGvTzHlpwqh1aN1INbEDdsfi2v7iqIYOq0RbOr4/RXYB8+ICKFyyUq8hxLhEebecYbjD1stg+D915h8TfspMboAxHX6kA3xs06onhmPtsztNgdfgqmPvipGQowGJJINEvXZw0ussGFqfl00GY/MedxTpV5+2w2rOOGbrk5OQelEGkmJYi7ONWISQ3SxlZHfTJMgojSSoR3/O/GMjt+rf3o6rZA6K43L13VuTPEH72ZIf7EfPcxB2mbtAk8QHq6bxIQ==;31tEEXkIwuGOyaDzNVUiyg=="
 ---
 

@@ -47,6 +47,17 @@ related:
         width: 807
         height: 545
         isCached: true
+  - title: "Rules eased for water from showerheads, a Trump pet peeve"
+    excerpt: "The Trump administration has relaxed a regulation restricting water flow from showerheads, a pet peeve of President Donald Trump, who complained that he wanted more water to make his hair “perfect.”"
+    publishedDateTime: 2020-12-17T00:23:00Z
+    webUrl: "https://www.businessinsider.com/rules-eased-for-water-from-showerheads-a-trump-pet-peeve-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/rules-eased-for-water-from-showerheads-a-trump-pet-peeve-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rules-eased-for-water-from-showerheads-a-trump-pet-peeve-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "NvcElzpJSqpbw0NFv0/bBh5Jh1OeY9BTDLppoPENW/g+38G0/0Ea1WrnRSNAKRqj5TRG2mZT8dnAgr13TzkduDxzaVs6ZZZrZAAJ8VifiLeUx/+Ra/tKI+gRSKhV7HVk653tmnJjbZ9zNxOrib3M0MH2wEACiEtD8iYCIcx72zx4id/Olsnl3PzXCul4sdFS5wCstr/nd5llJ5pTPWFPFyWzH4kEBq080QhR2S1vkP3yDGw7uc43u9mo9xw8drqbth17sGC38o/1HqKPCdWB4pfXK1pJJ2LPMWZ2s6kHjh6KkcURkSayX+lxJ2VU2SCEV5GoC42D0ge+pTxEHHrqkKFjzuw91Z2NqcgKj2kfFc4=;PiNXvmLq3dtpfP2VhL8ANA=="
 ---

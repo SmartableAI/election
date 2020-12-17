@@ -223,6 +223,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump is still pinning his hopes on one last lawsuit in Michigan to overturn the presidential election"
+    excerpt: "President Donald Trump said a report written by his allies in a lawsuit over a small Michigan county's Marijuana measure reveals \"massive fraud.\""
+    publishedDateTime: 2020-12-17T00:08:00Z
+    webUrl: "https://www.businessinsider.com/trump-pins-election-hope-michigan-antrim-county-lawsuit-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-pins-election-hope-michigan-antrim-county-lawsuit-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pins-election-hope-michigan-antrim-county-lawsuit-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/5fda9ea1c910a400192e7f63?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Street closures planned Saturday in downtown Washington for pro-Trump rallies"
     excerpt: "The street closures will go into effect about 6 a.m. Saturday and will be enforced through the end of the day."
     publishedDateTime: 2020-12-09T22:46:00Z

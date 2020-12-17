@@ -31,149 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Trump administration removes experts from Defense Policy Board"
-    excerpt: "Several high profile members of the Defense Policy Board were removed on Wednesday by the Trump administration, in yet another purge of longstanding foreign policy experts and national security establishment figures in the final days of the Trump era, according to three defense officials.\n    \n"
-    publishedDateTime: 2020-11-26T18:39:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k8suVwUNIo4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-administration-defense-policy-board/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-administration-defense-policy-board/index.html"
+  - title: "George W. Bush sends holiday card with pointed message as Trump denies election loss"
+    excerpt: "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss.\n    \n"
+    publishedDateTime: 2020-12-16T23:44:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XUU1iQQ1IGE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 183
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180602110519-pentagon-logo-podium-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200602180649-george-bush-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump admits 'it's hard to get to the Supreme Court'"
-    excerpt: "CNN's Amara Walker and Carl Bernstein discuss President Trump's admission during a Fox News interview that \"it's hard\" to get cases to the Supreme Court and how Trump's continued legal challenges could undermine future election processes.\n    \n"
-    publishedDateTime: 2020-11-29T19:57:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lg3rilrlAME/donald-trump-fox-news-legal-cases-supreme-court-nr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-news-legal-cases-supreme-court-nr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-news-legal-cases-supreme-court-nr-vpx.cnn"
+  - title: "George W. Bush sends holiday card with pointed message as Trump denies election loss"
+    excerpt: "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss."
+    publishedDateTime: 2020-12-16T23:44:00Z
+    webUrl: "https://www.cnn.com/2020/12/16/politics/bush-christmas-card-trump/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 143
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050331-02-donald-trump-thanksgiving-1126-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200602180649-george-bush-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: How Michael Flynn perfectly explains Donald Trump's presidency"
-    excerpt: "Three weeks into Donald Trump's presidency, he fired Michael Flynn as his national security adviser. On Wednesday, eight weeks to the day when Trump will leave the White House, he pardoned Flynn for lying to the FBI as part of the investigation into Russian interference in the 2016 election.\n    \n"
-    publishedDateTime: 2020-11-26T02:27:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_WXSWKniNEU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/donald-trump-michael-flynn-pardon/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/donald-trump-michael-flynn-pardon/index.html"
+  - title: "Trump tells allies he will run in 2024, but hints he may back out"
+    excerpt: "In calls to allies, Trump has been asking how to navigate the next two years and floated a possible trip to the Middle East."
+    publishedDateTime: 2020-12-14T09:37:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/trump-2024-possible-run-444460"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-2024-possible-run-444460"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-2024-possible-run-444460"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170114094510-trump-flynn-campaign-trail-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump digs deeper into debunked conspiracy theories instead of embracing reality "
-    excerpt: "At first, President Donald Trump's refusal to concede an election he clearly lost appeared to many of his allies a temporary stage of grief. Give it a few days, some shrugged. A week, tops.\n    \n"
-    publishedDateTime: 2020-11-20T14:52:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i-3-GJql1x0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/trump-conspiracy-theories-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/trump-conspiracy-theories-election-2020/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120140503-02-white-house-1118-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Supreme Court hears arguments in Trump plan to cut undocumented immigrants from Census"
-    excerpt: "The Supreme Court on Monday will return and take up another of President Donald Trump's immigration-related policies as it considers the attempt to exclude undocumented immigrants from being counted in the Census totals when seats in Congress are divvied up between the states next year.\n    \n"
-    publishedDateTime: 2020-11-30T12:03:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/swnpTxDOwdk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/census-supreme-court-oral-arguments/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/census-supreme-court-oral-arguments/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200311103024-01-us-census-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Trump administration is considering shortening the recommended quarantine time for Covid-19"
-    excerpt: "President Donald Trump's coronavirus task force is reviewing evidence about how long people need to quarantine to be safe and slow the spread of Covid-19, according to Assistant Secretary for Health Adm. Brett Giroir.\n    \n"
-    publishedDateTime: 2020-11-24T22:39:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kG7dcpjim5o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/quarantine-time-recommendation-trump-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/quarantine-time-recommendation-trump-administration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200731101534-03-coronavirus-hearing-0731-brett-giroir-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Midnight Ruling Exposes Rifts at a Supreme Court Transformed by Trump"
-    excerpt: "The justices issued six opinions, several of them unusually bitter, in upholding challenges from churches and synagogues to state pandemic restrictions on religious services."
-    publishedDateTime: 2020-11-26T22:45:00Z
-    webUrl: "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
+      name: Politico
+      domain: politico.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/26/us/politics/26dc-scotus-church2/26dc-scotus-church2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Trump Gave W.H.O. a List of Demands. Hours Later, He Walked Away."
-    excerpt: "When President Trump quit the health organization, he left a list of seven demands on the table. Here they are."
-    publishedDateTime: 2020-11-27T14:43:00Z
-    webUrl: "https://www.nytimes.com/2020/11/27/world/europe/trump-who-tedros-china-virus.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/27/world/europe/trump-who-tedros-china-virus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/27/world/europe/trump-who-tedros-china-virus.amp.html"
+  - title: "Trump antagonizes Republicans with Georgia fundraising ploy"
+    excerpt: "Emails and texts raising cash for Trump's PAC have rankled Republicans, who want cash to flow directly to Georgia's endangered GOP senators."
+    publishedDateTime: 2020-12-15T01:25:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: Politico
+      domain: politico.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/23/world/00trump-who-1/00trump-who-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/da/1f/59b5d43848958d4f1d12f634434c/gettyimages-1230110704-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Lawyers say Trump administration has handed over new data that will help reunite separated migrant families"
-    excerpt: "The ACLU's Lee Gelernt said he's often asked whether the Trump administration has helped reunite families. He said that rather than help, it has withheld data."
-    publishedDateTime: 2020-12-03T10:07:00Z
-    webUrl: "https://www.nbcnews.com/politics/immigration/lawyers-say-trump-admin-has-handed-over-data-will-help-n1249782"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249782"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249782"
+  - title: "In final meeting of Trump administration, Fed gets the last word on 2020"
+    excerpt: "Federal Reserve Chair Jerome Powell has frequently urged lawmakers, using increasingly strong language, to pass more fiscal stimulus."
+    publishedDateTime: 2020-12-16T18:43:00Z
+    webUrl: "https://www.nbcnews.com/business/economy/final-meeting-trump-administration-fed-gets-last-word-2020-n1251425"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251425"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251425"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 117
+    quality: 134
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2018_31/2514806/180730-tornillo-port-of-entry-toys-ac-956p_fcc586443aed0aae4a4cd4baa38b093b.jpg"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_51/3436122/201216-jerome-powell-al-1007_adb347a74199f13249a748914bfc255d.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Inside the Right-Wing Media Bubble, Where the Myth of a Trump Win Lives On"
+    excerpt: "The Electoral College has affirmed Biden’s victory. That doesn’t mean that Trump-friendly news outlets have accepted it."
+    publishedDateTime: 2020-12-15T10:00:00Z
+    webUrl: "https://www.nytimes.com/2020/12/15/us/politics/trump-media.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/15/us/politics/trump-media.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/15/us/politics/trump-media.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/15/us/politics/15trumpmedia1/15trumpmedia1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "dGWS9lY/dXXrnAj1ZAmELfIEfe6NKNvaMFEbSBaKPQ9Kalwe1GyKCKBPzNfmT2pzW5QptLD6d2j6PW7A09NYilTx+Upehh4ErJmY3Fz6ca7Cl7KTPznw2crXXLZdq5vcmHQedaq/mLEjTGmuX07f3zqMYFxI5J9CGBORwEEz81AHaLS1L/S9L+Tbd+rCQUR0TiJes5eIVjgb0YndiIqDGqn7jvYg6DKnEmRUPlw/ydh8PjIkWuu/gK0dD+hvm/qW/gbtSHeFlARDfVum5OEc0hp09U4QLqYhYHkWS6IQMJOCYNGDkgg35bEB7e5xr3RXmpEdpi09Op5S2NH0/qwKnEnUSvhC7Xruy+QIbkLk2/0=;IJHPfG+zf0/g97HgWTu7ug=="

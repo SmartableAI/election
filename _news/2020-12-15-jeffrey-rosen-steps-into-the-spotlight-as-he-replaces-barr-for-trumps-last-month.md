@@ -63,22 +63,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Inside the Right-Wing Media Bubble, Where the Myth of a Trump Win Lives On"
-    excerpt: "The Electoral College has affirmed Biden’s victory. That doesn’t mean that Trump-friendly news outlets have accepted it."
-    publishedDateTime: 2020-12-15T10:00:00Z
-    webUrl: "https://www.nytimes.com/2020/12/15/us/politics/trump-media.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/15/us/politics/trump-media.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/15/us/politics/trump-media.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/15/us/politics/15trumpmedia1/15trumpmedia1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "RLV+XzFa9CWPQD1FoHW8lPNEAE4kHDwXtFKplBFHcH4tFwVOJVNKZoPN92qUKx7kAKdgu2SUI6eUTjSJXjXe1yt1+CJRxKt21shdUl7MZttxTAUz/V/g3qbkbNz2hKBu5EniqK4Guk7ckPEnRC2mByCSopnTsi3L9Ri1gFkHSgiBlcWbwacBSeSlZNku+Y4WCW+hrLCKKzieWjFt/7bovX0xgYK3YCyQanfwANiOq5IE3E8T5nFCaDQzOYy0BXpTGwjFxE3wi8NOwDrgfGZiSy9lXcVq7DoJJDq4LUeYY/rHh4W4fgLNWPm7QarQpnBgnnIWTjrxlnFMIVwpYFtOERw8Vxg4V51GH//KEXI0/9c=;We9hslYmvjacyDXJiUXYqQ=="
 ---

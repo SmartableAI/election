@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/republicans-president-trump-robbed-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/donald-trump-rally.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "House Republicans urge Trump to veto omnibus spending bill, call it example of ‘swamp politics’"
+    excerpt: "EXCLUSIVE: A group of House Republicans on Wednesday urged President Trump to veto an approximately $1.4 trillion omnibus spending bill being negotiated in Congress, describing it as an example of “swamp politics” in Washington D.C."
+    publishedDateTime: 2020-12-17T00:07:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N1HHeIz8g6o/house-republicans-trump-veto-omnibus-spending-bill"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b300ec5-e6cb-4dcb-9b6d-ce7d4eada6bf/d1092241-4b99-4650-8d43-4d7cef082db5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Israel and Morocco Agree to Normalize Relations, Trump Says"
     excerpt: "The deal, which required a U.S. shift on Morocco policy, marks another advance in U.S. efforts to strengthen ties between once-hostile nations in the Middle East"

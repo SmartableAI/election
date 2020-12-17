@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/14/electoral-college-jo
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election"
 type: article
 quality: 134
-heat: 854
+heat: 874
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/f589bea/2147483647/strip/true/crop/4636x3028+130+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F56%2F15e93f212f9a1f912fcadf49dd3a%2F8ef26b62759549a7af6861cc3e8d4b47"
         width: 320
         height: 209
+        isCached: true
+  - title: "Stay away: Thumbs down on inauguration crowds for Biden"
+    excerpt: "Stay away. That’s the message from the congressional committee organizing inauguration ceremonies for President-elect Joe Biden and Vice President-elect Kamala Harris. A day after Biden’s own organizing committee announced that the swearing-in would take place on Jan."
+    publishedDateTime: 2020-12-16T23:27:00Z
+    webUrl: "https://www.washingtonpost.com/politics/stay-away-thumbs-down-on-inauguration-crowds-for-biden/2020/12/16/6b651ca0-3ff5-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/stay-away-thumbs-down-on-inauguration-crowds-for-biden/2020/12/16/6b651ca0-3ff5-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/stay-away-thumbs-down-on-inauguration-crowds-for-biden/2020/12/16/6b651ca0-3ff5-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Supreme Court rejects GOP bid to overturn Biden's victory in Pennsylvania"
     excerpt: "The high court spurned a request from Republican allies of President Trump to decertify Pennsylvania's election results."

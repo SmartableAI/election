@@ -479,6 +479,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Jill Biden's dissertation criticized in viral Twitter thread: 'It's bad'"
+    excerpt: "A viral Twitter thread breaking down incoming first lady Jill Biden's 2007 dissertation to earn her doctorate in education outlined examples of poor writing and math errors."
+    publishedDateTime: 2020-12-16T23:05:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-1kJvjvzRDY/viral-twitter-thread-criticizes-jill-biden-dissertation"
+    ampWebUrl: "https://www.foxnews.com/politics/viral-twitter-thread-criticizes-jill-biden-dissertation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/viral-twitter-thread-criticizes-jill-biden-dissertation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4802aae-889b-4fac-b010-9913d8165396/dfcb9cb3-e25f-439f-b621-e0382eba208c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Sen. Lindsey Graham calls for special counsel to investigate Hunter Biden"
+    excerpt: "The senator called for the special counsel to probe whether “any crimes were committed” and determine any “conflicts” that exist for President-elect Joe Biden’s incoming administration."
+    publishedDateTime: 2020-12-16T22:55:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ITJkCiFQjs/sen-lindsey-graham-special-counsel-investigate-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-lindsey-graham-special-counsel-investigate-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-lindsey-graham-special-counsel-investigate-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d84048f7-5ae5-4394-9d7b-cecf95ee1791/47a99c53-d927-4f9c-b2ad-38eb6d18d93f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Key House Democrat pushes back on Biden picking general for defense secretary"
     excerpt: "A prominent House Democrat who sits on the Armed Services Committee is raising concerns about President-elect Joe Biden’s expected pick for defense secretary."
     publishedDateTime: 2020-12-08T16:02:25Z

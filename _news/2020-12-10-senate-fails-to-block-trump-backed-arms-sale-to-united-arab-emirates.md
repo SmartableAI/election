@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump tells allies he will run in 2024, but hints he may back out"
-    excerpt: "In calls to allies, Trump has been asking how to navigate the next two years and floated a possible trip to the Middle East."
-    publishedDateTime: 2020-12-14T09:37:00Z
-    webUrl: "https://www.politico.com/news/2020/12/14/trump-2024-possible-run-444460"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-2024-possible-run-444460"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-2024-possible-run-444460"
+  - title: "After Trump's toilet rant, efficiency standards rolled back on showers, laundry machines"
+    excerpt: "Trump has spent much of the past year lamenting the functionality of toilets, showers, dishwashers, sinks, and other appliances and bathroom fixtures."
+    publishedDateTime: 2020-12-17T00:06:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/months-after-trump-s-toilet-rant-admin-rolls-back-shower-n1251399"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251399"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251399"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
     images:
-      - url: "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_51/3436183/201216-donald-trump-melania-hair-jm-1253_ede4f40ed1b5aca7b381951744805c48.jpg"
+        width: 1758
+        height: 1171
         isCached: true
 
 secured: "U5owTc+tzyo+Se3smhREXuPPujkqO3wIvZqIuB4pcJo4dTDFbXPt1r4J//U3emHvJvvIAouDOWmGkHDRREaPbYeh83rdYYnTI0eHFi33YAWw8on/9bdh5vAi3K2R31VZluR9z52NRSqVNMx33nLYR+IjSC4c+ljYuHmNscSWRZUgMskJ+uE/yKSBxdCeV36min6WpjgMTsLmB9OqttUCZ4awD0KOkJzg5Q2NoxHti3aXhpiPvX/SqmEzvE8b1pr7RkQzWPdiB/nEk9QCWhHGXPAJCfX+Tb3uSoVX42yNJ8rjyK6ZY5jobfeHWenf3enVlZJYNpsAWTdbZFnxTvZSN1pPlDkz2MWZ302DZ48mFBg=;rN0eaXkZEnIwYMZ/Src0Tg=="

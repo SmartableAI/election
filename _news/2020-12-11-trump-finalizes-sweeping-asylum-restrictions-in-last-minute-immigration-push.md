@@ -191,6 +191,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "City to auction spot to push demolish button on Trump casino"
+    excerpt: "One of President Donald Trump's former Atlantic City casinos will be blown up next month, and for the right amount of money, you could be the one to press the button that brings it down"
+    publishedDateTime: 2020-12-16T19:58:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/city-auction-spot-push-demolish-button-trump-casino-74764352"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/city-auction-spot-push-demolish-button-trump-casino-74764352"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/city-auction-spot-push-demolish-button-trump-casino-74764352"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_a38b7a3134c7404d9ffa340d683dcf3d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Georgia GOP official urges Trump to respect results of the Electoral College"
     excerpt: "\"If they chose Joe Biden, then Joe Biden is the president,\" said Cobb County Republican Party chairman Jason Shepherd."
     publishedDateTime: 2020-12-15T12:47:00Z

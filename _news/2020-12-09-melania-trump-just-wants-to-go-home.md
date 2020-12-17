@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/melania-trump-future/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/melania-trump-future/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 215
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215133704-melania-removes-mask-1215-screengrab-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "In final meeting of Trump administration, Fed gets the last word on 2020"
-    excerpt: "Federal Reserve Chair Jerome Powell has frequently urged lawmakers, using increasingly strong language, to pass more fiscal stimulus."
-    publishedDateTime: 2020-12-16T18:43:00Z
-    webUrl: "https://www.nbcnews.com/business/economy/final-meeting-trump-administration-fed-gets-last-word-2020-n1251425"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251425"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251425"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_51/3436122/201216-jerome-powell-al-1007_adb347a74199f13249a748914bfc255d.jpg"
-        width: 2500
-        height: 1667
         isCached: true
 
 secured: "jKdRXc03iD9ZVm0AAj6rE+cEZzoiCjr2F96fbxzQA8WgeTePUrjhn2c0lNOQxddzrSKPXkQRPxIahhFYPrJn7aF2hPzY0+ci4EuYr2jbGfZ7GmoFJXS9ADupF3Dg5kAGi9a3wOLA/ooPuFmB5VhtcELC4BxmZBeShBTsDMJMGBKrBFvW541yGoz7OCCS43FkfaDW3fI5/5eTb2QJRGAHmtajehhPJSdpMow2cRepNASeus5MjQRkbgRYyD0twumJikYG4OBozOMaWn2s2h+1MlK82DwuhZ4buNXlp29KcjwILPZIq4zp8klOlfobge0GZR/T5LWrLsgM1FJqmuNLWMU3c4RSKUxM76oweWeuOr4=;iCiTeap5MhjITLBA9GNCwA=="

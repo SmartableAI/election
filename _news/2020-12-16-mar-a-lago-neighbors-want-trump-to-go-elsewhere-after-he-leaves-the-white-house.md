@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "In final meeting of Trump administration, Fed gets the last word on 2020"
-    excerpt: "Federal Reserve Chair Jerome Powell has frequently urged lawmakers, using increasingly strong language, to pass more fiscal stimulus."
-    publishedDateTime: 2020-12-16T18:43:00Z
-    webUrl: "https://www.nbcnews.com/business/economy/final-meeting-trump-administration-fed-gets-last-word-2020-n1251425"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251425"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251425"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_51/3436122/201216-jerome-powell-al-1007_adb347a74199f13249a748914bfc255d.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "37HQQ/TkX7U1vla50+QphCU6mzUWsiEl9Wcg5Y2cplnHCMhyl49TN+m8PRRMRY13syCg1w+fo+HE2tc1CB+0xPRI57qTc4t8fpIm/OIhVEdcHpo9pW+yXPK87UKm1Z8yZpU6TX1fXKNmE/bwrqpWV75stqaQTIZr+Po4M+mHqUVrXWc/pUZ57BuK8Z6I9QsVs6V1gHHR0SsRAsmIZ5mnrm6OJ//ZDTb+GIY5ALOPRbD+rH8qSpMzM1SLfWaFmhtfkdAxgTmewP08wiQKCa/CDkA9/eTC+8HTBvphAYzYuB+GakuJrHihnBzSNJ3c+3yon9rSt1flbmMNnsGhN21ZMAd1lpGE75/J5QEpsbEui60=;a6k9c3SiyTEsETe7CqxKAA=="
 ---

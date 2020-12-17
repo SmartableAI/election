@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-further-slims-dem-house-major
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats.amp"
 type: article
 quality: 160
-heat: 160
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Democratic donors want apology from Biden aide after 'bunch of f--ers' remark"
+    excerpt: "Some of President-elect Joe Biden’s donors want his aide Jennifer O’Malley Dillon to apologize after she called Republicans on Capitol Hill \"a bunch of f---ers,\" and at the same time praised Biden’s call for unity."
+    publishedDateTime: 2020-12-17T00:30:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x2xvF3NDkME/unity-democratic-donors-apology-biden-aide"
+    ampWebUrl: "https://www.foxnews.com/politics/unity-democratic-donors-apology-biden-aide.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/unity-democratic-donors-apology-biden-aide.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/biden-apJen-O-Malley-Dillon-getty.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "BcinqBSbdA3HiC9SJhZgUxuDEDir//RRF+cwXojgWrD0QHMsSXH5bD4CuTSw0q6kPiFQwDPDky5SbFA8lvJQ7n+JvDQlCpeoSFWlu1JmBl2Q9AJ145ZThxERNCAeQJ4N0oyaVe23yB9s1xZv27ZfCSevj0VGDh9vByLkh8rPyrYeQPy7sP68MfoQ7LcO0G4q6Y86qfIZhJGOsXd00U86Stjkt3wLNMaR7iRDWhk7pGwc+cLEoCkAmTfCTiZJAmVwdoAdvQeD+qhXXPfTgHvkVpUNikxoXkY9vNGGG9eozKdnrz7JFw8n/PpIvlS5hEHQLvB8s4fzpgD7iejQe9hzdgUYS/BF4F4rNmZY6hbqqVo=;dTCos6jnXpEpX4rLmi6BMg=="
 ---

@@ -8,7 +8,7 @@ webUrl: "https://www.usatoday.com/story/news/politics/2020/12/16/politics-update
 ampWebUrl: "https://amp.usatoday.com/amp/3916579001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3916579001"
 type: article
-quality: 113
+quality: 123
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Kamala Harris
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2020/12/16/USAT/36266745-f2f2-4cd8-ae8a-afc00b0c588c-GTY_1230145961.jpg?auto=webp&crop=5288,2975,x0,y352&format=pjpg&width=1200"

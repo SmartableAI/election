@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28M0E5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0E5"
 type: article
 quality: 132
-heat: 712
+heat: 732
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/13/a32d67c1-f73f-4ea0-b926-b571f35559cb/thumbnail/1200x630/4e3243bbdcf10a2e07bffc5333f4aa23/ap-20348189040437.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump is still pinning his hopes on one last lawsuit in Michigan to overturn the presidential election"
+    excerpt: "President Donald Trump said a report written by his allies in a lawsuit over a small Michigan county's Marijuana measure reveals \"massive fraud.\""
+    publishedDateTime: 2020-12-17T00:08:00Z
+    webUrl: "https://www.businessinsider.com/trump-pins-election-hope-michigan-antrim-county-lawsuit-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-pins-election-hope-michigan-antrim-county-lawsuit-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pins-election-hope-michigan-antrim-county-lawsuit-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/5fda9ea1c910a400192e7f63?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Man arrested in Olympia, Wash., after pro-Trump demonstrations turn violent"
     excerpt: "Police in Washington state have arrested an armed right-wing protester on charges of first-degree assault Saturday in Olympia, the state capital, on suspicion of shooting a left-wing protester during demonstrations fueled by baseless claims that President Trump had been wrongly denied reelection."

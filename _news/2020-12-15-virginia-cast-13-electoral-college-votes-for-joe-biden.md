@@ -217,6 +217,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Stay away: Thumbs down on inauguration crowds for Biden"
+    excerpt: "Stay away. That’s the message from the congressional committee organizing inauguration ceremonies for President-elect Joe Biden and Vice President-elect Kamala Harris. A day after Biden’s own organizing committee announced that the swearing-in would take place on Jan."
+    publishedDateTime: 2020-12-16T23:27:00Z
+    webUrl: "https://www.washingtonpost.com/politics/stay-away-thumbs-down-on-inauguration-crowds-for-biden/2020/12/16/6b651ca0-3ff5-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/stay-away-thumbs-down-on-inauguration-crowds-for-biden/2020/12/16/6b651ca0-3ff5-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/stay-away-thumbs-down-on-inauguration-crowds-for-biden/2020/12/16/6b651ca0-3ff5-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Supreme Court rejects GOP bid to overturn Biden's victory in Pennsylvania"
     excerpt: "The high court spurned a request from Republican allies of President Trump to decertify Pennsylvania's election results."
     publishedDateTime: 2020-12-09T12:36:00Z

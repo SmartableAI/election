@@ -126,6 +126,34 @@ related:
       name: Napa Valley Register
       domain: napavalleyregister.com
     quality: 55
+  - title: "Vice President Mike Pence to receive COVID-19 vaccine Friday, White House says"
+    excerpt: "Vice President Mike Pence, wife Karen to receive COVID-19 vaccine Friday. A winter storm watch is in effect from Wednesday evening through Thursday afternoon for large swaths of New England, with the southernmost part of the region expected to receive the greatest amount of snow."
+    publishedDateTime: 2020-12-16T23:40:00Z
+    webUrl: "https://www.bostonglobe.com/2020/12/16/nation/vice-president-mike-pence-receive-covid-19-vaccine-friday-white-house-says/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 51
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/2kTBVxxrGMGKzLwGPCZiJf4UPBw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/JEZ4XUTRHCR5U5YAFPE3NNS6HA.jpg"
+        width: 506
+        height: 337
+        isCached: true
+  - title: "White House: Vice President Mike Pence, wife Karen to receive COVID-19 vaccine Friday"
+    excerpt: "Vice President Mike Pence, wife Karen to receive COVID-19 vaccine Friday. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission."
+    publishedDateTime: 2020-12-16T23:58:00Z
+    webUrl: "https://omaha.com/news/national/govt-and-politics/white-house-vice-president-mike-pence-wife-karen-to-receive-covid-19-vaccine-friday/article_5de5451a-f3a8-549b-a544-14f750b5a8c4.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 48
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "q3XzBWX+Mm18WjY+9YIC8L6PpT1w+pkkmLzAzNL/7P8gzjlyKHZxZHB7iFEA7/hWRiBnOezHJcpKg96ylqYjVMzqJCN6ry345s9617j7twGKOvpx3w3asTjN6o1bHbMMbADuuRFHQ3JoOjEvw3GStJhOeU19tPN/mIOWcPkUYGEUmQUs5604QV1YwLDInZyzHNJ4NT1YtfjWvPMnsJsM0RnnxZF4L9Qsce14oNWZ0rBgPzl2zLWBciLbqiRgHDBJXhR7xMDET29kkzsnbDvXZ2iBSNovjmRO6VNK13RaZ30MfcuSQYOeWrMQbw53GOu9KHOBbtx1ruo5HdJfEs03lywN3xy0538sxKK2MN4Mnf1oqPJpSAiEPnUVKqr5pCkU7Rl+j+ZiWjselmes4kOCZNB1MEC+54ZoQ3O2h4zdCZTGZ5mSThTOeyN2P1R9Dviq5eRMNHagb5fwGg1ljc8N6mA1qYyiuSe2ipq4NopPzc7UO/213oKrIARDynKxWzbngSJM7H0+rQF1t+oP+Z71aQ==;ZX5Kb2ds0BBf13M7PNBxRw=="
 ---

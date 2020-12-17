@@ -223,6 +223,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Stay away: Thumbs down on inauguration crowds for Biden"
+    excerpt: "Stay away. That’s the message from the congressional committee organizing inauguration ceremonies for President-elect Joe Biden and Vice President-elect Kamala Harris. A day after Biden’s own organizing committee announced that the swearing-in would take place on Jan."
+    publishedDateTime: 2020-12-16T23:27:00Z
+    webUrl: "https://www.washingtonpost.com/politics/stay-away-thumbs-down-on-inauguration-crowds-for-biden/2020/12/16/6b651ca0-3ff5-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/stay-away-thumbs-down-on-inauguration-crowds-for-biden/2020/12/16/6b651ca0-3ff5-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/stay-away-thumbs-down-on-inauguration-crowds-for-biden/2020/12/16/6b651ca0-3ff5-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Electoral college members meet to formally choose Biden as next president"
     excerpt: "Presidential electors are meeting across the United States on Monday to formally choose Joe Biden as the nation’s next president."
     publishedDateTime: 2020-12-14T09:20:00Z

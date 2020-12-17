@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-g
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/amp/"
 type: article
 quality: 135
-heat: 156
+heat: 155
 published: true
 
 provider:
