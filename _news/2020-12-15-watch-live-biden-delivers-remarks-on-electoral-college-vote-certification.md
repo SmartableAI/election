@@ -560,6 +560,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Never-Trump movement splinters as its villain heads for the exit"
+    excerpt: "The defeat of Donald Trump might have been the easy part for never-Trump Republicans. Next up: taking on the more elusive target of Trumpism with their boogeyman gone from office. More than a dozen leaders of the never-Trump movement said in interviews that they see their work as far from over once Joe Biden is sworn in on Jan."
+    publishedDateTime: 2020-12-17T09:30:00Z
+    webUrl: "https://www.politico.com/news/2020/12/17/never-trump-what-next-447235"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/never-trump-what-next-447235"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/never-trump-what-next-447235"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/26/e0/b307118d44dfb9124b1b33c25bee/1216wh.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump sees special counsel investigations of Hunter Biden and election claims as payback for Russia probe"
     excerpt: "President Donald Trump is pushing extensively for the appointment of special counsels to separately investigate his baseless allegations of voter fraud and allegations surrounding Hunter Biden, the son of the President-elect,"
     publishedDateTime: 2020-12-16T19:44:00Z

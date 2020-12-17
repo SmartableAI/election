@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Electoral College set to seal Trump's fate -- yet again "
-excerpt: "A constitutional ritual that is normally a little-noticed curiosity will Monday turn into a symbol of the US political system's durability while under assault from a defeated President seeking to overturn a democratic election.\n    \n"
-publishedDateTime: 2020-12-14T05:01:36Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dfVUnXqwny0/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dfVUnXqwny0/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/electoral-college-donald-trump-joe-biden/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/electoral-college-donald-trump-joe-biden/index.html"
+title: "Pence prepares to confirm Trump’s loss — and then leave town"
+excerpt: "It’s a tactic Pence has used in recent weeks: stay out of the spotlight and insulate himself from his boss’s election-fraud crusade, while still bolstering his own credentials."
+publishedDateTime: 2020-12-17T09:33:00Z
+originalUrl: "https://www.politico.com/news/2020/12/17/pence-trump-election-loss-447326"
+webUrl: "https://www.politico.com/news/2020/12/17/pence-trump-election-loss-447326"
+ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/pence-trump-election-loss-447326"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/pence-trump-election-loss-447326"
 type: article
-quality: 175
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Mike Pence
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201213211352-donald-trump-1212-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/af/a2/56574fb144faaebea508e04c0125/gettyimages-1230056598-1.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -62,6 +63,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/12/us/politics/13dc-overturn-1/merlin_181149501_545a5a52-9c27-44f3-891f-1caf1453f16a-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Electoral College set to seal Trump's fate -- yet again "
+    excerpt: "A constitutional ritual that is normally a little-noticed curiosity will Monday turn into a symbol of the US political system's durability while under assault from a defeated President seeking to overturn a democratic election.\n    \n"
+    publishedDateTime: 2020-12-14T05:01:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dfVUnXqwny0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/electoral-college-donald-trump-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/electoral-college-donald-trump-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201213211352-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Trump says he halted plan to immediately vaccinate White House staffers"
     excerpt: "High-ranking White House officials are set to receive some of the first coronavirus vaccines in the United States, according to a White House official and a person familiar.\n    \n"
@@ -110,22 +127,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214220507-coronavirus-testing-201210-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Pence prepares to confirm Trump’s loss — and then leave town"
-    excerpt: "It’s a tactic Pence has used in recent weeks: stay out of the spotlight and insulate himself from his boss’s election-fraud crusade, while still bolstering his own credentials."
-    publishedDateTime: 2020-12-17T09:33:00Z
-    webUrl: "https://www.politico.com/news/2020/12/17/pence-trump-election-loss-447326"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/pence-trump-election-loss-447326"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/pence-trump-election-loss-447326"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
-    images:
-      - url: "https://static.politico.com/af/a2/56574fb144faaebea508e04c0125/gettyimages-1230056598-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Trump signs executive order prioritizing Covid vaccine for Americans"
     excerpt: "President Trump signs an executive order that prioritizes Americans' access to the Covid-19 vaccines before the U.S. potentially begins helping the country."
@@ -222,6 +223,6 @@ related:
         height: 773
         isCached: true
 
-secured: "BqWKGkb6ZM6bNB7YkZiGupezRtCAn7h4H1P4x5tEwYRtmDwIHu19RIlGEKlAPutSbv1b7zeclhW8Mtdx3Dp3vGpUH0UL5qh6LdbwG96jgEeYOZVEMir+q89Plm+eH4NM5tTpnkSLG4POcVcl8Ij2HWGJN9rsHFLhE2MmnB19ZpTwLTrjvoEIBVNXHziMxUaSxOhISQD7LNzYEcdxIEgMG/QRyRIv7V+1ZCb8CY3FdHU+OmIwUV/5X/NEs1SOL5HiiSy8GSHHnRyne1njbZTYBSm0x6PdfIgKyjq8R+MV+wKdrBUkyfgEqrbuzBmTHjrd9SfySNy4lBVxGVlIus2R31UMmlujb2DI1NS2aWdkL2Q=;iT4s1q2kMH8kIj5ByqacIw=="
+secured: "ulwoHGJg+anwKXGxZNhil2+bLQmvYWKfLJDjnR3ktL/hVlWAcffvEmhKiAmeCOyPdzVe4zostIjh2F3S2imJCO4TogqNWf+y3DTE9jJuhgYWMG8BQNqfFJROsO5TO+z5pMLY09WrwlR2v0p2SjzbUOxzc9b6G6DZ8q7S6ugSm5ChlLD0J3Oe13LMV6uO8elVxy739o1jhw8+btfUk3YWvy2QTiU3HuFh5eOTxh1Se1Q6hpiXPOTDy2rd2aM6AGCTv5kSVFb3hVsiQae478EVi+TXxBJ+cNsaBOZGnM6foJbknlO86uOxz7xaS+BENHohJ5X3qVwk50TJt07G3khZwiiNH/oJfx0M6Yey+wB9v0E=;HnF/tRf4bfnWxVAMmJNarA=="
 ---
 

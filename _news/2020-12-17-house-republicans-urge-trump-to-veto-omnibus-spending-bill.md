@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Rep. Kevin Brady calls for probe into leak of President Trump's taxes"
-excerpt: "We know, for the president, Rudy Giuliani and Chris Christie have been prepping the president and alternating playing roles acting as Joe Biden. As for the former vice president, he has been relying on his former chief of staff Ron Klain,"
-publishedDateTime: 2020-12-12T14:39:00Z
-originalUrl: "https://www.foxnews.com/transcript/rep-kevin-brady-calls-probe-into-leak-of-president-trumps-taxes"
-webUrl: "https://www.foxnews.com/transcript/rep-kevin-brady-calls-probe-into-leak-of-president-trumps-taxes"
-ampWebUrl: "https://www.foxnews.com/transcript/rep-kevin-brady-calls-probe-into-leak-of-president-trumps-taxes.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/rep-kevin-brady-calls-probe-into-leak-of-president-trumps-taxes.amp"
+title: "House Republicans urge Trump to veto omnibus spending bill"
+excerpt: "A group of House Republicans on Wednesday urged President Trump to veto an approximately $1.4 trillion omnibus spending bill being negotiated in Congress, describing it as an example of \"swamp politics\" in Washington D."
+publishedDateTime: 2020-12-17T10:43:00Z
+originalUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill"
+webUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill"
+ampWebUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
 type: article
 quality: 135
 heat: -1
@@ -26,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/deb31fac-e5c1-42e8-9a09-7d27440b42f1/c69902d9-ac13-4eb5-8b7b-31c93af3ca0d/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-1.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -142,6 +142,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Rep. Kevin Brady calls for probe into leak of President Trump's taxes"
+    excerpt: "We know, for the president, Rudy Giuliani and Chris Christie have been prepping the president and alternating playing roles acting as Joe Biden. As for the former vice president, he has been relying on his former chief of staff Ron Klain,"
+    publishedDateTime: 2020-12-12T14:39:00Z
+    webUrl: "https://www.foxnews.com/transcript/rep-kevin-brady-calls-probe-into-leak-of-president-trumps-taxes"
+    ampWebUrl: "https://www.foxnews.com/transcript/rep-kevin-brady-calls-probe-into-leak-of-president-trumps-taxes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/rep-kevin-brady-calls-probe-into-leak-of-president-trumps-taxes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/deb31fac-e5c1-42e8-9a09-7d27440b42f1/c69902d9-ac13-4eb5-8b7b-31c93af3ca0d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump gets West Point ovation at last Army-Navy game of his presidency"
     excerpt: "The storied match-up, normally held in Philadelphia’s cavernous Lincoln Financial Field, this year moved to the US Military Academy’s much cozier gridiron due to the coronavirus"
     publishedDateTime: 2020-12-12T21:40:00Z
@@ -173,22 +189,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee331ede-b231-4332-804e-fcd02265cb3e/2bdcb55b-ac61-46c8-ab1b-d2c239278a91/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "House Republicans urge Trump to veto omnibus spending bill"
-    excerpt: "A group of House Republicans on Wednesday urged President Trump to veto an approximately $1.4 trillion omnibus spending bill being negotiated in Congress, describing it as an example of \"swamp politics\" in Washington D."
-    publishedDateTime: 2020-12-17T10:43:00Z
-    webUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill"
-    ampWebUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Trump campaign poll asks if he should run for president in 2024"
     excerpt: "In a Tuesday email, President Trump's campaign wrote to supporters asking if he should run for office again in 2024."
@@ -223,6 +223,6 @@ related:
         height: 320
         isCached: true
 
-secured: "+USZQNTitWIqT2XeY8Q9JRlxWXe/b9fkOvbUnSKAArtOrCbbL7iP9poO6y2uAsChrQrzcgUPWnr99/RfSz80gxDlveLgh3blCzgYvVFtCt3SmyRQdbvfn5qKEeqpROVY1oVAjIy1Y4bbO7FnjbwPbjtrNgyCVIZcrbfygaBIeOifALQmpl3r40pYJIIFTkON1lkQ4hcETLBI1xf/EBM77MAUzI0D0qWKGq+LUY5Zj+gnHGzjHZ5xyE/E7xyxVCf36X727AqhqcNe1m90FVxspk0wbu/GJ7pJg4Nswk13NYJ8NOuO4uMNbSTn5vXgAVMxyxeuBDUX3kGStH8m0VonO3mkPaWvQxLF0FgNWyxVNxw=;oTjD/A9Yo1rTcPxeqyu1Ow=="
+secured: "eMdEsZSGF4otIkPm1L6N84GdliraZmdtuQIBEIQFqik/RHnlZoZJHr+klbcMQzHNr0Hc2+/el4RjnMnX3LFAmpyYDhJ7PkNbL2zEiOzaqdmwnm28tSMgdsHEUM1oMmM6pcM4rIyTKMA8AGfsJSG8t9PAeF7FKZJ0CE0HZODdlbhHvBg8327Z4mow/aKBBIijM9Bn5aqVJo3Ifq5i/mhl0AhW4Y2JF1xYT1DzrVAMRQQmnqNsByzNuQvnOG1QS9V8rBVLGJ6bmxHJ6hMqemmsJHWzYhKnFTmSuisf3ipUTvbJmN+V239AFkc9GZleCGWn8JJnHCAne1T0kXyVopdg8en2QPl6QPS68fd/H/3e2n8=;QooebtED5F/spyh51M+gCg=="
 ---
 

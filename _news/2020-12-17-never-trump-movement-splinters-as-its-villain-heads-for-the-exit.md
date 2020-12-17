@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Biden's boom or bust economy"
-excerpt: "I write this morning about the two roads that President-elect Joe Biden’s presidency could go down, depending on vaccine distribution and new stimulus. He could preside over a historic boom or a disappointing bust."
-publishedDateTime: 2020-12-15T13:00:00Z
-originalUrl: "https://www.politico.com/newsletters/morning-money/2020/12/15/bidens-boom-or-bust-economy-792309"
-webUrl: "https://www.politico.com/newsletters/morning-money/2020/12/15/bidens-boom-or-bust-economy-792309"
+title: "Never-Trump movement splinters as its villain heads for the exit"
+excerpt: "The defeat of Donald Trump might have been the easy part for never-Trump Republicans. Next up: taking on the more elusive target of Trumpism with their boogeyman gone from office. More than a dozen leaders of the never-Trump movement said in interviews that they see their work as far from over once Joe Biden is sworn in on Jan."
+publishedDateTime: 2020-12-17T09:30:00Z
+originalUrl: "https://www.politico.com/news/2020/12/17/never-trump-what-next-447235"
+webUrl: "https://www.politico.com/news/2020/12/17/never-trump-what-next-447235"
+ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/never-trump-what-next-447235"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/never-trump-what-next-447235"
 type: article
-quality: 115
+quality: 135
 heat: -1
 published: false
 
@@ -20,13 +22,13 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-    width: 1120
-    height: 629
+  - url: "https://static.politico.com/26/e0/b307118d44dfb9124b1b33c25bee/1216wh.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -558,22 +560,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Never-Trump movement splinters as its villain heads for the exit"
-    excerpt: "The defeat of Donald Trump might have been the easy part for never-Trump Republicans. Next up: taking on the more elusive target of Trumpism with their boogeyman gone from office. More than a dozen leaders of the never-Trump movement said in interviews that they see their work as far from over once Joe Biden is sworn in on Jan."
-    publishedDateTime: 2020-12-17T09:30:00Z
-    webUrl: "https://www.politico.com/news/2020/12/17/never-trump-what-next-447235"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/never-trump-what-next-447235"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/never-trump-what-next-447235"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/26/e0/b307118d44dfb9124b1b33c25bee/1216wh.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Watch live: Biden delivers remarks on electoral college vote certification"
     excerpt: "Watch live coverage as President-elect Joe Biden speaks from Wilmington, De., after the electoral college voted to make his victory in the 2020 election official."
     publishedDateTime: 2020-12-14T23:51:00Z
@@ -652,6 +638,20 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Biden's boom or bust economy"
+    excerpt: "I write this morning about the two roads that President-elect Joe Biden’s presidency could go down, depending on vaccine distribution and new stimulus. He could preside over a historic boom or a disappointing bust."
+    publishedDateTime: 2020-12-15T13:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2020/12/15/bidens-boom-or-bust-economy-792309"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Electoral College affirms Biden's victory"
     excerpt: "Democratic electors cast their votes without incident states where Trump has contested the results, like Pennsylvania and Georgia."
     publishedDateTime: 2020-12-14T23:10:00Z
@@ -695,6 +695,6 @@ related:
         height: 773
         isCached: true
 
-secured: "5WxNKBuUvhl/XhQEElQw9/NLS0CptVlNoKxi7+OqJ60X0zi00Ujz313zPcMPniYBOSpX/GEf0bLluJ79/SQPOnkOndnu2hg2/NPjIWIp/cMes97thtBGK4ZawWVp5S+7duePwTDMRLZZ7DEd5ueDTHGZUfuVjfhFMfeuSnu4KTTPVPMqrNmwBWWGa0lSaSnJwQ5JR1Yfm4gfosuPcfV+3Lv9hDkXlMyxSEVA271BppYhVRzUwjz93k+Bxg0FmhM9SnHQOwZIeiCF+RT7P5/Iz9MBvs1uBWtA5tmfGBfdLLuGl25sj16VTWgHttlq2DKtqi/RAwzPf+xB6TCpVqlI5v1J/U63qxu9stJanz1auic=;05UtGb7LYffxFmYFRvSfzA=="
+secured: "hPGj/qcBj+4VLVIA+gsZKQm+nnB46IcS2AxG2yiVnFweRN4TW3eembS6o1Jbb08K+oVSG7JModkUDhPetxV5qG6OVIkHCS7YkrvnQKY5TlrlJbVyI3NQsKe81Bqa+e/S9QKeuwd1AQKVUTuOeLUnrkkCP/WfvD80a4u+aE3ILgVUYKg0O0uwZ/O8mOn459cDYIBaUiipsoQR2xl/eTSmRDUb+59dKYZKKwGLdk8qzBCna6l98OhZkANaL7dyu5BUpPu+AHpNJVJWhfoAdiCcjIGzPQ9HOZnVkTo2VG9+I4mV2h2i6oO3HjCAtuePUJ9DHbjpv/aAmmhLn5MnA8FnFQP0i+lje9MK5uF1rj+Vnh4=;crTwTKuatroWVNbul8FuCA=="
 ---
 

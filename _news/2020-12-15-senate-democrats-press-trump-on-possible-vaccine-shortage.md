@@ -126,6 +126,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence prepares to confirm Trump’s loss — and then leave town"
+    excerpt: "It’s a tactic Pence has used in recent weeks: stay out of the spotlight and insulate himself from his boss’s election-fraud crusade, while still bolstering his own credentials."
+    publishedDateTime: 2020-12-17T09:33:00Z
+    webUrl: "https://www.politico.com/news/2020/12/17/pence-trump-election-loss-447326"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/pence-trump-election-loss-447326"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/pence-trump-election-loss-447326"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/af/a2/56574fb144faaebea508e04c0125/gettyimages-1230056598-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump signs executive order prioritizing Covid vaccine for Americans"
     excerpt: "President Trump signs an executive order that prioritizes Americans' access to the Covid-19 vaccines before the U.S. potentially begins helping the country."
     publishedDateTime: 2020-12-08T22:16:00Z
