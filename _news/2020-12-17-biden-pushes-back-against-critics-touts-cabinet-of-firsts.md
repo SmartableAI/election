@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Grassley accuses Democrats of double-standard in asking GOP to defer to Biden on Cabinet: 'Pretty darn rich'"
+    excerpt: "Sen. Chuck Grassley in comments on the Senate floor Thursday lambasted Democrats for allegedly deploying \"two sets of rules\" for Cabinet nominees based on party and said it's \"pretty darn rich\" that they are asking Republicans to defer to President-elect Joe Biden and swiftly confirm his nominations"
+    publishedDateTime: 2020-12-17T17:49:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VYawWFxnQ68/grassley-accused-democrats-of-double-standard-in-asking-gop-to-defer-to-biden-on-cabinet-pretty-darn-rich"
+    ampWebUrl: "https://www.foxnews.com/politics/grassley-accused-democrats-of-double-standard-in-asking-gop-to-defer-to-biden-on-cabinet-pretty-darn-rich.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/grassley-accused-democrats-of-double-standard-in-asking-gop-to-defer-to-biden-on-cabinet-pretty-darn-rich.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "HCJvEXNxXmrqQwDm/OV+Im/CRlSnmEPnovk42CO1dliZ6oVf3IEDuUipHDMy8dcVle3HAxVBTScoeXlkhQBdNhIz9JwFAUXwJmE2fk5jFH69rIqz1zjys/j5RPHgYatBTpYQb3/8we8rndwdJDG8DWZ0NiscnLtMRIJmxTnhr9KLdr9BhNHAZbNzdxos4PJbZOrV0oiQhz+YuIMwzyN0ReQHpWiF4pRJrqqiKAeNOng3ub9nvbqwkMeEkFZtR3yB41WI3981PFb4TBQAn9AqPa0hD/xd/FB/q8HVqcTUox9P6a2UJmc+vLkPKRwB6X6SwFhwgHeqVK55V0LIDo4EJwi1p30lww+Vgq/faFBrsiR60tD14q0YgCU84xXLEY6qESSx2QOOxhAhelRl2nMBL6w+wXRx095Ens3IZ2KZkqP8WN6vh9qyo1qU6Tgyrx0+Ri2e/SQJ46HwpU0Rkwl7HBSyksgdJyKIXVGbBhioefqCe93tfcz2uws0NASKgTvRqGTa73oxvxO1TuKZnUoHKg==;wlw7hdejIpkPe0T18OZT+Q=="
 ---

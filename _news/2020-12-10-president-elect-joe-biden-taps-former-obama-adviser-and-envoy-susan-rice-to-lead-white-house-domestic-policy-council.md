@@ -866,6 +866,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amid Georgia Senate race, Democrat Raphael Warnock slams opponent Sen. Kelly Loeffler for not acknowledging Joe Biden’s presidential win"
+    excerpt: "\"It's difficult to overstate how much is at stake here,\" Warnock said. The two runoff races in Georgia between Warnock and Republican Sen. Kelly Loeffler and Republican Sen. David Perdue and Democratic candidate Jon Ossoff have become a political centerfold as the future of the Senate rests on who will win in Georgia."
+    publishedDateTime: 2020-12-17T18:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/difficult-overstate-stake-warnock/story?id=74725230"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/difficult-overstate-stake-warnock/story?id=74725230"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/difficult-overstate-stake-warnock/story?id=74725230"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 92
+    images:
+      - url: "https://s.abcnews.com/images/Politics/raphael-warnock-view-abc-jef-201217_1608222297936_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Mike Pence in Georgia again today | Everything to know"
     excerpt: "Vice President Mike Pence will again visit Georgia today, a frequent stop of his as the Trump administration looks to continue supporting Sens. Kelly Loeffler and David Perdue in their re-election bid."
     publishedDateTime: 2020-12-10T12:33:00Z

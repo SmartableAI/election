@@ -510,6 +510,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hillary Clinton defends Biden deputy chief of staff after 'f---ers' comment"
+    excerpt: "Former Secretary of State Hillary Clinton defended Biden campaign manager and incoming deputy chief of staff Jennifer O’Malley Dillon after she called Republicans a \"bunch of f---ers.\" "
+    publishedDateTime: 2020-12-17T18:32:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fOYobxYGivM/hillary-clinton-defends-biden-deputy-chief-staff"
+    ampWebUrl: "https://www.foxnews.com/politics/hillary-clinton-defends-biden-deputy-chief-staff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-defends-biden-deputy-chief-staff.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/hillary.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Key House Democrat pushes back on Biden picking general for defense secretary"
     excerpt: "A prominent House Democrat who sits on the Armed Services Committee is raising concerns about President-elect Joe Biden’s expected pick for defense secretary."
     publishedDateTime: 2020-12-08T16:02:25Z
@@ -605,6 +621,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Zuckerberg-Dorsey-REUTERS.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Rand Paul opposes Hunter Biden special counsel but says federal probe must continue"
+    excerpt: "Sen. Rand Paul, R-Ky., said Thursday that Hunter Biden \"deserves the same justice that Paul Manafort got\" but opposed appointing a special sounsel to oversee the investigation into his tax affairs."
+    publishedDateTime: 2020-12-17T17:05:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ti2GoH1cSEw/rand-paul-hunter-biden-special-counsel-manafort"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-hunter-biden-special-counsel-manafort.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-hunter-biden-special-counsel-manafort.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4118860c-733d-46af-b1ba-85f6a4fdc12d/a180d325-392c-4ed8-9b5c-9ce197a500d1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Sen. Johnson: Voters, Congress should have known about DOJ Hunter Biden investigation"
     excerpt: "Sen. Ron Johnson, R-Wis., said members of Congress should have been informed that Hunter Biden's \"tax affairs\" were under investigation as they considered whether to vote to impeach President Trump in 2019."
@@ -1019,6 +1051,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Zuckerberg-Dorsey-REUTERS.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Rand Paul opposes Hunter Biden special counsel but says federal probe must continue"
+    excerpt: "Ky., said Thursday that Hunter Biden \"deserves the same justice that Paul Manafort got\" but opposed appointing a special sounsel to oversee the investigation into his tax affairs."
+    publishedDateTime: 2020-12-17T17:10:00Z
+    webUrl: "https://www.foxnews.com/politics/rand-paul-hunter-biden-special-counsel-manafort"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-hunter-biden-special-counsel-manafort.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-hunter-biden-special-counsel-manafort.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4118860c-733d-46af-b1ba-85f6a4fdc12d/a180d325-392c-4ed8-9b5c-9ce197a500d1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Republicans Backing Trump Fraud Claims Even As Biden Wins Electoral College"
     excerpt: "If tens of millions of Republicans believe Joe Biden is an illegitimate president--Trump actually used that phrase--it could well damage his administration. And at a deeper level, if much of one political party believes an election is being stolen--and next time it could be the Democrats--that seriously damages democracy."

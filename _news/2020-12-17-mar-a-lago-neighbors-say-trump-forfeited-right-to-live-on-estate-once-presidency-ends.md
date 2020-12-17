@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/3937126001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3937126001"
 type: article
 quality: 118
-heat: 138
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,17 +31,31 @@ images:
     isCached: true
 
 related:
-  - title: "Biggest Vets Groups Step up Pressure on Trump to Fire Wilkie"
-    excerpt: "The nation’s six largest veterans groups are calling on President Donald Trump to immediately fire Veterans Affairs Secretary Robert Wilkie over the mishandling of a congressional aide’s allegation of a sexual assault at a VA hospital."
-    publishedDateTime: 2020-12-16T19:31:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie?context=amp"
+  - title: "Seth Meyers: Trump's 'going to be our first nomad ex-president'"
+    excerpt: "Late-night hosts discuss a request by residents of Palm Beach, Florida, to keep Trump from residing in Mar-a-Lago and belated GOP admissions of Biden’s victory"
+    publishedDateTime: 2020-12-17T17:06:00Z
+    webUrl: "https://www.theguardian.com/culture/2020/dec/17/seth-meyers-trump-nomad-ex-president-late-night-recap"
+    ampWebUrl: "https://amp.theguardian.com/culture/2020/dec/17/seth-meyers-trump-nomad-ex-president-late-night-recap"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2020/dec/17/seth-meyers-trump-nomad-ex-president-late-night-recap"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7416014168184d41ce4a6cdd14c8aeeb6edfe637/72_144_2521_1513/master/2521.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d303f29e709c094d6a9170f53385e5da"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "South Carolina Electors Cast All 9 Votes for President Trump"
+    excerpt: "South Carolina’s nine presidential electors have officially voted for President Donald Trump and Vice President Mike Pence."
+    publishedDateTime: 2020-12-14T16:54:00Z
+    webUrl: "https://www.usnews.com/news/best-states/south-carolina/articles/2020-12-14/south-carolina-electors-cast-all-9-votes-for-president-trump"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 55
+    quality: 35
 
 secured: "lvS7yTJHi1I/IVN8vNCDQ5Cep2k/bHiMb8y2PMufuHPa/4/FoUtr8OVmW1sAbV8UGrttJjDjdRq81gRvlaHqrx7c9J0XfZl7/6Wji+Z+S2+tEAd0LoVzHuwv8Vm2tsO5TROazSFEaQIEF7wf0sB9hkect79H6sq+pXL6W/Wy/JgIP716STN4h4XwevWs/DOfTXnDn3KWSOxKFP7I/gOewMhrK8PC4B18IsxtlSthl10dSJXZZsU4MdtdbrYIvqpmNyUrPrPqaZphDQqlESmLzqTM6RhzEzbf7nw4+csTZuFNViyQmlpLT6kMntEpQy17cnSrMycnnBnyXhBFTxi9C0Ib2GaEGo5RfvhjHjSzY/gHentbzkqMRqkttgpUsoFen4UL+0uWleNX2JKDxMc0369kb1MDvsIW8GTaBk2LTlTVH7JisW8TPyKSkUshDwN1Mpuca3HmnzjDTNQBZhKHFrUsnNXSseyokiUisT8vDf+hM5VsrWGyXJ4F2FzMvRt690ulFCfmCiswcStguuEhjQ==;g4cH7+WiIjDb2PVMjqBM6Q=="
 ---

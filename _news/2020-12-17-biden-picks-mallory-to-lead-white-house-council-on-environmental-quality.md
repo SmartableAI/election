@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden expected to nominate North Carolina environmental official to run EPA"
+    excerpt: "President-elect Joe Biden is poised to nominate Michael Regan of North Carolina to run the Environmental Protection Agency, two people familiar with the matter tell CNN.\n    \n"
+    publishedDateTime: 2020-12-17T18:20:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h0CwGEfrJZM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/biden-michael-regan-epa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/biden-michael-regan-epa/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217131143-michael-s-regan-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden nominates Denis McDonough to lead VA, turning to another longtime Obama adviser"
     excerpt: "President-elect Joe Biden is poised to tap Denis McDonough to lead the Department of Veterans Affairs, a person familiar with the decision says, adding the longtime chief of staff to former President Barack Obama to his new Cabinet.\n    \n"
     publishedDateTime: 2020-12-10T16:03:33Z

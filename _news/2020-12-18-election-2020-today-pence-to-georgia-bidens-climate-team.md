@@ -866,6 +866,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Amid Georgia Senate race, Democrat Raphael Warnock slams opponent Sen. Kelly Loeffler for not acknowledging Joe Biden’s presidential win"
+    excerpt: "\"It's difficult to overstate how much is at stake here,\" Warnock said. The two runoff races in Georgia between Warnock and Republican Sen. Kelly Loeffler and Republican Sen. David Perdue and Democratic candidate Jon Ossoff have become a political centerfold as the future of the Senate rests on who will win in Georgia."
+    publishedDateTime: 2020-12-17T18:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/difficult-overstate-stake-warnock/story?id=74725230"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/difficult-overstate-stake-warnock/story?id=74725230"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/difficult-overstate-stake-warnock/story?id=74725230"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 92
+    images:
+      - url: "https://s.abcnews.com/images/Politics/raphael-warnock-view-abc-jef-201217_1608222297936_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Mike Pence in Georgia again today | Everything to know"
     excerpt: "Vice President Mike Pence will again visit Georgia today, a frequent stop of his as the Trump administration looks to continue supporting Sens. Kelly Loeffler and David Perdue in their re-election bid."
     publishedDateTime: 2020-12-10T12:33:00Z
@@ -963,6 +979,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "PfNCbPCs9RT7wge/NZoNNSNjDvIZqiOl/GORMWEYr2zeXLJe1SVKM8A+YRCGdP48x9Znwfn/+K/Gh/2o5dgz/zDkA0aG67CJN2iqE9br9C1h66g/LEUeow51hBuxexJb1OYR3YrKD77PoZaSHN59RK4li8P22kq5F3h6kqamSuab6gCWGlns6pSCjddJdRlUgkro2XERAztv0FfPQK+YAIhSNrfMqNz71qoUf/4Lgfb5CnyzSlbRHCi6rx/jzviKOjvG+hSGU22+XbBkDvr4a6Kih7XZbySJ7yTpfNguOjyOTJg0DnoslRFFwDTjODOvm6ryD+0BNiCL0vVAua9quEF1V0aSAAP99VCNeBsljmg=;2jOMjlwiNOoZToy2IGSyOQ=="
+secured: "RnfUEoHs0NvbqLib3m/3asGDxMjk4TmK4vBVdL1wjdQrXq7/xglmrUVQp3Tr1mTuEPGPu1QIbL2NEdiLBGW1R+tN07p8po99YBoVIsqiZIrnpbMNyi90QeokcX5JT42UwvjeDx4YxxcZ3QmbucbuDgL2y7JcxqhSfX/iWX1Ajwr1QDuAKxWqpGBw2cV1nVKxs7VaHcTI6jwzm6V9L9Vv+zk3dzdQcYZtQnpR6YVa6VoxwYsFUwtdVbJ2WnDwnl3WY2H8OYCVQ4oMshrBRPd3TtwPuG57wpnPmlAObTDkBjtFAY3U+vv/LOesnTS8OxABjd89FDuRt0oQhNVOQPJ5sm1J7LIodpzMxoqIuajWm2OzYpnIyCWhHtlZprn+yFIzWbZAgeTxR3jVq9Xhc5JbVpOLU3rUw53gm7iDe0g2CPsT3LO3tnjGnFuh2t4Kr9sqg4fx8s1sap9q0TlADOlSxP1I/UyuNeWQ1wmRIX1DRPSeQDZYcnA4HwA3+N0uaRo2KLvg55goiFsop3KmlvI2ow==;svkZiQlacbxJRcQoDGD1GA=="
 ---
 

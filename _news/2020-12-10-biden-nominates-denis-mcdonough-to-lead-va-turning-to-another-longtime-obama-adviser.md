@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden expected to nominate North Carolina environmental official to run EPA"
+    excerpt: "President-elect Joe Biden is poised to nominate Michael Regan of North Carolina to run the Environmental Protection Agency, two people familiar with the matter tell CNN.\n    \n"
+    publishedDateTime: 2020-12-17T18:20:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h0CwGEfrJZM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/biden-michael-regan-epa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/biden-michael-regan-epa/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217131143-michael-s-regan-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's economic plan is bold. Is it possible?"
     excerpt: "Elect Joe Biden has sketched out a bold economic agenda, but his ability to enact it could be determined by the upcoming races for control of the Senate."
     publishedDateTime: 2020-12-11T14:02:00Z

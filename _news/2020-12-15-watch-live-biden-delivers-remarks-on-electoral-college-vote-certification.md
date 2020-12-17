@@ -576,6 +576,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump vows to veto defense bill that Congress sent him"
+    excerpt: "President Donald Trump said Thursday that he plans to follow through on his threat to veto the annual defense policy bill that passed with veto-proof majorities in the House and the Senate last week."
+    publishedDateTime: 2020-12-17T16:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/trump-vows-veto-defense-bill-congress-sent-him-n1251570"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251570"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251570"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_51/3436447/201217-donald-trump-jm-1056_6b8dd9a08c701d22da204e13e60e8e86.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump sees special counsel investigations of Hunter Biden and election claims as payback for Russia probe"
     excerpt: "President Donald Trump is pushing extensively for the appointment of special counsels to separately investigate his baseless allegations of voter fraud and allegations surrounding Hunter Biden, the son of the President-elect,"
     publishedDateTime: 2020-12-16T19:44:00Z

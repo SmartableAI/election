@@ -560,6 +560,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump vows to veto defense bill that Congress sent him"
+    excerpt: "President Donald Trump said Thursday that he plans to follow through on his threat to veto the annual defense policy bill that passed with veto-proof majorities in the House and the Senate last week."
+    publishedDateTime: 2020-12-17T16:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/trump-vows-veto-defense-bill-congress-sent-him-n1251570"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251570"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251570"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_51/3436447/201217-donald-trump-jm-1056_6b8dd9a08c701d22da204e13e60e8e86.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Watch live: Biden delivers remarks on electoral college vote certification"
     excerpt: "Watch live coverage as President-elect Joe Biden speaks from Wilmington, De., after the electoral college voted to make his victory in the 2020 election official."
     publishedDateTime: 2020-12-14T23:51:00Z

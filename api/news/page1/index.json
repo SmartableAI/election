@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-18-seth-meyers-trumps-going-to-be-our-first-nomad-ex-president.md",
+      "title": "Seth Meyers: Trump's 'going to be our first nomad ex-president'",
+      "excerpt": "Late-night hosts discuss a request by residents of Palm Beach, Florida, to keep Trump from residing in Mar-a-Lago and belated GOP admissions of Biden’s victory",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/culture/2020/dec/17/seth-meyers-trump-nomad-ex-president-late-night-recap",
+      "originalUrl": "https://www.theguardian.com/culture/2020/dec/17/seth-meyers-trump-nomad-ex-president-late-night-recap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/7416014168184d41ce4a6cdd14c8aeeb6edfe637/72_144_2521_1513/master/2521.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d303f29e709c094d6a9170f53385e5da",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/culture/2020/dec/17/seth-meyers-trump-nomad-ex-president-late-night-recap",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2020/dec/17/seth-meyers-trump-nomad-ex-president-late-night-recap",
+      "publishedDateTime": "2020-12-17T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-former-trump-adviser-points-finger-at-russia-for-brazen-solarwinds-hack-calls-for-response.md",
       "title": "Former Trump adviser points finger at Russia for 'brazen' SolarWinds hack, calls for response",
       "excerpt": "Thomas Bossert, former Homeland Security adviser to President Trump, in a Wednesday op-ed said there is evidence that Russia is to blame for what he called a \"brazen\" cyberattack on software company SolarWinds through cybersecurity company FireEye.",
@@ -14,7 +66,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 164,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -178,7 +230,7 @@
       "originalUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-17/donald-trump-impersonator-j-l-cauvin",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -338,7 +390,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1395,
+      "heat": 1415,
       "tags": null,
       "images": [
         {
@@ -379,58 +431,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-mar-a-lago-neighbors-say-trump-forfeited-right-to-live-on-estate-once-presidency-ends.md",
-      "title": "Mar-a-Lago neighbors say Trump forfeited right to live on estate once presidency ends",
-      "excerpt": "President Trump forfeited his right to live at the estate in 1993 when he turned it into a private club, a lawyer tells the town of Palm Beach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/17/trumps-mar-lago-neighbors-dont-want-him-there-after-presidency/3937126001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/17/trumps-mar-lago-neighbors-dont-want-him-there-after-presidency/3937126001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/18/NPPP/da617525-710e-42f9-a4a9-01413d4a8efc-Trump_Thansgiving_15.jpg?auto=webp&crop=2399,1350,x0,y163&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3937126001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3937126001",
-      "publishedDateTime": "2020-12-17T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {

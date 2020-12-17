@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/jennifer-granholm-biden-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/jennifer-granholm-biden-energy-secretary/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/161202160232-gina-mccarthy-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden expected to nominate North Carolina environmental official to run EPA"
+    excerpt: "President-elect Joe Biden is poised to nominate Michael Regan of North Carolina to run the Environmental Protection Agency, two people familiar with the matter tell CNN.\n    \n"
+    publishedDateTime: 2020-12-17T18:20:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h0CwGEfrJZM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/biden-michael-regan-epa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/biden-michael-regan-epa/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217131143-michael-s-regan-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

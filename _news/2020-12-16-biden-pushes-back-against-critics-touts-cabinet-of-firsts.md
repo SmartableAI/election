@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-responds-critics-cabinet-pick
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-responds-critics-cabinet-picks.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 174
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Grassley accuses Democrats of double-standard in asking GOP to defer to Biden on Cabinet: 'Pretty darn rich'"
+    excerpt: "Sen. Chuck Grassley in comments on the Senate floor Thursday lambasted Democrats for allegedly deploying \"two sets of rules\" for Cabinet nominees based on party and said it's \"pretty darn rich\" that they are asking Republicans to defer to President-elect Joe Biden and swiftly confirm his nominations"
+    publishedDateTime: 2020-12-17T17:49:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VYawWFxnQ68/grassley-accused-democrats-of-double-standard-in-asking-gop-to-defer-to-biden-on-cabinet-pretty-darn-rich"
+    ampWebUrl: "https://www.foxnews.com/politics/grassley-accused-democrats-of-double-standard-in-asking-gop-to-defer-to-biden-on-cabinet-pretty-darn-rich.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/grassley-accused-democrats-of-double-standard-in-asking-gop-to-defer-to-biden-on-cabinet-pretty-darn-rich.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
