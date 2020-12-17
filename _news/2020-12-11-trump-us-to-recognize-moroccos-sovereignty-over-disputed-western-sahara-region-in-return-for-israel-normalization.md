@@ -65,8 +65,8 @@ related:
         isCached: true
   - title: "Trump administration has executed more Americans than all states combined, report finds"
     excerpt: "The execution spree was a first in US history and stands contrary to the declining trend in death penalty practices"
-    publishedDateTime: 2020-12-17T04:37:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/15/trump-administration-us-death-penalty-executions"
+    publishedDateTime: 2020-12-17T13:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/15/trump-administration-us-death-penalty-executions?fbclid=IwAR1OzwQcQ2pQv3hcmAENrxd7frnkTw2_2GnNSQkuYwnOdinySzclqwxxUns"
     ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/15/trump-administration-us-death-penalty-executions"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/15/trump-administration-us-death-penalty-executions"
     type: article

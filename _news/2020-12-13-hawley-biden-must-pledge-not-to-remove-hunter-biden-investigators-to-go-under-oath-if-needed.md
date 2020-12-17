@@ -192,22 +192,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "KT McFarland: There is 'significant evidence' Hunter Biden has been 'compromised by Chinese'"
-    excerpt: "Former Deputy National Security Adviser K.T. McFarland echoed calls Wednesday from top Republican lawmakers urging President Trump to appoint a special counsel to investigate Hunter Biden’s business dealings in China."
-    publishedDateTime: 2020-12-17T02:09:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/omMkcGelBls/mcfarland-significant-evidence-hunter-biden-chinese-government"
-    ampWebUrl: "https://www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f108777-fca7-4218-961c-c6c4cda89d2d/6f3bdca7-7016-446a-b879-59f4abb555f7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
     excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."
     publishedDateTime: 2020-12-12T19:22:54Z
@@ -285,6 +269,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Biden-Hunter-Color-correct.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "KT McFarland: There is 'significant evidence' Hunter Biden has been 'compromised by Chinese'"
+    excerpt: "Former Deputy National Security Adviser K.T. McFarland echoed calls Wednesday from top Republican lawmakers urging President Trump to appoint a special counsel to investigate Hunter Biden’s business dealings in China."
+    publishedDateTime: 2020-12-17T02:33:00Z
+    webUrl: "https://www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government"
+    ampWebUrl: "https://www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f108777-fca7-4218-961c-c6c4cda89d2d/6f3bdca7-7016-446a-b879-59f4abb555f7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "u+4K5qdUpj3ZxAMcXWXMkaKvmxsKbAIG+MpaMvfzf4tQmVeCMV0QSKZfxWos5d+fqjcO0MaXSd/XXK6J5QwUP5OqN9YE9dJ4JcWBrttxHKkT3p5+WHa6obZPnGt0EKrN2judvlF0jjt+eVvu/CTxJzNyPzkp+gDCiCvJu4yXXKAW9TrkKx7QgVK0fWjoUby6gAlCuy6vyfI2R+ptfWua4MYqasWlAcX5M1wTgv/l7y6737Xjk/SSdD/EnoEgWVGRv8OudUUNKXIjNYuwXqGHboPdsVMKoMOR2y37kQ64P5d5yLIQGxkKRnmv7jLrm0NxbukTg25WdNOkBmMmeDLehO5pB1yHaLTTXVQLws/OALM9U+TpiiWeNvnPhTFbzfCD7wGQij0w9Hluj12bCO1eEreDpKgFnP3GuQR5Z2/Z7+B/sAtCt8VIwDN9fmUlJvidf/exj+/gaSJjfrrnAtccd25OwQ4REOteeZNjCV7ZliDESH7uuIm8QW6dImfdvy7lc5F5257NOGtB3p04QAqLbQ==;ujnypbOUbVqRAjG+6PZ5gA=="

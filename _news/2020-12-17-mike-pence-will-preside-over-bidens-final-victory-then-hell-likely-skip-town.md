@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Trump asking about special prosecutor for Hunter Biden"
-excerpt: "President Donald Trump is considering pushing to have a special counsel appointed to advance the federal tax investigation into the son of President-elect Joe Biden"
-publishedDateTime: 2020-12-16T06:44:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-asking-about-special-prosecutor-for-hunter-biden/2020/12/15/33d3f186-3f40-11eb-b58b-1623f6267960_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-asking-about-special-prosecutor-for-hunter-biden/2020/12/15/33d3f186-3f40-11eb-b58b-1623f6267960_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-asking-about-special-prosecutor-for-hunter-biden/2020/12/15/33d3f186-3f40-11eb-b58b-1623f6267960_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-asking-about-special-prosecutor-for-hunter-biden/2020/12/15/33d3f186-3f40-11eb-b58b-1623f6267960_story.html?outputType=amp"
+title: "Mike Pence will preside over Biden's final victory. 'Then he'll likely skip town.'"
+excerpt: "Vice President Mike Pence, as president of the Senate, has the awkward responsibility of overseeing President-elect Joe Biden's final victory — and President Trump's official defeat — with the formal counting of Electoral College votes at a special Jan."
+publishedDateTime: 2020-12-17T13:31:00Z
+originalUrl: "https://theweek.com/speedreads/955761/mike-pence-preside-over-bidens-final-victory-hell-likely-skip-town"
+webUrl: "https://theweek.com/speedreads/955761/mike-pence-preside-over-bidens-final-victory-hell-likely-skip-town"
+ampWebUrl: "https://bypass.theweek.com/speedreads-amp/955761/mike-pence-preside-over-bidens-final-victory-hell-likely-skip-town"
+cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/955761/mike-pence-preside-over-bidens-final-victory-hell-likely-skip-town"
 type: article
-quality: 140
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: THE WEEK
+  domain: theweek.com
 
 topics:
   - Election
-  - Donald Trump
+  - Mike Pence
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1289450911.jpg?itok=AQpcQH7p&resize=450x300"
+    width: 450
+    height: 300
     isCached: true
 
 related:
@@ -377,6 +373,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/A059/production/_116094014_mediaitem116094013.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Trump asking about special prosecutor for Hunter Biden"
+    excerpt: "President Donald Trump is considering pushing to have a special counsel appointed to advance the federal tax investigation into the son of President-elect Joe Biden"
+    publishedDateTime: 2020-12-16T06:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-asking-about-special-prosecutor-for-hunter-biden/2020/12/15/33d3f186-3f40-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-asking-about-special-prosecutor-for-hunter-biden/2020/12/15/33d3f186-3f40-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-asking-about-special-prosecutor-for-hunter-biden/2020/12/15/33d3f186-3f40-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump voters accept Biden victory 'with reservations'"
     excerpt: "For weeks, President Donald Trump has been on a mission to convince his loyal base that his victory was stolen and the contest rigged"
@@ -1884,22 +1896,6 @@ related:
         width: 1024
         height: 647
         isCached: true
-  - title: "Mike Pence will preside over Biden's final victory. 'Then he'll likely skip town.'"
-    excerpt: "Vice President Mike Pence, as president of the Senate, has the awkward responsibility of overseeing President-elect Joe Biden's final victory — and President Trump's official defeat — with the formal counting of Electoral College votes at a special Jan."
-    publishedDateTime: 2020-12-17T13:31:00Z
-    webUrl: "https://theweek.com/speedreads/955761/mike-pence-preside-over-bidens-final-victory-hell-likely-skip-town"
-    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/955761/mike-pence-preside-over-bidens-final-victory-hell-likely-skip-town"
-    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/955761/mike-pence-preside-over-bidens-final-victory-hell-likely-skip-town"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 84
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1289450911.jpg?itok=AQpcQH7p&resize=450x300"
-        width: 450
-        height: 300
-        isCached: true
   - title: "Michigan's Electoral College delegates cast all 16 votes for Joe Biden, Kamala Harris"
     excerpt: "By law, Michigan delegates to the Electoral College are required to cast their votes for the winner of the popular vote."
     publishedDateTime: 2020-12-14T00:00:00Z
@@ -2193,6 +2189,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "+JswRhnGJLlG9g4NofwdIYggLlUp76dcKvHTWTHekA51qq44AldaQ4+EhVwb/1w4L9r+2QBR1yJpcNZwGi8XQcfoR50TdRU45qT1Aksj4bBcfpdrX8g7J+29vnEsc0OF+AtUvQ4Hj0aUPo77gXduhFAefRCDSHBTXjPzV+Y14iAeA8eCPuEAz6EQFiaYUDDQrW2HNv37ek9lJKtSTOtEWgEByS+iZ00XPmo+aKg03BrQ6XvzxFBG5w30xCkgqixxHWo1mOELRxfo8j2+K8ypURPxR2KsgSYzFmSicRbapQJv/5mXDmW+JO+ch8+vHTHRPs83LIjr1+IQX5Nls+lndzvUda89RcWadbxDxccpa9E=;Dl9c2JUComG4CRTOINa5Fg=="
+secured: "y8RIcAgjVf1AFLO7W0nOS3Tc7RWPwzSYBx0mxqgfuxeDp6Gn0Q557gFvc2wJemhS3gK6jwRuZrxFOhrfT+dqTlcRaik91mjbB0iDFIK/2vkQld3c4Tw1VPh0Wzifaxa1qUmonlAN2WzubaGpCv08Yzkvo/cf1pvr6zhqjALMYfaV7ZT865aPTbREMfw96Hg3HhTQT1Om3zinswn4WopTN9FMHwG1ENMBxFXRfDjtg6BVYCWfolitXXwGFdiUBcXL/ICMoMOyRQxNHHCnRP2XXodYjIsVrrrXQzlNK2g4BcybMxoRiEEEPmyKnFvwtPQ2oZwXZuM4jJsAXaRv9MF0xmnscc9MOi72B1Pc5Tk0gtw=;xRbQI9Svn1M79t+LbIml3g=="
 ---
 

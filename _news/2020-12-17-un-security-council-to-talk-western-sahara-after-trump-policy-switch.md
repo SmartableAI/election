@@ -1,22 +1,22 @@
 ---
 category: news
-title: "U.N. Security Council to talk Western Sahara after Trump policy switch"
+title: "U.N. Security Council to Talk Western Sahara After Trump Policy Switch"
 excerpt: "The U.N. Security Council is planning to discuss Western Sahara on Monday, diplomats said, after U.S. President Donald Trump recognized Morocco's sovereignty over the disputed region in return for the kingdom normalizing ties with Israel."
-publishedDateTime: 2020-12-17T09:05:00Z
-originalUrl: "https://www.reuters.com/article/israel-usa-morocco-un-idUSKBN28R0D1"
-webUrl: "https://www.reuters.com/article/israel-usa-morocco-un-idUSKBN28R0D1"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28R0D1"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R0D1"
+publishedDateTime: 2020-12-17T04:19:00Z
+originalUrl: "https://www.usnews.com/news/world/articles/2020-12-16/un-security-council-to-talk-western-sahara-after-trump-policy-switch"
+webUrl: "https://www.usnews.com/news/world/articles/2020-12-16/un-security-council-to-talk-western-sahara-after-trump-policy-switch"
+ampWebUrl: "https://www.usnews.com/news/world/articles/2020-12-16/un-security-council-to-talk-western-sahara-after-trump-policy-switch?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-12-16/un-security-council-to-talk-western-sahara-after-trump-policy-switch?context=amp"
 type: article
-quality: 125
-heat: 125
-published: true
+quality: 55
+heat: 55
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,12 +24,6 @@ topics:
   - Election
   - Donald Trump
 
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544840693&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG08H"
-    width: 817
-    height: 545
-    isCached: true
-
-secured: "jRWqZ2j0mSphdGBs6obsaD4jmDKj7btcCDBxYkKYDg/Ymh6Wl3dbaZbcpyqqsjQz82+nk5fR1QlLjd1wWbsZVhFJZvsW6CgDN5ovc+4J5CFPv9o0F/bDUaE2FtUNKOREAA/cul1Cw02k7WulfZb1hkcwrIwn2f5YDDtHZ9kQnxjN6HD5HIqQ8DWm1OwDNXtlbVZh/hZCK5FTWQXXdm73N7D0wp6zeWcMHB7z3qAIZLQ8jYvedaPLDiJIfuOQiIAj75mAfISQVJc+rQzvczI2bc9OjUFLl3cS8veCLdaouoRH7t7INxUpc0CXcgITivATFW6bkQwO+cp7bpqU5yOny9626vw+PPeDmNDNyNnDuWI=;JUj+4GkyERcxkdjY1+is0w=="
+secured: "SNmd1bf7QXFBXR9j8mhmzs//2eFxFqCqnUgJSdcHgui4c4zFJeNC7Taj8kDzN5Dpfl0RcW7P14r11uZ5QKk2h10qK+eMgRtiEeBTL3a60m0TRZZQft8MissnmV8L/+1Q+O5nfu0z1d/irIlo5r41Pv3YaEo/vCOgozJQomSJUF7JrO+BoPzQ1lF6Jq0tWVhRDLq6zrfn8hs8nxTarLsZM2v1AOIP+QlDm36ZaUCNDmsY0lYMKfp+tiCOFyW8/1Bn9PKgVs6NBhC3k9HZpS6mMSzC8/5vl9Opu0mHozqo1ThXIZQ923O4lTxF1IDeMJqLg0kStoWkl9V84Ipdpr75d/Cx4qv9eeCnP58bCVXB8FEmb9+/euG2btDtiEs3fAttB2m5WGIxBqIPsMgh4h3jtcj4jz9PPObcmR+YYfWHJnhQ4Tg75uVQz6+eAgNH+I54kEzk7NzaL/ZL0RU/yl/jrwgOyHqa/G2kCAq8O2VDzuB0zriSZq8WYBGHkyLHuYILADs03Cjd7IGvKZLxXO8S2Q==;PfdtDEVHcAxH2oVRNwUimg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-b
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137"
 type: article
 quality: 180
-heat: 3040
+heat: 3060
 published: true
 
 provider:
@@ -1884,6 +1884,22 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2020/12/AP20349797001436.jpg?w=1024&h=647"
         width: 1024
         height: 647
+        isCached: true
+  - title: "Mike Pence will preside over Biden's final victory. 'Then he'll likely skip town.'"
+    excerpt: "Vice President Mike Pence, as president of the Senate, has the awkward responsibility of overseeing President-elect Joe Biden's final victory — and President Trump's official defeat — with the formal counting of Electoral College votes at a special Jan."
+    publishedDateTime: 2020-12-17T13:31:00Z
+    webUrl: "https://theweek.com/speedreads/955761/mike-pence-preside-over-bidens-final-victory-hell-likely-skip-town"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/955761/mike-pence-preside-over-bidens-final-victory-hell-likely-skip-town"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/955761/mike-pence-preside-over-bidens-final-victory-hell-likely-skip-town"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 84
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1289450911.jpg?itok=AQpcQH7p&resize=450x300"
+        width: 450
+        height: 300
         isCached: true
   - title: "Michigan's Electoral College delegates cast all 16 votes for Joe Biden, Kamala Harris"
     excerpt: "By law, Michigan delegates to the Electoral College are required to cast their votes for the winner of the popular vote."

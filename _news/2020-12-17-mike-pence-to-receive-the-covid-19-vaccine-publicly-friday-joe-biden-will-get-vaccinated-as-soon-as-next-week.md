@@ -1884,6 +1884,22 @@ related:
         width: 1024
         height: 647
         isCached: true
+  - title: "Mike Pence will preside over Biden's final victory. 'Then he'll likely skip town.'"
+    excerpt: "Vice President Mike Pence, as president of the Senate, has the awkward responsibility of overseeing President-elect Joe Biden's final victory — and President Trump's official defeat — with the formal counting of Electoral College votes at a special Jan."
+    publishedDateTime: 2020-12-17T13:31:00Z
+    webUrl: "https://theweek.com/speedreads/955761/mike-pence-preside-over-bidens-final-victory-hell-likely-skip-town"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/955761/mike-pence-preside-over-bidens-final-victory-hell-likely-skip-town"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/955761/mike-pence-preside-over-bidens-final-victory-hell-likely-skip-town"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 84
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1289450911.jpg?itok=AQpcQH7p&resize=450x300"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Michigan's Electoral College delegates cast all 16 votes for Joe Biden, Kamala Harris"
     excerpt: "By law, Michigan delegates to the Electoral College are required to cast their votes for the winner of the popular vote."
     publishedDateTime: 2020-12-14T00:00:00Z
@@ -2177,6 +2193,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "Puezj0F13u9JeLRcELIsYlEyXPkc7IonczyFAyGdfzRXFn+nlUKtb8eIEnzt880gN1lqh/ozTuE+QoICXTXCXQGj4b86SMyNMf0OyAAegr26csJPmv3xJFq2P40NPp5sSBl97WQjXNEpvVsoCBeyduxsPwbcMjOSLMjj0u3ix4+FQXK0JWdzjVftSEbUc9kI5TIchEVp9F+9k75lc7iQ0Sz/kifPTLiKGkMstXiK15XCHtVJ/mZbZRfXsSBL21/Zh1IIWvscZmvjokGlDVU19pQk55Vhu53JheVUB4nXfiJxqbwHUoNDmBrZmjJusSl+S9KQg+2tqza3MUzSCCFVwPBviL+CPpocBh4Dus3oYGs=;L4+0m7vyKZPMQqdaQXmmcQ=="
+secured: "7oSEJsYq0x014yYzMPCf++ZwCGwENH4Zj6BqPWfN919vZAO6OKM0o7gYQpZB1AQy3xd1xF+E0SlDDyUqcN7LjpsroLxft9HEiMaF+W7Y/qEq3zWbpGqcCY7/f6vglf9WxbJ6FUQxgeAHfaB2HwOcabDQ64/yJo6ntC9C0wg6T7B6C3yudFC0cH3fOXhgxMr5n48enB/mO85OHeyCwmAw2b9aJfBEijMWPo6WoRiPhL8YbQZlNRAVKSV0Wjzu9+FOGOv/SB1db2ZIgEJiezwxWTO/GoVr6FCrNNAJb1H73vuTcwfNwXtUDQ+3kGa7qMVZ0nCMpDSgbigAYZa2O0T+DAB/E6B4X/LJvzFI8HUKbfnBEAvYuDmatMWBdtv8FHjNT8mOmkcWsoHr7rPot3sTI39mYFq2d82Zfy6muVU6MgmvDwTS2/1ACfI1rtuSlboTlydh7JIKDQboAGw4CvizztafI4atPf9uMrybD78NtHTOxjWs2K18y3XI72zo/ftDzoXjO971kZC+HSe5Z111Fw==;t2RpcbMwXXFSbSiG3fWkZw=="
 ---
 

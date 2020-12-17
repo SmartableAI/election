@@ -2,9 +2,9 @@
 category: news
 title: "Trump administration has executed more Americans than all states combined, report finds"
 excerpt: "The execution spree was a first in US history and stands contrary to the declining trend in death penalty practices"
-publishedDateTime: 2020-12-17T04:37:00Z
-originalUrl: "https://www.theguardian.com/us-news/2020/dec/15/trump-administration-us-death-penalty-executions"
-webUrl: "https://www.theguardian.com/us-news/2020/dec/15/trump-administration-us-death-penalty-executions"
+publishedDateTime: 2020-12-17T13:00:00Z
+originalUrl: "https://www.theguardian.com/us-news/2020/dec/15/trump-administration-us-death-penalty-executions?fbclid=IwAR1OzwQcQ2pQv3hcmAENrxd7frnkTw2_2GnNSQkuYwnOdinySzclqwxxUns"
+webUrl: "https://www.theguardian.com/us-news/2020/dec/15/trump-administration-us-death-penalty-executions?fbclid=IwAR1OzwQcQ2pQv3hcmAENrxd7frnkTw2_2GnNSQkuYwnOdinySzclqwxxUns"
 ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/15/trump-administration-us-death-penalty-executions"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/15/trump-administration-us-death-penalty-executions"
 type: article
@@ -100,6 +100,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "oGw3K9jE3ezDjYeoeO/FaXAwBL1rTZJA2NGxWfm35I9CpzSj+48m3J76HF2K/yD8YLJCiMWZ4GhURPdYqEV0cp6KfTfOVH0tT0oheRTEyT6mUQGu9nmAwGcYrru6ZVustILt+BSeNITWhdkCgywJU4mHyKH5/nQ6JMlI+4+qrl+QgOy3kxCo7doV2YJ7JSXQH+BFw/mZp7kF8y+l6xswya56Sb+YennqDSUeYFQ+A89UfniHKuioOv5oEOt3iHo0CAlhS+zcMVIDzRd/fnVMIQDM8IKh4Hwy/MarQz1ip9jtTGA68A3YvSg0EURriRb34P4KlAHnqOlCCn1oXwe9TxdP0HK46NcEVD1Q2VE8RNs=;mCIY1zAZZgrT4eYD7ZZiew=="
+secured: "Tn5imE5riNAcQk19mSADZ3JMrhS6t9ebC0zftxs5kN0U1rhy4HFoA4eVNEkHJtHKTEWkf08lG9hkjAd11wX+L4FGaGFtszsaJik8bFHHPRIhbJYV4E3AAiVOjOYfQ3mzBeJjZOdZopESTwDL5sibC2CSDN54l492x7SfqlOybxzrm0EvGhugoJJCs5J3LXUI5QWqr8zQ+pkLGiKckgYcs+omuZJhn/i0cmEuzD/yTEyXy/Kuj3beCz6wI/XbZLeUjWywP8lcGOoV++F+NN85RAXyTiS8WPQX6QzV96ZCItZipWXTdlLouYWd6+Ea9gkIQngrrHcBeBCP3V6DIpw2KJdcL1NOK6urOYNNoBJHYF0=;P4nOTCsyXFwNPvW+Stx7Iw=="
 ---
 

@@ -2,13 +2,13 @@
 category: news
 title: "KT McFarland: There is 'significant evidence' Hunter Biden has been 'compromised by Chinese'"
 excerpt: "Former Deputy National Security Adviser K.T. McFarland echoed calls Wednesday from top Republican lawmakers urging President Trump to appoint a special counsel to investigate Hunter Biden’s business dealings in China."
-publishedDateTime: 2020-12-17T02:09:20Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/omMkcGelBls/mcfarland-significant-evidence-hunter-biden-chinese-government"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/omMkcGelBls/mcfarland-significant-evidence-hunter-biden-chinese-government"
+publishedDateTime: 2020-12-17T02:33:00Z
+originalUrl: "https://www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government"
+webUrl: "https://www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government"
 ampWebUrl: "https://www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government.amp"
 type: article
-quality: 164
+quality: 124
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -286,6 +287,6 @@ related:
         height: 720
         isCached: true
 
-secured: "LELWfQa8q8Hm/ABQuoEJq31p1+zogLD1GXVN9rPhdzBXP1cE4QIkyG/LRnbpbrSKnbR8+n99lYAn8zv88EPu2cX9yKWhU9rXRltWL7RQilWxcr1+SZmYsyQ6maEICibZx++oYt72ozbYew1kgdPgpmhjgbAFyYd0uxhB1SzlTROCE4/6TpyJObieJHUY+CIai/c17lGBwhYHqGon+PeU6lxWKASY7izcMF98uqYO+72mhmSPh629HN6HupdQnzrvVpm64VC94AgAub5yW2V1VD9bczoceBB6nVww8pa4K7l9xueLBpISkhaTe2yi2vAKckVWhbuK/pQvMQqtV1DjFU5sS95/c5ySsHto8EsDR1M=;gBlbRP1qw8Zk/XV64QtDpw=="
+secured: "+Urc+uPpgeIn7TIJfBdWO6YLreilqpQ78OpXmmNlc8WYxkec2UrxgAnf4cTesiPI0l3eWdeKa6yPNG7oH0YMGoO/fEKxO8XWabYHd7fdUYSTo95H6ML8lifabo1diaIraaHoLJg9shlgBnlxRPQo2VcNCKKBZTgbwM40i2UGzbszfBSNh4T6IX80qN+E++37x0ofMgwzMaszk5H6UrYywMWFx6uH+y8Iyb9uXGTmJC6FUkBjyQBwotmFIJHWx0E8L8rzA8P/jRKx6fBUB8+RQEludQykfy/o/gEmQEjA/wP/tlVGhF4HXosiUvOY3VFQbkRd5DYypP9SmJaSDkkUsx0VjgauxhWs3H+KcccToUM=;k3eN2RJjNYM8ThVu3FGijA=="
 ---
 
