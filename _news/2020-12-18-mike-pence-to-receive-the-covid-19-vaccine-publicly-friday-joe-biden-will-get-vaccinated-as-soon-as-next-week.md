@@ -2175,6 +2175,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "With Trump Silent, Reprisals for Hacks May Fall to Biden"
+    excerpt: "All fingers are pointing to Russia as the source of the worst-ever hack of U.S. government agencies. But President Donald Trump, long wary of blaming Moscow for cyberattacks, has so far been silent. The lack of any statement seeking to hold Russia responsible casts doubt on the likelihood of a swift response and suggests any retaliation — whether through sanctions,"
+    publishedDateTime: 2020-12-18T06:04:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-12-18/with-trump-silent-reprisals-for-hacks-may-fall-to-biden"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-12-18/with-trump-silent-reprisals-for-hacks-may-fall-to-biden?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-12-18/with-trump-silent-reprisals-for-hacks-may-fall-to-biden?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Connecticut’s presidential electors cast 7 ballots for Democrats Joe Biden and Kamala Harris in Electoral College"
     excerpt: "Connecticut’s seven Democratic electors voted for President-elect Joe Biden during a noontime Electoral College ceremony at the state Capitol Monday, placing their individual paper ballots in a historic,"
     publishedDateTime: 2020-12-15T16:56:00Z
@@ -2326,6 +2337,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "gttRN7TYjhQO7IvsA9zFqJR/tF9Ig+jzN1H0wK5UzeMxSejfo3n3YEsiNuIDNau05cxn2qGefrfTs2P1rgxL5pJ1Id3ffFwWlsEkK7jz1g1zuNst8f5jaEyi6rlD+N2qO0/LnFHnuflQYk52a3haKSynfnoi7xFMm+KVynvJpTiXNIeiWOeh3VnaiMhb1nR2U4EtXfoXXw3/QcPpmriRNFt4k+8Fj7kwAk5k0nixodlfLMIGnaPjdd7QeTVgbIiprDy6Ym3JRtKDTmRAax5tihVrjXsCrmoOkh8mQosmGe4jMkl0TBS+lVCmUV9971wGdga+yE0vKq+ppSpHS6w4f9opN4M577R+I8bXKJ1mNnc=;zV5C9wvcBg7ejE3dn0STYA=="
+secured: "S82xCXobqVhnr7DsylAr4Zn3Xy8AFUyqHb9+3iMVxTovkAfCfu/wxFQRjrd16IVLqV6wWtl+DqSNmUcrom+6VqLn96fXtDfvTSKHfZtaMxaP+GthoFiXpdHLpI/1Jr4IN88K6xRYyRG+gPWciTJQE8YvhIiJL+dCnFoeOYYzb38Bmw9sdo9kRn7e4CEwFcpFRhc8uqy2DNhexHZ3O69fuD8qS9AyZEj2j6B6pbpiBmESAP/T3QZMCzmBl+459DWY4qFxpOh1eW/dPGD3iLfuv3eYfhVLUNY2RK40H52cBq9e44PwmPXgaTpAenxA22AFG+dmrUm+FJ2Ycq7G8YLor7EvUozJWeaMoNqNM037Y5bTAVyFcNFt1KXIzbJMCk1GqKhzV/kVLepc/HVd0aDZa0wDiWuW985KFy2fP5hVAGQMl+kf2bnXIl1uPAW2UeiE9zRcnaoyR1i7ts3Bb6P55PkBDbtRKY6F46RATVS9/axo3kQNXfS3MVDK/oeZAuH2oQYgyndDkJDDYUrIW+MYiA==;YkIM2J5kV15xqAnE0HQRkw=="
 ---
 

@@ -2175,6 +2175,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "With Trump Silent, Reprisals for Hacks May Fall to Biden"
+    excerpt: "All fingers are pointing to Russia as the source of the worst-ever hack of U.S. government agencies. But President Donald Trump, long wary of blaming Moscow for cyberattacks, has so far been silent. The lack of any statement seeking to hold Russia responsible casts doubt on the likelihood of a swift response and suggests any retaliation — whether through sanctions,"
+    publishedDateTime: 2020-12-18T06:04:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-12-18/with-trump-silent-reprisals-for-hacks-may-fall-to-biden"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-12-18/with-trump-silent-reprisals-for-hacks-may-fall-to-biden?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-12-18/with-trump-silent-reprisals-for-hacks-may-fall-to-biden?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Connecticut’s presidential electors cast 7 ballots for Democrats Joe Biden and Kamala Harris in Electoral College"
     excerpt: "Connecticut’s seven Democratic electors voted for President-elect Joe Biden during a noontime Electoral College ceremony at the state Capitol Monday, placing their individual paper ballots in a historic,"
     publishedDateTime: 2020-12-15T16:56:00Z
@@ -2326,6 +2337,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "LtHPff8jUWyLEVuoKAw4tk3R8e/QI1Z1P4WeBUykdjQgeRUu2HcB2Afq+9+HfEGRphUkNbMBgJOJXRrGB/Ra+VWEhiOa9wl5EQYwFMaWuPFsthv+/OR0B8qOva1eNiJiNhHlzCugPDhmYUVcCAq+gvtdR7U0y+zAQRb9UGaeH41KMOdXm22yhlXnxgQ3vnvqM0+stEHuTfhsJRYOAYUDAJr1Xi3lSy4fJxmt93izI7HXEhLPHXqQiMigK/wL6Xo0VtuFSwWoXuDB5f6X2cX8mxns6vYt3n3Fs0jt05bH0qbtk5eHQ3xIUjopg/41+A9P3FzzHNXkPEJ5NxLzV+kL39x/VWJk/llGZhioVBQk8Gk=;7816wJrs1TuFa62wcDtN7Q=="
+secured: "rGj163jspP/1O3SbGGEX5lcrygPBqe+rkw5rBZAhSWGS5EEkbcNewM27UC4EjSP1gGavdzlqy/Gbjl1CNHfiZpGzsjk9CHJzBdzlToMaJ26Ebmu2wTl8F4DFaaE4F456Y9hH5A6QuL/FP3PkTZhb70YFeGkffS//rjqzFtbop/wth4ekvHnBR5Aw7L2Lw9e2FzwGWgVOxm2S1Y1In0eaPd2ZIzD8X6Cq0AHC72AtDSE7ChI3Fm3yZSlPqnX5yHVta4HfdcvuVkzkYfduTSJUPLLv7c/NOo5mJY/npVzN7zhRzxtGtB9t85UURev34NCUBmrI8s7WQR7O89VblHBvtNFpCFlGyMD4lmEYrQF7V4QnpaQx5cWvbJw7Mogx+Vr9l5rzhsVUjNq6R9xd8yf0QJRQTmF9QcnkIK+1KgZNlvonwT4UtdZO4QroBmZSMhbb6Dp2T2PWM2xbMVeK9HS3NNYLf9118vUgchpGGZ8HCKbp9GiHopTg9pi3OQa7Yo2KSsYPR4LmraeUPpKmp5tQ2g==;kQC/sUI2Aqmq7JRPOtL3rQ=="
 ---
 

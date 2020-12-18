@@ -479,6 +479,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden names cabinet officials tasked to fight climate change"
+    excerpt: "U.S. president-elect Joe Biden named the team he wants to spearhead his response to climate change on Thursday, picking former Environmental Protection Agency (EPA) chief Gina McCarthy to lead a new office focused on global warming."
+    publishedDateTime: 2020-12-18T05:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-climate-idUSKBN28S02N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S02N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S02N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544970785&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH012"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Los Angeles mayor says turned down job in Biden administration"
     excerpt: "Los Angeles Mayor Eric Garcetti said on Thursday that he turned down an offer to work in the administration of President-elect Joe Biden so he can focus on the city as coronavirus cases rise."
     publishedDateTime: 2020-12-18T02:52:00Z
@@ -898,6 +914,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "L.A. mayor says turned down job in Biden administration"
+    excerpt: "Los Angeles Mayor Eric Garcetti said on Thursday that he turned down an offer to work in the administration of President-elect Joe Biden because of the coronavirus pandemic."
+    publishedDateTime: 2020-12-18T06:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-garcetti-idUSL1N2IY04A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IY04A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IY04A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Mike Pence rallies in Georgia for Senate runoff"
+    excerpt: "Vice President Mike Pence is seemingly holding rallies everywhere in Georgia lately — except Atlanta and its inner suburbs. Pence returned Thursday for events in Columbus and Macon to support Republican Sens."
+    publishedDateTime: 2020-12-17T19:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/17/mike-pence-rallies-georgia-senate-runoff/3945003001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2e1d175c-c4ea-45c6-ab01-1e5a997abea4_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Electoral College to formally vote for Joe Biden to become next president"
     excerpt: "As Electoral College members meet in each state to cast their ballots, formally affirming Joe Biden as the next president of the United States, President Trump is vowing to continue fighting the election results."
     publishedDateTime: 2020-12-14T14:54:00Z
@@ -1030,17 +1071,6 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 55
-  - title: "Mike Pence rallies in Georgia for Senate runoff"
-    excerpt: "Vice President Mike Pence is seemingly holding rallies everywhere in Georgia lately — except Atlanta and its inner suburbs."
-    publishedDateTime: 2020-12-17T21:22:00Z
-    webUrl: "https://www.stltoday.com/news/national/mike-pence-rallies-in-georgia-for-senate-runoff/video_e868a47e-236a-50d8-947b-d9364bfa37de.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/mike-pence-rallies-in-georgia-for-senate-runoff/video_e868a47e-236a-50d8-947b-d9364bfa37de.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/mike-pence-rallies-in-georgia-for-senate-runoff/video_e868a47e-236a-50d8-947b-d9364bfa37de.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
     quality: 55
   - title: "Colorado Democratic Electors Cast Nine Votes for Joe Biden"
     excerpt: "Colorado’s nine Democratic presidential electors cast their votes for Joe Biden at the state Capitol on Monday. The vote formally seals Biden’s win in Colorado, where he beat President Donald Trump by about 14 percentage points,"

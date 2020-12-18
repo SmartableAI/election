@@ -512,20 +512,20 @@ related:
         height: 779
         isCached: true
   - title: "Implosion of former Trump casino pushed back a few weeks"
-    excerpt: "The implosion of one of President Donald Trump 's former Atlantic City casinos is being delayed by a few weeks. Atlantic City Mayor Marty Small said Thursday that the demolition company handling the job told the city the former Trump Plaza casino cannot be brought down as scheduled on Jan."
-    publishedDateTime: 2020-12-17T19:17:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/implosion-trump-casino-pushed-back-weeks-74785157"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/implosion-trump-casino-pushed-back-weeks-74785157"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/implosion-trump-casino-pushed-back-weeks-74785157"
+    excerpt: "The implosion of one of President Donald Trump’s former Atlantic City casinos is being delayed by a few weeks. Atlantic City Mayor Marty Small said Thursday that the demolition company handling the job told the city the former Trump Plaza casino cannot be brought down as scheduled on Jan."
+    publishedDateTime: 2020-12-18T00:15:00Z
+    webUrl: "https://www.washingtonpost.com/national/implosion-of-former-trump-casino-pushed-back-a-few-weeks/2020/12/17/29f0e374-409c-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/implosion-of-former-trump-casino-pushed-back-a-few-weeks/2020/12/17/29f0e374-409c-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/implosion-of-former-trump-casino-pushed-back-a-few-weeks/2020/12/17/29f0e374-409c-11eb-b58b-1623f6267960_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/WireAP_a38b7a3134c7404d9ffa340d683dcf3d_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump again threatens to veto defense bill in standoff with Congress"
     excerpt: "The president has threatened to veto the National Defense Authorization Act, which passed Congress with a veto-proof majority."
@@ -745,6 +745,22 @@ related:
       - url: "https://i.insider.com/5fdb2491d366e60018098917?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Irritated by loss, Trump hunkers down at the White House and avoids talk of future"
+    excerpt: "Hunkered down in what one former White House official called the \"presidential man cave\" of the Oval Office, President Donald Trump does not want to talk about what lies ahead once he leaves office next month."
+    publishedDateTime: 2020-12-18T06:35:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28S0JE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S0JE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S0JE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544995912&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH0AQ"
+        width: 817
+        height: 545
         isCached: true
   - title: "New Jersey representative asks Pelosi to 'refuse to seat' any House members who supported Trump's election lawsuits"
     excerpt: "Rep. Bill Pascrell slammed lawmakers who backed lawsuits that sought to \"overturn the election and make Donald Trump an unelected dictator.\""

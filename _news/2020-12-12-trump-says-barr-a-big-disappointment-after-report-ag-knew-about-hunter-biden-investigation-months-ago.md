@@ -95,6 +95,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "LIVE UPDATES: Biden adviser’s brother lobbying for drugmaker under federal probe"
+    excerpt: "The brother of an incoming adviser to President-elect Joe Biden is currently lobbying for a drugmaker that is under federal investigation for allegedly inflating its role in Operation Warp Speed."
+    publishedDateTime: 2020-12-18T05:54:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MCaSp8o7gjw/live-updates-biden-transition-12-18-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-18-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-18-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6148cd10-fca2-4297-9ce3-0975a3ba3d8c/a12ceab4-ce94-43d5-b2d5-c6bad73d0a4f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Top Facebook, Twitter execs donated tens of thousands of dollars to Biden campaign"
     excerpt: "Top executives at Facebook and Twitter donated tens of thousands of dollars to President-elect Joe Biden's campaign, Federal Election Commission records reviewed by Fox News reveal, as the social media platforms come under fire for limiting the circulation of reports surrounding Hunter Biden’s business"
     publishedDateTime: 2020-12-15T14:49:03Z

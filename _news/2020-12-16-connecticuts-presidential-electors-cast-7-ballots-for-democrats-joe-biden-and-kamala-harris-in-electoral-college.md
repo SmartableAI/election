@@ -2191,6 +2191,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "With Trump Silent, Reprisals for Hacks May Fall to Biden"
+    excerpt: "All fingers are pointing to Russia as the source of the worst-ever hack of U.S. government agencies. But President Donald Trump, long wary of blaming Moscow for cyberattacks, has so far been silent. The lack of any statement seeking to hold Russia responsible casts doubt on the likelihood of a swift response and suggests any retaliation — whether through sanctions,"
+    publishedDateTime: 2020-12-18T06:04:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-12-18/with-trump-silent-reprisals-for-hacks-may-fall-to-biden"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-12-18/with-trump-silent-reprisals-for-hacks-may-fall-to-biden?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-12-18/with-trump-silent-reprisals-for-hacks-may-fall-to-biden?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Donald Trump, Mike Pence, Congress, Supreme Court will be offered COVID-19 vaccine in coming days, officials say"
     excerpt: "It was not clear if President-elect Joe Biden, Vice President-elect Kamala Harris and members of his transition team would get early vaccinations."
     publishedDateTime: 2020-12-16T08:25:00Z
