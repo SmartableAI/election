@@ -2,13 +2,13 @@
 category: news
 title: "LIVE UPDATES: Biden adviser’s brother lobbying for drugmaker under federal probe"
 excerpt: "The brother of an incoming adviser to President-elect Joe Biden is currently lobbying for a drugmaker that is under federal investigation for allegedly inflating its role in Operation Warp Speed."
-publishedDateTime: 2020-12-18T05:54:15Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MCaSp8o7gjw/live-updates-biden-transition-12-18-2020"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MCaSp8o7gjw/live-updates-biden-transition-12-18-2020"
+publishedDateTime: 2020-12-18T05:57:00Z
+originalUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-18-2020"
+webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-18-2020"
 ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-18-2020.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-18-2020.amp"
 type: article
-quality: 170
+quality: 130
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -124,6 +125,22 @@ related:
     quality: 169
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Huckabee: Joe Biden 'luckiest man' as media fails to press him on Hunter Biden probe"
+    excerpt: "Mike Huckabee slammed the mainstream media for only lobbing \"softball\" questions at President-elect Joe Biden while Hunter Biden is under federal investigation for overseas business dealings. "
+    publishedDateTime: 2020-12-18T17:01:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-OkC9ldyBDA/biden-joe-hunter-media-business-dealings-colbert-mike-huckabee"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-joe-hunter-media-business-dealings-colbert-mike-huckabee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-media-business-dealings-colbert-mike-huckabee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -316,6 +333,6 @@ related:
         height: 320
         isCached: true
 
-secured: "XIiJYOmMx+y9BJqw0IfPdiqoM83WMxiba2+OFfFem2X0n4lmuXTm1qOyOgYTCLpWpnwqOVS2H7UjO+Ajg3Cam/HPINqz2OHp0QT6EPBES0RfV3lam1JC4kq9Nv18sLmqPOBu2mew4ZJSoizy9FrfVWfrxazCMGbGkLcOrFKGScDdF/l+CQOEB9dzE1oocKVqybp/GM6PoFi7fo2z4eJf8uKqMPqO0AOfL2fy7Siez6KtytiPDsd54W8z7GbTbZqYN7tM03ltgZWeZWl8ZY13aTw+67ldKhRd0FA2cjfCewuoNG0v4Q00tpz1XEiIhF+lAovtEgpTpRm4cmsXn+QWJddfwb1X+utaAVamUiOQFtU=;rsMwzMATpE4Uq5N9lo6H2Q=="
+secured: "4ZWv/log3LahD7e5/7gnF6AT5LleckzJS/x5UHtVN296deLc1hgVzQ10KIb5Ck9sqO0s63D2iRoAznrEpoq2g40gNIaTf51jxL7nG0/egYF3pZTezJvgn2M1eU5g4Hn75jFRuCsdkSi93BBdv9MF5Ev72HHNP8eGbVZ8TIdkrFNVOgxVOlvhb2z3UqlQjbMAoJbNih3fVfUJtzecaw6Zo2idwCGOreBaJUiRZYxMwCEChjlyFkulVkuyYb08FFdt4oNoIrc4bPa20s7hmT2K10Vsdz9jiSektiV6nru1QkylqzV/uDQ1+4xkNaveQwJqZCaDiu2ESI54DjjtNZoV8pkpjY7DrLs9WCalEObi6u0=;CT06ykV19jOUYGBdU6veyQ=="
 ---
 

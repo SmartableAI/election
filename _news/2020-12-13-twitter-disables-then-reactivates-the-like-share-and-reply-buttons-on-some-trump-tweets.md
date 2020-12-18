@@ -48,22 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Dem congressman suggests Pelosi refuse to seat 126 House Republicans backing Trump’s election lawsuit"
-    excerpt: "Rep. Bill Pascrell, D-N.J., sent a letter Friday urging House Speaker Nancy Pelosi, D-Calif., to consider blocking more than 100 Republican lawmakers from taking office because of their support for President Trump's lawsuit challenging the 2020 election results."
-    publishedDateTime: 2020-12-12T01:20:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/othhPpl_3lc/dem-congressman-suggests-pelosi-refuse-to-seat-126-house-republicans-backing-trumps-election-lawsuit"
-    ampWebUrl: "https://www.foxnews.com/politics/dem-congressman-suggests-pelosi-refuse-to-seat-126-house-republicans-backing-trumps-election-lawsuit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-congressman-suggests-pelosi-refuse-to-seat-126-house-republicans-backing-trumps-election-lawsuit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be49e1af-bdeb-4c95-92ae-d90b8af1ee9a/b851ccf8-5175-45cc-89b2-9f6946360c14/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Twitter disables, then reactivates the like, share and reply buttons on some Trump tweets"
     excerpt: "Twitter barred anyone from interacting with some tweets from President Trump on Saturday, disabling the like, reply and retweet features before later reactivating them. "
     publishedDateTime: 2020-12-12T18:25:14Z

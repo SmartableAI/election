@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/cnns-harwood-republicans-smack-mothers
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump.amp"
 type: article
 quality: 127
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,72 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Trump, targeting McConnell and top Republicans, urges them to 'get tougher' in election fight"
+    excerpt: "President Trump is again taking aim at Senate Majority Leader Mitch McConnell after the top Republican and Trump ally earlier this week recognized President-elect Joe Biden's White House victory."
+    publishedDateTime: 2020-12-18T17:40:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXf-_nfXuLg/trump-mcconnell-senate-republicans-get-tougher-election-fight"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Dem congressman suggests Pelosi refuse to seat 126 House Republicans backing Trump’s election lawsuit"
+    excerpt: "Rep. Bill Pascrell, D-N.J., sent a letter Friday urging House Speaker Nancy Pelosi, D-Calif., to consider blocking more than 100 Republican lawmakers from taking office because of their support for President Trump's lawsuit challenging the 2020 election results."
+    publishedDateTime: 2020-12-12T01:20:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/othhPpl_3lc/dem-congressman-suggests-pelosi-refuse-to-seat-126-house-republicans-backing-trumps-election-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-congressman-suggests-pelosi-refuse-to-seat-126-house-republicans-backing-trumps-election-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-congressman-suggests-pelosi-refuse-to-seat-126-house-republicans-backing-trumps-election-lawsuit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be49e1af-bdeb-4c95-92ae-d90b8af1ee9a/b851ccf8-5175-45cc-89b2-9f6946360c14/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rep.-elect Yvette Herrell relates to Trump's voter fraud claims: 'I know exactly what he's going through'"
+    excerpt: "Rep.-elect Yvette Herrell understands the joy of leading on election night and then the sinking feeling of having that advantage slowly erased as mail-in ballots are counted."
+    publishedDateTime: 2020-12-17T20:38:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ro5VXs0johg/rep-elect-yvette-herrell-trump-voter-fraud-claims"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-elect-yvette-herrell-trump-voter-fraud-claims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-elect-yvette-herrell-trump-voter-fraud-claims.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Yvette-Herrell-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "House Republicans urge Trump to veto omnibus spending bill"
+    excerpt: "A group of House Republicans on Wednesday urged President Trump to veto an approximately $1.4 trillion omnibus spending bill being negotiated in Congress, describing it as an example of \"swamp politics\" in Washington D."
+    publishedDateTime: 2020-12-17T10:43:00Z
+    webUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill"
+    ampWebUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "oTD85F+WK6i0w6AYJtYyVCcm57anmNi7BN0c1I3rB2G7x1WpKgKvG3NI1gv31gPhdZgvnIXFicSVa9uDQ80BjyEwqwjiBBW0/tsg09Qxg0unzafxhfjOgPhnkbSsN8IXLYdE3Z/zMyFwffoX72+jRTL35v4832ipv1+kWWPsO93SbTF36fz5s63D+j4invFEkK82YdzvvBJg55tRYhRigTUIedzb6wGU4C4ODVLSPmoDAmO9u5RH1P+Mg/QJH01ry0pBTcHRnfDicImjFy5GNdyBKVhQVO3XEsS8tEzi3pmR2+AaMuuP1sxmR2x0WobPvoyBwlCzru6fJWwohHWOSKZ7LWoJp+PrcCQqStx52FQ=;c86eEWDGhCf6J3mRaZ15Cw=="
 ---

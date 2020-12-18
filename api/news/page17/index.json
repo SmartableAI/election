@@ -2,6 +2,222 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-11-24-us-should-encourage-chinas-rise-biden-national-security-pick-jake-sullivan-says.md",
+      "title": "US should encourage China's rise, Biden national security pick Jake Sullivan says",
+      "excerpt": "Sullivan served as an adviser to Biden during his vice presidency.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VSIeeNJYMJg/biden-national-security-pick-jake-sullivan-us-chinas",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VSIeeNJYMJg/biden-national-security-pick-jake-sullivan-us-chinas",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c99b2eab-fccd-4bca-bd8a-6c50dcb0b717/753df433-c345-48e6-b3a0-496c55d655a5/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-national-security-pick-jake-sullivan-us-chinas.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-pick-jake-sullivan-us-chinas.amp",
+      "publishedDateTime": "2020-11-23T19:06:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-carl-bernstein-says-21-gop-senators-contemptuous-of-trump.md",
+      "title": "Carl Bernstein says 21 GOP senators contemptuous of Trump",
+      "excerpt": "Veteran Watergate sleuth Carl Bernstein took to Twitter to specifically “out” 21 Republican senators who he says have privately expressed contempt for President Donald Trump",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/f4f91ba0-2dfe-11eb-9dd6-2d0179981719_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/f4f91ba0-2dfe-11eb-9dd6-2d0179981719_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/f4f91ba0-2dfe-11eb-9dd6-2d0179981719_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/f4f91ba0-2dfe-11eb-9dd6-2d0179981719_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-23T18:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-trump-is-reportedly-worried-that-his-legal-team-is-made-up-of-fools-that-are-making-him-look-bad.md",
+      "title": "Trump is reportedly worried that his legal team is made up of 'fools that are making him look bad'",
+      "excerpt": "The president did not like seeing Rudy Giuliani's hair dye dripping down the side of the attorney's face at a news conference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-concerned-with-legal-team-giuliani-rudy-election-sidney-powell-2020-11",
+      "originalUrl": "https://www.businessinsider.com/trump-concerned-with-legal-team-giuliani-rudy-election-sidney-powell-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fbc2bcd32f2170011f70c55?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-concerned-with-legal-team-giuliani-rudy-election-sidney-powell-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-concerned-with-legal-team-giuliani-rudy-election-sidney-powell-2020-11?amp",
+      "publishedDateTime": "2020-11-23T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-rep-michael-waltz-biden-cabinet-picks-represent-headlong-push-back-to-obama-era-foreign-policy.md",
+      "title": "Rep. Michael Waltz: Biden Cabinet picks represent 'headlong push' back to Obama-era foreign policy",
+      "excerpt": "President-elect Joe Biden's Cabinet choices indicate he will reprise the Obama administration's \"disastrous\" foreign policy, especially in the Middle East, Rep. Michael Waltz, R-Fla., warned on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x_PMgpZpYAo/rep-michael-waltz-biden-cabinet-picks-obama-foreign-policy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x_PMgpZpYAo/rep-michael-waltz-biden-cabinet-picks-obama-foreign-policy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-michael-waltz-biden-cabinet-picks-obama-foreign-policy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-michael-waltz-biden-cabinet-picks-obama-foreign-policy.amp",
+      "publishedDateTime": "2020-11-23T14:15:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-biden-picks-alejandro-mayorkas-a-son-of-jewish-cuban-refugees-to-lead-the-department-of-homeland-security.md",
       "title": "Biden picks Alejandro Mayorkas, a son of Jewish Cuban refugees, to lead the Department of Homeland Security",
       "excerpt": "Mayorkas was second-in-command at DHS under President Barack Obama. He would be the first immigrant and first Hispanic American to lead the department.",
@@ -663,7 +879,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1141,230 +1357,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-wisconsin-officials-trump-observers-obstructing-recount.md",
-      "title": "Wisconsin officials: Trump observers obstructing recount",
-      "excerpt": "Election officials in Wisconsin said Saturday that Trump poll watchers were “obstructing” the recount and acting in “bad faith” as tabulations continue in Milwaukee and Dane counties.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5-bIrhScJX8/wisconsin-officials-trump-observers-obstructing-recount",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5-bIrhScJX8/wisconsin-officials-trump-observers-obstructing-recount",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ed7bef1-abb4-4144-990f-945e21d96f1b/fe3038f6-9b82-4c44-8dcb-f8f7736bfd04/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/wisconsin-officials-trump-observers-obstructing-recount.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wisconsin-officials-trump-observers-obstructing-recount.amp",
-      "publishedDateTime": "2020-11-21T16:54:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-rep-elect-august-pfluger-of-texas-calls-biden-oil-plans-extremely-alarming.md",
-      "title": "Rep.-elect August Pfluger of Texas calls Biden oil plans 'extremely alarming'",
-      "excerpt": "An Air Force veteran newly elected to represent an oil-rich Texas district said President-elect Joe Biden's proposals on taxes, and the oil and gas industry are \"extremely alarming.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yZm37Y7Z9iw/rep-elect-august-pfluger-air-force-veteran-from-texas-calls-joe-bidens-oil-plans-extremely-alarming",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yZm37Y7Z9iw/rep-elect-august-pfluger-air-force-veteran-from-texas-calls-joe-bidens-oil-plans-extremely-alarming",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/August-Pfluger-FOX.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rep-elect-august-pfluger-air-force-veteran-from-texas-calls-joe-bidens-oil-plans-extremely-alarming.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-elect-august-pfluger-air-force-veteran-from-texas-calls-joe-bidens-oil-plans-extremely-alarming.amp",
-      "publishedDateTime": "2020-11-21T12:02:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.md",
-      "title": "Trump calls into virtual G20 summit, talks COVID-19 with world leaders",
-      "excerpt": "President Trump took part in the first of two virtual meetings with world leaders Saturday as part of a coronavirus-throttled G20 summit — in what could be the last international gathering of his presidency.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hdxC1b1tUtI/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hdxC1b1tUtI/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/G20-GETTY.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.amp",
-      "publishedDateTime": "2020-11-21T11:40:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-mcenany-trumps-path-to-victory-is-supreme-court-exposing-systemic-voter-fraud.md",
-      "title": "McEnany: Trump's path to victory is Supreme Court, exposing 'systemic' voter fraud",
-      "excerpt": "The path to challenging \"systemic voter fraud\" during the 2020 presidential election is through the courts, Trump campaign adviser Kayleigh McEnany said Saturday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v-8F2dqxSNM/mcenany-democrats-seized-on-a-pandemic-to-create-voter-fraud-epidemic",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v-8F2dqxSNM/mcenany-democrats-seized-on-a-pandemic-to-create-voter-fraud-epidemic",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcenany-democrats-seized-on-a-pandemic-to-create-voter-fraud-epidemic.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-democrats-seized-on-a-pandemic-to-create-voter-fraud-epidemic.amp",
-      "publishedDateTime": "2020-11-21T11:32:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

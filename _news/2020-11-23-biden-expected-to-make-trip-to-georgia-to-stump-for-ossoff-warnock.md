@@ -64,22 +64,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Live Updates: Biden heads to Georgia to campaign for Ossoff, Warnock"
-    excerpt: "President-elect Joe Biden will campaign for the Democratic candidates just a day after the Electoral College confirmed his victory. "
-    publishedDateTime: 2020-12-15T05:30:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3Du6DASvtJE/live-updates-georgia-senate-12-15-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-senate-12-15-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-senate-12-15-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf42e365-98fa-4dbb-b788-d0ab7117dc5c/484cffb7-254f-4677-8e0c-a807272dea5b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden debuts 'Flip Georgia Fund' to fundraise for Warnock, Ossoff ahead of key runoff vote"
     excerpt: "“The Georgia Senate runoffs are crucial – it’s why I’ll be traveling there next Tuesday,” Biden wrote on Twitter."
     publishedDateTime: 2020-12-10T22:03:37Z
@@ -95,22 +79,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6add624-18f2-464f-a0ca-315c5ac368e6/7fd6e35d-ab29-42cb-aae6-ddc2c2754fa9/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Linda Sarsour, too radical for Joe Biden, to campaign for Ossoff and Warnock in Georgia Senate race"
-    excerpt: "Former Women’s March leader Linda Sarsour said on Monday she plans to canvass in Georgia on behalf of Democratic Senate candidates Rev. Raphael Warnock and Jon Ossoff for the Jan. 5 runoff election."
-    publishedDateTime: 2020-12-16T02:24:00Z
-    webUrl: "https://www.foxnews.com/politics/linda-sarsour-too-radical-joe-biden-campaign-ossoff-warnock-georgia"
-    ampWebUrl: "https://www.foxnews.com/politics/linda-sarsour-too-radical-joe-biden-campaign-ossoff-warnock-georgia.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/linda-sarsour-too-radical-joe-biden-campaign-ossoff-warnock-georgia.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 121
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Linda-Sarsour-GETTY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "aFhXjwWYFPAdDmJ66aMK7vRUKx+VrhP7TU7bE0TD7oOFH0pnj5XBEbik7WkgxOuRE+ivmgVlSyF3E+HqpRSICLrYgX3HxLHULF16dUkUivVmP0NRZ6ccrQY2gRPDp8DDjeM8yy69eHldrM8dpCoYL5KSVqJhLA+OY9ko85X2UOMZUSCDaNTipG8g4WM2uNokXwtH+LnBusYFUyBFYvJ4Myc73ZUqsOClzofCreZhaBZan/8w86bwBxTMSzE97AaBdJ4CmHN2Uw+np4wIE9rJPFxB9Avc//Cq+mbXG+6fESv2hQrlHAwt/eACWOGu1MVzvetpwkgbO7iRzaWHRcnxauexUXNEN8x0tY4ALh5M8ik=;+nyy803SKnPiwLqpgma1Cg=="

@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-18-kamala-harris-headed-to-georgia-to-hold-runoff-rallies-on-monday.md",
+      "title": "Kamala Harris headed to Georgia to hold runoff rallies on Monday",
+      "excerpt": "Less than a week after President-elect Joe Biden campaigned in Georgia on behalf of the two Democratic candidates in the state’s twin Jan. 5 Senate runoff elections, it was announced that Vice President-elect Kamala Harris will head to the Peach State, as well.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sc363jZfvg4/kamala-harris-georgia-runoff-rallies-monday",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sc363jZfvg4/kamala-harris-georgia-runoff-rallies-monday",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-georgia-runoff-rallies-monday.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-georgia-runoff-rallies-monday.amp",
+      "publishedDateTime": "2020-12-18T09:26:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-kamala-harris-prepares-for-her-historic-vice-presidency-by-studying-joe-bidens-legacy.md",
       "title": "Kamala Harris prepares for her historic vice presidency by studying Joe Biden's legacy",
       "excerpt": "As Kamala Harris prepares for the vice presidency, she is learning from a person who knows more about the job than almost anyone in the world: President-elect Joe Biden.\n    \n",
@@ -271,7 +328,7 @@
       "originalUrl": "https://abcnews.go.com/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3320,
+      "heat": 3360,
       "tags": null,
       "images": [
         {
@@ -1547,58 +1604,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-kamala-harris-facebook-removes-racist-posts-about-us-vice-president-elect.md",
-      "title": "Kamala Harris: Facebook removes racist posts about US vice-president-elect",
-      "excerpt": "Facebook has taken down a string of racist and misogynistic posts, memes and comments about US Vice-President-Elect Kamala Harris. The social network removed the content after BBC News alerted it to three groups that regularly hosted hateful material on their pages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/amp/technology-54941571",
-      "originalUrl": "https://www.bbc.com/news/amp/technology-54941571",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 763,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9EA2/production/_114801604_p08tk9j9.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-54941571",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54941571",
-      "publishedDateTime": "2020-11-16T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     }

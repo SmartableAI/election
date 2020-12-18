@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/chris-christie-us-electi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/chris-christie-us-election-cnntv/index.html"
 type: article
 quality: 202
-heat: 602
+heat: 622
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 191
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215105233-mcconnell-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'Accept defeat': See Trump ally's message after election loss"
+    excerpt: "Former New Jersey Governor Chris Christie talks to CNN's Chris Cuomo about the election and how President Donald Trump and some Republicans have refused to concede.\n    \n"
+    publishedDateTime: 2020-12-18T02:53:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zqB1iwI-vOA/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217102245-chris-christie-cpt-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -2,6 +2,120 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-19-abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions.md",
+      "title": "Abortion, Guns and Trump: A Church Group Tries to Navigate America’s Divisions",
+      "excerpt": "In suburban Michigan, a group of worshipers from Calvary Christian Reformed Church sought understanding through dialogue. Sometimes it was tough going. ‘My soul is hurting,’ one member lamented.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552",
+      "originalUrl": "https://www.wsj.com/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-274212/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552",
+      "publishedDateTime": "2020-12-18T10:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-19-trump-appoints-1776-commission-members-in-last-minute-bid-to-advance-patriotic-education.md",
+      "title": "Trump appoints 1776 Commission members in last-minute bid to advance 'patriotic education'",
+      "excerpt": "The group will be led by the president of the conservative Hillsdale College, Larry Arnn, a longtime Trump ally, the White House said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/18/trump-1776-commission-appointments-448229",
+      "originalUrl": "https://www.politico.com/news/2020/12/18/trump-1776-commission-appointments-448229",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d8/88/8403c9844566924526431b2c7c58/gettyimages-1215228995-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/18/trump-1776-commission-appointments-448229",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/trump-1776-commission-appointments-448229",
+      "publishedDateTime": "2020-12-18T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-atlantic-city-auctions-off-chance-to-push-demolish-button-on-former-trump-casino.md",
       "title": "Atlantic City auctions off chance to push demolish button on former Trump casino",
       "excerpt": "The implosion of one of President Donald Trump's former Atlantic City casinos is being delayed by a few weeks.",
@@ -1226,7 +1340,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-barr/trump-says-attorney-general-barr-resigns-idUSKBN28O329",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -1461,110 +1575,6 @@
       "ampWebUrl": "https://www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/?outputType=amp",
       "publishedDateTime": "2020-12-14T05:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-a-lifelong-republican-stood-up-to-trump-his-reward-death-threats.md",
-      "title": "A lifelong Republican stood up to Trump. His reward: Death threats",
-      "excerpt": "Georgia election official Gabriel Sterling is girding for another battle with conspiracy theories and lies about the integrity of the voting system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/ec7582c/2147483647/strip/true/crop/2510x1412+13+0/resize/768x432!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F09%2F7c%2F1ec055ca4ff69835f12733d1a2fe%2Fsterlingthumb.png",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done?_amp=true",
-      "publishedDateTime": "2020-12-14T04:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-trump-expands-his-cable-diet-to-newsmax-and-oan-they-benefit-and-so-does-he.md",
-      "title": "Trump expands his cable diet to Newsmax and OAN. They benefit and so does he.",
-      "excerpt": "Presidential praise has boosted ratings, and more viewers can then increase pressure on Republicans to back Trump’s false claims of election fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V3ZFN5BLPAI6XHBBHTCQDUEYD4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-13T18:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",

@@ -474,6 +474,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Bidens to Get Vaccine Monday, Harris and Husband Following Week"
+    excerpt: "President-elect Joe Biden and his wife, Jill Biden, will get their first dose of coronavirus vaccine on Monday, a transition official said."
+    publishedDateTime: 2020-12-18T18:47:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-18/president-elect-biden-to-get-coronavirus-vaccine-on-monday"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-18/president-elect-biden-to-get-coronavirus-vaccine-on-monday"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-18/president-elect-biden-to-get-coronavirus-vaccine-on-monday"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 140
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iR4.6TOWKG9I/v1/360x-1.jpg"
+        width: 360
+        height: 239
+        isCached: true
   - title: "Biden to present new defense chief as Trump clings to failed effort to overturn election result – live"
     excerpt: "Trump calls to ‘overturn’ results as legal attempts to reverse Biden’s victory dwindle, while president-elect will nominate Lloyd Austin to lead US defense"
     publishedDateTime: 2020-12-09T18:13:00Z
@@ -1059,6 +1075,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_3443ef10cc74413ab191ad5da5e03899_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden to be vaccinated on Monday"
+    excerpt: "President-elect Joe Biden and future first lady Jill Biden will be vaccinated on Monday, incoming White House press secretary Jen Psaki announced Friday. Mr. Biden has pledged to get his vaccine in front of the media to build public confidence."
+    publishedDateTime: 2020-12-18T18:37:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-to-be-vaccinated-monday/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-to-be-vaccinated-monday/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-to-be-vaccinated-monday/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/16/ea1b9def-eb19-449e-8f70-69d7c84d4e94/thumbnail/1200x630/908c085095406940af467ecbb9046eb5/gettyimages-1291300530.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Time’s Person of the Year is Joe Biden and Kamala Harris, a ticket that ‘represents something historic’"
     excerpt: "Joe Biden is the latest in a long line of presidents to be named Time's Person of the Year -- but Kamala Harris is the first vice-president to also receive the title."

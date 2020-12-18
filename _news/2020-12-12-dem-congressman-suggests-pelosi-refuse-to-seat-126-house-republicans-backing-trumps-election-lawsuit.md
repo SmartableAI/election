@@ -31,53 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's election-fraud claims push Arizona GOP to ask voters if they are 'willing' to die for results"
-    excerpt: "The Arizona Republican Party released a tweet Tuesday asking voters if they were “willing” to give their lives to overturn the results of the 2020 November election -- an attitude adopted after President Trump has repeatedly claimed the election was fraudulent."
-    publishedDateTime: 2020-12-08T22:58:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VFUsulOQgiI/trump-fraud-claims-arizona-gop-voters-willing-to-die-results"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-fraud-claims-arizona-gop-voters-willing-to-die-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fraud-claims-arizona-gop-voters-willing-to-die-results.amp"
+  - title: "Trump, targeting McConnell and top Republicans, urges them to 'get tougher' in election fight"
+    excerpt: "President Trump is again taking aim at Senate Majority Leader Mitch McConnell after the top Republican and Trump ally earlier this week recognized President-elect Joe Biden's White House victory."
+    publishedDateTime: 2020-12-18T17:40:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXf-_nfXuLg/trump-mcconnell-senate-republicans-get-tougher-election-fight"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 179
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f548e96-0e69-4b34-9ffc-9dd478097051/8a04cbe6-53ec-4a37-b8f7-f91a0a51d40b/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Rep.-elect Yvette Herrell relates to Trump's voter fraud claims: 'I know exactly what he's going through'"
+    excerpt: "Rep.-elect Yvette Herrell understands the joy of leading on election night and then the sinking feeling of having that advantage slowly erased as mail-in ballots are counted."
+    publishedDateTime: 2020-12-17T20:38:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ro5VXs0johg/rep-elect-yvette-herrell-trump-voter-fraud-claims"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-elect-yvette-herrell-trump-voter-fraud-claims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-elect-yvette-herrell-trump-voter-fraud-claims.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Yvette-Herrell-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "House Republicans urge Trump to veto omnibus spending bill"
+    excerpt: "A group of House Republicans on Wednesday urged President Trump to veto an approximately $1.4 trillion omnibus spending bill being negotiated in Congress, describing it as an example of \"swamp politics\" in Washington D."
+    publishedDateTime: 2020-12-17T10:43:00Z
+    webUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill"
+    ampWebUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "CNN's Harwood: Republicans would 'smack their moms in the face' to please Donald Trump"
+    excerpt: "CNN White House correspondent John Harwood said Friday that Republican members of Congress would hit their own mothers if President Trump wanted."
+    publishedDateTime: 2020-12-11T20:11:00Z
+    webUrl: "https://www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump"
+    ampWebUrl: "https://www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22c8df7a-eaf0-44ed-a011-63755a0a2217/95f0028d-74bf-4110-98a2-0fcbbc174d75/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Twitter disables, then reactivates the like, share and reply buttons on some Trump tweets"
-    excerpt: "Twitter barred anyone from interacting with some tweets from President Trump on Saturday, disabling the like, reply and retweet features before later reactivating them. "
-    publishedDateTime: 2020-12-12T18:25:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7cZ1sL15UVI/twitter-disables-like-share-reply-button-some-trump-tweets"
-    ampWebUrl: "https://www.foxnews.com/politics/twitter-disables-like-share-reply-button-some-trump-tweets.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-disables-like-share-reply-button-some-trump-tweets.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20233560983367.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Twitter disables, then reactivates the like, share and reply buttons on some Trump tweets"
-    excerpt: "Twitter barred anyone from interacting with some tweets from President Trump on Saturday, disabling the like, reply and retweet features before later reactivating them."
-    publishedDateTime: 2020-12-12T18:38:00Z
-    webUrl: "https://www.foxnews.com/politics/twitter-disables-like-share-reply-button-some-trump-tweets"
-    ampWebUrl: "https://www.foxnews.com/politics/twitter-disables-like-share-reply-button-some-trump-tweets.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-disables-like-share-reply-button-some-trump-tweets.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20233560983367.jpg"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "H1EMHp0nHPPyYAYe62YEv5DDHdTzdz2bPWZ16zRwoIL0TRMG7xLanG7IknPxX3bz+I95TdO/PvxKffnlgpLOVuj6Mzj2heP1Zsymdjahrt1OYlo2gDyJcjdCCg3uL5xyVECGeofVekgFwmXQWxnuAnuu9mz2CxjMcIQAUndPEPTJaZ7tUuJ1v+IRJ/c9ysv+fDHJWi21WwjHlmLin562CMs5z/uOrXYEBQFI27ttFDGjwrHvWLCUo63n/9Xkm+vxqYE3W9VQqpG348uEins7Wrunt0LpMCH7N5Yb0xYOwXVNhJZ4ixgOpMcv+O5l5tv4ApelGsswsOR2uHSzdqwpfVulrkSmYKgLeizpLgrHdjI=;IdfdMycvQbgYBQzqlJQmCA=="

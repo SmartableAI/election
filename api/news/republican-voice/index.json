@@ -2,6 +2,176 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-19-abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions.md",
+      "title": "Abortion, Guns and Trump: A Church Group Tries to Navigate America’s Divisions",
+      "excerpt": "In suburban Michigan, a group of worshipers from Calvary Christian Reformed Church sought understanding through dialogue. Sometimes it was tough going. ‘My soul is hurting,’ one member lamented.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552",
+      "originalUrl": "https://www.wsj.com/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-274212/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552",
+      "publishedDateTime": "2020-12-18T10:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-trump-targeting-mcconnell-and-top-republicans-urges-them-to-get-tougher-in-election-fight.md",
+      "title": "Trump, targeting McConnell and top Republicans, urges them to 'get tougher' in election fight",
+      "excerpt": "President Trump is again taking aim at Senate Majority Leader Mitch McConnell after the top Republican and Trump ally earlier this week recognized President-elect Joe Biden's White House victory.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXf-_nfXuLg/trump-mcconnell-senate-republicans-get-tougher-election-fight",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXf-_nfXuLg/trump-mcconnell-senate-republicans-get-tougher-election-fight",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp",
+      "publishedDateTime": "2020-12-18T09:40:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-kamala-harris-headed-to-georgia-to-hold-runoff-rallies-on-monday.md",
+      "title": "Kamala Harris headed to Georgia to hold runoff rallies on Monday",
+      "excerpt": "Less than a week after President-elect Joe Biden campaigned in Georgia on behalf of the two Democratic candidates in the state’s twin Jan. 5 Senate runoff elections, it was announced that Vice President-elect Kamala Harris will head to the Peach State, as well.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sc363jZfvg4/kamala-harris-georgia-runoff-rallies-monday",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sc363jZfvg4/kamala-harris-georgia-runoff-rallies-monday",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-georgia-runoff-rallies-monday.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-georgia-runoff-rallies-monday.amp",
+      "publishedDateTime": "2020-12-18T09:26:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-atlantic-city-auctions-off-chance-to-push-demolish-button-on-former-trump-casino.md",
       "title": "Atlantic City auctions off chance to push demolish button on former Trump casino",
       "excerpt": "The implosion of one of President Donald Trump's former Atlantic City casinos is being delayed by a few weeks.",
@@ -340,62 +510,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-17-rep-elect-yvette-herrell-relates-to-trumps-voter-fraud-claims-i-know-exactly-what-hes-going-through.md",
-      "title": "Rep.-elect Yvette Herrell relates to Trump's voter fraud claims: 'I know exactly what he's going through'",
-      "excerpt": "Rep.-elect Yvette Herrell understands the joy of leading on election night and then the sinking feeling of having that advantage slowly erased as mail-in ballots are counted.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ro5VXs0johg/rep-elect-yvette-herrell-trump-voter-fraud-claims",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ro5VXs0johg/rep-elect-yvette-herrell-trump-voter-fraud-claims",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Yvette-Herrell-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rep-elect-yvette-herrell-trump-voter-fraud-claims.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-elect-yvette-herrell-trump-voter-fraud-claims.amp",
-      "publishedDateTime": "2020-12-17T12:38:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-17-biden-picks-deb-haaland-for-interior-aoc-praises-the-progressive-move.md",
       "title": "Biden picks Deb Haaland for Interior, AOC praises the 'progressive' move",
       "excerpt": "President-elect Joe Biden has picked New Mexico Democrat Rep. Deb Haaland as secretary of Interior, sources confirmed for Fox News Thursday, making her the first Native American to fill the position that oversees U.S. natural resources and tribal lands.",
@@ -577,7 +691,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 546,
+      "heat": 566,
       "tags": null,
       "images": [
         {
@@ -1252,7 +1366,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1710,
+      "heat": 1730,
       "tags": null,
       "images": [
         {
@@ -1550,118 +1664,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-email-tax-returns-unreported-burisma-income.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-email-tax-returns-unreported-burisma-income.amp",
       "publishedDateTime": "2020-12-14T07:54:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-intel-officials-who-called-hunter-biden-story-russian-disinformation-should-face-consequences-domenech.md",
-      "title": "Intel officials who called Hunter Biden story Russian disinformation should face consequences: Domenech",
-      "excerpt": "There should be consequences for former intelligence officials who called the Hunter Biden story Russian disinformation, Federalist publisher Ben Domenech said on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DnyNc2k6j6c/consequences-officials-hunter-biden-story-russian-disinformation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DnyNc2k6j6c/consequences-officials-hunter-biden-story-russian-disinformation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/consequences-officials-hunter-biden-story-russian-disinformation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/consequences-officials-hunter-biden-story-russian-disinformation.amp",
-      "publishedDateTime": "2020-12-14T06:44:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe.md",
-      "title": "Former WH communications director Alyssa Farah says GA Senate runoffs will play role in Hunter Biden probe",
-      "excerpt": "Former White House communications cirector Alyssa Farah asserted Sunday that the result of January's Georgia Senate runoff races would play a role in the future of a probe into Hunter Biden's business dealings. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O6yJSDrO1Uw/former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O6yJSDrO1Uw/former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20325631724231-e1607011068759.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe.amp",
-      "publishedDateTime": "2020-12-13T13:32:54-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

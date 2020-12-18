@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55362697"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55362697"
 type: article
 quality: 125
-heat: 345
+heat: 385
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Pence and wife Karen get COVID-19 vaccine injections"
+    excerpt: "Vice President Mike Pence gets the coronavirus vaccine during a White House event aimed at convincing skeptical Americans that the vaccines are safe."
+    publishedDateTime: 2020-12-18T17:24:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/59d266d/2147483647/strip/true/crop/1512x988+0+514/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbc%2F24%2Fc71925d1213c61e942569e5e6a7f%2Fb857790e7da64295bcaa07401c1d033b"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Mike And Karen Pence Will Get The COVID Vaccine Before Cameras This Friday"
     excerpt: "Vice President Mike Pence is set to get the COVID-19 vaccine at the White House on Friday, officials announced Wednesday, making him the highest-ranking person in government to receive a dosage. Pence and second lady Karen Pence are expected to get the vaccine in public before media \"to promote the safety and efficacy of the vaccine and build confidence among the American people,"
     publishedDateTime: 2020-12-17T02:49:00Z
@@ -127,6 +143,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Vice President Mike Pence, wife Karen get COVID-19 vaccine injections"
+    excerpt: "Vice President Mike Pence was vaccinated for COVID-19 on Friday in a live-television event aimed at reassuring Americans the vaccine is safe."
+    publishedDateTime: 2020-12-18T12:27:00Z
+    webUrl: "https://www.denverpost.com/2020/12/18/pence-wife-covid-19-vaccine/"
+    ampWebUrl: "https://www.denverpost.com/2020/12/18/pence-wife-covid-19-vaccine/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/12/18/pence-wife-covid-19-vaccine/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/12/Virus_Outbreak_Trump_53723.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Mike Pence doesn't faint, proving COVID-19 vaccine both safe and effective"
     excerpt: "Vice President Mike Pence took to live television to take the coronavirus vaccine in his arm — and that’s some darn good leadership right there, indeed. Moreover, he didn’t faint. Even better leadership."
     publishedDateTime: 2020-12-18T16:30:00Z
@@ -174,18 +206,18 @@ related:
         height: 630
         isCached: true
   - title: "Vice President Mike Pence Receives COVID-19 Vaccine During Live Broadcast"
-    excerpt: "Vice President Mike Pence receives Pfizer's COVID-19 vaccine at the White House on Friday, December 18, 2020, in a bid to build public confidence in its safety and efficacy. President Donald Trump will not receive the vaccine unless the White House medical team recommends it."
+    excerpt: "Vice President Mike Pence and second lady Karen Pence, seen here in a TV screen grab, received Pfizer's COVID-19 vaccine at the White House on Friday, December 18, 2020, in a bid to build public confidence in its safety and efficacy."
     publishedDateTime: 2020-12-18T14:07:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/0686da6e424670f6cbe1009d02c673f8/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/113d02f4017067be7d3e6860dd3c87a1/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 54
     images:
-      - url: "https://cdnph.upi.com/pv/upi/0686da6e424670f6cbe1009d02c673f8/PENCE-CORONAVIRUS-VACCINE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/113d02f4017067be7d3e6860dd3c87a1/PENCE-CORONAVIRUS-VACCINE.jpg"
         width: 650
-        height: 432
+        height: 433
         isCached: true
   - title: "Pence plans visit to state to discuss virus vaccines"
     excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss novel coronavirus vaccines as federal officials are expected to"
@@ -197,6 +229,6 @@ related:
       domain: journalgazette.net
     quality: 35
 
-secured: "LI23zSpUzX2vYGOGze9f4XY2GReivIhaVFh0+XhYvV0h6CIfEXLfMHmx6TLMcKfcHQRZLcEW9ch3FKtl53sP5hNSrEJ3U792zh8X9gsaVmvSA8Freo9FLVB8QhxZDxLW4NFRyyAKVc/d8nRgk7nz39n+ZEuG+x/67KT2lZtQbeE9mMl9ojLSXyjAQB4Pe1uwDEE1ZNM1FbnA+G9MuAhOpCRmNO4eW/1nIHz/Qe2rP6R/aaE3QmOMuokRHTZ1HgB2kSLKP2Y0j2uAozltVyHuERKTwh+jEeguchhfY5FMkN4W5EBmufEPW2nzMFpJSIuZEtt0th7bqBwbS/kAsLiKBg7/8kSaORtbBSwnAWScoqE=;3sQUay/JSe7s5slMywq7gQ=="
+secured: "UoQfql3Pq+j7To9aRxLAlJyyBqTMGeRxQ93ipPzBLjbHTZ1Y0GSQhHrLHHbrS5jAJzhGy3aPXoTF+s9gj9bVrDjPdAxouwn62drgfwDhPubVR2I+1JRaf1h3Zkf5QeeSuT0bkQaDelDAhUgfTq3m6VwYN1AyXdbpG1QGJDGafPsmsiuehGpRkHTi0BeYsh2kFAiRcC4+k+TBvQDRIODiQPyL6FRr4O4VTkzcLjTH1NmaBvrzpz+pEXrK75uXjy4dIhU/VDwByLKgg2jjjNt+ja9fkC2K0tlQiVuWXM9rj3cjSmsuT1tytCBlIXPGuH/Cjko8HAP4QzjpGHPz25WE81CYykd/xs7IFbuARkuVuLQlsAseBCVTPJ7HzukGrcBnE1QcsxxtUwRUOTg/kTbeExL7A+1fu1nwPDGIuD7pASdJq+64bL9B2IJp4/KtTilu1iiX8h8nqDZzvYglNJPC5Y3G1RXHcZAqRRgU4oHXGufga0Fg5ARFnkHSwytPQ+5oZ01zpkw+1EicYXfJdeULlw==;tfJTSccGDn6jeU1mqjStdg=="
 ---
 

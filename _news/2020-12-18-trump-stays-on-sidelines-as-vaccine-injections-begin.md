@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-18T05:38:00Z
 originalUrl: "https://www.washingtonpost.com/politics/trump-stays-on-sidelines-as-vaccine-injections-begin/2020/12/18/3b26b7b6-40f3-11eb-b58b-1623f6267960_story.html"
 webUrl: "https://www.washingtonpost.com/politics/trump-stays-on-sidelines-as-vaccine-injections-begin/2020/12/18/3b26b7b6-40f3-11eb-b58b-1623f6267960_story.html"
 type: article
-quality: 105
+quality: 115
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Mike Pence
 
 images:
   - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
@@ -872,6 +873,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Black family in Texas says cars set on fire, house vandalized with 'Trump 20' over BLM sign"
+    excerpt: "Jayla Gipson and Charles Crawford said the incident was brought on by a Black Lives Matter sign they put in their yard around Thanksgiving."
+    publishedDateTime: 2020-12-18T18:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/12/18/black-texas-family-says-cars-set-fire-over-blm-sign/3956433001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3956433001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3956433001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/ef4e297a-1c31-4810-91de-6c9105534f82-GettyImages-1182076012.jpg?auto=webp&crop=2120,1193,x0,y107&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Supreme Court will hear Trump administration defend controversial Medicaid work requirements"
     excerpt: "Forcing low-income people to work or prepare for employment in exchange for health coverage is an experiment that's been tried in only three states."
     publishedDateTime: 2020-12-04T20:30:00Z
@@ -1022,6 +1039,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "U.S. lawmakers say Trump administration giving few details on hack"
+    excerpt: "The Trump administration offered lawmakers few details about the recent hacking campaign against the U.S. Government, several members of Congress said on Friday following a classified briefing on the intrusion and calling for an in-person meeting."
+    publishedDateTime: 2020-12-18T18:55:00Z
+    webUrl: "https://www.businessinsider.com/us-lawmakers-say-trump-administration-giving-few-details-on-hack-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/us-lawmakers-say-trump-administration-giving-few-details-on-hack-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-lawmakers-say-trump-administration-giving-few-details-on-hack-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Spotted owls could go extinct without more federal protection. But they’re not going to get it, Trump officials say."
     excerpt: "The northern spotted owl has lost 70 percent of its habitat to development and timber harvesting and could go extinct without added federal protection, the Trump administration announced Monday. But the owls won’t get it."
     publishedDateTime: 2020-12-15T06:18:00Z
@@ -1067,6 +1095,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/thesouthern.com/content/tncms/assets/v3/editorial/d/22/d22b5bb6-ed77-52d8-b0f8-d0f087c90068/5fd7e3f8a2f77.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Supreme Court won’t decide yet if Trump can exclude undocumented immigrants when allocating congressional seats"
+    excerpt: "The justices said in an unsigned opinion they are not deciding the merits in a case “riddled with contingencies and speculation.”"
+    publishedDateTime: 2020-12-18T18:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-census-undocumented-immigrants/2020/12/18/45223a82-413f-11eb-9453-fc36ba051781_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 85
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost%252Es3%252Eamazonaws%252Ecom%2Fpublic%2FJ4TLXLSBJQI6XDNYHFO63KVAGY%252Ejpg&w=1440"
+        width: 1440
+        height: 917
         isCached: true
   - title: "Senate Falls Short of Halting Trump's $23B Arms Sales to UAE"
     excerpt: "The Senate has fallen short of disapproving the Trump administration’s proposed $23 billion arms sales to the United Arab Emirates."

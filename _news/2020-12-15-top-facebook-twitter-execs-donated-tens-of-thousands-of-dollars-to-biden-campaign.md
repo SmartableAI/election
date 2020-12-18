@@ -111,21 +111,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Biden adviser’s brother lobbying for drugmaker under federal probe"
-    excerpt: "The brother of an incoming adviser to President-elect Joe Biden is currently lobbying for a drugmaker that is under federal investigation for allegedly inflating its role in Operation Warp Speed."
-    publishedDateTime: 2020-12-18T05:54:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MCaSp8o7gjw/live-updates-biden-transition-12-18-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-18-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-18-2020.amp"
+  - title: "Huckabee: Joe Biden 'luckiest man' as media fails to press him on Hunter Biden probe"
+    excerpt: "Mike Huckabee slammed the mainstream media for only lobbing \"softball\" questions at President-elect Joe Biden while Hunter Biden is under federal investigation for overseas business dealings. "
+    publishedDateTime: 2020-12-18T17:01:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-OkC9ldyBDA/biden-joe-hunter-media-business-dealings-colbert-mike-huckabee"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-joe-hunter-media-business-dealings-colbert-mike-huckabee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-media-business-dealings-colbert-mike-huckabee.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6148cd10-fca2-4297-9ce3-0975a3ba3d8c/a12ceab4-ce94-43d5-b2d5-c6bad73d0a4f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Joe Biden claims ‘foul play’ in Hunter tax investigation but says he’s ‘not concerned’"
     excerpt: "The president-elect said he will be able to look past personal attacks on his son while in office."
@@ -298,6 +298,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20351620248369.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "LIVE UPDATES: Biden adviser’s brother lobbying for drugmaker under federal probe"
+    excerpt: "The brother of an incoming adviser to President-elect Joe Biden is currently lobbying for a drugmaker that is under federal investigation for allegedly inflating its role in Operation Warp Speed."
+    publishedDateTime: 2020-12-18T05:57:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-18-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-18-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-18-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6148cd10-fca2-4297-9ce3-0975a3ba3d8c/a12ceab4-ce94-43d5-b2d5-c6bad73d0a4f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Hunter Biden 'tax affairs' under federal probe; links to China funds emerge, sources say"
     excerpt: "Hunter Biden confirms grand jury investigation; links to China funds emerge, sources tell Fox News President-elect Joe Biden’s son Hunter Biden confirmed Wednesday that his \"tax affairs\" are under investigation by the U."

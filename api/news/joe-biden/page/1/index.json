@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-18-biden-transition-live-updates-congress-scrambles-to-reach-stimulus-deal-as-deadline-nears.md",
-      "title": "Biden Transition Live Updates: Congress Scrambles to Reach Stimulus Deal as Deadline Nears",
-      "excerpt": "Lawmakers are hammering out details of a $900 billion pandemic relief package and an overall spending bill to avoid a government shutdown at midnight. President-elect Joe Biden said accusations against his son were “kind of foul play.",
+      "path": "_news/2020-12-19-biden-transition-head-speaks-out-on-difficult-and-intense-process.md",
+      "title": "Biden transition head speaks out on 'difficult and intense' process",
+      "excerpt": "Biden’s longtime chief of staff and a former senator, says that leading Biden’s transition team “has been the most difficult and intense workload that I've ever experienced.” \"I thought we [saw] the most difficult transition because of the Great Recession,",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2020/12/18/us/joe-biden-trump",
-      "originalUrl": "https://www.nytimes.com/live/2020/12/18/us/joe-biden-trump",
+      "webUrl": "https://www.politico.com/news/2020/12/18/biden-transition-head-speaks-out-448145",
+      "originalUrl": "https://www.politico.com/news/2020/12/18/biden-transition-head-speaks-out-448145",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2020/12/18/us/politics/18transition-brief-cyber/18transition-brief-cyber-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
+          "url": "https://static.politico.com/93/34/c676a33a48e5800ae13b0b6b79e3/ted-kaufman-773-ap.jpg",
+          "width": 1160,
+          "height": 773,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,16 +28,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2020/12/18/us/joe-biden-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/18/us/joe-biden-trump.amp.html",
-      "publishedDateTime": "2020-12-18T05:30:00-08:00",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/18/biden-transition-head-speaks-out-448145",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/biden-transition-head-speaks-out-448145",
+      "publishedDateTime": "2020-12-18T09:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
+        "name": "Politico",
+        "domain": "politico.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -56,6 +56,58 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-19-he-called-me-kiddo-jill-biden-says-wsj-essay-was-such-a-surprise.md",
+      "title": "‘He called me kiddo’: Jill Biden says WSJ essay was ‘such a surprise’",
+      "excerpt": "\"One of the things I'm most proud of is my doctorate,\" incoming First Lady Jill Biden told Stephen Colbert while responding to the WSJ's controversial op-ed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-18/jill-biden-wsj-op-ed-doctor-joe-biden",
+      "originalUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-18/jill-biden-wsj-op-ed-doctor-joe-biden",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/2f18bf9/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe7%2F07%2F8d98f6f24cbc8fba98db590cda4a%2Fthumbnail%2Fpol-dnc-night-2-jill-biden-20200818-jl.0000005.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-18/jill-biden-wsj-op-ed-doctor-joe-biden?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-12-18/jill-biden-wsj-op-ed-doctor-joe-biden?_amp=true",
+      "publishedDateTime": "2020-12-18T09:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1567,58 +1619,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-biden-has-reportedly-chosen-capitol-hill-staffer-katherine-tai-as-his-us-trade-representative.md",
-      "title": "Biden has reportedly chosen Capitol Hill staffer Katherine Tai as his US trade representative",
-      "excerpt": "If she is picked, the House Ways and Means chief trade lawyer would be the first woman of color to hold the position.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12",
-      "originalUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fb2e9ad1c741f0019aca1d1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp",
-      "publishedDateTime": "2020-12-10T04:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Mike Pence and wife Karen get COVID-19 vaccine injections"
+    excerpt: "Vice President Mike Pence gets the coronavirus vaccine during a White House event aimed at convincing skeptical Americans that the vaccines are safe."
+    publishedDateTime: 2020-12-18T17:24:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/59d266d/2147483647/strip/true/crop/1512x988+0+514/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbc%2F24%2Fc71925d1213c61e942569e5e6a7f%2Fb857790e7da64295bcaa07401c1d033b"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Vice President Mike Pence to receive COVID-19 vaccine at White House Friday"
     excerpt: "Vice President Mike Pence and his wife will be vaccinated for COVID-19 at the White House to build public confidence in the vaccine."
     publishedDateTime: 2020-12-18T11:31:00Z
@@ -127,6 +143,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Vice President Mike Pence, wife Karen get COVID-19 vaccine injections"
+    excerpt: "Vice President Mike Pence was vaccinated for COVID-19 on Friday in a live-television event aimed at reassuring Americans the vaccine is safe."
+    publishedDateTime: 2020-12-18T12:27:00Z
+    webUrl: "https://www.denverpost.com/2020/12/18/pence-wife-covid-19-vaccine/"
+    ampWebUrl: "https://www.denverpost.com/2020/12/18/pence-wife-covid-19-vaccine/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/12/18/pence-wife-covid-19-vaccine/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/12/Virus_Outbreak_Trump_53723.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Mike Pence doesn't faint, proving COVID-19 vaccine both safe and effective"
     excerpt: "Vice President Mike Pence took to live television to take the coronavirus vaccine in his arm — and that’s some darn good leadership right there, indeed. Moreover, he didn’t faint. Even better leadership."
     publishedDateTime: 2020-12-18T16:30:00Z
@@ -174,18 +206,18 @@ related:
         height: 630
         isCached: true
   - title: "Vice President Mike Pence Receives COVID-19 Vaccine During Live Broadcast"
-    excerpt: "Vice President Mike Pence receives Pfizer's COVID-19 vaccine at the White House on Friday, December 18, 2020, in a bid to build public confidence in its safety and efficacy. President Donald Trump will not receive the vaccine unless the White House medical team recommends it."
+    excerpt: "Vice President Mike Pence and second lady Karen Pence, seen here in a TV screen grab, received Pfizer's COVID-19 vaccine at the White House on Friday, December 18, 2020, in a bid to build public confidence in its safety and efficacy."
     publishedDateTime: 2020-12-18T14:07:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/0686da6e424670f6cbe1009d02c673f8/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/113d02f4017067be7d3e6860dd3c87a1/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 54
     images:
-      - url: "https://cdnph.upi.com/pv/upi/0686da6e424670f6cbe1009d02c673f8/PENCE-CORONAVIRUS-VACCINE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/113d02f4017067be7d3e6860dd3c87a1/PENCE-CORONAVIRUS-VACCINE.jpg"
         width: 650
-        height: 432
+        height: 433
         isCached: true
   - title: "Pence plans visit to state to discuss virus vaccines"
     excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss novel coronavirus vaccines as federal officials are expected to"

@@ -892,6 +892,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden announces additions to White House communications team, includes multiple ex-campaign staffers"
+    excerpt: "A number of communications officials from President-elect Joe Biden’s 2020 presidential campaign are joining the White House in what the Biden-Harris transition called a demonstration of their “commitment to build an administration that looks like America and is ready to deliver results for working families"
+    publishedDateTime: 2020-12-18T18:57:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vArQXBayaWA/biden-white-house-communications-team-former-campaign-staffers"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-communications-team-former-campaign-staffers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-communications-team-former-campaign-staffers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Hunter Biden’s foreign transactions repeatedly flagged as potential criminal activity, Senate probe found"
     excerpt: "A Republican-led Senate investigation noted “potential criminal activity” among his transactions."
     publishedDateTime: 2020-12-10T02:24:31Z

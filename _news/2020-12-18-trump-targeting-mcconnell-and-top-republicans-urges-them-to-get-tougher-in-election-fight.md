@@ -1,0 +1,101 @@
+---
+category: news
+title: "Trump, targeting McConnell and top Republicans, urges them to 'get tougher' in election fight"
+excerpt: "President Trump is again taking aim at Senate Majority Leader Mitch McConnell after the top Republican and Trump ally earlier this week recognized President-elect Joe Biden's White House victory."
+publishedDateTime: 2020-12-18T17:40:05Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXf-_nfXuLg/trump-mcconnell-senate-republicans-get-tougher-election-fight"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXf-_nfXuLg/trump-mcconnell-senate-republicans-get-tougher-election-fight"
+ampWebUrl: "https://www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp"
+type: article
+quality: 179
+heat: 259
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
+    isCached: true
+
+related:
+  - title: "Dem congressman suggests Pelosi refuse to seat 126 House Republicans backing Trump’s election lawsuit"
+    excerpt: "Rep. Bill Pascrell, D-N.J., sent a letter Friday urging House Speaker Nancy Pelosi, D-Calif., to consider blocking more than 100 Republican lawmakers from taking office because of their support for President Trump's lawsuit challenging the 2020 election results."
+    publishedDateTime: 2020-12-12T01:20:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/othhPpl_3lc/dem-congressman-suggests-pelosi-refuse-to-seat-126-house-republicans-backing-trumps-election-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-congressman-suggests-pelosi-refuse-to-seat-126-house-republicans-backing-trumps-election-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-congressman-suggests-pelosi-refuse-to-seat-126-house-republicans-backing-trumps-election-lawsuit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be49e1af-bdeb-4c95-92ae-d90b8af1ee9a/b851ccf8-5175-45cc-89b2-9f6946360c14/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rep.-elect Yvette Herrell relates to Trump's voter fraud claims: 'I know exactly what he's going through'"
+    excerpt: "Rep.-elect Yvette Herrell understands the joy of leading on election night and then the sinking feeling of having that advantage slowly erased as mail-in ballots are counted."
+    publishedDateTime: 2020-12-17T20:38:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ro5VXs0johg/rep-elect-yvette-herrell-trump-voter-fraud-claims"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-elect-yvette-herrell-trump-voter-fraud-claims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-elect-yvette-herrell-trump-voter-fraud-claims.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Yvette-Herrell-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "House Republicans urge Trump to veto omnibus spending bill"
+    excerpt: "A group of House Republicans on Wednesday urged President Trump to veto an approximately $1.4 trillion omnibus spending bill being negotiated in Congress, describing it as an example of \"swamp politics\" in Washington D."
+    publishedDateTime: 2020-12-17T10:43:00Z
+    webUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill"
+    ampWebUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "CNN's Harwood: Republicans would 'smack their moms in the face' to please Donald Trump"
+    excerpt: "CNN White House correspondent John Harwood said Friday that Republican members of Congress would hit their own mothers if President Trump wanted."
+    publishedDateTime: 2020-12-11T20:11:00Z
+    webUrl: "https://www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump"
+    ampWebUrl: "https://www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22c8df7a-eaf0-44ed-a011-63755a0a2217/95f0028d-74bf-4110-98a2-0fcbbc174d75/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "bqAIQ69vkJL5HstN9RpKW+6wTtegpknhq7GbObB2hEOzJezazDwSCcdu/EejmmOc2C3EhNOoc2rTj/iOAuKQN/sOATUb0ssMHrzJfajxyqOGycotYlsXUn4cpeAv2EgsYj2ZJCp2QVlNRUe1PhcCwR7LCj2b71+D3GEXIGWLV7Zcg5nHZjbdcIqhNEbwhk9npA/GxyRdOBkPpjzVAK0GPBHYiBeR3+6Kq5RExXbmpBWP6Xp19z8Bmm6Hq8lc6Ggw1XnIOb5J+l/jXpBtkDAj9AtB4RyOw3iAuPbYUe2a9T1S7h5dZ2FBlj/j8FsdVeKb6s7LXlKU5N9yKRHMxaw21Gq3zeIsDoLxg6pAhBNnWIo=;lYhdSRoJ0Ude7esl8+K62g=="
+---
+
