@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O329"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O329"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/a1c8e57a076a7d3d3646b9555dbad5efda037fec/0_10_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=34a518665ddd9a135335792c884b19f7"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump Won't Pardon His Family Because They May Testify Against Him, Says Ex-lawyer"
+    excerpt: "Michael Cohen told Vanity Fair that Trump \"cares for no one or for anything except for himself...that includes his own children.\""
+    publishedDateTime: 2020-12-18T16:28:00Z
+    webUrl: "https://www.newsweek.com/trump-wont-pardon-his-family-because-they-may-testify-against-him-says-ex-lawyer-1555953"
+    ampWebUrl: "https://www.newsweek.com/trump-wont-pardon-his-family-because-they-may-testify-against-him-says-ex-lawyer-1555953?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-wont-pardon-his-family-because-they-may-testify-against-him-says-ex-lawyer-1555953?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1688664/michael-cohen.jpg"
+        width: 2500
+        height: 1666
         isCached: true
   - title: "Attorney General William Barr resigns after clashes with Trump, still defends president"
     excerpt: "William Barr, who served as President Donald Trump's most effective shield and advocate for broad presidential authority, will leave before Christmas."

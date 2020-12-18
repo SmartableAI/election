@@ -155,6 +155,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Fines Dismissed Over President Trump's Northern Nevada Rally"
+    excerpt: "The Nevada agency that oversees businesses to ensure they comply with the state’s coronavirus directives has dismissed fines it imposed after President Donald Trump held a September political rally at the Minden-Tahoe Airport."
+    publishedDateTime: 2020-12-18T16:32:00Z
+    webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2020-12-18/fines-dismissed-over-president-trumps-northern-nevada-rally"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "o2A1J9vnsaAGoGRiT9snlnkO6Calr+dUqCq2W+g3fQwXN7AqtUwiWlqZmPcuI/Fxl55tPBlVhO9xXbS5tCzhdoGQZA98smHMJ9nl3i2AS+tDS/xyOHvBGAnMFtt64B5FH/46amEAuO21brX4IHTshW3bvZAS+ElLeU7cccuvtqZCg35OG82b28p0uzLBbzQBrsZAhwM/FiGGd8jrbLBIgsNLl55hAtv2zx1MC3ZzZ+GZUDkWAH0QWCBc+ABwsbcWb4xcRXJFHZnMMiRLPbU94XMt/rdf64mtZqa2AWX9ik4suJc8CpLrdeQkeYFAETbj+Un1lbAurtSlf1zNK1YWbd55MK2O5Z19yWW7///hdLU=;CtTtFKmUsP2fAk3UCm3umw=="
 ---

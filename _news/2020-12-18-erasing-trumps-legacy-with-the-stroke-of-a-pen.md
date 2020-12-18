@@ -553,6 +553,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "U.S. Supreme Court rules for Trump over census immigrant plan"
+    excerpt: "The U.S. Supreme Court on Friday threw out a lawsuit seeking to block President Donald Trump's plan to exclude immigrants living in the United States illegally from the population count used to allocate congressional districts to states."
+    publishedDateTime: 2020-12-18T15:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-census-idUSKBN28S240"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S240"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S240"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545054996&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH179"
+        width: 855
+        height: 545
+        isCached: true
   - title: "U.S. finalizes shower head rule after Trump complaints about hair rinsing"
     excerpt: "The U.S. Energy Department on Tuesday finalized two rules easing energy standards on consumer fixtures and appliances, including one on shower heads after President Donald Trump complained some showers don't adequately rinse his hair."
     publishedDateTime: 2020-12-16T02:52:00Z
@@ -584,6 +600,22 @@ related:
       - url: "https://i.insider.com/5fda9ea1c910a400192e7f63?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump rushes to dole out plum appointments to allies on way out the door"
+    excerpt: "While President Donald Trump has refused to acknowledge that he lost the election, he’s handling the lame-duck period as his predecessors did in one respect: awarding plum appointments to key allies,"
+    publishedDateTime: 2020-12-18T16:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-rushes-dole-plum-appointments-allies-door/story?id=74739837"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-rushes-dole-plum-appointments-allies-door/story?id=74739837"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-rushes-dole-plum-appointments-allies-door/story?id=74739837"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/white-house-appointments-05-gty-llr-201215_1608077457132_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Donald Trump Jr.'s Hunting Trip Expected to Start As Rumors Swirl in Alaska"
     excerpt: "In February, a week-long $150,000 \"dream hunt\" was raffled off with the winner joining Trump Jr. and his son on a yacht traveling along the Tongass National Forest coastline in southeastern Alaska."
@@ -868,6 +900,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump's former national security advisor says the president should impose martial law to force new elections in battleground states"
+    excerpt: "Flynn's remarks are not based in reality because Trump does not have the power to change the date of an election and the results have been certified."
+    publishedDateTime: 2020-12-18T15:24:00Z
+    webUrl: "https://www.businessinsider.com/michael-flynn-trump-military-martial-law-overturn-election-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/michael-flynn-trump-military-martial-law-overturn-election-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-flynn-trump-military-martial-law-overturn-election-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5a2506e67101ad5c7d7f4e9d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump campaign committees spent $1.1 million at Trump properties in the last days of his losing campaign"
     excerpt: "President Trump’s campaign and its affiliated committees spent more than $1.1 million at Trump’s own properties in the last weeks of the 2020 campaign, continuing a pattern during his presidency."
     publishedDateTime: 2020-12-04T22:50:00Z
@@ -941,6 +989,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20201216&i=OVD99HNYJ&r=OVD99HNYJ&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Neighbors say Trump can't live at Mar-a-Lago"
+    excerpt: "Reports of a demand letter sent by Palm Beach residents attempting to bar President Donald Trump from living at his Mar-a-Lago resort."
+    publishedDateTime: 2020-12-18T15:30:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/18/neighbors-say-trump-cant-live-mar-lago/3926957001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/21e5eaf0-61d2-41d0-b1bd-742c198fc9ef_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump stays on sidelines as vaccine injections begin"
     excerpt: "President Donald Trump’s administration helped bring about vaccinations against the coronavirus earlier than even some of his own officials had hoped for"
@@ -1033,6 +1095,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-12-12/trump-loyalists-converging-again-on-washington-over-election"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-12/trump-loyalists-converging-again-on-washington-over-election?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-12/trump-loyalists-converging-again-on-washington-over-election?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "U.S. Supreme Court Throws Out Challenge to Trump Census Immigrant Plan"
+    excerpt: "The U.S. Supreme Court on Friday threw out a lawsuit seeking to block President Donald Trump's plan to exclude immigrants living in the United States illegally from the population count used to allocate congressional districts to states."
+    publishedDateTime: 2020-12-18T15:32:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-12-18/us-supreme-court-rules-for-trump-over-census-immigrant-plan"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-12-18/us-supreme-court-rules-for-trump-over-census-immigrant-plan?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-12-18/us-supreme-court-rules-for-trump-over-census-immigrant-plan?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

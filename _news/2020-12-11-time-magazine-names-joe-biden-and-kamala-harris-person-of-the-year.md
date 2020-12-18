@@ -2068,6 +2068,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Politics live updates: Tickets to Joe Biden, Kamala Harris swearing-in ceremony to be limited"
+    excerpt: "Invitations to members of Congress will be limited to themselves and one guest, similar to the audience for a State of the Union address."
+    publishedDateTime: 2020-12-18T16:44:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2020/12/16/politics-updates-biden-introduce-buttigieg-incoming-dot-chief/3916579001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3916579001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3916579001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 79
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/16/USAT/36266745-f2f2-4cd8-ae8a-afc00b0c588c-GTY_1230145961.jpg?auto=webp&crop=5288,2975,x0,y352&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Pence to receive COVID-19 vaccine Friday; Joe Biden will get vaccinated as soon as next week"
     excerpt: "Vice President Mike Pence will get the COVID-19 vaccine publicly Friday, while President-elect Joe Biden will get vaccinated as soon as next week."
     publishedDateTime: 2020-12-16T00:00:00Z
@@ -2179,6 +2195,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/25T54CSN25CMVD6C7P55YEJPP4.jpg"
         width: 4032
         height: 3024
+        isCached: true
+  - title: "Kamala Harris to campaign in Georgia next week on behalf of Senate candidates"
+    excerpt: "ATLANTA — Vice President-elect Kamala Harris will visit Georgia next week to campaign on behalf of Democratic Senate candidates Jon Ossoff and Rev. Raphael Warnock, the Ossoff campaign confirmed Friday."
+    publishedDateTime: 2020-12-18T15:13:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 72
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/4ea913bb-bfcd-43f4-bcd4-9344687709d7/4ea913bb-bfcd-43f4-bcd4-9344687709d7_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Joe Biden and Kamala Harris Jointly Named Time's 'Person of the Year'"
     excerpt: "Democratic presidential candidate and former Vice President Joe Biden and U.S. Senator and Democratic candidate for Vice President Kamala Harris celebrate outside the"

@@ -2,19 +2,19 @@
 category: news
 title: "'I didn't feel a thing.' Vice President Mike Pence gets COVID-19 vaccine on camera"
 excerpt: "Vice President Mike Pence and his wife were vaccinated for COVID-19 at the White House to build public confidence in the vaccine."
-publishedDateTime: 2020-12-18T14:01:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
-webUrl: "https://www.indystar.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
-ampWebUrl: "https://amp.indystar.com/amp/3948306001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3948306001"
+publishedDateTime: 2020-12-18T15:48:00Z
+originalUrl: "https://www.statesman.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
+webUrl: "https://www.statesman.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
+ampWebUrl: "https://amp.statesman.com/amp/3948306001"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/3948306001"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Election
@@ -92,18 +92,20 @@ related:
         height: 415
         isCached: true
   - title: "Vice President Mike Pence, wife Karen, receive COVID-19 vaccination on live television"
-    excerpt: "Vice President Mike Pence, wife Karen, receive COVID-19 vaccination on live television. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission."
-    publishedDateTime: 2020-12-18T13:07:00Z
-    webUrl: "https://www.washingtonpost.com/politics/vice-president-mike-pence-wife-karen-receive-covid-19-vaccination-on-live-television/2020/12/18/eeabd882-4131-11eb-b58b-1623f6267960_story.html"
+    excerpt: "Vice President Mike Pence, wife Karen, receive COVID-19 vaccination on live television. Tool tells when you may be able to get a COVID-19 vaccine 24/7 coverage of breaking news and live events"
+    publishedDateTime: 2020-12-18T13:11:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/vice-president-mike-pence-wife-karen-receive-covid-74798346"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/vice-president-mike-pence-wife-karen-receive-covid-74798346"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/vice-president-mike-pence-wife-karen-receive-covid-74798346"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 97
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Monroe County Airport prepares for Vice President Mike Pence's visit"
     excerpt: "The vice president is expected to visit Bloomington's Catalent Biologics to tour the COVID-19 vaccine production line."
@@ -137,6 +139,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Mike Pence doesn't faint, proving COVID-19 vaccine both safe and effective"
+    excerpt: "Vice President Mike Pence took to live television to take the coronavirus vaccine in his arm — and that’s some darn good leadership right there, indeed. Moreover, he didn’t faint. Even better leadership."
+    publishedDateTime: 2020-12-18T16:30:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/18/mike-pence-doesnt-faint-proving-covid-19-vaccine-b/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/18/mike-pence-doesnt-faint-proving-covid-19-vaccine-b/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/18/mike-pence-doesnt-faint-proving-covid-19-vaccine-b/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 73
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/18/virus_outbreak_trump_88698_c0-173-4149-2593_s1200x700.jpg?182726b57d40fa2e2c16843586536b48350944b6"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Pence likely to get the coronavirus vaccine by Friday"
     excerpt: "Vice President Mike Pence is likely to receive the coronavirus vaccine by Friday, two sources familiar with the plans tell CNN."
     publishedDateTime: 2020-12-15T20:14:00Z
@@ -154,16 +172,16 @@ related:
   - title: "Vice President Mike Pence Receives COVID-19 Vaccine During Live Broadcast"
     excerpt: "Vice President Mike Pence receives Pfizer's COVID-19 vaccine at the White House on Friday, December 18, 2020, in a bid to build public confidence in its safety and efficacy. President Donald Trump will not receive the vaccine unless the White House medical team recommends it."
     publishedDateTime: 2020-12-18T14:07:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9695e1476f16d2e2ea52b2b81fabde16/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0686da6e424670f6cbe1009d02c673f8/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 54
     images:
-      - url: "https://cdnph.upi.com/pv/upi/9695e1476f16d2e2ea52b2b81fabde16/PENCE-CORONAVIRUS-VACCINE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/0686da6e424670f6cbe1009d02c673f8/PENCE-CORONAVIRUS-VACCINE.jpg"
         width: 650
-        height: 489
+        height: 432
         isCached: true
   - title: "Pence plans visit to state to discuss virus vaccines"
     excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss novel coronavirus vaccines as federal officials are expected to"
@@ -175,6 +193,6 @@ related:
       domain: journalgazette.net
     quality: 35
 
-secured: "giiD4dd0XbyKz/YHSw2t1gY+6zn/XhmOUMkKkUq7e6a7u0UvxoKXNsfWxdjyExvgkxKI6JZfVyeSICwVDfoTNbzlJfHic7xrWoSdc2A5iwSNh2MsONBjY50Lw136A8eNm4US/9hpOEMU2bfnPzqdyq8Eevu4ABZnsE8zr8ifvIkF6OQ5u2/RA/54BfrdaQ1WnoLoOKsCfvamYxhxjWBcxdIaCqie/PPvmIKems7LDwiHiyzC8tbiogyGzgXBl230KKB3yLKhQnFnfrlHNlzgAsOVGtgnr8xrmos3j41jcLW/ehbfV7sqsWVCUwh9lX/Pn/i6MZ6/srEaT+h3TTr9GVY97gBOPXxhFIbnZzotjfA=;E+ZXpbTw4DTQuETwE7fDRg=="
+secured: "ozx9eQTostOtIYxL8Aw/OXO+/ujiEjRCsa2JXE0I5u5tP2Zd+MtE5405iWqyG69wNfXO2oMOcMtl/jYbrZkUyG4KmOe1UuEJlzmPP8A7mxrCsUaKFUoD9nkUgLBb3i7mrBVutm9qRPoSj4H9nCejWmIKgJATPkZzVt1sCJrtHbaMAHSeXURdcDZf/YXxVmchWXwBSVTqSHSYiZJPmM+ViPVeZ7gqMXZrWBx4f4++XS44qwy5fqzyb1eUmKkQhzG1TbQleXT+GnmNdUbU9NxuyZXTzEn+hx92aeGkdRX1yRAyZVlTHHMegeoBfWhOF14Wx/3kbR55XMm1tCel6FMqhljUjemnjVO6y3lVup563Oo=;wEIT6l7tmJWWAQxu5gm+QA=="
 ---
 

@@ -1,0 +1,74 @@
+---
+category: news
+title: "Kamala Harris to campaign in Georgia for Democrats in Senate runoffs"
+excerpt: "Vice President-elect Kamala D. Harris is scheduled to travel to Georgia next week to put her stamp on the two Senate runoff races that will decide how much wiggle room the Biden administration has with Congress."
+publishedDateTime: 2020-12-18T16:12:00Z
+originalUrl: "https://www.washingtontimes.com/news/2020/dec/18/kamala-harris-campaign-georgia-democrats-senate-ru/"
+webUrl: "https://www.washingtontimes.com/news/2020/dec/18/kamala-harris-campaign-georgia-democrats-senate-ru/"
+ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/18/kamala-harris-campaign-georgia-democrats-senate-ru/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/18/kamala-harris-campaign-georgia-democrats-senate-ru/"
+type: article
+quality: 75
+heat: -1
+published: false
+
+provider:
+  name: Washington Times
+  domain: washingtontimes.com
+
+topics:
+  - Election
+  - Kamala Harris
+
+images:
+  - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/16/biden_77877_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+    width: 1200
+    height: 700
+    isCached: true
+
+related:
+  - title: "Kamala Harris' Niece Defends Sasha Obama After Viral Photo"
+    excerpt: "Meena The lawyer and niece of Vice President elect Kamala Harris took to Twitter late Sunday evening to defend the 19-year-old. \"Keep Sasha Obama's name out of your damn mouth,\" she wrote. On Sunday evening,"
+    publishedDateTime: 2020-12-14T17:02:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1685754/meena-harris.jpg"
+        width: 2500
+        height: 1406
+        isCached: true
+  - title: "Kamala Harris' Husband, Doug Emhoff, To Teach Law At Georgetown"
+    excerpt: "Emhoff, who resigned from DLA Piper, where he was a partner, will serve as a distinguished visitor from practice and teach a course in the spring semester on entertainment law disputes."
+    publishedDateTime: 2020-12-10T18:41:00Z
+    webUrl: "https://www.npr.org/sections/biden-transition-updates/2020/12/10/945039524/kamala-harris-husband-doug-emhoff-to-teach-law-at-georgetown"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/10/gettyimages-1288294765_wide-685c440e80788e0484c30cccd5f446059a3b42ca.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Meet the First Second Gentleman-Elect, Kamala Harris' Husband Douglas Emhoff"
+    excerpt: "Kamala Harris’ husband Douglas Emhoff, is one of the most adoring political spouses ever—and he will be a first in two major ways: Emhoff is the first second gentleman-elect, as well as the first Jewish spouse to a vice president."
+    publishedDateTime: 2020-12-07T16:01:00Z
+    webUrl: "https://parade.com/1117387/jessicasager/kamala-harris-husband/"
+    ampWebUrl: "https://parade.com/1117387/jessicasager/kamala-harris-husband/amp/"
+    cdnAmpWebUrl: "https://parade-com.cdn.ampproject.org/c/s/parade.com/1117387/jessicasager/kamala-harris-husband/amp/"
+    type: article
+    provider:
+      name: Parade
+      domain: parade.com
+    quality: 52
+
+secured: "A8z3FlkcnpTJnDXY7bKHLsY7FLpivH1NXoH+S0SQrNlD6UsAe4saaKknZ6WUm58V0T2HZI1+sKEqQDgmgOCtHK0V1Q+o85LpCpSfEraNe57qNQSeedcoFvXUa2WkCxvilBrWdJqQCS02+fyEPwaSflKayDx9XsyCkriHHTlDR/RNGQvvQNxaZgxJ7+M6gpK+ph3+6nT2y/3v5W/l5D6LELOTdy0ftFA2j2U6NWOUf2bwZ6AsYob3c2tB+HJ1kXW3DOMeNxDDY6/94Mjp07D4FTPYK8gOdTEXwQGO5Jp00JsPFXdbOa+WEPH791tFm53ZRM0zEnJf+16W2R+RYPQdOvVNSiLry2LOj/V9QRKFSmw=;8ptpow4WnC3fc+tidBH9Kw=="
+---
+

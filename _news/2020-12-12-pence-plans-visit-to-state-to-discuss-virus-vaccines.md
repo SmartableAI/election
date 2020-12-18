@@ -84,18 +84,20 @@ related:
         height: 415
         isCached: true
   - title: "Vice President Mike Pence, wife Karen, receive COVID-19 vaccination on live television"
-    excerpt: "Vice President Mike Pence, wife Karen, receive COVID-19 vaccination on live television. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission."
-    publishedDateTime: 2020-12-18T13:07:00Z
-    webUrl: "https://www.washingtonpost.com/politics/vice-president-mike-pence-wife-karen-receive-covid-19-vaccination-on-live-television/2020/12/18/eeabd882-4131-11eb-b58b-1623f6267960_story.html"
+    excerpt: "Vice President Mike Pence, wife Karen, receive COVID-19 vaccination on live television. Tool tells when you may be able to get a COVID-19 vaccine 24/7 coverage of breaking news and live events"
+    publishedDateTime: 2020-12-18T13:11:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/vice-president-mike-pence-wife-karen-receive-covid-74798346"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/vice-president-mike-pence-wife-karen-receive-covid-74798346"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/vice-president-mike-pence-wife-karen-receive-covid-74798346"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 97
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Monroe County Airport prepares for Vice President Mike Pence's visit"
     excerpt: "The vice president is expected to visit Bloomington's Catalent Biologics to tour the COVID-19 vaccine production line."
@@ -129,16 +131,32 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "'I didn't feel a thing.' Vice President Mike Pence gets COVID-19 vaccine on camera"
-    excerpt: "Vice President Mike Pence and his wife were vaccinated for COVID-19 at the White House to build public confidence in the vaccine."
-    publishedDateTime: 2020-12-18T14:01:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3948306001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3948306001"
+  - title: "Mike Pence doesn't faint, proving COVID-19 vaccine both safe and effective"
+    excerpt: "Vice President Mike Pence took to live television to take the coronavirus vaccine in his arm — and that’s some darn good leadership right there, indeed. Moreover, he didn’t faint. Even better leadership."
+    publishedDateTime: 2020-12-18T16:30:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/18/mike-pence-doesnt-faint-proving-covid-19-vaccine-b/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/18/mike-pence-doesnt-faint-proving-covid-19-vaccine-b/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/18/mike-pence-doesnt-faint-proving-covid-19-vaccine-b/"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 73
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/18/virus_outbreak_trump_88698_c0-173-4149-2593_s1200x700.jpg?182726b57d40fa2e2c16843586536b48350944b6"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "'I didn't feel a thing.' Vice President Mike Pence gets COVID-19 vaccine on camera"
+    excerpt: "Vice President Mike Pence and his wife were vaccinated for COVID-19 at the White House to build public confidence in the vaccine."
+    publishedDateTime: 2020-12-18T15:48:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
+    ampWebUrl: "https://amp.statesman.com/amp/3948306001"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/3948306001"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
     quality: 69
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/12/18/USAT/2da82bdf-527e-4c45-9d7f-538ff0eada07-AFP_AFP_8XE32K.jpg?auto=webp&crop=3839,2160,x0,y0&format=pjpg&width=1200"
@@ -162,16 +180,16 @@ related:
   - title: "Vice President Mike Pence Receives COVID-19 Vaccine During Live Broadcast"
     excerpt: "Vice President Mike Pence receives Pfizer's COVID-19 vaccine at the White House on Friday, December 18, 2020, in a bid to build public confidence in its safety and efficacy. President Donald Trump will not receive the vaccine unless the White House medical team recommends it."
     publishedDateTime: 2020-12-18T14:07:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9695e1476f16d2e2ea52b2b81fabde16/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0686da6e424670f6cbe1009d02c673f8/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 54
     images:
-      - url: "https://cdnph.upi.com/pv/upi/9695e1476f16d2e2ea52b2b81fabde16/PENCE-CORONAVIRUS-VACCINE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/0686da6e424670f6cbe1009d02c673f8/PENCE-CORONAVIRUS-VACCINE.jpg"
         width: 650
-        height: 489
+        height: 432
         isCached: true
 
 secured: "K+L+VcACk7iHMMG07Zf6jpZd5TV5Ex5Lj9M1CEXgS3i+iuLvOo2Zb7kfs1QjDwHyTB9g2VOvjSNvOBlpB6YuQwXFuegSJn9eWMv32VzMRNRG3JyhwPtF25SWDfHoO3P6wpkXLaKmuAEr8LrYE7/Rh4n//eo4JwkbhOfH4NJC+9DnOOAmVXt6EYhi/0osGhvSPHTgkJCmsmoWlELCyC/jHPWojzgcqM04ikG7a3XTx+cxU+K2ofW0DZzhpYpWnMXz1aRWA0WMcUc3liWof1Ct08Kq4xjtcAugKzKTJCmi1E/Wkihn1d7Oy15pIoS7d8iOfZzi/Ue7FKL60hGxjuT8ihtODWEzktRA1N2OmAghVsM=;FCfsmO+zGlSNamUZd0N57Q=="

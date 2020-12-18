@@ -191,6 +191,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump Won't Pardon His Family Because They May Testify Against Him, Says Ex-lawyer"
+    excerpt: "Michael Cohen told Vanity Fair that Trump \"cares for no one or for anything except for himself...that includes his own children.\""
+    publishedDateTime: 2020-12-18T16:28:00Z
+    webUrl: "https://www.newsweek.com/trump-wont-pardon-his-family-because-they-may-testify-against-him-says-ex-lawyer-1555953"
+    ampWebUrl: "https://www.newsweek.com/trump-wont-pardon-his-family-because-they-may-testify-against-him-says-ex-lawyer-1555953?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-wont-pardon-his-family-because-they-may-testify-against-him-says-ex-lawyer-1555953?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1688664/michael-cohen.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Today marks an important Electoral College deadline. Here's why that's bad news for Trump"
     excerpt: "The safe harbor deadline falls six days before the Electoral College meets to formally cast votes for president based on the popular votes in states."
     publishedDateTime: 2020-12-08T09:12:00Z

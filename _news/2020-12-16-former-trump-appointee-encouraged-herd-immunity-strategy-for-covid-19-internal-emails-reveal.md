@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Donald Trump's presidency by the numbers"
+    excerpt: "As the days of the Trump presidency wind down, the picture of how his tenure in office compares with that of his predecessors is becoming clearer.\n    \n"
+    publishedDateTime: 2020-12-18T16:07:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/clkMHNugKMo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/trump-presidency-by-the-numbers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/trump-presidency-by-the-numbers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218100850-20201218-trumps-numbers-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence prepares to confirm Trump’s loss — and then leave town"
     excerpt: "It’s a tactic Pence has used in recent weeks: stay out of the spotlight and insulate himself from his boss’s election-fraud crusade, while still bolstering his own credentials."
     publishedDateTime: 2020-12-17T09:33:00Z

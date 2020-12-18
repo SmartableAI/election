@@ -51,6 +51,22 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Kamala Harris to campaign in Georgia for Democrats in Senate runoffs"
+    excerpt: "Vice President-elect Kamala D. Harris is scheduled to travel to Georgia next week to put her stamp on the two Senate runoff races that will decide how much wiggle room the Biden administration has with Congress."
+    publishedDateTime: 2020-12-18T16:12:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/18/kamala-harris-campaign-georgia-democrats-senate-ru/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/18/kamala-harris-campaign-georgia-democrats-senate-ru/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/18/kamala-harris-campaign-georgia-democrats-senate-ru/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/16/biden_77877_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "hbnOMquYDQf/hpSUpfm/rsO5gjlh8hWeXftT1468eNm6a4/HoxrCfE/w6mIhcf4K2BDsUdAAQPIcE5EUHir7KI/x8amPt1Gv0OUXewJXJz0P1tG7sdMzoYhCbNp/dCf0Mke54G8MMaYyoapdFpW9BG3zT/P5IrKmMeUbDNYUL9nQdt9HuuBQrq7IkQ7AltMg1v3djehRPVSC4RtSLkRRNLC26gZJ19kavS5GP+TpI+nB2qhj9eDbUz8c/oySmn4CmTs1rCGkDGFlG5jv7BTa2xcAxjeIF+p/NzrGIsnDZqzvy/To/psu/Geut2Y/G+uxzR2D7/LbdINpZENiYsyUmAQ4RUSqZ2TSwJoo8orrQjUclgY1s2YFhyc/hTvMLkUQlwh6XYnhVx9CMt5hVTxAEkReRK0bR0DdQAkEbt6CDZ7NXKQ/gLulQRBjnuTy8U72WnuUjoVjyr5V8hedUAPA1GoePjnBPm3nxXzkj0Y3EBL5szPz5GBN06xV2Jd0zhmvzUmB8GLE160ovxTMQi1Qpw==;zeg4/eZAd8+qIzOSb7XTRA=="
 ---

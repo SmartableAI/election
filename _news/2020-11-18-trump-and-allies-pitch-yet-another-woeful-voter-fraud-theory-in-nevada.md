@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-allies-laun
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/trump-allies-launch-yet-another-woeful-voter-fraud-theory-nevada/?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -155,6 +155,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Fines Dismissed Over President Trump's Northern Nevada Rally"
+    excerpt: "The Nevada agency that oversees businesses to ensure they comply with the state’s coronavirus directives has dismissed fines it imposed after President Donald Trump held a September political rally at the Minden-Tahoe Airport."
+    publishedDateTime: 2020-12-18T16:32:00Z
+    webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2020-12-18/fines-dismissed-over-president-trumps-northern-nevada-rally"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "yVfj+gNO4ct4hHCWlfqONA5ZOSTXsRk3TcpLTGUI2tNGnTozkhsUZNUlmkJrJyfmDMzoeyqGNSojHvdmjSTlrHxQsJIusMMsA5bspM6k1BU6J2prAjR3iMDK0xhOuPaohANi8uj50JEFdgBaWr/QxBa0YNEh7k4hL0USJ+tD+oyplZ1RwrDBSW77S4IELO7TvJYDuVDjhOnjjOuQoFNcnnXKOHEjuSQu+vyNwBiP/oebQi72QNaUBLUkmrq6bv3mv3fOVhTzzSlqpVVfQ61kOavL38dyeu14ZVRAfBNu/vFVOCjqBJCRcCINb0pn7s6KSXofabRyLsKt7nedsyFer5Ql7IlPAaRwAr0JUMTdTZK1b3WhCITHvOXsPlMIT3Tn0ctS3K51FsOeXlc3v+KvYCql7zkmt2IiFMz68HKPVv32A8rp//9bvCyTlNXxqLhl0wQGotnFwl4pEML6Wb+760szhimmkNN6xXavMmukYCoJP9TtuJjVToHMgfJ5UwaolWdLPnuDnC0hcS/9eP6tWQ==;ekGnUYwwYH5q+KnZ/3VpSg=="
 ---
