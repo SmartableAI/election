@@ -1270,6 +1270,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden and lawmakers raise alarms over cyber-breach amid Trump silence"
+    excerpt: "The president’s muted response to an organized hacking attack on the U.S. government marks the latest example of his persistent reluctance to criticize Russia."
+    publishedDateTime: 2020-12-18T00:47:00Z
+    webUrl: "https://www.washingtonpost.com/politics/russia-hacking-politics/2020/12/17/1c5708c6-40a4-11eb-8db8-395dedaaa036_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost%252Es3%252Eamazonaws%252Ecom%2Fpublic%2F6KBHERR7YMI6XNMLCYR7MJTZMA%252Ejpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden says he will 'not stand idly by' on the massive US cyberattack that Trump hasn't bothered to address yet"
     excerpt: "Biden's strong statement stood in sharp contrast to Trump's silence on the SolarWinds hack that compromised hundreds of US entities."
     publishedDateTime: 2020-12-17T22:33:00Z
@@ -2024,6 +2038,22 @@ related:
     quality: 79
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/12/16/USAT/36266745-f2f2-4cd8-ae8a-afc00b0c588c-GTY_1230145961.jpg?auto=webp&crop=5288,2975,x0,y352&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence to receive COVID-19 vaccine Friday; Joe Biden will get vaccinated as soon as next week"
+    excerpt: "Vice President Mike Pence will get the COVID-19 vaccine publicly Friday, while President-elect Joe Biden will get vaccinated as soon as next week."
+    publishedDateTime: 2020-12-16T00:00:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3933565001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3933565001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 77
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/a604c818-a3fd-473c-9581-fe528141bf4a-Pence_in_Tally.jpg?auto=webp&crop=3599,2025,x0,y120&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

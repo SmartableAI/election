@@ -698,6 +698,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "U.S. Treasury Department seeks to water down Trump's Chinese securities ban - FT"
+    excerpt: "The United States Treasury Department is seeking to water down an executive order from U.S. President Donald Trump that bars Americans from investing in Chinese companies with suspected ties to Beijing's military,"
+    publishedDateTime: 2020-12-17T22:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-china-treasury-securities-idUSKBN28R3B9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28R3B9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R3B9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544961022&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG1WJ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Donald Trump stood no chance in front of a conservative Supreme Court. Here's why."
     excerpt: "No one should be surprised that the justices, like the Trump-appointed lower court judges in all these elected cases, followed the law.\""
     publishedDateTime: 2020-12-12T12:14:00Z
@@ -978,6 +994,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "jcIiWcPIgQQVT/vBs81hoqt7ejXRJymuhJQRKYnqwAlJ7BCuQ2UueSeawYfTkmZWDtaoLCwlXPHCgvMY98UmcfTCQzgDLbVcRi5lXpm2AJjUZZ59hKV6Jk/D/tYxIn9jCYBliuQRCFiLlVLZhSlGtwFEWy5iEHCUOKgbvGPEezTz6MAdJPIvELUQitLaK78el2mQWO/YGcO7sBav9oDeLBeHHTTfcUoIcWzjrv6TY9/OKzDWkUPx/w0+PMrOxelrygbGkmkyonHqTdf5bd+oUxwHPE0M3Qs/3ARyTZ1xLrABfbaL69ebljPR7FQ2W6mD1FCliIcxfC/u3mROHTb1crLw6oH6v8nMhpeXmEdErds=;qxeQrLmQZ/zMIbx8MEPdkw=="
+secured: "pHs0e0084jUfK6LcMIr82jiQt+b/Rsqr/mrfsQnPGkaxPohhS57IqbiZwOuHH2Z5mOmtwD0FY5etwREfBbdLhTMnRPLbotxvYHGU163ArP2Pp08BaMbyR/SRzooV551VPV7jX8HqJphoM0HCslhf7SihK0gSEaqr6F+DvIHhvrYS43zAOYAugNE2z7HQNkB9OSCEag0JyMlP4EUAfLMMDZGzI6Vml+zCYxlstMIDoV/3AfovfD9VhvA3T2jW3NtVR9qZGNSKHME4PNCb8r154rcHsqdfUjv/AlV8ECUvzP9lsuRSyORmQlhJL2xCL8dRzi25kjWKDhjUAJRIWu8vgNF4D5FrsUeBVyFClUUyJ3h9rOWZaJ6OOrRpsUJmT6QQs8+d7+cC3SrEBwsSQDp6KqUP8gBcwmpd70nEGquQXlJ05Rsu16Ta5WsU/Xtyc9IaGoAi+6udcNEehGqr10X3D0LHZtWXxyl1/+fv7PLr4LIdN+ldxVe7hnrqr78oMn5o9/c9xCQOvdwD0fVVf3q43A==;mKYG5nQBvFzAfGdqTgnuNw=="
 ---
 

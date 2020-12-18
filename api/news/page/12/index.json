@@ -2,6 +2,222 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-12-02-obama-suggests-trumps-stereotypical-macho-style-appealed-to-some-young-black-voters.md",
+      "title": "Obama suggests Trump's 'stereotypical macho style' appealed to some young Black voters",
+      "excerpt": "Former President Obama said President Trump’s “stereotypical macho style” was to blame for his increase in Black male voters this election cycle.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dxzxJK-7WKE/obama-trump-stereotypical-macho-style-young-black-voters",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dxzxJK-7WKE/obama-trump-stereotypical-macho-style-young-black-voters",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/OBAMA-NEWSLETTER-xx.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/obama-trump-stereotypical-macho-style-young-black-voters.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-trump-stereotypical-macho-style-young-black-voters.amp",
+      "publishedDateTime": "2020-12-02T10:50:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-this-is-reality-renown-doctor-in-trump-hospital-garage-retweet-refutes-fake-claims.md",
+      "title": "‘This is reality’: Renown doctor in Trump hospital garage retweet refutes fake claims",
+      "excerpt": "Dr. Jacob Keeperman never expected his tweet to blow up on social media after it got hijacked by President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2020/12/02/covid-19-donald-trump-twitter-nevada-coronavirus-renown-hospital-reno/3789517001/",
+      "originalUrl": "https://www.usatoday.com/story/news/2020/12/02/covid-19-donald-trump-twitter-nevada-coronavirus-renown-hospital-reno/3789517001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/02/PREN/111222a7-b4c0-4569-b08a-12295033a000-Dr_Jacob_Keeperman_copy.jpg?auto=webp&crop=1943,1093,x0,y309&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3789517001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3789517001",
+      "publishedDateTime": "2020-12-02T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-cnn-has-been-overwhelmingly-biased-against-trump-joe-concha.md",
+      "title": "CNN has been ‘overwhelmingly biased’ against Trump: Joe Concha",
+      "excerpt": "You don't need behind-the-scenes tapes to know that CNN is anti-Trump because of how blatant the network coverage is, Fox News contributor Joe Concha told \"America's Newsroom\" Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cwjh8tUrxXc/cnn-has-been-overwhelmingly-biased-against-trump-joe-concha",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cwjh8tUrxXc/cnn-has-been-overwhelmingly-biased-against-trump-joe-concha",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cnn-has-been-overwhelmingly-biased-against-trump-joe-concha.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cnn-has-been-overwhelmingly-biased-against-trump-joe-concha.amp",
+      "publishedDateTime": "2020-12-02T10:21:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-trumps-former-campaign-manager-brad-parscale-said-he-planned-to-capitalize-on-baseless-fears-about-mass-voter-fraud.md",
+      "title": "Trump's former campaign manager Brad Parscale said he planned to capitalize on baseless fears about mass voter fraud",
+      "excerpt": "Trump has relentlessly spread false claims and conspiracy theories about mass voter fraud committed by Democrats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-aide-brad-parscale-says-campaign-failed-to-monitor-voter-fraud-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trump-aide-brad-parscale-says-campaign-failed-to-monitor-voter-fraud-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc7ab70037cbd00186134a8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-aide-brad-parscale-says-campaign-failed-to-monitor-voter-fraud-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-aide-brad-parscale-says-campaign-failed-to-monitor-voter-fraud-2020-12?amp",
+      "publishedDateTime": "2020-12-02T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-in-new-interview-mueller-talks-about-vietnam-but-not-trump-and-russia.md",
       "title": "In new interview, Mueller talks about Vietnam, but not Trump and Russia",
       "excerpt": "Mueller spoke to Chuck Rosenberg for the NBC News podcast The Oath. In the interview, Mueller seems more in command than when he spoke to Congress in 2019.",
@@ -1131,227 +1347,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-12-01T12:56:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-cuomo-warns-that-trump-vaccination-plans-fail-minorities-undocumented-immigrants.md",
-      "title": "Cuomo warns that Trump vaccination plans fail minorities, undocumented immigrants",
-      "excerpt": "New York Democratic Gov. Andrew Cuomo penned a letter Tuesday calling for U.S. Health and Human Services Secretary Alex Azar to alter the upcoming vaccination program he says is inadequately serving \"Black, Brown, Asian and low-income communities.\" ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-yq6Ug62Rcg/cuomo-pens-letter-to-hhs-sec-over-virus-distribution-for-undocumented-immigrants-minorities",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-yq6Ug62Rcg/cuomo-pens-letter-to-hhs-sec-over-virus-distribution-for-undocumented-immigrants-minorities",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/andrewcuomo-cropped-1155p.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-pens-letter-to-hhs-sec-over-virus-distribution-for-undocumented-immigrants-minorities.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-pens-letter-to-hhs-sec-over-virus-distribution-for-undocumented-immigrants-minorities.amp",
-      "publishedDateTime": "2020-12-01T12:30:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.md",
-      "title": "Frontrunners for Kamala Harris Senate seat praised Fidel Castro",
-      "excerpt": "Two frontrunners for Vice President-elect Kamala Harris' Senate seat have praised former Cuban dictator Fidel Castro.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zw0vpbP4QwY/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zw0vpbP4QwY/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de47a4eb-0b8d-43c2-ba35-cc931180a7d2/602f172e-409f-4f04-8430-39e2e6b7a327/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.amp",
-      "publishedDateTime": "2020-12-01T12:06:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-live-politics-updates-biden-on-covid-stimulus-help-is-on-the-way.md",
-      "title": "Live politics updates: Biden on COVID stimulus: 'Help is on the way'",
-      "excerpt": "President-elect Joe Biden called on Congress to approve an economic stimulus plan. He also suggested that a package would be followed up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/01/presidential-transition-politics-updates-joe-biden-donald-trump/3782498001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/01/presidential-transition-politics-updates-joe-biden-donald-trump/3782498001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/01/USAT/ecd7b3a5-670d-4b2c-b34a-ce5d3672fc9f-AP20336659224888.jpg?auto=webp&crop=5999,3374,x1,y278&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3782498001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3782498001",
-      "publishedDateTime": "2020-12-01T11:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-fired-cybersecurity-chief-may-include-trump-attorney-in-lawsuit-over-death-threats.md",
-      "title": "Fired cybersecurity chief may include Trump attorney in lawsuit over death threats",
-      "excerpt": "Former Cybersecurity and Infrastructure Security Agency Director Chris Krebs said Tuesday he plans to take legal action against people who have threatened his life after he disagreed with his onetime boss, President Trump, over the validity of the Nov. 3 election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWbFVmoKkmo/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWbFVmoKkmo/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20323077316005-e1605728670595.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot.amp",
-      "publishedDateTime": "2020-12-01T09:26:10-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

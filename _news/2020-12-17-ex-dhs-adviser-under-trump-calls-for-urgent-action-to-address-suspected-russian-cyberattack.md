@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/tom-bossert-trump-us-age
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/tom-bossert-trump-us-agencies-hack-russia/index.html"
 type: article
 quality: 165
-heat: 165
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Trump remains silent as massive cyber hack poses 'grave risk' to government"
+    excerpt: "When President Donald Trump convened his Cabinet at the White House Wednesday as Washington absorbed news of a massive data breach, the heads of most agencies relevant to the intrusion — including the Department of Defense, the State Department, the Justice Department, the director of national intelligence"
+    publishedDateTime: 2020-12-17T23:47:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/asOTSNp9um8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/trump-silence-cyber-hack/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/trump-silence-cyber-hack/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216111257-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "CaaNIXYuJo89uSF26SWEnqhyVX2RHi7oTBZbI/nJhWDNcxgBZdIFzEIitEheOJTW70cW4g8XA5ki/+lG3GcQpHgfhTqLtKb6FDDUEWFCxIoeKqjKZFAIjwMS4v2dXfNDE4qCkfgvu+jbhmFGtT0+5rZaN0M+NxRvS01D1Qkxp6Q4Arl2v276GaFMIfRFDXosJIaWBTsu1Gy3nOo/yQ4Ps9szl8X0xSP+euY4bvIVHR2VRvi5A3K+iKLPPFQv8v4QxqAYSbAm8JYSX/wtbrk9rymfvf+bqc4jeMmEGPhHEeVoTIyErkLnvfZmlPZb+dQvs96mfKqG9ovqFn99OhGPjPhmBExHZueRoJ5RFniL8Ew=;bOTwH35FFHSscOwrYHc6PQ=="
 ---

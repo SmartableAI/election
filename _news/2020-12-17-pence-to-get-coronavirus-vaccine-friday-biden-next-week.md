@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
 type: article
 quality: 200
-heat: 600
+heat: 620
 published: true
 
 provider:
@@ -191,6 +191,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden White House pick tests positive for COVID after attending event with president-elect"
+    excerpt: "Biden's campaign said the president-elect was not in close contact with Richmond this week."
+    publishedDateTime: 2020-12-17T23:57:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M3poxjXc7lg/biden-white-house-positive-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-positive-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-positive-covid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df8f4632-4ac8-4f68-8edb-476828874608/ce0c337a-b8c1-4f66-896a-2d2458e61119/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump Jr. to stump for Perdue after Pence rallies Thursday, as Trump team answers Biden event"
     excerpt: "Donald Trump Jr. will hold his first in-person events of the Georgia Senate runoffs this week for Sen. David Perdue, adding himself to the long list of boldface political names to descend on the Peach State for the critical Jan."

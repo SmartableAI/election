@@ -128,6 +128,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Joe Biden claims ‘foul play’ in Hunter tax investigation but says he’s ‘not concerned’"
+    excerpt: "The president-elect said he will be able to look past personal attacks on his son while in office."
+    publishedDateTime: 2020-12-18T00:52:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ct2XqQsUJhU/joe-biden-foul-play-hunter-tax-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-foul-play-hunter-tax-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-foul-play-hunter-tax-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/314ad8b7-b082-424c-9561-c701dbe9d307/28526cd8-742c-444b-8156-c59abbed03ee/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden says 'I'm confident' Hunter did nothing wrong, amid federal probe into 'tax affairs'"
     excerpt: "President-elect Biden on Wednesday directly addressed questions about a federal investigation into his son, Hunter Biden, for the first time, saying \"I'm confident\" that he did nothing wrong."
     publishedDateTime: 2020-12-16T17:47:06Z
@@ -269,6 +285,6 @@ related:
         height: 320
         isCached: true
 
-secured: "CZYMuisJd/K7iX8QY8eZ1P6uv4lViAVQWhBLhn3ySwe5zY0re1cdzOxWTmwsyEG5aQxJgHsJzrGhGzYP07D2be05W2pzpN0rF0r8UCTAS8UV4hahNv3IYmW9EO5m0FqfI7OpABoSH4qwjNPsvpDGnX+wgFf45sl/ZUOfrZIk4Bxb5i49BMlZd+v9q3X4sF06VNso6GNJnuaTXw0tH4YSwowTO1tEfF/avhVxbAI3DkeBc8CWef3va19SPuPBSLO8VyjE93S1z9r7QLzd0CQslnt8DZZQNBQ2mIqqXvtdW7CwLUPZ117cGmUkXF1yUWiEE5plcPPUJHBxA8LP66N+/RaPa3A/WKV2vMsFOizdyYs=;W4MFjqqntVggd51UdCQg0A=="
+secured: "gZObg+Tb9buqxJjwnkEQBfdd2MXno0IxKCscQKN+7uygNZZ8xxiGqBiFT0Eai2eNCTOWRbGdTMILFviOz/w0Azs7V3FaDriEVPqLiwVCPbk9Rwth9nc86a1Anyyl8aWIY0hEKETDTAlL//A1s44QnjuddTgs5VqHHk8KZxrSqhSNpYWP3A+CG2nO/bCzkQjDasZXUXEDoWfKeS6+7U/Gxx6svZLiQhClABDoJOlKVqJbacMB3tTWTVi/1MHsXSPoTgq6IAMj2vgUhZo9dSF1OsPBNvXy47fLB5pN33LG3Z4H1/IoGZQ8cdjNa9YCJLOFf2xgpRUdtiNvgelGXX3hfIxjmLlFut0UZ9WokRCxyeAupgxJSLfpVObXh7VUT/dsPehOAbvvCK3Sh0UslrXLKFuwHaCB93sowhuhlPBJn7i6oR3KWrrlq1Pgh03SJdFfUl1JVd9zWtnPWNj9B7D6xulCmn5Rf7EmYb4cUaozQRR2CC4/q4EvDSk2kFSOaem7uMHMVmvObI8B6gyxpjHN3w==;b+tyOolNwioMeF5AX5PYdA=="
 ---
 

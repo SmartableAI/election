@@ -575,6 +575,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden Faces Challenge as Congress Drops State Aid to Secure Stimulus"
+    excerpt: "A campaign by conservative activists and disputes over how to divvy up federal assistance have thwarted negotiators. But President-elect Joe Biden will make a new push for such funding next year."
+    publishedDateTime: 2020-12-17T23:33:00Z
+    webUrl: "https://www.nytimes.com/2020/12/17/business/stimulus-state-local-aid.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/17/business/stimulus-state-local-aid.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/17/business/stimulus-state-local-aid.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/17/us/17dc-StateStimulus01/17dc-StateStimulus01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Congress braces for painful veto clash with Trump on defense bill"
     excerpt: "Congressional leaders are scrambling to avoid an unusual scenario in which lawmakers are summoned back to Washington in the days between Christmas and New Year’s for a dramatic, eleventh-hour vote to overturn Trump's promised veto of a massive national defense bill."
     publishedDateTime: 2020-12-17T21:20:00Z

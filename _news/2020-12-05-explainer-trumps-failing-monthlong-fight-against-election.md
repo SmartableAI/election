@@ -697,6 +697,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "U.S. Treasury Department seeks to water down Trump's Chinese securities ban - FT"
+    excerpt: "The United States Treasury Department is seeking to water down an executive order from U.S. President Donald Trump that bars Americans from investing in Chinese companies with suspected ties to Beijing's military,"
+    publishedDateTime: 2020-12-17T22:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-china-treasury-securities-idUSKBN28R3B9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28R3B9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R3B9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544961022&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG1WJ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Donald Trump stood no chance in front of a conservative Supreme Court. Here's why."
     excerpt: "No one should be surprised that the justices, like the Trump-appointed lower court judges in all these elected cases, followed the law.\""
     publishedDateTime: 2020-12-12T12:14:00Z

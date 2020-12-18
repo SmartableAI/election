@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Ben Shapiro schools Kamala Harris about Hannukah after VP-elect puts out 'bizarre' video message"
+    excerpt: "The history of Hanukkah cannot be reduced to fit the \"leftist social justice warrior nonsense\" of the Democratic agenda, Ben Shapiro said Wednesday."
+    publishedDateTime: 2020-12-17T23:02:00Z
+    webUrl: "https://www.foxnews.com/media/ben-shapiro-kamala-harris-hanukkah-video"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 82
 
 secured: "b4+MBGFsaAXWPQsJWb03NV3Xs0eaVvVr2rgwoQNEQwTg9/FS0pjYwHJmj7yxyxIZ4QdhFzI1o2kykRGtLCmERFyUT9MeHWmaWLjVdDkKQ8KLNBCSylr4P3/1E+Qeu1y5FIUZgF459Qda+ROdYSOrH/TNKKNRxllaUNXGwh0RNXGlgok3xchicMU+RLQZGodYSmcvfgdDiIG8k/ukn88jkEsvpU/BWx/m6MVtPMlM5szmBF3419G8/jKvU/Cd9oWrMvizaSDFUXXwVgT57kytI/18hkaOsqryXei0V4GEhAWWIv5DZxV5cCocPqIdI9CCZExDrH8TC+QUtby0rO0g9OHDsswUct1lbwm7rlhKyRamdLw7nftaWQwXG54g3BiepQXPfBP8qHaKixv09zgmI9uqU/OZqeet+hjMyHTIr6miv6GlplaMGuaauDWviqava7D78FC8S7w0RZiVvrakeHSRcQXRjyOE7kvRLj0ek7aUslTHY38RE8y0aojoTiHhCUDVZdXpI8bKKhl3lP4IEg==;c1ntLkHGFNuJn7ykHf10pg=="
 ---

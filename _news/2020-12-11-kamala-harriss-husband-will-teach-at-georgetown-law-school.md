@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-g
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/amp/"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Ben Shapiro schools Kamala Harris about Hannukah after VP-elect puts out 'bizarre' video message"
+    excerpt: "The history of Hanukkah cannot be reduced to fit the \"leftist social justice warrior nonsense\" of the Democratic agenda, Ben Shapiro said Wednesday."
+    publishedDateTime: 2020-12-17T23:02:00Z
+    webUrl: "https://www.foxnews.com/media/ben-shapiro-kamala-harris-hanukkah-video"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 82
   - title: "Kamala Harris's husband Douglas Emhoff to join Georgetown Law faculty"
     excerpt: "Douglas Emhoff, the lawyer husband of Vice President-elect Kamala Harris, won't be idle as the country's first second gentleman."
     publishedDateTime: 2020-12-10T18:31:00Z

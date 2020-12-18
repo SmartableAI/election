@@ -127,6 +127,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Joe Biden claims ‘foul play’ in Hunter tax investigation but says he’s ‘not concerned’"
+    excerpt: "The president-elect said he will be able to look past personal attacks on his son while in office."
+    publishedDateTime: 2020-12-18T00:52:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ct2XqQsUJhU/joe-biden-foul-play-hunter-tax-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-foul-play-hunter-tax-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-foul-play-hunter-tax-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/314ad8b7-b082-424c-9561-c701dbe9d307/28526cd8-742c-444b-8156-c59abbed03ee/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden says 'I'm confident' Hunter did nothing wrong, amid federal probe into 'tax affairs'"
     excerpt: "President-elect Biden on Wednesday directly addressed questions about a federal investigation into his son, Hunter Biden, for the first time, saying \"I'm confident\" that he did nothing wrong."
     publishedDateTime: 2020-12-16T17:47:06Z

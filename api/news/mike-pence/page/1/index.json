@@ -110,7 +110,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1455,
+      "heat": 1475,
       "tags": null,
       "images": [
         {
@@ -218,7 +218,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 600,
+      "heat": 620,
       "tags": null,
       "images": [
         {
@@ -471,7 +471,7 @@
       "originalUrl": "https://abcnews.go.com/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3160,
+      "heat": 3200,
       "tags": null,
       "images": [
         {
@@ -713,6 +713,49 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-mike-pence-cheers-texas-suit-against-georgia-god-bless-texas.md",
+      "title": "Mike Pence cheers Texas suit against Georgia: ‘God bless Texas!’",
+      "excerpt": "Vice president Mike Pence was back in Georgia for the second time in a week, headlining another \"Defend the Majority\" rally for Sens. Kelly Loeffler and David Perdue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ajc.com/politics/mike-pence-cheers-texas-suit-against-georgia-god-bless-texas/NIOSTWXB2BEYPBFCWEJYRMWR7E/",
+      "originalUrl": "https://www.ajc.com/politics/mike-pence-cheers-texas-suit-against-georgia-god-bless-texas/NIOSTWXB2BEYPBFCWEJYRMWR7E/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ajc.com/resizer/IYlB8buRUr0BhWn7_UbCW6ZeJKg=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/VCY7T37OQJVSGUQHLZXPFQB26M.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T19:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Atlanta Journal-Constitution",
+        "domain": "ajc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -1493,58 +1536,6 @@
         "Election",
         "Mike Pence",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-coronavirus-updates-pence-says-vaccine-could-be-shipped-in-2-weeks-gov-ron-desantis-says-florida-schools-to-stay-open-in-2021.md",
-      "title": "Coronavirus updates: Pence says vaccine could be shipped in 2 weeks; Gov. Ron DeSantis says Florida schools to stay open in 2021",
-      "excerpt": "California Gov. Gavin Newsom warns of tougher stay-at-home order. Michigan Rep. John Chirkun tests positive. U.S. deaths top 268K. Latest COVID news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/health/2020/12/01/covid-news-cdc-vaccine-anchorage-california-florida-schools/6470606002/",
-      "originalUrl": "https://www.usatoday.com/story/news/health/2020/12/01/covid-news-cdc-vaccine-anchorage-california-florida-schools/6470606002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/01/USAT/d930d904-53f3-4af1-bda4-4c595d09cb37-AP20335715496723.jpg?auto=webp&crop=5692,3202,x0,y289&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6470606002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6470606002",
-      "publishedDateTime": "2020-12-01T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

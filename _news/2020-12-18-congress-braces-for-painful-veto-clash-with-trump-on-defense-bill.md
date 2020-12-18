@@ -592,6 +592,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden Faces Challenge as Congress Drops State Aid to Secure Stimulus"
+    excerpt: "A campaign by conservative activists and disputes over how to divvy up federal assistance have thwarted negotiators. But President-elect Joe Biden will make a new push for such funding next year."
+    publishedDateTime: 2020-12-17T23:33:00Z
+    webUrl: "https://www.nytimes.com/2020/12/17/business/stimulus-state-local-aid.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/17/business/stimulus-state-local-aid.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/17/business/stimulus-state-local-aid.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/17/us/17dc-StateStimulus01/17dc-StateStimulus01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump vows to veto defense bill that Congress sent him"
     excerpt: "President Donald Trump said Thursday that he plans to follow through on his threat to veto the annual defense policy bill that passed with veto-proof majorities in the House and the Senate last week."
     publishedDateTime: 2020-12-17T16:39:00Z
@@ -743,6 +759,6 @@ related:
         height: 773
         isCached: true
 
-secured: "/1kYb4p+Am9s8yzrY/4/k2YguOePFotqKIu4EGYMQquDTiWfDyTel6jz2ayh6//34rftw+lQMmIc+1SpXyqffY5ClJH7NGOVWxB3MqybCauB4Mhmp7XTjfP41UsFsfoiNYpAnXMEgYXGgQQCAyDWELCiMjMGvi05uVQ+50Y1XEcJ1IxKrVgd2yA9sj+W26RrW6a5e0TqCX6+Kjj8qP+wJv80Qy9tdf9n4kKzzRNBXN99R+G5FnkTyVpCZXUHva3DNJT43P8q8HFM4EunlLi14gkFOYxRiSILXTtpv9+a6unCGASuNiqw+LZuMovCGCNaqXmhkvNcS6QSijAdnxc9MQ7nuX8vtYnUw/EgTLgPFIo=;eWQQRQ0zl7dQzt29D3sRRw=="
+secured: "2FPcJSdsw/MC8N//4paPu9Q+nBabqLOmoE1OIi4JtWfIzgMRwKHzIIFpTMLxKTjKV9hT7u17DxiVlzhqXQkjG/knWAElLwZgU21jLq34JaYfzWlvVWNhccWaccjm8AHtaFFR+fzfVoCShCrw5nvOJxkn9/2rHjuO5Ji7XTZyODQvEEBz/wOoga+Yj0VNnv4Jo2YpmbVfow9iMSXEj7/dERd0dQ8Kh/xioPvhcgUHyvhjaoEBTIWR9vwVBvnfGB9wHbqNVpGWcRYdIDhhcUiULy9mVngY9MgnNNMV8+PoOraVRe6T/YAR5tABhyIGYRKkqJ3LCEyihusR3W5ORFTWR3Ot36wUTBc3Mhr38e/jGS/gqFIqGbO9eIenE4qnJtdbBYjXYBjjnhEYGTDf2pO6q+iT8mKWdocx7cGJUnw32+U2h+VOFk/qttw0Wj0dlDVESKB/QrvuNLDpr2w915AEmOEyG3LElYJgMglMvRydZq34uMOFJPVvpZMfXLUIWCdzcMBVC57d+t//wdHoK+1/OA==;28tWXz7SYQ2U7N/ou8TrQA=="
 ---
 

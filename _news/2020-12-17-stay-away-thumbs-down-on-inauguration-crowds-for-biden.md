@@ -201,6 +201,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Live updates: Pence campaigns in Georgia Senate races; Biden settles on EPA, interior nominees"
+    excerpt: "The vice president's return to Georgia underscored the importance of the Senate races there. The outcome will determine which party controls the Senate next year."
+    publishedDateTime: 2020-12-17T23:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/17/joe-biden-trump-transition-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/17/joe-biden-trump-transition-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/17/joe-biden-trump-transition-live-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 128
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost%252Es3%252Eamazonaws%252Ecom%2Fpublic%2FHBB7HXHLXZHBLCJ7VNHMATDLNI%252Ejpg&w=1440"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. Appeals Court rejects bid to block Georgia win for Biden"
     excerpt: "A federal appeals court on Saturday rejected a bid by a conservative lawyer to block President-elect Joe Biden's victory in Georgia and left in place procedures that will make it easier for voters to cast absentee ballots in January when two Senate seats are up for grabs."
     publishedDateTime: 2020-12-05T16:49:00Z
@@ -851,6 +867,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mike Pence rallies in Georgia for Senate runoff"
+    excerpt: "Vice President Mike Pence is seemingly holding rallies everywhere in Georgia lately — except Atlanta and its inner suburbs. Pence returned Thursday for events in Columbus and Macon to support Republican Sens."
+    publishedDateTime: 2020-12-17T19:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/17/mike-pence-rallies-georgia-senate-runoff/3945003001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2e1d175c-c4ea-45c6-ab01-1e5a997abea4_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Electoral College to formally vote for Joe Biden to become next president"
     excerpt: "As Electoral College members meet in each state to cast their ballots, formally affirming Joe Biden as the next president of the United States, President Trump is vowing to continue fighting the election results."
     publishedDateTime: 2020-12-14T14:54:00Z
@@ -983,17 +1013,6 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 55
-  - title: "Mike Pence rallies in Georgia for Senate runoff"
-    excerpt: "Vice President Mike Pence is seemingly holding rallies everywhere in Georgia lately — except Atlanta and its inner suburbs."
-    publishedDateTime: 2020-12-17T21:22:00Z
-    webUrl: "https://www.stltoday.com/news/national/mike-pence-rallies-in-georgia-for-senate-runoff/video_e868a47e-236a-50d8-947b-d9364bfa37de.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/mike-pence-rallies-in-georgia-for-senate-runoff/video_e868a47e-236a-50d8-947b-d9364bfa37de.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/mike-pence-rallies-in-georgia-for-senate-runoff/video_e868a47e-236a-50d8-947b-d9364bfa37de.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
     quality: 55
   - title: "Colorado Democratic Electors Cast Nine Votes for Joe Biden"
     excerpt: "Colorado’s nine Democratic presidential electors cast their votes for Joe Biden at the state Capitol on Monday. The vote formally seals Biden’s win in Colorado, where he beat President Donald Trump by about 14 percentage points,"

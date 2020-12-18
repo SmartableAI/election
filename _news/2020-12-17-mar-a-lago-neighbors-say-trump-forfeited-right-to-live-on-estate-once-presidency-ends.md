@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump expected to arrive on Dec. 23 for last presidential Christmas at Mar-a-Lago"
+    excerpt: "Trump is expected to arrive in Palm Beach on Dec. 23 and return to Washington Jan. 3 for his last Christmas and New Years  at Mar-a-Lago as president"
+    publishedDateTime: 2020-12-18T00:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/12/17/trump-arrive-dec-23-last-presidential-mar-lago-holiday/3942491001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3942491001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3942491001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/10/NPPP/0dcbba27-cb1c-477b-885f-db07d59c3684-trump_christmas_phone_call.jpg?auto=webp&crop=639,360,x0,y1&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "South Carolina Electors Cast All 9 Votes for President Trump"
     excerpt: "South Carolina’s nine presidential electors have officially voted for President Donald Trump and Vice President Mike Pence."
     publishedDateTime: 2020-12-14T16:54:00Z

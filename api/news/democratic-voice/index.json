@@ -2,6 +2,174 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-17-trump-remains-silent-as-massive-cyber-hack-poses-grave-risk-to-government.md",
+      "title": "Trump remains silent as massive cyber hack poses 'grave risk' to government",
+      "excerpt": "When President Donald Trump convened his Cabinet at the White House Wednesday as Washington absorbed news of a massive data breach, the heads of most agencies relevant to the intrusion — including the Department of Defense, the State Department, the Justice Department, the director of national intelligence",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/asOTSNp9um8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/asOTSNp9um8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201216111257-trump-1212-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/17/politics/trump-silence-cyber-hack/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/trump-silence-cyber-hack/index.html",
+      "publishedDateTime": "2020-12-17T15:47:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-cedric-richmond-incoming-member-of-biden-administration-tests-positive-for-coronavirus.md",
+      "title": "Cedric Richmond, incoming member of Biden administration, tests positive for coronavirus",
+      "excerpt": "Louisiana Rep. Cedric Richmond, who will join the incoming Biden administration as a White House senior adviser and director of the Office of Public Engagement, tested positive for Covid-19, Biden transition spokesperson Kate Bedingfield said in a statement.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j2JNnjlvjKo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j2JNnjlvjKo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201110103859-10-biden-admin-possibilities-richmond-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/17/politics/cedric-richmond-positive-coronavirus/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/cedric-richmond-positive-coronavirus/index.html",
+      "publishedDateTime": "2020-12-17T15:44:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-house-democratic-majority-will-be-3-vote-margin-after-biden-picks-haaland-for-interior-post.md",
+      "title": "House Democratic majority will be 3-vote margin after Biden picks Haaland for interior post",
+      "excerpt": "With President-elect Joe Biden choosing Rep. Deb Haaland as his nominee for interior secretary, House Speaker Nancy Pelosi will have only a three-seat vote margin for her Democratic majority heading into the 117th Congress in a Biden administration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qNdXD1PBGAg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qNdXD1PBGAg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201110111702-14-biden-admin-possibilities-haaland-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/17/politics/house-democratic-majority-margin-haaland/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/house-democratic-majority-margin-haaland/index.html",
+      "publishedDateTime": "2020-12-17T14:40:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-biden-to-tap-north-carolina-environmental-regulator-regan-to-head-epa.md",
       "title": "Biden to tap North Carolina environmental regulator Regan to head EPA",
       "excerpt": "The pick is a major nod to the party's progressive wing that pushed Biden's team to emphasize minority and poor communities facing threats from pollution.",
@@ -88,62 +256,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/17/politics/biden-campaign-ad-ossoff-warnock/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/biden-campaign-ad-ossoff-warnock/index.html",
       "publishedDateTime": "2020-12-17T07:37:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-ex-dhs-adviser-under-trump-calls-for-urgent-action-to-address-suspected-russian-cyberattack.md",
-      "title": "Ex-DHS adviser under Trump calls for urgent action to address suspected Russian cyberattack",
-      "excerpt": "President Donald Trump's former homeland security adviser described the massive data breach of multiple US federal agencies, which US officials suspect is the work of Russian-linked hackers, in urgent terms Wednesday night, calling for immediate and decisive action by the President.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dP0p92E0wec/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dP0p92E0wec/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180410111157-03-tom-bossert-2017-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/17/politics/tom-bossert-trump-us-agencies-hack-russia/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/tom-bossert-trump-us-agencies-hack-russia/index.html",
-      "publishedDateTime": "2020-12-17T06:58:06-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -577,7 +689,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1091,
+      "heat": 1111,
       "tags": null,
       "images": [
         {
@@ -1579,120 +1691,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-the-us-sends-egypt-billions-in-aid-fearing-extinction-rights-activists-hope-biden-will-act.md",
-      "title": "The U.S. sends Egypt billions in aid. Fearing 'extinction,' rights activists hope Biden will act.",
-      "excerpt": "Fearing 'extinction,' rights activists hope Biden will act. Rights groups say the scale of oppression under Egyptian President Abdel-Fattah el-Sissi is “unprecedented.” Jess Kelly said she knew her husband,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/u-s-sends-egypt-billions-aid-fearing-extinction-rights-activists-n1250554",
-      "originalUrl": "https://www.nbcnews.com/news/world/u-s-sends-egypt-billions-aid-fearing-extinction-rights-activists-n1250554",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_49/3432074/201201-egypt-el-sissi-mc-9182_ded51f2664c788e3890578a34275e2e0.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250554",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250554",
-      "publishedDateTime": "2020-12-12T01:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-how-netflixs-the-prom-musical-was-inspired-by-mike-pence.md",
-      "title": "How Netflix's 'The Prom' musical was inspired by Mike Pence",
-      "excerpt": "Based on a 2018 stage musical of the same name, Ryan Murphy's highly anticipated latest directorial project premiered Friday on Netflix and in select theaters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/feature/nbc-out/how-netflix-s-prom-musical-was-inspired-mike-pence-n1250946",
-      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/how-netflix-s-prom-musical-was-inspired-mike-pence-n1250946",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_50/3435185/201211-the-prom-netflix-ew-305p_1b7b20b1bc6468f75bbba783f3514f59.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250946",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250946",
-      "publishedDateTime": "2020-12-11T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Democratic Voice"
       ]
     }

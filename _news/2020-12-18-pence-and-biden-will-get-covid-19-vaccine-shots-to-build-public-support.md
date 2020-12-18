@@ -1256,6 +1256,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden and lawmakers raise alarms over cyber-breach amid Trump silence"
+    excerpt: "The president’s muted response to an organized hacking attack on the U.S. government marks the latest example of his persistent reluctance to criticize Russia."
+    publishedDateTime: 2020-12-18T00:47:00Z
+    webUrl: "https://www.washingtonpost.com/politics/russia-hacking-politics/2020/12/17/1c5708c6-40a4-11eb-8db8-395dedaaa036_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost%252Es3%252Eamazonaws%252Ecom%2Fpublic%2F6KBHERR7YMI6XNMLCYR7MJTZMA%252Ejpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden says he will 'not stand idly by' on the massive US cyberattack that Trump hasn't bothered to address yet"
     excerpt: "Biden's strong statement stood in sharp contrast to Trump's silence on the SolarWinds hack that compromised hundreds of US entities."
     publishedDateTime: 2020-12-17T22:33:00Z
@@ -2029,6 +2043,22 @@ related:
         isCached: true
   - title: "Mike Pence to receive COVID-19 vaccine Friday; Joe Biden will get vaccinated as soon as next week"
     excerpt: "Vice President Mike Pence will get the COVID-19 vaccine publicly Friday, while President-elect Joe Biden will get vaccinated as soon as next week."
+    publishedDateTime: 2020-12-16T00:00:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3933565001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3933565001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 77
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/a604c818-a3fd-473c-9581-fe528141bf4a-Pence_in_Tally.jpg?auto=webp&crop=3599,2025,x0,y120&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence to receive COVID-19 vaccine Friday; Joe Biden will get vaccinated as soon as next week"
+    excerpt: "Vice President Mike Pence will get the COVID-19 vaccine publicly Friday, while President-elect Joe Biden will get vaccinated as soon as next week."
     publishedDateTime: 2020-12-17T00:40:00Z
     webUrl: "https://www.freep.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/?itm_source=parsely-api"
     ampWebUrl: "https://amp.freep.com/amp/3933565001"
@@ -2274,6 +2304,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "hfI6ZyI4zeisJeF0OrOTecb2W5nRdhv2/KquXNrDxv6kYB22fdaracTC0mJzqyeK3jSFcB4VcaWaj3nG345AXPMAjuvZMZRvcknZHO6HAj1DGmhsCc0okJoCdOuNl6kmKHgjIZ9AjVSZD03+wiReNKiGHor9iyKDi8pKGRrCUIe448yOKulex1EhqC176qKrb19BJnVKm5WDlkD6qDbRHDf9EnRNEr1nytrhtrz4EHry7EQ3lgGNqjRJIyqqvilfpA87peuL4UFRTPQG3L2KJKEjVipKbe8GOvLHJtzdyW8lOrJ/c//x/XEKSmSg85WkMZL2f124IY+jGWo7df85mgn6wXjGu7324lVhoI4gd7Y=;/bupTMrzkZstI04GCpFgKg=="
+secured: "mVnJF27Q9rFkcGhbIRiRXCWy7stmG6648h4lbGY2p4Ig0cN5+P5q6v1oC9Xi4ZLBIpzhxK1476svyURPhCEKaR5KOEcDMQZDWDgpNUpwqVVw0C7jUs2TVii8ofE7YgZNUmTS1INU7NfHLlU72qsEMWbmDFWdLojkQWnt5R/U/lZuoBKATXRFbf8unAF3kMBKQndBaP8dCf1ktakbtfQakkU2Ek0y2d8IMj3kA2Xno4/6oWKt4mcYGBgjQgFHT+yW3lLGts5rgKrkWoTtZNrosRib+ZUQGDqdN32H7rjf+ai59UaopowAwFs1IVKrzFpqda/IQBt+O8Rzaa1O5Q/XfclwI8fRSsJr5IQsvkFpFX9QDjnLfJx6mX13cj9rsGYQEd3hruFo08t1BYgauwg4Ml0nXxaXs0XpJor0yS2iKi1kU/+x0ZOVKPFkEyrV3fwdXy6ktlJ2idqe9Z0IuOuA3oFmmwkpY5+lM4WjS8C0Yenug18Us3Fn33q2H9GgftkbAyYbi1fv/F9EWZwA1GDAmw==;0IuwP3Db558KSO92jc6URA=="
 ---
 
