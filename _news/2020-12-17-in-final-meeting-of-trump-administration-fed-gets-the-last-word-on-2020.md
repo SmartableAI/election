@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Glimmers of progress in stimulus negotiations as Trump's election sideshow drags on"
+    excerpt: "For the first time in months there were small signs of a functioning government Wednesday as congressional leaders negotiated a Covid-19 relief package and millions of vaccine doses were shipped out under the watchful eye of officials with Operation Warp Speed while carrying out contingency planning for delays due to the winter storm."
+    publishedDateTime: 2020-12-17T00:56:00Z
+    webUrl: "https://www.cnn.com/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 144
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216164205-us-capitol-snow-1216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "George W. Bush sends holiday card with pointed message as Trump denies election loss"
     excerpt: "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss."
     publishedDateTime: 2020-12-16T23:44:00Z
@@ -143,6 +159,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/16/multimedia/00trumpjudges/00trumpjudges-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Congress braces for painful veto clash with Trump on defense bill"
+    excerpt: "Congressional leaders are scrambling to avoid an unusual scenario in which lawmakers are summoned back to Washington in the days between Christmas and New Year’s for a dramatic, eleventh-hour vote to overturn Trump's promised veto of a massive national defense bill."
+    publishedDateTime: 2020-12-17T21:20:00Z
+    webUrl: "https://www.politico.com/news/2020/12/17/congress-trump-defense-bill-veto-447900"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/congress-trump-defense-bill-veto-447900"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/congress-trump-defense-bill-veto-447900"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/de/3e/2ecd7d6241fe83c9e3f29ee1aade/gettyimages-1223644845.jpg"
+        width: 4000
+        height: 2665
         isCached: true
   - title: "Inside the Right-Wing Media Bubble, Where the Myth of a Trump Win Lives On"
     excerpt: "The Electoral College has affirmed Biden’s victory. That doesn’t mean that Trump-friendly news outlets have accepted it."

@@ -28,7 +28,7 @@ related:
   - title: "Mike And Karen Pence Will Get The COVID Vaccine Before Cameras This Friday"
     excerpt: "Vice President Mike Pence is set to get the COVID-19 vaccine at the White House on Friday, officials announced Wednesday, making him the highest-ranking person in government to receive a dosage. Pence and second lady Karen Pence are expected to get the vaccine in public before media \"to promote the safety and efficacy of the vaccine and build confidence among the American people,"
     publishedDateTime: 2020-12-17T02:49:00Z
-    webUrl: "https://www.buzzfeednews.com/article/salvadorhernandez/mike-pence-joe-biden-vaccine"
+    webUrl: "https://www.buzzfeednews.com/article/salvadorhernandez/mike-pence-joe-biden-vaccine?scrolla=5eb6d68b7fedc32c19ef33b4"
     ampWebUrl: "https://www.buzzfeednews.com/amphtml/salvadorhernandez/mike-pence-joe-biden-vaccine"
     cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/salvadorhernandez/mike-pence-joe-biden-vaccine"
     type: article

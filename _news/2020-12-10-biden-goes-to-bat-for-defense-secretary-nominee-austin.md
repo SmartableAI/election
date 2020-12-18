@@ -32,51 +32,113 @@ images:
     isCached: true
 
 related:
-  - title: "Biden on nominating diverse Cabinet: 'I'm going to keep my commitment'"
-    excerpt: "Joe Biden said Thursday he would keep his commitment to nominate a Cabinet that reflects America's diversity, as the President-elect faces increasing pressure to appoint Black and Latino nominees to remaining high-level Cabinet positions.\n    \n"
-    publishedDateTime: 2020-12-04T02:37:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vsb3q7crI98/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html"
+  - title: "Trump's health secretary: 'Of course, we would' vaccinate Biden publicly if he asks"
+    excerpt: "Health and Human Services Secretary Alex Azar said Monday that if President-elect Joe Biden wants the newly released Covid-19 vaccine, the agency will ensure that he receives it.\n    \n"
+    publishedDateTime: 2020-12-14T22:29:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xyUkAcbdqh8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/azar-vaccinate-biden-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/azar-vaccinate-biden-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214170919-alex-azar-1214-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden picks retired Gen. Lloyd Austin to be his secretary of defense"
+    excerpt: "President-elect Joe Biden has selected retired Army Gen. Lloyd Austin, the former commander of US Central Command, to be his secretary of defense, a source familiar with the decision told CNN on Monday.\n    \n"
+    publishedDateTime: 2020-12-08T00:33:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9EqU31lITSQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/biden-picks-lloyd-austin-as-secretary-of-defense/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/biden-picks-lloyd-austin-as-secretary-of-defense/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/111129080221-biden-and-general-story-top.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Biden's Cabinet conundrum deepens amid criticism over diversity"
-    excerpt: "Joe Biden renewed his promise this week to build an administration that will \"look like the country.\" But that task is proving to be a major challenge for the President-elect as he tries to achieve the right ideological balance and avoid alienating key allies -- while some Black and Latino leaders voice"
-    publishedDateTime: 2020-12-05T14:23:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7BlO8kzxmos/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/joe-biden-diversity-cabinet-picks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/joe-biden-diversity-cabinet-picks/index.html"
+  - title: "Joe Biden picks Pete Buttigieg to be transportation secretary"
+    excerpt: "President-elect Joe Biden will nominate Pete Buttigieg to be his transportation secretary, sources familiar with the matter tell CNN, elevating the former South Bend, Indiana, mayor and 2020 Democratic presidential candidate to a top post in the federal government.\n    \n"
+    publishedDateTime: 2020-12-15T20:20:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GPanXIsLRr0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/pete-buttigieg-transportation-secretary/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/pete-buttigieg-transportation-secretary/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204172428-biden-coronavirus-vaccine-distribution-challenge-trump-saenz-dnt-tsr-vpx-00002530-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200205110445-bt101-pete-buttigieg-020520-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "'Push me': Biden welcomes diversity push as he faces criticism over Cabinet picks"
-    excerpt: "President-elect Joe Biden got a lot of help from a lot of different people to beat President Donald Trump. Now he's already facing some frustration from constituencies that got him elected that he's not giving them enough room at the governing table.\n    \n"
-    publishedDateTime: 2020-12-04T05:10:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d9WgPfyMM9Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/what-matters-biden-cabinet-diversity/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/what-matters-biden-cabinet-diversity/index.html"
+  - title: "Pompeo to meet Biden's secretary of state nominee this week"
+    excerpt: "President-elect Joe Biden's pick for secretary of state is expected to visit the State Department and meet with Secretary of State Mike Pompeo on Thursday for the first time since Biden's victory, according to three sources familiar with the planning.\n    \n"
+    publishedDateTime: 2020-12-15T12:23:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xmhboimWSrQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/pompeo-blinken-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/pompeo-blinken-meeting/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203220123-joe-biden-tapper-intv-inauguration-12032020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209093643-antony-blinken-1124-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House chairman endorses Flournoy to be Biden's Secretary of Defense nominee "
+    excerpt: "The Democratic chairman of the House Armed Services Committee, Rep. Adam Smith, is backing Michele Flournoy to be President-elect Joe Biden's pick for Defense Secretary, saying Monday she is \"hands down\" the most qualified person for the job.\n    \n"
+    publishedDateTime: 2020-12-07T21:52:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IZKXq6xUSRU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/adam-smith-endorses-flournoy-biden-secretary-of-defense/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/adam-smith-endorses-flournoy-biden-secretary-of-defense/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161107105730-michele-flournoy-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden expected to nominate Rep. Marcia Fudge as secretary of Housing and Urban Development"
+    excerpt: "President-elect Joe Biden is expected to nominate Ohio Rep. Marcia Fudge as secretary of Housing and Urban Development, two people familiar with the transition said, a decision that would add another African American woman to the ranks of his Cabinet.\n    \n"
+    publishedDateTime: 2020-12-09T00:18:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jUHJfkpbhXU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/marcia-fudge-hud-secretary/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/marcia-fudge-hud-secretary/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208175659-marcia-fudge-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden expected to nominate Tom Vilsack as Agriculture secretary later this week"
+    excerpt: "President-elect Joe Biden is expected to nominate Tom Vilsack to lead the Department of Agriculture, two sources familiar with the matter said.\n    \n"
+    publishedDateTime: 2020-12-09T00:43:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IHph6EYcEAo/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160720165245-vilsack-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

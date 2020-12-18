@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP senators ready to acknowledge Biden won but struggle with Trump's refusal to concede  "
+    excerpt: "A growing number of Senate Republicans are ready to publicly acknowledge what's been widely known for weeks but what they've refused to say: Joe Biden won the presidency and will be sworn in on January 20.\n    \n"
+    publishedDateTime: 2020-12-10T02:32:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GQuPNFqMAoc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/republican-reaction-trump-refusal-to-concede/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/republican-reaction-trump-refusal-to-concede/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181005192042-republican-senators-1004-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democrats' push to investigate Trump won't stop when he leaves office"
     excerpt: "Democrats in Congress are still intent on investigating President Donald Trump and his administration after he leaves office, including a pursuit of Trump's tax returns, a drive that threatens to complicate President-elect Joe Biden's pledges of bipartisan unity since he won the election.\n    \n"
     publishedDateTime: 2020-12-07T11:01:51Z

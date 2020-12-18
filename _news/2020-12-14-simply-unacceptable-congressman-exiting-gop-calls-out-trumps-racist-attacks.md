@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/14/mitchell-son-russ
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/14/mitchell-son-russia-republican-party-exit-vpx.cnn"
 type: article
 quality: 171
-heat: 191
+heat: 211
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214155848-02-rep-paul-mitchell-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "How McConnell and the GOP let Trump down gently"
+    excerpt: "Before recognizing Joe Biden as America’s next president, Mitch McConnell was careful to make sure President Donald Trump was in the loop. The Senate majority leader transmitted a message to the White House ahead of time that he would be giving remarks congratulating Biden on his win over Trump,"
+    publishedDateTime: 2020-12-15T23:36:00Z
+    webUrl: "https://www.politico.com/news/2020/12/15/mcconnell-gop-let-trump-down-gently-election-445690"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/c4/38/729278f34d458534f28f6f35e8a9/ap20350731665251-c.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "RP1wu5RQ1VGD5sBnwiL/qdnPwv/DXa41R1PzaiDRgCjcbtOGxK8Vkz5rvoowJHjuRSLTHBxbylLgPtraHeEJyKxy8gikfzbuPgCH/91oXcJd7gEUSgJnKfDvrgifH+53PgpypD1MH2bUBGND3FSrDJ4xU2GqJcTS2KDY1AueXkw6qjKLr4C0hkolREcnIQWM72dN8FwVji8wmShcjepXC+W9oT8y4AyhafHWKTwaVwfKlqvizQ4gkBoxCKlTcBca2fWSdorexpNzTs6f7HgPQLDlUkoMfFdoDdyaPqQkRBDQKK+1yIx9yDhnQQhwi6TzxeFNTumpqOWLDaa12hGqzCgP8I+wxfCOVDnZz/d9Cho=;I6sj8CUiwx/w9DCVKP2ufA=="

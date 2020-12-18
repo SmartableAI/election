@@ -3,8 +3,8 @@ category: news
 title: "Mike And Karen Pence Will Get The COVID Vaccine Before Cameras This Friday"
 excerpt: "Vice President Mike Pence is set to get the COVID-19 vaccine at the White House on Friday, officials announced Wednesday, making him the highest-ranking person in government to receive a dosage. Pence and second lady Karen Pence are expected to get the vaccine in public before media \"to promote the safety and efficacy of the vaccine and build confidence among the American people,"
 publishedDateTime: 2020-12-17T02:49:00Z
-originalUrl: "https://www.buzzfeednews.com/article/salvadorhernandez/mike-pence-joe-biden-vaccine"
-webUrl: "https://www.buzzfeednews.com/article/salvadorhernandez/mike-pence-joe-biden-vaccine"
+originalUrl: "https://www.buzzfeednews.com/article/salvadorhernandez/mike-pence-joe-biden-vaccine?scrolla=5eb6d68b7fedc32c19ef33b4"
+webUrl: "https://www.buzzfeednews.com/article/salvadorhernandez/mike-pence-joe-biden-vaccine?scrolla=5eb6d68b7fedc32c19ef33b4"
 ampWebUrl: "https://www.buzzfeednews.com/amphtml/salvadorhernandez/mike-pence-joe-biden-vaccine"
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/salvadorhernandez/mike-pence-joe-biden-vaccine"
 type: article
@@ -46,6 +46,6 @@ related:
         height: 630
         isCached: true
 
-secured: "0v++mUcddJUQ63EEeG2cIzA4XcvMfMeYL3tbvwa8SE9FEmMRe1yrCsFOxe9bvy/idSxU9n5V2rNXio0GrKF62ath8/Bmez5Eu4krcsuMOmylG4wT1f305ZCYJ44W9vqeRooJkYjWWQzip/G74aYvmf0nG5gYrO5IxV8dKrkq0tV5eCSGEzRtcvEcSBRR6uMMjaO6oRShVEJabWgvElBmnOn7u8MUAQHh69PlSQLRRltjGMr3BOHyESTyBiFI/hNSVjGdWmGeBy6EjFCSkgaSb268ggfSWW9fAbcpWlokbFpzw6dgQgbl6N9+irJNX2ih8fJ0/CvwqYnh16zXbHf+8FDyztVgQwcgEgypct9N3F2gFg4T6g0cfNPd/GHkCemJZZmvPL53/iQ/u4832XXSK9EX+CHY0kK3vzAPo95h2P7PJ2A8hzU7htH62RvyqERkaEDCXL+P7ywzQemuu4IazGIZsSVrHy+6UAChY7QxHGoXoskTgS5corJwHKYIWQdv2lE6FTcSLfAP44jiVDVDDg==;+KKTxcVVkIhaVLQR4DEsKQ=="
+secured: "TqfXGL7jEBTqL/F1Vn0yxto7NsIXKAvHsqXTHa6dvBcsIS8LA1vmITOO2kKcR4c/z1fofwNwX2+tpmI81cdFe6X7X0GPBvZEuTXKOmXvoAfvi1FSh/ibDgjdVFmJVm+mSDBakAcEiriKUWZhXpOluv+FLZyKOpLfWqfKIiXvbflWcF/7AMx5b+DDHjv4gSFoextpO7IvC930woV+fryyl3mu30IF+fMihw8ojZgJgNGbbHpo2JR6AKvTAXYEGxgEUg8WHnIejutF37dDtohNhTlklRkdd+lXWfIsOmy8EKZzSQD8mzdL9hTSrW6NlKDpFNctGZRDALuCCHifjOFXUxBlH2xqiUcQ0UFC7bnHLkQ=;N97HYZ0QmQhDj4P8CLe0Pw=="
 ---
 

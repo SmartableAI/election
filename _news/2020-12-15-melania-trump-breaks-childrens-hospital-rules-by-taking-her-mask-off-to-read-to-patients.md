@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump still plans to veto defense spending bill"
+    excerpt: "President Donald Trump's vow to veto the bipartisan National Defense Authorization Act places Capitol Hill in a bind and could lead to Congress having to return to session between Christmas and New Year's.\n    \n"
+    publishedDateTime: 2020-12-16T18:43:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/befXOvGMC0Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/donald-trump-ndaa-congress-armed-services-defense/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/donald-trump-ndaa-congress-armed-services-defense/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216111257-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Mar-a-Lago neighbors want Trump to go elsewhere after he leaves the White House "
     excerpt: "First lady Melania Trump plans to slip down to Palm Beach via government jet on Friday for a weekend walk-through of renovations underway at the Trump family's private quarters at Mar-a-Lago, according to a source familiar with the first lady's schedule, to make sure it's to her liking before she and"
     publishedDateTime: 2020-12-16T22:13:20Z

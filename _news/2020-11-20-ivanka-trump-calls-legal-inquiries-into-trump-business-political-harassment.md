@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chris Christie calls Trump's legal team a 'national embarrassment' "
-    excerpt: "A staunch ally of Donald Trump said Sunday it was time for the President to end his futile gambit to overturn the results of the election.\n    \n"
-    publishedDateTime: 2020-11-22T18:26:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pwx-NTHUpCA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/22/politics/chris-christie-donald-trump-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/chris-christie-donald-trump-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003121933-chris-christie-0927-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Christie says Trump legal team ‘a national embarrassment’"
     excerpt: "The former New Jersey governor said the president’s legal defense has an obligation to present actual evidence."
     publishedDateTime: 2020-11-22T18:09:00Z

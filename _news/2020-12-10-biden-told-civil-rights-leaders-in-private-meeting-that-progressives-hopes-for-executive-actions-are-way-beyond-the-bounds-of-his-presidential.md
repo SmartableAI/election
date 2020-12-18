@@ -271,22 +271,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Investigation of His Son Is Likely to Hang Over Biden as He Takes Office"
-    excerpt: "Unless the Trump Justice Department clears Hunter Biden, the new president will confront the prospect of his own administration handling an inquiry that could expose his son to criminal prosecution."
-    publishedDateTime: 2020-12-11T01:42:00Z
-    webUrl: "https://www.nytimes.com/2020/12/10/us/politics/hunter-biden-investigation.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/10/us/politics/hunter-biden-investigation.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/10/us/politics/hunter-biden-investigation.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/10/us/politics/10dc-investigate1/10dc-investigate1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Hunter Biden, president-elect's son, says Delaware AG is probing his taxes"
     excerpt: "The probe comes weeks after an election in which President Donald Trump and his allies made unfounded and baseless claims of corruption regarding Hunter Biden and his father."
     publishedDateTime: 2020-12-09T21:55:00Z

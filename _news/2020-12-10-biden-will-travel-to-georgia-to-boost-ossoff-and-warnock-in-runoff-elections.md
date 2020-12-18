@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "'Vote like your lives depend on it': Biden makes urgent plea in Georgia Senate races"
-    excerpt: "During the Atlanta rally, Biden put the race in national terms, and said his administration's agenda is on the line."
-    publishedDateTime: 2020-12-15T22:16:00Z
-    webUrl: "https://www.politico.com/news/2020/12/15/biden-plea-georgia-senate-races-445705"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/15/biden-plea-georgia-senate-races-445705"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/15/biden-plea-georgia-senate-races-445705"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 128
-    images:
-      - url: "https://static.politico.com/91/3f/2dcd541d43819ed67adbd7930921/gettyimages-1291478059-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "uS+PuYvMT8Qe19dmbJoO6baUs3tM5XjQoYBOcVxTsWSZghpxD4V8ePcb0aIBhZIWK+/ARGBGnQs0LnS1FThTpSo98umQBrK+CpjWb4L1cIO10kMihVr533FVicTBRxYpSDnVYAP7O0CJshERYjTEcOOLcwzuKaqZt6ud/P4Shn/D0mhGyZAQFer7m84tC/FXtl+1322GFg0nVGdohstZzku4uAyWDihGCsiBSpkZTB3tPpe/8ilCKvswTTnB3jo0OsJTe94MswUjvEZHFX2MII8kxxeDSRgcnkVSUYvV8I5eznRrtXz86iWPgsJXc2/lJYowqpPj0YCD7f0RYT8PztZuCldiAtoNzgAKk5n17jYFAm9zi0E/v6GMw5W8U9RsNayEghtMAdDeAHxdv2jP1f+1ZHMkWypKQy8KpwlwUvCiCbq60dDdXcB6ABks2e+lfCHlHQTwjxCGhuUw+DOUNWwEE6gJQ2fNl6O4frmWfnj/t6YaH2VhmIO9K14NOq+s0Uf4xZv2M5h2adrI/qn4sQ==;Ys+IWGt1U18C20eboPKKDQ=="
 ---

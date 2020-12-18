@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump will leave office with a historically bad economic record"
+    excerpt: "President Donald Trump still can't accept the numbers measuring his loss to Joe Biden: more than 7 million popular votes and 74 electoral votes.\n    \n"
+    publishedDateTime: 2020-12-13T16:24:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yQoTeKQflQg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/trump-economy-record/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/trump-economy-record/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207085911-food-bank-usa-1201-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Melania Trump cheers new White House tennis pavilion amid ongoing pandemic"
     excerpt: "First lady Melania Trump's office announced Monday the finalization of the White House Tennis Pavilion -- a tone deaf accomplishment to trumpet amid the ongoing coronavirus pandemic and as the federal government remains locked on providing further economic relief to millions of suffering Americans.\n"
     publishedDateTime: 2020-12-07T16:04:28Z

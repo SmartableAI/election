@@ -47,21 +47,37 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Al Gore conceded on this date. Trump still hasn't"
-    excerpt: "President Donald Trump shows no signs of acknowledging reality, as he continues his hopeless journey to overturn the 2020 election results. Whether he likes it or not, it's President-elect Joe Biden who will be president starting on January 20.\n    \n"
-    publishedDateTime: 2020-12-13T15:21:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mFygR2rYmmc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/trump-gore-concede/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/trump-gore-concede/index.html"
+  - title: "Never-Trump movement splinters as its villain heads for the exit"
+    excerpt: "The defeat of Donald Trump might have been the easy part for never-Trump Republicans. Next up: taking on the more elusive target of Trumpism with their boogeyman gone from office. More than a dozen leaders of the never-Trump movement said in interviews that they see their work as far from over once Joe Biden is sworn in on Jan."
+    publishedDateTime: 2020-12-17T09:30:00Z
+    webUrl: "https://www.politico.com/news/2020/12/17/never-trump-what-next-447235"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/never-trump-what-next-447235"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/never-trump-what-next-447235"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109123506-03-concession-speech-gore-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/26/e0/b307118d44dfb9124b1b33c25bee/1216wh.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump vows to veto defense bill that Congress sent him"
+    excerpt: "President Donald Trump said Thursday that he plans to follow through on his threat to veto the annual defense policy bill that passed with veto-proof majorities in the House and the Senate last week."
+    publishedDateTime: 2020-12-17T16:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/trump-vows-veto-defense-bill-congress-sent-him-n1251570"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251570"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251570"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_51/3436447/201217-donald-trump-jm-1056_6b8dd9a08c701d22da204e13e60e8e86.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "WYxzCzKaRNEs0afToQgjzLU6aXPEHwi81rFEhTjbPCwcmdO/RrwlKsZ+UwDaCukHer2/bqfjJO9MuBYv0aNaiFUPmVuoymz3kCAKbmzLVrXGvoogxEoFMGTwDBaA51tgk9+KXD0ucPi0Wev0AnEQim+qgfpxir11PRskSdzsLAb4vEJki4MRrWNM1ELevN/Q8rWx7Q+sXvVEkeXcmThsrRDAq88pC92kwmNLClIFxuq8aeFc2bjF/SMiQxwbMVKC3Ha0JW2qi0WGhtnPv/SEgCgFdkxBgCl73i8nI3MYmh63KrgypcxGS7ZrwyogMEze0gxnh/7J2vuLT7n3WyclOEhrVSwQm7oo6hG0Fv8tKZE=;yh4NrNdrMaqmk3RQYdeo6w=="

@@ -589,63 +589,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-16-in-bad-shape-and-getting-worse-guantanamo-poses-headaches-for-biden.md",
-      "title": "‘In Bad Shape and Getting Worse,’ Guantánamo Poses Headaches for Biden",
-      "excerpt": "The new administration confronts decaying infrastructure and a military justice system moving at a glacial pace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/15/us/politics/15dc-gitmo/15dc-gitmo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html",
-      "publishedDateTime": "2020-12-15T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-15-judith-heumann-biden-is-committed-to-involving-disabled-people-in-his-administration.md",
       "title": "Judith Heumann: 'Biden is committed to involving disabled people in his administration'",
       "excerpt": "The US activist on Covid’s impact and her starring role in Crip Camp, the documentary charting the birth of the disability rights movement",
@@ -799,63 +742,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-democracy-prevailed-biden-tries-to-close-the-door-on-a-tumultuous-election.md",
-      "title": "'Democracy prevailed': Biden tries to close the door on a tumultuous election",
-      "excerpt": "As the Electoral College moves to seal his victory, the president-elect is shifting his attention to the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216",
-      "originalUrl": "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216",
-      "publishedDateTime": "2020-12-14T13:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -1503,63 +1389,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-09-publicity-stunt-ags-in-battleground-states-blast-texas-counterpart-for-challenging-bidens-win.md",
-      "title": "'Publicity stunt': AGs in battleground states blast Texas counterpart for challenging Biden's win",
-      "excerpt": "Texas Attorney General Ken Paxton wants the Supreme Court to invalidate election results in four states, citing repeatedly debunked allegations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/publicity-stunt-ags-battleground-states-blast-texas-counterpart-challenging-biden-n1250383",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/publicity-stunt-ags-battleground-states-blast-texas-counterpart-challenging-biden-n1250383",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_50/3434192/201208-ken-paxton-jm-1218_11a694b478893a4a252cb3725659bec1.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250383",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250383",
-      "publishedDateTime": "2020-12-08T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-08-politics-updates-trump-reached-out-to-pa-house-speaker-over-election.md",
       "title": "Politics updates: Trump reached out to PA House speaker over election",
       "excerpt": "The Trump campaign has pressed Republicans to find ways to overturn election results in certain states the president lost.",
@@ -1610,6 +1439,172 @@
         "Election",
         "Donald Trump",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-biden-picks-retired-us-army-gen-lloyd-austin-to-head-the-pentagon-if-confirmed-hed-be-the-first-black-man-to-lead-the-defense-department.md",
+      "title": "Biden picks retired US Army Gen. Lloyd Austin to head the Pentagon. If confirmed, he'd be the first Black man to lead the Defense Department.",
+      "excerpt": "Retired US Army Gen. Lloyd Austin would be America's first Black defense secretary, if confirmed by Congress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12",
+      "originalUrl": "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc16dcb50e71a0011557c1f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12?amp",
+      "publishedDateTime": "2020-12-08T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-what-might-unite-a-divided-washington-behind-joe-biden-unsexy-infrastructure.md",
+      "title": "What Might Unite a Divided Washington Behind Joe Biden? Unsexy Infrastructure",
+      "excerpt": "Roads, bridges, airports, subways, broadband networks, windmills, solar farms. Infrastructure just might be the vehicle that could smash through the political roadblocks in Washington.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/what-might-unite-a-divided-washington-behind-joe-biden-unsexy-infrastructure-11607357371",
+      "originalUrl": "https://www.wsj.com/articles/what-might-unite-a-divided-washington-behind-joe-biden-unsexy-infrastructure-11607357371",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-269242/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/what-might-unite-a-divided-washington-behind-joe-biden-unsexy-infrastructure-11607357371",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-might-unite-a-divided-washington-behind-joe-biden-unsexy-infrastructure-11607357371",
+      "publishedDateTime": "2020-12-07T22:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-gordon-chang-warns-china-is-going-to-push-a-president-biden-around-and-us-must-push-back.md",
+      "title": "Gordon Chang warns China is 'going to push a President Biden around' and US must 'push back'",
+      "excerpt": "President-elect Joe Biden will be little match for the \"incredible arrogance\" of the Chinese government, China expert Gordon Chang warned on \"Tucker Carlson Tonight.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/gordon-chang-china-push-biden-around-dangerous",
+      "originalUrl": "https://www.foxnews.com/world/gordon-chang-china-push-biden-around-dangerous",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a52d8dc-304a-4ed1-8df0-2bc52a1f20c6/ed9014db-e768-4d7f-805d-1b28de78b272/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/gordon-chang-china-push-biden-around-dangerous.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/gordon-chang-china-push-biden-around-dangerous.amp",
+      "publishedDateTime": "2020-12-07T19:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
       ]
     }
   ],

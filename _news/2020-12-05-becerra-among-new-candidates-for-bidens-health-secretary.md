@@ -46,22 +46,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "House chairman endorses Flournoy to be Biden's Secretary of Defense nominee "
-    excerpt: "The Democratic chairman of the House Armed Services Committee, Rep. Adam Smith, is backing Michele Flournoy to be President-elect Joe Biden's pick for Defense Secretary, saying Monday she is \"hands down\" the most qualified person for the job.\n    \n"
-    publishedDateTime: 2020-12-07T21:52:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IZKXq6xUSRU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/adam-smith-endorses-flournoy-biden-secretary-of-defense/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/adam-smith-endorses-flournoy-biden-secretary-of-defense/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161107105730-michele-flournoy-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "qKbNcP6YVGmktZnB8oLP3qeFg/pLqMSdlDPAqDsvfZrHn/hTYKCTZANCriuYH369nkApGMymIcHfUwfjgmUNUFNYe3diUD/Gr7cjN2Lw0e8yfCpIQDv4Mjfvinjky2JFP8oM/RPOIDU/hrhMTqAH1OGLov1wwA8y6nJ6mEJA3cABGjGtqLLFkAPw2xTWGZrMuQW6KXYU8cYeFqpgCSeLqPHUzljRZqzjE2YnJ+Ee75O1/f37cTqoY9OHVNh7f/vSo38204UgWV1FDjxKW1heCogNZdXCQj4VUdVgxr9uGKILmIJUxhvxRL3EKaz3Ze4A/jBLFp0t4X+tEz3sMcWKP8K4yaTaXI3ojrfAaJHL31vlXwmwjd6uh3LgRY37CN+NWlxIzrj4K6WXS1EVRteA9tQ57IdIuxx9Wr+cLm2PfmkhQHST0Q7EQD/uYmL3pOuoJre/nnFb+Ms3H69X7KS83gsRpMQ7qH35uIiUaJiosogl8/UMGk2wN+7d3gNfupJYiWeOytoJ949htoBb4cbnVw==;YzkeFJpCHqPJ9pzgwuPfGA=="
 ---

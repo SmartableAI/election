@@ -144,6 +144,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Pence prepares to oversee Trump’s loss — and then leave town"
+    excerpt: "It’s a tactic Pence has used in recent weeks: stay out of the spotlight and insulate himself from his boss’s election-fraud crusade, while still bolstering his own credentials."
+    publishedDateTime: 2020-12-18T03:41:00Z
+    webUrl: "https://www.politico.com/news/2020/12/17/pence-trump-election-loss-447326"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/pence-trump-election-loss-447326"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/pence-trump-election-loss-447326"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/af/a2/56574fb144faaebea508e04c0125/gettyimages-1230056598-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump unleashes an army of sore losers"
     excerpt: "GOP candidates for House, legislative and gubernatorial races in more than half a dozen states are claiming voter fraud and still refusing to acknowledge defeat."
     publishedDateTime: 2020-12-13T12:24:00Z

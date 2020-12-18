@@ -880,19 +880,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Mike Pence rallies in Georgia for Senate runoff"
-    excerpt: "Vice President Mike Pence is seemingly holding rallies everywhere in Georgia lately — except Atlanta and its inner suburbs. Pence returned Thursday for events in Columbus and Macon to support Republican Sens."
-    publishedDateTime: 2020-12-17T19:39:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/17/mike-pence-rallies-georgia-senate-runoff/3945003001/"
+  - title: "Former White House official on Biden's Cabinet picks"
+    excerpt: "President-elect Joe Biden has pledged to unify a divided nation after the electoral college confirmed his election victory. Meantime, Biden's future cabinet is starting to take shape. So far he's announced more than a dozen nominees for key positions."
+    publishedDateTime: 2020-12-18T03:52:00Z
+    webUrl: "https://www.cbsnews.com/video/former-white-house-official-joe-grogan-on-biden-cabinet-picks-analysis/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2e1d175c-c4ea-45c6-ab01-1e5a997abea4_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/18/5d619364-6dff-43fa-b823-22bdbf743c05/thumbnail/1200x630/1d70155ebd39283cb129d4044fdfa4d5/cbsn-fusion-former-white-house-official-discusses-president-elect-bidens-post-electoral-college-speech-cabinet-picks-thumbnail-612021-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Electoral College to formally vote for Joe Biden to become next president"
     excerpt: "As Electoral College members meet in each state to cast their ballots, formally affirming Joe Biden as the next president of the United States, President Trump is vowing to continue fighting the election results."
@@ -1026,6 +1026,17 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 55
+  - title: "Mike Pence rallies in Georgia for Senate runoff"
+    excerpt: "Vice President Mike Pence is seemingly holding rallies everywhere in Georgia lately — except Atlanta and its inner suburbs."
+    publishedDateTime: 2020-12-17T21:22:00Z
+    webUrl: "https://www.stltoday.com/news/national/mike-pence-rallies-in-georgia-for-senate-runoff/video_e868a47e-236a-50d8-947b-d9364bfa37de.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/mike-pence-rallies-in-georgia-for-senate-runoff/video_e868a47e-236a-50d8-947b-d9364bfa37de.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/mike-pence-rallies-in-georgia-for-senate-runoff/video_e868a47e-236a-50d8-947b-d9364bfa37de.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 55
   - title: "Colorado Democratic Electors Cast Nine Votes for Joe Biden"
     excerpt: "Colorado’s nine Democratic presidential electors cast their votes for Joe Biden at the state Capitol on Monday. The vote formally seals Biden’s win in Colorado, where he beat President Donald Trump by about 14 percentage points,"

@@ -1,32 +1,24 @@
 ---
 category: news
 title: "Mike Pence rallies in Georgia for Senate runoff"
-excerpt: "Vice President Mike Pence is seemingly holding rallies everywhere in Georgia lately — except Atlanta and its inner suburbs. Pence returned Thursday for events in Columbus and Macon to support Republican Sens."
-publishedDateTime: 2020-12-17T19:39:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2020/12/17/mike-pence-rallies-georgia-senate-runoff/3945003001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/17/mike-pence-rallies-georgia-senate-runoff/3945003001/"
+excerpt: "Vice President Mike Pence is seemingly holding rallies everywhere in Georgia lately — except Atlanta and its inner suburbs."
+publishedDateTime: 2020-12-17T21:22:00Z
+originalUrl: "https://www.stltoday.com/news/national/mike-pence-rallies-in-georgia-for-senate-runoff/video_e868a47e-236a-50d8-947b-d9364bfa37de.html"
+webUrl: "https://www.stltoday.com/news/national/mike-pence-rallies-in-georgia-for-senate-runoff/video_e868a47e-236a-50d8-947b-d9364bfa37de.html"
+ampWebUrl: "https://www.stltoday.com/news/national/mike-pence-rallies-in-georgia-for-senate-runoff/video_e868a47e-236a-50d8-947b-d9364bfa37de.amp.html"
+cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/mike-pence-rallies-in-georgia-for-senate-runoff/video_e868a47e-236a-50d8-947b-d9364bfa37de.amp.html"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Election
   - Mike Pence
-
-images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2e1d175c-c4ea-45c6-ab01-1e5a997abea4_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "Election 2020 Today: Pence to Georgia, Biden’s climate team"
@@ -898,6 +890,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Former White House official on Biden's Cabinet picks"
+    excerpt: "President-elect Joe Biden has pledged to unify a divided nation after the electoral college confirmed his election victory. Meantime, Biden's future cabinet is starting to take shape. So far he's announced more than a dozen nominees for key positions."
+    publishedDateTime: 2020-12-18T03:52:00Z
+    webUrl: "https://www.cbsnews.com/video/former-white-house-official-joe-grogan-on-biden-cabinet-picks-analysis/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/18/5d619364-6dff-43fa-b823-22bdbf743c05/thumbnail/1200x630/1d70155ebd39283cb129d4044fdfa4d5/cbsn-fusion-former-white-house-official-discusses-president-elect-bidens-post-electoral-college-speech-cabinet-picks-thumbnail-612021-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Electoral College to formally vote for Joe Biden to become next president"
     excerpt: "As Electoral College members meet in each state to cast their ballots, formally affirming Joe Biden as the next president of the United States, President Trump is vowing to continue fighting the election results."
     publishedDateTime: 2020-12-14T14:54:00Z
@@ -1041,6 +1047,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "isKjcnRPjPbFPG8kxIIdK0S8zWt6J6nGeUHMQmg5tM3nvvMVjEOPi9rs/tOFjOhHJYC3Xal1mJx1Usth6R7pLubTvAxpxrUOVCtR++9b8LFIDKNvDMHBG7MB24pt7S14T5LkN6aIv7X0KCKXLVUVub+SPx3iHNF4ylVzhlAOO494Jd5dqLno22Wge58xusgQ/E1XWyBRUYxx60GO87gFyi70S9L6gEivnGzQhML2lJzfh9ISxT59Z7ySfahnmv9Iof6VKWkmjggcYYLEOUIomm5d7X1YqhkuxNFWxrD9u7VvcbEHAoAOGk4aNCpbTllb2IGBF7tMpZxgvzTW9dCyLMX5x7q/C4BSc7AIiC9/7pqfuiAI4an6VWDJVK488vG+WwaVJDEc8KT2j7lKc8xHiIRhOad0qYyyUz+dAvhLllSMViiCTvUoniNH2W39ZM+6xCqyaKhw/wAv/Rg7f5oBlzAmph63dPKYeIxUAHvO56yOyL48VEZlIOqZa+SmH1a83qMxXY1LPEVJhakt+kfA/A==;66U1lnYyUdGAESO7J5/W4g=="
+secured: "ovyascliod8wzrJ6z7/w0l/UvbGzRfW235Liuf4wZxDMv8EncELLMaYmcS6yxVnHXxxMTg1HcUd3I/ibypasvgbD0L43Mm1YsUP/ZhrDXDVGjouCrbLA6OwbQCmkdY30BMLsVcm+vxZo9hRxUkDNBRKtBHXLJ1f4S3pGHlEZujYGAbv6CbRtEV+b8OhqadoR1c9bCopfbORcxJB1dUMbjTiuvCBOwpfeg7Z9z1KUZCqRQn8Lz6Q+Y0W0x81klxGrcj7TVCGhRitfDPVd+Sh8tfqLib1OgMqQGUqeZ9ZJIFNYCrYkdd3rW4TqJGVwxnA4IaoVKttYxBfukzUcX+crdGhlZmTARvvx05KS/KmUJ8nFNTg3iI+8WgVZbtZmosCafLfyc4T2Jof+yQ8/PFUkW2tDu6jF4GyTwWuAe3zbwLLhrXsnmTrSy0CrjRKczDOTUNdJIv5fAOv/CrFp0Z5iZVXKlo3+5GwG9RXRSRwv6qonRuNzOdRv6GaS/WvIb+Oo/OYxE5dHHiHsuBj14DcyAQ==;Ptxjo2UfRJFZGoOjC/IM7g=="
 ---
 

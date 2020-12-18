@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/biden-campaign-ad-ossoff
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/biden-campaign-ad-ossoff-warnock/index.html"
 type: article
 quality: 174
-heat: 214
+heat: 194
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_50/3434621/201209-joe-biden-ew-650p_be2e1e53bb9eca7f378fef24b3d4a39d.jpg"
         width: 2500
         height: 1666
-        isCached: true
-  - title: "'Vote like your lives depend on it': Biden makes urgent plea in Georgia Senate races"
-    excerpt: "During the Atlanta rally, Biden put the race in national terms, and said his administration's agenda is on the line."
-    publishedDateTime: 2020-12-15T22:16:00Z
-    webUrl: "https://www.politico.com/news/2020/12/15/biden-plea-georgia-senate-races-445705"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/15/biden-plea-georgia-senate-races-445705"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/15/biden-plea-georgia-senate-races-445705"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 128
-    images:
-      - url: "https://static.politico.com/91/3f/2dcd541d43819ed67adbd7930921/gettyimages-1291478059-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "3dTaLoJ3ZIsLXdtgVmW8qqtKdwhP/2+3uEQI4jlF2SXi4w/WjirzArkW+ppz5XbzWKqPBHCkEidzyyZ959C0uY6Pa3+Zp7NN/oz0MGpm6C6FbVPQmiYEFur+lEMDwFrxsoVmYlHnHDDYB/08ewKsxrYSOH26VBmCQ1CVaLELCEa6wRFe5Rc2egfk41tFre6xBuSNmES+kjPB2VrQ6eBxY3itvkJERF5vQMqVXH1xtiqx+mzeYkGGnyGm04dRvAsP73YmZmRrN+odopCr080ez7j/4PcREmNlat6GSzdiuJbZNLItAh7I9nX+48vJHMOCFRoexTCKM1IYRFRHzb7t7isyeeK93tURGwNWUj8xSfw=;o3BuLSSaDCBa+pgBvG93rA=="

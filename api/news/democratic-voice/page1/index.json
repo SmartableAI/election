@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-18-top-trump-ally-chris-christie-says-its-time-to-accept-biden-won-the-election.md",
+      "title": "Top Trump ally Chris Christie says it's time to accept Biden won the election",
+      "excerpt": "Former New Jersey Gov. Chris Christie, a staunch ally of President Donald Trump, said Thursday evening it's time to accept that Joe Biden won the 2020 election as the President continues to push baseless conspiracy theories that his second term is being stolen.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hfT_oZuYxhw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hfT_oZuYxhw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 602,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170806105323-0806-chris-christie-lead-image-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/17/politics/chris-christie-us-election-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/chris-christie-us-election-cnntv/index.html",
+      "publishedDateTime": "2020-12-17T19:04:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-trump-remains-silent-as-massive-cyber-hack-poses-grave-risk-to-government.md",
       "title": "Trump remains silent as massive cyber hack poses 'grave risk' to government",
       "excerpt": "When President Donald Trump convened his Cabinet at the White House Wednesday as Washington absorbed news of a massive data breach, the heads of most agencies relevant to the intrusion — including the Department of Defense, the State Department, the Justice Department, the director of national intelligence",
@@ -114,62 +170,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-17-house-democratic-majority-will-be-3-vote-margin-after-biden-picks-haaland-for-interior-post.md",
-      "title": "House Democratic majority will be 3-vote margin after Biden picks Haaland for interior post",
-      "excerpt": "With President-elect Joe Biden choosing Rep. Deb Haaland as his nominee for interior secretary, House Speaker Nancy Pelosi will have only a three-seat vote margin for her Democratic majority heading into the 117th Congress in a Biden administration.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qNdXD1PBGAg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qNdXD1PBGAg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201110111702-14-biden-admin-possibilities-haaland-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/17/politics/house-democratic-majority-margin-haaland/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/house-democratic-majority-margin-haaland/index.html",
-      "publishedDateTime": "2020-12-17T14:40:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-18-biden-to-tap-north-carolina-environmental-regulator-regan-to-head-epa.md",
       "title": "Biden to tap North Carolina environmental regulator Regan to head EPA",
       "excerpt": "The pick is a major nod to the party's progressive wing that pushed Biden's team to emphasize minority and poor communities facing threats from pollution.",
@@ -239,7 +239,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 214,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -295,7 +295,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -339,62 +339,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-17-bidens-search-for-an-attorney-general-complicated-by-competing-questions.md",
-      "title": "Biden's search for an attorney general complicated by 'competing questions'",
-      "excerpt": "The deliberations among President-elect Joe Biden's tight circle of advisers about whom he should nominate as attorney general have emerged as some of the more complicated of the transition, sources familiar with the process tell CNN, with possible investigations into President Donald Trump, a federal",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-10qhQXfO-o/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-10qhQXfO-o/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201215062840-03-joe-biden-1214-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/16/politics/biden-attorney-general/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/biden-attorney-general/index.html",
-      "publishedDateTime": "2020-12-16T18:16:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-16-george-w-bush-sends-holiday-card-with-pointed-message-as-trump-denies-election-loss.md",
       "title": "George W. Bush sends holiday card with pointed message as Trump denies election loss",
       "excerpt": "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss.\n    \n",
@@ -407,7 +351,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 343,
+      "heat": 383,
       "tags": null,
       "images": [
         {
@@ -677,62 +621,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-16-mcconnell-sets-stage-for-new-face-off-with-biden-after-delivering-blow-to-trumps-election-fantasy.md",
-      "title": "McConnell sets stage for new face-off with Biden after delivering blow to Trump's election fantasy",
-      "excerpt": "President Donald Trump is now learning, in the words of his Rolling Stones campaign anthem, that he can't always get what he wants. Sen. Mitch McConnell, on the other hand, usually does.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/44n-hfRbpmQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/44n-hfRbpmQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 1111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201215105233-mcconnell-biden-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/16/politics/joe-biden-mitch-mcconnell-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/joe-biden-mitch-mcconnell-donald-trump/index.html",
-      "publishedDateTime": "2020-12-16T04:17:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-16-like-a-hand-grasping-trump-appointees-describe-the-crushing-of-the-cdc.md",
       "title": "‘Like a Hand Grasping’: Trump Appointees Describe the Crushing of the C.D.C.",
       "excerpt": "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, go public on the Trump administration’s manipulation of the agency.",
@@ -859,7 +747,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 375,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -960,63 +848,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-16-in-bad-shape-and-getting-worse-guantanamo-poses-headaches-for-biden.md",
-      "title": "‘In Bad Shape and Getting Worse,’ Guantánamo Poses Headaches for Biden",
-      "excerpt": "The new administration confronts decaying infrastructure and a military justice system moving at a glacial pace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/15/us/politics/15dc-gitmo/15dc-gitmo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html",
-      "publishedDateTime": "2020-12-15T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-15-inauguration-committee-says-bidens-scaled-down-swearing-in-will-include-vigorous-health-and-safety-protocols.md",
       "title": "Inauguration committee says Biden's scaled-down swearing-in will include 'vigorous health and safety protocols'",
       "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris will take their oaths of office at the US Capitol in January during a significantly scaled-down inauguration ceremony that will implement \"vigorous health and safety protocols,\" the Presidential Inaugural Committee said Tuesday.\n    \n",
@@ -1029,7 +860,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 175,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -1085,7 +916,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 460,
+      "heat": 480,
       "tags": null,
       "images": [
         {
@@ -1130,6 +961,62 @@
       ]
     },
     {
+      "path": "_news/2020-12-14-trumps-health-secretary-of-course-we-would-vaccinate-biden-publicly-if-he-asks.md",
+      "title": "Trump's health secretary: 'Of course, we would' vaccinate Biden publicly if he asks",
+      "excerpt": "Health and Human Services Secretary Alex Azar said Monday that if President-elect Joe Biden wants the newly released Covid-19 vaccine, the agency will ensure that he receives it.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xyUkAcbdqh8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xyUkAcbdqh8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 324,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201214170919-alex-azar-1214-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/14/politics/azar-vaccinate-biden-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/azar-vaccinate-biden-cnntv/index.html",
+      "publishedDateTime": "2020-12-14T14:29:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-simply-unacceptable-congressman-exiting-gop-calls-out-trumps-racist-attacks.md",
       "title": "'Simply unacceptable:' Congressman exiting GOP calls out Trump's racist attacks",
       "excerpt": "Rep. Paul Mitchell tells CNN's Jake Tapper that he no longer wants to be affiliated with the Republican Party and calls out President Trump's racist attacks.\n    \n",
@@ -1142,7 +1029,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 191,
+      "heat": 211,
       "tags": null,
       "images": [
         {
@@ -1182,63 +1069,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-democracy-prevailed-biden-tries-to-close-the-door-on-a-tumultuous-election.md",
-      "title": "'Democracy prevailed': Biden tries to close the door on a tumultuous election",
-      "excerpt": "As the Electoral College moves to seal his victory, the president-elect is shifting his attention to the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216",
-      "originalUrl": "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216",
-      "publishedDateTime": "2020-12-14T13:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -1296,6 +1126,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-electors-in-key-battleground-states-affirm-votes-for-biden.md",
+      "title": "Electors in key battleground states affirm votes for Biden",
+      "excerpt": "Electors in Vermont and Tennessee cast their ballots for president Monday morning, opening the formal Electoral College process of sealing Joe Biden's election as the 46th president of the United States.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vrRedsEWYVk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vrRedsEWYVk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 895,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201214124640-electoral-college-iowa-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html",
+      "publishedDateTime": "2020-12-14T10:09:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Democratic Voice"
       ]
     },
@@ -1426,7 +1312,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 193,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -1651,7 +1537,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1691,6 +1577,120 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-the-us-sends-egypt-billions-in-aid-fearing-extinction-rights-activists-hope-biden-will-act.md",
+      "title": "The U.S. sends Egypt billions in aid. Fearing 'extinction,' rights activists hope Biden will act.",
+      "excerpt": "Fearing 'extinction,' rights activists hope Biden will act. Rights groups say the scale of oppression under Egyptian President Abdel-Fattah el-Sissi is “unprecedented.” Jess Kelly said she knew her husband,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/u-s-sends-egypt-billions-aid-fearing-extinction-rights-activists-n1250554",
+      "originalUrl": "https://www.nbcnews.com/news/world/u-s-sends-egypt-billions-aid-fearing-extinction-rights-activists-n1250554",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_49/3432074/201201-egypt-el-sissi-mc-9182_ded51f2664c788e3890578a34275e2e0.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250554",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250554",
+      "publishedDateTime": "2020-12-12T01:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-how-netflixs-the-prom-musical-was-inspired-by-mike-pence.md",
+      "title": "How Netflix's 'The Prom' musical was inspired by Mike Pence",
+      "excerpt": "Based on a 2018 stage musical of the same name, Ryan Murphy's highly anticipated latest directorial project premiered Friday on Netflix and in select theaters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/feature/nbc-out/how-netflix-s-prom-musical-was-inspired-mike-pence-n1250946",
+      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/how-netflix-s-prom-musical-was-inspired-mike-pence-n1250946",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_50/3435185/201211-the-prom-netflix-ew-305p_1b7b20b1bc6468f75bbba783f3514f59.jpg",
+          "width": 2500,
+          "height": 1663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250946",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250946",
+      "publishedDateTime": "2020-12-11T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
         "Democratic Voice"
       ]
     }

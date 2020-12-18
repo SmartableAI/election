@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-fu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-future/index.html"
 type: article
 quality: 200
-heat: 2760
+heat: 2740
 published: true
 
 provider:
@@ -909,22 +909,6 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/160904135029-rudy-giuliani-donald-trump-aug-9-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden says coronavirus vaccine 'free from political influence' as Trump administration pressures FDA for authorization"
-    excerpt: "President-elect Joe Biden sought to instill public confidence Friday in a coronavirus vaccine that could soon be available, insisting that its safety and effectiveness is being evaluated without political influence amid reports that President Donald Trump's administration was pressuring the Food and"
-    publishedDateTime: 2020-12-11T22:49:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3PNb0Z7YYiU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/11/politics/joe-biden-coronavirus-vaccine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/11/politics/joe-biden-coronavirus-vaccine/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211150907-biden-admin-announcement-1211-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

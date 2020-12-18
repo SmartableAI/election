@@ -32,165 +32,321 @@ images:
     isCached: true
 
 related:
-  - title: "Biden poised to nominate Granholm to lead Department of Energy"
-    excerpt: "President-elect Joe Biden is poised to tap former Michigan Gov. Jennifer Granholm to lead the Department of Energy, two people familiar with the matter say, inviting a longtime adviser who played a critical role in his debate preparations over the years to join his Cabinet.\n    \n"
-    publishedDateTime: 2020-12-15T23:33:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7Fe7bPzbPRU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/jennifer-granholm-biden-energy-secretary/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/jennifer-granholm-biden-energy-secretary/index.html"
+  - title: "Top Trump ally Chris Christie says it's time to accept Biden won the election"
+    excerpt: "Former New Jersey Gov. Chris Christie, a staunch ally of President Donald Trump, said Thursday evening it's time to accept that Joe Biden won the 2020 election as the President continues to push baseless conspiracy theories that his second term is being stolen.\n    \n"
+    publishedDateTime: 2020-12-18T03:04:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hfT_oZuYxhw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/chris-christie-us-election-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/chris-christie-us-election-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 202
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170806105323-0806-chris-christie-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McConnell sets stage for new face-off with Biden after delivering blow to Trump's election fantasy"
+    excerpt: "President Donald Trump is now learning, in the words of his Rolling Stones campaign anthem, that he can't always get what he wants. Sen. Mitch McConnell, on the other hand, usually does.\n    \n"
+    publishedDateTime: 2020-12-16T12:17:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/44n-hfRbpmQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/joe-biden-mitch-mcconnell-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/joe-biden-mitch-mcconnell-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 191
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215105233-mcconnell-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump deal with Morocco is yet another headache for Biden team"
+    excerpt: "On Thursday, Morocco became the fourth Arab state this year to announce it would establish relations with Israel. It was another diplomatic win for the Trump administration, with US President Donald Trump tweeting that it was \"a massive breakthrough for peace in the Middle East!\"\n    \n"
+    publishedDateTime: 2020-12-12T17:34:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j0m9Q7y9TfI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/trump-morocco-analysis-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/trump-morocco-analysis-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211141734-trump-1207-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump sees special counsel investigations of Hunter Biden and election claims as payback for Russia probe"
+    excerpt: "President Donald Trump is pushing extensively for the appointment of special counsels to separately investigate his baseless allegations of voter fraud and allegations surrounding Hunter Biden, the son of the President-elect, according to people familiar with the matter.\n    \n"
+    publishedDateTime: 2020-12-16T19:44:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x6NvRoLnboM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/donald-trump-special-counsel-hunter-biden-russia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/donald-trump-special-counsel-hunter-biden-russia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209192032-trump-medal-of-freedom-dan-gable-oval-office-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden blasts Georgia's GOP senators, saying they 'stood by' as Trump tried to undo state's election results"
+    excerpt: "President-elect Joe Biden on Tuesday slammed Georgia's two Republican senators, saying that David Perdue and Kelly Loeffler \"stood by\" and \"fully embraced nullifying nearly 5 million Georgia votes.\"\n    \n"
+    publishedDateTime: 2020-12-15T21:56:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-qcex_sgv64/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/biden-campaigns-in-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/biden-campaigns-in-georgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215160833-01-biden-georgia-1215-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Explaining the Supreme Court lawsuit from Texas and Trump challenging Biden's win"
+    excerpt: "Although all 50 states have certified their election results and the Supreme Court swiftly rejected an emergency request from Pennsylvania Republicans to block election results in the commonwealth, the justices are now grappling with a new controversial bid from Texas, supported by President Donald Trump"
+    publishedDateTime: 2020-12-10T12:07:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WL5vIx4arp0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/trump-texas-supreme-court-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/trump-texas-supreme-court-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209213654-ken-paxton-donald-trump-200611-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "After Electoral College affirmed Biden win, Ron Johnson to hold hearing to probe 2020 election"
+    excerpt: "One day after Senate Majority Leader Mitch McConnell said plainly that Joe Biden was the President-elect, Wisconsin Republican Sen. Ron Johnson is holding a controversial hearing Wednesday to probe the 2020 election.\n    \n"
+    publishedDateTime: 2020-12-16T12:09:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KXX4Kg1H5mM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/ron-johnson-senate-hearing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/ron-johnson-senate-hearing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 178
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003135536-01b-sen-ron-johnson-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Chris Christie calls Trump's legal team a 'national embarrassment' "
+    excerpt: "A staunch ally of Donald Trump said Sunday it was time for the President to end his futile gambit to overturn the results of the election.\n    \n"
+    publishedDateTime: 2020-11-22T18:26:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pwx-NTHUpCA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/22/politics/chris-christie-donald-trump-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/chris-christie-donald-trump-election/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160728203436-jennifer-granholm-0728-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003121933-chris-christie-0927-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Joe Biden picks Pete Buttigieg to be transportation secretary"
-    excerpt: "President-elect Joe Biden will nominate Pete Buttigieg to be his transportation secretary, sources familiar with the matter tell CNN, elevating the former South Bend, Indiana, mayor and 2020 Democratic presidential candidate to a top post in the federal government.\n    \n"
-    publishedDateTime: 2020-12-15T20:20:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GPanXIsLRr0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/pete-buttigieg-transportation-secretary/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/pete-buttigieg-transportation-secretary/index.html"
+  - title: "Analysis: Al Gore conceded on this date. Trump still hasn't"
+    excerpt: "President Donald Trump shows no signs of acknowledging reality, as he continues his hopeless journey to overturn the 2020 election results. Whether he likes it or not, it's President-elect Joe Biden who will be president starting on January 20.\n    \n"
+    publishedDateTime: 2020-12-13T15:21:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mFygR2rYmmc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/trump-gore-concede/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/trump-gore-concede/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200205110445-bt101-pete-buttigieg-020520-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109123506-03-concession-speech-gore-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to name Gina McCarthy to top domestic climate job"
-    excerpt: "President-elect Joe Biden will name Gina McCarthy as his White House climate czar, a source familiar with the decision tells CNN, making the former head of the Environmental Protection Agency his top domestic climate coordinator.\n    \n"
-    publishedDateTime: 2020-12-16T01:17:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qX_tA_svVOo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/gina-mccarthy-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/gina-mccarthy-joe-biden/index.html"
+  - title: "McConnell for the first time recognizes Biden as President-elect"
+    excerpt: "Senate Majority Leader Mitch McConnell said Tuesday that following the electors meeting on Monday, \"as of this morning, our country officially has a President-elect and a vice president-elect.\"\n    \n"
+    publishedDateTime: 2020-12-15T16:20:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NH5cr9zn2DE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/mitch-mcconnell-congratulates-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/mitch-mcconnell-congratulates-joe-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161202160232-gina-mccarthy-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106100610-01-biden-mcconnell-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to tap New Mexico Rep. Deb Haaland as interior secretary"
-    excerpt: "President-elect Joe Biden has selected New Mexico Rep. Deb Haaland to serve as interior secretary, three people familiar with the matter tell CNN, marking another historic choice by nominating the first Native American to lead the department.\n    \n"
-    publishedDateTime: 2020-12-17T20:51:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p1rrbV-Mj4A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/deb-haaland-interior-secretary-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/deb-haaland-interior-secretary-biden/index.html"
+  - title: "Biden, Harris beat Trump again, this time as Time's 'Person of the Year'"
+    excerpt: "Other contenders were Dr. Anthony Fauci, front-line Covid-19 workers and racial justice movements that led protests over the death of George Floyd."
+    publishedDateTime: 2020-12-11T04:47:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/biden-harris-beat-trump-again-time-time-s-person-year-n1250762"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250762"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250762"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 174
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_33/3404797/200811-joe-biden-kamala-harris-ac-1014p_e00b2642631f6be472883994c8fc6730.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Dozens of members of Congress call on Biden to end the federal death penalty"
+    excerpt: "More than three dozen members of Congress are calling on Joe Biden's incoming administration to prioritize abolishing the death penalty in all jurisdictions, according to a letter sent Tuesday to the transition team for the President-elect and Vice President-elect Kamala Harris.\n    \n"
+    publishedDateTime: 2020-12-15T22:07:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IVo3QZQXexM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/death-penalty-congress-letter-pressley/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/death-penalty-congress-letter-pressley/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110111702-14-biden-admin-possibilities-haaland-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200828115424-06-march-on-washington-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Deb Haaland makes history as Biden's pick to run Interior Department"
-    excerpt: "President-elect Joe Biden's selection of Rep. Deb Haaland to lead the Interior Department marked a historic victory for an alliance of progressives and Indigenous leaders who campaigned relentlessly to elevate one of their own to a powerful federal seat that oversees natural resources, public lands and"
-    publishedDateTime: 2020-12-18T00:56:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tyw2u3PI9Ds/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/deb-haaland-makes-history/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/deb-haaland-makes-history/index.html"
+  - title: "Biden says coronavirus vaccine 'free from political influence' as Trump administration pressures FDA for authorization"
+    excerpt: "President-elect Joe Biden sought to instill public confidence Friday in a coronavirus vaccine that could soon be available, insisting that its safety and effectiveness is being evaluated without political influence amid reports that President Donald Trump's administration was pressuring the Food and"
+    publishedDateTime: 2020-12-11T22:49:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3PNb0Z7YYiU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/11/politics/joe-biden-coronavirus-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/11/politics/joe-biden-coronavirus-vaccine/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181017141157-01-deb-haaland-lead-image-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211150907-biden-admin-announcement-1211-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden expected to nominate North Carolina environmental official to run EPA"
-    excerpt: "President-elect Joe Biden is poised to nominate Michael Regan of North Carolina to run the Environmental Protection Agency, two people familiar with the matter tell CNN.\n    \n"
-    publishedDateTime: 2020-12-17T18:20:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h0CwGEfrJZM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/biden-michael-regan-epa/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/biden-michael-regan-epa/index.html"
+  - title: "Biden advisers warn Trump mass vaccine timeline may be too optimistic"
+    excerpt: "Democrats are warning that the Trump may have unrealistically raised expectations to make Biden look bad if the shots are delayed."
+    publishedDateTime: 2020-12-17T19:58:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-advisers-warn-trump-mass-vaccine-timeline-may-be-too-n1251499"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251499"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251499"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217131143-michael-s-regan-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_51/3436379/201217-covid-vaccine-mc-1212_9e1e7028658f6ef625d0c15ea0ea9053.JPG"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Biden nominates Denis McDonough to lead VA, turning to another longtime Obama adviser"
-    excerpt: "President-elect Joe Biden is poised to tap Denis McDonough to lead the Department of Veterans Affairs, a person familiar with the decision says, adding the longtime chief of staff to former President Barack Obama to his new Cabinet.\n    \n"
-    publishedDateTime: 2020-12-10T16:03:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2F6ed0RIlY0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/denis-mcdonough-va-secretary/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/denis-mcdonough-va-secretary/index.html"
+  - title: "Biden’s electors prepare to seal his victory, as Trump and coronavirus rage"
+    excerpt: "In interviews, more than two dozen swing-state electors detailed plans for Monday’s vote — and a hint of anxiety about Trump."
+    publishedDateTime: 2020-12-11T09:34:00Z
+    webUrl: "https://www.politico.com/news/2020/12/11/biden-electoral-college-vote-444487"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/11/biden-electoral-college-vote-444487"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/biden-electoral-college-vote-444487"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
+      name: Politico
+      domain: politico.com
+    quality: 148
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210095900-denis-mcdonough-2018-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/39/62/1793a0994b6a8899368da2f129ba/201210-biden-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Biden's economic plan is bold. Is it possible?"
-    excerpt: "Elect Joe Biden has sketched out a bold economic agenda, but his ability to enact it could be determined by the upcoming races for control of the Senate."
-    publishedDateTime: 2020-12-11T14:02:00Z
-    webUrl: "https://www.cnn.com/videos/business/2020/12/11/biden-economy-taxes-stimulus-student-debt-trump-covid-orig.cnn-business"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/12/11/biden-economy-taxes-stimulus-student-debt-trump-covid-orig.cnn-business"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/11/biden-economy-taxes-stimulus-student-debt-trump-covid-orig.cnn-business"
+  - title: "Trump Castigates Barr for Not Publicly Disclosing Hunter Biden Investigation"
+    excerpt: "President Trump on Saturday excoriated Attorney General William P. Barr, castigating him on Twitter for not violating Justice Department policy to publicly reveal an investigation into President-Elect Joseph R."
+    publishedDateTime: 2020-12-12T20:40:00Z
+    webUrl: "https://www.nytimes.com/2020/12/12/us/politics/trump-barr-biden-investigation.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/12/us/politics/trump-barr-biden-investigation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/politics/trump-barr-biden-investigation.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
+      name: New York Times
+      domain: nytimes.com
+    quality: 147
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201206234438-joe-biden-1204-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/12/12/us/politics/12dc-trump/merlin_181147668_6fd8fd9b-f17f-4be1-9ffb-8d29242e5ac6-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Progressive Groups Urge Biden to Move Quickly on Diverse Slate of Judges"
-    excerpt: "The president-elect faces pressure to install a diverse group of progressives in the courts, but the prospect of a Republican-controlled Senate looms as an obstacle."
-    publishedDateTime: 2020-12-11T23:27:00Z
-    webUrl: "https://www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.amp.html"
+  - title: "Investigation of His Son Is Likely to Hang Over Biden as He Takes Office"
+    excerpt: "Unless the Trump Justice Department clears Hunter Biden, the new president will confront the prospect of his own administration handling an inquiry that could expose his son to criminal prosecution."
+    publishedDateTime: 2020-12-11T01:42:00Z
+    webUrl: "https://www.nytimes.com/2020/12/10/us/politics/hunter-biden-investigation.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/10/us/politics/hunter-biden-investigation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/10/us/politics/hunter-biden-investigation.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 134
     images:
-      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/11DC-JUDGES/11DC-JUDGES-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/10/us/politics/10dc-investigate1/10dc-investigate1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Biden picks Mallory to lead White House Council on Environmental Quality"
-    excerpt: "President-elect Joe Biden will tap Brenda Mallory to lead the White House Council on Environmental Quality, according to two people familiar with selection, which would put the veteran environmental lawyer in charge of an office with sweeping purview over how the federal government assesses environmental effects of policies,"
-    publishedDateTime: 2020-12-16T21:28:00Z
-    webUrl: "https://www.politico.com/news/2020/12/16/biden-white-house-council-environmental-quality-446995"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/16/biden-white-house-council-environmental-quality-446995"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/16/biden-white-house-council-environmental-quality-446995"
+  - title: "Trump sees special counsel investigations of Hunter Biden and election claims as payback for Russia probe"
+    excerpt: "President Donald Trump is pushing extensively for the appointment of special counsels to separately investigate his baseless allegations of voter fraud and allegations surrounding Hunter Biden, the son of the President-elect,"
+    publishedDateTime: 2020-12-16T19:44:00Z
+    webUrl: "https://www.cnn.com/2020/12/16/politics/donald-trump-special-counsel-hunter-biden-russia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 128
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209192032-trump-medal-of-freedom-dan-gable-oval-office-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "In Trying for a Diverse Administration, Biden Finds One Group’s Gain is Another’s Loss"
+    excerpt: "The pressure on the Democratic president-elect is intense, even as his efforts to ensure ethnic and gender diversity already go far beyond those of President Trump. And it’s coming from all sides."
+    publishedDateTime: 2020-12-12T16:31:00Z
+    webUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/12dc-cabinet1/11dc-cabinet1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden's boom or bust economy"
+    excerpt: "I write this morning about the two roads that President-elect Joe Biden’s presidency could go down, depending on vaccine distribution and new stimulus. He could preside over a historic boom or a disappointing bust."
+    publishedDateTime: 2020-12-15T13:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2020/12/15/bidens-boom-or-bust-economy-792309"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 134
+    quality: 115
     images:
-      - url: "https://static.politico.com/f4/20/6dcf41294356bf7d220b24f0b8b2/201216-biden-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "fbdD5dQUF0F5VKc2tu49TMWIiMp2ba5csuoMXAxrY1v66Y69NkMtTXGWVXkjTkidjZ7aiSgnu6p8b7wFEsuowa8+ue5FHZFSBUWlubHUNSonDcqEp7cl7F8Jf0XejU4ZC+LHYvb8moGZS92EcLggLH9S8S0VJoIu8VWLM4eYiIk+I8NrGFdJKJI9xSiaMG/6JqSoz/CXfpR3tnDssDJp9SuRDW/oSZzS5ULVzkckofJ9fI9wNX2A/tbq86TfwVm7izVyodB0lMca0bGURUDRlJ4vBWBBDvFh20o72+qUuemY3+hz3EJWwr1Lo3802Y9Z/Zy7FepwAEdX9B7RU+X8JMmqBoRlrBZupdEwoNWi0v8=;Nby1t5Y2gxvYg7T4AvkZsw=="

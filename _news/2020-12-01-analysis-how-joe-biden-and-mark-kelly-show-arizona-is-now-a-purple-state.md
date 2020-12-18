@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/arizona-shift-analysis/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/arizona-shift-analysis/index.html"
 type: article
 quality: 174
-heat: 214
+heat: 194
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103020149-joe-biden-pittsburgh-heinz-field1102-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Battles over Biden appointments signal a larger struggle over his strategy"
-    excerpt: "The progressive uprising against a wide range of potential Joe Biden administration nominees reflects not only old ideological divisions among Democrats but also a new struggle over how the incoming president should advance his objectives in a closely divided Washington.\n    \n"
-    publishedDateTime: 2020-12-08T05:55:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fviWejsbCLM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/biden-cabinet-appointment-battles/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/biden-cabinet-appointment-battles/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207155117-biden-appointments-1124-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

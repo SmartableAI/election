@@ -3,18 +3,18 @@ category: news
 title: "Mike Pence to receive COVID-19 vaccine Friday; Joe Biden will get vaccinated as soon as next week"
 excerpt: "Vice President Mike Pence will get the COVID-19 vaccine publicly Friday, while President-elect Joe Biden will get vaccinated as soon as next week."
 publishedDateTime: 2020-12-16T00:00:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/3933565001"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3933565001"
+originalUrl: "https://www.statesman.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
+webUrl: "https://www.statesman.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
+ampWebUrl: "https://amp.statesman.com/amp/3933565001"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/3933565001"
 type: article
 quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Election
@@ -2159,6 +2159,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Mike Pence to receive the COVID-19 vaccine publicly Friday; Joe Biden will get vaccinated as soon as next week"
+    excerpt: "President-elect Joe Biden and Vice President Mike Pence are set to receive the COVID-19 vaccine soon. According to two transition officials familiar with the matter, Biden will receive the vaccine publicly as early as next week."
+    publishedDateTime: 2020-12-18T04:11:00Z
+    webUrl: "https://www.courant.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html"
+    ampWebUrl: "https://www.courant.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 70
+    images:
+      - url: "https://www.courant.com/resizer/hYN6EUFAOTPNMejHaG53Z3Ee8s4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/HCKIMEA6QG5AJ3X3SLM52NSIDE.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Connecticut’s presidential electors cast 7 ballots for Democrats Joe Biden and Kamala Harris in Electoral College"
     excerpt: "Connecticut’s seven Democratic electors voted for President-elect Joe Biden during a noontime Electoral College ceremony at the state Capitol Monday, placing their individual paper ballots in a historic,"
     publishedDateTime: 2020-12-15T16:56:00Z
@@ -2191,6 +2207,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Says He Is Not Involved in Potential Prosecution of Biden's Son Hunter"
+    excerpt: "President Donald Trump said on Thursday that he had nothing to do with any potential prosecution of President-elect Joe Biden's son, Hunter, who has disclosed that his taxes are being investigated by a federal prosecutor in Delaware."
+    publishedDateTime: 2020-12-18T00:08:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-12-17/trump-says-he-is-not-involved-in-potential-prosecution-of-hunter-biden"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-12-17/trump-says-he-is-not-involved-in-potential-prosecution-of-hunter-biden?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-12-17/trump-says-he-is-not-involved-in-potential-prosecution-of-hunter-biden?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 67
   - title: "Wisconsin's 10 electoral votes were officially cast for Joe Biden and Kamala Harris"
     excerpt: "Democratic electors met with Gov. Tony Evers' to finalize the state's 10 electoral votes for President-elect Biden and Vice President-elect Kamala Harris,"
     publishedDateTime: 2020-12-14T23:40:00Z
@@ -2299,6 +2326,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "QNX9hF3+dGDUX4Yo4U7l6c79emDRMHlmAhxi+wnIf2r8TcpC6DZ6tyLYEGL+qKDXCK+B3zO8PNqStUaihgoYrHtZFshYkK48HSgkCN3gP1BBXvp1he20O5UErJNNn4mlA6mG28hTob7J9yvIo9CqrjchGzAHXnbUBjs0lO+HApR2hZQP0/UP4NcMDVnzYiLDKinHW0Sf83baf5S9CwaVUniupDglcZaYGyBH9Oq6tC0dKlp9ikfRG+8zwWYl8z/7B4ZsfC9f14Vbkg7urbMOwJ3ecgI1Zga5vX39h2NOwOR0MsRuZuQX92dvQkMYT73ibXkWf2H9yqo7DxQhCOVPSFUdz+XNitbau7sEKhiuBSE=;mwnVptltCg9OWoOrQIEd6A=="
+secured: "LtHPff8jUWyLEVuoKAw4tk3R8e/QI1Z1P4WeBUykdjQgeRUu2HcB2Afq+9+HfEGRphUkNbMBgJOJXRrGB/Ra+VWEhiOa9wl5EQYwFMaWuPFsthv+/OR0B8qOva1eNiJiNhHlzCugPDhmYUVcCAq+gvtdR7U0y+zAQRb9UGaeH41KMOdXm22yhlXnxgQ3vnvqM0+stEHuTfhsJRYOAYUDAJr1Xi3lSy4fJxmt93izI7HXEhLPHXqQiMigK/wL6Xo0VtuFSwWoXuDB5f6X2cX8mxns6vYt3n3Fs0jt05bH0qbtk5eHQ3xIUjopg/41+A9P3FzzHNXkPEJ5NxLzV+kL39x/VWJk/llGZhioVBQk8Gk=;7816wJrs1TuFa62wcDtN7Q=="
 ---
 

@@ -703,22 +703,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden, Harris beat Trump again, this time as Time's 'Person of the Year'"
-    excerpt: "Other contenders were Dr. Anthony Fauci, front-line Covid-19 workers and racial justice movements that led protests over the death of George Floyd."
-    publishedDateTime: 2020-12-11T04:47:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/biden-harris-beat-trump-again-time-time-s-person-year-n1250762"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250762"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250762"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 174
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_33/3404797/200811-joe-biden-kamala-harris-ac-1014p_e00b2642631f6be472883994c8fc6730.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "White House has signed off on Joe Biden getting the President's Daily Brief"
     excerpt: "Three weeks after the election, the White House has given formal approval for President-elect Joe Biden to receive the President's Daily Brief, a White House official told CNN Tuesday.\n    \n"
     publishedDateTime: 2020-11-24T21:43:08Z
