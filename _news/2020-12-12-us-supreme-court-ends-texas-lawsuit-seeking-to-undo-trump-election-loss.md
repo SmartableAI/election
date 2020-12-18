@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L2YY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L2YY"
 type: article
 quality: 139
-heat: 1439
+heat: 1459
 published: true
 
 provider:
@@ -945,6 +945,20 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Trump stays on sidelines as virus vaccine injections begin"
+    excerpt: "President Donald Trump’s administration helped bring about vaccinations against the coronavirus earlier than even some of his own officials had hoped for"
+    publishedDateTime: 2020-12-18T11:04:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-stays-sidelines-virus-vaccine-injections-begin-74796834"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_03219caa44f644e183f9c1f4832986f0_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Spotted owls could go extinct without more federal protection. But they’re not going to get it, Trump officials say."
     excerpt: "The northern spotted owl has lost 70 percent of its habitat to development and timber harvesting and could go extinct without added federal protection, the Trump administration announced Monday. But the owls won’t get it."

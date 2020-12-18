@@ -2,6 +2,555 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-11-19-conservative-pastor-says-kamala-harris-is-driven-by-the-antichrist-spirit.md",
+      "title": "Conservative Pastor Says Kamala Harris Is Driven by the 'Antichrist Spirit'",
+      "excerpt": "Conservative Texas pastor Robert Henderson said politicians like Vice President-elect Kamala Harris are driven by the \"Antichrist spirit,\" according to a video from Right Wing Watch. Henderson referred to Psalm 2 of the Bible and likened political figures ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/conservative-pastor-says-kamala-harris-driven-antichrist-spirit-1548407",
+      "originalUrl": "https://www.newsweek.com/conservative-pastor-says-kamala-harris-driven-antichrist-spirit-1548407",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 303,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1671864/kamala-harris.jpg",
+          "width": 594,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/conservative-pastor-says-kamala-harris-driven-antichrist-spirit-1548407?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/conservative-pastor-says-kamala-harris-driven-antichrist-spirit-1548407?amp=1",
+      "publishedDateTime": "2020-11-18T18:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-mob-boss-denies-philadelphia-election-claim-says-joe-biden-is-a-mans-man.md",
+      "title": "Mob boss denies Philadelphia election claim, says Joe Biden 'is a man's man'",
+      "excerpt": "President Trump's personal lawyer, former New York City Mayor Rudolph Giuliani, who is also heading the campaign legal efforts, was asked about the possibility of mob election interference during an interview on the Fox Business Network. He said that \"although there is an allegation of a mobster involved,",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2X64XE_sJOM/mob-boss-denies-philadelphia-election-joe-biden-mans-man",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2X64XE_sJOM/mob-boss-denies-philadelphia-election-joe-biden-mans-man",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 287,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Shawn_Eric.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mob-boss-denies-philadelphia-election-joe-biden-mans-man.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mob-boss-denies-philadelphia-election-joe-biden-mans-man.amp",
+      "publishedDateTime": "2020-11-18T17:32:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-biden-deputy-chief-of-staff-touted-mandatory-buybacks-of-assault-weapons.md",
+      "title": "Biden deputy chief of staff touted 'mandatory buybacks' of assault weapons",
+      "excerpt": "President-elect Joe Biden’s incoming deputy chief of staff once touted a gun control proposal that called for “mandatory” buybacks of certain rifles, as seen in a resurfaced campaign video.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrF150Q6l4k/biden-deputy-chief-staff-mandatory-buyback-assault-weapons-gun-control",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrF150Q6l4k/biden-deputy-chief-staff-mandatory-buyback-assault-weapons-gun-control",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Jen-OMalley-Dillon-is-the-Biden-Campaign-Manager-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-deputy-chief-staff-mandatory-buyback-assault-weapons-gun-control.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-deputy-chief-staff-mandatory-buyback-assault-weapons-gun-control.amp",
+      "publishedDateTime": "2020-11-18T16:56:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-pence-spox-debunks-huffington-post-reporter-who-claimed-vp-karen-pence-didnt-wear-masks-at-spacex-launch.md",
+      "title": "Pence spox debunks Huffington Post reporter who claimed VP, Karen Pence didn't wear masks at SpaceX launch",
+      "excerpt": "A spokesperson for Vice President Mike Pence shot down reporting from a Huffington Post journalist who reported that he and Second Lady Karen Pence did not wear masks at Sunday's visit to NASA's Kennedy Space Center. NASA has made its first operational ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/pence-spox-debunks-huffington-post-reporter-who-claimed-vp-karen-pence-didnt-wear-masks-at-spacex-launch",
+      "originalUrl": "https://www.foxnews.com/media/pence-spox-debunks-huffington-post-reporter-who-claimed-vp-karen-pence-didnt-wear-masks-at-spacex-launch",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8217561e-a887-4ebd-870b-46991c42ed85/8224b5b1-d79b-453c-ae86-3b548ec28b55/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/pence-spox-debunks-huffington-post-reporter-who-claimed-vp-karen-pence-didnt-wear-masks-at-spacex-launch.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/pence-spox-debunks-huffington-post-reporter-who-claimed-vp-karen-pence-didnt-wear-masks-at-spacex-launch.amp",
+      "publishedDateTime": "2020-11-18T16:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-biden-acknowledges-real-brick-walls-hell-face-in-senate-during-video-call-with-supporters.md",
+      "title": "Biden acknowledges 'real brick walls' he'll face in Senate during video call with supporters",
+      "excerpt": "President-elect Joe Biden acknowledged in a private video call with supporters on Wednesday that he will face \"real brick walls\" in the Senate if Republicans maintain their majority but said he thinks he can overcome the political divides that may exist.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lA4-cNkk4Jw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lA4-cNkk4Jw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201118140725-02-joe-biden-1116-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/18/politics/biden-brick-walls-senate-divided-congress/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/biden-brick-walls-senate-divided-congress/index.html",
+      "publishedDateTime": "2020-11-18T16:23:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-angry-at-election-defeat-trump-seeks-partial-recount-in-wisconsin.md",
+      "title": "Angry at election defeat, Trump seeks partial recount in Wisconsin",
+      "excerpt": "President Donald Trump's re-election campaign said on Wednesday it was seeking a partial recount of Wisconsin's presidential election results, as part of its long-shot attempt to reverse President-elect Joe Biden's victory.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-election-int/wisconsin-to-hold-partial-vote-recount-as-fuming-trump-denies-defeat-idUSKBN27V05A",
+      "originalUrl": "https://www.reuters.com/article/usa-election-int/wisconsin-to-hold-partial-vote-recount-as-fuming-trump-denies-defeat-idUSKBN27V05A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1520,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541639787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH155",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Y0G6",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y0G6",
+      "publishedDateTime": "2020-11-18T15:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-sen-kennedy-blasts-cuomo-complaints-about-trump-ego-compares-it-to-being-called-ugly-by-a-frog.md",
+      "title": "Sen. Kennedy blasts Cuomo complaints about Trump 'ego', compares it to 'being called ugly by a frog'",
+      "excerpt": "Democratic New York Gov. Andrew Cuomo is the last person with any standing to complain about President Trump's \"ego,\" Sen. John Kennedy, R-La., told \"Bill Hemmer Reports\" Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vA0Pbv70ZdI/sen-john-kennedy-andrew-cuomo-trump-ego",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vA0Pbv70ZdI/sen-john-kennedy-andrew-cuomo-trump-ego",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a8bea7e-b7bb-43d0-9979-72fc79aba59b/c7c22d1a-9df6-4d91-b452-22cc0ec50e1a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-john-kennedy-andrew-cuomo-trump-ego.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-john-kennedy-andrew-cuomo-trump-ego.amp",
+      "publishedDateTime": "2020-11-18T15:03:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-ny-dem-gov-cuomos-office-blames-religious-gatherings-as-super-spreaders-not-biden-celebrations.md",
+      "title": "NY Dem Gov Cuomo's office blames religious gatherings as 'super-spreaders,' not Biden celebrations",
+      "excerpt": "Cuomo's office responded to the Roman Catholic Diocese of Brooklyn's petition for emergency relief.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFeC7FaRG18/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFeC7FaRG18/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecb79142-e591-4f8d-b94b-537cfef2a225/01381103-38da-4c6a-bb08-4d9d41678d54/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing.amp",
+      "publishedDateTime": "2020-11-18T13:31:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-trumps-legal-adviser-jenna-ellis-in-2016-called-him-an-idiot-and-said-his-supporters-didnt-care-about-facts-or-logic.md",
+      "title": "Trump's legal adviser Jenna Ellis in 2016 called him an 'idiot' and said his supporters didn't care about 'facts or logic'",
+      "excerpt": "Jenna Ellis has been one of President Donald Trump's most ardent defenders since joining his campaign as a legal adviser and surrogate a year ago, but in early 2016 she was one of his toughest critics and deeply opposed his candidacy, according to a CNN KFile review of statements she made on her official",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eeaiOSIjN6U/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eeaiOSIjN6U/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200515141458-01-jenna-ellis-donald-trump-super-tease.jpeg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/18/politics/kfile-jenna-ellis-2016-trump-comments/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/kfile-jenna-ellis-2016-trump-comments/index.html",
+      "publishedDateTime": "2020-11-18T13:18:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-nyc-subway-system-faces-steep-cuts-mta-chairman-calls-on-amtrak-joe-biden-to-stave-off-9400-layoffs.md",
+      "title": "NYC subway system faces steep cuts; MTA chairman calls on 'Amtrak Joe' Biden to stave off 9,400 layoffs",
+      "excerpt": "New York City subways and buses could lose nearly 7,000 jobs amid service reductions of up to 40%. Commuter rail fare increases are also possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/travel/news/2020/11/18/nyc-subway-mta-face-layoffs-service-cuts-without-federal-funds/3767537001/",
+      "originalUrl": "https://www.usatoday.com/story/travel/news/2020/11/18/nyc-subway-mta-face-layoffs-service-cuts-without-federal-funds/3767537001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/27/PWES/be75293b-beea-4106-8558-f24dfb547641-ts102720mtacommuters02.JPG?auto=webp&crop=6456,3632,x0,y328&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3767537001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3767537001",
+      "publishedDateTime": "2020-11-18T12:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-kevin-mccarthy-the-house-minority-leader-doesnt-think-trump-is-going-away.md",
       "title": "Kevin McCarthy, the House Minority Leader, Doesn’t Think Trump Is Going Away",
       "excerpt": "The California Republican believes his party’s victories in 2020 came thanks to the president, not in spite of him: “He brought turnout.”",
@@ -789,539 +1338,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/17/politics/lindsey-graham-2020-election-georgia-trump/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/lindsey-graham-2020-election-georgia-trump/index.html",
       "publishedDateTime": "2020-11-17T15:16:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-trump-and-army-secretary-say-wreaths-across-america-event-will-happen-reversing-arlington-national-cemetery-decision.md",
-      "title": "Trump and Army secretary say Wreaths Across America event will happen, reversing Arlington National Cemetery decision",
-      "excerpt": "Wreaths Across America's annual wreath-laying ceremony at Arlington National Cemetery is set to go forward as planned after all.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ycxuHiMiYXE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ycxuHiMiYXE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201117115006-arlington-cemetery-wreaths-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/17/us/arlington-cemetery-wreaths-trnd/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/us/arlington-cemetery-wreaths-trnd/index.html",
-      "publishedDateTime": "2020-11-17T15:15:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-trump-fed-nominee-shelton-blocked-in-senate-for-now.md",
-      "title": "Trump Fed nominee Shelton blocked in Senate, for now",
-      "excerpt": "The U.S. Senate on Tuesday blocked President Donald Trump's controversial nomination of Judy Shelton to the Federal Reserve's board, though a White House spokesman expressed confidence she would eventually be confirmed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-fed-shelton-blocked-idUSKBN27X2UD",
-      "originalUrl": "https://www.reuters.com/article/us-usa-fed-shelton-blocked-idUSKBN27X2UD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541544795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1PP",
-          "width": 840,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27X2UD",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2UD",
-      "publishedDateTime": "2020-11-17T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-election-2020-live-updates-gop-colleagues-congratulate-harris-biden-speaks-to-netanyahu.md",
-      "title": "Election 2020 live updates: GOP colleagues congratulate Harris; Biden speaks to Netanyahu",
-      "excerpt": "President-elect Joe Biden on Tuesday spoke to Israeli Prime Minister Benjamin Netanyahu and Indian Prime Minister Narendra Modi.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-updates-joe-biden-donald-trump/6321470002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-updates-joe-biden-donald-trump/6321470002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1016,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/17/USAT/6faee755-39e7-4911-98f5-3cb6b492439b-AP20322710440298.jpg?auto=webp&crop=5999,3374,x1,y364&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6321470002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6321470002",
-      "publishedDateTime": "2020-11-17T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump.md",
-      "title": "Rockets ‘revolt’ linked to owner Tilman Fertitta’s ties to Trump",
-      "excerpt": "The Houston Rockets are having one of the more tumultuous offseasons in the NBA. Both of their superstars, Russell Westbrook and James Harden, have already requested trades. One NBA insider said",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/",
-      "originalUrl": "https://nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/james-harden-russell-westbrook.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/amp/",
-      "publishedDateTime": "2020-11-17T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-infighting-and-an-attempted-coup-trump-team-erupts-into-chaos-as-giuliani-takes-over-legal-efforts.md",
-      "title": "Infighting and an attempted 'coup': Trump team erupts into chaos as Giuliani takes over legal efforts",
-      "excerpt": "President Trump's campaign and legal teams have descended into chaos behind the scenes as many brace for the end of the post-election fight.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/infighting-attempted-coup-trump-team-erupts-chaos-giuliani/story?id=74257079",
-      "originalUrl": "https://abcnews.go.com/Politics/infighting-attempted-coup-trump-team-erupts-chaos-giuliani/story?id=74257079",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/giuliani-pa--02-rt-iwb-201109_1604928722820_hpMain_2_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/infighting-attempted-coup-trump-team-erupts-chaos-giuliani/story?id=74257079",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/infighting-attempted-coup-trump-team-erupts-chaos-giuliani/story?id=74257079",
-      "publishedDateTime": "2020-11-17T12:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-us-announces-further-drawdown-of-troops-in-afghanistan-and-iraq-before-biden-takes-office.md",
-      "title": "US announces further drawdown of troops in Afghanistan and Iraq before Biden takes office",
-      "excerpt": "Acting Secretary of Defense Christopher C. Miller announced Tuesday that the US will withdraw thousands more US troops from Afghanistan and Iraq by Jan 15, 2021 -- just days before President-elect Joe Biden takes office, confirming plans first reported by CNN on Monday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O7d10S1Y4_s/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O7d10S1Y4_s/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201117144605-us-soldiers-iraq-file-march-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/17/politics/afghanistan-iraq-withdrawal-pentagon/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/afghanistan-iraq-withdrawal-pentagon/index.html",
-      "publishedDateTime": "2020-11-17T12:11:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-cnns-amanpour-regrets-equating-trump-with-nazi-assault.md",
-      "title": "CNN’s Amanpour regrets equating Trump with Nazi assault",
-      "excerpt": "CNN’s Christiane Amanpour says she regrets a comment equating Donald Trump’s presidency with Kristallnacht, an attack on Jews in Nazi Germany seen historically as the launch of the Holocaust",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/religion/cnns-amanpour-regrets-equating-trump-with-nazi-assault/2020/11/17/ec84d590-290d-11eb-9c21-3cc501d0981f_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/religion/cnns-amanpour-regrets-equating-trump-with-nazi-assault/2020/11/17/ec84d590-290d-11eb-9c21-3cc501d0981f_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/religion/cnns-amanpour-regrets-equating-trump-with-nazi-assault/2020/11/17/ec84d590-290d-11eb-9c21-3cc501d0981f_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/religion/cnns-amanpour-regrets-equating-trump-with-nazi-assault/2020/11/17/ec84d590-290d-11eb-9c21-3cc501d0981f_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-17T11:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-trump-and-allies-pitch-yet-another-woeful-voter-fraud-theory-in-nevada.md",
-      "title": "Trump and allies pitch yet another woeful voter-fraud theory in Nevada",
-      "excerpt": "Officials have moved to re-do a race in Clark County. It's not the voter fraud smoking gun Trump and his allies suggest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/11/17/trump-allies-launch-yet-another-woeful-voter-fraud-theory-nevada/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/11/17/trump-allies-launch-yet-another-woeful-voter-fraud-theory-nevada/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WMYTA4RA3YI6XLKTJQP5USMQPU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/17/trump-allies-launch-yet-another-woeful-voter-fraud-theory-nevada/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/trump-allies-launch-yet-another-woeful-voter-fraud-theory-nevada/?outputType=amp",
-      "publishedDateTime": "2020-11-17T10:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-facebook-twitter-take-heat-over-hunter-biden-story-during-hearing-dorsey-admits-this-action-was-wrong.md",
-      "title": "Facebook, Twitter take heat over Hunter Biden story during hearing; Dorsey admits 'this action was wrong'",
-      "excerpt": "Twitter CEO Jack Dorsey and Facebook CEO Mark Zuckerberg are testifying before the Senate Judiciary Committee Tuesday morning, and right from the beginning of the hearing they faced pressure over the censorship of a New York Post story about Hunter Biden.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Y5164sYBqY/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Y5164sYBqY/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea062ee3-cd24-4b77-84bb-3780a23ee251/f63ef748-e85c-435c-b7ab-17c1c79c160d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey.amp",
-      "publishedDateTime": "2020-11-17T08:35:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-rudy-giuliani-seeks-to-represent-trump-in-pennsylvania-election-case.md",
-      "title": "Rudy Giuliani seeks to represent Trump in Pennsylvania election case",
-      "excerpt": "Rudy Giuliani, President Donald Trump's personal lawyer, formally told a federal court that he will represent the Trump campaign in its long shot case to block Pennsylvania from certifying votes.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2I59qmdeqlE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2I59qmdeqlE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 710,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190925034820-giuliani-trump-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/17/politics/trump-giuliani-election-lawsuit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/trump-giuliani-election-lawsuit/index.html",
-      "publishedDateTime": "2020-11-17T08:16:52-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

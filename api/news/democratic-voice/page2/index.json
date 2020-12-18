@@ -2,6 +2,402 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-13-trump-engages-in-self-sabotage-ahead-of-historic-vaccine-rollout.md",
+      "title": "Trump engages in self-sabotage ahead of historic vaccine rollout ",
+      "excerpt": "As doses of a coronavirus vaccine are being prepared to be shipped to communities across the United States, President Donald Trump has an opportunity to mark a historic milestone for science -- and show some semblance of leadership in curbing the spread of Covid-19 as the number of US cases crosses 16",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wQTJczM9gnQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wQTJczM9gnQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201208205952-trump-file-1113-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/13/politics/donald-trump-william-barr-pfizer-vaccine/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/donald-trump-william-barr-pfizer-vaccine/index.html",
+      "publishedDateTime": "2020-12-12T21:37:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-an-opinion-writer-argued-jill-biden-should-drop-the-dr-few-were-swayed.md",
+      "title": "An Opinion Writer Argued Jill Biden Should Drop the ‘Dr.’ (Few Were Swayed.)",
+      "excerpt": "Many women said Joseph Epstein’s suggestion in The Wall Street Journal was blatantly sexist and underscored the way men often dismiss women’s credentials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/12/lens/12xp-drbiden-photo/12xp-drbiden-photo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.amp.html",
+      "publishedDateTime": "2020-12-12T19:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-federal-judge-in-wisconsin-deals-trump-another-court-defeat.md",
+      "title": "Federal Judge in Wisconsin Deals Trump Another Court Defeat",
+      "excerpt": "A Trump appointee in Milwaukee, Judge Brett H. Ludwig, dismissed a suit contesting the election with a withering rebuke.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/12/us/12trump-wisconsin/merlin_179552091_dbf4228e-570d-4d46-897e-ad283b8fb58c-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.amp.html",
+      "publishedDateTime": "2020-12-12T14:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-trump-raised-firing-barr-in-white-house-meeting-on-friday.md",
+      "title": "Trump raised firing Barr in White House meeting on Friday",
+      "excerpt": "President Donald Trump raised the prospect of firing Attorney General William Barr in a meeting on Friday, but it's unclear whether he'll choose to dismiss Barr before the end of his term next month.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RWn4TI3IsjY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RWn4TI3IsjY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201211141734-trump-1207-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/12/politics/william-barr-donald-trump-white-house-meeting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/william-barr-donald-trump-white-house-meeting/index.html",
+      "publishedDateTime": "2020-12-12T10:51:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-analysis-trump-made-big-in-roads-in-hispanic-areas-across-the-nation.md",
+      "title": "Analysis: Trump made big in-roads in Hispanic areas across the nation",
+      "excerpt": "One of the most notable early results on Election Night came from Florida's heavily Hispanic Miami-Dade county. President Donald Trump lost it to President-elect Joe Biden by just 7 points, after losing it by 29 points in 2016.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e5qulWYsv4c/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e5qulWYsv4c/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201012171114-cuba-hispanic-vote-trump-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/12/politics/trump-hispanic-vote/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/trump-hispanic-vote/index.html",
+      "publishedDateTime": "2020-12-12T10:21:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-the-us-sends-egypt-billions-in-aid-fearing-extinction-rights-activists-hope-biden-will-act.md",
+      "title": "The U.S. sends Egypt billions in aid. Fearing 'extinction,' rights activists hope Biden will act.",
+      "excerpt": "Fearing 'extinction,' rights activists hope Biden will act. Rights groups say the scale of oppression under Egyptian President Abdel-Fattah el-Sissi is “unprecedented.” Jess Kelly said she knew her husband,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/u-s-sends-egypt-billions-aid-fearing-extinction-rights-activists-n1250554",
+      "originalUrl": "https://www.nbcnews.com/news/world/u-s-sends-egypt-billions-aid-fearing-extinction-rights-activists-n1250554",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_49/3432074/201201-egypt-el-sissi-mc-9182_ded51f2664c788e3890578a34275e2e0.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250554",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250554",
+      "publishedDateTime": "2020-12-12T01:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-how-netflixs-the-prom-musical-was-inspired-by-mike-pence.md",
+      "title": "How Netflix's 'The Prom' musical was inspired by Mike Pence",
+      "excerpt": "Based on a 2018 stage musical of the same name, Ryan Murphy's highly anticipated latest directorial project premiered Friday on Netflix and in select theaters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/feature/nbc-out/how-netflix-s-prom-musical-was-inspired-mike-pence-n1250946",
+      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/how-netflix-s-prom-musical-was-inspired-mike-pence-n1250946",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_50/3435185/201211-the-prom-netflix-ew-305p_1b7b20b1bc6468f75bbba783f3514f59.jpg",
+          "width": 2500,
+          "height": 1663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250946",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250946",
+      "publishedDateTime": "2020-12-11T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-manhattan-da-interviewed-employees-at-trumps-bank-and-insurer-in-criminal-probe.md",
       "title": "Manhattan DA interviewed employees at Trump's bank and insurer in criminal probe",
       "excerpt": "Investigators with the Manhattan district attorney's office have interviewed several employees at President Donald Trump's lender and insurer in recent weeks as part of a wide-ranging investigation into the Trump Organization, according to multiple people familiar with the investigation.\n    \n",
@@ -466,7 +862,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 415,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -618,6 +1014,63 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-publicity-stunt-ags-in-battleground-states-blast-texas-counterpart-for-challenging-bidens-win.md",
+      "title": "'Publicity stunt': AGs in battleground states blast Texas counterpart for challenging Biden's win",
+      "excerpt": "Texas Attorney General Ken Paxton wants the Supreme Court to invalidate election results in four states, citing repeatedly debunked allegations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/publicity-stunt-ags-battleground-states-blast-texas-counterpart-challenging-biden-n1250383",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/publicity-stunt-ags-battleground-states-blast-texas-counterpart-challenging-biden-n1250383",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_50/3434192/201208-ken-paxton-jm-1218_11a694b478893a4a252cb3725659bec1.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250383",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250383",
+      "publishedDateTime": "2020-12-08T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -1241,457 +1694,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-obama-and-pence-hit-georgia-campaign-trail-to-court-senate-runoff-voters.md",
-      "title": "Obama and Pence hit Georgia campaign trail to court Senate runoff voters",
-      "excerpt": "\"Anybody listening right now, you need to realize this is not just about Georgia,\" Obama said. \"This is about America - this is about the world.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/obama-pence-hit-georgia-campaign-trail-court-senate-runoff-voters-n1250029",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/obama-pence-hit-georgia-campaign-trail-court-senate-runoff-voters-n1250029",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_47/3429880/201120-barack-obama-al-0812_a91487a269184df40996804a637177e8.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250029",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250029",
-      "publishedDateTime": "2020-12-04T14:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-trump-orders-a-near-total-withdrawal-of-us-troops-from-somalia.md",
-      "title": "Trump orders a near total withdrawal of US troops from Somalia",
-      "excerpt": "President Donald Trump has ordered the majority of US troops to leave Somalia \"by early 2021,\" in just the latest major military policy decision being taken in the final days of the Trump administration.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LGe5rcO0jYU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LGe5rcO0jYU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170530091543-01-pentagon-aerial-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/politics/trump-somalia-troop-withdrawal/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-somalia-troop-withdrawal/index.html",
-      "publishedDateTime": "2020-12-04T14:34:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-trump-ignores-facts-with-claim-of-improper-vote-dumps.md",
-      "title": "Trump ignores facts with claim of improper 'vote dumps'",
-      "excerpt": "In lawsuits, tweets and a 46-minute taped diatribe, the president has promoted a false narrative about vote counting in several states.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/trump-ignores-facts-claim-improper-vote-dumps-n1249987",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/trump-ignores-facts-claim-improper-vote-dumps-n1249987",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_49/3433213/201204-donald-trump-mn-0840_3ff08bf71b3ccb940cbf49b781f12604.jpg",
-          "width": 2500,
-          "height": 1458,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249987",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249987",
-      "publishedDateTime": "2020-12-04T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-biden-wrestles-with-politics-in-effort-to-depoliticize-the-justice-department.md",
-      "title": "Biden wrestles with politics in effort to depoliticize the Justice Department ",
-      "excerpt": "Political questions from Democrats and a new Republican litmus test have suddenly become complicating factors in one of President-elect Joe Biden's most critical choices: picking a new Attorney General to lead the Justice Department out of its highly politicized era.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JrsNL3KCkDA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JrsNL3KCkDA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201129183807-biden-file-1125-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-search/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-search/index.html",
-      "publishedDateTime": "2020-12-04T03:03:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-harris-on-her-working-relationship-with-biden-we-are-full-partners-in-this-process.md",
-      "title": "Harris on her working relationship with Biden: 'We are full partners in this process' ",
-      "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris may have been fierce rivals in the Democratic primary, but now, as they prepare to take control of the White House, they say they are full partners who agree on how to approach the country's most pressing issues.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c2p_wb4vLws/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c2p_wb4vLws/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 552,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203221338-harris-biden-cnn-interview-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/kamala-harris-working-partnership/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/kamala-harris-working-partnership/index.html",
-      "publishedDateTime": "2020-12-03T19:33:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-biden-says-multiple-republican-senators-have-called-to-congratulate-him-on-election-win.md",
-      "title": "Biden says multiple Republican senators have called to congratulate him on election win",
-      "excerpt": "President-elect Joe Biden revealed Thursday that \"more than several\" Republican senators have called to privately congratulate him on his election win, despite the fact that most of them have not publicly acknowledged his victory last month.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CsxxWF3xIMs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CsxxWF3xIMs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 962,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203175418-02-biden-intv-tapper-1203-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html",
-      "publishedDateTime": "2020-12-03T19:21:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-does-biden-think-its-important-trump-attend-inauguration-hear-his-answer.md",
-      "title": "Does Biden think it's important Trump attend inauguration? Hear his answer",
-      "excerpt": "In an interview with CNN's Jake Tapper, President-elect Joe Biden explains the importance of a demonstration of a peaceful transfer of power at his inauguration.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OKxfE8n0UJk/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OKxfE8n0UJk/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 688,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203220123-joe-biden-tapper-intv-inauguration-12032020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/12/04/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/04/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn",
-      "publishedDateTime": "2020-12-03T19:14:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-biden-on-nominating-diverse-cabinet-im-going-to-keep-my-commitment.md",
-      "title": "Biden on nominating diverse Cabinet: 'I'm going to keep my commitment'",
-      "excerpt": "Joe Biden said Thursday he would keep his commitment to nominate a Cabinet that reflects America's diversity, as the President-elect faces increasing pressure to appoint Black and Latino nominees to remaining high-level Cabinet positions.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vsb3q7crI98/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vsb3q7crI98/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html",
-      "publishedDateTime": "2020-12-03T18:37:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

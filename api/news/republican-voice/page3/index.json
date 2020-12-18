@@ -2,6 +2,119 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-08-bidens-hhs-pick-xavier-becerra-has-a-me-too-case-connection-to-kamala-harris.md",
+      "title": "Biden's HHS pick Xavier Becerra has a 'Me Too' case connection to Kamala Harris",
+      "excerpt": "Former top aide to Harris resigned after settling a sexual harassment case.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o2m2V3SkiFM/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o2m2V3SkiFM/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 556,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d11618b-8c19-40ee-b3af-cf78a4e1c780/d0cab256-d59f-48da-9bed-3dcd5aaee961/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris.amp",
+      "publishedDateTime": "2020-12-07T18:26:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-biden-to-name-his-defense-secretary-choice-on-friday.md",
+      "title": "Biden to name his defense secretary choice on Friday",
+      "excerpt": "Biden to name his Defense secretary choice on Friday",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ww_ZOH_z2Y/biden-to-name-his-defense-secretary-choice-on-friday",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ww_ZOH_z2Y/biden-to-name-his-defense-secretary-choice-on-friday",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp",
+      "publishedDateTime": "2020-12-07T14:30:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-trump-to-sign-coronavirus-vaccine-executive-order-prioritizing-americans-over-foreign-nations.md",
       "title": "Trump to sign coronavirus vaccine executive order prioritizing Americans over foreign nations",
       "excerpt": "EXCLUSIVE: President Trump is expected to sign an executive order Tuesday that will ensure all Americans have access to the coronavirus vaccine before the U.S. government begins aiding nations around the world, Fox News has learned.",
@@ -1534,118 +1647,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp",
       "publishedDateTime": "2020-12-02T11:22:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-biden-should-pull-off-executive-order-blitz-before-people-can-react-leftists-say.md",
-      "title": "Biden should pull off executive order 'blitz' before people can react, leftists say",
-      "excerpt": "Some on the left are suggesting President-elect Joe Biden should sign executive orders and ram through policies as soon as possible -- before the media can fully cover things and give leeway for backlash.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sE5vjCqc_UE/biden-executive-order-blitz-before-people-can-react-leftists-say",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sE5vjCqc_UE/biden-executive-order-blitz-before-people-can-react-leftists-say",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/635f9fcf-f6e4-4e59-bcbe-029944907f85/94e71967-50c7-47c3-8035-675ef3d68529/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-executive-order-blitz-before-people-can-react-leftists-say.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-order-blitz-before-people-can-react-leftists-say.amp",
-      "publishedDateTime": "2020-12-02T11:14:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-obama-suggests-trumps-stereotypical-macho-style-appealed-to-some-young-black-voters.md",
-      "title": "Obama suggests Trump's 'stereotypical macho style' appealed to some young Black voters",
-      "excerpt": "Former President Obama said President Trump’s “stereotypical macho style” was to blame for his increase in Black male voters this election cycle.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dxzxJK-7WKE/obama-trump-stereotypical-macho-style-young-black-voters",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dxzxJK-7WKE/obama-trump-stereotypical-macho-style-young-black-voters",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/OBAMA-NEWSLETTER-xx.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/obama-trump-stereotypical-macho-style-young-black-voters.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-trump-stereotypical-macho-style-young-black-voters.amp",
-      "publishedDateTime": "2020-12-02T10:50:58-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -2,6 +2,457 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-05-obama-and-pence-hit-georgia-campaign-trail-to-court-senate-runoff-voters.md",
+      "title": "Obama and Pence hit Georgia campaign trail to court Senate runoff voters",
+      "excerpt": "\"Anybody listening right now, you need to realize this is not just about Georgia,\" Obama said. \"This is about America - this is about the world.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/obama-pence-hit-georgia-campaign-trail-court-senate-runoff-voters-n1250029",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/obama-pence-hit-georgia-campaign-trail-court-senate-runoff-voters-n1250029",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_47/3429880/201120-barack-obama-al-0812_a91487a269184df40996804a637177e8.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250029",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250029",
+      "publishedDateTime": "2020-12-04T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-trump-orders-a-near-total-withdrawal-of-us-troops-from-somalia.md",
+      "title": "Trump orders a near total withdrawal of US troops from Somalia",
+      "excerpt": "President Donald Trump has ordered the majority of US troops to leave Somalia \"by early 2021,\" in just the latest major military policy decision being taken in the final days of the Trump administration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LGe5rcO0jYU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LGe5rcO0jYU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170530091543-01-pentagon-aerial-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/politics/trump-somalia-troop-withdrawal/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-somalia-troop-withdrawal/index.html",
+      "publishedDateTime": "2020-12-04T14:34:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-trump-ignores-facts-with-claim-of-improper-vote-dumps.md",
+      "title": "Trump ignores facts with claim of improper 'vote dumps'",
+      "excerpt": "In lawsuits, tweets and a 46-minute taped diatribe, the president has promoted a false narrative about vote counting in several states.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/trump-ignores-facts-claim-improper-vote-dumps-n1249987",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/trump-ignores-facts-claim-improper-vote-dumps-n1249987",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_49/3433213/201204-donald-trump-mn-0840_3ff08bf71b3ccb940cbf49b781f12604.jpg",
+          "width": 2500,
+          "height": 1458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249987",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249987",
+      "publishedDateTime": "2020-12-04T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-biden-wrestles-with-politics-in-effort-to-depoliticize-the-justice-department.md",
+      "title": "Biden wrestles with politics in effort to depoliticize the Justice Department ",
+      "excerpt": "Political questions from Democrats and a new Republican litmus test have suddenly become complicating factors in one of President-elect Joe Biden's most critical choices: picking a new Attorney General to lead the Justice Department out of its highly politicized era.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JrsNL3KCkDA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JrsNL3KCkDA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 251,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201129183807-biden-file-1125-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-search/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-search/index.html",
+      "publishedDateTime": "2020-12-04T03:03:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-harris-on-her-working-relationship-with-biden-we-are-full-partners-in-this-process.md",
+      "title": "Harris on her working relationship with Biden: 'We are full partners in this process' ",
+      "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris may have been fierce rivals in the Democratic primary, but now, as they prepare to take control of the White House, they say they are full partners who agree on how to approach the country's most pressing issues.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c2p_wb4vLws/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c2p_wb4vLws/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 552,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203221338-harris-biden-cnn-interview-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/kamala-harris-working-partnership/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/kamala-harris-working-partnership/index.html",
+      "publishedDateTime": "2020-12-03T19:33:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-biden-says-multiple-republican-senators-have-called-to-congratulate-him-on-election-win.md",
+      "title": "Biden says multiple Republican senators have called to congratulate him on election win",
+      "excerpt": "President-elect Joe Biden revealed Thursday that \"more than several\" Republican senators have called to privately congratulate him on his election win, despite the fact that most of them have not publicly acknowledged his victory last month.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CsxxWF3xIMs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CsxxWF3xIMs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 962,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203175418-02-biden-intv-tapper-1203-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html",
+      "publishedDateTime": "2020-12-03T19:21:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-does-biden-think-its-important-trump-attend-inauguration-hear-his-answer.md",
+      "title": "Does Biden think it's important Trump attend inauguration? Hear his answer",
+      "excerpt": "In an interview with CNN's Jake Tapper, President-elect Joe Biden explains the importance of a demonstration of a peaceful transfer of power at his inauguration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OKxfE8n0UJk/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OKxfE8n0UJk/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 688,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203220123-joe-biden-tapper-intv-inauguration-12032020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/12/04/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/04/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn",
+      "publishedDateTime": "2020-12-03T19:14:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-biden-on-nominating-diverse-cabinet-im-going-to-keep-my-commitment.md",
+      "title": "Biden on nominating diverse Cabinet: 'I'm going to keep my commitment'",
+      "excerpt": "Joe Biden said Thursday he would keep his commitment to nominate a Cabinet that reflects America's diversity, as the President-elect faces increasing pressure to appoint Black and Latino nominees to remaining high-level Cabinet positions.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vsb3q7crI98/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vsb3q7crI98/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html",
+      "publishedDateTime": "2020-12-03T18:37:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-romney-calls-trumps-leadership-on-covid-19-a-great-human-tragedy.md",
       "title": "Romney calls Trump's leadership on Covid-19 'a great human tragedy'",
       "excerpt": "Republican Sen. Mitt Romney on Thursday blasted President Donald Trump's leadership -- or lack thereof -- during the deadly coronavirus pandemic as \"a great human tragedy.\"\n    \n",
@@ -859,7 +1310,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 194,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1214,457 +1665,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/26/politics/trump-administration-defense-policy-board/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-administration-defense-policy-board/index.html",
       "publishedDateTime": "2020-11-26T10:39:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-joe-and-jill-biden-our-most-important-thanksgiving-tradition.md",
-      "title": "Joe and Jill Biden: Our most important Thanksgiving tradition",
-      "excerpt": "This Thanksgiving, tables throughout our country will have an empty chair.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/amUALtI6NyI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/amUALtI6NyI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201125102451-biden-family-photo-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/26/opinions/joe-jill-biden-most-important-thanksgiving-tradition/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/opinions/joe-jill-biden-most-important-thanksgiving-tradition/index.html",
-      "publishedDateTime": "2020-11-26T03:24:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-flournoy-gets-progressive-boost-in-bidens-search-for-pentagon-chief.md",
-      "title": "Flournoy gets progressive boost in Biden's search for Pentagon chief",
-      "excerpt": "\"We believe Michèle Flournoy is the best candidate for the job,\" a group of arms control veterans write in an open letter to Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/11/25/michele-flournoy-biden-defense-secretary-440803",
-      "originalUrl": "https://www.politico.com/news/2020/11/25/michele-flournoy-biden-defense-secretary-440803",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d1/b8/2ffd1b81423daf4161ba1ad258a2/201125-michele-flournoy-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/11/25/michele-flournoy-biden-defense-secretary-440803",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/25/michele-flournoy-biden-defense-secretary-440803",
-      "publishedDateTime": "2020-11-25T18:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-chinese-leader-xi-jinping-congratulates-biden-on-winning-election.md",
-      "title": "Chinese leader Xi Jinping congratulates Biden on winning election",
-      "excerpt": "Chinese President Xi Jinping on Wednesday sent a congratulatory message to President-elect Joe Biden, more than two weeks after the Democratic candidate was projected the winner of the US presidential election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/48co7jaGJHQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/48co7jaGJHQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 1230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201029103102-xi-jinping-wave-2019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-congratulations/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-congratulations/index.html",
-      "publishedDateTime": "2020-11-25T11:00:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-chalian-on-bidens-agenda-america-first-is-gone.md",
-      "title": "Chalian on Biden's agenda: 'America First' is gone",
-      "excerpt": "CNN's David Chalian explains how President-elect Joe Biden's approach to selecting his cabinet differs from President Trump's.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/smtbZ2jSf7o/president-elect-joe-biden-first-cabinet-selection-compared-to-trump-administration-chalian-nr-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/smtbZ2jSf7o/president-elect-joe-biden-first-cabinet-selection-compared-to-trump-administration-chalian-nr-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201124140636-david-chalian-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/11/24/president-elect-joe-biden-first-cabinet-selection-compared-to-trump-administration-chalian-nr-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/24/president-elect-joe-biden-first-cabinet-selection-compared-to-trump-administration-chalian-nr-vpx.cnn",
-      "publishedDateTime": "2020-11-24T12:33:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-cdc-ready-for-biden-transition-this-is-what-weve-been-waiting-for.md",
-      "title": "CDC ready for Biden transition: \"This is what we've been waiting for\"",
-      "excerpt": "Leadership at the Centers for Disease Control and Prevention, beset by a Trump White House that was harshly critical of the agency's coronavirus response, are anticipating the Biden transition team and the change a new administration will bring, senior health officials tell CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/40tKJCm1ngI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/40tKJCm1ngI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201023122452-cdc-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/24/politics/cdc-biden-transition/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/cdc-biden-transition/index.html",
-      "publishedDateTime": "2020-11-24T09:28:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-can-manny-diaz-resurrect-democrats-poll-majority-of-gop-would-support-trump-in-2024-florida-tops-18000-covid-19-deaths.md",
-      "title": "Can Manny Diaz resurrect Democrats? — Poll: Majority of GOP would support Trump in 2024 — Florida tops 18,000 Covid-19 deaths",
-      "excerpt": "Is this the answer that Florida Democrats have been hoping for? Jumping into the fray — Former Miami Mayor Manny Diaz, who earned a reputation as a turnaround artist in his home city, is campaigning for an even tougher job: leading the floundering Florida Democratic Party.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2020/11/24/can-manny-diaz-resurrect-democrats-490978",
-      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2020/11/24/can-manny-diaz-resurrect-democrats-490978",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
-          "width": 900,
-          "height": 1165,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-virginia-democrats-thrilled-with-biden-victory-arent-looking-for-carbon-copy.md",
-      "title": "Virginia Democrats, Thrilled With Biden Victory, Aren’t Looking for Carbon Copy",
-      "excerpt": "Suburban women who played a huge role in Joe Biden’s victory are not convinced that they need a white man to win their governor’s race next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/23/us/politics/23VIRGINIA-DEMS-photo/23VIRGINIA-DEMS-photo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.amp.html",
-      "publishedDateTime": "2020-11-24T02:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-keilar-calls-sydney-powell-a-trump-scapegoat.md",
-      "title": "Keilar calls Sydney Powell a Trump 'scapegoat'",
-      "excerpt": "CNN's Brianna Keilar takes a look at Trump's legal team distancing itself from Sydney Powell, a lawyer who spoke at the campaign's press conference laying out its case for widespread voter fraud.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q3C62NEKeA8/brianna-keilar-rolls-the-tape-sydney-powell-nr-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q3C62NEKeA8/brianna-keilar-rolls-the-tape-sydney-powell-nr-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201123142215-brianna-keilar-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/11/23/brianna-keilar-rolls-the-tape-sydney-powell-nr-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/23/brianna-keilar-rolls-the-tape-sydney-powell-nr-vpx.cnn",
-      "publishedDateTime": "2020-11-23T12:12:05-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

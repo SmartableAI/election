@@ -962,6 +962,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump stays on sidelines as virus vaccine injections begin"
+    excerpt: "President Donald Trump’s administration helped bring about vaccinations against the coronavirus earlier than even some of his own officials had hoped for"
+    publishedDateTime: 2020-12-18T11:04:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-stays-sidelines-virus-vaccine-injections-begin-74796834"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_03219caa44f644e183f9c1f4832986f0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "'The moment of truth': The Electoral College prepares to hand Trump the loss he refuses to accept"
     excerpt: "Facing a loss in the Electoral College, Trump's allies have shifted their focus to Jan. 6, when Congress will count the electoral votes."
     publishedDateTime: 2020-12-11T10:15:00Z

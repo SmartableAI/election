@@ -64,6 +64,36 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden Faces Challenge as Congress Drops State Aid to Secure Stimulus"
+    excerpt: "A campaign by conservative activists and disputes over how to divvy up federal assistance have thwarted negotiators. But President-elect Joe Biden will make a new push for such funding next year."
+    publishedDateTime: 2020-12-17T23:33:00Z
+    webUrl: "https://www.nytimes.com/2020/12/17/business/stimulus-state-local-aid.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/17/business/stimulus-state-local-aid.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/17/business/stimulus-state-local-aid.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/17/us/17dc-StateStimulus01/17dc-StateStimulus01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Garcetti won't serve in Biden administration"
+    excerpt: "Eric Garcetti said he had turned down an unspecified administration post and would instead remain mayor of California's largest city."
+    publishedDateTime: 2020-12-18T02:58:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/12/17/garcetti-wont-serve-in-biden-administration-1348439"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/capny/sites/default/files/eric-garcetti.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "ZtAU0qsnuVfRlXSjVDz/wtSAg/A8rm1QIsHADCzxRPvWcHqSicDvgAwe5bSZILOkXnfmImQ6jmEMS+IkDboegNlUIThll1f+GpiBLxIABcbLyKvOyfycjvS1nbNB3keOzFccqNrCgXzaI4S4DrGG+581ANoWygQFFSB78utCboDz051h0wWw1gS9AXNUrcLGJFqvyCvY/a+fJHRb1HlSFTRcelW4JRBuHtXyuysxxulvr9c6eUp3HGPAmX1oGyV9ensWaZiEaaLeeR+WeSxg9/6mm6jSrSfXWOvmcnA9PpggDhgOqLdJocrawKoACoIgNy3+rTcIS8omWJsnvCx53YMMJL/iZZVSo8lvp/O4Qp3qYHREE34c8V3XfMDKhI+X6XF/1/rS8xJTeW3t1TmzqjdmrJV5OifW4P1ZYm60tA0tAAJ9ZzRutKRf+EBAyiMZJ+MICrlMzQI87G23bAhl4fnsBl1HacJ4DqrSZ6iMKs6tjKJ1h9yGFEu/WCSZiOycqErsenztTOyJGqoGLftmuw==;NUHir9fDZjmkjwNm0ibbLA=="
 ---

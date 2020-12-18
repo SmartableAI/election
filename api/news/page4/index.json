@@ -2,6 +2,497 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-15-trump-campaign-files-lawsuit-over-new-mexico-ballot-drop-boxes.md",
+      "title": "Trump campaign files lawsuit over New Mexico ballot drop boxes",
+      "excerpt": "As New Mexico electors cast their votes on Monday, President Trump's campaign team filed a suit over the state's use of ballot drop boxes.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jn8uE8tIPwM/trump-campaign-files-lawsuit-over-nm-drop-boxes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jn8uE8tIPwM/trump-campaign-files-lawsuit-over-nm-drop-boxes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20350011448560.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-files-lawsuit-over-nm-drop-boxes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-files-lawsuit-over-nm-drop-boxes.amp",
+      "publishedDateTime": "2020-12-15T12:21:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-in-bad-shape-and-getting-worse-guantanamo-poses-headaches-for-biden.md",
+      "title": "‘In Bad Shape and Getting Worse,’ Guantánamo Poses Headaches for Biden",
+      "excerpt": "The new administration confronts decaying infrastructure and a military justice system moving at a glacial pace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/15/us/politics/15dc-gitmo/15dc-gitmo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html",
+      "publishedDateTime": "2020-12-15T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-inauguration-committee-says-bidens-scaled-down-swearing-in-will-include-vigorous-health-and-safety-protocols.md",
+      "title": "Inauguration committee says Biden's scaled-down swearing-in will include 'vigorous health and safety protocols'",
+      "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris will take their oaths of office at the US Capitol in January during a significantly scaled-down inauguration ceremony that will implement \"vigorous health and safety protocols,\" the Presidential Inaugural Committee said Tuesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xQYc3EvnfX0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xQYc3EvnfX0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201204050014-biden-harris-split-1204-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/15/politics/biden-harris-inauguration/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/biden-harris-inauguration/index.html",
+      "publishedDateTime": "2020-12-15T09:55:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-fauci-recommends-trump-and-pence-get-vaccinated-for-covid-19.md",
+      "title": "Fauci recommends Trump and Pence get vaccinated for Covid-19",
+      "excerpt": "Dr. Anthony Fauci would recommend that both President Donald Trump and Vice President Mike Pence receive the Covid-19 vaccine, which has been approved for emergency use authorization and is being rolled out nationwide.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aQhMcwMRt6Y/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aQhMcwMRt6Y/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 500,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201002094331-01-trump-pence-0928-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/15/politics/fauci-coronavirus-vaccine-trump-pence/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/fauci-coronavirus-vaccine-trump-pence/index.html",
+      "publishedDateTime": "2020-12-15T06:31:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-the-latest-fauci-says-vaccinate-biden-harris-trump-pence.md",
+      "title": "The Latest: Fauci says vaccinate Biden, Harris, Trump, Pence",
+      "excerpt": "Top U.S. infectious disease expert Dr. Anthony Fauci says President-elect Joe Biden and Vice President-elect Kamala Harris should be vaccinated for COVID-19 as soon as possible",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 3280,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Health/WireAP_22bdf9791c6749db8600b787bc5bdc58_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137",
+      "publishedDateTime": "2020-12-15T04:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-judith-heumann-biden-is-committed-to-involving-disabled-people-in-his-administration.md",
+      "title": "Judith Heumann: 'Biden is committed to involving disabled people in his administration'",
+      "excerpt": "The US activist on Covid’s impact and her starring role in Crip Camp, the documentary charting the birth of the disability rights movement",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp",
+      "originalUrl": "https://www.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/3d90cbafa017f6722f77179c47ff994b5abfc67a/120_0_1800_1080/master/1800.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e8585343d59071aee5cb9e05a5d0ad88",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp",
+      "publishedDateTime": "2020-12-15T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-putin-congratulates-biden-on-election-victory.md",
+      "title": "Putin congratulates Biden on election victory",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ov1bROivNoQ/putin-congratulates-biden-on-election-victory",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ov1bROivNoQ/putin-congratulates-biden-on-election-victory",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1710,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp",
+      "publishedDateTime": "2020-12-15T00:44:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-democracy-prevailed-biden-after-official-win.md",
+      "title": "'Democracy prevailed': Biden after official win",
+      "excerpt": "Biden after official win. Posted . Democrat Joe Biden called on Americans to \"turn the page\" on the Trump era in a prime-time speech on Monday (D",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOVD94HSYN",
+      "originalUrl": "https://www.reuters.com/video/watch/idOVD94HSYN",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20201215&i=OVD94HSYN&r=OVD94HSYN&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T22:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-a-talk-with-frances-ambassador-on-biden-climate-accord-and-restoring-allies-trust.md",
+      "title": "A talk with France’s ambassador: On Biden, climate accord and restoring allies’ trust",
+      "excerpt": "The Times speaks with Philippe Etienne, France's envoy to the U.S., on Biden's promise to rejoin the five-year-old Paris Accord that Trump disavowed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/politics/story/2020-12-14/a-talk-with-frances-ambassador-on-biden-climate-accord-and-restoring-allies-trust",
+      "originalUrl": "https://www.latimes.com/politics/story/2020-12-14/a-talk-with-frances-ambassador-on-biden-climate-accord-and-restoring-allies-trust",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/a08b3ce/2147483647/strip/true/crop/4336x2832+180+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdb%2F59%2F4a9965f21e1457f290a5206c1d43%2F865883e16a53418e8cf38fa7726ded7d",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/politics/story/2020-12-14/a-talk-with-frances-ambassador-on-biden-climate-accord-and-restoring-allies-trust?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-14/a-talk-with-frances-ambassador-on-biden-climate-accord-and-restoring-allies-trust?_amp=true",
+      "publishedDateTime": "2020-12-14T18:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-internet-fact-checker-at-firm-that-works-with-facebook-reveals-distrust-of-trump-wh.md",
       "title": "Internet fact-checker at firm that works with Facebook reveals distrust of Trump WH",
       "excerpt": "Companies like Facebook work with groups licensed by individuals at the International Fact-Checking Network.",
@@ -122,7 +613,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 324,
+      "heat": 304,
       "tags": null,
       "images": [
         {
@@ -331,62 +822,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-electors-in-key-battleground-states-affirm-votes-for-biden.md",
-      "title": "Electors in key battleground states affirm votes for Biden",
-      "excerpt": "Electors in Vermont and Tennessee cast their ballots for president Monday morning, opening the formal Electoral College process of sealing Joe Biden's election as the 46th president of the United States.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vrRedsEWYVk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vrRedsEWYVk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 915,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201214124640-electoral-college-iowa-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html",
-      "publishedDateTime": "2020-12-14T10:09:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     },
@@ -935,438 +1370,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-in-latin-america-a-biden-white-house-faces-a-rising-china.md",
-      "title": "In Latin America, a Biden White House faces a rising China",
-      "excerpt": "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-latam-usa-china-insight-idUSKBN28O18R",
-      "originalUrl": "https://www.reuters.com/article/us-latam-usa-china-insight-idUSKBN28O18R",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544488578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0NX",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28O18R",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R",
-      "publishedDateTime": "2020-12-14T03:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-northwestern-distances-itself-from-former-lecturer-after-controversial-op-ed-urging-jill-biden-to-drop-dr-title.md",
-      "title": "Northwestern distances itself from former lecturer after controversial op-ed urging Jill Biden to drop 'Dr.' title",
-      "excerpt": "Northwestern University is distancing itself from a former lecturer who called on incoming first lady Jill Biden to stop using the \"Dr.\" honorific because she has a doctorate in education, not an MD.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W-0zqakLQbA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W-0zqakLQbA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201003154742-jill-biden-090120-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/13/politics/jill-biden-dr-first-lady-op-ed-joseph-epstein-northwestern/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/jill-biden-dr-first-lady-op-ed-joseph-epstein-northwestern/index.html",
-      "publishedDateTime": "2020-12-13T18:48:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-trump-expands-his-cable-diet-to-newsmax-and-oan-they-benefit-and-so-does-he.md",
-      "title": "Trump expands his cable diet to Newsmax and OAN. They benefit and so does he.",
-      "excerpt": "Presidential praise has boosted ratings, and more viewers can then increase pressure on Republicans to back Trump’s false claims of election fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V3ZFN5BLPAI6XHBBHTCQDUEYD4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-13T18:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-coronavirus-live-news-trump-to-be-offered-vaccine-on-monday-london-borough-to-close-all-schools.md",
-      "title": "Coronavirus live news: Trump 'to be offered vaccine on Monday'; London borough to close all schools",
-      "excerpt": "Greenwich ‘in a period of exponential growth that demands immediate action’; Spain’s health minister says vaccine could bring herd immunity by summer",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day?page=with:block-5fd68aab8f08b0a99da950e2",
-      "originalUrl": "https://www.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day?page=with:block-5fd68aab8f08b0a99da950e2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/aa43b0326b5deb79f2e3c35acff29d03650abc3a/0_197_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3e40d3e6031803dbbb1e1b649f700a6f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day",
-      "publishedDateTime": "2020-12-13T14:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe.md",
-      "title": "Former WH communications director Alyssa Farah says GA Senate runoffs will play role in Hunter Biden probe",
-      "excerpt": "Former White House communications cirector Alyssa Farah asserted Sunday that the result of January's Georgia Senate runoff races would play a role in the future of a probe into Hunter Biden's business dealings. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O6yJSDrO1Uw/former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O6yJSDrO1Uw/former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20325631724231-e1607011068759.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe.amp",
-      "publishedDateTime": "2020-12-13T13:32:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-scalise-not-ready-to-accept-biden-win-let-the-legal-process-play-out.md",
-      "title": "Scalise not ready to accept Biden win: 'Let the legal process play out'",
-      "excerpt": "House Minority Whip Steve Scalise, R-La., said he will continue supporting efforts challenging the election results even as the Electoral College is set to officially elect Joe Biden as the next president on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPMjJGfmt9s/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPMjJGfmt9s/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46f18e67-c1f3-4d8b-af0c-1cc8176ab6f1/e519d3ae-105a-4f1a-b174-681aa265a5e2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out.amp",
-      "publishedDateTime": "2020-12-13T08:18:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-trumps-legal-attempt-to-throw-out-votes-in-wisconsins-most-diverse-counties-smacks-of-racism-judge-says.md",
-      "title": "Trump's legal attempt to throw out votes in Wisconsin's most diverse counties 'smacks of racism,' judge says",
-      "excerpt": "Most Black Wisconsinites live in or around the two counties, Milwaukee and Dane, where the Trump legal team sort to throw out 221,000 absentee ballot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12",
-      "originalUrl": "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fd606459cf1420018d2f0ed?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12?amp",
-      "publishedDateTime": "2020-12-13T06:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-trump-tells-fox-friends-election-challenges-not-over-ahead-of-electoral-college-vote.md",
-      "title": "Trump tells 'Fox & Friends' election challenges 'not over' ahead of Electoral College vote",
-      "excerpt": "President Trump vowed that he and his campaign “are going to continue to go forward” with their legal challenges against November’s election results, despite the Electoral College getting set to cast their votes on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cd_49uR8pnc/trump-fox-and-friends-election-challenges-not-over-electoral-college-vote",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cd_49uR8pnc/trump-fox-and-friends-election-challenges-not-over-electoral-college-vote",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 240,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/af96457e-fe5b-4fb8-ba03-20cfe1da89e3/b261a395-51b1-47c7-934b-03d1913816b6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-fox-and-friends-election-challenges-not-over-electoral-college-vote.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fox-and-friends-election-challenges-not-over-electoral-college-vote.amp",
-      "publishedDateTime": "2020-12-13T04:48:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

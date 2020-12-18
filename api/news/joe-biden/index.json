@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-18-biden-transition-live-updates-congress-scrambles-to-reach-stimulus-deal-as-deadline-nears.md",
+      "title": "Biden Transition Live Updates: Congress Scrambles to Reach Stimulus Deal as Deadline Nears",
+      "excerpt": "Lawmakers are hammering out details of a $900 billion pandemic relief package and an overall spending bill to avoid a government shutdown at midnight. President-elect Joe Biden said accusations against his son were “kind of foul play.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2020/12/18/us/joe-biden-trump",
+      "originalUrl": "https://www.nytimes.com/live/2020/12/18/us/joe-biden-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/18/us/politics/18transition-brief-cyber/18transition-brief-cyber-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2020/12/18/us/joe-biden-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/18/us/joe-biden-trump.amp.html",
+      "publishedDateTime": "2020-12-18T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-bidens-incoming-deputy-chief-of-staff-apologizes-for-calling-republicans-a-bunch-of-f-ers.md",
       "title": "Biden's incoming deputy chief of staff apologizes for calling Republicans 'a bunch of f---ers'",
       "excerpt": "\"I used some words that I probably could have chosen better,\" O'Malley Dillon said on Thursday, per a Politico report.",
@@ -433,6 +490,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-16-path-cleared-for-a-second-vaccine-mcconnell-congratulates-biden-and-northeast-braces-for-major-snowstorm.md",
+      "title": "Path cleared for a second vaccine, McConnell congratulates Biden and Northeast braces for major snowstorm",
+      "excerpt": "Good morning, NBC News readers. Another Covid-19 vaccine is on the horizon, the top Senate Republican finally acknowledged President-elect Joe Biden's victory and a major winter storm is headed straight for the East Coast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/morning-briefing/path-cleared-second-vaccine-mcconnell-congratulates-biden-northeast-braces-major-n1251364",
+      "originalUrl": "https://www.nbcnews.com/news/morning-briefing/path-cleared-second-vaccine-mcconnell-congratulates-biden-northeast-braces-major-n1251364",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_51/3436062/201216-buttigieg-mc-1139_19a0ba5959deb6dcd743bf28f8bfcff2.JPG",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1251364",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251364",
+      "publishedDateTime": "2020-12-16T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-fact-check-laptop-repairman-at-center-of-hunter-biden-saga-is-alive.md",
       "title": "Fact check: Laptop repairman at center of Hunter Biden saga is alive",
       "excerpt": "Some users on Facebook have falsely claimed John Paul Mac Isaac — the laptop repairman at the center of the Hunter Biden laptop saga — was found dead.",
@@ -482,6 +596,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-devos-urges-career-staff-to-be-the-resistance-as-biden-takes-over.md",
+      "title": "DeVos urges career staff to ‘be the resistance’ as Biden takes over",
+      "excerpt": "The secretary's remarks come after nearly four years of frequently sparring with the career employees of her department.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/15/betsy-devos-biden-education-department-445900",
+      "originalUrl": "https://www.politico.com/news/2020/12/15/betsy-devos-biden-education-department-445900",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/a8/53/14b4729a45d19396481a7440ac6a/gettyimages-1255052290-2-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/15/betsy-devos-biden-education-department-445900",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/15/betsy-devos-biden-education-department-445900",
+      "publishedDateTime": "2020-12-15T16:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     },
     {
@@ -586,6 +757,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-in-bad-shape-and-getting-worse-guantanamo-poses-headaches-for-biden.md",
+      "title": "‘In Bad Shape and Getting Worse,’ Guantánamo Poses Headaches for Biden",
+      "excerpt": "The new administration confronts decaying infrastructure and a military justice system moving at a glacial pace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/15/us/politics/15dc-gitmo/15dc-gitmo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html",
+      "publishedDateTime": "2020-12-15T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     },
     {
@@ -854,6 +1082,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-13-alexander-it-looks-very-much-like-the-electors-will-vote-for-joe-biden.md",
+      "title": "Alexander: 'It looks very much like the electors will vote for Joe Biden'",
+      "excerpt": "Sen. Lamar Alexander (R-Tenn.) tells Chuck Todd that there shouldn't be any doubt about who won the 2020 presidential election after the Electoral College votes on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/alexander-it-looks-very-much-like-the-electors-will-vote-for-joe-biden-97645637979",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/alexander-it-looks-very-much-like-the-electors-will-vote-for-joe-biden-97645637979",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_clip_lamaralexandermr1_201213.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo97645637979",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97645637979",
+      "publishedDateTime": "2020-12-13T05:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-analysis-senate-gangs-show-biden-whats-possible-and-not.md",
       "title": "Analysis: Senate 'gangs' show Biden what's possible, and not",
       "excerpt": "Senators met day after day, night after night, trying to hammer out a framework for a $900 billion-plus COVID-19 aid and economic relief package",
@@ -1007,6 +1292,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-an-opinion-writer-argued-jill-biden-should-drop-the-dr-few-were-swayed.md",
+      "title": "An Opinion Writer Argued Jill Biden Should Drop the ‘Dr.’ (Few Were Swayed.)",
+      "excerpt": "Many women said Joseph Epstein’s suggestion in The Wall Street Journal was blatantly sexist and underscored the way men often dismiss women’s credentials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/12/lens/12xp-drbiden-photo/12xp-drbiden-photo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.amp.html",
+      "publishedDateTime": "2020-12-12T19:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     },
     {
@@ -1277,334 +1619,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-joe-bidens-centrist-dilemma-police-groups-say-hes-gone-too-far-left-activists-say-he-hasnt-gone-far-enough.md",
-      "title": "Joe Biden's centrist dilemma: Police groups say he's gone too far left; activists say he hasn't gone far enough",
-      "excerpt": "Conflicting interests from police and social justice groups will test Joe Biden's reputation as a centrist as he tries to implement police reform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/10/biden-reform-plan-tests-black-lives-matter-police-support/6422611002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/10/biden-reform-plan-tests-black-lives-matter-police-support/6422611002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/08/USAT/d95e320a-8181-49f1-aabd-79087d150b2b-XXX__DSC5622.JPG?auto=webp&crop=5999,3374,x0,y140&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6422611002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6422611002",
-      "publishedDateTime": "2020-12-10T02:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-biden-picks-marcia-fudge-for-hud-and-tom-vilsack-for-agriculture-secretary.md",
-      "title": "Biden Picks Marcia Fudge for HUD and Tom Vilsack for Agriculture Secretary",
-      "excerpt": "Ms. Fudge, a House member from Ohio, would be the second African-American Biden cabinet member chosen in two days. Mr. Vilsack would reprise his role from the Obama administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/08/us/politics/08dc-bidenhud1/08dc-bidenhud1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.amp.html",
-      "publishedDateTime": "2020-12-08T18:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-politics-updates-trump-reached-out-to-pa-house-speaker-over-election.md",
-      "title": "Politics updates: Trump reached out to PA House speaker over election",
-      "excerpt": "The Trump campaign has pressed Republicans to find ways to overturn election results in certain states the president lost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/politics-presidential-transition-news-joe-biden-donald-trump/6484311002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/politics-presidential-transition-news-joe-biden-donald-trump/6484311002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 3990,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/07/USAT/3c1f8107-9a3f-41e3-ab0b-4e49861b8e47-AP_Trump_1.jpg?auto=webp&crop=2391,1345,x0,y358&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6484311002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6484311002",
-      "publishedDateTime": "2020-12-08T05:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-biden-picks-retired-us-army-gen-lloyd-austin-to-head-the-pentagon-if-confirmed-hed-be-the-first-black-man-to-lead-the-defense-department.md",
-      "title": "Biden picks retired US Army Gen. Lloyd Austin to head the Pentagon. If confirmed, he'd be the first Black man to lead the Defense Department.",
-      "excerpt": "Retired US Army Gen. Lloyd Austin would be America's first Black defense secretary, if confirmed by Congress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12",
-      "originalUrl": "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc16dcb50e71a0011557c1f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12?amp",
-      "publishedDateTime": "2020-12-08T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-what-might-unite-a-divided-washington-behind-joe-biden-unsexy-infrastructure.md",
-      "title": "What Might Unite a Divided Washington Behind Joe Biden? Unsexy Infrastructure",
-      "excerpt": "Roads, bridges, airports, subways, broadband networks, windmills, solar farms. Infrastructure just might be the vehicle that could smash through the political roadblocks in Washington.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/what-might-unite-a-divided-washington-behind-joe-biden-unsexy-infrastructure-11607357371",
-      "originalUrl": "https://www.wsj.com/articles/what-might-unite-a-divided-washington-behind-joe-biden-unsexy-infrastructure-11607357371",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-269242/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/what-might-unite-a-divided-washington-behind-joe-biden-unsexy-infrastructure-11607357371",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-might-unite-a-divided-washington-behind-joe-biden-unsexy-infrastructure-11607357371",
-      "publishedDateTime": "2020-12-07T22:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-gordon-chang-warns-china-is-going-to-push-a-president-biden-around-and-us-must-push-back.md",
-      "title": "Gordon Chang warns China is 'going to push a President Biden around' and US must 'push back'",
-      "excerpt": "President-elect Joe Biden will be little match for the \"incredible arrogance\" of the Chinese government, China expert Gordon Chang warned on \"Tucker Carlson Tonight.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/gordon-chang-china-push-biden-around-dangerous",
-      "originalUrl": "https://www.foxnews.com/world/gordon-chang-china-push-biden-around-dangerous",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a52d8dc-304a-4ed1-8df0-2bc52a1f20c6/ed9014db-e768-4d7f-805d-1b28de78b272/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/gordon-chang-china-push-biden-around-dangerous.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/gordon-chang-china-push-biden-around-dangerous.amp",
-      "publishedDateTime": "2020-12-07T19:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

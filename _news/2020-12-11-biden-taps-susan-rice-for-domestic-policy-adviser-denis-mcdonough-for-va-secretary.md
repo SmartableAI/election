@@ -112,86 +112,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden Clashes With the Left"
-    excerpt: "Democrats are trying to work out their differences as Biden prepares to take office. It’s Friday, and this is your politics tip sheet."
-    publishedDateTime: 2020-12-11T12:01:00Z
-    webUrl: "https://www.nytimes.com/2020/12/11/us/politics/biden-defund-police-student-loans.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/11/us/politics/biden-defund-police-student-loans.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/11/us/politics/biden-defund-police-student-loans.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/01/10/multimedia/onpolitics-biden/onpolitics-barber-still-facebookJumbo-v2.png"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Hunter probe complicates Joe Biden's attorney general pick"
-    excerpt: "The president-elect is weighing a complex set of factors as he zeroes in on his choice to lead the Justice Department."
-    publishedDateTime: 2020-12-12T01:49:00Z
-    webUrl: "https://www.politico.com/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/4a/73/179ea39e451db1698724763adaa1/gettyimages-119583341-1.jpg"
-        width: 1161
-        height: 773
-        isCached: true
-  - title: "Biden Faces Intense Pressure From All Sides as He Seeks Diverse Cabinet"
-    excerpt: "The pressure on the Democratic president-elect is intense, even as his efforts to ensure ethnic and gender diversity already go far beyond those of President Trump. And it’s coming from all sides."
-    publishedDateTime: 2020-12-12T16:31:00Z
-    webUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/12dc-cabinet1/11dc-cabinet1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "As Biden Prepares to Take Office, a New Rush at the Border"
-    excerpt: "The president-elect has promised a more humane border policy. But devastated economies and natural disasters in Latin America have fueled a spike in migration that could make pledges hard to keep."
-    publishedDateTime: 2020-12-13T20:50:00Z
-    webUrl: "https://www.nytimes.com/2020/12/13/us/border-crossing-migrants-biden.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/13/us/border-crossing-migrants-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/us/border-crossing-migrants-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/11/us/00BORDER-1-SUB/merlin_180953598_82987d66-deda-4124-a4d2-62a8e173e4b1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Hunter probe compounds Biden’s attorney general dilemmas"
-    excerpt: "The president-elect is weighing a complex set of factors as he zeroes in on his choice to lead the Justice Department."
-    publishedDateTime: 2020-12-14T16:30:00Z
-    webUrl: "https://www.politico.com/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/4a/73/179ea39e451db1698724763adaa1/gettyimages-119583341-1.jpg"
-        width: 1161
-        height: 773
-        isCached: true
   - title: "Transition Live Updates: Biden to Formally Name Austin as Defense Secretary"
     excerpt: "President-elect Joe Biden is set to introduce Lloyd J. Austin III, a retired Army general, as his choice to lead the Pentagon. On Tuesday, Mr. Biden and President Trump offered the American people very divergent messages on the state of the virus."
     publishedDateTime: 2020-12-09T10:55:00Z
@@ -207,20 +127,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/10/world/09transition-briefing-austin/09transition-briefing-austin-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Electoral College affirms Biden's victory"
-    excerpt: "Democratic electors cast their votes without incident states where Trump has contested the results, like Pennsylvania and Georgia."
-    publishedDateTime: 2020-12-14T23:10:00Z
-    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/12/14/electoral-college-affirms-bidens-victory-1346450"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/87/fa/04107b0c4742923ec02a4bbcaa9d/20201213-joe-biden-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "pY0afUWgXkVi41xFl0ezZsYhnTW16aBwOgDziPF4evQRMndYC+xzx7CkwgdPb0MmHhZebchxH8qaZX9xuop2SwsxbrO3XaypBsEFFFRLScoDhVhYvTtTQ2oUo72YZ5+Bp9bkLwDPX4xhrTlwMtF8FbCqy+DWr2rbzwOspiAAtmPyOJ9JZXqgxck0H4/qyxzu7EOBr5wmfDK+kslzKuGbKnWWLFebj1dE8j6hjQdsXPpelCUE/lWL6/2fqKv+5Epg9FGRTD2QrPRC+KXmRM5CNzT4j21TiQ+5Y9IF22RVYfxsWRnWWTE28L7WezSFNtV5VY1LEzZ8uXsjtINjZYVf5as+yc2nIToFxvcpVI9Sj5jssJlk1SNunCizO7rwpLrrFCOXn+QJKinIKeB6nhgVqo5/PMz2/kp0WxeTyFWci54i7GZAtbPDWF1gNmIJLNOMy099hrLVAOR0XDa3cRiSharNWEpdxK1aCpczntIyh2iJI1r4j89FjF6WjZy018qB8efwBf2cD06TYx0YkVWkCw==;FqjlU+XpQy5+57ToNd5F3Q=="

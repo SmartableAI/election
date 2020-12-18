@@ -63,6 +63,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike And Karen Pence Have Received The First Dose Of The COVID-19 Vaccine On Live TV"
+    excerpt: "Pence received the first dose of the vaccine as the virus rages across the county and kills about 3,000 people per day."
+    publishedDateTime: 2020-12-18T14:25:00Z
+    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/mike-karen-pence-pfizer-covid-19-vaccine"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/clarissajanlim/mike-karen-pence-pfizer-covid-19-vaccine"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/clarissajanlim/mike-karen-pence-pfizer-covid-19-vaccine"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 118
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-12/14/16/campaign_images/bae355bd64c3/white-house-officials-who-completely-mismanaged-t-2-7531-1607962561-15_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
+  - title: "Vice President Mike Pence, wife Karen, receive COVID-19 vaccination on live television"
+    excerpt: "Vice President Mike Pence, wife Karen, receive COVID-19 vaccination on live television. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission."
+    publishedDateTime: 2020-12-18T13:07:00Z
+    webUrl: "https://www.washingtonpost.com/politics/vice-president-mike-pence-wife-karen-receive-covid-19-vaccination-on-live-television/2020/12/18/eeabd882-4131-11eb-b58b-1623f6267960_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 97
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Monroe County Airport prepares for Vice President Mike Pence's visit"
     excerpt: "The vice president is expected to visit Bloomington's Catalent Biologics to tour the COVID-19 vaccine production line."
     publishedDateTime: 2020-12-14T21:27:00Z
@@ -95,6 +125,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "'I didn't feel a thing.' Vice President Mike Pence gets COVID-19 vaccine on camera"
+    excerpt: "Vice President Mike Pence and his wife were vaccinated for COVID-19 at the White House to build public confidence in the vaccine."
+    publishedDateTime: 2020-12-18T14:01:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3948306001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3948306001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/18/USAT/2da82bdf-527e-4c45-9d7f-538ff0eada07-AFP_AFP_8XE32K.jpg?auto=webp&crop=3839,2160,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pence likely to get the coronavirus vaccine by Friday"
     excerpt: "Vice President Mike Pence is likely to receive the coronavirus vaccine by Friday, two sources familiar with the plans tell CNN."
     publishedDateTime: 2020-12-15T20:14:00Z
@@ -108,6 +154,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/custom/image/bcf8e96c-4b35-11e5-9c03-7b4fbbdd1e31.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Vice President Mike Pence Receives COVID-19 Vaccine During Live Broadcast"
+    excerpt: "Vice President Mike Pence receives Pfizer's COVID-19 vaccine at the White House on Friday, December 18, 2020, in a bid to build public confidence in its safety and efficacy. President Donald Trump will not receive the vaccine unless the White House medical team recommends it."
+    publishedDateTime: 2020-12-18T14:07:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9695e1476f16d2e2ea52b2b81fabde16/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 54
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/9695e1476f16d2e2ea52b2b81fabde16/PENCE-CORONAVIRUS-VACCINE.jpg"
+        width: 650
+        height: 489
         isCached: true
   - title: "Pence plans visit to state to discuss virus vaccines"
     excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss novel coronavirus vaccines as federal officials are expected to"

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/jennifer-granholm-biden-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/jennifer-granholm-biden-energy-secretary/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 315
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Immigrant advocates urge Biden to quickly rectify the trauma of family separation"
+    excerpt: "Immigrant advocacy groups, who for years scrambled to identify and reunite families separated at the US-Mexico border, are now preparing for the incoming administration and steps to rectify the trauma experienced by parents and children.\n    \n"
+    publishedDateTime: 2020-12-16T10:11:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IvgW82qAtWU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/immigration-family-separation-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/immigration-family-separation-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215062439-02-joe-biden-1214-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden nominates Denis McDonough to lead VA, turning to another longtime Obama adviser"
     excerpt: "President-elect Joe Biden is poised to tap Denis McDonough to lead the Department of Veterans Affairs, a person familiar with the decision says, adding the longtime chief of staff to former President Barack Obama to his new Cabinet.\n    \n"
     publishedDateTime: 2020-12-10T16:03:33Z
@@ -78,6 +94,38 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210095900-denis-mcdonough-2018-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden's economic plan is bold. Is it possible?"
+    excerpt: "Elect Joe Biden has sketched out a bold economic agenda, but his ability to enact it could be determined by the upcoming races for control of the Senate."
+    publishedDateTime: 2020-12-11T14:02:00Z
+    webUrl: "https://www.cnn.com/videos/business/2020/12/11/biden-economy-taxes-stimulus-student-debt-trump-covid-orig.cnn-business"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/12/11/biden-economy-taxes-stimulus-student-debt-trump-covid-orig.cnn-business"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/11/biden-economy-taxes-stimulus-student-debt-trump-covid-orig.cnn-business"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201206234438-joe-biden-1204-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Progressive Groups Urge Biden to Move Quickly on Diverse Slate of Judges"
+    excerpt: "The president-elect faces pressure to install a diverse group of progressives in the courts, but the prospect of a Republican-controlled Senate looms as an obstacle."
+    publishedDateTime: 2020-12-11T23:27:00Z
+    webUrl: "https://www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/11DC-JUDGES/11DC-JUDGES-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden picks Mallory to lead White House Council on Environmental Quality"
     excerpt: "President-elect Joe Biden will tap Brenda Mallory to lead the White House Council on Environmental Quality, according to two people familiar with selection, which would put the veteran environmental lawyer in charge of an office with sweeping purview over how the federal government assesses environmental effects of policies,"

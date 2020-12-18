@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/jill-biden-dr-first-lady
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/jill-biden-dr-first-lady-op-ed-joseph-epstein-northwestern/index.html"
 type: article
 quality: 153
-heat: 173
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,19 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "An Opinion Writer Argued Jill Biden Should Drop the ‘Dr.’ (Few Were Swayed.)"
-    excerpt: "Many women said Joseph Epstein’s suggestion in The Wall Street Journal was blatantly sexist and underscored the way men often dismiss women’s credentials."
-    publishedDateTime: 2020-12-13T03:03:00Z
-    webUrl: "https://www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.amp.html"
+  - title: "Jill Biden says her doctorate is among her proudest achievements: 'I worked so hard for it'"
+    excerpt: "Jill Biden was surprised by a recent newspaper op-ed piece suggesting she stop using the \"Dr.\" title before her name, she told TV host Stephen Colbert on Thursday evening.\n    \n"
+    publishedDateTime: 2020-12-18T13:21:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xkoYXLbWwYM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/jill-biden-responds-wsj-doctor-colbert-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/jill-biden-responds-wsj-doctor-colbert-trnd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218030711-joe-and-jill-biden-on-late-night-with-stephen-colbert-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Wall Street Journal Opinion Editor Defends Item on Dr. Jill Biden"
+    excerpt: "There’s nothing like playing the race or gender card to stifle criticism,” Paul A. Gigot said as he accused Democrats of orchestrating a coordinated response to an op-ed piece."
+    publishedDateTime: 2020-12-14T03:20:00Z
+    webUrl: "https://www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 132
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/12/12/lens/12xp-drbiden-photo/12xp-drbiden-photo-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/14/business/13wsj-gigot-print/13wsj-gigot-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Wall Street Journal Opinion Editor Defends Item on Dr. Jill Biden"
+    excerpt: "There’s nothing like playing the race or gender card to stifle criticism,” Paul A. Gigot said as he accused Democrats of orchestrating a coordinated response to an op-ed piece."
+    publishedDateTime: 2020-12-14T17:46:00Z
+    webUrl: "https://www.nytimes.com/2020/12/13/business/media/dr-jill-biden-wall-street-journal.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/13/business/media/dr-jill-biden-wall-street-journal.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/business/media/dr-jill-biden-wall-street-journal.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/14/business/13wsj-gigot-print/13wsj-gigot-print-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
         isCached: true

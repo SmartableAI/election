@@ -32,85 +32,181 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris, as first woman elected VP, says she 'won't be the last' "
-    excerpt: "On the night Vice President-elect Kamala Harris made history, she recognized the long battle women had faced for the right to vote and to break into the highest ranks of American politics -- and said that \"every little girl watching\" across the country now knows they can do so, too.\n    \n"
-    publishedDateTime: 2020-11-08T02:47:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gy5J6LV7xi8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-speech/index.html"
+  - title: "Kamala Harris prepares for her historic vice presidency by studying Joe Biden's legacy"
+    excerpt: "As Kamala Harris prepares for the vice presidency, she is learning from a person who knows more about the job than almost anyone in the world: President-elect Joe Biden.\n    \n"
+    publishedDateTime: 2020-12-18T13:40:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/txWSj802MOw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/kamala-harris-prepares-biden-legacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/kamala-harris-prepares-biden-legacy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 185
+    quality: 192
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107204230-20-biden-harris-address-1107-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211100849-kamala-harris-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Read: Vice President-elect Kamala Harris' remarks"
-    excerpt: "As prepared for delivery.\n    \n"
-    publishedDateTime: 2020-11-08T02:20:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GmwdwKuWrfU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-vp-elect-remarks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-vp-elect-remarks/index.html"
+  - title: "Electors in key battleground states affirm votes for Biden"
+    excerpt: "Electors in Vermont and Tennessee cast their ballots for president Monday morning, opening the formal Electoral College process of sealing Joe Biden's election as the 46th president of the United States.\n    \n"
+    publishedDateTime: 2020-12-14T18:09:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vrRedsEWYVk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 185
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107203713-07-biden-harris-address-1107-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214124640-electoral-college-iowa-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "'You can't be what you can't see': Female politicians of color discuss what Harris' win means to them"
-    excerpt: "The ascension of Kamala Harris as the first female, first Black and first South Asian vice president-elect is both symbolic and important to many women across the United States, and several female politicians of color expressed on CNN Sunday morning what it meant to them.\n    \n"
-    publishedDateTime: 2020-11-08T17:40:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5huvRXTSgpI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/kamala-harris-female-politicians-of-color-reaction-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/kamala-harris-female-politicians-of-color-reaction-cnntv/index.html"
+  - title: "California puts Biden over 270 electoral votes for the presidency"
+    excerpt: "Electors in Vermont and Tennessee cast their ballots for president Monday morning, opening the formal Electoral College process of sealing Joe Biden's election as the 46th president of the United States.\n    \n"
+    publishedDateTime: 2020-12-15T02:00:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vrRedsEWYVk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108120519-omar-sanders-ocasio-cortez-abrams-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214124640-electoral-college-iowa-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Harris bursts through another barrier, becoming the first female, first Black and first South Asian vice president-elect"
-    excerpt: "Kamala Harris, who on Saturday became America's first female, first Black and first South Asian vice president-elect, represents a new face of political power after an election all about who wields power and how they use it.\n    \n"
-    publishedDateTime: 2020-11-07T16:28:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ac0Y9GAnNG4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-first-vice-president-female-black-south-asian/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-first-vice-president-female-black-south-asian/index.html"
+  - title: "Pompeo to meet Biden's secretary of state nominee this week"
+    excerpt: "President-elect Joe Biden's pick for secretary of state is expected to visit the State Department and meet with Secretary of State Mike Pompeo on Thursday for the first time since Biden's victory, according to three sources familiar with the planning.\n    \n"
+    publishedDateTime: 2020-12-15T12:23:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xmhboimWSrQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/pompeo-blinken-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/pompeo-blinken-meeting/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 160
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102160632-04-kamala-harris-lead-image-restricted-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209093643-antony-blinken-1124-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Desi Twitter bursts with pride over Kamala Harris as VP-elect"
-    excerpt: "Desi Twitter erupted Saturday in response to the news that Joe Biden became president-elect and Sen. Kamala Harris will become the first female, first Black and first South Asian American vice president."
-    publishedDateTime: 2020-11-07T18:26:00Z
-    webUrl: "https://www.nbcnews.com/news/asian-america/desi-twitter-bursts-pride-over-kamala-harris-vp-elect-n1246936"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1246936"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1246936"
+  - title: "Biden to tap New Mexico Rep. Deb Haaland as interior secretary"
+    excerpt: "President-elect Joe Biden has selected New Mexico Rep. Deb Haaland to serve as interior secretary, three people familiar with the matter tell CNN, marking another historic choice by nominating the first Native American to lead the department.\n    \n"
+    publishedDateTime: 2020-12-17T20:51:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p1rrbV-Mj4A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/deb-haaland-interior-secretary-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/deb-haaland-interior-secretary-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110111702-14-biden-admin-possibilities-haaland-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Deb Haaland makes history as Biden's pick to run Interior Department"
+    excerpt: "President-elect Joe Biden's selection of Rep. Deb Haaland to lead the Interior Department marked a historic victory for an alliance of progressives and Indigenous leaders who campaigned relentlessly to elevate one of their own to a powerful federal seat that oversees natural resources, public lands and"
+    publishedDateTime: 2020-12-18T00:56:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tyw2u3PI9Ds/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/deb-haaland-makes-history/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/deb-haaland-makes-history/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181017141157-01-deb-haaland-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "READ: Mitch McConnell's floor speech congratulating President-elect Biden"
+    excerpt: "Senate Majority Leader Mitch McConnell recognized Joe Biden's victory on Tuesday in a floor speech, where he congratulated the President-elect but also praised Donald Trump's presidency.\n    \n"
+    publishedDateTime: 2020-12-15T17:11:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lloSgAao-P4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/mcconnell-floor-speech-text-president-elect/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/mcconnell-floor-speech-text-president-elect/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215105233-mcconnell-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House Democratic majority will be 3-vote margin after Biden picks Haaland for interior post"
+    excerpt: "With President-elect Joe Biden choosing Rep. Deb Haaland as his nominee for interior secretary, House Speaker Nancy Pelosi will have only a three-seat vote margin for her Democratic majority heading into the 117th Congress in a Biden administration.\n    \n"
+    publishedDateTime: 2020-12-17T22:40:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qNdXD1PBGAg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/house-democratic-majority-margin-haaland/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/house-democratic-majority-margin-haaland/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110111702-14-biden-admin-possibilities-haaland-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's Catholic faith will be on full display as the first churchgoing president in decades"
+    excerpt: "Joe Biden rarely misses Sunday Mass. So it was notable when the President-elect didn't attend church on November 29, the first Sunday of Advent and the beginning of the season when Roman Catholics like Biden prepare for Christmas.\n    \n"
+    publishedDateTime: 2020-12-13T15:39:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zbSkPYtoYyE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/joe-biden-catholic-faith/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/joe-biden-catholic-faith/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211142524-biden-st-joseph-1208-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden, Harris to introduce Susan Rice, others for key administration posts"
+    excerpt: "WASHINGTON — President-elect Joe Biden and Vice President-elect Kamala Harris will introduce more key members of their administration to the public on Friday, several of whom are veterans of the Obama White House."
+    publishedDateTime: 2020-12-11T12:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-harris-introduce-susan-rice-others-key-administration-posts-n1250850"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250850"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250850"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 158
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_45/3426746/201107-kamala-harris-se-1256p_56c5535ac038761418c2d7036a43b7a2.jpg"
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_50/3434553/201209-joe-biden-jm-1532_df73573eb90fc46e0b55987134ab38b0.jpg"
         width: 2500
-        height: 1599
+        height: 1667
+        isCached: true
+  - title: "'Democracy prevailed': Biden tries to close the door on a tumultuous election"
+    excerpt: "As the Electoral College moves to seal his victory, the president-elect is shifting his attention to the pandemic."
+    publishedDateTime: 2020-12-14T21:55:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 147
+    images:
+      - url: "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Kamala Harris makes history as vice president-elect"
     excerpt: "Kamala Harris makes history as the nation’s first female, first Black and first South Asian American vice president-elect after she and Joe Biden are projected as the winners of the 2020 election."
@@ -127,118 +223,6 @@ related:
       - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/nn_rel_harris_makes_history_201107_1920x1080.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Read: Vice president-elect Kamala Harris' historic victory speech"
-    excerpt: "And for making this victory possible. To the poll workers and election officials across our country who have worked tirelessly to make sure every vote is counted, our nation owes you a debt of gratitude."
-    publishedDateTime: 2020-11-08T02:36:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/read-vice-president-elect-kamala-harris-historic-victory-speech-n1247017"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1247017"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247017"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_45/3426852/201107-kamala-harris-full-speech-se-941p_33d638019f9cdaf5bf9a2f831c76f4fe.jpg"
-        width: 2500
-        height: 1646
-        isCached: true
-  - title: "This is Vice President-elect Kamala Harris' Know Your Value moment"
-    excerpt: "Kamala Harris made history, becoming the first female, first Black and first South Asian vice president elect. Here's a look back at her Know Your Value moment, which she shared with us at our nationa"
-    publishedDateTime: 2020-11-07T19:08:00Z
-    webUrl: "https://www.nbcnews.com/know-your-value/feature/vice-president-elect-kamala-harris-know-your-value-moment-ncna1246951"
-    ampWebUrl: "https://www.nbcnews.com/know-your-value/amp/ncna1246951"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/know-your-value/amp/ncna1246951"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_45/3426746/201107-kamala-harris-se-1256p_56c5535ac038761418c2d7036a43b7a2.jpg"
-        width: 2500
-        height: 1599
-        isCached: true
-  - title: "Watch Kamala Harris' full victory speech as vice president-elect"
-    excerpt: "Vice President-elect Kamala Harris addressed the nation in her first public appearance since winning the election."
-    publishedDateTime: 2020-11-08T01:58:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-kamala-harris-full-victory-speech-as-vice-president-elect-95525445787"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95525445787"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95525445787"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_full_2020_kamala_v_speech_201107_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Here’s What Kamala Harris Faces as a ‘First’"
-    excerpt: "Amid the celebratory memes rocketing around yesterday, other women of color who’ve cracked through ceilings have some advice: Buckle up."
-    publishedDateTime: 2020-11-08T21:55:00Z
-    webUrl: "https://www.politico.com/news/magazine/2020/11/08/heres-what-kamala-harris-faces-as-a-first-435186"
-    ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/11/08/heres-what-kamala-harris-faces-as-a-first-435186"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/11/08/heres-what-kamala-harris-faces-as-a-first-435186"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/dc/e7/b5a250404381ab3e547e0c0345f6/kamala-override.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Kamala Harris Makes California History"
-    excerpt: "His vice president will be Senator Kamala Harris. Her rise to the highest office in the nation ever occupied by a woman has been full of historic milestones: the first Black woman to become San Francisco’s and then California’s top prosecutor,"
-    publishedDateTime: 2020-11-09T13:35:00Z
-    webUrl: "https://www.nytimes.com/2020/11/09/us/kamala-harris-california-history.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/09/us/kamala-harris-california-history.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/us/kamala-harris-california-history.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/06/us/00californiatoday-hfo-4/merlin_159211332_833d2586-6947-4f82-8d4d-33ca77209363-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "British Peer Criticized for Calling Kamala Harris ‘the Indian’"
-    excerpt: "Lord Kilclooney, a member of the House of Lords, claimed not to know the vice president-elect’s name when he wrote the offending Twitter post."
-    publishedDateTime: 2020-11-09T20:48:00Z
-    webUrl: "https://www.nytimes.com/2020/11/09/world/europe/lord-kilclooney-kamala-harris.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/09/world/europe/lord-kilclooney-kamala-harris.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/world/europe/lord-kilclooney-kamala-harris.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/09/world/09uk-lord-1/09uk-lord-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "British politician slammed after calling Kamala Harris 'the Indian'"
-    excerpt: "A member of the Northern Ireland Assembly received heavy criticism on Monday for referring to United States Vice President-elect Kamala Harris as “the Indian” on Twitter. In his since-deleted tweet on Monday,"
-    publishedDateTime: 2020-11-09T19:30:00Z
-    webUrl: "https://www.nbcnews.com/news/asian-america/british-politician-slammed-after-calling-kamala-harris-indian-n1247148"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1247148"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247148"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_46/3427057/201109-kamala-harris-se-115p_098c1eeb5120d5f52c86b5f55ddad42e.jpg"
-        width: 2500
-        height: 1731
         isCached: true
   - title: "Young girls react as Vice President-elect Kamala Harris makes history"
     excerpt: "President-elect Joe Biden on Tuesday is outlining more details of his transition plan even as President Donald Trump and other top Republicans continue to challenge the results of last week's election."
@@ -272,78 +256,209 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Padma Lakshmi: Vice President-Elect Kamala Harris Moved Me to Tears"
-    excerpt: "Imagine how wide the ripples of impact can be when a woman of color is vice president. By Padma Lakshmi Ms. Lakshmi is the host and executive producer of “Taste the Nation” and “Top Chef.” I was on a hike in Garrison,"
-    publishedDateTime: 2020-11-13T23:10:00Z
-    webUrl: "https://www.nytimes.com/2020/11/13/opinion/padma-lakshmi-kamala-harris.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/13/opinion/padma-lakshmi-kamala-harris.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/opinion/padma-lakshmi-kamala-harris.amp.html"
+  - title: "Biden Clashes With the Left"
+    excerpt: "Democrats are trying to work out their differences as Biden prepares to take office. It’s Friday, and this is your politics tip sheet."
+    publishedDateTime: 2020-12-11T12:01:00Z
+    webUrl: "https://www.nytimes.com/2020/12/11/us/politics/biden-defund-police-student-loans.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/11/us/politics/biden-defund-police-student-loans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/11/us/politics/biden-defund-police-student-loans.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/14/opinion/13lakshmi-01-sub/13lakshmi-01-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/01/10/multimedia/onpolitics-biden/onpolitics-barber-still-facebookJumbo-v2.png"
         width: 1050
-        height: 550
+        height: 549
         isCached: true
-  - title: "Girls, young women and mothers react to Kamala Harris as vice president elect"
-    excerpt: "Kamala Harris is the vice president-elect, according to NBC News projections. It makes her the first woman in U.S. history to achieve the position. Here’s what mothers, young women and girls had to say about the landmark moment."
-    publishedDateTime: 2020-11-10T00:41:00Z
-    webUrl: "https://www.nbcnews.com/now/video/girls-young-women-and-mothers-react-to-kamala-harris-as-vice-president-elect-95615557650"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95615557650"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95615557650"
+  - title: "Biden’s Cabinet picks give Kamala an edge in 2024"
+    excerpt: "Biden has opted for seasoned technocrats over ambitious pols for key jobs, denying potential political rivals to Harris a political springboard."
+    publishedDateTime: 2020-12-12T02:58:00Z
+    webUrl: "https://www.politico.com/news/2020/12/11/biden-cabinet-kamala-2024-444482"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/11/biden-cabinet-kamala-2024-444482"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/biden-cabinet-kamala-2024-444482"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/24/67/10b110394fbaa06752f3cd58206d/gettyimages-1284977949-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Hunter probe complicates Joe Biden's attorney general pick"
+    excerpt: "The president-elect is weighing a complex set of factors as he zeroes in on his choice to lead the Justice Department."
+    publishedDateTime: 2020-12-12T01:49:00Z
+    webUrl: "https://www.politico.com/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/4a/73/179ea39e451db1698724763adaa1/gettyimages-119583341-1.jpg"
+        width: 1161
+        height: 773
+        isCached: true
+  - title: "Watch live: Biden introduces key members of his administration"
+    excerpt: "Watch live coverage as President-elect Joe Biden and Vice President-elect Kamala Harris hold an event to introduce nominees and appointees for their administration."
+    publishedDateTime: 2020-12-11T17:51:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-live-biden-introduces-key-members-of-his-administration-97548357679"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97548357679"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97548357679"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 132
+    quality: 135
     images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_girlsreact_harris_201109.jpg"
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/biden_econ_nom.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Kamala Harris, elected V.P., has risen higher in national politics than any woman before her."
-    excerpt: "Question, I will repeat —” — and music — ♫ “One nation under a groove —” ♫ California Senator Kamala Harris is making history as the first woman, and first woman of color, elected vice president. “Let’s talk about who is prepared to lead our country over the course of the next four years."
-    publishedDateTime: 2020-11-08T08:12:00Z
-    webUrl: "https://www.nytimes.com/2020/11/08/us/elections/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/08/us/elections/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/us/elections/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.amp.html"
+  - title: "Biden Faces Intense Pressure From All Sides as He Seeks Diverse Cabinet"
+    excerpt: "The pressure on the Democratic president-elect is intense, even as his efforts to ensure ethnic and gender diversity already go far beyond those of President Trump. And it’s coming from all sides."
+    publishedDateTime: 2020-12-12T16:31:00Z
+    webUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 124
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/03/us/politics/00Harris-HFO1/00Harris-HFO1-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/12dc-cabinet1/11dc-cabinet1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Read Kamala Harris’ Vice-Presidential Acceptance Speech"
-    excerpt: "In her remarks Saturday night, Vice President-elect Kamala Harris acknowledged “all the women who have worked to secure and protect the right to vote” and said: “And I stand on their shoulders.”"
-    publishedDateTime: 2020-11-08T02:14:00Z
-    webUrl: "https://www.nytimes.com/article/Kamala-Harris-speech-transcript.html"
-    ampWebUrl: "https://www.nytimes.com/article/Kamala-Harris-speech-transcript.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/Kamala-Harris-speech-transcript.amp.html"
+  - title: "As Biden Prepares to Take Office, a New Rush at the Border"
+    excerpt: "The president-elect has promised a more humane border policy. But devastated economies and natural disasters in Latin America have fueled a spike in migration that could make pledges hard to keep."
+    publishedDateTime: 2020-12-13T20:50:00Z
+    webUrl: "https://www.nytimes.com/2020/12/13/us/border-crossing-migrants-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/13/us/border-crossing-migrants-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/us/border-crossing-migrants-biden.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 115
-  - title: "What Kamala Harris’ victory means for America"
-    excerpt: "The symbolic importance of Kamala Harris’ win as the first female, first Black and first Indian American VP is undeniable. But just as important is what it could mean in concrete terms for the country."
-    publishedDateTime: 2020-11-13T18:10:00Z
-    webUrl: "https://www.politico.com/newsletters/women-rule/2020/11/13/what-kamala-harris-victory-means-for-america-490897"
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/00BORDER-1-SUB/merlin_180953598_82987d66-deda-4124-a4d2-62a8e173e4b1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Electoral College to confirm Biden victory on Monday"
+    excerpt: "During a live stream on Monday, the Electoral College is expected to cement President-elect Joe Biden’s victory in the 2020 presidential election."
+    publishedDateTime: 2020-12-14T00:33:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/electoral-college-to-confirm-biden-victory-on-monday-97664069532?playlist=mmlsnnd_bestofnbc-nnd"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97664069532"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97664069532"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kod_electoral_college_vote_xtalk_201213_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Hunter probe compounds Biden’s attorney general dilemmas"
+    excerpt: "The president-elect is weighing a complex set of factors as he zeroes in on his choice to lead the Justice Department."
+    publishedDateTime: 2020-12-14T16:30:00Z
+    webUrl: "https://www.politico.com/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/4a/73/179ea39e451db1698724763adaa1/gettyimages-119583341-1.jpg"
+        width: 1161
+        height: 773
+        isCached: true
+  - title: "Biden breaks the Obama mold on teachers union strife"
+    excerpt: "Biden’s rhetoric and policies suggest the president-elect is still listening closely to teachers unions in a way Obama often did not."
+    publishedDateTime: 2020-12-18T09:35:00Z
+    webUrl: "https://www.politico.com/news/2020/12/18/biden-obama-teachers-union-447957"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/18/biden-obama-teachers-union-447957"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/biden-obama-teachers-union-447957"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/04/d8/7c206e0448d988186c7bed0e98fe/ap20283654072752-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "First U.S. vaccines, Electoral College affirms Biden win and Barr is out"
+    excerpt: "Health care workers get first vaccines as Covid death toll tops 300,000. With the prick of a needle, the battle against Covid-19 took what could be a decisive turn Monday as the f"
+    publishedDateTime: 2020-12-15T13:36:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/first-u-s-vaccines-electoral-college-affirms-biden-win-barr-n1251233"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251233"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251233"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3435796/201215-biden-mc-1151_83138c3e116d56aec776b6c91d99bc12.JPG"
+        width: 5380
+        height: 3329
+        isCached: true
+  - title: "California’s electors are meeting now. Their votes are expected to push Biden over the top."
+    excerpt: "California’s 55 electors are meeting now as they prepare to cast their votes for President-elect Joseph R. Biden Jr. Their votes will push Mr. Biden over the 270 threshold to win the White House, formally delivering him a victory after a disruptive period in the nation’s history marked by extraordinary efforts by President Trump to overturn the results of the presidential election."
+    publishedDateTime: 2020-12-14T17:31:00Z
+    webUrl: "https://www.nytimes.com/2020/12/14/us/californias-electors-are-meeting-now-their-votes-are-expected-to-push-biden-over-the-top.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/14/us/californias-electors-are-meeting-now-their-votes-are-expected-to-push-biden-over-the-top.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/14/us/californias-electors-are-meeting-now-their-votes-are-expected-to-push-biden-over-the-top.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 125
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/14/us/politics/14vid-electoral-college-promo1/14vid-electoral-college-promo1-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Electoral College affirms Biden's victory"
+    excerpt: "Democratic electors cast their votes without incident states where Trump has contested the results, like Pennsylvania and Georgia."
+    publishedDateTime: 2020-12-14T23:10:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/12/14/electoral-college-affirms-bidens-victory-1346450"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
+      - url: "https://static.politico.com/87/fa/04107b0c4742923ec02a4bbcaa9d/20201213-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Watch Live: Biden Speaks Following Electoral College Certification"
+    excerpt: "President-elect Joseph R. Biden Jr. delivers remarks after electors in states across the country cast their votes for president."
+    publishedDateTime: 2020-12-14T22:28:00Z
+    webUrl: "https://www.nytimes.com/video/us/elections/100000007503306/joe-biden-live-speech-video.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/14/us/politics/14vid-biden/14vid-biden-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "o9FqDCx30S5pjexSGk1hRQxMWahrw6CiwSllegJt2NI+tvh/m6obA2nmDzYrjdYLfdCWgnMFyt2WZQZ6Y/cfBqhOsExhD9msR7H7ASzv1bJFB0PEWItKNQuhieN9UO270bQHlY+cnghA98da1gjTNnmM82cnmXI8VL5wDR/ekCDweaEdUDr64H1Yf/hAFlUkDz/xy2z7QmV4cy5SWG/SbeNb1iwl7VV2Mxg5yMe3ZVMEXN9i5SugBlpeR7MSAkb68iua5NRJ/5Ts0SQ7BA0/vrnIcAZ9gTMHZXHvagZ+pSGt03SLtLQdS4kgIFd7OxbAfHnx8WO36DCavTpNRyOQy1kU9T6LW3Z3aPjl1xHkoV8HEU37+FwTCVA+eMfX6M5pUUJQOwFHhXUpI64NHQOQSt/e4o44AC7GyawNNAP23v7IRRw+L+DuKvTfEIpN8xdR9/PO49nINMeBsRXeNd9CAIRKnFvShCYLB6szPtRiCWJ0UzOkIjORYVhAryb7o6zzYLHuUv+MlU59lxLLEa78cQ==;C4Tk9vodi0uIU5hw5HG2tA=="

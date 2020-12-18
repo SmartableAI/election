@@ -2,6 +2,537 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-11-09-biden-urges-americans-to-wear-masks-not-a-political-statement.md",
+      "title": "Biden urges Americans to wear masks: ‘Not a political statement’",
+      "excerpt": "President-elect Joe Biden says that wearing a mask remains “the most potent weapon” against the coronavirus, and emphasizes that “a mask is not a political statement.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rnKPKSd6mzU/biden-urges-americans-masks-not-a-political-statement",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rnKPKSd6mzU/biden-urges-americans-masks-not-a-political-statement",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-urges-americans-masks-not-a-political-statement.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-americans-masks-not-a-political-statement.amp",
+      "publishedDateTime": "2020-11-09T10:23:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-rep-van-drew-trump-ripped-the-band-aid-off-changed-american-politics.md",
+      "title": "Rep. Van Drew: Trump ripped the band-aid off, changed American politics",
+      "excerpt": "Democrat-turned Republican Rep. Jeff Van Drew, R-N.J., told “Fox & Friends” on Monday that he wanted to thank President Trump for helping to shape the new Republican Party saying he thinks “the president broke everything open.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2LbggWPoMP8/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2LbggWPoMP8/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics.amp",
+      "publishedDateTime": "2020-11-09T09:17:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-ben-carson-is-the-latest-trump-official-to-test-positive-for-coronavirus.md",
+      "title": "Ben Carson is the latest Trump official to test positive for coronavirus",
+      "excerpt": "Housing and Urban Development Secretary Ben Carson tested positive for coronavirus Monday morning, his deputy chief of staff Coalter Baker confirmed to CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BqbsqN5xwus/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BqbsqN5xwus/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190920135244-01-ben-carson-lead-image-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/ben-carson-coronavirus/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/ben-carson-coronavirus/index.html",
+      "publishedDateTime": "2020-11-09T08:51:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-mitch-mcconnell-is-reportedly-taking-the-lead-on-stimulus-negotiations-as-the-trump-administration-sits-out.md",
+      "title": "Mitch McConnell is reportedly taking the lead on stimulus negotiations as the Trump administration sits out",
+      "excerpt": "Joe Biden may also leap into the talks on a coronavirus relief plan. Democrats and Republicans are far apart on measures like unemployment benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11",
+      "originalUrl": "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f984f3c861cb70019936b04?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp",
+      "publishedDateTime": "2020-11-09T07:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-biden-coronavirus-adviser-dr-zeke-emanuel-once-argued-its-not-worth-living-past-75.md",
+      "title": "Biden coronavirus adviser Dr. Zeke Emanuel once argued it's not worth living past 75",
+      "excerpt": "Oncologist Dr. Zeke Emanuel, one of 10 advisory board members named to Democratic President-elect Joe Biden's coronavirus task force, argued in a 2014 essay that he doesn't want to live past 75.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dDJRYI_p4w4/biden-coronavirus-adviser-zeke-emanuel-age-75-the-atlantic-essay",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dDJRYI_p4w4/biden-coronavirus-adviser-zeke-emanuel-age-75-the-atlantic-essay",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 248,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/Zeke-Emanuel-1-Getty.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-coronavirus-adviser-zeke-emanuel-age-75-the-atlantic-essay.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-adviser-zeke-emanuel-age-75-the-atlantic-essay.amp",
+      "publishedDateTime": "2020-11-09T07:42:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-the-point-the-most-important-line-in-joe-bidens-victory-speech.md",
+      "title": "The Point: The most important line in Joe Biden's victory speech",
+      "excerpt": "On Saturday night, President-elect Joe Biden did something the man he will replace in the White House never did in four years: He reached out the people who didn't vote for him.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QzrIeZh4OuA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QzrIeZh4OuA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201109111248-primera-biden-1-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/joe-biden-speech-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/joe-biden-speech-trump/index.html",
+      "publishedDateTime": "2020-11-09T07:31:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-mike-pence-heading-to-florida-vacation-island.md",
+      "title": "Mike Pence heading to Florida vacation island",
+      "excerpt": "Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday, according to the Federal Aviation Administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/news/nation/mike-pence-faa-sanibel-1.50061089",
+      "originalUrl": "https://www.newsday.com/news/nation/mike-pence-faa-sanibel-1.50061089",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/polopoly_fs/1.50061090.1604940614!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/news/nation/mike-pence-faa-sanibel-1.50061089",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/nation/mike-pence-faa-sanibel-1.50061089",
+      "publishedDateTime": "2020-11-09T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-trump-staffers-tweeted-an-image-of-a-president-gore-front-page-from-2000-to-prove-the-media-gets-election-calls-wrong-but-the-image-was-fake.md",
+      "title": "Trump staffers tweeted an image of a 'President Gore' front page from 2000 to prove the media gets election calls wrong. But the image was fake.",
+      "excerpt": "Trump spokesman Tim Murtaugh said the image showed \"the media doesn't select the president.\" The paper said the image was \"doctored.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-election-2020-staff-tweet-fake-presidental-al-gore-headline-2020-11",
+      "originalUrl": "https://www.businessinsider.com/trump-election-2020-staff-tweet-fake-presidental-al-gore-headline-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa9278e1df1d5001821980e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-election-2020-staff-tweet-fake-presidental-al-gore-headline-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-election-2020-staff-tweet-fake-presidental-al-gore-headline-2020-11?amp",
+      "publishedDateTime": "2020-11-09T06:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-putin-wont-congratulate-biden-before-official-results-and-legal-procedures-are-completed.md",
+      "title": "Putin won't congratulate Biden before 'official results' and 'legal procedures' are completed",
+      "excerpt": "A Putin spokesman said there was an \"absolutely obvious\" difference from 2016, when Putin congratulated Trump based on media projections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/09/vladimir-putin-holds-biden-congratulations-awaits-legal-procedures/6218660002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/09/vladimir-putin-holds-biden-congratulations-awaits-legal-procedures/6218660002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/09/USAT/5811c7a4-3d17-4645-a9a8-35817e826495-AP_Russia_Putin.jpg?auto=webp&crop=2892,1627,x430,y876&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6218660002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6218660002",
+      "publishedDateTime": "2020-11-09T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-trump-cheers-pfizer-incs-experimental-covid-19-vaccine-results.md",
+      "title": "Trump cheers Pfizer Inc's experimental COVID-19 vaccine results",
+      "excerpt": "President Donald Trump on Monday welcomed Pfizer Ic's experimental COVID-19 vaccine results, and the stock market boost it brought.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-vaccine-trump-idINKBN27P1KP",
+      "originalUrl": "https://www.reuters.com/article/health-coronavirus-vaccine-trump-idINKBN27P1KP",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540528434&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80VA",
+          "width": 742,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN27P1KP",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1KP",
+      "publishedDateTime": "2020-11-09T04:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-biden-plans-for-white-house-as-trump-plans-rallies-to-protest-his-election-loss.md",
       "title": "Biden plans for White House as Trump plans rallies to protest his election loss",
       "excerpt": "Democrat Joe Biden won the U.S. presidential election on Saturday after a bitter campaign, sparking street celebrations among his supporters in major cities even as President Donald Trump refused to accept defeat.",
@@ -819,543 +1350,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-jared-kushner-has-approached-trump-about-conceding-2020-election.md",
-      "title": "Jared Kushner has approached Trump about conceding 2020 election",
-      "excerpt": "Jared Kushner, President Donald Trump's son-in-law and senior adviser, has approached the President about conceding the election, two sources told CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tSO9kPadSX0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tSO9kPadSX0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 430,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190709100922-jared-kushner-06292019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/08/politics/jared-kushner-donald-trump-concession/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/jared-kushner-donald-trump-concession/index.html",
-      "publishedDateTime": "2020-11-08T06:32:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-buttigieg-republican-senate-would-go-against-will-of-the-people-by-opposing-biden-agenda.md",
-      "title": "Buttigieg: Republican Senate would go against 'will of the people' by opposing Biden agenda",
-      "excerpt": "Biden transition team member Pete Buttigieg said Sunday that even if they win enough races to maintain control of the Senate, Republicans would be opposing the will of the American people if they stand in the way of President-elect Joe Biden's agenda.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1tBWRPjP60w/buttigieg-republican-senate-against-will-of-the-people-opposing-biden-agenda",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1tBWRPjP60w/buttigieg-republican-senate-against-will-of-the-people-opposing-biden-agenda",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dea0373-0e3a-4553-a06f-06cb35f47eeb/c05a3bbe-6cb4-408e-83fb-cd62b8ad9f62/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/buttigieg-republican-senate-against-will-of-the-people-opposing-biden-agenda.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-republican-senate-against-will-of-the-people-opposing-biden-agenda.amp",
-      "publishedDateTime": "2020-11-08T06:28:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-after-a-second-loss-to-greg-pence-jeannine-lee-lake-sets-her-sights-on-2022.md",
-      "title": "After a second loss to Greg Pence, Jeannine Lee Lake sets her sights on 2022",
-      "excerpt": "With 97% of precincts counted in this year's Sixth District Congressional race, Greg Pence had 68.6% of the vote to Jeannine Lee Lake's 27.8%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestarpress.com/story/news/local/2020/11/08/after-second-loss-greg-pence-jeannine-lee-lake-sets-sights-2022/6189470002/",
-      "originalUrl": "https://www.thestarpress.com/story/news/local/2020/11/08/after-second-loss-greg-pence-jeannine-lee-lake-sets-sights-2022/6189470002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/06/PMUN/9f434446-2b64-4dbc-b26c-8a6d2cf551b1-jersey_22.jpg?auto=webp&crop=719,405,x0,y240&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.thestarpress.com/amp/6189470002",
-      "cdnAmpWebUrl": "https://amp-thestarpress-com.cdn.ampproject.org/c/s/amp.thestarpress.com/amp/6189470002",
-      "publishedDateTime": "2020-11-08T05:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star Press",
-        "domain": "thestarpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-mary-trump-says-her-uncle-president-trump-will-spend-the-transition-period-breaking-stuff-with-vengeance.md",
-      "title": "Mary Trump says her uncle, President Trump, will spend the transition period 'breaking stuff' with 'vengeance'",
-      "excerpt": "Trump's niece wrote, in an opinion article for The Observer, that she fears the defeated president will \"lash out\" after losing the US election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11",
-      "originalUrl": "https://www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5391ff7ed0ee001e25db60?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11?amp",
-      "publishedDateTime": "2020-11-08T03:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-explainer-can-trump-pardon-his-associates-or-himself.md",
-      "title": "Explainer: Can Trump pardon his associates — or himself?",
-      "excerpt": "U.S. President Donald Trump could issue a flurry of pardons during his final days in power. Trump has granted clemency to supporters before, most notably earlier this year when he commuted the criminal sentence of Roger Stone,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN27O0FT",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN27O0FT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540424251&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70D3",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27O0FT",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0FT",
-      "publishedDateTime": "2020-11-08T03:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-voices-from-the-fight-an-oral-history-of-the-four-year-movement-to-defeat-donald-trump.md",
-      "title": "Voices from the fight: An oral history of the four-year movement to defeat Donald Trump",
-      "excerpt": "Notable figures and ordinary Americans describe their reaction to Trump's victory in 2016 and describe the moments during his presidency that compelled them to speak out and mobilize against him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/",
-      "originalUrl": "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MLLFCOBBK4I6XLKTJQP5USMQPU.jpg&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-08T03:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-giuliani-says-trump-wont-concede-amid-legal-challenges.md",
-      "title": "Giuliani says Trump won't concede amid legal challenges",
-      "excerpt": "President Trump wouldn’t concede the election at this point and the race is “far from over,” Rudy Guiliani said Saturday at a news conference in Philadelphia.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ScCCiaiEkaA/giuliani-says-trump-wont-concede-amid-legal-cahllenges",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ScCCiaiEkaA/giuliani-says-trump-wont-concede-amid-legal-cahllenges",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20312640775001.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/giuliani-says-trump-wont-concede-amid-legal-cahllenges.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-says-trump-wont-concede-amid-legal-cahllenges.amp",
-      "publishedDateTime": "2020-11-08T02:59:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-message-of-election-2020-trump-lost-but-trumpism-did-not.md",
-      "title": "Message of Election 2020: Trump lost, but Trumpism did not",
-      "excerpt": "In a typical election year, Biden would have carried other Democrats along with him. Instead, several promising Democratic Senate and House candidates, including incumbents, lost.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vkoCvENUwUs/message-of-election-2020-trump-lost-but-trumpism-did-not",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vkoCvENUwUs/message-of-election-2020-trump-lost-but-trumpism-did-not",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 690,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/PA-State-Capitol-Stairs-AP-2.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/message-of-election-2020-trump-lost-but-trumpism-did-not.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/message-of-election-2020-trump-lost-but-trumpism-did-not.amp",
-      "publishedDateTime": "2020-11-08T00:39:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-saturday-night-live-sends-off-trump-with-a-ballad.md",
-      "title": "‘Saturday Night Live’ Sends Off Trump With a Ballad",
-      "excerpt": "The host Dave Chappelle, who also hosted the first episode after the 2016 election, urged Americans to “find a way to forgive each other.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/08/arts/television/saturday-night-live-dave-chappelle.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/08/arts/television/saturday-night-live-dave-chappelle.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/09/arts/08snl-2/08snl-2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/08/arts/television/saturday-night-live-dave-chappelle.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/arts/television/saturday-night-live-dave-chappelle.amp.html",
-      "publishedDateTime": "2020-11-07T22:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-kamala-harris-as-first-woman-elected-vp-says-she-wont-be-the-last.md",
-      "title": "Kamala Harris, as first woman elected VP, says she 'won't be the last' ",
-      "excerpt": "On the night Vice President-elect Kamala Harris made history, she recognized the long battle women had faced for the right to vote and to break into the highest ranks of American politics -- and said that \"every little girl watching\" across the country now knows they can do so, too.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gy5J6LV7xi8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gy5J6LV7xi8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 585,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201107204230-20-biden-harris-address-1107-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-speech/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-speech/index.html",
-      "publishedDateTime": "2020-11-07T18:47:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

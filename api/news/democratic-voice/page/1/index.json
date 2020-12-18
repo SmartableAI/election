@@ -2,6 +2,176 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-18-kamala-harris-prepares-for-her-historic-vice-presidency-by-studying-joe-bidens-legacy.md",
+      "title": "Kamala Harris prepares for her historic vice presidency by studying Joe Biden's legacy",
+      "excerpt": "As Kamala Harris prepares for the vice presidency, she is learning from a person who knows more about the job than almost anyone in the world: President-elect Joe Biden.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/txWSj802MOw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/txWSj802MOw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 732,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201211100849-kamala-harris-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/kamala-harris-prepares-biden-legacy/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/kamala-harris-prepares-biden-legacy/index.html",
+      "publishedDateTime": "2020-12-18T05:40:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-biden-transition-live-updates-congress-scrambles-to-reach-stimulus-deal-as-deadline-nears.md",
+      "title": "Biden Transition Live Updates: Congress Scrambles to Reach Stimulus Deal as Deadline Nears",
+      "excerpt": "Lawmakers are hammering out details of a $900 billion pandemic relief package and an overall spending bill to avoid a government shutdown at midnight. President-elect Joe Biden said accusations against his son were “kind of foul play.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2020/12/18/us/joe-biden-trump",
+      "originalUrl": "https://www.nytimes.com/live/2020/12/18/us/joe-biden-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/18/us/politics/18transition-brief-cyber/18transition-brief-cyber-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2020/12/18/us/joe-biden-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/18/us/joe-biden-trump.amp.html",
+      "publishedDateTime": "2020-12-18T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-jill-biden-says-her-doctorate-is-among-her-proudest-achievements-i-worked-so-hard-for-it.md",
+      "title": "Jill Biden says her doctorate is among her proudest achievements: 'I worked so hard for it'",
+      "excerpt": "Jill Biden was surprised by a recent newspaper op-ed piece suggesting she stop using the \"Dr.\" title before her name, she told TV host Stephen Colbert on Thursday evening.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xkoYXLbWwYM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xkoYXLbWwYM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201218030711-joe-and-jill-biden-on-late-night-with-stephen-colbert-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/jill-biden-responds-wsj-doctor-colbert-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/jill-biden-responds-wsj-doctor-colbert-trnd/index.html",
+      "publishedDateTime": "2020-12-18T05:21:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-late-night-compares-trump-health-adviser-paul-alexander-to-a-comic-book-villain.md",
       "title": "Late Night Compares Trump Health Adviser, Paul Alexander, to a Comic Book Villain",
       "excerpt": "The former Health and Human Services adviser’s leaked emails encouraged herd immunity to deal with the pandemic, writing of Americans, “We want them infected.”",
@@ -296,7 +466,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 194,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -352,7 +522,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 215,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -369,6 +539,62 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/16/politics/biden-pete-buttigieg-event/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/biden-pete-buttigieg-event/index.html",
       "publishedDateTime": "2020-12-16T19:39:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-bidens-search-for-an-attorney-general-complicated-by-competing-questions.md",
+      "title": "Biden's search for an attorney general complicated by 'competing questions'",
+      "excerpt": "The deliberations among President-elect Joe Biden's tight circle of advisers about whom he should nominate as attorney general have emerged as some of the more complicated of the transition, sources familiar with the process tell CNN, with possible investigations into President Donald Trump, a federal",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-10qhQXfO-o/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-10qhQXfO-o/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201215062840-03-joe-biden-1214-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/16/politics/biden-attorney-general/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/biden-attorney-general/index.html",
+      "publishedDateTime": "2020-12-16T18:16:36-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -621,6 +847,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-16-path-cleared-for-a-second-vaccine-mcconnell-congratulates-biden-and-northeast-braces-for-major-snowstorm.md",
+      "title": "Path cleared for a second vaccine, McConnell congratulates Biden and Northeast braces for major snowstorm",
+      "excerpt": "Good morning, NBC News readers. Another Covid-19 vaccine is on the horizon, the top Senate Republican finally acknowledged President-elect Joe Biden's victory and a major winter storm is headed straight for the East Coast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/morning-briefing/path-cleared-second-vaccine-mcconnell-congratulates-biden-northeast-braces-major-n1251364",
+      "originalUrl": "https://www.nbcnews.com/news/morning-briefing/path-cleared-second-vaccine-mcconnell-congratulates-biden-northeast-braces-major-n1251364",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_51/3436062/201216-buttigieg-mc-1139_19a0ba5959deb6dcd743bf28f8bfcff2.JPG",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1251364",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251364",
+      "publishedDateTime": "2020-12-16T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-like-a-hand-grasping-trump-appointees-describe-the-crushing-of-the-cdc.md",
       "title": "‘Like a Hand Grasping’: Trump Appointees Describe the Crushing of the C.D.C.",
       "excerpt": "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, go public on the Trump administration’s manipulation of the agency.",
@@ -735,6 +1018,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-16-devos-urges-career-staff-to-be-the-resistance-as-biden-takes-over.md",
+      "title": "DeVos urges career staff to ‘be the resistance’ as Biden takes over",
+      "excerpt": "The secretary's remarks come after nearly four years of frequently sparring with the career employees of her department.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/15/betsy-devos-biden-education-department-445900",
+      "originalUrl": "https://www.politico.com/news/2020/12/15/betsy-devos-biden-education-department-445900",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/a8/53/14b4729a45d19396481a7440ac6a/gettyimages-1255052290-2-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/15/betsy-devos-biden-education-department-445900",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/15/betsy-devos-biden-education-department-445900",
+      "publishedDateTime": "2020-12-15T16:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-biden-poised-to-nominate-granholm-to-lead-department-of-energy.md",
       "title": "Biden poised to nominate Granholm to lead Department of Energy",
       "excerpt": "President-elect Joe Biden is poised to tap former Michigan Gov. Jennifer Granholm to lead the Department of Energy, two people familiar with the matter say, inviting a longtime adviser who played a critical role in his debate preparations over the years to join his Cabinet.\n    \n",
@@ -747,7 +1087,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -848,6 +1188,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-16-in-bad-shape-and-getting-worse-guantanamo-poses-headaches-for-biden.md",
+      "title": "‘In Bad Shape and Getting Worse,’ Guantánamo Poses Headaches for Biden",
+      "excerpt": "The new administration confronts decaying infrastructure and a military justice system moving at a glacial pace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/15/us/politics/15dc-gitmo/15dc-gitmo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html",
+      "publishedDateTime": "2020-12-15T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-inauguration-committee-says-bidens-scaled-down-swearing-in-will-include-vigorous-health-and-safety-protocols.md",
       "title": "Inauguration committee says Biden's scaled-down swearing-in will include 'vigorous health and safety protocols'",
       "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris will take their oaths of office at the US Capitol in January during a significantly scaled-down inauguration ceremony that will implement \"vigorous health and safety protocols,\" the Presidential Inaugural Committee said Tuesday.\n    \n",
@@ -860,7 +1257,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -973,7 +1370,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 324,
+      "heat": 304,
       "tags": null,
       "images": [
         {
@@ -1130,62 +1527,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-14-electors-in-key-battleground-states-affirm-votes-for-biden.md",
-      "title": "Electors in key battleground states affirm votes for Biden",
-      "excerpt": "Electors in Vermont and Tennessee cast their ballots for president Monday morning, opening the formal Electoral College process of sealing Joe Biden's election as the 46th president of the United States.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vrRedsEWYVk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vrRedsEWYVk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 915,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201214124640-electoral-college-iowa-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html",
-      "publishedDateTime": "2020-12-14T10:09:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-14-trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out.md",
       "title": "Trudeau's digital tax flexes Canada's muscles with Trump on the way out",
       "excerpt": "\"The idea that Canada would go ahead with an early tax probably would have invited a tariff by Trump,\" says one observer.",
@@ -1300,25 +1641,25 @@
       ]
     },
     {
-      "path": "_news/2020-12-14-northwestern-distances-itself-from-former-lecturer-after-controversial-op-ed-urging-jill-biden-to-drop-dr-title.md",
-      "title": "Northwestern distances itself from former lecturer after controversial op-ed urging Jill Biden to drop 'Dr.' title",
-      "excerpt": "Northwestern University is distancing itself from a former lecturer who called on incoming first lady Jill Biden to stop using the \"Dr.\" honorific because she has a doctorate in education, not an MD.\n    \n",
+      "path": "_news/2020-12-13-alexander-it-looks-very-much-like-the-electors-will-vote-for-joe-biden.md",
+      "title": "Alexander: 'It looks very much like the electors will vote for Joe Biden'",
+      "excerpt": "Sen. Lamar Alexander (R-Tenn.) tells Chuck Todd that there shouldn't be any doubt about who won the 2020 presidential election after the Electoral College votes on Monday.",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W-0zqakLQbA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W-0zqakLQbA/index.html",
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/alexander-it-looks-very-much-like-the-electors-will-vote-for-joe-biden-97645637979",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/alexander-it-looks-very-much-like-the-electors-will-vote-for-joe-biden-97645637979",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 173,
+      "heat": 174,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201003154742-jill-biden-090120-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_clip_lamaralexandermr1_201213.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1326,290 +1667,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/13/politics/jill-biden-dr-first-lady-op-ed-joseph-epstein-northwestern/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/jill-biden-dr-first-lady-op-ed-joseph-epstein-northwestern/index.html",
-      "publishedDateTime": "2020-12-13T18:48:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-trump-engages-in-self-sabotage-ahead-of-historic-vaccine-rollout.md",
-      "title": "Trump engages in self-sabotage ahead of historic vaccine rollout ",
-      "excerpt": "As doses of a coronavirus vaccine are being prepared to be shipped to communities across the United States, President Donald Trump has an opportunity to mark a historic milestone for science -- and show some semblance of leadership in curbing the spread of Covid-19 as the number of US cases crosses 16",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wQTJczM9gnQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wQTJczM9gnQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201208205952-trump-file-1113-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/13/politics/donald-trump-william-barr-pfizer-vaccine/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/donald-trump-william-barr-pfizer-vaccine/index.html",
-      "publishedDateTime": "2020-12-12T21:37:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-federal-judge-in-wisconsin-deals-trump-another-court-defeat.md",
-      "title": "Federal Judge in Wisconsin Deals Trump Another Court Defeat",
-      "excerpt": "A Trump appointee in Milwaukee, Judge Brett H. Ludwig, dismissed a suit contesting the election with a withering rebuke.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/12/us/12trump-wisconsin/merlin_179552091_dbf4228e-570d-4d46-897e-ad283b8fb58c-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.amp.html",
-      "publishedDateTime": "2020-12-12T14:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-trump-raised-firing-barr-in-white-house-meeting-on-friday.md",
-      "title": "Trump raised firing Barr in White House meeting on Friday",
-      "excerpt": "President Donald Trump raised the prospect of firing Attorney General William Barr in a meeting on Friday, but it's unclear whether he'll choose to dismiss Barr before the end of his term next month.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RWn4TI3IsjY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RWn4TI3IsjY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201211141734-trump-1207-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/12/politics/william-barr-donald-trump-white-house-meeting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/william-barr-donald-trump-white-house-meeting/index.html",
-      "publishedDateTime": "2020-12-12T10:51:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-analysis-trump-made-big-in-roads-in-hispanic-areas-across-the-nation.md",
-      "title": "Analysis: Trump made big in-roads in Hispanic areas across the nation",
-      "excerpt": "One of the most notable early results on Election Night came from Florida's heavily Hispanic Miami-Dade county. President Donald Trump lost it to President-elect Joe Biden by just 7 points, after losing it by 29 points in 2016.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e5qulWYsv4c/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e5qulWYsv4c/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201012171114-cuba-hispanic-vote-trump-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/12/politics/trump-hispanic-vote/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/trump-hispanic-vote/index.html",
-      "publishedDateTime": "2020-12-12T10:21:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-the-us-sends-egypt-billions-in-aid-fearing-extinction-rights-activists-hope-biden-will-act.md",
-      "title": "The U.S. sends Egypt billions in aid. Fearing 'extinction,' rights activists hope Biden will act.",
-      "excerpt": "Fearing 'extinction,' rights activists hope Biden will act. Rights groups say the scale of oppression under Egyptian President Abdel-Fattah el-Sissi is “unprecedented.” Jess Kelly said she knew her husband,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/u-s-sends-egypt-billions-aid-fearing-extinction-rights-activists-n1250554",
-      "originalUrl": "https://www.nbcnews.com/news/world/u-s-sends-egypt-billions-aid-fearing-extinction-rights-activists-n1250554",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_49/3432074/201201-egypt-el-sissi-mc-9182_ded51f2664c788e3890578a34275e2e0.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250554",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250554",
-      "publishedDateTime": "2020-12-12T01:33:00-08:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo97645637979",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97645637979",
+      "publishedDateTime": "2020-12-13T05:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",
@@ -1634,63 +1694,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-how-netflixs-the-prom-musical-was-inspired-by-mike-pence.md",
-      "title": "How Netflix's 'The Prom' musical was inspired by Mike Pence",
-      "excerpt": "Based on a 2018 stage musical of the same name, Ryan Murphy's highly anticipated latest directorial project premiered Friday on Netflix and in select theaters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/feature/nbc-out/how-netflix-s-prom-musical-was-inspired-mike-pence-n1250946",
-      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/how-netflix-s-prom-musical-was-inspired-mike-pence-n1250946",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_50/3435185/201211-the-prom-netflix-ew-305p_1b7b20b1bc6468f75bbba783f3514f59.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250946",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250946",
-      "publishedDateTime": "2020-12-11T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Democratic Voice"
       ]
     }

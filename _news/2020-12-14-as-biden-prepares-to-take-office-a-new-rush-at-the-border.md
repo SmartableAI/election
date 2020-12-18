@@ -32,85 +32,229 @@ images:
     isCached: true
 
 related:
-  - title: "Biden names retired Gen. Lloyd Austin as secretary of defense nominee"
-    excerpt: "President-elect Joe Biden has named retired Army Gen. Lloyd Austin as his nominee for secretary of defense, the Biden transition team announced Tuesday.\n    \n"
-    publishedDateTime: 2020-12-08T22:14:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pk3iAnwqGjc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-secretary-of-defense-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-secretary-of-defense-joe-biden/index.html"
+  - title: "Kamala Harris prepares for her historic vice presidency by studying Joe Biden's legacy"
+    excerpt: "As Kamala Harris prepares for the vice presidency, she is learning from a person who knows more about the job than almost anyone in the world: President-elect Joe Biden.\n    \n"
+    publishedDateTime: 2020-12-18T13:40:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/txWSj802MOw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/kamala-harris-prepares-biden-legacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/kamala-harris-prepares-biden-legacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 192
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211100849-kamala-harris-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Electors in key battleground states affirm votes for Biden"
+    excerpt: "Electors in Vermont and Tennessee cast their ballots for president Monday morning, opening the formal Electoral College process of sealing Joe Biden's election as the 46th president of the United States.\n    \n"
+    publishedDateTime: 2020-12-14T18:09:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vrRedsEWYVk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207192616-02-gen-lloyd-austin-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214124640-electoral-college-iowa-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "GOP senators still won't acknowledge Biden's win as some begin to recognize reality"
-    excerpt: "A bevy of Senate Republicans, after refusing for weeks to acknowledge Joe Biden's victory in the presidential race, still wouldn't do so Monday evening even after the Electoral College made the win official.\n    \n"
-    publishedDateTime: 2020-12-15T01:55:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FXHyRSaoKDE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/republican-senators-biden-electoral-college-reaction/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/republican-senators-biden-electoral-college-reaction/index.html"
+  - title: "California puts Biden over 270 electoral votes for the presidency"
+    excerpt: "Electors in Vermont and Tennessee cast their ballots for president Monday morning, opening the formal Electoral College process of sealing Joe Biden's election as the 46th president of the United States.\n    \n"
+    publishedDateTime: 2020-12-15T02:00:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vrRedsEWYVk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/2020-election-electoral-college-vote/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170504130713-john-kennedy-louisiana-1210-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214124640-electoral-college-iowa-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden faces Democratic pushback over waiver to allow retired general to lead Pentagon "
-    excerpt: "Senate Democrats are uneasy about granting a rarely invoked waiver that would allow President-elect Joe Biden's pick of retired Gen. Lloyd Austin to head the Defense Department, the first nominee to encounter resistance from senators in the incoming President's own party.\n    \n"
-    publishedDateTime: 2020-12-08T19:57:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OUaJV1l4cV8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/democratic-pushback-biden-cabinet-pick/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/democratic-pushback-biden-cabinet-pick/index.html"
+  - title: "Pompeo to meet Biden's secretary of state nominee this week"
+    excerpt: "President-elect Joe Biden's pick for secretary of state is expected to visit the State Department and meet with Secretary of State Mike Pompeo on Thursday for the first time since Biden's victory, according to three sources familiar with the planning.\n    \n"
+    publishedDateTime: 2020-12-15T12:23:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xmhboimWSrQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/pompeo-blinken-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/pompeo-blinken-meeting/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207192616-02-gen-lloyd-austin-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209093643-antony-blinken-1124-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's defense nominee courts Democrats amid concerns over waiver to lead the Pentagon  "
-    excerpt: "President-elect Joe Biden's team is ramping up its lobbying to win over Democratic support for a waiver that would allow Lloyd Austin to serve as the defense secretary amid concerns from the incoming President's own party about allowing another recently retired general to assume the top civilian post"
-    publishedDateTime: 2020-12-14T20:36:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/clGV7bKhBjM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/lloyd-austin-congress-outreach/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/lloyd-austin-congress-outreach/index.html"
+  - title: "Biden to tap New Mexico Rep. Deb Haaland as interior secretary"
+    excerpt: "President-elect Joe Biden has selected New Mexico Rep. Deb Haaland to serve as interior secretary, three people familiar with the matter tell CNN, marking another historic choice by nominating the first Native American to lead the department.\n    \n"
+    publishedDateTime: 2020-12-17T20:51:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p1rrbV-Mj4A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/deb-haaland-interior-secretary-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/deb-haaland-interior-secretary-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209135821-03-biden-secretary-of-defense-announcement-1209-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110111702-14-biden-admin-possibilities-haaland-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden set to appear with Gen. Lloyd Austin as he lobbies Democrats to back waiver for defense secretary nominee"
-    excerpt: "President-elect Joe Biden will begin trying to sell his choice for defense secretary, retired Army Gen. Lloyd Austin, to congressional Democrats who are balking at the prospect of waiving the requirement that the position be filled by someone who has been out of active-duty military service for at least"
-    publishedDateTime: 2020-12-09T17:50:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dE1N_GYyXrk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/biden-nominates-lloyd-austin/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/biden-nominates-lloyd-austin/index.html"
+  - title: "Deb Haaland makes history as Biden's pick to run Interior Department"
+    excerpt: "President-elect Joe Biden's selection of Rep. Deb Haaland to lead the Interior Department marked a historic victory for an alliance of progressives and Indigenous leaders who campaigned relentlessly to elevate one of their own to a powerful federal seat that oversees natural resources, public lands and"
+    publishedDateTime: 2020-12-18T00:56:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tyw2u3PI9Ds/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/deb-haaland-makes-history/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/deb-haaland-makes-history/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 155
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207192520-01-gen-lloyd-austin-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181017141157-01-deb-haaland-lead-image-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "READ: Mitch McConnell's floor speech congratulating President-elect Biden"
+    excerpt: "Senate Majority Leader Mitch McConnell recognized Joe Biden's victory on Tuesday in a floor speech, where he congratulated the President-elect but also praised Donald Trump's presidency.\n    \n"
+    publishedDateTime: 2020-12-15T17:11:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lloSgAao-P4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/mcconnell-floor-speech-text-president-elect/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/mcconnell-floor-speech-text-president-elect/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215105233-mcconnell-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House Democratic majority will be 3-vote margin after Biden picks Haaland for interior post"
+    excerpt: "With President-elect Joe Biden choosing Rep. Deb Haaland as his nominee for interior secretary, House Speaker Nancy Pelosi will have only a three-seat vote margin for her Democratic majority heading into the 117th Congress in a Biden administration.\n    \n"
+    publishedDateTime: 2020-12-17T22:40:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qNdXD1PBGAg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/house-democratic-majority-margin-haaland/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/house-democratic-majority-margin-haaland/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110111702-14-biden-admin-possibilities-haaland-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's Catholic faith will be on full display as the first churchgoing president in decades"
+    excerpt: "Joe Biden rarely misses Sunday Mass. So it was notable when the President-elect didn't attend church on November 29, the first Sunday of Advent and the beginning of the season when Roman Catholics like Biden prepare for Christmas.\n    \n"
+    publishedDateTime: 2020-12-13T15:39:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zbSkPYtoYyE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/joe-biden-catholic-faith/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/joe-biden-catholic-faith/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211142524-biden-st-joseph-1208-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden, Harris to introduce Susan Rice, others for key administration posts"
+    excerpt: "WASHINGTON — President-elect Joe Biden and Vice President-elect Kamala Harris will introduce more key members of their administration to the public on Friday, several of whom are veterans of the Obama White House."
+    publishedDateTime: 2020-12-11T12:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-harris-introduce-susan-rice-others-key-administration-posts-n1250850"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250850"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250850"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 158
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_50/3434553/201209-joe-biden-jm-1532_df73573eb90fc46e0b55987134ab38b0.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "'Democracy prevailed': Biden tries to close the door on a tumultuous election"
+    excerpt: "As the Electoral College moves to seal his victory, the president-elect is shifting his attention to the pandemic."
+    publishedDateTime: 2020-12-14T21:55:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 147
+    images:
+      - url: "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Kamala Harris makes history as vice president-elect"
+    excerpt: "Kamala Harris makes history as the nation’s first female, first Black and first South Asian American vice president-elect after she and Joe Biden are projected as the winners of the 2020 election."
+    publishedDateTime: 2020-11-07T23:57:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/kamala-harris-makes-history-as-vice-president-elect-95523909646"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95523909646"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95523909646"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/nn_rel_harris_makes_history_201107_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Young girls react as Vice President-elect Kamala Harris makes history"
+    excerpt: "President-elect Joe Biden on Tuesday is outlining more details of his transition plan even as President Donald Trump and other top Republicans continue to challenge the results of last week's election."
+    publishedDateTime: 2020-11-10T00:00:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-10-biden-harris-transition-n1247204/ncrd1247212"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1247204"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1247204"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_45/3426834/201107-election-live-blog-main-cover-cs_c1e29142255a740c891255566384f4a8.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "Girls, mothers inspired by Vice President-elect Kamala Harris"
+    excerpt: "NBC News speaks to Mothers, young women, and girls about the significance of Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-11-12T00:08:00Z
+    webUrl: "https://www.nbcnews.com/now/video/girls-mothers-inspired-by-vice-president-elect-kamala-harris-95743557724"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95743557724"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95743557724"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_harris_natpkg_201111_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden Clashes With the Left"
     excerpt: "Democrats are trying to work out their differences as Biden prepares to take office. It’s Friday, and this is your politics tip sheet."
@@ -128,6 +272,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Biden’s Cabinet picks give Kamala an edge in 2024"
+    excerpt: "Biden has opted for seasoned technocrats over ambitious pols for key jobs, denying potential political rivals to Harris a political springboard."
+    publishedDateTime: 2020-12-12T02:58:00Z
+    webUrl: "https://www.politico.com/news/2020/12/11/biden-cabinet-kamala-2024-444482"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/11/biden-cabinet-kamala-2024-444482"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/biden-cabinet-kamala-2024-444482"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/24/67/10b110394fbaa06752f3cd58206d/gettyimages-1284977949-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Hunter probe complicates Joe Biden's attorney general pick"
     excerpt: "The president-elect is weighing a complex set of factors as he zeroes in on his choice to lead the Justice Department."
     publishedDateTime: 2020-12-12T01:49:00Z
@@ -143,6 +303,22 @@ related:
       - url: "https://static.politico.com/4a/73/179ea39e451db1698724763adaa1/gettyimages-119583341-1.jpg"
         width: 1161
         height: 773
+        isCached: true
+  - title: "Watch live: Biden introduces key members of his administration"
+    excerpt: "Watch live coverage as President-elect Joe Biden and Vice President-elect Kamala Harris hold an event to introduce nominees and appointees for their administration."
+    publishedDateTime: 2020-12-11T17:51:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-live-biden-introduces-key-members-of-his-administration-97548357679"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97548357679"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97548357679"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/biden_econ_nom.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden Faces Intense Pressure From All Sides as He Seeks Diverse Cabinet"
     excerpt: "The pressure on the Democratic president-elect is intense, even as his efforts to ensure ethnic and gender diversity already go far beyond those of President Trump. And it’s coming from all sides."
@@ -160,6 +336,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Electoral College to confirm Biden victory on Monday"
+    excerpt: "During a live stream on Monday, the Electoral College is expected to cement President-elect Joe Biden’s victory in the 2020 presidential election."
+    publishedDateTime: 2020-12-14T00:33:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/electoral-college-to-confirm-biden-victory-on-monday-97664069532?playlist=mmlsnnd_bestofnbc-nnd"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97664069532"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97664069532"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kod_electoral_college_vote_xtalk_201213_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Hunter probe compounds Biden’s attorney general dilemmas"
     excerpt: "The president-elect is weighing a complex set of factors as he zeroes in on his choice to lead the Justice Department."
     publishedDateTime: 2020-12-14T16:30:00Z
@@ -176,37 +368,69 @@ related:
         width: 1161
         height: 773
         isCached: true
-  - title: "Transition Live Updates: Biden to Formally Name Austin as Defense Secretary"
-    excerpt: "President-elect Joe Biden is set to introduce Lloyd J. Austin III, a retired Army general, as his choice to lead the Pentagon. On Tuesday, Mr. Biden and President Trump offered the American people very divergent messages on the state of the virus."
-    publishedDateTime: 2020-12-09T10:55:00Z
-    webUrl: "https://www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump.amp.html"
+  - title: "Biden breaks the Obama mold on teachers union strife"
+    excerpt: "Biden’s rhetoric and policies suggest the president-elect is still listening closely to teachers unions in a way Obama often did not."
+    publishedDateTime: 2020-12-18T09:35:00Z
+    webUrl: "https://www.politico.com/news/2020/12/18/biden-obama-teachers-union-447957"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/18/biden-obama-teachers-union-447957"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/biden-obama-teachers-union-447957"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/12/10/world/09transition-briefing-austin/09transition-briefing-austin-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/04/d8/7c206e0448d988186c7bed0e98fe/ap20283654072752-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Biden taps Susan Rice for domestic policy adviser, Denis McDonough for VA secretary"
-    excerpt: "WASHINGTON — President-elect Joe Biden has tapped two veterans of the Obama White House to serve in his administration, naming Susan Rice as his domestic policy adviser and Denis McDonough to serve as secretary of the Department of Veterans Affairs."
-    publishedDateTime: 2020-12-10T16:24:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-taps-susan-rice-domestic-policy-adviser-denis-mcdonough-va-n1250712"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250712"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250712"
+  - title: "First U.S. vaccines, Electoral College affirms Biden win and Barr is out"
+    excerpt: "Health care workers get first vaccines as Covid death toll tops 300,000. With the prick of a needle, the battle against Covid-19 took what could be a decisive turn Monday as the f"
+    publishedDateTime: 2020-12-15T13:36:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/first-u-s-vaccines-electoral-college-affirms-biden-win-barr-n1251233"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251233"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251233"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 129
+    quality: 134
     images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/n_hallie_brk_rice_biden_201210_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3435796/201215-biden-mc-1151_83138c3e116d56aec776b6c91d99bc12.JPG"
+        width: 5380
+        height: 3329
+        isCached: true
+  - title: "Kamala Harris Makes History as First Woman and Woman of Color as Vice President"
+    excerpt: "Ms. Harris, the daughter of an Indian mother and Jamaican father, has risen higher in the country’s leadership than any woman ever before her."
+    publishedDateTime: 2020-11-07T16:40:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/kamala-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/kamala-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/kamala-harris.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/03/us/politics/00Harris-HFO1/00Harris-HFO1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "California’s electors are meeting now. Their votes are expected to push Biden over the top."
+    excerpt: "California’s 55 electors are meeting now as they prepare to cast their votes for President-elect Joseph R. Biden Jr. Their votes will push Mr. Biden over the 270 threshold to win the White House, formally delivering him a victory after a disruptive period in the nation’s history marked by extraordinary efforts by President Trump to overturn the results of the presidential election."
+    publishedDateTime: 2020-12-14T17:31:00Z
+    webUrl: "https://www.nytimes.com/2020/12/14/us/californias-electors-are-meeting-now-their-votes-are-expected-to-push-biden-over-the-top.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/14/us/californias-electors-are-meeting-now-their-votes-are-expected-to-push-biden-over-the-top.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/14/us/californias-electors-are-meeting-now-their-votes-are-expected-to-push-biden-over-the-top.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 125
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/14/us/politics/14vid-electoral-college-promo1/14vid-electoral-college-promo1-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Electoral College affirms Biden's victory"
     excerpt: "Democratic electors cast their votes without incident states where Trump has contested the results, like Pennsylvania and Georgia."
@@ -221,6 +445,20 @@ related:
       - url: "https://static.politico.com/87/fa/04107b0c4742923ec02a4bbcaa9d/20201213-joe-biden-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Watch Live: Biden Speaks Following Electoral College Certification"
+    excerpt: "President-elect Joseph R. Biden Jr. delivers remarks after electors in states across the country cast their votes for president."
+    publishedDateTime: 2020-12-14T22:28:00Z
+    webUrl: "https://www.nytimes.com/video/us/elections/100000007503306/joe-biden-live-speech-video.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/14/us/politics/14vid-biden/14vid-biden-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "IehT0lmipmJ8mG98Aa64B5JKlD1iOmfLHQ7Ocs6U/nwTBcMespFWKhR4Q5rQEJ/f4jdiHGz3gMLirFDCYRRrB7ZhoXY6iJy8+vV5PU7n7gWyx8MO6wI61/Ug+MmZLkIw3U8x2pNJsE6ItZUgzt3/9quyOXkPxiPE9S/vYrJ4Pc2V9slqr5nHU4RaP8RzozrzvViuTftSwHEfvuZIqnLYn7rfn9FNPQ2to+3/Tupyq2r2Pkb7XFdCSE6KIz+4337tUWW/soJOTE0w3riCMU6Y62N45HiNMXZqZXs9BkpxpLsDXClrEFescNAzL+y+dfLsIG0a5EGPWCZWRYJacn72H8o8LuB8rFPuUXZQ4UqN/tSzXcPXrAEPKCKd7u50lEMwdA75EB8wXJEyOBx+gTvYTt8HahEV52qFACasGbDNos0+MRM0Q16Ef8200OAm8q7OH1VJTB6TNinvNr2R2gaQU1go6ayMNNg8nX11w1gpKpX3xTWXBBm6mpXEuSPszF83MDBLJj0t/cMmlJQpfUE0KA==;8vK/EHQye4qFtF5/phxzeA=="

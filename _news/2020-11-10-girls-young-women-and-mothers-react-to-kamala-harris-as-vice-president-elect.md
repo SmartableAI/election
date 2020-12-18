@@ -112,22 +112,6 @@ related:
         width: 2500
         height: 1599
         isCached: true
-  - title: "Kamala Harris makes history as vice president-elect"
-    excerpt: "Kamala Harris makes history as the nation’s first female, first Black and first South Asian American vice president-elect after she and Joe Biden are projected as the winners of the 2020 election."
-    publishedDateTime: 2020-11-07T23:57:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/kamala-harris-makes-history-as-vice-president-elect-95523909646"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95523909646"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95523909646"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/nn_rel_harris_makes_history_201107_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Read: Vice president-elect Kamala Harris' historic victory speech"
     excerpt: "And for making this victory possible. To the poll workers and election officials across our country who have worked tirelessly to make sure every vote is counted, our nation owes you a debt of gratitude."
     publishedDateTime: 2020-11-08T02:36:00Z
@@ -240,38 +224,6 @@ related:
         width: 2500
         height: 1731
         isCached: true
-  - title: "Young girls react as Vice President-elect Kamala Harris makes history"
-    excerpt: "President-elect Joe Biden on Tuesday is outlining more details of his transition plan even as President Donald Trump and other top Republicans continue to challenge the results of last week's election."
-    publishedDateTime: 2020-11-10T00:00:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-10-biden-harris-transition-n1247204/ncrd1247212"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1247204"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1247204"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_45/3426834/201107-election-live-blog-main-cover-cs_c1e29142255a740c891255566384f4a8.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
-  - title: "Girls, mothers inspired by Vice President-elect Kamala Harris"
-    excerpt: "NBC News speaks to Mothers, young women, and girls about the significance of Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-11-12T00:08:00Z
-    webUrl: "https://www.nbcnews.com/now/video/girls-mothers-inspired-by-vice-president-elect-kamala-harris-95743557724"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95743557724"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95743557724"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_harris_natpkg_201111_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Padma Lakshmi: Vice President-Elect Kamala Harris Moved Me to Tears"
     excerpt: "Imagine how wide the ripples of impact can be when a woman of color is vice president. By Padma Lakshmi Ms. Lakshmi is the host and executive producer of “Taste the Nation” and “Top Chef.” I was on a hike in Garrison,"
     publishedDateTime: 2020-11-13T23:10:00Z
@@ -285,22 +237,6 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/14/opinion/13lakshmi-01-sub/13lakshmi-01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Kamala Harris Makes History as First Woman and Woman of Color as Vice President"
-    excerpt: "Ms. Harris, the daughter of an Indian mother and Jamaican father, has risen higher in the country’s leadership than any woman ever before her."
-    publishedDateTime: 2020-11-07T16:40:00Z
-    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/kamala-harris.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/kamala-harris.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/kamala-harris.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 131
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/03/us/politics/00Harris-HFO1/00Harris-HFO1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

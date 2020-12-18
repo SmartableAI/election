@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Mike Pence receives the COVID-19 vaccine"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence both received a COVID-19 vaccine with cameras rolling on Friday to try to show the public that it’s safe and that Americans should get vaccinated when they can."
+    publishedDateTime: 2020-12-18T14:34:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/18/mike-pence-receives-covid-19-vaccine/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/18/mike-pence-receives-covid-19-vaccine/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/18/mike-pence-receives-covid-19-vaccine/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/18/Virus_Outbreak_Trump_84982.jpg-7a652_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Vice President Mike Pence to visit Greenville for coronavirus vaccines roundtable"
     excerpt: "Vice President Mike Pence will visit Greenville on Thursday to talk about COVID-19 vaccinations before traveling to a campaign rally in Augusta, Georgia. According to his office, Pence is visiting Greenville to take part in a roundtable discussion highlighting the public-private partnership to combat the coronavirus,"
     publishedDateTime: 2020-12-09T21:06:00Z
