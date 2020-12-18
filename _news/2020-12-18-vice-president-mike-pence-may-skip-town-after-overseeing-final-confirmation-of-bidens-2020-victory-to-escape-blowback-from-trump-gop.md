@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Michigan's Electoral College delegates cast all 16 votes for Joe Biden, Kamala Harris"
-excerpt: "By law, Michigan delegates to the Electoral College are required to cast their votes for the winner of the popular vote."
-publishedDateTime: 2020-12-14T23:15:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/6538683002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6538683002"
+title: "Vice President Mike Pence may skip town after overseeing final confirmation of Biden's 2020 victory to escape blowback from Trump, GOP"
+excerpt: "Pence is in a delicate position to preside over the session that will affirm Biden's win as Trump continues to tout baseless claims of election fraud."
+publishedDateTime: 2020-12-18T08:12:00Z
+originalUrl: "https://www.businessinsider.com/pence-tentative-trip-overseeing-election-confirmation-escape-trump-wrath-report-2020-12"
+webUrl: "https://www.businessinsider.com/pence-tentative-trip-overseeing-election-confirmation-escape-trump-wrath-report-2020-12"
+ampWebUrl: "https://www.businessinsider.com/pence-tentative-trip-overseeing-election-confirmation-escape-trump-wrath-report-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-tentative-trip-overseeing-election-confirmation-escape-trump-wrath-report-2020-12?amp"
 type: article
-quality: 83
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Kamala Harris
+  - Mike Pence
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/12/14/PDTF/8855f26a-225d-4845-9a4d-876b9a8fd6dd-GTY_AFP_8X66JW.jpg.jpg?auto=webp&crop=3910,2200,x0,y198&format=pjpg&width=1200"
+  - url: "https://i.insider.com/5fdc39f1c910a400192e83d0?width=1200&format=jpeg"
     width: 1200
-    height: 675
+    height: 600
     isCached: true
 
 related:
@@ -1054,22 +1058,6 @@ related:
         width: 1484
         height: 907
         isCached: true
-  - title: "Vice President Mike Pence may skip town after overseeing final confirmation of Biden's 2020 victory to escape blowback from Trump, GOP"
-    excerpt: "Pence is in a delicate position to preside over the session that will affirm Biden's win as Trump continues to tout baseless claims of election fraud."
-    publishedDateTime: 2020-12-18T08:12:00Z
-    webUrl: "https://www.businessinsider.com/pence-tentative-trip-overseeing-election-confirmation-escape-trump-wrath-report-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/pence-tentative-trip-overseeing-election-confirmation-escape-trump-wrath-report-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-tentative-trip-overseeing-election-confirmation-escape-trump-wrath-report-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 123
-    images:
-      - url: "https://i.insider.com/5fdc39f1c910a400192e83d0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Healthcare.gov open enrollment ends today. Obamacare seems to have survived Trump, may thrive under Biden."
     excerpt: "A crush of sign-ups expected Tuesday on the last day of open enrollment for HealthCare.gov could help solidify the standing of Obamacare as an improbable survivor in the Donald Trump years."
     publishedDateTime: 2020-12-15T15:52:00Z
@@ -2022,6 +2010,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Michigan's Electoral College delegates cast all 16 votes for Joe Biden, Kamala Harris"
+    excerpt: "By law, Michigan delegates to the Electoral College are required to cast their votes for the winner of the popular vote."
+    publishedDateTime: 2020-12-14T23:15:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6538683002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6538683002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 83
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/14/PDTF/8855f26a-225d-4845-9a4d-876b9a8fd6dd-GTY_AFP_8X66JW.jpg.jpg?auto=webp&crop=3910,2200,x0,y198&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden, Harris get first access to Trump's top-secret President's Daily Brief"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris got their first look Monday at the top-secret President's Daily Brief since winning the 2020 election. President Trump had delayed Biden's access to the PDB,"
     publishedDateTime: 2020-12-01T06:24:00Z
@@ -2353,6 +2357,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "d+2/fn4oLdnaRMN+ONqXskWGmEK0RFeuLDq0XfozKFS8wThGCU/6CGILAjxv1pPDn1kOPLAUAP70YrTE12GjCS374ccWEZuNkOyUL7Emg4DLYmQ2Erq5GFk3ppGdie1b2dx+WtlAvMx5bLK0uCNZyW5BjdtAbZMNFbut1s2/TYxuTkFz+pN4LS8BfVJ5zLpT5LVkiD5BCJ+XrVAK7TRgndS5CZkZNOkGECUDRPvcPpER3zBPm99dFKOtNh02Cp4UrR1pYiK9ZRD11ZsLhE7jqdJhmLC7JTUz+Qa+Q+dARpl5BgaP+pVtleykfT7+ASiHAWV020loKx+Y6eWiaeU+y5BOKqjofzRv4LMD2Hypp8zIEcwD9WX4uYLsI9V+/PkvRbvP5KoJdT2GoRqnIbvLb4U8s6rEwI26JylfXi1SRr8OvW7i3iIAvAKKQEoeyB87vQYwo9TOny0DmDuu6mYNzW/pF9Qg9BVG1xFtwZ5vsWhakT33KhcT/t8KY7UpkJPhCzcv/I/aPkozaB9ZZwvAlA==;/UZ8MAOeUURLJpUVWZSz0g=="
+secured: "6a7t0/GpZn0ickEZh0eE5slemLfuN6mQjaJ3RmbcImcwQGqvDM9Fw3e6X6aZsIlY27/h5fADiL8ioXs6K6nofzgKwPEYnQ5Jqw2wl3wQJjG34gDfCPpf4c9o9/UGhxB3YClj+i019sQI51jN1PwRtnUgheqAkX7zkWl4iiZDtLFXBTdmiFh+Z077Goj6BBjPTeh5WTNwrdFW98f+58ad+qDvIIVcJiVx0ulxjgDoR8dDMmX5pkqbKGDsZqbgUqWoqbL2GHAoS+LZH2K5Xm/S8gBEIg0sd/XBMHyZEK8RZfiNvb+fsQSxjX23Mc7+f+qyqbUiZUvyS4mPEpKOP1QjwWJCoin5xoAeSpo27skG78g=;tT0M590MncPM+UnLoD8oLA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/will-trump-leave-white-h
 cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/will-trump-leave-white-house-january-20-inauguration.html"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: New York Magazine
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 632
     isCached: true
-
-related:
-  - title: "White House aides reportedly stepped in to keep Trump from calling for $2,000 stimulus checks fearing it could torpedo relief negotiations"
-    excerpt: "The Post reported that White House aides talked Trump out of calling for larger direct payments than Republicans seek in stimulus talks."
-    publishedDateTime: 2020-12-18T04:09:00Z
-    webUrl: "https://www.businessinsider.com/trumps-stimulus-checks-congress-republicans-democrats-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trumps-stimulus-checks-congress-republicans-democrats-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-stimulus-checks-congress-republicans-democrats-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/5fd0b6b9240ebd00126bddd9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "f9Wa82ruQnclLzppph10VgRCwCKEko7yorOEpkkBjoaIDUjlDqIeCZRcyRmt4qu++7dENl+D4WSBaq1NO1i1BRYJ+Yixgsh5l8J7SWKr1t0d/5IgsTlttreah6umJjW8HSJ3BFwCCFqkYjtSJQsAyTaKyzBLN51APMwihJ8aqDf7YtOytAh9yfyGJAWQGUXLKLlAJwZSy4O6GcrS18eihBdkAtqKMKrAW9g5hAfMyCJyP2ET4UJgNUVfgr05wqp1wH2KNclJaBvC7HLrw465cgnqtaHsDP/RfENHEazA0tCLrUnWmUlufNvZzj8J4rUBzEQlWzAvv73MTQvXGRY/AxySzkHNy48Pno+lH2A1oAs=;pH5IdFGIZIufUXL+iEM9FQ=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Irritated by loss, Trump hunkers down at the White House and avoids talk of future"
 excerpt: "Hunkered down in what one former White House official called the \"presidential man cave\" of the Oval Office, President Donald Trump does not want to talk about what lies ahead once he leaves office next month."
 publishedDateTime: 2020-12-18T06:35:00Z
-originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28S0JE"
-webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28S0JE"
+originalUrl: "https://www.reuters.com/article/usa-trump/irritated-by-loss-trump-hunkers-down-at-the-white-house-and-avoids-talk-of-future-idUSKBN28S0JE"
+webUrl: "https://www.reuters.com/article/usa-trump/irritated-by-loss-trump-hunkers-down-at-the-white-house-and-avoids-talk-of-future-idUSKBN28S0JE"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S0JE"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S0JE"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544995912&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH0AQ"
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545001576&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH0AQ"
     width: 817
     height: 545
     isCached: true
@@ -1010,6 +1010,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Ur7HyCpHLqzIPczZyE3WxbepKjaLcimqYYykLCvW4OUv7uWxN9cNm5J2IdUqPBetoyBUxvnlLdLaHOU68ZEycbSltHYCPvXfH5lI+wdzWoMxC7pCpWZNbM0jv9+Qb5ux+2LqgrIbVsBoaCc/8rRRfWhIDZcGn4D63rfqQ5MNX2Drdmfy/SaEoTC1e4zu/NyDXEskKKgA/ovK1AnFUjkeEq61y1S6wMxYO1PRfJPZ76/4x5RdtMbSIR5RwH6Xk6sMaEGWg/RzlEtjB3Uzr7m7qUKesS4539ge6MvupksTZ5yEASVjVpBM45F6M7m2RDdX9v/3f8Dc4b+aeJcH6XNJV+l8KdH66Cq7bPnQzD0j+nI=;/v5HxS7ZpNm7D0cNOp3zIg=="
+secured: "DV6x0zJrrVfCP67Tkv4ND5aunnkA1SqPd70zeABFDZD0pbiVzZCtgrdDnP+iCmA9tfs3np4wYIImrGa/dRUr6XjM212VVlYs1JEZDFJD0TLOR9B8RYzrFJ5Ib5KwK4p3/Z4dPqz/k4t3E9/qoTZJoC+HfDYPm4qU9T28HVldZRhqweksh5WOW8r3Z6xL5li2VqQlsAIjBM5lfmkY/D95Hnm/8qi3cdi22VzxUBefPqkxyiqgwxEfhzQDLdoZUki9fWVkjSGOOmPX2Jy58VNVFL1LVpEjMAMFGuq298pdibBRrXTDbcHNEG5mAVEIy00XZ5BAZf03Novfi7mML3HL4W9DyssoHx1oMWlaxwLVeII=;j9NMaSmPbYkt1vhgSUnLhQ=="
 ---
 

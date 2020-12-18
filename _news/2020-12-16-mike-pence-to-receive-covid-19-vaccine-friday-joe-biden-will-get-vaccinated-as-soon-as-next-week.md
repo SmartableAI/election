@@ -3,18 +3,18 @@ category: news
 title: "Mike Pence to receive COVID-19 vaccine Friday; Joe Biden will get vaccinated as soon as next week"
 excerpt: "Vice President Mike Pence will get the COVID-19 vaccine publicly Friday, while President-elect Joe Biden will get vaccinated as soon as next week."
 publishedDateTime: 2020-12-16T00:00:00Z
-originalUrl: "https://www.statesman.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
-webUrl: "https://www.statesman.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
-ampWebUrl: "https://amp.statesman.com/amp/3933565001"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/3933565001"
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/3933565001"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3933565001"
 type: article
 quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -1053,6 +1053,22 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-14-2020/t_6d1ba2c9cf6949e9ba5aa7a922fa3e1d_name_Trump_photo.png&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 907
+        isCached: true
+  - title: "Vice President Mike Pence may skip town after overseeing final confirmation of Biden's 2020 victory to escape blowback from Trump, GOP"
+    excerpt: "Pence is in a delicate position to preside over the session that will affirm Biden's win as Trump continues to tout baseless claims of election fraud."
+    publishedDateTime: 2020-12-18T08:12:00Z
+    webUrl: "https://www.businessinsider.com/pence-tentative-trip-overseeing-election-confirmation-escape-trump-wrath-report-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/pence-tentative-trip-overseeing-election-confirmation-escape-trump-wrath-report-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-tentative-trip-overseeing-election-confirmation-escape-trump-wrath-report-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/5fdc39f1c910a400192e83d0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Healthcare.gov open enrollment ends today. Obamacare seems to have survived Trump, may thrive under Biden."
     excerpt: "A crush of sign-ups expected Tuesday on the last day of open enrollment for HealthCare.gov could help solidify the standing of Obamacare as an improbable survivor in the Donald Trump years."
@@ -2337,6 +2353,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "rGj163jspP/1O3SbGGEX5lcrygPBqe+rkw5rBZAhSWGS5EEkbcNewM27UC4EjSP1gGavdzlqy/Gbjl1CNHfiZpGzsjk9CHJzBdzlToMaJ26Ebmu2wTl8F4DFaaE4F456Y9hH5A6QuL/FP3PkTZhb70YFeGkffS//rjqzFtbop/wth4ekvHnBR5Aw7L2Lw9e2FzwGWgVOxm2S1Y1In0eaPd2ZIzD8X6Cq0AHC72AtDSE7ChI3Fm3yZSlPqnX5yHVta4HfdcvuVkzkYfduTSJUPLLv7c/NOo5mJY/npVzN7zhRzxtGtB9t85UURev34NCUBmrI8s7WQR7O89VblHBvtNFpCFlGyMD4lmEYrQF7V4QnpaQx5cWvbJw7Mogx+Vr9l5rzhsVUjNq6R9xd8yf0QJRQTmF9QcnkIK+1KgZNlvonwT4UtdZO4QroBmZSMhbb6Dp2T2PWM2xbMVeK9HS3NNYLf9118vUgchpGGZ8HCKbp9GiHopTg9pi3OQa7Yo2KSsYPR4LmraeUPpKmp5tQ2g==;kQC/sUI2Aqmq7JRPOtL3rQ=="
+secured: "XFOTjR4VvW+748cFN1i3witCwohBF3NeCpuZvZoQgdpDwjNNWMdF3wZ4qkRNd7cjXTiTBpX9OBTB1/oYf0w/5xtkkHEepE7UNdhG94krHqFC+3sjXgZVseiyC/ECr5+FFJqd+cJpxKX1Wbg2Sv+XAMbAH+/tp2Flxk/rOyf1pwJao0ZA4fWS1xrDRRUe0TaNqq75byc+7Rm93Id5lyCF1nTAYHnnCieqVUcuA8QY1Mc3TMviyx2uRxjT3MEP2HppUkbBOd0ml6tMAIKJO/j/Oy+WGo97xJt+7XubWx2soQ1lg1+PCOSThJD1TdUXN2a7fIwMeie3vQYLliHLftWgGDvgZy3FPMWnpnmzu1xu24Q=;QSHBhCJY0NzmB3+1bc3w2A=="
 ---
 
