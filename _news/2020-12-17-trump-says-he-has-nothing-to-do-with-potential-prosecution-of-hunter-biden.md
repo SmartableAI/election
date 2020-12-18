@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-hunter-biden-special-prosecut
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
 type: article
 quality: 186
-heat: 506
+heat: 526
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
     quality: 161
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c44c1849-3309-4d8c-ab1c-2d0a3e07c29c/383584ff-f5d9-493b-bc0a-3a0b9a1b1667/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Graham vows to hold Dems, media accountable over Hunter Biden: 'We're not going to sweep this under the rug'"
+    excerpt: "Senate Judiciary Committee Chairman Lindsey Graham doubled down Thursday on his calls for President Trump to appoint a special counsel to investigate Hunter Biden’s business dealings in China."
+    publishedDateTime: 2020-12-18T01:19:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O8Wz6FfRgYk/lindsey-graham-hunter-biden-not-sweep-under-rug"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-hunter-biden-not-sweep-under-rug.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-hunter-biden-not-sweep-under-rug.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b55e6af3-1933-400f-abde-4a5da8f2f4db/ea9eafcd-3cfb-4178-8bb1-6994cc6cf278/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

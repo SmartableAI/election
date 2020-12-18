@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-18-virginia-gubernatorial-candidate-says-trump-should-declare-martial-law.md",
+      "title": "Virginia gubernatorial candidate says ‘Trump should declare martial law’",
+      "excerpt": "Virginia Republican state Sen. Amanda Chase, an outspoken Trump supporter, former small business owner and gubernatorial hopeful, doubled down on disputed voter fraud claims and said Thursday that her state needs an election audit – through martial law, if necessary.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Wcpmpy9uPg/virginia-amanda-chase-trump-martial-law",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Wcpmpy9uPg/virginia-amanda-chase-trump-martial-law",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Amanda-Chase-GETTY.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/virginia-amanda-chase-trump-martial-law.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-amanda-chase-trump-martial-law.amp",
+      "publishedDateTime": "2020-12-17T17:53:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-omar-says-her-father-died-of-coronavirus-because-of-trumps-criminal-neglect.md",
+      "title": "Omar says her father died of coronavirus because of Trump's 'criminal neglect'",
+      "excerpt": "Rep. Ilhan Omar said Friday that her father died of Covid-19 in June because of “criminal neglect” by the Trump administration. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NTWmfBTzBuI/omar-father-died-coronavirus-trumps-criminal-neglect",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NTWmfBTzBuI/omar-father-died-coronavirus-trumps-criminal-neglect",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Omar-reuters.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/omar-father-died-coronavirus-trumps-criminal-neglect.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-father-died-coronavirus-trumps-criminal-neglect.amp",
+      "publishedDateTime": "2020-12-17T17:10:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-turning-point-usa-will-a-list-conservative-speakers-admit-trump-lost.md",
       "title": "Turning Point USA: Will A-list conservative speakers admit Trump lost?",
       "excerpt": "Will speakers like Rudy Giuliani, Donald Trump Jr., Tucker Carlson and Laura Ingraham admit Trump lost when they speak at Turning Point USA?",
@@ -823,7 +935,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 506,
+      "heat": 526,
       "tags": null,
       "images": [
         {
@@ -1035,7 +1147,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1475,
+      "heat": 1495,
       "tags": null,
       "images": [
         {
@@ -1232,114 +1344,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-trump-administration-cuts-200m-in-health-care-funds-to-california-over-abortion-regulations.md",
-      "title": "Trump administration cuts $200M in health care funds to California over abortion regulations",
-      "excerpt": "The office of California Gov. Gavin Newsom criticized the Department of Health and Human Services' move as an ploy “to score cheap political points.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/12/16/trump-hhs-california-abortions-health-care-funds/3936091001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/12/16/trump-hhs-california-abortions-health-care-funds/3936091001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/17/USAT/c0d4457f-287a-47de-8e20-c14e47642a61-AP19180773998983.jpg?auto=webp&crop=2819,1586,x0,y412&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3936091001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3936091001",
-      "publishedDateTime": "2020-12-16T20:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-trump-administration-blocks-funding-for-california-brings-doj-suit-over-abortion-issues.md",
-      "title": "Trump administration blocks funding for California, brings DOJ suit over abortion issues",
-      "excerpt": "The Trump administration announced two key actions Wednesday designed to protect entities that sought to avoid supporting abortion.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bE0RDm0X_8E/trump-admin-conscience-abortion-hhs-california",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bE0RDm0X_8E/trump-admin-conscience-abortion-hhs-california",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d81c8226-1711-4eae-b269-b02d3e289aff/b0d46677-1617-4e11-ba3c-473a0d6f011c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-admin-conscience-abortion-hhs-california.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-admin-conscience-abortion-hhs-california.amp",
-      "publishedDateTime": "2020-12-16T19:59:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

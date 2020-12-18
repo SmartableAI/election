@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-executive-order-coronavirus-v
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-executive-order-coronavirus-vaccine-america-first.amp"
 type: article
 quality: 164
-heat: 184
+heat: 164
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "CDC pushes back against House coronavirus committee accusations of 'political meddling' by Trump campaign"
-    excerpt: "The CDC is pushing back against the House coronavirus crisis subcommittee's accusations of \"political meddling\" by the Trump administration."
-    publishedDateTime: 2020-12-10T21:25:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uNeSJdZNXPc/house-coronavirus-committee-accuses-trump-admin-of-possible-political-meddling"
-    ampWebUrl: "https://www.foxnews.com/politics/house-coronavirus-committee-accuses-trump-admin-of-possible-political-meddling.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-coronavirus-committee-accuses-trump-admin-of-possible-political-meddling.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/640/320/James-Clyburn-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "Gmzr7LDAz7I9SCGfbVF3BTmz6DASAPcRCYCSrPdfhDvbkeh4w4dCJbMX6Vv81S3zTFXCBpa3c6G/K7y1OLmJy5/fyeJkXyMx1+vVtmopwN5UC54i09/flSkPT3K7EOd2X9Xu9SaPHJo4G5dOn1xN44Ooc6VSBfXGmmHclbc7BGLSMf7vH5SIhPMzzvD8ovnAGst6ywtAD+ZLS9NaTOHhX3y2HLdv6JkVQ6oKLVjnPSi+rGSXnV3A2SthKJ9LHyliKDQP918K0lELz689SeuW0XL4M+xEW2HYj3d45RH4r09CJXN5onp3g5p5FqePfXK3BnKYxAgKax9oEnCFsHZc76qHZgRwZSQ3O8lOYKFz5cw=;R4nIHcnKsuz8v/6xotIFpA=="
 ---

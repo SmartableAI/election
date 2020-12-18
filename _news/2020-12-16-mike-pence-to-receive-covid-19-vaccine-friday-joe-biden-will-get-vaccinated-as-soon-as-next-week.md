@@ -3,18 +3,18 @@ category: news
 title: "Mike Pence to receive COVID-19 vaccine Friday; Joe Biden will get vaccinated as soon as next week"
 excerpt: "Vice President Mike Pence will get the COVID-19 vaccine publicly Friday, while President-elect Joe Biden will get vaccinated as soon as next week."
 publishedDateTime: 2020-12-16T00:00:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
-webUrl: "https://www.indystar.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
-ampWebUrl: "https://amp.indystar.com/amp/3933565001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3933565001"
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/3933565001"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3933565001"
 type: article
 quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -2299,6 +2299,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "fejQVMuS8o08+akRsNa8NniikhaYWdUi2D/n2NVTorzyzjhUTofgD9VaEhD/002Rxl18Vz738VlhzacCkR1vdOFj1nhRulYYBx1Iab8cM/wr8G2L32Iv8zKr2FWwXJEcVX+ZD3HLaRiTZCdK6QtvjQt7uPOOssnECxbJemdYDzw38k4dAa84ihY4wa5GLGRrt4tEtb2nP1NBCgB3ZObUwX4CcCcad5Ha0Vrak2IHM4LGMi4ig2FwanFRfJ9+LWp3ZEpGye9W38VPtNgA5p1H9XVEaN3yWUUpZj1k/wspL2ut9cjyULcTDwg11aKy4h0Qf4qppMUqjDQmc6bPPkyppmb5zqel2+CNXo5G2ylGOtE=;sYcjCmeWkpTkKhHjfTXx1A=="
+secured: "QNX9hF3+dGDUX4Yo4U7l6c79emDRMHlmAhxi+wnIf2r8TcpC6DZ6tyLYEGL+qKDXCK+B3zO8PNqStUaihgoYrHtZFshYkK48HSgkCN3gP1BBXvp1he20O5UErJNNn4mlA6mG28hTob7J9yvIo9CqrjchGzAHXnbUBjs0lO+HApR2hZQP0/UP4NcMDVnzYiLDKinHW0Sf83baf5S9CwaVUniupDglcZaYGyBH9Oq6tC0dKlp9ikfRG+8zwWYl8z/7B4ZsfC9f14Vbkg7urbMOwJ3ecgI1Zga5vX39h2NOwOR0MsRuZuQX92dvQkMYT73ibXkWf2H9yqo7DxQhCOVPSFUdz+XNitbau7sEKhiuBSE=;mwnVptltCg9OWoOrQIEd6A=="
 ---
 

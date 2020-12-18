@@ -189,6 +189,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Graham vows to hold Dems, media accountable over Hunter Biden: 'We're not going to sweep this under the rug'"
+    excerpt: "Senate Judiciary Committee Chairman Lindsey Graham doubled down Thursday on his calls for President Trump to appoint a special counsel to investigate Hunter Biden’s business dealings in China."
+    publishedDateTime: 2020-12-18T01:19:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O8Wz6FfRgYk/lindsey-graham-hunter-biden-not-sweep-under-rug"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-hunter-biden-not-sweep-under-rug.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-hunter-biden-not-sweep-under-rug.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b55e6af3-1933-400f-abde-4a5da8f2f4db/ea9eafcd-3cfb-4178-8bb1-6994cc6cf278/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Cybersecurity Official Fired by Trump Says U.S. Election Was Secure"
     excerpt: "Christopher Krebs told a Senate panel that allegations that voting equipment was manipulated during the election are baseless, and that spreading them undermines confidence in democracy and the election outcome."
     publishedDateTime: 2020-12-17T06:11:00Z

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Ben Shapiro schools Kamala Harris about Hanukkah after VP-elect puts out 'bizarre' video message"
+    excerpt: "The history of Hanukkah cannot be reduced to fit the \"leftist social justice warrior nonsense\" of the Democratic agenda, Ben Shapiro said Wednesday."
+    publishedDateTime: 2020-12-17T23:02:00Z
+    webUrl: "https://www.foxnews.com/media/ben-shapiro-kamala-harris-hanukkah-video"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 102
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Kamala-Harris-Ben-Shapiro-REUTERS-FOX.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Kamala Harris's husband Douglas Emhoff to join Georgetown Law faculty"
     excerpt: "Douglas Emhoff, the lawyer husband of Vice President-elect Kamala Harris, won't be idle as the country's first second gentleman."
     publishedDateTime: 2020-12-10T18:31:00Z

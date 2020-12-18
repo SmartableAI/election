@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-pence-to
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 1475
+heat: 1495
 published: true
 
 provider:
@@ -478,6 +478,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_6f499440ec3444f887d6fa5c7cff157e_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Los Angeles mayor says turned down job in Biden administration"
+    excerpt: "Los Angeles Mayor Eric Garcetti said on Thursday that he turned down an offer to work in the administration of President-elect Joe Biden so he can focus on the city as coronavirus cases rise."
+    publishedDateTime: 2020-12-18T02:52:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-garcetti-idUSKBN28S071"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S071"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S071"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544978339&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH02W"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden taps Susan Rice as top domestic policy adviser amid flurry of moves"
     excerpt: "U.S. President-elect Joe Biden chose Susan Rice, who was national security adviser to former President Barack Obama, on Thursday to lead the White House's domestic policy council as part of a flurry of appointments to his developing administration."

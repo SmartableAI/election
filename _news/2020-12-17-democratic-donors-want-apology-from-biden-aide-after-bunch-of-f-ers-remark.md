@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/unity-democratic-donors-apology-bid
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/unity-democratic-donors-apology-biden-aide.amp"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden aide who called GOP 'a bunch of fu------' says she 'probably could have chosen better' words"
+    excerpt: "Top Biden aide Jen O’Malley Dillon, who was criticized for calling Republicans \"a bunch of f------\" in an interview with Glamour magazine this week, said Thursday that she “used some words that I probably could have chosen better,\" according to Politico. "
+    publishedDateTime: 2020-12-18T01:27:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mOmNhw0Ce_0/biden-aide-gop-bunch-fu-chosen-better-words"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-aide-gop-bunch-fu-chosen-better-words.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-aide-gop-bunch-fu-chosen-better-words.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd7fa6bd-da8a-4da5-9c84-14fdaa91c6b5/066eec86-f509-42da-b359-a02d2f00a7e6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden further slims Democratic House majority with USDA pick, despite worries from some top Democrats"
     excerpt: "With House Democrats down to their slimmest majority in the chamber since World War II, a former chief of staff to House Speaker Nancy Pelosi is warning President-elect Joe Biden and his team to stop grabbing congressional Democrats for his incoming administration."
     publishedDateTime: 2020-12-10T19:51:32Z

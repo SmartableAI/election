@@ -2044,13 +2044,13 @@ related:
   - title: "Mike Pence to receive COVID-19 vaccine Friday; Joe Biden will get vaccinated as soon as next week"
     excerpt: "Vice President Mike Pence will get the COVID-19 vaccine publicly Friday, while President-elect Joe Biden will get vaccinated as soon as next week."
     publishedDateTime: 2020-12-16T00:00:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3933565001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3933565001"
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/3933565001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3933565001"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 77
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/a604c818-a3fd-473c-9581-fe528141bf4a-Pence_in_Tally.jpg?auto=webp&crop=3599,2025,x0,y120&format=pjpg&width=1200"

@@ -493,6 +493,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Los Angeles mayor says turned down job in Biden administration"
+    excerpt: "Los Angeles Mayor Eric Garcetti said on Thursday that he turned down an offer to work in the administration of President-elect Joe Biden so he can focus on the city as coronavirus cases rise."
+    publishedDateTime: 2020-12-18T02:52:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-garcetti-idUSKBN28S071"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S071"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S071"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544978339&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH02W"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden taps Susan Rice as top domestic policy adviser amid flurry of moves"
     excerpt: "U.S. President-elect Joe Biden chose Susan Rice, who was national security adviser to former President Barack Obama, on Thursday to lead the White House's domestic policy council as part of a flurry of appointments to his developing administration."
     publishedDateTime: 2020-12-10T18:32:00Z
@@ -1025,6 +1041,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "v4MVzTGezYp4cbGZie+NZT9j7dTdB9bZNpLvAX7VE+mbMYgCQqs9mlsl6Bdllvoy2ppJb1M73IiJSrojrfARuXQck6Wc1MRuwnQLFIaYj0ipPmwXNNKwupmmAKZDISc3No6vmW42/ANdRZgsBv48P+4uQrfY/+YQr5mMIcBh/nporejGdKiGH0i5EvM/8heMxSPoDBXeejmxb/jeC9ZtWmIGedZzFwW7o9Po4nn6oUxmqcKxmHSqPZK8PE2Bb/OeZEMVMJEbAb13CI1TFh75ezIIyTFEuF2RT+Hg11q66lq2ycGAsFyiIw60bG0aXt7EsjwVRJLtfrM1H7f5bQmGXDhIv1pxEduLJMcrsly1XIY=;Vav7WbjEPPng8wXb0+x1mA=="
+secured: "isKjcnRPjPbFPG8kxIIdK0S8zWt6J6nGeUHMQmg5tM3nvvMVjEOPi9rs/tOFjOhHJYC3Xal1mJx1Usth6R7pLubTvAxpxrUOVCtR++9b8LFIDKNvDMHBG7MB24pt7S14T5LkN6aIv7X0KCKXLVUVub+SPx3iHNF4ylVzhlAOO494Jd5dqLno22Wge58xusgQ/E1XWyBRUYxx60GO87gFyi70S9L6gEivnGzQhML2lJzfh9ISxT59Z7ySfahnmv9Iof6VKWkmjggcYYLEOUIomm5d7X1YqhkuxNFWxrD9u7VvcbEHAoAOGk4aNCpbTllb2IGBF7tMpZxgvzTW9dCyLMX5x7q/C4BSc7AIiC9/7pqfuiAI4an6VWDJVK488vG+WwaVJDEc8KT2j7lKc8xHiIRhOad0qYyyUz+dAvhLllSMViiCTvUoniNH2W39ZM+6xCqyaKhw/wAv/Rg7f5oBlzAmph63dPKYeIxUAHvO56yOyL48VEZlIOqZa+SmH1a83qMxXY1LPEVJhakt+kfA/A==;66U1lnYyUdGAESO7J5/W4g=="
 ---
 

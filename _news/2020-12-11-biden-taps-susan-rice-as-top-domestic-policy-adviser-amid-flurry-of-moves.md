@@ -495,6 +495,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Los Angeles mayor says turned down job in Biden administration"
+    excerpt: "Los Angeles Mayor Eric Garcetti said on Thursday that he turned down an offer to work in the administration of President-elect Joe Biden so he can focus on the city as coronavirus cases rise."
+    publishedDateTime: 2020-12-18T02:52:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-garcetti-idUSKBN28S071"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S071"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S071"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544978339&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH02W"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Progressives frustrated with representation as Biden Cabinet takes shape"
     excerpt: "Some progressives are getting increasingly frustrated with the how President-elect Joe Biden’s potential Cabinet is shaping up, venting that the incoming administration does not properly reflect the r"
     publishedDateTime: 2020-12-13T15:24:00Z
