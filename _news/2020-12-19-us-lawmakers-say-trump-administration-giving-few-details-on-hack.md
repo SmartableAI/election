@@ -2,27 +2,33 @@
 category: news
 title: "U.S. lawmakers say Trump administration giving few details on hack"
 excerpt: "The Trump administration offered lawmakers few details about the recent hacking campaign against the U.S. Government, several members of Congress said on Friday following a classified briefing on the intrusion and calling for an in-person meeting."
-publishedDateTime: 2020-12-18T18:55:00Z
-originalUrl: "https://www.businessinsider.com/us-lawmakers-say-trump-administration-giving-few-details-on-hack-2020-12"
-webUrl: "https://www.businessinsider.com/us-lawmakers-say-trump-administration-giving-few-details-on-hack-2020-12"
-ampWebUrl: "https://www.businessinsider.com/us-lawmakers-say-trump-administration-giving-few-details-on-hack-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-lawmakers-say-trump-administration-giving-few-details-on-hack-2020-12?amp"
+publishedDateTime: 2020-12-18T20:57:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-cyber-breach-congress-idUSKBN28S26S"
+webUrl: "https://www.reuters.com/article/us-usa-cyber-breach-congress-idUSKBN28S26S"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S27X"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S27X"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545058612&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH18V"
+    width: 797
+    height: 545
+    isCached: true
 
 related:
   - title: "U.S. Supreme Court ends Texas lawsuit seeking to undo Trump election loss"
@@ -1162,6 +1168,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "ZfDjZKOI48clExRlwFcG1ZDMxlSU10MERjCuh6hyTvfsaWd7JTfyZvqsM2u5Qfe0TpVQr46G4awCIDKNz3r/GsnAUKaVKKCRxPhfS3mYbk1toaq+l1WSASwVaxbC3+cQPtRADrq3ZJnLdtsQOGoY3VrhtGz2CmYPpe/Rg9gA5yrVQblRU/wtzf8/VDv67gUPVjUUDUMwZeCzzJ52QmaMSJ++UGNzupds2sBDv4UJoV7wfwIL/azyomHCcQLuerB9RRcHeNGJzAOvUJPY5njJmTEnwDWnwPCKHr0hctDoVdCOw/2YEXtKAdxTkkS7PHMlNfJVIu68cZTdsLdLHVWK2jNK/+m0bMUjkeyUW9q5y0M=;+ppDF3qh4bhNgO49Vi2NLw=="
+secured: "Y9k4zy0LGrbzMUFWWxEVfJinAwfy7fgSyoBEliIOynZE2hniiTN1yQcvcQmijAaJb5YS4fjQfR8R21tmo4rNRurZALwV+OykioS7iR9eTK4C9+qmaPiKVo0qiHbsxoGw8iTkuPMh7EQZNaUvwMS9F7wZkHi+J8tRg29c+oYnj6ecf6VpSbw1zc1Xh1NfwF6lA47YDWUf3RCCRQuKcv7XA4qRJ4WXV3oWSXiseJ6lgkQC8LsfGzd/V5AI1nyAucy6DAhBXvG9vtwidJwJlC2yZxAViDaNYyuu8SnyDgKHIUs8dr8gXk2h4JKzacjClOnlMpUlmFn5mQCnvY6Jg83WZ4v/LLjEH3ggDSuntAHsx5s=;gZh4VqhZXwa6DNANMSvxlA=="
 ---
 

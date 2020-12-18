@@ -1088,6 +1088,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump explicitly rejected leading the US vaccine drive and is letting Mike Pence and congressional leaders do it instead"
+    excerpt: "Mike and Karen Pence are set to be vaccinated on live TV on Friday. President Donald Trump is conspicuously absent and isn't yet due to get a shot."
+    publishedDateTime: 2020-12-18T19:20:00Z
+    webUrl: "https://www.businessinsider.com/trump-declined-face-us-vaccine-drive-pence-instead-ap-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-declined-face-us-vaccine-drive-pence-instead-ap-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-declined-face-us-vaccine-drive-pence-instead-ap-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fdc74a9d366e60018098d51?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Time’s Person of the Year is Joe Biden and Kamala Harris, a ticket that ‘represents something historic’"
     excerpt: "Joe Biden is the latest in a long line of presidents to be named Time's Person of the Year -- but Kamala Harris is the first vice-president to also receive the title."
     publishedDateTime: 2020-12-11T04:58:00Z

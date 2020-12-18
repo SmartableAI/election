@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/putin-congratulates-biden-on-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp"
 type: article
 quality: 190
-heat: 1730
+heat: 1750
 published: true
 
 provider:
@@ -524,6 +524,22 @@ related:
     quality: 174
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d84048f7-5ae5-4394-9d7b-cecf95ee1791/47a99c53-d927-4f9c-b2ad-38eb6d18d93f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LA Mayor Eric Garcetti says he turned down Biden administration position"
+    excerpt: "LA Mayor Eric Garcetti said he turned down a position in President-elect Joe Biden's administration, instead opting to stay in his city as the COVID-19 crisis continues to worsen."
+    publishedDateTime: 2020-12-18T19:29:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N_dhxWZ9RBM/la-mayor-eric-garcetti-turned-down-biden-admin-position"
+    ampWebUrl: "https://www.foxnews.com/politics/la-mayor-eric-garcetti-turned-down-biden-admin-position.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/la-mayor-eric-garcetti-turned-down-biden-admin-position.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91241984-bb88-4d48-96e8-2feb01180b7d/a4d135b3-e019-4971-ae80-6905d383bcea/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

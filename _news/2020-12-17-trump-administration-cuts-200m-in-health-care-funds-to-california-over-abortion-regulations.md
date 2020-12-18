@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3936091001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3936091001"
 type: article
 quality: 114
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Trump administration rushes to roll out a $250 million public education effort to encourage Americans to get vaccinated"
+    excerpt: "A large-scale public education campaign, delayed by false starts and investigations, will get off the ground just as the coronavirus vaccine becomes available to high-risk Americans."
+    publishedDateTime: 2020-12-14T17:15:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
+    images:
+      - url: "https://www.chicagotribune.com/resizer/vhYxJnm77JRG0ft5QUfsg3oZUCk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VK557JGXCB74AHEZ4WDSK7AYNU.jpg"
+        width: 1200
+        height: 801
+        isCached: true
 
 secured: "RxSH9Z2MTiV0ebEwbZg/0mzBDayYDHG9QvoW+izTFkKHu7r3hYpcz9UiuVoImXOUPHfBTMKWP9LhPO7SY3ZlIw8Cwyb5rf+cRheMpxuuQ21fW/dh6BVkwdqijyD0WhO0Fx+RWI8NFVmOPuC3Hbb7HpAgsZqnvRGRk2pe/vQ9WwRnn9ZcPEgPk35KZkg68aVnJDlqA3GHGIwUXGy4xXudhBZiM/UZdbQd3YlhMJqAAGDsQ8LaKuMFFVHLyCLS8cLsuyP0nvb15sEgdnmg3zOv19eelyUEuE22H2C1P+gdp/nAxWJwGv0JoGTnz6+7ct7jjOVbRl9zfZrvbjw3ZIcJoTb5ZJk9SpH/1N7gWwYTC/k=;o7dACq5W/uPYuvHQZHjZ6w=="
 ---

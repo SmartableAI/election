@@ -543,6 +543,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LA Mayor Eric Garcetti says he turned down Biden administration position"
+    excerpt: "LA Mayor Eric Garcetti said he turned down a position in President-elect Joe Biden's administration, instead opting to stay in his city as the COVID-19 crisis continues to worsen."
+    publishedDateTime: 2020-12-18T19:29:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N_dhxWZ9RBM/la-mayor-eric-garcetti-turned-down-biden-admin-position"
+    ampWebUrl: "https://www.foxnews.com/politics/la-mayor-eric-garcetti-turned-down-biden-admin-position.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/la-mayor-eric-garcetti-turned-down-biden-admin-position.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91241984-bb88-4d48-96e8-2feb01180b7d/a4d135b3-e019-4971-ae80-6905d383bcea/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Dozens of House Democrats join 'Squad' in demanding Biden end death penalty"
     excerpt: "More than three dozen members of Congress signed onto a letter Tuesday calling for President-elect Joe Biden to halt the federal government's use of the death penalty and show he's willing \"to dismantle its use altogether.\""
     publishedDateTime: 2020-12-16T00:53:33Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
 type: article
 quality: 200
-heat: 620
+heat: 660
 published: true
 
 provider:
@@ -109,6 +109,38 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc00411e-37d4-453b-b1d8-e57fe5cc7500/16f94411-373d-4d7c-b1d2-cc050a5e12f0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden to publicly get coronavirus vaccine on Monday"
+    excerpt: "President-elect Joe Biden will publicly receive the COVID-19 vaccine on Monday."
+    publishedDateTime: 2020-12-18T19:32:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OwnYk6cJnH8/biden-publicly-coronavirus-vaccine-shot-monday"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-publicly-coronavirus-vaccine-shot-monday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-publicly-coronavirus-vaccine-shot-monday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Reporters grow frustrated as Biden team refuses questions"
+    excerpt: "The Biden transition team faced no questions from journalists about Hunter Biden in its weekly briefing Friday, and they only allowed a limited number of reporters to speak. "
+    publishedDateTime: 2020-12-18T20:24:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yRfbRihXgFY/biden-team-refuses-questions-hunter"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-team-refuses-questions-hunter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-team-refuses-questions-hunter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Joe-Hunter-Biden-2.jpg"
         width: 1280
         height: 720
         isCached: true

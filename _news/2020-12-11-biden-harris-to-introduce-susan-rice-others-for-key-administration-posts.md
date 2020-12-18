@@ -145,6 +145,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden vows to impose 'costs' for Russian aggression when he becomes president"
+    excerpt: "President-elect Joe Biden's approach to Russia is now an even tougher challenge with news that Moscow may be responsible for a massive cyber attack on US federal agencies -- one Biden said he will impose \"costs\" for.\n    \n"
+    publishedDateTime: 2020-12-18T19:49:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uOiNtkVviR8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/biden-russia-aggression-costs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/biden-russia-aggression-costs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House Democratic majority will be 3-vote margin after Biden picks Haaland for interior post"
     excerpt: "With President-elect Joe Biden choosing Rep. Deb Haaland as his nominee for interior secretary, House Speaker Nancy Pelosi will have only a three-seat vote margin for her Democratic majority heading into the 117th Congress in a Biden administration.\n    \n"
     publishedDateTime: 2020-12-17T22:40:09Z

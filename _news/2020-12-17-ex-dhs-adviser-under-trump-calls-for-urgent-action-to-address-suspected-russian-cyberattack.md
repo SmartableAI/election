@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Congressional backers cite cybersecurity provisions as they push Trump to sign defense bill"
+    excerpt: "The massive defense bill that President Donald Trump is threatening to veto contains provisions for increased cybersecurity, which has taken on significantly more importance in the wake of a massive cyberattack on federal agencies at the hands of suspected Russian hackers.\n    \n"
+    publishedDateTime: 2020-12-18T20:32:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RZrYuDIW11A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170513225821-cyberattacks-ransomware-latest-sebastian-lklv-00002816-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "CaaNIXYuJo89uSF26SWEnqhyVX2RHi7oTBZbI/nJhWDNcxgBZdIFzEIitEheOJTW70cW4g8XA5ki/+lG3GcQpHgfhTqLtKb6FDDUEWFCxIoeKqjKZFAIjwMS4v2dXfNDE4qCkfgvu+jbhmFGtT0+5rZaN0M+NxRvS01D1Qkxp6Q4Arl2v276GaFMIfRFDXosJIaWBTsu1Gy3nOo/yQ4Ps9szl8X0xSP+euY4bvIVHR2VRvi5A3K+iKLPPFQv8v4QxqAYSbAm8JYSX/wtbrk9rymfvf+bqc4jeMmEGPhHEeVoTIyErkLnvfZmlPZb+dQvs96mfKqG9ovqFn99OhGPjPhmBExHZueRoJ5RFniL8Ew=;bOTwH35FFHSscOwrYHc6PQ=="
 ---

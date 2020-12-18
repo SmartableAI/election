@@ -111,6 +111,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden to publicly get coronavirus vaccine on Monday"
+    excerpt: "President-elect Joe Biden will publicly receive the COVID-19 vaccine on Monday."
+    publishedDateTime: 2020-12-18T19:32:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OwnYk6cJnH8/biden-publicly-coronavirus-vaccine-shot-monday"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-publicly-coronavirus-vaccine-shot-monday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-publicly-coronavirus-vaccine-shot-monday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Reporters grow frustrated as Biden team refuses questions"
+    excerpt: "The Biden transition team faced no questions from journalists about Hunter Biden in its weekly briefing Friday, and they only allowed a limited number of reporters to speak. "
+    publishedDateTime: 2020-12-18T20:24:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yRfbRihXgFY/biden-team-refuses-questions-hunter"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-team-refuses-questions-hunter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-team-refuses-questions-hunter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Joe-Hunter-Biden-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden coronavirus adviser makes grim prediction after Thanksgiving holiday"
     excerpt: "A member of President-elect Joe Biden's COVID-19 advisory board on Saturday made a grim prediction about U.S. coronavirus cases in the coming weeks after millions of Americans traveled for Thanksgiving, despite warnings from public health officials."
     publishedDateTime: 2020-11-29T20:25:42Z

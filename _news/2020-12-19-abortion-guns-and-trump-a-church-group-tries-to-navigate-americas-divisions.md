@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/abortion-guns-and-trump-a-church-gr
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552"
 type: article
 quality: 131
-heat: 131
+heat: 151
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Supreme Court Dismisses Challenge to Trump Plan to Exclude Illegal Immigrants From Congressional Reapportionment"
+    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
+    publishedDateTime: 2020-12-18T20:25:00Z
+    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125?mod=breakingnews"
+    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 114
+    images:
+      - url: "https://images.wsj.net/im-251063?width=620&size=1.5"
+        width: 620
+        height: 413
+        isCached: true
 
 secured: "La8ed/c/7B15sPl6PC9KYGBWo2i1jl1N521aw56WJa2L/JKPnrCPBPtdUWls8XgW/o0SDudT8q/i93K6OOfdTDmAOyMqHZ4zsMgsVlEWHGvXd2ME0JLbHqEcO6V2Dc92k/8uhnGvlRVTucSRijw90FNar9VEFdiGgHaFLnMEmhQlZljOgU/jkvFS6lVVRUm8XCmYLXhNYe+CwDFEvpv62V1VinfC+h2qQzHCfuRnoJvn1hgW3tfe0eb1WWWdJxiOhp2M/j0del/UE0faosYF4ug1X1lXIQ6vsUhqzeiiAim4moYNlKZJ6cuxt/snOM4CXC+XYt0x21+A6SIMz8w/TSjVY7YBI2EylwfrH0veI10=;a8pEiCrH8RcEkDOvQLVceQ=="
 ---

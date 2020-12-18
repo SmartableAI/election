@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris to arrive in Georgia on Monday for Senate runoff rallies"
+    excerpt: "Vice President-elect Kamala Harris will travel to Georgia on Monday to campaign for Senate candidates Jon Ossoff and Raphael Warnock ahead of Jan. 5 runoffs for control of the U.S. Senate."
+    publishedDateTime: 2020-12-18T19:18:00Z
+    webUrl: "https://www.ajc.com/politics/politics-blog/kamala-harris-to-arrive-in-georgia-on-monday-for-senate-runoff-rallies/STS32K566ZDKHNPHYIZMKGXGJE/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 55
+    images:
+      - url: "https://www.ajc.com/resizer/pN7XRNc2199JHLPb7P7pNLsTBqc=/1200x630/d1fegwn2wjh0cs.cloudfront.net/12-18-2020/t_a9cd59dbd78c4473b391bee061563057_name_58741b9027674bd0832074b49be81e81.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "hbnOMquYDQf/hpSUpfm/rsO5gjlh8hWeXftT1468eNm6a4/HoxrCfE/w6mIhcf4K2BDsUdAAQPIcE5EUHir7KI/x8amPt1Gv0OUXewJXJz0P1tG7sdMzoYhCbNp/dCf0Mke54G8MMaYyoapdFpW9BG3zT/P5IrKmMeUbDNYUL9nQdt9HuuBQrq7IkQ7AltMg1v3djehRPVSC4RtSLkRRNLC26gZJ19kavS5GP+TpI+nB2qhj9eDbUz8c/oySmn4CmTs1rCGkDGFlG5jv7BTa2xcAxjeIF+p/NzrGIsnDZqzvy/To/psu/Geut2Y/G+uxzR2D7/LbdINpZENiYsyUmAQ4RUSqZ2TSwJoo8orrQjUclgY1s2YFhyc/hTvMLkUQlwh6XYnhVx9CMt5hVTxAEkReRK0bR0DdQAkEbt6CDZ7NXKQ/gLulQRBjnuTy8U72WnuUjoVjyr5V8hedUAPA1GoePjnBPm3nxXzkj0Y3EBL5szPz5GBN06xV2Jd0zhmvzUmB8GLE160ovxTMQi1Qpw==;zeg4/eZAd8+qIzOSb7XTRA=="
 ---

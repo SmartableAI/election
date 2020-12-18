@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-niece-defends-sasha-obama-aft
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593?amp=1"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/16/biden_77877_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Kamala Harris to arrive in Georgia on Monday for Senate runoff rallies"
+    excerpt: "Vice President-elect Kamala Harris will travel to Georgia on Monday to campaign for Senate candidates Jon Ossoff and Raphael Warnock ahead of Jan. 5 runoffs for control of the U.S. Senate."
+    publishedDateTime: 2020-12-18T19:18:00Z
+    webUrl: "https://www.ajc.com/politics/politics-blog/kamala-harris-to-arrive-in-georgia-on-monday-for-senate-runoff-rallies/STS32K566ZDKHNPHYIZMKGXGJE/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 55
+    images:
+      - url: "https://www.ajc.com/resizer/pN7XRNc2199JHLPb7P7pNLsTBqc=/1200x630/d1fegwn2wjh0cs.cloudfront.net/12-18-2020/t_a9cd59dbd78c4473b391bee061563057_name_58741b9027674bd0832074b49be81e81.jpeg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Meet the First Second Gentleman-Elect, Kamala Harris' Husband Douglas Emhoff"
     excerpt: "Kamala Harris’ husband Douglas Emhoff, is one of the most adoring political spouses ever—and he will be a first in two major ways: Emhoff is the first second gentleman-elect, as well as the first Jewish spouse to a vice president."

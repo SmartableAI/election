@@ -127,6 +127,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden to publicly get coronavirus vaccine on Monday"
+    excerpt: "President-elect Joe Biden will publicly receive the COVID-19 vaccine on Monday."
+    publishedDateTime: 2020-12-18T19:32:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OwnYk6cJnH8/biden-publicly-coronavirus-vaccine-shot-monday"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-publicly-coronavirus-vaccine-shot-monday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-publicly-coronavirus-vaccine-shot-monday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Reporters grow frustrated as Biden team refuses questions"
+    excerpt: "The Biden transition team faced no questions from journalists about Hunter Biden in its weekly briefing Friday, and they only allowed a limited number of reporters to speak. "
+    publishedDateTime: 2020-12-18T20:24:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yRfbRihXgFY/biden-team-refuses-questions-hunter"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-team-refuses-questions-hunter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-team-refuses-questions-hunter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Joe-Hunter-Biden-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden urges Americans to sit out inauguration to stop spread of coronavirus"
     excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the festivities will be heavily pared down and urged supporters not to come to the White House to prevent the spread of COVID-19. "
     publishedDateTime: 2020-12-15T22:08:56Z

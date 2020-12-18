@@ -31,37 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Trump reportedly limited US purchases of Pfizer vaccine when offered - live"
-    excerpt: "New York Times reports Trump passed on the offer in late summer and the company may not be able to provide more doses until next June"
-    publishedDateTime: 2020-12-08T00:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fcec0e68f0861e6ffe1e6e4"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+  - title: "Trump, ahead of FDA, says Moderna's COVID-19 vaccine has been approved"
+    excerpt: "U.S. President Donald Trump in a tweet on Friday said Moderna Inc's vaccine had been approved and would ship immediately, although the U.S. Food and Drug Administration has made no public announcement yet regarding its decision."
+    publishedDateTime: 2020-12-18T17:58:00Z
+    webUrl: "https://www.reuters.com/article/healthcoronavirus-moderna-trump/update-1-trump-ahead-of-fda-says-modernas-covid-19-vaccine-has-been-approved-idUSL1N2IY0Z4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S1NF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S1NF"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/730b1899663f9fe8321baaaff43b7fe1efd95b53/0_210_6016_3610/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a89c32dae22553d9c97145e7fb9681bb"
-        width: 600
-        height: 360
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545045397&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH11H"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Trump vaccine executive order raises questions after Pfizer offer declined"
-    excerpt: "The White House pushed back on reports the United States declined to buy more doses of a COVID-19 vaccine produced by Pfizer and its German partner BioNTech."
-    publishedDateTime: 2020-12-08T17:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-vaccine-executive-order-raises-questions-pfizer-offer/story?id=74604381"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-vaccine-executive-order-raises-questions-pfizer-offer/story?id=74604381"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-vaccine-executive-order-raises-questions-pfizer-offer/story?id=74604381"
+  - title: "American manufacturers pine for home as COVID disruptions, Trump tariffs shake up supplies"
+    excerpt: "President Trump's trade war was supposed to encourage American manufacturers to pack up their international operations and move home. Did it happen?"
+    publishedDateTime: 2020-12-18T05:48:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/12/18/covid-disruptions-trump-tariffs-make-u-s-manufacturers-pine-home/3851515001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3851515001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3851515001"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 123
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-gty-jt-201208_1607443175602_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/a991105e-7421-4d8a-9579-88bea40d37a1-daniel_burrows.png?auto=webp&crop=529,298,x0,y176&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "2 former CDC officials say the Trump administration 'sidelined' science and hobbled the agency's COVID-19 response"
+    excerpt: "\"Every time that the science clashed with the messaging, messaging won,\" former CDC chief of staff Kyle McGowan told The New York Times."
+    publishedDateTime: 2020-12-16T16:20:00Z
+    webUrl: "https://www.businessinsider.com/former-cdc-officials-white-house-ignored-science-hamper-coronavirus-response-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+    images:
+      - url: "https://i.insider.com/5f1409983ad86150c86aeda5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "4t2W5jMRgRkX8+7C4k6vS7eCs1CmL5f4FFfXTFtQzmmE/TVnU4pV6TQR6DK4bA+/WaNxIvPQm+PTJagv+5oSAovJtqDoga+FSy0pjFQJu9NxmWO/z8v8RP0Xb1c576I7QFRRgMZBhVS4cQDOj/zhxaMQyGTImOEMqitOAxCUSmLYms/BGh0ffW2doZxC36uHnctaDxbFSCPRzgaGMuLVKyB2NkuvfnzED+Cn7E5mY2s6oQTMR8W0ay4QTu2wPzqe6vTZT0ihpxfb6AiJJ7sQYUXw3I4kZ+PT0DLloILwaoJC9ahZyRfcBeIJsYIWjSehCP/ufihx2I0F+xzwIrCtzIrDxfxvOGAx7/viRf2MeENIKW0CsyMCRaLFYJg2QUG0LB4hTxcJfqm3dIPGDoEEBbP1kTsKOnXe0k5UzFLVV3UC7FXItvinTqkhgPIt0fGO1MHpjGhVzOZUvqwh1heHskBMYLoPP4chp9w8RBPQbBmKtOK6DJ89UO9JnxvL2gxKiak8kQV786wb7dB7ZVnlgA==;4szid5YJiVyPxJUV70wRKQ=="
