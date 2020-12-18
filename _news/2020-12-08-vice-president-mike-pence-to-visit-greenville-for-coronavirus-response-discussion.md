@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.greenvilleonline.com/amp/6484240002"
 cdnAmpWebUrl: "https://amp-greenvilleonline-com.cdn.ampproject.org/c/s/amp.greenvilleonline.com/amp/6484240002"
 type: article
 quality: 70
-heat: 130
+heat: 110
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Pence plans visit to state to discuss virus vaccines"
-    excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss novel coronavirus vaccines as federal officials are expected to"
-    publishedDateTime: 2020-12-12T05:00:00Z
-    webUrl: "https://www.journalgazette.net/news/local/indiana/20201212/pence-plans-visit-to-state-to-discuss-virus-vaccines"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 35
 
 secured: "8NBxhCuD47yQfxqaYtQWb9KVZoFTNSFYcbGEE7/xDVc02M/kAmEcnT1S5vf2pifkYX/MZTmcxijNbxpA2wPD+XeoWpNPvkHFdyEOVtRRp0sEH27fvzaqL5STo7RcdCaXRZOO3oETFrMdHTyYNw6C1fZIbs9ezhx5uWLw7S+NmVoRS2wiHrXgYbWsP9JMyZL5x3DhqARyeY9/aHpECvyaU2uI4sveVl2QrBLIaoe4ENHKtGUKAxD1p3prVJTlnG/I/xGy/uAGvT0Fp9ff6nFsppstfOuM5hy5r60zhlBYMxxeFWNMfUOtGmoIvlfS2WFZn9U8xH+1YA2IyxvoMUFGrLP80MHjp4bfDEy7AZR045KtVFZC0lq3hzkiCDpSYldpN0C6kBa1N+NAmalAGShNvy2uyfb/PAlKlLSC9SUCFiBl+xGL5LzgUFqbNvhW7k5a0vfOosMi2lKKahaFBxnyHG4zGkS6GoLuM30UhgG8lNQ0yY7Gc8NSfaPS13HDdF2N3YVvxqLVjsV4iaDDKfI2hA==;S1E2G4kfGWpChgMtG70dkA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/fauci-coronavirus-vaccin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/fauci-coronavirus-vaccine-trump-pence/index.html"
 type: article
 quality: 200
-heat: 480
+heat: 500
 published: true
 
 provider:
@@ -175,6 +175,22 @@ related:
       - url: "https://static.politico.com/82/6e/a8eebaf743268c8d3932d1d8652f/webp.net-resizeimage%20(33).jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Watch live: Mike Pence, Karen Pence publicly receive Covid vaccine"
+    excerpt: "Watch live coverage as Vice President Mike Pence receives the Pfizer Covid-19 vaccine during a public event. His wife, Karen Pence, and Surgeon General Jerome Adams will also get the vaccine at the same event."
+    publishedDateTime: 2020-12-18T11:25:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-live-mike-pence-karen-pence-publicly-receive-covid-vaccine-97976901581"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97976901581"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97976901581"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/lv_ny2_pence_vaccine_201218.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump to sign executive order to prioritize Covid-19 vaccine shipment to US"
     excerpt: "NBC's Peter Alexander discusses Trump signing an executive order aimed at prioritizing the shipment of the coronavirus vaccine to the U.S. before other nations."

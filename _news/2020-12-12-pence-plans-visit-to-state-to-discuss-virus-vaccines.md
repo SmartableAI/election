@@ -19,51 +19,99 @@ topics:
   - Mike Pence
 
 related:
-  - title: "Vice President Mike Pence to visit Greenville for coronavirus-response discussion"
-    excerpt: "Vice President Mike Pence will visit Greenville on Thursday to talk about response to COVID-19 before traveling to a campaign rally in Augusta, Georgia. According to his office, Pence is visiting Greenville to take part in a roundtable discussion highlighting the public-private partnership to combat the coronavirus,"
-    publishedDateTime: 2020-12-08T10:22:00Z
-    webUrl: "https://www.greenvilleonline.com/story/news/local/2020/12/07/vice-president-mike-pence-visit-greenville-sc-talk-covid/6484240002/"
-    ampWebUrl: "https://amp.greenvilleonline.com/amp/6484240002"
-    cdnAmpWebUrl: "https://amp-greenvilleonline-com.cdn.ampproject.org/c/s/amp.greenvilleonline.com/amp/6484240002"
+  - title: "Covid: US Vice-President Mike Pence to receive vaccine"
+    excerpt: "President Mike Pence is to receive the coronavirus vaccine live on television at later on Friday. The White House said the aim of the move was to \"promote the safety and efficacy of the vaccine and build confidence among the American people\"."
+    publishedDateTime: 2020-12-18T11:31:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55362697"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55362697"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55362697"
     type: article
     provider:
-      name: Greenville News
-      domain: greenvilleonline.com
-    quality: 70
+      name: BBC
+      domain: bbc.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2019/03/30/PGRE/26d93d2a-50d7-4a29-a0ad-83b758897d6c-SS_pence_03_30_2019_1539.JPG?auto=webp&crop=2999,1671,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 669
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/17EF3/production/_116153089_tv063637087.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Mike Pence's return to Greenville fuels speculation about a 2024 run for the White House"
-    excerpt: "There is speculation that Vice President Mike Pence's second visit to Greenville since late October may be a precursor to a 2024 presidential run."
-    publishedDateTime: 2020-12-09T21:57:00Z
-    webUrl: "https://www.greenvilleonline.com/story/news/local/2020/12/09/mike-pence-eyeing-presidential-run-he-returns-greenville-sc/3867921001/"
-    ampWebUrl: "https://amp.greenvilleonline.com/amp/3867921001"
-    cdnAmpWebUrl: "https://amp-greenvilleonline-com.cdn.ampproject.org/c/s/amp.greenvilleonline.com/amp/3867921001"
+  - title: "Mike And Karen Pence Will Get The COVID Vaccine Before Cameras This Friday"
+    excerpt: "Vice President Mike Pence is set to get the COVID-19 vaccine at the White House on Friday, officials announced Wednesday, making him the highest-ranking person in government to receive a dosage. Pence and second lady Karen Pence are expected to get the vaccine in public before media \"to promote the safety and efficacy of the vaccine and build confidence among the American people,"
+    publishedDateTime: 2020-12-17T02:49:00Z
+    webUrl: "https://www.buzzfeednews.com/article/salvadorhernandez/mike-pence-joe-biden-vaccine?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/salvadorhernandez/mike-pence-joe-biden-vaccine"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/salvadorhernandez/mike-pence-joe-biden-vaccine"
     type: article
     provider:
-      name: Greenville News
-      domain: greenvilleonline.com
-    quality: 66
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 123
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/27/PGRE/165641e0-a587-438b-80ba-566498a53205-PenceRally-MB17-10272020.jpg?auto=webp&crop=2499,1406,x0,y0&format=pjpg&width=1200"
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-12/8/21/campaign_images/f348116ee526/biden-plans-to-give-50-million-americans-covid-19-2-2341-1607463581-2_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
+  - title: "Vice President Mike Pence to receive COVID-19 vaccine at White House Friday"
+    excerpt: "Vice President Mike Pence and his wife will be vaccinated for COVID-19 at the White House to build public confidence in the vaccine."
+    publishedDateTime: 2020-12-18T11:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3948306001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3948306001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/17/USAT/a5af1613-f197-4a43-9457-c64fb9d7c38c-Pence_mask.jpg?auto=webp&crop=4673,2629,x0,y237&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Pence to visit Tennessee, talk virus vaccines"
-    excerpt: "Vice President Mike Pence is scheduled to visit Memphis on Thursday to discuss the development and distribution of the COVID-19 vaccines, according to his office."
-    publishedDateTime: 2020-12-03T15:30:00Z
-    webUrl: "https://www.timesnews.net/living/health-care/pence-to-visit-tennessee-talk-virus-vaccines/article_0001c35c-3580-11eb-ab1e-134818ed0d1f.html"
+  - title: "Monroe County Airport prepares for Vice President Mike Pence's visit"
+    excerpt: "The vice president is expected to visit Bloomington's Catalent Biologics to tour the COVID-19 vaccine production line."
+    publishedDateTime: 2020-12-14T21:27:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/12/14/monroe-county-airport-prepares-vice-president-mike-pences-visit/6547244002/"
+    ampWebUrl: "https://amp.indystar.com/amp/6547244002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6547244002"
     type: article
     provider:
-      name: Times News
-      domain: timesnews.net
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/09/PDEM/f0d58c4c-3ed1-4359-8b8a-e8399130d50c-AP20344676064841.jpg?auto=webp&crop=5537,3115,x0,y281&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence in Bloomington: Live updates"
+    excerpt: "The vice president is touring the Catalent facility that is producing and packaging Moderna's new vaccine for COVID-19."
+    publishedDateTime: 2020-12-15T19:46:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/12/15/vice-president-mike-pence-bloomington-live-updates/3908707001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3908707001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3908707001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/15/PIND/1d74e4b1-abb6-414a-92a9-d1bc88f53d57-5fd9006963563.image.jpg?auto=webp&crop=1199,675,x0,y31&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Pence likely to get the coronavirus vaccine by Friday"
+    excerpt: "Vice President Mike Pence is likely to receive the coronavirus vaccine by Friday, two sources familiar with the plans tell CNN."
+    publishedDateTime: 2020-12-15T20:14:00Z
+    webUrl: "https://www.newspressnow.com/news/national_news/election2020/pence-likely-to-get-the-coronavirus-vaccine-by-friday/article_e0e8d432-00c6-5620-9ddf-fd55d10ed27b.html"
+    type: article
+    provider:
+      name: News-Press NOW
+      domain: newspressnow.com
     quality: 55
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/3/23/323f7f7c-da0d-11ea-8e7a-6796a476e0b5/5f2f9df19a75b.image.jpg?crop=800%2C450%2C0%2C16&resize=800%2C450&order=crop%2Cresize"
-        width: 800
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/custom/image/bcf8e96c-4b35-11e5-9c03-7b4fbbdd1e31.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "K+L+VcACk7iHMMG07Zf6jpZd5TV5Ex5Lj9M1CEXgS3i+iuLvOo2Zb7kfs1QjDwHyTB9g2VOvjSNvOBlpB6YuQwXFuegSJn9eWMv32VzMRNRG3JyhwPtF25SWDfHoO3P6wpkXLaKmuAEr8LrYE7/Rh4n//eo4JwkbhOfH4NJC+9DnOOAmVXt6EYhi/0osGhvSPHTgkJCmsmoWlELCyC/jHPWojzgcqM04ikG7a3XTx+cxU+K2ofW0DZzhpYpWnMXz1aRWA0WMcUc3liWof1Ct08Kq4xjtcAugKzKTJCmi1E/Wkihn1d7Oy15pIoS7d8iOfZzi/Ue7FKL60hGxjuT8ihtODWEzktRA1N2OmAghVsM=;FCfsmO+zGlSNamUZd0N57Q=="

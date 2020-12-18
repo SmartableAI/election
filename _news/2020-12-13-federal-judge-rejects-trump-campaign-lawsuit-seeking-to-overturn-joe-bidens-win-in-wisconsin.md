@@ -452,6 +452,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "With Trump silent, reprisals for hacks may fall to Biden"
+    excerpt: "How much out of the gate do you want to do?” To be sure, it's not uncommon for administrations to refrain from leveling public accusations of blame for hacks until they've accumulated enough evidence."
+    publishedDateTime: 2020-12-18T08:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-silent-reprisals-hacks-fall-biden-74795379"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-silent-reprisals-hacks-fall-biden-74795379"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-silent-reprisals-hacks-fall-biden-74795379"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_879b882c6f2f4ccda43e44c561a03945_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to present new defense chief as Trump clings to failed effort to overturn election result – live"
     excerpt: "Trump calls to ‘overturn’ results as legal attempts to reverse Biden’s victory dwindle, while president-elect will nominate Lloyd Austin to lead US defense"
     publishedDateTime: 2020-12-09T18:13:00Z
@@ -2191,17 +2207,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "With Trump Silent, Reprisals for Hacks May Fall to Biden"
-    excerpt: "All fingers are pointing to Russia as the source of the worst-ever hack of U.S. government agencies. But President Donald Trump, long wary of blaming Moscow for cyberattacks, has so far been silent. The lack of any statement seeking to hold Russia responsible casts doubt on the likelihood of a swift response and suggests any retaliation — whether through sanctions,"
-    publishedDateTime: 2020-12-18T06:04:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-12-18/with-trump-silent-reprisals-for-hacks-may-fall-to-biden"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-12-18/with-trump-silent-reprisals-for-hacks-may-fall-to-biden?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-12-18/with-trump-silent-reprisals-for-hacks-may-fall-to-biden?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "Connecticut’s presidential electors cast 7 ballots for Democrats Joe Biden and Kamala Harris in Electoral College"
     excerpt: "Connecticut’s seven Democratic electors voted for President-elect Joe Biden during a noontime Electoral College ceremony at the state Capitol Monday, placing their individual paper ballots in a historic,"
     publishedDateTime: 2020-12-15T16:56:00Z

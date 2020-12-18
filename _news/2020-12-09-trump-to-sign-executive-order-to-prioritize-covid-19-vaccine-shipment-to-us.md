@@ -192,6 +192,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Watch live: Mike Pence, Karen Pence publicly receive Covid vaccine"
+    excerpt: "Watch live coverage as Vice President Mike Pence receives the Pfizer Covid-19 vaccine during a public event. His wife, Karen Pence, and Surgeon General Jerome Adams will also get the vaccine at the same event."
+    publishedDateTime: 2020-12-18T11:25:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-live-mike-pence-karen-pence-publicly-receive-covid-vaccine-97976901581"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97976901581"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97976901581"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/lv_ny2_pence_vaccine_201218.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump touts a false narrative — and forces allies to come along for the lie"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
     publishedDateTime: 2020-12-10T14:11:00Z

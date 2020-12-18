@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence will receive coronavirus vaccine Friday morning "
+    excerpt: "Vice President Mike Pence will receive the coronavirus vaccine Friday morning -- an on-camera event that the Trump administration says is part of federal efforts to build confidence among the public in the vaccine's safety and efficacy.\n    \n"
+    publishedDateTime: 2020-12-18T11:10:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OlGTnvrZRPc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/mike-pence-coronavirus-vaccination/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/mike-pence-coronavirus-vaccination/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208183252-pence-warp-speed-summit-1208-screengrab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden expected to get coronavirus vaccination early next week"
     excerpt: "President-elect Joe Biden is expected to get his first Covid-19 vaccination early next week, CNN has learned, and plans to get his shot in public.\n    \n"
     publishedDateTime: 2020-12-16T22:30:47Z
@@ -60,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216121804-01-biden-buttigieg-1216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump fights for a job that he's not doing as coronavirus rages"
+    excerpt: "When the history of the pandemic is written, one of the great mysteries will be what President Donald Trump was doing in the waning days of his presidency as the number of Covid-19 deaths in the US soared past 3,000 each day, the virus spread unchecked and Congress dithered over the details of an emergency"
+    publishedDateTime: 2020-12-18T10:24:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HXv32Nyc1f0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/donald-trump-absent-covid-stimulus-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/donald-trump-absent-covid-stimulus-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

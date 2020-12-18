@@ -177,6 +177,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Watch live: Mike Pence, Karen Pence publicly receive Covid vaccine"
+    excerpt: "Watch live coverage as Vice President Mike Pence receives the Pfizer Covid-19 vaccine during a public event. His wife, Karen Pence, and Surgeon General Jerome Adams will also get the vaccine at the same event."
+    publishedDateTime: 2020-12-18T11:25:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-live-mike-pence-karen-pence-publicly-receive-covid-vaccine-97976901581"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97976901581"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97976901581"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/lv_ny2_pence_vaccine_201218.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump to sign executive order to prioritize Covid-19 vaccine shipment to US"
     excerpt: "NBC's Peter Alexander discusses Trump signing an executive order aimed at prioritizing the shipment of the coronavirus vaccine to the U.S. before other nations."
     publishedDateTime: 2020-12-08T18:28:00Z

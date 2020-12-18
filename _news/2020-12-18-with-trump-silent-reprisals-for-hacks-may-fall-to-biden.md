@@ -1,28 +1,34 @@
 ---
 category: news
-title: "With Trump Silent, Reprisals for Hacks May Fall to Biden"
-excerpt: "All fingers are pointing to Russia as the source of the worst-ever hack of U.S. government agencies. But President Donald Trump, long wary of blaming Moscow for cyberattacks, has so far been silent. The lack of any statement seeking to hold Russia responsible casts doubt on the likelihood of a swift response and suggests any retaliation — whether through sanctions,"
-publishedDateTime: 2020-12-18T06:04:00Z
-originalUrl: "https://www.usnews.com/news/world/articles/2020-12-18/with-trump-silent-reprisals-for-hacks-may-fall-to-biden"
-webUrl: "https://www.usnews.com/news/world/articles/2020-12-18/with-trump-silent-reprisals-for-hacks-may-fall-to-biden"
-ampWebUrl: "https://www.usnews.com/news/world/articles/2020-12-18/with-trump-silent-reprisals-for-hacks-may-fall-to-biden?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-12-18/with-trump-silent-reprisals-for-hacks-may-fall-to-biden?context=amp"
+title: "With Trump silent, reprisals for hacks may fall to Biden"
+excerpt: "How much out of the gate do you want to do?” To be sure, it's not uncommon for administrations to refrain from leveling public accusations of blame for hacks until they've accumulated enough evidence."
+publishedDateTime: 2020-12-18T08:59:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-silent-reprisals-hacks-fall-biden-74795379"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-silent-reprisals-hacks-fall-biden-74795379"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-silent-reprisals-hacks-fall-biden-74795379"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-silent-reprisals-hacks-fall-biden-74795379"
 type: article
-quality: 70
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_879b882c6f2f4ccda43e44c561a03945_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "The Latest: Fauci says vaccinate Biden, Harris, Trump, Pence"
@@ -2356,6 +2362,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "M3Kuul3Je5KRnRx85Q01qdZtbst3N31wsXLa6tK4kvrSRu+NX5SSxR8J4jeO3IXHUWnbGCuVrfOAAYVr23jB1lIH+LvdXIa8GFNSHfjA9lKb/M42QIUUuAuZtHnqrfnl4gZG2HLUxdR9hRHNKi3NeVa0xdmHcDs/4eJLOpaYD5cjVUVFkcV9eNT8VR1KiwkkSLBqhmdB3yVlfVELxl1wHYrF2aQ1hsMC7XM34accb9V4z4Dp0WzynsfOy36i1FBPcCe5OkwWnAfjt/d4CbCvGdDgg7FDjoHr7shaxFV71RZvlF8DrHF48cCKiGzRUMLXcQAaJN2r3YB4Wv1M8M/RzGMenJOL8Q0hLciQ8ajWAWYuIpjed8c5zqTwGOQI8ExlFCgrAmi2+/Arg85sYNUgUMKXpF3G3pD0VhUUjLXJp3TZojQPPREYXXj5xMYB5+95ULMUM3jg82jUO1T1Zifq0b5+1AjVeC5jpxD/SZqkT7ZfSIqjgnzBxWfMvq7Jg6nlWvcCWbrj1E4bH2wVfL1gRQ==;tXB9Tr33vq+j+pfAMcTUGQ=="
+secured: "8R4ZX0ubzJwFuB/RL+cxc9Z8sIj9LNaC3G4yes4enmKm6dI5Az58qv9+mafSHqG1io7ieKPki3th39iZWxfYwoiQ/3kk5nBJJl1ZqqM3SdeQQvZvwGp5M7swe9Q/cXTDYWRougAsqWUs5HcYOpOP3kfmSDauTmi3AbmhTMwo+hg7/liQh+6C5T0RednA8u/SnfIMEvDsmf4Griw3iRabNYw5OKPnX4hKY1NaYwaFvF4lR8odVC/Sy3IclUCdUCACj3HJ8vsKR9/relmcn4l8YZxXkOoAxKSK10yijKyXmh+3qaKj3ULg3r33f1AZHzgmo2+afkUIfRCk+f1vwNzCGk7wgY+bhyARAb/BZqYYKH8=;nx9Y5wZya+8xa30IV6MqoA=="
 ---
 
