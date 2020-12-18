@@ -8,7 +8,7 @@ webUrl: "https://www.businessinsider.com/pence-tentative-trip-overseeing-electio
 ampWebUrl: "https://www.businessinsider.com/pence-tentative-trip-overseeing-election-confirmation-escape-trump-wrath-report-2020-12?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-tentative-trip-overseeing-election-confirmation-escape-trump-wrath-report-2020-12?amp"
 type: article
-quality: 123
+quality: 133
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Mike Pence
+  - Donald Trump
 
 images:
   - url: "https://i.insider.com/5fdc39f1c910a400192e83d0?width=1200&format=jpeg"
@@ -2059,13 +2060,13 @@ related:
   - title: "Mike Pence to receive COVID-19 vaccine Friday; Joe Biden will get vaccinated as soon as next week"
     excerpt: "Vice President Mike Pence will get the COVID-19 vaccine publicly Friday, while President-elect Joe Biden will get vaccinated as soon as next week."
     publishedDateTime: 2020-12-16T00:00:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/3933565001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3933565001"
+    webUrl: "https://www.statesman.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
+    ampWebUrl: "https://amp.statesman.com/amp/3933565001"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/3933565001"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: Austin American-Statesman
+      domain: statesman.com
     quality: 77
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/a604c818-a3fd-473c-9581-fe528141bf4a-Pence_in_Tally.jpg?auto=webp&crop=3599,2025,x0,y120&format=pjpg&width=1200"
@@ -2357,6 +2358,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "6a7t0/GpZn0ickEZh0eE5slemLfuN6mQjaJ3RmbcImcwQGqvDM9Fw3e6X6aZsIlY27/h5fADiL8ioXs6K6nofzgKwPEYnQ5Jqw2wl3wQJjG34gDfCPpf4c9o9/UGhxB3YClj+i019sQI51jN1PwRtnUgheqAkX7zkWl4iiZDtLFXBTdmiFh+Z077Goj6BBjPTeh5WTNwrdFW98f+58ad+qDvIIVcJiVx0ulxjgDoR8dDMmX5pkqbKGDsZqbgUqWoqbL2GHAoS+LZH2K5Xm/S8gBEIg0sd/XBMHyZEK8RZfiNvb+fsQSxjX23Mc7+f+qyqbUiZUvyS4mPEpKOP1QjwWJCoin5xoAeSpo27skG78g=;tT0M590MncPM+UnLoD8oLA=="
+secured: "VIq6e1QRrkpGCEDFqNhCAY9236xvUcwjxdpX1Di/RWCQ81PMWDzYhgl5OHvDcU2helpCooG3fVa7VxuTiffFFxqdcB/cIoZ+DYChTRGSis5ibjSkCxL2V8vZajxfkfPzpLPoKhW/vn4wGWtlMEjLACEwTsVDI8FKRNbp0ua7NZkpDfvNUNfWuIB31sb/mAkncwzFZl39Zi7f+pVulhzhS8pp+qJBFULEeiA+I0JV83v8HvfzvSrCJIFVPdicQ1knShLfZHWP9wqMHz9WdYwLgg5CiWsNKxW/4Nc+WSoNjQTXeRiBv/ZaIFqCsDRe4sIl5C/HZtOKaXQdsoOvyPzVZ40rot1CM9Avrrpu510ovHl2uZdKoDUk2Gv3LGX+aTL3ezUTjeUF2M1Te4mLQVsHYR0WjGK9qcpvg4l8PxDPoVZpdOR0kpd+HlAJR2thc1DY0EcojTsV0CZ+q3SBrGBzzllQGWyWl7jIkQvZC2FqxONlWL5x2wi8eYu+ytwhQl9K/dFjUzHFjwVNfvfk9BVuNw==;4lNLl6ussGEWMEh6fn1teg=="
 ---
 

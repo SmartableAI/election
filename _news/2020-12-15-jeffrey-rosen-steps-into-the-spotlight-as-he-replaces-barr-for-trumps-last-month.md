@@ -63,6 +63,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Bill Trump Is Vowing to Veto Strengthens Hacking Defenses, Lawmakers Say"
+    excerpt: "Additional powers to actively hunt down hackers across federal agencies could have given the government more of a chance to detect the recent Russia hack more quickly, they said."
+    publishedDateTime: 2020-12-18T10:05:00Z
+    webUrl: "https://www.nytimes.com/2020/12/18/us/politics/cyber-defenses-bill-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/18/us/politics/cyber-defenses-bill-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/18/us/politics/cyber-defenses-bill-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/18/us/politics/18dc-cyber/18dc-cyber-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "RLV+XzFa9CWPQD1FoHW8lPNEAE4kHDwXtFKplBFHcH4tFwVOJVNKZoPN92qUKx7kAKdgu2SUI6eUTjSJXjXe1yt1+CJRxKt21shdUl7MZttxTAUz/V/g3qbkbNz2hKBu5EniqK4Guk7ckPEnRC2mByCSopnTsi3L9Ri1gFkHSgiBlcWbwacBSeSlZNku+Y4WCW+hrLCKKzieWjFt/7bovX0xgYK3YCyQanfwANiOq5IE3E8T5nFCaDQzOYy0BXpTGwjFxE3wi8NOwDrgfGZiSy9lXcVq7DoJJDq4LUeYY/rHh4W4fgLNWPm7QarQpnBgnnIWTjrxlnFMIVwpYFtOERw8Vxg4V51GH//KEXI0/9c=;We9hslYmvjacyDXJiUXYqQ=="
 ---

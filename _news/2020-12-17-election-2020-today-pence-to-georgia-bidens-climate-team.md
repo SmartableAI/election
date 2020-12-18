@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-pence-to
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 1555
+heat: 1575
 published: true
 
 provider:
@@ -510,6 +510,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544978339&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH02W"
         width: 817
         height: 545
+        isCached: true
+  - title: "Transition stumbles test Biden's bond with Capitol Hill"
+    excerpt: "WASHINGTON -- President-elect Joe Biden brings more Capitol Hill experience than any president in decades, but his transition has stumbled in ways large and small, exposing the challenges of navigating a Congress that is a different place than when he last served in 2009."
+    publishedDateTime: 2020-12-18T10:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/transition-stumbles-test-bidens-bond-capitol-hill-74795016"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/transition-stumbles-test-bidens-bond-capitol-hill-74795016"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/transition-stumbles-test-bidens-bond-capitol-hill-74795016"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6139efaf033d42579c0c3d46bd00a5aa_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden taps Susan Rice as top domestic policy adviser amid flurry of moves"
     excerpt: "U.S. President-elect Joe Biden chose Susan Rice, who was national security adviser to former President Barack Obama, on Thursday to lead the White House's domestic policy council as part of a flurry of appointments to his developing administration."

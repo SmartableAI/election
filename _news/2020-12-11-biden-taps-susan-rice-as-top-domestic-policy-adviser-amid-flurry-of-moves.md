@@ -527,6 +527,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Transition stumbles test Biden's bond with Capitol Hill"
+    excerpt: "WASHINGTON -- President-elect Joe Biden brings more Capitol Hill experience than any president in decades, but his transition has stumbled in ways large and small, exposing the challenges of navigating a Congress that is a different place than when he last served in 2009."
+    publishedDateTime: 2020-12-18T10:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/transition-stumbles-test-bidens-bond-capitol-hill-74795016"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/transition-stumbles-test-bidens-bond-capitol-hill-74795016"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/transition-stumbles-test-bidens-bond-capitol-hill-74795016"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6139efaf033d42579c0c3d46bd00a5aa_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Progressives frustrated with representation as Biden Cabinet takes shape"
     excerpt: "Some progressives are getting increasingly frustrated with the how President-elect Joe Biden’s potential Cabinet is shaping up, venting that the incoming administration does not properly reflect the r"
     publishedDateTime: 2020-12-13T15:24:00Z

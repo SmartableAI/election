@@ -80,6 +80,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "MAGA leaders call for the troops to keep Trump in office"
+    excerpt: "A growing call to invoke the Insurrection Act shows how hard-edged MAGA ideology has become in the wake of Trump’s election loss."
+    publishedDateTime: 2020-12-18T09:33:00Z
+    webUrl: "https://www.politico.com/news/2020/12/18/trump-insurrection-act-presidency-447986"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/18/trump-insurrection-act-presidency-447986"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/trump-insurrection-act-presidency-447986"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/f7/e6/26a4ccd944a2a60ebd9034cab615/201217-maga-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "fAsZwfWrMKSGnJcSWr3QKRDi8BUR8nO6Ei431ZLAhRXEutldHFoxb/OnTvfPbh569WLx87cgEMWt6wOvyxxj2Z1OeXjGxprViV0leQRPvYCSCKiX3ZaPSP3rO+RDMQZQJZ1PS/jPPrIbGhdM+/1vlFhk2XeSd7/cW+Inq/eoe+WzHblXJBKWVaVY1F8mCcv+plrccgOuiYbARq8yIPxq8XbKKQn9xME0mizD9Ocftcgu7Lz41uMCAZhx/o1YFf7SllaEUMDTRSudCzYM8W6Dk0f3N0Ad96gH1u91BWqjuCJgPTZ+0I4H41bmstX9BF6WttNr0spQfsALkIXJic2H7p6KD0dV9b6kApKMhDhBnDZLfpNQ/HVVN/oVuZ7nwMLwFhYBIXA/ICcNDThBjwIZX+PZZFYyyZBOOMzIc9t1dKwUOgu9ncmfe/TISrzLnARaKufa6l1AKyNneu8fxbA2G9HIRH6pF43Su/F9ME3KMH3EM0YSKBYx67VWG5zfM4+YDCaQ61QdDXV7swsqxFQCBw==;FWP6B0ck3xVZWkWcO9JQ7g=="
 ---

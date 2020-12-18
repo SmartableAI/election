@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/trump-hispanic-vote/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/trump-hispanic-vote/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/26/e0/b307118d44dfb9124b1b33c25bee/1216wh.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "MAGA leaders call for the troops to keep Trump in office"
+    excerpt: "A growing call to invoke the Insurrection Act shows how hard-edged MAGA ideology has become in the wake of Trump’s election loss."
+    publishedDateTime: 2020-12-18T09:33:00Z
+    webUrl: "https://www.politico.com/news/2020/12/18/trump-insurrection-act-presidency-447986"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/18/trump-insurrection-act-presidency-447986"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/trump-insurrection-act-presidency-447986"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/f7/e6/26a4ccd944a2a60ebd9034cab615/201217-maga-getty-773.jpg"
         width: 1160
         height: 773
         isCached: true

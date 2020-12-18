@@ -63,6 +63,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "MAGA leaders call for the troops to keep Trump in office"
+    excerpt: "A growing call to invoke the Insurrection Act shows how hard-edged MAGA ideology has become in the wake of Trump’s election loss."
+    publishedDateTime: 2020-12-18T09:33:00Z
+    webUrl: "https://www.politico.com/news/2020/12/18/trump-insurrection-act-presidency-447986"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/18/trump-insurrection-act-presidency-447986"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/trump-insurrection-act-presidency-447986"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/f7/e6/26a4ccd944a2a60ebd9034cab615/201217-maga-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump vows to veto defense bill that Congress sent him"
     excerpt: "President Donald Trump said Thursday that he plans to follow through on his threat to veto the annual defense policy bill that passed with veto-proof majorities in the House and the Senate last week."
     publishedDateTime: 2020-12-17T16:39:00Z

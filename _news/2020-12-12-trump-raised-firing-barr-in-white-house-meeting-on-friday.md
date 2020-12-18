@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/william-barr-donald-trum
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/william-barr-donald-trump-white-house-meeting/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://static.politico.com/37/30/430be0e84797af6567fe75744e6a/ap20325734874531-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Bill Trump Is Vowing to Veto Strengthens Hacking Defenses, Lawmakers Say"
+    excerpt: "Additional powers to actively hunt down hackers across federal agencies could have given the government more of a chance to detect the recent Russia hack more quickly, they said."
+    publishedDateTime: 2020-12-18T10:05:00Z
+    webUrl: "https://www.nytimes.com/2020/12/18/us/politics/cyber-defenses-bill-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/18/us/politics/cyber-defenses-bill-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/18/us/politics/cyber-defenses-bill-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/18/us/politics/18dc-cyber/18dc-cyber-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "/yONq76rkEO92C7XbFHNoKI2csSWZoW0asVYWP1zVJm2sNvKnPqDkMxcC9M84B3Qx93fTYkVA7CA12LIstBHEyVFcIP+lnrA2KOf0F/6c+KJTRtUNIEm6UkIhqudwuKcYwc5SApk8K4C+DIaSUziM8nIOWyc4iec/IG23HFpu1GrRxBYy7MB3ho/8RPtZ6x7vbF+q6gKCYSPwaz0o2uijnNCwLkfdUHas/TiThW5y4iU6dR3qdUuo/2cqQDTy69V7Ud3dKkGZ6oR4VYdgKDqtnmhyFXty90Lt8aty7DIMTcfJGWjGwEopOwYCTkUoRUowI2gBX96D0g6ZhRDw119iKQPXSsg0zP5j9dGTiYQFmw=;RO8kDy8796Bz+CQA5l2L6A=="

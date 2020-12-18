@@ -527,6 +527,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Transition stumbles test Biden's bond with Capitol Hill"
+    excerpt: "WASHINGTON -- President-elect Joe Biden brings more Capitol Hill experience than any president in decades, but his transition has stumbled in ways large and small, exposing the challenges of navigating a Congress that is a different place than when he last served in 2009."
+    publishedDateTime: 2020-12-18T10:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/transition-stumbles-test-bidens-bond-capitol-hill-74795016"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/transition-stumbles-test-bidens-bond-capitol-hill-74795016"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/transition-stumbles-test-bidens-bond-capitol-hill-74795016"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6139efaf033d42579c0c3d46bd00a5aa_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden taps Susan Rice as top domestic policy adviser amid flurry of moves"
     excerpt: "U.S. President-elect Joe Biden chose Susan Rice, who was national security adviser to former President Barack Obama, on Thursday to lead the White House's domestic policy council as part of a flurry of appointments to his developing administration."
     publishedDateTime: 2020-12-10T18:32:00Z
