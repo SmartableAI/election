@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-gets-coronavirus-vaccine.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-gets-coronavirus-vaccine.amp"
 type: article
 quality: 185
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Pence Gets Covid-19 Vaccine Amid National Immunization Campaign"
+    excerpt: "Top administration officials seek to strike a balance between getting shots to bolster public confidence in the vaccine and avoiding the perception that members of the government are being given priority."
+    publishedDateTime: 2020-12-18T22:24:00Z
+    webUrl: "https://www.wsj.com/articles/pence-gets-covid-19-vaccine-amid-national-immunization-campaign-11608297468"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pence-gets-covid-19-vaccine-amid-national-immunization-campaign-11608297468"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pence-gets-covid-19-vaccine-amid-national-immunization-campaign-11608297468"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-275332/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "LIVE UPDATES: VP Pence taking questions as he and second lady get COVID vaccine"
     excerpt: "Vice President Mike Pence, his wife and U.S. Surgeon General Dr. Jerome Adams all rolled their sleeves Friday morning and received the recently approved Pfizer COVID-19 vaccine."
     publishedDateTime: 2020-12-18T13:21:00Z

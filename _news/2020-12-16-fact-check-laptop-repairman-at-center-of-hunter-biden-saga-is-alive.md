@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3905393001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3905393001"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cyber-attack is brutal reminder of the Russia problem facing Joe Biden"
+    excerpt: "Analysis: new president must find a way to contain such hyper-aggressive behaviour from Moscow"
+    publishedDateTime: 2020-12-18T19:19:00Z
+    webUrl: "https://www.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
+    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/82d7591e13d4ea38cfee97a656251541e36d2a3f/0_313_6254_3752/master/6254.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ffb77ff25ea0bc984ac90dd5576d762e"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Hunter Biden reveals he is under federal investigation for \"tax affairs\""
     excerpt: "Hunter Biden, the son of President-elect Joe Biden, says he is under investigation over his tax affairs by the U.S. Attorney's Office in Delaware in a probe that dates back to 2018. CBS News political correspondent Ed O'Keefe joins \"CBSN AM\" to discuss the latest."
     publishedDateTime: 2020-12-10T13:43:00Z

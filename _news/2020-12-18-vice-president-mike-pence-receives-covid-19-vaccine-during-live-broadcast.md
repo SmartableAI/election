@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vice President Mike Pence Receives COVID-19 Vaccine During Live Broadcast"
-excerpt: "Vice President Mike Pence and second lady Karen Pence, seen here in a TV screen grab, received Pfizer's COVID-19 vaccine at the White House on Friday, December 18, 2020, in a bid to build public confidence in its safety and efficacy."
+excerpt: "Vice President Mike Pence receives Pfizer's COVID-19 vaccine at the White House on Friday, December 18, 2020, in a bid to build public confidence in its safety and efficacy. President Donald Trump will not receive the vaccine unless the White House medical team recommends it."
 publishedDateTime: 2020-12-18T14:07:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/113d02f4017067be7d3e6860dd3c87a1/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/113d02f4017067be7d3e6860dd3c87a1/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/0686da6e424670f6cbe1009d02c673f8/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/0686da6e424670f6cbe1009d02c673f8/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
 type: article
 quality: 54
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/113d02f4017067be7d3e6860dd3c87a1/PENCE-CORONAVIRUS-VACCINE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/0686da6e424670f6cbe1009d02c673f8/PENCE-CORONAVIRUS-VACCINE.jpg"
     width: 650
-    height: 433
+    height: 432
     isCached: true
 
 related:
@@ -225,6 +225,6 @@ related:
       domain: journalgazette.net
     quality: 35
 
-secured: "1XW6sZpxwrZOsOS/z6knQ0hjwHfI0x87oU+yXusXMDN8oSHDxLfAmDa1hiaPNd44JOfJYjOkmhVvFRDo5WgAAGOa94xngyy/j3NMgcjdB5HEcbNFWvwpZzOIS2XjfPnhr9oI5AU/IGeMeS9PJClrPA+gIr+OIGhm33hG+vXF7NS+N1GbRz7R42ryX4G710WQLYG02ig9PkEhKg9qSRvYnYO+iEHRX/d2nPl1+AyH8pkZZufeqO/Yx7eqNVNK82wefyuGymFObf/swxJPhqUohuxE0yo7teUZplRp1DfKi4CCN3Bl9lVNgJUiiJmihIPyPpedlPbFbnr5/IL+ByjwJwqNJ2HG/F6YudkzgtOqllGeQLeIf0CqQVeaTQe2JTf24XEQ4LPxG9yggvS77v1bAijGnP3n1oXo+QyW03SpzQsMv173PgyV6KrRSE1+XsvQTXDHvG3k1a3968J94csPqHkq3VHUTPPWl7m+zHzsoVvGK45BOIhbCATNtaKpDkigY++7F7GiakCoUbrzKKpKog==;56NuYuzwj/z8NR1f2HLC6A=="
+secured: "6L6MQ9oARrcC+HrhU8yy4MB1ykJUYdU4CwscjKDGrfCQlV1gxqnSY+l/tzh+9P8cxvEDwchJ310EFyQ0QN30U0TF2tNwq0fCfOTVnD6BWplyuAlgqv0PcK2jrsnLyU+szdnZxMXUGtQMRDXsUBVdRt1eBDoxAJiA7jfNcTmyVselG8N7L71NI94O8yASvshBHMaaLCS8fCyRqCnWtB3MW2FYwvCt9NmU/L+5cKMzpCws+R+IDDUsebLMXn2VJ1poizmUPSrxfRvh1mOzlVh+QHJUIAFjrsmz2Jnhxmc/PVHI4YLTtxlgnVNrbYizoob3YkT+GKShEZ746ynZocN2mFrRh6pREF5orrqLdz0dbsQ=;3/YJ+kvja6yndYfdr18wwQ=="
 ---
 

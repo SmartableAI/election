@@ -80,6 +80,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Media ridiculed after Colbert broaches Hunter Biden topic before mainstream reporters"
+    excerpt: "Liberal comedian Stephen Colbert's interview with Joe and Jill Biden Thursday drew mockery for not only its obsequiousness, but that an entertainer asked the president-elect about the investigation into his son before many mainstream media reporters did."
+    publishedDateTime: 2020-12-18T21:54:00Z
+    webUrl: "https://www.foxnews.com/media/media-ridiculed-colbert-hunter-mainstream"
+    ampWebUrl: "https://www.foxnews.com/media/media-ridiculed-colbert-hunter-mainstream.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-ridiculed-colbert-hunter-mainstream.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/078f1b0b-dd95-4528-8469-4953a43cfd21/6593df76-3ee6-4ad4-8a83-44dbc5d4923c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "u+4K5qdUpj3ZxAMcXWXMkaKvmxsKbAIG+MpaMvfzf4tQmVeCMV0QSKZfxWos5d+fqjcO0MaXSd/XXK6J5QwUP5OqN9YE9dJ4JcWBrttxHKkT3p5+WHa6obZPnGt0EKrN2judvlF0jjt+eVvu/CTxJzNyPzkp+gDCiCvJu4yXXKAW9TrkKx7QgVK0fWjoUby6gAlCuy6vyfI2R+ptfWua4MYqasWlAcX5M1wTgv/l7y6737Xjk/SSdD/EnoEgWVGRv8OudUUNKXIjNYuwXqGHboPdsVMKoMOR2y37kQ64P5d5yLIQGxkKRnmv7jLrm0NxbukTg25WdNOkBmMmeDLehO5pB1yHaLTTXVQLws/OALM9U+TpiiWeNvnPhTFbzfCD7wGQij0w9Hluj12bCO1eEreDpKgFnP3GuQR5Z2/Z7+B/sAtCt8VIwDN9fmUlJvidf/exj+/gaSJjfrrnAtccd25OwQ4REOteeZNjCV7ZliDESH7uuIm8QW6dImfdvy7lc5F5257NOGtB3p04QAqLbQ==;ujnypbOUbVqRAjG+6PZ5gA=="
 ---

@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cyber-attack is brutal reminder of the Russia problem facing Joe Biden"
+    excerpt: "Analysis: new president must find a way to contain such hyper-aggressive behaviour from Moscow"
+    publishedDateTime: 2020-12-18T19:19:00Z
+    webUrl: "https://www.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
+    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/82d7591e13d4ea38cfee97a656251541e36d2a3f/0_313_6254_3752/master/6254.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ffb77ff25ea0bc984ac90dd5576d762e"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden presents new defense chief as son Hunter reveals his taxes are being investigated – as it happened"
     excerpt: "President-elect introduces Lloyd Austin to lead US defense as news that Hunter Biden’s tax affairs are under review surfaces"
     publishedDateTime: 2020-12-10T01:11:00Z

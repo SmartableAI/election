@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Mike Pence Gets Covid-19 Vaccine Amid National Immunization Campaign"
+    excerpt: "Top administration officials seek to strike a balance between getting shots to bolster public confidence in the vaccine and avoiding the perception that members of the government are being given priority."
+    publishedDateTime: 2020-12-18T22:24:00Z
+    webUrl: "https://www.wsj.com/articles/pence-gets-covid-19-vaccine-amid-national-immunization-campaign-11608297468"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pence-gets-covid-19-vaccine-amid-national-immunization-campaign-11608297468"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pence-gets-covid-19-vaccine-amid-national-immunization-campaign-11608297468"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-275332/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "VO/fq2JRwiZreXkq5yxe6lGxG22mveKEwEhLhx2cd5d9dCE6NNvXWlEBOw4Wig2cR1VRXPC8Fm0PY4AJT+jpvoFbUFctPHJHRYlNZK+aRPqRhS526TQCSkmUrDAx5T73NTHRxoQbR5Qd/XBbrhLrUwnmvUpaKU4evudRn4vqQl7IPzSZUfQL2wMZP8zdpSrShtV+GXRZkKpr/6Sh1o+d77kHFH/nbI2Q4oK/xf6j22sYTDLKSQ0outfEgFPyUD2MpMivL2I3gsGnfhYzaKZB8mtTg/lmjcr2aio/m4kZPkJaneG5ptsywP9JO5Hg/39OlhA27Kq6deUr1pcW6AvYRgTkZvlzcnQL53pxLLT9trzD7unNNQyYPjPoCoo2ru3fzmS7I8E71twsh/2G868NBuOn/Vx+mNgdljAtsgn+5VXf/okFBlD9A/1mzFChADcrxXqSNlFzacM4x69+2oWki9jNJ4ONbG9sts5ZN8TrhxTfATeVsEF3Vgg/WDGPw7q2Gyk6FIIaLe97G52V1WUKIw==;VX8CBipPaXxvg/KhMA6ltQ=="
 ---

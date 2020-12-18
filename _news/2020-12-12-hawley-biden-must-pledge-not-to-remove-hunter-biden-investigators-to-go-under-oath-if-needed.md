@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Media ridiculed after Colbert broaches Hunter Biden topic before mainstream reporters"
+    excerpt: "Liberal comedian Stephen Colbert's interview with Joe and Jill Biden Thursday drew mockery for not only its obsequiousness, but that an entertainer asked the president-elect about the investigation into his son before many mainstream media reporters did."
+    publishedDateTime: 2020-12-18T21:54:00Z
+    webUrl: "https://www.foxnews.com/media/media-ridiculed-colbert-hunter-mainstream"
+    ampWebUrl: "https://www.foxnews.com/media/media-ridiculed-colbert-hunter-mainstream.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-ridiculed-colbert-hunter-mainstream.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/078f1b0b-dd95-4528-8469-4953a43cfd21/6593df76-3ee6-4ad4-8a83-44dbc5d4923c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
     excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."
     publishedDateTime: 2020-12-13T01:28:00Z

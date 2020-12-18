@@ -63,6 +63,22 @@ related:
         width: 3000
         height: 2001
         isCached: true
+  - title: "Donald Trump's historic and chaotic presidency, by the numbers"
+    excerpt: "Looking at the numbers surrounding Trump's tenure provides important context and perspective on his accomplishments and failures."
+    publishedDateTime: 2020-12-18T21:21:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-historic-and-chaotic-presidency-by-the-numbers-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-historic-and-chaotic-presidency-by-the-numbers-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-historic-and-chaotic-presidency-by-the-numbers-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fb491aae74fa70018b83104?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump's conspiracies pose 'existential' threat to electronic voting industry -Smartmatic"
     excerpt: "Conspiracy theories alleging that voting machines were used to steal the election from President Donald Trump pose a major threat to the worldwide market for electronic voting systems, the CEO of Smartmatic,"
     publishedDateTime: 2020-12-15T03:06:00Z

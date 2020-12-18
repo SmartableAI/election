@@ -842,6 +842,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Every single executive order and action Trump has signed in his 4 years as president"
+    excerpt: "President Donald Trump took a drastically different approach to executive orders, signing more than in four years than many presidents did in eight."
+    publishedDateTime: 2020-12-18T22:47:00Z
+    webUrl: "https://www.businessinsider.com/all-of-trumps-executive-actions-orders-memos-proclamations-interactive-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/all-of-trumps-executive-actions-orders-memos-proclamations-interactive-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/all-of-trumps-executive-actions-orders-memos-proclamations-interactive-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5fdcc370c910a400192e8482?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Fact check: Statistical analysis supporting pro-Trump Supreme Court case is 'ludicrous'"
     excerpt: "The purported statistical analysis wrongly assumes votes in the November election were randomly distributed across each state."
     publishedDateTime: 2020-12-10T21:48:00Z
@@ -1054,6 +1070,34 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Irritated by loss, Trump avoids talk of future"
+    excerpt: "Top News Irritated by loss, Trump avoids talk of future. Posted [NFA] Hunkered down in what one former White House official called the “presidential man cave” of the Oval Offi"
+    publishedDateTime: 2020-12-18T21:14:00Z
+    webUrl: "https://www.reuters.com/video/watch/irritated-by-loss-trump-avoids-talk-of-f-id723222001"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201218&i=OVD9JHNMN&r=OVD9JHNMN&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "SCOTUS tosses challenge to Trump census plan"
+    excerpt: "Top News SCOTUS tosses challenge to Trump census plan. Posted . The U.S. Supreme Court on Friday threw out a lawsuit seeking to block President Donald Trump's plan to exclude immi"
+    publishedDateTime: 2020-12-18T19:33:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD9JHLYJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201218&i=OVD9JHLYJ&r=OVD9JHLYJ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Spotted owls could go extinct without more federal protection. But they’re not going to get it, Trump officials say."
     excerpt: "The northern spotted owl has lost 70 percent of its habitat to development and timber harvesting and could go extinct without added federal protection, the Trump administration announced Monday. But the owls won’t get it."
     publishedDateTime: 2020-12-15T06:18:00Z
@@ -1168,6 +1212,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "d+8EpA0HbP6Iku0Jq7ixg0O8vw+BZ3ZR5TwucHHBCiB1yYwg4zV/ELxw97pXtn8Qs+w47XjH6tKBXA37JgVkMg1s66kMsTFGy+G4HDZ1ARwe8Ha0cjJ5/H3Ieq5cWpBDavv+HuSkbxQQNPI+wKQTiwIMHlqaCG91GI06TB9f/Ixfb1FfpNFfyhvneJJyXnhX6CTyvLeNR2TdR8QCsc8U3e47UJeHejQaVFAX7mZgomAk94PfcahvX5tZa178xRNlsje0+/rc1hne9zmy6ha70i+i6fiBgVhN0v1sUGghBTROAEhb0QWcwGV3qCVqO4xvHIvTeJoSnU0jZQ4EVh04TdY0zOea4Wvaq4Hnu10VVak=;68Ldg5Djpfkv4lQ2IF7ZlQ=="
+secured: "IoktSL+VqVgRk/a36tsiJwW1lJ2onYEdE2W+diBpMxJ7XDTJqad/vdyscu8JqD4M9r8iNse0eBNb2aVuuR/QSZSPY86OHHOzDdL91td+MDeLeo6vfPSzW2QrC28buOkmNRzDTmObACG3TGYQkZrIBGyHsXf60w2Pfykh+XGaNmEsNQ17F7lBWGKco7tMUOR53ra5X6GaU8DJYpMoKdPPfIOy9htaz8iAnQPJ6k3OWoDKvBErAkXs08Ohsts1mfCOUQQZaqcJJ96+bK+XY1OhydVTCAfgpNpJXDe0dWNH/yRvbASS2RUmkmL6YN0EGnX+msC+BMth7pWjWKkppxPq9b6/d3mM6KRTjz9A69eDXOavkW9nG9LFi9SL3+3ce5T/iIrUuv5rLKL4oh9aKoEoUFcIdfT8eXVKITb3lMyWUMJkEl8pZFjwjJpADXXbPWekJysvgwhyu84zPPPLHzFJbTI3OrF0dUnRBEY653kf/OmnXH90Baw9iGinjGsszxOl+neGCoao9msuS6IbXAvLKg==;2ptKvtmwFb9e7IYTXWxEvg=="
 ---
 

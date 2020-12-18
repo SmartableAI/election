@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L2YY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L2YY"
 type: article
 quality: 139
-heat: 1619
+heat: 1679
 published: true
 
 provider:
@@ -842,6 +842,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Every single executive order and action Trump has signed in his 4 years as president"
+    excerpt: "President Donald Trump took a drastically different approach to executive orders, signing more than in four years than many presidents did in eight."
+    publishedDateTime: 2020-12-18T22:47:00Z
+    webUrl: "https://www.businessinsider.com/all-of-trumps-executive-actions-orders-memos-proclamations-interactive-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/all-of-trumps-executive-actions-orders-memos-proclamations-interactive-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/all-of-trumps-executive-actions-orders-memos-proclamations-interactive-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5fdcc370c910a400192e8482?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Fact check: Statistical analysis supporting pro-Trump Supreme Court case is 'ludicrous'"
     excerpt: "The purported statistical analysis wrongly assumes votes in the November election were randomly distributed across each state."
     publishedDateTime: 2020-12-10T21:48:00Z
@@ -1053,6 +1069,34 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_03219caa44f644e183f9c1f4832986f0_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Irritated by loss, Trump avoids talk of future"
+    excerpt: "Top News Irritated by loss, Trump avoids talk of future. Posted [NFA] Hunkered down in what one former White House official called the “presidential man cave” of the Oval Offi"
+    publishedDateTime: 2020-12-18T21:14:00Z
+    webUrl: "https://www.reuters.com/video/watch/irritated-by-loss-trump-avoids-talk-of-f-id723222001"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201218&i=OVD9JHNMN&r=OVD9JHNMN&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "SCOTUS tosses challenge to Trump census plan"
+    excerpt: "Top News SCOTUS tosses challenge to Trump census plan. Posted . The U.S. Supreme Court on Friday threw out a lawsuit seeking to block President Donald Trump's plan to exclude immi"
+    publishedDateTime: 2020-12-18T19:33:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD9JHLYJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201218&i=OVD9JHLYJ&r=OVD9JHLYJ&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Spotted owls could go extinct without more federal protection. But they’re not going to get it, Trump officials say."
     excerpt: "The northern spotted owl has lost 70 percent of its habitat to development and timber harvesting and could go extinct without added federal protection, the Trump administration announced Monday. But the owls won’t get it."

@@ -37,6 +37,22 @@ related:
         width: 2500
         height: 1406
         isCached: true
+  - title: "Kamala Harris to campaign in Georgia next week"
+    excerpt: "Vice President-elect Kamala Harris will be traveling to Georgia Monday to campaign with Democratic Senate candidates Jon Ossoff and Reverend Raphael Warnock. Both men are engaged in highly competitive and high-profile runoff races that will decide which party controls the U."
+    publishedDateTime: 2020-12-18T17:57:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-georgia-senate-runoff/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-georgia-senate-runoff/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-georgia-senate-runoff/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/17/5e18729d-7069-40ea-9bf1-1597ddfc9cf7/thumbnail/1200x630/80a7cccaf3029fd99ea448c02d502fcd/gettyimages-1230034648.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris' Husband, Doug Emhoff, To Teach Law At Georgetown"
     excerpt: "Emhoff, who resigned from DLA Piper, where he was a partner, will serve as a distinguished visitor from practice and teach a course in the spring semester on entertainment law disputes."
     publishedDateTime: 2020-12-10T18:41:00Z

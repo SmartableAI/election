@@ -551,6 +551,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Mr. Biden should fix broken immigration policies"
+    excerpt: "President-elect Joe Biden must address the rise in xenophobia among the general public as a result of Mr. Trump’s repeated claims about refugees, Deferred Action for Childhood Arrivals recipients, international students (including me) and immigrants."
+    publishedDateTime: 2020-12-18T21:44:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-should-fix-broken-immigration-policies/2020/12/18/def5a53c-4080-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-should-fix-broken-immigration-policies/2020/12/18/def5a53c-4080-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-should-fix-broken-immigration-policies/2020/12/18/def5a53c-4080-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T3P6BECAUYI6XFCT7Q3LUBIXQE.jpg&w=1440"
+        width: 1440
+        height: 772
+        isCached: true
   - title: "Biden taps Susan Rice as top domestic policy adviser amid flurry of moves"
     excerpt: "U.S. President-elect Joe Biden chose Susan Rice, who was national security adviser to former President Barack Obama, on Thursday to lead the White House's domestic policy council as part of a flurry of appointments to his developing administration."
     publishedDateTime: 2020-12-10T18:32:00Z
@@ -614,6 +630,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544944128&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG1RK"
         width: 800
         height: 545
+        isCached: true
+  - title: "President-elect Joe Biden to receive first dose of Pfizer vaccine Monday"
+    excerpt: "Biden’s incoming White House press secretary told reporters Friday the president-elect and the incoming first lady will be vaccinated in Delaware. The announcement Friday came after Vice President Pence was given the shot during a televised appearance along with second lady Karen Pence and Surgeon General Jerome Adams."
+    publishedDateTime: 2020-12-18T22:22:00Z
+    webUrl: "https://thehill.com/changing-america/well-being/prevention-cures/530918-president-elect-joe-biden-to-receive-first-dose"
+    ampWebUrl: "https://thehill.com/changing-america/well-being/prevention-cures/530918-president-elect-joe-biden-to-receive-first-dose?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/prevention-cures/530918-president-elect-joe-biden-to-receive-first-dose?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_bidenpicks_112320getty_0.jpg"
+        width: 1440
+        height: 880
         isCached: true
   - title: "Justice department plans to execute five inmates before Biden's inauguration"
     excerpt: "Brandon Bernard, who was convicted at 18, to die on Thursday in Trump administration decision that breaks with precedent"

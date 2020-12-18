@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2GO"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GO"
 type: article
 quality: 124
-heat: 184
+heat: 164
 published: true
 
 provider:
@@ -59,17 +59,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden vows to punish those behind hack against U.S. government"
-    excerpt: "Elect Joe Biden said Thursday that a recently uncovered far-reaching cybersecurity breach against the U.S. government was a matter of \"great concern\" and vowed swift action in response once he takes office next month."
-    publishedDateTime: 2020-12-18T01:40:00Z
-    webUrl: "https://www.businessinsider.com/biden-vows-to-punish-those-behind-hack-against-us-government-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-vows-to-punish-those-behind-hack-against-us-government-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-vows-to-punish-those-behind-hack-against-us-government-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
 
 secured: "2+kYYGOixsNcCYA4sSj7/vc6619XQw2hS6fVE/ncBjjlDXqKjvcjle+c4ummuL1ZQKiMUnS1jLJgNRS5hVZbOmzaQGCe5cA7FFqmtFFe/p8OkaIUAlqP9PxGBodMVTiqQlya5TK/e424lNhVOa68iroPtojJzgpQhuqFXfeNstiJuP5EROZtWBTvGcPA4bdfDVPo5LmyzWN1+/P+NmmNf5MvDigd902/yx+8aK2oOVOJW9izxgl6XJKfQzTOhVEIl2E1ZvHej14Bkvenw6NV9v7/9mixCEEA47yMRDDmF7M3agd9Z0wptFPrdvptsOJc6kVGibXIDlVbs9uYzU1ioqT+EmIwVzABgjfb/WSK+YQDVL80XFhLSkh3rcarV4JsZRcHg/l/GqF8/fw30wN5oeA2C/pIUmIlYMQqH3D9lbKg9vZ+QvFrxJLxTuUlcapQH2JJ5igFeNLNh1Ruvy+5oa3Ac50K9F8gtekihoGDnmDkpu7AeUliNCQQZwx2P6W6cg2LxId7P3yJnxCAiEMkzA==;ow1JEGa5cgm7B7At9a7qSQ=="
 ---

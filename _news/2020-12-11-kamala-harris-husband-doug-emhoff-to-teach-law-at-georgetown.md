@@ -45,6 +45,22 @@ related:
         width: 2500
         height: 1406
         isCached: true
+  - title: "Kamala Harris to campaign in Georgia next week"
+    excerpt: "Vice President-elect Kamala Harris will be traveling to Georgia Monday to campaign with Democratic Senate candidates Jon Ossoff and Reverend Raphael Warnock. Both men are engaged in highly competitive and high-profile runoff races that will decide which party controls the U."
+    publishedDateTime: 2020-12-18T17:57:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-georgia-senate-runoff/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-georgia-senate-runoff/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-georgia-senate-runoff/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/17/5e18729d-7069-40ea-9bf1-1597ddfc9cf7/thumbnail/1200x630/80a7cccaf3029fd99ea448c02d502fcd/gettyimages-1230034648.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris to campaign in Georgia for Democrats in Senate runoffs"
     excerpt: "Vice President-elect Kamala D. Harris is scheduled to travel to Georgia next week to put her stamp on the two Senate runoff races that will decide how much wiggle room the Biden administration has with Congress."
     publishedDateTime: 2020-12-18T16:12:00Z
