@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Major Architects Group Will Stop Designing Death Chambers Amid Trump's Record-Breaking Executions"
-excerpt: "Convicted murderer Alfred Bourgeois was put to death on Friday, becoming the second man to be executed in two days."
-publishedDateTime: 2020-12-12T10:21:00Z
-originalUrl: "https://www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310"
-webUrl: "https://www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310"
-ampWebUrl: "https://www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310?amp=1"
+title: "Trump signs bill that could kick Chinese companies off US stock exchanges unless they agree to American accounting standards"
+excerpt: "The Holding Foreign Companies Accountable Act gives Trump another tool to threaten Beijing with before leaving office in January."
+publishedDateTime: 2020-12-18T23:37:00Z
+originalUrl: "https://www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12"
+webUrl: "https://www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12"
+ampWebUrl: "https://www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12?amp"
 type: article
-quality: 112
+quality: 98
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1685394/lethal-injection-facility-san-quentin-california.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://i.insider.com/5f9c87d76f5b310011724a21?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -111,6 +111,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Major Architects Group Will Stop Designing Death Chambers Amid Trump's Record-Breaking Executions"
+    excerpt: "Convicted murderer Alfred Bourgeois was put to death on Friday, becoming the second man to be executed in two days."
+    publishedDateTime: 2020-12-12T10:21:00Z
+    webUrl: "https://www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310"
+    ampWebUrl: "https://www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 112
+    images:
+      - url: "https://d.newsweek.com/en/full/1685394/lethal-injection-facility-san-quentin-california.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump attacks Republicans while attending Army-Navy football game"
     excerpt: "Navy football game this Saturday, President Trump tweeted attacks against fellow Republicans and allies who urge the President to accept the election results. Chip Reid has more."
     publishedDateTime: 2020-12-13T00:10:00Z
@@ -125,23 +141,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump signs bill that could kick Chinese companies off US stock exchanges unless they agree to American accounting standards"
-    excerpt: "The Holding Foreign Companies Accountable Act gives Trump another tool to threaten Beijing with before leaving office in January."
-    publishedDateTime: 2020-12-18T23:37:00Z
-    webUrl: "https://www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
-    images:
-      - url: "https://i.insider.com/5f9c87d76f5b310011724a21?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
-secured: "NEll5mNOUjWG6BAza6FdzTZnDqd2kgYHA7WoHarmZ5stM1kDFXI8iRAEHP2tvErVEj78nn6kwsbb2Rp20ddua0SsN05vma8abqRifzxGc+bvde0vziSftV89Vx/Qsw3+M1bhH0Fzu8xYIk15xZZG4DPa0CK3df30R/vSQGTmxoA+PEQ5gqvY43omOaQrepvEUzMWViuFfzF4Rqo+ifEyBpNYrEEzKXKSF8AcJK+7jJlAW1cDVSfvSWy3S1DEIX/r2iqIp2XDEmkUkG0n8UparjR/vpyAv85D+d8nLwmE8mLQJb/H49Rv+tOHPwKHVdCi7f5oBQACBA/7KANc3dgOoBCmxjm4L8Ff6JDk2ES8VTk=;z7EGzYHkixS7R7OFgKYL2A=="
+secured: "VqMPlg9dl/du/dMaZ2Aw/K9sK73rAkNhAK76cKaKaRvLiT0PEdONU5+WE3d6GtbkzKcENs5/0mB6JWZZt8BrKjH1TUBUZ3EAyFcJf0IdmVzM4PeEoNpd283qZeK62JCdpRFFForvVOyHm1XNLDZX3aIdV077F4qbMsWs2ghfAiV5Pjl916QRVPGXlTxbZkgO0XEWJAdQMQlLHWp/mAQos3m/bZp7se44AcFp+HtjuYhHqY9o1ojiihh0XdXhUxalQy+MVWxDJ7FvOmiA1ELDM9pXszpa8JJkEhtpE+vqpOCyysVCmQjZhYvlcZbt9yWksPqKQjaVbiMO10T5GpuZpFCzySlYv/5yXx4HUIUjUx8=;q7abKs7W0F4EvXCjoB9IUQ=="
 ---
 

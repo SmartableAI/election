@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-lon
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done?_amp=true"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/13/7cbaa70c-b218-411b-8363-bc3da5691388/thumbnail/1200x630/2e13b0afd7921afd4ad282cebebdc306/cbsn-fusion-trump-attacks-republicans-while-attending-army-navy-football-game-thumbnail-607720-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump signs bill that could kick Chinese companies off US stock exchanges unless they agree to American accounting standards"
+    excerpt: "The Holding Foreign Companies Accountable Act gives Trump another tool to threaten Beijing with before leaving office in January."
+    publishedDateTime: 2020-12-18T23:37:00Z
+    webUrl: "https://www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5f9c87d76f5b310011724a21?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "oLIpVdEcBnD3wdpB8j6re4/Lux09BWglxGl8C9+Qw3xTu6FbzkHeyR9criQ/MU8v9DEPTBtZuZU9V1dP5+X5Pi/nLjwF4TVmLshgqKqgjw/qUurruD4HgCVNyTUuC7/XOFjPVdDXyFCAxtz9CPTUyk3KbJ0mxdlnf2Id/kyi3Rp5CDmeEG/gfawVSV1clQO0haBsKyGT3/yQ6cRiU2nuegAxlrb/p317ji9BGbisYYZOIP8ylpQQwJ0NpCxxKiw74M2ibEWUCfJyOOv6DxBByK0GJn6C44BvEKkjvJxqGJyTr6zWPR3J/ca/SUaMT1tcMdCuunX7bocZryjSJ7RZW+RnFvv18hJX2iP5fhwvVWU=;s2o4sQj1Qh4bWHh2xqUPYw=="

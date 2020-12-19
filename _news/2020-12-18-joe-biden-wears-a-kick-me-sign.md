@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/12/17/joe-biden-wear
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964"
 type: article
 quality: 135
-heat: 135
+heat: 136
 published: true
 
 provider:

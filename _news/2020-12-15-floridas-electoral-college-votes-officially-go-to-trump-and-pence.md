@@ -276,6 +276,17 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "Trump signs stopgap government funding bill to avoid midnight shutdown - White House"
+    excerpt: "U.S. President Donald Trump on Friday signed into law a two-day stopgap extension of existing federal funds to avoid a midnight government shutdown, the White House said in a statement. (Reporting by"
+    publishedDateTime: 2020-12-19T08:28:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump/trump-signs-stopgap-government-funding-bill-to-avoid-midnight-shutdown-white-house-idUSL1N2IZ03O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IZ03O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IZ03O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
   - title: "Hacker Reveals Trump's Twitter Password And It's A Very Easy, Obvious One"
     excerpt: "The cybersecurity researcher said it only took him five attempts to successfully log into President Donald Trump's Twitter account."
     publishedDateTime: 2020-12-17T03:37:00Z

@@ -364,18 +364,18 @@ related:
       domain: napavalleyregister.com
     quality: 55
   - title: "Vice President Mike Pence Receives COVID-19 Vaccine During Live Broadcast"
-    excerpt: "Vice President Mike Pence receives Pfizer's COVID-19 vaccine at the White House on Friday, December 18, 2020, in a bid to build public confidence in its safety and efficacy. President Donald Trump will not receive the vaccine unless the White House medical team recommends it."
+    excerpt: "Vice President Mike Pence and second lady Karen Pence, seen here in a TV screen grab, received Pfizer's COVID-19 vaccine at the White House on Friday, December 18, 2020, in a bid to build public confidence in its safety and efficacy."
     publishedDateTime: 2020-12-18T14:07:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/0686da6e424670f6cbe1009d02c673f8/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/113d02f4017067be7d3e6860dd3c87a1/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 54
     images:
-      - url: "https://cdnph.upi.com/pv/upi/0686da6e424670f6cbe1009d02c673f8/PENCE-CORONAVIRUS-VACCINE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/113d02f4017067be7d3e6860dd3c87a1/PENCE-CORONAVIRUS-VACCINE.jpg"
         width: 650
-        height: 432
+        height: 433
         isCached: true
 
 secured: "vGfCqzf0mhETeUdmrFulhWpyxp3rZ6gG7Mrp1fIjr/65s2WpOS9BMGdB8OzKyv/NefejhWG+BqZmkDprR9PkT8xnbjYdjJwLDU05wRPVFlRs5myrHsuxECr3lrraVFMXaGX4vDThfJ0uwr3c9CCruC5r37twB8Np0yg5VaJPmL6qc5edgvLoBgonuKPD+PFuU2tGLHlvxxgwfiwH8n1AgEVnQQmOm46ckDF+vvxiEMgQDcfH+P1oLp6iPuYMPYabFtdzGg1eTkXeloC0go2yXzxLOQ+Af7QNZNED8wYSuFkfPg56J7Nfw2QD7e3IKPvXG5H3TO9ufZ376W7wXfk7rDOsln3KW32G+NLU/Z+28t3Oa2Ve09CWfm/KFoZBlJtwzRYh/VuxVejdYn7le7ec34K9PAFTCrKxdlTifEN/fA8E/uBAvN2BGwKLd7pv2ihFI7e/9Vok3alP52kSr7EQnV4UCEAr3CsI4XygD1lV6yGrDHMeFnxT6nFIH3UButW0vZpCr0BG6c36/EgQQt3/7A==;I2bGrdNaZSnT4MyuPXx1gg=="

@@ -125,6 +125,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump signs bill that could kick Chinese companies off US stock exchanges unless they agree to American accounting standards"
+    excerpt: "The Holding Foreign Companies Accountable Act gives Trump another tool to threaten Beijing with before leaving office in January."
+    publishedDateTime: 2020-12-18T23:37:00Z
+    webUrl: "https://www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5f9c87d76f5b310011724a21?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "yUDsTx3YU/vPr9YE+0bc0szVIEJCHOH0yZq8OoqB1EbZ+TdOuklav5pL/XqDxsXT96xRW+9x3xXTkG9BhJE540lI1f2ROTYkwlo6GVV5quSh+JzUBQZw+KRim8jsGRM2vgL4veZyQXnMg27WCBJImfLorYBkK08U8l9B47wiBr0WgLJDD8FytbhLme057r4J/nHCy46PzfhR8Jnm0kNrKb6NE2YH+Yail7DXtWlnn4s9Sdpv0cpUMZgw7mVhQ4JtUHk+z0gDTYJIkaE+jxCEWtD7it8C7sQH8UDzWLRlFKsu203RQ/i2TG8iOBFyeiqD/MG4xpmUwQB01PUzufY6xCD5Ay+2QCGPYbCLunxuYMbiq4Qinx57hV0Qq8t0UsPIrvyvsdFX+i+owKKoMpNq/TwqWWbejzlwaP14kvabzemLoSUI1fyK441ynhKWToAvGgtE5gONtVMBvw49/LywAB/5rKpIeaOPSxfgzLCPQRdvVqePQh1TpcmezH0phRzEyfjJvpq/L3hJs2kYAu/7Uw==;mCV4lgfAwhUY36rPH2ozKA=="
 ---

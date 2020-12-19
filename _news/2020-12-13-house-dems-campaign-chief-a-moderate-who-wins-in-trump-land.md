@@ -263,6 +263,17 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "Trump signs stopgap government funding bill to avoid midnight shutdown - White House"
+    excerpt: "U.S. President Donald Trump on Friday signed into law a two-day stopgap extension of existing federal funds to avoid a midnight government shutdown, the White House said in a statement. (Reporting by"
+    publishedDateTime: 2020-12-19T08:28:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump/trump-signs-stopgap-government-funding-bill-to-avoid-midnight-shutdown-white-house-idUSL1N2IZ03O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IZ03O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IZ03O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
   - title: "Florida’s Electoral College votes officially go to Trump and Pence"
     excerpt: "Florida’s 29 Electoral College votes officially were cast for President Donald Trump and Vice President Mike Pence on Monday during a brief ceremony in the Senate chambers of the Capitol."
     publishedDateTime: 2020-12-15T01:33:00Z
