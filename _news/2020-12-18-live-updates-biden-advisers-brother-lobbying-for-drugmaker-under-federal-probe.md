@@ -316,6 +316,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Huckabee: Joe Biden 'luckiest man' as media fails to press him on Hunter Biden probe"
+    excerpt: "Mike Huckabee slammed the mainstream media for only lobbing \"softball\" questions at President-elect Joe Biden while Hunter Biden is under federal investigation for overseas business dealings."
+    publishedDateTime: 2020-12-18T17:06:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-joe-hunter-media-business-dealings-colbert-mike-huckabee"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-joe-hunter-media-business-dealings-colbert-mike-huckabee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-media-business-dealings-colbert-mike-huckabee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/078f1b0b-dd95-4528-8469-4953a43cfd21/6593df76-3ee6-4ad4-8a83-44dbc5d4923c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hunter Biden 'tax affairs' under federal probe; links to China funds emerge, sources say"
     excerpt: "Hunter Biden confirms grand jury investigation; links to China funds emerge, sources tell Fox News President-elect Joe Biden’s son Hunter Biden confirmed Wednesday that his \"tax affairs\" are under investigation by the U."
     publishedDateTime: 2020-12-10T11:57:00Z

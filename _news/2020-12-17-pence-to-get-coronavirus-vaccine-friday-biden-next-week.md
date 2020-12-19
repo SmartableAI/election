@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
 type: article
 quality: 200
-heat: 660
+heat: 680
 published: true
 
 provider:
@@ -237,6 +237,22 @@ related:
     quality: 165
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df8f4632-4ac8-4f68-8edb-476828874608/ce0c337a-b8c1-4f66-896a-2d2458e61119/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump signs 2-day stopgap bill allowing Congress more time to negotiate coronavirus relief"
+    excerpt: "Congress looked to avert a government shutdown for the second time in a week by passing a two-day stopgap funding bill to allow lawmakers more time to agree on a COVID relief bill."
+    publishedDateTime: 2020-12-19T02:56:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UPqr4YkA0xM/congress-averts-government-shutdown-stopgap-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/congress-averts-government-shutdown-stopgap-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-averts-government-shutdown-stopgap-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c3db3fd-7d8d-4dd8-806d-31a44f628bdf/a5461994-6b1e-4bea-9685-f5fdc5122b96/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

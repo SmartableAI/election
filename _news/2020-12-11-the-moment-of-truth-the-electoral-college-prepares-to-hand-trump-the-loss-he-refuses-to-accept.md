@@ -752,9 +752,9 @@ related:
   - title: "U.S. Senate OKs stopgap funding bill to avoid gov't shutdown, sends to Trump"
     excerpt: "The U.S. Senate approved on Friday a temporary funding bill to keep the government open through Dec. 20, sending the measure to President Donald Trump for signing into law."
     publishedDateTime: 2020-12-19T00:36:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-congress-funding-senate-idUKKBN28T005"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28T005"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28T005"
+    webUrl: "https://www.reuters.com/article/us-usa-congress-funding-senate-idUSKBN28T005"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28T005"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T005"
     type: article
     provider:
       name: Reuters
@@ -1030,6 +1030,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "With punt, Supreme Court largely ends Trump census plan to exclude immigrants lacking documentation"
+    excerpt: "The census ruling could leave the issue to Biden. Not counting people in the U.S. illegally would hurt California, costing it power and federal funds."
+    publishedDateTime: 2020-12-18T23:56:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-18/supreme-court-trumps-plan-to-exclude-undocumented-immigrants-from-census"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-18/supreme-court-trumps-plan-to-exclude-undocumented-immigrants-from-census?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-18/supreme-court-trumps-plan-to-exclude-undocumented-immigrants-from-census?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 111
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/72d0e40/2147483647/strip/true/crop/3202x2091+221+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2F3e%2F35667abb4e6df2caaf6d4482eb07%2F2b96aba14e2f46d8a6b672916ae376fc"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Trump's former national security advisor says the president should impose martial law to force new elections in battleground states"
     excerpt: "Flynn's remarks are not based in reality because Trump does not have the power to change the date of an election and the results have been certified."
     publishedDateTime: 2020-12-18T15:24:00Z
@@ -1176,6 +1192,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Supreme Court won’t decide yet if Trump can exclude undocumented immigrants when allocating congressional seats"
+    excerpt: "The justices said in an unsigned opinion they are not deciding the merits in a case “riddled with contingencies and speculation.”"
+    publishedDateTime: 2020-12-18T18:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-census-undocumented-immigrants/2020/12/18/45223a82-413f-11eb-9453-fc36ba051781_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-census-undocumented-immigrants/2020/12/18/45223a82-413f-11eb-9453-fc36ba051781_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/supreme-court-census-undocumented-immigrants/2020/12/18/45223a82-413f-11eb-9453-fc36ba051781_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost%252Es3%252Eamazonaws%252Ecom%2Fpublic%2FJ4TLXLSBJQI6XDNYHFO63KVAGY%252Ejpg&w=1440"
+        width: 1440
+        height: 917
+        isCached: true
   - title: "Spotted owls could go extinct without more federal protection. But they’re not going to get it, Trump officials say."
     excerpt: "The northern spotted owl has lost 70 percent of its habitat to development and timber harvesting and could go extinct without added federal protection, the Trump administration announced Monday. But the owls won’t get it."
     publishedDateTime: 2020-12-15T06:18:00Z
@@ -1192,6 +1224,22 @@ related:
         width: 1440
         height: 1014
         isCached: true
+  - title: "Supreme Court rules it's too early to review Trump census plan to exclude undocumented immigrants from House redistricting"
+    excerpt: "The U.S. has always counted citizens and non-citizens for the purposes of redrawing congressional districts every 10 years."
+    publishedDateTime: 2020-12-18T19:00:00Z
+    webUrl: "https://www.cbsnews.com/news/supreme-court-census-ruling-too-early-undocumented-immigrants/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-census-ruling-too-early-undocumented-immigrants/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-census-ruling-too-early-undocumented-immigrants/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/18/598123c6-e9fc-4e7d-8df1-d6e7d1cf4237/thumbnail/1200x630g8/e12aa40557dbc7b3525ba6258ddd5da2/gettyimages-1230073815.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tennessee's 11 electors cast ballot for Trump, Pence"
     excerpt: "Tennessee’s 11 representatives to the Electoral College on Monday cast their vote for President Donald Trump and Vice President Mike Pence."
     publishedDateTime: 2020-12-14T23:51:00Z
@@ -1207,20 +1255,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/thesouthern.com/content/tncms/assets/v3/editorial/d/22/d22b5bb6-ed77-52d8-b0f8-d0f087c90068/5fd7e3f8a2f77.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Supreme Court won’t decide yet if Trump can exclude undocumented immigrants when allocating congressional seats"
-    excerpt: "The justices said in an unsigned opinion they are not deciding the merits in a case “riddled with contingencies and speculation.”"
-    publishedDateTime: 2020-12-18T18:31:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-census-undocumented-immigrants/2020/12/18/45223a82-413f-11eb-9453-fc36ba051781_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 85
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost%252Es3%252Eamazonaws%252Ecom%2Fpublic%2FJ4TLXLSBJQI6XDNYHFO63KVAGY%252Ejpg&w=1440"
-        width: 1440
-        height: 917
         isCached: true
   - title: "Senate Falls Short of Halting Trump's $23B Arms Sales to UAE"
     excerpt: "The Senate has fallen short of disapproving the Trump administration’s proposed $23 billion arms sales to the United Arab Emirates."

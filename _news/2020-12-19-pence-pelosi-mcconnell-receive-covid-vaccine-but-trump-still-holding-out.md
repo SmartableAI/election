@@ -200,6 +200,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "McConnell congratulates Joe Biden as presidential winner, but McEnany says Electoral College picking Biden is just ‘one step’"
+    excerpt: "Senate Majority Leader Mitch McConnell congratulated Democrat Joe Biden as president-elect on Tuesday, saying the Electoral College “has spoken.” The Republican leader’s statement, delivered in a speech on the Senate floor,"
+    publishedDateTime: 2020-12-18T15:44:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-mitch-mcconnell-joe-biden-20201215-y6dgnfdazre7tdkraza55obtp4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-mitch-mcconnell-joe-biden-20201215-y6dgnfdazre7tdkraza55obtp4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-mitch-mcconnell-joe-biden-20201215-y6dgnfdazre7tdkraza55obtp4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 98
+    images:
+      - url: "https://www.chicagotribune.com/resizer/mVKDeiI_tbtsz9ltNU4LRwQzHkM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3ZZBBPTT2T7ZITS4HOPCBZGPRI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "'The people prevailed': Biden addresses nation as electoral college affirms victory - live"
     excerpt: "California – which has more electoral votes than any other state – sealed the presidency for Joe Biden"
     publishedDateTime: 2020-12-15T01:08:00Z

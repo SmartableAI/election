@@ -931,6 +931,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump administration and Biden team at odds about presidential transition in the Pentagon"
+    excerpt: "The Trump administration and the Biden team were at odds on Friday after the acting Pentagon chief abruptly postponed transition meetings and Biden’s representatives expressed concern about the decision and described pockets of resistance to cooperation within the Pentagon."
+    publishedDateTime: 2020-12-19T02:40:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-trump-transition-pentagon-dispute/2020/12/18/d8142d94-415f-11eb-a402-fba110db3b42_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-trump-transition-pentagon-dispute/2020/12/18/d8142d94-415f-11eb-a402-fba110db3b42_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-trump-transition-pentagon-dispute/2020/12/18/d8142d94-415f-11eb-a402-fba110db3b42_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 131
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KSNZPACBN4I6XC6AVYKVX3SK74.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Joe Biden & Kamala Harris address the economy..."
     excerpt: "Watch \"President-elect Joe Biden & Vice President-elect Kamala Harris address the economy\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-16T20:57:00Z

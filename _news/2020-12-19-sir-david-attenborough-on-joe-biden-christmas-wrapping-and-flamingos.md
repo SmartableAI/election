@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/entertainment-arts-55042006"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/entertainment-arts-55042006"
 type: article
 quality: 124
-heat: 124
+heat: 126
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 576
     isCached: true
 
-secured: "lIGrKesYq6UdCXqbI1Bz65vroKIgj7DQZ72q9HIooDJ0c03U+VjX42K73f7bCFc4SKbPs3DmdXzIcsD3jtGvZWxR4DcI6AQyFARVECXG/+2m1dlq2P4IZWJ7f8ojYhy40XabiR6CKCGrq9OcB48fOCS87mKaW8+zayoOwmF8/BVXB6n1ffelobomPsWhK48PSmpb7SPfERd/Mp8uB7Il8GUX0IwfmAhmIFYFzHf/pHEz+M73e51SuZ8I8bHzwaFfNKVgGIW/nHHuUXlnAkNM49vGN5fiT1ZEr7eQefRM1zzEpGEfSLes0vXOAtmoDXgCwZJaDeqnH1mvTD+MT1npzR2x8uhPIwCir+VFIxn3Zxs=;9lKnpM1Ef/APsCJV541SLw=="
+secured: "uvoXlmtQjkjHI8cXLnnvehURww9xCKvOt5VD4mt8rMDpcIWVk3eZawDgl3qTrrDud1EYpx3ey4EscMf8H31Hl8dqaTdE6e3C8UEkjyeUquPWAV276bmXNZ67/oBb+Qs53EipnQmYq/lRLUFroUr7K7skA16UzU20Uv98L+HBxDRTQZZBR7D03JNOvKOHSjqb3CrIonK9FonvPCPNdmioa4U4iCNr26TkP3BWXbX1AwNBtvQHIdxwM87+GIeMQtqm01UlBEt9W/zPbQKMu9y8ZpCvOiOfI/cTLzsrXqaEStqeTX4kS2j73i9rjtzvE0hdjL0kEIIBvCt62wrt7wF2PecJgTeka5miRXjcBnKLdw0=;PcImMuEpRkNAb6FqPaIqFg=="
 ---
 

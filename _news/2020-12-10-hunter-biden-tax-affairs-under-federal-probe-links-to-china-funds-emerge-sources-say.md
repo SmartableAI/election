@@ -332,6 +332,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Huckabee: Joe Biden 'luckiest man' as media fails to press him on Hunter Biden probe"
+    excerpt: "Mike Huckabee slammed the mainstream media for only lobbing \"softball\" questions at President-elect Joe Biden while Hunter Biden is under federal investigation for overseas business dealings."
+    publishedDateTime: 2020-12-18T17:06:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-joe-hunter-media-business-dealings-colbert-mike-huckabee"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-joe-hunter-media-business-dealings-colbert-mike-huckabee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-media-business-dealings-colbert-mike-huckabee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/078f1b0b-dd95-4528-8469-4953a43cfd21/6593df76-3ee6-4ad4-8a83-44dbc5d4923c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Z/kxqctKDOtMXKI/DuO0pezRasiuBpNlhXN53SCRNHOdM6HO3PIXiwmJ8Kk4wtIi6+iaJDpTD99fUsu2N+yMR/Dcw4ycOtY1KcdbWewiN6mrtNh8so4UfjgPV5vMJUy5zPXtT4hRCFKwJ39TXg/FLQMFqImY+DkXTg4rCiQ7vR3zO8ZzCvpHu9RLSwOVURK0v32VkxdYc8kALoyJlmiek8OrVl0gUN9jrbS8PIO1sO6ZDiJMkyLY0mOUwoz/SGZkgjCiZ0aPOmX4xCRHnVMUv5S7bdMsNfdmg5JNj08fftPekqlD4mMLcL9urW8PQBde+aBdMiCIAyKoIhJgx5TRxdj7v/enrFLlO0/6qABg6fM=;ClISGy47EdoQvFJSjrLJ8w=="
 ---

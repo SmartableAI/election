@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/16/trump-mcconnell-ele
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/16/trump-mcconnell-election-biden-president/?outputType=amp"
 type: article
 quality: 134
-heat: 394
+heat: 414
 published: true
 
 provider:
@@ -186,6 +186,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/dd7975a8-d63a-4e8b-b306-739763b38569-VPC_HUNTER_BIDEN_TAXES_DESK.00_00_32_05.Still001.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "McConnell congratulates Joe Biden as presidential winner, but McEnany says Electoral College picking Biden is just ‘one step’"
+    excerpt: "Senate Majority Leader Mitch McConnell congratulated Democrat Joe Biden as president-elect on Tuesday, saying the Electoral College “has spoken.” The Republican leader’s statement, delivered in a speech on the Senate floor,"
+    publishedDateTime: 2020-12-18T15:44:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-mitch-mcconnell-joe-biden-20201215-y6dgnfdazre7tdkraza55obtp4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-mitch-mcconnell-joe-biden-20201215-y6dgnfdazre7tdkraza55obtp4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-mitch-mcconnell-joe-biden-20201215-y6dgnfdazre7tdkraza55obtp4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 98
+    images:
+      - url: "https://www.chicagotribune.com/resizer/mVKDeiI_tbtsz9ltNU4LRwQzHkM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3ZZBBPTT2T7ZITS4HOPCBZGPRI.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Pence, Pelosi, McConnell receive COVID vaccine — but Trump still holding out"
     excerpt: "Trump's apparent reluctance to get the shot comes as some of his most ardent supporters are making unfounded claims about the dangers of the vaccine."

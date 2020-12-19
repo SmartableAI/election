@@ -80,6 +80,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump, targeting McConnell and top Republicans, urges them to 'get tougher' in election fight"
+    excerpt: "President Trump is again taking aim at Senate Majority Leader Mitch McConnell after the top Republican and Trump ally earlier this week recognized President-elect Joe Biden's White House victory."
+    publishedDateTime: 2020-12-18T17:59:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 139
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20350731665251.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "CNN's Harwood: Republicans would 'smack their moms in the face' to please Donald Trump"
     excerpt: "CNN White House correspondent John Harwood said Friday that Republican members of Congress would hit their own mothers if President Trump wanted."
     publishedDateTime: 2020-12-11T20:11:00Z

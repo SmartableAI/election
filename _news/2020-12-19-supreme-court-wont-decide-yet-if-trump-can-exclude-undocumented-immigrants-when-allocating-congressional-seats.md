@@ -5,8 +5,10 @@ excerpt: "The justices said in an unsigned opinion they are not deciding the mer
 publishedDateTime: 2020-12-18T18:31:00Z
 originalUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-census-undocumented-immigrants/2020/12/18/45223a82-413f-11eb-9453-fc36ba051781_story.html"
 webUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-census-undocumented-immigrants/2020/12/18/45223a82-413f-11eb-9453-fc36ba051781_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-census-undocumented-immigrants/2020/12/18/45223a82-413f-11eb-9453-fc36ba051781_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/supreme-court-census-undocumented-immigrants/2020/12/18/45223a82-413f-11eb-9453-fc36ba051781_story.html?outputType=amp"
 type: article
-quality: 85
+quality: 105
 heat: -1
 published: false
 
@@ -752,9 +754,9 @@ related:
   - title: "U.S. Senate OKs stopgap funding bill to avoid gov't shutdown, sends to Trump"
     excerpt: "The U.S. Senate approved on Friday a temporary funding bill to keep the government open through Dec. 20, sending the measure to President Donald Trump for signing into law."
     publishedDateTime: 2020-12-19T00:36:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-congress-funding-senate-idUKKBN28T005"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28T005"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28T005"
+    webUrl: "https://www.reuters.com/article/us-usa-congress-funding-senate-idUSKBN28T005"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28T005"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T005"
     type: article
     provider:
       name: Reuters
@@ -1030,6 +1032,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "With punt, Supreme Court largely ends Trump census plan to exclude immigrants lacking documentation"
+    excerpt: "The census ruling could leave the issue to Biden. Not counting people in the U.S. illegally would hurt California, costing it power and federal funds."
+    publishedDateTime: 2020-12-18T23:56:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-18/supreme-court-trumps-plan-to-exclude-undocumented-immigrants-from-census"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-18/supreme-court-trumps-plan-to-exclude-undocumented-immigrants-from-census?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-18/supreme-court-trumps-plan-to-exclude-undocumented-immigrants-from-census?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 111
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/72d0e40/2147483647/strip/true/crop/3202x2091+221+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2F3e%2F35667abb4e6df2caaf6d4482eb07%2F2b96aba14e2f46d8a6b672916ae376fc"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Trump's former national security advisor says the president should impose martial law to force new elections in battleground states"
     excerpt: "Flynn's remarks are not based in reality because Trump does not have the power to change the date of an election and the results have been certified."
     publishedDateTime: 2020-12-18T15:24:00Z
@@ -1192,6 +1210,22 @@ related:
         width: 1440
         height: 1014
         isCached: true
+  - title: "Supreme Court rules it's too early to review Trump census plan to exclude undocumented immigrants from House redistricting"
+    excerpt: "The U.S. has always counted citizens and non-citizens for the purposes of redrawing congressional districts every 10 years."
+    publishedDateTime: 2020-12-18T19:00:00Z
+    webUrl: "https://www.cbsnews.com/news/supreme-court-census-ruling-too-early-undocumented-immigrants/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-census-ruling-too-early-undocumented-immigrants/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-census-ruling-too-early-undocumented-immigrants/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/18/598123c6-e9fc-4e7d-8df1-d6e7d1cf4237/thumbnail/1200x630g8/e12aa40557dbc7b3525ba6258ddd5da2/gettyimages-1230073815.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'The moment of truth': The Electoral College prepares to hand Trump the loss he refuses to accept"
     excerpt: "Facing a loss in the Electoral College, Trump's allies have shifted their focus to Jan. 6, when Congress will count the electoral votes."
     publishedDateTime: 2020-12-11T10:15:00Z
@@ -1276,6 +1310,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "PexQnipd8eRt8spqc+Ebqlrio1gQfALZgndXYzUqv1SCP5OLVuO0xhPfQcdhHyRzVb3R15lLd9p62dvGWv+kRU/LF4FhXv3VLagpJmiMUHzlM1zDSkHKJNuFJwr+jG6DAZDLzohGyfKyyCaO7QyyWl5LHNCCcjgh61iO8x37UtZ2xBbJnW9hFmNoIxZMvKwuZOwHS99kuDSnoG79jibRVJhGm0tp2aM3KzKDZnHsKadqGe74Kg0lfWugsfKPQ4LgAeHljnQbDZRSnB8JgCm50f4367dyV/GFfusgcUcAsLgyy8Ga6F37Tui3/Ctjx/uPI2lNRbOkWN0G4jRVvdboUbewx9QcXAXIIA/3bxAF4s8=;NiTgxHQsdbVPyB+S2sl4jg=="
+secured: "clBitrCCBFJDUDbvtf87mrokcoOSarvm/1YSgk11bxQF53qkEr2OxHUjbN7yXEWYjhM+1EhXt2vN3Y6oAoj30kKkovGujs5v2qiAAZBOXqbjLKaeyMtwXf41JYaGaZLlGQeh+uRJl6wsvI4lj89zSppxSZP6BbNomRJXD/oz8fUTlYx1jNr0iEewDAaGYIO8+dUXez6GhmW7Oce5stnGA3ne1GNpKT9OaX8taVOdYuyc3UhnziO73EJpN9O0s3L/GmVc68hQ8UkMJqpJzZkc/HjEIOOa6JJzMnjCTRa3yz7ez09QCcQxrP294/HzZvJ8oQaw0mMy+1uv+loIZ/NZFyBUu0bLVbYmwovdeCoJDLyITSEZsbDSQOBko/W5S7fVq9JaRxUe5TmoVhVojOHP+upv0Rbg98SvU9bnNpkzEtlHCIHRKmkKmyuqE6Hj10I1Liqtwo57f4RXD+xqzdX7jxh4C4wypSAshgjxOqewmcXmqICC9ToDts8vvJ/jTL/tzJe+GyChPpsPECWFZ8L9RQ==;nvbp17H4RsgDpQp+YpDWxw=="
 ---
 

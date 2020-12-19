@@ -256,6 +256,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump signs 2-day stopgap bill allowing Congress more time to negotiate coronavirus relief"
+    excerpt: "Congress looked to avert a government shutdown for the second time in a week by passing a two-day stopgap funding bill to allow lawmakers more time to agree on a COVID relief bill."
+    publishedDateTime: 2020-12-19T02:56:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UPqr4YkA0xM/congress-averts-government-shutdown-stopgap-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/congress-averts-government-shutdown-stopgap-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-averts-government-shutdown-stopgap-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c3db3fd-7d8d-4dd8-806d-31a44f628bdf/a5461994-6b1e-4bea-9685-f5fdc5122b96/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump Jr. to stump for Perdue after Pence rallies Thursday, as Trump team answers Biden event"
     excerpt: "Donald Trump Jr. will hold his first in-person events of the Georgia Senate runoffs this week for Sen. David Perdue, adding himself to the long list of boldface political names to descend on the Peach State for the critical Jan."
     publishedDateTime: 2020-12-16T12:03:00Z
