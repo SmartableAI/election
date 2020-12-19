@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump downplays massive cyber hack on government after Pompeo links attack to Russia"
+    excerpt: "Secretary of State Mike Pompeo on Friday said it's pretty clear Russia was behind the massive cyberattack on US federal government agencies, publicly linking Russia to the data breach as the President has remained silent on the matter.\n    \n"
+    publishedDateTime: 2020-12-19T18:47:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NHj7jFBg1V0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/pompeo-us-government-hack-russia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/pompeo-us-government-hack-russia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201219133818-donald-trump-mike-pompeo-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Congressional backers cite cybersecurity provisions as they push Trump to sign defense bill"
     excerpt: "The massive defense bill that President Donald Trump is threatening to veto contains provisions for increased cybersecurity, which has taken on significantly more importance in the wake of a massive cyberattack on federal agencies at the hands of suspected Russian hackers.\n    \n"
     publishedDateTime: 2020-12-18T20:32:33Z
@@ -62,6 +78,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/170513225821-cyberattacks-ransomware-latest-sebastian-lklv-00002816-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump downplays Russia hack in first comments on massive breach, implicates China"
+    excerpt: "Trump's comments contradict members of his own Cabinet and government and are the latest example of his reluctance to criticize Russia."
+    publishedDateTime: 2020-12-19T17:43:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/trump-downplays-russia-hack-first-comments-massive-breach-implicates-china-n1251813"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251813"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251813"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436956/201219-donald-trump-al-1201_cc2bfed051cfd5e2b83221935e1ccf78.jpg"
+        width: 3500
+        height: 2333
         isCached: true
 
 secured: "CaaNIXYuJo89uSF26SWEnqhyVX2RHi7oTBZbI/nJhWDNcxgBZdIFzEIitEheOJTW70cW4g8XA5ki/+lG3GcQpHgfhTqLtKb6FDDUEWFCxIoeKqjKZFAIjwMS4v2dXfNDE4qCkfgvu+jbhmFGtT0+5rZaN0M+NxRvS01D1Qkxp6Q4Arl2v276GaFMIfRFDXosJIaWBTsu1Gy3nOo/yQ4Ps9szl8X0xSP+euY4bvIVHR2VRvi5A3K+iKLPPFQv8v4QxqAYSbAm8JYSX/wtbrk9rymfvf+bqc4jeMmEGPhHEeVoTIyErkLnvfZmlPZb+dQvs96mfKqG9ovqFn99OhGPjPhmBExHZueRoJ5RFniL8Ew=;bOTwH35FFHSscOwrYHc6PQ=="

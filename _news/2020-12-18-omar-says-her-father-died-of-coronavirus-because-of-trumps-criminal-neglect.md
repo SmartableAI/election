@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/omar-father-died-coronavirus-trumps
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-father-died-coronavirus-trumps-criminal-neglect.amp"
 type: article
 quality: 171
-heat: 191
+heat: 231
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nevada agency drops fines for Trump rally that violated coronavirus restrictions"
+    excerpt: "The Nevada agency responsible for enforcing the state’s coronavirus restrictions has dropped fines it imposed after President Donald Trump held a campaign rally at an airport hangar in September.  "
+    publishedDateTime: 2020-12-19T18:06:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ERDLt1OtwfU/nevada-agency-drops-fines-for-trump-rallies-that-violated-coronavirus-restrictions"
+    ampWebUrl: "https://www.foxnews.com/politics/nevada-agency-drops-fines-for-trump-rallies-that-violated-coronavirus-restrictions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-agency-drops-fines-for-trump-rallies-that-violated-coronavirus-restrictions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Minden-Tahoe-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "CDC pushes back against House coronavirus committee accusations of 'political meddling' by Trump campaign"
     excerpt: "The CDC is pushing back against the House coronavirus crisis subcommittee's accusations of \"political meddling\" by the Trump administration."
     publishedDateTime: 2020-12-10T21:25:35Z
@@ -44,6 +60,22 @@ related:
     quality: 158
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/640/320/James-Clyburn-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Nevada agency drops fines for Trump rally that violated coronavirus restrictions"
+    excerpt: "The Nevada agency responsible for enforcing the state’s coronavirus restrictions has dropped fines it imposed after President Donald Trump held a campaign rally at an airport hangar in September."
+    publishedDateTime: 2020-12-19T18:18:00Z
+    webUrl: "https://www.foxnews.com/politics/nevada-agency-drops-fines-for-trump-rallies-that-violated-coronavirus-restrictions"
+    ampWebUrl: "https://www.foxnews.com/politics/nevada-agency-drops-fines-for-trump-rallies-that-violated-coronavirus-restrictions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-agency-drops-fines-for-trump-rallies-that-violated-coronavirus-restrictions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Minden-Tahoe-GETTY.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

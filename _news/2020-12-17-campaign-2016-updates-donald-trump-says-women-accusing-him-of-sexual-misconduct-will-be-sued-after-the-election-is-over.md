@@ -9,8 +9,8 @@ ampWebUrl: "https://www.latimes.com/nation/politics/trailguide/la-na-trailguide-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/nation/politics/trailguide/la-na-trailguide-updates-10222016-htmlstory.html?_amp=true"
 type: article
 quality: 114
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: Los Angeles Times
@@ -29,6 +29,24 @@ images:
     width: 350
     height: 350
     isCached: true
+
+related:
+  - title: "RPT-UPDATE 2-Trump downplays impact of massive breach of government computer systems"
+    excerpt: "U.S. President Donald Trump in his first comments about a widespread data breach across the U.S. government downplayed the seriousness and impact of the cyber espionage campaign, and questioned whether Russia was to blame."
+    publishedDateTime: 2020-12-19T18:27:00Z
+    webUrl: "https://www.reuters.com/article/usa-cyber-breach-idUSL1N2IZ0F0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28T0QL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T0QL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201219&t=2&i=1545149596&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBI0D6"
+        width: 812
+        height: 545
+        isCached: true
 
 secured: "ywoLg6EewcY3AoDcRvoha3zFcQYmnc0LrBv/eQJfWmrRLn67qfar/zFKADqHdddMlkdBBlkVkadVNxkiIiX/fV0EGrUeNFrJoCVld6n/pixMi/7kuAWWa8z25SmpTy78l1F/oWgW7hEx0kUSMZ6aGbk9k+9TuYAja5156ps48FAihLOErgRq1xGtlrM9v+x4zMwEJzv96ej8UlYjiXcP78hhwawmAASGgY5ZIbYZ6taFp2VmtLWq2o0MN4yAM5dhlf8lWxDHBf7vVevssZHcLugmUS7xKDoXeIOh5IK8kf23fhiJWw/KIRl1wSoWF1U+phwkbXnZs7Rjxb0UbmVHSxErFwyuXZyQGg9xvrBVzKU=;cq0zyTjC3WgrHPfb22mqZQ=="
 ---
