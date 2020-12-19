@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-21-rep-elect-august-pfluger-of-texas-calls-biden-oil-plans-extremely-alarming.md",
+      "title": "Rep.-elect August Pfluger of Texas calls Biden oil plans 'extremely alarming'",
+      "excerpt": "An Air Force veteran newly elected to represent an oil-rich Texas district said President-elect Joe Biden's proposals on taxes, and the oil and gas industry are \"extremely alarming.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yZm37Y7Z9iw/rep-elect-august-pfluger-air-force-veteran-from-texas-calls-joe-bidens-oil-plans-extremely-alarming",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yZm37Y7Z9iw/rep-elect-august-pfluger-air-force-veteran-from-texas-calls-joe-bidens-oil-plans-extremely-alarming",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/August-Pfluger-FOX.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-elect-august-pfluger-air-force-veteran-from-texas-calls-joe-bidens-oil-plans-extremely-alarming.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-elect-august-pfluger-air-force-veteran-from-texas-calls-joe-bidens-oil-plans-extremely-alarming.amp",
+      "publishedDateTime": "2020-11-21T12:02:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.md",
       "title": "Trump calls into virtual G20 summit, talks COVID-19 with world leaders",
       "excerpt": "President Trump took part in the first of two virtual meetings with world leaders Saturday as part of a coronavirus-throttled G20 summit — in what could be the last international gathering of his presidency.",
@@ -1610,62 +1666,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-facebook-twitter-take-heat-over-hunter-biden-story-during-hearing-dorsey-admits-this-action-was-wrong.md",
-      "title": "Facebook, Twitter take heat over Hunter Biden story during hearing; Dorsey admits 'this action was wrong'",
-      "excerpt": "Twitter CEO Jack Dorsey and Facebook CEO Mark Zuckerberg are testifying before the Senate Judiciary Committee Tuesday morning, and right from the beginning of the hearing they faced pressure over the censorship of a New York Post story about Hunter Biden.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Y5164sYBqY/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Y5164sYBqY/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea062ee3-cd24-4b77-84bb-3780a23ee251/f63ef748-e85c-435c-b7ab-17c1c79c160d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey.amp",
-      "publishedDateTime": "2020-11-17T08:35:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-02-obama-accuses-republicans-of-bait-and-switch-on-deficit-urges-bold-government-steps-from-biden.md",
+      "title": "Obama accuses Republicans of 'bait-and-switch' on deficit, urges 'bold government steps' from Biden",
+      "excerpt": "Former President Obama argued on Wednesday that Republicans would hypocritically warn about the fiscal impact of economic recovery proposals after passing deficit-inducing tax cuts under President Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aElnDge5Zm0/obama-republicans-bait-and-switch-deficit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aElnDge5Zm0/obama-republicans-bait-and-switch-deficit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/635f9fcf-f6e4-4e59-bcbe-029944907f85/94e71967-50c7-47c3-8035-675ef3d68529/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/obama-republicans-bait-and-switch-deficit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-republicans-bait-and-switch-deficit.amp",
+      "publishedDateTime": "2020-12-02T13:57:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-naacp-warns-biden-over-rahm-emanuel-rumors.md",
       "title": "NAACP warns Biden over Rahm Emanuel rumors",
       "excerpt": "The NAACP became the latest progressive group to warn President-elect Joe Biden against adding former Chicago Mayor Rahm Emanuel to his Cabinet.",
@@ -1608,62 +1664,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-trump-continues-fight-in-wis-pa-we-have-found-many-illegal-votes.md",
-      "title": "Trump continues fight in Wis., Pa.: ‘We have found many illegal votes’",
-      "excerpt": "President Trump promised to bring a case disputing the Wisconsin vote count after the recount was completed there, and said his campaign was disputing a number of votes far bigger than the margin President-elect Joe Biden won. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/08KthVMg2IQ/trump-fight-wis-pa-illegal-votes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/08KthVMg2IQ/trump-fight-wis-pa-illegal-votes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20331846075368.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-fight-wis-pa-illegal-votes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fight-wis-pa-illegal-votes.amp",
-      "publishedDateTime": "2020-11-28T15:33:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

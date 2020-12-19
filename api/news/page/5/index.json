@@ -2,6 +2,114 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-15-judith-heumann-biden-is-committed-to-involving-disabled-people-in-his-administration.md",
+      "title": "Judith Heumann: 'Biden is committed to involving disabled people in his administration'",
+      "excerpt": "The US activist on Covid’s impact and her starring role in Crip Camp, the documentary charting the birth of the disability rights movement",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp",
+      "originalUrl": "https://www.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/3d90cbafa017f6722f77179c47ff994b5abfc67a/120_0_1800_1080/master/1800.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e8585343d59071aee5cb9e05a5d0ad88",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp",
+      "publishedDateTime": "2020-12-15T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-putin-congratulates-biden-on-election-victory.md",
+      "title": "Putin congratulates Biden on election victory",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ov1bROivNoQ/putin-congratulates-biden-on-election-victory",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ov1bROivNoQ/putin-congratulates-biden-on-election-victory",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1790,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp",
+      "publishedDateTime": "2020-12-15T00:44:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-democracy-prevailed-biden-after-official-win.md",
       "title": "'Democracy prevailed': Biden after official win",
       "excerpt": "Biden after official win. Posted . Democrat Joe Biden called on Americans to \"turn the page\" on the Trump era in a prime-time speech on Monday (D",
@@ -994,7 +1102,7 @@
       "originalUrl": "https://www.reuters.com/article/us-latam-usa-china-insight-idUSKBN28O18R",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1247,114 +1355,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-scalise-not-ready-to-accept-biden-win-let-the-legal-process-play-out.md",
-      "title": "Scalise not ready to accept Biden win: 'Let the legal process play out'",
-      "excerpt": "House Minority Whip Steve Scalise, R-La., said he will continue supporting efforts challenging the election results even as the Electoral College is set to officially elect Joe Biden as the next president on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPMjJGfmt9s/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPMjJGfmt9s/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46f18e67-c1f3-4d8b-af0c-1cc8176ab6f1/e519d3ae-105a-4f1a-b174-681aa265a5e2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out.amp",
-      "publishedDateTime": "2020-12-13T08:18:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-trumps-legal-attempt-to-throw-out-votes-in-wisconsins-most-diverse-counties-smacks-of-racism-judge-says.md",
-      "title": "Trump's legal attempt to throw out votes in Wisconsin's most diverse counties 'smacks of racism,' judge says",
-      "excerpt": "Most Black Wisconsinites live in or around the two counties, Milwaukee and Dane, where the Trump legal team sort to throw out 221,000 absentee ballot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12",
-      "originalUrl": "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fd606459cf1420018d2f0ed?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12?amp",
-      "publishedDateTime": "2020-12-13T06:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

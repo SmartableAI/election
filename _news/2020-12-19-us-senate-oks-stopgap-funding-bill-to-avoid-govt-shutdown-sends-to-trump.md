@@ -3,10 +3,10 @@ category: news
 title: "U.S. Senate OKs stopgap funding bill to avoid gov't shutdown, sends to Trump"
 excerpt: "The U.S. Senate approved on Friday a temporary funding bill to keep the government open through Dec. 20, sending the measure to President Donald Trump for signing into law."
 publishedDateTime: 2020-12-19T05:10:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-congress-funding-senate-idUSKBN28T005"
-webUrl: "https://www.reuters.com/article/us-usa-congress-funding-senate-idUSKBN28T005"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28T005"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T005"
+originalUrl: "https://www.reuters.com/article/us-usa-congress-funding-senate-idUKKBN28T005"
+webUrl: "https://www.reuters.com/article/us-usa-congress-funding-senate-idUKKBN28T005"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28T005"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28T005"
 type: article
 quality: 122
 heat: -1
@@ -1310,6 +1310,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "DgMSGqeUTA/Xw5G857y3hiUX1gQVkYf29epBQVhULU+ciprRjTnco4CUCMEDmdfgfRQ+f/5pQW1lfraFQJauRIzNMjOIGawieB7M+ghLzZcNSRgKPBOcgAWa9uCS6u1kz7WHwUZQv50QNrdyMvynGPja/wi5x4EMUI+uup/GM41xY3DhZiYL/rJ1PqpCAko29VVWb5Go6bw8etIrtuH3oHD6eWqgbHmCcHb8OSw9ozQ2ujFhM/31rRuq405To4riRyo3m0VrytG3I/wdEo+dNI7CU6oUdNPqYMoFFtHwAqn/glH1TM9G7zxpyL5NgHVvoHYPXfzGFo7m2Q87lHZxJLeROpoyvft+5SyZU09KPSM=;SfcoxTgGmDUWPmZwz0vI7A=="
+secured: "VzsX4Y5u2ZnXSQsbiO2drlyGQiGqONZKA5Hw81awG3i8M2/cUVuXrtRtzCfu12L2vPzCKc3Jp0ipWBql4365O+el/6WPcHnA3pT2DPQHbPz7obuxFK1onx4cDN69xuV4qJMbbY9mDUo2BbTwDbH4MKJtRvzXxJY+lYeDifq+oFeCvcPRB5zut8w0cef0UPdLTITZZUvpw43TcIBUoxLg4qwoHUkrg5jxsKCSJfG5abv0mCIV/3LI00aWDoNQxLYIxq2vIzD0nYxUVsivQ5Fo+/mVDBCwEVSxuQJSS0/Oz4lPFOZRLL04b2Hi3W6eT/kQkVlDpLKOriMrZE9laarPo21H1oJu8av6jG1Z030mRPo=;rh3zKG2+H1kRtTnBz9HOkg=="
 ---
 

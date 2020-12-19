@@ -2,6 +2,114 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-13-scalise-not-ready-to-accept-biden-win-let-the-legal-process-play-out.md",
+      "title": "Scalise not ready to accept Biden win: 'Let the legal process play out'",
+      "excerpt": "House Minority Whip Steve Scalise, R-La., said he will continue supporting efforts challenging the election results even as the Electoral College is set to officially elect Joe Biden as the next president on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPMjJGfmt9s/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPMjJGfmt9s/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46f18e67-c1f3-4d8b-af0c-1cc8176ab6f1/e519d3ae-105a-4f1a-b174-681aa265a5e2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out.amp",
+      "publishedDateTime": "2020-12-13T08:18:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-trumps-legal-attempt-to-throw-out-votes-in-wisconsins-most-diverse-counties-smacks-of-racism-judge-says.md",
+      "title": "Trump's legal attempt to throw out votes in Wisconsin's most diverse counties 'smacks of racism,' judge says",
+      "excerpt": "Most Black Wisconsinites live in or around the two counties, Milwaukee and Dane, where the Trump legal team sort to throw out 221,000 absentee ballot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12",
+      "originalUrl": "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fd606459cf1420018d2f0ed?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12?amp",
+      "publishedDateTime": "2020-12-13T06:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-alexander-it-looks-very-much-like-the-electors-will-vote-for-joe-biden.md",
       "title": "Alexander: 'It looks very much like the electors will vote for Joe Biden'",
       "excerpt": "Sen. Lamar Alexander (R-Tenn.) tells Chuck Todd that there shouldn't be any doubt about who won the 2020 presidential election after the Electoral College votes on Monday.",
@@ -1230,110 +1338,6 @@
         "name": "Ledger-Enquirer",
         "domain": "ledger-enquirer.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-trump-admin-offered-700m-to-911-victims-to-save-sudan-deal.md",
-      "title": "Trump admin offered $700M to 9/11 victims to save Sudan deal",
-      "excerpt": "In a last-minute pitch to save President Donald Trump's deal with Sudan, the Trump administration offered to pay victims of the Sept. 11 attacks $700 million of U.S. funds to drop their pursuit of claims against the African country,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-admin-offered-700m-911-victims-save-sudan/story?id=74672919",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-admin-offered-700m-911-victims-save-sudan/story?id=74672919",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trump-sudan-oval-office-gty-jc-201207_1607379112812_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-admin-offered-700m-911-victims-save-sudan/story?id=74672919",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-admin-offered-700m-911-victims-save-sudan/story?id=74672919",
-      "publishedDateTime": "2020-12-11T13:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-top-house-republican-pences-brother-join-gop-brief-asking-supreme-court-to-effectively-overturn-election.md",
-      "title": "Top House Republican, Pence’s brother join GOP brief asking Supreme Court to effectively overturn election",
-      "excerpt": "Minority Leader Kevin McCarthy (R-Calif.) added his name to the amicus brief filed in the case along with 19 other Republicans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/house-republicans-trump-biden/2020/12/11/66b4a9e2-3be4-11eb-9276-ae0ca72729be_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/house-republicans-trump-biden/2020/12/11/66b4a9e2-3be4-11eb-9276-ae0ca72729be_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZLIICR35QI6XETWVYGKOJZJXY.jpg&w=1440",
-          "width": 1440,
-          "height": 958,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/house-republicans-trump-biden/2020/12/11/66b4a9e2-3be4-11eb-9276-ae0ca72729be_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/house-republicans-trump-biden/2020/12/11/66b4a9e2-3be4-11eb-9276-ae0ca72729be_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-11T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

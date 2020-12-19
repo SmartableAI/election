@@ -2306,6 +2306,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Kamala Harris to campaign in Georgia next week on behalf of Senate candidates"
+    excerpt: "ATLANTA — Vice President-elect Kamala Harris will visit Georgia next week to campaign on behalf of Democratic Senate candidates Jon Ossoff and Rev. Raphael Warnock, the Ossoff campaign confirmed Friday."
+    publishedDateTime: 2020-12-19T15:13:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 72
+    images:
+      - url: "https://media.firstcoastnews.com/assets/WXIA/images/4ea913bb-bfcd-43f4-bcd4-9344687709d7/4ea913bb-bfcd-43f4-bcd4-9344687709d7_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Mike Pence to receive the COVID-19 vaccine publicly Friday; Joe Biden will get vaccinated as soon as next week"
     excerpt: "President-elect Joe Biden and Vice President Mike Pence are set to receive the COVID-19 vaccine soon. According to two transition officials familiar with the matter, Biden will receive the vaccine publicly as early as next week."
     publishedDateTime: 2020-12-18T04:11:00Z

@@ -2,6 +2,114 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-11-25-aoc-ilhan-omar-try-to-block-deficit-hawk-from-biden-administration.md",
+      "title": "AOC, Ilhan Omar try to block 'deficit hawk' from Biden administration",
+      "excerpt": "Squad members Reps. Alexandria Ocasio-Cortez, D-N.Y. and Ilhan Omar, D-Minn., are mounting a petition against Biden nominating his former chief of staff Bruce Reed, who they say is a “deficit hawk,” to a role within the incoming administration. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC1EBAjpbxM/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC1EBAjpbxM/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/squad-thumb.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration.amp",
+      "publishedDateTime": "2020-11-24T16:27:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-corn-vs-cob-trump-pardons-lucky-thanksgiving-turkey-but-avoids-political-jokes.md",
+      "title": "Corn vs. Cob: Trump pardons 'lucky' Thanksgiving turkey but avoids political jokes",
+      "excerpt": "President Donald Trump partook in an annual holiday tradition – the pardoning of the National Thanksgiving Turkey, a turkey named Corn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/11/24/president-donald-trump-pardons-thanksgiving-turkey-skips-political-jokes/6406179002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/24/president-donald-trump-pardons-thanksgiving-turkey-skips-political-jokes/6406179002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/24/USAT/446ebf97-c3da-4737-a944-cc6c6e2b5dfb-turkey-pic.jpg?auto=webp&crop=3382,1902,x1,y161&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6406179002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6406179002",
+      "publishedDateTime": "2020-11-24T13:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-chalian-on-bidens-agenda-america-first-is-gone.md",
       "title": "Chalian on Biden's agenda: 'America First' is gone",
       "excerpt": "CNN's David Chalian explains how President-elect Joe Biden's approach to selecting his cabinet differs from President Trump's.\n    \n",
@@ -1250,114 +1358,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-trump-campaign-legal-team-distances-itself-from-powell.md",
-      "title": "Trump campaign legal team distances itself from Powell",
-      "excerpt": "The Trump campaign’s legal team is moving to distance itself from a firebrand conservative attorney, Sidney Powell",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/trump-campaign-legal-team-distances-powell-74351362",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/trump-campaign-legal-team-distances-powell-74351362",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/WireAP_17cfc180a8774b43bb88b736e14821fe_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/trump-campaign-legal-team-distances-powell-74351362",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-campaign-legal-team-distances-powell-74351362",
-      "publishedDateTime": "2020-11-22T22:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-biden-poised-to-nominate-antony-blinken-as-secretary-of-state.md",
-      "title": "Biden poised to nominate Antony Blinken as secretary of state",
-      "excerpt": "President-elect Joe Biden is poised to nominate Antony Blinken to serve as secretary of state, people familiar with the matter told CNN, elevating a longtime foreign policy adviser as Biden makes his first round of Cabinet announcements Tuesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B4VQdW4vb4g/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B4VQdW4vb4g/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 395,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201119200202-antony-blinken-file-photo-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/22/politics/biden-transition-antony-blinken/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/biden-transition-antony-blinken/index.html",
-      "publishedDateTime": "2020-11-22T19:59:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

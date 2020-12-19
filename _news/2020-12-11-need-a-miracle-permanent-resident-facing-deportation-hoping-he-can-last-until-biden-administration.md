@@ -127,6 +127,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden plans to be sworn in as president with a massive family heirloom Bible dating back to 1893"
+    excerpt: "The huge Bible is five inches thick and has a Celtic cross on the cover. Biden says it comes from his father's side of the family."
+    publishedDateTime: 2020-12-19T15:47:00Z
+    webUrl: "https://www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5fdca89dc910a400192e8433?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AP sources: Biden picks Rep. Marcia Fudge as housing chief"
     excerpt: "WASHINGTON (AP) — President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary, according to three people familiar with the decision."
     publishedDateTime: 2020-12-09T02:23:00Z

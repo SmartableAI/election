@@ -368,18 +368,18 @@ related:
       domain: napavalleyregister.com
     quality: 55
   - title: "Vice President Mike Pence Receives COVID-19 Vaccine During Live Broadcast"
-    excerpt: "Vice President Mike Pence and second lady Karen Pence, seen here in a TV screen grab, received Pfizer's COVID-19 vaccine at the White House on Friday, December 18, 2020, in a bid to build public confidence in its safety and efficacy."
+    excerpt: "Vice President Mike Pence receives Pfizer's COVID-19 vaccine at the White House on Friday, December 18, 2020, in a bid to build public confidence in its safety and efficacy. President Donald Trump will not receive the vaccine unless the White House medical team recommends it."
     publishedDateTime: 2020-12-18T14:07:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/113d02f4017067be7d3e6860dd3c87a1/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9695e1476f16d2e2ea52b2b81fabde16/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 54
     images:
-      - url: "https://cdnph.upi.com/pv/upi/113d02f4017067be7d3e6860dd3c87a1/PENCE-CORONAVIRUS-VACCINE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/9695e1476f16d2e2ea52b2b81fabde16/PENCE-CORONAVIRUS-VACCINE.jpg"
         width: 650
-        height: 433
+        height: 489
         isCached: true
 
 secured: "nFl2NysFXQhHRpqjGB98Bjt/T7qKcJqMfoFgMgeC/mazYht70wdccoSiLomnUSW9fZ7LQTOLedVQgulXzuW7dKR3hc3rogjVijBIxONsuL5lqITugmIYRxbRAy/U1TOM+9k3ipNLd9j3+7DJIcBZsvWAxalez6ikiEXYMIpmWwy7KtxkjdoY6m+2nS1lhEuW1HjFTIKm6Xno6KqA99vs56Fmpyx1KLkxkCgSpHlWA1ccG7sfs/oANXG09KEEQzsgeKHYxQvm1pMFyuLjwuSfMb8+Tsfp54syeLmS63uyT7S0DGPTAbskvZY8Js9UBXM2V7MRCqnxs2tpAerGTEt6PYc66zWzko9TXZR2bcHmikDE/yRWV3qbhku/fYECMOnz9yW04tvq3LCu3dIZd/n0/j1l+Mh5UDI1cfeS6hArYjTSLKyjz/Yg7Lnsu4lcLDBAL7cxhcq9SgIKNBMJaNSnl4TQIEDg34Cxe2dV5y6Y0S6aneE+GTCiyv3pTIkOscLfzQDjlkCMexXL/GkznRtcAA==;IKzBAHKO5ou8k40AH3qmjQ=="

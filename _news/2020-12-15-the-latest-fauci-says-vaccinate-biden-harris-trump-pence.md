@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-b
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137"
 type: article
 quality: 180
-heat: 3420
+heat: 3440
 published: true
 
 provider:
@@ -2294,6 +2294,22 @@ related:
     quality: 72
     images:
       - url: "https://media.11alive.com/assets/WXIA/images/4ea913bb-bfcd-43f4-bcd4-9344687709d7/4ea913bb-bfcd-43f4-bcd4-9344687709d7_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Kamala Harris to campaign in Georgia next week on behalf of Senate candidates"
+    excerpt: "ATLANTA — Vice President-elect Kamala Harris will visit Georgia next week to campaign on behalf of Democratic Senate candidates Jon Ossoff and Rev. Raphael Warnock, the Ossoff campaign confirmed Friday."
+    publishedDateTime: 2020-12-19T15:13:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 72
+    images:
+      - url: "https://media.firstcoastnews.com/assets/WXIA/images/4ea913bb-bfcd-43f4-bcd4-9344687709d7/4ea913bb-bfcd-43f4-bcd4-9344687709d7_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true

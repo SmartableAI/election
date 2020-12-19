@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-20-secretary-of-state-says-russia-pretty-clearly-behind-major-cyberattack-on-us-government-industry-trump-silent.md",
+      "title": "Secretary of state says Russia ‘pretty clearly’ behind major cyberattack on US government, industry; Trump silent",
+      "excerpt": "Mike Pompeo says Russia was “pretty clearly” behind the gravest cyberattack against the United States on record.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-russia-hacking-cyberattack-20201219-l5mgq3q7mncgjb2fe7csbkbdiu-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-russia-hacking-cyberattack-20201219-l5mgq3q7mncgjb2fe7csbkbdiu-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/19lNjHaESAwNGzeUPAfEWTjRL6M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CABCYCUO3BGJHLONLPWXO7J7AY.jpg",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-russia-hacking-cyberattack-20201219-l5mgq3q7mncgjb2fe7csbkbdiu-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-russia-hacking-cyberattack-20201219-l5mgq3q7mncgjb2fe7csbkbdiu-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-19T08:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie.md",
       "title": "Biggest vets groups step up pressure on Trump to fire Wilkie",
       "excerpt": "The nation’s six largest veterans groups are calling on President Donald Trump to immediately fire Veterans Affairs Secretary Robert Wilkie over the mishandling of a congressional aide’s allegation of",
@@ -145,49 +197,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-trump-wont-denounce-russias-hack-because-hes-still-subservient-to-putin.md",
-      "title": "Trump Won’t Denounce Russia’s Hack Because He’s Still Subservient to Putin",
-      "excerpt": "Ahh, we’ll talk about that at another time,” Trump demurred. The other time has not come. Three months later, that remains Trump’s last word on the matter. In the wake of news of Russia’s massive cyber-intrusion into a swath of private and public networks,",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/article/trump-russian-hack-solar-winds-cyber-putin.html",
-      "originalUrl": "https://nymag.com/intelligencer/article/trump-russian-hack-solar-winds-cyber-putin.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/6af/d6c/26cd6125882e55475038280280ed424f15-trump-putin.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/article/trump-russian-hack-solar-winds-cyber-putin.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-russian-hack-solar-winds-cyber-putin.html",
-      "publishedDateTime": "2020-12-18T18:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

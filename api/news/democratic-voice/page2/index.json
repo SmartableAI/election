@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-14-trumps-health-secretary-of-course-we-would-vaccinate-biden-publicly-if-he-asks.md",
+      "title": "Trump's health secretary: 'Of course, we would' vaccinate Biden publicly if he asks",
+      "excerpt": "Health and Human Services Secretary Alex Azar said Monday that if President-elect Joe Biden wants the newly released Covid-19 vaccine, the agency will ensure that he receives it.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xyUkAcbdqh8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xyUkAcbdqh8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 304,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201214170919-alex-azar-1214-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/14/politics/azar-vaccinate-biden-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/azar-vaccinate-biden-cnntv/index.html",
+      "publishedDateTime": "2020-12-14T14:29:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-simply-unacceptable-congressman-exiting-gop-calls-out-trumps-racist-attacks.md",
       "title": "'Simply unacceptable:' Congressman exiting GOP calls out Trump's racist attacks",
       "excerpt": "Rep. Paul Mitchell tells CNN's Jake Tapper that he no longer wants to be affiliated with the Republican Party and calls out President Trump's racist attacks.\n    \n",
@@ -1639,62 +1695,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-trumps-pandemic-blindness-and-election-denial-darkens-americas-desperate-winter.md",
-      "title": "Trump's pandemic blindness and election denial darkens America's desperate winter ",
-      "excerpt": "Donald Trump's final-days denial is darkening America's winter of sickness and death, damaging democracy, hampering Joe Biden's nascent presidency and jeopardizing Republican hopes of clinging to the Senate.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hSuo6xOBNS0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hSuo6xOBNS0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 404,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201205212226-01-trump-rally-georgia-1205-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/07/politics/donald-trump-pandemic-election-results-joe-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/donald-trump-pandemic-election-results-joe-biden/index.html",
-      "publishedDateTime": "2020-12-06T21:41:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }
