@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-b
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137"
 type: article
 quality: 180
-heat: 3440
+heat: 3460
 published: true
 
 provider:
@@ -1010,6 +1010,22 @@ related:
     quality: 127
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/12/09/USAT/8231a1a9-2a55-48d2-8df5-aff4fef1d9b7-AP20344695708231.jpg?auto=webp&crop=5999,3374,x1,y597&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact check: Joe Biden, Kamala Harris – not China's Xi Jinping – are Time's 2020 Person of the Year"
+    excerpt: "Last week, after Time magazine announced its annual \"Person of the Year,\" an altered cover image including Chinese President Xi Jinping went viral."
+    publishedDateTime: 2020-12-16T23:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/12/16/fact-check-biden-harris-not-chinas-xi-grace-times-actual-cover/3904043001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3904043001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3904043001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/11/USAT/fd9bbdc5-ff98-464f-8bd0-c8dc14851bf4-VPC_2020_TIME_PEOPLE_OF_THE_YEAR_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

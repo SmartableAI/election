@@ -97,6 +97,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Posturing over Kamala Harris' Senate seat is getting increasingly nasty"
+    excerpt: "Gavin Newsom in selecting a replacement for Vice President-elect Kamala Harris in the United States Senate is growing increasingly contentious. California Secretary of State Alex Padilla is widely seen as the front-runner for the seat,"
+    publishedDateTime: 2020-12-19T16:49:00Z
+    webUrl: "https://www.chron.com/politics/article/Kamala-Harris-Senate-seat-replacement-rumors-Gavin-15816155.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/66/32/20407941/6/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "hbnOMquYDQf/hpSUpfm/rsO5gjlh8hWeXftT1468eNm6a4/HoxrCfE/w6mIhcf4K2BDsUdAAQPIcE5EUHir7KI/x8amPt1Gv0OUXewJXJz0P1tG7sdMzoYhCbNp/dCf0Mke54G8MMaYyoapdFpW9BG3zT/P5IrKmMeUbDNYUL9nQdt9HuuBQrq7IkQ7AltMg1v3djehRPVSC4RtSLkRRNLC26gZJ19kavS5GP+TpI+nB2qhj9eDbUz8c/oySmn4CmTs1rCGkDGFlG5jv7BTa2xcAxjeIF+p/NzrGIsnDZqzvy/To/psu/Geut2Y/G+uxzR2D7/LbdINpZENiYsyUmAQ4RUSqZ2TSwJoo8orrQjUclgY1s2YFhyc/hTvMLkUQlwh6XYnhVx9CMt5hVTxAEkReRK0bR0DdQAkEbt6CDZ7NXKQ/gLulQRBjnuTy8U72WnuUjoVjyr5V8hedUAPA1GoePjnBPm3nxXzkj0Y3EBL5szPz5GBN06xV2Jd0zhmvzUmB8GLE160ovxTMQi1Qpw==;zeg4/eZAd8+qIzOSb7XTRA=="
 ---

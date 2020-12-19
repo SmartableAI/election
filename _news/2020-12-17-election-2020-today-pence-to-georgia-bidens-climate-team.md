@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-pence-to
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 1675
+heat: 1695
 published: true
 
 provider:
@@ -590,6 +590,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544975651&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG1VL"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden may time confirmation votes to protect House majority"
+    excerpt: "President-elect Joe Biden’s decision to tap several House Democrats for administrative positions is putting Speaker Nancy Pelosi in a politically tough spot"
+    publishedDateTime: 2020-12-19T18:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-time-confirmation-votes-protect-house-majority-74808527"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-time-confirmation-votes-protect-house-majority-74808527"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-time-confirmation-votes-protect-house-majority-74808527"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6139efaf033d42579c0c3d46bd00a5aa_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden taps Susan Rice as top domestic policy adviser amid flurry of moves"
     excerpt: "U.S. President-elect Joe Biden chose Susan Rice, who was national security adviser to former President Barack Obama, on Thursday to lead the White House's domestic policy council as part of a flurry of appointments to his developing administration."

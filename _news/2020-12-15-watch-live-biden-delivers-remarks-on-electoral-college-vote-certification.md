@@ -32,37 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Alexander: 'It looks very much like the electors will vote for Joe Biden'"
-    excerpt: "Sen. Lamar Alexander (R-Tenn.) tells Chuck Todd that there shouldn't be any doubt about who won the 2020 presidential election after the Electoral College votes on Monday."
-    publishedDateTime: 2020-12-13T13:47:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/alexander-it-looks-very-much-like-the-electors-will-vote-for-joe-biden-97645637979"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97645637979"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97645637979"
+  - title: "Jim Carrey to stop impersonating Joe Biden on 'Saturday Night Live'"
+    excerpt: "Live” did not immediately offer insight as to who might pick up the impression, Carrey’s departure could allow a cast member to take over."
+    publishedDateTime: 2020-12-19T19:40:00Z
+    webUrl: "https://www.nbcnews.com/pop-culture/pop-culture-news/jim-carrey-stop-impersonating-joe-biden-saturday-night-live-n1251820"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251820"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251820"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 134
+    quality: 135
     images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_clip_lamaralexandermr1_201213.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden Transition Live Updates: Electoral College Vote Underway Across the Country"
-    excerpt: "Electors in states across the country have cast their votes for president, and the winner is not in doubt: Joseph R. Biden Jr. will be officially declared the president-elect."
-    publishedDateTime: 2020-12-14T15:49:00Z
-    webUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/14/us/joe-biden-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 130
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/14/us/politics/14transition-briefing-biden-speech/14transition-briefing-biden-speech-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_51/3436967/201219-jim-carrey-joe-biden-snl-al-1414_e3d031136794aebf76936c2c337c7a7a.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "7Tv4ej++/csHi+AmX4mshv6RNhusKYYwrvZTGb5fgEgEgjNJGqSR9m80p91sGDFE+99PYyhbmacG8U2lb+VMs5vIP3bHchwn/m8has+t8NE635xUqqIq6TixfvXyCp/9iV6bIL7hlkyikdUwS4lkFBKidij6pl3flvWlIKBPFzb8kMzGNXdMaM4gZ9995ekdfzvlv5x1UDuogdSKaWdt1yFMUqkPmJK77LPITp0nUHMzLYdy7c9Rb57mUpC9NApem8q2OFmE4z7C4MlqlZKEoeMrT4unPGyg8pU6t7VbR8Gjp3aaOReUp7bl/hQsri7B8aNwjL5mzzyMiVpmz3PXbh6Zt4HbxA0Z0RLuUQMmay0=;5GfyuTjVmxYwouwRDjixaQ=="

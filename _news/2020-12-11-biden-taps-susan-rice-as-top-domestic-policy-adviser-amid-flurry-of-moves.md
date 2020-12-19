@@ -607,6 +607,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden may time confirmation votes to protect House majority"
+    excerpt: "President-elect Joe Biden’s decision to tap several House Democrats for administrative positions is putting Speaker Nancy Pelosi in a politically tough spot"
+    publishedDateTime: 2020-12-19T18:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-time-confirmation-votes-protect-house-majority-74808527"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-time-confirmation-votes-protect-house-majority-74808527"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-time-confirmation-votes-protect-house-majority-74808527"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6139efaf033d42579c0c3d46bd00a5aa_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Progressives frustrated with representation as Biden Cabinet takes shape"
     excerpt: "Some progressives are getting increasingly frustrated with the how President-elect Joe Biden’s potential Cabinet is shaping up, venting that the incoming administration does not properly reflect the r"
     publishedDateTime: 2020-12-13T15:24:00Z

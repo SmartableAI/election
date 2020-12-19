@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28T0QL"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T0QL"
 type: article
 quality: 118
-heat: 138
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,21 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Campaign 2016 updates: Donald Trump says women accusing him of sexual misconduct ‘will be sued after the election is over’"
-    excerpt: "Donald Trump hits the campaign trail in Gettysburg, Pa., while Hillary Clinton is in Philadelphia. Trump says women accusing him of sexual assault will be sued after the electionAn adult film actress becomes Trump's latest accuser Khizr Khan,"
-    publishedDateTime: 2020-12-17T05:03:00Z
-    webUrl: "https://www.latimes.com/nation/politics/trailguide/la-na-trailguide-updates-10222016-htmlstory.html"
-    ampWebUrl: "https://www.latimes.com/nation/politics/trailguide/la-na-trailguide-updates-10222016-htmlstory.html?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/nation/politics/trailguide/la-na-trailguide-updates-10222016-htmlstory.html?_amp=true"
+  - title: "Trump downplays impact of massive hacking, questions Russia involvement"
+    excerpt: "U.S. President Donald Trump in his first comments about a widespread data breach across the U.S. government downplayed the seriousness and impact of the cyber espionage campaign, and questioned whether Russia was to blame."
+    publishedDateTime: 2020-12-19T19:42:00Z
+    webUrl: "https://www.reuters.com/article/cyber-breach-idUSKBN28T0R1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28T0R1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T0R1"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 114
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/6a7f826/2147483647/strip/true/crop/0x0+0+0/resize/840x0!/quality/90/?url=https%3A%2F%2Fslack-redir.net%2Flink%3Furl%3Dhttp%3A%2F%2Fwww.trbimg.com%2Fimg-580c045b%2Fturbine%2Fla-na-hillary-clinton-tim-kaine-photo-20161022"
-        width: 350
-        height: 350
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201219&t=2&i=1545158640&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBI0FV"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump downplays massive cyberattack while Pompeo blames Russia"
+    excerpt: "President Trump responded to a massive cyberattack on the U.S., downplaying its severity and impact. Meanwhile, Secretary of State Mike Pompeo blamed Russia for the hack, which affected at least seven government agencies and went undetected for months."
+    publishedDateTime: 2020-12-19T20:06:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-downplays-massive-cyberattack-mike-pompeo-blames-russia/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/19/c4fe8484-65cb-4e80-9c18-bcd7156e46d5/thumbnail/1200x630/c917a8dd6992345c8768d9b7ab63fb51/cbsn-fusion-president-trump-downplays-massive-cyberattack-mike-pompeo-blames-russia-for-breach-thumbnail-612837-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Secretary of state says Russia ‘pretty clearly’ behind major cyberattack on US government, industry; Trump silent"
+    excerpt: "Mike Pompeo says Russia was “pretty clearly” behind the gravest cyberattack against the United States on record."
+    publishedDateTime: 2020-12-19T16:53:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-russia-hacking-cyberattack-20201219-l5mgq3q7mncgjb2fe7csbkbdiu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-russia-hacking-cyberattack-20201219-l5mgq3q7mncgjb2fe7csbkbdiu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-russia-hacking-cyberattack-20201219-l5mgq3q7mncgjb2fe7csbkbdiu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 104
+    images:
+      - url: "https://www.chicagotribune.com/resizer/19lNjHaESAwNGzeUPAfEWTjRL6M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CABCYCUO3BGJHLONLPWXO7J7AY.jpg"
+        width: 1200
+        height: 796
+        isCached: true
+  - title: "Trump Won’t Denounce Russia’s Hack Because He’s Still Subservient to Putin"
+    excerpt: "Ahh, we’ll talk about that at another time,” Trump demurred. The other time has not come. Three months later, that remains Trump’s last word on the matter. In the wake of news of Russia’s massive cyber-intrusion into a swath of private and public networks,"
+    publishedDateTime: 2020-12-19T02:25:00Z
+    webUrl: "https://nymag.com/intelligencer/article/trump-russian-hack-solar-winds-cyber-putin.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/trump-russian-hack-solar-winds-cyber-putin.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-russian-hack-solar-winds-cyber-putin.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 73
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/6af/d6c/26cd6125882e55475038280280ed424f15-trump-putin.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "R5f7GVxAdMA/0Z3IXKFBoE2eg49gULaeb6ZXKmSLRssaMCztv1WRawoICXlo/xhHocT4IBvybN6RfmLBk4eHFaGx86hFAW9PMPl9QERieuGYLA3JKu0SAbUZoRZo6IUG1G23R2L0k6plLFQ8JYwiVf1aFivGjKew5k9mX4k3ujVB7pZT0FcEUD0ajBSk4JvWXy8I9xWROkjULbmkmrOyXkeWdbEYmMUqXh/R8+CnRixlj20bxh9LYc8eaY4EK9d6U6yPsuHWoTDPFoAcHJivjcPYojygN8s21GKejC3xZJNmnXQgKp5zd1BmMuOtkU3/Sm9DbAGYFxmDR8eTJ2f8fqT8TIhdIq+NbP8TQbS1ASs=;tJWGN14zDsvYHelSXwAtZQ=="

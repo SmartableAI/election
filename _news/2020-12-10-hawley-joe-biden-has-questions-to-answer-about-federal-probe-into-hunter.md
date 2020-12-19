@@ -463,6 +463,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden unveils climate and energy team, promises 'ambitious' action"
+    excerpt: ""
+    publishedDateTime: 2020-12-19T20:42:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y6vOJ4W3N7w/biden-harris-climate-energy-team"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-climate-energy-team.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-climate-energy-team.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
   - title: "Biden admits to a 'bit of a cold' after Electoral College victory speech"
     excerpt: "Biden’s voice was slightly hoarse during the address, which took place shortly after he surpassed the 270-vote threshold required to win the White House."
     publishedDateTime: 2020-12-15T03:22:15Z
