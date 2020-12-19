@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Biden unveils climate and energy team, promises 'ambitious' action"
-excerpt: ""
+excerpt: "President-elect Joe Biden on Saturday unveiled his incoming administration’s climate and energy team in Wilmington, Del. -- hailing its diversity and promising \"ambitious\" action on climate change."
 publishedDateTime: 2020-12-19T20:42:31Z
 originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y6vOJ4W3N7w/biden-harris-climate-energy-team"
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y6vOJ4W3N7w/biden-harris-climate-energy-team"

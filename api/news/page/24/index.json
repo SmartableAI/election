@@ -2,114 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2020-11-14-this-is-mike-pences-moment.md",
-      "title": "This is Mike Pence’s moment",
-      "excerpt": "President Trump will not step up to address the covid-19 surge. Maybe his vice president can.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/11/13/mike-pence-leadership-coronavirus/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/11/13/mike-pence-leadership-coronavirus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CNICWLRDQMI6XHCKBXDCILCICQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/11/13/mike-pence-leadership-coronavirus/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/11/13/mike-pence-leadership-coronavirus/?outputType=amp",
-      "publishedDateTime": "2020-11-13T17:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-trump-says-he-may-stop-by-maga-rally-in-dc-on-saturday.md",
-      "title": "Trump says he may ‘stop by’ MAGA rally in DC on Saturday",
-      "excerpt": "President Trump showed his gratitude for the MAGA rallies in the nation’s capital this weekend to voice their dissent over the recent presidential election outcome – echoing the same resistance they mocked in 2016.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZV-shwLT2Vs/trump-maga-rally-dc-saturday",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZV-shwLT2Vs/trump-maga-rally-dc-saturday",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b59ed4f-70a2-4339-a427-fe424897bc6b/100d8a49-0939-4dfb-bd5f-0ca17b299bb4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp",
-      "publishedDateTime": "2020-11-13T16:16:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-14-gov-cuomo-responds-to-trumps-threat-to-not-send-vaccine-to-new-york-he-tries-to-bully-people.md",
       "title": "Gov. Cuomo responds to Trump's threat to not send vaccine to New York: 'He tries to bully people'",
       "excerpt": "New York Gov. Andrew Cuomo on Friday accused President Donald Trump of trying to use a potential coronavirus vaccine to intimidate him following Trump's assertion that Cuomo would hold up vaccine distribution in the state for political reasons.\n    \n",
@@ -1351,6 +1243,118 @@
       "topics": [
         "Election",
         "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-live-updates-bidens-lead-grows-in-pennsylvania.md",
+      "title": "Live Updates: Biden's lead grows in Pennsylvania",
+      "excerpt": "Presidential-elect Joe Biden is now leading President Trump by more than 50,000 votes in Pennsylvania.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bgRCnM7RYaQ/live-updates-bidens-lead-grows-in-pennslvania",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bgRCnM7RYaQ/live-updates-bidens-lead-grows-in-pennslvania",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dbbbd1cf-909c-4138-a7dd-b8ce894658e6/2b1d1d95-3f10-4dc8-88fc-bb7d950180cb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-bidens-lead-grows-in-pennslvania.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-bidens-lead-grows-in-pennslvania.amp",
+      "publishedDateTime": "2020-11-11T21:20:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday.md",
+      "title": "GOP senator says he’ll ‘step in’ if Biden doesn’t receive intel briefings by Friday",
+      "excerpt": "President-elect Joe Biden should be able to receive intelligence briefings by Friday, a Republican member of the U.S. Senate said in a radio interview that aired Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wr802TtyVrY/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wr802TtyVrY/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Lankford_Senate.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday.amp",
+      "publishedDateTime": "2020-11-11T20:56:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     }

@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump campaign told to preserve all documents related to Sidney Powell and Dominion Voting Systems "
+    excerpt: "President Donald Trump's campaign legal team sent a memo to dozens of staffers Saturday instructing them to preserve all documents related to Dominion Voting Systems and Sidney Powell in anticipation of potential litigation by the company against the pro-Trump attorney.\n    \n"
+    publishedDateTime: 2020-12-19T19:44:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0UXIek4FBSs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-campaign-sidney-powell-dominion-voting-systems/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-campaign-sidney-powell-dominion-voting-systems/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Supreme Court throws out challenge to Trump's plan to exclude undocumented immigrants from census count"
     excerpt: "The Supreme Court on Friday threw out a challenge to President Donald Trump's bid to exclude undocumented immigrants from being counted when seats in Congress are divvied up between the states next year.\n    \n"
     publishedDateTime: 2020-12-18T16:23:22Z
@@ -47,6 +63,52 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217193803-supreme-court-201212-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Lara Trump's potential Senate candidacy does little to scare away Republican challengers in North Carolina"
+    excerpt: "The 2022 US Senate race in North Carolina could provide an early test of whether the Republican Party will continue to embrace President Donald Trump after his loss, potentially featuring Lara Trump, the President's daughter-in-law, against a field of current and former Republican officials unwilling"
+    publishedDateTime: 2020-12-16T22:12:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ta5rNqu6NgU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/lara-trump-north-carolina-senate-mark-walker/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/lara-trump-north-carolina-senate-mark-walker/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003203702-29-trump-covid-circle-lara-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "With Trump Fading, Ukraine’s President Looks to a Reset With the U.S."
+    excerpt: "They roped us in, but I think we behaved with dignity,” Volodymyr Zelensky said of his encounter with American politics."
+    publishedDateTime: 2020-12-19T17:59:00Z
+    webUrl: "https://www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/18/world/18ZELENSKY1/18ZELENSKY1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Gingrich among Trump loyalists named to Pentagon advisory board"
+    excerpt: "Chief among the new board appointees is former House Speaker Newt Gingrich, an ally of President Donald Trump. | Paul Morigi/ for Dentons The Pentagon named eight new members to the Defense Policy Board on Monday,"
+    publishedDateTime: 2020-12-14T18:58:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/newt-gingrich-pentagon-advisory-board-445185"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/85/3f/ee01a5bd4597a648457f363a970e/201214-newt-gingrich-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "JJhNxQH/DqV3j8eDtp63jmO1Fl1O6AymPp4X7l/TCCmd6Yr/C4QiOtpCznK7HA4M7fE0ppdRE42BWBz/DDHsNLj0Oip8VSWubb3tMGS1neBzGHCj74cEBZDI/951zijtHLx77zqNvO16Z/5HIJNGrhJ5PeOPbxXYxA0lY8P1sfiFmnryZzq7EOyk4UADtUSvYoJnUa6DKuUi9KxEn0lhWs1CAyLBNIyj2ZIRmbrjg91EaDYdj0xOFU1aKfxZzsjV88AsNEj1tJZt/aKemyTT7zNaQEgSr54AybBBqyeQATVKIClsHjCLE5yiXXsenWTPz+PQBRVGb9Ir62VuJpP6Pi9UCAYuN1Xo7eoWeZTOMGay4HJRzRvJnQ2Kew7t7Xu50hJQNYm5kg0gPdMSxIA6OmQRopjBZiMTfl3CfaSEOIK8+7CB+6moiTre/QV1gMWH+H+QrsEIzeQiawJvbxHMLWHhLPE/ZgbG8AWLXlpbAXIrY51KbYyN6eo99FmA15jikIGuYX//tNZiCZ+NVlaYOg==;XB5F5VoDCxUJFKHgF7aWJQ=="

@@ -2,17 +2,21 @@
 category: news
 title: "Posturing over Kamala Harris' Senate seat is getting increasingly nasty"
 excerpt: "Gavin Newsom in selecting a replacement for Vice President-elect Kamala Harris in the United States Senate is growing increasingly contentious. California Secretary of State Alex Padilla is widely seen as the front-runner for the seat,"
-publishedDateTime: 2020-12-19T16:49:00Z
-originalUrl: "https://www.chron.com/politics/article/Kamala-Harris-Senate-seat-replacement-rumors-Gavin-15816155.php"
-webUrl: "https://www.chron.com/politics/article/Kamala-Harris-Senate-seat-replacement-rumors-Gavin-15816155.php"
+publishedDateTime: 2020-12-19T21:59:00Z
+originalUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-Senate-seat-replacement-rumors-Gavin-15816155.php"
+webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-Senate-seat-replacement-rumors-Gavin-15816155.php"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
   name: Houston Chronicle
-  domain: chron.com
+  domain: houstonchronicle.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -113,6 +117,6 @@ related:
       domain: parade.com
     quality: 52
 
-secured: "66pN6mrOAv8hNo4GHXj72lZZhaYd8bi7ipBlfVNqhXeKDgRMKIe/Se1RdGE9moBj1DB3wXt6gXYb2kg/VPqtQx8dHRxWoYNE6lDmRd3X7NwOYlEPXo8d49YS1daB2oPkgnf0sad/nGutuCT2/YaoHEuavA56MmV31SlKFw+rPCelAlI3QCZvbL6xnMchoIjCSvJpkokxLBYkBBxzW1w15OhLVmWH+85YcYgVgw8FMCQD13bEz2Vu/WMkgDEyB/1egMcABO20WPqi/Zqtl7OM+WKBXGC0KuDCo3VOk80GOsBA6nEi014K7bn2cAorEgqkU9eymOKA538uaWfM6FGFiDn3GWUrAMG0+BKreyi3A/o=;v9YwC7lZbasmeCE2230/Yw=="
+secured: "u9nmIdrRFRmqeTG5GRh+zXiQ+wP4RP0AItmNr9J/SUXDECwgvSk+YtWDQ9Bjyne4OnKmuneatthgokes0BgJ9Djfyf+Mtn9Nryg1cTwVRvoP7gsIgpxaLZ2/B0cmcyrwCstQi1DUsbO9zFZqoqe3eYibJ6Ft/RCKA8skevYBbrHWOgNYDvOdVv9forGfHS9C/+gp9o7id01bNye6+4KM3ceQgcy4waKJnfbrY+o0EDNTRvLFwmQsXbp2TXNoggR2HMxXxIHIaKSV1KMCWYpr0PWRX5p8eli/yP2nMgXvaZJKPMQ8HlkGEBF+IDEIjADw2D3/w9/Op0SsUM6G02aJT2ddhITbFokuiGFbOdSOh4k=;/lmlQH2Va8EQunTAFtW7Yw=="
 ---
 

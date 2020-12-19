@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Trump downplays impact of massive hacking, questions Russia involvement"
-excerpt: "U.S. President Donald Trump in his first comments about a widespread data breach across the U.S. government downplayed the seriousness and impact of the cyber espionage campaign, and questioned whether Russia was to blame."
+excerpt: "U.S. President Donald Trump, in his first comments about a widespread data breach across the U.S. government, on Saturday downplayed the cyber espionage campaign and questioned whether Russia was to blame as alleged by his own top diplomat."
 publishedDateTime: 2020-12-19T19:42:00Z
-originalUrl: "https://www.reuters.com/article/cyber-breach-idUSKBN28T0R1"
-webUrl: "https://www.reuters.com/article/cyber-breach-idUSKBN28T0R1"
+originalUrl: "https://www.reuters.com/article/usa-cyber-breach/update-4-trump-downplays-impact-of-massive-hacking-questions-russia-involvement-idUSL1N2IZ0F0"
+webUrl: "https://www.reuters.com/article/usa-cyber-breach/update-4-trump-downplays-impact-of-massive-hacking-questions-russia-involvement-idUSL1N2IZ0F0"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28T0R1"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T0R1"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201219&t=2&i=1545158640&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBI0FV"
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201219&t=2&i=1545156451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBI0DB"
     width: 817
     height: 545
     isCached: true
@@ -94,6 +94,6 @@ related:
         height: 630
         isCached: true
 
-secured: "FeP1XGRYA3GwILdxh6JRkzPfQ/FvFUx7seBm11PFYhU4HM8YT7eFs973bB+R2OOnqm7nB5tbUgGfgWpR0+SwPKZ89tEcwtEoYeNR9Zylb1JUtTTQKr8oKNgSb/1yoFetbU74Ba8ETogfzQ8k2CtBjkl3ZM+vexONbyPyhBbYzG0kJ4iowZEMJaAODfKCHEUZ+7GUWALDUGlT5GzVgavWp4Pnrpio2MKOFszQf1bI0HmjdtQGNEwLejAv6OJHl3yMO9AJjaWIspmofju2nCkGrohzwiPGUfPG1jHOUbC5qimUvddAL8MnYeCM7Utvgf4l2LFF/fpqwDXDyHl3w3yTPelRljpFc7MCu9jHxYy0HrQ=;TT/QlnCueSAQlJSb78OlkQ=="
+secured: "sjN1PTqMeTlE5JoQsxqEfWI9qTQBq0MI5cXYLYylstfi/eu6hHZGsOhFguIfHpnMIoD6C/G0nn7NFDJyIUg8NJdLMFw1x3/Ewb6a+tPTpdUGIhS0cv0BAgPntVb4af7SE3JYD6ORqYKIaJqwWXQgT5iSXdlFZk0n5yPO4qs5aQ3mck9vKPM2S5qhi7u0iLh3LLSJ7RmfriMTP/tNvq56Fs5snoRxoM0Dqcjhb84s2QRUKADboCWoOcISnYrx/6jGd+QWP7FTB0ZYBom8UkqZRrfkujUCMBxFWelvjYnB/DvMIQ/gP/lcmKyj34vPVUmC6LAn+N+giGW+E6tKEQLQVLqz1Moc7BH+fWFcv3qsVZI=;kjQ+YLVu+6ocrp1+FMY+NQ=="
 ---
 

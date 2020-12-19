@@ -617,6 +617,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "\"We're in a crisis\": Biden introduces climate policy team"
+    excerpt: "The vice president-elect formally announced his nominees for positions such as EPA administrator and Interior secretary."
+    publishedDateTime: 2020-12-19T21:28:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-climate-team-announcement-watch-live-stream-today-2020-12-19/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-climate-team-announcement-watch-live-stream-today-2020-12-19/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-climate-team-announcement-watch-live-stream-today-2020-12-19/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/18/5d619364-6dff-43fa-b823-22bdbf743c05/thumbnail/1200x630/1d70155ebd39283cb129d4044fdfa4d5/cbsn-fusion-former-white-house-official-discusses-president-elect-bidens-post-electoral-college-speech-cabinet-picks-thumbnail-612021-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden taps Susan Rice as top domestic policy adviser amid flurry of moves"
     excerpt: "U.S. President-elect Joe Biden chose Susan Rice, who was national security adviser to former President Barack Obama, on Thursday to lead the White House's domestic policy council as part of a flurry of appointments to his developing administration."
     publishedDateTime: 2020-12-10T18:32:00Z
@@ -1047,6 +1063,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2e1d175c-c4ea-45c6-ab01-1e5a997abea4_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden rolled out his climate and environment team"
+    excerpt: "President-elect Joe Biden on Saturday rolled out an environmental team that he hopes will steer America toward greater action to curb climate change and protect the nation's air and water. (Dec. 19)"
+    publishedDateTime: 2020-12-19T22:49:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/19/biden-rolled-out-his-climate-and-environment-team/3977388001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2746ba1f-83ab-4c28-aa87-193c625e95a8_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

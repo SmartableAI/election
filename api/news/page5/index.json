@@ -2,63 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-12-15-pence-likely-to-get-the-coronavirus-vaccine-by-friday.md",
-      "title": "Pence likely to get the coronavirus vaccine by Friday",
-      "excerpt": "Vice President Mike Pence is likely to receive the coronavirus vaccine by Friday, two sources familiar with the plans tell CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uDvPOjIjXI0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uDvPOjIjXI0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200826232610-mike-pence-rnc-august-26-2020-01-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/15/politics/mike-pence-vaccine-coronavirus/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/mike-pence-vaccine-coronavirus/index.html",
-      "publishedDateTime": "2020-12-15T12:44:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-12-15-trump-campaign-files-lawsuit-over-new-mexico-ballot-drop-boxes.md",
       "title": "Trump campaign files lawsuit over New Mexico ballot drop boxes",
       "excerpt": "As New Mexico electors cast their votes on Monday, President Trump's campaign team filed a suit over the state's use of ballot drop boxes.",
@@ -497,7 +440,7 @@
       "originalUrl": "https://www.reuters.com/video/watch/idOVD94HSYN",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -866,63 +809,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-gingrich-among-trump-loyalists-named-to-pentagon-advisory-board.md",
-      "title": "Gingrich among Trump loyalists named to Pentagon advisory board",
-      "excerpt": "Chief among the new board appointees is former House Speaker Newt Gingrich, an ally of President Donald Trump. | Paul Morigi/ for Dentons The Pentagon named eight new members to the Defense Policy Board on Monday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/14/newt-gingrich-pentagon-advisory-board-445185",
-      "originalUrl": "https://www.politico.com/news/2020/12/14/newt-gingrich-pentagon-advisory-board-445185",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/85/3f/ee01a5bd4597a648457f363a970e/201214-newt-gingrich-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T10:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -1366,6 +1252,110 @@
         "Election",
         "Kamala Harris",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-how-the-deep-state-scientists-vilified-by-trump-helped-him-deliver-an-unprecedented-achievement.md",
+      "title": "How the ‘deep state’ scientists vilified by Trump helped him deliver an unprecedented achievement",
+      "excerpt": "A $14-billion partnership between government and industry is spurring the quickest vaccine development in U.S. history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/",
+      "originalUrl": "https://www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LPMJUBR5JQI6XNMLCYR7MJTZMA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/?outputType=amp",
+      "publishedDateTime": "2020-12-14T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-a-lifelong-republican-stood-up-to-trump-his-reward-death-threats.md",
+      "title": "A lifelong Republican stood up to Trump. His reward: Death threats",
+      "excerpt": "Georgia election official Gabriel Sterling is girding for another battle with conspiracy theories and lies about the integrity of the voting system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/ec7582c/2147483647/strip/true/crop/2510x1412+13+0/resize/768x432!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F09%2F7c%2F1ec055ca4ff69835f12733d1a2fe%2Fsterlingthumb.png",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done?_amp=true",
+      "publishedDateTime": "2020-12-14T04:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

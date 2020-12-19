@@ -2,106 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-12-11-george-conway-writes-op-ed-calling-trumps-effort-to-overturn-the-election-the-true-big-fraud-of-2020.md",
-      "title": "George Conway writes op-ed calling Trump's effort to overturn the election the true 'big fraud' of 2020",
-      "excerpt": "\"History will record that the scam didn't succeed,\" George Conway wrote in an op-ed excoriating Trump's effort to overturn the election.",
-      "sourceUrl": null,
-      "webUrl": "https://businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12",
-      "originalUrl": "https://businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fd2968d7b7e0500191074ca?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12?amp",
-      "publishedDateTime": "2020-12-10T14:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-kamala-harriss-husband-will-teach-at-georgetown-law-school.md",
-      "title": "Kamala Harris’s husband will teach at Georgetown Law school",
-      "excerpt": "Vice President-elect Kamala Harris’ husband Douglas Emhoff will join the staff of Georgetown University’s law school next month. Emhoff, 56, will be the first non-female and first Jewish ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/",
-      "originalUrl": "https://nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/georgetown-law1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/amp/",
-      "publishedDateTime": "2020-12-10T13:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-10-ilhan-omar-quite-happy-with-biden-officials-receptiveness-to-her-ideas.md",
       "title": "Ilhan Omar 'quite happy' with Biden officials' receptiveness to her ideas",
       "excerpt": "“Squad” member Rep. Ilhan Omar, D-Minn., said she was “quite happy” with the response after submitting a list of proposed left-wing executive actions at a meeting with President-elect Joe Biden’s transition team.",
@@ -1343,6 +1243,119 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-biden-picks-marcia-fudge-for-hud-and-tom-vilsack-for-agriculture-secretary.md",
+      "title": "Biden Picks Marcia Fudge for HUD and Tom Vilsack for Agriculture Secretary",
+      "excerpt": "Ms. Fudge, a House member from Ohio, would be the second African-American Biden cabinet member chosen in two days. Mr. Vilsack would reprise his role from the Obama administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/08/us/politics/08dc-bidenhud1/08dc-bidenhud1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.amp.html",
+      "publishedDateTime": "2020-12-08T18:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-trumps-election-fraud-claims-push-arizona-gop-to-ask-voters-if-they-are-willing-to-die-for-results.md",
+      "title": "Trump's election-fraud claims push Arizona GOP to ask voters if they are 'willing' to die for results",
+      "excerpt": "The Arizona Republican Party released a tweet Tuesday asking voters if they were “willing” to give their lives to overturn the results of the 2020 November election -- an attitude adopted after President Trump has repeatedly claimed the election was fraudulent.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VFUsulOQgiI/trump-fraud-claims-arizona-gop-voters-willing-to-die-results",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VFUsulOQgiI/trump-fraud-claims-arizona-gop-voters-willing-to-die-results",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f548e96-0e69-4b34-9ffc-9dd478097051/8a04cbe6-53ec-4a37-b8f7-f91a0a51d40b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-fraud-claims-arizona-gop-voters-willing-to-die-results.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fraud-claims-arizona-gop-voters-willing-to-die-results.amp",
+      "publishedDateTime": "2020-12-08T14:58:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

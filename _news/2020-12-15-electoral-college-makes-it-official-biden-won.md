@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to be sworn into office in largely virtual event as COVID-19 rages"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will be sworn into office on Jan. 20 on the steps of the U.S. Capitol, but the inaugural festivities will be largely virtual due to the COVID-19 pandemic,"
-    publishedDateTime: 2020-12-15T23:02:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-idUSKBN28P2GO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2GO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GO"
+  - title: "'Democracy prevailed': Biden after official win"
+    excerpt: "Biden after official win. Posted . Democrat Joe Biden called on Americans to \"turn the page\" on the Trump era in a prime-time speech on Monday (D"
+    publishedDateTime: 2020-12-15T06:28:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD94HSYN"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 124
+    quality: 105
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544658548&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1JM"
-        width: 817
-        height: 545
+      - url: "https://static.reuters.com/resources/r/?d=20201215&i=OVD94HSYN&r=OVD94HSYN&t=2"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "+KPb81D7X1r5XL+bmp0Hs30ueLVne98EGsVTnXnkOwIZ4rzQJIGbR1KjiFtT6ivAXZ+fGx3eeAzpVnJ7aTKSlsWsYQ1PgIOTQfAatV0MFVKDil5vLaoY1ZLJbae6Opnfl+8j1Ut6W6XeNhQ95ZAEernq0nNfStwqBfNrpYUNpl9L5y8VPTafFt22ZRCTyH+7HGyEV+MEMB+vTvJ0I5KJ47xSi3r090wsJ9UB7mY1CBs+5Vw99BePxV4IpMyeJsDb3vR14H3p6zD54xe7J6SXqzClThg3RfK1mpuLKF4ZrVehCy6iFQZimhSsGU1JbNUo5RA8qzEStFEyihstoO80uGcvKG6OCA569Z4UCTtCkjFo28IY7JCfla4NmCDWNr1s54Fcmk9kFWBvtAtO4h3tfIYlP3DaUdqcFlZZsScrY9bmBQEd/NPOxSavd0++U437FOluWQysF08gmd0a2v2A+LTzqsJnwIRTOWFXVDf3K3vPz3eID+EBlqUu/ZRM4mtKY7+3eTj5JpvUsQXs/eQp6w==;nnwspYnfGslX4mp5Rm7mjA=="

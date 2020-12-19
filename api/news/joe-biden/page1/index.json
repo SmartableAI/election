@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-20-folks-were-in-crisis-joe-biden-introduces-environmental-advisers.md",
+      "title": "'Folks, we're in crisis': Joe Biden introduces environmental advisers",
+      "excerpt": "President-elect announces racially diverse team to face ‘existential threat of our time’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/03159c767c65ac80359381a5b009af4b78e0b79e/0_211_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=58dad6a73e9673345a1d1669253a4318",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm",
+      "publishedDateTime": "2020-12-19T14:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-20-biden-taps-brenda-mallory-to-lead-white-house-council-on-environmental-quality.md",
+      "title": "Biden taps Brenda Mallory to lead White House Council on Environmental Quality",
+      "excerpt": "In Wilmington, Del., on Dec. 19, President-elect Joe Biden introduced Obama administration veteran Brenda Mallory as his pick to serve as the first Black chair of the White House Council on Environmental Quality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/politics/biden-taps-brenda-mallory-to-lead-white-house-council-on-environmental-quality/2020/12/19/388f9b95-4659-4807-b0d1-2b0b577c601d_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/politics/biden-taps-brenda-mallory-to-lead-white-house-council-on-environmental-quality/2020/12/19/388f9b95-4659-4807-b0d1-2b0b577c601d_video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-19-2020/t_268efdbded95415b901ce57088758844_name_20201219_bidenclimateintro_mallory__EDITED_pool_thumb2.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+          "width": 1484,
+          "height": 834,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-19T14:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-20-jim-carrey-hanging-up-his-joe-biden-snl-impression.md",
+      "title": "Jim Carrey hanging up his Joe Biden ‘SNL’ impression",
+      "excerpt": "Jim Carrey is turning in his aviators and giving up his gig of impersonating Joe Biden on \"Saturday Night Live.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-carrey-joe-biden-snl",
+      "originalUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-carrey-joe-biden-snl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/c08e82c/2147483647/strip/true/crop/2382x1556+192+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F60%2Fb2%2Ffa60b0d84452baf1a342ae658b69%2Fglobal-citizen-prize-3.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-carrey-joe-biden-snl?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-carrey-joe-biden-snl?_amp=true",
+      "publishedDateTime": "2020-12-19T13:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-jim-carrey-to-stop-impersonating-joe-biden-on-saturday-night-live.md",
       "title": "Jim Carrey to stop impersonating Joe Biden on 'Saturday Night Live'",
       "excerpt": "Live” did not immediately offer insight as to who might pick up the impression, Carrey’s departure could allow a cast member to take over.",
@@ -599,58 +755,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-17-biden-to-tap-brenda-mallory-to-lead-white-house-environment-council-sources.md",
-      "title": "Biden to tap Brenda Mallory to lead White House environment council -sources",
-      "excerpt": "President-elect Joe Biden is expected to pick Brenda Mallory, current head of regulatory affairs at the green advocacy group Southern Environmental Law Center, to lead the White House Council on Environmental Quality (CEQ),",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-environment-ceq-idUSKBN28Q2O9",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-environment-ceq-idUSKBN28Q2O9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544790334&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF1GB",
-          "width": 794,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28Q2O9",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q2O9",
-      "publishedDateTime": "2020-12-16T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-12-16-macklem-bidens-arrival-could-eliminate-canadas-competitive-edge-on-immigration.md",
       "title": "Macklem: Biden's arrival could eliminate Canada's competitive edge on immigration",
       "excerpt": "The Trudeau government has talked up the importance of attracting top global talent as part of its pursuit of stronger economic growth.",
@@ -740,58 +844,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-biden-to-be-sworn-into-office-in-largely-virtual-event-as-covid-19-rages.md",
-      "title": "Biden to be sworn into office in largely virtual event as COVID-19 rages",
-      "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris will be sworn into office on Jan. 20 on the steps of the U.S. Capitol, but the inaugural festivities will be largely virtual due to the COVID-19 pandemic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-inauguration-idUSKBN28P2GO",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-inauguration-idUSKBN28P2GO",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544658548&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1JM",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28P2GO",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GO",
-      "publishedDateTime": "2020-12-15T15:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -981,7 +1033,7 @@
       "originalUrl": "https://www.reuters.com/video/watch/idOVD94HSYN",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1545,58 +1597,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-biden-facing-pressure-to-pick-congresswoman-deb-haaland-as-interior-secretary.md",
-      "title": "Biden facing pressure to pick Congresswoman Deb Haaland as Interior Secretary",
-      "excerpt": "Tribal leaders, progressives and prominent women have called for Biden to pick Haaland as his interior secretary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "originalUrl": "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/b2eecec4-b9a3-4c93-86db-a3f95fb27228/thumbnail/1200x630/90609bf67298dd0107ed148f9f4142a1/gettyimages-1044568894.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "publishedDateTime": "2020-12-10T17:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
