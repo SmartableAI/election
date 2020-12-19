@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Texas Baptist Minister, a Lifelong Republican, Loses License After Endorsing Biden"
+    excerpt: "\"Had I endorsed Donald Trump or kept my views to myself, I am sure I would still be a licensed Christian minister on the pathway to formal ordination,\" David Bumgardner said."
+    publishedDateTime: 2020-12-18T21:39:00Z
+    webUrl: "https://www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034"
+    ampWebUrl: "https://www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1661437/texas-voting.jpg"
+        width: 2500
+        height: 1669
+        isCached: true
   - title: "Hunter Biden reveals he is under federal investigation for \"tax affairs\""
     excerpt: "Hunter Biden, the son of President-elect Joe Biden, says he is under investigation over his tax affairs by the U.S. Attorney's Office in Delaware in a probe that dates back to 2018. CBS News political correspondent Ed O'Keefe joins \"CBSN AM\" to discuss the latest."
     publishedDateTime: 2020-12-10T13:43:00Z
@@ -73,6 +89,6 @@ related:
       domain: theguardian.com
     quality: 88
 
-secured: "1v7RmenS6y2SC0j8AcVvcXh4lzTrGNqKFHcXvfERhovzcl8NtfzJgjfeoVfiiQyfsQdIoBPbNM7zn7FyG5rt1VP0W4V+SJepjPQ93PEBOfkSTcH4mozFKeSSHbU7jfC5sNLTNj8uQIe/g1IYhf8Aq35TG9zMqcL683of+fz7sI525o49V2/Xsl+hBLDqPgGjBvPJ+kd+wEI5JLaXDig1ZMDf646b7IQms8x/DT/MFtGPn8ZcXuOnWOU1yYEaPnWhNTPkp7NQZYYnToXFfuazs7fxiKy28a3N9WSG6I2EcYdnzsfuyxUt4VKEMd93p3v7wnC5ux8mYEu57ikUAFvRMHMLFcy19e2fUkl5c9F45zs=;bbLPrDYxSYOXdx0onc6zMg=="
+secured: "HLmg+hOo3XNBED+8i2b6cOW1lsuRkTNQJpfDw/wZyxK7BSGkZ2EiaX47OBhfqNJ/Ug6UQqXASeHz9IK5a8I6HaWDGEr/V2S8GxQBK5rzmjmfV1ONOHe++jMkrjHCqMbA6ESqrHA5ARkRT8fzE1DrgueZzc8rBDZVhI4Rb6M9QqNgG0uBTU85pB/pjrmdIdgrsJ/hLPA4U2GeJ2uD5t+9WxOpFJ0VX6iWPSkYZiPk5nmPrVyziLpoJ0kwt9DxHZtAhACtuHBJk7vKsARmfq11b5JhoQ/8IenTSnbWlOXyjBJcFEU/1nmMEO1Tb1/R5ueVNK0tLocS0cVm2BuC1WZOjiGt88oxSne4XfR7BAvtYD9DjJIvG4rJN22ebPdzjrr5sWii5zibZmLrhtjc//WYnqy+UpDXVQPrVuGs84ufehXuzl6izEH1cPoWmCI8R0xg7y5flwroHg1EaYuXfdf5QhVfW+v7ka5zTzK7fnMUtP9qrraCi4DB9hX0i2GpoA/zBJMRKF98GVvq/tzlUjrtCw==;Hzec+G1YglrPUioCyc0zyw=="
 ---
 

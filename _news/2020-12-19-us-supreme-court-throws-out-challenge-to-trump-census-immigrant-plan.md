@@ -738,9 +738,9 @@ related:
   - title: "U.S. Senate OKs stopgap funding bill to avoid gov't shutdown, sends to Trump"
     excerpt: "The U.S. Senate approved on Friday a temporary funding bill to keep the government open through Dec. 20, sending the measure to President Donald Trump for signing into law."
     publishedDateTime: 2020-12-19T00:36:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-congress-funding-senate/u-s-senate-oks-stopgap-funding-bill-to-avoid-govt-shutdown-sends-to-trump-idUSKBN28T005"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28T005"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T005"
+    webUrl: "https://www.reuters.com/article/us-usa-congress-funding-senate-idUKKBN28T005"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28T005"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28T005"
     type: article
     provider:
       name: Reuters
@@ -1276,6 +1276,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "7J/Y1Qp5JxVZCMdS9fFQEE0fMpvU39A6k9uWCHGh6ZKZk6c0niUHhPz21kLucCoYxzpj6EOnDK5DqRxGu8WvHrdR/i44DYHzHs7tEBI8Lg1EWoDF6iTsBVUz8mvNk3iAJsXf2uHvl+DVGotBXSCdHlJnYCwH1VVz4RMcB4xpmKwx0ZcCVxVkq8Jtc+dnI8IqqNw3MJ0doMjbiO9c9ajomsAkLorVtkaO0118MA8HcOWqdY4TeONQ0kF/Q2YiVIxDSr8+YtK/EDbpjcHsXBQUfdJPPCvecmrnVjPixfZ46XNB57xF2lhd7ouMs2lExp1aaUzu3Yb4LjZc7f6AUxzSngrQ2r/UWTmn4x2+vQm7HOY=;u4aG4YSrOWw2I39m1ScMBQ=="
+secured: "RWNiWLzJz1JTGVtP7GisGxfafanbWtml8SaYYOTQlhzksvomygBHhAbzMBPqguq92y2RDl1kyvvY4IzhSRYoHZrzVx/cMBx8UZnIR7Q1WCpo0FchGfjTLRr8L1C4u/VDf5lYRE4lFj8afSZGdDDG4VqV5Sr2zscYH8jLSTvliDnpJHaSwyKrw+1muzAT6ZCjZ/Eku7a0jZ3jOrpESj/wf/laff1nU2UzCmU2CfO0Ypaj0M5SgVn3lHAeIkIm5hBu/HMXIRVMeXntzaF5nTK+1yOioL+R602Z5LR8vif5mMD5S2c9VmNSY5JEhXJioxFTD3A5uaMJLHttrSyKG0e6AOaX01C4Dr4/ZG0zXg/c0WCIJgZa1pMvYWx9RieMy5gBUS5i0N6blzuxujEoM0p5x9Y7vl6bun6E187g80jejOe21CK2/Qyclk1vcv7qpKlsXc3wlnugWVs8VnGAl9mZX5Ltgt1AiYNiw/EAaUIRi/yohTQZ69HViDKnyIK+SH40WaqDUu9UXiLwxIa/E45tAA==;GQzZFpGzkTVY1Wqt9++jOg=="
 ---
 

@@ -575,6 +575,22 @@ related:
         width: 1440
         height: 772
         isCached: true
+  - title: "With climate change focus, Biden filling environmental, interior posts"
+    excerpt: "(This Dec 17 story corrects historic significance of Michael Regan's nomination in 2nd paragraph to say if appointed, he would be the first Black man to run the EPA. Also corrects references in previous updates of story."
+    publishedDateTime: 2020-12-18T20:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idUKKBN28R1FT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28R1FT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28R1FT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544975651&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG1VL"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden taps Susan Rice as top domestic policy adviser amid flurry of moves"
     excerpt: "U.S. President-elect Joe Biden chose Susan Rice, who was national security adviser to former President Barack Obama, on Thursday to lead the White House's domestic policy council as part of a flurry of appointments to his developing administration."
     publishedDateTime: 2020-12-10T18:32:00Z
@@ -1162,6 +1178,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "d9F3GSruCQEC5idPKaGLcOsc/jLMxGXZMtT5fNCon0FomyTa0yC8eCIw1x9ifH3jlXHTloWOGOwCdrBj8E35ND/5+0kD7WOiH4RhKXNU9lxc/keNy1UVNu+ZwLqTWax/19ql3d2tWYDFwysKgucEzlU58KACcZCMulVtAXZ89bIaG5vD2XE1LjOkRyT/ketKompqQHEL5oip9mb6HUYUzrQ/95HHHMSFtiPFEkmTB0EWVQoEqkTPxj/BtFZvSuj/rxHlL5DUQk9HUf5l+TZgXrXHqSA/EXdKeIneHGtAGNMK0vAqdZAL13j7YhRYjlwy97tG0Dp55uw3a62JiCYaDTNlVe+a8zi7kOwhkDpWN2M=;x1PRXdBwR2SdM1yq40L9CA=="
+secured: "XknA3UkHmXO2yZ+U6aezo8p11i8HSTIg9dV+EJOdrQSsJZIbjQRrU1pLQprtwC9m9h6+THO4bI6SfXRQysoIFqynIDmtlRQqPo/PrhJAYhmtMJVcIVHGQIp7Xf+2JMoKsVICZLOKNB8LWNEVRwLp5F77kxliQxcm9MjWBE8ozHyJl7keRIOsslOpB4oJCAvQcPVXpQLsBC7c199VZaY6lA8hRyXTnFQC4xqQwNzmgila3We6eqHx/OH0YL0/x068jmzQMQetznncFq1U7+S4wEC25R9tuHuY1dqHnsJsI4hw2D+8Ntxh1ilh0mk4Xongoq0h9JuR1gKZQm77/fUkTPZHV73XUi+ztC0eWuEyli/bpXgHCQ1vS4jgFNjEfMNkffQ+s4rQ85gqOwHvNOZuY7PP5whducUgzu7PMD/wwdZJDmU2a0qsKy2EaSpG9e3wBnR0jif67tA1914AaMqfoKTAcKV8gfyo00+OF1d/G2qS45Z1Q/hW8wluBIjZ6cOouHr+CJ1pVBmmJR7+esuMAQ==;7T7Q70fkYfEcM6czhYLFtA=="
 ---
 

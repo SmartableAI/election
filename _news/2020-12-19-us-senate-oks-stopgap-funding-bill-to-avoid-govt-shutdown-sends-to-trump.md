@@ -3,10 +3,10 @@ category: news
 title: "U.S. Senate OKs stopgap funding bill to avoid gov't shutdown, sends to Trump"
 excerpt: "The U.S. Senate approved on Friday a temporary funding bill to keep the government open through Dec. 20, sending the measure to President Donald Trump for signing into law."
 publishedDateTime: 2020-12-19T00:36:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-congress-funding-senate/u-s-senate-oks-stopgap-funding-bill-to-avoid-govt-shutdown-sends-to-trump-idUSKBN28T005"
-webUrl: "https://www.reuters.com/article/us-usa-congress-funding-senate/u-s-senate-oks-stopgap-funding-bill-to-avoid-govt-shutdown-sends-to-trump-idUSKBN28T005"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28T005"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T005"
+originalUrl: "https://www.reuters.com/article/us-usa-congress-funding-senate-idUKKBN28T005"
+webUrl: "https://www.reuters.com/article/us-usa-congress-funding-senate-idUKKBN28T005"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28T005"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28T005"
 type: article
 quality: 122
 heat: -1
@@ -1276,6 +1276,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "s1c8p2OwM/GHnqRsYJbLmhsj6he7sqxIW/lixAb7KbeWCYFP+2cbHz6EKGHgiNefAh84CeZYPU7N9qfXsisOPdGdBf3434QNRr23dapuaUJTuyzDNIWaFBfL7WxmkAFyeXdmKGPPiZd7TkGlxi6Wm42HtG89jbZKY9AiYNYcJgze7jMYiFPzI0g9z7w5MZxjleniPX7392PvBAiQU/grq9GDjLJ8kRSJQE9Y2mz/fELD+yg0t/E6GEKdI4h7oTF6XSRoCBgQtnXat16+hHzr47lJmKKZ1xYQMV6V455y+Sxyu9yQlrOxWWFtED3RvMtMiHsOAFB8+nsEWWdhyCNaMXSNcDihHqGiL+/0eTJ4kcA=;T81oUeqUEgw8GQMtkBqlzg=="
+secured: "nH4zQ0ymK1u4Kf7+VuZBgbY/rLxZZ+C8kdpTUeXrFSnk/XbR3BmV8k1DmnioeBWQNxIexiu8gFS3DgIpNdKWQkQmsNEskDPW6D4Q8T/79PuKrqv9Hnq0493BmPxxyxivN6XA5fuaikCP/ULgBQScPfnZ9Y63WsOtItGH+onyUmMR/DZJzFIyOlZ/ZiNIhlvCNl9p7KNA/9mCY7ZF6gmUOsHXR1x8iKdgzTE+AJJz0f/f5RBolyQEY4AAIm9lfJwQowNKb11DHmWPiUQXbAVT0NlmNXCwG6le+6imJRltrljepaypmNRGNQZ/mrRnQp7CygY8Rv2b737KDhOYC9Pctb5CR7Fap3MWO5X1bnvX6AQ=;H1VAVz3oCHYYGkcf3wyR+w=="
 ---
 

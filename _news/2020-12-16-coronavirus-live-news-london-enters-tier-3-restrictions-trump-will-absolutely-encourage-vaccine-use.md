@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Pence likely to get the coronavirus vaccine by Friday"
+    excerpt: "Vice President Mike Pence is likely to receive the coronavirus vaccine by Friday, two sources familiar with the plans tell CNN."
+    publishedDateTime: 2020-12-15T20:14:00Z
+    webUrl: "https://www.newspressnow.com/news/national_news/election2020/pence-likely-to-get-the-coronavirus-vaccine-by-friday/article_e0e8d432-00c6-5620-9ddf-fd55d10ed27b.html"
+    type: article
+    provider:
+      name: News-Press NOW
+      domain: newspressnow.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/custom/image/bcf8e96c-4b35-11e5-9c03-7b4fbbdd1e31.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "uUIYpPpe8RgYP5iN0FRdbXZgpB7lJpt/rvTf97kHMUA/EOm5uBccB3YPKkVggHicecfvPeQI5wOZnRF+CCyL6ZLq1ssbC4Bdk+pcgtvknAZ6X4D0Ew/nUq/O5CNtEk/xZ6fISa9jav7DJOuFPL+beQl/lSZrXgfuOYfgLR1j7lhwIZ1I0vxDflES7l0C9spF4xUYQ9EPGk/31QtPNvFwvoi+Ll/Qy4S5VIxVXjC3a/MgUAaiCvKreIaH5PuPIJLNOiizDM0lIlmbSb2LwT/OW04ZacicKwYImSVGEntq6Lq573cq2ayjuKCwHqmLDgHHMckJMb4ZM6E414lgPKjxWCINMVkugnywqT3h8sdgv4Y=;tQxLWte+ODcqTY2D0tqXFw=="
 ---

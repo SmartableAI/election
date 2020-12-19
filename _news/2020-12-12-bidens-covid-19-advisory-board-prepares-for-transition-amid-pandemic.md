@@ -29,35 +29,53 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to be sworn into office in largely virtual event as COVID-19 rages"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will be sworn into office on Jan. 20 on the steps of the U.S. Capitol, but the inaugural festivities will be largely virtual due to the COVID-19 pandemic,"
-    publishedDateTime: 2020-12-15T23:02:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-idUSKBN28P2GO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2GO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GO"
+  - title: "Mike Pence and wife Karen get COVID-19 vaccine injections"
+    excerpt: "Vice President Mike Pence gets the coronavirus vaccine during a White House event aimed at convincing skeptical Americans that the vaccines are safe."
+    publishedDateTime: 2020-12-18T17:24:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections?_amp=true"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544658548&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1JM"
-        width: 817
-        height: 545
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/59d266d/2147483647/strip/true/crop/1512x988+0+514/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbc%2F24%2Fc71925d1213c61e942569e5e6a7f%2Fb857790e7da64295bcaa07401c1d033b"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Electoral College makes it official: Biden won"
-    excerpt: "The Electoral College decisively confirmed Joe Biden on Monday as the nation’s next president, ratifying his November victory in an authoritative state-by-state repudiation of President Donald Trump’s refusal to concede he had lost."
-    publishedDateTime: 2020-12-15T05:31:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/15/electoral-college-makes-official-biden-won/3901023001/"
+  - title: "Mike And Karen Pence Will Get The COVID Vaccine Before Cameras This Friday"
+    excerpt: "Vice President Mike Pence is set to get the COVID-19 vaccine at the White House on Friday, officials announced Wednesday, making him the highest-ranking person in government to receive a dosage. Pence and second lady Karen Pence are expected to get the vaccine in public before media \"to promote the safety and efficacy of the vaccine and build confidence among the American people,"
+    publishedDateTime: 2020-12-17T02:49:00Z
+    webUrl: "https://www.buzzfeednews.com/article/salvadorhernandez/mike-pence-joe-biden-vaccine?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/salvadorhernandez/mike-pence-joe-biden-vaccine"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/salvadorhernandez/mike-pence-joe-biden-vaccine"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 123
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-12/8/21/campaign_images/f348116ee526/biden-plans-to-give-50-million-americans-covid-19-2-2341-1607463581-2_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
+  - title: "Vice President Mike Pence to receive COVID-19 vaccine at White House Friday"
+    excerpt: "Vice President Mike Pence and his wife will be vaccinated for COVID-19 at the White House to build public confidence in the vaccine."
+    publishedDateTime: 2020-12-18T11:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3948306001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3948306001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 105
+    quality: 123
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/815449b8-6497-4ef2-bafa-450265f6c1b5_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.gannett-cdn.com/presto/2020/12/17/USAT/a5af1613-f197-4a43-9457-c64fb9d7c38c-Pence_mask.jpg?auto=webp&crop=4673,2629,x0,y237&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "sOvif3Bro3aBbc27YwoFZAh5P6/J7CoZbrOfBT6e4eInzAqSnG5hhyQ6b0/9dzXgpEQUKdBnnIdRz+XPYuvFvaI1kpOpwWPFiaclpEuO8IzOU2XfPfOk6Gl4GldO2ScAPr2IfiNHe5lrY/xcITFW5KnvOSq3GsXLDZ91HQiI6dYYajlE7lYUBIjcUchd0Tpu0n1KZ7lFW7G0sK85tBxZKzZVkn6/N00UzrP5LFDDW0k18hBbq2J4xAT1nr6pwrzFiZcQhraPriHnoCjectuEEMyBBu3WshUxjHCj1ga0ml2B0qYB78/nE9RqmytEue/HoedC8w61g0h/CJGKIJhTu5tsBk9mXRCJUZMk0v3FbarEsX6eMxjL4lz2X4yD7agRUKKOiF85TNijUPBgeZdz+3CR901C5NXRSUbxEeTstyro0ZzqFKcV2FIcmAfhg4P40TNK9g53FvZ1odUYtUUaiqiep6M+dQySu/LMMfpj6HJMs478trkYuh4j2qnvjlFAjnvvj4lohFAw5OjUG03WpQ==;eXDJzYTV+QxPEBEbpMTA6g=="
