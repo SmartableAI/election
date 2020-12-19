@@ -2,63 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-10-cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal.md",
-      "title": "Cotton: 'Dangerous' for Joe Biden to rejoin Iran nuclear deal",
-      "excerpt": "This is a rush transcript from “The Story with Martha MacCallum\" November 30, 2020. This copy may not be in its final form and may be updated. MARTHA MACCALLUM, FOX NEWS ANCHOR: Thank you, Bret. Good to see you tonight. Good evening, everybody. I'm Martha MacCallum in New York, and this is THE STORY. So, as President Trump prepares to head to Georgia on Saturday to rally the vote for the two Republicans who can make or break the GOP Senate majority, he will have to thread the needle of his dissatisfaction with Governor Kemp and the candidates who can cement his legacy. As Victor Davis Hanson writes of the president today, he has a year or more to decide whether he wishes to play kingmaker among would-be Republican congressional and presidential candidates or run himself for a second term. Geraldo Rivera, Fox News Correspondent-at-Large. GERALDO RIVERA, FOX NEWS CORRESPONDENT-AT-LARGE: Hi, Martha. MACCALLUM: Hi, everybody. Great to have you with us tonight. The first thing that I just want to note with regard to these election issues,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal",
-      "originalUrl": "https://www.foxnews.com/transcript/cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2970927c-3de0-45c7-ac27-2dd8e5214ff2/fb93b2b6-66cf-45d1-a0b8-b588a1779790/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal.amp",
-      "publishedDateTime": "2020-12-10T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-10-biden-has-reportedly-chosen-capitol-hill-staffer-katherine-tai-as-his-us-trade-representative.md",
       "title": "Biden has reportedly chosen Capitol Hill staffer Katherine Tai as his US trade representative",
       "excerpt": "If she is picked, the House Ways and Means chief trade lawyer would be the first woman of color to hold the position.",
@@ -1616,6 +1559,49 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-joe-biden-says-this-is-not-a-third-obama-term-in-first-sit-down-interview.md",
+      "title": "Joe Biden says ‘this is not a third Obama term’ in first sit-down interview",
+      "excerpt": "Although his list of cabinet nominees included many Obama-era alumni, Joe Biden said the challenges facing him were unique",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency",
+      "publishedDateTime": "2020-11-25T16:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

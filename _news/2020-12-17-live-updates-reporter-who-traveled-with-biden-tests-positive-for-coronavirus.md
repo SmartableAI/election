@@ -272,22 +272,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump signs 2-day stopgap bill allowing Congress more time to negotiate coronavirus relief"
-    excerpt: "Congress looked to avert a government shutdown for the second time in a week by passing a two-day stopgap funding bill to allow lawmakers more time to agree on a COVID relief bill."
-    publishedDateTime: 2020-12-19T02:56:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UPqr4YkA0xM/congress-averts-government-shutdown-stopgap-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/congress-averts-government-shutdown-stopgap-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-averts-government-shutdown-stopgap-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c3db3fd-7d8d-4dd8-806d-31a44f628bdf/a5461994-6b1e-4bea-9685-f5fdc5122b96/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump Jr. to stump for Perdue after Pence rallies Thursday, as Trump team answers Biden event"
     excerpt: "Donald Trump Jr. will hold his first in-person events of the Georgia Senate runoffs this week for Sen. David Perdue, adding himself to the long list of boldface political names to descend on the Peach State for the critical Jan."
     publishedDateTime: 2020-12-16T12:03:00Z
@@ -339,7 +323,7 @@ related:
   - title: "Joe Biden’s 5 Tech Priorities"
     excerpt: "The incoming administration faces decisions about which Trump-era policies to continue and fresh challenges of its own."
     publishedDateTime: 2020-12-19T10:00:00Z
-    webUrl: "https://www.wsj.com/articles/joe-bidens-5-tech-priorities-11608354009?mod=rss_Technology"
+    webUrl: "https://www.wsj.com/articles/joe-bidens-5-tech-priorities-11608354009"
     ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-5-tech-priorities-11608354009"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-5-tech-priorities-11608354009"
     type: article
@@ -399,6 +383,22 @@ related:
       - url: "https://images.wsj.net/im-271252/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump signs 2-day stopgap bill allowing Congress more time to negotiate coronavirus relief"
+    excerpt: "Congress looked to avert a government shutdown for the second time in a week by passing a two-day stopgap funding bill to allow lawmakers more time to agree on a COVID relief bill."
+    publishedDateTime: 2020-12-19T11:40:00Z
+    webUrl: "https://www.foxnews.com/politics/congress-averts-government-shutdown-stopgap-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/congress-averts-government-shutdown-stopgap-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-averts-government-shutdown-stopgap-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c3db3fd-7d8d-4dd8-806d-31a44f628bdf/a5461994-6b1e-4bea-9685-f5fdc5122b96/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Chris Rock calls on Joe Biden to create 'Supreme Court of Science' to handle any crisis like the coronavirus"
     excerpt: "Chris Rock called on President-elect Joe Biden to institute a fourth branch of government dedicated to science in order to combat another crisis like the coronavirus pandemic in a bipartisan way."

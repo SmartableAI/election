@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden weighs options for education secretary who will face early political pressure in school reopening bid"
+    excerpt: "President-elect Joe Biden promised to nominate a teacher for education secretary -- and could quickly put his choice into a political pressure cooker, as teachers' unions balk at school reopening plans and Biden seeks to reopen most schools within 100 days of taking office.\n    \n"
+    publishedDateTime: 2020-12-19T13:14:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KLdhyZm-QC8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/joe-biden-education-secretary-decision/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/joe-biden-education-secretary-decision/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218161335-biden-education-secretary-possibilities-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden Faces Challenge as Congress Drops State Aid to Secure Stimulus"
     excerpt: "A campaign by conservative activists and disputes over how to divvy up federal assistance have thwarted negotiators. But President-elect Joe Biden will make a new push for such funding next year."
     publishedDateTime: 2020-12-17T23:33:00Z

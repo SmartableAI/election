@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/biden-pete-buttigieg-eve
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/biden-pete-buttigieg-event/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191209170212-14-pete-buttigieg-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden weighs options for education secretary who will face early political pressure in school reopening bid"
+    excerpt: "President-elect Joe Biden promised to nominate a teacher for education secretary -- and could quickly put his choice into a political pressure cooker, as teachers' unions balk at school reopening plans and Biden seeks to reopen most schools within 100 days of taking office.\n    \n"
+    publishedDateTime: 2020-12-19T13:14:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KLdhyZm-QC8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/joe-biden-education-secretary-decision/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/joe-biden-education-secretary-decision/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218161335-biden-education-secretary-possibilities-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

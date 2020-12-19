@@ -266,6 +266,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trump signs two-day spending bill, narrowly avoiding federal shutdown"
+    excerpt: "President Trump signed a stopgap spending bill Friday night, aimed at extending a midnight deadline to keep the federal government funded and avoid a shutdown. The Senate had passed the measure with a unanimous voice vote."
+    publishedDateTime: 2020-12-19T13:28:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-signs-two-day-spending-bill-narrowly-avoiding-federal-shutdown/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/19/fe3ad989-62cc-4804-bf6a-db03fbe8588c/thumbnail/1200x630/efc1169bcb63f8ad076de34acc4fb270/1219-satmo-captiolhilllatest-reid-612724-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump's would-be neighbors say he can't live at Mar-a-Lago post-presidency"
     excerpt: "The Post’s Carol D. Leonnig explains the difficulties President Trump will have if he claims Mar-a-Lago in Palm Beach, Fla., as his post-presidency residence."
     publishedDateTime: 2020-12-18T18:51:00Z
@@ -324,6 +338,6 @@ related:
         height: 716
         isCached: true
 
-secured: "yI7UZTqHwQp/WcdlWkovUhOfCLNIyzRulCSiXRA1BwKkZBl1JXXvjD8D6IIwNJA7JDxEoyntHUK7A2nfN2WgTAdL+RNIvUvD5OYwzTmw951vP2AgXzLZiIsi4jEdc7QCuu+pPTo6mDnjyiGG5yBFDKM/N1lviMX7akE0ytWYc9kCj93NWF5rxHLFq6ma/eY9WrKQzK2FVmC4V1f6fu0mB7O26EAATLcsIrJE3i/AeZkS1hc9Afon7n4LluLFJL5LuR4dIN19MgsIWN1e2zkoOkD9ajkR4RPNMBkTM3sfxkDvtn8HB0YnfpN2xyY/ASkZgy6OXaCX/Ts7RA0mdqACAUCGClrsaliYvovYU48kLHE=;7aJ2C/WXybM4H1rZR4jApw=="
+secured: "YEAZ7xIXeOZ+IDvGd+6Xl9oCGz2EJkgiVZTZVcHTSzotI/uCAnNzNpjHvpL6FPEuE2LZUqbbtYuCXol6mDBZUoSYPAuuxZChmsJLjg231Yeb4lH0sZfJgw8d9SJS+efvsRH3AQ7YXUWx81/Cf7hXi3OqN7+I5iOMm75C/hQdUbgl2sPFZTFHoWQMX2pM/p4qVr8VzSnZCuy+g7KINrk6KpkQXZ0CTXuhHXrHXHyDkLZXcSOBP1YU3fPoCaOM6wsWKKdDFr1FVWeLdgmzjE9wgSkifds4SVXDG+pw+HzWa1azLwQU0XL6m3Spt4FHME17XLxKzRR1IvLLEz4brQ7Nw/1gy/4IvFKv2gZ7duOCEFOVJ9YlmeAHdCirPm1PTVTp1grIoT1M/FwwFMRheKVLJIUW0wSQo/eyrsps+YYED3nRrQOQIU87nz3n3KixhqhEyhXvdqzxqL/R1EDLroXS1fdW6kTftD/8wDH6qWCj8E9XTXp4s2zIAUqN1xRKLM4VqUadkqjHOhdJ2PPMG6cxDw==;NIZULoNa4uRWZICTLKOhDQ=="
 ---
 

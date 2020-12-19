@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to introduce key members of climate team Saturday "
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are expected to introduce key Cabinet nominees and members of his climate team at an event in Wilmington, Delaware, on Saturday.\n    \n"
+    publishedDateTime: 2020-12-19T14:08:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MY0JJzm_UsY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/biden-climate-team-introductions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/biden-climate-team-introductions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215062840-03-joe-biden-1214-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: The worsening pandemic raises the stakes for Biden's economic program"
     excerpt: "Sitting in an Iowa diner a year ago, candidate Joe Biden aimed his economic agenda at the widening gap between America's rich and everyone else.\n    \n"
     publishedDateTime: 2020-11-29T14:15:35Z

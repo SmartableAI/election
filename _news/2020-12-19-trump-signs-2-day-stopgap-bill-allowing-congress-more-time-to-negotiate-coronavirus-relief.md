@@ -2,13 +2,13 @@
 category: news
 title: "Trump signs 2-day stopgap bill allowing Congress more time to negotiate coronavirus relief"
 excerpt: "Congress looked to avert a government shutdown for the second time in a week by passing a two-day stopgap funding bill to allow lawmakers more time to agree on a COVID relief bill."
-publishedDateTime: 2020-12-19T02:56:29Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UPqr4YkA0xM/congress-averts-government-shutdown-stopgap-bill"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UPqr4YkA0xM/congress-averts-government-shutdown-stopgap-bill"
+publishedDateTime: 2020-12-19T11:40:00Z
+originalUrl: "https://www.foxnews.com/politics/congress-averts-government-shutdown-stopgap-bill"
+webUrl: "https://www.foxnews.com/politics/congress-averts-government-shutdown-stopgap-bill"
 ampWebUrl: "https://www.foxnews.com/politics/congress-averts-government-shutdown-stopgap-bill.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-averts-government-shutdown-stopgap-bill.amp"
 type: article
-quality: 165
+quality: 125
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -322,7 +323,7 @@ related:
   - title: "Joe Biden’s 5 Tech Priorities"
     excerpt: "The incoming administration faces decisions about which Trump-era policies to continue and fresh challenges of its own."
     publishedDateTime: 2020-12-19T10:00:00Z
-    webUrl: "https://www.wsj.com/articles/joe-bidens-5-tech-priorities-11608354009?mod=rss_Technology"
+    webUrl: "https://www.wsj.com/articles/joe-bidens-5-tech-priorities-11608354009"
     ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-5-tech-priorities-11608354009"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-5-tech-priorities-11608354009"
     type: article
@@ -434,6 +435,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "c/yU+qhuVkQ3+YKtYfJ9k+9oANUY1kHj1AxwHZBdyXoXOQ56o56ZpQVm7I1M40bEFquoVXKkHn0CgmTNWIpNjoOw9q+6ntB+p+kLyK/Rqq8v5voNhB32RQkZjomlpyBK2Q1Zx5UZeFEplsHgX16L2LGusFELL48bx7K7DE+6t6wXQYbDbE54q1nVbsVVk5ySkitOwOl2B+SE94O0EDh9S9wD69x6THcL6339JZaE8lHcska6d33MVUaOBZIN671XOwzBWgFFbVczL1QtOEtEDvI+PlpEAnySxMTbeVJYhUJ1uxeasjapiB+FgQjWfjGHIMcGJRw3XmH6umJuqagLzYkOMVRyNwQeE7fi9PjWkh0=;webo+nlE8f4ldZ4kH0ClWg=="
+secured: "YQFDfYHH5qguARI1wSlPlCgbJ0y1hL+L28uORwEvSh0IIhsaHAuldbmLe7kbhAGG43RrKER/9yg4tRVJQTKA5f7RLRmUqu13nvs4bFJLT96u5HagIr+U6JcW+pNB627dqSNYZn1IhX3BjKzw+kXI1GBqEH69Jq2WIp37kLmadRXp65ki9OIGZySJsbX1Yz9ffXVz9mMtf7eNKHLozoRtllZDvzuzJ2hIgPwPjRPcn2QkHIdSebEqblBdNDQnLZVIyPKROTJL8/kPvc2wSRhWweS9teVeWYdQKjkWP+L6xURaM8J/F4GxIISBlju7rW1z80b42PmATH+alM6721IX0RCraXAMNcuUmcLYVnj7gTI=;BYFypIv0i/4PvSmU8wOB/A=="
 ---
 

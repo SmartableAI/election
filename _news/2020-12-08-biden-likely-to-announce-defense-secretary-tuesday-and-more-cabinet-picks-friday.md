@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to introduce key members of climate team Saturday "
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are expected to introduce key Cabinet nominees and members of his climate team at an event in Wilmington, Delaware, on Saturday.\n    \n"
+    publishedDateTime: 2020-12-19T14:08:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MY0JJzm_UsY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/biden-climate-team-introductions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/biden-climate-team-introductions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215062840-03-joe-biden-1214-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden expected to nominate Xavier Becerra to lead Health and Human Services"
     excerpt: "President-elect Joe Biden is poised to nominate California Attorney General Xavier Becerra to lead the Department of Health and Human Services, a Biden transition official tells CNN.\n    \n"
     publishedDateTime: 2020-12-07T00:56:58Z
