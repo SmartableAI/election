@@ -77,6 +77,22 @@ related:
         width: 2500
         height: 1669
         isCached: true
+  - title: "Iran rejects IAEA chief's call that new agreement needed after Biden takes office -tweet"
+    excerpt: "Iran's ambassador to the International Atomic Energy Agency on Friday rejected the UN atomic watchdog chief's suggestion that reviving Iran's nuclear deal after a new U.S. administration comes to power would require striking a new agreement."
+    publishedDateTime: 2020-12-18T11:57:00Z
+    webUrl: "https://www.reuters.com/article/iran-nuclear-iaea-int/iran-rejects-iaea-chiefs-call-that-new-agreement-needed-after-biden-takes-office-tweet-idUSKBN28S0OK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S0OW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S0OW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544999702&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH0DB"
+        width: 852
+        height: 545
+        isCached: true
   - title: "Biden presents new defense chief as son Hunter reveals his taxes are being investigated – as it happened"
     excerpt: "President-elect introduces Lloyd Austin to lead US defense as news that Hunter Biden’s tax affairs are under review surfaces"
     publishedDateTime: 2020-12-10T01:11:00Z

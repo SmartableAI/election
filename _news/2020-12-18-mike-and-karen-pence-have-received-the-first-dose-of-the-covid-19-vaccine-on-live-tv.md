@@ -368,18 +368,18 @@ related:
       domain: napavalleyregister.com
     quality: 55
   - title: "Vice President Mike Pence Receives COVID-19 Vaccine During Live Broadcast"
-    excerpt: "Vice President Mike Pence and second lady Karen Pence, seen here in a TV screen grab, received Pfizer's COVID-19 vaccine at the White House on Friday, December 18, 2020, in a bid to build public confidence in its safety and efficacy."
+    excerpt: "Vice President Mike Pence receives Pfizer's COVID-19 vaccine at the White House on Friday, December 18, 2020, in a bid to build public confidence in its safety and efficacy. President Donald Trump will not receive the vaccine unless the White House medical team recommends it."
     publishedDateTime: 2020-12-18T14:07:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/113d02f4017067be7d3e6860dd3c87a1/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0686da6e424670f6cbe1009d02c673f8/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 54
     images:
-      - url: "https://cdnph.upi.com/pv/upi/113d02f4017067be7d3e6860dd3c87a1/PENCE-CORONAVIRUS-VACCINE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/0686da6e424670f6cbe1009d02c673f8/PENCE-CORONAVIRUS-VACCINE.jpg"
         width: 650
-        height: 433
+        height: 432
         isCached: true
 
 secured: "wRZ7qWDWtlaCJHPsKL91hKvQMbo5uBTzgdDbRHburIeP1Ry7KaTgstqnCa0YEYUl/Y00QY8Pyf0snnc9BCcaHat4mbpFyoOSa2jw4R2Wi4KjVx3u8kdqIDBfqzbb3057clPYdR89hPKSLr5qhDPQWRI7eJ+hE/OAS4C6r3FbB9Wpzp9RX6QL6TCJedyyyQ/u+Z35PPusPKmNaM297TvOe9MJDT4E4Du6zIPVz9rykehjsmaZQRAzSVc/7OFe8ccD/WZWxRr4eU9X/ywSryXT8OVXgNW+hy4z9Sq3vnZ8MQTooiBedlPsUmC8jhrnyQ76z/zVwSvr+s4l2nAtU37MuSNe/mqP6Fk4js1/iAmxQ8o=;8UgRd+Z6+regai3PjDBqAg=="

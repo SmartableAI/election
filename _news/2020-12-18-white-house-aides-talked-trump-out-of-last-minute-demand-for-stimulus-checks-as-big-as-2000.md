@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/us-policy/2020/12/17/trump-2000-stimu
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/12/17/trump-2000-stimulus-checks/?outputType=amp"
 type: article
 quality: 114
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Jeff Stein: Trump's last-minute push for larger stimulus checks example of 'long-running tension' with other Republicans"
+    excerpt: "In an interview on Hill.TV’s “Rising,” Stein said Trump had told allies that he wanted new stimulus checks as large as $2,000 per person, even as congressional leadership is preparing a package that would provide checks of just $600 each."
+    publishedDateTime: 2020-12-18T23:46:00Z
+    webUrl: "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long"
+    ampWebUrl: "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 100
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_120720getty_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "White House aides reportedly stepped in to keep Trump from calling for $2,000 stimulus checks fearing it could torpedo relief negotiations"
     excerpt: "The Post reported that White House aides talked Trump out of calling for larger direct payments than Republicans seek in stimulus talks."
     publishedDateTime: 2020-12-18T04:09:00Z

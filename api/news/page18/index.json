@@ -2,6 +2,62 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-11-22-biden-expected-to-make-trip-to-georgia-to-stump-for-ossoff-warnock.md",
+      "title": "Biden expected to make trip to Georgia to stump for Ossoff, Warnock",
+      "excerpt": "The push to win both races could see the Democrats pull a divided Senate, which would force both parties to work on passing any legislation.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pm9xeGrBI3w/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pm9xeGrBI3w/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Ronald-Klain-and-Joe-Biden.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock.amp",
+      "publishedDateTime": "2020-11-22T13:18:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-22-biden-had-been-getting-intelligence-briefings-contrary-to-what-transition-team-says-nunes.md",
       "title": "Biden 'had been getting' intelligence briefings, contrary to what transition team says: Nunes",
       "excerpt": "President-elect Joe Biden “had been getting” intelligence briefings contrary to what his transition team claims, House Intelligence Committee ranking member Devin Nunes, R-Calif., told “Sunday Morning Futures” in an exclusive interview.",
@@ -1288,49 +1344,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-vp-mike-pences-daughter-delivers-powerful-explanation-of-where-sin-can-lead.md",
-      "title": "VP Mike Pence’s daughter delivers powerful explanation of where ‘sin can lead’",
-      "excerpt": "Doubt is a normal part of any faith journey, but how do doubt and sin interact — and what role does spiritual uncertainty play in pushing people away from God?",
-      "sourceUrl": null,
-      "webUrl": "https://www.christianpost.com/news/vp-mike-pences-daughter-charlotte-explains-where-sin-can-lead.html",
-      "originalUrl": "https://www.christianpost.com/news/vp-mike-pences-daughter-charlotte-explains-where-sin-can-lead.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.christianpost.com/files/cache/image/13/91/139137_w_400_601.jpg",
-          "width": 400,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.christianpost.com/amp/vp-mike-pences-daughter-charlotte-explains-where-sin-can-lead.html",
-      "cdnAmpWebUrl": "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/vp-mike-pences-daughter-charlotte-explains-where-sin-can-lead.html",
-      "publishedDateTime": "2020-11-20T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Christian Post",
-        "domain": "christianpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

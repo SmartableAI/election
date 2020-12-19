@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Jeff Stein: Trump's last-minute push for larger stimulus checks example of 'long-running tension' with other Republicans"
+    excerpt: "In an interview on Hill.TV’s “Rising,” Stein said Trump had told allies that he wanted new stimulus checks as large as $2,000 per person, even as congressional leadership is preparing a package that would provide checks of just $600 each."
+    publishedDateTime: 2020-12-18T23:46:00Z
+    webUrl: "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long"
+    ampWebUrl: "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 100
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_120720getty_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "F7XHkj8LMsot/TNm3VRtb+JbNOZAayt9KsJ+Ya5mYL4TgYDbchjMojNqDyjCIT68Y5FdX6gnZ/hbmyqpHtkhoEgJOfRJCwDJIL9gsrXCwhNHHUSSx/x9Y6J+WK8Vx6+irR4nc7dvxz8gKeM78NYtZSDTbhgMIYw3PE5quYj7ckNvgEIGA0qNytyTGL6njZZQplFoN033eSeiCWPuzJdW5BU8GKTt7QHSdJWC5t8Q8NGgX/k3i/tHVv6nEy5BLSTBva9rSHZptD7QSeZeotj67a7WyHpso4zdKogEejDJv5uf9faLAE2zmfR/O+6JcLrR4gHEE2NBppjWtdxspZYoh0HFwn8+oIafhL6oVZfT5Wxo3n8U5p1/9BCBfWNQsanwIkiJuPFBwuVm24/p5X/u0KURNGERGM+4w+yA/GACb0NE8ikAMDPcnO/QsTpByrl4poeDOtJdQe79zUoac3t8C9MajEGUYCmAfUOxJI8lLSd9raO4AzZ0C4JE8RQJoFj47w1MBLQifwB0H9RVkYONEg==;0Z6lM9/YC3baveQgn/mlaw=="
 ---
