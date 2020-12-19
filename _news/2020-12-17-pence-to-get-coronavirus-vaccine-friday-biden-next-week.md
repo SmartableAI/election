@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
 type: article
 quality: 200
-heat: 680
+heat: 700
 published: true
 
 provider:
@@ -141,6 +141,22 @@ related:
     quality: 175
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Joe-Hunter-Biden-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Biden to get coronavirus vaccine in public Monday"
+    excerpt: "Follow for the latest updates on the Biden transition."
+    publishedDateTime: 2020-12-19T05:51:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p8DxFs_rlpI/live-updates-biden-coronavirus-vaccine-12-19-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-coronavirus-vaccine-12-19-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-coronavirus-vaccine-12-19-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c25d3d8-c458-41d5-8b1b-54ea2eca9a77/a243a863-d350-4cc0-96e7-ec93d56db16a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

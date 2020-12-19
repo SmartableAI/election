@@ -1,14 +1,14 @@
 ---
 category: news
-title: "LIVE UPDATES: Reporter who traveled with Biden tests positive for coronavirus"
-excerpt: "Biden is expected to be vaccinated as soon as next week. Follow below for more coronavirus updates. Mobile users click here."
-publishedDateTime: 2020-12-17T05:56:00Z
-originalUrl: "https://www.foxnews.com/health/live-updates-coronavirus-12-17-2020"
-webUrl: "https://www.foxnews.com/health/live-updates-coronavirus-12-17-2020"
-ampWebUrl: "https://www.foxnews.com/health/live-updates-coronavirus-12-17-2020.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/live-updates-coronavirus-12-17-2020.amp"
+title: "LIVE UPDATES: Biden to get coronavirus vaccine in public Monday"
+excerpt: "Follow for the latest updates on the Biden transition."
+publishedDateTime: 2020-12-19T05:51:09Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p8DxFs_rlpI/live-updates-biden-coronavirus-vaccine-12-19-2020"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p8DxFs_rlpI/live-updates-biden-coronavirus-vaccine-12-19-2020"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-coronavirus-vaccine-12-19-2020.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-coronavirus-vaccine-12-19-2020.amp"
 type: article
-quality: 132
+quality: 175
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78c47b41-ab45-4ceb-965d-6139ddfe1269/a37e3859-6ec2-4112-a949-9a375f243314/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c25d3d8-c458-41d5-8b1b-54ea2eca9a77/a243a863-d350-4cc0-96e7-ec93d56db16a/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -157,22 +156,6 @@ related:
     quality: 175
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Joe-Hunter-Biden-2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Biden to get coronavirus vaccine in public Monday"
-    excerpt: "Follow for the latest updates on the Biden transition."
-    publishedDateTime: 2020-12-19T05:51:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p8DxFs_rlpI/live-updates-biden-coronavirus-vaccine-12-19-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-coronavirus-vaccine-12-19-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-coronavirus-vaccine-12-19-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c25d3d8-c458-41d5-8b1b-54ea2eca9a77/a243a863-d350-4cc0-96e7-ec93d56db16a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -368,6 +351,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Reporter who traveled with Biden tests positive for coronavirus"
+    excerpt: "Biden is expected to be vaccinated as soon as next week. Follow below for more coronavirus updates. Mobile users click here."
+    publishedDateTime: 2020-12-17T05:56:00Z
+    webUrl: "https://www.foxnews.com/health/live-updates-coronavirus-12-17-2020"
+    ampWebUrl: "https://www.foxnews.com/health/live-updates-coronavirus-12-17-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/live-updates-coronavirus-12-17-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78c47b41-ab45-4ceb-965d-6139ddfe1269/a37e3859-6ec2-4112-a949-9a375f243314/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House Panel Accuses Trump Administration of Concealing Evidence in CDC Coronavirus Probe"
     excerpt: "A senior CDC official told House oversight subcommittee staff that she was instructed to delete an Aug. 8 email that showed a political appointee tried to meddle in a key report, according to a letter from Rep."
     publishedDateTime: 2020-12-10T20:30:00Z
@@ -419,6 +418,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "dIrZDhLZjM3fchs/MXTC7ZMdkOh5FJSZfqWjZh50cfdDvRhLIU3rI9Y0kpn/IVbL2SG/rYcsbHf6XjtKHb1n70CF3c2QrPDWJLYfadCEwiNv4sDIzT98Tf2HF6SSY5aRzsy6aEopEzzLplqTXe/xW4mAg6bI+YrbZJm9QcI8o/8+xY9a6LHzMTrrkWfhnjOfXjcq9MPgvoqc8rjldPiEupkBjIWLQaHuX2A0sI/5BE2MGWLDk1yYyz8/DBSz+1dy159g1BDaTNHsCuml36uwCBCHzzwvggkVTCrs8kU4Pj117KEvlw+BLhl7A+uuzf6woBc7CuqRYEuSpnj5ZeGAYXocDb6ppJ7oU6Ib2kOYa9E=;qpzOsJRClZVAXXpP22oeVQ=="
+secured: "FXCru3OpodtSksEKrHIR+scpIAbUlAuKLAPGkIyxaaSDYgwbWsb0Jt0zmZVlQTC/9KP5R3foWobMORqqYDxKmj7hrEirVWznNnSDV53RB/QQs/v/MiYrf3aLupovtwqOgI56X9kKkOUWZDD4X6u6D7/SlUmdqFSG67C39S75ue/s6pg9KFuAr5TxVd8NoEl+uqSWcFMokMyszt2k25h6ZYQDpqpaAb8fUmP92o1PgdLO5QpKV1WCK7L2a2ZgP9VoruG5bZrf6xeztLh7jrqeJ65S659HI1WDnfL22T3VYvRCkDQoogz7uzenm2cnnfIJ7ayoJGc6P626zz6g38tLtkbNKZY9WqEEDQ5G4ZxV09o=;TmrHtss3wabG7eiWGaE0DA=="
 ---
 
