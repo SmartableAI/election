@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
 type: article
 quality: 200
-heat: 700
+heat: 720
 published: true
 
 provider:
@@ -317,6 +317,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-273450/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Joe Biden’s 5 Tech Priorities"
+    excerpt: "The incoming administration faces decisions about which Trump-era policies to continue and fresh challenges of its own."
+    publishedDateTime: 2020-12-19T10:00:00Z
+    webUrl: "https://www.wsj.com/articles/joe-bidens-5-tech-priorities-11608354009?mod=rss_Technology"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-5-tech-priorities-11608354009"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-5-tech-priorities-11608354009"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-274805/social"
         width: 1280
         height: 640
         isCached: true

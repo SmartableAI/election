@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-b
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137"
 type: article
 quality: 180
-heat: 3400
+heat: 3420
 published: true
 
 provider:
@@ -2264,6 +2264,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/25T54CSN25CMVD6C7P55YEJPP4.jpg"
         width: 4032
         height: 3024
+        isCached: true
+  - title: "Vice President Mike Pence Gets Covid Vaccine, Fauci Says ‘I'm Ready to Go'"
+    excerpt: "Dr. Anthony Fauci said he hopes to get vaccinated against Covid-19 next week, as the U.S. rolls out the initial doses. Vice President Mike Pence and his wife, Karen, received inoculations Friday for Covid-19 on live national television,"
+    publishedDateTime: 2020-12-19T11:19:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/dr-fauci-hopes-to-get-the-covid-vaccine-next-week-vice-president-pence-was-immunized-friday/2788899/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/dr-fauci-hopes-to-get-the-covid-vaccine-next-week-vice-president-pence-was-immunized-friday/2788899/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/dr-fauci-hopes-to-get-the-covid-vaccine-next-week-vice-president-pence-was-immunized-friday/2788899/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 73
+    images:
+      - url: "https://media.nbcnewyork.com/2020/12/106813442-1608298791436-gettyimages-1230191551-AFP_8XE34L.jpeg?resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kamala Harris to campaign in Georgia next week on behalf of Senate candidates"
     excerpt: "ATLANTA — Vice President-elect Kamala Harris will visit Georgia next week to campaign on behalf of Democratic Senate candidates Jon Ossoff and Rev. Raphael Warnock, the Ossoff campaign confirmed Friday."

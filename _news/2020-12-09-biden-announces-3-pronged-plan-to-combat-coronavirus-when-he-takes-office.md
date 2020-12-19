@@ -336,6 +336,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Joe Biden’s 5 Tech Priorities"
+    excerpt: "The incoming administration faces decisions about which Trump-era policies to continue and fresh challenges of its own."
+    publishedDateTime: 2020-12-19T10:00:00Z
+    webUrl: "https://www.wsj.com/articles/joe-bidens-5-tech-priorities-11608354009?mod=rss_Technology"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-5-tech-priorities-11608354009"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-5-tech-priorities-11608354009"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-274805/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden urges Americans to sit out inauguration to stop spread of coronavirus"
     excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the festivities will be heavily pared down and urged supporters not to come to the White House to prevent the spread of COVID-19."
     publishedDateTime: 2020-12-15T22:25:00Z

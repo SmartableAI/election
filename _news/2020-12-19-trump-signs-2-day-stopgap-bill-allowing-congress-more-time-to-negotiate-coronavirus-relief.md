@@ -319,6 +319,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Joe Biden’s 5 Tech Priorities"
+    excerpt: "The incoming administration faces decisions about which Trump-era policies to continue and fresh challenges of its own."
+    publishedDateTime: 2020-12-19T10:00:00Z
+    webUrl: "https://www.wsj.com/articles/joe-bidens-5-tech-priorities-11608354009?mod=rss_Technology"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-5-tech-priorities-11608354009"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-5-tech-priorities-11608354009"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-274805/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden announces 3-pronged plan to combat coronavirus when he takes office"
     excerpt: "Masks, vaccinations, opening schools President-elect Joe Biden on Tuesday announced a three-part plan to combat the coronavirus pandemic in the first 100 days of his administration. Biden, speaking in his hometown of Wilmington,"
     publishedDateTime: 2020-12-09T10:42:00Z
@@ -418,6 +434,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "mkh2NtFZvPcm7QbniH5nBFkkrjYFiTgHrPe63GNRwhLusDUyKqAoxQykrHXhl+N97rCJyMdlXoFvSvVTpiWlrdL1pMJZLztuiWEQbxehMFWApnmq1Vao+Z4zX/qvfIh4RRTKQq6ppIqeZ4mkacKERt9zFMmghWPSCaC5AtRLZZYDrlxevuPuZ18bMGy6aJ2mSoUx1nmlL/cWNP8mGU0aaaDo5suJXi8bupZ8veqec7dxHPyW1a5SATUQ55NBDyCCGL8GUzUAow1q3eaIf8p1YUAnkOW/IyIu+X2BpCdIqQlOf2xO0vMBTAoUaAJBwgmRFMRLmEgpsMDtWH6z87O44jGGkAdimqMSHfROQc4W1qY=;CqdwJ6nqaHQvZJ9dnYRwuA=="
+secured: "c/yU+qhuVkQ3+YKtYfJ9k+9oANUY1kHj1AxwHZBdyXoXOQ56o56ZpQVm7I1M40bEFquoVXKkHn0CgmTNWIpNjoOw9q+6ntB+p+kLyK/Rqq8v5voNhB32RQkZjomlpyBK2Q1Zx5UZeFEplsHgX16L2LGusFELL48bx7K7DE+6t6wXQYbDbE54q1nVbsVVk5ySkitOwOl2B+SE94O0EDh9S9wD69x6THcL6339JZaE8lHcska6d33MVUaOBZIN671XOwzBWgFFbVczL1QtOEtEDvI+PlpEAnySxMTbeVJYhUJ1uxeasjapiB+FgQjWfjGHIMcGJRw3XmH6umJuqagLzYkOMVRyNwQeE7fi9PjWkh0=;webo+nlE8f4ldZ4kH0ClWg=="
 ---
 

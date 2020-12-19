@@ -324,6 +324,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Joe Biden’s 5 Tech Priorities"
+    excerpt: "The incoming administration faces decisions about which Trump-era policies to continue and fresh challenges of its own."
+    publishedDateTime: 2020-12-19T10:00:00Z
+    webUrl: "https://www.wsj.com/articles/joe-bidens-5-tech-priorities-11608354009?mod=rss_Technology"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-5-tech-priorities-11608354009"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-5-tech-priorities-11608354009"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-274805/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden announces 3-pronged plan to combat coronavirus when he takes office"
     excerpt: "Masks, vaccinations, opening schools President-elect Joe Biden on Tuesday announced a three-part plan to combat the coronavirus pandemic in the first 100 days of his administration. Biden, speaking in his hometown of Wilmington,"
     publishedDateTime: 2020-12-09T10:42:00Z
