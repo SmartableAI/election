@@ -57,6 +57,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Pence and top congressional leaders receive COVID-19 vaccines"
+    excerpt: "Vice President Mike Pence gets the coronavirus vaccine during a White House event aimed at convincing skeptical Americans that the vaccines are safe."
+    publishedDateTime: 2020-12-18T21:19:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/5dbe6e3/2147483647/strip/true/crop/5745x3752+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3f%2F7f%2F9241c9612bb0e6653a2902181a4d%2F5b44b76a9783455480d65d24435d21c8"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Mike And Karen Pence Will Get The COVID Vaccine Before Cameras This Friday"
     excerpt: "Vice President Mike Pence is set to get the COVID-19 vaccine at the White House on Friday, officials announced Wednesday, making him the highest-ranking person in government to receive a dosage. Pence and second lady Karen Pence are expected to get the vaccine in public before media \"to promote the safety and efficacy of the vaccine and build confidence among the American people,"
     publishedDateTime: 2020-12-17T02:49:00Z
@@ -201,6 +217,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'I didn't feel a thing.' Vice President Mike Pence gets COVID-19 vaccine on camera"
+    excerpt: "Vice President Mike Pence and his wife were vaccinated for COVID-19 at the White House to build public confidence in the vaccine."
+    publishedDateTime: 2020-12-19T00:50:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/?itm_source=parsely-api"
+    ampWebUrl: "https://amp.azcentral.com/amp/3948306001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3948306001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/18/USAT/2da82bdf-527e-4c45-9d7f-538ff0eada07-AFP_AFP_8XE32K.jpg?auto=webp&crop=3839,2160,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pence likely to get the coronavirus vaccine by Friday"
     excerpt: "Vice President Mike Pence is likely to receive the coronavirus vaccine by Friday, two sources familiar with the plans tell CNN."
     publishedDateTime: 2020-12-15T20:14:00Z
@@ -225,6 +257,6 @@ related:
       domain: journalgazette.net
     quality: 35
 
-secured: "6L6MQ9oARrcC+HrhU8yy4MB1ykJUYdU4CwscjKDGrfCQlV1gxqnSY+l/tzh+9P8cxvEDwchJ310EFyQ0QN30U0TF2tNwq0fCfOTVnD6BWplyuAlgqv0PcK2jrsnLyU+szdnZxMXUGtQMRDXsUBVdRt1eBDoxAJiA7jfNcTmyVselG8N7L71NI94O8yASvshBHMaaLCS8fCyRqCnWtB3MW2FYwvCt9NmU/L+5cKMzpCws+R+IDDUsebLMXn2VJ1poizmUPSrxfRvh1mOzlVh+QHJUIAFjrsmz2Jnhxmc/PVHI4YLTtxlgnVNrbYizoob3YkT+GKShEZ746ynZocN2mFrRh6pREF5orrqLdz0dbsQ=;3/YJ+kvja6yndYfdr18wwQ=="
+secured: "3AHYWDz8TpEbVJDc0wtiV5IELfklEWn7Whihcn0wyG2sxoxojT7qe2ubl202VN513e5uRXYZ0MCkwLDlqVjKcwz/RmVTvmJmId/hsYfJCPmWU/LbBWzoxmZYcVrBu53ppHKKUJ+ioegP+kPZ/VaIw4mpRsWhUoOTGx5u0StVZvztN4pw/CHw14el4DUWD9/lgmYwXSdmY9RVeBckTKnwIcVINkh9m44OjBMPriYsJmAcNImdY4JzNvh5yLqB4zIfGrN1jzY2TYRF5nlCVNGjsqQvM/E9x1FpOytFJTvsLcaYxQ1RcAwhHZx+tB8rZGhObEliq6oPxo/ewEvhrYxtbqjn8b28IUTd9xE98C17U0fmcVIaI8dYlffpbfnA260oEeScoVPl2AYI09Gq0ZHzEet+Fx+wsRo+aF/eVpDnXlMCCtc47o8AYHzug/oV/iRzXrnk+bFPn53feEe1lpP+8dorXYZBhk8bVuoTGYXb2DI5NJoMWBunO10Gku0xijDBFrOejnMQHWDQcqiZT7IrLQ==;MoNQ5nba4srmpz7jFQSSSQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-pence-to
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 1635
+heat: 1655
 published: true
 
 provider:
@@ -542,6 +542,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544975651&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG1VL"
         width: 817
         height: 545
+        isCached: true
+  - title: "Fear fuels gun sales as Biden vows crackdown"
+    excerpt: "A surge in gun sales reflects what experts call a perfect storm of conditions that breed fear: a pandemic, recession, civil unrest, and divisive presidential election."
+    publishedDateTime: 2020-12-19T00:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/fear-fuels-gun-sales-biden-vows-crackdown/story?id=74759162"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/fear-fuels-gun-sales-biden-vows-crackdown/story?id=74759162"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fear-fuels-gun-sales-biden-vows-crackdown/story?id=74759162"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/gun-1-abc-er-201218_1608328180476_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Mr. Biden should fix broken immigration policies"
     excerpt: "President-elect Joe Biden must address the rise in xenophobia among the general public as a result of Mr. Trump’s repeated claims about refugees, Deferred Action for Childhood Arrivals recipients, international students (including me) and immigrants."

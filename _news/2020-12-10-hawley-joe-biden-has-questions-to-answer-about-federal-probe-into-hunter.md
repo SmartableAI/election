@@ -447,6 +447,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "U.S.-Cuba relations and a Biden administration"
+    excerpt: "President-elect Joe Biden is expected to reverse many Trump administration policies when he enters office in January 2021, and at the top of his list will be restoring international relationships that the Democrat has said were destroyed with President Trump’s \"America first\" rhetoric."
+    publishedDateTime: 2020-12-18T23:02:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4SemxckDhY/u-s-cuba-relations-under-a-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/u-s-cuba-relations-under-a-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/u-s-cuba-relations-under-a-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c3db3fd-7d8d-4dd8-806d-31a44f628bdf/a5461994-6b1e-4bea-9685-f5fdc5122b96/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden admits to a 'bit of a cold' after Electoral College victory speech"
     excerpt: "Biden’s voice was slightly hoarse during the address, which took place shortly after he surpassed the 270-vote threshold required to win the White House."
     publishedDateTime: 2020-12-15T03:22:15Z

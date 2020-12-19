@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Keilar calls out GOP hypocrisy over Biden aide swearing"
+    excerpt: "CNN's Brianna Keilar rolls the tape on Republicans' hypocrisy over comments made by Jen O'Malley Dillon, President-elect Joe Biden's campaign manager and incoming White House deputy chief of staff, where she used profanity to refer to congressional Republicans."
+    publishedDateTime: 2020-12-18T21:45:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2020/12/18/jen-o-malley-dillon-biden-republicans-comments-keilar-roll-the-tape-sot-vpx-nr.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/18/jen-o-malley-dillon-biden-republicans-comments-keilar-roll-the-tape-sot-vpx-nr.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/18/jen-o-malley-dillon-biden-republicans-comments-keilar-roll-the-tape-sot-vpx-nr.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218164349-keilar-rtt-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "nujDCgJPLZZLJjD5u0AyZysCGQSqwYa2SyeKTVCUVoWqUw63CRBs74uqBtoxBe6oPop64BozgPMmk3dLCKL4hj6+jofZPgmLHlHwJQZd8o09baRNU973J+cZw/q13cKM5wtDrR1G455+ZZsxEP/LxSKkC13g2BbrIwo9KeuphszNnh7Z6tqG1EDmufOJEAHTX2NZjyjgwvY63wgW2KO8hDFBUoAXgZvZM9CwPMVIX5d67MqEXyhpALG+4QsD3S5VGrzXCpPwd3aviW3KCOc7/HP1fRT+PDqWgAbAVr2/tR//fIVmkIlAfCfsHdezE3/t2e4Aq9awdGGB8JirOqa3pLy2BtEXYSbUjER8Kh4rJlHbbFzIpshzc5Jj9dTSPZvVhKg6r2jEkQm+v9jZVxzGnwMJlRyt2yIfODWOGMg29P5j7WesOGai+JAUOgCtjmHgalM7/JqHPQ2eE6LtWN9o8b0R1y/+12wFO3948KGd53E457G7+K/x86pWZSQdtq6cCufUSq6Y7Yg8gv4z/seW1A==;dEvrToVN0BD/IbYjiIWdMw=="
 ---

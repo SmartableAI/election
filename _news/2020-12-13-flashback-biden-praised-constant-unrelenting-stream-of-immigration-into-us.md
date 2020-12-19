@@ -447,6 +447,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "U.S.-Cuba relations and a Biden administration"
+    excerpt: "President-elect Joe Biden is expected to reverse many Trump administration policies when he enters office in January 2021, and at the top of his list will be restoring international relationships that the Democrat has said were destroyed with President Trump’s \"America first\" rhetoric."
+    publishedDateTime: 2020-12-18T23:02:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4SemxckDhY/u-s-cuba-relations-under-a-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/u-s-cuba-relations-under-a-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/u-s-cuba-relations-under-a-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c3db3fd-7d8d-4dd8-806d-31a44f628bdf/a5461994-6b1e-4bea-9685-f5fdc5122b96/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hawley: Joe Biden has questions to answer about federal probe into Hunter"
     excerpt: "In an interview on \"America's Newsroom,\" Sen. Josh Hawley, R-Mo., said President-elect Joe Biden had questions to answer about the federal investigation into his son Hunter's tax dealings and any U.S. Attorneys working on the case had to remain in their positions once Biden was inaugurated."
     publishedDateTime: 2020-12-10T19:08:27Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L2YY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L2YY"
 type: article
 quality: 139
-heat: 1679
+heat: 1759
 published: true
 
 provider:
@@ -559,6 +559,22 @@ related:
         width: 855
         height: 545
         isCached: true
+  - title: "House passes bill to avert government shutdown; Trump next"
+    excerpt: "WASHINGTON — The House passed a two-day stopgap spending bill Friday night to avert a partial government shutdown, trying to buy time for frustratingly slow endgame negotiations on an almost $1 trillion COVID-19 economic relief package."
+    publishedDateTime: 2020-12-19T00:21:00Z
+    webUrl: "https://www.washingtonpost.com/business/house-passes-bill-to-avert-government-shutdown-trump-next/2020/12/18/149de64a-418f-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/house-passes-bill-to-avert-government-shutdown-trump-next/2020/12/18/149de64a-418f-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/house-passes-bill-to-avert-government-shutdown-trump-next/2020/12/18/149de64a-418f-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "U.S. lawmakers say Trump administration giving few details on hack"
     excerpt: "The Trump administration offered lawmakers few details about the recent hacking campaign against the U.S. Government, several members of Congress said on Friday following a classified briefing on the intrusion and calling for an in-person meeting."
     publishedDateTime: 2020-12-18T20:57:00Z
@@ -573,6 +589,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545058612&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH18V"
         width: 797
+        height: 545
+        isCached: true
+  - title: "U.S. Supreme Court throws out challenge to Trump census immigrant plan"
+    excerpt: "The U.S. Supreme Court on Friday threw out a lawsuit seeking to block President Donald Trump's plan to exclude immigrants living illegally in the United States from the population count used to allocate congressional districts to states."
+    publishedDateTime: 2020-12-19T00:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-census-idUSKBN28S240"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S240"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S240"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545054996&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH179"
+        width: 855
         height: 545
         isCached: true
   - title: "U.S. finalizes shower head rule after Trump complaints about hair rinsing"
@@ -702,6 +734,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/13/USAT/a52e7e4e-e2be-44bf-87a8-e608c83418cc-GTY_1230113245.jpg?auto=webp&crop=3620,2036,x934,y796&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "U.S. Senate OKs stopgap funding bill to avoid gov't shutdown, sends to Trump"
+    excerpt: "The U.S. Senate approved on Friday a temporary funding bill to keep the government open through Dec. 20, sending the measure to President Donald Trump for signing into law."
+    publishedDateTime: 2020-12-19T00:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-congress-funding-senate/u-s-senate-oks-stopgap-funding-bill-to-avoid-govt-shutdown-sends-to-trump-idUSKBN28T005"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28T005"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T005"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201219&t=2&i=1545102180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBI002"
+        width: 817
+        height: 545
         isCached: true
   - title: "Another Trump veto possible as Congress votes on blocking $23B arms sale to UAE"
     excerpt: "President Donald Trump is nearing one last battle with Congress over his push for massive arms sales to the Middle East -- threatening to veto lawmakers' effort to halt a $23 billion sale to the United Arab Emirates."
@@ -919,6 +967,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/ef4e297a-1c31-4810-91de-6c9105534f82-GettyImages-1182076012.jpg?auto=webp&crop=2120,1193,x0,y107&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Congress approves 2-day funding measure to avoid shutdown, sending bill to President Trump"
+    excerpt: "WASHINGTON — Congress approves 2-day funding measure to avoid shutdown, sending bill to President Trump. Copyright 2020 The. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission."
+    publishedDateTime: 2020-12-19T00:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/congress-approves-2-day-funding-measure-to-avoid-shutdown-sending-bill-to-president-trump/2020/12/18/de5f2ba8-418d-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/congress-approves-2-day-funding-measure-to-avoid-shutdown-sending-bill-to-president-trump/2020/12/18/de5f2ba8-418d-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/congress-approves-2-day-funding-measure-to-avoid-shutdown-sending-bill-to-president-trump/2020/12/18/de5f2ba8-418d-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Supreme Court will hear Trump administration defend controversial Medicaid work requirements"
     excerpt: "Forcing low-income people to work or prepare for employment in exchange for health coverage is an experiment that's been tried in only three states."

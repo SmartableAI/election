@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/fauci-coronavirus-vaccin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/fauci-coronavirus-vaccine-trump-pence/index.html"
 type: article
 quality: 200
-heat: 520
+heat: 540
 published: true
 
 provider:
@@ -239,6 +239,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434730/201210-donald-trump-al-0805_c044deb93d6188d8ad4a3663c1f7d599.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Justices Put Off Ruling on Trump Plan for Unauthorized Immigrants and Census"
+    excerpt: "The Supreme Court said a challenge to efforts to exclude unauthorized immigrants from the tabulations used to allocate House seats was premature."
+    publishedDateTime: 2020-12-19T00:32:00Z
+    webUrl: "https://www.nytimes.com/2020/12/18/us/supreme-court-census.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/18/us/supreme-court-census.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/18/us/supreme-court-census.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/18/us/politics/00dc-scotus-census/00dc-scotus-census-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump admin has yet to launch promised effort to get Americans to trust Covid-19 vaccines"
     excerpt: "At least 15 states told NBC News they are planning their own extensive communications campaigns to encourage the public to take the shot."

@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-19-why-charlie-baker-isnt-planning-to-get-a-public-vaccination-like-mike-pence.md",
+      "title": "Why Charlie Baker isn’t planning to get a public vaccination like Mike Pence",
+      "excerpt": "The Massachusetts governor wants to wait until he qualifies — and isn't sure elected officials are the most effective officials to inspire public confidence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.boston.com/news/coronavirus/2020/12/18/charlie-baker-mike-pence-public-vaccination",
+      "originalUrl": "https://www.boston.com/news/coronavirus/2020/12/18/charlie-baker-mike-pence-public-vaccination",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.boston.com/wp-content/uploads/2020/12/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_wiggs_Governor_04-5fdd10a9449f2-850x478.jpg",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.boston.com/news/coronavirus/2020/12/18/charlie-baker-mike-pence-public-vaccination/amp",
+      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/coronavirus/2020/12/18/charlie-baker-mike-pence-public-vaccination/amp",
+      "publishedDateTime": "2020-12-18T13:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston.com",
+        "domain": "boston.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-high-court-rejects-as-premature-a-bid-to-block-trump-plan-to-bar-illegal-immigrants-in-redistricting.md",
       "title": "High Court Rejects as Premature a Bid to Block Trump Plan to Bar Illegal Immigrants in Redistricting",
       "excerpt": "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy.",
@@ -237,7 +280,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 196,
+      "heat": 216,
       "tags": null,
       "images": [
         {
@@ -1067,7 +1110,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-55362697",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -1305,62 +1348,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/virginia-amanda-chase-trump-martial-law.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-amanda-chase-trump-martial-law.amp",
       "publishedDateTime": "2020-12-17T17:53:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-omar-says-her-father-died-of-coronavirus-because-of-trumps-criminal-neglect.md",
-      "title": "Omar says her father died of coronavirus because of Trump's 'criminal neglect'",
-      "excerpt": "Rep. Ilhan Omar said Friday that her father died of Covid-19 in June because of “criminal neglect” by the Trump administration. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NTWmfBTzBuI/omar-father-died-coronavirus-trumps-criminal-neglect",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NTWmfBTzBuI/omar-father-died-coronavirus-trumps-criminal-neglect",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Omar-reuters.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/omar-father-died-coronavirus-trumps-criminal-neglect.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-father-died-coronavirus-trumps-criminal-neglect.amp",
-      "publishedDateTime": "2020-12-17T17:10:38-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

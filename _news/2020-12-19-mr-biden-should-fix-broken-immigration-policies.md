@@ -559,6 +559,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Fear fuels gun sales as Biden vows crackdown"
+    excerpt: "A surge in gun sales reflects what experts call a perfect storm of conditions that breed fear: a pandemic, recession, civil unrest, and divisive presidential election."
+    publishedDateTime: 2020-12-19T00:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/fear-fuels-gun-sales-biden-vows-crackdown/story?id=74759162"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/fear-fuels-gun-sales-biden-vows-crackdown/story?id=74759162"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fear-fuels-gun-sales-biden-vows-crackdown/story?id=74759162"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/gun-1-abc-er-201218_1608328180476_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden taps Susan Rice as top domestic policy adviser amid flurry of moves"
     excerpt: "U.S. President-elect Joe Biden chose Susan Rice, who was national security adviser to former President Barack Obama, on Thursday to lead the White House's domestic policy council as part of a flurry of appointments to his developing administration."
     publishedDateTime: 2020-12-10T18:32:00Z
@@ -1146,6 +1162,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "H1RBXrbk71JdZntFnQoWGBke5jHvzdMil32K6efgv//twA8/SRWeotCYl5B1N6rBKyY6yX+uKgYN9IdQBzXYkD+KXgG2XfD2wUTdveCnqfr+WjSyKj7mzQrT5pVo1krNEDtQYmOU8annHoG+IpLNLvl/B7r2HNEUMAi+O+o8xZozLgQRSR2F7cWHKYUU1m74j2AC1T/QtwDt++wfWnvdzKw3SsuCXhVIQHLgKJmDiFkIzUuaZK2mxIWKxIS/TmPFkU26EN2t4ZsVLx8xDwJLGRRjsYH5SwTEFnph7EwoshbnH3wWFcWRFzSGqwmLJxAQmb8PyYor2BC4lZZ6O2ULIWLrqyVlm1JcTbm2DF9Ckgk=;cz396nrc8w3mnKxxygBJDw=="
+secured: "XOAnwwKDxGTrjuEVhaHVOGlA60jpLy7Z4dVl6U+vcdKzxOOUjZ7OYK22BqAnrAgaZEA48SQ1SPsJDGokOcfiLhyRtyvaly5AS9yDY0qnuAQUuqgh+yG6zaWznQtZm8+xOJaFOcQKPmMIaojxe7mwYAJHkaZi/fufz9fJGlePMZrEBWiBiRE2EWfu8QmtyfMhjSI7y4IwYZZ53joEkMWsvoIEhn8AzyYuAlGIXXR3cXkM6A9jtc4cWLnK43bpfxd5AGO5O7VL7E+aTUUcZhawY9H6uyV75+83CXGcaTXehAZUJnJ5x4wytLlXjYCXSXcR9X15ZiRA5S1lyTwHq3OTd3pbTMS+lM475LE0YqE7r9kDAnm9Owyb3ASTAREOM/8UgLiKCAXXpxrCerBN9sU1dCmYE2lv68PzRRWYoiGgz9LagbApLAfsuhP2dNqY+N/hM549TSzXHxC4y5Oj5q+46T0Y0xGa7DCtVDHKcfVgEpiv2Z6z1/lSkeUGgql6lTuu1UCZefNGCFdR6vMtJBWKoQ==;PLuKQy8EPXTr5iF6luO9pw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/biden-receiving-vaccinat
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/biden-receiving-vaccination/index.html"
 type: article
 quality: 175
-heat: 196
+heat: 216
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Keilar calls out GOP hypocrisy over Biden aide swearing"
+    excerpt: "CNN's Brianna Keilar rolls the tape on Republicans' hypocrisy over comments made by Jen O'Malley Dillon, President-elect Joe Biden's campaign manager and incoming White House deputy chief of staff, where she used profanity to refer to congressional Republicans."
+    publishedDateTime: 2020-12-18T21:45:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2020/12/18/jen-o-malley-dillon-biden-republicans-comments-keilar-roll-the-tape-sot-vpx-nr.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/18/jen-o-malley-dillon-biden-republicans-comments-keilar-roll-the-tape-sot-vpx-nr.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/18/jen-o-malley-dillon-biden-republicans-comments-keilar-roll-the-tape-sot-vpx-nr.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218164349-keilar-rtt-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden Transition Live Updates: Congress Scrambles to Reach Stimulus Deal as Deadline Nears"
     excerpt: "Lawmakers are hammering out details of a $900 billion pandemic relief package and an overall spending bill to avoid a government shutdown at midnight. President-elect Joe Biden said accusations against his son were “kind of foul play."
     publishedDateTime: 2020-12-18T13:30:00Z

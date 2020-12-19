@@ -256,6 +256,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Justices Put Off Ruling on Trump Plan for Unauthorized Immigrants and Census"
+    excerpt: "The Supreme Court said a challenge to efforts to exclude unauthorized immigrants from the tabulations used to allocate House seats was premature."
+    publishedDateTime: 2020-12-19T00:32:00Z
+    webUrl: "https://www.nytimes.com/2020/12/18/us/supreme-court-census.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/18/us/supreme-court-census.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/18/us/supreme-court-census.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/18/us/politics/00dc-scotus-census/00dc-scotus-census-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Senate Democrats press Trump on possible vaccine shortage"
     excerpt: "They questioned if the U.S. is facing a vaccine cliff after the administration reportedly passed up offers to buy more Pfizer doses."
     publishedDateTime: 2020-12-15T06:29:00Z
