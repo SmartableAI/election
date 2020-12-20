@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump questions Russian involvement in hacking"
+    excerpt: "World Trump questions Russian involvement in hacking. Posted . U.S. President Donald Trump in his first comments about a widespread data breach across the U.S. government downplay"
+    publishedDateTime: 2020-12-19T23:20:00Z
+    webUrl: "https://www.reuters.com/video/watch/trump-questions-russian-involvement-in-h-id723253856?chan=8gwsyvzx"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201219&i=OVD9OH6U7&r=OVD9OH6U7&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump Won’t Denounce Russia’s Hack Because He’s Still Subservient to Putin"
     excerpt: "Ahh, we’ll talk about that at another time,” Trump demurred. The other time has not come. Three months later, that remains Trump’s last word on the matter. In the wake of news of Russia’s massive cyber-intrusion into a swath of private and public networks,"
     publishedDateTime: 2020-12-19T02:25:00Z

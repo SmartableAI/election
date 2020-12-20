@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-b
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137"
 type: article
 quality: 180
-heat: 3500
+heat: 3520
 published: true
 
 provider:
@@ -1154,6 +1154,22 @@ related:
     quality: 125
     images:
       - url: "https://i.insider.com/5fdc74a9d366e60018098d51?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Twitter updates disclaimers on Trump election tweets to reflect the fact that Joe Biden is the winner of the presidential election"
+    excerpt: "Twitter will now include disclaimers that reflect Joe Biden is the President-elect on Trump tweets alleging election fraud."
+    publishedDateTime: 2020-12-20T10:30:00Z
+    webUrl: "https://www.businessinsider.com/twitter-updates-labels-trump-tweets-to-declare-joe-biden-winner-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/twitter-updates-labels-trump-tweets-to-declare-joe-biden-winner-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-updates-labels-trump-tweets-to-declare-joe-biden-winner-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fdf197dc910a400192e8929?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

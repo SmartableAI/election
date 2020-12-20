@@ -125,6 +125,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "What Books Should Biden Read? We Asked 22 Writers"
+    excerpt: "George Will, Min Jin Lee, David Frum, Van Jones and others offer their recommendations to the president-elect."
+    publishedDateTime: 2020-12-20T10:06:00Z
+    webUrl: "https://www.nytimes.com/2020/12/20/books/joe-biden-book-recommendations.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/20/books/joe-biden-book-recommendations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/20/books/joe-biden-book-recommendations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/20/books/20BIDENBOOKS/20BIDENBOOKS-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "Qtcm4VsVk+bl6m3EQLXuB+aL4+udVelQ21f4gd9aQ98Y8FoYFJK+gZKOZbZMYVSoGCLfX7AkJxWpwYZq01996f+6bKVx3dYEJJtNjAe+xNdxvgTWa4iFkYfNYZn1ngXAzlmrXAtf9+Ldn7aljloi6lWQMW2L72eqqTRFQoUzTzZeL75McQUgwfUqsvO+ocBIQ6L08UBLLBVkhuBvKoNav01O8qptLN/NT8scGXb7YB3JMHAYhUJ4gjL2DOviQK9ucuF8VNpnSLr+ZjDbH7xQ8uGlJjBQ75337S/ZES4U0wvJioBBmzYpn6F3tgaMDMSKvhw6E7r4WpJMH9oQL8zenipORBS/YUZQbQfXIEF6XjQ=;1IE5JR352LxHjsTNkpUYTA=="
 ---

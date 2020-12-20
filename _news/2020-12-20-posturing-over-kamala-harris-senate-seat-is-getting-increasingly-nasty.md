@@ -2,21 +2,17 @@
 category: news
 title: "Posturing over Kamala Harris' Senate seat is getting increasingly nasty"
 excerpt: "Gavin Newsom in selecting a replacement for Vice President-elect Kamala Harris in the United States Senate is growing increasingly contentious. California Secretary of State Alex Padilla is widely seen as the front-runner for the seat,"
-publishedDateTime: 2020-12-19T21:59:00Z
-originalUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-Senate-seat-replacement-rumors-Gavin-15816155.php"
-webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-Senate-seat-replacement-rumors-Gavin-15816155.php"
+publishedDateTime: 2020-12-19T16:49:00Z
+originalUrl: "https://www.chron.com/politics/article/Kamala-Harris-Senate-seat-replacement-rumors-Gavin-15816155.php"
+webUrl: "https://www.chron.com/politics/article/Kamala-Harris-Senate-seat-replacement-rumors-Gavin-15816155.php"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
   name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: chron.com
 
 topics:
   - Election
@@ -117,6 +113,6 @@ related:
       domain: parade.com
     quality: 52
 
-secured: "u9nmIdrRFRmqeTG5GRh+zXiQ+wP4RP0AItmNr9J/SUXDECwgvSk+YtWDQ9Bjyne4OnKmuneatthgokes0BgJ9Djfyf+Mtn9Nryg1cTwVRvoP7gsIgpxaLZ2/B0cmcyrwCstQi1DUsbO9zFZqoqe3eYibJ6Ft/RCKA8skevYBbrHWOgNYDvOdVv9forGfHS9C/+gp9o7id01bNye6+4KM3ceQgcy4waKJnfbrY+o0EDNTRvLFwmQsXbp2TXNoggR2HMxXxIHIaKSV1KMCWYpr0PWRX5p8eli/yP2nMgXvaZJKPMQ8HlkGEBF+IDEIjADw2D3/w9/Op0SsUM6G02aJT2ddhITbFokuiGFbOdSOh4k=;/lmlQH2Va8EQunTAFtW7Yw=="
+secured: "JR+PTVJCFOncwurPouKa8ueb8HainH8AXGFkmWMR+t/tpcVKS/B9JUkMa/kTKsDK1i54c+SgttExwVojFVQ7Os9nWr4KfwH1plcQ+XSr1Y9tgHcFpQtcen85duYRiUJbOJKMPX9Wy6zONuJESHpwYl+3WmFtF41RhUDf55I3aH9KgXpMnERkfAjsw/Iqg8Vp9kHzzQmHxW+VdTDT39cPScIGe/XMcLpQL/jfwl9dPP1qLJWkUza8z5cnNEpkl7Tplz7Fxi+5LI51+qyqgmicxjBKzOdsC3qgDC0KLclZelXclfhxfegAGGfvmwboYukczPYraZ3gVKjkqyHTEaiB4KhVslAfgepqsjtROEe0vkg=;tF1q6Iax4tgvjxBdZT0ITg=="
 ---
 

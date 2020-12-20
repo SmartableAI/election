@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/azar-vaccinate-biden-cnn
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/azar-vaccinate-biden-cnntv/index.html"
 type: article
 quality: 184
-heat: 304
+heat: 324
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
       - url: "https://static.politico.com/a1/d6/b207abad45c7a9c51fac9e3a3fc4/200826-kellyanne-conway-2-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "What Books Should Biden Read? We Asked 22 Writers"
+    excerpt: "George Will, Min Jin Lee, David Frum, Van Jones and others offer their recommendations to the president-elect."
+    publishedDateTime: 2020-12-20T10:06:00Z
+    webUrl: "https://www.nytimes.com/2020/12/20/books/joe-biden-book-recommendations.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/20/books/joe-biden-book-recommendations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/20/books/joe-biden-book-recommendations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/20/books/20BIDENBOOKS/20BIDENBOOKS-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "Q7s/g/yHp6r7APD/Uv/huynV4RZIBV+DRx6BCZiCMhCXKCZZWqXGs119s831qaxPNS6sBhvjhqdOHrxCwlEgQKNW8uL69SFqZAQLqeJw2hIgGQj3jALEQ6sgDbKKTZhgFQI5NstNvKUc7SyUuIynQl0Z0QLZ4EWdPi800ffWXVHEsfdtAaebpjfyLwcAV4ydHBF6p9aY5MOVi0MibB3ZKnOpLYGP/kmq4iQ6ow5ntyd+Wn8Et3wvuakwe8KNoWxledDre/h+SEa/vZA/2dHl4M2CC+ri8xT+vJKAfhHdpQJsSFCEyyEMqCLsxgl1869bRptsC9bbhNSfVm9Wm3oIo0NDldVLJgntJYGcwXuXJRc=;1mnzIz+hiezmZpnzwcbI9g=="

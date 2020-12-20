@@ -61,20 +61,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Posturing over Kamala Harris' Senate seat is getting increasingly nasty"
-    excerpt: "Gavin Newsom in selecting a replacement for Vice President-elect Kamala Harris in the United States Senate is growing increasingly contentious. California Secretary of State Alex Padilla is widely seen as the front-runner for the seat,"
-    publishedDateTime: 2020-12-19T21:59:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-Senate-seat-replacement-rumors-Gavin-15816155.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 105
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/66/32/20407941/6/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Kamala Harris to campaign in Georgia for Democrats in Senate runoffs"
     excerpt: "Vice President-elect Kamala D. Harris is scheduled to travel to Georgia next week to put her stamp on the two Senate runoff races that will decide how much wiggle room the Biden administration has with Congress."
     publishedDateTime: 2020-12-18T16:12:00Z
@@ -104,6 +90,20 @@ related:
       - url: "https://www.ajc.com/resizer/pN7XRNc2199JHLPb7P7pNLsTBqc=/1200x630/d1fegwn2wjh0cs.cloudfront.net/12-18-2020/t_a9cd59dbd78c4473b391bee061563057_name_58741b9027674bd0832074b49be81e81.jpeg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Posturing over Kamala Harris' Senate seat is getting increasingly nasty"
+    excerpt: "Gavin Newsom in selecting a replacement for Vice President-elect Kamala Harris in the United States Senate is growing increasingly contentious. California Secretary of State Alex Padilla is widely seen as the front-runner for the seat,"
+    publishedDateTime: 2020-12-19T16:49:00Z
+    webUrl: "https://www.chron.com/politics/article/Kamala-Harris-Senate-seat-replacement-rumors-Gavin-15816155.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/66/32/20407941/6/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Meet the First Second Gentleman-Elect, Kamala Harris' Husband Douglas Emhoff"
     excerpt: "Kamala Harris’ husband Douglas Emhoff, is one of the most adoring political spouses ever—and he will be a first in two major ways: Emhoff is the first second gentleman-elect, as well as the first Jewish spouse to a vice president."

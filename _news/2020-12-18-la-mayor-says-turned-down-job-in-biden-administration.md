@@ -634,9 +634,9 @@ related:
         height: 558
         isCached: true
   - title: "Joe Biden says 'no time to waste' as climate team unveiled"
-    excerpt: "US President-elect Joe Biden has introduced his environmental team, saying they will lead an \"ambitious plan\" to combat climate change. Mr Biden has vowed to make the issue a top priority in an agenda that reverses many Trump administration policies."
+    excerpt: "US President-elect Joe Biden has introduced his climate and energy team, saying they will lead an \"ambitious plan\" to combat climate change. Mr Biden has vowed to make the issue a top priority in an agenda that reverses many Trump administration policies."
     publishedDateTime: 2020-12-20T03:55:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55382209?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7&at_custom4=3137156C-4269-11EB-B883-24FB4744363C"
+    webUrl: "https://www.bbc.com/news/world-us-canada-55382209?fbclid=IwAR3UFtdSInJpTa0_U2LjF81w21vOr7Up5HirPiP6GHTbsIWINNV76dhKzVM"
     ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55382209"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55382209"
     type: article

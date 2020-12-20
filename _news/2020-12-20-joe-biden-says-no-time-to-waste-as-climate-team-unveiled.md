@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden says 'no time to waste' as climate team unveiled"
-excerpt: "US President-elect Joe Biden has introduced his environmental team, saying they will lead an \"ambitious plan\" to combat climate change. Mr Biden has vowed to make the issue a top priority in an agenda that reverses many Trump administration policies."
+excerpt: "US President-elect Joe Biden has introduced his climate and energy team, saying they will lead an \"ambitious plan\" to combat climate change. Mr Biden has vowed to make the issue a top priority in an agenda that reverses many Trump administration policies."
 publishedDateTime: 2020-12-20T03:55:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-55382209?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7&at_custom4=3137156C-4269-11EB-B883-24FB4744363C"
-webUrl: "https://www.bbc.com/news/world-us-canada-55382209?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7&at_custom4=3137156C-4269-11EB-B883-24FB4744363C"
+originalUrl: "https://www.bbc.com/news/world-us-canada-55382209?fbclid=IwAR3UFtdSInJpTa0_U2LjF81w21vOr7Up5HirPiP6GHTbsIWINNV76dhKzVM"
+webUrl: "https://www.bbc.com/news/world-us-canada-55382209?fbclid=IwAR3UFtdSInJpTa0_U2LjF81w21vOr7Up5HirPiP6GHTbsIWINNV76dhKzVM"
 ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55382209"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55382209"
 type: article
@@ -1272,6 +1272,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "cHza19fU+/HCPFGv7C8bRiw2hlMZQdVNyKcSqyWjpA13ZOxbLVLa4UHAhf1xmrNDDPNWNTQT4jOaPdVHdQU+oQSjrZB+HjGnAw5AhNM9orzJ+caZ5GiS+j2R3u5sN7b/MCKmYRhvRfsl+b5X0HOhu7ZPCCkmxFA57GHF+4yveSN7kT3YnoOVCYLu4PeY6hy2HoP86RBZFXPYOokTKEh68ZRcNc30Zx2uvyxiA3Veg/EyDZ9TQS2DsOh74vQJQlq0W4SdcK339UV4dabBdnsBZ6Qg0TcAk5C4h3XiELLti+2V6Uvhh8QtA4hApRcDeKZP+rhbPqQkw4t3HXFzsLcuR64U2fyRnvR/tCZ4QaHwemu9NvUciUhl/tGcx3rqjSPDoPDWf7j2MkiZQ8JHLqutnz9Qxd7AVzF7UPZEXDHPgl3u2FhZiCMCsGLH6L5s4YGq2kfe35QBPjjJOU5gP9VeKcTM/WgGln1wbj2F8RofdnlwykSQC7AC2LY274H1/CXEQvkqKgElf1g7Lg4IpaBVuw==;VBp9L/1d/d+UmhjwLijPwQ=="
+secured: "HHIYCTRFi/M/4N62fs6qtErqCY5rXhTnNJ01TTEOFV+SEON7guXzjv4j3ZeEhMwxfKqnFUy1FsA8I3IYFfAyb0Lq+R3E8W87XP6zYiPHWQ8lyi3dQ5movdxp9qUMYzHhJAHvvdiADE+N0pHtwvfUcjWjay19nfkAoh58KIYfu+mXHolPTaAiPaOdgDjpMuUns2orWjJLVsxkpIqx+BncAmvSER6luDgV5/SaRG97uFgAvz79TDtmC3nuNbaG6sw1Co5s/ld3vV0DVNuuonOYQcYo5c8KeOLXhuLT0cIy4DccAffh0tLO0vhRV8El2oni320bMaGrkrXE6Q42di2cZ3eqN/c6GBMpuO4JH7pdYlI=;6o4CJtpnQdxxhl0Dns0TeA=="
 ---
 
