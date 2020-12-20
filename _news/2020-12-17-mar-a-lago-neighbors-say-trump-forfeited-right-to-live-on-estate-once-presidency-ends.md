@@ -63,15 +63,20 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "South Carolina Electors Cast All 9 Votes for President Trump"
-    excerpt: "South Carolina’s nine presidential electors have officially voted for President Donald Trump and Vice President Mike Pence."
-    publishedDateTime: 2020-12-14T16:54:00Z
-    webUrl: "https://www.usnews.com/news/best-states/south-carolina/articles/2020-12-14/south-carolina-electors-cast-all-9-votes-for-president-trump"
+  - title: "Trump's would-be neighbors say he can't live at Mar-a-Lago post-presidency"
+    excerpt: "The Post’s Carol D. Leonnig explains the difficulties President Trump will have if he claims Mar-a-Lago in Palm Beach, Fla., as his post-presidency residence."
+    publishedDateTime: 2020-12-18T18:51:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/trumps-would-be-neighbors-say-he-cant-live-at-mar-a-lago-post-presidency/2020/12/18/266978a3-811d-44f0-a65a-1eb2cf4f69ee_video.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 103
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-18-2020/t_194d60baf64341449edc279aee47ae2e_name_07a44092_2a62_11e9_b2fc_721718903bfc_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
 
 secured: "lvS7yTJHi1I/IVN8vNCDQ5Cep2k/bHiMb8y2PMufuHPa/4/FoUtr8OVmW1sAbV8UGrttJjDjdRq81gRvlaHqrx7c9J0XfZl7/6Wji+Z+S2+tEAd0LoVzHuwv8Vm2tsO5TROazSFEaQIEF7wf0sB9hkect79H6sq+pXL6W/Wy/JgIP716STN4h4XwevWs/DOfTXnDn3KWSOxKFP7I/gOewMhrK8PC4B18IsxtlSthl10dSJXZZsU4MdtdbrYIvqpmNyUrPrPqaZphDQqlESmLzqTM6RhzEzbf7nw4+csTZuFNViyQmlpLT6kMntEpQy17cnSrMycnnBnyXhBFTxi9C0Ib2GaEGo5RfvhjHjSzY/gHentbzkqMRqkttgpUsoFen4UL+0uWleNX2JKDxMc0369kb1MDvsIW8GTaBk2LTlTVH7JisW8TPyKSkUshDwN1Mpuca3HmnzjDTNQBZhKHFrUsnNXSseyokiUisT8vDf+hM5VsrWGyXJ4F2FzMvRt690ulFCfmCiswcStguuEhjQ==;g4cH7+WiIjDb2PVMjqBM6Q=="
 ---

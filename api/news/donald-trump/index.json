@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-21-trump-campaign-will-again-ask-us-high-court-to-upend-election-results.md",
+      "title": "Trump campaign will again ask U.S. high court to upend election results",
+      "excerpt": "President Donald Trump's campaign said on Sunday it would again ask the U.S. Supreme Court to overturn results from the Nov. 3 election, its latest long-shot effort to subvert the electoral process and sow doubt over the legitimacy of President-elect Joe Biden's victory.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-trump-court/trump-campaign-will-again-ask-u-s-high-court-to-upend-election-results-idUSKBN28U0UJ",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-court/trump-campaign-will-again-ask-u-s-high-court-to-upend-election-results-idUSKBN28U0UJ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1760,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201220&t=2&i=1545228483&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBJ0GH",
+          "width": 819,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28U0UJ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28U0UJ",
+      "publishedDateTime": "2020-12-20T13:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-surgeon-general-jerome-adams-cites-antibody-treatment-for-trumps-delay-in-getting-vaccine.md",
+      "title": "Surgeon General Jerome Adams cites antibody treatment for Trump's delay in getting vaccine",
+      "excerpt": "Surgeon General Jerome Adams says the president has a \"medical reason\" for not getting the vaccine, since he was treated with antibodies in October.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/surgeon-general-jerome-adams-cites-antibody-treatment-for-trumps-delay-in-getting-vaccine/",
+      "originalUrl": "https://www.cbsnews.com/video/surgeon-general-jerome-adams-cites-antibody-treatment-for-trumps-delay-in-getting-vaccine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/20/9a30fef8-bcc4-4eee-a13a-56ed60de2d67/thumbnail/1200x630/0e944f6058e61ab8fce45d0edce0c185/1220-ftn-jerome-613079-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-20T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-full-panel-trump-downplays-widespread-us-security-breach.md",
       "title": "Full Panel: Trump downplays widespread U.S. security breach",
       "excerpt": "Hallie Jackson, Yamiche Alcindor and Rich Lowry join the Meet the Press roundtable to discuss President Trump's response to a massive hack of government agencies and businesses reportedly tied to Russia.",
@@ -56,58 +160,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-trump-raised-the-idea-of-imposing-martial-law-to-overturn-the-election-in-a-white-house-meeting-according-to-reports.md",
-      "title": "Trump raised the idea of imposing martial law to overturn the election in a White House meeting, according to reports",
-      "excerpt": "In a White House meeting Friday, deploying US troops to re-run the election was one of several wild ideas touted, reported multiple outlets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12",
-      "originalUrl": "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fdf3473c910a400192e893a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12?amp",
-      "publishedDateTime": "2020-12-20T04:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -215,6 +267,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-20-fired-attorney-sidney-powell-is-back-advising-trump-to-chart-a-scorched-earth-course.md",
+      "title": "Fired attorney Sidney Powell is back, advising Trump to chart a scorched-earth course",
+      "excerpt": "After cutting Sidney Powell from his legal team, President Trump has welcomed her back into the White House to plot out further efforts to revive his presidency.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842",
+      "originalUrl": "https://abcnews.go.com/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/georgia-election-sidney-powell-02-rt-llr-201204_1607108804976_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842",
+      "publishedDateTime": "2020-12-19T22:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-former-us-cybersecurity-chief-chris-krebs-warned-not-to-conflate-voting-system-security-with-the-solarwinds-hack-despite-trumps-claim.md",
       "title": "Former US cybersecurity chief Chris Krebs warned not to 'conflate' voting system security with the SolarWinds hack despite Trump's claim",
       "excerpt": "Chris Krebs' warning came after President Donald Trump tweeted there could have been a hit on \"our ridiculous voting machines during the election.\"",
@@ -247,58 +351,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-trump-wanted-conspiracy-theorist-sidney-powell-as-special-counsel-on-voter-fraud-report.md",
-      "title": "Trump wanted conspiracy theorist Sidney Powell as special counsel on voter fraud – report",
-      "excerpt": "Rudy Giuliani and other advisers opposed president’s suggestion, according to New York Times",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/dec/19/sidney-powell-trump-special-counsel-election-fraud-claims",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/19/sidney-powell-trump-special-counsel-election-fraud-claims",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ab36745ae4c618ac2c20aff19ed98c3b8be2b06c/0_110_8192_4915/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f7a1dba5230ac83bcadc1ec8563ec996",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/19/sidney-powell-trump-special-counsel-election-fraud-claims",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/19/sidney-powell-trump-special-counsel-election-fraud-claims",
-      "publishedDateTime": "2020-12-19T12:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -376,21 +428,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-19-biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie.md",
-      "title": "Biggest vets groups step up pressure on Trump to fire Wilkie",
-      "excerpt": "The nation’s six largest veterans groups are calling on President Donald Trump to immediately fire Veterans Affairs Secretary Robert Wilkie over the mishandling of a congressional aide’s allegation of",
+      "path": "_news/2020-12-19-trump-signs-two-day-spending-bill-narrowly-avoiding-federal-shutdown.md",
+      "title": "Trump signs two-day spending bill, narrowly avoiding federal shutdown",
+      "excerpt": "President Trump signed a stopgap spending bill Friday night, aimed at extending a midnight deadline to keep the federal government funded and avoid a shutdown. The Senate had passed the measure with a unanimous voice vote.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biggest-vets-groups-step-pressure-trump-fire-wilkie-74764252",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biggest-vets-groups-step-pressure-trump-fire-wilkie-74764252",
+      "webUrl": "https://www.cbsnews.com/video/trump-signs-two-day-spending-bill-narrowly-avoiding-federal-shutdown/",
+      "originalUrl": "https://www.cbsnews.com/video/trump-signs-two-day-spending-bill-narrowly-avoiding-federal-shutdown/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_f9a2c279eb674cbb97dd86f2cbdb63c8_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/19/fe3ad989-62cc-4804-bf6a-db03fbe8588c/thumbnail/1200x630/efc1169bcb63f8ad076de34acc4fb270/1219-satmo-captiolhilllatest-reid-612724-640x360.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -398,16 +450,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biggest-vets-groups-step-pressure-trump-fire-wilkie-74764252",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biggest-vets-groups-step-pressure-trump-fire-wilkie-74764252",
-      "publishedDateTime": "2020-12-19T06:58:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-19T05:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "CBS News",
+        "domain": "cbsnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -428,19 +480,19 @@
       ]
     },
     {
-      "path": "_news/2020-12-19-exclusive-lawmakers-ask-fbi-and-federal-election-commission-to-investigate-jared-kushner-backed-trump-campaign-company-after-insiders-reporting.md",
-      "title": "EXCLUSIVE: Lawmakers ask FBI and Federal Election Commission to investigate Jared Kushner-backed Trump campaign company after Insider's reporting",
-      "excerpt": "In a letter obtained by Insider, two lawmakers told the FBI and the FEC that the only way to know if the Trump campaign violated federal laws is for the agencies to open an investigation.",
+      "path": "_news/2020-12-19-donald-and-melania-trump-wear-matching-tuxedos-in-their-final-white-house-christmas-picture.md",
+      "title": "Donald and Melania Trump wear matching tuxedos in their final White House Christmas picture",
+      "excerpt": "The picture shows the Trumps smiling as they stand together on the Grand staircase in the White House, beneath festive Christmas decorations.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/jared-kushner-trump-campaign-fbi-fec-investigation-shell-company-lara-2020-12",
-      "originalUrl": "https://www.businessinsider.com/jared-kushner-trump-campaign-fbi-fec-investigation-shell-company-lara-2020-12",
+      "webUrl": "https://www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 195,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5fdd4eb3c910a400192e883e?width=1200&format=jpeg",
+          "url": "https://i.insider.com/5fdddc03c910a400192e8870?width=1200&format=jpeg",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -450,9 +502,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-19T03:29:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12?amp",
+      "publishedDateTime": "2020-12-19T04:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -480,19 +532,19 @@
       ]
     },
     {
-      "path": "_news/2020-12-19-president-trump-melania-trump-don-matching-tuxedos-in-final-christmas-portrait-see-the-photo.md",
-      "title": "President Trump, Melania Trump don matching tuxedos in final Christmas portrait: See the photo",
-      "excerpt": "President Donald Trump and first lady Melania Trump donned matching looks and smiles for their final White House Christmas portrait.",
+      "path": "_news/2020-12-19-the-trump-booster-group-that-helped-the-head-of-the-extremist-proud-boys-gain-access-to-the-white-house.md",
+      "title": "The Trump booster group that helped the head of the extremist Proud Boys gain access to the White House",
+      "excerpt": "The Proud Boys leader visited the White House before clashes erupted in DC on Dec. 12. He was invited by a political group with ties to Trump allies.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/12/18/president-trump-melania-don-matching-tuxedos-final-christmas-photo/3969324001/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/12/18/president-trump-melania-don-matching-tuxedos-final-christmas-photo/3969324001/",
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/12/19/latinos-trump-group-tied-proud-boys-leader-enrique-tarrio/3931868001/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/12/19/latinos-trump-group-tied-proud-boys-leader-enrique-tarrio/3931868001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2019/12/06/USAT/ae8ce7ee-93a3-4011-9aa0-3a5f6632cb8f-AP_Trump.JPG?auto=webp&crop=4130,2324,x0,y210&format=pjpg&width=1200",
+          "url": "https://www.gannett-cdn.com/presto/2020/10/15/USAT/faa39348-f87f-4e26-94f3-50a0aef33d73-AFP_AFP_8QT7GX.jpg?auto=webp&crop=4499,2531,x0,y234&format=pjpg&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -502,9 +554,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3969324001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3969324001",
-      "publishedDateTime": "2020-12-18T20:26:00-08:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3931868001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3931868001",
+      "publishedDateTime": "2020-12-19T03:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",
@@ -512,6 +564,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-19-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long-running-tension-with-other-republicans.md",
+      "title": "Jeff Stein: Trump's last-minute push for larger stimulus checks example of 'long-running tension' with other Republicans",
+      "excerpt": "In an interview on Hill.TV’s “Rising,” Stein said Trump had told allies that he wanted new stimulus checks as large as $2,000 per person, even as congressional leadership is preparing a package that would provide checks of just $600 each.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long",
+      "originalUrl": "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_120720getty_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long?amp",
+      "publishedDateTime": "2020-12-18T15:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -703,58 +807,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-18-white-house-aides-talked-trump-out-of-last-minute-demand-for-stimulus-checks-as-big-as-2000.md",
-      "title": "White House aides talked Trump out of last-minute demand for stimulus checks as big as $2,000",
-      "excerpt": "Advisers persuaded the president on Thursday not to announce support for significantly bigger stimulus payments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/us-policy/2020/12/17/trump-2000-stimulus-checks/",
-      "originalUrl": "https://www.washingtonpost.com/us-policy/2020/12/17/trump-2000-stimulus-checks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TUGCMYSAL4I6XNMLCYR7MJTZMA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/us-policy/2020/12/17/trump-2000-stimulus-checks/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/12/17/trump-2000-stimulus-checks/?outputType=amp",
-      "publishedDateTime": "2020-12-18T00:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-18-late-night-compares-trump-health-adviser-paul-alexander-to-a-comic-book-villain.md",
       "title": "Late Night Compares Trump Health Adviser, Paul Alexander, to a Comic Book Villain",
       "excerpt": "The former Health and Human Services adviser’s leaked emails encouraged herd immunity to deal with the pandemic, writing of Americans, “We want them infected.”",
@@ -820,7 +872,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/2020/12/17/turning-point-usa-list-conservative-speakers-admit-trump-lost/3947267001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -844,58 +896,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-the-us-declares-switzerland-and-vietnam-as-currency-manipulators-in-the-final-days-of-trumps-administration.md",
-      "title": "The US declares Switzerland and Vietnam as currency manipulators in the final days of Trump's administration",
-      "excerpt": "Joe Biden's incoming administration, according to a chief emerging markets strategist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/us-calls-switzerland-vietnam-manipulators-in-trump-trade-shot-2020-12",
-      "originalUrl": "https://www.businessinsider.com/us-calls-switzerland-vietnam-manipulators-in-trump-trade-shot-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fdb492dc910a400192e8017?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/us-calls-switzerland-vietnam-manipulators-in-trump-trade-shot-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-calls-switzerland-vietnam-manipulators-in-trump-trade-shot-2020-12?amp",
-      "publishedDateTime": "2020-12-17T13:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1072,21 +1072,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-17-rules-eased-for-water-from-showerheads-a-trump-pet-peeve.md",
-      "title": "Rules eased for water from showerheads, a Trump pet peeve",
-      "excerpt": "The Trump administration has relaxed a regulation restricting water flow from showerheads — something that was a pet peeve of President Donald Trump, who complained that he wanted more water to make his hair “perfect.",
+      "path": "_news/2020-12-17-united-states-hopes-for-trade-deal-with-uk-trumps-trade-chief-says-bbc.md",
+      "title": "United States hopes for trade deal with UK, Trump's trade chief says - BBC",
+      "excerpt": "The United States is hopeful of sealing a mini-trade deal with the United Kingdom to reduce tariffs, President Donald Trump's trade chief, Robert Lighthizer, told the BBC.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/rules-eased-water-showerheads-trump-pet-peeve-74764674",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/rules-eased-water-showerheads-trump-pet-peeve-74764674",
+      "webUrl": "https://www.reuters.com/article/us-usa-trade-eu-britain-idUSKBN28R0M7",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trade-eu-britain-idUSKBN28R0M7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 143,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_c3a858b94b5e4a139597b7bdb3897946_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544851454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0CY",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1094,16 +1094,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/rules-eased-water-showerheads-trump-pet-peeve-74764674",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/rules-eased-water-showerheads-trump-pet-peeve-74764674",
-      "publishedDateTime": "2020-12-16T22:21:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28R0M7",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R0M7",
+      "publishedDateTime": "2020-12-16T23:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1124,21 +1124,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-17-trump-administration-cuts-200m-in-health-care-funds-to-california-over-abortion-regulations.md",
-      "title": "Trump administration cuts $200M in health care funds to California over abortion regulations",
-      "excerpt": "The office of California Gov. Gavin Newsom criticized the Department of Health and Human Services' move as an ploy “to score cheap political points.\"",
+      "path": "_news/2020-12-17-report-trump-contemplating-not-leaving-white-house-on-january-20.md",
+      "title": "Report: Trump Contemplating Not Leaving White House on January 20",
+      "excerpt": "One of the very few remaining mysteries surrounding Donald Trump — a very simple man prone to blurting out his feelings around the clock in whatever medium he has available — is whether or to what degree he is conscious of his lies.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/12/16/trump-hhs-california-abortions-health-care-funds/3936091001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/12/16/trump-hhs-california-abortions-health-care-funds/3936091001/",
+      "webUrl": "https://nymag.com/intelligencer/2020/12/will-trump-leave-white-house-january-20-inauguration.html",
+      "originalUrl": "https://nymag.com/intelligencer/2020/12/will-trump-leave-white-house-january-20-inauguration.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/17/USAT/c0d4457f-287a-47de-8e20-c14e47642a61-AP19180773998983.jpg?auto=webp&crop=2819,1586,x0,y412&format=pjpg&width=1200",
+          "url": "https://pyxis.nymag.com/v1/imgs/b8e/d89/22cc7310a26c6ebe1e4007d0e9860f8e18-donald-trump-pouts.1x.rsocial.w1200.jpg",
           "width": 1200,
-          "height": 675,
+          "height": 632,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1146,23 +1146,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3936091001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3936091001",
-      "publishedDateTime": "2020-12-16T20:22:00-08:00",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/2020/12/will-trump-leave-white-house-january-20-inauguration.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/will-trump-leave-white-house-january-20-inauguration.html",
+      "publishedDateTime": "2020-12-16T19:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1176,21 +1167,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-17-cardinal-pell-on-trump-benedict-xvi-and-a-plot-against-him.md",
-      "title": "Cardinal Pell on Trump, Benedict XVI and a plot against him",
-      "excerpt": "Pope Francis’ former treasurer, Cardinal George Pell, has praised President Donald Trump’s “splendid” Supreme Court appointments and defense of Christian values",
+      "path": "_news/2020-12-17-george-pell-trump-is-a-barbarian-but-in-some-important-ways-hes-our-barbarian.md",
+      "title": "George Pell: Trump is a barbarian, but 'in some important ways' he's our barbarian",
+      "excerpt": "Cardinal praises president’s ‘splendid’ supreme court appointments at the launch of his prison journal",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530",
+      "webUrl": "https://www.theguardian.com/australia-news/2020/dec/17/george-pell-trump-is-a-barbarian-but-in-some-important-ways-hes-our-barbarian",
+      "originalUrl": "https://www.theguardian.com/australia-news/2020/dec/17/george-pell-trump-is-a-barbarian-but-in-some-important-ways-hes-our-barbarian",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/International/WireAP_db87ce70924f4bd1942b890a41d3f72d_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://i.guim.co.uk/img/media/a1c8e57a076a7d3d3646b9555dbad5efda037fec/0_10_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=34a518665ddd9a135335792c884b19f7",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1198,16 +1189,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530",
-      "publishedDateTime": "2020-12-16T17:41:00-08:00",
+      "ampWebUrl": "https://amp.theguardian.com/australia-news/2020/dec/17/george-pell-trump-is-a-barbarian-but-in-some-important-ways-hes-our-barbarian",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2020/dec/17/george-pell-trump-is-a-barbarian-but-in-some-important-ways-hes-our-barbarian",
+      "publishedDateTime": "2020-12-16T15:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1392,7 +1383,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/12/16/how-far-did-ron-desantiss-loyalty-trump-go/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1436,6 +1427,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-16-analysis-federal-reserve-boneheads-emerge-from-trump-era-unscathed.md",
+      "title": "Analysis-Federal Reserve 'boneheads' emerge from Trump era unscathed",
+      "excerpt": "\"Boneheads.\" \"Pathetic.\" An \"enemy\" of the United States. President Donald Trump was often vicious in his critique of the U.S. Federal Reserve, bashing the central bank governors' monetary policy decisions with tweets and verbal barbs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-fed-trump-idINKBN28Q1CZ",
+      "originalUrl": "https://www.reuters.com/article/usa-fed-trump-idINKBN28Q1CZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544742238&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF0PG",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28Q1CZ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28Q1CZ",
+      "publishedDateTime": "2020-12-16T03:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-trump-lashes-out-at-mcconnell-for-recognizing-bidens-victory-people-are-angry.md",
       "title": "Trump lashes out at McConnell for recognizing Biden’s victory: ‘People are angry!’",
       "excerpt": "President Trump pleaded with Senate Majority Leader Mitch McConnell to continue supporting his efforts to undermine the election after McConnell acknowledged President-elect Joe Biden's win in the electoral college.",
@@ -1444,7 +1487,7 @@
       "originalUrl": "https://www.washingtonpost.com/nation/2020/12/16/trump-mcconnell-election-biden-president/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 414,
+      "heat": 374,
       "tags": null,
       "images": [
         {
@@ -1542,58 +1585,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-irans-rouhani-says-he-is-happy-that-lawless-trump-is-leaving-office.md",
-      "title": "Iran's Rouhani says he is happy that 'lawless' Trump is leaving office",
-      "excerpt": "Iranian President Hassan Rouhani said on Wednesday he was happy that Donald Trump was leaving office, calling him \"the most lawless U.S. president\" and a \"terrorist\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/iran-usa-rouhani-int-idUSKBN28Q0SS",
-      "originalUrl": "https://www.reuters.com/article/iran-usa-rouhani-int-idUSKBN28Q0SS",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544720502&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF0EW",
-          "width": 868,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28Q0T2",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q0T2",
-      "publishedDateTime": "2020-12-16T00:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

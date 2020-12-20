@@ -63,22 +63,6 @@ related:
         width: 801
         height: 545
         isCached: true
-  - title: "Ross Douthat column: Did the resistance defeat Donald Trump?"
-    excerpt: "Now that the Electoral College has voted and a Biden presidency seems essentially assured, let’s consider the best arguments for how and why the Resistance undid Trump."
-    publishedDateTime: 2020-12-15T16:23:00Z
-    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-resistance-defeat-donald-trump-20201215-6i3u43u5dzewnj65acafz5f3my-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-resistance-defeat-donald-trump-20201215-6i3u43u5dzewnj65acafz5f3my-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-resistance-defeat-donald-trump-20201215-6i3u43u5dzewnj65acafz5f3my-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/4nWU8fP8O9AuOEh9lRNgeFgQCms=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FTBYZYMTSXLIVZWLIVGG6NXO4E.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Covid: US Vice-President Mike Pence to receive vaccine"
     excerpt: "President Mike Pence is to receive the coronavirus vaccine live on television at later on Friday. The White House said the aim of the move was to \"promote the safety and efficacy of the vaccine and build confidence among the American people\"."
     publishedDateTime: 2020-12-18T11:31:00Z
@@ -185,22 +169,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/08/401aaaf8-9c1b-42f2-8222-dce3dee41a73/thumbnail/1200x630/f05ea69c149e05afcaf546d5740f12ca/cbsn-fusion-eye-opener-white-house-denies-rejecting-pfizer-offer-for-more-vaccines-thumbnail-603672-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "COVID-19 stimulus deal remains elusive as Trump signs 2-day spending bill to avoid shutdown"
-    excerpt: "This short-term extension of government funding would be the second time Congress has punted a shutdown deadline this month."
-    publishedDateTime: 2020-12-20T08:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/18/covid-stimulus-update-lawmakers-prepare-fund-government-2-days/3940074001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3940074001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3940074001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/17/USAT/82478af1-0d25-4fa4-bd52-06c5186b4f99-AFP_AFP_8XA3VM.jpg?auto=webp&crop=1023,576,x0,y66&format=pjpg&width=1200"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Trump claimed that COVID-19 vaccine would have taken 'five years' to develop if he weren't president"
     excerpt: "Trump's Operation Warp Speed has spent billions funding vaccine efforts, but Pfizer didn't take any federal money for research and development."

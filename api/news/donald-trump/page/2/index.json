@@ -2,20 +2,20 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-16-some-advisers-urge-trump-not-to-veto-defense-bill-source.md",
-      "title": "Some advisers urge Trump not to veto defense bill: source",
-      "excerpt": "U.S. President Donald Trump is being urged by some advisers not to go ahead with his plan to veto a major defense bill because it is all but certain to be overridden by the U.S. Congress, a source familiar with the situation said on Tuesday.",
+      "path": "_news/2020-12-16-irans-rouhani-says-he-is-happy-that-lawless-trump-is-leaving-office.md",
+      "title": "Iran's Rouhani says he is happy that 'lawless' Trump is leaving office",
+      "excerpt": "Iranian President Hassan Rouhani said on Wednesday he was happy that Donald Trump was leaving office, calling him \"the most lawless U.S. president\" and a \"terrorist\".",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-defense-congress-trump/some-advisers-urge-trump-not-to-veto-defense-bill-source-idUSKBN28P2Z0",
-      "originalUrl": "https://www.reuters.com/article/us-usa-defense-congress-trump/some-advisers-urge-trump-not-to-veto-defense-bill-source-idUSKBN28P2Z0",
+      "webUrl": "https://www.reuters.com/article/iran-usa-rouhani-int-idUSKBN28Q0SS",
+      "originalUrl": "https://www.reuters.com/article/iran-usa-rouhani-int-idUSKBN28Q0SS",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 125,
       "tags": null,
       "images": [
         {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544682785&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1QK",
-          "width": 817,
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544720502&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF0EW",
+          "width": 868,
           "height": 545,
           "title": null,
           "attribution": null,
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28P2Z0",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2Z0",
-      "publishedDateTime": "2020-12-15T19:37:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28Q0T2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q0T2",
+      "publishedDateTime": "2020-12-16T00:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -111,21 +111,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-15-trump-says-attorney-general-barr-resigns.md",
-      "title": "Trump says Attorney General Barr resigns",
-      "excerpt": "President Donald Trump said on Monday that Attorney General William Barr will be leaving his job just before Christmas and Deputy Attorney General Jeff Rosen will become acting attorney general.",
+      "path": "_news/2020-12-15-under-attack-from-trump-americas-democratic-institutions-bend-but-dont-break.md",
+      "title": "Under attack from Trump, America’s democratic institutions bend but don’t break",
+      "excerpt": "Historians and democracy experts said they feared that the tumultuous post-election period had exposed the fragility of the instruments of democracy.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-barr/trump-says-attorney-general-barr-resigns-idUSKBN28O329",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-barr/trump-says-attorney-general-barr-resigns-idUSKBN28O329",
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 645,
+      "heat": 221,
       "tags": null,
       "images": [
         {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544561952&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD1PU",
-          "width": 817,
-          "height": 545,
+          "url": "https://www.chicagotribune.com/resizer/hI1Y5FYhOzQSxPk_372qNQCsw4I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XBBB32DW26JFTNJSF6TAYX7P2A.jpg",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -133,16 +133,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28O329",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O329",
-      "publishedDateTime": "2020-12-14T15:14:00-08:00",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-14T18:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -220,21 +220,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-15-most-federal-employees-to-get-the-day-off-dec-24-under-trump-executive-order.md",
-      "title": "Most federal employees to get the day off Dec. 24 under Trump executive order",
-      "excerpt": "Trump follows a tradition of presidents excusing federal employees from work on the day before Christmas when the Christmas Day federal holiday falls on a Friday.",
+      "path": "_news/2020-12-15-trump-faces-dec-23-deadline-to-veto-or-sign-massive-ndaa-defense-bill.md",
+      "title": "Trump faces Dec. 23 deadline to veto - or sign - massive NDAA defense bill",
+      "excerpt": "U.S. President Donald Trump has until Dec. 23 to decide whether to veto the $740 billion National Defense Authorization Act or allow the annual measure setting policy for the Department of Defense to become law,",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html",
+      "webUrl": "https://www.reuters.com/article/us-usa-defense-congress/trump-faces-dec-23-deadline-to-veto-or-sign-massive-ndaa-defense-bill-idUSKBN28O26L?edition-redirect=ca",
+      "originalUrl": "https://www.reuters.com/article/us-usa-defense-congress/trump-faces-dec-23-deadline-to-veto-or-sign-massive-ndaa-defense-bill-idUSKBN28O26L?edition-redirect=ca",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 163,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KSJT7RBTC4I6XFUZADJRD4J5FU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544521382&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD175",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -242,16 +242,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-14T08:54:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28O26L",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O26L",
+      "publishedDateTime": "2020-12-14T08:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -381,21 +381,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-14-a-lifelong-republican-stood-up-to-trump-his-reward-death-threats.md",
-      "title": "A lifelong Republican stood up to Trump. His reward: Death threats",
-      "excerpt": "Georgia election official Gabriel Sterling is girding for another battle with conspiracy theories and lies about the integrity of the voting system.",
+      "path": "_news/2020-12-14-trumps-conspiracies-pose-existential-threat-to-electronic-voting-industry-smartmatic.md",
+      "title": "Trump's conspiracies pose 'existential' threat to electronic voting industry -Smartmatic",
+      "excerpt": "Conspiracy theories about how voting machines were used to stop the re-election of Donald Trump have not just sapped Americans' faith in the democratic process - they also pose an existential threat to the market for electronic voting systems worldwide,",
       "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done",
+      "webUrl": "https://www.reuters.com/article/us-usa-election-voting-tech/trumps-conspiracies-pose-existential-threat-to-electronic-voting-industry-smartmatic-idUSKBN28O19M?edition-redirect=ca",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-voting-tech/trumps-conspiracies-pose-existential-threat-to-electronic-voting-industry-smartmatic-idUSKBN28O19M?edition-redirect=ca",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 136,
       "tags": null,
       "images": [
         {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/ec7582c/2147483647/strip/true/crop/2510x1412+13+0/resize/768x432!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F09%2F7c%2F1ec055ca4ff69835f12733d1a2fe%2Fsterlingthumb.png",
-          "width": 768,
-          "height": 432,
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544489818&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0OK",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -403,16 +403,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done?_amp=true",
-      "publishedDateTime": "2020-12-14T04:14:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28O19M",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O19M",
+      "publishedDateTime": "2020-12-14T03:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -485,6 +485,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-14-several-people-are-stabbed-and-nearly-30-arrested-in-clashes-after-trump-supporters-rally.md",
+      "title": "Several people are stabbed and nearly 30 arrested in clashes after Trump supporters rally",
+      "excerpt": "Trump demonstrators over the weekend in Washington, leading to dozens of arrests, several stabbings and injuries to police officers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2020-12-13/nearly-30-arrested-after-clashes-at-trump-supporters-rally",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-13/nearly-30-arrested-after-clashes-at-trump-supporters-rally",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/128424f/2147483647/strip/true/crop/5546x3622+0+37/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fff%2Fc2%2F70455de34c4e9d519e464222fd1f%2Fbiden-41790.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-12-13/nearly-30-arrested-after-clashes-at-trump-supporters-rally?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-13/nearly-30-arrested-after-clashes-at-trump-supporters-rally?_amp=true",
+      "publishedDateTime": "2020-12-13T14:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-coronavirus-live-news-trump-to-be-offered-vaccine-on-monday-london-borough-to-close-all-schools.md",
       "title": "Coronavirus live news: Trump 'to be offered vaccine on Monday'; London borough to close all schools",
       "excerpt": "Greenwich ‘in a period of exponential growth that demands immediate action’; Spain’s health minister says vaccine could bring herd immunity by summer",
@@ -493,7 +545,7 @@
       "originalUrl": "https://www.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day?page=with:block-5fd68aab8f08b0a99da950e2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 211,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -517,58 +569,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-cnns-jake-tapper-thanks-trump-for-exposing-republicans-who-supported-texas-un-democratic-un-american-mendacious-joke-of-a-lawsuit.md",
-      "title": "CNN's Jake Tapper thanks Trump for 'exposing' Republicans who supported Texas' 'un-democratic, un-American, mendacious joke of a lawsuit'",
-      "excerpt": "Tapper closed his show with a blistering attack on Trump and Republicans for their \"desperate desire to subvert the will of the American people.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12",
-      "originalUrl": "https://www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fd689d69cf1420018d2f14a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12?amp",
-      "publishedDateTime": "2020-12-13T13:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -976,7 +976,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-trump/u-s-supreme-court-ends-texas-lawsuit-seeking-to-undo-trump-election-loss-idUSKBN28L2YY",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1799,
+      "heat": 1019,
       "tags": null,
       "images": [
         {
@@ -1345,7 +1345,7 @@
       "originalUrl": "https://businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1449,7 +1449,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 205,
       "tags": null,
       "images": [
         {

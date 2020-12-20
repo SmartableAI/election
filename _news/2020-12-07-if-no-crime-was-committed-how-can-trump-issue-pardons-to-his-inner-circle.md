@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/if-no-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle/2020/12/04/4cc534b8-357f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 123
-heat: 183
+heat: 203
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AORK3MQIWQI6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
         height: 959
+        isCached: true
+  - title: "Refuting Trump, FDA commissioner says vaccine could not have been authorized sooner"
+    excerpt: "In an interview with Fox News Saturday, Trump, after seeming to take credit for the speed of the vaccine's development, said that the Food and Drug Administration could have authorized the shot for emergency use \"last week."
+    publishedDateTime: 2020-12-13T14:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/this-week-stephen-hahn-02-ap-llr-201212_1607807457019_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Roles of Trump fundraiser, Kushner's attorney were scrutinized in pardon bribe probe"
     excerpt: "A former Trump fundraiser and a prominent lawyer were among the people scrutinized by the Justice Department for their roles in what a judge described as a possible bribery scheme to win a presidential pardon for a convicted felon,"

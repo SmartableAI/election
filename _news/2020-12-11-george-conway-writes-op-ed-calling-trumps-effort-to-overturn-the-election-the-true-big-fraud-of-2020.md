@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/conway-calls-trump-effort-to-overtur
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12?amp"
 type: article
 quality: 124
-heat: 164
+heat: 144
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump retweeted a call to have him jailed but Georgia Gov. Brian Kemp still won't concede that Trump lost the election"
-    excerpt: "In a new interview, Kemp declined to say that the election was over, while Trump retweeted a call for Kemp to be jailed."
-    publishedDateTime: 2020-12-16T05:41:00Z
-    webUrl: "https://www.businessinsider.com/after-being-taunted-by-president-georgia-gov-kemp-backs-trump-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/after-being-taunted-by-president-georgia-gov-kemp-backs-trump-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/after-being-taunted-by-president-georgia-gov-kemp-backs-trump-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
-    images:
-      - url: "https://i.insider.com/5fd9795a6524f10019792432?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "The big lie that won’t die: How Trump and his allies’ favorite bogus fraud claim keeps surviving"
     excerpt: "When the history of President Trump’s failing effort to overturn the 2020 election results is written, there will be many bogus claims to chew on. But more than any other, one is emerging is the epitome of bad faith,"
     publishedDateTime: 2020-12-09T18:31:00Z

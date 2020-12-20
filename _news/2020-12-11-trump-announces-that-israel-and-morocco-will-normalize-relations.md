@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-10/trump-announce
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations?_amp=true"
 type: article
 quality: 125
-heat: 225
+heat: 205
 published: true
 
 provider:
@@ -79,17 +79,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Idaho’s 4 electors cast votes for Trump and Pence"
-    excerpt: "All four of Idaho’s Republican electors have cast their ballots for President Donald Trump and Vice President Mike Pence."
-    publishedDateTime: 2020-12-16T14:43:00Z
-    webUrl: "https://www.theolympian.com/news/politics-government/national-politics/article247837130.html"
-    ampWebUrl: "https://amp.theolympian.com/news/politics-government/national-politics/article247837130.html"
-    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/news/politics-government/national-politics/article247837130.html"
-    type: article
-    provider:
-      name: The Olympian
-      domain: theolympian.com
-    quality: 70
   - title: "Exclusive-Trump Administration Moves Forward With $1 Billion Moroccan Arms Deal"
     excerpt: "President Donald Trump's administration moved forward with $1 billion in sales of drones and precision-guided weapons to Morocco on Friday, sending a notice to Congress about the potential deals, according to sources familiar with the notification."
     publishedDateTime: 2020-12-12T01:17:00Z

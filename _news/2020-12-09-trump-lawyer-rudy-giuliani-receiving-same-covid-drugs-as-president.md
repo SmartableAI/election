@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/world-55243581"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-55243581"
 type: article
 quality: 125
-heat: 285
+heat: 265
 published: true
 
 provider:
@@ -92,22 +92,6 @@ related:
     quality: 113
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/12/08/USAT/4be9a102-6ccc-439e-a0f5-84a67dc2fbaf-AFP_AFP_8WQ49E.jpg?auto=webp&crop=4497,2530,x0,y132&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Attorney General William Barr resigns after recent clashes with Trump, still defends president"
-    excerpt: "William Barr, who has served as President Donald Trump's most effective shield and advocate for broad presidential authority, is leaving before Christmas."
-    publishedDateTime: 2020-12-15T08:22:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/14/attorney-general-william-barr-leaving-trump-administration/5993228002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5993228002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5993228002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/01/USAT/70fdbe50-e9b6-48b0-ab1d-32b8986206d3-USATSI_14865079.jpg?auto=webp&crop=5471,3077,x0,y571&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

@@ -31,37 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Some advisers urge Trump not to veto defense bill: source"
-    excerpt: "U.S. President Donald Trump is being urged by some advisers not to go ahead with his plan to veto a major defense bill because it is all but certain to be overridden by the U.S. Congress, a source familiar with the situation said on Tuesday."
-    publishedDateTime: 2020-12-16T03:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-defense-congress-trump/some-advisers-urge-trump-not-to-veto-defense-bill-source-idUSKBN28P2Z0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2Z0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2Z0"
+  - title: "Trump reportedly limited US purchases of Pfizer vaccine when offered - live"
+    excerpt: "New York Times reports Trump passed on the offer in late summer and the company may not be able to provide more doses until next June"
+    publishedDateTime: 2020-12-08T00:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fcec0e68f0861e6ffe1e6e4"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544682785&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1QK"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump faces Dec. 23 deadline to veto - or sign - massive NDAA defense bill"
-    excerpt: "U.S. President Donald Trump has until Dec. 23 to decide whether to veto the $740 billion National Defense Authorization Act or allow the annual measure setting policy for the Department of Defense to become law,"
-    publishedDateTime: 2020-12-14T16:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-defense-congress/trump-faces-dec-23-deadline-to-veto-or-sign-massive-ndaa-defense-bill-idUSKBN28O26L?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O26L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O26L"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 123
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544521382&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD175"
-        width: 817
-        height: 545
+      - url: "https://i.guim.co.uk/img/media/730b1899663f9fe8321baaaff43b7fe1efd95b53/0_210_6016_3610/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a89c32dae22553d9c97145e7fb9681bb"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump vaccine executive order raises questions after Pfizer offer declined"
+    excerpt: "The White House pushed back on reports the United States declined to buy more doses of a COVID-19 vaccine produced by Pfizer and its German partner BioNTech."
+    publishedDateTime: 2020-12-08T17:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-vaccine-executive-order-raises-questions-pfizer-offer/story?id=74604381"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-vaccine-executive-order-raises-questions-pfizer-offer/story?id=74604381"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-vaccine-executive-order-raises-questions-pfizer-offer/story?id=74604381"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-gty-jt-201208_1607443175602_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump administration threatened to oust the head of the FDA if the Pfizer vaccine isn't cleared by the end of Friday, a new report says"
+    excerpt: "Dr. Stephen Hahn denied the report, telling Business Insider that \"this is an untrue representation of the phone call with the Chief of Staff.\""
+    publishedDateTime: 2020-12-11T21:45:00Z
+    webUrl: "https://www.businessinsider.com/white-house-reportedly-threatened-fda-hahn-pfizer-coronavirus-vaccine-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/white-house-reportedly-threatened-fda-hahn-pfizer-coronavirus-vaccine-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-reportedly-threatened-fda-hahn-pfizer-coronavirus-vaccine-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/5fd3c9b2e00bce00188bae82?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "lEPydKb+N0+Brzi1zQlcuQ1H/2pVmRx3WRZjgEdnW4wKdkwFyE7fMolo9F3JqQFYU5vqo0d9uDipOVGxOipxtZ3D9fvMlnwajq3hvnIaPxXOrRHnm/jSihy0xyUPE6Tq2fBsV7Wrn5bvo6+db2srURqNTnjGkHLfGPMCY9ejTsxd1IbajnWHdDiWWI1Ingi0I21QYx7Fbuf1I+q2+DTyrZvfZpamigabLWbLOLoMtKjUjjRsmhy/C0+Zw/MYszA8sPquEC5EsOGOJj7LunLHWiAz562T+7RCU55rVIDlr9y+/0zMmVhQcizPA99m++uBonDlB0AS5fpgU7wvEVP+AHKOJUT4J8qYNMLzGRaQZ0A=;aCvIEeBsLUOw3F/pv91/+g=="

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-19-trump-signs-two-day-spending-bill-narrowly-avoiding-federal-shutdown.md",
+      "title": "Trump signs two-day spending bill, narrowly avoiding federal shutdown",
+      "excerpt": "President Trump signed a stopgap spending bill Friday night, aimed at extending a midnight deadline to keep the federal government funded and avoid a shutdown. The Senate had passed the measure with a unanimous voice vote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/trump-signs-two-day-spending-bill-narrowly-avoiding-federal-shutdown/",
+      "originalUrl": "https://www.cbsnews.com/video/trump-signs-two-day-spending-bill-narrowly-avoiding-federal-shutdown/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/19/fe3ad989-62cc-4804-bf6a-db03fbe8588c/thumbnail/1200x630/efc1169bcb63f8ad076de34acc4fb270/1219-satmo-captiolhilllatest-reid-612724-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-19T05:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.md",
       "title": "US Space Force members will be called ‘guardians,’ Vice President Mike Pence says",
       "excerpt": "The Trump administration celebrated the first birthday of the U.S. Space Force on Friday by announcing that its members will be known as “guardians.” Vice President Mike Pence made the announcement at a celebratory event tracing the development of the newest branch of the military over the past year.",
@@ -45,19 +97,19 @@
       ]
     },
     {
-      "path": "_news/2020-12-19-exclusive-lawmakers-ask-fbi-and-federal-election-commission-to-investigate-jared-kushner-backed-trump-campaign-company-after-insiders-reporting.md",
-      "title": "EXCLUSIVE: Lawmakers ask FBI and Federal Election Commission to investigate Jared Kushner-backed Trump campaign company after Insider's reporting",
-      "excerpt": "In a letter obtained by Insider, two lawmakers told the FBI and the FEC that the only way to know if the Trump campaign violated federal laws is for the agencies to open an investigation.",
+      "path": "_news/2020-12-19-donald-and-melania-trump-wear-matching-tuxedos-in-their-final-white-house-christmas-picture.md",
+      "title": "Donald and Melania Trump wear matching tuxedos in their final White House Christmas picture",
+      "excerpt": "The picture shows the Trumps smiling as they stand together on the Grand staircase in the White House, beneath festive Christmas decorations.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/jared-kushner-trump-campaign-fbi-fec-investigation-shell-company-lara-2020-12",
-      "originalUrl": "https://www.businessinsider.com/jared-kushner-trump-campaign-fbi-fec-investigation-shell-company-lara-2020-12",
+      "webUrl": "https://www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 195,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5fdd4eb3c910a400192e883e?width=1200&format=jpeg",
+          "url": "https://i.insider.com/5fdddc03c910a400192e8870?width=1200&format=jpeg",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -67,9 +119,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-19T03:29:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12?amp",
+      "publishedDateTime": "2020-12-19T04:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -97,19 +149,19 @@
       ]
     },
     {
-      "path": "_news/2020-12-19-president-trump-melania-trump-don-matching-tuxedos-in-final-christmas-portrait-see-the-photo.md",
-      "title": "President Trump, Melania Trump don matching tuxedos in final Christmas portrait: See the photo",
-      "excerpt": "President Donald Trump and first lady Melania Trump donned matching looks and smiles for their final White House Christmas portrait.",
+      "path": "_news/2020-12-19-the-trump-booster-group-that-helped-the-head-of-the-extremist-proud-boys-gain-access-to-the-white-house.md",
+      "title": "The Trump booster group that helped the head of the extremist Proud Boys gain access to the White House",
+      "excerpt": "The Proud Boys leader visited the White House before clashes erupted in DC on Dec. 12. He was invited by a political group with ties to Trump allies.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/12/18/president-trump-melania-don-matching-tuxedos-final-christmas-photo/3969324001/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/12/18/president-trump-melania-don-matching-tuxedos-final-christmas-photo/3969324001/",
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/12/19/latinos-trump-group-tied-proud-boys-leader-enrique-tarrio/3931868001/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/12/19/latinos-trump-group-tied-proud-boys-leader-enrique-tarrio/3931868001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2019/12/06/USAT/ae8ce7ee-93a3-4011-9aa0-3a5f6632cb8f-AP_Trump.JPG?auto=webp&crop=4130,2324,x0,y210&format=pjpg&width=1200",
+          "url": "https://www.gannett-cdn.com/presto/2020/10/15/USAT/faa39348-f87f-4e26-94f3-50a0aef33d73-AFP_AFP_8QT7GX.jpg?auto=webp&crop=4499,2531,x0,y234&format=pjpg&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -119,9 +171,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3969324001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3969324001",
-      "publishedDateTime": "2020-12-18T20:26:00-08:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3931868001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3931868001",
+      "publishedDateTime": "2020-12-19T03:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",
@@ -198,6 +250,58 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-19-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long-running-tension-with-other-republicans.md",
+      "title": "Jeff Stein: Trump's last-minute push for larger stimulus checks example of 'long-running tension' with other Republicans",
+      "excerpt": "In an interview on Hill.TV’s “Rising,” Stein said Trump had told allies that he wanted new stimulus checks as large as $2,000 per person, even as congressional leadership is preparing a package that would provide checks of just $600 each.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long",
+      "originalUrl": "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_120720getty_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long?amp",
+      "publishedDateTime": "2020-12-18T15:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1144,7 +1248,7 @@
       "originalUrl": "https://www.businessinsider.com/video-mike-pence-coronavirus-vaccine-live-tv-trump-hides-background-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 630,
+      "heat": 590,
       "tags": null,
       "images": [
         {
@@ -1185,58 +1289,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-white-house-aides-talked-trump-out-of-last-minute-demand-for-stimulus-checks-as-big-as-2000.md",
-      "title": "White House aides talked Trump out of last-minute demand for stimulus checks as big as $2,000",
-      "excerpt": "Advisers persuaded the president on Thursday not to announce support for significantly bigger stimulus payments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/us-policy/2020/12/17/trump-2000-stimulus-checks/",
-      "originalUrl": "https://www.washingtonpost.com/us-policy/2020/12/17/trump-2000-stimulus-checks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TUGCMYSAL4I6XNMLCYR7MJTZMA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/us-policy/2020/12/17/trump-2000-stimulus-checks/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/12/17/trump-2000-stimulus-checks/?outputType=amp",
-      "publishedDateTime": "2020-12-18T00:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1293,63 +1345,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-joe-biden-wears-a-kick-me-sign.md",
-      "title": "Joe Biden Wears a ‘Kick Me’ Sign",
-      "excerpt": "Critics like AOC and Sanders believe there is no price to be paid, and benefits to be gained, by publicly pressuring the new administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964",
-      "originalUrl": "https://www.politico.com/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/e3/5e/3ba27c9c4f00b80e8b1e6788411a/ap20350034179902-1-c.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964",
-      "publishedDateTime": "2020-12-17T19:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

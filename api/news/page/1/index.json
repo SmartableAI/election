@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-21-trump-campaign-will-again-ask-us-high-court-to-upend-election-results.md",
+      "title": "Trump campaign will again ask U.S. high court to upend election results",
+      "excerpt": "President Donald Trump's campaign said on Sunday it would again ask the U.S. Supreme Court to overturn results from the Nov. 3 election, its latest long-shot effort to subvert the electoral process and sow doubt over the legitimacy of President-elect Joe Biden's victory.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-trump-court/trump-campaign-will-again-ask-u-s-high-court-to-upend-election-results-idUSKBN28U0UJ",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-court/trump-campaign-will-again-ask-u-s-high-court-to-upend-election-results-idUSKBN28U0UJ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1760,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201220&t=2&i=1545228483&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBJ0GH",
+          "width": 819,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28U0UJ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28U0UJ",
+      "publishedDateTime": "2020-12-20T13:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-romney-trump-continuing-to-dispute-election-results-is-really-sad-and-embarrassing.md",
       "title": "Romney: Trump continuing to dispute election results is 'really sad' and 'embarrassing'",
       "excerpt": "Sen. Mitt Romney, R-Utah, called President Trump's refusal to concede the 2020 election \"really sad\" and \"embarrassing\" on Sunday.",
@@ -111,6 +163,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-surgeon-general-jerome-adams-cites-antibody-treatment-for-trumps-delay-in-getting-vaccine.md",
+      "title": "Surgeon General Jerome Adams cites antibody treatment for Trump's delay in getting vaccine",
+      "excerpt": "Surgeon General Jerome Adams says the president has a \"medical reason\" for not getting the vaccine, since he was treated with antibodies in October.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/surgeon-general-jerome-adams-cites-antibody-treatment-for-trumps-delay-in-getting-vaccine/",
+      "originalUrl": "https://www.cbsnews.com/video/surgeon-general-jerome-adams-cites-antibody-treatment-for-trumps-delay-in-getting-vaccine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/20/9a30fef8-bcc4-4eee-a13a-56ed60de2d67/thumbnail/1200x630/0e944f6058e61ab8fce45d0edce0c185/1220-ftn-jerome-613079-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-20T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -335,58 +439,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-20-trump-raised-the-idea-of-imposing-martial-law-to-overturn-the-election-in-a-white-house-meeting-according-to-reports.md",
-      "title": "Trump raised the idea of imposing martial law to overturn the election in a White House meeting, according to reports",
-      "excerpt": "In a White House meeting Friday, deploying US troops to re-run the election was one of several wild ideas touted, reported multiple outlets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12",
-      "originalUrl": "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fdf3473c910a400192e893a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12?amp",
-      "publishedDateTime": "2020-12-20T04:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-20-bidens-impact-on-federal-judiciary-may-be-limited-despite-liberals-talk-of-court-packing.md",
       "title": "Biden's impact on federal judiciary may be limited despite liberals' talk of 'court-packing'",
       "excerpt": "Beyond racial and ethnic demographics and job experiences, Biden's impact on the judiciary is not likely to be as dramatic as Trump's has been.",
@@ -523,6 +575,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-20-fired-attorney-sidney-powell-is-back-advising-trump-to-chart-a-scorched-earth-course.md",
+      "title": "Fired attorney Sidney Powell is back, advising Trump to chart a scorched-earth course",
+      "excerpt": "After cutting Sidney Powell from his legal team, President Trump has welcomed her back into the White House to plot out further efforts to revive his presidency.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842",
+      "originalUrl": "https://abcnews.go.com/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/georgia-election-sidney-powell-02-rt-llr-201204_1607108804976_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842",
+      "publishedDateTime": "2020-12-19T22:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -864,58 +968,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-20-trump-wanted-conspiracy-theorist-sidney-powell-as-special-counsel-on-voter-fraud-report.md",
-      "title": "Trump wanted conspiracy theorist Sidney Powell as special counsel on voter fraud – report",
-      "excerpt": "Rudy Giuliani and other advisers opposed president’s suggestion, according to New York Times",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/dec/19/sidney-powell-trump-special-counsel-election-fraud-claims",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/19/sidney-powell-trump-special-counsel-election-fraud-claims",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ab36745ae4c618ac2c20aff19ed98c3b8be2b06c/0_110_8192_4915/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f7a1dba5230ac83bcadc1ec8563ec996",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/19/sidney-powell-trump-special-counsel-election-fraud-claims",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/19/sidney-powell-trump-special-counsel-election-fraud-claims",
-      "publishedDateTime": "2020-12-19T12:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-20-jim-carrey-to-stop-impersonating-joe-biden-on-saturday-night-live.md",
       "title": "Jim Carrey to stop impersonating Joe Biden on 'Saturday Night Live'",
       "excerpt": "Live” did not immediately offer insight as to who might pick up the impression, Carrey’s departure could allow a cast member to take over.",
@@ -1195,58 +1247,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie.md",
-      "title": "Biggest vets groups step up pressure on Trump to fire Wilkie",
-      "excerpt": "The nation’s six largest veterans groups are calling on President Donald Trump to immediately fire Veterans Affairs Secretary Robert Wilkie over the mishandling of a congressional aide’s allegation of",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biggest-vets-groups-step-pressure-trump-fire-wilkie-74764252",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biggest-vets-groups-step-pressure-trump-fire-wilkie-74764252",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_f9a2c279eb674cbb97dd86f2cbdb63c8_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biggest-vets-groups-step-pressure-trump-fire-wilkie-74764252",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biggest-vets-groups-step-pressure-trump-fire-wilkie-74764252",
-      "publishedDateTime": "2020-12-19T06:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {

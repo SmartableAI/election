@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-cov
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
 type: article
 quality: 123
-heat: 163
+heat: 183
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-gty-jt-201208_1607443175602_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "The Trump administration is delivering on a 2020 vaccine, but not at the levels he suggested"
+    excerpt: "Many of the promises and projections that the Trump administration made on coronavirus vaccines have since been revised or contradicted by Trump officials or by President Trump himself."
+    publishedDateTime: 2020-12-10T16:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-10-2020/t_86660cef3e8b4d0e8383f3bbc5bc196b_name_20201209_TRUMP_VACCINE_V3.png&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Trump administration threatened to oust the head of the FDA if the Pfizer vaccine isn't cleared by the end of Friday, a new report says"
     excerpt: "Dr. Stephen Hahn denied the report, telling Business Insider that \"this is an untrue representation of the phone call with the Chief of Staff.\""

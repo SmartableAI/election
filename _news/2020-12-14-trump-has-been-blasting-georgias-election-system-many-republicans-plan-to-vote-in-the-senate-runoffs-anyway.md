@@ -79,24 +79,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Indiana Presidential Electors Award Trump, Pence 11 Votes"
-    excerpt: "Indiana’s 11 representatives to the Electoral College unanimously cast their votes Monday for President Donald Trump."
-    publishedDateTime: 2020-12-14T16:37:00Z
-    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-12-14/indiana-presidential-electors-award-trump-pence-11-votes"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 60
-  - title: "Alabama Electors Cast Their 9 Votes for President Trump"
-    excerpt: "(AP) — With patriotic music and an face mask-wearing Uncle Sam, Alabama ’s members of the Electoral College cast their nine votes for Republican President Donald Trump at the state Capitol on Monday."
-    publishedDateTime: 2020-12-14T19:54:00Z
-    webUrl: "https://www.usnews.com/news/best-states/alabama/articles/2020-12-14/alabama-electors-cast-their-9-votes-for-president-trump"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "2QSrqAvnyoaRqxI8J2BLjjmzcrYO36pcyLvD4A4wPx0hscygFHxN0l5IqF+baWmjkdR5S+hejP84hfOTjA7KlqPocowcjxP4NT9y5k0op7QD8Ypv3d29WN8i7CbsPALsDoNFEoWbU1M8B2S4m18nUWtHvNHg+YC41Qgq7JXVl1l46VM9kdtLpgjhDvYxHN9NG874GhNX03bXu49GgKaEpDZKENkgBmSoLIa2FaYjwxq7xyKJbPwsokNyAP0Vad9DXZKwkXiLI/LFiNoi6q1MmrlXn0olHyV6SYkoOTrjYG3Kkobt9Ny6nOfPBp4IxAKHKFTQKihOytEsDGrbBZ5GeUD3ehDtj63gvEwfEV8Sm6g=;DAHH63m9VeY23bfT/KJ0LA=="
 ---

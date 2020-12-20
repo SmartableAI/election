@@ -79,17 +79,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Idaho’s 4 electors cast votes for Trump and Pence"
-    excerpt: "All four of Idaho’s Republican electors have cast their ballots for President Donald Trump and Vice President Mike Pence."
-    publishedDateTime: 2020-12-16T14:43:00Z
-    webUrl: "https://www.theolympian.com/news/politics-government/national-politics/article247837130.html"
-    ampWebUrl: "https://amp.theolympian.com/news/politics-government/national-politics/article247837130.html"
-    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/news/politics-government/national-politics/article247837130.html"
-    type: article
-    provider:
-      name: The Olympian
-      domain: theolympian.com
-    quality: 70
   - title: "Exclusive-Trump Administration Moves Forward With $1 Billion Moroccan Arms Deal"
     excerpt: "President Donald Trump's administration moved forward with $1 billion in sales of drones and precision-guided weapons to Morocco on Friday, sending a notice to Congress about the potential deals, according to sources familiar with the notification."
     publishedDateTime: 2020-12-12T01:17:00Z

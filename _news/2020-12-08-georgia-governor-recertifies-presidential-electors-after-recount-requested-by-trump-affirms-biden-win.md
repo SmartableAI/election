@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/georgia-governor-recertifies
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-governor-recertifies-presidential-electors-after-recount-requested-by-trump-affirms-biden-win/2020/12/07/0b921d0e-38fd-11eb-aad9-8959227280c4_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 185
 published: true
 
 provider:
@@ -79,24 +79,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Indiana Presidential Electors Award Trump, Pence 11 Votes"
-    excerpt: "Indiana’s 11 representatives to the Electoral College unanimously cast their votes Monday for President Donald Trump."
-    publishedDateTime: 2020-12-14T16:37:00Z
-    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-12-14/indiana-presidential-electors-award-trump-pence-11-votes"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 60
-  - title: "Alabama Electors Cast Their 9 Votes for President Trump"
-    excerpt: "(AP) — With patriotic music and an face mask-wearing Uncle Sam, Alabama ’s members of the Electoral College cast their nine votes for Republican President Donald Trump at the state Capitol on Monday."
-    publishedDateTime: 2020-12-14T19:54:00Z
-    webUrl: "https://www.usnews.com/news/best-states/alabama/articles/2020-12-14/alabama-electors-cast-their-9-votes-for-president-trump"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "p5kDZhF5M3vmbHZ7pzGPKJ2NM5QvoVdzxcZ5dNFflyD739z9PdIu/ySvZVgYY97mxYhjZYtZIdtlV/y+ySjwzXM3y5Jh7T+zPIjesixoVOWc/Sb5IfP4G4cDcRuEdtjKfYfpdoHgi1iLwep/eNYhS+uB8FPCecoTT2OnWqCyGWs6GUaplwjIOZ2IFTSo5aSMsQ95c16+HRpD1X5yMs0x/bAp+o0s4CtC/bTmvlY4LiAZckaoXpWhq5SmnnSO59lGrk1d1prJdvxBhH1uZpUOk5zSIthCrPMtNGuGjAfv+JlW9Z2Hu6sbvgo7Sa+fqSbXzpFhva6U0TTfSfMvCQx1qpLkiXEMos+QeC/HHwQzD7U=;HfXeL3ljiiTYJvamb2pQUw=="
 ---

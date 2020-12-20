@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/27/trump-voter-fraud-la
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/27/trump-voter-fraud-lawsuit-rejected-pennsylvania-court"
 type: article
 quality: 140
-heat: 1060
+heat: 1100
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Trump campaign launches yet another lawsuit over Pennsylvania election"
+    excerpt: "The outgoing president's legal team is petitioning the US Supreme Court to intervene over the state's rule for mail-in ballots."
+    publishedDateTime: 2020-12-20T22:53:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-launches-yet-another-lawsuit-over-pennsylvania-election-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-launches-yet-another-lawsuit-over-pennsylvania-election-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-launches-yet-another-lawsuit-over-pennsylvania-election-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 140
+    images:
+      - url: "https://i.insider.com/5fdfd440c910a400192e89c7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump wants Supreme Court to overturn Pennsylvania election results"
+    excerpt: "The lawsuit also asks the high court to move swiftly so it can rule before Congress meets on Jan. 6 to tally the vote of the Electoral College."
+    publishedDateTime: 2020-12-20T22:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/20/trump-wants-supreme-court-overturn-pennsylvania-election-results/3985589001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3985589001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3985589001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/20/USAT/027d7eec-c5bb-4c89-822d-c9ce89470666-AFP_AFP_8WZ9Y7.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Debunking Trump allies’ latest arguments about fraud in the 2020 election"
     excerpt: "The 2020 presidential contest ended four weeks ago Tuesday, but for President Trump and his allies, the fight continues. The president, as you’re no doubt well aware, continues to insist that it was he,"
     publishedDateTime: 2020-11-30T20:02:00Z

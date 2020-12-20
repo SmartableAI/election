@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 959
         isCached: true
+  - title: "Refuting Trump, FDA commissioner says vaccine could not have been authorized sooner"
+    excerpt: "In an interview with Fox News Saturday, Trump, after seeming to take credit for the speed of the vaccine's development, said that the Food and Drug Administration could have authorized the shot for emergency use \"last week."
+    publishedDateTime: 2020-12-13T14:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/this-week-stephen-hahn-02-ap-llr-201212_1607807457019_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Roles of Trump fundraiser, Kushner's attorney were scrutinized in pardon bribe probe"
     excerpt: "A former Trump fundraiser and a prominent lawyer were among the people scrutinized by the Justice Department for their roles in what a judge described as a possible bribery scheme to win a presidential pardon for a convicted felon,"
     publishedDateTime: 2020-12-04T09:29:00Z

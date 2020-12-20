@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Ross Douthat column: Did the resistance defeat Donald Trump?"
-    excerpt: "Now that the Electoral College has voted and a Biden presidency seems essentially assured, let’s consider the best arguments for how and why the Resistance undid Trump."
-    publishedDateTime: 2020-12-15T16:23:00Z
-    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-resistance-defeat-donald-trump-20201215-6i3u43u5dzewnj65acafz5f3my-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-resistance-defeat-donald-trump-20201215-6i3u43u5dzewnj65acafz5f3my-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-resistance-defeat-donald-trump-20201215-6i3u43u5dzewnj65acafz5f3my-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/4nWU8fP8O9AuOEh9lRNgeFgQCms=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FTBYZYMTSXLIVZWLIVGG6NXO4E.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Covid: US Vice-President Mike Pence to receive vaccine"
     excerpt: "President Mike Pence is to receive the coronavirus vaccine live on television at later on Friday. The White House said the aim of the move was to \"promote the safety and efficacy of the vaccine and build confidence among the American people\"."
     publishedDateTime: 2020-12-18T11:31:00Z
@@ -183,22 +167,6 @@ related:
     quality: 115
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/a991105e-7421-4d8a-9579-88bea40d37a1-daniel_burrows.png?auto=webp&crop=529,298,x0,y176&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "COVID-19 stimulus deal remains elusive as Trump signs 2-day spending bill to avoid shutdown"
-    excerpt: "This short-term extension of government funding would be the second time Congress has punted a shutdown deadline this month."
-    publishedDateTime: 2020-12-20T08:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/18/covid-stimulus-update-lawmakers-prepare-fund-government-2-days/3940074001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3940074001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3940074001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/17/USAT/82478af1-0d25-4fa4-bd52-06c5186b4f99-AFP_AFP_8XA3VM.jpg?auto=webp&crop=1023,576,x0,y66&format=pjpg&width=1200"
         width: 1200
         height: 676
         isCached: true
