@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Fired attorney Sidney Powell is back, advising Trump to chart a scorched-earth course"
-excerpt: "After cutting Sidney Powell from his legal team, President Trump has welcomed her back into the White House to plot out further efforts to revive his presidency."
-publishedDateTime: 2020-12-20T06:58:00Z
-originalUrl: "https://abcnews.go.com/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842"
-webUrl: "https://abcnews.go.com/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842"
+title: "Mitt Romney slams Trump's continued efforts to dispute the presidential election results as 'sad' and 'embarrassing'"
+excerpt: "Romney said that Trump's imprint on the GOP will not fade once the president leaves office. However, he wants to see the party go back to its roots."
+publishedDateTime: 2020-12-20T18:09:00Z
+originalUrl: "https://www.businessinsider.com/mitt-romney-trump-direction-of-republican-party-election-challenges-2020-12"
+webUrl: "https://www.businessinsider.com/mitt-romney-trump-direction-of-republican-party-election-challenges-2020-12"
+ampWebUrl: "https://www.businessinsider.com/mitt-romney-trump-direction-of-republican-party-election-challenges-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitt-romney-trump-direction-of-republican-party-election-challenges-2020-12?amp"
 type: article
-quality: 118
+quality: 117
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/georgia-election-sidney-powell-02-rt-llr-201204_1607108804976_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://i.insider.com/5f90888aabcd0c0018d68e2f?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -271,6 +271,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Fired attorney Sidney Powell is back, advising Trump to chart a scorched-earth course"
+    excerpt: "After cutting Sidney Powell from his legal team, President Trump has welcomed her back into the White House to plot out further efforts to revive his presidency."
+    publishedDateTime: 2020-12-20T06:58:00Z
+    webUrl: "https://abcnews.go.com/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/georgia-election-sidney-powell-02-rt-llr-201204_1607108804976_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Attorney General William Barr resigns after clashes with Trump, still defends president"
     excerpt: "William Barr, who served as President Donald Trump's most effective shield and advocate for broad presidential authority, will leave before Christmas."
     publishedDateTime: 2020-12-16T09:24:00Z
@@ -286,22 +302,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/01/USAT/70fdbe50-e9b6-48b0-ab1d-32b8986206d3-USATSI_14865079.jpg?auto=webp&crop=5471,3077,x0,y571&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Mitt Romney slams Trump's continued efforts to dispute the presidential election results as 'sad' and 'embarrassing'"
-    excerpt: "Romney said that Trump's imprint on the GOP will not fade once the president leaves office. However, he wants to see the party go back to its roots."
-    publishedDateTime: 2020-12-20T18:09:00Z
-    webUrl: "https://www.businessinsider.com/mitt-romney-trump-direction-of-republican-party-election-challenges-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/mitt-romney-trump-direction-of-republican-party-election-challenges-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitt-romney-trump-direction-of-republican-party-election-challenges-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
-    images:
-      - url: "https://i.insider.com/5f90888aabcd0c0018d68e2f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Today marks an important Electoral College deadline. Here's why that's bad news for Trump"
     excerpt: "The safe harbor deadline falls six days before the Electoral College meets to formally cast votes for president based on the popular votes in states."
@@ -432,6 +432,6 @@ related:
         height: 716
         isCached: true
 
-secured: "zv2m4L0BXi/8Ltpkpcl9LlS2pE/Z64R8Kh1waYmpaw9oKCtbqeT8EO1xwZVNNlciCdhCdRaXjhyYIQ1D+Zjxrn64/KVUeLyTtb1Ia5MOv0GfiSjpf+TTPHeBYhFeDTfym/+1RWcLkKXGH2tCzlGHFTAnZc0VOEgGeMsXgTaIcKfbnSvt38yIqQ6k93oKJZr2vT/BBxYgN4xNbRzJaz2wwdts700BwsSaRFZHr0n07YtQW/JM2bMZ+dyIQiSoDr3A7HlPYPf9z+civqIOppHFi0r2dXZ+LjSVtLR3xK/h3BqJaa/aPx6rFep7NpRho2OuAcgbieuvfFAGC5Ue+XW+RpTl+QnySO79U+SX/qanlDxdfoVKeIyBREkZb4eQV3gJhOmJ5KOsZLXBVH+IruIweDUHCqpk5+N2tZ24RVPuenp7HMM48sAARceYjk0k+EXKhmOP0of2nMs9yO0HFZPGVO71lviqUF6nX+DP025HlonubTCUXGsB5WlFa1tMbhgfjLdf8OEncEgudfuSTQ86aw==;BBXPJfS8fTj+PTy/jFZwHQ=="
+secured: "53WpdNreVphzxPDvty1xhekhq5vzcu3/o9odbFkxiumc47vAVLpFJS9rIWhmIjac6mnO5VKwcnyYVJRwC74C9qVLfoEis8ddgk75VzsDo+1Sjn6RDbGgwK07wzdg6oAzGcxxVTiliwGoK82qW2ZRsunH/7sqOYhBsdtyYMDwwBbxcCVajtjRiQg54YuGlRpx2UEz/f27AZ4EeLCivYfziOY4KIRMbtZJsazn3TNKIaU+wBAq0+SKz5oNRbrXNDF9X5EJyL+NN6c18J834MDmGvEMY4dsdj+Y/CFPhPMWl1zKpS6MqbqA1b5ZRXU/TteFkAmg55yGnY67iQWPltvTO8E2MbEbYF377BekLpPSJ/U=;trizByRPGCoD4abwcJJrkg=="
 ---
 

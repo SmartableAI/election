@@ -256,6 +256,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump discussed naming Sidney Powell special counsel during White House meeting"
+    excerpt: "President Donald Trump held a meeting at the White House on Friday evening in which he discussed the idea of naming appellate attorney Sidney Powell as a special counsel to investigate voter fraud in the election,"
+    publishedDateTime: 2020-12-20T19:50:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-discussed-naming-sidney-powell-special-counsel-during-white-house-n1251859"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251859"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251859"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_51/3437071/201220-sidney-powell-jm-1221_29a0459573741a5e73006aa10e4229bc.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "2lOR00XwdIrdLy1fjIGOYe5oa5o2EimZOaA8+GkfvJJasJjU93LpnEKcgpAZNXz1EaRj1u/6bMvDts70iloNcjsdmdYso9sn8FdwFh7gtbuKYm9Tjh6GCX+lW5znesFIbTP1nSfTWJ+HmjieF2cPqzpZp7lwTXPgZx7MyEbc+OSBKb0tAUXTVit55j5EhRiXfRHhf6436Vp7C+v75xU8YSRKGPCk16pLT+0AsfLlNVVeNwCEn2tfpe0c+EGn6u8biFA3Dl+nyDtHZX9GMeyxqDeUGuTb3VA6X4GElhDwSnHdXoLXA5Nok/r2bXEu3nX4wcMWS0YMIlIn3TKks3eyxQU/YN6VbXio2CsZj+RjRN1KDOV2jhp5gYE6HCFM2TzJoRxYSgkiYzBTqQ8hyIBNbTjcGLQLFpMk6449wCYHBVLbDZk7joGa5OgKu/De9eVPyLXA+zfHUqiMgFT2fU3tCm5c3OXgJSPLrZc/JvGgRXNWe19buDszms83zYHwg43Bs+PAO6OBB57dojRv0pUR9A==;zRdeis1CRs4JYySR6tJbGA=="
 ---

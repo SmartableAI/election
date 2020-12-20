@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Trump downplays Russia in first comments on hacking campaign"
-excerpt: "President Donald Trump is suggesting without evidence that China — not Russia — may be behind the the grave cyber espionage operation against the United States"
+excerpt: "President Donald Trump is contradicting top administration officials who say Russia is behind the cyber espionage operation that targeted U.S. government agencies"
 publishedDateTime: 2020-12-20T14:10:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
-webUrl: "https://abcnews.go.com/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_f1f342b60742421dbfda0a3d08fb281b_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/Politics/WireAP_33e2631e17a9481292d29b56b37c8f96_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
@@ -287,6 +287,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mitt Romney slams Trump's continued efforts to dispute the presidential election results as 'sad' and 'embarrassing'"
+    excerpt: "Romney said that Trump's imprint on the GOP will not fade once the president leaves office. However, he wants to see the party go back to its roots."
+    publishedDateTime: 2020-12-20T18:09:00Z
+    webUrl: "https://www.businessinsider.com/mitt-romney-trump-direction-of-republican-party-election-challenges-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/mitt-romney-trump-direction-of-republican-party-election-challenges-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitt-romney-trump-direction-of-republican-party-election-challenges-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f90888aabcd0c0018d68e2f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Today marks an important Electoral College deadline. Here's why that's bad news for Trump"
     excerpt: "The safe harbor deadline falls six days before the Electoral College meets to formally cast votes for president based on the popular votes in states."
     publishedDateTime: 2020-12-08T09:12:00Z
@@ -416,6 +432,6 @@ related:
         height: 716
         isCached: true
 
-secured: "dUJu5dm8JkrIH69+VInAjJVo1eNa0bu6uNw1mG6arp6KbYSQTDQc/039r3Ldg1FFiGqc4p39eJ9y98Q4XjqcIFZrVbRlu18C1qVnhzjdxnDEPSgosGq0FU6bP23FJRFs1dIcahefIpwm1232l43ebx6zLv16qLRK636HGs1pCRBippayxOgGZPaACbeMzoYJ9L63pfRfx2FjXsNs3M3k26quAcIA4NZ/N53c4YRFin+qcs59mvyZAku8gUZyXeW29Qm7JGO0uzAWZaOCVVruC3hAMIu9QOnu8pP45u/X1jUvJjGu58W/ssMW2s4JtK2jUIpNAcY12qg395Y+uOjXqw3xH1nr8iDzBCQPeqvYngA=;ytKAtXKshkB31JXe93UpAg=="
+secured: "WNB/9fZDQfxpBnuPqbN2Z3PMp5CoTYMyHZHEB56AZqsI+9HAN+ypkHiuqnMDSoU5HHZRgKNFmX9nY91yF7Nw5+SIMUadBdbtleuaWGcduW1UwEClTYN0YXVMddzmZhVtPu/a9Edsh/hED0OKvkRjS7xAROZ6idG/cZLgmfYMMOBlBnm4KUCzkLK4G1Vh0/zA8iJuctgLgEjr3ps3AJTjr+gCMDOKFVcI8JGYdYHy+K671uHq/ItWHUBGLrL93LY5NfNgOGVdg0Yi0OK7iHc5CW9cEmGrmnHElTTxgySo1I/M0fprSepk8dF79TTloYYFzS//v8h08OkUCevVmdQ4rVa6DRwl5/kwDtwBTBvOQaU=;+QLIhDzcJ3qO+lMvb8gF3g=="
 ---
 

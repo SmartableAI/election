@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump campaign takes fight over Penn. election, ballot laws to Supreme Court"
+    excerpt: "President Donald Trump’s campaign team on Sunday filed an appeal to the U.S. Supreme Court asking them to reverse several cases by the Pennsylvania Supreme Court to change the state’s mail balloting law before and after the 2020 presidential election."
+    publishedDateTime: 2020-12-20T19:53:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6G5W6w_nVrk/trump-campaign-election-fight-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-election-fight-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-election-fight-supreme-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23f51873-a71e-4406-b320-93b1475df477/eeb42936-4b53-460a-9c17-3c8ae93a81cf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "For Pence in Georgia, it’s location, location, location"
     excerpt: "For Vice President Mike Pence, the locations of his campaign stops in the Georgia Senate runoff elections may be more telling that his stump speeches at the rallies."
     publishedDateTime: 2020-12-17T22:14:29Z

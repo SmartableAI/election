@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump campaign poll asks if he should run for president in 2024"
-excerpt: "In a Tuesday email, President Trump's campaign wrote to supporters asking if he should run for office again in 2024. "
-publishedDateTime: 2020-12-16T19:51:53Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9PVt6EjZJZc/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9PVt6EjZJZc/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024"
-ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024.amp"
+title: "Trump campaign takes fight over Penn. election, ballot laws to Supreme Court"
+excerpt: "President Donald Trump’s campaign team on Sunday filed an appeal to the U.S. Supreme Court asking them to reverse several cases by the Pennsylvania Supreme Court to change the state’s mail balloting law before and after the 2020 presidential election."
+publishedDateTime: 2020-12-20T19:53:38Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6G5W6w_nVrk/trump-campaign-election-fight-supreme-court"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6G5W6w_nVrk/trump-campaign-election-fight-supreme-court"
+ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-election-fight-supreme-court.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-election-fight-supreme-court.amp"
 type: article
-quality: 175
+quality: 187
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20348035939365.jpg"
-    width: 3990
-    height: 2660
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23f51873-a71e-4406-b320-93b1475df477/eeb42936-4b53-460a-9c17-3c8ae93a81cf/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -46,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Trump campaign takes fight over Penn. election, ballot laws to Supreme Court"
-    excerpt: "President Donald Trump’s campaign team on Sunday filed an appeal to the U.S. Supreme Court asking them to reverse several cases by the Pennsylvania Supreme Court to change the state’s mail balloting law before and after the 2020 presidential election."
-    publishedDateTime: 2020-12-20T19:53:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6G5W6w_nVrk/trump-campaign-election-fight-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-election-fight-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-election-fight-supreme-court.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 187
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23f51873-a71e-4406-b320-93b1475df477/eeb42936-4b53-460a-9c17-3c8ae93a81cf/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "For Pence in Georgia, it’s location, location, location"
     excerpt: "For Vice President Mike Pence, the locations of his campaign stops in the Georgia Senate runoff elections may be more telling that his stump speeches at the rallies."
@@ -94,6 +78,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49a30cbd-f973-4984-aec1-a75313c3f705/3a911ff7-1e20-4a21-a2cb-162a58c9f767/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump campaign poll asks if he should run for president in 2024"
+    excerpt: "In a Tuesday email, President Trump's campaign wrote to supporters asking if he should run for office again in 2024. "
+    publishedDateTime: 2020-12-16T19:51:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9PVt6EjZJZc/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20348035939365.jpg"
+        width: 3990
+        height: 2660
         isCached: true
   - title: "Live Updates: Trump plans 'big rally' for Loeffler, Perdue in Georgia"
     excerpt: "Follow for the latest updates on the Georgia Senate runoffs."
@@ -192,6 +192,6 @@ related:
         height: 800
         isCached: true
 
-secured: "qTF6kxd8Vb0uUR9m7q24NNwTC+KbeBMKGuYmYdRlZq+2kUz8QapOOZpk8RnEzWgsLCDNguSVu5v2GvRBiekv7QiAXS2SFp3YTA4Ywb1j5keIEPirQwq1OixH2oOQqJbw9wtJuWV6NVeCm4hXRIZm/+7isFcHMBluXUcRcUrgiFy/NH3kd65AjZq1jLtxCt1alrpSCLX7/4u1bOUZ2+0oZEtN1LaIYePyv8iGFf5Vfi1Aws+u5pPZN8W9XgXQ6ixf63kdv+Pt+yEMVFAp+MqAb9MOu/gTMY6LP5FhAF+QiMK1GEZBE7VhwXjKqcfhqnU7G1Peo/3WjF1w+LF9Xbth44JFEnlYVwQ/XrUOoFY9R5A=;yUIJLZM75qjWCUOS3pW+Og=="
+secured: "qaoFhOTTvbzaGz2NaU8QytNL+YhpKMwOGVc2Sbeqorz1GU1BRoheXWUp62zEhrWfhZ/rifSo64lPm9/97qTVP64pq6Cpmu7/IdQshNHYW4immEaLhiATAwyairHm+R8yWaUwG+Uqms2JfPLXKm7I1+PlxHdrL4m73/tw8EyZysqtzXl0MMgge1haOOpEUpam34IDZo9tlABMo7tDepYTfRueZapMy2ZgiQbG1EeqqsijL7jPQsw9JO4lWmzurtufmIXFMj1thl8Q+EbRzXadns3Lj30hcsk7KWIlt6HTw/FFQX8fMMemEbEDzq/czUJtHntLD5z/vVRANGhD/u7DU0XYugmdydVVsFF2uTNqZF0=;cC40S2Of+cNSNZk3LNrwbw=="
 ---
 

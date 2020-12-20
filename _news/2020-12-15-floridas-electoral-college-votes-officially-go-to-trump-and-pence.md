@@ -156,18 +156,18 @@ related:
         height: 558
         isCached: true
   - title: "Trump downplays Russia in first comments on hacking campaign"
-    excerpt: "President Donald Trump is suggesting without evidence that China — not Russia — may be behind the the grave cyber espionage operation against the United States"
+    excerpt: "President Donald Trump is contradicting top administration officials who say Russia is behind the cyber espionage operation that targeted U.S. government agencies"
     publishedDateTime: 2020-12-20T14:10:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_f1f342b60742421dbfda0a3d08fb281b_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_33e2631e17a9481292d29b56b37c8f96_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -298,6 +298,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/01/USAT/70fdbe50-e9b6-48b0-ab1d-32b8986206d3-USATSI_14865079.jpg?auto=webp&crop=5471,3077,x0,y571&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Mitt Romney slams Trump's continued efforts to dispute the presidential election results as 'sad' and 'embarrassing'"
+    excerpt: "Romney said that Trump's imprint on the GOP will not fade once the president leaves office. However, he wants to see the party go back to its roots."
+    publishedDateTime: 2020-12-20T18:09:00Z
+    webUrl: "https://www.businessinsider.com/mitt-romney-trump-direction-of-republican-party-election-challenges-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/mitt-romney-trump-direction-of-republican-party-election-challenges-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitt-romney-trump-direction-of-republican-party-election-challenges-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f90888aabcd0c0018d68e2f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Today marks an important Electoral College deadline. Here's why that's bad news for Trump"
     excerpt: "The safe harbor deadline falls six days before the Electoral College meets to formally cast votes for president based on the popular votes in states."

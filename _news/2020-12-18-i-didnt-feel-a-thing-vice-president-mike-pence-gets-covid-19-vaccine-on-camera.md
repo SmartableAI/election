@@ -2,19 +2,19 @@
 category: news
 title: "'I didn't feel a thing.' Vice President Mike Pence gets COVID-19 vaccine on camera"
 excerpt: "Vice President Mike Pence and his wife were vaccinated for COVID-19 at the White House to build public confidence in the vaccine."
-publishedDateTime: 2020-12-18T15:48:00Z
-originalUrl: "https://www.statesman.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
-webUrl: "https://www.statesman.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
-ampWebUrl: "https://amp.statesman.com/amp/3948306001"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/3948306001"
+publishedDateTime: 2020-12-18T14:01:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
+webUrl: "https://www.indystar.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
+ampWebUrl: "https://amp.indystar.com/amp/3948306001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3948306001"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -408,6 +408,6 @@ related:
         height: 337
         isCached: true
 
-secured: "cUtT4I15jpRAtGBMuifVigKdi0hpR5Ep0YQTT+r1VDvsPN7TDPzTl1d8CTIHHhQ0FDkmoxhIIq0q2gC7My6cWqVHXqf6AdjEijGJunc/gSBTKlyX5qAYJR2w/sQN7l6wFQokoXVVrCusTjV3sz/XrZVcSnnQ0nIolHQvKNrJs+ctfErI8qCfBvrasSxmHl+T/wxPnVbC8CfQ4W7a4TJx8VltzSZQNAk8vMnqCy3e5VX0c7BB1pYZyQ46bvGC/j4m5uShTAGbbE1c57vFaQs2FRjebESQmcyawAjin8X7wlJ6Z+JtLVeN6hQb4dnnPEhjG/VEdZahUJO0YUibn0ZMTS0f9dQ8eZjgLkGB7JeqjeE=;gtAmSwF6ZMNJHaN3izYlzw=="
+secured: "szCtauW7i+GOyAtXKpEb0ILrt60y7BVeKm8apHEwrJXee0CJ2VzxRiZuzHqAf5NxCKDD2qvvVHdoX1tLX1W8Ri4r7xq0Z8Jr3XHnUyeC74ZH5NfZbsHARzPKhIa0UM9ekGa/ogIaV4SiYT9A7gad3cmvCEeCDqd6aEhq4GbAIPhOH5Q3NA8DneD9N73lXaAuoLidGv2yWr79w1A1QtK2Ce5cUEkjKP2xtqgLmsPrAf0xZ/JTV/woup79Xqaq5mXpS8KPgUG/wrnZACsdESqk3z/z/E1IkKZKk0M4lVQ11OIPkh1dS69gB3c3Vogxsn0JmBywyzxiUNy+4p8Q+Uy2nD9PBAXnqW3qT8znLGtfVKc=;xD/thdD4d9mBEKNwhmfkqw=="
 ---
 

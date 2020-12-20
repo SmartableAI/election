@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Pentagon under pressure from Trump administration to split NSA and Cyber Command"
-excerpt: "The Trump administration is pushing to make major adjustments to the Pentagon organizations charged with cybersecurity and signals intelligence, according to a US defense official.\n    \n"
-publishedDateTime: 2020-12-20T01:59:37Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAgg3jyefCs/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAgg3jyefCs/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
+title: "Trump discussed naming Sidney Powell special counsel during White House meeting"
+excerpt: "President Donald Trump held a meeting at the White House on Friday evening in which he discussed the idea of naming appellate attorney Sidney Powell as a special counsel to investigate voter fraud in the election,"
+publishedDateTime: 2020-12-20T19:50:00Z
+originalUrl: "https://www.nbcnews.com/politics/donald-trump/trump-discussed-naming-sidney-powell-special-counsel-during-white-house-n1251859"
+webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-discussed-naming-sidney-powell-special-counsel-during-white-house-n1251859"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251859"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251859"
 type: article
-quality: 170
+quality: 131
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/130128052250-pentagon-aerial-shot-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media3.s-nbcnews.com/i/newscms/2020_51/3437071/201220-sidney-powell-jm-1221_29a0459573741a5e73006aa10e4229bc.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -92,6 +93,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029152327-alabama-senate-race-doug-jones-tommy-tuberville-nws-orig-00002315-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pentagon under pressure from Trump administration to split NSA and Cyber Command"
+    excerpt: "The Trump administration is pushing to make major adjustments to the Pentagon organizations charged with cybersecurity and signals intelligence, according to a US defense official.\n    \n"
+    publishedDateTime: 2020-12-20T01:59:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAgg3jyefCs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130128052250-pentagon-aerial-shot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -239,22 +256,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump discussed naming Sidney Powell special counsel during White House meeting"
-    excerpt: "President Donald Trump held a meeting at the White House on Friday evening in which he discussed the idea of naming appellate attorney Sidney Powell as a special counsel to investigate voter fraud in the election,"
-    publishedDateTime: 2020-12-20T19:50:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-discussed-naming-sidney-powell-special-counsel-during-white-house-n1251859"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251859"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251859"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_51/3437071/201220-sidney-powell-jm-1221_29a0459573741a5e73006aa10e4229bc.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Trump appoints 1776 Commission members in last-minute bid to advance 'patriotic education'"
     excerpt: "The group will be led by the president of the conservative Hillsdale College, Larry Arnn, a longtime Trump ally, the White House said."
     publishedDateTime: 2020-12-18T18:06:00Z
@@ -272,6 +273,6 @@ related:
         height: 773
         isCached: true
 
-secured: "tG4qxamL/9YlPGO/0mURDXfSJn2g+7YCUR4EufltGXE08qyIOcz5XIaejMAkg54UsN9ZRBOJZKggy/MMxDteLhXx3Lj4med+EkviqZpL7iJkQlnqJeFs0ctS0v+czPUTScYFfIL7ZFgYFFJikyVIoClyJQU7SMZUb70zMgx+9uN4JKm8wB8Qp5S7Xf/Z/XcMza8/WZQHvfmIOL3XDqG5yOcjsqV+aBSRaXOwa1Ol0Sqlex2y0HzQWK7NbnC/M+949l4O32UwX1WGrKlLH4CvAF4fWegA/HKZ+Ir1P5vFZTT+nSKhpysbrU19kOIHTID0C3HyukHjy1MHhTt5fD1VGlABhtTSp3zBR9lB3PtDPTA=;UDS1uswW5uPUKhIChTWx8w=="
+secured: "Wplp0kaVZevqDMhycT2ctVwSpT9odY03+9utjcAooPmQBvh1NwTfRX1AHawTqEivSCn5PnfyPUvEluNO42Nh8IQKEHJXwTJD5iQrXAGwtUkhs55CvaoqrH75ksxlnFVLnx7ORpgpH36M5l87nL7uwY4s695xodohwMyzdTiZAfrii4dEWu/cuo+H4h0ANWw1lXRVF1UyGAHOOs3ddI/CzaCLJEajgJhuGfJKlexe6T65UXJZttpj9tAoA5bmDjBdvZju0tfQEn30fWevdiDxJ/jivokG/4wZ9ZbnH3lmuSpIulx2n4TFyfQ1O+J26JZ8oCdgT4ByoEPR7M0dqQxWZd8BtdgstqI/27B+EwmrpZY=;/A3MZtc/mrF8qeBehc6ujA=="
 ---
 
