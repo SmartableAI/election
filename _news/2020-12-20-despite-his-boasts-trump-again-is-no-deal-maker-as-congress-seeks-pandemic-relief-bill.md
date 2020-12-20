@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Trump attacks Republicans while attending Army-Navy football game"
-excerpt: "Navy football game this Saturday, President Trump tweeted attacks against fellow Republicans and allies who urge the President to accept the election results. Chip Reid has more."
-publishedDateTime: 2020-12-13T00:10:00Z
-originalUrl: "https://www.cbsnews.com/video/trump-attacks-republicans-while-attending-army-navy-football-game/"
-webUrl: "https://www.cbsnews.com/video/trump-attacks-republicans-while-attending-army-navy-football-game/"
+title: "Despite his boasts, Trump again is no deal-maker as Congress seeks pandemic relief bill"
+excerpt: "Donald Trump was elected partly on his fame for \"The Art of the Deal,\" yet he's cut no big deals in office. The relief package is the latest, perhaps final, example."
+publishedDateTime: 2020-12-20T11:14:00Z
+originalUrl: "https://www.latimes.com/politics/story/2020-12-20/despite-his-boasts-trump-again-is-no-deal-maker-as-congress-seeks-crisis-relief-bill"
+webUrl: "https://www.latimes.com/politics/story/2020-12-20/despite-his-boasts-trump-again-is-no-deal-maker-as-congress-seeks-crisis-relief-bill"
+ampWebUrl: "https://www.latimes.com/politics/story/2020-12-20/despite-his-boasts-trump-again-is-no-deal-maker-as-congress-seeks-crisis-relief-bill?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-20/despite-his-boasts-trump-again-is-no-deal-maker-as-congress-seeks-crisis-relief-bill?_amp=true"
 type: article
-quality: 105
+quality: 117
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Los Angeles Times
+  domain: latimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/13/7cbaa70c-b218-411b-8363-bc3da5691388/thumbnail/1200x630/2e13b0afd7921afd4ad282cebebdc306/cbsn-fusion-trump-attacks-republicans-while-attending-army-navy-football-game-thumbnail-607720-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/8a41683/2147483647/strip/true/crop/1722x1125+139+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdc%2Fbc%2F56179fae7739bfcf6f70d6ad974e%2Fla-fg-iran-nuclear-pictures-20150714-003"
+    width: 320
+    height: 209
     isCached: true
 
 related:
@@ -77,22 +79,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Despite his boasts, Trump again is no deal-maker as Congress seeks pandemic relief bill"
-    excerpt: "Donald Trump was elected partly on his fame for \"The Art of the Deal,\" yet he's cut no big deals in office. The relief package is the latest, perhaps final, example."
-    publishedDateTime: 2020-12-20T11:14:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-12-20/despite-his-boasts-trump-again-is-no-deal-maker-as-congress-seeks-crisis-relief-bill"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-20/despite-his-boasts-trump-again-is-no-deal-maker-as-congress-seeks-crisis-relief-bill?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-20/despite-his-boasts-trump-again-is-no-deal-maker-as-congress-seeks-crisis-relief-bill?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 117
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/8a41683/2147483647/strip/true/crop/1722x1125+139+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdc%2Fbc%2F56179fae7739bfcf6f70d6ad974e%2Fla-fg-iran-nuclear-pictures-20150714-003"
-        width: 320
-        height: 209
-        isCached: true
   - title: "Trump's conspiracies pose 'existential' threat to electronic voting industry -Smartmatic"
     excerpt: "Conspiracy theories about how voting machines were used to stop the re-election of Donald Trump have not just sapped Americans' faith in the democratic process - they also pose an existential threat to the market for electronic voting systems worldwide,"
     publishedDateTime: 2020-12-14T11:32:00Z
@@ -141,6 +127,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump attacks Republicans while attending Army-Navy football game"
+    excerpt: "Navy football game this Saturday, President Trump tweeted attacks against fellow Republicans and allies who urge the President to accept the election results. Chip Reid has more."
+    publishedDateTime: 2020-12-13T00:10:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-attacks-republicans-while-attending-army-navy-football-game/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/13/7cbaa70c-b218-411b-8363-bc3da5691388/thumbnail/1200x630/2e13b0afd7921afd4ad282cebebdc306/cbsn-fusion-trump-attacks-republicans-while-attending-army-navy-football-game-thumbnail-607720-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump signs bill that could kick Chinese companies off US stock exchanges unless they agree to American accounting standards"
     excerpt: "The Holding Foreign Companies Accountable Act gives Trump another tool to threaten Beijing with before leaving office in January."
     publishedDateTime: 2020-12-18T23:37:00Z
@@ -158,6 +158,6 @@ related:
         height: 600
         isCached: true
 
-secured: "M2zhMu5f/mn8INPzBk8pRN+I7sTyiwca7iQyz7Aya4pqaQ/q+g5CV9rPpbZ22a0QXsB6BCE8TD/Jsz0L1YVTsxzwNCUKE5QceeVmZMsNUecVS6yPgAmHwWnb+a9v/aL9Kac6Mc7XnG5TUhnDt7Da+n6QNRpPxGRbJ9Pp4wUaYs5DaYNdmdevzTlUlDDco8RnfIs+z2bHlljU6HWMLevpqc6N2mV5kUG7qooC209yTvLMLWFOe0U/7Hop/H5FPwzE8tx9h2ibqq4Rd6V9JMpDZFMM6RwFtRv3gdQhQ0OgcSzz16BR85QQD8BQhgh19LT0gLj5OaSIr9aqs56EiwBseuQHsJt+nC0wsMfF8E71iEg=;MIDXfB06VApCPutWfqHO8g=="
+secured: "Mf7dvPrUsw/dGmSi0m3e5bLBvvVkfRdkqaQi2VBc8jVG2qhGlYrNLTs1yn50duCsHsejenHGGOCX2f/7NMacdmZOMlW+MFa6ws+whjBh0bdbviflRcU8UC/a3yilX96fgvNmnWdfDzgz3MuHIBbqL4kuVPEOpe/DWuXkg4K13SqVZG3B8H4pmN7fhfixXoeVzzQNtCIQ8BXh0/tXIe2zco7OutT0RLfaBTlOsvIZjiHWGtzDQ5TeCiNYVm1LsHWxgWzUh4LHEvsTRBM4wDyYGfWIZA/6gKaGtnN+RLqNWiK7GIKj7Jk4XqcqEwx3F3TpqpI6UNqAVN+0oO7Q+MlKA1fIGZPyNVFrv9L1yN8JcmM=;mmBy7zVfYVeUvCTnHMKFtg=="
 ---
 

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Georgia Gov. Brian Kemp mocked for attending White House Christmas party after Trump insults"
+    excerpt: "Since the election, Trump has called Kemp a \"fool,\" a \"clown,\" a \"RINO,\" one of the nation's worst governors, and declared him \"finished as governor.\""
+    publishedDateTime: 2020-12-20T02:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/19/brian-kemp-attends-white-house-christmas-party/3977861001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3977861001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3977861001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/20/USAT/7f59541a-31a9-4fc0-9ef4-4eb5842e5725-GTY_1230146559.jpg?auto=webp&crop=5226,2940,x1,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Jeff Stein: Trump's last-minute push for larger stimulus checks example of 'long-running tension' with other Republicans"
     excerpt: "In an interview on Hill.TV’s “Rising,” Stein said Trump had told allies that he wanted new stimulus checks as large as $2,000 per person, even as congressional leadership is preparing a package that would provide checks of just $600 each."
     publishedDateTime: 2020-12-18T23:46:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_120720getty_lead.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "White House aides reportedly stepped in to keep Trump from calling for $2,000 stimulus checks fearing it could torpedo relief negotiations"
-    excerpt: "The Post reported that White House aides talked Trump out of calling for larger direct payments than Republicans seek in stimulus talks."
-    publishedDateTime: 2020-12-18T04:09:00Z
-    webUrl: "https://www.businessinsider.com/trumps-stimulus-checks-congress-republicans-democrats-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trumps-stimulus-checks-congress-republicans-democrats-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-stimulus-checks-congress-republicans-democrats-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/5fd0b6b9240ebd00126bddd9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "wVY6ix5p0UyYGj0BK7CJA4MZIxz6Y9StzzhbLe5ox3TshSMBI2NZ4iht1XCa+XC4gBqncKHL0Iwdx3QqXXrqHjcw3uQwOQB9Fqs8JDquRiXfnqloaByC5LGe53BiE+H7BBwGvlftRJUMBtdaehMa935fT8K9ZjlHAZvZvjLqzXnnpSyFmVx1xyFsx0EIGZgthT8COTib32j/QSStv1h0VRsItmG6lKS3z2J1jSC1IpClCqVbb/xT6o4z5hnuci4WDE9EpoJLdD4D9CL43rJboeSVFPoY6MfYp1yE6bp3vRZN4agV4UZfBDYTxCt9hYl9W8d4fV5vIVnQ+HLxvceHE4P6ZbvW+FvuRo7VBFFsVn0vNA88Im7yYGw5+3WLqFKkZZ5yEJ075FUW0wn26fgmhnt1/J69BTOTNuIl3kw/dEw02/tPJWEfJrIm548s201L63/cOGuODfN+TUdm+4DmNeTFEQ6ludpOVCj78m//ohoHDAy0pZpfmTMmQnDuy54DLYBuZB96d6z03VlMGVWdAw==;dQi9xuLhzeBFrv6l3xzEgA=="

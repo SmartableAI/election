@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden says 'no time to waste' as climate team unveiled"
 excerpt: "US President-elect Joe Biden has introduced his climate and energy team, saying they will lead an \"ambitious plan\" to combat climate change. Mr Biden has vowed to make the issue a top priority in an agenda that reverses many Trump administration policies."
-publishedDateTime: 2020-12-20T03:55:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-55382209?fbclid=IwAR3UFtdSInJpTa0_U2LjF81w21vOr7Up5HirPiP6GHTbsIWINNV76dhKzVM"
-webUrl: "https://www.bbc.com/news/world-us-canada-55382209?fbclid=IwAR3UFtdSInJpTa0_U2LjF81w21vOr7Up5HirPiP6GHTbsIWINNV76dhKzVM"
+publishedDateTime: 2020-12-20T11:17:00Z
+originalUrl: "https://www.bbc.com/news/world-us-canada-55382209"
+webUrl: "https://www.bbc.com/news/world-us-canada-55382209"
 ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55382209"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55382209"
 type: article
@@ -639,6 +639,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden nominees mount charm offensive amid tough confirmation landscape"
+    excerpt: "Confirmation battles over the president-elect’s Cabinet picks are set to begin even before he is inaugurated, posing an early test of the post-Trump political world and setting the tone for Joe Biden’s presidency."
+    publishedDateTime: 2020-12-20T12:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-cabinet-nominee-senate/2020/12/19/019403ae-3e24-11eb-8db8-395dedaaa036_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-cabinet-nominee-senate/2020/12/19/019403ae-3e24-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cabinet-nominee-senate/2020/12/19/019403ae-3e24-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZA3US2SBVII6XFCT7Q3LUBIXQE.jpg&w=1440"
+        width: 1440
+        height: 950
+        isCached: true
   - title: "President in the pews: DC churches offer Biden options"
     excerpt: "Yet President-elect Joe Biden enters his church, St. Joseph on the Brandywine, with startlingly little interruption. Wearing a dark suit and medical mask, Biden slipped into a polished wooden pew near the back of the sanctuary for a recent Saturday evening Catholic Mass."
     publishedDateTime: 2020-12-19T21:24:00Z
@@ -1272,6 +1288,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "HHIYCTRFi/M/4N62fs6qtErqCY5rXhTnNJ01TTEOFV+SEON7guXzjv4j3ZeEhMwxfKqnFUy1FsA8I3IYFfAyb0Lq+R3E8W87XP6zYiPHWQ8lyi3dQ5movdxp9qUMYzHhJAHvvdiADE+N0pHtwvfUcjWjay19nfkAoh58KIYfu+mXHolPTaAiPaOdgDjpMuUns2orWjJLVsxkpIqx+BncAmvSER6luDgV5/SaRG97uFgAvz79TDtmC3nuNbaG6sw1Co5s/ld3vV0DVNuuonOYQcYo5c8KeOLXhuLT0cIy4DccAffh0tLO0vhRV8El2oni320bMaGrkrXE6Q42di2cZ3eqN/c6GBMpuO4JH7pdYlI=;6o4CJtpnQdxxhl0Dns0TeA=="
+secured: "6VpcGOJdqNTs9qJptTZIeHdfDZZKZRne3cAR7PfLup1m49rtotwMvSD/nWewSMxDOMsFO0v2QDaumNqYFQtKwYCbJwU5RcUXiuJVvAtcVM37rEOguPs6+kMokOrF/0PreMMv9I/Q1gM7mEjx6roqZtB/p6V8krF2SdsoWOSmktzfZ36dwcqExTJqsfKix4ghFzxaCzvFkvj3sAJhaDup4b3zxLjZRrky3y6tqWHXoPVhdE3FpBQmgeSb7vGiq1Dj+odReqibvH4fWde3tKhpRJErR089cIBRMBUmLCZ4CBlaxu0pmX3vg/EghLux45cqq6h8acoL238Fo+4NvAqGhyD6ef8hSqd7tautNhb6M2Q=;Wa9Y997BuAWeCOnASa60tg=="
 ---
 

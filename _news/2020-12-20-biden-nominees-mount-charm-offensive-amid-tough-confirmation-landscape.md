@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Hunter Biden inquiry now weighs on president-elect's looming attorney general nomination"
-excerpt: "The investigation into Hunter Biden's taxes represents first test of Joe Biden's pledge to guard the Justice Department from White House influence."
-publishedDateTime: 2020-12-10T19:32:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2020/12/10/hunter-biden-tax-investigation-weighs-joe-biden-attorney-general-pick/3878150001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2020/12/10/hunter-biden-tax-investigation-weighs-joe-biden-attorney-general-pick/3878150001/"
-ampWebUrl: "https://amp.usatoday.com/amp/3878150001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3878150001"
+title: "Biden nominees mount charm offensive amid tough confirmation landscape"
+excerpt: "Confirmation battles over the president-elect’s Cabinet picks are set to begin even before he is inaugurated, posing an early test of the post-Trump political world and setting the tone for Joe Biden’s presidency."
+publishedDateTime: 2020-12-20T12:11:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-cabinet-nominee-senate/2020/12/19/019403ae-3e24-11eb-8db8-395dedaaa036_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-cabinet-nominee-senate/2020/12/19/019403ae-3e24-11eb-8db8-395dedaaa036_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-cabinet-nominee-senate/2020/12/19/019403ae-3e24-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cabinet-nominee-senate/2020/12/19/019403ae-3e24-11eb-8db8-395dedaaa036_story.html?outputType=amp"
 type: article
-quality: 116
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2019/10/03/USAT/2ae97134-1746-46ac-9866-3308dae0288b-008_EPA_-FILE-_USA_UKRAINE_WHISTLEBLOWER_COMPLAINT_TRUMP_BIDEN.2.JPG?auto=webp&crop=3499,1968,x1,y14&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZA3US2SBVII6XFCT7Q3LUBIXQE.jpg&w=1440"
+    width: 1440
+    height: 950
     isCached: true
 
 related:
@@ -639,22 +639,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden nominees mount charm offensive amid tough confirmation landscape"
-    excerpt: "Confirmation battles over the president-elect’s Cabinet picks are set to begin even before he is inaugurated, posing an early test of the post-Trump political world and setting the tone for Joe Biden’s presidency."
-    publishedDateTime: 2020-12-20T12:11:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-cabinet-nominee-senate/2020/12/19/019403ae-3e24-11eb-8db8-395dedaaa036_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-cabinet-nominee-senate/2020/12/19/019403ae-3e24-11eb-8db8-395dedaaa036_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cabinet-nominee-senate/2020/12/19/019403ae-3e24-11eb-8db8-395dedaaa036_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZA3US2SBVII6XFCT7Q3LUBIXQE.jpg&w=1440"
-        width: 1440
-        height: 950
-        isCached: true
   - title: "Joe Biden says 'no time to waste' as climate team unveiled"
     excerpt: "US President-elect Joe Biden has introduced his climate and energy team, saying they will lead an \"ambitious plan\" to combat climate change. Mr Biden has vowed to make the issue a top priority in an agenda that reverses many Trump administration policies."
     publishedDateTime: 2020-12-20T11:17:00Z
@@ -814,6 +798,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/cebbf418b5cbd4752c7f9a43c4d20d410e22d20d/0_31_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0f6021407f574536f7ea0695c55f5872"
         width: 600
         height: 360
+        isCached: true
+  - title: "Hunter Biden inquiry now weighs on president-elect's looming attorney general nomination"
+    excerpt: "The investigation into Hunter Biden's taxes represents first test of Joe Biden's pledge to guard the Justice Department from White House influence."
+    publishedDateTime: 2020-12-10T19:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/10/hunter-biden-tax-investigation-weighs-joe-biden-attorney-general-pick/3878150001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3878150001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3878150001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/10/03/USAT/2ae97134-1746-46ac-9866-3308dae0288b-008_EPA_-FILE-_USA_UKRAINE_WHISTLEBLOWER_COMPLAINT_TRUMP_BIDEN.2.JPG?auto=webp&crop=3499,1968,x1,y14&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Electoral College: Presidential electors meet to formally choose Joe Biden as next president"
     excerpt: "The electors' votes have drawn more attention than usual this year because President Donald Trump has refused to concede the election and continued to make baseless allegations of fraud."
@@ -1288,6 +1288,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "B83bDdGF82gOIr9a3EdfqzF0hFPJrNmLWzKrx9P9fJcajq63CESE4dOXc6QKDVXjoCzIt1Z85ctNicusu+NXaE7J5AM8Tha1S64jiQBqIZZleFPijpOBBPwZOc3ufnryN35LaH+goBO+z6FlURVjURmhDcTB0MEyUGpi7twOwZb3UdJrIEiEv6XlvPC9OUmWcS1iSaIekSwpsrZL3bM2b2G0fnglJQzBkJoDzBO+BJPcJANPCSMuPD8pqjRnBOStkk7FULnVPCqAaHVJ1DAq/QgfoeDvrvgOfxg0HDLmTiMy0YHxVysNr5J7ofqEa+yalE8pxNK5fABE+gkGJ4SBEpGCmQ3sd3B106VixEonY6ymRWET9ggp2afIZJKcv97qaf2KZH3+cKeXLcANMktmGFxaO4xeXkq8yXFbzQqcG/1dtocE/lT7EJL6NRsJMtmQbF+cIxYiDnrR3C3cu2fBFLQitkPxOHVwPl6aNtRwwfrc5Us7zRBgnEKQtIdCEGKyuOQGzDfhybOhqFE9J02MOQ==;WIyCvtb97dF5IwMcnWE/Nw=="
+secured: "lLVwqdCrarpIhedNi9d99o7W6s99Dc9uP0QU9H43EYY2mN5t5BnUOBWfAMhFgsHlWouJGc9wOActpHRzKUqDZnHJ9FSoiS6v5BBQ/+n6wAU6J7eW/SzZUZ4QlBU4JTcUTsrcWNLxK2Y4HYDfdtubNw1dtDtJw+j+YOS1kQgtwux9DrN1paXv5VmLXCVx/8bp26pfuai9PBgXL1i693fqPrR0qQCPJr93yoOqlRuNUXPZSw39q6qnFb69IDaFEsyXl3JI8tJQ+k5Y87jyO2uDPORJjJ545QS3aPptFeEGfGyTzhtxbtM67Ht7QFUUojeclZjhNsOiCjyiSvppSaPrgSb/y7mKpn4S9kxhm8R0ZTo=;E2JspE9AdTIgz5fyCuVEqQ=="
 ---
 

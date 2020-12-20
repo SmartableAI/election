@@ -47,21 +47,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "White House aides reportedly stepped in to keep Trump from calling for $2,000 stimulus checks fearing it could torpedo relief negotiations"
-    excerpt: "The Post reported that White House aides talked Trump out of calling for larger direct payments than Republicans seek in stimulus talks."
-    publishedDateTime: 2020-12-18T04:09:00Z
-    webUrl: "https://www.businessinsider.com/trumps-stimulus-checks-congress-republicans-democrats-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trumps-stimulus-checks-congress-republicans-democrats-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-stimulus-checks-congress-republicans-democrats-2020-12?amp"
+  - title: "Georgia Gov. Brian Kemp mocked for attending White House Christmas party after Trump insults"
+    excerpt: "Since the election, Trump has called Kemp a \"fool,\" a \"clown,\" a \"RINO,\" one of the nation's worst governors, and declared him \"finished as governor.\""
+    publishedDateTime: 2020-12-20T02:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/19/brian-kemp-attends-white-house-christmas-party/3977861001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3977861001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3977861001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
     images:
-      - url: "https://i.insider.com/5fd0b6b9240ebd00126bddd9?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/20/USAT/7f59541a-31a9-4fc0-9ef4-4eb5842e5725-GTY_1230146559.jpg?auto=webp&crop=5226,2940,x1,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
 
 secured: "Vfm+MQOn8kFWLCjVlUymPCVQsr39Edcd5lRDcVtuni41pyZf1Hjd/C6TWklziVHW2hqnT/9JEhwbBLS5Oh6suhkbzoPuBN8flD3deG3Dm9m0YtXgWwShmEg3p45Cm84FsXoUmZnp1QcnT92IbA4OhJ0eTZwGSBMjlL7pVXtGQA19WBpIKSKUTk7LfZdh0r7+xyMwf3x1HQ1Cfxq38uM106jsHFuHIDygCt5eQAo3s2/bGCnAIdMZcp79djJa9/v7Fos3SzWNX1ifJYZ6xCaaHmxdnQLcqERqHFwZCo7DG4XYWqtNcoVu8vjvUfdI5YHEIyWDO4NLqZGtgQB3hcZryBbEUnW5ZPoozjBrZTxqPXo=;MWYgTY0gW5vbIP24ozfzbw=="

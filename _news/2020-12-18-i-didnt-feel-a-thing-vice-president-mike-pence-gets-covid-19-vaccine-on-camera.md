@@ -2,19 +2,19 @@
 category: news
 title: "'I didn't feel a thing.' Vice President Mike Pence gets COVID-19 vaccine on camera"
 excerpt: "Vice President Mike Pence and his wife were vaccinated for COVID-19 at the White House to build public confidence in the vaccine."
-publishedDateTime: 2020-12-18T15:48:00Z
-originalUrl: "https://www.statesman.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
-webUrl: "https://www.statesman.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
-ampWebUrl: "https://amp.statesman.com/amp/3948306001"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/3948306001"
+publishedDateTime: 2020-12-18T14:01:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
+webUrl: "https://www.indystar.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
+ampWebUrl: "https://amp.indystar.com/amp/3948306001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3948306001"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -408,6 +408,6 @@ related:
         height: 337
         isCached: true
 
-secured: "sKQ8XgA2LlX0FZSeQFLlMqZW+pu8Lelr0GMYAlKacea8+36qAqTTVQYMggRGrzMTW8gKZ/3Stkdg4jxLm2pVNHYq2tofHTywEV3lh1GcC5/ruj5kCOqu8XPdjhnxqL5xYPZMPzkwdUGTffhoegDGrRMu9DZXp7YaKv9zTiLJbbdI1m3s/76xIfl7DVIv4PkfGh+j1DYo7Zr+Kry+KWIEEA7276Mk90iaV3UhUVff2FNTvUfgFkuDTT8ZNa4hhprxrNABfUO0Kc9FWk6YY/uKJyDGJ8CVEu4ARGlBG2vbpIm7VIgknqFo7OpsyVHU2GlhMGz0wXZiqkjbNgdTMOJJqbmtOr/UHMUSIQ91f3ZnJrQ=;82yFdaYgLw14Nc7Wuyz+7w=="
+secured: "s6kqikiOHRNH46MiKQOYgvlPTFND5YCZGcpKg/YRzRhH216OOz9rll5LJGR7/Wl92gk2VOlMjERs53i58a+FHsGYGFEOLCPQ6ttrjb620A6zczUSO/lpo270clHLfCRJFD1Y9A84BFRmT4RbbZI2iDd3gKeQzFSmlCZtE8WY9T/jZZovrGs3DMwNmYqJsT22zcM/pSRVnSVjRVU3m4ovEcgbaeyFSdnZQtDBt0wIVxkfXRZS2Ym6gf7/+fnam+NvQcQ38WMORFg28SDfF1F2FMqsKLD7ES6zX9clLWbEOEVENN9vYFCRot9h4FMqQCLw8V0Lv9GpnCi00Zabwp3oldxwJUrgFK5an2VeFKJqUpU=;mEtRHfIJGqEWnuX30fr4JA=="
 ---
 

@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Trump has discussed rebooting 'The Apprentice' as he prepares to leave the White House, according to a report"
-excerpt: "The president has reportedly talked to aides about the prospect of reviving the reality TV show in which he starred."
-publishedDateTime: 2020-12-18T12:18:00Z
-originalUrl: "https://www.businessinsider.com/donald-trump-mulls-return-to-the-apprentice-report-2020-12"
-webUrl: "https://www.businessinsider.com/donald-trump-mulls-return-to-the-apprentice-report-2020-12"
-ampWebUrl: "https://www.businessinsider.com/donald-trump-mulls-return-to-the-apprentice-report-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-mulls-return-to-the-apprentice-report-2020-12?amp"
+title: "Trump raised the idea of imposing martial law to overturn the election in a White House meeting, according to reports"
+excerpt: "In a White House meeting Friday, deploying US troops to re-run the election was one of several wild ideas touted, reported multiple outlets."
+publishedDateTime: 2020-12-20T12:14:00Z
+originalUrl: "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12"
+webUrl: "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12"
+ampWebUrl: "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12?amp"
 type: article
-quality: 106
-heat: -1
-published: false
+quality: 117
+heat: 217
+published: true
 
 provider:
   name: Business Insider
@@ -25,28 +25,12 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/5fdc9262c910a400192e841b?width=1200&format=jpeg"
+  - url: "https://i.insider.com/5fdf3473c910a400192e893a?width=1200&format=jpeg"
     width: 1200
     height: 600
     isCached: true
 
 related:
-  - title: "Trump raised the idea of imposing martial law to overturn the election in a White House meeting, according to reports"
-    excerpt: "In a White House meeting Friday, deploying US troops to re-run the election was one of several wild ideas touted, reported multiple outlets."
-    publishedDateTime: 2020-12-20T12:14:00Z
-    webUrl: "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
-    images:
-      - url: "https://i.insider.com/5fdf3473c910a400192e893a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Donald and Melania Trump wear matching tuxedos in their final White House Christmas picture"
     excerpt: "The picture shows the Trumps smiling as they stand together on the Grand staircase in the White House, beneath festive Christmas decorations."
     publishedDateTime: 2020-12-19T12:28:00Z
@@ -78,6 +62,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/6a7f826/2147483647/strip/true/crop/0x0+0+0/resize/840x0!/quality/90/?url=https%3A%2F%2Fslack-redir.net%2Flink%3Furl%3Dhttp%3A%2F%2Fwww.trbimg.com%2Fimg-580c045b%2Fturbine%2Fla-na-hillary-clinton-tim-kaine-photo-20161022"
         width: 350
         height: 350
+        isCached: true
+  - title: "Trump has discussed rebooting 'The Apprentice' as he prepares to leave the White House, according to a report"
+    excerpt: "The president has reportedly talked to aides about the prospect of reviving the reality TV show in which he starred."
+    publishedDateTime: 2020-12-18T12:18:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-mulls-return-to-the-apprentice-report-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-mulls-return-to-the-apprentice-report-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-mulls-return-to-the-apprentice-report-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/5fdc9262c910a400192e841b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "White House aides reportedly stepped in to keep Trump from calling for $2,000 stimulus checks fearing it could torpedo relief negotiations"
     excerpt: "The Post reported that White House aides talked Trump out of calling for larger direct payments than Republicans seek in stimulus talks."
@@ -112,6 +112,6 @@ related:
         height: 632
         isCached: true
 
-secured: "hUqucNQViJCYsX1lswUUVkOZw6sneC6gWOTNsfDVF8QIVtOLgn8FF4MVCJaw2dE9RV0BzFQLiFaQz5urdhAvXuMCtwYjGvvUgKTfd8zlX9mbgpnIMxj5sOtF3S5WHQXbMnRjkx2pooLbQqItIDEtHtyyRCCNBswYGYKEVQhCeFJVv4FGfyMroBleww4OZjCtyY8Ghbmr1CUkxrvNAC1kTfLz0Y0ICXWUyJ4gxdiw8NKfZ2trgoTjAKCICMX0lx2KIweSgI6DFzeYP5iTXcDQcx8mE6MWTR3+68oF6Lt7oHbpXflmZi1OIQKHKY3mr0KPD6FJ8/ho2gL16tCJA2MZ+DRLJskqhsxaOcKuKdD07SziLnUxqGi4t+ilZUL8GIIkSmQS0kDRqfmpiT6RQ2fxC6ATSGHTwZGpGtOnMaPDWgql0W4A0DVbpMX1lc+c4FmvL/QlMyW0tPBKC2vT3Rl1H03AMC4tvLj7q2SIz8kxi+i+J/32mW8+1BwoCaj5n4kF/tEK6Wh1sPozWNmue/uiDw==;Qxw7r+1BE5r4xNvTDdgvRg=="
+secured: "703rcsaeMgv+pQ4msIlMUV/yKRQyEBgQj/Wfvdh9fpSzc+vUDSR1vy/HzOSasrmwzJNHBGZawbjv9As6rfCrA5mxQ5IfGmb2IKg/64wK4NhKx2ZMAbxFQsw6n+Uxag/HFXORY71WJk/ndZ5KcVuLDvet84yhA1ukr4ErJfTcJNKQSJ2Uk+AxsraTmaWafdqedW0ZgUW+GoPNH+SRB7NqSzFd1fmQR/5v6LnmMlmKkhZ2XOS59KweHABfAhroxfsrXr8dxhglzcprGoJFyIOB7Jn4xlOXBInZ+gTJBwyzcS94sUz9MxeYTWYyYEpd2dTZ5w4LOOmvnnHcore2eL+6OVzwzNdex4BinKKsueCsMTI=;W5vYsvwm1Zl3ScoKJtAyWA=="
 ---
 

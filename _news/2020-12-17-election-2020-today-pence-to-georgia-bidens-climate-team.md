@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-pence-to
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 1795
+heat: 1815
 published: true
 
 provider:
@@ -623,10 +623,26 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden nominees mount charm offensive amid tough confirmation landscape"
+    excerpt: "Confirmation battles over the president-elect’s Cabinet picks are set to begin even before he is inaugurated, posing an early test of the post-Trump political world and setting the tone for Joe Biden’s presidency."
+    publishedDateTime: 2020-12-20T12:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-cabinet-nominee-senate/2020/12/19/019403ae-3e24-11eb-8db8-395dedaaa036_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-cabinet-nominee-senate/2020/12/19/019403ae-3e24-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cabinet-nominee-senate/2020/12/19/019403ae-3e24-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZA3US2SBVII6XFCT7Q3LUBIXQE.jpg&w=1440"
+        width: 1440
+        height: 950
+        isCached: true
   - title: "Joe Biden says 'no time to waste' as climate team unveiled"
     excerpt: "US President-elect Joe Biden has introduced his climate and energy team, saying they will lead an \"ambitious plan\" to combat climate change. Mr Biden has vowed to make the issue a top priority in an agenda that reverses many Trump administration policies."
-    publishedDateTime: 2020-12-20T03:55:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55382209?fbclid=IwAR3UFtdSInJpTa0_U2LjF81w21vOr7Up5HirPiP6GHTbsIWINNV76dhKzVM"
+    publishedDateTime: 2020-12-20T11:17:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55382209"
     ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55382209"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55382209"
     type: article

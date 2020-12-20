@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Pence in Georgia vows he and Trump will 'keep fighting'"
-excerpt: "For Vice President Mike Pence, it’s a delicate balance on the Georgia Senate runoffs campaign trail."
-publishedDateTime: 2020-12-17T19:38:44Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q1ps6svr5JE/pence-georgia-vows-trump-will-keep-fighting"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q1ps6svr5JE/pence-georgia-vows-trump-will-keep-fighting"
-ampWebUrl: "https://www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp"
+title: "Live Updates: Trump plans 'big rally' for Loeffler, Perdue in Georgia"
+excerpt: "Follow for the latest updates on the Georgia Senate runoffs."
+publishedDateTime: 2020-12-20T06:45:15Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p4yvhrUojxI/live-updates-georgia-democrats-warnock-ossoff-to-appear-at-event-with-farrakhan-supporter"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p4yvhrUojxI/live-updates-georgia-democrats-warnock-ossoff-to-appear-at-event-with-farrakhan-supporter"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-democrats-warnock-ossoff-to-appear-at-event-with-farrakhan-supporter.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-democrats-warnock-ossoff-to-appear-at-event-with-farrakhan-supporter.amp"
 type: article
-quality: 200
-heat: 340
-published: true
+quality: 175
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -23,15 +23,30 @@ provider:
 topics:
   - Election
   - Republican Voice
-  - Mike Pence
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eefeeb7a-e4d9-46a2-94fa-ea358179ae3f/153fcbb1-8ed2-4531-be23-ba0209bbc851/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
+  - title: "Pence in Georgia vows he and Trump will 'keep fighting'"
+    excerpt: "For Vice President Mike Pence, it’s a delicate balance on the Georgia Senate runoffs campaign trail."
+    publishedDateTime: 2020-12-17T19:38:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q1ps6svr5JE/pence-georgia-vows-trump-will-keep-fighting"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "For Pence in Georgia, it’s location, location, location"
     excerpt: "For Vice President Mike Pence, the locations of his campaign stops in the Georgia Senate runoff elections may be more telling that his stump speeches at the rallies."
     publishedDateTime: 2020-12-17T22:14:29Z
@@ -79,22 +94,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20348035939365.jpg"
         width: 3990
         height: 2660
-        isCached: true
-  - title: "Live Updates: Trump plans 'big rally' for Loeffler, Perdue in Georgia"
-    excerpt: "Follow for the latest updates on the Georgia Senate runoffs."
-    publishedDateTime: 2020-12-20T06:45:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p4yvhrUojxI/live-updates-georgia-democrats-warnock-ossoff-to-appear-at-event-with-farrakhan-supporter"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-democrats-warnock-ossoff-to-appear-at-event-with-farrakhan-supporter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-democrats-warnock-ossoff-to-appear-at-event-with-farrakhan-supporter.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eefeeb7a-e4d9-46a2-94fa-ea358179ae3f/153fcbb1-8ed2-4531-be23-ba0209bbc851/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Georgia secretary of state orders study of mail-in ballot signatures after Trump pressure "
     excerpt: "Georgia Secretary of State Brad Raffensperger said Wednesday that there will be a statewide signature match study after pressure from President Trump and his supporters."
@@ -145,6 +144,6 @@ related:
         height: 2660
         isCached: true
 
-secured: "agA+Dr/tF7VY3jAI1QN0CESekI8I86nonzYiSrKQLRDX2tGbiV9AQTebWFKkoibBDZVXik7pR8YoXMw6q7WfpIuJ0kj6DcpWE67qpOXAuMd5BzKvxMNFsauqp9JqM4C3tXSj1SJeeVUo+Sg+J9BzAnT4ouIVzZ4TXA2LwLCEC4SUiJBTR8XJyo90b8/QW/q2sk95iNvPsINZswqMnHa0UOfjat/IydS4NUuYvlbphaFof0Uhr5b4BUhTsvJay77kUwXZ+O6aD5/M1L/A5/aHV9+ToVYu66eII7P2Q74YC2j4Kw73EJoWG9VVSBz+DB3DpijClmOiO/mZHN/aXd5E290DdqyVoo0XFkQEsoStzqE=;EiwjNowo+75deRRYk+VjcA=="
+secured: "3Vzp7a87MJvUo61wPwsJJw2mIuWqZnVqRO+JFjzxP3OYmVwVcuAU883tQKS6JgRds78bWMk6oJ1bLc2W8Ezt0Z9yetubi1khuP/pV0zHJ5SE3Fq2FgNWq0pKH5YEyK2RYL0GOf0r+I3/ctJugDxbvmEA4oQ2ApmbNXu/5OD81+Z7laPEGI3m+kE1+7prNX7Ggl7FPdmfNUfRmMHtra9EwmUNbxqk85RHE3sFbjdDNr3WwCNuxzyTsXTxEGkQbophzYu4PS+mo7dUKl7Xynkz6Salq5mwx87Dhz0gNOtUdjUIgO47w/Qd5DRwVnsC9xLyKLLK58MuNlunH34kx8FoiyDoMaPfVU+kjSJoacwazI8=;rjzdw3RVQnHWgCBM9xV3nA=="
 ---
 

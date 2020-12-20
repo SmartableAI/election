@@ -95,6 +95,22 @@ related:
         width: 3990
         height: 2660
         isCached: true
+  - title: "Live Updates: Trump plans 'big rally' for Loeffler, Perdue in Georgia"
+    excerpt: "Follow for the latest updates on the Georgia Senate runoffs."
+    publishedDateTime: 2020-12-20T06:45:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p4yvhrUojxI/live-updates-georgia-democrats-warnock-ossoff-to-appear-at-event-with-farrakhan-supporter"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-democrats-warnock-ossoff-to-appear-at-event-with-farrakhan-supporter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-democrats-warnock-ossoff-to-appear-at-event-with-farrakhan-supporter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eefeeb7a-e4d9-46a2-94fa-ea358179ae3f/153fcbb1-8ed2-4531-be23-ba0209bbc851/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pence in Georgia vows he and Trump will 'keep fighting'"
     excerpt: "For Vice President Mike Pence, it’s a delicate balance on the Georgia Senate runoffs campaign trail. But Pence – aiming to energize Trump supporters and other Republicans to vote for GOP Sens. David Perdue and Kelly Loeffler in contests that will be won by the party that does a better job turning out its base – vowed that \"we’re going to keep fighting,"
     publishedDateTime: 2020-12-17T19:50:00Z
