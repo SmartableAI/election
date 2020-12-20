@@ -224,6 +224,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Kamala Harris faces challenging dynamics in White House full of longtime Biden allies"
+    excerpt: "One of her first challenges will be ensuring that she doesn't get relegated to the fringes of an administration filling up with longtime Biden allies and advisers"
+    publishedDateTime: 2020-12-20T15:43:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/kamala-harris-faces-challenging-dynamics-white-house-full-longtime-biden-n1251611"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251611"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251611"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 143
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_51/3436497/201217-kamala-harris-ew-1252p_e1e934ebdeb7883c6999ee6f397b6389.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Young girls react as Vice President-elect Kamala Harris makes history"
     excerpt: "President-elect Joe Biden on Tuesday is outlining more details of his transition plan even as President Donald Trump and other top Republicans continue to challenge the results of last week's election."
     publishedDateTime: 2020-11-10T00:00:00Z

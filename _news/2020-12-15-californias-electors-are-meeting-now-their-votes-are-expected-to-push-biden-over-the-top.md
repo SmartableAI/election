@@ -224,6 +224,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Kamala Harris faces challenging dynamics in White House full of longtime Biden allies"
+    excerpt: "One of her first challenges will be ensuring that she doesn't get relegated to the fringes of an administration filling up with longtime Biden allies and advisers"
+    publishedDateTime: 2020-12-20T15:43:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/kamala-harris-faces-challenging-dynamics-white-house-full-longtime-biden-n1251611"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251611"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251611"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 143
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_51/3436497/201217-kamala-harris-ew-1252p_e1e934ebdeb7883c6999ee6f397b6389.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Kamala Harris makes history as vice president-elect"
     excerpt: "Kamala Harris makes history as the nation’s first female, first Black and first South Asian American vice president-elect after she and Joe Biden are projected as the winners of the 2020 election."
     publishedDateTime: 2020-11-07T23:57:00Z

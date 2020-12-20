@@ -144,18 +144,18 @@ related:
         height: 558
         isCached: true
   - title: "Trump downplays Russia in first comments on hacking campaign"
-    excerpt: "President Donald Trump is suggesting without evidence that China — not Russia — may be behind the the grave cyber espionage operation against the United States"
+    excerpt: "President Donald Trump is contradicting top administration officials who say Russia is behind the cyber espionage operation that targeted U.S. government agencies"
     publishedDateTime: 2020-12-20T14:10:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_f1f342b60742421dbfda0a3d08fb281b_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_33e2631e17a9481292d29b56b37c8f96_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -369,6 +369,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 98
+  - title: "Surgeon General Jerome Adams cites antibody treatment for Trump's delay in getting vaccine"
+    excerpt: "Surgeon General Jerome Adams says the president has a \"medical reason\" for not getting the vaccine, since he was treated with antibodies in October."
+    publishedDateTime: 2020-12-20T16:33:00Z
+    webUrl: "https://www.cbsnews.com/video/surgeon-general-jerome-adams-cites-antibody-treatment-for-trumps-delay-in-getting-vaccine/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 95
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/20/9a30fef8-bcc4-4eee-a13a-56ed60de2d67/thumbnail/1200x630/0e944f6058e61ab8fce45d0edce0c185/1220-ftn-jerome-613079-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Florida’s Electoral College votes officially go to Trump and Pence"
     excerpt: "Florida’s 29 Electoral College votes officially were cast for President Donald Trump and Vice President Mike Pence on Monday during a brief ceremony in the Senate chambers of the Capitol."
     publishedDateTime: 2020-12-15T01:33:00Z
@@ -402,6 +416,6 @@ related:
         height: 716
         isCached: true
 
-secured: "DlRlq/Lj2gNg6jv9zmel0EZq6w1rOAxKeO5PDO9YdswqwHIru/iV0QZgPIA1U3urMqGJO6tG8NlFhER2VRkNYLmOZ8FS/E1E1pS6cDXnlFZIMFHWOn+B/DktOJyLVZRp1RiTs/BUChFjHvWWs7rRG1tXdq4XjoJQ/QGkHsMpQraB+SupzgQTo82aBjhIhWF7u9fosxLvMsLlcgrXXsBNujeraunnUSo9MKOM140dix+1uM1XVHk8VHzDZagTkIN6m2m6MqXd3MuVUQJv+ToOZi4uvkysSDxnq9/LO82d8WyZ1eQwadHGbfSOTtwIqmodloD8+wrTRiIcJ7fkZa8a3usKgqXMs+XIpNcF9ZOElIE=;zrFSA0Mjbh0zD6VLYliynw=="
+secured: "qB/+tR9HDJgr9Yg4/TfKYonKJOj3THYyrAuff8lfZzse/y4hLOix2IhF+nk2k4GvmYDnfNC1gpBhqEN220iSa5/dxlhf8IwJ40CmZz+VTXRH7DFCzQVD3i2PyWyoKRKmQFtymIiQpcA08qf8Dga11wPAgw6Grv2Fk0gsQnATSFzgG1Iv6o61rH4Q+cbWJtB7g78ci4Z+c25NeljLYfFw6lIUEN0/RtS8v8+AETdNfX7SMACH9DsN3+Jc0UMDSGhucG6IFg48vw5D+hFxMngkTUrD722KoIdKpxShzbKaTjBUvnCololAXurdGgpJx4rd7ViFbzUY3tWMs2Ne8NF95UUXyKaj+APdCzaXWg6soonVqORdpZ9UJV8cXFuxCKz2S+yDBkKw78CmQVVd7kZIFPO5SGF1F9dt/oSaKYGpG/cad2Im+XovhCoe935Gs0rp/HxSqtwl+3dQIDjN3IZbiXUzCEQp4zHmgN1PSfzHDxODtPIYLnJeOKHC4Mi8oQGxGRPMcvAAABG9+QGajOeHrw==;AS3Ufppn+ohLHHm7f9/DcQ=="
 ---
 

@@ -156,6 +156,22 @@ related:
         width: 3990
         height: 2660
         isCached: true
+  - title: "Live Updates: Trump plans 'big rally' for Loeffler, Perdue in Georgia"
+    excerpt: "President Trump announced Saturday night that he will hold a \"big Rally\" for Republican Sens. Kelly Loeffler and David Perdue in Georgia on Jan. 4. \"As badly as we were treated in Georgia by the 'Republican' Governor and 'Republican' Secretary of State,"
+    publishedDateTime: 2020-12-20T16:31:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-georgia-democrats-warnock-ossoff-to-appear-at-event-with-farrakhan-supporter"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-democrats-warnock-ossoff-to-appear-at-event-with-farrakhan-supporter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-democrats-warnock-ossoff-to-appear-at-event-with-farrakhan-supporter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eefeeb7a-e4d9-46a2-94fa-ea358179ae3f/153fcbb1-8ed2-4531-be23-ba0209bbc851/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "ihJeOZ3p0YriHRp0qvHLXnxME0gk4O6QSaBnMBlKvmhQlRnnxU5AgRn1abHuzINMpobPq/EKHpx2CBPhkdHMNpCdS9tNbbD3IwYA/o66sENR1wpUNnbkYAGcbiYWmkaC3w1CMKy57B5js32iB6mNXR0EPxpn/Y17dvE94PfNe3V4OwFvwJINBTU4wH8+XCkbaeFVzWo3WBKjKMhQJaUT9wXxpE9yH2TsBQl0q2IyVaai6S7ra7Jtjm5A0rP/m+3BxqKHTw70txYlz5PN5AV/wDy6iALqlGVrEzQCwSkZDJN80Cih0/0mpiwEKPyamHY3gWOmpDeLQOZbIi2CvIFrrYHUYew9SlYYQOPZ9rdRAdc=;3NQqHwSobdH8YgsVhTLhVw=="
 ---

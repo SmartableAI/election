@@ -1517,6 +1517,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden chief of staff Ron Klain faults Trump administration for mixed messages on hack"
+    excerpt: "Ron Klain, the incoming White House chief of staff, says the government needs to present a united front in responding to the recent cyberattack."
+    publishedDateTime: 2020-12-20T16:40:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-chief-of-staff-ron-klain-faults-trump-administration-for-mixed-messages-on-hack/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 113
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/20/3eef76fc-969f-4c20-b0b6-fd327d047abe/thumbnail/1200x630/39c167e4f0d33c94267106126c6da848/1220-ftn-klain-613088-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Fact check: CNN did not report that Trump would likely get a second term in office weeks after declaring Biden President-elect"
     excerpt: "Days before the Electoral College voted for president and vice president of the United States, social media users had been sharing posts claiming CNN reported that outgoing President Donald Trump “will likely get his second term."
     publishedDateTime: 2020-12-16T15:46:00Z

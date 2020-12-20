@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-hunter-biden-special-prosecut
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
 type: article
 quality: 186
-heat: 586
+heat: 606
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 174
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64208635-0349-48e0-a93c-f27a02bd14c0/3fd9dd5d-8e39-4843-83b3-4f10cbc9f0e3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden will not discuss Hunter Biden probe with attorney general candidates: Psaki"
+    excerpt: "President-elect Joe Biden's pick for White House press secretary, Jen Psaki, told \"Fox News Sunday\" that Biden will not discuss any investigation of his son Hunter with anyone he is considering to be the next U.S. attorney general."
+    publishedDateTime: 2020-12-20T15:37:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QPNYhfeATsU/hunter-biden-probe-attorney-general-candidates-psaki"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-probe-attorney-general-candidates-psaki.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-probe-attorney-general-candidates-psaki.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d3510bd-03e7-49ea-8fbe-75b8933bd5c1/360cfa39-c952-4b0b-8928-61d73d18ee39/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

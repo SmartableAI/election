@@ -95,6 +95,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden will not discuss Hunter Biden probe with attorney general candidates: Psaki"
+    excerpt: "President-elect Joe Biden's pick for White House press secretary, Jen Psaki, told \"Fox News Sunday\" that Biden will not discuss any investigation of his son Hunter with anyone he is considering to be the next U.S. attorney general."
+    publishedDateTime: 2020-12-20T15:37:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QPNYhfeATsU/hunter-biden-probe-attorney-general-candidates-psaki"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-probe-attorney-general-candidates-psaki.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-probe-attorney-general-candidates-psaki.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d3510bd-03e7-49ea-8fbe-75b8933bd5c1/360cfa39-c952-4b0b-8928-61d73d18ee39/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Top Facebook, Twitter execs donated tens of thousands of dollars to Biden campaign"
     excerpt: "Top executives at Facebook and Twitter donated tens of thousands of dollars to President-elect Joe Biden's campaign, Federal Election Commission records reviewed by Fox News reveal, as the social media platforms come under fire for limiting the circulation of reports surrounding Hunter Biden’s business"
     publishedDateTime: 2020-12-15T14:49:03Z

@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-15-trump-campaign-files-lawsuit-over-new-mexico-ballot-drop-boxes.md",
+      "title": "Trump campaign files lawsuit over New Mexico ballot drop boxes",
+      "excerpt": "As New Mexico electors cast their votes on Monday, President Trump's campaign team filed a suit over the state's use of ballot drop boxes.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jn8uE8tIPwM/trump-campaign-files-lawsuit-over-nm-drop-boxes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jn8uE8tIPwM/trump-campaign-files-lawsuit-over-nm-drop-boxes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20350011448560.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-files-lawsuit-over-nm-drop-boxes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-files-lawsuit-over-nm-drop-boxes.amp",
+      "publishedDateTime": "2020-12-15T12:21:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-putin-congratulates-biden-on-election-victory.md",
+      "title": "Putin congratulates Biden on election victory",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ov1bROivNoQ/putin-congratulates-biden-on-election-victory",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ov1bROivNoQ/putin-congratulates-biden-on-election-victory",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1830,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp",
+      "publishedDateTime": "2020-12-15T00:44:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-internet-fact-checker-at-firm-that-works-with-facebook-reveals-distrust-of-trump-wh.md",
       "title": "Internet fact-checker at firm that works with Facebook reveals distrust of Trump WH",
       "excerpt": "Companies like Facebook work with groups licensed by individuals at the International Fact-Checking Network.",
@@ -1557,119 +1669,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-obama-says-trump-did-serious-damage-to-policy-accomplishments-but-aca-remains-robust.md",
-      "title": "Obama says Trump did 'serious damage' to policy accomplishments but ACA 'remains robust'",
-      "excerpt": "President Trump has sought to roll back several major Obama-era policies since 2016.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_RhCt2v2DU/obama-trump-damage-policy-aca-robust",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_RhCt2v2DU/obama-trump-damage-policy-aca-robust",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e612c89-ef37-4a64-a3f7-916b3397e4bc/9dbd64bc-d36d-47ae-9455-7173f4a16be7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/obama-trump-damage-policy-aca-robust.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-trump-damage-policy-aca-robust.amp",
-      "publishedDateTime": "2020-12-09T17:30:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-live-updates-trump-legal-team-dismisses-safe-harbor-deadline-pledge-to-continue-fight.md",
-      "title": "Live Updates: Trump legal team dismisses 'safe harbor deadline,' pledge to continue fight",
-      "excerpt": "The Trump campaign legal team on Tuesday dismissed the importance of the \"safe harbor deadline\" and indicated they intend to keep going with their legal fight of the election results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/live-updates-legal-12-8-2020",
-      "originalUrl": "https://www.foxnews.com/politics/live-updates-legal-12-8-2020",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/855b0975-a82d-44dd-9ee9-e16eee6933da/80778d32-d6f8-43fa-917e-4bfbf73968d2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-legal-12-8-2020.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-8-2020.amp",
-      "publishedDateTime": "2020-12-09T16:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

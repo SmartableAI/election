@@ -2,6 +2,118 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-11-09-mcconnell-trump-100-within-his-rights-to-look-into-allegations-of-irregularities.md",
+      "title": "McConnell: Trump '100% within his rights to look into allegations of irregularities'",
+      "excerpt": "Senate Majority Leader Mitch McConnell on Monday sided with and defended President Donald Trump, who has yet to concede the presidential election, saying that Trump is \"100% within his rights to look into allegations of irregularities and weigh his legal options.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YJhxozrmQmI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YJhxozrmQmI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201023115840-35c-mitch-mcconnell-centered-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/senate-republicans-trump-election-results/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/senate-republicans-trump-election-results/index.html",
+      "publishedDateTime": "2020-11-09T15:56:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-the-point-why-trump-is-still-forever.md",
+      "title": "The Point: Why Trump is (still) forever",
+      "excerpt": "Whether he's willing to admit it, Donald Trump has lost the presidency. And in 72 days, he will be gone from the White House.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o1yx4pRG47c/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o1yx4pRG47c/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201106225744-donald-trump-rally-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/trump-gop-after-2020/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-gop-after-2020/index.html",
+      "publishedDateTime": "2020-11-09T15:31:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-cia-director-haspels-fate-uncertain-after-trump-fires-esper.md",
       "title": "CIA Director Haspel's fate uncertain after Trump fires Esper",
       "excerpt": "President Donald Trump and some of his conservative allies have become increasingly frustrated with CIA Director Gina Haspel in recent weeks, accusing her of delaying the release of documents they believe would expose so-called \"deep state\" plots against Trump's campaign and transition during the Obama",
@@ -1258,120 +1370,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-kamala-harris-ancestral-village-in-indian-celebrates-politicians-success.md",
-      "title": "Kamala Harris’ ancestral village in Indian celebrates politicians success",
-      "excerpt": "Kamala Harris’ ancestral village in Indian lit fireworks and played music to celebrate the California politician’s success in the U.S. elections. Harris, who will become Vice President, has Indian and Jamaican heritage,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/kamala-harris-ancestral-village-in-indian-celebrates-politicians-success-95555141952",
-      "originalUrl": "https://www.nbcnews.com/video/kamala-harris-ancestral-village-in-indian-celebrates-politicians-success-95555141952",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/India-celebrations-thumbnail.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo95555141952",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95555141952",
-      "publishedDateTime": "2020-11-08T16:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-her-story-is-our-story-alpha-kappa-alpha-sorority-sisters-bask-in-kamala-harris-victory.md",
-      "title": "'Her story is our story:' Alpha Kappa Alpha sorority sisters bask in Kamala Harris' victory",
-      "excerpt": "Michelle Arrington was on a plane headed to a beach reunion with her Alpha Kappa Alpha Sorority sisters Saturday when American history happened.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sej38i-hN54/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sej38i-hN54/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190124204506-kamala-harris-aka-sorority-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html",
-      "publishedDateTime": "2020-11-08T14:19:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

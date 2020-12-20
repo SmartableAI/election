@@ -91,6 +91,17 @@ related:
         width: 1200
         height: 796
         isCached: true
+  - title: "Romney says Trump has 'blind spot' on Russia, calls hack 'extraordinarily damaging'"
+    excerpt: "Republican U.S. Senator Mitt Romney said a widespread data breach across the U.S. government was \"extraordinarily damaging\" and that President Donald Trump has a \"blind spot\" when it comes to Russia,"
+    publishedDateTime: 2020-12-20T15:32:00Z
+    webUrl: "https://www.reuters.com/article/usa-cyber-breach-idUSL1N2J008N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J008N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J008N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
   - title: "Trump Won’t Denounce Russia’s Hack Because He’s Still Subservient to Putin"
     excerpt: "Ahh, we’ll talk about that at another time,” Trump demurred. The other time has not come. Three months later, that remains Trump’s last word on the matter. In the wake of news of Russia’s massive cyber-intrusion into a swath of private and public networks,"
     publishedDateTime: 2020-12-19T02:25:00Z

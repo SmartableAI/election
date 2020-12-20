@@ -144,6 +144,22 @@ related:
         width: 3990
         height: 2660
         isCached: true
+  - title: "Live Updates: Trump plans 'big rally' for Loeffler, Perdue in Georgia"
+    excerpt: "President Trump announced Saturday night that he will hold a \"big Rally\" for Republican Sens. Kelly Loeffler and David Perdue in Georgia on Jan. 4. \"As badly as we were treated in Georgia by the 'Republican' Governor and 'Republican' Secretary of State,"
+    publishedDateTime: 2020-12-20T16:31:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-georgia-democrats-warnock-ossoff-to-appear-at-event-with-farrakhan-supporter"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-democrats-warnock-ossoff-to-appear-at-event-with-farrakhan-supporter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-democrats-warnock-ossoff-to-appear-at-event-with-farrakhan-supporter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eefeeb7a-e4d9-46a2-94fa-ea358179ae3f/153fcbb1-8ed2-4531-be23-ba0209bbc851/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump says he will return to Georgia to campaign for GOP Senate candidates"
     excerpt: "The Jan. 5 election pits Democratic candidates Jon Ossoff and the Rev. Raphael Warnock against Republican incumbents Sens. David Perdue and Kelly Loeffler, respectively."
     publishedDateTime: 2020-12-20T13:36:00Z

@@ -2,6 +2,115 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-11-17-pence-fauci-praise-vaccine-developments.md",
+      "title": "Pence, Fauci Praise Vaccine Developments",
+      "excerpt": "Vice President Mike Pence praised recent vaccine advancements during a call with governors Monday, calling it welcome news for Americans. Mr. Pence spoke soon after Moderna said early results showed its experimental coronavirus vaccine [was 94.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/covid-2020-11-16/card/zmkf3toqrLQFI4bgEomL",
+      "originalUrl": "https://www.wsj.com/livecoverage/covid-2020-11-16/card/zmkf3toqrLQFI4bgEomL",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-260722?size=1.5",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T18:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-katy-perry-george-conway-jump-in-to-support-trump-critic-claudia-conways-american-idol-audition.md",
+      "title": "Katy Perry, George Conway jump in to support Trump critic Claudia Conway's 'American Idol' audition",
+      "excerpt": "American Idol' judge Katy Perry welcomed Kellyanne Conway's daughter Claudia, who is auditioning. \"Let the games begin,\" said Perry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/15/american-idol-kellyanne-conways-daughter-claudia-teases-audition/6306433002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/15/american-idol-kellyanne-conways-daughter-claudia-teases-audition/6306433002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/15/USAT/a1d88012-7512-44c6-a2c9-f58d065c6161-Claudia_Conway.PNG?auto=webp&crop=477,269,x0,y140&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6306433002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6306433002",
+      "publishedDateTime": "2020-11-16T14:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-trump-to-reduce-troop-levels-in-afghanistan-and-iraq-by-mid-january.md",
       "title": "Trump to reduce troop levels in Afghanistan and Iraq by mid-January",
       "excerpt": "The Pentagon is expecting orders by the end of this week to reduce troop levels to 2,500 in Afghanistan and in Iraq by mid-January, according to two U.S. officials.",
@@ -1198,110 +1307,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-mike-pence-offers-delusional-response-to-maga-crowd-chanting-four-more-years.md",
-      "title": "Mike Pence offers delusional response to MAGA crowd chanting ‘four more years’",
-      "excerpt": "Vice President Mike Pence signaled on Friday that President Donald Trump has absolutely no plan to concede despite losing the presidential election. On Friday, Pence delivered a speech at the Conservative think tank known as the Council for National Policy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/11/mike-pence-offers-delusional-response-to-maga-crowd-chanting-four-more-years/",
-      "originalUrl": "https://www.rawstory.com/2020/11/mike-pence-offers-delusional-response-to-maga-crowd-chanting-four-more-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2020/06/Mike-Pence-point-rally.jpg",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/11/mike-pence-offers-delusional-response-to-maga-crowd-chanting-four-more-years/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/11/mike-pence-offers-delusional-response-to-maga-crowd-chanting-four-more-years/amp/",
-      "publishedDateTime": "2020-11-14T09:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-philadelphia-suburbs-return-with-a-vengeance-to-oust-trump.md",
-      "title": "Philadelphia suburbs return with a vengeance to oust Trump",
-      "excerpt": "Voters in Philadelphia’s suburbs hurled perhaps their biggest rebuke yet this month to President Donald Trump and the Republican Party overall",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/philadelphia-suburbs-return-with-a-vengeance-to-oust-trump/2020/11/14/63c9f154-2697-11eb-9c4a-0dc6242c4814_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/philadelphia-suburbs-return-with-a-vengeance-to-oust-trump/2020/11/14/63c9f154-2697-11eb-9c4a-0dc6242c4814_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/philadelphia-suburbs-return-with-a-vengeance-to-oust-trump/2020/11/14/63c9f154-2697-11eb-9c4a-0dc6242c4814_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/philadelphia-suburbs-return-with-a-vengeance-to-oust-trump/2020/11/14/63c9f154-2697-11eb-9c4a-0dc6242c4814_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-14T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

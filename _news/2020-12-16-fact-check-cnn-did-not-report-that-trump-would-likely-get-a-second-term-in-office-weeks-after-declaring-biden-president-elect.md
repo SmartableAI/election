@@ -1533,6 +1533,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden chief of staff Ron Klain faults Trump administration for mixed messages on hack"
+    excerpt: "Ron Klain, the incoming White House chief of staff, says the government needs to present a united front in responding to the recent cyberattack."
+    publishedDateTime: 2020-12-20T16:40:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-chief-of-staff-ron-klain-faults-trump-administration-for-mixed-messages-on-hack/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 113
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/20/3eef76fc-969f-4c20-b0b6-fd327d047abe/thumbnail/1200x630/39c167e4f0d33c94267106126c6da848/1220-ftn-klain-613088-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Fauci says vaccinate Biden, Harris, Trump, Pence"
     excerpt: "Dr. Anthony S. Fauci said it was his “strong recommendation” that President-elect Joseph R. Biden Jr. and Vice President-elect Kamala Harris receive a COVID-19 vaccine quickly."
     publishedDateTime: 2020-12-15T23:12:00Z

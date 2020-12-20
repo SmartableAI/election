@@ -103,6 +103,17 @@ related:
         width: 1200
         height: 796
         isCached: true
+  - title: "Romney says Trump has 'blind spot' on Russia, calls hack 'extraordinarily damaging'"
+    excerpt: "Republican U.S. Senator Mitt Romney said a widespread data breach across the U.S. government was \"extraordinarily damaging\" and that President Donald Trump has a \"blind spot\" when it comes to Russia,"
+    publishedDateTime: 2020-12-20T15:32:00Z
+    webUrl: "https://www.reuters.com/article/usa-cyber-breach-idUSL1N2J008N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J008N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J008N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
 
 secured: "nClfJVtb9ijwudJ5ErhYiLTwOXPLiSSqXMlhM3wj9SerFBI/wuzoABd/8h5FJw2ncuh+XvKVQaFTr+v+2Z76EVjZIVBzUmnvhRh6Qak96K2L0qRNHRUCGrYIA4iCY2GEUv3lmv6etO/d2J96C1f7dyBFApO3nRkc+JOgFV14ijNVeqY1gE4JsETrsmmJwE2WEyZg+Uo3vSzdwPXjdFub/wrjIJqzNiWQRp9xYW4bX8etksZhV/+6GIpeD9u+qLoheOiawKWLqExgGjDVLwJc/8R3hFP5lf3aF/34ztQ0NYGhPkiWc/oX/hWzkNDjUFv7N4Le2u+e3B3c+ytGT+EBayIvZckuJuBfDMyyDYWwHN0=;R9YdEEiN1jKZIAf3WgY3Ag=="
 ---

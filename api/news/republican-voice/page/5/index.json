@@ -2,6 +2,118 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-30-live-updates-trump-says-doj-missing-in-action-during-election-challenge.md",
+      "title": "Live Updates: Trump says DOJ 'missing in action' during election challenge",
+      "excerpt": "Follow for the latest updates on the 2020 election legal fight.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QGxQx6bPQ3I/live-updates-trump-says-doj-missing-in-action-during-election-challenge",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QGxQx6bPQ3I/live-updates-trump-says-doj-missing-in-action-during-election-challenge",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 448,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd00b8cb-3654-49f6-a8db-b0fe6e3fb865/6aa8c157-f99d-4b17-8c8c-2f2e6f3af5d7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-trump-says-doj-missing-in-action-during-election-challenge.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-says-doj-missing-in-action-during-election-challenge.amp",
+      "publishedDateTime": "2020-11-29T20:20:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-tom-cotton-slams-bidens-unity-platform-points-to-admin-picks.md",
+      "title": "Tom Cotton slams Biden's 'unity' platform, points to admin picks",
+      "excerpt": "Sen. Tom Cotton, R-Ark., on Sunday took President-elect Joe Biden to task over his pledge to unify the country yet still choose controversial people to fill his cabinet.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vd-59UYctwo/tom-cotton-slams-bidens-unity-platform-points-to-admin-picks",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vd-59UYctwo/tom-cotton-slams-bidens-unity-platform-points-to-admin-picks",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50b8fc2a-904d-4300-b976-88f2492ef7c6/112e6a82-2e8c-40e9-a330-e482ab9b5b3d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/tom-cotton-slams-bidens-unity-platform-points-to-admin-picks.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-slams-bidens-unity-platform-points-to-admin-picks.amp",
+      "publishedDateTime": "2020-11-29T18:39:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-bidens-win-means-some-guantanamo-prisoners-may-be-released.md",
       "title": "Biden's win means some Guantanamo prisoners may be released",
       "excerpt": "The oldest prisoner at the Guantanamo Bay detention center went to his latest review board hearing with a degree of hope, something that has been scarce during his 16 years locked up without charges at the U.S. base in Cuba.",
@@ -1538,118 +1650,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/saudi-un-ambassador-nobody-rejoin-iran-nuclear-biden.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/saudi-un-ambassador-nobody-rejoin-iran-nuclear-biden.amp",
       "publishedDateTime": "2020-11-22T14:12:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-biden-expected-to-make-trip-to-georgia-to-stump-for-ossoff-warnock.md",
-      "title": "Biden expected to make trip to Georgia to stump for Ossoff, Warnock",
-      "excerpt": "The push to win both races could see the Democrats pull a divided Senate, which would force both parties to work on passing any legislation.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pm9xeGrBI3w/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pm9xeGrBI3w/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Ronald-Klain-and-Joe-Biden.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock.amp",
-      "publishedDateTime": "2020-11-22T13:18:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-biden-had-been-getting-intelligence-briefings-contrary-to-what-transition-team-says-nunes.md",
-      "title": "Biden 'had been getting' intelligence briefings, contrary to what transition team says: Nunes",
-      "excerpt": "President-elect Joe Biden “had been getting” intelligence briefings contrary to what his transition team claims, House Intelligence Committee ranking member Devin Nunes, R-Calif., told “Sunday Morning Futures” in an exclusive interview.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TuT50yYk2bo/biden-transition-intelligence-briefings-devin-nunes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TuT50yYk2bo/biden-transition-intelligence-briefings-devin-nunes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-transition-intelligence-briefings-devin-nunes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-intelligence-briefings-devin-nunes.amp",
-      "publishedDateTime": "2020-11-22T12:19:29-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

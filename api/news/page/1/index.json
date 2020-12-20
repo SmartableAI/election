@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-20-trump-responds-to-boltons-incompetence-claim-hints-he-could-reveal-stupid-stories-about-former-adviser.md",
+      "title": "Trump responds to Bolton's 'incompetence' claim, hints he could reveal 'stupid stories' about former adviser",
+      "excerpt": "President Trump hit back after former national security adviser John Bolton blasted him for \"incompetence\" amid reports that Trump discussed invoking martial law with another former national security adviser, Michael Flynn.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QaPj5M9iXz0/trump-bolton-election-martial-law-michael-flynn",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QaPj5M9iXz0/trump-bolton-election-martial-law-michael-flynn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/09/640/320/3b9234da-Bolton091919.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-bolton-election-martial-law-michael-flynn.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-bolton-election-martial-law-michael-flynn.amp",
+      "publishedDateTime": "2020-12-20T08:07:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-20-navarro-we-are-all-china-hawks-because-of-trump.md",
+      "title": "Navarro: 'We are all China hawks' because of Trump",
+      "excerpt": "As tensions between the U.S. and China rage on, White House trade adviser Peter Navarro told \"Fox & Friends Weekend\" that President Trump has pushed both parties to take a tougher line against China.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eFTCahBxRTw/navarro-we-are-all-china-hawks-because-of-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eFTCahBxRTw/navarro-we-are-all-china-hawks-because-of-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20350698854664.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/navarro-we-are-all-china-hawks-because-of-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/navarro-we-are-all-china-hawks-because-of-trump.amp",
+      "publishedDateTime": "2020-12-20T07:46:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-full-panel-trump-downplays-widespread-us-security-breach.md",
       "title": "Full Panel: Trump downplays widespread U.S. security breach",
       "excerpt": "Hallie Jackson, Yamiche Alcindor and Rich Lowry join the Meet the Press roundtable to discuss President Trump's response to a massive hack of government agencies and businesses reportedly tied to Russia.",
@@ -275,7 +387,7 @@
       "originalUrl": "https://www.reuters.com/article/cyber-breach-idUSKBN28T0R1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1039,7 +1151,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biggest-vets-groups-step-pressure-trump-fire-wilkie-74764252",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1235,110 +1347,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-exclusive-lawmakers-ask-fbi-and-federal-election-commission-to-investigate-jared-kushner-backed-trump-campaign-company-after-insiders-reporting.md",
-      "title": "EXCLUSIVE: Lawmakers ask FBI and Federal Election Commission to investigate Jared Kushner-backed Trump campaign company after Insider's reporting",
-      "excerpt": "In a letter obtained by Insider, two lawmakers told the FBI and the FEC that the only way to know if the Trump campaign violated federal laws is for the agencies to open an investigation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/jared-kushner-trump-campaign-fbi-fec-investigation-shell-company-lara-2020-12",
-      "originalUrl": "https://www.businessinsider.com/jared-kushner-trump-campaign-fbi-fec-investigation-shell-company-lara-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fdd4eb3c910a400192e883e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-19T03:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-president-trump-melania-trump-don-matching-tuxedos-in-final-christmas-portrait-see-the-photo.md",
-      "title": "President Trump, Melania Trump don matching tuxedos in final Christmas portrait: See the photo",
-      "excerpt": "President Donald Trump and first lady Melania Trump donned matching looks and smiles for their final White House Christmas portrait.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/12/18/president-trump-melania-don-matching-tuxedos-final-christmas-photo/3969324001/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/12/18/president-trump-melania-don-matching-tuxedos-final-christmas-photo/3969324001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/12/06/USAT/ae8ce7ee-93a3-4011-9aa0-3a5f6632cb8f-AP_Trump.JPG?auto=webp&crop=4130,2324,x0,y210&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3969324001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3969324001",
-      "publishedDateTime": "2020-12-18T20:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

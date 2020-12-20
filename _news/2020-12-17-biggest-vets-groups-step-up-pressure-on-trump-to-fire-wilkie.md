@@ -41,6 +41,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump promises 'wild' protests in Washington DC on the day the Electoral College will finalize election results"
+    excerpt: "President Trump took to Twitter on Saturday to urge his followers to rally in Washington two weeks before Inauguration Day."
+    publishedDateTime: 2020-12-20T16:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-wild-protests-planned-day-of-electoral-college-vote-count-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-wild-protests-planned-day-of-electoral-college-vote-count-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-wild-protests-planned-day-of-electoral-college-vote-count-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5fdf47ebd366e600180992ff?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Trump booster group that helped the head of the extremist Proud Boys gain access to the White House"
     excerpt: "The Proud Boys leader visited the White House before clashes erupted in DC on Dec. 12. He was invited by a political group with ties to Trump allies."
     publishedDateTime: 2020-12-19T11:23:00Z
