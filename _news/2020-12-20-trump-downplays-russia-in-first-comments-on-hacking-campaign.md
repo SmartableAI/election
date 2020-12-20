@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Trump downplays Russia in first comments on hacking campaign"
-excerpt: "President Donald Trump is contradicting top administration officials who say Russia is behind the cyber espionage operation that targeted U.S. government agencies"
-publishedDateTime: 2020-12-20T05:57:00Z
-originalUrl: "https://www.washingtonpost.com/politics/courts_law/trump-downplays-russia-in-first-comments-on-hacking-campaign/2020/12/20/0745dcac-4287-11eb-b58b-1623f6267960_story.html"
-webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-downplays-russia-in-first-comments-on-hacking-campaign/2020/12/20/0745dcac-4287-11eb-b58b-1623f6267960_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-downplays-russia-in-first-comments-on-hacking-campaign/2020/12/20/0745dcac-4287-11eb-b58b-1623f6267960_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-downplays-russia-in-first-comments-on-hacking-campaign/2020/12/20/0745dcac-4287-11eb-b58b-1623f6267960_story.html?outputType=amp"
+excerpt: "President Donald Trump is suggesting without evidence that China — not Russia — may be behind the the grave cyber espionage operation against the United States"
+publishedDateTime: 2020-12-20T14:10:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
+webUrl: "https://abcnews.go.com/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_f1f342b60742421dbfda0a3d08fb281b_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -126,6 +126,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545099113&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH1Q4"
         width: 817
         height: 545
+        isCached: true
+  - title: "As end approaches, Trump gets doses of flattery, finality"
+    excerpt: "President Donald Trump’s administration is ending how it began, with over-the-top declarations of praise for the chief executive"
+    publishedDateTime: 2020-12-20T13:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/end-approaches-trump-doses-flattery-finality-74828438"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/end-approaches-trump-doses-flattery-finality-74828438"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/end-approaches-trump-doses-flattery-finality-74828438"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_78cad830aca04be7a1dba5a9bdf01109_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Pro-Trump shakeups continue at VOA's parent agency"
     excerpt: "The head of U.S.-funded international broadcasting is pressing ahead with his shakeup of the Voice of America and sister outlets by naming new leaders for two of its main networks"
@@ -386,6 +402,6 @@ related:
         height: 716
         isCached: true
 
-secured: "rTuqGsAcvwf/cA8FzihYuS3KMQk77Tzt2QwG1WM+2R06Qcj3VaO3S/7ilsezsaLUk7tA01X8NoBtoSbO/7iBZK5LuMzdNk2HxQH0bsuaVHUZ13h4W7fvkS7q1Ffa7Cix4xN+U8CROd3KdZTF9HQdQOJs4sE1Lxez8eb72rQbSFLuoWt1yyMqKAMpbWQWDdHfi/rdhOTn4CFobykUAaniAiIVE1YPz+vYsaW41wQKpUvFvv1/h+CsZ/o7a4Zv1CFm7wKa5muLPehESsQefAqdSzhy367sjKXMO9k8SLdSrGjfzonrHsEoYxarBqYaNIKW2/y7zhcM7RJ2HVBZv9BtYo+fU4IDBn5J27n0Jk0rvuI=;RP//gN7HhrLtsTeQT2s0fA=="
+secured: "tl9UO2uGc7l2m0qmFnXspa7IT4rHLrLDVHcG5usaYqRjVhCmY9zMGa57pFOWsWeFnrrytWii37EklG+MIk/PhlAW9psPnZKBWtDNFeKmHCzLZi14CMGW2yyH55BM3a1dbImIbr9xgVGcSJXkY5I7eyByHx57j4UNM8Y1MEQw4PZRs1WqVmWjcDSKyRJ4ua2H59o99ykGUoXaD4aeVr/ADy0KnZ5sK/Dz1Sa48AmHXZO0EXvyzF5+tDsPEMFNCvm3xbeeg2YvRGt8UkliP99TufcnBa9+scpgEt9QrfS2MR7h1YBIcUvxMFxtOU7XvynuTidmrfmLC1fzmpx7X1s3rXO0+HfOHbv3URMi3NGfwDg=;CN60oer0gyli3Sjo14SjeA=="
 ---
 

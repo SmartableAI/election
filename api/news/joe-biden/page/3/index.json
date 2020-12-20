@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-28-milwaukee-county-vote-recount-gives-biden-small-boost.md",
+      "title": "Milwaukee County vote recount gives Biden small boost",
+      "excerpt": "Milwaukee County completed its recount of presidential ballots, finding only small changes in vote totals for one of the two Wisconsin counties recounting ballots",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-27T16:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-28-after-biden-win-rehoboth-beach-celebrates-local-boy-made-good-hes-our-joe.md",
       "title": "After Biden win, Rehoboth Beach celebrates local boy made good: ‘He’s our Joe’",
       "excerpt": "Bikinis and beach umbrellas are marked to sell. The only hint of summer is the tangy scent of vinegar-doused french fries wafting from the one Thrasher’s stand that has remained open. Late fall and winter is when Rehoboth Beach typically gets to crawl back into its shell,",
@@ -1504,58 +1556,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-a-biden-covid-19-advisor-called-for-a-national-lockdown-lasting-up-to-6-weeks-the-us-had-a-big-pool-of-money-to-pay-for-any-lost-wages-he.md",
-      "title": "A Biden COVID-19 advisor called for a national lockdown lasting up to 6 weeks. The US had a 'big pool of money' to pay for any lost wages, he said.",
-      "excerpt": "Dr. Michael Osterholm said the US had a \"big pool of money\" that could get the economy back on track during lockdown while a vaccine rolls out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11",
-      "originalUrl": "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fad008a7f8f4200182a671c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp",
-      "publishedDateTime": "2020-11-12T03:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

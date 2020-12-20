@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp"
 type: article
 quality: 200
-heat: 340
+heat: 360
 published: true
 
 provider:
@@ -143,6 +143,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20348035939365.jpg"
         width: 3990
         height: 2660
+        isCached: true
+  - title: "Trump says he will return to Georgia to campaign for GOP Senate candidates"
+    excerpt: "The Jan. 5 election pits Democratic candidates Jon Ossoff and the Rev. Raphael Warnock against Republican incumbents Sens. David Perdue and Kelly Loeffler, respectively."
+    publishedDateTime: 2020-12-20T13:36:00Z
+    webUrl: "https://nypost.com/2020/12/20/trump-will-return-to-georgia-to-campaign-for-gop-senate-candidates/"
+    ampWebUrl: "https://nypost.com/2020/12/20/trump-will-return-to-georgia-to-campaign-for-gop-senate-candidates/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/20/trump-will-return-to-georgia-to-campaign-for-gop-senate-candidates/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/USA-ELECTION_GEORGIA-Trump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "agA+Dr/tF7VY3jAI1QN0CESekI8I86nonzYiSrKQLRDX2tGbiV9AQTebWFKkoibBDZVXik7pR8YoXMw6q7WfpIuJ0kj6DcpWE67qpOXAuMd5BzKvxMNFsauqp9JqM4C3tXSj1SJeeVUo+Sg+J9BzAnT4ouIVzZ4TXA2LwLCEC4SUiJBTR8XJyo90b8/QW/q2sk95iNvPsINZswqMnHa0UOfjat/IydS4NUuYvlbphaFof0Uhr5b4BUhTsvJay77kUwXZ+O6aD5/M1L/A5/aHV9+ToVYu66eII7P2Q74YC2j4Kw73EJoWG9VVSBz+DB3DpijClmOiO/mZHN/aXd5E290DdqyVoo0XFkQEsoStzqE=;EiwjNowo+75deRRYk+VjcA=="

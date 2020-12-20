@@ -2,6 +2,101 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-11-14-let-mike-pence-handle-the-transition.md",
+      "title": "Let Mike Pence handle the transition",
+      "excerpt": "The period between an incumbent's defeat and the new president's inauguration is always awkward. At the end of this lame duck-ship, the outgoing president",
+      "sourceUrl": null,
+      "webUrl": "https://www.monroenews.com/opinion/20201114/let-mike-pence-handle-transition",
+      "originalUrl": "https://www.monroenews.com/opinion/20201114/let-mike-pence-handle-transition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.monroenews.com/apps/pbcsi.dll/bilde?Site=MI&Date=20201114&Category=OPINION&ArtNo=201119553&Ref=AR",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.monroenews.com/opinion/20201114/let-mike-pence-handle-transition?template=ampart",
+      "cdnAmpWebUrl": "https://www-monroenews-com.cdn.ampproject.org/c/s/www.monroenews.com/opinion/20201114/let-mike-pence-handle-transition?template=ampart",
+      "publishedDateTime": "2020-11-14T05:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Monroe News",
+        "domain": "monroenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-trump-supporters-rally-coronavirus-pandemic-masters-5-things-to-know-this-weekend.md",
+      "title": "Trump supporters rally, coronavirus pandemic, Masters: 5 things to know this weekend",
+      "excerpt": "Trump supporters plan D.C. rallies amid speculation extremists may attend, NASA and SpaceX historic launch and more things to start your weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2020/11/14/trump-supporters-rally-coronavirus-masters-barack-obama-spacex-launch/6180632002/",
+      "originalUrl": "https://www.usatoday.com/story/news/2020/11/14/trump-supporters-rally-coronavirus-masters-barack-obama-spacex-launch/6180632002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/14/USAT/31ea0791-05db-461d-be5e-665bad0d1447-AP_Trump.jpg?auto=webp&crop=3714,2089,x21,y268&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6180632002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6180632002",
+      "publishedDateTime": "2020-11-14T02:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-porter-county-write-in-ballots-give-nod-to-kanye-west-mike-pence-gets-two-votes-for-president-in-lake.md",
       "title": "Porter County write-in ballots give nod to Kanye West; Mike Pence gets two votes for president in Lake",
       "excerpt": "If impromptu write-in candidates in Porter County could have been elected president, Kanye West would have been the big winner.",
@@ -1211,114 +1306,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany.amp",
       "publishedDateTime": "2020-11-12T07:14:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-a-biden-covid-19-advisor-called-for-a-national-lockdown-lasting-up-to-6-weeks-the-us-had-a-big-pool-of-money-to-pay-for-any-lost-wages-he.md",
-      "title": "A Biden COVID-19 advisor called for a national lockdown lasting up to 6 weeks. The US had a 'big pool of money' to pay for any lost wages, he said.",
-      "excerpt": "Dr. Michael Osterholm said the US had a \"big pool of money\" that could get the economy back on track during lockdown while a vaccine rolls out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11",
-      "originalUrl": "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fad008a7f8f4200182a671c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp",
-      "publishedDateTime": "2020-11-12T03:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win.md",
-      "title": "Mississippi lawmaker apologizes after calling for state to leave US over Biden win",
-      "excerpt": "The prospect of a Joe Biden presidency was a deal breaker, one Republican state lawmaker in Mississippi appeared to say last week.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qhBo0ep2WUo/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qhBo0ep2WUo/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8419c359-d988-43d2-a50c-f30f8e478624/000564f8-cd7e-46c0-a921-27cb7fc5fc8c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win.amp",
-      "publishedDateTime": "2020-11-12T00:02:05-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

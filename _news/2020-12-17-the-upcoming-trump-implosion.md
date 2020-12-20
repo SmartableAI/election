@@ -126,6 +126,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump's impeachment foretold everything that's happened since "
+    excerpt: "Alarming as it is, the corrosive conclusion to 2020 in America was plainly visible in advance.\n    \n"
+    publishedDateTime: 2020-12-20T13:47:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iV-COVOYcPA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/20/politics/trump-impeachment-us-political-future/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/20/politics/trump-impeachment-us-political-future/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Former Trump appointee encouraged herd immunity strategy for Covid-19, internal emails reveal  "
     excerpt: "A former top Trump appointee urged health officials to adopt a \"herd immunity\" approach to Covid-19, according to internal emails obtained by the House Oversight Committee and shared with reporters.\n    \n"
     publishedDateTime: 2020-12-16T22:05:25Z

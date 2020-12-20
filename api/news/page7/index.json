@@ -2,6 +2,118 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-12-trump-raised-firing-barr-in-white-house-meeting-on-friday.md",
+      "title": "Trump raised firing Barr in White House meeting on Friday",
+      "excerpt": "President Donald Trump raised the prospect of firing Attorney General William Barr in a meeting on Friday, but it's unclear whether he'll choose to dismiss Barr before the end of his term next month.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RWn4TI3IsjY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RWn4TI3IsjY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201211141734-trump-1207-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/12/politics/william-barr-donald-trump-white-house-meeting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/william-barr-donald-trump-white-house-meeting/index.html",
+      "publishedDateTime": "2020-12-12T10:51:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-analysis-trump-made-big-in-roads-in-hispanic-areas-across-the-nation.md",
+      "title": "Analysis: Trump made big in-roads in Hispanic areas across the nation",
+      "excerpt": "One of the most notable early results on Election Night came from Florida's heavily Hispanic Miami-Dade county. President Donald Trump lost it to President-elect Joe Biden by just 7 points, after losing it by 29 points in 2016.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e5qulWYsv4c/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e5qulWYsv4c/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201012171114-cuba-hispanic-vote-trump-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/12/politics/trump-hispanic-vote/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/trump-hispanic-vote/index.html",
+      "publishedDateTime": "2020-12-12T10:21:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-pro-trump-demonstrators-gather-saturday-in-washington.md",
       "title": "Pro-Trump demonstrators gather Saturday in Washington",
       "excerpt": "Protesters who refuse to accept that President-elect Joe Biden won the election have begun arriving in Washington for what organizers have called a “March for Trump.” They are expected to fan out across the city Saturday,",
@@ -1225,110 +1337,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-in-leaked-audio-joe-biden-says-defund-the-police-was-used-to-beat-the-living-hell-out-of-democrats.md",
-      "title": "In leaked audio, Joe Biden says 'defund the police' was used to 'beat the living hell' out of Democrats",
-      "excerpt": "WASHINGTON — President-elect Joe Biden told civil rights leaders in a meeting on Tuesday he thought Republicans used the \"defund the police\" movement to defeat Democrats in down",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/10/biden-said-gop-used-defund-police-against-dems-leaked-audio/3887911001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/10/biden-said-gop-used-defund-police-against-dems-leaked-audio/3887911001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/04/USAT/9fac5866-b3ae-48b6-a692-862b958b0386-AP20339752338738.jpg?auto=webp&crop=5626,3165,x0,y318&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3887911001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3887911001",
-      "publishedDateTime": "2020-12-10T17:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-biden-facing-pressure-to-pick-congresswoman-deb-haaland-as-interior-secretary.md",
-      "title": "Biden facing pressure to pick Congresswoman Deb Haaland as Interior Secretary",
-      "excerpt": "Tribal leaders, progressives and prominent women have called for Biden to pick Haaland as his interior secretary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "originalUrl": "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/b2eecec4-b9a3-4c93-86db-a3f95fb27228/thumbnail/1200x630/90609bf67298dd0107ed148f9f4142a1/gettyimages-1044568894.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "publishedDateTime": "2020-12-10T17:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump is still only out for himself "
+    excerpt: "In the six weeks since President-elect Joe Biden won the White House, President Donald Trump has proved again and again that he has little concern for anyone other than himself, scheming and spreading falsehoods as he seeks to overturn the election while seeming unmoved by the grim climb in coronavirus"
+    publishedDateTime: 2020-12-20T14:06:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tCwx1Cglt2g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/20/politics/donald-trump-martial-law-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/20/politics/donald-trump-martial-law-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210140000-01-trump-1102-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pentagon under pressure from Trump administration to split NSA and Cyber Command"
     excerpt: "The Trump administration is pushing to make major adjustments to the Pentagon organizations charged with cybersecurity and signals intelligence, according to a US defense official.\n    \n"
     publishedDateTime: 2020-12-20T01:59:37Z

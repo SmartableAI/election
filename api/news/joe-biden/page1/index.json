@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-20-biden-mulls-punishments-for-russia-over-suspected-role-in-government-hack.md",
+      "title": "Biden mulls punishments for Russia over suspected role in government hack",
+      "excerpt": "President-elect will consider options for unprecedented hacking of US government agencies",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment",
+      "originalUrl": "https://www.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/2f95f60c5bec962f79f95030cfc8730e32dcac1f/0_235_3925_2355/master/3925.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fdfc5a1c6bcc8beb176560c6f747a577",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment",
+      "publishedDateTime": "2020-12-20T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-bidens-impact-on-federal-judiciary-may-be-limited-despite-liberals-talk-of-court-packing.md",
       "title": "Biden's impact on federal judiciary may be limited despite liberals' talk of 'court-packing'",
       "excerpt": "Beyond racial and ethnic demographics and job experiences, Biden's impact on the judiciary is not likely to be as dramatic as Trump's has been.",
@@ -1557,63 +1609,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-an-opinion-writer-argued-jill-biden-should-drop-the-dr-few-were-swayed.md",
-      "title": "An Opinion Writer Argued Jill Biden Should Drop the ‘Dr.’ (Few Were Swayed.)",
-      "excerpt": "Many women said Joseph Epstein’s suggestion in The Wall Street Journal was blatantly sexist and underscored the way men often dismiss women’s credentials.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/12/lens/12xp-drbiden-photo/12xp-drbiden-photo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.amp.html",
-      "publishedDateTime": "2020-12-12T19:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

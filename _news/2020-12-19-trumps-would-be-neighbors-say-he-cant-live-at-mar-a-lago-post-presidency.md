@@ -125,6 +125,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "As end approaches, Trump gets doses of flattery, finality"
+    excerpt: "President Donald Trump’s administration is ending how it began, with over-the-top declarations of praise for the chief executive"
+    publishedDateTime: 2020-12-20T13:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/end-approaches-trump-doses-flattery-finality-74828438"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/end-approaches-trump-doses-flattery-finality-74828438"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/end-approaches-trump-doses-flattery-finality-74828438"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_78cad830aca04be7a1dba5a9bdf01109_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pro-Trump shakeups continue at VOA's parent agency"
     excerpt: "The head of U.S.-funded international broadcasting is pressing ahead with his shakeup of the Voice of America and sister outlets by naming new leaders for two of its main networks"
     publishedDateTime: 2020-12-19T18:34:00Z
@@ -142,20 +158,20 @@ related:
         height: 558
         isCached: true
   - title: "Trump downplays Russia in first comments on hacking campaign"
-    excerpt: "President Donald Trump is contradicting top administration officials who say Russia is behind the cyber espionage operation that targeted U.S. government agencies"
-    publishedDateTime: 2020-12-20T05:57:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-downplays-russia-in-first-comments-on-hacking-campaign/2020/12/20/0745dcac-4287-11eb-b58b-1623f6267960_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-downplays-russia-in-first-comments-on-hacking-campaign/2020/12/20/0745dcac-4287-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-downplays-russia-in-first-comments-on-hacking-campaign/2020/12/20/0745dcac-4287-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    excerpt: "President Donald Trump is suggesting without evidence that China — not Russia — may be behind the the grave cyber espionage operation against the United States"
+    publishedDateTime: 2020-12-20T14:10:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f1f342b60742421dbfda0a3d08fb281b_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "United States hopes for trade deal with UK, Trump's trade chief says - BBC"
     excerpt: "The United States is hopeful of sealing a mini-trade deal with the United Kingdom to reduce tariffs, President Donald Trump's trade chief, Robert Lighthizer, told the BBC."

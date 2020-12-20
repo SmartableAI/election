@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-18-trumps-legal-adviser-jenna-ellis-in-2016-called-him-an-idiot-and-said-his-supporters-didnt-care-about-facts-or-logic.md",
+      "title": "Trump's legal adviser Jenna Ellis in 2016 called him an 'idiot' and said his supporters didn't care about 'facts or logic'",
+      "excerpt": "Jenna Ellis has been one of President Donald Trump's most ardent defenders since joining his campaign as a legal adviser and surrogate a year ago, but in early 2016 she was one of his toughest critics and deeply opposed his candidacy, according to a CNN KFile review of statements she made on her official",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eeaiOSIjN6U/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eeaiOSIjN6U/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200515141458-01-jenna-ellis-donald-trump-super-tease.jpeg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/18/politics/kfile-jenna-ellis-2016-trump-comments/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/kfile-jenna-ellis-2016-trump-comments/index.html",
+      "publishedDateTime": "2020-11-18T13:18:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-kevin-mccarthy-the-house-minority-leader-doesnt-think-trump-is-going-away.md",
       "title": "Kevin McCarthy, the House Minority Leader, Doesn’t Think Trump Is Going Away",
       "excerpt": "The California Republican believes his party’s victories in 2020 came thanks to the president, not in spite of him: “He brought turnout.”",
@@ -1629,63 +1685,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-the-trump-presidency-is-ending-so-is-maggie-habermans-wild-ride.md",
-      "title": "The Trump Presidency Is Ending. So Is Maggie Haberman’s Wild Ride.",
-      "excerpt": "Maggie Haberman has consistently painted a portrait of a man who is both smarter and less competent than his enemies believe.Credit...Benjamin Norman for The New York Times By Ben Smith Maggie Haberman lives rent-free in Donald Trump’s head,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/08/business/08BENSMITH/merlin_179662959_c80bd3d0-f89e-4712-8d81-4ab62bb9c0b2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.amp.html",
-      "publishedDateTime": "2020-11-08T17:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump's impeachment foretold everything that's happened since "
+    excerpt: "Alarming as it is, the corrosive conclusion to 2020 in America was plainly visible in advance.\n    \n"
+    publishedDateTime: 2020-12-20T13:47:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iV-COVOYcPA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/20/politics/trump-impeachment-us-political-future/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/20/politics/trump-impeachment-us-political-future/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence prepares to confirm Trump’s loss — and then leave town"
     excerpt: "It’s a tactic Pence has used in recent weeks: stay out of the spotlight and insulate himself from his boss’s election-fraud crusade, while still bolstering his own credentials."
     publishedDateTime: 2020-12-17T09:33:00Z

@@ -2,6 +2,114 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-16-ap-sources-biden-to-pick-buttigieg-as-transportation-chief.md",
+      "title": "AP sources: Biden to pick Buttigieg as transportation chief",
+      "excerpt": "WASHINGTON — President-elect Joe Biden is expected to pick his former rival Pete Buttigieg as secretary of transportation, according to three people familiar with the plans. The decision leaves the former mayor of South Bend,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/ap-sources-biden-picks-buttigieg-as-transportation-chief/2020/12/15/87c1e442-3f09-11eb-b58b-1623f6267960_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/ap-sources-biden-picks-buttigieg-as-transportation-chief/2020/12/15/87c1e442-3f09-11eb-b58b-1623f6267960_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/ap-sources-biden-picks-buttigieg-as-transportation-chief/2020/12/15/87c1e442-3f09-11eb-b58b-1623f6267960_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-biden-picks-buttigieg-as-transportation-chief/2020/12/15/87c1e442-3f09-11eb-b58b-1623f6267960_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-15T14:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-bidens-treasury-nominees-meet-with-racial-justice-activists-defund-the-police-supporters.md",
+      "title": "Biden's Treasury nominees meet with racial justice activists, 'defund the police' supporters",
+      "excerpt": "President-elect Joe Biden's nominees to run the Treasury Department --  Treasury Secretary-designee Janet Yellen and Deputy Treasury Secretary-designee Wally Adeyemo -- held their first joint meeting Monday with racial and economic justice activists. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QsqJv_jaQws/bidens-treasury-nominees-meet-with-racial-justice-activists",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QsqJv_jaQws/bidens-treasury-nominees-meet-with-racial-justice-activists",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2299392b-2af1-4c36-83dc-31f7ee0fcadf/398d6296-a575-4a8a-bb47-2cf5b457d924/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-treasury-nominees-meet-with-racial-justice-activists.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-treasury-nominees-meet-with-racial-justice-activists.amp",
+      "publishedDateTime": "2020-12-15T14:29:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-rep-ayanna-pressley-tells-gavin-newsom-to-appoint-a-black-woman-to-vp-elect-kamala-harris-senate-seat.md",
       "title": "Rep. Ayanna Pressley tells Gavin Newsom to appoint a Black woman to VP-elect Kamala Harris' Senate seat",
       "excerpt": "\"We absolutely cannot go backwards,\" Pressley tweeted Tuesday. \"With the election of @KamalaHarris to VP-elect, @CAgovernor must prioritize this leadership, perspective & representation in the vacated U.S. Senate seat & appoint a Black woman.\"",
@@ -392,7 +500,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 560,
+      "heat": 580,
       "tags": null,
       "images": [
         {
@@ -766,7 +874,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-barr/trump-says-attorney-general-barr-resigns-idUSKBN28O329",
       "featuredContent": null,
       "highlight": null,
-      "heat": 585,
+      "heat": 605,
       "tags": null,
       "images": [
         {
@@ -1249,119 +1357,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-hunter-biden-email-shows-400g-unreported-income-from-burisma-states-he-needs-to-amend-tax-returns.md",
-      "title": "Hunter Biden email shows $400G unreported income from Burisma, states he needs to 'amend' tax returns",
-      "excerpt": "Hunter Biden did not report “approximately $400,000” in income he collected from his position on the board of Ukrainian natural gas firm Burisma Holdings when he joined in 2014, according to an attorney for his firm who noted that his tax returns needed to be amended, a new email obtained by Fox News",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vI_7pnpmcEk/hunter-biden-email-tax-returns-unreported-burisma-income",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vI_7pnpmcEk/hunter-biden-email-tax-returns-unreported-burisma-income",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-email-tax-returns-unreported-burisma-income.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-email-tax-returns-unreported-burisma-income.amp",
-      "publishedDateTime": "2020-12-14T07:54:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out.md",
-      "title": "Trudeau's digital tax flexes Canada's muscles with Trump on the way out",
-      "excerpt": "\"The idea that Canada would go ahead with an early tax probably would have invited a tariff by Trump,\" says one observer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999",
-      "originalUrl": "https://www.politico.com/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/ca/23/b637de3048f799b2373d53bea68e/ap20275647298968-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999",
-      "publishedDateTime": "2020-12-14T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

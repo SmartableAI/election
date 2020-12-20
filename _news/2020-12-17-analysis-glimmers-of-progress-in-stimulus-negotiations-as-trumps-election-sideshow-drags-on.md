@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump is still only out for himself "
+    excerpt: "In the six weeks since President-elect Joe Biden won the White House, President Donald Trump has proved again and again that he has little concern for anyone other than himself, scheming and spreading falsehoods as he seeks to overturn the election while seeming unmoved by the grim climb in coronavirus"
+    publishedDateTime: 2020-12-20T14:06:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tCwx1Cglt2g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/20/politics/donald-trump-martial-law-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/20/politics/donald-trump-martial-law-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210140000-01-trump-1102-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump praises Tuberville after Alabama GOP senator-elect leaves open objecting to election results January 6"
     excerpt: "President Donald Trump lauded Tommy Tuberville this week after the Republican Alabama senator-elect said he is not ruling out joining a House member to object to the election results when Congress meets in a joint session to accept the votes of the Electoral College.\n    \n"
     publishedDateTime: 2020-12-18T16:31:06Z

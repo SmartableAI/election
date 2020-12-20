@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-16-in-bad-shape-and-getting-worse-guantanamo-poses-headaches-for-biden.md",
+      "title": "‘In Bad Shape and Getting Worse,’ Guantánamo Poses Headaches for Biden",
+      "excerpt": "The new administration confronts decaying infrastructure and a military justice system moving at a glacial pace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/15/us/politics/15dc-gitmo/15dc-gitmo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html",
+      "publishedDateTime": "2020-12-15T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-inauguration-committee-says-bidens-scaled-down-swearing-in-will-include-vigorous-health-and-safety-protocols.md",
       "title": "Inauguration committee says Biden's scaled-down swearing-in will include 'vigorous health and safety protocols'",
       "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris will take their oaths of office at the US Capitol in January during a significantly scaled-down inauguration ceremony that will implement \"vigorous health and safety protocols,\" the Presidential Inaugural Committee said Tuesday.\n    \n",
@@ -70,7 +127,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 560,
+      "heat": 580,
       "tags": null,
       "images": [
         {
@@ -1621,63 +1678,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-every-day-was-like-a-veep-episode-the-veepiest-moments-of-the-trump-era.md",
-      "title": "‘Every Day Was Like a “Veep” Episode’: The Veepiest Moments of the Trump Era",
-      "excerpt": "They’re either taking from our show or doing their own version of it,” says the HBO show's executive producer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/magazine/2020/12/06/trump-veep-moments-435749",
-      "originalUrl": "https://www.politico.com/news/magazine/2020/12/06/trump-veep-moments-435749",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/ec/6f/237e902145f2a29daadcadc18d7c/veep-illo.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T17:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

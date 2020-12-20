@@ -2,6 +2,114 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-11-11-keep-the-tough-approach-or-seek-cooperation-china-looms-large-for-biden.md",
+      "title": "Keep the tough approach or seek cooperation? China looms large for Biden.",
+      "excerpt": "How the United States fashions its most consequential foreign relationship will depend a lot on which view of Xi Jinping the president-elect embraces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/",
+      "originalUrl": "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I4U264BCD4I6XHCKBXDCILCICQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp",
+      "publishedDateTime": "2020-11-10T16:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-pompeo-rejects-criticism-of-second-trump-administration-remark-says-us-has-one-president-at-a-time.md",
+      "title": "Pompeo rejects criticism of 'second Trump administration' remark, says US has 'one president ... at a time'",
+      "excerpt": "Secretary of State Mike Pompeo has rejected criticism of remarks he made Tuesday in which he said that the State Department would ensure \"a smooth transition to a second Trump administration.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ud_ZkW3g830/mike-pompeo-trump-administration-one-president-at-a-time",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ud_ZkW3g830/mike-pompeo-trump-administration-one-president-at-a-time",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be5ee69f-d07b-4ce2-94b3-49542bf4a361/c66c74b5-8b94-49cd-b059-8a3e287e3253/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mike-pompeo-trump-administration-one-president-at-a-time.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-trump-administration-one-president-at-a-time.amp",
+      "publishedDateTime": "2020-11-10T16:08:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-supreme-court-appears-ready-to-uphold-affordable-care-act-over-latest-challenge-from-trump-gop.md",
       "title": "Supreme Court appears ready to uphold Affordable Care Act over latest challenge from Trump, GOP",
       "excerpt": "The court is reviewing a decision that found part of the law, also known as Obamacare, unconstitutional. The case raises questions about the fate of health insurance for millions of Americans.",
@@ -1238,119 +1346,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-cia-director-haspels-fate-uncertain-after-trump-fires-esper.md",
-      "title": "CIA Director Haspel's fate uncertain after Trump fires Esper",
-      "excerpt": "President Donald Trump and some of his conservative allies have become increasingly frustrated with CIA Director Gina Haspel in recent weeks, accusing her of delaying the release of documents they believe would expose so-called \"deep state\" plots against Trump's campaign and transition during the Obama",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MHl8ztqV71U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MHl8ztqV71U/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180514170841-getty-gina-haspel-senate-hearing-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-director-haspel/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-director-haspel/index.html",
-      "publishedDateTime": "2020-11-09T14:29:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-mogherini-difficult-4-years-with-trump.md",
-      "title": "Mogherini: 'Difficult 4 years' with Trump",
-      "excerpt": "Former EU Foreign Affairs head Federica Mogherini tells Amanpour she feels \"relief at seeing America back\" and says Europeans will feel \"less lonely\" come January.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/tv/2020/11/09/federica-mogherini-amanpour-biden-foreign-policy-trump.cnn",
-      "originalUrl": "https://www.cnn.com/videos/tv/2020/11/09/federica-mogherini-amanpour-biden-foreign-policy-trump.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201109200508-federica-mogherini-amanpour-biden-foreign-policy-trump-00042509-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/tv/2020/11/09/federica-mogherini-amanpour-biden-foreign-policy-trump.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2020/11/09/federica-mogherini-amanpour-biden-foreign-policy-trump.cnn",
-      "publishedDateTime": "2020-11-09T12:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

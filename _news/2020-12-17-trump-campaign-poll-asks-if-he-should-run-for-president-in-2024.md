@@ -144,6 +144,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump says he will return to Georgia to campaign for GOP Senate candidates"
+    excerpt: "The Jan. 5 election pits Democratic candidates Jon Ossoff and the Rev. Raphael Warnock against Republican incumbents Sens. David Perdue and Kelly Loeffler, respectively."
+    publishedDateTime: 2020-12-20T13:36:00Z
+    webUrl: "https://nypost.com/2020/12/20/trump-will-return-to-georgia-to-campaign-for-gop-senate-candidates/"
+    ampWebUrl: "https://nypost.com/2020/12/20/trump-will-return-to-georgia-to-campaign-for-gop-senate-candidates/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/20/trump-will-return-to-georgia-to-campaign-for-gop-senate-candidates/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/USA-ELECTION_GEORGIA-Trump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "53vHZG6U9pUund/WQ/+IX31XnGfJM6GE36TJhyEXrFqJfbkH43brr4JxbmOMAWAW13BRVtLkI8duiDyCv2lC4NBIPHiphrsWPQePPJx0ALOXcOu4VjnIcYg8cvZLZ+c+BQxMTLLSDkOzNoCdTXbuG+yo8tXzT/r9uL2PFkrysd1YKLz2jBUyatv3kZqi9lOHV7a8E48JFnwfooi5nL3gR6jNBIKt18zqCTz9HGYpwtdRmNqZSHhSS9hQeEqcDEEd4ASToqtEG6d2SSEpXQtK/5G5qjo1F7jXvRcaTFmwD1zPNTlerhD85hmCW6rJKd9I6Y7VykV6HMaQpvf6m93s/XQvTa3+0XBEHo73j5VzJVQ=;Qks4hQv5OVAefZKDd7lxAw=="
 ---
