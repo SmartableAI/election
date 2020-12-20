@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-20-romney-trump-continuing-to-dispute-election-results-is-really-sad-and-embarrassing.md",
+      "title": "Romney: Trump continuing to dispute election results is 'really sad' and 'embarrassing'",
+      "excerpt": "Sen. Mitt Romney, R-Utah, called President Trump's refusal to concede the 2020 election \"really sad\" and \"embarrassing\" on Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rpDWxhjlcAs/mitt-romney-trump-election-republican-party",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rpDWxhjlcAs/mitt-romney-trump-election-republican-party",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/mitt-romney-2-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mitt-romney-trump-election-republican-party.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-trump-election-republican-party.amp",
+      "publishedDateTime": "2020-12-20T09:03:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-20-romney-trump-has-a-blind-spot-when-it-comes-to-russia.md",
+      "title": "Romney: Trump has a 'blind spot' when it comes to Russia",
+      "excerpt": "Republican Sen. Mitt Romney said Sunday that President Donald Trump has a \"blind spot\" when it comes to dealing with Russia after the President downplayed a massive cyberattack on US federal agencies linked to the country, warning that the aggression \"is a big wake up call for us.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N3E5wS-d15Q/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N3E5wS-d15Q/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/20/politics/mitt-romney-chris-krebs-trump-russia-cyberattack-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/20/politics/mitt-romney-chris-krebs-trump-russia-cyberattack-cnntv/index.html",
+      "publishedDateTime": "2020-12-20T08:33:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-trump-responds-to-boltons-incompetence-claim-hints-he-could-reveal-stupid-stories-about-former-adviser.md",
       "title": "Trump responds to Bolton's 'incompetence' claim, hints he could reveal 'stupid stories' about former adviser",
       "excerpt": "President Trump hit back after former national security adviser John Bolton blasted him for \"incompetence\" amid reports that Trump discussed invoking martial law with another former national security adviser, Michael Flynn.",
@@ -126,7 +238,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 155,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -383,8 +495,8 @@
       "title": "Trump downplays impact of massive hacking, questions Russia involvement",
       "excerpt": "U.S. President Donald Trump, in his first comments about a widespread data breach across the U.S. government, on Saturday downplayed the cyber espionage campaign and questioned whether Russia was to blame as alleged by his own top diplomat.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/cyber-breach-idUSKBN28T0R1",
-      "originalUrl": "https://www.reuters.com/article/cyber-breach-idUSKBN28T0R1",
+      "webUrl": "https://www.reuters.com/article/us-cyber-breach/trump-downplays-impact-of-massive-breach-of-government-computer-systems-idUSKBN28T0QL",
+      "originalUrl": "https://www.reuters.com/article/us-cyber-breach/trump-downplays-impact-of-massive-breach-of-government-computer-systems-idUSKBN28T0QL",
       "featuredContent": null,
       "highlight": null,
       "heat": 245,
@@ -401,8 +513,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28T0R1",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T0R1",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28T0QL",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T0QL",
       "publishedDateTime": "2020-12-19T23:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -656,7 +768,7 @@
       "originalUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-carrey-joe-biden-snl",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -697,63 +809,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-trump-contradicts-pompeo-over-russias-role-in-hack.md",
-      "title": "Trump Contradicts Pompeo Over Russia’s Role in Hack",
-      "excerpt": "Hours after the secretary of state acknowledged that Moscow was behind the vast cybersecurity breach, the president suggested it might have been China and downplayed the severity of the attack.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/19/us/trump-contradicts-pompeo-over-russias-role-in-hack.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/19/us/trump-contradicts-pompeo-over-russias-role-in-hack.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/20/us/20pompeo-print-sub/19pompeo-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/19/us/trump-contradicts-pompeo-over-russias-role-in-hack.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/19/us/trump-contradicts-pompeo-over-russias-role-in-hack.amp.html",
-      "publishedDateTime": "2020-12-19T12:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -1304,49 +1359,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.md",
-      "title": "US Space Force members will be called ‘guardians,’ Vice President Mike Pence says",
-      "excerpt": "The Trump administration celebrated the first birthday of the U.S. Space Force on Friday by announcing that its members will be known as “guardians.” Vice President Mike Pence made the announcement at a celebratory event tracing the development of the newest branch of the military over the past year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.masslive.com/politics/2020/12/us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.html",
-      "originalUrl": "https://www.masslive.com/politics/2020/12/us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TBQO6M6JPVBHDD32VSHIOZHFYM.jpg",
-          "width": 5845,
-          "height": 3897,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.masslive.com/politics/2020/12/us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/12/us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.html?outputType=amp",
-      "publishedDateTime": "2020-12-19T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassLive",
-        "domain": "masslive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

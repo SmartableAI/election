@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Never-Trump movement splinters as its villain heads for the exit"
-excerpt: "The defeat of Donald Trump might have been the easy part for never-Trump Republicans. Next up: taking on the more elusive target of Trumpism with their boogeyman gone from office. More than a dozen leaders of the never-Trump movement said in interviews that they see their work as far from over once Joe Biden is sworn in on Jan."
-publishedDateTime: 2020-12-17T09:30:00Z
-originalUrl: "https://www.politico.com/news/2020/12/17/never-trump-what-next-447235"
-webUrl: "https://www.politico.com/news/2020/12/17/never-trump-what-next-447235"
-ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/never-trump-what-next-447235"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/never-trump-what-next-447235"
+title: "Analysis: How voters rank Trump a historically bad president"
+excerpt: "Poll of the week: A new Fox News poll finds that 42% of voters say history will remember President Donald Trump as one of the worst presidents ever.\n    \n"
+publishedDateTime: 2020-12-20T17:42:00Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v8BuB2XBAaw/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v8BuB2XBAaw/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/12/20/politics/trump-presidency-history-analysis/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/20/politics/trump-presidency-history-analysis/index.html"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/26/e0/b307118d44dfb9124b1b33c25bee/1216wh.jpg"
-    width: 1160
-    height: 773
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -64,21 +63,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: How voters rank Trump a historically bad president"
-    excerpt: "Poll of the week: A new Fox News poll finds that 42% of voters say history will remember President Donald Trump as one of the worst presidents ever.\n    \n"
-    publishedDateTime: 2020-12-20T17:42:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v8BuB2XBAaw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/20/politics/trump-presidency-history-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/20/politics/trump-presidency-history-analysis/index.html"
+  - title: "Never-Trump movement splinters as its villain heads for the exit"
+    excerpt: "The defeat of Donald Trump might have been the easy part for never-Trump Republicans. Next up: taking on the more elusive target of Trumpism with their boogeyman gone from office. More than a dozen leaders of the never-Trump movement said in interviews that they see their work as far from over once Joe Biden is sworn in on Jan."
+    publishedDateTime: 2020-12-17T09:30:00Z
+    webUrl: "https://www.politico.com/news/2020/12/17/never-trump-what-next-447235"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/never-trump-what-next-447235"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/never-trump-what-next-447235"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/26/e0/b307118d44dfb9124b1b33c25bee/1216wh.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "MAGA leaders call for the troops to keep Trump in office"
     excerpt: "A growing call to invoke the Insurrection Act shows how hard-edged MAGA ideology has become in the wake of Trump’s election loss."
@@ -113,6 +112,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "0QpKVRaLVM4mON7swHhjRPYhBiJe9GPAgNo7fFfyvrdmJ5OIqkj9TgUMLhl11/RVttOBeS/VSh3n3nRC9vA/exeFOv1kUYoZETvY6Pj+V3Q9h8Cj6DhRB0pOJU/xZvAfYkXcEZZTT+gC2NVL99cNAelLc8bG9o3FS2UKyfutsaZHtGn3e4Na5WL1Vk8jKaABa9ogHzy7kGfxzFB2zPq6WOws/siWAUP/+9p/LpeFdeZ9OhW7TQVUAQDuF6JTWHUrO2+MsfiZTfKxusMDzEqiXm2tyGmDABNzPnrUy9SQ4jlAU5vnzYSf3iCyqh+sPoKPyNC111vWRrcjDtfDikuW1k/bsD9thdiqQp8CzUYoQ4alGamN/7i/8T86sUpG7KanBeEm+/hBUtCTG9xCLB1Ffzr0E+bQZnXr7eJ+lTNDpERm1+dT4lJYcqUJ2EjvV0JfOiBBxAEycFNQe+fWNj721P//sagJ0XVApR6TAsXtRGb4sKzaqcci18WqAmbIPbckRWS4KSfGiSWPBOw63m0mGQ==;12hpltgy/9eNgDNup9WXEg=="
+secured: "R2/8lCo4Tm9vZlhyqvr8D3+ohXzam57PTVRybi0bnrurYT9qLgA9DFW0OgCz1wLLcSD2aO11vlrwXexkCobCyucqtRJ55OvGiLMsTpZHXhpsD+wSTfV2ECdsvW/IqGH/+yWutRizDKhiE4KYebXI/82OEos2qa/lK2cze7uEIDQsV7/cHsa6zYAN6jqoD/85O3Jb8ltITLuJGLCCs1JenKfOFuagxTAUhANJGDSwcLFqmtO5vsKs9E/xGymM0wcHHM1351/sFC4cA17luRjPur1WF3PUlkMgfHrLkxl5tlr2qZW4kXvlZDrV8QskltMBhw3jrp95XkTmsnHP9uobBygglIUNbGBSAeKjj4EXy7s=;gYrTZqqlzuVKE8KzvTstgA=="
 ---
 

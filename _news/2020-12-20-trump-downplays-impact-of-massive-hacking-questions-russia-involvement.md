@@ -3,10 +3,10 @@ category: news
 title: "Trump downplays impact of massive hacking, questions Russia involvement"
 excerpt: "U.S. President Donald Trump, in his first comments about a widespread data breach across the U.S. government, on Saturday downplayed the cyber espionage campaign and questioned whether Russia was to blame as alleged by his own top diplomat."
 publishedDateTime: 2020-12-20T07:22:00Z
-originalUrl: "https://www.reuters.com/article/cyber-breach-idUSKBN28T0R1"
-webUrl: "https://www.reuters.com/article/cyber-breach-idUSKBN28T0R1"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28T0R1"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T0R1"
+originalUrl: "https://www.reuters.com/article/us-cyber-breach/trump-downplays-impact-of-massive-breach-of-government-computer-systems-idUSKBN28T0QL"
+webUrl: "https://www.reuters.com/article/us-cyber-breach/trump-downplays-impact-of-massive-breach-of-government-computer-systems-idUSKBN28T0QL"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28T0QL"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T0QL"
 type: article
 quality: 125
 heat: 245
@@ -119,6 +119,6 @@ related:
         height: 630
         isCached: true
 
-secured: "gXZ4K5EDJBkvpzJmGHXdVZLRCCGf+v/9Z7akLzTH9jFiuvcb85Jydz6BU/hz84V5hU6cxsD8BVIm4aVyhueUm8SRmq30BiRDZM7MIPTif1ERoVHRHN1s5oz4X6YThMvtSG6Xj9D10KnhIhD6RAUa9RRjo5EfIgbDY1wYxyqj70L+ru4/YCZbFRAZC9URyIShdzLxOS/OZ2Q5RJLfeYLV6OAvnPxp0IqlOml9LJ4MnTeFyJXQEPEEt3pe4UYHzHwpMUmaRWrQHi3BI+7n76gRzrgnNRQRA9Ud8Y73GtjfN0qFmbXiLvqmu3xpm4LCh6dgaPrHNn2RWlI4Nlgv0Scw+DE3ZHSUzA55Qytu+kIJHYo=;pXf1137W91BhO1HT8f2s5A=="
+secured: "371YIllqaiH4g0LDcxvKY+7E3B8xl3X9o6LpZeWUNrHcT4HITajLthjDaW45k7MOYvt6lI3SkVIA+lNTalqs9HTS/WP0yj8U7S9JUft9yF59r0N54zz9h9szKMAXNsNor8f/VDFjSffvbNoU7AaXGfNjZGQv3u1LSeNXJdlST8Ousm4ANJRHNaq4qYrxZ3Azxmw/SNhv7npMaD+tuD9AWkfX1rQwfmPM1BmnAiyAYQuCUYb7vkNgJzd73Ul7TTy4wxUC/cpiPrBwsQoAT5D1TzV9nj1sAkZORzUaWkfubq0saqwp9nAzj70Hjm3e97F8BjSfZnWeqMpDGPJ7CYoTAsnKxvPOLXw00TT4PmEY6xM=;ujKQfjqCep0JXinXCP6rsw=="
 ---
 

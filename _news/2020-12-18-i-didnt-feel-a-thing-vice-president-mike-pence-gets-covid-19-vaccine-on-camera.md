@@ -2,19 +2,19 @@
 category: news
 title: "'I didn't feel a thing.' Vice President Mike Pence gets COVID-19 vaccine on camera"
 excerpt: "Vice President Mike Pence and his wife were vaccinated for COVID-19 at the White House to build public confidence in the vaccine."
-publishedDateTime: 2020-12-18T14:01:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
-webUrl: "https://www.indystar.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
-ampWebUrl: "https://amp.indystar.com/amp/3948306001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3948306001"
+publishedDateTime: 2020-12-18T15:48:00Z
+originalUrl: "https://www.statesman.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
+webUrl: "https://www.statesman.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
+ampWebUrl: "https://amp.statesman.com/amp/3948306001"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/3948306001"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Election
@@ -382,16 +382,16 @@ related:
   - title: "Vice President Mike Pence Receives COVID-19 Vaccine During Live Broadcast"
     excerpt: "Vice President Mike Pence receives Pfizer's COVID-19 vaccine at the White House on Friday, December 18, 2020, in a bid to build public confidence in its safety and efficacy. President Donald Trump will not receive the vaccine unless the White House medical team recommends it."
     publishedDateTime: 2020-12-18T14:07:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9695e1476f16d2e2ea52b2b81fabde16/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0686da6e424670f6cbe1009d02c673f8/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 54
     images:
-      - url: "https://cdnph.upi.com/pv/upi/9695e1476f16d2e2ea52b2b81fabde16/PENCE-CORONAVIRUS-VACCINE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/0686da6e424670f6cbe1009d02c673f8/PENCE-CORONAVIRUS-VACCINE.jpg"
         width: 650
-        height: 489
+        height: 432
         isCached: true
   - title: "Mike Pence, Mitch McConnell, Nancy Pelosi all vaccinated Friday as COVID-19 vaccine rollout continues"
     excerpt: "President Donald Trump’s administration helped deliver vaccinations against the coronavirus earlier than even some in his administration thought possible, but the president has been largely absent from the effort to sell the American public on what aides hope will be a key part of his legacy."
@@ -408,6 +408,6 @@ related:
         height: 337
         isCached: true
 
-secured: "lZP/VyVEnElMRRvj/3Per16yEz9PPsd9bCq43Yf2Ku7sNfMzJA3AK6knWtj272yESs3Pzin8DB81716iGqEct8jMSemwgUWRoIBQmipmSwq4/o761KV3D7NtfM3t7R1c8drNXDYez+IU5HYKcLz3IjQ76GKL/6CpuRtUOTKNUyl2VSnYx4SxLGL3RGIyK8sMaM8fWQ/WerPZz9GXaPs2NqgGQlbQZEoWC2dms5oS3N0pNLBFwjXZtGl+eAjGzMcy2lIsCiQfBMdilA+d7VS//Wp3N/GCd/SVL5u0wTHOAnfvM2uZisx99nwBJfF4AmMB9YzrnYegIB8G1LADnKj4bb+8UBs4tLVisZifJl26sXwk5sLgV2EOadOrh9KNTuXmIUZ8v2luZLQbjoUquIPgRX8QUS2fjCmCE094lGCNBMu1D91YZyXN0C63MOAFIStysK9XWK/xsqocOvGxTokgubUm+7JlJTFCwrpUhWP00Ft4alJBim+CKihJJ7aZ68G+GOyDi5AwfQB/DnWuX5p8KA==;y/vUjH5s4ksHWyGHx18wiQ=="
+secured: "cUtT4I15jpRAtGBMuifVigKdi0hpR5Ep0YQTT+r1VDvsPN7TDPzTl1d8CTIHHhQ0FDkmoxhIIq0q2gC7My6cWqVHXqf6AdjEijGJunc/gSBTKlyX5qAYJR2w/sQN7l6wFQokoXVVrCusTjV3sz/XrZVcSnnQ0nIolHQvKNrJs+ctfErI8qCfBvrasSxmHl+T/wxPnVbC8CfQ4W7a4TJx8VltzSZQNAk8vMnqCy3e5VX0c7BB1pYZyQ46bvGC/j4m5uShTAGbbE1c57vFaQs2FRjebESQmcyawAjin8X7wlJ6Z+JtLVeN6hQb4dnnPEhjG/VEdZahUJO0YUibn0ZMTS0f9dQ8eZjgLkGB7JeqjeE=;gtAmSwF6ZMNJHaN3izYlzw=="
 ---
 

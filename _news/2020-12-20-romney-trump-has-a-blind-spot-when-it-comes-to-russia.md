@@ -1,53 +1,36 @@
 ---
 category: news
-title: "Trump downplays cyberattack on federal agencies"
-excerpt: "There's a rare split between President Trump and his loyal secretary of state on Russian involvement in a massive hack. While Mike Pompeo blamed Russia for the cyberattack, the president dismissed Kremlin responsibility on Twitter."
-publishedDateTime: 2020-12-20T00:41:00Z
-originalUrl: "https://www.nbcnews.com/nightly-news/video/trump-downplays-cyberattack-on-federal-agencies-98086469687"
-webUrl: "https://www.nbcnews.com/nightly-news/video/trump-downplays-cyberattack-on-federal-agencies-98086469687"
-ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98086469687"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98086469687"
+title: "Romney: Trump has a 'blind spot' when it comes to Russia"
+excerpt: "Republican Sen. Mitt Romney said Sunday that President Donald Trump has a \"blind spot\" when it comes to dealing with Russia after the President downplayed a massive cyberattack on US federal agencies linked to the country, warning that the aggression \"is a big wake up call for us.\"\n    \n"
+publishedDateTime: 2020-12-20T16:33:50Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N3E5wS-d15Q/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N3E5wS-d15Q/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/12/20/politics/mitt-romney-chris-krebs-trump-russia-cyberattack-cnntv/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/20/politics/mitt-romney-chris-krebs-trump-russia-cyberattack-cnntv/index.html"
 type: article
-quality: 135
-heat: -1
-published: false
+quality: 175
+heat: 275
+published: true
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kod_trump_downplays_cyberattack_201219_1920x1080.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
-  - title: "Romney: Trump has a 'blind spot' when it comes to Russia"
-    excerpt: "Republican Sen. Mitt Romney said Sunday that President Donald Trump has a \"blind spot\" when it comes to dealing with Russia after the President downplayed a massive cyberattack on US federal agencies linked to the country, warning that the aggression \"is a big wake up call for us.\"\n    \n"
-    publishedDateTime: 2020-12-20T16:33:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N3E5wS-d15Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/20/politics/mitt-romney-chris-krebs-trump-russia-cyberattack-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/20/politics/mitt-romney-chris-krebs-trump-russia-cyberattack-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump downplays massive cyber hack on government after Pompeo links attack to Russia"
     excerpt: "Secretary of State Mike Pompeo on Friday said it's pretty clear Russia was behind the massive cyberattack on US federal government agencies, publicly linking Russia to the data breach as the President has remained silent on the matter.\n    \n"
     publishedDateTime: 2020-12-19T18:47:44Z
@@ -79,6 +62,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/20/us/20pompeo-print-sub/19pompeo-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump downplays cyberattack on federal agencies"
+    excerpt: "There's a rare split between President Trump and his loyal secretary of state on Russian involvement in a massive hack. While Mike Pompeo blamed Russia for the cyberattack, the president dismissed Kremlin responsibility on Twitter."
+    publishedDateTime: 2020-12-20T00:41:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/trump-downplays-cyberattack-on-federal-agencies-98086469687"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98086469687"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98086469687"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kod_trump_downplays_cyberattack_201219_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump downplays cyberattack on U.S., breaks with Pompeo on Russia's role"
     excerpt: "The president ended his public silence hours after his secretary of State pinned the blame on the U.S. adversary."
@@ -113,6 +112,6 @@ related:
         height: 2333
         isCached: true
 
-secured: "/Z5FPE+VQ3TXYZfEjgqma7MoUtg+8U/IiKjd9Q116frEVKRzVZ2mhQ9OJm5ZEcayFPswWEwT0AomOOwt66a77xmKHz1ddK4A1/vw/b6iqiNg6B1p2QtRMJMaC7aRIJtKqlTntv7Dy/NYXWWdXmKzCbZoKp/+WkZ/yExH46d3nWcLoTteesIb4SLK1PwSN0ezz9RagNRSDLkWSTfT1V0Aub6fP/aHX+s+3NqY637hbqPmiNEJpez/20UMM/PG4s7VhS9QvRM/r4hcsGvEUoElm6Y0Y4cMXEpZbZcEqZohCFzEijrPibdVRcrz81v6WFnV/ZvGgMJ7CT+38OYSYAwNsw4z+3ww5dqNsfgTKIX4z5M=;5OTduwMVZvEUutudzRlSAA=="
+secured: "mYnMFPhzRXWcDpb1pzmKEGDECSuE0Uk1ce2vGm2wMDenEmOvNvd2+lH5S3qIVan3PJIYTvsdV8/NOavxfxcS+z2f9r7+hgadf6vlsnH54LYPfiOSMo58J2zHGKWLZ1j+X00DblmuI+BmyZ9vNWgEPQczgzvdgDInTUx2CFr54UrP386Z1yVxTG/zT2zi8VPguLMIa3xXePZMVEFf2+SZyQRpoz5usoBC5EipVUR4uzNniajTXTM4PyoeY7nbULVmIeSMr+Y39x6Quo6NX5/AXgDkZFkxPjl6qWx37NP8zWIucEbk+4eZ0JU42VXnxsI3GrRBu7lrxU8xBCQ+WZlALowlEhE/H6j63rA/Bi7LlR4=;/4Jde97w6C8tsVOExkMskg=="
 ---
 

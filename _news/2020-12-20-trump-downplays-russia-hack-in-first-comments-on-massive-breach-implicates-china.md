@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump remains silent as massive cyber hack poses 'grave risk' to government"
-    excerpt: "When President Donald Trump convened his Cabinet at the White House Wednesday as Washington absorbed news of a massive data breach, the heads of most agencies relevant to the intrusion — including the Department of Defense, the State Department, the Justice Department, the director of national intelligence"
-    publishedDateTime: 2020-12-17T23:47:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/asOTSNp9um8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/trump-silence-cyber-hack/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/trump-silence-cyber-hack/index.html"
+  - title: "Romney: Trump has a 'blind spot' when it comes to Russia"
+    excerpt: "Republican Sen. Mitt Romney said Sunday that President Donald Trump has a \"blind spot\" when it comes to dealing with Russia after the President downplayed a massive cyberattack on US federal agencies linked to the country, warning that the aggression \"is a big wake up call for us.\"\n    \n"
+    publishedDateTime: 2020-12-20T16:33:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N3E5wS-d15Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/20/politics/mitt-romney-chris-krebs-trump-russia-cyberattack-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/20/politics/mitt-romney-chris-krebs-trump-russia-cyberattack-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216111257-trump-1212-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Contradicts Pompeo Over Russia’s Role in Hack"
+    excerpt: "Hours after the secretary of state acknowledged that Moscow was behind the vast cybersecurity breach, the president suggested it might have been China and downplayed the severity of the attack."
+    publishedDateTime: 2020-12-19T20:47:00Z
+    webUrl: "https://www.nytimes.com/2020/12/19/us/trump-contradicts-pompeo-over-russias-role-in-hack.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/19/us/trump-contradicts-pompeo-over-russias-role-in-hack.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/19/us/trump-contradicts-pompeo-over-russias-role-in-hack.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/20/us/20pompeo-print-sub/19pompeo-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump downplays cyberattack on federal agencies"
     excerpt: "There's a rare split between President Trump and his loyal secretary of state on Russian involvement in a massive hack. While Mike Pompeo blamed Russia for the cyberattack, the president dismissed Kremlin responsibility on Twitter."
     publishedDateTime: 2020-12-20T00:41:00Z
@@ -79,6 +95,22 @@ related:
       - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kod_trump_downplays_cyberattack_201219_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trump downplays cyberattack on U.S., breaks with Pompeo on Russia's role"
+    excerpt: "The president ended his public silence hours after his secretary of State pinned the blame on the U.S. adversary."
+    publishedDateTime: 2020-12-19T21:18:00Z
+    webUrl: "https://www.politico.com/news/2020/12/19/pompeo-russia-behind-cyberhack-of-us-agencies-448625"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/19/pompeo-russia-behind-cyberhack-of-us-agencies-448625"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/19/pompeo-russia-behind-cyberhack-of-us-agencies-448625"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 134
+    images:
+      - url: "https://static.politico.com/a9/e6/18c534a7496c9fc73ebfbf8c2c1c/201216-mike-pompeo-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "69uv07HJKEKV5xx+WLkzJo0TmFElGS2+SdoVJRZnTTpITdMlBQEkyAuAIvb/TcBwM7tsPxqet7y0wsD//Hx6CCG0ZiM3kvJU4dzxr7lY9AvCcP8xs+F8b8BK6YI/lMqy3xxC3pdnG49+j+U3iFul9izSqb/J4ZEt0MjjbdtYj/rVJTJ6fnW/+hFpVsVfLmq8yjJc4Ff98UXIAj6dIA3zVxBdt7JQAp++JRo4N5dKixk5u7SBQDzSc66FNnPtHLcGDZR3eup+7Iy68fjJnRhW9EyQzxZb8joLOE1/6JGb8+Qpab80ypQEvzBOZJf9o/Feg5OcjQAoZj2s9G5x7RrE9zlGRL3EVzpJx8Nuy7TKOLr/wVWxklepo/2dEQsXaMwL6wjmVOcgZib2FNpo5jU/cX9IW7/gYHWa1pGkkFvLOUzFElFljCiKYWrpFa9uHACpQd/0zgh5OOzcl2ltAjz5NocMWIqFA1EuvxhWRr8ubsHNGjVJYEKDygREVxahjNVymuWmnyOyOv72qLcbKwP4SQ==;PMTXglGqYlXK2JOqL1iEKg=="

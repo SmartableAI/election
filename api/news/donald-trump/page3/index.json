@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-12-10-donald-trumps-2024-campaign-theme-we-wuz-robbed-and-we-wont-be-robbed-again-aides-say.md",
-      "title": "Donald Trump's 2024 Campaign Theme: 'We Wuz Robbed and We Won't Be Robbed Again,' Aides Say",
-      "excerpt": "The president's rage at the media and Democrats, and criticism that he is \"delegitimizing\" Biden's win, have hardened his resolve to get revenge four years from now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trumps-2024-campaign-theme-we-wuz-robbed-we-wont-robbed-again-aides-say-1553677",
-      "originalUrl": "https://www.newsweek.com/donald-trumps-2024-campaign-theme-we-wuz-robbed-we-wont-robbed-again-aides-say-1553677",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1683511/trump-cpac-flag-2020-2024-voter-fraud.jpg",
-          "width": 1679,
-          "height": 1119,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trumps-2024-campaign-theme-we-wuz-robbed-we-wont-robbed-again-aides-say-1553677?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-2024-campaign-theme-we-wuz-robbed-we-wont-robbed-again-aides-say-1553677?amp=1",
-      "publishedDateTime": "2020-12-10T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-10-trevor-noah-trump-takes-another-l-trying-to-unlose-the-election.md",
       "title": "Trevor Noah: Trump Takes Another ‘L’ Trying to ‘Unlose’ the Election",
       "excerpt": "Not only did they shut this case down, but they shut it down in just 34 minutes,” Noah said of the Supreme Court. “They didn’t even pretend that they were going to consider it.”",
@@ -1593,6 +1541,58 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-in-race-to-cement-legacy-trump-pushes-dozens-of-midnight-regulations.md",
+      "title": "In race to cement legacy, Trump pushes dozens of 'midnight regulations'",
+      "excerpt": "The Trump administration is quietly racing to solidify its legacy, fulfill campaign promises and overhaul federal regulations that could take Joe Biden years to undo.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
+      "originalUrl": "https://abcnews.go.com/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-ap-er-201203_1607026156831_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
+      "publishedDateTime": "2020-12-04T02:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-c
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-carrey-joe-biden-snl?_amp=true"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘Saturday Night Live’ welcomes a new Joe Biden after Jim Carrey departs"
+    excerpt: "Cast member Alex Moffat appeared as President-elect Joe Biden in a sketch focused on Vice President Mike Pence receiving the COVID-19 vaccine."
+    publishedDateTime: 2020-12-20T18:55:00Z
+    webUrl: "https://www.latimes.com/entertainment-arts/tv/story/2020-12-20/snl-joe-biden-jim-carrey-alex-moffat"
+    ampWebUrl: "https://www.latimes.com/entertainment-arts/tv/story/2020-12-20/snl-joe-biden-jim-carrey-alex-moffat?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-12-20/snl-joe-biden-jim-carrey-alex-moffat?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/8e51b6b/2147483647/strip/true/crop/1000x653+0+7/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb1%2Fdb%2Fa6df3e9a4cd2aef53e75ea6dc917%2Fla-photos-handouts-la-et-snl-jim-carrey-nbc-210.JPG"
+        width: 320
+        height: 209
+        isCached: true
   - title: "'SNL': Alex Moffat takes over Joe Biden role from Jim Carrey, tumbles into Mike Pence's vaccination"
     excerpt: "Alex Moffat took over the \"SNL\" Joe Biden role in style, nailing a somersault onto the stage the day Jim Carrey announced he wouldn't play the role."
     publishedDateTime: 2020-12-20T06:25:00Z
