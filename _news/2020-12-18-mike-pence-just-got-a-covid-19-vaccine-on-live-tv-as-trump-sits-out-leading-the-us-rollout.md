@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/video-mike-pence-coronavirus-vaccine
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-mike-pence-coronavirus-vaccine-live-tv-trump-hides-background-2020-12?amp"
 type: article
 quality: 130
-heat: 590
+heat: 610
 published: true
 
 provider:
@@ -380,6 +380,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/9695e1476f16d2e2ea52b2b81fabde16/PENCE-CORONAVIRUS-VACCINE.jpg"
         width: 650
         height: 489
+        isCached: true
+  - title: "Mike Pence, Mitch McConnell, Nancy Pelosi all vaccinated Friday as COVID-19 vaccine rollout continues"
+    excerpt: "President Donald Trump’s administration helped deliver vaccinations against the coronavirus earlier than even some in his administration thought possible, but the president has been largely absent from the effort to sell the American public on what aides hope will be a key part of his legacy."
+    publishedDateTime: 2020-12-20T05:14:00Z
+    webUrl: "https://www.bostonglobe.com/2020/12/18/nation/trump-stays-sidelines-vaccine-injections-begin/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 40
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/9BcMhbQfJ0gLFDMCDoHCbA7AbiI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/KCJZ3GUIRIZF6G3PS6DZ4OEPAA.jpg"
+        width: 506
+        height: 337
         isCached: true
 
 secured: "odg2I/rKQPbgMQumv/TdeGMpy7imnMCaB4y08aGfYJhQBf2IJUkkIeUx37T326aAibLCOo7AowC85DaYxEonvUyF0LWQBJC9eVq9mG/YIKw4W8/kSch8K7ii1OJb4uU8MfE9+O1k/I4CsLdLaDDWB8j0hC3le65YHnJJXgIxT4NiPS1EUM4L2nxgAmU2Oc2Q8siB28EmlpU2QYCEI8LloXJ6XMloWD1JAUDQVPYe9ANo23XYmh8YFUzRI3MYUQNhIX1m5All6c1tGmUXY84k3sGJxcmPGLQjhMN7HxT9BC1rwxm+x1aI81sAmJUy8Xl1a3TVr+vJhVxyd6FiIKb1QgitnYusAqZ69wkONqTiZMy2JRNvJtRNBZ2KHdcWMGD8PsY4Ef4wNwmdxaOlACmDiqr+L7cSUC8xRNNXJ7z59aG2ircJYufix71VaCBAMYs295lc+AnzBeUz79V90N3c1oInahzVC9IGfSSMC5OgJx0ZUX5e8p/nLYgVcChfHl9lXUU68bT4ZsZFLNribxhcrQ==;5b5gZXFO5uiSPAjHSBEc8Q=="

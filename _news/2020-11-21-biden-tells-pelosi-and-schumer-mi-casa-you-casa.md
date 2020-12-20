@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Biden reveals climate and energy team"
+    excerpt: "Follow for the latest updates on the Biden transition."
+    publishedDateTime: 2020-12-20T06:36:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rtrB1o08ewU/live-updates-biden-climate-energy-team-12-20-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-climate-energy-team-12-20-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-climate-energy-team-12-20-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ddd0cb98-02ad-491f-ad0a-4aa0c3e69c2a/dd15db2e-4b64-4e40-a211-5c24dfac41ff/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden denounces 'all acts of violence' after attacks on Trump supporters at MAGA rally; Schumer, Pelosi silent"
     excerpt: "President-elect Joe Biden denounced \"all acts of violence\" in a statement to Fox News after attacks on President Trump's supporters at the so-called Million MAGA March in Washington, D.C., on Saturday."
     publishedDateTime: 2020-11-16T19:35:29Z

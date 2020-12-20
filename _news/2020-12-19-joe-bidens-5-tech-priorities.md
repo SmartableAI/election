@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden’s 5 Tech Priorities"
 excerpt: "The incoming administration faces decisions about which Trump-era policies to continue and fresh challenges of its own."
 publishedDateTime: 2020-12-19T10:00:00Z
-originalUrl: "https://www.wsj.com/articles/joe-bidens-5-tech-priorities-11608354009"
-webUrl: "https://www.wsj.com/articles/joe-bidens-5-tech-priorities-11608354009"
+originalUrl: "https://www.wsj.com/articles/joe-bidens-5-tech-priorities-11608354009?mod=latest_headlines"
+webUrl: "https://www.wsj.com/articles/joe-bidens-5-tech-priorities-11608354009?mod=latest_headlines"
 ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-5-tech-priorities-11608354009"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-5-tech-priorities-11608354009"
 type: article
@@ -435,6 +435,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "ZLL4SApyEugsblrCpvA2Hmr6GR42Ik8wZv6wJyNOVJOnEx7IZjQDrCVAOGafL09m4dTiRen/x4o4cQQ1hDPzDEyckj6zodj5ole20OzQhnKgPmYKSdD+fsuVrF+E9DiDyQ0C0tn9B6J2cphfs3KrnaaqEvOOPsthf0mZb9QkkQxo2y3zvp4C1q9Vp0ef4StAz3wlZyGxeDy7XxPGWZVAjF8Xm7qyNosFHeT3N/Rvmz+KFEKWgVud9qphDzmWMBK8MeP5oAN4ucFSpAy6+Rv/KD+gBiAIPRd3SYFoHM2XI+AyhYoyWBbF5uFMqgOsXqMwyCS/nr0LkgwqoRYyZukGVeqKO11/T1TjoI6LVV+4jrY=;y87j3v6MQjJDAvHOOML7MQ=="
+secured: "BOrAFwOmI8wx4yyGaUCGKXTn7UYxYOWU9Cla9HQiVlnW1el0Q9cdecH7gJRlWJg0LXUwHVgXr+J899mV5759As4kaFnOJkxasEfYbfzpdrRwQ5Pc7fkSRlp3TvtmCAwlt/EeqY5MjZawZWMNzb+cxmgfrC8PzoD8NXD1mSrtHUFl5MyCjpxUR9a1FSbpbhqZxg7Coj5x97XEL+lFfzJKBI7QRtmHs5P3QU5NAE5/5wuIADMBNZxJj29H1O9oE/Hb8couOiBRn6zP2TTAAfNp20OmvDCiPjVyiObuvhJeW3tF63XFqOGO8eqn3fkSrrdPU1r7H5mawFgGqHuBVb6sWeNgyz/JaIttU2IX/a3ljlU=;EmDJJDffl2paaQZ7QZ26Vg=="
 ---
 

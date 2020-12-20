@@ -381,6 +381,20 @@ related:
         width: 650
         height: 489
         isCached: true
+  - title: "Mike Pence, Mitch McConnell, Nancy Pelosi all vaccinated Friday as COVID-19 vaccine rollout continues"
+    excerpt: "President Donald Trump’s administration helped deliver vaccinations against the coronavirus earlier than even some in his administration thought possible, but the president has been largely absent from the effort to sell the American public on what aides hope will be a key part of his legacy."
+    publishedDateTime: 2020-12-20T05:14:00Z
+    webUrl: "https://www.bostonglobe.com/2020/12/18/nation/trump-stays-sidelines-vaccine-injections-begin/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 40
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/9BcMhbQfJ0gLFDMCDoHCbA7AbiI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/KCJZ3GUIRIZF6G3PS6DZ4OEPAA.jpg"
+        width: 506
+        height: 337
+        isCached: true
 
 secured: "TiJRzmShGH7u3eQ4u5NpYcR+L7Ifis1eviJmzAO4feeWA5rgWNeHv9D48Fsr0rn5OIzzIDVsWDxvqp4Ln15tF1RIuZijovsnnh3O7rjTE3bm0ghzQbPO2p9F/vilXVKJXW9q9NUeeadxSHrUPRIXg4Hq7wrh7j+At40Bm+Kxo8Qkey2OxIRg4FbqYd8o/Gq1NWTrsu+WQ70he2xMX4Eo+wTnI685U4TSebJwUyg0RGgyEJgGFtNot5AZV1oHATS8gJ53bp9pjkDh/5QcJiEDMss26HUAJCkUrykSkOzBR+z4mMg9JDbPEtFpHamov8cyI8HuOakSvdPkpNpWlu89nWlD+bfzlo2XweSl7zk1kMw=;k0WTpBM+W4GMGfVbP9OcUQ=="
 ---

@@ -143,6 +143,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump downplays Russia in first comments on hacking campaign"
+    excerpt: "President Donald Trump is contradicting top administration officials who say Russia is behind the cyber espionage operation that targeted U.S. government agencies"
+    publishedDateTime: 2020-12-20T05:57:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-downplays-russia-in-first-comments-on-hacking-campaign/2020/12/20/0745dcac-4287-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-downplays-russia-in-first-comments-on-hacking-campaign/2020/12/20/0745dcac-4287-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-downplays-russia-in-first-comments-on-hacking-campaign/2020/12/20/0745dcac-4287-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "United States hopes for trade deal with UK, Trump's trade chief says - BBC"
     excerpt: "The United States is hopeful of sealing a mini-trade deal with the United Kingdom to reduce tariffs, President Donald Trump's trade chief, Robert Lighthizer, told the BBC."
     publishedDateTime: 2020-12-17T07:10:00Z
@@ -238,6 +254,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1688664/michael-cohen.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "Fired attorney Sidney Powell is back, advising Trump to chart a scorched-earth course"
+    excerpt: "After cutting Sidney Powell from his legal team, President Trump has welcomed her back into the White House to plot out further efforts to revive his presidency."
+    publishedDateTime: 2020-12-20T06:58:00Z
+    webUrl: "https://abcnews.go.com/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/georgia-election-sidney-powell-02-rt-llr-201204_1607108804976_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Today marks an important Electoral College deadline. Here's why that's bad news for Trump"
     excerpt: "The safe harbor deadline falls six days before the Electoral College meets to formally cast votes for president based on the popular votes in states."

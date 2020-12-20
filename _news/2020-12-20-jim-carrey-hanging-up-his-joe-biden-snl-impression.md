@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-c
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-carrey-joe-biden-snl?_amp=true"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 320
     height: 209
     isCached: true
+
+related:
+  - title: "'SNL': Alex Moffat takes over Joe Biden role from Jim Carrey, tumbles into Mike Pence's vaccination"
+    excerpt: "Alex Moffat took over the \"SNL\" Joe Biden role in style, nailing a somersault onto the stage the day Jim Carrey announced he wouldn't play the role."
+    publishedDateTime: 2020-12-20T06:25:00Z
+    webUrl: "https://www.azcentral.com/story/entertainment/tv/2020/12/19/snl-alex-moffat-joe-biden-mike-pence-kamala-harris/3980531001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3980531001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3980531001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 76
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/20/USAT/abd66e25-1115-427f-9cac-6c494dcc0465-Capture.PNG?auto=webp&crop=1179,664,x0,y1&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "OXV8ZpHweczw4Fi3srgOdo2biQf4jwFiSRhTPjykQfgeDapBENpurwP2hPkLD3luk9qKMOdiNTv9GGfKzziwjyT3i5Cv3RuC90aRs+w6ESWvQ8P/vBbuSOS3rgNGmpnz4T0jmgs3V4Djwe701SscMUwssfEv5DJUxYckGkYXqFwBJyGnsPUtL2mqgoinbItXgDBdgzbx2Jr6WqGuw5Z5gt5/2b5NPbL64/OiS6Buo9aO91l7todz9pBQHuaE2TtioJj9rmA+/gQXA6ZLv6vlMS0Mn6GgQLvjUEu/cA3+Tl6pnT9wkcydQvAMbJeKZqJnSrZapO4OBuYMOgDNpe10PizQNYygg4qCCU305zcCrRzy/yd0if8FmAwwxpEwpifNAg8gjcda3I+Mtn3qgES/KivBKsl2zLrXnK+N86wG9En2VtHNRFXJdbh48yMM8oPC6NihlwyvdPk4+aoCChhs4cgDBJnzFPygEhlQv6dVf3jxWAIcXyJK5RPLujWFORnlXWgOlw3LwcXSj0L6V1UfRg==;tsOVsAWzshz2aM5m9nY1gQ=="
 ---
