@@ -64,6 +64,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Pompeo Blames Russia for Hack as Trump Casts Doubt on Widespread Conclusion"
+    excerpt: "The secretary of state pointed the finger at Russia for the SolarWinds hack that compromised numerous agencies and corporations, while the president said he was skeptical of a growing consensus about the country’s role."
+    publishedDateTime: 2020-12-20T00:34:00Z
+    webUrl: "https://www.wsj.com/articles/pompeo-blames-russia-for-solarwinds-hack-11608391515"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pompeo-blames-russia-for-solarwinds-hack-11608391515"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pompeo-blames-russia-for-solarwinds-hack-11608391515"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 133
+    images:
+      - url: "https://images.wsj.net/im-275819/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "PrazSR55fKb6RwM85YVABQtrv1Q0wPkyjY9IwpQp2L388iH3CL/W7w6vIFt8hFPuXDJvroNJR0R64O5+AIqGlC42wXV8m/VsYmhmHoG4Ds9zZXQyohC0F/Sphp/SUfA+QuKzdYfNrSxtOgDNoXdWpN48ACY9r2yqDK46qGhXjilCMtWFDwkEnH9EiEHN7K7c9jUSi8AFf2VNneNnayD0L0tz3g/NLP1O2Q2TYtFdYG/1V2wap5TZkTJ9hAjIoLcbA5acVyDsoxNfJBKVoztPSu3bzI0mSpXqNlxpPUhHRVDhIgJMJVUeacPhzNZcUjOha3dRByoCUEJIuG7XRgHQ4aO/UEka0A1cOgxbvg3SjAc=;5A/BLEasupUex+vy9E2itg=="
 ---

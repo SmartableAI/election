@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump downplays cyberattack on federal agencies"
+    excerpt: "There's a rare split between President Trump and his loyal secretary of state on Russian involvement in a massive hack. While Mike Pompeo blamed Russia for the cyberattack, the president dismissed Kremlin responsibility on Twitter."
+    publishedDateTime: 2020-12-20T00:41:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/trump-downplays-cyberattack-on-federal-agencies-98086469687"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98086469687"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98086469687"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kod_trump_downplays_cyberattack_201219_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump downplays Russia hack in first comments on massive breach, implicates China"
     excerpt: "Trump's comments contradict members of his own Cabinet and government and are the latest example of his reluctance to criticize Russia."
     publishedDateTime: 2020-12-19T17:43:00Z

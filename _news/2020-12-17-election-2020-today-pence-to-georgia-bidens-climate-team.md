@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-pence-to
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 1735
+heat: 1755
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Uganda election: False claims about Joe Biden and others"
+    excerpt: "Our first example is a widely-shared video clip, with social media users claiming it shows US President-elect Joe Biden at an event calling for the release of Bobi Wine (real name Robert Kyagulanyi)."
+    publishedDateTime: 2020-12-20T00:17:00Z
+    webUrl: "https://www.bbc.com/news/world-africa-55353891"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-africa-55353891"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-africa-55353891"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/11797/production/_116157517_biden_gettyimages-1290143413.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Electoral college: key states confirm Joe Biden's victory in presidential election"
     excerpt: "Votes in Georgia, Pennsylvania, Wisconsin and Arizona effectively end Donald Trump’s long-shot attempt to overturn results"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mike-pompeo-william-barr-resignatio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-william-barr-resignation-trump-loyalty.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/GettyImages-Thomas-Kirsch-II.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Pompeo Blames Russia for Hack as Trump Casts Doubt on Widespread Conclusion"
+    excerpt: "The secretary of state pointed the finger at Russia for the SolarWinds hack that compromised numerous agencies and corporations, while the president said he was skeptical of a growing consensus about the country’s role."
+    publishedDateTime: 2020-12-20T00:34:00Z
+    webUrl: "https://www.wsj.com/articles/pompeo-blames-russia-for-solarwinds-hack-11608391515"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pompeo-blames-russia-for-solarwinds-hack-11608391515"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pompeo-blames-russia-for-solarwinds-hack-11608391515"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 133
+    images:
+      - url: "https://images.wsj.net/im-275819/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump Organization Ordered to Turn Over Documents to New York Attorney General"
     excerpt: "A New York judge ordered the Trump Organization to hand over documents related to its sprawling Westchester County estate to the state attorney general’s office as it pursues a civil fraud investigation into the president and his company."

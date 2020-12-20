@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden Transition Updates: Congress Passed Short-Term Spending Bill as Stimulus Talks Continued"
+    excerpt: "Congress passed a short-term spending bill to avoid a government shutdown on Friday night after lawmakers hit a snag in stimulus talks, sending discussions into the weekend. President-elect Joe Biden said accusations against his son were “kind of foul play."
+    publishedDateTime: 2020-12-19T23:20:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/18/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/18/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/18/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 123
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/18/us/politics/18dc-stimulus-sub/18dc-stimulus-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "jjVVrDhy1hbiYVVWksYggAo8XrUOhhlB6HQdxn96Osxdw8jrpAP8wHLzqXDjoiTCvB4j8a1XoVftuYgRf06P897LYFKWy7+3aojWCGSbCttJ9h5tzQpgirrAQT/E53+x/JE/5oHkowbheCSA/V3DRMNyEoKbfEPuhBOfB0cqEBZZubtoxFx7Kf01ZBFufj8s2daGbNMWVEN3UB/DGjIa+unuza6rxmTQdaWKdJgWmudhNTb+KoaWuhuO1+rGpwthrU7EkMXn/zz0bpsTxUHx78cU6VkjVEWCESBTNO0+nrMa+dJmJsEsEZgs8cuYf3kPti3dkiD+0k70jwQhZ9OtJ3Xl3XlPQTLwu+b2/gSMp94=;m4BlkFgnXsrsd/WRbqDMzw=="
 ---

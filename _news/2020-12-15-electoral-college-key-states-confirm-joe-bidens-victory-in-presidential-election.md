@@ -191,6 +191,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Uganda election: False claims about Joe Biden and others"
+    excerpt: "Our first example is a widely-shared video clip, with social media users claiming it shows US President-elect Joe Biden at an event calling for the release of Bobi Wine (real name Robert Kyagulanyi)."
+    publishedDateTime: 2020-12-20T00:17:00Z
+    webUrl: "https://www.bbc.com/news/world-africa-55353891"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-africa-55353891"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-africa-55353891"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/11797/production/_116157517_biden_gettyimages-1290143413.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Live updates: Pence campaigns in Georgia Senate races; Biden settles on EPA, interior nominees"
     excerpt: "The vice president's return to Georgia underscored the importance of the Senate races there. The outcome will determine which party controls the Senate next year."
     publishedDateTime: 2020-12-17T23:19:00Z

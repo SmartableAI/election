@@ -191,6 +191,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Uganda election: False claims about Joe Biden and others"
+    excerpt: "Our first example is a widely-shared video clip, with social media users claiming it shows US President-elect Joe Biden at an event calling for the release of Bobi Wine (real name Robert Kyagulanyi)."
+    publishedDateTime: 2020-12-20T00:17:00Z
+    webUrl: "https://www.bbc.com/news/world-africa-55353891"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-africa-55353891"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-africa-55353891"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/11797/production/_116157517_biden_gettyimages-1290143413.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Electoral college: key states confirm Joe Biden's victory in presidential election"
     excerpt: "Votes in Georgia, Pennsylvania, Wisconsin and Arizona effectively end Donald Trump’s long-shot attempt to overturn results"
     publishedDateTime: 2020-12-14T20:26:00Z
@@ -1224,6 +1240,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "EcDi5Eh12/GChcOhjTnICspEroMtmSfItFTGuGVG0qHwsf85rb6e2DB5KDScoZ2X1jOhKrqkhaBTeJEPotfT+GFeNlK0ukgsiYUZiLH4DragLDU29madQRSVkugOlkW6Y/RqiGdNw0wHkqD3zVe3Z3on+6ECGPVTTQNq3VKPq7NEdbn360kKtdBdPa+J7+eLhXrVX0aPaujsruOu52KDUNjwELHuHeBMhWHmcERrmxIItguYCc4E6uFrNnWGpTwLL5JROg6s8X4GBo50cInImClvMY9GkuNyCzs6qtfgLY5/BSxphWTR43MwP7o3TwfCMXMs7x2OBxyAek4VLfHoeKw/BbE+uBXMdnqeMq3RZik=;WLeyTCQ+YXwXpolOe5qZ/A=="
+secured: "Qz5YpNX+JxqmlWcGfd6h7UMge5QV5ykkrFrFBh/ihzIkKmry9BppdQxVuTDiyxP1s9ouhH1BbUGWkVStIUjbPGOM0JV6thSR8H9pLPv7IbXXkrzAkD+ojS0QpNmCjJvslVM7cc2mPVmvtsWLU9Wg2oDQvDRvZztyFfnX71avwJcvqFd7fvz+7NiM4CILV7y+qQRoG708zU12dJjXR9STehjzyxeTBHtbB1FORors/jUqmv2npVr/niTJIOiX7EhlnHQEVxCjNi/fEemV3e88ZpCsEWQLFTQj22Is3LypGhjASxbmMOQVAK5iO8c20t32IlZu1enIntFOBOcxcCBWowSm3fRu3xlfbXQ981qpv0ktrA0iQlcQNpeWgg66Fe64M7NQQxwWlvuXEtVA/GGk0CyC1IDl7mfrGcQKtiC/WT7aeTJVzLVj1R2tlFgtTBJyURZiwpYqxBezB87685XIArjA5zMfYRn9umzocoHQkkg8nUKaoWEux/hNEjFz8yFDsCqUeO6SPq2cvjmYrnqVEw==;/V0eCrk28CJFx7Nv4MNRPg=="
 ---
 

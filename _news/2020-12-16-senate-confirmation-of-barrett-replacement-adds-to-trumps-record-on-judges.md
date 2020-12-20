@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pompeo Blames Russia for Hack as Trump Casts Doubt on Widespread Conclusion"
+    excerpt: "The secretary of state pointed the finger at Russia for the SolarWinds hack that compromised numerous agencies and corporations, while the president said he was skeptical of a growing consensus about the country’s role."
+    publishedDateTime: 2020-12-20T00:34:00Z
+    webUrl: "https://www.wsj.com/articles/pompeo-blames-russia-for-solarwinds-hack-11608391515"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pompeo-blames-russia-for-solarwinds-hack-11608391515"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pompeo-blames-russia-for-solarwinds-hack-11608391515"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 133
+    images:
+      - url: "https://images.wsj.net/im-275819/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump Organization Ordered to Turn Over Documents to New York Attorney General"
     excerpt: "A New York judge ordered the Trump Organization to hand over documents related to its sprawling Westchester County estate to the state attorney general’s office as it pursues a civil fraud investigation into the president and his company."
     publishedDateTime: 2020-12-16T04:35:00Z

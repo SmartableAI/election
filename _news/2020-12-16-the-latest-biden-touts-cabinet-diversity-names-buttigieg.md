@@ -491,6 +491,22 @@ related:
         width: 360
         height: 239
         isCached: true
+  - title: "Pence, top congressional leaders get vaccines; Trump absent"
+    excerpt: "Vice President Mike Pence and the leaders of the House and Senate received their first COVID-19 vaccinations as they tried to reassure Americans the shot is safe"
+    publishedDateTime: 2020-12-19T06:07:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-stays-sidelines-virus-vaccine-injections-begin-74796834"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-stays-sidelines-virus-vaccine-injections-begin-74796834"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-stays-sidelines-virus-vaccine-injections-begin-74796834"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_408f4c19bf8a49fc870a904f7fb260c2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to present new defense chief as Trump clings to failed effort to overturn election result – live"
     excerpt: "Trump calls to ‘overturn’ results as legal attempts to reverse Biden’s victory dwindle, while president-elect will nominate Lloyd Austin to lead US defense"
     publishedDateTime: 2020-12-09T18:13:00Z
