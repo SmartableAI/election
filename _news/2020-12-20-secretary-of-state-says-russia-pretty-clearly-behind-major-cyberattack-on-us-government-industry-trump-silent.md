@@ -33,10 +33,10 @@ images:
 related:
   - title: "Trump downplays impact of massive hacking, questions Russia involvement"
     excerpt: "U.S. President Donald Trump, in his first comments about a widespread data breach across the U.S. government, on Saturday downplayed the cyber espionage campaign and questioned whether Russia was to blame as alleged by his own top diplomat."
-    publishedDateTime: 2020-12-20T02:17:00Z
-    webUrl: "https://www.reuters.com/article/usa-cyber-breach/update-4-trump-downplays-impact-of-massive-hacking-questions-russia-involvement-idUSL1N2IZ0F0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28T0R1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T0R1"
+    publishedDateTime: 2020-12-20T04:58:00Z
+    webUrl: "https://www.reuters.com/article/uk-u-s-cyber-breach-idAFKBN28T0QI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28T0QI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28T0QI"
     type: article
     provider:
       name: Reuters

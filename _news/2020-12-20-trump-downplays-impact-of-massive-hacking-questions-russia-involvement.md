@@ -2,11 +2,11 @@
 category: news
 title: "Trump downplays impact of massive hacking, questions Russia involvement"
 excerpt: "U.S. President Donald Trump, in his first comments about a widespread data breach across the U.S. government, on Saturday downplayed the cyber espionage campaign and questioned whether Russia was to blame as alleged by his own top diplomat."
-publishedDateTime: 2020-12-20T02:17:00Z
-originalUrl: "https://www.reuters.com/article/usa-cyber-breach/update-4-trump-downplays-impact-of-massive-hacking-questions-russia-involvement-idUSL1N2IZ0F0"
-webUrl: "https://www.reuters.com/article/usa-cyber-breach/update-4-trump-downplays-impact-of-massive-hacking-questions-russia-involvement-idUSL1N2IZ0F0"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28T0R1"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T0R1"
+publishedDateTime: 2020-12-20T04:58:00Z
+originalUrl: "https://www.reuters.com/article/uk-u-s-cyber-breach-idAFKBN28T0QI"
+webUrl: "https://www.reuters.com/article/uk-u-s-cyber-breach-idAFKBN28T0QI"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28T0QI"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28T0QI"
 type: article
 quality: 125
 heat: 205
@@ -94,6 +94,6 @@ related:
         height: 630
         isCached: true
 
-secured: "VY5HpM6nKol0nvopGTsBoZ+F+jxgtuMbKAexnFAQH9tYUcS4ExsJ4ZRJrAfIikkWlD0hCWqBMdpKlYs4g3HQgmBVbldt83eQqioOeZR1FbfxWvbMnXypLyoDbn7ylC+6e6EMQJRhCHrqOJDolUQKaYUmysrvseZe+b4kT6dTqu0vcoy93StkI5rJ1wDrLuMGERJa/4R76XNyWWqD6LrHvf/sKGsRXaPns+lBv+2ks1AfIhJMFk6J8NuUaATulo7dSaWben1DIMws9m3JUWiOjpUn92+iTSv1mcWbwK36etBVjICMf1J1GAs+OvZ3JLdYBmHrhkwKZGqGajEi6Re1K9w0OZ5zvj1j5yePntGZogg=;CPI+4g3hkqM2MGZgY1Rgkg=="
+secured: "YLiKavhEzUJzIrWH6cHeA5I+fGQ0vFJ8vP4pUv5wEZNznu+kM6lGg1IDMCowpXkH0whJ28Zd9Pubr1oqOdweMliItzWtzNvd9xG1V4oMJQPhe56tDrTbZXeZp2tTAJ6EDb3O0AszQkgq+p9VFbtrlF+XZXStlmw5DWoqDgV4HUD8R10HmnmMOXQHQsCCF2ofKM7BnIamj4OVjd99zRXoBSEeWnJHpPSOis7kdbKsgXf0gB3gkdTu6gvGEcxQ3y9XCy+/rM53ADFSOS9SI797tNwQpPyrlSA+bneFteu2u3MyGCo/Dfrx2EGdrW++zybmH4dEs0+MQ1ucMxCMY5/8FfOtZN1l2Uf2ImRnbORj+ig=;pxZrk3CMO2efenfU6pKG3w=="
 ---
 

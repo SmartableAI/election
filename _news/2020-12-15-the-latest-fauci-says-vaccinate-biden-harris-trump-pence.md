@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-b
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137"
 type: article
 quality: 180
-heat: 3480
+heat: 3500
 published: true
 
 provider:
@@ -666,6 +666,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALIEXTB6PMI6XNMLCYR7MJTZMA.jpg&w=1440"
         width: 1440
         height: 891
+        isCached: true
+  - title: "Trump-Biden transition live updates: Biden introduces key climate, energy picks"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 32 days. Wrapping up Saturday's event announcing members of the incoming administration's climate and energy team,"
+    publishedDateTime: 2020-12-20T03:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 136
+    images:
+      - url: "https://s.abcnews.com/images/General/transition-election-blog-joe-biden-nominates-01-rt-llr-201219_1608407168509_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 901
         isCached: true
   - title: "Trump wants a special counsel to investigate purported election fraud and Hunter Biden allegations, report says"
     excerpt: "Justice Department guidelines say the attorney general can appoint a special counsel, but it's unclear if Attorney General Barr will do so."

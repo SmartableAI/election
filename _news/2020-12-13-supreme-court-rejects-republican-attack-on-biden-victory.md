@@ -633,6 +633,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden says 'no time to waste' as climate team unveiled"
+    excerpt: "US President-elect Joe Biden has introduced his environmental team, saying they will lead an \"ambitious plan\" to combat climate change. Mr Biden has vowed to make the issue a top priority in an agenda that reverses many Trump administration policies."
+    publishedDateTime: 2020-12-20T03:55:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55382209?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7&at_custom4=3137156C-4269-11EB-B883-24FB4744363C"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55382209"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55382209"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/42AC/production/_116186071_mediaitem116186070.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "President in the pews: DC churches offer Biden options"
+    excerpt: "Yet President-elect Joe Biden enters his church, St. Joseph on the Brandywine, with startlingly little interruption. Wearing a dark suit and medical mask, Biden slipped into a polished wooden pew near the back of the sanctuary for a recent Saturday evening Catholic Mass."
+    publishedDateTime: 2020-12-19T21:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/president-pews-dc-churches-offer-biden-options-74818520"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/president-pews-dc-churches-offer-biden-options-74818520"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/president-pews-dc-churches-offer-biden-options-74818520"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_378b1cfde4fd4b6fa394f7508ecbee96_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "\"We're in a crisis\": Biden introduces climate policy team"
     excerpt: "The vice president-elect formally announced his nominees for positions such as EPA administrator and Interior secretary."
     publishedDateTime: 2020-12-19T21:28:00Z

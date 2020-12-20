@@ -308,7 +308,7 @@ related:
   - title: "Joe Biden’s 5 Tech Priorities"
     excerpt: "The incoming administration faces decisions about which Trump-era policies to continue and fresh challenges of its own."
     publishedDateTime: 2020-12-19T10:00:00Z
-    webUrl: "https://www.wsj.com/amp/articles/joe-bidens-5-tech-priorities-11608354009"
+    webUrl: "https://www.wsj.com/articles/joe-bidens-5-tech-priorities-11608354009"
     ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-5-tech-priorities-11608354009"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-5-tech-priorities-11608354009"
     type: article
