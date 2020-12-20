@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/trump-silence-cyber-hack
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/trump-silence-cyber-hack/index.html"
 type: article
 quality: 173
-heat: 273
+heat: 233
 published: true
 
 provider:
@@ -44,38 +44,6 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201219133818-donald-trump-mike-pompeo-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Ex-DHS adviser under Trump calls for urgent action to address suspected Russian cyberattack"
-    excerpt: "President Donald Trump's former homeland security adviser described the massive data breach of multiple US federal agencies, which US officials suspect is the work of Russian-linked hackers, in urgent terms Wednesday night, calling for immediate and decisive action by the President.\n    \n"
-    publishedDateTime: 2020-12-17T14:58:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dP0p92E0wec/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/tom-bossert-trump-us-agencies-hack-russia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/tom-bossert-trump-us-agencies-hack-russia/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180410111157-03-tom-bossert-2017-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Congressional backers cite cybersecurity provisions as they push Trump to sign defense bill"
-    excerpt: "The massive defense bill that President Donald Trump is threatening to veto contains provisions for increased cybersecurity, which has taken on significantly more importance in the wake of a massive cyberattack on federal agencies at the hands of suspected Russian hackers.\n    \n"
-    publishedDateTime: 2020-12-18T20:32:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RZrYuDIW11A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170513225821-cyberattacks-ransomware-latest-sebastian-lklv-00002816-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

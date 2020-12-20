@@ -30,9 +30,9 @@ images:
 
 related:
   - title: "Trump downplays impact of massive hacking, questions Russia involvement"
-    excerpt: "U.S. President Donald Trump in his first comments about a widespread data breach across the U.S. government downplayed the seriousness and impact of the cyber espionage campaign, and questioned whether Russia was to blame."
-    publishedDateTime: 2020-12-20T00:06:00Z
-    webUrl: "https://www.reuters.com/article/cyber-breach-idUSKBN28T0R1"
+    excerpt: "U.S. President Donald Trump, in his first comments about a widespread data breach across the U.S. government, on Saturday downplayed the cyber espionage campaign and questioned whether Russia was to blame as alleged by his own top diplomat."
+    publishedDateTime: 2020-12-20T02:17:00Z
+    webUrl: "https://www.reuters.com/article/usa-cyber-breach/update-4-trump-downplays-impact-of-massive-hacking-questions-russia-involvement-idUSL1N2IZ0F0"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28T0R1"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T0R1"
     type: article
@@ -41,7 +41,7 @@ related:
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201219&t=2&i=1545158640&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBI0FV"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201219&t=2&i=1545156451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBI0DB"
         width: 817
         height: 545
         isCached: true

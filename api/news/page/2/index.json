@@ -2,25 +2,25 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-19-trump-appoints-1776-commission-members-in-last-minute-bid-to-advance-patriotic-education.md",
-      "title": "Trump appoints 1776 Commission members in last-minute bid to advance 'patriotic education'",
-      "excerpt": "The group will be led by the president of the conservative Hillsdale College, Larry Arnn, a longtime Trump ally, the White House said.",
+      "path": "_news/2020-12-18-bidens-to-receive-first-dose-of-pfizer-vaccine-monday.md",
+      "title": "Bidens to receive first dose of Pfizer vaccine Monday",
+      "excerpt": "President-elect Joe Biden and incoming first lady Jill Biden will receive the first dose of the Pfizer vaccine on Monday in Delaware, transition spokesperson Jen Psaki told reporters on a briefing call Friday.\n    \n",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/18/trump-1776-commission-appointments-448229",
-      "originalUrl": "https://www.politico.com/news/2020/12/18/trump-1776-commission-appointments-448229",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BgS6YiV7RSU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BgS6YiV7RSU/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 125,
+      "heat": 215,
       "tags": null,
       "images": [
         {
-          "url": "https://static.politico.com/d8/88/8403c9844566924526431b2c7c58/gettyimages-1215228995-1.jpg",
-          "width": 1160,
-          "height": 773,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201218030711-joe-and-jill-biden-on-late-night-with-stephen-colbert-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,16 +28,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/18/trump-1776-commission-appointments-448229",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/trump-1776-commission-appointments-448229",
-      "publishedDateTime": "2020-12-18T10:06:00-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/biden-receiving-vaccination/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/biden-receiving-vaccination/index.html",
+      "publishedDateTime": "2020-12-18T10:29:51-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,7 +54,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -333,23 +332,23 @@
       ]
     },
     {
-      "path": "_news/2020-12-18-trump-praises-tuberville-after-alabama-gop-senator-elect-leaves-open-objecting-to-election-results-january-6.md",
-      "title": "Trump praises Tuberville after Alabama GOP senator-elect leaves open objecting to election results January 6",
-      "excerpt": "President Donald Trump lauded Tommy Tuberville this week after the Republican Alabama senator-elect said he is not ruling out joining a House member to object to the election results when Congress meets in a joint session to accept the votes of the Electoral College.\n    \n",
+      "path": "_news/2020-12-18-supreme-court-throws-out-challenge-to-trumps-plan-to-exclude-undocumented-immigrants-from-census-count.md",
+      "title": "Supreme Court throws out challenge to Trump's plan to exclude undocumented immigrants from census count",
+      "excerpt": "The Supreme Court on Friday threw out a challenge to President Donald Trump's bid to exclude undocumented immigrants from being counted when seats in Congress are divvied up between the states next year.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g_lST3RO-Nk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g_lST3RO-Nk/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N5wnCqzRAuA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N5wnCqzRAuA/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 172,
+      "heat": 199,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201029152327-alabama-senate-race-doug-jones-tommy-tuberville-nws-orig-00002315-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201217193803-supreme-court-201212-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -359,9 +358,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/tommy-tuberville-electoral-college-reaction/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/tommy-tuberville-electoral-college-reaction/index.html",
-      "publishedDateTime": "2020-12-18T08:31:06-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/supreme-court-census-undocumented-immigrants/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/supreme-court-census-undocumented-immigrants/index.html",
+      "publishedDateTime": "2020-12-18T08:23:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1174,7 +1173,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 273,
+      "heat": 233,
       "tags": null,
       "images": [
         {

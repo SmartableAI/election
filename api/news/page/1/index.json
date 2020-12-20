@@ -4,17 +4,17 @@
     {
       "path": "_news/2020-12-20-trump-downplays-impact-of-massive-hacking-questions-russia-involvement.md",
       "title": "Trump downplays impact of massive hacking, questions Russia involvement",
-      "excerpt": "U.S. President Donald Trump in his first comments about a widespread data breach across the U.S. government downplayed the seriousness and impact of the cyber espionage campaign, and questioned whether Russia was to blame.",
+      "excerpt": "U.S. President Donald Trump, in his first comments about a widespread data breach across the U.S. government, on Saturday downplayed the cyber espionage campaign and questioned whether Russia was to blame as alleged by his own top diplomat.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/cyber-breach-idUSKBN28T0R1",
-      "originalUrl": "https://www.reuters.com/article/cyber-breach-idUSKBN28T0R1",
+      "webUrl": "https://www.reuters.com/article/usa-cyber-breach/update-4-trump-downplays-impact-of-massive-hacking-questions-russia-involvement-idUSL1N2IZ0F0",
+      "originalUrl": "https://www.reuters.com/article/usa-cyber-breach/update-4-trump-downplays-impact-of-massive-hacking-questions-russia-involvement-idUSL1N2IZ0F0",
       "featuredContent": null,
       "highlight": null,
       "heat": 205,
       "tags": null,
       "images": [
         {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201219&t=2&i=1545158640&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBI0FV",
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201219&t=2&i=1545156451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBI0DB",
           "width": 817,
           "height": 545,
           "title": null,
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28T0R1",
       "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T0R1",
-      "publishedDateTime": "2020-12-19T16:06:00-08:00",
+      "publishedDateTime": "2020-12-19T18:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -51,6 +51,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-19-trumps-former-national-security-adviser-on-using-martial-law-to-rerun-election.md",
+      "title": "Trump's former national security adviser on using martial law to 'rerun election'",
+      "excerpt": "An Oval Office meeting with President Donald Trump that included Sidney Powell and her client Michael Flynn began as an impromptu gathering but quickly devolved, two people familiar with the matter said. CNN's Jeremy Diamond reports screaming matches broke out at certain points as some of Trump's aides",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OStSGx2G8JY/oval-office-meeting-trump-martial-law-powell-flynn-diamond-sot-nr-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OStSGx2G8JY/oval-office-meeting-trump-martial-law-powell-flynn-diamond-sot-nr-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 425,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201008203155-marine-oval-office-thursday-1008-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/12/19/oval-office-meeting-trump-martial-law-powell-flynn-diamond-sot-nr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/19/oval-office-meeting-trump-martial-law-powell-flynn-diamond-sot-nr-vpx.cnn",
+      "publishedDateTime": "2020-12-19T14:41:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -371,62 +427,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-19-trump-campaign-told-to-preserve-all-documents-related-to-sidney-powell-and-dominion-voting-systems.md",
-      "title": "Trump campaign told to preserve all documents related to Sidney Powell and Dominion Voting Systems ",
-      "excerpt": "President Donald Trump's campaign legal team sent a memo to dozens of staffers Saturday instructing them to preserve all documents related to Dominion Voting Systems and Sidney Powell in anticipation of potential litigation by the company against the pro-Trump attorney.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0UXIek4FBSs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0UXIek4FBSs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 261,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/19/politics/trump-campaign-sidney-powell-dominion-voting-systems/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-campaign-sidney-powell-dominion-voting-systems/index.html",
-      "publishedDateTime": "2020-12-19T11:44:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-20-jim-carrey-to-stop-impersonating-joe-biden-on-saturday-night-live.md",
       "title": "Jim Carrey to stop impersonating Joe Biden on 'Saturday Night Live'",
       "excerpt": "Live” did not immediately offer insight as to who might pick up the impression, Carrey’s departure could allow a cast member to take over.",
@@ -540,6 +540,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-20-with-trump-fading-ukraines-president-looks-to-a-reset-with-the-us.md",
+      "title": "With Trump Fading, Ukraine’s President Looks to a Reset With the U.S.",
+      "excerpt": "They roped us in, but I think we behaved with dignity,” Volodymyr Zelensky said of his encounter with American politics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/18/world/18ZELENSKY1/18ZELENSKY1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.amp.html",
+      "publishedDateTime": "2020-12-19T09:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-trump-claims-china-may-have-been-behind-cyber-attack-after-pompeo-says-it-was-pretty-clearly-russia.md",
       "title": "Trump claims China 'may' have been behind cyber attack after Pompeo says it was ‘pretty clearly’ Russia",
       "excerpt": "President Trump on Saturday claimed China \"may\" have been behind a massive cyberattack on U.S. government systems -- a day after Secretary of State Mike Pompeo said the attack was \"pretty clearly\" perpetrated by Russians.  ",
@@ -552,7 +609,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 159,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -859,6 +916,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-19-donald-and-melania-trump-wear-matching-tuxedos-in-their-final-white-house-christmas-picture.md",
+      "title": "Donald and Melania Trump wear matching tuxedos in their final White House Christmas picture",
+      "excerpt": "The picture shows the Trumps smiling as they stand together on the Grand staircase in the White House, beneath festive Christmas decorations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fdddc03c910a400192e8870?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12?amp",
+      "publishedDateTime": "2020-12-19T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-exclusive-lawmakers-ask-fbi-and-federal-election-commission-to-investigate-jared-kushner-backed-trump-campaign-company-after-insiders-reporting.md",
       "title": "EXCLUSIVE: Lawmakers ask FBI and Federal Election Commission to investigate Jared Kushner-backed Trump campaign company after Insider's reporting",
       "excerpt": "In a letter obtained by Insider, two lawmakers told the FBI and the FEC that the only way to know if the Trump campaign violated federal laws is for the agencies to open an investigation.",
@@ -891,58 +1000,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-president-trump-melania-trump-don-matching-tuxedos-in-final-christmas-portrait-see-the-photo.md",
-      "title": "President Trump, Melania Trump don matching tuxedos in final Christmas portrait: See the photo",
-      "excerpt": "President Donald Trump and first lady Melania Trump donned matching looks and smiles for their final White House Christmas portrait.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/12/18/president-trump-melania-don-matching-tuxedos-final-christmas-photo/3969324001/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/12/18/president-trump-melania-don-matching-tuxedos-final-christmas-photo/3969324001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/12/06/USAT/ae8ce7ee-93a3-4011-9aa0-3a5f6632cb8f-AP_Trump.JPG?auto=webp&crop=4130,2324,x0,y210&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3969324001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3969324001",
-      "publishedDateTime": "2020-12-18T20:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1278,62 +1335,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-bidens-to-receive-first-dose-of-pfizer-vaccine-monday.md",
-      "title": "Bidens to receive first dose of Pfizer vaccine Monday",
-      "excerpt": "President-elect Joe Biden and incoming first lady Jill Biden will receive the first dose of the Pfizer vaccine on Monday in Delaware, transition spokesperson Jen Psaki told reporters on a briefing call Friday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BgS6YiV7RSU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BgS6YiV7RSU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201218030711-joe-and-jill-biden-on-late-night-with-stephen-colbert-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/biden-receiving-vaccination/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/biden-receiving-vaccination/index.html",
-      "publishedDateTime": "2020-12-18T10:29:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

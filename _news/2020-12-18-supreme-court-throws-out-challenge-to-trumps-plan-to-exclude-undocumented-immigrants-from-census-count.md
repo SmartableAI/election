@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/supreme-court-census-und
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/supreme-court-census-undocumented-immigrants/index.html"
 type: article
 quality: 159
-heat: -1
-published: false
+heat: 199
+published: true
 
 provider:
   name: CNN
@@ -31,53 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign told to preserve all documents related to Sidney Powell and Dominion Voting Systems "
-    excerpt: "President Donald Trump's campaign legal team sent a memo to dozens of staffers Saturday instructing them to preserve all documents related to Dominion Voting Systems and Sidney Powell in anticipation of potential litigation by the company against the pro-Trump attorney.\n    \n"
-    publishedDateTime: 2020-12-19T19:44:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0UXIek4FBSs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-campaign-sidney-powell-dominion-voting-systems/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-campaign-sidney-powell-dominion-voting-systems/index.html"
+  - title: "Supreme Court throws out challenge to Trump census plan to exclude undocumented immigrants"
+    excerpt: "This case is riddled with contingencies and speculation,” the court said in a short, unsigned opinion, referring to the states' challenge."
+    publishedDateTime: 2020-12-20T00:59:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/win-trump-supreme-court-throws-out-challenge-his-census-plan-n1251698"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251698"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251698"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
+      name: NBC News
+      domain: nbcnews.com
+    quality: 125
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Lara Trump's potential Senate candidacy does little to scare away Republican challengers in North Carolina"
-    excerpt: "The 2022 US Senate race in North Carolina could provide an early test of whether the Republican Party will continue to embrace President Donald Trump after his loss, potentially featuring Lara Trump, the President's daughter-in-law, against a field of current and former Republican officials unwilling"
-    publishedDateTime: 2020-12-16T22:12:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ta5rNqu6NgU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/lara-trump-north-carolina-senate-mark-walker/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/lara-trump-north-carolina-senate-mark-walker/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003203702-29-trump-covid-circle-lara-trump-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "With Trump Fading, Ukraine’s President Looks to a Reset With the U.S."
-    excerpt: "They roped us in, but I think we behaved with dignity,” Volodymyr Zelensky said of his encounter with American politics."
-    publishedDateTime: 2020-12-19T17:59:00Z
-    webUrl: "https://www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/18/world/18ZELENSKY1/18ZELENSKY1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_36/3306571/200413-census-poster-coronavirus-ac-505p_ae7532cbbf8350ffcd49b8f899c75c2a.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "In win for Trump, Supreme Court throws out challenge to his census plan to exclude undocumented immigrants"
     excerpt: "This case is riddled with contingencies and speculation,” the court said in a short, unsigned opinion, referring to the states' challenge."
@@ -94,20 +62,6 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_36/3306571/200413-census-poster-coronavirus-ac-505p_ae7532cbbf8350ffcd49b8f899c75c2a.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Gingrich among Trump loyalists named to Pentagon advisory board"
-    excerpt: "Chief among the new board appointees is former House Speaker Newt Gingrich, an ally of President Donald Trump. | Paul Morigi/ for Dentons The Pentagon named eight new members to the Defense Policy Board on Monday,"
-    publishedDateTime: 2020-12-14T18:58:00Z
-    webUrl: "https://www.politico.com/news/2020/12/14/newt-gingrich-pentagon-advisory-board-445185"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/85/3f/ee01a5bd4597a648457f363a970e/201214-newt-gingrich-gty-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "iQaIMdOFTdWSScBGV7Xrc+JHA83/OPZtCr68lLhxtvJWDfRRi5bv6AlMhsIEpf14pKNEDg9b79XvbYHtG5nxvdVdOA1WMuApdLSc8ObzDWU8fgDqMvDxSf0iOCBd1pxiuLVGdzHmf/rHKw9mgBdriLU67gyXD2biMATLL3+7f72FkpK30NDO5XKqRqRqg5Q0WSvAfOQKCUng8zuJ8IimNEjqvDSmt/gELjTY35W99srwFWHs3G6AfNaCtoyjnmWc1+obfrSX8d2Bzf0f7eZosDS2+XjRurDnQrf7gGpnJPPZBk8xJSQP18xp6euwpC+CHYoJPhCnLJF70JyGfNrkUSpy1CmtuxPENyapmZpCxro=;+yUZyJetxqs0uD3eIe1cnw=="

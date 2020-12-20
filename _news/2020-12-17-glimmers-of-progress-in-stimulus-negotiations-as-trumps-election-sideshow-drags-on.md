@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "George W. Bush sends holiday card with pointed message as Trump denies election loss"
-    excerpt: "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss.\n    \n"
-    publishedDateTime: 2020-12-16T23:44:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XUU1iQQ1IGE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
+  - title: "Trump's former national security adviser on using martial law to 'rerun election'"
+    excerpt: "An Oval Office meeting with President Donald Trump that included Sidney Powell and her client Michael Flynn began as an impromptu gathering but quickly devolved, two people familiar with the matter said. CNN's Jeremy Diamond reports screaming matches broke out at certain points as some of Trump's aides"
+    publishedDateTime: 2020-12-19T22:41:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OStSGx2G8JY/oval-office-meeting-trump-martial-law-powell-flynn-diamond-sot-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/19/oval-office-meeting-trump-martial-law-powell-flynn-diamond-sot-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/19/oval-office-meeting-trump-martial-law-powell-flynn-diamond-sot-nr-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 183
+    quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200602180649-george-bush-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201008203155-marine-oval-office-thursday-1008-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -64,101 +64,133 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Pentagon adds more Trump loyalists to Defense Policy Board"
-    excerpt: "The Pentagon has added more supporters of President Donald Trump to the Defense Policy Board following the removal of several high-profile members last month.\n    \n"
-    publishedDateTime: 2020-12-14T19:19:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6nO_D_TFpio/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/pentagon-defense-policy-board/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/pentagon-defense-policy-board/index.html"
+  - title: "Trump praises Tuberville after Alabama GOP senator-elect leaves open objecting to election results January 6"
+    excerpt: "President Donald Trump lauded Tommy Tuberville this week after the Republican Alabama senator-elect said he is not ruling out joining a House member to object to the election results when Congress meets in a joint session to accept the votes of the Electoral College.\n    \n"
+    publishedDateTime: 2020-12-18T16:31:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g_lST3RO-Nk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/tommy-tuberville-electoral-college-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/tommy-tuberville-electoral-college-reaction/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029152327-alabama-senate-race-doug-jones-tommy-tuberville-nws-orig-00002315-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "George W. Bush sends holiday card with pointed message as Trump denies election loss"
-    excerpt: "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss."
-    publishedDateTime: 2020-12-16T23:44:00Z
-    webUrl: "https://www.cnn.com/2020/12/16/politics/bush-christmas-card-trump/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
+  - title: "Pentagon under pressure from Trump administration to split NSA and Cyber Command"
+    excerpt: "The Trump administration is pushing to make major adjustments to the Pentagon organizations charged with cybersecurity and signals intelligence, according to a US defense official.\n    \n"
+    publishedDateTime: 2020-12-20T01:59:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAgg3jyefCs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 143
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200602180649-george-bush-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130128052250-pentagon-aerial-shot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump tells allies he will run in 2024, but hints he may back out"
-    excerpt: "In calls to allies, Trump has been asking how to navigate the next two years and floated a possible trip to the Middle East."
-    publishedDateTime: 2020-12-14T09:37:00Z
-    webUrl: "https://www.politico.com/news/2020/12/14/trump-2024-possible-run-444460"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-2024-possible-run-444460"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-2024-possible-run-444460"
+  - title: "Ex-DHS adviser under Trump calls for urgent action to address suspected Russian cyberattack"
+    excerpt: "President Donald Trump's former homeland security adviser described the massive data breach of multiple US federal agencies, which US officials suspect is the work of Russian-linked hackers, in urgent terms Wednesday night, calling for immediate and decisive action by the President.\n    \n"
+    publishedDateTime: 2020-12-17T14:58:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dP0p92E0wec/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/tom-bossert-trump-us-agencies-hack-russia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/tom-bossert-trump-us-agencies-hack-russia/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 165
     images:
-      - url: "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180410111157-03-tom-bossert-2017-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Trump antagonizes Republicans with Georgia fundraising ploy"
-    excerpt: "Emails and texts raising cash for Trump's PAC have rankled Republicans, who want cash to flow directly to Georgia's endangered GOP senators."
-    publishedDateTime: 2020-12-15T01:25:00Z
-    webUrl: "https://www.politico.com/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
+  - title: "Congressional backers cite cybersecurity provisions as they push Trump to sign defense bill"
+    excerpt: "The massive defense bill that President Donald Trump is threatening to veto contains provisions for increased cybersecurity, which has taken on significantly more importance in the wake of a massive cyberattack on federal agencies at the hands of suspected Russian hackers.\n    \n"
+    publishedDateTime: 2020-12-18T20:32:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RZrYuDIW11A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 165
     images:
-      - url: "https://static.politico.com/da/1f/59b5d43848958d4f1d12f634434c/gettyimages-1230110704-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170513225821-cyberattacks-ransomware-latest-sebastian-lklv-00002816-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "As Trump Leaves the White House, His Imprint on the Judiciary Deepens"
-    excerpt: "Published opinions from the nation’s appeals courts this year show that Trump appointees stand out from other judges, even those named by other Republican presidents."
-    publishedDateTime: 2020-12-17T08:00:00Z
-    webUrl: "https://www.nytimes.com/2020/12/17/us/politics/trump-judges-appeals-courts.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/17/us/politics/trump-judges-appeals-courts.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/17/us/politics/trump-judges-appeals-courts.amp.html"
+  - title: "Heated Oval Office meeting included talk of special counsel, martial law as Trump advisers clash "
+    excerpt: "President Donald Trump convened a heated meeting in the Oval Office on Friday, including lawyer Sidney Powell and her client, former national security adviser Michael Flynn, two people familiar with the matter said, describing a session that began as an impromptu gathering but devolved and eventually"
+    publishedDateTime: 2020-12-19T23:55:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g5v2cjoT5uk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-oval-office-meeting-special-counsel-martial-law/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-oval-office-meeting-special-counsel-martial-law/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211141734-trump-1207-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump campaign told to preserve all documents related to Sidney Powell and Dominion Voting Systems "
+    excerpt: "President Donald Trump's campaign legal team sent a memo to dozens of staffers Saturday instructing them to preserve all documents related to Dominion Voting Systems and Sidney Powell in anticipation of potential litigation by the company against the pro-Trump attorney.\n    \n"
+    publishedDateTime: 2020-12-19T19:44:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0UXIek4FBSs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-campaign-sidney-powell-dominion-voting-systems/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-campaign-sidney-powell-dominion-voting-systems/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "What’s Next for Trump Voters Who Believe the Election Was Stolen?"
+    excerpt: "Some are certain the election was fraudulent. Others aren’t so sure. What becomes of their skepticism has important implications for American democracy."
+    publishedDateTime: 2020-12-14T10:00:00Z
+    webUrl: "https://www.nytimes.com/2020/12/14/us/trump-voters-stolen-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/14/us/trump-voters-stolen-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/14/us/trump-voters-stolen-election.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 150
     images:
-      - url: "https://static01.nyt.com/images/2020/12/16/multimedia/00trumpjudges/00trumpjudges-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/13/us/TRUMPVOTERS-1/TRUMPVOTERS-1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Congress braces for painful veto clash with Trump on defense bill"
-    excerpt: "Congressional leaders are scrambling to avoid an unusual scenario in which lawmakers are summoned back to Washington in the days between Christmas and New Year’s for a dramatic, eleventh-hour vote to overturn Trump's promised veto of a massive national defense bill."
-    publishedDateTime: 2020-12-17T21:20:00Z
-    webUrl: "https://www.politico.com/news/2020/12/17/congress-trump-defense-bill-veto-447900"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/congress-trump-defense-bill-veto-447900"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/congress-trump-defense-bill-veto-447900"
+  - title: "Trump administration says it will withhold $200 million in California Medicaid funding over abortion insurance requirement"
+    excerpt: "The Trump administration announced two measures on Wednesday seeking to restrict abortion access, including withholding hundreds of millions in federal funding from California, one in a series of parting shots from an outgoing administration that has repeatedly sought to limit the procedure on religious"
+    publishedDateTime: 2020-12-17T05:12:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UQS8y_S0TXQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/trump-administration-abortion-medicaid-california/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/trump-administration-abortion-medicaid-california/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 149
     images:
-      - url: "https://static.politico.com/de/3e/2ecd7d6241fe83c9e3f29ee1aade/gettyimages-1223644845.jpg"
-        width: 4000
-        height: 2665
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209084134-alex-azar-hhs-vaccine-distribution-newday-camerota-vpx-00000412-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "In final meeting of Trump administration, Fed gets the last word on 2020"
     excerpt: "Federal Reserve Chair Jerome Powell has frequently urged lawmakers, using increasingly strong language, to pass more fiscal stimulus."
@@ -176,21 +208,21 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Inside the Right-Wing Media Bubble, Where the Myth of a Trump Win Lives On"
-    excerpt: "The Electoral College has affirmed Biden’s victory. That doesn’t mean that Trump-friendly news outlets have accepted it."
-    publishedDateTime: 2020-12-15T10:00:00Z
-    webUrl: "https://www.nytimes.com/2020/12/15/us/politics/trump-media.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/15/us/politics/trump-media.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/15/us/politics/trump-media.amp.html"
+  - title: "Trump appoints 1776 Commission members in last-minute bid to advance 'patriotic education'"
+    excerpt: "The group will be led by the president of the conservative Hillsdale College, Larry Arnn, a longtime Trump ally, the White House said."
+    publishedDateTime: 2020-12-18T18:06:00Z
+    webUrl: "https://www.politico.com/news/2020/12/18/trump-1776-commission-appointments-448229"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/18/trump-1776-commission-appointments-448229"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/trump-1776-commission-appointments-448229"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
+      name: Politico
+      domain: politico.com
+    quality: 125
     images:
-      - url: "https://static01.nyt.com/images/2020/12/15/us/politics/15trumpmedia1/15trumpmedia1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/d8/88/8403c9844566924526431b2c7c58/gettyimages-1215228995-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "YWKsM/GMcaC0AXUipWN+gG8kqUNTNbtWSmDCfjtRvg6WcMEFSKFVEJ6n29REDbkugf1pAdyX9zO80wBtG//cF0WQrDMa1WVNl4aUvBvkr1ecakzrqoRCAzLXZ48tO3GQNmIZ0RmGTgPWdqAnOaF9SRFLtH0BzZnKB5Y4Sd1eXJRjL5KYRVQ6qhJ0PQ9e00k7s6uf/1dwF5r70+iExEUtYrLtUchizqES0asYj9+facexxM4rY5sE8/haz1msHWFqZfMc7iBSfYHPgvPWUwa+vCMWjjY6V9Fwmqm7ijD9QpwlkCnMt0d6R5zD9ZjXPs7rp32zEVsVoElfOX58zhlk7cAxlqlk5HgiRwilN2cFJLzrywluoiGPpuGWvLRHLgeTnTx/kkUAnKnxc7uso3jrfGtD9GNQHu4qO5k8gcH8YAqqRHxFTCIVnSfXHIB8mDxSkp5s8/1OPo7/PHR54LwBWmYJzdxCUhpedXzsfx6PnUiJR2Tth7fdKemcGxPXrGMRVt+NtZvyTFHfjIeRiE/ipw==;5n9qYKT/yXNk3FeSB0dDOg=="

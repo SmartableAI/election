@@ -31,35 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Trump remains silent as massive cyber hack poses 'grave risk' to government"
-    excerpt: "When President Donald Trump convened his Cabinet at the White House Wednesday as Washington absorbed news of a massive data breach, the heads of most agencies relevant to the intrusion — including the Department of Defense, the State Department, the Justice Department, the director of national intelligence"
-    publishedDateTime: 2020-12-17T23:47:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/asOTSNp9um8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/trump-silence-cyber-hack/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/trump-silence-cyber-hack/index.html"
+  - title: "Trump's former national security adviser on using martial law to 'rerun election'"
+    excerpt: "An Oval Office meeting with President Donald Trump that included Sidney Powell and her client Michael Flynn began as an impromptu gathering but quickly devolved, two people familiar with the matter said. CNN's Jeremy Diamond reports screaming matches broke out at certain points as some of Trump's aides"
+    publishedDateTime: 2020-12-19T22:41:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OStSGx2G8JY/oval-office-meeting-trump-martial-law-powell-flynn-diamond-sot-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/19/oval-office-meeting-trump-martial-law-powell-flynn-diamond-sot-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/19/oval-office-meeting-trump-martial-law-powell-flynn-diamond-sot-nr-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216111257-trump-1212-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201008203155-marine-oval-office-thursday-1008-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump downplays massive cyber hack on government after Pompeo links attack to Russia"
-    excerpt: "Secretary of State Mike Pompeo on Friday said it's pretty clear Russia was behind the massive cyberattack on US federal government agencies, publicly linking Russia to the data breach as the President has remained silent on the matter.\n    \n"
-    publishedDateTime: 2020-12-19T18:47:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NHj7jFBg1V0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/pompeo-us-government-hack-russia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/pompeo-us-government-hack-russia/index.html"
+  - title: "Analysis: Glimmers of progress in stimulus negotiations as Trump's election sideshow drags on"
+    excerpt: "For the first time in months there were small signs of a functioning government Wednesday as congressional leaders negotiated a Covid-19 relief package and millions of vaccine doses were shipped out under the watchful eye of officials with Operation Warp Speed while carrying out contingency planning"
+    publishedDateTime: 2020-12-17T09:38:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mgDmvbWbiXk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 179
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201219133818-donald-trump-mike-pompeo-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216164205-us-capitol-snow-1216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump praises Tuberville after Alabama GOP senator-elect leaves open objecting to election results January 6"
+    excerpt: "President Donald Trump lauded Tommy Tuberville this week after the Republican Alabama senator-elect said he is not ruling out joining a House member to object to the election results when Congress meets in a joint session to accept the votes of the Electoral College.\n    \n"
+    publishedDateTime: 2020-12-18T16:31:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g_lST3RO-Nk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/tommy-tuberville-electoral-college-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/tommy-tuberville-electoral-college-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029152327-alabama-senate-race-doug-jones-tommy-tuberville-nws-orig-00002315-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pentagon under pressure from Trump administration to split NSA and Cyber Command"
+    excerpt: "The Trump administration is pushing to make major adjustments to the Pentagon organizations charged with cybersecurity and signals intelligence, according to a US defense official.\n    \n"
+    publishedDateTime: 2020-12-20T01:59:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAgg3jyefCs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130128052250-pentagon-aerial-shot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -79,37 +111,117 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump downplays cyberattack on federal agencies"
-    excerpt: "There's a rare split between President Trump and his loyal secretary of state on Russian involvement in a massive hack. While Mike Pompeo blamed Russia for the cyberattack, the president dismissed Kremlin responsibility on Twitter."
-    publishedDateTime: 2020-12-20T00:41:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/trump-downplays-cyberattack-on-federal-agencies-98086469687"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98086469687"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98086469687"
+  - title: "Heated Oval Office meeting included talk of special counsel, martial law as Trump advisers clash "
+    excerpt: "President Donald Trump convened a heated meeting in the Oval Office on Friday, including lawyer Sidney Powell and her client, former national security adviser Michael Flynn, two people familiar with the matter said, describing a session that began as an impromptu gathering but devolved and eventually"
+    publishedDateTime: 2020-12-19T23:55:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g5v2cjoT5uk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-oval-office-meeting-special-counsel-martial-law/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-oval-office-meeting-special-counsel-martial-law/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 162
     images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kod_trump_downplays_cyberattack_201219_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211141734-trump-1207-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Trump downplays Russia hack in first comments on massive breach, implicates China"
-    excerpt: "Trump's comments contradict members of his own Cabinet and government and are the latest example of his reluctance to criticize Russia."
-    publishedDateTime: 2020-12-19T17:43:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/trump-downplays-russia-hack-first-comments-massive-breach-implicates-china-n1251813"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251813"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251813"
+  - title: "Trump campaign told to preserve all documents related to Sidney Powell and Dominion Voting Systems "
+    excerpt: "President Donald Trump's campaign legal team sent a memo to dozens of staffers Saturday instructing them to preserve all documents related to Dominion Voting Systems and Sidney Powell in anticipation of potential litigation by the company against the pro-Trump attorney.\n    \n"
+    publishedDateTime: 2020-12-19T19:44:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0UXIek4FBSs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-campaign-sidney-powell-dominion-voting-systems/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-campaign-sidney-powell-dominion-voting-systems/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "What’s Next for Trump Voters Who Believe the Election Was Stolen?"
+    excerpt: "Some are certain the election was fraudulent. Others aren’t so sure. What becomes of their skepticism has important implications for American democracy."
+    publishedDateTime: 2020-12-14T10:00:00Z
+    webUrl: "https://www.nytimes.com/2020/12/14/us/trump-voters-stolen-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/14/us/trump-voters-stolen-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/14/us/trump-voters-stolen-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/13/us/TRUMPVOTERS-1/TRUMPVOTERS-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump administration says it will withhold $200 million in California Medicaid funding over abortion insurance requirement"
+    excerpt: "The Trump administration announced two measures on Wednesday seeking to restrict abortion access, including withholding hundreds of millions in federal funding from California, one in a series of parting shots from an outgoing administration that has repeatedly sought to limit the procedure on religious"
+    publishedDateTime: 2020-12-17T05:12:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UQS8y_S0TXQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/trump-administration-abortion-medicaid-california/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/trump-administration-abortion-medicaid-california/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 149
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209084134-alex-azar-hhs-vaccine-distribution-newday-camerota-vpx-00000412-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Glimmers of progress in stimulus negotiations as Trump's election sideshow drags on"
+    excerpt: "For the first time in months there were small signs of a functioning government Wednesday as congressional leaders negotiated a Covid-19 relief package and millions of vaccine doses were shipped out under the watchful eye of officials with Operation Warp Speed while carrying out contingency planning for delays due to the winter storm."
+    publishedDateTime: 2020-12-17T00:56:00Z
+    webUrl: "https://www.cnn.com/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 144
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216164205-us-capitol-snow-1216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "In final meeting of Trump administration, Fed gets the last word on 2020"
+    excerpt: "Federal Reserve Chair Jerome Powell has frequently urged lawmakers, using increasingly strong language, to pass more fiscal stimulus."
+    publishedDateTime: 2020-12-16T18:43:00Z
+    webUrl: "https://www.nbcnews.com/business/economy/final-meeting-trump-administration-fed-gets-last-word-2020-n1251425"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251425"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251425"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 130
+    quality: 134
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436956/201219-donald-trump-al-1201_cc2bfed051cfd5e2b83221935e1ccf78.jpg"
-        width: 3500
-        height: 2333
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_51/3436122/201216-jerome-powell-al-1007_adb347a74199f13249a748914bfc255d.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump appoints 1776 Commission members in last-minute bid to advance 'patriotic education'"
+    excerpt: "The group will be led by the president of the conservative Hillsdale College, Larry Arnn, a longtime Trump ally, the White House said."
+    publishedDateTime: 2020-12-18T18:06:00Z
+    webUrl: "https://www.politico.com/news/2020/12/18/trump-1776-commission-appointments-448229"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/18/trump-1776-commission-appointments-448229"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/trump-1776-commission-appointments-448229"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 125
+    images:
+      - url: "https://static.politico.com/d8/88/8403c9844566924526431b2c7c58/gettyimages-1215228995-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "/NLPftFqJhtqWmNrnciR+wmjhtHLHQImS8FgmORG/EE6vOfeKiZ4BKr/RhkmfsgczeGNR/2FUKAmUlakEm1R4f5K2Gz0TcnutH5IxuTshhjTb6rOJR96T1L+V+zcHs45qRU1m6O1xQUuZSmijX26l6dnCe70WyaIY0or6inAqMR9/58P72JerB/6zlpHFP6WM25fAJck633xUK4nSa/TQPX6j30MSmCalG1gNpcSqjMF5tl/I1J8n5c5olUc/2hVWtTrTYOGc70R2g4oATWUeNCqfb6hUtY9LA/5yXatAnYXlxpWKAQw1u94G4vj6PjeF7BGp05i6aVCzAyb4VsB8KDLk+cAOZPMUH7q9j/vI1A=;b20azkoNBkK3ymZTyJo0YQ=="

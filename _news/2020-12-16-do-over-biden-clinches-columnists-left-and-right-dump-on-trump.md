@@ -846,6 +846,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden faces increasing pressure to include greater Latino representation in his cabinet"
+    excerpt: "The Congressional Hispanic Caucus put more pressure on President-elect Joe Biden to bolster Latino representation in his cabinet."
+    publishedDateTime: 2020-12-20T02:13:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/re7kXNBUHdo/biden-pressure-greater-latino-representation-cabinet"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pressure-greater-latino-representation-cabinet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pressure-greater-latino-representation-cabinet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4f0c4ce-26a5-46b0-9492-d485a2f1d303/e1ba3175-f9c1-4dbe-a47f-e9b4991047df/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "FLASHBACK: President-elect Biden pledged not to interfere with DOJ investigations in 2019"
     excerpt: "“I would not dictate who should be prosecuted or who should be exonerated,\" Biden said during a debate in Nov. 2019."
     publishedDateTime: 2020-12-10T02:54:14Z

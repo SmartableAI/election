@@ -63,38 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "What’s Next for Trump Voters Who Believe the Election Was Stolen?"
-    excerpt: "Some are certain the election was fraudulent. Others aren’t so sure. What becomes of their skepticism has important implications for American democracy."
-    publishedDateTime: 2020-12-14T10:00:00Z
-    webUrl: "https://www.nytimes.com/2020/12/14/us/trump-voters-stolen-election.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/14/us/trump-voters-stolen-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/14/us/trump-voters-stolen-election.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/13/us/TRUMPVOTERS-1/TRUMPVOTERS-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump administration says it will withhold $200 million in California Medicaid funding over abortion insurance requirement"
-    excerpt: "The Trump administration announced two measures on Wednesday seeking to restrict abortion access, including withholding hundreds of millions in federal funding from California, one in a series of parting shots from an outgoing administration that has repeatedly sought to limit the procedure on religious"
-    publishedDateTime: 2020-12-17T05:12:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UQS8y_S0TXQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/trump-administration-abortion-medicaid-california/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/trump-administration-abortion-medicaid-california/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 149
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209084134-alex-azar-hhs-vaccine-distribution-newday-camerota-vpx-00000412-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "cpydAWqMSlihbjUOP7X3E3S/dEka/6KPQtRMq+WE1BcWxhWfv2gyWtKeI+SGvSCKFt7Bg7O/omz41p589bLya0pos0vOB7cPUzAGy8xgCijs50i9FT91FZwlh3/5HXpNwveHBru5vzFnvyjZIoIoEG6eyEWMZsialvotx8zPN+O6l+mesBHT5gCiDBvRlBd2glD8sHPUTacxtp+fY0/CZYEj+i6U4ej1yJ4pB9fMkYbHwG0bnijIPGiaa+BkmG/hzZHFGDk4EimJ/bmzK71XaqXMmNgWWy6W2++pBfzw9LvSQa8Hv2ZP4eu+ccXDushw2FZNwiku7QHh1/d+zLpP50DQmMgDTs9pu4o7LtjUwKw=;/Rdx7jszBCXz7E7pWny0IA=="
 ---
