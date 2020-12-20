@@ -202,6 +202,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "COVID-19 stimulus deal remains elusive as Trump signs 2-day spending bill to avoid shutdown"
+    excerpt: "This short-term extension of government funding would be the second time Congress has punted a shutdown deadline this month."
+    publishedDateTime: 2020-12-20T08:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/18/covid-stimulus-update-lawmakers-prepare-fund-government-2-days/3940074001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3940074001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3940074001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/17/USAT/82478af1-0d25-4fa4-bd52-06c5186b4f99-AFP_AFP_8XA3VM.jpg?auto=webp&crop=1023,576,x0,y66&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "WATCH LIVE: Pence leads COVID-19 vaccine roundtable discussion"
     excerpt: "Vice President Mike Pence will lead a roundtable discussion on Operation Warp Speed Dec. 15 after touring a COVID-19 vaccine production facility in Bloomington, Indiana."
     publishedDateTime: 2020-12-15T17:45:00Z

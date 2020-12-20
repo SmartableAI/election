@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Electoral College set to seal Trump's fate -- yet again "
-excerpt: "A constitutional ritual that is normally a little-noticed curiosity will Monday turn into a symbol of the US political system's durability while under assault from a defeated President seeking to overturn a democratic election.\n    \n"
-publishedDateTime: 2020-12-14T05:01:36Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dfVUnXqwny0/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dfVUnXqwny0/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/electoral-college-donald-trump-joe-biden/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/electoral-college-donald-trump-joe-biden/index.html"
+title: "Senate fails to advance 2 Trump nominees due to absences"
+excerpt: "The Senate on Saturday failed to move forward on two inspectors general because 12 Senate Republicans were absent, potentially costing President Donald Trump some lame duck appointees. In back-to-back 39-48 votes,"
+publishedDateTime: 2020-12-20T00:54:00Z
+originalUrl: "https://www.politico.com/news/2020/12/19/senate-trump-nominees-absences-448857"
+webUrl: "https://www.politico.com/news/2020/12/19/senate-trump-nominees-absences-448857"
+ampWebUrl: "https://www.politico.com/amp/news/2020/12/19/senate-trump-nominees-absences-448857"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/19/senate-trump-nominees-absences-448857"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201213211352-donald-trump-1212-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/c4/54/a06dd90f4c33bdf9d47da2a0af12/gettyimages-1291809608.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -62,6 +63,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/12/us/politics/13dc-overturn-1/merlin_181149501_545a5a52-9c27-44f3-891f-1caf1453f16a-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Electoral College set to seal Trump's fate -- yet again "
+    excerpt: "A constitutional ritual that is normally a little-noticed curiosity will Monday turn into a symbol of the US political system's durability while under assault from a defeated President seeking to overturn a democratic election.\n    \n"
+    publishedDateTime: 2020-12-14T05:01:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dfVUnXqwny0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/electoral-college-donald-trump-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/electoral-college-donald-trump-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201213211352-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Trump says he halted plan to immediately vaccinate White House staffers"
     excerpt: "High-ranking White House officials are set to receive some of the first coronavirus vaccines in the United States, according to a White House official and a person familiar.\n    \n"
@@ -207,22 +224,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Senate fails to advance 2 Trump nominees due to absences"
-    excerpt: "The Senate on Saturday failed to move forward on two inspectors general because 12 Senate Republicans were absent, potentially costing President Donald Trump some lame duck appointees. In back-to-back 39-48 votes,"
-    publishedDateTime: 2020-12-20T00:54:00Z
-    webUrl: "https://www.politico.com/news/2020/12/19/senate-trump-nominees-absences-448857"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/19/senate-trump-nominees-absences-448857"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/19/senate-trump-nominees-absences-448857"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/c4/54/a06dd90f4c33bdf9d47da2a0af12/gettyimages-1291809608.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Trump to sign executive order to prioritize Covid-19 vaccine shipment to US"
     excerpt: "NBC's Peter Alexander discusses Trump signing an executive order aimed at prioritizing the shipment of the coronavirus vaccine to the U.S. before other nations."
     publishedDateTime: 2020-12-08T18:28:00Z
@@ -316,6 +317,6 @@ related:
         height: 629
         isCached: true
 
-secured: "BqWKGkb6ZM6bNB7YkZiGupezRtCAn7h4H1P4x5tEwYRtmDwIHu19RIlGEKlAPutSbv1b7zeclhW8Mtdx3Dp3vGpUH0UL5qh6LdbwG96jgEeYOZVEMir+q89Plm+eH4NM5tTpnkSLG4POcVcl8Ij2HWGJN9rsHFLhE2MmnB19ZpTwLTrjvoEIBVNXHziMxUaSxOhISQD7LNzYEcdxIEgMG/QRyRIv7V+1ZCb8CY3FdHU+OmIwUV/5X/NEs1SOL5HiiSy8GSHHnRyne1njbZTYBSm0x6PdfIgKyjq8R+MV+wKdrBUkyfgEqrbuzBmTHjrd9SfySNy4lBVxGVlIus2R31UMmlujb2DI1NS2aWdkL2Q=;iT4s1q2kMH8kIj5ByqacIw=="
+secured: "g263oLeLWswf7i+5CC3aWEl4WbtHntSKCqfgcm2Wwli6JKW8tefw3WMrhNrEwRhbAfFVkloaOAYFHMOn0On+Jh89lGpFMUFVLiLxXTnPqzw0vueUjB7jg8eXVvbJscRjVVQhom9c7wONmV6qMaDAzzL6gmrVBZQzPVn+NLlOpU4iPCRdewZoX9lBeWA4vHqYsod9LKsQvcPr3W4DwcV+54OFRg89MY5vdiEaCUuXjwrbSzwKY+QI52/NE1xWSC7Iz9jVMMgXDvlsljWsqz9gptJwN6xm/2n2edv/AHFqhW1NobauiH/goFHBxYIfdC+jFZDDugFsvvJqRAE0ouoDgDCIGjag74XSWtd4WbQp2so=;dPAu3Q08MD0ThiFHTP38/Q=="
 ---
 

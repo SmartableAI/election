@@ -1,24 +1,34 @@
 ---
 category: news
-title: "Pence looks forward to receiving COVID-19 vaccine"
-excerpt: "Vice President Mike Pence says he looks forward in the days ahead to receiving a vaccine for COVID-19 and will do so without hesitation."
-publishedDateTime: 2020-12-15T23:22:00Z
-originalUrl: "https://napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.html"
-webUrl: "https://napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.html"
-ampWebUrl: "https://napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.amp.html"
-cdnAmpWebUrl: "https://napavalleyregister-com.cdn.ampproject.org/c/s/napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.amp.html"
+title: "COVID-19 stimulus deal remains elusive as Trump signs 2-day spending bill to avoid shutdown"
+excerpt: "This short-term extension of government funding would be the second time Congress has punted a shutdown deadline this month."
+publishedDateTime: 2020-12-20T08:55:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2020/12/18/covid-stimulus-update-lawmakers-prepare-fund-government-2-days/3940074001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2020/12/18/covid-stimulus-update-lawmakers-prepare-fund-government-2-days/3940074001/"
+ampWebUrl: "https://amp.usatoday.com/amp/3940074001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3940074001"
 type: article
-quality: 55
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: Napa Valley Register
-  domain: napavalleyregister.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2020/12/17/USAT/82478af1-0d25-4fa4-bd52-06c5186b4f99-AFP_AFP_8XA3VM.jpg?auto=webp&crop=1023,576,x0,y66&format=pjpg&width=1200"
+    width: 1200
+    height: 676
+    isCached: true
 
 related:
   - title: "Mike Pence just got a COVID-19 vaccine on live TV, as Trump sits out leading the US rollout"
@@ -192,22 +202,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "COVID-19 stimulus deal remains elusive as Trump signs 2-day spending bill to avoid shutdown"
-    excerpt: "This short-term extension of government funding would be the second time Congress has punted a shutdown deadline this month."
-    publishedDateTime: 2020-12-20T08:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/18/covid-stimulus-update-lawmakers-prepare-fund-government-2-days/3940074001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3940074001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3940074001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/17/USAT/82478af1-0d25-4fa4-bd52-06c5186b4f99-AFP_AFP_8XA3VM.jpg?auto=webp&crop=1023,576,x0,y66&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Trump claimed that COVID-19 vaccine would have taken 'five years' to develop if he weren't president"
     excerpt: "Trump's Operation Warp Speed has spent billions funding vaccine efforts, but Pfizer didn't take any federal money for research and development."
     publishedDateTime: 2020-12-13T22:16:00Z
@@ -378,6 +372,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pence looks forward to receiving COVID-19 vaccine"
+    excerpt: "Vice President Mike Pence says he looks forward in the days ahead to receiving a vaccine for COVID-19 and will do so without hesitation."
+    publishedDateTime: 2020-12-15T23:22:00Z
+    webUrl: "https://napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.html"
+    ampWebUrl: "https://napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.amp.html"
+    cdnAmpWebUrl: "https://napavalleyregister-com.cdn.ampproject.org/c/s/napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.amp.html"
+    type: article
+    provider:
+      name: Napa Valley Register
+      domain: napavalleyregister.com
+    quality: 55
   - title: "Vice President Mike Pence Receives COVID-19 Vaccine During Live Broadcast"
     excerpt: "Vice President Mike Pence receives Pfizer's COVID-19 vaccine at the White House on Friday, December 18, 2020, in a bid to build public confidence in its safety and efficacy. President Donald Trump will not receive the vaccine unless the White House medical team recommends it."
     publishedDateTime: 2020-12-18T14:07:00Z
@@ -407,6 +412,6 @@ related:
         height: 337
         isCached: true
 
-secured: "ndAux/TqySTj1LC3KJKhdtmEB6lXAPmgjTJQ0ytRDdyI9tqqoE1DQuCc8bcYWSizVALjB3iPem1eTU5kNJ5kC8DVANYFzBn0j+Ny1G59//z7k1pZJYcG/6B9XK2z+uMOvh7Aw1njxRTknHgEheyoR0TicsM3V48V8mMbPFNjhZWM6GAcHeIkNXkju5ph8RhT8FxwkhnTP9Dt01quo3MN/f7UifkH9mNnGuw2NyicGmFkqdx3GrVdbd5GSGAcOHMdmWCiSHpF7sCRbUm/4g4OxzQa8emRQOIBCM9XKjMlb3job3uPcQAmzQmeMA1a5jS7JfgZqNY4USJrlo8+13Sy9YF2HBDLLey/yOvQBTcf/aY=;+r7QIVe+JZ3QHH9PvEF/8g=="
+secured: "74TgNRhohJQZ2/vkrBm4OsI/DzB8QL7K0iZ9z67fx3qU3aWYBa2mCJETtIkFg40hLh2LvQglFT5W3E0WwajXbhSL8IePTFlTqaCiIO4A1zHYmXN0O6BZ48fCW7Cgu0leJiAlnA30lZ77mfTxzXTmipa/ZoJ+Ptmmx2Vz3eSSqPLhaRUvlQNRLX8w7BkHm9JHnR92oOPqtVEDyQpeGwTd1QDFrZr8fRMs68o7mj2N7TXI86cEsVlkuXd4xEb/1xyK3gkG1DQt4xdWmJV63IyYjN6LrzkdgZsUv7gZKvRHmt/yP/zIdgh8ZxdEI0W/jan4RtVPVOpjc9rH6HCQuF7HQaIPd+11fy1ObUrQlbLO0SQ=;GG4sFgbg53+j3XrLBqP5Bw=="
 ---
 

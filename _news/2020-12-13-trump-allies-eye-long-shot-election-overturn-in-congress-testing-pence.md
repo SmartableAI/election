@@ -209,6 +209,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Senate fails to advance 2 Trump nominees due to absences"
+    excerpt: "The Senate on Saturday failed to move forward on two inspectors general because 12 Senate Republicans were absent, potentially costing President Donald Trump some lame duck appointees. In back-to-back 39-48 votes,"
+    publishedDateTime: 2020-12-20T00:54:00Z
+    webUrl: "https://www.politico.com/news/2020/12/19/senate-trump-nominees-absences-448857"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/19/senate-trump-nominees-absences-448857"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/19/senate-trump-nominees-absences-448857"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c4/54/a06dd90f4c33bdf9d47da2a0af12/gettyimages-1291809608.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump to sign executive order to prioritize Covid-19 vaccine shipment to US"
     excerpt: "NBC's Peter Alexander discusses Trump signing an executive order aimed at prioritizing the shipment of the coronavirus vaccine to the U.S. before other nations."
     publishedDateTime: 2020-12-08T18:28:00Z

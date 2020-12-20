@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251820"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251820"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘Saturday Night Live’ Finds a New Joe Biden After Jim Carrey Exits"
+    excerpt: "Alex Moffat became the latest “S.N.L.” cast member to portray Biden, following Carrey’s announcement that he was stepping down from the role."
+    publishedDateTime: 2020-12-20T08:45:00Z
+    webUrl: "https://www.nytimes.com/2020/12/20/arts/television/snl-joe-biden-jim-carrey-kristen-wiig.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/20/arts/television/snl-joe-biden-jim-carrey-kristen-wiig.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/20/arts/television/snl-joe-biden-jim-carrey-kristen-wiig.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/20/arts/20snl/20snl-facebookJumbo.png"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Watch live: Biden delivers remarks on electoral college vote certification"
     excerpt: "Watch live coverage as President-elect Joe Biden speaks from Wilmington, De., after the electoral college voted to make his victory in the 2020 election official."
     publishedDateTime: 2020-12-14T23:51:00Z

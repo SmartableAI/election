@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-19-covid-19-live-updates-pence-mcconnell-and-other-us-officials-receive-vaccines.md",
+      "title": "Covid-19 Live Updates: Pence, McConnell and Other U.S. Officials Receive Vaccines",
+      "excerpt": "Experts fear the country’s deep partisan divide may limit the vaccine's reach to Republicans. France’s president details his symptoms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2020/12/18/world/covid-19-coronavirus",
+      "originalUrl": "https://www.nytimes.com/live/2020/12/18/world/covid-19-coronavirus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/18/us/18virus-briefing-covax/18virus-briefing-covax-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2020/12/18/world/covid-19-coronavirus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/18/world/covid-19-coronavirus.amp.html",
+      "publishedDateTime": "2020-12-18T11:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions.md",
       "title": "Abortion, Guns and Trump: A Church Group Tries to Navigate America’s Divisions",
       "excerpt": "In suburban Michigan, a group of worshipers from Calvary Christian Reformed Church sought understanding through dialogue. Sometimes it was tough going. ‘My soul is hurting,’ one member lamented.",
@@ -736,7 +793,7 @@
       "originalUrl": "https://www.businessinsider.com/video-mike-pence-coronavirus-vaccine-live-tv-trump-hides-background-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 610,
+      "heat": 630,
       "tags": null,
       "images": [
         {
@@ -1327,58 +1384,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-bidens-incoming-deputy-chief-of-staff-apologizes-for-calling-republicans-a-bunch-of-f-ers.md",
-      "title": "Biden's incoming deputy chief of staff apologizes for calling Republicans 'a bunch of f---ers'",
-      "excerpt": "\"I used some words that I probably could have chosen better,\" O'Malley Dillon said on Thursday, per a Politico report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-staffer-jen-omalley-dillon-apologizes-gop-expletive-2020-12",
-      "originalUrl": "https://www.businessinsider.com/biden-staffer-jen-omalley-dillon-apologizes-gop-expletive-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fdbc16bc910a400192e82a5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-staffer-jen-omalley-dillon-apologizes-gop-expletive-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-staffer-jen-omalley-dillon-apologizes-gop-expletive-2020-12?amp",
-      "publishedDateTime": "2020-12-17T13:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

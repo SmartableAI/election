@@ -48,6 +48,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "‘Saturday Night Live’ Finds a New Joe Biden After Jim Carrey Exits"
+    excerpt: "Alex Moffat became the latest “S.N.L.” cast member to portray Biden, following Carrey’s announcement that he was stepping down from the role."
+    publishedDateTime: 2020-12-20T08:45:00Z
+    webUrl: "https://www.nytimes.com/2020/12/20/arts/television/snl-joe-biden-jim-carrey-kristen-wiig.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/20/arts/television/snl-joe-biden-jim-carrey-kristen-wiig.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/20/arts/television/snl-joe-biden-jim-carrey-kristen-wiig.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/20/arts/20snl/20snl-facebookJumbo.png"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "7Tv4ej++/csHi+AmX4mshv6RNhusKYYwrvZTGb5fgEgEgjNJGqSR9m80p91sGDFE+99PYyhbmacG8U2lb+VMs5vIP3bHchwn/m8has+t8NE635xUqqIq6TixfvXyCp/9iV6bIL7hlkyikdUwS4lkFBKidij6pl3flvWlIKBPFzb8kMzGNXdMaM4gZ9995ekdfzvlv5x1UDuogdSKaWdt1yFMUqkPmJK77LPITp0nUHMzLYdy7c9Rb57mUpC9NApem8q2OFmE4z7C4MlqlZKEoeMrT4unPGyg8pU6t7VbR8Gjp3aaOReUp7bl/hQsri7B8aNwjL5mzzyMiVpmz3PXbh6Zt4HbxA0Z0RLuUQMmay0=;5GfyuTjVmxYwouwRDjixaQ=="
 ---

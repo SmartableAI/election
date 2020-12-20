@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-02-donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years.md",
+      "title": "Donald Trump suggests 2024 presidential bid: 'I'll see you in four years'",
+      "excerpt": "President makes comments to Republicans at a White House reception, where video shows dozens of people crammed together without masks",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/54100791a8b7b74981f48fa11e0f564cee5eaa9a/0_279_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=12fbd88d874e58a3ea82feb28d17ca57",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years",
+      "publishedDateTime": "2020-12-01T22:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-hispanic-lawmakers-urge-biden-to-pick-lujan-grisham-for-hhs.md",
       "title": "Hispanic lawmakers urge Biden to pick Lujan Grisham for HHS",
       "excerpt": "Members of the Congressional Hispanic Caucus have sent a letter to President-elect Joe Biden's transition team lobbying for New Mexico Gov. Michelle Lujan Grisham to be nominated for the role of health and human services secretary.\n    \n",
@@ -1312,49 +1364,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue.md",
-      "title": "Mike Pence will visit Savannah Friday to rally for Loeffler, Perdue",
-      "excerpt": "Vice President Mike Pence will be in Georgia for the second time in two weeks on Friday, and this time, he’ll be in Savannah. Pence will return to",
-      "sourceUrl": null,
-      "webUrl": "https://www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue",
-      "originalUrl": "https://www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.savannahnow.com/apps/pbcsi.dll/bilde?Site=GA&Date=20201130&Category=NEWS&ArtNo=201139931&Ref=AR",
-          "width": 2331,
-          "height": 1556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue?template=ampart",
-      "cdnAmpWebUrl": "https://www-savannahnow-com.cdn.ampproject.org/c/s/www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue?template=ampart",
-      "publishedDateTime": "2020-11-30T18:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Savannah Morning News",
-        "domain": "savannahnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

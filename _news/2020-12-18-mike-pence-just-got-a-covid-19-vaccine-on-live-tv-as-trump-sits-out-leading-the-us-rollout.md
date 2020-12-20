@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/video-mike-pence-coronavirus-vaccine
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-mike-pence-coronavirus-vaccine-live-tv-trump-hides-background-2020-12?amp"
 type: article
 quality: 130
-heat: 610
+heat: 630
 published: true
 
 provider:
@@ -183,6 +183,22 @@ related:
     quality: 115
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/a991105e-7421-4d8a-9579-88bea40d37a1-daniel_burrows.png?auto=webp&crop=529,298,x0,y176&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "COVID-19 stimulus deal remains elusive as Trump signs 2-day spending bill to avoid shutdown"
+    excerpt: "This short-term extension of government funding would be the second time Congress has punted a shutdown deadline this month."
+    publishedDateTime: 2020-12-20T08:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/18/covid-stimulus-update-lawmakers-prepare-fund-government-2-days/3940074001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3940074001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3940074001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/17/USAT/82478af1-0d25-4fa4-bd52-06c5186b4f99-AFP_AFP_8XA3VM.jpg?auto=webp&crop=1023,576,x0,y66&format=pjpg&width=1200"
         width: 1200
         height: 676
         isCached: true

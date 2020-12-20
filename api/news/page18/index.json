@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-11-24-biden-picks-alejandro-mayorkas-a-son-of-jewish-cuban-refugees-to-lead-the-department-of-homeland-security.md",
+      "title": "Biden picks Alejandro Mayorkas, a son of Jewish Cuban refugees, to lead the Department of Homeland Security",
+      "excerpt": "Mayorkas was second-in-command at DHS under President Barack Obama. He would be the first immigrant and first Hispanic American to lead the department.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/immigration/biden-dhs-alejandro-mayorkas/2020/11/23/9579a510-2dad-11eb-9c71-ccf2c0b8d571_story.html",
+      "originalUrl": "https://www.washingtonpost.com/immigration/biden-dhs-alejandro-mayorkas/2020/11/23/9579a510-2dad-11eb-9c71-ccf2c0b8d571_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VV7ENMBNZQI6XFWCVLB7CYRBLU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/immigration/biden-dhs-alejandro-mayorkas/2020/11/23/9579a510-2dad-11eb-9c71-ccf2c0b8d571_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/biden-dhs-alejandro-mayorkas/2020/11/23/9579a510-2dad-11eb-9c71-ccf2c0b8d571_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-23T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-biden-to-tap-former-fed-chair-janet-yellen-as-treasury-secretary-report.md",
       "title": "Biden to tap former Fed Chair Janet Yellen as Treasury secretary: report",
       "excerpt": "President-elect Joe Biden will reportedly nominate former Federal Reserve Chair Janet Yellen to serve as Treasury secretary in his administration, which would make her the first female to hold the Cabinet post.",
@@ -1317,58 +1369,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-less-pomp-and-circumstance-biden-inauguration-likely-to-be-scaled-down-affair-in-response-to-covid.md",
-      "title": "Less pomp and circumstance? Biden inauguration likely to be scaled-down affair in response to COVID",
-      "excerpt": "Joe Biden's inauguration in January is expected to look a lot different than previous presidential inaugurals. The reason: COVID.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/21/joe-biden-inauguration-amid-pandemic-scaled-down-affair/6278654002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/21/joe-biden-inauguration-amid-pandemic-scaled-down-affair/6278654002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e0873822-4b69-42e9-b96d-431644856090-AP_APTOPIX_Election_2020_Biden.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6278654002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6278654002",
-      "publishedDateTime": "2020-11-21T05:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

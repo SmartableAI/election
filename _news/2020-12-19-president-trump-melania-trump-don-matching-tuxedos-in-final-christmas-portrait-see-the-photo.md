@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Georgia Gov. Brian Kemp has been mercilessly attacked by Trump. But he still attended a White House Christmas Party."
+    excerpt: "Kemp has drawn the ire of Trump and GOP activists for what they perceive as a lack of support in investigating unsubstantiated claims of voter fraud."
+    publishedDateTime: 2020-12-20T07:12:00Z
+    webUrl: "https://www.businessinsider.com/brian-kemp-white-house-christmas-party-trump-twitter-attacks-georgia-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/brian-kemp-white-house-christmas-party-trump-twitter-attacks-georgia-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brian-kemp-white-house-christmas-party-trump-twitter-attacks-georgia-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5fdef2a6c910a400192e8922?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "ER+TK4FirJStzDtUH1RMF7uI8S6dfhiAJVzo3LlbcZciS2C435wX6CA1JYAjxcciV4r5IOcyU4g7n1Vg9LywMfvLKfWQ1uQrUd83TQwbUfKg4k8v7I+gH+f9EJ2cjDX+vMf+YjHhd3+Eaidv8yLzIB/uFjVZhGlJGgC8T7VyIz9eTdQj4y5+UhcCnSfRY09fOQmN5kqrTtARig/4ccIVKylNYeby2azr1aFudlJe8hhqW6Xgukph7FkoPUznj6e9GjgRSEa0plq1tlaiU4/bngts/yTgGwEM4jWsXATG6bSMjnN97pa1YgZ1ARAsCY9oN/K5fZtVoGcp7XlJLzj8OvlplEYLz9DanJ+fuAP9n5gMIPilaGdcKQISV/PHenNz1tIlpPra+Q+AQ0FISRpYqeY+QOVXO1GluiOxw/+moKTyxLh2TDrsiWa9vOP4NIfzIXT7HAsIwvso8D+t+kpB1AFU7lpRDtN9ortAr/O5ZtRSjjJLtk9S/RN2SlS0HsfxnOR6K2J0BlcMFZtRA3/+Jw==;gAXJPjQy5s22y9XJt+xqlw=="
 ---

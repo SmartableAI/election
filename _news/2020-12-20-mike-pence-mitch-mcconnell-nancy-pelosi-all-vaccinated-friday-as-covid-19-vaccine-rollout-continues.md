@@ -196,6 +196,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "COVID-19 stimulus deal remains elusive as Trump signs 2-day spending bill to avoid shutdown"
+    excerpt: "This short-term extension of government funding would be the second time Congress has punted a shutdown deadline this month."
+    publishedDateTime: 2020-12-20T08:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/18/covid-stimulus-update-lawmakers-prepare-fund-government-2-days/3940074001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3940074001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3940074001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/17/USAT/82478af1-0d25-4fa4-bd52-06c5186b4f99-AFP_AFP_8XA3VM.jpg?auto=webp&crop=1023,576,x0,y66&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Trump claimed that COVID-19 vaccine would have taken 'five years' to develop if he weren't president"
     excerpt: "Trump's Operation Warp Speed has spent billions funding vaccine efforts, but Pfizer didn't take any federal money for research and development."
     publishedDateTime: 2020-12-13T22:16:00Z
@@ -392,6 +408,6 @@ related:
         height: 489
         isCached: true
 
-secured: "LNoc9gBvymT6vM/fdtQcGBE2V9o26ga4IVc6RNJ8riC5ShdMD1zY7zaqzA3dTXimlmZCM4MgFh9Pq6RDxEYSO0KaPDhsxt7JOHo9EMmtkUWHRopBw1XunNuhmPHgyV7UDQhyfJ778aBWw3kKpYexk1Q/z4e7MsclyQ2/YNZqa++IdFul2otNjSwaciHSgMbVTi6tPPetxox+z8kUlSh5yuqd0vD/8GfeTl2nZVGISQ/eu+ZDf3ARkTZZCUcFzarblIP/ev2RysGyce5gPifTCa1cdmnN92YHIpDis+RuZNIreFN0AOY8dn6J94q/Z294QUfq4ucDOUIw/atj47nZ9tZEGEBjV0xxLg5HZ+Nv2YA=;BJT8mzNmfSKpbThUydMjlA=="
+secured: "xl6JvqpbbyTXDSBYFF6vQRF2lSudnOtk6RIf3mD3IXjXKHKGrab04zrB5ooEWgtsX1x5IkGtyjf+wGWmRKkAUV65975TdqzN+zSS4rl/HSRVFb1IsvtivHbbvFVr603g0Gk5muGRhNEt2Z6xX3joP/3KffpuDWsGQfxPuErvQARDNDHyGp16kJbW97C89oSF2mSQYwEhCkOOjQXB1li/OUeLIBWbRZUSSv7Ckvd2XkoTBQm/r+bfZxO4GXK5nxKk6u7fXnHndgO0+HhQEqvRyYlYpqioYiVNeo36XL+K9/5oa/unpyfSm8VudqxciL+Ki7MRWtsKRYX/u50gBdNte55pnuGO71GLeyWyuujOekMf03BnrLqJTovLub8+QvjrSgHgRN59e87MBSPdmaN+L2PucxkmTitbF2RtF/WkBQ+PwOpfbYucKKLX6AmQdvkD9L/Alaq0vyMK3kQico4uvRDlBBliG/pcghBe+imQf1wgxwtIYPRWv5826MePrGfpKvWOxehIFTgOKeOO2cEJPQ==;bjiXqGjQUK/QW1oP4cB8kA=="
 ---
 
