@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump's former national security advisor says the president should impose martial law to force new elections in battleground states"
-excerpt: "Flynn's remarks are not based in reality because Trump does not have the power to change the date of an election and the results have been certified."
-publishedDateTime: 2020-12-18T15:24:00Z
-originalUrl: "https://www.businessinsider.com/michael-flynn-trump-military-martial-law-overturn-election-2020-12"
-webUrl: "https://www.businessinsider.com/michael-flynn-trump-military-martial-law-overturn-election-2020-12"
-ampWebUrl: "https://www.businessinsider.com/michael-flynn-trump-military-martial-law-overturn-election-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-flynn-trump-military-martial-law-overturn-election-2020-12?amp"
+title: "Trump attempt to overturn election is 'nutty and loopy', Romney says"
+excerpt: "Utah Republican decries flirtation with Flynn martial law plan and suggestion conspiracy theorist Powell could be special counsel"
+publishedDateTime: 2020-12-20T20:21:00Z
+originalUrl: "https://www.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney?ref=newsnetworks-dot-com"
+webUrl: "https://www.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney?ref=newsnetworks-dot-com"
+ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney"
 type: article
-quality: 110
-heat: -1
-published: false
+quality: 140
+heat: 260
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,28 +25,12 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/5a2506e67101ad5c7d7f4e9d?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://i.guim.co.uk/img/media/7d1d3b375fd2e6f241b830500e10ca3a1128bc06/0_139_4166_2499/master/4166.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=55712b8160d3857ce3ca12773beb4d92"
+    width: 600
+    height: 360
     isCached: true
 
 related:
-  - title: "Trump attempt to overturn election is 'nutty and loopy', Romney says"
-    excerpt: "Utah Republican decries flirtation with Flynn martial law plan and suggestion conspiracy theorist Powell could be special counsel"
-    publishedDateTime: 2020-12-20T20:21:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney?ref=newsnetworks-dot-com"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 140
-    images:
-      - url: "https://i.guim.co.uk/img/media/7d1d3b375fd2e6f241b830500e10ca3a1128bc06/0_139_4166_2499/master/4166.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=55712b8160d3857ce3ca12773beb4d92"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Trump wants Supreme Court to overturn Pa. election results"
     excerpt: "President Donald Trump’s campaign says it has filed a new petition with the Supreme Court as it continues its unprecedented efforts to overturn the results of the Nov 3"
     publishedDateTime: 2020-12-20T22:37:00Z
@@ -111,6 +95,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump's former national security advisor says the president should impose martial law to force new elections in battleground states"
+    excerpt: "Flynn's remarks are not based in reality because Trump does not have the power to change the date of an election and the results have been certified."
+    publishedDateTime: 2020-12-18T15:24:00Z
+    webUrl: "https://www.businessinsider.com/michael-flynn-trump-military-martial-law-overturn-election-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/michael-flynn-trump-military-martial-law-overturn-election-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-flynn-trump-military-martial-law-overturn-election-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5a2506e67101ad5c7d7f4e9d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump says U.S. Attorney General Barr resigns"
     excerpt: "U.S. Attorney General William Barr will step down next week, he said on Monday, shortly after the Electoral College confirmed President Donald Trump's loss to Democratic President-elect Joe Biden."
     publishedDateTime: 2020-12-15T09:00:00Z
@@ -126,6 +126,6 @@ related:
         height: 1495
         isCached: true
 
-secured: "tLnCerB0m3yptekL3QSHvJUxOzvYTJ9ido/n0qDPXZFMa4uOXx3OrAsO7rAwBUh08fRcveD0uE36REbUU0IPMo7mMxt/cJotWTysG4XMEMbXmzBzJz+CqzkZypzBixcP4G5SVXj2kJ6UdLz2E7eWE9fEb00g+4yMXj0Ad693uTkChLrHgyNVDe34eSwPfsqYLryAo+lelWwds8359WhK3TbmKSRypLAYvyO9eN9UgdVzVEM7OOMJJYFqUOF0k9yNkzDBTsF+oslGKN+b2X36tph1QEShnpRUBgzbfXMYtd7DflCCc7RoSWxWgR7en/I+dISFXwMHY6bJzFnVUdW9nwVa4A5uRlwTEKa68VzyrHs=;wgJUDxon0tiwrNDh6mHpug=="
+secured: "ynFS4vWCkFbndmEvR/4Oik/GaTkByXNVBSW38FS4vg7ljhnlyVC1B7OOn7EtdfusMVoYqr9gXEipl4omu6H+LnUgsIPzOJ4HhQ3cPy3qfgfZz3eoRHGritB1joVLyyd4VAot93BioyBUT04Hqo6LYy1q0ghwaTuC6tjaLarE7I1hisnlHFeBA0zKlisou+0g3qxrrXBZmiFLr+nGlYeP1hbK4h3evYZ514UUIxUXHYG4ibhu5V24Hyc7oX7p3jhx6Oc3WqYKYrTcOdrSVCBfRVGTXEQqBMeutNSC4qXViWgUBXGkqmCXlwnrsDR7RvXm7c3L37czJ56qBhwW+gllCA75K1II6y/4JS756F4ZZ2U=;0P8nn28q2+6ZDSTGjQG/Hg=="
 ---
 
