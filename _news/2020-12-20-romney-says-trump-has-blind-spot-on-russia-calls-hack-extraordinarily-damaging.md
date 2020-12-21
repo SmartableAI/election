@@ -73,6 +73,22 @@ related:
         width: 812
         height: 545
         isCached: true
+  - title: "Trump signs temporary spending bill into law to avoid government shutdown - White House statement"
+    excerpt: "President Donald Trump signed a temporary spending bill into law on Sunday night to avoid a government shutdown, the White House said in a statement."
+    publishedDateTime: 2020-12-21T05:05:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-trump-idUSKBN28V0ET"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V0ET"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V0ET"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 112
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545260975&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK063"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump downplays massive cyberattack while Pompeo blames Russia"
     excerpt: "President Trump responded to a massive cyberattack on the U.S., downplaying its severity and impact. Meanwhile, Secretary of State Mike Pompeo blamed Russia for the hack, which affected at least seven government agencies and went undetected for months."
     publishedDateTime: 2020-12-19T20:06:00Z

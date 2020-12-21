@@ -63,6 +63,22 @@ related:
         width: 812
         height: 545
         isCached: true
+  - title: "Trump signs temporary spending bill into law to avoid government shutdown - White House statement"
+    excerpt: "President Donald Trump signed a temporary spending bill into law on Sunday night to avoid a government shutdown, the White House said in a statement."
+    publishedDateTime: 2020-12-21T05:05:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-trump-idUSKBN28V0ET"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V0ET"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V0ET"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 112
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545260975&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK063"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump downplays massive cyberattack while Pompeo blames Russia"
     excerpt: "President Trump responded to a massive cyberattack on the U.S., downplaying its severity and impact. Meanwhile, Secretary of State Mike Pompeo blamed Russia for the hack, which affected at least seven government agencies and went undetected for months."
     publishedDateTime: 2020-12-19T20:06:00Z
@@ -135,6 +151,6 @@ related:
         height: 630
         isCached: true
 
-secured: "U24mcHASds7xqBO7D9zmzxTz4NLMpxf3tpmFjrs0aWq5J0ESn/I7y06cwGYGNvrjXjS7Sw/BxkoJAM5hwhCIOAZnuLucYxdWyLN0OVtIhpJDwp/RyRBcd2K6uYB8D8g1501gigdDitakKoRxjj44MhCqfnMZ91tUQQOOFLYZKhxDK13jHP7kBdSCVY/CARaxB7BXudu9oNI2zX7FhIvFt5ScJyR6oerKx7AyaqikitP2dKUYxoxsDjq7K5OiRidI0dQTFkntt0x0nLj/hTU7+1E/OR4URyxt92p73m3sfWrTDfXIfaexuZtP7sHwmCpmVgDSTU34WzIy7Akt90TIlyi4WYjSjTRCQT3LO6Bt/g4=;2G9A3mHSlu4XbubmSgqf9A=="
+secured: "JSVksY+RcbE9uMiR0336AWiPUtO025XnLOmzmYvjkCoCeE+dUuGOMEzLTxbeTzIGnsqIUNlu+nJjvNFKoEBuwZIMk+Q3C8r93jne0szrFAsyHKMGSTYOesCvXpntKY9MgUexxzjVQXkrZjq/+fnvnRtad52yJ5fAhtFzrDnxCIV3n1FZNIDn1yxOgKfJ2qFVXoeTxYb4NRWZSb/JlEnZ5iAktNPZ9N3/wxxE38EPLLs+Ie9fP3z5L8xrcxE7jl82kC0awQ4MKs1z9Hhn9ky5pfOolCt4IN7YqgIDSo8T8ZIHW8JycpOuF2Ck5IwY5+azc+lWoGY0mbe3o7bi9OSu0iKbDqCc1WjxQ+EXwx9wwv4taOCd/eD/2AzL++m7+CiZLeE56ze3iCSPSfan8xnXTekQa3P0PAe2GQtc9FiWjlP4hPGvst0gdLL/5X/33mXn8/1j0+1zj2LYUPFbRr9gImY4SJc+yjCkL1aKKhxBbx0ypsX4Pwlf+/2SeQon/28GrfrHToSOiofLsFeF/EF2Rg==;HisghoCTanKEzkCmqLqyWA=="
 ---
 

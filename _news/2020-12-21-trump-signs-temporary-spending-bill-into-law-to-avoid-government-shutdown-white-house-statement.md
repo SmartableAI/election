@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Trump questions Russian involvement in hacking"
-excerpt: "World Trump questions Russian involvement in hacking. Posted . U.S. President Donald Trump in his first comments about a widespread data breach across the U.S. government downplay"
-publishedDateTime: 2020-12-19T23:20:00Z
-originalUrl: "https://www.reuters.com/video/watch/trump-questions-russian-involvement-in-h-id723253856?chan=8gwsyvzx"
-webUrl: "https://www.reuters.com/video/watch/trump-questions-russian-involvement-in-h-id723253856?chan=8gwsyvzx"
+title: "Trump signs temporary spending bill into law to avoid government shutdown - White House statement"
+excerpt: "President Donald Trump signed a temporary spending bill into law on Sunday night to avoid a government shutdown, the White House said in a statement."
+publishedDateTime: 2020-12-21T05:05:00Z
+originalUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-trump-idUSKBN28V0ET"
+webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-trump-idUSKBN28V0ET"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V0ET"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V0ET"
 type: article
-quality: 105
+quality: 112
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?d=20201219&i=OVD9OH6U7&r=OVD9OH6U7&t=2"
-    width: 960
-    height: 540
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545260975&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK063"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -77,22 +79,6 @@ related:
         width: 812
         height: 545
         isCached: true
-  - title: "Trump signs temporary spending bill into law to avoid government shutdown - White House statement"
-    excerpt: "President Donald Trump signed a temporary spending bill into law on Sunday night to avoid a government shutdown, the White House said in a statement."
-    publishedDateTime: 2020-12-21T05:05:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-trump-idUSKBN28V0ET"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V0ET"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V0ET"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 112
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545260975&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK063"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump downplays massive cyberattack while Pompeo blames Russia"
     excerpt: "President Trump responded to a massive cyberattack on the U.S., downplaying its severity and impact. Meanwhile, Secretary of State Mike Pompeo blamed Russia for the hack, which affected at least seven government agencies and went undetected for months."
     publishedDateTime: 2020-12-19T20:06:00Z
@@ -106,6 +92,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/19/c4fe8484-65cb-4e80-9c18-bcd7156e46d5/thumbnail/1200x630/c917a8dd6992345c8768d9b7ab63fb51/cbsn-fusion-president-trump-downplays-massive-cyberattack-mike-pompeo-blames-russia-for-breach-thumbnail-612837-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump questions Russian involvement in hacking"
+    excerpt: "World Trump questions Russian involvement in hacking. Posted . U.S. President Donald Trump in his first comments about a widespread data breach across the U.S. government downplay"
+    publishedDateTime: 2020-12-19T23:20:00Z
+    webUrl: "https://www.reuters.com/video/watch/trump-questions-russian-involvement-in-h-id723253856?chan=8gwsyvzx"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201219&i=OVD9OH6U7&r=OVD9OH6U7&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Secretary of state says Russia ‘pretty clearly’ behind major cyberattack on US government, industry; Trump silent"
     excerpt: "Mike Pompeo says Russia was “pretty clearly” behind the gravest cyberattack against the United States on record."
@@ -151,6 +151,6 @@ related:
         height: 630
         isCached: true
 
-secured: "t2nqK6fozpIvsw2mxL6pp2CAIZLLq2RNQlJHx5XTZC2+pz/hYG6zB6Zg57eurIcu/mQ6wrHL+it0qH+dOdCxA/ov/Smb21dmW6JOTvmlxiBcNsXoi8n1uTaxkbwV1Yunu+1gBilrHcfia5HmykNIF+ynkCB2ruisRpXlMJMKmkUgL4lFV57Yk15P84EAFAVAFf1RzIpTcLifwvIcRIwJjrALwdXzvS8fwBXbpXxNLnUIVneIYNnBSiZd0TCnK4Ui25ZqqrxlHdLL09otU30HTxQIrm5/4f/jaQiy5JuNZT34trYYPP3+4CMSZgGOF9fj0HEk3xOeTD5BuWk7mwUXcOWFOxb43dpKxDnbnvdIfOM=;0YnMZY+VaX+zY/6WfPZRMw=="
+secured: "zMuBlw5+/0WXiCiMe0im09CotVWKkT/X2wOZ5tdo1UA7rbHUf0tgTtteCPuY+l8aiC45lnM5QGJ0F4EmYz3WuMlfHY+o34u3R9I85MnM2mnp5tjmEXhelDPjXsgGmv5Cd+MVxUYJkSsl3qi/FHuhzD40lKLGelJoZjg07vGzNbIa3RHQtyp2VkzkOcgd5Y0xmHSnrjCI5VN4qVaXKyNN+1AQbbYcAgQ6AoCkfZwz8QDtZKUMmY7s7kGps7SAf+RXk2Kp5kKMdHQtZ9W0FRt5SJE8W9BYfiPNvxo/K1ztjSqnDycvu2ZBx1Xyfvw5XhFEY9tP52ScA/RS5MHC5K4KClY9+AjJBkucb6ASNqV4rpk=;iwLnDA3MyiVEl4WrWiEHGw=="
 ---
 
