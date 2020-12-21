@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The US declares Switzerland and Vietnam as currency manipulators in the final days of Trump's administration"
-    excerpt: "Joe Biden's incoming administration, according to a chief emerging markets strategist."
-    publishedDateTime: 2020-12-17T21:21:00Z
-    webUrl: "https://www.businessinsider.com/us-calls-switzerland-vietnam-manipulators-in-trump-trade-shot-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/us-calls-switzerland-vietnam-manipulators-in-trump-trade-shot-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-calls-switzerland-vietnam-manipulators-in-trump-trade-shot-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
-    images:
-      - url: "https://i.insider.com/5fdb492dc910a400192e8017?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Georgia Gov. Brian Kemp has been mercilessly attacked by Trump. But he still attended a White House Christmas Party."
     excerpt: "Kemp has drawn the ire of Trump and GOP activists for what they perceive as a lack of support in investigating unsubstantiated claims of voter fraud."
     publishedDateTime: 2020-12-20T07:12:00Z

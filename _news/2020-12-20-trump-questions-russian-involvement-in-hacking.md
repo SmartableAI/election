@@ -79,17 +79,17 @@ related:
         isCached: true
   - title: "Trump signs temporary spending bill into law to avoid government shutdown - White House statement"
     excerpt: "President Donald Trump signed a temporary spending bill into law on Sunday night to avoid a government shutdown, the White House said in a statement."
-    publishedDateTime: 2020-12-21T05:05:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-trump-idUSKBN28V0ET"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V0ET"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V0ET"
+    publishedDateTime: 2020-12-21T09:53:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-trump-idUKKBN28V0ET"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28V0ET"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28V0ET"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 112
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545260975&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK063"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545256677&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK063"
         width: 817
         height: 545
         isCached: true
@@ -134,6 +134,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 99
+  - title: "Trump downplays hack as Pompeo blames Russia"
+    excerpt: "Watch \"President Trump downplays U.S. government hack as Pompeo blames Russia\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-21T12:56:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201221123118-president-trump-downplays-u-s-government-hack-as-pompeo-blames-russia/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 85
   - title: "Trump Won’t Denounce Russia’s Hack Because He’s Still Subservient to Putin"
     excerpt: "Ahh, we’ll talk about that at another time,” Trump demurred. The other time has not come. Three months later, that remains Trump’s last word on the matter. In the wake of news of Russia’s massive cyber-intrusion into a swath of private and public networks,"
     publishedDateTime: 2020-12-19T02:25:00Z

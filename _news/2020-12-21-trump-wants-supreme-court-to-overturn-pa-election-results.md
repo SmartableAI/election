@@ -2,33 +2,27 @@
 category: news
 title: "Trump wants Supreme Court to overturn Pa. election results"
 excerpt: "President Donald Trump’s campaign says it has filed a new petition with the Supreme Court as it continues its unprecedented efforts to overturn the results of the Nov 3"
-publishedDateTime: 2020-12-20T22:37:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-supreme-court-overturn-pa-election-results-74834503"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-supreme-court-overturn-pa-election-results-74834503"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-supreme-court-overturn-pa-election-results-74834503"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-supreme-court-overturn-pa-election-results-74834503"
+publishedDateTime: 2020-12-21T02:53:00Z
+originalUrl: "https://www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html"
+webUrl: "https://www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
 type: article
-quality: 140
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_c29d92ac198e40848de610029a22a3d7_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Trump attempt to overturn election is 'nutty and loopy', Romney says"
@@ -125,7 +119,16 @@ related:
         width: 2241
         height: 1495
         isCached: true
+  - title: "Trump continues attempts to overturn election..."
+    excerpt: "Watch \"Trump continues attempts to overturn election results\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-21T12:22:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201221121207-trump-continues-attempts-to-overturn-election-results/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 100
 
-secured: "T+cvcRfJh06YZAiZU4H2tqaPVd2d3tGWCiST6ZPX+GorEbbCgkODMn8L0GvORbDsId7ftXmpgzxDuf+f4XfDSGbAO9Y7APKIZRlO6kzOfcNDO2wcjD/kjBB59NGDHduP+l33k5ZlEwfjC6FrvGDpdfx62GsvED2VB1pPYqZgkK8QL2RpUj5SboEEy5JlmbHekzYLO1XKFNec7NsspyCMtc0W5WN25TuWCE4NpGfpP8MfPFljKNx+3o/OHKXhaUYiFecICVq6eGaAgcMkI5251wE8uP5nBuRcq0WrBpzoQvnTbELqJqE+P3J1LJ6jLMFP2Evj+9Y6HHYOtH7YbMIoPZ8r4EKo+c8LVfPVgTXJRzpTc02T5hI7sZb9QpuWfWv9Ad7eb9qOFTPfPhCpHlIgEj4g9YPjmB8gIFqaIEgS1LjT8RMuXDT1Z3KbDqob0JhZ8wy2EQXIY4gWoeqY5B8+7FZqPYwWQbmkuaeqLy2z/1BAAEwwaQl7RecBhtABnkIJb7DLh4GKzi/4fw3/5VGCEQ==;gPuF0y2rMgpwbwoBwqEzpA=="
+secured: "SZxXygJ4kdSkenopRzw1Z/3lh7d2eoih8eYq7AGkkHlhKLgdyKLV70jZeunyEhM6+GVc6tARpg2VW3tS6G3KvcSFT6vCkMgtcV4jDfBnMPZ9hin+19ZGQ8m4MMMx7QpMQRhDmcP7iSKmKbx01HsgELP0FnKCQ7wf0n5XjD8GSUs1ZVilswkluhf4nomgliqer94qkWjoy5AeSYqOYBgj9WWmKoBxuyRufQlGCtz84Su76mRx+fW0OqigscZQ5C5HCjJe/k5EYpgvzgIefhEO8BPvQkE3aRfuVucshIxP0OVgm22fj3qVDYzgbZnOnxfyMUNPnIVirfFx5PixcTZ122YqlJ+JZsZny9xDiPX2bh8=;th3BdzgACtnnAxNrXL4joA=="
 ---
 

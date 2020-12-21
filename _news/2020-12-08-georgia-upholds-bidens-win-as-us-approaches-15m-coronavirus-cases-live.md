@@ -127,6 +127,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Joe Biden to receive coronavirus vaccine live on TV on Monday"
+    excerpt: "President-elect keen to ‘demonstrate to the American people that it is safe to take’"
+    publishedDateTime: 2020-12-21T09:24:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/21/joe-biden-coronavirus-vaccine-covid-public"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/21/joe-biden-coronavirus-vaccine-covid-public"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/21/joe-biden-coronavirus-vaccine-covid-public"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/c0902167ca17ea2fb6e9e86602f4fc367b98a026/0_98_4710_2826/master/4710.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d890626bd6b1f1d4561297e71ae969cb"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Coronavirus Is Surging Across The US So Mike Pence Held A Useless Briefing"
     excerpt: "With coronavirus cases surging nationwide, experts fear another 150,000 Americans will die by in the next three months."
     publishedDateTime: 2020-11-20T00:10:00Z

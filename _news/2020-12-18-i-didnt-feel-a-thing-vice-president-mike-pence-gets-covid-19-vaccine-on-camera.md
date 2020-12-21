@@ -2,19 +2,19 @@
 category: news
 title: "'I didn't feel a thing.' Vice President Mike Pence gets COVID-19 vaccine on camera"
 excerpt: "Vice President Mike Pence and his wife were vaccinated for COVID-19 at the White House to build public confidence in the vaccine."
-publishedDateTime: 2020-12-18T14:01:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
-webUrl: "https://www.indystar.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
-ampWebUrl: "https://amp.indystar.com/amp/3948306001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3948306001"
+publishedDateTime: 2020-12-18T15:48:00Z
+originalUrl: "https://www.statesman.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
+webUrl: "https://www.statesman.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
+ampWebUrl: "https://amp.statesman.com/amp/3948306001"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/3948306001"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Election
@@ -392,6 +392,6 @@ related:
         height: 337
         isCached: true
 
-secured: "8Olyu5GaWYEcilK35MXXchFcCWR076EXOo/lDKoNGJ47k8gtl9+YDkOgflSOzVmwxC4wrhOYgulAMg9MMhomWpcigcz/eqjGSdnCShqwaMSNl2KZyoMio3vox0ZN8Y+kVM4pmCVNNrvRxdlE0D1qSz60nvq1kqJshjAERqUPQ4dVKSycrC+JycvnuaX/JpLZAW8/qXqv3QXVT21Q5O6Ps5avl495mgMrsanSkjywvqjktr0peJvq5isNaJALMPlQc0h1CPjOq0Upd+C9PIkHmUJmcLSh9nQN4jEagwUuYXZva79kEzpVUY3h7zSJzfeCICw2bmFTb0YpMGcLEINxlzhuR3bFl0efyWjcNOOOTvRCnnABvl+Pymd/qxmuUx5EzwOiiRM2HIQ6lGgSzPv33zyiaPYAaXdiVHtsxSvAAq9yOJiPQE+wcOJa9TeKlqAh1EoNmeRCPDvz1BBQh0YMUZTf2hOyKeSXNlYpfmJoVLW+bXLqaOYZzGLgwj+anxsba+zSWX1HufmIPOt0PkJeZg==;dNEFhnfv8yHp8zObnAdIAQ=="
+secured: "TBvvLzeKAT0619h0H+bGYSzZlbFPxWsZwsOzzfySLy2aqsarvwbdp4apITYbcSrwlqbuRR6Wczxa0HGoBo/0VXl709PuehKpP+0EgdPEGip/z3lzsO0Rf6IH/wXdeSAg+i1mhIrMPY7Zsysw6ejH8xF/WIihyg1iZK6qr1GUHEPx5bLx/5PtEal1fZbYN5fgYbHnHVU/I/5XjfgOrT3aN4byI7QokVdYcbKxGRTmkz69A62RaJCbdlLWI1T6pVZAgc8QV5r9zBP5pJefSbt2cnsa7Mk8OAIlBZZjtKperBYyKSXKVHcS/60zc1asEB4S/NRtL2SEDRy8joDOWckmKug0RBr0WBw0yZr0ZcBLx3c=;ILv9wIzLSPy/c8Sp9oZl6Q=="
 ---
 

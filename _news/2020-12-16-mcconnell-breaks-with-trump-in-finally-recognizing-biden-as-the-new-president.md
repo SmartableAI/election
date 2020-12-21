@@ -491,6 +491,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to receive COVID-19 vaccine as Trump remains on sidelines"
+    excerpt: "President-elect Joe Biden is to receive his first dose of the coronavirus vaccine on live television to help persuade more Americans to follow suit."
+    publishedDateTime: 2020-12-21T09:57:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-21/biden-receive-covid-19-vaccine"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-21/biden-receive-covid-19-vaccine?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-21/biden-receive-covid-19-vaccine?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 140
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/9f2edca/2147483647/strip/true/crop/4184x2733+0+28/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb2%2F60%2F4112dad241fcbf0c1d6f76b56549%2Fvirus-outbreak-trump-93566.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Biden to receive COVID vaccine as Trump remains on sidelines"
     excerpt: "President-elect Joe Biden will receive his first dose of the coronavirus vaccine on live television as part of a growing effort to convince the American public the inoculations are safe"
     publishedDateTime: 2020-12-20T19:34:00Z
@@ -1012,6 +1028,22 @@ related:
       - url: "https://media.khou.com/assets/CCT/images/31529b7b-26be-43cf-ac59-8125e2da975e/31529b7b-26be-43cf-ac59-8125e2da975e_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "‘A real mess’: Trump is leaving behind crises and undermining Biden before he takes office"
+    excerpt: "In a situation without precedent in American history, one president is ending his term amid a global emergency while seeking to delegitimize a successor — and floating the prospect of mounting a four-year campaign to return to power."
+    publishedDateTime: 2020-12-21T11:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-undermine-biden/2020/12/20/999e2ab8-4152-11eb-9453-fc36ba051781_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-undermine-biden/2020/12/20/999e2ab8-4152-11eb-9453-fc36ba051781_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-undermine-biden/2020/12/20/999e2ab8-4152-11eb-9453-fc36ba051781_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 130
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6WKMQJR7YMI6XNMLCYR7MJTZMA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump appointee who oversees Voice of America refuses to cooperate with Biden transition team"
     excerpt: "A Trump appointee with a short but controversial record of overseeing Voice of America and other federally funded news agencies has declined to cooperate with president-elect Joe Biden’s representatives as they seek access to records and personnel."

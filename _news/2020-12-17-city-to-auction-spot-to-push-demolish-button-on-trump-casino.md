@@ -47,22 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump wants Supreme Court to overturn Pa. election results"
-    excerpt: "President Donald Trump’s campaign says it has filed a new petition with the Supreme Court as it continues its unprecedented efforts to overturn the results of the Nov 3"
-    publishedDateTime: 2020-12-20T22:37:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-supreme-court-overturn-pa-election-results-74834503"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-supreme-court-overturn-pa-election-results-74834503"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-supreme-court-overturn-pa-election-results-74834503"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c29d92ac198e40848de610029a22a3d7_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump says Attorney General Barr resigns"
     excerpt: "President Donald Trump said on Monday that Attorney General William Barr will be leaving his job just before Christmas and Deputy Attorney General Jeff Rosen will become acting attorney general."
     publishedDateTime: 2020-12-14T23:14:00Z
@@ -79,6 +63,17 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump wants Supreme Court to overturn Pa. election results"
+    excerpt: "President Donald Trump’s campaign says it has filed a new petition with the Supreme Court as it continues its unprecedented efforts to overturn the results of the Nov 3"
+    publishedDateTime: 2020-12-21T02:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
   - title: "Mitt Romney slams Trump's continued efforts to dispute the presidential election results as 'sad' and 'embarrassing'"
     excerpt: "Romney said that Trump's imprint on the GOP will not fade once the president leaves office. However, he wants to see the party go back to its roots."
     publishedDateTime: 2020-12-20T18:09:00Z
@@ -125,6 +120,15 @@ related:
         width: 2241
         height: 1495
         isCached: true
+  - title: "Trump continues attempts to overturn election..."
+    excerpt: "Watch \"Trump continues attempts to overturn election results\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-21T12:22:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201221121207-trump-continues-attempts-to-overturn-election-results/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 100
 
 secured: "EveFTwq5Z4V9UwReZShF2VG60iuzxB+Rm/OK9LZj3j/daSy7aegKRyVeH6kTmO7yqGkr01Rr6U4tZB60IxbHFCvsxQLp6iOXir7ONBcw9IeLdQxFjXOB/0sGGG0wdRp4ZzbCT9s1V4Phfp+z21H3TqlNQDo8IFHN7NTtQOFv6YZ0oxPAnesM4QBMrIjQ5fkQARWjxfBJAaFqq2Dv75CuJmuREYJGFmOxSFmj/Si/08isJjJ83IHHDvruNsrnh1JLe+NEj8g+Rnb1nQrKQdC8jLYkC9ryKOkhCEq0JEzRKFgCB2s3WA+q+zmRnC5/V6WtUUL8kuQCPjVlTbrgbTBgmkGl/Q1WlTSRhtUzQM1vzyY=;IMVTu2F+Hwq+H3NzDiElcQ=="
 ---

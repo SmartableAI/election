@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/20/donald-trump-elector
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney"
 type: article
 quality: 140
-heat: 260
+heat: 280
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump wants Supreme Court to overturn Pa. election results"
-    excerpt: "President Donald Trump’s campaign says it has filed a new petition with the Supreme Court as it continues its unprecedented efforts to overturn the results of the Nov 3"
-    publishedDateTime: 2020-12-20T22:37:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-supreme-court-overturn-pa-election-results-74834503"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-supreme-court-overturn-pa-election-results-74834503"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-supreme-court-overturn-pa-election-results-74834503"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c29d92ac198e40848de610029a22a3d7_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump says Attorney General Barr resigns"
     excerpt: "President Donald Trump said on Monday that Attorney General William Barr will be leaving his job just before Christmas and Deputy Attorney General Jeff Rosen will become acting attorney general."
     publishedDateTime: 2020-12-14T23:14:00Z
@@ -79,6 +63,17 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump wants Supreme Court to overturn Pa. election results"
+    excerpt: "President Donald Trump’s campaign says it has filed a new petition with the Supreme Court as it continues its unprecedented efforts to overturn the results of the Nov 3"
+    publishedDateTime: 2020-12-21T02:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
   - title: "Mitt Romney slams Trump's continued efforts to dispute the presidential election results as 'sad' and 'embarrassing'"
     excerpt: "Romney said that Trump's imprint on the GOP will not fade once the president leaves office. However, he wants to see the party go back to its roots."
     publishedDateTime: 2020-12-20T18:09:00Z
@@ -125,6 +120,15 @@ related:
         width: 2241
         height: 1495
         isCached: true
+  - title: "Trump continues attempts to overturn election..."
+    excerpt: "Watch \"Trump continues attempts to overturn election results\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-21T12:22:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201221121207-trump-continues-attempts-to-overturn-election-results/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 100
 
 secured: "6RC5NCA1cmKGQf9XWMvrD5an/g9PUDBreWYfNONJBH6moEqb9s4a5CG3By+NeBnxAhGCbOt9CLP6cb+n3jBGP+MEqPEvHY0+Kr6i40Ifm62ozfp21GzLc1agcYcRM1ZxZ4p22G6w28478bKT7xf17ig39nHMsSaRhKOQfu9l617ipk7/s2VbwaFcIQMA0jU71s6vaHuvgd9nFE69GfOCTP3BpoFu3bWf7n0NqVCGmrRi2x5qxx/cSMS9rBudYlGSObaXtpJkmFMTJrZwUj7lD10edFLG8sGJfKdEzPA9iRbcIDRU44ZsbCZY0XeAjqJpUTCEupOHPJvmsGoAVtLynrfvJR1iSO5E69LN2ykKPPUEsV028U4zFKgxIbAcrh4YVcX3kXO/IpiAbL8Rkj3k+1hepenyDl178T0REEyaHch7CxgWtqM1cAcStnoaXEANkAV2bDMcP2fFfshW/xd/ZCcuzIXhO1t2g8CuaQk0EHBrXQ64mEoad9G7AZ4kAAwaS6amGJ0i2PJZ6hjqngnQOQ==;3bFGW1Mi0nUT3Bdu71NiGQ=="
 ---

@@ -59,6 +59,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "‘Saturday Night Live’s’ Alex Moffat takes over role of Joe Biden from Jim Carrey"
+    excerpt: "The episode aired just hours after Jim Carrey shared news that his stint as Biden was only set to be six weeks and therefore he would not be continuing through the rest of the 46t"
+    publishedDateTime: 2020-12-20T12:58:00Z
+    webUrl: "https://www.chicagotribune.com/entertainment/tv/ct-ent-snl-joe-biden-jim-carrey-alex-moffat-20201220-rwzrrs6jefhufeffnp5dd6ydti-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/entertainment/tv/ct-ent-snl-joe-biden-jim-carrey-alex-moffat-20201220-rwzrrs6jefhufeffnp5dd6ydti-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/tv/ct-ent-snl-joe-biden-jim-carrey-alex-moffat-20201220-rwzrrs6jefhufeffnp5dd6ydti-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/UkLbxDjGvt8pLVxbxRoUCNBK4DQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BBAXPUIPSNAK5EWGS4BONBHYKM.JPG"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "'SNL': Alex Moffat takes over Joe Biden role from Jim Carrey, tumbles into Mike Pence's vaccination"
     excerpt: "Alex Moffat took over as Joe Biden in style on \"SNL,\" somersaulting onto the stage the same day Jim Carrey announced his exit from the role."
     publishedDateTime: 2020-12-19T00:00:00Z

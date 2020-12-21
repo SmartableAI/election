@@ -1072,6 +1072,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "White House indicates Trump will sign $900 billion stimulus deal brokered by Republicans and Democrats in Congress"
+    excerpt: "The legislation includes $600 stimulus checks, $300 weekly unemployment benefits, small business aid, and funds for schools and universities."
+    publishedDateTime: 2020-12-21T07:42:00Z
+    webUrl: "https://www.businessinsider.com/trump-reportedly-will-sign-900-billion-coronavirus-stimulus-package-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-reportedly-will-sign-900-billion-coronavirus-stimulus-package-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-reportedly-will-sign-900-billion-coronavirus-stimulus-package-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
   - title: "Florida’s electoral college casts votes for Donald Trump, Mike Pence"
     excerpt: "Florida’s Electoral College cast their 29 votes on Monday for President Donald Trump and Vice President Mike Pence during a ceremony inside the Capitol Senate Chamber. Trump won Florida with more than 371,"
     publishedDateTime: 2020-12-15T00:02:00Z
