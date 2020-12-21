@@ -506,6 +506,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to receive COVID vaccine as Trump remains on sidelines"
+    excerpt: "President-elect Joe Biden will receive his first dose of the coronavirus vaccine on live television as part of a growing effort to convince the American public the inoculations are safe"
+    publishedDateTime: 2020-12-20T19:34:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-receive-covid-vaccine-trump-remains-sidelines-74837728"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-receive-covid-vaccine-trump-remains-sidelines-74837728"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-receive-covid-vaccine-trump-remains-sidelines-74837728"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_a796a6854dcb470c9948dd894c37082a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden and Kamala Harris named Time magazine's 2020 person of the year"
     excerpt: "Incoming president and his vice-president earn recognition, and follow in footsteps of Barack Obama and Donald Trump"
     publishedDateTime: 2020-12-11T05:38:00Z

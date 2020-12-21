@@ -304,6 +304,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Twitter updates warning label for election misinformation to say Joe Biden won"
+    excerpt: "Twitter has updated the warning labels it applies to election misinformation to reflect that Joe Biden is the president-elect, the company said on Saturday."
+    publishedDateTime: 2020-12-19T15:29:00Z
+    webUrl: "https://www.cnn.com/2020/12/19/tech/twitter-election-warning-label/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/tech/twitter-election-warning-label/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/tech/twitter-election-warning-label/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 146
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200722105415-twitter-app-phone-stock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Investigation of His Son Is Likely to Hang Over Biden as He Takes Office"
     excerpt: "Unless the Trump Justice Department clears Hunter Biden, the new president will confront the prospect of his own administration handling an inquiry that could expose his son to criminal prosecution."
     publishedDateTime: 2020-12-11T01:42:00Z

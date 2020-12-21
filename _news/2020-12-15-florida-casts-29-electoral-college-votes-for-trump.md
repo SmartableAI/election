@@ -25,8 +25,8 @@ topics:
 related:
   - title: "Trump campaign will again ask U.S. high court to upend election results"
     excerpt: "President Donald Trump's campaign said on Sunday it would again ask the U.S. Supreme Court to overturn results from the Nov. 3 election, its latest long-shot effort to subvert the electoral process and sow doubt over the legitimacy of President-elect Joe Biden's victory."
-    publishedDateTime: 2020-12-20T21:43:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-court/trump-campaign-will-again-ask-u-s-high-court-to-upend-election-results-idUSKBN28U0UJ"
+    publishedDateTime: 2020-12-21T02:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-court-idUSKBN28U0UJ"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28U0UJ"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28U0UJ"
     type: article

@@ -48,6 +48,22 @@ related:
         height: 209
         isCached: true
   - title: "'SNL': Alex Moffat takes over Joe Biden role from Jim Carrey, tumbles into Mike Pence's vaccination"
+    excerpt: "Alex Moffat took over as Joe Biden in style on \"SNL,\" somersaulting onto the stage the same day Jim Carrey announced his exit from the role."
+    publishedDateTime: 2020-12-19T00:00:00Z
+    webUrl: "https://www.desmoinesregister.com/story/entertainment/tv/2020/12/19/snl-alex-moffat-joe-biden-mike-pence-kamala-harris/3980531001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/3980531001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3980531001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 76
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/20/USAT/abd66e25-1115-427f-9cac-6c494dcc0465-Capture.PNG?auto=webp&crop=1179,663,x0,y1&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'SNL': Alex Moffat takes over Joe Biden role from Jim Carrey, tumbles into Mike Pence's vaccination"
     excerpt: "Alex Moffat took over the \"SNL\" Joe Biden role in style, nailing a somersault onto the stage the day Jim Carrey announced he wouldn't play the role."
     publishedDateTime: 2020-12-20T06:25:00Z
     webUrl: "https://www.azcentral.com/story/entertainment/tv/2020/12/19/snl-alex-moffat-joe-biden-mike-pence-kamala-harris/3980531001/"

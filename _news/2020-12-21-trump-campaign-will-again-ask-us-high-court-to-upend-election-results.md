@@ -2,9 +2,9 @@
 category: news
 title: "Trump campaign will again ask U.S. high court to upend election results"
 excerpt: "President Donald Trump's campaign said on Sunday it would again ask the U.S. Supreme Court to overturn results from the Nov. 3 election, its latest long-shot effort to subvert the electoral process and sow doubt over the legitimacy of President-elect Joe Biden's victory."
-publishedDateTime: 2020-12-20T21:43:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-trump-court/trump-campaign-will-again-ask-u-s-high-court-to-upend-election-results-idUSKBN28U0UJ"
-webUrl: "https://www.reuters.com/article/us-usa-election-trump-court/trump-campaign-will-again-ask-u-s-high-court-to-upend-election-results-idUSKBN28U0UJ"
+publishedDateTime: 2020-12-21T02:26:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-trump-court-idUSKBN28U0UJ"
+webUrl: "https://www.reuters.com/article/us-usa-election-trump-court-idUSKBN28U0UJ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28U0UJ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28U0UJ"
 type: article
@@ -1161,6 +1161,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "2XvZiOArXWC1SjCkf3UbRhNwrBK5zgJFjuT79EA2KERFTyu1Kq/lyyUUZUyEMR0fhJi/7XZSkIrVlwsxxFNlM5EXFmW34u8TzpVWJV7jnM1WogmMnStqvGVrlNt3ubGeH4jr1ZE+9M7LgnKaD8eGWleQ3RFsVNsM6wusYXx5ibp22S/0LHa/ga0IMzLaGY6Zc+YNb57071dpY/XutZEaIEHhS55WB+drTQ1rej79Nm2ApYnJJRtzYjd4RFEKLrJ1qnNlu5ijjlO+/UQEdz/rF1sgFIBLH3qNhOV7pPJLRPnzact75lZVJ5zQHvtMxnB9NL8wCEkKwYAVlQCrXjz93iBHzVkJc7QRixKP8K6Zd0I=;55MG0ICeXsL7saL4tNv4Ww=="
+secured: "5AAQ5N036lLsfmpxBZdNS0KQH2GPH3M7hcf2VkhzQD9gtt63Ah2b+MFGFACPFTC4xnfVKy4zydf8KdjKT0QbvTU17uiASE7k9HdwVWeNR48SK2AH7VS4kIgNfTUMZ7SC33iAEIHNB0Ik21FxCgc0YH/eLkLv6DVNfiQ2I1A4xIn5b7QQMF0WPPRjFwN06GI9RbEbt1qKb+8wT2Gp+6vmsJ2Gy36lRqu7urbsu6u5V60H5qfItJSjgJxcDo7g3Z+qpvlE82UfSijKLsoVzHmzUcv5TexgwPr9qVfJrySvPG9YTbqg2KczSoji9W5NBwm/xaxzsAk4nYCmFjI4QPeTtsTg6JT+D/AhFg0OfqKQdME=;/HyLk4xRvUj5f3a5PS8Aiw=="
 ---
 
