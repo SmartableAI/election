@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Mike Pence, Mitch McConnell, Nancy Pelosi all vaccinated Friday as COVID-19 vaccine rollout continues"
-excerpt: "President Donald Trump’s administration helped deliver vaccinations against the coronavirus earlier than even some in his administration thought possible, but the president has been largely absent from the effort to sell the American public on what aides hope will be a key part of his legacy."
-publishedDateTime: 2020-12-20T05:14:00Z
-originalUrl: "https://www.bostonglobe.com/2020/12/18/nation/trump-stays-sidelines-vaccine-injections-begin/"
-webUrl: "https://www.bostonglobe.com/2020/12/18/nation/trump-stays-sidelines-vaccine-injections-begin/"
+title: "Georgia pastor and Trump adviser tests positive for COVID-19"
+excerpt: "The leader of a north Georgia megachurch who has been a spiritual adviser to President Donald Trump has tested positive for COVID-19"
+publishedDateTime: 2020-12-21T00:12:00Z
+originalUrl: "https://www.washingtonpost.com/health/georgia-pastor-and-trump-adviser-tests-positive-for-covid-19/2020/12/20/57d7f6ca-4320-11eb-ac2a-3ac0f2b8ceeb_story.html"
+webUrl: "https://www.washingtonpost.com/health/georgia-pastor-and-trump-adviser-tests-positive-for-covid-19/2020/12/20/57d7f6ca-4320-11eb-ac2a-3ac0f2b8ceeb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/health/georgia-pastor-and-trump-adviser-tests-positive-for-covid-19/2020/12/20/57d7f6ca-4320-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/georgia-pastor-and-trump-adviser-tests-positive-for-covid-19/2020/12/20/57d7f6ca-4320-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
 type: article
-quality: 40
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
 
 images:
-  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/9BcMhbQfJ0gLFDMCDoHCbA7AbiI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/KCJZ3GUIRIZF6G3PS6DZ4OEPAA.jpg"
-    width: 506
-    height: 337
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -104,22 +110,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545045397&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH11H"
         width: 817
         height: 545
-        isCached: true
-  - title: "Georgia pastor and Trump adviser tests positive for COVID-19"
-    excerpt: "The leader of a north Georgia megachurch who has been a spiritual adviser to President Donald Trump has tested positive for COVID-19"
-    publishedDateTime: 2020-12-21T00:12:00Z
-    webUrl: "https://www.washingtonpost.com/health/georgia-pastor-and-trump-adviser-tests-positive-for-covid-19/2020/12/20/57d7f6ca-4320-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/georgia-pastor-and-trump-adviser-tests-positive-for-covid-19/2020/12/20/57d7f6ca-4320-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/georgia-pastor-and-trump-adviser-tests-positive-for-covid-19/2020/12/20/57d7f6ca-4320-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Trump, Pence, other top officials to be offered COVID-19 vaccine - source"
     excerpt: "U.S. President Donald Trump, Vice President Mike Pence and other top U.S. officials will be offered the newly approved COVID-19 vaccine beginning Monday, according to a source familiar with the plans."
@@ -391,7 +381,21 @@ related:
         width: 650
         height: 432
         isCached: true
+  - title: "Mike Pence, Mitch McConnell, Nancy Pelosi all vaccinated Friday as COVID-19 vaccine rollout continues"
+    excerpt: "President Donald Trump’s administration helped deliver vaccinations against the coronavirus earlier than even some in his administration thought possible, but the president has been largely absent from the effort to sell the American public on what aides hope will be a key part of his legacy."
+    publishedDateTime: 2020-12-20T05:14:00Z
+    webUrl: "https://www.bostonglobe.com/2020/12/18/nation/trump-stays-sidelines-vaccine-injections-begin/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 40
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/9BcMhbQfJ0gLFDMCDoHCbA7AbiI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/KCJZ3GUIRIZF6G3PS6DZ4OEPAA.jpg"
+        width: 506
+        height: 337
+        isCached: true
 
-secured: "xl6JvqpbbyTXDSBYFF6vQRF2lSudnOtk6RIf3mD3IXjXKHKGrab04zrB5ooEWgtsX1x5IkGtyjf+wGWmRKkAUV65975TdqzN+zSS4rl/HSRVFb1IsvtivHbbvFVr603g0Gk5muGRhNEt2Z6xX3joP/3KffpuDWsGQfxPuErvQARDNDHyGp16kJbW97C89oSF2mSQYwEhCkOOjQXB1li/OUeLIBWbRZUSSv7Ckvd2XkoTBQm/r+bfZxO4GXK5nxKk6u7fXnHndgO0+HhQEqvRyYlYpqioYiVNeo36XL+K9/5oa/unpyfSm8VudqxciL+Ki7MRWtsKRYX/u50gBdNte55pnuGO71GLeyWyuujOekMf03BnrLqJTovLub8+QvjrSgHgRN59e87MBSPdmaN+L2PucxkmTitbF2RtF/WkBQ+PwOpfbYucKKLX6AmQdvkD9L/Alaq0vyMK3kQico4uvRDlBBliG/pcghBe+imQf1wgxwtIYPRWv5826MePrGfpKvWOxehIFTgOKeOO2cEJPQ==;bjiXqGjQUK/QW1oP4cB8kA=="
+secured: "50GiLv+2NtLQMaug0Gh83v43piHGpblLNpCP0btvz3JKKJGQZk88XalLXk99h8WSYhCH3VdBDOfibxXQ4RPoc3/6QYLgF2V8pRAbk2YEUVRVzDH8WtY5p+bQ3QhFzClS7/wFrTXDA/5RSYK1t+1oCtCeK6R4m0uqgkJWElyBdvRswBhg3RVUfmHrtQs0qgYp3myy/9zcE11qia6iRrtzID+467d4LkmhVbZ4inzeaOJdmR84BPpz9L3iLHcIyMMuC+PPFk9QfMDViqX3x60PPmF9COFp3BRW5lUr+8uspsBaDWw26NOZ4Cn5c6wwJwFP7W8CSDqQ25TOhuyrVV+0lRbqUmlleotF6z0UjC1cnYo=;uVPrzy1vYF1zrWjDQ9Ca1A=="
 ---
 

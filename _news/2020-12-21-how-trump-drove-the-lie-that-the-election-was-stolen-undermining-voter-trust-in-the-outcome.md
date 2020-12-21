@@ -544,18 +544,18 @@ related:
         height: 558
         isCached: true
   - title: "Trump downplays Russia in first comments on hacking campaign"
-    excerpt: "President Donald Trump is contradicting top administration officials who say Russia is behind the cyber espionage operation that targeted U.S. government agencies"
+    excerpt: "President Donald Trump is suggesting without evidence that China — not Russia — may be behind the the grave cyber espionage operation against the United States"
     publishedDateTime: 2020-12-20T14:10:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
+    webUrl: "https://abcnews.go.com/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_33e2631e17a9481292d29b56b37c8f96_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f1f342b60742421dbfda0a3d08fb281b_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -1255,6 +1255,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "/ZzTYPU0xblkWOu+Ojl24x5t3dpNK80UkoGQWgoAXi0mxyKe+wjprD0iWIR0ZBcPZKAiJcyKJ0Gt/cVDAL0GnyJJVrx6hKGscEgHFMtL43Ka5+ANOLRFdpolxgPrZfyL6s7YtxaN+N1SGhQ8+HlUNJgJJ7hIbvz/oyZSX/8RSR9LXi8ZrwO4XqrKkZF5jFw/tuufA21QLsy9B5tX4twAuDTry+T3wsUtUm7QVOlnA2esCkEAZasoSgBVp22ZEpUdVjWuKc4VgjnBSKXkKJnRBZK375PAaMN6dzlnJP+By5P2rhV72uAuVuFJa/e2iGtKoNGKTt1JYgEUH7qaWkVTxoIA/PKA7a6YRETjD7Nkj0c=;ElM3akUj/O2Scg/KmpiP6w=="
+secured: "8L8B038VkhapNm4MRsSeo2QKy4r1y9QS39nd09XyO6SNOwn+yaKHxM3L5hHmUkW0DYFRChyRSD3PZqPgmJONJWJYGtRsrIbz2IcnOKpyazGHvnbYKORTvWM7OznxEzmgRwsouAbVJLYXdQYLQccAGa7wC1P6UI2TxIkWg8WQojDeRqQGbzzDcmRyaCeQCMYlnY8EylovVg6g2rfqhpM6G4vXo5Ph1lMH3yPioU7SVDl8jS6VbeXxyXajgvMSIEKxqPWXsTpg75uaCJlB+m3NwcnSJl0smJvB9gy5ZHDIPcWIG9f2zbH6Cbqu0Scs683WmWBMLGsMOyeZ9KNE9zXrxQ/R23FDb3afgiYmob9CHHMe5Sz4re2DTA4ruk7e1ak82++BZ41S4OIQ5ciPsApRZ3LWdOxxq48H5L4W6Sr+DXXwZ4RdSYPmc1Zqnj8q8eN0S102Xvg0I6L1rwqh4mfxswnYyy0ejeLjpWoTnKJgcOkVa8FGTGizyF1uU+D3brawdhdeguvFc3UN+eEyAcfeOw==;xifFK9PWg7QnccW4sW1AJg=="
 ---
 

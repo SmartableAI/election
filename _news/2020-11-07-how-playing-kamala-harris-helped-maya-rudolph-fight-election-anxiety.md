@@ -7,7 +7,7 @@ originalUrl: "https://time.com/5906947/maya-rudolph-kamala-harris/"
 webUrl: "https://time.com/5906947/maya-rudolph-kamala-harris/"
 type: article
 quality: 120
-heat: 400
+heat: 420
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Saturday Night Live: Maya Rudolph's Kamala Harris as the real president? Bad idea"
+    excerpt: "Kristen Wiig hosted a strong episode but the cold open hinted at problems ahead, even if Jim Carrey is no longer Joe Biden"
+    publishedDateTime: 2020-12-20T16:42:00Z
+    webUrl: "https://www.theguardian.com/tv-and-radio/2020/dec/20/saturday-night-live-maya-rudolph-kamala-harris-joe-biden-kristen-wiig"
+    ampWebUrl: "https://amp.theguardian.com/tv-and-radio/2020/dec/20/saturday-night-live-maya-rudolph-kamala-harris-joe-biden-kristen-wiig"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/tv-and-radio/2020/dec/20/saturday-night-live-maya-rudolph-kamala-harris-joe-biden-kristen-wiig"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/0ff910840fe59bc20328ca102893591eb7d2521f/0_174_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5ba8d6956ce2ce73ab0b0702b68924c2"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Kamala Harris makes history as first woman and person of color to be vice president"
     excerpt: "Kamala Harris, the groundbreaking senator from California, has made history again -- set to become the first female vice president and woman of color in the White House. Harris, 56, the daughter of immigrants,"
     publishedDateTime: 2020-11-07T16:47:00Z

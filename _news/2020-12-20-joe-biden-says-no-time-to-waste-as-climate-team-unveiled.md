@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden says 'no time to waste' as climate team unveiled"
 excerpt: "US President-elect Joe Biden has introduced his climate and energy team, saying they will lead an \"ambitious plan\" to combat climate change. Mr Biden has vowed to make the issue a top priority in an agenda that reverses many Trump administration policies."
-publishedDateTime: 2020-12-20T11:17:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-55382209"
-webUrl: "https://www.bbc.com/news/world-us-canada-55382209"
+publishedDateTime: 2020-12-20T03:55:00Z
+originalUrl: "https://www.bbc.com/news/world-us-canada-55382209?fbclid=IwAR3UFtdSInJpTa0_U2LjF81w21vOr7Up5HirPiP6GHTbsIWINNV76dhKzVM"
+webUrl: "https://www.bbc.com/news/world-us-canada-55382209?fbclid=IwAR3UFtdSInJpTa0_U2LjF81w21vOr7Up5HirPiP6GHTbsIWINNV76dhKzVM"
 ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55382209"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55382209"
 type: article
@@ -1288,6 +1288,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "93/+DxSoc+ThrEAF7MXY4cicvn6YU2Sc4Cklk5XXF2Kk3Zt55qdgnQTYclK8c8y5CHYZTky9hEdoEf08HH+MrMh2UoWDusCMEqocnaKRJpQv0Zx1AC/1FizsrGNLj08q5dpZkb7tuKdE39QmVEQ4gqW0JOGgBN8XoMS77W1eCYCGSdyLPQfxpLYgJkHUzWuKA5q7gFme/fXR6I7ZhLx1JqRX0QOUhW6HooACfgCFcErg2UeHBzVntkdLWV7v9+34OF7GjY75zmIbehrfYXmEUWfmvH3FUqm4Rpf1j0TKaj4T8kW8uNGTiK6JiOs1zZMlQCRKXY7fUzocBXznl81M0aL6DL4CyKM3TUSSsBTVT0g2TKv6OzkUOKmMRkOznoW4NTllg7TGoJq/5KX1Tt2HHj08p0g1tr0i8cKGs/yPnehGcAW/3b8fcwjSEJMpCwe2zZw9QP51+i50Bu1WpYEL8lnvNkuoTQKXAOLheMTafEgYwE8vEP/zgoGfuQd4OIbWh1a49K7+Giaz2zmd82Pmew==;zcemoW0hF8wTF/qo9ZrRag=="
+secured: "VlA3oE+2h1pXlA7DsbFPonBkV/R/NedDqTkSzxVkT3DiZSPQ4bqMootHX+2emC5HUZUqkyN6PSIyn6hDQSlRQiAwcy/X4yPsbOxuEJzB13NY8Nehy7MgJdtvIuLaEpUT1nnEDdPVlbqebUxIKS7apUnhH+6Ht6ZpCRcEe6a5AzTrIGvTcBa5bdUgA3iMJNz2yHiEvCmrdaUc+CNKSzL/ULysaDg8cksHr61UHpqoOtjbTFtbTEPQopzv3ACYu8yMLFJn7XXdoxT0HKsX+BfX3AGGl1/EvFIo4zQfFuJqOu4zXnp0b3pSmHFVoDc6n53IRtvWPNhxJOjT1wQRCDIoy7CCu4hn95sAb5nOejjJolc=;nUoJQOcEuN0DvGNP8n9f8Q=="
 ---
 

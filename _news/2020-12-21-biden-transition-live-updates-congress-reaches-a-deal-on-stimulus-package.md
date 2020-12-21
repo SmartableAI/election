@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Presidential Transition Highlights: Election ‘Should Be Celebrated, Not Attacked,’ Biden Says as Electoral College Affirms His Victory"
-excerpt: "Electors in states across the country have cast their votes for president, and the winner is not in doubt: Joseph R. Biden Jr. will be officially declared the president-elect."
-publishedDateTime: 2020-12-15T10:20:00Z
-originalUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump"
-webUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump"
-ampWebUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/14/us/joe-biden-trump.amp.html"
+title: "Biden Transition Live Updates: Congress Reaches a Deal on Stimulus Package"
+excerpt: "Leaders struck a long-sought stimulus deal, agreeing to provide $900 billion in aid. President Trump has discussed appointing a conspiracy theorist to investigate election fraud."
+publishedDateTime: 2020-12-20T23:12:00Z
+originalUrl: "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump"
+webUrl: "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump"
+ampWebUrl: "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/20/us/joe-biden-trump.amp.html"
 type: article
-quality: 118
+quality: 133
 heat: -1
 published: false
 
@@ -26,7 +26,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2020/12/14/us/politics/14electoralcollege-vote00-toned/14electoralcollege-vote00-toned-facebookJumbo.jpg"
+  - url: "https://static01.nyt.com/images/2020/12/20/us/politics/20transition-briefing-promo1/20transition-briefing-stimulus1-facebookJumbo.jpg"
     width: 1050
     height: 550
     isCached: true
@@ -80,22 +80,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden Transition Live Updates: Congress Reaches a Deal on Stimulus Package"
-    excerpt: "Leaders struck a long-sought stimulus deal, agreeing to provide $900 billion in aid. President Trump has discussed appointing a conspiracy theorist to investigate election fraud."
-    publishedDateTime: 2020-12-20T23:12:00Z
-    webUrl: "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/20/us/joe-biden-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/20/us/politics/20transition-briefing-promo1/20transition-briefing-stimulus1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Biden Transition Updates: Congress Passed Short-Term Spending Bill as Stimulus Talks Continued"
     excerpt: "Congress passed a short-term spending bill to avoid a government shutdown on Friday night after lawmakers hit a snag in stimulus talks, sending discussions into the weekend. President-elect Joe Biden said accusations against his son were “kind of foul play."
     publishedDateTime: 2020-12-19T23:20:00Z
@@ -112,7 +96,23 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Presidential Transition Highlights: Election ‘Should Be Celebrated, Not Attacked,’ Biden Says as Electoral College Affirms His Victory"
+    excerpt: "Electors in states across the country have cast their votes for president, and the winner is not in doubt: Joseph R. Biden Jr. will be officially declared the president-elect."
+    publishedDateTime: 2020-12-15T10:20:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/14/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 118
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/14/us/politics/14electoralcollege-vote00-toned/14electoralcollege-vote00-toned-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
-secured: "jjVVrDhy1hbiYVVWksYggAo8XrUOhhlB6HQdxn96Osxdw8jrpAP8wHLzqXDjoiTCvB4j8a1XoVftuYgRf06P897LYFKWy7+3aojWCGSbCttJ9h5tzQpgirrAQT/E53+x/JE/5oHkowbheCSA/V3DRMNyEoKbfEPuhBOfB0cqEBZZubtoxFx7Kf01ZBFufj8s2daGbNMWVEN3UB/DGjIa+unuza6rxmTQdaWKdJgWmudhNTb+KoaWuhuO1+rGpwthrU7EkMXn/zz0bpsTxUHx78cU6VkjVEWCESBTNO0+nrMa+dJmJsEsEZgs8cuYf3kPti3dkiD+0k70jwQhZ9OtJ3Xl3XlPQTLwu+b2/gSMp94=;m4BlkFgnXsrsd/WRbqDMzw=="
+secured: "x9C5RKxnvxMfwy2TsXUNyThW6Ga2gO2wI34R78gFiJ5y332ScAEOEzmA/pbqIf4i+vaJk95szCoHxbntguhbOoRn6dIGlI4lRWvj1lKk/I0AEbdV5Y0oD+v/OWrBw2n0/qtZjPYil+vRqPpyO8JAHYBa7GsqmvEysmxf9SHt4jUZFPCL2RIQ1hrtzfO7PYXI5eDAPwiPUKoun34twM28v5PrIVvJoBO8uRJXicZqSwACMzDYe+xsa+4hGa3qKh2fxmDTdpKbhauKPAslmsrB1W8nyVP4UBgmPu0M5K5EAkDwpptUPDEgshE46CexGYI2PNepmcHAWk3R/UEgUd5pcvkDz7vpyG5G378hHCL8IqU=;8Bom5lGhQHqrNk2zG3r2qA=="
 ---
 
