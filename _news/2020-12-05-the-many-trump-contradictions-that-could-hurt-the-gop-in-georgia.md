@@ -869,6 +869,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Drives A Wedge Among Georgia Republicans, Risking A Larger GOP Split"
+    excerpt: "The president's push to overturn the election is turning GOP voters against Republican state leaders in Georgia, just before close runoff elections that could have lasting national implications."
+    publishedDateTime: 2020-12-21T10:00:00Z
+    webUrl: "https://www.npr.org/2020/12/21/948172589/trump-drives-a-wedge-among-georgia-republicans-risking-a-larger-gop-split"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 103
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/18/ap_20341071173075_wide-48314e47c7ce0df4b39556908d64dda07c95074e.jpg?s=1400"
+        width: 1400
+        height: 786
+        isCached: true
   - title: "Republicans may have shot themselves in the foot by hitching their wagon to Trump ahead of the Georgia Senate runoffs"
     excerpt: "Republicans have spent weeks backing Trump's conspiracy theories about voter fraud and election rigging. Now it's coming back to bite them."
     publishedDateTime: 2020-12-04T17:01:00Z

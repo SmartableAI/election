@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Mike Pence returning to Georgia this week"
-excerpt: "The White House announced on Monday evening that Mike Pence will make two major stops in Georgia on Thursday - the first in Greenville, South Carolina and the next in Augusta, Georgia. The first stop will allow Pence to participate in a roundtable regarding Operation Warp Speed and South Carolina's vaccination plans."
-publishedDateTime: 2020-12-08T01:52:00Z
-originalUrl: "https://www.11alive.com/article/news/politics/elections/georgia-pence-visit-augusta/85-cf56f1c2-4d5a-4732-b8f7-b5c0ba0173af"
-webUrl: "https://www.11alive.com/article/news/politics/elections/georgia-pence-visit-augusta/85-cf56f1c2-4d5a-4732-b8f7-b5c0ba0173af"
-ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/georgia-pence-visit-augusta/85-cf56f1c2-4d5a-4732-b8f7-b5c0ba0173af"
-cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/georgia-pence-visit-augusta/85-cf56f1c2-4d5a-4732-b8f7-b5c0ba0173af"
+title: "Trump Drives A Wedge Among Georgia Republicans, Risking A Larger GOP Split"
+excerpt: "The president's push to overturn the election is turning GOP voters against Republican state leaders in Georgia, just before close runoff elections that could have lasting national implications."
+publishedDateTime: 2020-12-21T10:00:00Z
+originalUrl: "https://www.npr.org/2020/12/21/948172589/trump-drives-a-wedge-among-georgia-republicans-risking-a-larger-gop-split"
+webUrl: "https://www.npr.org/2020/12/21/948172589/trump-drives-a-wedge-among-georgia-republicans-risking-a-larger-gop-split"
 type: article
-quality: 75
+quality: 103
 heat: -1
 published: false
 
 provider:
-  name: 11Alive
-  domain: 11alive.com
+  name: NPR
+  domain: npr.org
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
 
 images:
-  - url: "https://media.11alive.com/assets/WXIA/images/f35f42d2-ad5f-43ad-ac33-bffd4a4f4fbc/f35f42d2-ad5f-43ad-ac33-bffd4a4f4fbc_1140x641.jpg"
-    width: 1140
-    height: 641
+  - url: "https://media.npr.org/assets/img/2020/12/18/ap_20341071173075_wide-48314e47c7ce0df4b39556908d64dda07c95074e.jpg?s=1400"
+    width: 1400
+    height: 786
     isCached: true
 
 related:
@@ -881,20 +883,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump Drives A Wedge Among Georgia Republicans, Risking A Larger GOP Split"
-    excerpt: "The president's push to overturn the election is turning GOP voters against Republican state leaders in Georgia, just before close runoff elections that could have lasting national implications."
-    publishedDateTime: 2020-12-21T10:00:00Z
-    webUrl: "https://www.npr.org/2020/12/21/948172589/trump-drives-a-wedge-among-georgia-republicans-risking-a-larger-gop-split"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 103
-    images:
-      - url: "https://media.npr.org/assets/img/2020/12/18/ap_20341071173075_wide-48314e47c7ce0df4b39556908d64dda07c95074e.jpg?s=1400"
-        width: 1400
-        height: 786
-        isCached: true
   - title: "Republicans may have shot themselves in the foot by hitching their wagon to Trump ahead of the Georgia Senate runoffs"
     excerpt: "Republicans have spent weeks backing Trump's conspiracy theories about voter fraud and election rigging. Now it's coming back to bite them."
     publishedDateTime: 2020-12-04T17:01:00Z
@@ -955,6 +943,22 @@ related:
         width: 1279
         height: 720
         isCached: true
+  - title: "Mike Pence returning to Georgia this week"
+    excerpt: "The White House announced on Monday evening that Mike Pence will make two major stops in Georgia on Thursday - the first in Greenville, South Carolina and the next in Augusta, Georgia. The first stop will allow Pence to participate in a roundtable regarding Operation Warp Speed and South Carolina's vaccination plans."
+    publishedDateTime: 2020-12-08T01:52:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/elections/georgia-pence-visit-augusta/85-cf56f1c2-4d5a-4732-b8f7-b5c0ba0173af"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/georgia-pence-visit-augusta/85-cf56f1c2-4d5a-4732-b8f7-b5c0ba0173af"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/georgia-pence-visit-augusta/85-cf56f1c2-4d5a-4732-b8f7-b5c0ba0173af"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 75
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/f35f42d2-ad5f-43ad-ac33-bffd4a4f4fbc/f35f42d2-ad5f-43ad-ac33-bffd4a4f4fbc_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Mike Pence comes to Georgia as calm before potential Trump storm"
     excerpt: "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatile visit to the state that will determine which party controls the Senate in January."
     publishedDateTime: 2020-12-05T11:00:00Z
@@ -1014,6 +1018,6 @@ related:
         height: 630
         isCached: true
 
-secured: "eZ66tEmBSxdB1yYxItk5AV59E9lJ6G/leHWl2pWrbqmZnsgKe5+VrgdWwDwwGjzZ8BZvbmQmvdmVMg/EyXvKgaNrxNT82ee3pQ3qWGrQsQUw83Ucv5oLI29bbdkS8ZJju7w6RVKmHmX0CU+odqiKNb6vBZVNW6PiYGTu4bNg0PITlVtsypUyPIvoHCTm7U/wwUzf0EYV6s3bdT24F80PvezHvHgj3Z7HuqI6uz+ehenY2nOGSDNVQl8Rqk/eIX108YrxD4HC2f2ZtqwPxX7eY9PdVFkDCKZWX4NgeF9wmCq+5TdHoMv3np0Dh1iHlCrnLl2eEhsERBe7GGc/duEbVX+Zs2rYBGMndQWPf8yHUD6WonE0JiMMZ4xv+cuAyx7vxtnUcHHzAldmevEPquzv40gdYfaP/JTzt6+i2d7J33dKQReRJgXnSLN9RYx3foRLRK2XWZXzr4QGFq/4fVD3/8J+vOU1ijPU2yGwtXaEAcUbI8z3DpijmbtLB0ILJNyj1WU9P5ZUuk1Q6DzhbGOSZw==;4SebXtCM+2ODrTle0aLQeg=="
+secured: "ELz6iFjJnsRbaistxI9qbd9GAztWMW8yXEQQS/B2UrG+VeiFMeYX5BwZTkzu5pyvsHKmLJqZb6Gna85X1pt9hyx3y4WfN/LMa0E7w79sBHwr7qth4iBs6/BIUwTu8NBEMvR1FJOTu17XqwKuXPr/DaDb8n/LxEsvApCk1GX0zpdpkCl9R3o9szS77JOqRjmnySuTnMk121lzqeq2aMp0IY0hpnBsNJd3bEVQLdIBedn2TEn/vmZa0DTP4vwspGJyEOcx8AlWw9I1A/v/bUHE3pjaYni3dT6AUdl+rzq3dmehT3CXQiH2QhapjiFM4xcRNg5yQ9BaXEzhz3iQmxJEHTZGBTVFkD+vGYlR1u3rgLw=;1e19miDGqdLoPbx2mJQySg=="
 ---
 

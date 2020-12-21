@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-sen
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
 type: article
 quality: 143
-heat: 1403
+heat: 1423
 published: true
 
 provider:
@@ -869,6 +869,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/02/a37be1a1-f213-4eb5-ad96-05cdec06771a/thumbnail/1200x630/2a24d977528492a0bf4cd19a003a0124/cbsn-fusion-georgia-official-rump-condemn-threats-against-election-workers-someones-gonna-get-killed-thumbnail-599327-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump Drives A Wedge Among Georgia Republicans, Risking A Larger GOP Split"
+    excerpt: "The president's push to overturn the election is turning GOP voters against Republican state leaders in Georgia, just before close runoff elections that could have lasting national implications."
+    publishedDateTime: 2020-12-21T10:00:00Z
+    webUrl: "https://www.npr.org/2020/12/21/948172589/trump-drives-a-wedge-among-georgia-republicans-risking-a-larger-gop-split"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 103
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/18/ap_20341071173075_wide-48314e47c7ce0df4b39556908d64dda07c95074e.jpg?s=1400"
+        width: 1400
+        height: 786
         isCached: true
   - title: "Republicans may have shot themselves in the foot by hitching their wagon to Trump ahead of the Georgia Senate runoffs"
     excerpt: "Republicans have spent weeks backing Trump's conspiracy theories about voter fraud and election rigging. Now it's coming back to bite them."
