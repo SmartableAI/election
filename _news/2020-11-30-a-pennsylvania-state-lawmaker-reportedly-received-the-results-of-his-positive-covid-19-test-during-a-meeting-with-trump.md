@@ -621,6 +621,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "The Trump campaign is challenging Pennsylvania's voting laws at the Supreme Court more than a month after the election ended"
+    excerpt: "President Donald Trump lost the election to President-elect Joe Biden more than a month ago and is still filing new election lawsuits."
+    publishedDateTime: 2020-12-21T21:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-new-supreme-court-case-pennsylvania-election-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-new-supreme-court-case-pennsylvania-election-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-new-supreme-court-case-pennsylvania-election-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/5fce34df037cbd0018614295?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Attorney General Barr contradicts Trump, says no evidence of widespread election fraud"
     excerpt: "Attorney General William Barr said the Justice Department has not found evidence of widespread voter fraud in the 2020 election. This contradicts President Trump’s baseless claims about the election."
     publishedDateTime: 2020-12-02T16:28:00Z

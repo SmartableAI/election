@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3947267001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3947267001"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's legacy: He changed the presidency, but will it last?"
+    excerpt: "His legacy: a tumultuous four years that were marked by his impeachment, failures during the worst pandemic in a century and his refusal to accept defeat. He smashed conceptions about how presidents behave and communicate,"
+    publishedDateTime: 2020-12-21T17:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-legacy-changed-presidency-74837833"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74837833"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74837833"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Major Architects Group Will Stop Designing Death Chambers Amid Trump's Record-Breaking Executions"
     excerpt: "Convicted murderer Alfred Bourgeois was put to death on Friday, becoming the second man to be executed in two days."
     publishedDateTime: 2020-12-12T10:21:00Z

@@ -3,10 +3,10 @@ category: news
 title: "Pandemic Aid Boosts Biden and Shows a Potential Path for His Agenda in Congress"
 excerpt: "Working together with the president-elect urging them on from the sidelines, bipartisan groups in the Senate and House helped push feuding leaders to compromise. It could be a template for the future."
 publishedDateTime: 2020-12-21T18:04:00Z
-originalUrl: "https://www.nytimes.com/2020/12/21/us/biden-stimulus.html"
-webUrl: "https://www.nytimes.com/2020/12/21/us/biden-stimulus.html"
-ampWebUrl: "https://www.nytimes.com/2020/12/21/us/biden-stimulus.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/21/us/biden-stimulus.amp.html"
+originalUrl: "https://www.nytimes.com/2020/12/21/us/coronavirus-relief-assessment.html"
+webUrl: "https://www.nytimes.com/2020/12/21/us/coronavirus-relief-assessment.html"
+ampWebUrl: "https://www.nytimes.com/2020/12/21/us/coronavirus-relief-assessment.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/21/us/coronavirus-relief-assessment.amp.html"
 type: article
 quality: 131
 heat: -1
@@ -480,6 +480,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Pandemic Aid Bolsters Biden and Shows Potential Path for His Agenda in Congress"
+    excerpt: "Working together with the president-elect, bipartisan groups in the Senate and House helped push feuding leaders to compromise. It could be a template for the future."
+    publishedDateTime: 2020-12-21T21:49:00Z
+    webUrl: "https://www.nytimes.com/2020/12/21/us/politics/biden-stimulus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/21/us/politics/biden-stimulus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/21/us/politics/biden-stimulus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/21/us/politics/21dc-assess1/21dc-assess1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "California’s electors are meeting now. Their votes are expected to push Biden over the top."
     excerpt: "California’s 55 electors are meeting now as they prepare to cast their votes for President-elect Joseph R. Biden Jr. Their votes will push Mr. Biden over the 270 threshold to win the White House, formally delivering him a victory after a disruptive period in the nation’s history marked by extraordinary efforts by President Trump to overturn the results of the presidential election."
     publishedDateTime: 2020-12-14T17:31:00Z
@@ -525,6 +541,6 @@ related:
         height: 550
         isCached: true
 
-secured: "a7+vEN/coBtfufAXclZa0I1cweQv09KIeaHL3sFJ5LETFX7d0y8pSVBSHHIK4lloDpdNuJIAByK5nsqXCFjxoqjqxzsSHFwZ8DoJdg2bw04k7xJinGAcNb86XXEZruTpYX6Xxhd5cLU0xnm+WHB49pQKBWwcYef2DhYGwEl92N+BX5UQ7AgfkCGrpBKaLaX5fhVqOUwZjM4b6iSTuH+YgiNgPhd71X36BkzY4weUWHBKLrXkOJaFBD5ma1AVM6QfmwXMUqzVeN9itBq0Xddl1hJuDuZfU8VfYGH/iSrB9WBSW3y1uXjH27vgBZIJdxUYNLiM1eBoaA+UUGTAx4kbgbr6Qn9d6FO+e/Xj1aPnKqU=;xx+uCLNVFNHSy+rgyZx2RQ=="
+secured: "AlzuKMxBSlbc4BhZOMt49w0Dn1WvycFU47LvEBpzHaf6WjzVI7jYM5ijnhfChMYLDY7VjIA2zYcJEpjqxOFzarP7eN43BZzRvYHS8BV+Lt5pwDRP90K+F+BWzGAGBlDItXvcNPa17mJ1CK5Yn6HdiGFCXB44qVoU6jHJduhj9dQ4Cc7NplnobkI2jPTaztFdQDP+8P68hfTOalJ0RaGx6OVhqpxv/xRzDfjLfbfnOoie03vsnojQ4evqZK2YAzlk/OJJMl55g73JUZkh524UoFdYQCcVBgOjnihSLl/ZcjX6IYroJaOhaWiDo042IoW4VvsysSyKLzfHY7kZRrOlFL3TBv3BP/KjOeYz/dxfIX4=;PznmkZjNWAA+gp9sDrqmvA=="
 ---
 

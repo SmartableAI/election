@@ -537,63 +537,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-14-trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out.md",
-      "title": "Trudeau's digital tax flexes Canada's muscles with Trump on the way out",
-      "excerpt": "\"The idea that Canada would go ahead with an early tax probably would have invited a tariff by Trump,\" says one observer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999",
-      "originalUrl": "https://www.politico.com/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/ca/23/b637de3048f799b2373d53bea68e/ap20275647298968-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999",
-      "publishedDateTime": "2020-12-14T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-14-how-the-deep-state-scientists-vilified-by-trump-helped-him-deliver-an-unprecedented-achievement.md",
       "title": "How the ‘deep state’ scientists vilified by Trump helped him deliver an unprecedented achievement",
       "excerpt": "A $14-billion partnership between government and industry is spurring the quickest vaccine development in U.S. history.",
@@ -1582,6 +1525,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-george-conway-writes-op-ed-calling-trumps-effort-to-overturn-the-election-the-true-big-fraud-of-2020.md",
+      "title": "George Conway writes op-ed calling Trump's effort to overturn the election the true 'big fraud' of 2020",
+      "excerpt": "\"History will record that the scam didn't succeed,\" George Conway wrote in an op-ed excoriating Trump's effort to overturn the election.",
+      "sourceUrl": null,
+      "webUrl": "https://businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12",
+      "originalUrl": "https://businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fd2968d7b7e0500191074ca?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12?amp",
+      "publishedDateTime": "2020-12-10T14:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

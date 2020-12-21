@@ -90,6 +90,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Barr undercuts Trump on election and Hunter Biden inquiries"
+    excerpt: "Undercutting President Donald Trump on multiple fronts, Attorney General William Barr said Monday he saw no reason to appoint a special counsel to look into the president’s claims about the 2020 election or to name one for the tax investigation of President-elect Joe Biden’s son."
+    publishedDateTime: 2020-12-21T21:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ag-no-reason-for-special-counsel-on-election-bidens-son/2020/12/21/d0ff876a-43a8-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ag-no-reason-for-special-counsel-on-election-bidens-son/2020/12/21/d0ff876a-43a8-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ag-no-reason-for-special-counsel-on-election-bidens-son/2020/12/21/d0ff876a-43a8-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 155
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "China finally congratulates Joe Biden, Kamala Harris on election victory"
     excerpt: "Beijing sent belated felicitations after Biden spoke with the leaders of U.S. allies Japan, South Korea and Australia."
     publishedDateTime: 2020-11-13T10:05:00Z
@@ -1492,6 +1508,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost%252Es3%252Eamazonaws%252Ecom%2Fpublic%2F6KBHERR7YMI6XNMLCYR7MJTZMA%252Ejpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Kamala Harris, Ivanka Trump making appeals to Georgia voters"
+    excerpt: "Campaigning in Georgia on Monday, Vice President-elect Kamala Harris stressed a need to elect Democratic U.S. Senate candidates who will advance President-elect Joe"
+    publishedDateTime: 2020-12-21T21:42:00Z
+    webUrl: "https://apnews.com/article/election-2020-joe-biden-legislature-senate-elections-columbus-96748854a691771eda7aff1969aa1b17"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 120
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/690ee703af0545b4aafd209797f9a13d/2000.jpeg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Here’s what Kamala Harris is likely to take on as Biden’s vice president"
     excerpt: "The vice presidency may be the most loosely defined job in American politics. But all indications point to Kamala Harris being a consequential second in the White House."

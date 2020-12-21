@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-22-biden-gets-vaccine-says-nothing-to-worry-about.md",
+      "title": "Biden gets vaccine, says 'nothing to worry about'",
+      "excerpt": "President-elect Joe Biden on Monday received his first dose of the coronavirus vaccine on live television as part of a growing effort to convince the American public the inoculations are safe. (Dec. 2",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/12/21/biden-gets-vaccine-says-nothing-worry-about/4000093001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/12/21/biden-gets-vaccine-says-nothing-worry-about/4000093001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/64174d5b-87c9-41ea-a9eb-ca4e987ff3c5_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-21T14:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-coronavirus-live-joe-biden-receives-covid-vaccine-uk-warned-to-expect-further-restrictions.md",
+      "title": "Coronavirus live: Joe Biden receives Covid vaccine; UK warned to expect further restrictions",
+      "excerpt": "Joe Biden receives the coronavirus vaccine; Sir Patrick Vallance suggests more areas may need to enter tier 4; PM says border delays only affecting small amount of freight",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal?page=with:block-5fe110038f08dd27861ceee3",
+      "originalUrl": "https://www.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal?page=with:block-5fe110038f08dd27861ceee3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal",
+      "publishedDateTime": "2020-12-21T14:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-fierce-pushback-fear-of-new-and-onerous-regulations-from-small-farmers-on-joe-bidens-choice-of-tom-vilsack-for-usda.md",
       "title": "Fierce pushback, fear of new and onerous regulations from small farmers on Joe Biden’s choice of Tom Vilsack for USDA",
       "excerpt": "Tom Vilsack faces a steep challenge, with progressive and environmental groups warning that he is too friendly with big industrial agriculture businesses.",
@@ -1505,110 +1600,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-analysis-senate-gangs-show-biden-whats-possible-and-not.md",
-      "title": "Analysis: Senate 'gangs' show Biden what's possible, and not",
-      "excerpt": "Senators met day after day, night after night, trying to hammer out a framework for a $900 billion-plus COVID-19 aid and economic relief package",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/analysis-senate-gangs-show-biden-74685929",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/analysis-senate-gangs-show-biden-74685929",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_6bac3ffdc5f74a06a16c2493a02e3037_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/analysis-senate-gangs-show-biden-74685929",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-senate-gangs-show-biden-74685929",
-      "publishedDateTime": "2020-12-13T00:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-biden-cabinet-picks-from-obama-era-mean-bold-new-thinking.md",
-      "title": "Biden: Cabinet picks from Obama era mean 'bold new thinking'",
-      "excerpt": "President-elect Joe Biden on Friday introduced a series of key picks for his new government that drew heavily from the Obama administration",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-unveils-top-picks-deep-obama-administration-ties-74674302",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-unveils-top-picks-deep-obama-administration-ties-74674302",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_356ca0eaf41c446db3ea424d5c48b946_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-unveils-top-picks-deep-obama-administration-ties-74674302",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-unveils-top-picks-deep-obama-administration-ties-74674302",
-      "publishedDateTime": "2020-12-13T00:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

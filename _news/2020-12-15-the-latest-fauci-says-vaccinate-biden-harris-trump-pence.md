@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-b
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137"
 type: article
 quality: 180
-heat: 3600
+heat: 3640
 published: true
 
 provider:
@@ -65,6 +65,22 @@ related:
     webUrl: "https://www.washingtonpost.com/politics/election-2020-today-bidens-defense-pick-trump-challenges/2020/12/08/01278dce-3941-11eb-aad9-8959227280c4_story.html"
     ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-bidens-defense-pick-trump-challenges/2020/12/08/01278dce-3941-11eb-aad9-8959227280c4_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-bidens-defense-pick-trump-challenges/2020/12/08/01278dce-3941-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 155
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Barr undercuts Trump on election and Hunter Biden inquiries"
+    excerpt: "Undercutting President Donald Trump on multiple fronts, Attorney General William Barr said Monday he saw no reason to appoint a special counsel to look into the president’s claims about the 2020 election or to name one for the tax investigation of President-elect Joe Biden’s son."
+    publishedDateTime: 2020-12-21T21:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ag-no-reason-for-special-counsel-on-election-bidens-son/2020/12/21/d0ff876a-43a8-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ag-no-reason-for-special-counsel-on-election-bidens-son/2020/12/21/d0ff876a-43a8-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ag-no-reason-for-special-counsel-on-election-bidens-son/2020/12/21/d0ff876a-43a8-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -1493,6 +1509,20 @@ related:
       - url: "https://i.insider.com/5fd286912dc42e0018f0e471?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Kamala Harris, Ivanka Trump making appeals to Georgia voters"
+    excerpt: "Campaigning in Georgia on Monday, Vice President-elect Kamala Harris stressed a need to elect Democratic U.S. Senate candidates who will advance President-elect Joe"
+    publishedDateTime: 2020-12-21T21:42:00Z
+    webUrl: "https://apnews.com/article/election-2020-joe-biden-legislature-senate-elections-columbus-96748854a691771eda7aff1969aa1b17"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 120
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/690ee703af0545b4aafd209797f9a13d/2000.jpeg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Here’s what Kamala Harris is likely to take on as Biden’s vice president"
     excerpt: "The vice presidency may be the most loosely defined job in American politics. But all indications point to Kamala Harris being a consequential second in the White House."
