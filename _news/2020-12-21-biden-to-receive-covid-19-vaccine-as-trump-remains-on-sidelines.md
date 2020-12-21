@@ -8,7 +8,7 @@ webUrl: "https://www.latimes.com/world-nation/story/2020-12-21/biden-receive-cov
 ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-21/biden-receive-covid-19-vaccine?_amp=true"
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-21/biden-receive-covid-19-vaccine?_amp=true"
 type: article
-quality: 140
+quality: 150
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://ca-times.brightspotcdn.com/dims4/default/9f2edca/2147483647/strip/true/crop/4184x2733+0+28/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb2%2F60%2F4112dad241fcbf0c1d6f76b56549%2Fvirus-outbreak-trump-93566.jpg"

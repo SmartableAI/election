@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "As Trump pushes baseless fraud claims, Republicans pledge tougher voting rules"
+    excerpt: "Republican state lawmakers have begun to use President Donald Trump’s baseless charges of voter fraud to push for new restrictions on voting."
+    publishedDateTime: 2020-12-21T17:34:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-voting-rules-insight-idUSKBN28V1DN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V1DN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V1DN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545334968&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK0QE"
+        width: 817
+        height: 545
+        isCached: true
 
 secured: "wVY6ix5p0UyYGj0BK7CJA4MZIxz6Y9StzzhbLe5ox3TshSMBI2NZ4iht1XCa+XC4gBqncKHL0Iwdx3QqXXrqHjcw3uQwOQB9Fqs8JDquRiXfnqloaByC5LGe53BiE+H7BBwGvlftRJUMBtdaehMa935fT8K9ZjlHAZvZvjLqzXnnpSyFmVx1xyFsx0EIGZgthT8COTib32j/QSStv1h0VRsItmG6lKS3z2J1jSC1IpClCqVbb/xT6o4z5hnuci4WDE9EpoJLdD4D9CL43rJboeSVFPoY6MfYp1yE6bp3vRZN4agV4UZfBDYTxCt9hYl9W8d4fV5vIVnQ+HLxvceHE4P6ZbvW+FvuRo7VBFFsVn0vNA88Im7yYGw5+3WLqFKkZZ5yEJ075FUW0wn26fgmhnt1/J69BTOTNuIl3kw/dEw02/tPJWEfJrIm548s201L63/cOGuODfN+TUdm+4DmNeTFEQ6ludpOVCj78m//ohoHDAy0pZpfmTMmQnDuy54DLYBuZB96d6z03VlMGVWdAw==;dQi9xuLhzeBFrv6l3xzEgA=="
 ---

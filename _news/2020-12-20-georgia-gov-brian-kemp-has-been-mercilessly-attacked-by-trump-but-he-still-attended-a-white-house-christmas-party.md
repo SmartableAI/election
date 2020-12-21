@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Donald and Melania Trump wear matching tuxedos in their final White House Christmas picture"
-    excerpt: "The picture shows the Trumps smiling as they stand together on the Grand staircase in the White House, beneath festive Christmas decorations."
-    publishedDateTime: 2020-12-19T12:28:00Z
-    webUrl: "https://www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12?amp"
+  - title: "Loeffler's wealth, Trump loyalty face scrutiny in Georgia"
+    excerpt: "Kelly Loeffler’s tight embrace of President Donald Trump and the far right while fighting to hold on to her U.S. Senate seat is not exactly what allies of Georgia Gov. Brian Kemp envisioned when he ap"
+    publishedDateTime: 2020-12-21T17:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5fdddc03c910a400192e8870?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Georgia Gov. Brian Kemp mocked for attending White House Christmas party after Trump insults"
     excerpt: "Since the election, Trump has called Kemp a \"fool,\" a \"clown,\" a \"RINO,\" one of the nation's worst governors, and declared him \"finished as governor.\""
@@ -63,21 +63,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "President Trump, Melania Trump don matching tuxedos in final Christmas portrait: See the photo"
-    excerpt: "President Donald Trump and first lady Melania Trump donned matching looks and smiles for their final White House Christmas portrait."
-    publishedDateTime: 2020-12-19T04:26:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/12/18/president-trump-melania-don-matching-tuxedos-final-christmas-photo/3969324001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3969324001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3969324001"
+  - title: "Mike Pence rallies for Kelly Loeffler and David Perdue: 'It’s all about Georgia'"
+    excerpt: "What a difference a week made for Vice President Mike Pence, who last week rallied Georgia GOP voters with a “God bless Texas!” but returned to separate"
+    publishedDateTime: 2020-12-17T23:21:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/mike-pence-rallies-for-kelly-loeffler-and-david-perdue-it-s-all-about-georgia/article_4fadd78d-bb57-5c61-b10f-24c60f888d90.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 50
     images:
-      - url: "https://www.gannett-cdn.com/presto/2019/12/06/USAT/ae8ce7ee-93a3-4011-9aa0-3a5f6632cb8f-AP_Trump.JPG?auto=webp&crop=4130,2324,x0,y210&format=pjpg&width=1200"
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
 
 secured: "IrD3AVV0gvgK/P3HpuiOOORicdFdpr4kJTSwyP1Gfhn8ht/bBB0R9NWKof6iDdcEdzVXv51S6uycyhMafpB/lI90X6cu8KjQGHQGa0UlDN5XIhOx6aF8v6ncL+EPvP+8XzNCu0BFn0g+gM2hRTvSe2QD6B/VikyMAyeYIHgIDjWsVOkgjY+CEm/vR0Rx9x7icGR8uhyWV7iSHZceLI2UQ9VG3qVC/7HvKeguiRz8L+9yNNe342ZQt6eBD/hG2AVPMjEBHzFF3/MlzYp/rmDvtDcIjrWJPDmv6Hy3w4Xbtbw6bdw42nL9+U0UMVSRVm5Kwsuov8hTxhdDNuZ04Hev4nhW41NWEmvHl22K3Ps9DaE=;rVNEigxSvJop1TtZ25sjjA=="

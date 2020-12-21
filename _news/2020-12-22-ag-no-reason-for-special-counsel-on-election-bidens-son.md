@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ag-reason-special-coun
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ag-reason-special-counsel-election-bidens-son-74843541"
 type: article
 quality: 140
-heat: 260
+heat: 280
 published: true
 
 provider:
@@ -121,7 +121,21 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'No plans' for special counsel in Hunter Biden probe -Barr"
+    excerpt: "Politics 'No plans' for special counsel in Hunter Biden probe -Barr. Posted . U.S. Attorney General William Barr said on Monday he has no plans to appoint a special counsel to inv"
+    publishedDateTime: 2020-12-21T18:56:00Z
+    webUrl: "https://www.reuters.com/video/watch/no-plans-for-special-counsel-in-hunter-b-idOVD9YH5NJ?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201221&i=OVD9YH5NJ&r=OVD9YH5NJ&t=2"
+        width: 960
+        height: 540
+        isCached: true
 
-secured: "j48lLBxtlWZqU1EsxoMpqrQY6By9awxSy8jtA1gWmUUoxX1F1UwEndFB7RbH10eELkUoAL4xxddlW8CwFemrG3unVoG81fPjA6f7PtvLy6im/zxEOC3Hrg1CgWh2nyfmse0ovaa4VbazlXsvSnlM7m0+dQNQJEICsPCPbO1Ojlwls6Iz266dC0mCNsY30Ct31T09aAo9qnSkFQZFZLHtyj/ZC8jTBA3GCChb+pnEaGgwOnfbZIl1tt+3d/eV6opJN2Z2GOqxLsTI8MdAQl/QPL9PjGasXui+qrEKV3IWNmz2WeQBWBFdEagA2Ctz5EF0DmbREkRxZ7DKgmkp8ixNGL+WhTG1OWO5lBr73uLcQAc=;6trT5U1vyhL9FBi2X+82rw=="
+secured: "Z1TMbYOXuwJQY1iXzM1LMLUJX7hJvgz9sV1dwY3lmhBxqgiDWtVPd6m28Siw5R4KGQHRFcr6N+XWGiRdNWL3haEx4K19WEB4IUs67RMNgClcThfI1EN1TRltMppI05OvzmQLumVrhY/9R1tu1Gd21i3Ltlrr4QVYfaZeh5XKchXEfbzMvhwJYir7DJ5K1gP2Bd0ph9fMyFlSiiv2cZsfuWVF3cGT1JRoDHpaSkneAwo0lSokvvy7gcczXlnW1d8b7GenP0eSVSEqdSFly1rwIzr4v+KyL8SxXRKr/ZGatKbAgSK7yjaxac/whhdkvs6Adl9DmOR8Vx4SfR/vunS0XHb+zT5YGPoQgYY4fVliLGZadIgtn3bSwju1lZsk+wFFUT8xig2Rm/eJBsYijTSYXQxUyER3DvmfOMlS9Jz4ORii+wW31wMEdEpCuL0/jR/hmnLjzlgSVF2/RnR1L/g9APqK+arv2H+eRKjHZ6GGT/VhYaU/E8opL2wJ7WfaNh67NfKh9rxnNeuXmuk51Rf+iQ==;tou3CkFCHx0uBkHfjbpdFQ=="
 ---
 

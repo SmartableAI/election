@@ -219,6 +219,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden to receive COVID-19 vaccine as Trump remains on sidelines"
+    excerpt: "President-elect Joe Biden is to receive his first dose of the coronavirus vaccine on live television to help persuade more Americans to follow suit."
+    publishedDateTime: 2020-12-21T09:57:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-21/biden-receive-covid-19-vaccine"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-21/biden-receive-covid-19-vaccine?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-21/biden-receive-covid-19-vaccine?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 150
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/9f2edca/2147483647/strip/true/crop/4184x2733+0+28/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb2%2F60%2F4112dad241fcbf0c1d6f76b56549%2Fvirus-outbreak-trump-93566.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "McConnell breaks with Trump in finally recognizing Biden as the new president"
     excerpt: "Senate Majority Leader Mitch McConnell (R-Ky.) made his sharpest and most significant break from President Trump on Tuesday, finally acknowledging Joe Biden as the rightful president-elect even as Trump refused to publicly admit his decisive loss in both the electoral college and the popular vote."
     publishedDateTime: 2020-12-16T01:09:00Z
@@ -490,22 +506,6 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_408f4c19bf8a49fc870a904f7fb260c2_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Biden to receive COVID-19 vaccine as Trump remains on sidelines"
-    excerpt: "President-elect Joe Biden is to receive his first dose of the coronavirus vaccine on live television to help persuade more Americans to follow suit."
-    publishedDateTime: 2020-12-21T09:57:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-21/biden-receive-covid-19-vaccine"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-21/biden-receive-covid-19-vaccine?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-21/biden-receive-covid-19-vaccine?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 140
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/9f2edca/2147483647/strip/true/crop/4184x2733+0+28/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb2%2F60%2F4112dad241fcbf0c1d6f76b56549%2Fvirus-outbreak-trump-93566.jpg"
-        width: 320
-        height: 209
         isCached: true
   - title: "Biden to receive COVID vaccine as Trump remains on sidelines"
     excerpt: "President-elect Joe Biden will receive his first dose of the coronavirus vaccine on live television as part of a growing effort to convince the American public the inoculations are safe"

@@ -3,8 +3,8 @@ category: news
 title: "Mexican president expects no conflicts with Biden administration"
 excerpt: "Mexican President Andres Manuel Lopez Obrador said on Monday his weekend call with U.S. President-elect Joe Biden was \"very friendly\" and that he expect relations to be positive with the new Democratic administration taking office in January."
 publishedDateTime: 2020-12-21T14:52:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-mexico/mexican-president-expects-no-conflicts-with-biden-administration-idUSKBN28V1UG?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/us-usa-election-mexico/mexican-president-expects-no-conflicts-with-biden-administration-idUSKBN28V1UG?edition-redirect=ca"
+originalUrl: "https://www.reuters.com/article/us-usa-election-mexico/mexican-president-expects-no-conflicts-with-biden-administration-idUSKBN28V1UG"
+webUrl: "https://www.reuters.com/article/us-usa-election-mexico/mexican-president-expects-no-conflicts-with-biden-administration-idUSKBN28V1UG"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V1UG"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V1UG"
 type: article
@@ -222,6 +222,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/db7d3342fc6619931c02b4b619d3d79bcc7d80ce/0_120_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4c8d6ddfbba62fd7cf15141727b34de8"
         width: 600
         height: 360
+        isCached: true
+  - title: "AG Barr: No reason to name special counsels to investigate Hunter Biden or election fraud"
+    excerpt: "Attorney General Barr distanced himself from Trump saying he saw no cause for appointing special counsels to investigate Joe Biden's son Hunter Biden."
+    publishedDateTime: 2020-12-21T18:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/21/barr-no-reason-special-counsels-hunter-biden-election-fraud/3991548001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3991548001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3991548001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/15/USAT/692ddb1b-5135-4cd3-9a7d-f76290ac2108-VPC_BARR_RESIGNS_GETTY_WIDE.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Live updates: Pence campaigns in Georgia Senate races; Biden settles on EPA, interior nominees"
     excerpt: "The vice president's return to Georgia underscored the importance of the Senate races there. The outcome will determine which party controls the Senate next year."
@@ -1352,6 +1368,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "e8DcEmDcp4Cl0dueTKwefYvyiVtTjPyTQ3c+ZITrMpETcFV6pOm6isTeYl72WGaH5d0tW5akwYAaH4FHO89u9P0RZKZMJW4hBRmWmHf9a5lnCuPW4hwnVSIg/dvhV7d0yVsVRdjnUd6e4D1c5yLuQactS6JPBqIrfK+t5gPBwKbhsxgRuoTNH4qBHyneHG5FpUfeCIjbXUSFoZ3lh8YI1C1VD6Wf+T7SLFicfVCTi1sPjE+6XA/sKe+DT7kfC18TxD7QTxSC2rLNV/daUKzl5EKJjsEJpyUF0Pb7tRdOe94S+FkuyhcMBslx5gb7D6KpVEguDfudXtznzYHi1C6J8Um9JKHD807if/mgbnW7kqHqFsx9gxUOWTQfvd6AQjCm5h7nUR+cYJgUPLTGGEQVM2BC75m7U4T9naW2eAimX+i6Rv0//HyVggtetf+49NAlaS8v9Z46T4I2SlHFHq4No8owRme79tQyMjs7TlBFco22DGpY4gzJUSOXhjA6JLGV5o4H/TceOWq3gSVnPMYrnw==;mWUnMvEaQSteU8VRaSy+cg=="
+secured: "KVt9TpGKn5jH11g/LmeSk2vdJniW3sq2UkniqRPrLa4Hx2Qa31vMTOohtWjJOzOLfvIWai0iL6Q4GZMgQN0aGBUjneunE5N/Gbgl/07nVy/gvlVOsF4EUQ86JelorUGXdJ3bseJGFLd0wyj6ro7KOYsOT121clrWy3WU2YJh/6GF4aOL3kYgSuhb6I9V/DEah6dM6UKRQy8HL+3qdxSUY/CKPT2HahnLBDBVKOFndi5Bmi5hhmGwX9Ta9UABs8F4dSl4B6R5l9dDGPRaZAIV6xXQMuSviG0lLXeZL+BMpI/YJtR91yaWsUQQ3SoU9SMvfcAszBoNwxS9SGe1srqmOoVLudp4vnpAVSB4YlgKbCU=;NaRg0DSAu1UpFTM6RVN6SQ=="
 ---
 

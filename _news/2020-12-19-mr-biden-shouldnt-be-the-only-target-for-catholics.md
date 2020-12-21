@@ -121,6 +121,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'No plans' for special counsel in Hunter Biden probe -Barr"
+    excerpt: "Politics 'No plans' for special counsel in Hunter Biden probe -Barr. Posted . U.S. Attorney General William Barr said on Monday he has no plans to appoint a special counsel to inv"
+    publishedDateTime: 2020-12-21T18:56:00Z
+    webUrl: "https://www.reuters.com/video/watch/no-plans-for-special-counsel-in-hunter-b-idOVD9YH5NJ?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201221&i=OVD9YH5NJ&r=OVD9YH5NJ&t=2"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "8e0Itrls1bJGElomrrGS1DTQcWYMvIMFBPv8DCu0laYWuf5uDiBWOiG7ykJQiTOM+pOgFGTVD3i/dKbbS6AtzI3gk6HuF1/kSI5pBOuFHM9YcJP/vXNOL/Roq2Cc09unkvWNno1lTyFGBXNK6G2z6s5KGaHDlRXdOcB8zhG+WSOLJOhM7fEuYrzHtXRITSj4WV7SGHBXcAMf8Q3DdKrGW9DmwYKTc8L8J0uwo2pxFauW2t2c6p/RxUmWwreCSbVsCCn1gliVe3l6ajnXQgR83vtapM+EjSGD2kBV03PBXkL7yxchGw9hTfluS4oWeu9EYxVIBmCwUpmeKZk71kiGyKj40PAkF/C9M4eF99TUTLJYqszQITEPu43l3SJi8nZEM2pnZgY0RORWXLIJas/V2p0YSt/h6uxdcu6GSsjvNKmix1lDeI4sQ9w7QJTW2an8XrK2nw8FCCnzyuLwO+vtUKLXi/YtTu6UZajtapZxKo1xsDVnmcasGNMnMlJVX4kflKhpU5iO6wRynqo808240w==;TZhKDmwSxp2nVhlZGcqN5A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28R0M7"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R0M7"
 type: article
 quality: 123
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "As Trump pushes baseless fraud claims, Republicans pledge tougher voting rules"
+    excerpt: "Republican state lawmakers have begun to use President Donald Trump’s baseless charges of voter fraud to push for new restrictions on voting."
+    publishedDateTime: 2020-12-21T17:34:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-voting-rules-insight-idUSKBN28V1DN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V1DN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V1DN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545334968&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK0QE"
+        width: 817
+        height: 545
+        isCached: true
   - title: "White House aides talked Trump out of last-minute demand for stimulus checks as big as $2,000"
     excerpt: "Advisers persuaded the president on Thursday not to announce support for significantly bigger stimulus payments."
     publishedDateTime: 2020-12-18T08:41:00Z

@@ -207,6 +207,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "AG Barr: No reason to name special counsels to investigate Hunter Biden or election fraud"
+    excerpt: "Attorney General Barr distanced himself from Trump saying he saw no cause for appointing special counsels to investigate Joe Biden's son Hunter Biden."
+    publishedDateTime: 2020-12-21T18:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/21/barr-no-reason-special-counsels-hunter-biden-election-fraud/3991548001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3991548001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3991548001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/15/USAT/692ddb1b-5135-4cd3-9a7d-f76290ac2108-VPC_BARR_RESIGNS_GETTY_WIDE.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Live updates: Pence campaigns in Georgia Senate races; Biden settles on EPA, interior nominees"
     excerpt: "The vice president's return to Georgia underscored the importance of the Senate races there. The outcome will determine which party controls the Senate next year."
     publishedDateTime: 2020-12-17T23:19:00Z
@@ -706,7 +722,7 @@ related:
   - title: "Mexican president expects no conflicts with Biden administration"
     excerpt: "Mexican President Andres Manuel Lopez Obrador said on Monday his weekend call with U.S. President-elect Joe Biden was \"very friendly\" and that he expect relations to be positive with the new Democratic administration taking office in January."
     publishedDateTime: 2020-12-21T14:52:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-mexico/mexican-president-expects-no-conflicts-with-biden-administration-idUSKBN28V1UG?edition-redirect=ca"
+    webUrl: "https://www.reuters.com/article/us-usa-election-mexico/mexican-president-expects-no-conflicts-with-biden-administration-idUSKBN28V1UG"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V1UG"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V1UG"
     type: article

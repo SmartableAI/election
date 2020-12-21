@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-22-trump-administration-weighing-legal-immunity-for-saudi-crown-prince-accused-in-assassination-plot.md",
+      "title": "Trump administration weighing legal immunity for Saudi crown prince accused in assassination plot",
+      "excerpt": "Riyadh has asked the State Department to shield Mohammed bin Salman from a U.S. lawsuit by a former Saudi intelligence officer who claims he was targeted days after Jamal Khashoggi’s death in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HC5LGNSBUQI6XC6AVYKVX3SK74.jpg&w=1440",
+          "width": 1280,
+          "height": 862,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-21T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-loefflers-wealth-trump-loyalty-face-scrutiny-in-georgia.md",
+      "title": "Loeffler's wealth, Trump loyalty face scrutiny in Georgia",
+      "excerpt": "Kelly Loeffler’s tight embrace of President Donald Trump and the far right while fighting to hold on to her U.S. Senate seat is not exactly what allies of Georgia Gov. Brian Kemp envisioned when he ap",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875",
+      "publishedDateTime": "2020-12-21T09:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-trumps-final-trade-jab-may-be-tariffs-on-vietnamese-goods-experts.md",
       "title": "Trump's final trade jab may be tariffs on Vietnamese goods - experts",
       "excerpt": "President Donald Trump is likely to unveil proposed tariffs on Vietnamese goods before he leaves office in January, currency and trade experts say, after the U.S. Treasury branded the growing U.S. trade partner a \"currency manipulator\" last week.",
@@ -640,7 +744,7 @@
       "originalUrl": "https://www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1232,7 +1336,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trade-eu-britain-idUSKBN28R0M7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -1448,110 +1552,6 @@
       "ampWebUrl": "https://www.washingtonpost.com/business/2020/12/16/usps-trump-board-governor-nominee/?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/12/16/usps-trump-board-governor-nominee/?outputType=amp",
       "publishedDateTime": "2020-12-16T10:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-like-a-hand-grasping-trump-appointees-describe-the-crushing-of-the-cdc.md",
-      "title": "‘Like a hand grasping’: Trump appointees describe the crushing of the CDC",
-      "excerpt": "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, were installed in 2018 as two of the youngest political appointees in the history of the world’s premier public health agency,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/coronavirus/sns-nyt-cdc-trump-20201216-zmk3voqeunexjnhowzi6tqfkou-story.html",
-      "originalUrl": "https://www.chicagotribune.com/coronavirus/sns-nyt-cdc-trump-20201216-zmk3voqeunexjnhowzi6tqfkou-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/5re4-qd609Hv_IcCEcu2pP1qyPo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MDBRM2XLUOGRAO4BDJ4CJVJC6A.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/sns-nyt-cdc-trump-20201216-zmk3voqeunexjnhowzi6tqfkou-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/sns-nyt-cdc-trump-20201216-zmk3voqeunexjnhowzi6tqfkou-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-16T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-how-far-did-ron-desantiss-loyalty-to-trump-go.md",
-      "title": "How far did Ron DeSantis’s loyalty to Trump go?",
-      "excerpt": "When Ron DeSantis ran for governor of Florida in 2018, he made a politically savvy decision: He would be the most pro-President-Trump candidate possible. He popped up on Fox News repeatedly, understanding that it would be an effective way to get Trump’s attention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/12/16/how-far-did-ron-desantiss-loyalty-trump-go/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/16/how-far-did-ron-desantiss-loyalty-trump-go/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JLU34TR7FEI6XNMLCYR7MJTZMA.jpg&w=1440",
-          "width": 1440,
-          "height": 1011,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/16/how-far-did-ron-desantiss-loyalty-trump-go/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/16/how-far-did-ron-desantiss-loyalty-trump-go/?outputType=amp",
-      "publishedDateTime": "2020-12-16T08:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",

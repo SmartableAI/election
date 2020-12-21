@@ -47,6 +47,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Barr sides with Pompeo over Trump that SolarWinds hack 'appears to be the Russians'"
+    excerpt: "Attorney General William Barr on Monday contradicted President Trump and sided with Secretary of State Mike Pompeo in blaming the Russians for a major hack into American government systems that compromised several major agencies. "
+    publishedDateTime: 2020-12-21T18:19:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vkd4HvnSunY/barr-solarwinds-hack-russia-pompeo-trump"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20356590492692-1-e1608573862942.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pompeo Blames Russia for Hack as Trump Casts Doubt on Widespread Conclusion"
     excerpt: "The secretary of state pointed the finger at Russia for the SolarWinds hack that compromised numerous agencies and corporations, while the president said he was skeptical of a growing consensus about the country’s role."
     publishedDateTime: 2020-12-20T00:34:00Z

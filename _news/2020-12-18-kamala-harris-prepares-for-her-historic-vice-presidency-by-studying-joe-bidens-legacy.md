@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/kamala-harris-prepares-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/kamala-harris-prepares-biden-legacy/index.html"
 type: article
 quality: 192
-heat: 792
+heat: 812
 published: true
 
 provider:
@@ -461,6 +461,22 @@ related:
     quality: 131
     images:
       - url: "https://static01.nyt.com/images/2020/11/03/us/politics/00Harris-HFO1/00Harris-HFO1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Pandemic Aid Boosts Biden and Shows a Potential Path for His Agenda in Congress"
+    excerpt: "Working together with the president-elect urging them on from the sidelines, bipartisan groups in the Senate and House helped push feuding leaders to compromise. It could be a template for the future."
+    publishedDateTime: 2020-12-21T18:04:00Z
+    webUrl: "https://www.nytimes.com/2020/12/21/us/coronavirus-relief-assessment.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/21/us/coronavirus-relief-assessment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/21/us/coronavirus-relief-assessment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/21/us/politics/21dc-assess1/21dc-assess1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

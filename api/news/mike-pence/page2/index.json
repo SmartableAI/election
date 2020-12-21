@@ -2,63 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-05-obama-and-pence-hit-georgia-campaign-trail-to-court-senate-runoff-voters.md",
-      "title": "Obama and Pence hit Georgia campaign trail to court Senate runoff voters",
-      "excerpt": "\"Anybody listening right now, you need to realize this is not just about Georgia,\" Obama said. \"This is about America - this is about the world.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/obama-pence-hit-georgia-campaign-trail-court-senate-runoff-voters-n1250029",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/obama-pence-hit-georgia-campaign-trail-court-senate-runoff-voters-n1250029",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_47/3429880/201120-barack-obama-al-0812_a91487a269184df40996804a637177e8.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250029",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250029",
-      "publishedDateTime": "2020-12-04T14:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-05-vp-pence-confidence-in-vaccine-important-for-us.md",
       "title": "VP Pence: Confidence in vaccine important for US",
       "excerpt": "As U.S. deaths from COVID-19 topped 2,800 Thursday, a new daily high, and with more than 100,000 Americans hospitalized with the disease, VP Mike Pence is trying to boost confidence in the vaccines that are awaiting regulatory approval.",
@@ -1500,6 +1443,49 @@
       "provider": {
         "name": "Newsday",
         "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-after-a-second-loss-to-greg-pence-jeannine-lee-lake-sets-her-sights-on-2022.md",
+      "title": "After a second loss to Greg Pence, Jeannine Lee Lake sets her sights on 2022",
+      "excerpt": "With 97% of precincts counted in this year's Sixth District Congressional race, Greg Pence had 68.6% of the vote to Jeannine Lee Lake's 27.8%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestarpress.com/story/news/local/2020/11/08/after-second-loss-greg-pence-jeannine-lee-lake-sets-sights-2022/6189470002/",
+      "originalUrl": "https://www.thestarpress.com/story/news/local/2020/11/08/after-second-loss-greg-pence-jeannine-lee-lake-sets-sights-2022/6189470002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/06/PMUN/9f434446-2b64-4dbc-b26c-8a6d2cf551b1-jersey_22.jpg?auto=webp&crop=719,405,x0,y240&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.thestarpress.com/amp/6189470002",
+      "cdnAmpWebUrl": "https://amp-thestarpress-com.cdn.ampproject.org/c/s/amp.thestarpress.com/amp/6189470002",
+      "publishedDateTime": "2020-11-08T05:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star Press",
+        "domain": "thestarpress.com",
         "images": null,
         "publishers": null,
         "authors": null

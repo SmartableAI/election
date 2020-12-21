@@ -64,6 +64,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Barr sides with Pompeo over Trump that SolarWinds hack 'appears to be the Russians'"
+    excerpt: "Attorney General William Barr on Monday contradicted President Trump and sided with Secretary of State Mike Pompeo in blaming the Russians for a major hack into American government systems that compromised several major agencies. "
+    publishedDateTime: 2020-12-21T18:19:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vkd4HvnSunY/barr-solarwinds-hack-russia-pompeo-trump"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20356590492692-1-e1608573862942.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump Organization Ordered to Turn Over Documents to New York Attorney General"
     excerpt: "A New York judge ordered the Trump Organization to hand over documents related to its sprawling Westchester County estate to the state attorney general’s office as it pursues a civil fraud investigation into the president and his company."
     publishedDateTime: 2020-12-16T04:35:00Z

@@ -478,6 +478,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Pandemic Aid Boosts Biden and Shows a Potential Path for His Agenda in Congress"
+    excerpt: "Working together with the president-elect urging them on from the sidelines, bipartisan groups in the Senate and House helped push feuding leaders to compromise. It could be a template for the future."
+    publishedDateTime: 2020-12-21T18:04:00Z
+    webUrl: "https://www.nytimes.com/2020/12/21/us/coronavirus-relief-assessment.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/21/us/coronavirus-relief-assessment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/21/us/coronavirus-relief-assessment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/21/us/politics/21dc-assess1/21dc-assess1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "California’s electors are meeting now. Their votes are expected to push Biden over the top."
     excerpt: "California’s 55 electors are meeting now as they prepare to cast their votes for President-elect Joseph R. Biden Jr. Their votes will push Mr. Biden over the 270 threshold to win the White House, formally delivering him a victory after a disruptive period in the nation’s history marked by extraordinary efforts by President Trump to overturn the results of the presidential election."
     publishedDateTime: 2020-12-14T17:31:00Z

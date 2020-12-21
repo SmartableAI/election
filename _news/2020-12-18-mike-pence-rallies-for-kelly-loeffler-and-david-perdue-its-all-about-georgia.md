@@ -25,19 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Pence cheers Texas suit against Georgia: ‘God bless Texas!’"
-    excerpt: "Vice president Mike Pence was back in Georgia for the second time in a week, headlining another \"Defend the Majority\" rally for Sens. Kelly Loeffler and David Perdue."
-    publishedDateTime: 2020-12-11T03:19:00Z
-    webUrl: "https://www.ajc.com/politics/mike-pence-cheers-texas-suit-against-georgia-god-bless-texas/NIOSTWXB2BEYPBFCWEJYRMWR7E/"
+  - title: "Loeffler's wealth, Trump loyalty face scrutiny in Georgia"
+    excerpt: "Kelly Loeffler’s tight embrace of President Donald Trump and the far right while fighting to hold on to her U.S. Senate seat is not exactly what allies of Georgia Gov. Brian Kemp envisioned when he ap"
+    publishedDateTime: 2020-12-21T17:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875"
     type: article
     provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 55
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.ajc.com/resizer/IYlB8buRUr0BhWn7_UbCW6ZeJKg=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/VCY7T37OQJVSGUQHLZXPFQB26M.jpg"
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Georgia Gov. Brian Kemp mocked for attending White House Christmas party after Trump insults"
+    excerpt: "Since the election, Trump has called Kemp a \"fool,\" a \"clown,\" a \"RINO,\" one of the nation's worst governors, and declared him \"finished as governor.\""
+    publishedDateTime: 2020-12-20T02:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/19/brian-kemp-attends-white-house-christmas-party/3977861001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3977861001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3977861001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/20/USAT/7f59541a-31a9-4fc0-9ef4-4eb5842e5725-GTY_1230146559.jpg?auto=webp&crop=5226,2940,x1,y0&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
+        isCached: true
+  - title: "Georgia Gov. Brian Kemp has been mercilessly attacked by Trump. But he still attended a White House Christmas Party."
+    excerpt: "Kemp has drawn the ire of Trump and GOP activists for what they perceive as a lack of support in investigating unsubstantiated claims of voter fraud."
+    publishedDateTime: 2020-12-20T07:12:00Z
+    webUrl: "https://www.businessinsider.com/brian-kemp-white-house-christmas-party-trump-twitter-attacks-georgia-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/brian-kemp-white-house-christmas-party-trump-twitter-attacks-georgia-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brian-kemp-white-house-christmas-party-trump-twitter-attacks-georgia-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5fdef2a6c910a400192e8922?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "3ng5lDVmkReFYGxJq06SvbNsiOPvDmHjY5erzggTkNWweUCTkJkr7RzCzx2EtonEG0gM9gjV29CB4T2nREV/wfoxr/ipTee/K+hgyIdocw0rKeF7s1F9JyOrO9ukC4qO/Bq90z7xp0IN5zw1Rm5MTXAed7/OiZh+/LMPyVyh1sqLwvBGg58i9xp9Utk4Km0pFriVSZmoNJblKmthO0OAyD+bb0MZsrC7KWsKaEKhf1P2AoRcrcS98DUvzMBAbNdcypvasSsndaPHP+upQwxxOmO/DA5V3roCuhSzSGtbv9xM/XjdXhAaCaXTZAsUDHNvsQ3stVORCKvrWJ0NWpQzPYgWjytG7C8OJ0nRfLohHFQ=;+z0TDM7LHR8+4WY2ScKFnQ=="

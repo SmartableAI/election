@@ -2,6 +2,214 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-13-analysis-senate-gangs-show-biden-whats-possible-and-not.md",
+      "title": "Analysis: Senate 'gangs' show Biden what's possible, and not",
+      "excerpt": "Senators met day after day, night after night, trying to hammer out a framework for a $900 billion-plus COVID-19 aid and economic relief package",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/analysis-senate-gangs-show-biden-74685929",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/analysis-senate-gangs-show-biden-74685929",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_6bac3ffdc5f74a06a16c2493a02e3037_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/analysis-senate-gangs-show-biden-74685929",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-senate-gangs-show-biden-74685929",
+      "publishedDateTime": "2020-12-13T00:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-biden-cabinet-picks-from-obama-era-mean-bold-new-thinking.md",
+      "title": "Biden: Cabinet picks from Obama era mean 'bold new thinking'",
+      "excerpt": "President-elect Joe Biden on Friday introduced a series of key picks for his new government that drew heavily from the Obama administration",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-unveils-top-picks-deep-obama-administration-ties-74674302",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-unveils-top-picks-deep-obama-administration-ties-74674302",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_356ca0eaf41c446db3ea424d5c48b946_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-unveils-top-picks-deep-obama-administration-ties-74674302",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-unveils-top-picks-deep-obama-administration-ties-74674302",
+      "publishedDateTime": "2020-12-13T00:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-kamala-harris-husband-lawyer-doug-emhoff-to-teach-next-semester-at-georgetown.md",
+      "title": "Kamala Harris’ husband, lawyer Doug Emhoff, to teach next semester at Georgetown",
+      "excerpt": "The incoming second gentleman has landed a new job at the Georgetown University Law Center, school officials announced. Doug Emhoff, husband to Vice President-elect Kamala D. Harris, announced last month he would leave his Los Angeles law firm by Inauguration Day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2YNFSAR37YI6XETWVYGKOJZJXY.jpg&w=1440",
+          "width": 1440,
+          "height": 958,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-12T23:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-statement-atlanta-mayor-turned-down-bidens-cabinet-offer.md",
+      "title": "Statement: Atlanta mayor turned down Biden's Cabinet offer",
+      "excerpt": "A spokesperson for Atlanta Mayor Keisha Lance Bottoms says the prominent Democrat turned down an opportunity to serve in President-elect Joe Biden’s Cabinet",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/statement-atlanta-mayor-turned-bidens-cabinet-offer-74696339",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/statement-atlanta-mayor-turned-bidens-cabinet-offer-74696339",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_fc019b7817574bc3800453cce85f455d_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/statement-atlanta-mayor-turned-bidens-cabinet-offer-74696339",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/statement-atlanta-mayor-turned-bidens-cabinet-offer-74696339",
+      "publishedDateTime": "2020-12-12T21:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-trump-engages-in-self-sabotage-ahead-of-historic-vaccine-rollout.md",
       "title": "Trump engages in self-sabotage ahead of historic vaccine rollout ",
       "excerpt": "As doses of a coronavirus vaccine are being prepared to be shipped to communities across the United States, President Donald Trump has an opportunity to mark a historic milestone for science -- and show some semblance of leadership in curbing the spread of Covid-19 as the number of US cases crosses 16",
@@ -1112,227 +1320,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/flashback-bobulinski-tucker-hunter-carlson-biden.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-bobulinski-tucker-hunter-carlson-biden.amp",
       "publishedDateTime": "2020-12-11T11:42:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-climate-point-nissan-dumps-trump-and-nevada-is-spared-from-bombing.md",
-      "title": "Climate Point: Nissan dumps Trump, and Nevada is spared from bombing",
-      "excerpt": "Welcome to Climate Point, your weekly guide to climate, energy and environment news from around the Golden State and the country. In Palm Springs, Calif., I’m Mark Olalde. I've unfortunately never reported from Nevada,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2020/12/11/climate-point-nissan-dumps-trump-nevada-protected-bombing/6494580002/",
-      "originalUrl": "https://www.usatoday.com/story/news/2020/12/11/climate-point-nissan-dumps-trump-nevada-protected-bombing/6494580002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/03/11/USAT/02ac4568-442e-45c9-a134-95204eb31af9-Nevada_031119.jpg?auto=webp&crop=2969,1683,x0,y90&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6494580002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6494580002",
-      "publishedDateTime": "2020-12-11T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-msnbcs-maddow-ive-learned-from-trump-era-not-to-blindly-trust-government-officials.md",
-      "title": "MSNBC's Maddow: I've learned from Trump era not to blindly trust government officials",
-      "excerpt": "Liberal MSNBC host Rachel Maddow said Wednesday she had learned from the Donald Trump era not to blindly trust the word of government officials, an interesting assertion given her reliance on intelligence leaks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/maddow-trump-blindly-trust-government-officials",
-      "originalUrl": "https://www.foxnews.com/media/maddow-trump-blindly-trust-government-officials",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b363eab2-ac74-465e-b3f1-10d3879e7279/0bc90726-6ad3-4bd1-8e53-201f95983aa7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/maddow-trump-blindly-trust-government-officials.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/maddow-trump-blindly-trust-government-officials.amp",
-      "publishedDateTime": "2020-12-11T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-manhattan-da-interviewed-employees-at-trumps-bank-and-insurer-in-criminal-probe.md",
-      "title": "Manhattan DA interviewed employees at Trump's bank and insurer in criminal probe",
-      "excerpt": "Investigators with the Manhattan district attorney's office have interviewed several employees at President Donald Trump's lender and insurer in recent weeks as part of a wide-ranging investigation into the Trump Organization, according to multiple people familiar with the investigation.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X0KhKASnWvU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X0KhKASnWvU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200803135804-trump-vance-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/11/politics/manhattan-vance-trump-banks/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/11/politics/manhattan-vance-trump-banks/index.html",
-      "publishedDateTime": "2020-12-11T10:00:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-us-china-tensions-worsen-with-hunter-biden-eric-swalwell-revelations-gop-lawmakers.md",
-      "title": "US-China tensions worsen with Hunter Biden, Eric Swalwell revelations: GOP lawmakers",
-      "excerpt": "The clouds over Hunter Biden, whose business dealings in China were investigated by two GOP committee chairs in the Senate, and Rep. Eric Swalwell, D-Calif., raise fresh questions about how the United States will confront one of its top strategic foes in 2021 and beyond.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fC0ZKskQ6lE/china-hunter-biden-eric-swalwell-beirelationship-beijing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fC0ZKskQ6lE/china-hunter-biden-eric-swalwell-beirelationship-beijing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Obama-biden-hunter-SAI-sharpen.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/china-hunter-biden-eric-swalwell-beirelationship-beijing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/china-hunter-biden-eric-swalwell-beirelationship-beijing.amp",
-      "publishedDateTime": "2020-12-11T09:51:53-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

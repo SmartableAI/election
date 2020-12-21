@@ -2,6 +2,222 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-22-trump-administration-weighing-legal-immunity-for-saudi-crown-prince-accused-in-assassination-plot.md",
+      "title": "Trump administration weighing legal immunity for Saudi crown prince accused in assassination plot",
+      "excerpt": "Riyadh has asked the State Department to shield Mohammed bin Salman from a U.S. lawsuit by a former Saudi intelligence officer who claims he was targeted days after Jamal Khashoggi’s death in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HC5LGNSBUQI6XC6AVYKVX3SK74.jpg&w=1440",
+          "width": 1280,
+          "height": 862,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-21T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-maxine-waters-says-congress-missed-opportunity-to-impeach-trump-for-treason.md",
+      "title": "Maxine Waters says Congress 'missed opportunity' to impeach Trump 'for treason'",
+      "excerpt": "Rep. Maxine Waters, D-Calif., said Sunday that Congress missed the opportunity to impeach President Trump for treason.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qSYwdn9zgow/maxine-waters-congress-missed-opportunity-impeach-trump-for-treason",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qSYwdn9zgow/maxine-waters-congress-missed-opportunity-impeach-trump-for-treason",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Putin-drinking.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/maxine-waters-congress-missed-opportunity-impeach-trump-for-treason.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/maxine-waters-congress-missed-opportunity-impeach-trump-for-treason.amp",
+      "publishedDateTime": "2020-12-21T09:54:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-bidens-claim-he-wont-discuss-hunter-case-with-ag-pick-shows-need-for-special-counsel-sen-kennedy.md",
+      "title": "Biden's claim he won't discuss Hunter case with AG pick shows need for special counsel: Sen. Kennedy",
+      "excerpt": "Sen. John Kennedy, R-La., said President-elect Joe Biden's claim he would not discuss the investigation into his son with his attorney general pick was why a special counsel was needed on the matter.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IDcH2uB4rIo/hunter-biden-attorney-general-pick-special-counsel-kennedy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IDcH2uB4rIo/hunter-biden-attorney-general-pick-special-counsel-kennedy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66264099-fd84-4298-bc4c-99bd6e36d647/d73a3e4a-75cc-404e-94b9-fd0ff4c8be2c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-attorney-general-pick-special-counsel-kennedy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-attorney-general-pick-special-counsel-kennedy.amp",
+      "publishedDateTime": "2020-12-21T09:17:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-loefflers-wealth-trump-loyalty-face-scrutiny-in-georgia.md",
+      "title": "Loeffler's wealth, Trump loyalty face scrutiny in Georgia",
+      "excerpt": "Kelly Loeffler’s tight embrace of President Donald Trump and the far right while fighting to hold on to her U.S. Senate seat is not exactly what allies of Georgia Gov. Brian Kemp envisioned when he ap",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875",
+      "publishedDateTime": "2020-12-21T09:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-ag-no-reason-for-special-counsel-on-election-bidens-son.md",
       "title": "AG: 'No reason' for special counsel on election, Biden's son",
       "excerpt": "Outgoing Attorney General William Barr says he sees “no reason” to appoint a special counsel on potential election fraud or the tax investigation into the son of President-elect Joe Biden",
@@ -10,7 +226,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/ag-reason-special-counsel-election-bidens-son-74843541",
       "featuredContent": null,
       "highlight": null,
-      "heat": 260,
+      "heat": 280,
       "tags": null,
       "images": [
         {
@@ -326,7 +542,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -1117,228 +1333,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-former-us-cybersecurity-chief-chris-krebs-warned-not-to-conflate-voting-system-security-with-the-solarwinds-hack-despite-trumps-claim.md",
-      "title": "Former US cybersecurity chief Chris Krebs warned not to 'conflate' voting system security with the SolarWinds hack despite Trump's claim",
-      "excerpt": "Chris Krebs' warning came after President Donald Trump tweeted there could have been a hit on \"our ridiculous voting machines during the election.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/krebs-do-not-conflate-voting-security-solarwinds-hack-2020-12",
-      "originalUrl": "https://www.businessinsider.com/krebs-do-not-conflate-voting-security-solarwinds-hack-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fde505fc910a400192e88ba?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/krebs-do-not-conflate-voting-security-solarwinds-hack-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/krebs-do-not-conflate-voting-security-solarwinds-hack-2020-12?amp",
-      "publishedDateTime": "2020-12-19T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-jim-carrey-to-stop-impersonating-joe-biden-on-saturday-night-live.md",
-      "title": "Jim Carrey to stop impersonating Joe Biden on 'Saturday Night Live'",
-      "excerpt": "Live” did not immediately offer insight as to who might pick up the impression, Carrey’s departure could allow a cast member to take over.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/pop-culture/pop-culture-news/jim-carrey-stop-impersonating-joe-biden-saturday-night-live-n1251820",
-      "originalUrl": "https://www.nbcnews.com/pop-culture/pop-culture-news/jim-carrey-stop-impersonating-joe-biden-saturday-night-live-n1251820",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_51/3436967/201219-jim-carrey-joe-biden-snl-al-1414_e3d031136794aebf76936c2c337c7a7a.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1251820",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251820",
-      "publishedDateTime": "2020-12-19T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-in-official-christmas-portrait-melania-trump-sports-high-waisted-pantsuit.md",
-      "title": "In official Christmas portrait, Melania Trump sports high-waisted pantsuit",
-      "excerpt": "The first lady on Saturday shared her official White House Christmas portrait with President Trump standing on the White House Grand Staircase.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0clQJuWnmt8/official-2020-christmas-portrait-melania-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0clQJuWnmt8/official-2020-christmas-portrait-melania-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/45268267395_b3677cbd08_o.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/official-2020-christmas-portrait-melania-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/official-2020-christmas-portrait-melania-trump.amp",
-      "publishedDateTime": "2020-12-19T11:39:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-with-trump-fading-ukraines-president-looks-to-a-reset-with-the-us.md",
-      "title": "With Trump Fading, Ukraine’s President Looks to a Reset With the U.S.",
-      "excerpt": "They roped us in, but I think we behaved with dignity,” Volodymyr Zelensky said of his encounter with American politics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/18/world/18ZELENSKY1/18ZELENSKY1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.amp.html",
-      "publishedDateTime": "2020-12-19T09:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

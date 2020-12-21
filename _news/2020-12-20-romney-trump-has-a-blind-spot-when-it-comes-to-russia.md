@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/20/politics/mitt-romney-chris-krebs-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/20/politics/mitt-romney-chris-krebs-trump-russia-cyberattack-cnntv/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Barr contradicts Trump by saying it 'certainly appears' Russia behind cyberattack"
+    excerpt: "Outgoing Attorney General William Barr on Monday said it \"certainly appears\" Russia is behind a massive cyberattack on US federal government agencies, an accusation that is in contrast with President Donald Trump, who has avoided condemning Moscow for the incident.\n    \n"
+    publishedDateTime: 2020-12-21T18:18:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lIp6KADNGew/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/william-barr-russia-cyberattack/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/william-barr-russia-cyberattack/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214174838-bill-bar-file-0728-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump downplays massive cyber hack on government after Pompeo links attack to Russia"
     excerpt: "Secretary of State Mike Pompeo on Friday said it's pretty clear Russia was behind the massive cyberattack on US federal government agencies, publicly linking Russia to the data breach as the President has remained silent on the matter.\n    \n"
     publishedDateTime: 2020-12-19T18:47:44Z
