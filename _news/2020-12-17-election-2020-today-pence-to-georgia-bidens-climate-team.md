@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-pence-to
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 1915
+heat: 1955
 published: true
 
 provider:
@@ -735,6 +735,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Mexican president expects no conflicts with Biden administration"
+    excerpt: "Mexican President Andres Manuel Lopez Obrador said on Monday his weekend call with U.S. President-elect Joe Biden was \"very friendly\" and that he expect relations to be positive with the new Democratic administration taking office in January."
+    publishedDateTime: 2020-12-21T19:30:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-mexico/mexican-president-expects-no-conflicts-with-biden-administration-idUSKBN28V1UG?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V1UG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V1UG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545311096&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK126"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden taps Susan Rice as top domestic policy adviser amid flurry of moves"
     excerpt: "U.S. President-elect Joe Biden chose Susan Rice, who was national security adviser to former President Barack Obama, on Thursday to lead the White House's domestic policy council as part of a flurry of appointments to his developing administration."
     publishedDateTime: 2020-12-10T18:32:00Z
@@ -814,6 +830,22 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_bidenpicks_112320getty_0.jpg"
         width: 1440
         height: 880
+        isCached: true
+  - title: "Attorney General Barr: No reason to name special counsels to investigate Hunter Biden or election fraud"
+    excerpt: "Attorney General William Barr distanced himself from President Donald Trump by saying he saw no cause for appointing special counsels to investigate Joe Biden's son Hunter."
+    publishedDateTime: 2020-12-21T20:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/21/barr-no-reason-special-counsels-hunter-biden-election-fraud/3991548001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3991548001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3991548001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/15/USAT/692ddb1b-5135-4cd3-9a7d-f76290ac2108-VPC_BARR_RESIGNS_GETTY_WIDE.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Justice department plans to execute five inmates before Biden's inauguration"
     excerpt: "Brandon Bernard, who was convicted at 18, to die on Thursday in Trump administration decision that breaks with precedent"

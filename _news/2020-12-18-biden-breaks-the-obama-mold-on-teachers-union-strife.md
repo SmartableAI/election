@@ -467,9 +467,9 @@ related:
   - title: "Pandemic Aid Boosts Biden and Shows a Potential Path for His Agenda in Congress"
     excerpt: "Working together with the president-elect urging them on from the sidelines, bipartisan groups in the Senate and House helped push feuding leaders to compromise. It could be a template for the future."
     publishedDateTime: 2020-12-21T18:04:00Z
-    webUrl: "https://www.nytimes.com/2020/12/21/us/coronavirus-relief-assessment.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/21/us/coronavirus-relief-assessment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/21/us/coronavirus-relief-assessment.amp.html"
+    webUrl: "https://www.nytimes.com/2020/12/21/us/biden-stimulus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/21/us/biden-stimulus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/21/us/biden-stimulus.amp.html"
     type: article
     provider:
       name: New York Times

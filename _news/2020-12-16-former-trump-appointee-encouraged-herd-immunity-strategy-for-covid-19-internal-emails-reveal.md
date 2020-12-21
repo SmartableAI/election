@@ -127,6 +127,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden receives first dose of Covid-19 vaccine"
+    excerpt: "President-elect Joe Biden is expected to receive the first dose of the Pfizer and BioNTech coronavirus vaccine in public on Monday.\n    \n"
+    publishedDateTime: 2020-12-21T20:54:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kkHWWAe406Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/bidens-coronavirus-vaccination/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/bidens-coronavirus-vaccination/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221152810-02-biden-receives-vaccine-1221-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Some White House advisers fear Trump's final days"
+    excerpt: "President Donald Trump has turned to a fringe group of advisers peddling increasingly dubious tactics to overturn the results of the election, creating a dire situation that multiple senior officials and people close to the President say has led to new levels of uncertainty at how Trump will resist the"
+    publishedDateTime: 2020-12-21T20:50:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Bys9njuZSrY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/trump-white-house-sidney-powell/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/trump-white-house-sidney-powell/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200120121345-04-trump-0109-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's impeachment foretold everything that's happened since "
     excerpt: "Alarming as it is, the corrosive conclusion to 2020 in America was plainly visible in advance.\n    \n"
     publishedDateTime: 2020-12-20T13:47:40Z

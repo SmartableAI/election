@@ -64,22 +64,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Georgia sheriffs slam 'defund the police' slogan as Biden arrives to campaign in state: ‘It’s crazy talk’"
-    excerpt: "Three Georgia sheriffs spoke outside the state capitol to slam Democrats for pushing to defund the police as President-elect Joe Biden arrives in the state Tuesday to campaign for Senate candidates Jon Ossoff and Rev. Raphael Warnock."
-    publishedDateTime: 2020-12-15T18:07:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dFI-DW8GO10/georgia-sheriffs-defund-the-police-biden-republicans"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-sheriffs-defund-the-police-biden-republicans.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-sheriffs-defund-the-police-biden-republicans.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20332792905338.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "sPEpwSJvnZay4IMAnVG8eP+2woZDPzrLh4uTeyzdYcuHLX0roF6qEnsKNEm84RCU2y37mBABiAtOPKg1AJwT/oXHuvl3u9utYqQrbBQTAQSwV+eG+u9UrgXMpu23uVa4iTk5mQy7+MoAJ+W9suwv6wclAIJlse5OhMj1BvuUx/WvHEdqalWi+WtG7jHxx/ZVgq9UUjWUwnif4rvlH3HhW04gNgfrJMYrW/i5h/fw4JooPOyThR3g5qhBZ9t4U82OepuO3usybDSCDRdpVDpy3E0GYfSsI5O22ebEIQu10RJoSAmOd5mVqUbrSI+Xv40sDsAz7rA13cI0MHyhRq2klslg3NRBizZoDviI8vgMZ5Q=;645qrVOFxJHMzWWSZMf4EA=="
 ---

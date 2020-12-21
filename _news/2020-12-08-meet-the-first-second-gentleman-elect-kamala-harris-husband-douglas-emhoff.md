@@ -67,6 +67,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Harris to GA voters: 'You have it within your hands'"
+    excerpt: "You have it within your hands' Posted . Vice President-elect Kamala Harris campaigned in Columbus, Georgia on Monday for Democratic U.S. Senate cand"
+    publishedDateTime: 2020-12-21T20:31:00Z
+    webUrl: "https://www.reuters.com/video/watch/harris-to-ga-voters-you-have-it-within-y-id723309296?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201221&i=OVD9YH9LR&r=OVD9YH9LR&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Kamala Harris to campaign in Georgia for Democrats in Senate runoffs"
     excerpt: "Vice President-elect Kamala D. Harris is scheduled to travel to Georgia next week to put her stamp on the two Senate runoff races that will decide how much wiggle room the Biden administration has with Congress."
     publishedDateTime: 2020-12-18T16:12:00Z

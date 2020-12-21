@@ -3,10 +3,10 @@ category: news
 title: "Pandemic Aid Boosts Biden and Shows a Potential Path for His Agenda in Congress"
 excerpt: "Working together with the president-elect urging them on from the sidelines, bipartisan groups in the Senate and House helped push feuding leaders to compromise. It could be a template for the future."
 publishedDateTime: 2020-12-21T18:04:00Z
-originalUrl: "https://www.nytimes.com/2020/12/21/us/coronavirus-relief-assessment.html"
-webUrl: "https://www.nytimes.com/2020/12/21/us/coronavirus-relief-assessment.html"
-ampWebUrl: "https://www.nytimes.com/2020/12/21/us/coronavirus-relief-assessment.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/21/us/coronavirus-relief-assessment.amp.html"
+originalUrl: "https://www.nytimes.com/2020/12/21/us/biden-stimulus.html"
+webUrl: "https://www.nytimes.com/2020/12/21/us/biden-stimulus.html"
+ampWebUrl: "https://www.nytimes.com/2020/12/21/us/biden-stimulus.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/21/us/biden-stimulus.amp.html"
 type: article
 quality: 131
 heat: -1
@@ -525,6 +525,6 @@ related:
         height: 550
         isCached: true
 
-secured: "Ak30hLXNB5SoOGKZoCsAbsRTctolJn6g8vgpTRiTBxsl2qdQoRXcfd7QcJNpFKPsmUnO7N6pISdQrQvpaXl2ya9PwZ0hqXJVOXp2WGU+Fpzq8ykx9n7hI3c3JyHK46m1j58U3O0ZVEYoFrNdiufy9FK0Eua/D+uRlx2/MC5qdCNrrlSSyFDMpK+l+krAH1ackj9VHBDjXPNuRMAaobmMaojbBjpUNRD6hyctSr0q/0yZakaf7iRrmd9ciD4DAw4LuyMbdUboGva8hF8lM9UQdS9V1r9T/eoO13QFK7bZiuBj9V29J0xueSZ0WyZUq4+9XH5FdbJrMf7IOUkww0vc/ga+VRu6/FcuQzsiQMGlX58=;F+Ew9SCfQ3gN2LA6p9kU1g=="
+secured: "a7+vEN/coBtfufAXclZa0I1cweQv09KIeaHL3sFJ5LETFX7d0y8pSVBSHHIK4lloDpdNuJIAByK5nsqXCFjxoqjqxzsSHFwZ8DoJdg2bw04k7xJinGAcNb86XXEZruTpYX6Xxhd5cLU0xnm+WHB49pQKBWwcYef2DhYGwEl92N+BX5UQ7AgfkCGrpBKaLaX5fhVqOUwZjM4b6iSTuH+YgiNgPhd71X36BkzY4weUWHBKLrXkOJaFBD5ma1AVM6QfmwXMUqzVeN9itBq0Xddl1hJuDuZfU8VfYGH/iSrB9WBSW3y1uXjH27vgBZIJdxUYNLiM1eBoaA+UUGTAx4kbgbr6Qn9d6FO+e/Xj1aPnKqU=;xx+uCLNVFNHSy+rgyZx2RQ=="
 ---
 

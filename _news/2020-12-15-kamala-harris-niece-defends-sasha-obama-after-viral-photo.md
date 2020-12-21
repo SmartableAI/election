@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-niece-defends-sasha-obama-aft
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593?amp=1"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://media.npr.org/assets/img/2020/12/10/gettyimages-1288294765_wide-685c440e80788e0484c30cccd5f446059a3b42ca.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Harris to GA voters: 'You have it within your hands'"
+    excerpt: "You have it within your hands' Posted . Vice President-elect Kamala Harris campaigned in Columbus, Georgia on Monday for Democratic U.S. Senate cand"
+    publishedDateTime: 2020-12-21T20:31:00Z
+    webUrl: "https://www.reuters.com/video/watch/harris-to-ga-voters-you-have-it-within-y-id723309296?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201221&i=OVD9YH9LR&r=OVD9YH9LR&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Kamala Harris to campaign in Georgia for Democrats in Senate runoffs"
     excerpt: "Vice President-elect Kamala D. Harris is scheduled to travel to Georgia next week to put her stamp on the two Senate runoff races that will decide how much wiggle room the Biden administration has with Congress."

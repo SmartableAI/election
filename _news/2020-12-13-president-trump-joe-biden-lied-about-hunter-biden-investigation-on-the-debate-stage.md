@@ -522,22 +522,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden campaigns in Georgia runoffs, hoping for Democrat-controlled Senate"
-    excerpt: "President-elect Joe Biden hits the campaign trail on Tuesday for the first time since Election Day on Nov. 3. With the success of his incoming administration’s agenda very much hinging on whether the Democrats sweep both of Georgia’s twin Jan. 5 runoff elections and regain the majority in the Senate,"
-    publishedDateTime: 2020-12-15T17:04:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_MdMu4L9jFo/biden-campaigns-georgia-runoffs-ossoff-warnock"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-campaigns-georgia-runoffs-ossoff-warnock.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaigns-georgia-runoffs-ossoff-warnock.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden HHS nominee was an investor in company sued over elder abuse claims"
     excerpt: "Xavier Becerra sold his shares in the company earlier this year."
     publishedDateTime: 2020-12-15T01:23:19Z
@@ -970,22 +954,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "McConnell congratulates Joe Biden, Kamala Harris on election win from Senate"
-    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday congratulated President-elect Joe Biden on his victory following the Electoral College’s vote on Monday. “The Electoral College has"
-    publishedDateTime: 2020-12-15T15:52:00Z
-    webUrl: "https://nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/"
-    ampWebUrl: "https://nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 162
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/mcconnell-biden.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "McConnell, top GOP senators acknowledge Biden as president-elect: 'The Electoral College has spoken'"
     excerpt: "Top Senate Republicans are officially accepting President-elect Joe Biden's 2020 victory after the Electoral College confirmed his win on Monday."
     publishedDateTime: 2020-12-15T15:30:27Z
@@ -1033,6 +1001,38 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c6b162e-be50-4a77-a376-4c526d5ece40/312aac65-1e1b-4147-8427-2f66b8964cf2/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Democratic senator wants Biden to declare climate 'national emergency,' aggressively wield executive power"
+    excerpt: "Sen. Jeff Merkley is calling on President-elect Joe Biden to employ \"bold executive action\" to address climate change, urging unilateral changes to transportation and spending on alternative energy."
+    publishedDateTime: 2020-12-21T20:12:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2xrKhbksTXA/merkley-biden-declare-climate-emergency"
+    ampWebUrl: "https://www.foxnews.com/politics/merkley-biden-declare-climate-emergency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/merkley-biden-declare-climate-emergency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5ee41ee-7a33-4044-9c9c-7578485e8927/3f8064a5-40f2-4f3a-b03f-3113b2a1c471/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Republicans slam Big Tech additions to Biden team, say Silicon Valley works 'hand in glove' with Democrats"
+    excerpt: "Big Tech employees have landed top posts on the Biden-Harris transition team and Republicans are raising concerns that the additions to the team and the next administration are \"evidence\" that Silicon Valley \"works hand in glove\" with Democratic politicians. "
+    publishedDateTime: 2020-12-21T20:12:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SeHt-LO_t-I/biden-transition-facebook-google-twitter"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-facebook-google-twitter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-facebook-google-twitter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Live Updates: GA Senate runoffs will play role in Hunter Biden probe, says former WH communications director"
     excerpt: "Control of the Senate will hinge on whether Sen. David Perdue, R-Ga., will beat 33-year-old Democratic media executive Jon Ossoff and whether Sen. Kelly Loeffler, R-Ga., will defeat Raphael Warnock."
@@ -1347,6 +1347,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/erdogan.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Democratic senator wants Biden to declare climate 'national emergency,' aggressively wield executive power"
+    excerpt: "Sen. Jeff Merkley is calling on President-elect Joe Biden to employ \"bold executive action\" to address climate change, urging unilateral changes to transportation and spending on alternative energy."
+    publishedDateTime: 2020-12-21T20:26:00Z
+    webUrl: "https://www.foxnews.com/politics/merkley-biden-declare-climate-emergency"
+    ampWebUrl: "https://www.foxnews.com/politics/merkley-biden-declare-climate-emergency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/merkley-biden-declare-climate-emergency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5ee41ee-7a33-4044-9c9c-7578485e8927/3f8064a5-40f2-4f3a-b03f-3113b2a1c471/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "vfQQcbpthPmdfQtf6jsmQ3D808RL0tRCo0iIRP8FT+KDCXCIV+CmVsd15eDS9jvbYq0m8PaBfn5skceZfEz70nhlDgH/WdHoghEGKINQ0PCs/wd2OkIl0sX44PJVmlSzwtYYSQy9NKQ8tVFOKrguSroaQx8pn33D20O3UN/nLObVUFDSZ7PPfiRrz5KHT7M2bUImK5l6aP9CPl8JiT0Ldq6mp0ZzXFEXkDWXBDhxhjumhREZUusTlYOHY0HCwDSYKfK1yfCJaus+R2aLnHQs2HpPsmHrg5JVBVdlBqXbXtlluvLHudU0XUSyFGt0OTkOEFP71IIpKKB0bXJ8FyiFcjqA0NyQBFQwm3WOKxujOPxJ1MF4zbQm0RwKyWaqd7t5ZDVhB3x8aTk3vWHmSDV7vANvSlehy53f3uOhSrNntwiCJPGrABuHWCu1xM5RVYoSpHN2uwfJhe2LEduS7jKzO2jt7kjkdZYbi5obiSlMaX8stfCW8PWe37J/XDlkDM3ksCJGVmo/FDQ4+Ypy+wMT6A==;mL7Y3FwWfyqHoSSO5oNs2w=="

@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-18-kamala-harris-headed-to-georgia-to-hold-runoff-rallies-on-monday.md",
-      "title": "Kamala Harris headed to Georgia to hold runoff rallies on Monday",
-      "excerpt": "Less than a week after President-elect Joe Biden campaigned in Georgia on behalf of the two Democratic candidates in the state’s twin Jan. 5 Senate runoff elections, it was announced that Vice President-elect Kamala Harris will head to the Peach State, as well.",
+      "path": "_news/2020-12-21-harris-says-everything-is-at-stake-in-georgias-twin-senate-runoff-elections.md",
+      "title": "Harris says ‘everything is at stake’ in Georgia’s twin Senate runoff elections",
+      "excerpt": "Vice president-elect Kamala Harris headlines a rally for Democratic candidates Jon Ossoff and Raphael Warnock in Columbus, Georgia in the state's twin Senate runoff elections.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sc363jZfvg4/kamala-harris-georgia-runoff-rallies-monday",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sc363jZfvg4/kamala-harris-georgia-runoff-rallies-monday",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6PkB0-WfvPc/harris-says-everything-is-at-stake-in-georgias-twin-senate-runoff-elections",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6PkB0-WfvPc/harris-says-everything-is-at-stake-in-georgias-twin-senate-runoff-elections",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 245,
+      "heat": 336,
       "tags": null,
       "images": [
         {
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-georgia-runoff-rallies-monday.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-georgia-runoff-rallies-monday.amp",
-      "publishedDateTime": "2020-12-18T09:26:29-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-says-everything-is-at-stake-in-georgias-twin-senate-runoff-elections.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-says-everything-is-at-stake-in-georgias-twin-senate-runoff-elections.amp",
+      "publishedDateTime": "2020-12-21T12:42:15-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -381,7 +381,7 @@
       "originalUrl": "https://www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {

@@ -31,53 +31,117 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's Treasury nominees meet with racial justice activists, 'defund the police' supporters"
-    excerpt: "President-elect Joe Biden's nominees to run the Treasury Department --  Treasury Secretary-designee Janet Yellen and Deputy Treasury Secretary-designee Wally Adeyemo -- held their first joint meeting Monday with racial and economic justice activists. "
-    publishedDateTime: 2020-12-15T22:29:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QsqJv_jaQws/bidens-treasury-nominees-meet-with-racial-justice-activists"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-treasury-nominees-meet-with-racial-justice-activists.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-treasury-nominees-meet-with-racial-justice-activists.amp"
+  - title: "Harris says ‘everything is at stake’ in Georgia’s twin Senate runoff elections"
+    excerpt: "Vice president-elect Kamala Harris headlines a rally for Democratic candidates Jon Ossoff and Raphael Warnock in Columbus, Georgia in the state's twin Senate runoff elections."
+    publishedDateTime: 2020-12-21T20:42:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6PkB0-WfvPc/harris-says-everything-is-at-stake-in-georgias-twin-senate-runoff-elections"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-says-everything-is-at-stake-in-georgias-twin-senate-runoff-elections.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-says-everything-is-at-stake-in-georgias-twin-senate-runoff-elections.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 196
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2299392b-2af1-4c36-83dc-31f7ee0fcadf/398d6296-a575-4a8a-bb47-2cf5b457d924/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden, in leaked audio, suggests GOP 'beat the living h--- out of us' over 'defund the police'"
-    excerpt: "Biden said that public calls for police reform should be avoided ahead of the Georgia Senate runoff vote."
-    publishedDateTime: 2020-12-10T21:30:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/StJsS8M-EY8/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police.amp"
+  - title: "Kamala Harris headed to Georgia to hold runoff rallies on Monday"
+    excerpt: "Less than a week after President-elect Joe Biden campaigned in Georgia on behalf of the two Democratic candidates in the state’s twin Jan. 5 Senate runoff elections, it was announced that Vice President-elect Kamala Harris will head to the Peach State, as well."
+    publishedDateTime: 2020-12-18T17:26:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sc363jZfvg4/kamala-harris-georgia-runoff-rallies-monday"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-georgia-runoff-rallies-monday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-georgia-runoff-rallies-monday.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 185
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ec1a53c-f49f-4fc6-8b84-18fe1bbfadfe/8551395f-6676-4a6b-b491-ef4400e0b91f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden's Treasury nominees meet with racial justice activists, 'defund the police' supporters"
-    excerpt: "President-elect Joe Biden's nominees to run the Treasury Department --  Treasury Secretary-designee Janet Yellen and Deputy Treasury Secretary-designee Wally Adeyemo -- held their first joint meeting Monday with racial and economic justice activists."
-    publishedDateTime: 2020-12-15T22:43:00Z
-    webUrl: "https://www.foxnews.com/politics/bidens-treasury-nominees-meet-with-racial-justice-activists"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-treasury-nominees-meet-with-racial-justice-activists.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-treasury-nominees-meet-with-racial-justice-activists.amp"
+  - title: "Biden campaigns in Georgia runoffs, hoping for Democrat-controlled Senate"
+    excerpt: "President-elect Joe Biden hits the campaign trail on Tuesday for the first time since Election Day on Nov. 3. With the success of his incoming administration’s agenda very much hinging on whether the Democrats sweep both of Georgia’s twin Jan. 5 runoff elections and regain the majority in the Senate,"
+    publishedDateTime: 2020-12-15T17:04:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_MdMu4L9jFo/biden-campaigns-georgia-runoffs-ossoff-warnock"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaigns-georgia-runoffs-ossoff-warnock.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaigns-georgia-runoffs-ossoff-warnock.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 124
+    quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2299392b-2af1-4c36-83dc-31f7ee0fcadf/398d6296-a575-4a8a-bb47-2cf5b457d924/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "McConnell congratulates Joe Biden, Kamala Harris on election win from Senate"
+    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday congratulated President-elect Joe Biden on his victory following the Electoral College’s vote on Monday. “The Electoral College has"
+    publishedDateTime: 2020-12-15T15:52:00Z
+    webUrl: "https://nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/"
+    ampWebUrl: "https://nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 162
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/mcconnell-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Harris says ‘everything is at stake’ in Georgia’s twin Senate runoff elections"
+    excerpt: "Vice president-elect Kamala Harris headlines a rally for Democratic candidates Jon Ossoff and Raphael Warnock in Columbus, Georgia in the state's twin Senate runoff elections."
+    publishedDateTime: 2020-12-21T20:55:00Z
+    webUrl: "https://www.foxnews.com/politics/harris-says-everything-is-at-stake-in-georgias-twin-senate-runoff-elections"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-says-everything-is-at-stake-in-georgias-twin-senate-runoff-elections.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-says-everything-is-at-stake-in-georgias-twin-senate-runoff-elections.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Kamala Harris headed to Georgia to hold runoff rallies on Monday"
+    excerpt: "Less than a week after President-elect Joe Biden campaigned in Georgia on behalf of the two Democratic candidates in the state’s twin Jan. 5 Senate runoff elections, it was announced that Vice President-elect Kamala Harris will head to the Peach State,"
+    publishedDateTime: 2020-12-18T17:31:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-georgia-runoff-rallies-monday"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-georgia-runoff-rallies-monday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-georgia-runoff-rallies-monday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297811856343.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Linda Sarsour, too radical for Joe Biden, to campaign for Ossoff and Warnock in Georgia Senate race"
+    excerpt: "Former Women’s March leader Linda Sarsour said on Monday she plans to canvass in Georgia on behalf of Democratic Senate candidates Rev. Raphael Warnock and Jon Ossoff for the Jan. 5 runoff election."
+    publishedDateTime: 2020-12-16T02:24:00Z
+    webUrl: "https://www.foxnews.com/politics/linda-sarsour-too-radical-joe-biden-campaign-ossoff-warnock-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/linda-sarsour-too-radical-joe-biden-campaign-ossoff-warnock-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/linda-sarsour-too-radical-joe-biden-campaign-ossoff-warnock-georgia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Linda-Sarsour-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "Nlf0oOqbTuN7lfIdX0j7IH5Po90BnEoS7vOiA7hrLUs9u2PiL8uf6PPt6d0TvdRJJuuLprJjqU+EbTZMdrzcmt/th9rnbF+hJ9/tLOnSKU4tKYOtJ66hmj2HN2cSnZSm+kG8U0UAmV91J43W2mSu9T2AC8Swc3kTP245pm1OKeQV8OrElzjfHztw3B1s6GW2VDgzSCRG9Qh9MAZfNOaL8vpc3U4N+JuOE19MTrfQGbcP7AGcxeDri6Q+voJsxRBlT0md0C+lMZLQ5+X5vSwcV15IzO64wKtthNJtBxPsoy5Zj/2PBQx2WcKHjIOx7sKEj5UMZTvW8zKVD5YkNthmvBEA3zghzM971222XQpMiBY=;CGPiOPjhFhAvMvBf+eUX2Q=="

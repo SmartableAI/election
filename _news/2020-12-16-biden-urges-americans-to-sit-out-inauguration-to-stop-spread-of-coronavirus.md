@@ -176,6 +176,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden receives COVID-19 vaccination"
+    excerpt: "President-elect Joe Biden on Monday publicly took the newly approved coronavirus vaccine."
+    publishedDateTime: 2020-12-21T20:32:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h1XrzFWlC3k/biden-receives-covid-19-vaccination"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-receives-covid-19-vaccination.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-receives-covid-19-vaccination.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden coronavirus adviser makes grim prediction after Thanksgiving holiday"
     excerpt: "A member of President-elect Joe Biden's COVID-19 advisory board on Saturday made a grim prediction about U.S. coronavirus cases in the coming weeks after millions of Americans traveled for Thanksgiving, despite warnings from public health officials."
     publishedDateTime: 2020-11-29T20:25:42Z
@@ -351,6 +367,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20342805312726.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Joe Biden Receives the Coronavirus Vaccine in Public at a Delaware Hospital"
+    excerpt: "The president-elect received the Covid-19 vaccine Monday in a televised appearance from a Delaware hospital in which he encouraged the public to get vaccinated."
+    publishedDateTime: 2020-12-21T20:58:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 133
+    images:
+      - url: "https://images.wsj.net/im-276349/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "LIVE UPDATES: Reporter who traveled with Biden tests positive for coronavirus"
     excerpt: "Biden is expected to be vaccinated as soon as next week. Follow below for more coronavirus updates. Mobile users click here."

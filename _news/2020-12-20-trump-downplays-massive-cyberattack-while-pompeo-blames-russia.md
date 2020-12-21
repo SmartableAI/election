@@ -47,6 +47,22 @@ related:
         isCached: true
   - title: "China criticizes Trump suggestion it is behind cyber spying"
     excerpt: "China’s government has criticized President Donald Trump’s suggestion that Chinese hackers, not Russia, might be behind a cyber espionage campaign against the United States"
+    publishedDateTime: 2020-12-21T15:22:00Z
+    webUrl: "https://www.washingtonpost.com/world/the_americas/china-criticizes-trump-suggestion-it-is-behind-cyber-spying/2020/12/21/6429afa8-4376-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/the_americas/china-criticizes-trump-suggestion-it-is-behind-cyber-spying/2020/12/21/6429afa8-4376-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/the_americas/china-criticizes-trump-suggestion-it-is-behind-cyber-spying/2020/12/21/6429afa8-4376-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "China criticizes Trump suggestion it is behind cyber spying"
+    excerpt: "China’s government has criticized President Donald Trump’s suggestion that Chinese hackers, not Russia, might be behind a cyber espionage campaign against the United States"
     publishedDateTime: 2020-12-21T16:06:00Z
     webUrl: "https://abcnews.go.com/US/wireStory/china-criticizes-trump-suggestion-cyber-spying-74839065"
     ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/china-criticizes-trump-suggestion-cyber-spying-74839065"

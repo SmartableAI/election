@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Georgia sheriffs slam 'defund the police' slogan as Biden arrives to campaign in state: ‘It’s crazy talk’"
-    excerpt: "Three Georgia sheriffs spoke outside the state capitol to slam Democrats for pushing to defund the police as President-elect Joe Biden arrives in the state Tuesday to campaign for Senate candidates Jon Ossoff and Rev. Raphael Warnock."
-    publishedDateTime: 2020-12-15T18:07:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dFI-DW8GO10/georgia-sheriffs-defund-the-police-biden-republicans"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-sheriffs-defund-the-police-biden-republicans.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-sheriffs-defund-the-police-biden-republicans.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20332792905338.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Biden's Treasury nominees meet with racial justice activists, 'defund the police' supporters"
     excerpt: "President-elect Joe Biden's nominees to run the Treasury Department --  Treasury Secretary-designee Janet Yellen and Deputy Treasury Secretary-designee Wally Adeyemo -- held their first joint meeting Monday with racial and economic justice activists."
     publishedDateTime: 2020-12-15T22:43:00Z
