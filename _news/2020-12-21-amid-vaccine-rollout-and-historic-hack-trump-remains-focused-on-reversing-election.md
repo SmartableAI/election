@@ -2,9 +2,9 @@
 category: news
 title: "Amid Vaccine Rollout and Historic Hack, Trump Remains Focused on Reversing Election"
 excerpt: "The president has been largely out of sight, paying little public attention to any events other than his efforts to overturn Joe Biden’s victory."
-publishedDateTime: 2020-12-19T18:36:00Z
-originalUrl: "https://www.wsj.com/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
-webUrl: "https://www.wsj.com/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
+publishedDateTime: 2020-12-21T02:24:00Z
+originalUrl: "https://www.wsj.com/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
 type: article
@@ -82,8 +82,8 @@ related:
         isCached: true
   - title: "Amid Vaccine Rollout and Historic Hack, Trump Remains Focused on Reversing Election"
     excerpt: "The president has been largely out of sight, paying little public attention to any events other than his efforts to overturn Joe Biden’s victory."
-    publishedDateTime: 2020-12-21T02:24:00Z
-    webUrl: "https://www.wsj.com/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545?mod=newsviewer_click"
+    publishedDateTime: 2020-12-19T18:36:00Z
+    webUrl: "https://www.wsj.com/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
     ampWebUrl: "https://www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
     type: article
@@ -145,6 +145,6 @@ related:
         height: 720
         isCached: true
 
-secured: "ffjjzftQQVcUkpfPO220hHRlgDGz4rQP/0UpLNfdXxto9MHpy56j4rcLk3WUDqZLW3PJdtTxo4FVVXEGG620QCtv6IzTUzdzVWlWjeVQFMLlQnDveEOsUvQft0NOJZYwRWsqQ/aSqgftTLjJqUB1iiZ/HCFgTY4aaLF7qBWQMwzpakbqOZEdtbHeviwJGHqRa5coJQ53gXIv+Bkfeq+xR9sR29gw+ZqSNbKwaVb/Q10olVaraYlBg8VuQky5qeIE/VaM7B9qVpvQbn1TXXep6OUsrKcjcwnl8aapGdlV6VRHHvwxZ64unHuP8oI+rRkTIX5G4AG3Qrd7VMrnaVsHaazT81Ty3+rCFniR0/fKoSRAqlyeU6jfpqkUpvaC4CYM1MVt9A8RcJp1jb9ZqSN18DoIp2SJbSnz/lLTowKvysnHSGLX+z8lVJ8uCyc/vZrMLtUtma2Kpms43NXg8xmc0VEzNYb0ZAFjZHDLgg3i3D0b5e6cOVBWzlvCStL8yIu48rVD7c9d0WqFNapRWs4VQw==;6tuThMBIxjiUF4CG1hMmpw=="
+secured: "lvAIYkvmNM/GEqLd8+6yenAm2umtdkwDQWIWa8QmW/rdsTncyG0g+P27ffle22CwW9F3OgHCVFPqC8NVqIaN0sO+Q/D6F68Ai4HZiW6pDhndA5mrX/rT2un9+03cVbrQsdQbHKnANvPSVUOI3KDLUU/989bnaX5lr28/xfalMrWUcQsnHGI5LaptPtblbTOeqDIN6vhWKBgc2HFpCLCspq+00RUmZKAYQBqXAgGlmPTO1lhYIbB1NmZe5OkbIeTcdF0jZMe/qmuZnxUS0Xq9ODD86JjjujEbCh6mIAzMS7M34tZBTILVr8n6/OQIAs56myxYpBRiqCWf1NAtaMAvODJ6geisI6+pfLMSmK4I0JU=;urWxHequMk+Vx+GvC/af6Q=="
 ---
 

@@ -56,6 +56,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "'SNL' unveils new Joe Biden as Jim Carrey exits"
+    excerpt: "After Jim Carrey said he would no longer play President-elect Joe Biden on \"SNL,\" the show introduced its new Biden: cast member Alex Moffat."
+    publishedDateTime: 2020-12-20T16:09:00Z
+    webUrl: "https://www.stltoday.com/entertainment/television/snl-unveils-new-joe-biden-as-jim-carrey-exits/article_38faf70b-2350-59df-8435-0f1c045517a6.html"
+    ampWebUrl: "https://www.stltoday.com/entertainment/television/snl-unveils-new-joe-biden-as-jim-carrey-exits/article_38faf70b-2350-59df-8435-0f1c045517a6.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/entertainment/television/snl-unveils-new-joe-biden-as-jim-carrey-exits/article_38faf70b-2350-59df-8435-0f1c045517a6.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/57/657185f6-b6a6-57dc-9122-64f6d1deb061/5fdf6dff2e0cc.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "7qmLJwJELmZqTwbHouI3Y+3/I6rpxtnvHoMKFRCdbJmf4kPRkp22xnY5A/9030rtfNQfvgLIeDl7KUnQpIZ4FxCChvBN4wdpFFCLsOb5zsaqIdzZUuISWCv3vt8s4GC3VLn4inp0bzaL2QpNmRT5oMwJCELGBOQ0gLqQJ1KPNHzuJwSibWt3BOUCejf0tqt6d5228gd3WuojxQEzno7ASmdb5jXqMaKIBE5Rp2mI0FM1ct13YUxaJ1D1IaKqZFPjDHIb114HSIp+b/Ozq9ckwUvl6hp4N+Nalzpject6n5R/bVT6nVvNkFtj0D/6nPwyhlPkdWyXf7RBJuBEQV97IIVlTB7FqPAjrBNcK1+rGLM=;7QCAmVah/+LzeZhURX8uVw=="
 ---

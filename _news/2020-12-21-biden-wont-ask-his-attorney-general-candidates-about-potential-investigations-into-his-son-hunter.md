@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Iran rejects IAEA chief's call that new agreement needed after Biden takes office -tweet"
-excerpt: "Iran's ambassador to the International Atomic Energy Agency on Friday rejected the UN atomic watchdog chief's suggestion that reviving Iran's nuclear deal after a new U.S. administration comes to power would require striking a new agreement."
-publishedDateTime: 2020-12-18T11:57:00Z
-originalUrl: "https://www.reuters.com/article/iran-nuclear-iaea-int/iran-rejects-iaea-chiefs-call-that-new-agreement-needed-after-biden-takes-office-tweet-idUSKBN28S0OK"
-webUrl: "https://www.reuters.com/article/iran-nuclear-iaea-int/iran-rejects-iaea-chiefs-call-that-new-agreement-needed-after-biden-takes-office-tweet-idUSKBN28S0OK"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S0OW"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S0OW"
+title: "Biden won't ask his attorney general candidates about potential investigations into his son, Hunter"
+excerpt: "Incoming White House Press Secretary Jen Psaki said Biden would not be addressing an investigation with his candidates for Attorney General."
+publishedDateTime: 2020-12-20T17:16:00Z
+originalUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12"
+webUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12"
+ampWebUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
 type: article
-quality: 116
+quality: 111
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544999702&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH0DB"
-    width: 852
-    height: 545
+  - url: "https://i.insider.com/5fdbcfa4d366e60018098c5f?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -95,21 +95,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden won't ask his attorney general candidates about potential investigations into his son, Hunter"
-    excerpt: "Incoming White House Press Secretary Jen Psaki said Biden would not be addressing an investigation with his candidates for Attorney General."
-    publishedDateTime: 2020-12-20T17:16:00Z
-    webUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
+  - title: "Iran rejects IAEA chief's call that new agreement needed after Biden takes office -tweet"
+    excerpt: "Iran's ambassador to the International Atomic Energy Agency on Friday rejected the UN atomic watchdog chief's suggestion that reviving Iran's nuclear deal after a new U.S. administration comes to power would require striking a new agreement."
+    publishedDateTime: 2020-12-18T11:57:00Z
+    webUrl: "https://www.reuters.com/article/iran-nuclear-iaea-int/iran-rejects-iaea-chiefs-call-that-new-agreement-needed-after-biden-takes-office-tweet-idUSKBN28S0OK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S0OW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S0OW"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
+      name: Reuters
+      domain: reuters.com
+    quality: 116
     images:
-      - url: "https://i.insider.com/5fdbcfa4d366e60018098c5f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544999702&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH0DB"
+        width: 852
+        height: 545
         isCached: true
   - title: "Hunter Biden reveals he is under federal investigation for \"tax affairs\""
     excerpt: "Hunter Biden, the son of President-elect Joe Biden, says he is under investigation over his tax affairs by the U.S. Attorney's Office in Delaware in a probe that dates back to 2018. CBS News political correspondent Ed O'Keefe joins \"CBSN AM\" to discuss the latest."
@@ -137,6 +137,6 @@ related:
       domain: theguardian.com
     quality: 88
 
-secured: "nyweWuBUBn8wPm4VOz96WEzc/sJV9/+KTZVLmXeOUQck3bXclmZ4wPplmwFpzUj0Z+JCnOiH0onMnn3PEQcI4ibzJUXJZ2QTo/3GQLrmYYWP0STq/VILC6Z+e+5+SSdavlD6jYy5fg+ytfcvS+Yktk1DNgTKe008DTm4QHOQwRlhmI524xRUpTw9yt8uN9E7LsihnupdhlJ3vgG8kj54D5tU3G9UEvKLwwCOLjhlagSq0Ke/NZPLMeXxP/DcHwKasvmi8Mx8kR0NUF8682CBHPnRfF00WCJbD0HHSHuD5w+Y5WO/AORTaDaoSrFIQkAWzVoF5BjwLAgN2RsB8LvHhmyF7sUXNcfo3rzYOV7ARWqJ3s8tfKK05l+7dMsWv8QxRUjs3L2RGk+DcjlOHT80kJHbI2MBotQr158CigXZBWTX7SRw/uNyMK6suyFJWdc+jcdFQ88yByzEVQI3qAtOYlVv6/Ya4OdciZjKRA+DC5XuP31BD7T4rlXtCEvMbQxN7debWKen00Zee69XmPF2EQ==;wgDR7M2UB8ocIhg1847feg=="
+secured: "e1vKqgqXVjLsWCVvoiBb3xvUEGpqu6Owoy0Z/5gHKoA3zSH9t5b9Mce/wozKEUNgd8h+bVvJxRXEc+MKWHtmDv7wdc8gHkuddBMIP2cTWj7XEsBd5wWy/KTF+G28HUC55Lbp70USYobZ8eho64n/SM1FWJZJz9HFHKt7uwUKcG7xfTiz9DDwokGnwQTpDtGTeVpK0/roNkVnbGH/3Fxjgc5m/uVb+4hGWDppexfqJljYkcdMvc5kEnQgb74z77ZC8ipwHonC+Vx3nogbRG75xYVgSpLCXSU3ORIvNTeereb6S6Ru89LPNsGfpyVg8xJgLMr46dNfTyUx93G+lQbQvdSjLkhPk0InUyTUdGjSPC8=;WwWAtFE5Tc3C02eVcGtpVw=="
 ---
 

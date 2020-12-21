@@ -1,22 +1,22 @@
 ---
 category: news
-title: "President-elect Joe Biden clears 270-vote threshold in Electoral College count, formalizing his victory"
-excerpt: "WASHINGTON — President-elect Joe Biden clears 270-vote threshold in Electoral College count, formalizing his victory. Copyright 2020 The. All rights reserved. This material may not be published, broadcast,"
-publishedDateTime: 2020-12-14T22:38:00Z
-originalUrl: "https://www.washingtonpost.com/politics/president-elect-joe-biden-clears-270-vote-threshold-in-electoral-college-count-formalizing-his-victory/2020/12/14/12bd77ae-3e5c-11eb-b58b-1623f6267960_story.html"
-webUrl: "https://www.washingtonpost.com/politics/president-elect-joe-biden-clears-270-vote-threshold-in-electoral-college-count-formalizing-his-victory/2020/12/14/12bd77ae-3e5c-11eb-b58b-1623f6267960_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/president-elect-joe-biden-clears-270-vote-threshold-in-electoral-college-count-formalizing-his-victory/2020/12/14/12bd77ae-3e5c-11eb-b58b-1623f6267960_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/president-elect-joe-biden-clears-270-vote-threshold-in-electoral-college-count-formalizing-his-victory/2020/12/14/12bd77ae-3e5c-11eb-b58b-1623f6267960_story.html?outputType=amp"
+title: "Biden's team vows action against hack as US threats persist"
+excerpt: "The chief of staff for President-elect Joe Biden says that once Biden is in office, he'll punish Russia for its suspected cyberespionage operation against the United States with financial sanctions an"
+publishedDateTime: 2020-12-20T23:30:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
 type: article
-quality: 109
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_33e2631e17a9481292d29b56b37c8f96_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -703,22 +703,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden's team vows action against hack as US threats persist"
-    excerpt: "The chief of staff for President-elect Joe Biden says that once Biden is in office, he'll punish Russia for its suspected cyberespionage operation against the United States with financial sanctions an"
-    publishedDateTime: 2020-12-20T23:30:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_33e2631e17a9481292d29b56b37c8f96_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden taps Susan Rice as top domestic policy adviser amid flurry of moves"
     excerpt: "U.S. President-elect Joe Biden chose Susan Rice, who was national security adviser to former President Barack Obama, on Thursday to lead the White House's domestic policy council as part of a flurry of appointments to his developing administration."
     publishedDateTime: 2020-12-10T18:32:00Z
@@ -892,6 +876,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/25/USAT/9756d6b6-5a16-426f-a633-3f5746980893-AP_Election_2020_Georgia_Vote_Counting.jpg?auto=webp&crop=1023,575,x0,y52&format=pjpg&width=1200"
         width: 1200
         height: 674
+        isCached: true
+  - title: "President-elect Joe Biden clears 270-vote threshold in Electoral College count, formalizing his victory"
+    excerpt: "WASHINGTON — President-elect Joe Biden clears 270-vote threshold in Electoral College count, formalizing his victory. Copyright 2020 The. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2020-12-14T22:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/president-elect-joe-biden-clears-270-vote-threshold-in-electoral-college-count-formalizing-his-victory/2020/12/14/12bd77ae-3e5c-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/president-elect-joe-biden-clears-270-vote-threshold-in-electoral-college-count-formalizing-his-victory/2020/12/14/12bd77ae-3e5c-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/president-elect-joe-biden-clears-270-vote-threshold-in-electoral-college-count-formalizing-his-victory/2020/12/14/12bd77ae-3e5c-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Georgia governor certifies electors for Biden"
     excerpt: "Georgia’s governor has certified results showing Joe Biden won the presidential race over President Donald Trump. But the Republican governor did not clearly endorse the results, saying the law requires him to “formalize the certification."
@@ -1304,6 +1304,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "F3dHWVC4VZQPVgjAAjXIk0G+kUcMSz6wFSh3XiS1ZArIQS2eQ8hwtD1WgNODX6xO9WmQkrgziUfsh41jkRZFESmsrDsouT7a3n9TXb8oIrjNVe3CNeKU+NC84/TOhostIoBttYEMsSgnpcWFZJfBHmOlfJA/dX9fl2c6keUjTnXTl+K+ZpxyU3GcjubbmafM2e9T1t8IHeLwomBMoqA1s+y+A6BX7MmM9aGb93ekie2f5KluSvgWJZXuqPCZbwUjUMhmFKY0xe2VUdJUp8ZHUypx6OaYvxx4OBaiLSS+jGNtUn5I4kB9OvWa5gIsaIQHLMs3UhNCLH7+wDSH1sAJ8mIYUqlGDSLZlSvB1T7HkYc=;bK8I194adLyRzQBpF45WYQ=="
+secured: "59X3zcd45zlhLpezoU77eBS+yxTvDELQVbo6lpXaqjtWe+suz6m6QSoqjLmAe86mMnueaNnWQ0M5uZcqPXXGEjH2js+T7RQwAJ5G3naHfUDfnv9NR/x186p0ySxgYkifE/HdFrac+p8Z9qwMLEtfsYFbGHERAQObUPNc7CG+f9nFW2z+2woNc/+nlgAlxpXdT2FlWDC/uxWKCG3O5ImosPsmiGo0CrQttT935YatF/eHs4e3pxfk9bjkzpEsWCPx91QdUPt2h+BEn3JaddwG5njJbpCrCJjcgp450TfL4YpBkJHhL8zGqMBnAOg7XzQZjV9uUu7c7KegT1LEx0suCbXl5kqnA2EAKAVvoCrx0Pk=;DJhDwQ6Zr2PseRbyVvk9wg=="
 ---
 

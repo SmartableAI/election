@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden says 'no time to waste' as climate team unveiled"
 excerpt: "US President-elect Joe Biden has introduced his climate and energy team, saying they will lead an \"ambitious plan\" to combat climate change. Mr Biden has vowed to make the issue a top priority in an agenda that reverses many Trump administration policies."
-publishedDateTime: 2020-12-20T03:55:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-55382209?fbclid=IwAR3UFtdSInJpTa0_U2LjF81w21vOr7Up5HirPiP6GHTbsIWINNV76dhKzVM"
-webUrl: "https://www.bbc.com/news/world-us-canada-55382209?fbclid=IwAR3UFtdSInJpTa0_U2LjF81w21vOr7Up5HirPiP6GHTbsIWINNV76dhKzVM"
+publishedDateTime: 2020-12-20T11:17:00Z
+originalUrl: "https://www.bbc.com/news/world-us-canada-55382209"
+webUrl: "https://www.bbc.com/news/world-us-canada-55382209"
 ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55382209"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55382209"
 type: article
@@ -687,6 +687,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden's team vows action against hack as US threats persist"
+    excerpt: "The chief of staff for President-elect Joe Biden says that once Biden is in office, he'll punish Russia for its suspected cyberespionage operation against the United States with financial sanctions an"
+    publishedDateTime: 2020-12-20T23:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_33e2631e17a9481292d29b56b37c8f96_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden taps Susan Rice as top domestic policy adviser amid flurry of moves"
     excerpt: "U.S. President-elect Joe Biden chose Susan Rice, who was national security adviser to former President Barack Obama, on Thursday to lead the White House's domestic policy council as part of a flurry of appointments to his developing administration."
     publishedDateTime: 2020-12-10T18:32:00Z
@@ -1288,6 +1304,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "VlA3oE+2h1pXlA7DsbFPonBkV/R/NedDqTkSzxVkT3DiZSPQ4bqMootHX+2emC5HUZUqkyN6PSIyn6hDQSlRQiAwcy/X4yPsbOxuEJzB13NY8Nehy7MgJdtvIuLaEpUT1nnEDdPVlbqebUxIKS7apUnhH+6Ht6ZpCRcEe6a5AzTrIGvTcBa5bdUgA3iMJNz2yHiEvCmrdaUc+CNKSzL/ULysaDg8cksHr61UHpqoOtjbTFtbTEPQopzv3ACYu8yMLFJn7XXdoxT0HKsX+BfX3AGGl1/EvFIo4zQfFuJqOu4zXnp0b3pSmHFVoDc6n53IRtvWPNhxJOjT1wQRCDIoy7CCu4hn95sAb5nOejjJolc=;nUoJQOcEuN0DvGNP8n9f8Q=="
+secured: "yK5W2HxzCM+tFJY4pqZdZB6j8va/R8TzkcDjSe+H7M//QCZMsZsUev51QqnLuf0VZLEo96KN1zQqAHcvz15FKitMEeR7Ou7fMcMDnOFPSMuSYTjHEJMQ1BUrCAr7uQsAw0wbNtUGIgUuWT1BaUA6U628bDiUxbJmgKaNbsaldYQoSdZi17PuiAuznitomErWkLK6YkTgkiPpVFGk9IjCkuGHiqAifINLlFQrNocS63Is8NlTWqZ3iN9TM5Wf9HpUCtM8F8ISRhE3QXrg82qbTVdrSxVmUQDmNXZ1iFQM0aFJ0EeSmNQ2nTNvm5S4m8fw3+61eCiymKfYGDltRvYy8SUbQZfDZOfpa16hOEzdZJI=;I8/7Y1JcxhC0sBWgjostkQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-bid
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "'SNL' unveils new Joe Biden as Jim Carrey exits"
+    excerpt: "After Jim Carrey said he would no longer play President-elect Joe Biden on \"SNL,\" the show introduced its new Biden: cast member Alex Moffat."
+    publishedDateTime: 2020-12-20T16:09:00Z
+    webUrl: "https://www.stltoday.com/entertainment/television/snl-unveils-new-joe-biden-as-jim-carrey-exits/article_38faf70b-2350-59df-8435-0f1c045517a6.html"
+    ampWebUrl: "https://www.stltoday.com/entertainment/television/snl-unveils-new-joe-biden-as-jim-carrey-exits/article_38faf70b-2350-59df-8435-0f1c045517a6.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/entertainment/television/snl-unveils-new-joe-biden-as-jim-carrey-exits/article_38faf70b-2350-59df-8435-0f1c045517a6.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/57/657185f6-b6a6-57dc-9122-64f6d1deb061/5fdf6dff2e0cc.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "8e0Itrls1bJGElomrrGS1DTQcWYMvIMFBPv8DCu0laYWuf5uDiBWOiG7ykJQiTOM+pOgFGTVD3i/dKbbS6AtzI3gk6HuF1/kSI5pBOuFHM9YcJP/vXNOL/Roq2Cc09unkvWNno1lTyFGBXNK6G2z6s5KGaHDlRXdOcB8zhG+WSOLJOhM7fEuYrzHtXRITSj4WV7SGHBXcAMf8Q3DdKrGW9DmwYKTc8L8J0uwo2pxFauW2t2c6p/RxUmWwreCSbVsCCn1gliVe3l6ajnXQgR83vtapM+EjSGD2kBV03PBXkL7yxchGw9hTfluS4oWeu9EYxVIBmCwUpmeKZk71kiGyKj40PAkF/C9M4eF99TUTLJYqszQITEPu43l3SJi8nZEM2pnZgY0RORWXLIJas/V2p0YSt/h6uxdcu6GSsjvNKmix1lDeI4sQ9w7QJTW2an8XrK2nw8FCCnzyuLwO+vtUKLXi/YtTu6UZajtapZxKo1xsDVnmcasGNMnMlJVX4kflKhpU5iO6wRynqo808240w==;TZhKDmwSxp2nVhlZGcqN5A=="
 ---
