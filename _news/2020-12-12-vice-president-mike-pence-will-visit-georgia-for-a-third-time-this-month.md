@@ -1283,6 +1283,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "4 Ways Joe Biden Could Boost Your Social Security Check"
+    excerpt: "If you receive Social Security benefits, you could be in for a raise after President-elect Joe Biden is sworn into office. With COVID-19 dominating headlines throughout the election, Biden's Social Security plan wasn't exactly a hot topic."
+    publishedDateTime: 2020-12-20T17:20:00Z
+    webUrl: "https://www.stltoday.com/business/investment/personal-finance/4-ways-joe-biden-could-boost-your-social-security-check/article_75225e9f-dc83-5ab3-a8b0-b7b248de4323.html"
+    ampWebUrl: "https://www.stltoday.com/business/investment/personal-finance/4-ways-joe-biden-could-boost-your-social-security-check/article_75225e9f-dc83-5ab3-a8b0-b7b248de4323.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/investment/personal-finance/4-ways-joe-biden-could-boost-your-social-security-check/article_75225e9f-dc83-5ab3-a8b0-b7b248de4323.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/01/e01386db-c88a-5b35-87eb-0d685cc9b61f/5fdf831779249.image.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "US election: Mitch McConnell congratulates Joe Biden after electoral college vote"
     excerpt: "Top Republican Mitch McConnell has acknowledge Joe Biden as US president-elect for the first time since the 3 November election. The Senate majority leader also congratulated Kamala Harris: \"Beyond our differences all Americans can take pride that our nation has a female vice-president-elect for the very first time."
     publishedDateTime: 2020-12-15T16:50:00Z

@@ -1271,6 +1271,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "4 Ways Joe Biden Could Boost Your Social Security Check"
+    excerpt: "If you receive Social Security benefits, you could be in for a raise after President-elect Joe Biden is sworn into office. With COVID-19 dominating headlines throughout the election, Biden's Social Security plan wasn't exactly a hot topic."
+    publishedDateTime: 2020-12-20T17:20:00Z
+    webUrl: "https://www.stltoday.com/business/investment/personal-finance/4-ways-joe-biden-could-boost-your-social-security-check/article_75225e9f-dc83-5ab3-a8b0-b7b248de4323.html"
+    ampWebUrl: "https://www.stltoday.com/business/investment/personal-finance/4-ways-joe-biden-could-boost-your-social-security-check/article_75225e9f-dc83-5ab3-a8b0-b7b248de4323.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/investment/personal-finance/4-ways-joe-biden-could-boost-your-social-security-check/article_75225e9f-dc83-5ab3-a8b0-b7b248de4323.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/01/e01386db-c88a-5b35-87eb-0d685cc9b61f/5fdf831779249.image.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "Vice President Mike Pence will visit Georgia for a third time this month"
     excerpt: "One of the nation's top Republicans will be back in Georgia for a third time this month. Vice President Mike Pence's weekly December appearances have included stops to rally support for Georgia's Republican U."
     publishedDateTime: 2020-12-12T02:37:00Z
@@ -1336,6 +1352,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "VKxjLpPrWT5bwQYRVv8bTKDZVCWEc0dxD+qxLy6wFxPj4zLwT4aZiJtTzLcBNZsxXLij1nPNztcP9MYyejr8rGn2X8zlAQeQyYN2sSmIrDPOyWshPojZoRWYOMUlnKwVbEcKbtrUVSUFkgPCR1ICmbQBQ/i+PDs1Jatdw96/X/5xpGTU38+Ww52cAvpz4GH41XVWVX3JuSiDpfuYFq0zBqlCBf17leEeFIc6RaKatXGZko3HgC1mICy2Bv8SEO+7w52Te56reIF43JyxdzBDdYO3XmRFR/hcCAW+/7wH0mWvJHb/mllUYXYgLrdJl8P8ctTJyZZcNyRGdtvjPH0ewhHZjd8z6xi5lECrnZP+UQQ=;qql/zj2FpNpZh+cUbPE8vg=="
+secured: "e8DcEmDcp4Cl0dueTKwefYvyiVtTjPyTQ3c+ZITrMpETcFV6pOm6isTeYl72WGaH5d0tW5akwYAaH4FHO89u9P0RZKZMJW4hBRmWmHf9a5lnCuPW4hwnVSIg/dvhV7d0yVsVRdjnUd6e4D1c5yLuQactS6JPBqIrfK+t5gPBwKbhsxgRuoTNH4qBHyneHG5FpUfeCIjbXUSFoZ3lh8YI1C1VD6Wf+T7SLFicfVCTi1sPjE+6XA/sKe+DT7kfC18TxD7QTxSC2rLNV/daUKzl5EKJjsEJpyUF0Pb7tRdOe94S+FkuyhcMBslx5gb7D6KpVEguDfudXtznzYHi1C6J8Um9JKHD807if/mgbnW7kqHqFsx9gxUOWTQfvd6AQjCm5h7nUR+cYJgUPLTGGEQVM2BC75m7U4T9naW2eAimX+i6Rv0//HyVggtetf+49NAlaS8v9Z46T4I2SlHFHq4No8owRme79tQyMjs7TlBFco22DGpY4gzJUSOXhjA6JLGV5o4H/TceOWq3gSVnPMYrnw==;mWUnMvEaQSteU8VRaSy+cg=="
 ---
 

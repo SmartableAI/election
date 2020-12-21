@@ -29,21 +29,97 @@ images:
     isCached: true
 
 related:
-  - title: "Statement: Atlanta mayor turned down Biden's Cabinet offer"
-    excerpt: "A spokesperson for Atlanta Mayor Keisha Lance Bottoms says the prominent Democrat turned down an opportunity to serve in President-elect Joe Biden’s Cabinet"
-    publishedDateTime: 2020-12-13T05:59:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/statement-atlanta-mayor-turned-bidens-cabinet-offer-74696339"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/statement-atlanta-mayor-turned-bidens-cabinet-offer-74696339"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/statement-atlanta-mayor-turned-bidens-cabinet-offer-74696339"
+  - title: "AG: 'No reason' for special counsel on election, Biden's son"
+    excerpt: "Outgoing Attorney General William Barr says he sees “no reason” to appoint a special counsel on potential election fraud or the tax investigation into the son of President-elect Joe Biden"
+    publishedDateTime: 2020-12-21T16:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ag-reason-special-counsel-election-bidens-son-74843541"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ag-reason-special-counsel-election-bidens-son-74843541"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ag-reason-special-counsel-election-bidens-son-74843541"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Mr. Biden shouldn’t be the only target for Catholics"
+    excerpt: "Are the religious leaders condemning President-elect Joe Biden for his abortion stance also condemning Attorney General William P. Barr, who is also Catholic, for his rabid haste to execute federal prisoners before Jan."
+    publishedDateTime: 2020-12-18T21:46:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_fc019b7817574bc3800453cce85f455d_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L65E4PSZRAI6TBBNPU7NP2ZZK4.jpg&w=1440"
+        width: 1440
+        height: 970
+        isCached: true
+  - title: "AG Barr says he sees no reason to name special counsels to investigate Hunter Biden or election fraud"
+    excerpt: "Attorney General Barr said he saw no reason to appoint special counsels to investigate Hunter Biden or unsubstantiated allegations of election fraud."
+    publishedDateTime: 2020-12-21T16:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/21/barr-no-reason-special-counsels-hunter-biden-election-fraud/3991548001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3991548001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3991548001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/15/USAT/692ddb1b-5135-4cd3-9a7d-f76290ac2108-VPC_BARR_RESIGNS_GETTY_WIDE.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Chris Ruddy: Newsmax calls the election for Joe Biden"
+    excerpt: "Chris Ruddy, the CEO of Newsmax Media, has defended his US channel's post election coverage when President Donald Trump challenged the result. He told Hardtalk's Stephen Sackur: \"There is a media-spin that somehow we are trying to deny the election or as you say out-Trump,"
+    publishedDateTime: 2020-12-16T16:11:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55334234"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 120
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p091mmz2.jpg"
+        width: 400
+        height: 224
+        isCached: true
+  - title: "Biden won't ask his attorney general candidates about potential investigations into his son, Hunter"
+    excerpt: "Incoming White House Press Secretary Jen Psaki said Biden would not be addressing an investigation with his candidates for Attorney General."
+    publishedDateTime: 2020-12-20T17:16:00Z
+    webUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5fdbcfa4d366e60018098c5f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Electoral College makes it official: Biden won"
+    excerpt: "The Electoral College decisively confirmed Joe Biden on Monday as the nation’s next president, ratifying his November victory in an authoritative state-by-state repudiation of President Donald Trump’s refusal to concede he had lost."
+    publishedDateTime: 2020-12-15T05:31:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/15/electoral-college-makes-official-biden-won/3901023001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/815449b8-6497-4ef2-bafa-450265f6c1b5_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "GrTInv437i0z+1Q+H7g5TuzKJJL+XqUS2z5awFf14K/FtNsgs5BZsYtaWaBb47eJCj3XDK6gVE2il9RltW17Zg27OnOCyUXyAi3FrqzqbqTlgeRjW6zYNRwtXatygLOjzs7Kv8t+YSBLxw9PXtRbHq20EzE6GlqPAIoZ2w6keVI1Tf65MFdF7S/yIeivKnsZze4lo6f7g0oszKhE7abmDjOHlnFOiy/rDXvb05HZ+n4uYKtVJrGm0trh96CzLkLSyrmA5lQhWdf2mdAMHBEIf9mnpSYKFdSWgBLNq0ElusuWRkOTpdI5EOIxHuzchD4NY5orGWtomyAqUDIv6I+3hOXd4jKNAku5FHDPjihA1J0=;lu1syPz+G75hYC/NHAd2ew=="

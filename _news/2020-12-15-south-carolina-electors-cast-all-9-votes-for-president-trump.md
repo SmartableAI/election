@@ -39,6 +39,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Trump campaign will again ask U.S. high court to upend election results"
+    excerpt: "President Donald Trump's campaign said on Sunday it would again ask the U.S. Supreme Court to overturn results from the Nov. 3 election, its latest long-shot effort to subvert the electoral process and sow doubt over the legitimacy of President-elect Joe Biden's victory."
+    publishedDateTime: 2020-12-21T16:09:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN28U0UJ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28U0UJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28U0UJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545287871&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBJ0GH"
+        width: 819
+        height: 545
+        isCached: true
   - title: "Pro-Trump protests decry president's election loss, opposing groups clash in Washington"
     excerpt: "Conservative groups claiming without evidence that the Nov. 3 election was stolen from President Donald Trump staged protests across the country on Saturday, with one in Washington turning violent at times as police broke up sporadic clashes after dark."
     publishedDateTime: 2020-12-13T10:10:00Z
@@ -985,6 +1001,17 @@ related:
         width: 1440
         height: 917
         isCached: true
+  - title: "Trump's legacy: He changed the presidency, but will it last?"
+    excerpt: "The most improbable of presidents, Donald Trump reshaped the office and shattered its centuries-old norms and traditions while dominating the national discourse like no one before."
+    publishedDateTime: 2020-12-21T15:52:00Z
+    webUrl: "https://www.businessinsider.com/trumps-legacy-he-changed-the-presidency-but-will-it-last-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trumps-legacy-he-changed-the-presidency-but-will-it-last-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-legacy-he-changed-the-presidency-but-will-it-last-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Spotted owls could go extinct without more federal protection. But they’re not going to get it, Trump officials say."
     excerpt: "The northern spotted owl has lost 70 percent of its habitat to development and timber harvesting and could go extinct without added federal protection, the Trump administration announced Monday. But the owls won’t get it."
     publishedDateTime: 2020-12-15T06:18:00Z

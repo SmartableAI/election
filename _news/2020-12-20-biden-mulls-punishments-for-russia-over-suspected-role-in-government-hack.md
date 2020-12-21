@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2020/dec/20/russian-hack-suspected
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment"
 type: article
 quality: 124
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Biden vows to punish those behind hack against U.S. government"
+    excerpt: "Elect Joe Biden said Thursday that a recently uncovered far-reaching cybersecurity breach against the U.S. government was a matter of \"great concern\" and vowed swift action in response once he takes office next month."
+    publishedDateTime: 2020-12-18T01:40:00Z
+    webUrl: "https://www.businessinsider.com/biden-vows-to-punish-those-behind-hack-against-us-government-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-vows-to-punish-those-behind-hack-against-us-government-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-vows-to-punish-those-behind-hack-against-us-government-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "yntQvB0WAM8CL1+Xr9gvTcynl8JP6epYuzvudpZQWGGrXmGQmhHP0d6SShQvGaJj2JG+2OB64HpiefFpzR8QOrNe5FmrRJ0oYyS2so2kIIvYOy/S0uRL0Uby2+S4iUGRWtjnhGWFIIr51Jb0kcP15qiMB4qrSLTZN4xcPUeX4Cwc2GcnENgZOLOFcsS5SMvqGsfHTTY/zqIvyKBUsln5jGyxTWA3JCeEolGJrL1cOil4vaSlGbZX17zjPsHAtPdqY2YkWzQiPShuF+Wa/7tAwPuSqrWpNF8/VuG8MlgOmJg1lxNi7IDmnnCflpexkEkcD2l4xXlVknhaPVUUWk/4GBzt1+dD6Myylpdjq6NV8MJzA/wnTOMPNS0SlEq1Tk7NQvs+5J4KmLiapjoHmI+Zq7dwSa78rxwS4+B9mgFLDCCMjYHniEKu3pAQzMj4Lg8if7Lk6Vtic7GkK2Wn/n/xQWl7TztTbWPOQRxSnZzc/xjqeEsecaITMQ+tO0vEbgzP0siYD5UMoJjGmi1QqAcHTA==;R7wMOf7950mjfSoNVYOL8w=="
 ---

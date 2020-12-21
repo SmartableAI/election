@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Barr says he has 'no plan' to appoint election, Hunter Biden special counsels"
+    excerpt: "Attorney General William Barr on Monday said he has \"no plan\" to appoint a special counsel to take over the federal investigation into Hunter Biden’s \"tax affairs,\" or one to probe allegations of widespread voter fraud in the 2020 prwsidential election. "
+    publishedDateTime: 2020-12-21T16:35:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MOEZZYFqVO8/barr-no-special-counsel-election-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/barr-no-special-counsel-election-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barr-no-special-counsel-election-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump, Biden officials condemn Iran regime's kidnapping, execution of reporter"
     excerpt: "Officials in the Trump administration and Biden transition were united in their condemnation of the Iranian regime for its execution of a journalist whose work encouraged protests over the country’s economic decline."
     publishedDateTime: 2020-12-14T16:45:05Z

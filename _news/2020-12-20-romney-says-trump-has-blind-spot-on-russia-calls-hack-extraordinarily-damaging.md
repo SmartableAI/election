@@ -41,6 +41,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "China criticizes Trump suggestion it is behind cyber spying"
+    excerpt: "China’s government has criticized President Donald Trump’s suggestion that Chinese hackers, not Russia, might be behind a cyber espionage campaign against the United States"
+    publishedDateTime: 2020-12-21T16:06:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/china-criticizes-trump-suggestion-cyber-spying-74839065"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/china-criticizes-trump-suggestion-cyber-spying-74839065"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/china-criticizes-trump-suggestion-cyber-spying-74839065"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump finds himself isolated in refusal to blame Russia for big cyberattack"
     excerpt: "President Trump’s dismissive characterization of a massive cyberattack targeting multiple U.S. agencies drew pushback Sunday from lawmakers, cybersecurity experts and the incoming Biden administration amid growing questions over the president’s refusal to acknowledge that Russia was likely behind the intrusions."
     publishedDateTime: 2020-12-21T02:04:00Z
@@ -132,6 +148,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/19lNjHaESAwNGzeUPAfEWTjRL6M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CABCYCUO3BGJHLONLPWXO7J7AY.jpg"
         width: 1200
         height: 796
+        isCached: true
+  - title: "Disputing his own top officials, Trump blames China, not Russia, for government agency hack"
+    excerpt: "Cybersecurity experts and Secretary of State Mike Pompeo say evidence points to Russia for a massive hack of U.S. government agencies, but President Trump is pointing the finger at China. CBS News White House correspondent Paula Reid spoke with CBSN's Anne-Marie Green about what the Biden administration can do to deter Russian hacking and interference,"
+    publishedDateTime: 2020-12-21T15:49:00Z
+    webUrl: "https://www.cbsnews.com/video/president-trump-blames-china-not-russia-for-government-agency-hack/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 95
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/21/76e4379e-d249-4937-bdad-62f94b8f2e36/thumbnail/1200x630/ef9879eba68ee8292eea612d940aed45/cbsn-fusion-president-trump-blames-china-not-russia-for-government-agency-hack-thumbnail-613606-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump downplays hack as Pompeo blames Russia"
     excerpt: "Watch \"President Trump downplays U.S. government hack as Pompeo blames Russia\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
