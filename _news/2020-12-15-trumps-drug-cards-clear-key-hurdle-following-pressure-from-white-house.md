@@ -64,6 +64,54 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Heated Oval Office meeting included talk of special counsel, martial law as Trump advisers clash "
+    excerpt: "President Donald Trump convened a heated meeting in the Oval Office on Friday, including lawyer Sidney Powell and her client, former national security adviser Michael Flynn, two people familiar with the matter said, describing a session that began as an impromptu gathering but devolved and eventually"
+    publishedDateTime: 2020-12-19T23:55:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g5v2cjoT5uk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-oval-office-meeting-special-counsel-martial-law/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-oval-office-meeting-special-counsel-martial-law/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211141734-trump-1207-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump Weighed Naming Election Conspiracy Theorist as Special Counsel"
+    excerpt: "In a meeting at the White House on Friday, President Trump weighed appointing Sidney Powell, who promoted conspiracy theories about rigged voting machines, to investigate voter fraud."
+    publishedDateTime: 2020-12-20T04:29:00Z
+    webUrl: "https://www.nytimes.com/2020/12/19/us/politics/trump-sidney-powell-voter-fraud.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/19/us/politics/trump-sidney-powell-voter-fraud.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/19/us/politics/trump-sidney-powell-voter-fraud.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/19/us/politics/19dc-counsel/19dc-counsel-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "As Trump Leaves the White House, His Imprint on the Judiciary Deepens"
+    excerpt: "Published opinions from the nation’s appeals courts this year show that Trump appointees stand out from other judges, even those named by other Republican presidents."
+    publishedDateTime: 2020-12-17T08:00:00Z
+    webUrl: "https://www.nytimes.com/2020/12/17/us/politics/trump-judges-appeals-courts.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/17/us/politics/trump-judges-appeals-courts.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/17/us/politics/trump-judges-appeals-courts.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/16/multimedia/00trumpjudges/00trumpjudges-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Bill Trump Is Vowing to Veto Strengthens Hacking Defenses, Lawmakers Say"
     excerpt: "Additional powers to actively hunt down hackers across federal agencies could have given the government more of a chance to detect the recent Russia hack more quickly, they said."
     publishedDateTime: 2020-12-18T10:05:00Z

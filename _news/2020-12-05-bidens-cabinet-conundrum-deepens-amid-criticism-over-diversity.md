@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden goes to bat for Defense secretary nominee Austin"
+    excerpt: "President-elect Joe Biden speaks during an event to announce his choice of retired Army Gen. Lloyd Austin, right, to be secretary of defense, at The Queen theater in Wilmington, Del. | AP Photo/Susan Walsh President-elect Joe Biden addressed concerns Wednesday about nominating a recently retired four-star general to lead the Department of Defense,"
+    publishedDateTime: 2020-12-09T20:16:00Z
+    webUrl: "https://www.politico.com/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/a1/d6/b207abad45c7a9c51fac9e3a3fc4/200826-kellyanne-conway-2-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "8N2/niVOiiSGg6pGQD5l5RFOFKICNcZxkyB2xhUIWJaEK1qzP/6Z9Yk6uOihM9XeycIjoGh518uaVaroo42pqybJ1n5R9JG0XX0U4N7OX3ROUsrxB2nN0o9yxf97n9g2PghbiJB51bO3+6ZpxKa2FoKsPbLXphTZDCjKciQ2WhYc/u6L0Pj3sAdh3Vx0ve9UK8PstGvT6BTvENTIgPZmG684rPzWDAUwCt+3F98nJT/3AjSI4Z+QHyfpQEqU/E+YRj7KOSxc/lfXhQWLIY1Xsls+J9wNAaTEhI89ePh2D0oBBZWHzyoLMKhTMVwuRN0DjNODzriX/kg0kSetA0NHjGJ0+ypsGXHqM0ahKclBd9I=;Y2mTfCg2lP1hh7Shs86ZZQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-reaches-out-to-governo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 545
+heat: 565
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/c0902167ca17ea2fb6e9e86602f4fc367b98a026/0_98_4710_2826/master/4710.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d890626bd6b1f1d4561297e71ae969cb"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden to push for more coronavirus relief, setting up a clash with GOP"
+    excerpt: "Many Democrats backing the coronavirus relief bill are counting on Biden to push for another aid package shortly after taking office. But Republicans oppose another deal, setting up an early clash of wills between Biden and Senate Republicans."
+    publishedDateTime: 2020-12-22T01:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RX46U2CDZQI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 965
         isCached: true
   - title: "Georgia upholds Biden's win as US approaches 15m coronavirus cases - live"
     excerpt: "We have now counted legally-cast ballots three times, and the results remain unchanged,’ says Brad Raffensperger, Georgia’s secretary of state"

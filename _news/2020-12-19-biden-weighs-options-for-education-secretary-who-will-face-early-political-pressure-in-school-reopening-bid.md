@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden Faces Challenge as Congress Drops State Aid to Secure Stimulus"
-    excerpt: "A campaign by conservative activists and disputes over how to divvy up federal assistance have thwarted negotiators. But President-elect Joe Biden will make a new push for such funding next year."
-    publishedDateTime: 2020-12-17T23:33:00Z
-    webUrl: "https://www.nytimes.com/2020/12/17/business/stimulus-state-local-aid.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/17/business/stimulus-state-local-aid.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/17/business/stimulus-state-local-aid.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/17/us/17dc-StateStimulus01/17dc-StateStimulus01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "'Cabinet of firsts': Joe Biden touts Pete Buttigieg's historic nomination"
     excerpt: "Buttigieg is expected to be the first Senate-confirmed gay member of a presidential Cabinet. He acknowledged the “eyes of history are on this appointment.”"
     publishedDateTime: 2020-12-16T22:09:00Z
@@ -94,20 +78,6 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_51/3436251/201216-pete-buttigieg-jm-1649_bfe6eb7042971e4b7219e97925e8d90d.jpg"
         width: 2500
         height: 1481
-        isCached: true
-  - title: "Garcetti won't serve in Biden administration"
-    excerpt: "Eric Garcetti said he had turned down an unspecified administration post and would instead remain mayor of California's largest city."
-    publishedDateTime: 2020-12-18T02:58:00Z
-    webUrl: "https://www.politico.com/states/california/story/2020/12/17/garcetti-wont-serve-in-biden-administration-1348439"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/capny/sites/default/files/eric-garcetti.jpg"
-        width: 700
-        height: 400
         isCached: true
 
 secured: "fe2LDOzWvgpPCspmkvxhyHzhUES06bDjqV4xZTLQ+hLcNJFnHGeOg6P89935y8i/s1xhuAEeIWU48B6MVIp0WBDEJR5dMTMMQwXUZfTrmcBFq9+TkI1HuwA/yz4n25hiD+jhVLvM4cVmoBoi7mp6Z8n6Km5vXoI6icVgxEuj/CVWWBgmxmRabFweNvm4HEi0tgB/2MsLYm3aknhLeJmVBQ9Tcrw33JmwY/UmwGeNUWW6OWk6b5tfDb/mYRK+WGgyRa1NIHZpYxo0TzvYpg85nFy9RrBxhdkHwexmp8V0CbkdhvqKWvmOVvOx0Tkgfk0ub2sCbPdUviXb9Di+cpRqSpXXBPQ7y3ariWdFQ85JNEU=;9vmWI76UxpR8BL7cEILIzQ=="

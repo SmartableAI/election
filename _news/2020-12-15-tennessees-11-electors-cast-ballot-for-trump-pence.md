@@ -539,6 +539,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump meets U.S. House Republican allies to push voter fraud claims"
+    excerpt: "U.S. President Donald Trump met a group of Republican lawmakers on Monday in his thus-far fruitless bid to gain momentum for claims that the Nov. 3 presidential election won by Democrat Joe Biden was rigged."
+    publishedDateTime: 2020-12-22T01:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump/trump-meets-u-s-house-republican-allies-to-push-voter-fraud-claims-idUSKBN28W02W?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W02W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W02W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545377438&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL019"
+        width: 817
+        height: 545
+        isCached: true
   - title: "U.S. finalizes shower head rule after Trump complaints about hair rinsing"
     excerpt: "The U.S. Energy Department on Tuesday finalized two rules easing energy standards on consumer fixtures and appliances, including one on shower heads after President Donald Trump complained some showers don't adequately rinse his hair."
     publishedDateTime: 2020-12-16T02:52:00Z

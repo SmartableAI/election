@@ -32,117 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "George W. Bush sends holiday card with pointed message as Trump denies election loss"
-    excerpt: "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss.\n    \n"
-    publishedDateTime: 2020-12-16T23:44:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XUU1iQQ1IGE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 183
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200602180649-george-bush-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Pentagon adds more Trump loyalists to Defense Policy Board"
-    excerpt: "The Pentagon has added more supporters of President Donald Trump to the Defense Policy Board following the removal of several high-profile members last month.\n    \n"
-    publishedDateTime: 2020-12-14T19:19:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6nO_D_TFpio/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/pentagon-defense-policy-board/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/pentagon-defense-policy-board/index.html"
+  - title: "Senate fails to block Trump-backed arms sale to United Arab Emirates"
+    excerpt: "The Senate on Wednesday failed to pass two disapproval resolutions pushed by a bipartisan group of senators to block a $23 billion US arms sale to the United Arab Emirates that was approved by the Trump administration.\n    \n"
+    publishedDateTime: 2020-12-10T01:18:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jVRB1oQWfZQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-senate-vote-fail/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-senate-vote-fail/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/121231065730-capitol-hill-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "George W. Bush sends holiday card with pointed message as Trump denies election loss"
-    excerpt: "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss."
-    publishedDateTime: 2020-12-16T23:44:00Z
-    webUrl: "https://www.cnn.com/2020/12/16/politics/bush-christmas-card-trump/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
+  - title: "After Trump's toilet rant, efficiency standards rolled back on showers, laundry machines"
+    excerpt: "Trump has spent much of the past year lamenting the functionality of toilets, showers, dishwashers, sinks, and other appliances and bathroom fixtures."
+    publishedDateTime: 2020-12-17T00:06:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/months-after-trump-s-toilet-rant-admin-rolls-back-shower-n1251399"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251399"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251399"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 143
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200602180649-george-bush-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump antagonizes Republicans with Georgia fundraising ploy"
-    excerpt: "Emails and texts raising cash for Trump's PAC have rankled Republicans, who want cash to flow directly to Georgia's endangered GOP senators."
-    publishedDateTime: 2020-12-15T01:25:00Z
-    webUrl: "https://www.politico.com/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/da/1f/59b5d43848958d4f1d12f634434c/gettyimages-1230110704-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "As Trump Leaves the White House, His Imprint on the Judiciary Deepens"
-    excerpt: "Published opinions from the nation’s appeals courts this year show that Trump appointees stand out from other judges, even those named by other Republican presidents."
-    publishedDateTime: 2020-12-17T08:00:00Z
-    webUrl: "https://www.nytimes.com/2020/12/17/us/politics/trump-judges-appeals-courts.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/17/us/politics/trump-judges-appeals-courts.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/17/us/politics/trump-judges-appeals-courts.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/16/multimedia/00trumpjudges/00trumpjudges-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Congress braces for painful veto clash with Trump on defense bill"
-    excerpt: "Congressional leaders are scrambling to avoid an unusual scenario in which lawmakers are summoned back to Washington in the days between Christmas and New Year’s for a dramatic, eleventh-hour vote to overturn Trump's promised veto of a massive national defense bill."
-    publishedDateTime: 2020-12-17T21:20:00Z
-    webUrl: "https://www.politico.com/news/2020/12/17/congress-trump-defense-bill-veto-447900"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/congress-trump-defense-bill-veto-447900"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/congress-trump-defense-bill-veto-447900"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/de/3e/2ecd7d6241fe83c9e3f29ee1aade/gettyimages-1223644845.jpg"
-        width: 4000
-        height: 2665
-        isCached: true
-  - title: "Inside the Right-Wing Media Bubble, Where the Myth of a Trump Win Lives On"
-    excerpt: "The Electoral College has affirmed Biden’s victory. That doesn’t mean that Trump-friendly news outlets have accepted it."
-    publishedDateTime: 2020-12-15T10:00:00Z
-    webUrl: "https://www.nytimes.com/2020/12/15/us/politics/trump-media.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/15/us/politics/trump-media.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/15/us/politics/trump-media.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/15/us/politics/15trumpmedia1/15trumpmedia1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_51/3436183/201216-donald-trump-melania-hair-jm-1253_ede4f40ed1b5aca7b381951744805c48.jpg"
+        width: 1758
+        height: 1171
         isCached: true
 
 secured: "KiN4gh+5PqJsThnPehhzRz4WeJo5Da8Qe4HvAcINRN/CdysAFH8NnwLqGpi0iV+QSbG1IVse8KrpF2i/Soe+5RvqSwT/S8K7oPUWM8FwO70f+EaV7XKXCiwIMMuHVsZPwoVHetb+4EO4Em8HRdCMS8Phqk1KUbzkJ8GRrUMTm9nJQdh8heh+FxGpLtxZdJPTOAoktQzk+QPKQVkigp72TZbp7vg8MX7WA+heTFHl/WdBDcfVhYz6ubeOVYuAfMidWe7vqxw7cDJT7w9HCn28MloDOBa8FGVa5E9ul0NiWKUcTP9yZuKqXnfVGoJKzEti1ifhfsXMYVaZvBKGnQzFltzLCPZ9/YHiaFFMsDdDKATld1sjuweeKGBWNPk3cdck2urOMmOlgBdoyZmnq0Krzz4sFk+Nkh/jnCSSkhmAZD/eUIgMLX1PLnlW0GLLN0WJo4bGPOPE4K3jZAKafNIDPeEjFRJvtaFUdlOngmRDewYUcuccLD5tQW+TMXPnjJVWy6W3shoIx0V3NVC5WdVxVA==;Flo1o5PjiCtZmiYojfQXGg=="

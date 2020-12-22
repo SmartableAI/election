@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97645637979"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97645637979"
 type: article
 quality: 134
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Biden Transition Live Updates: Electoral College Vote Underway Across the Country"
-    excerpt: "Electors in states across the country have cast their votes for president, and the winner is not in doubt: Joseph R. Biden Jr. will be officially declared the president-elect."
-    publishedDateTime: 2020-12-14T15:49:00Z
-    webUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/12/14/us/joe-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/14/us/joe-biden-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 130
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/14/us/politics/14transition-briefing-biden-speech/14transition-briefing-biden-speech-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "pP7Y0utGD4zS9wZYbpvrX0r9DqwN2qjvQKF34Ih6Q9a3vnjK/2kaDlI4JTR1zXKkudQNTYIr0+41kO5J6CjOpQv2n40tlpOdqv+Aqg3nLiqzDWe0jPyKOBFo1Lr1hVhqtIegbH5STn/xzpXPWqjJz7AgyMpUtmcrd5sv9JXysdyMnurerrRSRU9c4R6p2/tpHHoEx7wvSmQCsPA1Pmb3P6q3q73dAjB0LnfY8j0pj35lk7hNfukJObnTGPiVg+ZwdDQD3cT/IC8MGJcIJ9Nn0LRDAWwQx/Q5jgNu1y/i6+JWC+XwQslbynCy9dnoBR1419cAQSSlb5Bo5hsVh1h3Rp8gkrQT6cRbJfRegaU+U2cHjFy3pNg7EsIa865n8myjfebsgzoXu/wF67nQGOMJEGSawbMkAXGeaLaTcmCBhGK5TjoSj4FM+zrw1qj2+ZlJfMMR//wCyRYxg21oq2UbddM7ygNDI6U4fx4Rezxal31JK0IjBwWykic79yQ1raYuw4VaOh/7KFRRvh0x/dMJ+A==;N4aD/CqEOitCPuI1p1sh7Q=="
 ---

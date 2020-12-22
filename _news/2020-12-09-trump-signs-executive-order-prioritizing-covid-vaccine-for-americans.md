@@ -112,22 +112,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Donald Trump's presidency by the numbers"
-    excerpt: "As the days of the Trump presidency wind down, the picture of how his tenure in office compares with that of his predecessors is becoming clearer.\n    \n"
-    publishedDateTime: 2020-12-18T16:07:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/clkMHNugKMo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/trump-presidency-by-the-numbers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/trump-presidency-by-the-numbers/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218100850-20201218-trumps-numbers-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden receives first dose of Covid-19 vaccine"
     excerpt: "President-elect Joe Biden is expected to receive the first dose of the Pfizer and BioNTech coronavirus vaccine in public on Monday.\n    \n"
     publishedDateTime: 2020-12-21T20:54:22Z
@@ -141,22 +125,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221152810-02-biden-receives-vaccine-1221-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Some White House advisers fear Trump's final days"
-    excerpt: "President Donald Trump has turned to a fringe group of advisers peddling increasingly dubious tactics to overturn the results of the election, creating a dire situation that multiple senior officials and people close to the President say has led to new levels of uncertainty at how Trump will resist the"
-    publishedDateTime: 2020-12-21T20:50:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Bys9njuZSrY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/trump-white-house-sidney-powell/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/trump-white-house-sidney-powell/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200120121345-04-trump-0109-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -191,38 +159,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214220507-coronavirus-testing-201210-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Pence prepares to confirm Trump’s loss — and then leave town"
-    excerpt: "It’s a tactic Pence has used in recent weeks: stay out of the spotlight and insulate himself from his boss’s election-fraud crusade, while still bolstering his own credentials."
-    publishedDateTime: 2020-12-17T09:33:00Z
-    webUrl: "https://www.politico.com/news/2020/12/17/pence-trump-election-loss-447326"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/pence-trump-election-loss-447326"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/pence-trump-election-loss-447326"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
-    images:
-      - url: "https://static.politico.com/af/a2/56574fb144faaebea508e04c0125/gettyimages-1230056598-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Pence prepares to oversee Trump’s loss — and then leave town"
-    excerpt: "It’s a tactic Pence has used in recent weeks: stay out of the spotlight and insulate himself from his boss’s election-fraud crusade, while still bolstering his own credentials."
-    publishedDateTime: 2020-12-18T03:41:00Z
-    webUrl: "https://www.politico.com/news/2020/12/17/pence-trump-election-loss-447326"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/pence-trump-election-loss-447326"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/pence-trump-election-loss-447326"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
-    images:
-      - url: "https://static.politico.com/af/a2/56574fb144faaebea508e04c0125/gettyimages-1230056598-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Trump unleashes an army of sore losers"
     excerpt: "GOP candidates for House, legislative and gubernatorial races in more than half a dozen states are claiming voter fraud and still refusing to acknowledge defeat."

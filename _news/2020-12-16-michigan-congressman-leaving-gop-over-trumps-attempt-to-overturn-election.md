@@ -32,117 +32,229 @@ images:
     isCached: true
 
 related:
-  - title: "Mitt Romney calls Trump's attempt to overturn Michigan election 'undemocratic'"
-    excerpt: "Two prominent Republican senators on Thursday ripped President Donald Trump's attempt to overturn the results of the presidential election in Michigan, with one going so far as to call the President's strategy \"undemocratic.\"\n    \n"
-    publishedDateTime: 2020-11-20T04:42:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a0m6tgoZeAY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/mitt-romney-ben-sasse-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/mitt-romney-ben-sasse-trump/index.html"
+  - title: "'Accept defeat': See Trump ally's message after election loss"
+    excerpt: "Former New Jersey Governor Chris Christie talks to CNN's Chris Cuomo about the election and how President Donald Trump and some Republicans have refused to concede.\n    \n"
+    publishedDateTime: 2020-12-18T02:53:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zqB1iwI-vOA/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 186
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922170758-mitt-romney-filipovic-oped-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217102245-chris-christie-cpt-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Michigan House Speaker will meet with Trump on Friday, source says"
-    excerpt: "Michigan House Speaker Lee Chatfield is going to the White House today, a source familiar with the plans told CNN.\n    \n"
-    publishedDateTime: 2020-11-20T14:45:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/78T6kZs8lzA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/michigan-house-speaker-will-meet-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/michigan-house-speaker-will-meet-trump/index.html"
+  - title: "Trump's former national security adviser on using martial law to 'rerun election'"
+    excerpt: "An Oval Office meeting with President Donald Trump that included Sidney Powell and her client Michael Flynn began as an impromptu gathering but quickly devolved, two people familiar with the matter said. CNN's Jeremy Diamond reports screaming matches broke out at certain points as some of Trump's aides"
+    publishedDateTime: 2020-12-19T22:41:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OStSGx2G8JY/oval-office-meeting-trump-martial-law-powell-flynn-diamond-sot-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/19/oval-office-meeting-trump-martial-law-powell-flynn-diamond-sot-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/19/oval-office-meeting-trump-martial-law-powell-flynn-diamond-sot-nr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201008203155-marine-oval-office-thursday-1008-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "George W. Bush sends holiday card with pointed message as Trump denies election loss"
+    excerpt: "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss.\n    \n"
+    publishedDateTime: 2020-12-16T23:44:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XUU1iQQ1IGE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200602180649-george-bush-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Congressman cites Trump's efforts to overturn election in announcing decision to quit GOP"
+    excerpt: "In an exclusive interview, Rep. Paul Mitchell, Republican of Michigan, told CNN that his disgust and disappointment with President Donald Trump's efforts to overturn the results of the election have led him to request that the Clerk of the House change his party affiliation to \"independent,\" and to notify"
+    publishedDateTime: 2020-12-14T21:53:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7lvSrj0C3GE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/paul-mitchell-quits-gop/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/paul-mitchell-quits-gop/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214155118-rep-paul-mitchell-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pentagon adds more Trump loyalists to Defense Policy Board"
+    excerpt: "The Pentagon has added more supporters of President Donald Trump to the Defense Policy Board following the removal of several high-profile members last month.\n    \n"
+    publishedDateTime: 2020-12-14T19:19:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6nO_D_TFpio/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/pentagon-defense-policy-board/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/pentagon-defense-policy-board/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120093600-01-lee-chatfield-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Michigan statehouse leaders arrive at White House to meet with Trump as campaign peddles bogus fraud claims"
-    excerpt: "Michigan House Speaker Lee Chatfield is going to the White House today, a source familiar with the plans told CNN.\n    \n"
-    publishedDateTime: 2020-11-21T00:41:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/78T6kZs8lzA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/michigan-house-speaker-will-meet-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/michigan-house-speaker-will-meet-trump/index.html"
+  - title: "Trump still plans to veto defense spending bill"
+    excerpt: "President Donald Trump's vow to veto the bipartisan National Defense Authorization Act places Capitol Hill in a bind and could lead to Congress having to return to session between Christmas and New Year's.\n    \n"
+    publishedDateTime: 2020-12-16T18:43:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/befXOvGMC0Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/donald-trump-ndaa-congress-armed-services-defense/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/donald-trump-ndaa-congress-armed-services-defense/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 157
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120093600-01-lee-chatfield-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216111257-trump-1212-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Obama: Trump's fraud claims delegitimizing democracy"
-    excerpt: "CNN's Wolf Blitzer speaks with Cindy McCain, widow of late Sen. John McCain, about President Donald Trump's refusal to concede to President-elect Joe Biden."
-    publishedDateTime: 2020-11-13T00:39:00Z
-    webUrl: "https://www.cnn.com/videos/media/2020/11/13/cindy-mccain-obama-trump-biden-2020-election-sot-vpx-tsr.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/11/13/cindy-mccain-obama-trump-biden-2020-election-sot-vpx-tsr.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/11/13/cindy-mccain-obama-trump-biden-2020-election-sot-vpx-tsr.cnn"
+  - title: "'Simply unacceptable:' Congressman exiting GOP calls out Trump's racist attacks"
+    excerpt: "Rep. Paul Mitchell tells CNN's Jake Tapper that he no longer wants to be affiliated with the Republican Party and calls out President Trump's racist attacks.\n    \n"
+    publishedDateTime: 2020-12-14T22:11:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yqAbUrpzivk/mitchell-son-russia-republican-party-exit-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/14/mitchell-son-russia-republican-party-exit-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/14/mitchell-son-russia-republican-party-exit-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 135
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112191137-obama-cbs-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214165531-tapper-mitchell-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Christie calls Trump's legal efforts a 'national embarrassment' as more Republicans speak out"
-    excerpt: "Chris Christie, a longtime ally of President Donald Trump, said Sunday that the president's legal battle over the election results has reached the point of \"national embarrassment\" and that it's time for the president to move on."
-    publishedDateTime: 2020-11-22T18:02:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/christie-calls-trump-s-legal-efforts-national-embarrassment-more-republicans-n1248553"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1248553"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248553"
+  - title: "Gov. Kasich: Trump won the election, but he didn't win long-term"
+    excerpt: "President Trump hit the campaign trail last night to take a victory lap over his new trade deal. Stephanie Ruhle is joined by Ohio’s Republican Governor John Kasich. The two discuss the USMCA, Judge Kavanaugh,"
+    publishedDateTime: 2020-12-20T09:58:00Z
+    webUrl: "https://www.nbcnews.com/video/gov-kasich-trump-won-the-election-but-he-didn-t-win-long-term-1334758979548"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo44568645655"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo44568645655"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 124
+    quality: 150
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_47/3430251/201122-chris-christie-jm-1058_8937645ec05d585e54153f941356303d.jpg"
+      - url: "https://media1.s-nbcnews.com/i/MSNBC/Components/Video/201810/n_ruhle_bblockkasich_181002_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Glimmers of progress in stimulus negotiations as Trump's election sideshow drags on"
+    excerpt: "For the first time in months there were small signs of a functioning government Wednesday as congressional leaders negotiated a Covid-19 relief package and millions of vaccine doses were shipped out under the watchful eye of officials with Operation Warp Speed while carrying out contingency planning for delays due to the winter storm."
+    publishedDateTime: 2020-12-17T00:56:00Z
+    webUrl: "https://www.cnn.com/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 144
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216164205-us-capitol-snow-1216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "George W. Bush sends holiday card with pointed message as Trump denies election loss"
+    excerpt: "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss."
+    publishedDateTime: 2020-12-16T23:44:00Z
+    webUrl: "https://www.cnn.com/2020/12/16/politics/bush-christmas-card-trump/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 143
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200602180649-george-bush-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump meets with state attorneys general after joining Supreme Court election challenge"
+    excerpt: "Meanwhile, Biden named his choices for several top administration spots, including Susan Rice as domestic policy adviser and Denis McDonough as VA secretary."
+    publishedDateTime: 2020-12-10T20:06:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/trump-meet-state-attorneys-general-after-joining-supreme-court-election-n1250678"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250678"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250678"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434870/201210-donald-trump-al-1504_8f03395f3d085e9d1250fa8d29e9defd.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "Federal Judge in Wisconsin Deals Trump Another Court Defeat"
+    excerpt: "A Trump appointee in Milwaukee, Judge Brett H. Ludwig, dismissed a suit contesting the election with a withering rebuke."
+    publishedDateTime: 2020-12-12T22:10:00Z
+    webUrl: "https://www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/12/us/12trump-wisconsin/merlin_179552091_dbf4228e-570d-4d46-897e-ad283b8fb58c-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump vows to veto defense bill that Congress sent him"
+    excerpt: "President Donald Trump said Thursday that he plans to follow through on his threat to veto the annual defense policy bill that passed with veto-proof majorities in the House and the Senate last week."
+    publishedDateTime: 2020-12-17T16:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/trump-vows-veto-defense-bill-congress-sent-him-n1251570"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251570"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251570"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_51/3436447/201217-donald-trump-jm-1056_6b8dd9a08c701d22da204e13e60e8e86.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Transition Highlights: After Trump Meeting, Michigan Lawmakers Maintain They Will Follow the Law"
-    excerpt: "Two Republicans who attended the meeting vowed not to interfere with the certification process in their state. In Georgia, the state certified President-elect Joe Biden’s victory in the state. Mr. Biden met with Speaker Nancy Pelosi and Senator Chuck Schumer."
-    publishedDateTime: 2020-11-23T16:13:00Z
-    webUrl: "https://www.nytimes.com/live/2020/11/20/us/joe-biden-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/11/20/us/joe-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/20/us/joe-biden-trump.amp.html"
+  - title: "Trump flays former allies, calls to ‘fight on’ after Supreme Court defeat"
+    excerpt: "Trump aired a lengthy list of his ongoing grievances with the high court’s decision that dismissed a longshot challenge by the attorney general of Texas."
+    publishedDateTime: 2020-12-12T15:18:00Z
+    webUrl: "https://www.politico.com/news/2020/12/12/trump-supreme-court-election-lawsuit-twitter-444687"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/12/trump-supreme-court-election-lawsuit-twitter-444687"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/12/trump-supreme-court-election-lawsuit-twitter-444687"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 122
+      name: Politico
+      domain: politico.com
+    quality: 134
     images:
-      - url: "https://static01.nyt.com/images/2020/11/20/us/politics/20transition-briefing-meeting-whatweknow/merlin_180252009_22114c2b-02cd-4ef7-8533-8897833662f8-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Transition Live Updates: After Trump Meeting, Michigan Lawmakers Maintain They Will Follow the Law"
-    excerpt: "The president invited a delegation of Michigan Republicans to the White House on Friday. In Georgia, the state certified President-elect Joe Biden’s victory in the state. Mr. Biden announced more staff appointments and met with Speaker Nancy Pelosi and Senator Chuck Schumer."
-    publishedDateTime: 2020-11-21T00:37:00Z
-    webUrl: "https://www.nytimes.com/live/2020/11/20/us/joe-biden-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/11/20/us/joe-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/20/us/joe-biden-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 121
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/20/us/politics/20transition-briefing-meeting-whatweknow/merlin_180252009_22114c2b-02cd-4ef7-8533-8897833662f8-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/74/3a/870f9bc746178bbdbd488f78d586/201212-trump-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "ta9v0QfrBW3wU6820oR6ohJqqN8ZzRzFHWVTlfMYEYotZnmAyWqXLjfwALbQycxGp6X4l3YLlJnS47x7LByBdLlqGEGT0VSCF+2B2OZgtl681hvaLnGsivXFm6NPBUnzJAlMIvR9tHxPIspOOnci0dSOh07UOqCYpl63swS1tBwhMGvkiAiDxr4LJ2SAVrWTStwPu6a+qVuU9+Sai2bdrOm7bb6uocex67nKQ51ODbVRJ4QH0/zKMIi7V24pMHUfBt45qt3sMWmTQtDM3srM40luC1aUdNj9TenfaPRW28xZ8SRafyXzki0EfHLEADXXkQ05DoLUSI0prRKoUxjg8zhC1io/yPu4QddIbEkTvliipUCrIUdocNSXBUHIV+2IVut6O3fDrn60gC6Kyi2dUzIGcFJLnHWdDhyjy+ah9Sb3PWbtd+4vYXsOVVqrcX+PT4V60Nb2l19y0TXfKdSfBebgy8UFVxGwM4deuN1XVTp37jd13EAghpjfGJKhZEo0CnHp8WmEfyM47q3fwoYZdg==;tdEpYN2cDbbMCoZMSB1hXg=="

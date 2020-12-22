@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trudeau's digital tax flexes Canada's muscles with Trump on the way out"
-    excerpt: "\"The idea that Canada would go ahead with an early tax probably would have invited a tariff by Trump,\" says one observer."
-    publishedDateTime: 2020-12-14T15:00:00Z
-    webUrl: "https://www.politico.com/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999"
+  - title: "Trump campaign told to preserve all documents related to Sidney Powell and Dominion Voting Systems "
+    excerpt: "President Donald Trump's campaign legal team sent a memo to dozens of staffers Saturday instructing them to preserve all documents related to Dominion Voting Systems and Sidney Powell in anticipation of potential litigation by the company against the pro-Trump attorney.\n    \n"
+    publishedDateTime: 2020-12-19T19:44:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0UXIek4FBSs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-campaign-sidney-powell-dominion-voting-systems/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-campaign-sidney-powell-dominion-voting-systems/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 161
     images:
-      - url: "https://static.politico.com/ca/23/b637de3048f799b2373d53bea68e/ap20275647298968-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "7kqXkwL8iTB8YCxqH+J1KwBxRlwtkbtuAf4whuAjHNv3o6cAAO4yLDsW5N399KqNPkv7c//mbEgd55v7llwDorTPExAjL0/Q+nQBKd52M1z4Ru3LSTZmPrBcAZR6SuXmxiiUaYb/WdnCMu33r19HRMkgXDX6WeZt2ZIjt7tG8x0jmXF7hfL1yBeZIkBmAYOex92NsnxUWfxWkTEAA4PhVYnexyI+mXj04t46zKhCSIlJYC7Vk7hp5xUEoh4KMfzY5LH5kXmrnrISxvrMbMjlGEVdAQoYZyMs9WAwYoY8b3iybuovQ56BMJg7wzBPsTr/qRLMDBB7ZMAprjYiDncAbLPYaBd0zlNKWbuy803JKM4=;8YjmAqGs1twkkKkQGoU5qA=="

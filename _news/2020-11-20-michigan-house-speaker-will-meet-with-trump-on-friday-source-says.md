@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Michigan congressman leaving GOP over Trump's attempt to overturn election"
-    excerpt: "Paul Mitchell of Michigan said Monday that he is leaving the Republican Party and becoming an independent because Republicans have not stood up to President Donald Trump's attempts to overturn the election."
-    publishedDateTime: 2020-12-16T05:48:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/michigan-congressman-quitting-gop-over-trump-s-attempt-overturn-election-n1251186"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251186"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251186"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 148
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3435688/201214-rep-paul-mitchell-ew-454p_a0d83b05498ead436e6fa99ef5fc1f81.jpg"
-        width: 2500
-        height: 1703
-        isCached: true
   - title: "Obama: Trump's fraud claims delegitimizing democracy"
     excerpt: "CNN's Wolf Blitzer speaks with Cindy McCain, widow of late Sen. John McCain, about President Donald Trump's refusal to concede to President-elect Joe Biden."
     publishedDateTime: 2020-11-13T00:39:00Z

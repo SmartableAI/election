@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Joe Biden picks Pete Buttigieg to be transportation secretary"
+    excerpt: "President-elect Joe Biden will nominate Pete Buttigieg to be his transportation secretary, sources familiar with the matter tell CNN, elevating the former South Bend, Indiana, mayor and 2020 Democratic presidential candidate to a top post in the federal government.\n    \n"
+    publishedDateTime: 2020-12-15T20:20:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GPanXIsLRr0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/pete-buttigieg-transportation-secretary/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/pete-buttigieg-transportation-secretary/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200205110445-bt101-pete-buttigieg-020520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to name Gina McCarthy to top domestic climate job"
     excerpt: "President-elect Joe Biden will name Gina McCarthy as his White House climate czar, a source familiar with the decision tells CNN, making the former head of the Environmental Protection Agency his top domestic climate coordinator.\n    \n"
     publishedDateTime: 2020-12-16T01:17:37Z
@@ -60,38 +76,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/161202160232-gina-mccarthy-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Tension rises between Pentagon and Biden transition team over meetings"
-    excerpt: "President-elect Joe Biden's transition team said Friday that they did not agree to a two-week break in critical transfer-of-power discussions with Pentagon officials, despite an assertion from the acting Defense Secretary that both sides had agreed to take such a \"holiday pause.\"\n    \n"
-    publishedDateTime: 2020-12-18T20:43:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vf2Viwt8QFo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/pentagon-dod-transition-briefings/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/pentagon-dod-transition-briefings/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215172845-02-pentagon-building-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Immigrant advocates urge Biden to quickly rectify the trauma of family separation"
-    excerpt: "Immigrant advocacy groups, who for years scrambled to identify and reunite families separated at the US-Mexico border, are now preparing for the incoming administration and steps to rectify the trauma experienced by parents and children.\n    \n"
-    publishedDateTime: 2020-12-16T10:11:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IvgW82qAtWU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/immigration-family-separation-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/immigration-family-separation-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215062439-02-joe-biden-1214-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden poised to nominate Connecticut education chief Miguel Cardona as education secretary"
+    excerpt: "President-elect Joe Biden is poised to nominate Connecticut education commissioner Miguel Cardona as his education secretary, two people familiar with the matter say, a decision that could be one of the final Cabinet selections before Christmas.\n    \n"
+    publishedDateTime: 2020-12-22T02:16:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EssK7FF7BTI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/miguel-cardona-education-secretary/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/miguel-cardona-education-secretary/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221193203-miguel-cardona-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's economic plan is bold. Is it possible?"
     excerpt: "Elect Joe Biden has sketched out a bold economic agenda, but his ability to enact it could be determined by the upcoming races for control of the Senate."
     publishedDateTime: 2020-12-11T14:02:00Z
@@ -126,6 +126,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201206234438-joe-biden-1204-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "What Books Should Biden Read? We Asked 22 Writers"
+    excerpt: "George Will, Min Jin Lee, David Frum, Van Jones and others offer their recommendations to the president-elect."
+    publishedDateTime: 2020-12-20T10:06:00Z
+    webUrl: "https://www.nytimes.com/2020/12/20/books/joe-biden-book-recommendations.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/20/books/joe-biden-book-recommendations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/20/books/joe-biden-book-recommendations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/20/books/20BIDENBOOKS/20BIDENBOOKS-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Progressive Groups Urge Biden to Move Quickly on Diverse Slate of Judges"
     excerpt: "The president-elect faces pressure to install a diverse group of progressives in the courts, but the prospect of a Republican-controlled Senate looms as an obstacle."

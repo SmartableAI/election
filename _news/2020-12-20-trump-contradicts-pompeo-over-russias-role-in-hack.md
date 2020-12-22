@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ex-DHS adviser under Trump calls for urgent action to address suspected Russian cyberattack"
+    excerpt: "President Donald Trump's former homeland security adviser described the massive data breach of multiple US federal agencies, which US officials suspect is the work of Russian-linked hackers, in urgent terms Wednesday night, calling for immediate and decisive action by the President.\n    \n"
+    publishedDateTime: 2020-12-17T14:58:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dP0p92E0wec/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/tom-bossert-trump-us-agencies-hack-russia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/tom-bossert-trump-us-agencies-hack-russia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180410111157-03-tom-bossert-2017-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump downplays cyberattack on federal agencies"
     excerpt: "There's a rare split between President Trump and his loyal secretary of state on Russian involvement in a massive hack. While Mike Pompeo blamed Russia for the cyberattack, the president dismissed Kremlin responsibility on Twitter."
     publishedDateTime: 2020-12-20T00:41:00Z

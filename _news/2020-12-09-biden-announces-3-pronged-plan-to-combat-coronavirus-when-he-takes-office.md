@@ -352,6 +352,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Joe Biden Receives Covid-19 Vaccine in Public to Reassure Its Safety"
+    excerpt: "The president-elect received the Covid-19 vaccine Monday in a televised appearance from a Delaware hospital in which he encouraged the public to get vaccinated."
+    publishedDateTime: 2020-12-22T02:40:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-276349/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden urges Americans to sit out inauguration to stop spread of coronavirus"
     excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the festivities will be heavily pared down and urged supporters not to come to the White House to prevent the spread of COVID-19."
     publishedDateTime: 2020-12-15T22:25:00Z

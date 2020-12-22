@@ -64,22 +64,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Trump flays former allies, calls to ‘fight on’ after Supreme Court defeat"
-    excerpt: "Trump aired a lengthy list of his ongoing grievances with the high court’s decision that dismissed a longshot challenge by the attorney general of Texas."
-    publishedDateTime: 2020-12-12T15:18:00Z
-    webUrl: "https://www.politico.com/news/2020/12/12/trump-supreme-court-election-lawsuit-twitter-444687"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/12/trump-supreme-court-election-lawsuit-twitter-444687"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/12/trump-supreme-court-election-lawsuit-twitter-444687"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 134
-    images:
-      - url: "https://static.politico.com/74/3a/870f9bc746178bbdbd488f78d586/201212-trump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "CcCZHxo1Hxb3lWgOWJA1tAkD29M/RVW7z0x6lSleKUNlHpivG6M/QIWMu0nZnszVTCNiqVILKLrPlCkroeAFDaTqaVqXiUKaFMOhlEaOEmqQk+1MhKy4MzyWO9t4HS0T0zLQVi1wbe0B8fz56YvJUlqo4U5kvpAOJDnxt3BiOrchBx3W28n7LJsX5N8SfBiHEmR6LrDoPxFnxyv3O4qrzl5n6MIYwbf6mfdOo0W2nx4mxfYAv0Uby27nEnIMmtdG8glH9Wn7uz2KGtk13d3g6MD5jhHOoF0s+S+z8WOgjH/0VLFYQD+Hql/cVhazIC5I/n5weChu5MzGN9zQYaM50/76e09TRbFSpGIDKXf19UQ=;ldmKM2wZerTnghFURZ3SuQ=="
 ---

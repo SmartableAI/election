@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-republicans-georg
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
 type: article
 quality: 135
-heat: -1
-published: false
+heat: 155
+published: true
 
 provider:
   name: Politico
@@ -32,117 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "George W. Bush sends holiday card with pointed message as Trump denies election loss"
-    excerpt: "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss.\n    \n"
-    publishedDateTime: 2020-12-16T23:44:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XUU1iQQ1IGE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 183
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200602180649-george-bush-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Pentagon adds more Trump loyalists to Defense Policy Board"
-    excerpt: "The Pentagon has added more supporters of President Donald Trump to the Defense Policy Board following the removal of several high-profile members last month.\n    \n"
-    publishedDateTime: 2020-12-14T19:19:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6nO_D_TFpio/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/pentagon-defense-policy-board/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/pentagon-defense-policy-board/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "George W. Bush sends holiday card with pointed message as Trump denies election loss"
-    excerpt: "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss."
-    publishedDateTime: 2020-12-16T23:44:00Z
-    webUrl: "https://www.cnn.com/2020/12/16/politics/bush-christmas-card-trump/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 143
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200602180649-george-bush-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump tells allies he will run in 2024, but hints he may back out"
-    excerpt: "In calls to allies, Trump has been asking how to navigate the next two years and floated a possible trip to the Middle East."
-    publishedDateTime: 2020-12-14T09:37:00Z
-    webUrl: "https://www.politico.com/news/2020/12/14/trump-2024-possible-run-444460"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-2024-possible-run-444460"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-2024-possible-run-444460"
+  - title: "Gingrich among Trump loyalists named to Pentagon advisory board"
+    excerpt: "Chief among the new board appointees is former House Speaker Newt Gingrich, an ally of President Donald Trump. | Paul Morigi/ for Dentons The Pentagon named eight new members to the Defense Policy Board on Monday,"
+    publishedDateTime: 2020-12-14T18:58:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/newt-gingrich-pentagon-advisory-board-445185"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 135
+    quality: 115
     images:
-      - url: "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg"
+      - url: "https://static.politico.com/85/3f/ee01a5bd4597a648457f363a970e/201214-newt-gingrich-gty-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "As Trump Leaves the White House, His Imprint on the Judiciary Deepens"
-    excerpt: "Published opinions from the nation’s appeals courts this year show that Trump appointees stand out from other judges, even those named by other Republican presidents."
-    publishedDateTime: 2020-12-17T08:00:00Z
-    webUrl: "https://www.nytimes.com/2020/12/17/us/politics/trump-judges-appeals-courts.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/17/us/politics/trump-judges-appeals-courts.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/17/us/politics/trump-judges-appeals-courts.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/16/multimedia/00trumpjudges/00trumpjudges-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Congress braces for painful veto clash with Trump on defense bill"
-    excerpt: "Congressional leaders are scrambling to avoid an unusual scenario in which lawmakers are summoned back to Washington in the days between Christmas and New Year’s for a dramatic, eleventh-hour vote to overturn Trump's promised veto of a massive national defense bill."
-    publishedDateTime: 2020-12-17T21:20:00Z
-    webUrl: "https://www.politico.com/news/2020/12/17/congress-trump-defense-bill-veto-447900"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/congress-trump-defense-bill-veto-447900"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/congress-trump-defense-bill-veto-447900"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/de/3e/2ecd7d6241fe83c9e3f29ee1aade/gettyimages-1223644845.jpg"
-        width: 4000
-        height: 2665
-        isCached: true
-  - title: "Inside the Right-Wing Media Bubble, Where the Myth of a Trump Win Lives On"
-    excerpt: "The Electoral College has affirmed Biden’s victory. That doesn’t mean that Trump-friendly news outlets have accepted it."
-    publishedDateTime: 2020-12-15T10:00:00Z
-    webUrl: "https://www.nytimes.com/2020/12/15/us/politics/trump-media.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/15/us/politics/trump-media.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/15/us/politics/trump-media.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/15/us/politics/15trumpmedia1/15trumpmedia1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
 
 secured: "rQb6nlUBARWWQDJiOJGs4bVtu4F6zhkNz8WVb4YIfoT9A5eMx7Snn6nHYtcdFqTMboMrqfSv1wSo1djAiTvtNKXGZsMryqG74lvyj9wrCOenLIrETbJ9hvqSNPShKDZOrCI45Iz5YSSS3KvFXp+aFArs9ibhh5apKnrXiA4dtJFWOh+kaqn2SM8jpvEJ/rCuDQV5QGtUMxMNvQe6+NuJDPv6hjeX7S28LM6gbO/cREXe6LNz5OVR+YrCC+6GoUR5NKasBvZXAdw/Ti25UjB2T4hy1Jv+vMLAfUvUddHtGzsQXpefHjHszqMMG2zwgh4tJQDKXsJMPnWZ+7v/aE0jY7iIw/QxSOaQex7IJKCap0A=;Vbg9xsEVTpDq22TE3kyJ1g=="

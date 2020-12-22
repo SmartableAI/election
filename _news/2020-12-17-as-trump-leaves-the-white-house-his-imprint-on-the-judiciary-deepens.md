@@ -32,115 +32,99 @@ images:
     isCached: true
 
 related:
-  - title: "George W. Bush sends holiday card with pointed message as Trump denies election loss"
-    excerpt: "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss.\n    \n"
-    publishedDateTime: 2020-12-16T23:44:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XUU1iQQ1IGE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 183
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200602180649-george-bush-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Pentagon adds more Trump loyalists to Defense Policy Board"
-    excerpt: "The Pentagon has added more supporters of President Donald Trump to the Defense Policy Board following the removal of several high-profile members last month.\n    \n"
-    publishedDateTime: 2020-12-14T19:19:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6nO_D_TFpio/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/pentagon-defense-policy-board/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/pentagon-defense-policy-board/index.html"
+  - title: "Trump raised firing Barr in White House meeting on Friday"
+    excerpt: "President Donald Trump raised the prospect of firing Attorney General William Barr in a meeting on Friday, but it's unclear whether he'll choose to dismiss Barr before the end of his term next month.\n    \n"
+    publishedDateTime: 2020-12-12T18:51:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RWn4TI3IsjY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/william-barr-donald-trump-white-house-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/william-barr-donald-trump-white-house-meeting/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211141734-trump-1207-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "George W. Bush sends holiday card with pointed message as Trump denies election loss"
-    excerpt: "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss."
-    publishedDateTime: 2020-12-16T23:44:00Z
-    webUrl: "https://www.cnn.com/2020/12/16/politics/bush-christmas-card-trump/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
+  - title: "Jeffrey Rosen steps into the spotlight as he replaces Barr for Trump's last month"
+    excerpt: "Jeffrey Rosen, set to take over as acting attorney general next week, is an unknown quantity in Trump White House politics, even after serving for more than a year as No. 2 to Attorney General William Barr, the especially vocal and controversial public face of the Justice Department.\n    \n"
+    publishedDateTime: 2020-12-15T20:22:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VQGnbf_OTx8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/jeffrey-rosen-deputy-attorney-general/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/jeffrey-rosen-deputy-attorney-general/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 143
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200602180649-george-bush-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214222753-jeffrey-rosen-0922-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump tells allies he will run in 2024, but hints he may back out"
-    excerpt: "In calls to allies, Trump has been asking how to navigate the next two years and floated a possible trip to the Middle East."
-    publishedDateTime: 2020-12-14T09:37:00Z
-    webUrl: "https://www.politico.com/news/2020/12/14/trump-2024-possible-run-444460"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-2024-possible-run-444460"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-2024-possible-run-444460"
+  - title: "Heated Oval Office meeting included talk of special counsel, martial law as Trump advisers clash "
+    excerpt: "President Donald Trump convened a heated meeting in the Oval Office on Friday, including lawyer Sidney Powell and her client, former national security adviser Michael Flynn, two people familiar with the matter said, describing a session that began as an impromptu gathering but devolved and eventually"
+    publishedDateTime: 2020-12-19T23:55:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g5v2cjoT5uk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-oval-office-meeting-special-counsel-martial-law/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-oval-office-meeting-special-counsel-martial-law/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 162
     images:
-      - url: "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211141734-trump-1207-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Trump antagonizes Republicans with Georgia fundraising ploy"
-    excerpt: "Emails and texts raising cash for Trump's PAC have rankled Republicans, who want cash to flow directly to Georgia's endangered GOP senators."
-    publishedDateTime: 2020-12-15T01:25:00Z
-    webUrl: "https://www.politico.com/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/da/1f/59b5d43848958d4f1d12f634434c/gettyimages-1230110704-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Congress braces for painful veto clash with Trump on defense bill"
-    excerpt: "Congressional leaders are scrambling to avoid an unusual scenario in which lawmakers are summoned back to Washington in the days between Christmas and New Year’s for a dramatic, eleventh-hour vote to overturn Trump's promised veto of a massive national defense bill."
-    publishedDateTime: 2020-12-17T21:20:00Z
-    webUrl: "https://www.politico.com/news/2020/12/17/congress-trump-defense-bill-veto-447900"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/congress-trump-defense-bill-veto-447900"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/congress-trump-defense-bill-veto-447900"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/de/3e/2ecd7d6241fe83c9e3f29ee1aade/gettyimages-1223644845.jpg"
-        width: 4000
-        height: 2665
-        isCached: true
-  - title: "Inside the Right-Wing Media Bubble, Where the Myth of a Trump Win Lives On"
-    excerpt: "The Electoral College has affirmed Biden’s victory. That doesn’t mean that Trump-friendly news outlets have accepted it."
-    publishedDateTime: 2020-12-15T10:00:00Z
-    webUrl: "https://www.nytimes.com/2020/12/15/us/politics/trump-media.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/15/us/politics/trump-media.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/15/us/politics/trump-media.amp.html"
+  - title: "Trump Weighed Naming Election Conspiracy Theorist as Special Counsel"
+    excerpt: "In a meeting at the White House on Friday, President Trump weighed appointing Sidney Powell, who promoted conspiracy theories about rigged voting machines, to investigate voter fraud."
+    publishedDateTime: 2020-12-20T04:29:00Z
+    webUrl: "https://www.nytimes.com/2020/12/19/us/politics/trump-sidney-powell-voter-fraud.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/19/us/politics/trump-sidney-powell-voter-fraud.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/19/us/politics/trump-sidney-powell-voter-fraud.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 133
+    quality: 150
     images:
-      - url: "https://static01.nyt.com/images/2020/12/15/us/politics/15trumpmedia1/15trumpmedia1-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/19/us/politics/19dc-counsel/19dc-counsel-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump's drug cards clear key hurdle following pressure from White House"
+    excerpt: "A key panel blessed the president's promised drug-discount cards, surprising even some officials who worked on the plan."
+    publishedDateTime: 2020-12-15T03:21:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/trump-medicare-drug-cards-445394"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-medicare-drug-cards-445394"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-medicare-drug-cards-445394"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/37/30/430be0e84797af6567fe75744e6a/ap20325734874531-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Bill Trump Is Vowing to Veto Strengthens Hacking Defenses, Lawmakers Say"
+    excerpt: "Additional powers to actively hunt down hackers across federal agencies could have given the government more of a chance to detect the recent Russia hack more quickly, they said."
+    publishedDateTime: 2020-12-18T10:05:00Z
+    webUrl: "https://www.nytimes.com/2020/12/18/us/politics/cyber-defenses-bill-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/18/us/politics/cyber-defenses-bill-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/18/us/politics/cyber-defenses-bill-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/18/us/politics/18dc-cyber/18dc-cyber-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

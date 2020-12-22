@@ -32,85 +32,69 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: Trump made big in-roads in Hispanic areas across the nation"
-    excerpt: "One of the most notable early results on Election Night came from Florida's heavily Hispanic Miami-Dade county. President Donald Trump lost it to President-elect Joe Biden by just 7 points, after losing it by 29 points in 2016.\n    \n"
-    publishedDateTime: 2020-12-12T18:21:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e5qulWYsv4c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/trump-hispanic-vote/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/trump-hispanic-vote/index.html"
+  - title: "'It's turned crazy': Inside the scramble for Trump pardons"
+    excerpt: "President Donald Trump may not be willing to accept his term is ending, but as the clock ticks down on his time in office, hundreds of his allies -- including some of his closest business associates and many high-profile criminals -- are ramping up their efforts to squeeze out the final ounces of his"
+    publishedDateTime: 2020-12-16T19:55:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ndOK92FyRNA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/donald-trump-pardons-lame-duck/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/donald-trump-pardons-lame-duck/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012171114-cuba-hispanic-vote-trump-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214233417-trump-intento-biden-conclu-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact-checking Trump's claims of voting machine errors in Michigan"
-    excerpt: "The Electoral College officially confirmed President-elect Joe Biden's win Monday, yet President Donald Trump has continued to insist the results are fraudulent.\n    \n"
-    publishedDateTime: 2020-12-16T20:09:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKtWXdI5KD4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/antrim-county-michigan-error-trump-tweets-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/antrim-county-michigan-error-trump-tweets-fact-check/index.html"
+  - title: "Obamacare sign ups increase for first time under Trump"
+    excerpt: "More people signed up for Obamacare coverage on the federal exchange during open enrollment this year -- the only increase under the Trump administration, which has long sought to eradicate the landmark health reform law.\n    \n"
+    publishedDateTime: 2020-12-19T01:13:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tnS5R74JvuA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/obamacare-enrollment-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/obamacare-enrollment-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014133801-01-voting-machines-1014-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016161329-obamacare-sign-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: How voters rank Trump a historically bad president"
-    excerpt: "Poll of the week: A new Fox News poll finds that 42% of voters say history will remember President Donald Trump as one of the worst presidents ever.\n    \n"
-    publishedDateTime: 2020-12-20T17:42:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v8BuB2XBAaw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/20/politics/trump-presidency-history-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/20/politics/trump-presidency-history-analysis/index.html"
+  - title: "What’s Next for Trump Voters Who Believe the Election Was Stolen?"
+    excerpt: "Some are certain the election was fraudulent. Others aren’t so sure. What becomes of their skepticism has important implications for American democracy."
+    publishedDateTime: 2020-12-14T10:00:00Z
+    webUrl: "https://www.nytimes.com/2020/12/14/us/trump-voters-stolen-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/14/us/trump-voters-stolen-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/14/us/trump-voters-stolen-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/13/us/TRUMPVOTERS-1/TRUMPVOTERS-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump administration says it will withhold $200 million in California Medicaid funding over abortion insurance requirement"
+    excerpt: "The Trump administration announced two measures on Wednesday seeking to restrict abortion access, including withholding hundreds of millions in federal funding from California, one in a series of parting shots from an outgoing administration that has repeatedly sought to limit the procedure on religious"
+    publishedDateTime: 2020-12-17T05:12:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UQS8y_S0TXQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/trump-administration-abortion-medicaid-california/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/trump-administration-abortion-medicaid-california/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 149
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209084134-alex-azar-hhs-vaccine-distribution-newday-camerota-vpx-00000412-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Never-Trump movement splinters as its villain heads for the exit"
-    excerpt: "The defeat of Donald Trump might have been the easy part for never-Trump Republicans. Next up: taking on the more elusive target of Trumpism with their boogeyman gone from office. More than a dozen leaders of the never-Trump movement said in interviews that they see their work as far from over once Joe Biden is sworn in on Jan."
-    publishedDateTime: 2020-12-17T09:30:00Z
-    webUrl: "https://www.politico.com/news/2020/12/17/never-trump-what-next-447235"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/never-trump-what-next-447235"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/never-trump-what-next-447235"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/26/e0/b307118d44dfb9124b1b33c25bee/1216wh.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump vows to veto defense bill that Congress sent him"
-    excerpt: "President Donald Trump said Thursday that he plans to follow through on his threat to veto the annual defense policy bill that passed with veto-proof majorities in the House and the Senate last week."
-    publishedDateTime: 2020-12-17T16:39:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/trump-vows-veto-defense-bill-congress-sent-him-n1251570"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251570"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251570"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_51/3436447/201217-donald-trump-jm-1056_6b8dd9a08c701d22da204e13e60e8e86.jpg"
-        width: 2500
-        height: 1667
         isCached: true
 
 secured: "9GtoJft6gCHoOG8X6zT04n599noklPFto1W9SevISH0kBT2OIpS3Ny40GxeMpUVB6W5lskg4zsPz0Kf/AIH538nN6RiureFHnWZTFeCVbcdhdQcSQfftNZnSfGxr2icneYPqltKwSOK2wZioxXRKf21O0LsgHG8aD1xhP9+cHtAYHFM+wigF/Hl3/nbUU0xJBydXkW1A107npahmFcwEcluJaQzs0QVCZCpYzlMprhzLITW96uEQKPreyUuiSyGJy0rCYmYHgtaDkDTfv32sWh4U5SuHoqYojPqqnZWJeYGWQ3aXSAPNkPgJifIfXWlbmwvpgbYMqOiKTweBRyVPKPK9FJqes4V8gECnGGRgP7acGDLtPWFhnaMgGlaZj0ebZsm9TWPUxurQex74gCEokDAvACYVRW02CY4a0yqHfm+mhE3y4wMOuH1HrkguUFtzNWiFV+ccOzs4lTt2sNLkZorsQZDd2z45LDR+cRX9dQRy5IIcX9GD+3nLnsw5nHVzX9mCB6g9chc+JFYdOjIt+g==;58bEaEHqgZkh2ByrirAgUA=="

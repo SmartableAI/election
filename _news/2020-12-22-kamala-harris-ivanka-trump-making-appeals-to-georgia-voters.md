@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Kamala Harris, Ivanka Trump making appeals to Georgia voters"
-excerpt: "Campaigning in Georgia on Monday, Vice President-elect Kamala Harris stressed a need to elect Democratic U.S. Senate candidates who will advance President-elect Joe"
-publishedDateTime: 2020-12-21T21:42:00Z
-originalUrl: "https://apnews.com/article/election-2020-joe-biden-legislature-senate-elections-columbus-96748854a691771eda7aff1969aa1b17"
-webUrl: "https://apnews.com/article/election-2020-joe-biden-legislature-senate-elections-columbus-96748854a691771eda7aff1969aa1b17"
+excerpt: "Monday's appearances were part of a string of pre-runoff visits by high-profile surrogates of the outgoing president and the president-elect."
+publishedDateTime: 2020-12-21T22:09:00Z
+originalUrl: "https://www.bostonglobe.com/2020/12/21/nation/kamala-harris-ivanka-trump-making-appeals-georgia-voters/"
+webUrl: "https://www.bostonglobe.com/2020/12/21/nation/kamala-harris-ivanka-trump-making-appeals-georgia-voters/"
+ampWebUrl: "https://www.bostonglobe.com/2020/12/21/nation/kamala-harris-ivanka-trump-making-appeals-georgia-voters/?outputType=amp"
+cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/12/21/nation/kamala-harris-ivanka-trump-making-appeals-georgia-voters/?outputType=amp"
 type: article
-quality: 120
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Boston Globe
+  domain: bostonglobe.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://storage.googleapis.com/afs-prod/media/690ee703af0545b4aafd209797f9a13d/2000.jpeg"
-    width: 2000
-    height: 1333
-    isCached: true
 
 related:
   - title: "The Latest: Fauci says vaccinate Biden, Harris, Trump, Pence"
@@ -563,6 +559,22 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_a796a6854dcb470c9948dd894c37082a_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Twitter's Dorsey stops following Trump, Biden"
+    excerpt: "Twitter Inc Chief Executive Jack Dorsey appeared to stop following President Donald Trump on the social media platform this weekend, according to a Twitter account that follows the activity of tech leaders."
+    publishedDateTime: 2020-12-21T22:32:00Z
+    webUrl: "https://www.reuters.com/article/us-twitter-dorsey-trump-idUSKBN28V2C6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V2C6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V2C6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545332468&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK1BG"
+        width: 896
+        height: 545
         isCached: true
   - title: "Biden to present new defense chief as Trump clings to failed effort to overturn election result – live"
     excerpt: "Trump calls to ‘overturn’ results as legal attempts to reverse Biden’s victory dwindle, while president-elect will nominate Lloyd Austin to lead US defense"
@@ -2658,6 +2670,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "pRjgYquhm6DOQeKL36y52K7RYcwU6oOHVeXwDJfdg0KShoBvCbgpdWTcw/4xPlxXXrN5iT9pdMMdGRX4pZ0Y8VaaROl4u2FXNfKfYbgr5Siq7RinTlBSq20ikg3jxQ9G8I7Ms3QyHlv70zVlOs6BrK++vXr0MemxQDZD+sHFzSzLU8Qu+f1WYVJNR+5HTe7HGMNJocer1sL7HWle2ymmQFHozudcoe7qOyBmxitUMH813XwQcIM/n+v1sGAXTK/s9ucgNscmlNf/yRHbaIE9f1OAVUzRP8G3jb1DatugwxIpQhHhasQpzY71qXulQpCV03ElmCmtzRtTi26WwR89lAb1nCOppOtQEvJkgzl7gymDKOoVet+6reb6iEyBm80y3Na0bgQLWmaG3mYGfnQ6Bu1IABeq9Zw/A7fwSGv0T1jTmvmjt87qCH2ttyQPPjXKqjQ+UdBRRM84QZQLNsItleoR9Y+ynIBgdsoicHDicKBAtjyMnQKGUFJzJsqrdTvdr9pVRw3vgIb8tISZk8AXZA==;6HoyYEqocDRRcsxPJvZ/Og=="
+secured: "Lmy6Rg10FqA7o2A5THC8v/mVv8xRa2zA9PRJIKnYxgQkrtbVueYiNc44kiUvdhaZG23ZXXyq3/YMavuG1XrpM6LPd+A3QYMQfLwoFIbr+FVQPDfy3fBX9U27fIapWkugAyAV2ohcvLx1kgYKMnJUkGQQv5WOfz+VhlUIHKZIZdI03lWbabFHhiVoSpl/J9Px7QcCoIpNIIgSsX7mmhPjvIuSu+HUDco3WOG3WnyO2T66/c4jSeUwOP63zgRuJSDosAHdnYyE4L6i7a3jdb9yHRCmm2C/Fls4SgvWHKTyT48+IYJysk7WTqf4ZyxWX04mExibZ4bA3EoGNZ3jqCxFDuwSnhdqaclG5zUBxafigrCDMGL94n7WjJfyqmoAKP+9Wo1FNjkGDzVTc6p92nuJRNe7elwxLSKfdMv4v7F5swl5kSzX3/nwupV7gZzldG7JLK7Ndb3I3zRJik78yxA2O7EhIyGtILTA465jzeiL2v4ZF8qVmVHFmGo0wFmec5Wm5cNMMKIhn8eaKfghQ7waBg==;vpYyO9C9GXjgsrlFk0/H5w=="
 ---
 

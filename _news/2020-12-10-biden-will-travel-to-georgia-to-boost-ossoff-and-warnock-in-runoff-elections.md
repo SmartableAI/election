@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Twitter updates warning label for election misinformation to say Joe Biden won"
+    excerpt: "Twitter has updated the warning labels it applies to election misinformation to reflect that Joe Biden is the president-elect, the company said on Saturday."
+    publishedDateTime: 2020-12-19T15:29:00Z
+    webUrl: "https://www.cnn.com/2020/12/19/tech/twitter-election-warning-label/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/tech/twitter-election-warning-label/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/tech/twitter-election-warning-label/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 146
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200722105415-twitter-app-phone-stock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Vote like your lives depend on it': Biden makes urgent plea in Georgia Senate races"
     excerpt: "During the Atlanta rally, Biden put the race in national terms, and said his administration's agenda is on the line."
     publishedDateTime: 2020-12-15T22:16:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/hispanics-congress-biden
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/hispanics-congress-biden-michelle-lujan-grisham-hhs/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "House chairman endorses Flournoy to be Biden's Secretary of Defense nominee "
+    excerpt: "The Democratic chairman of the House Armed Services Committee, Rep. Adam Smith, is backing Michele Flournoy to be President-elect Joe Biden's pick for Defense Secretary, saying Monday she is \"hands down\" the most qualified person for the job.\n    \n"
+    publishedDateTime: 2020-12-07T21:52:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IZKXq6xUSRU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/adam-smith-endorses-flournoy-biden-secretary-of-defense/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/adam-smith-endorses-flournoy-biden-secretary-of-defense/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161107105730-michele-flournoy-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Becerra among new candidates for Biden’s health secretary"
     excerpt: "President-elect Joe Biden is eyeing three new candidates for health secretary after previous front-runners fell out of contention for the job this week, according to people familiar with the discussions."
     publishedDateTime: 2020-12-04T23:24:00Z

@@ -337,6 +337,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Joe Biden Receives Covid-19 Vaccine in Public to Reassure Its Safety"
+    excerpt: "The president-elect received the Covid-19 vaccine Monday in a televised appearance from a Delaware hospital in which he encouraged the public to get vaccinated."
+    publishedDateTime: 2020-12-22T02:40:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-276349/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden announces 3-pronged plan to combat coronavirus when he takes office"
     excerpt: "Masks, vaccinations, opening schools President-elect Joe Biden on Tuesday announced a three-part plan to combat the coronavirus pandemic in the first 100 days of his administration. Biden, speaking in his hometown of Wilmington,"
     publishedDateTime: 2020-12-09T10:42:00Z

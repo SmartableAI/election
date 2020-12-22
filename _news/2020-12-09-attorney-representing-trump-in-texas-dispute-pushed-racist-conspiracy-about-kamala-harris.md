@@ -256,6 +256,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Investigation of His Son Is Likely to Hang Over Biden as He Takes Office"
+    excerpt: "Unless the Trump Justice Department clears Hunter Biden, the new president will confront the prospect of his own administration handling an inquiry that could expose his son to criminal prosecution."
+    publishedDateTime: 2020-12-11T01:42:00Z
+    webUrl: "https://www.nytimes.com/2020/12/10/us/politics/hunter-biden-investigation.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/10/us/politics/hunter-biden-investigation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/10/us/politics/hunter-biden-investigation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/10/us/politics/10dc-investigate1/10dc-investigate1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden told civil rights leaders in private meeting that progressives' hopes for executive actions are 'way beyond the bounds' of his presidential authority"
     excerpt: "President-elect Joe Biden expressed skepticism about his powers to implement his agenda by executive action Tuesday in a private virtual meeting with civil rights leaders, according to a recording reported Thursday by The Intercept.\n    \n"
     publishedDateTime: 2020-12-10T20:17:00Z

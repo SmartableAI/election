@@ -48,22 +48,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Watch live: Biden delivers remarks on electoral college vote certification"
-    excerpt: "Watch live coverage as President-elect Joe Biden speaks from Wilmington, De., after the electoral college voted to make his victory in the 2020 election official."
-    publishedDateTime: 2020-12-14T23:51:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-biden-delivers-remarks-on-electoral-college-vote-certification-97710149537"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97710149537"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97710149537"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/biden-cert-2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "CpM1rMCqQ5E4aMkJqXY2+AvWNN/vdShHqA6/7Xgmi1DmMhC4PKTOueBYJxOp+j7HmYFWYRsulTXvNsgVQnQmUT65ARq73QBsf5qy7TdGoxyMz1yQ2yUPnF+eCfwz+Mct6z/bOn3ZmO//htX88qrPK0cY62UWYEB3hN5Ji8zBomyL+8lV0eTj6ZqqUby2ZPB6jpXja3zWK2+lOK+FSyqYO4tCaV+9ZoS2EFo3pVVV54ani5czkoeWuL882EoWECGeZkNvRfoQmZGlaBuax+5AlupeafNZR5Ecjju/TR9ERUy1g1MJxKBiNTyHhbYwzWndbgoXu28I1QTbFbpphAlxQfIGA2nfGRovr842NvueH7T7tFTq94UCj02C9LirkG0V/ZB2xQGvDHxJY5PsK5/AclKmnLzJ1m2a/4Z1Vm2QKhjBZsywXROw22R7T5lz6UNp2k76YX3c/ru7za9kAo7m4on46V+KA3qX9+UmUOiUzwbbSX6h2uvxjwCOSLgYJO58cUbsrakB93jJz5DwuQVm3Q==;L2kNj9Jo0/Jq5B1LP6nD3g=="
 ---

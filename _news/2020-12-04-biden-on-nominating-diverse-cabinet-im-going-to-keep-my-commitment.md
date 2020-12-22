@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-co
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119232738-doug-jones-september-2020-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden goes to bat for Defense secretary nominee Austin"
+    excerpt: "President-elect Joe Biden speaks during an event to announce his choice of retired Army Gen. Lloyd Austin, right, to be secretary of defense, at The Queen theater in Wilmington, Del. | AP Photo/Susan Walsh President-elect Joe Biden addressed concerns Wednesday about nominating a recently retired four-star general to lead the Department of Defense,"
+    publishedDateTime: 2020-12-09T20:16:00Z
+    webUrl: "https://www.politico.com/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/a1/d6/b207abad45c7a9c51fac9e3a3fc4/200826-kellyanne-conway-2-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "kjbdy9FdEDhBnn7oI7BEkFvL7UxsEQ1T0yqQyYU8fmq9KYoTIG7qWmRU6Or+Zm0R7EzgL/zyaj4yWTFZXIZmw47uN1mkjQzcLmTeH3DU/q50B/W0a9pEFbjVhyjSNHO5ARZ2GCiCHnIodMNsqStyCVEmpuUWK8tPAm7xJrJ6EbgCHcsJnskmMErJHQbX2RG9EyBFMv5vanI7Rfu0hWgmvpGdc6xxduoBk54nIsmeyU7X5mIZN1sxxujNbsjg+cV+SiqvBPBURwpiFcyEa+D19xPU28isa68T+HXzZCVFHY8S3OSXWjnMw/emYhuG2isS0ifjptS1simrx6JbGq62EwIoi4X9G7Fa6NJ60JWQ+Tc=;62m/TcMs+ybBjlcg4PwSeA=="

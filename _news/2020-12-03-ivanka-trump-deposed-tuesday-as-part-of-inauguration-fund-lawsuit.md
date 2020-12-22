@@ -48,38 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Duel events will starkly contrast Biden's and Trump's approaches to pandemic"
-    excerpt: "President-elect Joe Biden on Tuesday will introduce the scientists and doctors he says will finally defeat the pandemic -- but for now his team can only watch as a wave of infection and death deepens the crisis he will face after January 20.\n    \n"
-    publishedDateTime: 2020-12-08T11:22:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tMvMpHu27Tw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/trump-biden-vaccine-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/trump-biden-vaccine-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 187
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump pressured Georgia governor in call to help overturn Biden's win in state"
-    excerpt: "President Donald Trump on Saturday called Georgia Gov. Brian Kemp, pushing him to convince state legislators to overturn President-elect Joe Biden's win in the state.\n    \n"
-    publishedDateTime: 2020-12-05T20:02:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kTlNa0VxvoE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/trump-georgia-brian-kemp-phone-call/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/trump-georgia-brian-kemp-phone-call/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 186
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200422123738-trump-kemp-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden on Trump administration distributing vaccine: 'There is no detailed plan' "
     excerpt: "President-elect Joe Biden said Friday that the Trump administration had shared information with his transition team about distributing a vaccine to various states, but Biden said his team had not seen a \"detailed plan.\"\n    \n"
     publishedDateTime: 2020-12-04T20:44:49Z
@@ -125,22 +93,6 @@ related:
     quality: 182
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023015900-trump-kim-biden-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "GOP senators ready to acknowledge Biden won but struggle with Trump's refusal to concede  "
-    excerpt: "A growing number of Senate Republicans are ready to publicly acknowledge what's been widely known for weeks but what they've refused to say: Joe Biden won the presidency and will be sworn in on January 20.\n    \n"
-    publishedDateTime: 2020-12-10T02:32:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GQuPNFqMAoc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/republican-reaction-trump-refusal-to-concede/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/republican-reaction-trump-refusal-to-concede/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 180
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181005192042-republican-senators-1004-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -256,38 +208,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Congressional inaugural committee announces attendance will be limited for Biden's inauguration"
-    excerpt: "The congressional committee tasked with overseeing the presidential inauguration announced Wednesday planned limitations on the number of guests in attendance for President-elect Joe Biden's inauguration next month.\n    \n"
-    publishedDateTime: 2020-12-16T17:59:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/T7yqsiZqKY0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/inauguration-tickets-joe-biden-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/inauguration-tickets-joe-biden-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110115300-capitol-building-inauguration-stage-1109-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Georgia set to reaffirm Biden's victory for 3rd time after recount, dealing major blow to Trump's attempt to overturn the results"
-    excerpt: "Georgia is set to recertify its presidential election results on Monday, which will again find Joe Biden as the winner following three counts of ballots, Secretary of State Brad Raffensperger said.\n    \n"
-    publishedDateTime: 2020-12-07T16:41:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5DJXjs9ySBI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/georgia-recount-recertification-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/georgia-recount-recertification-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201202123706-raffensperger-1130-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump administration pushes 'midnight regulations' after breaking records for final-year rulemaking "
     excerpt: "President Donald Trump's political appointees are finalizing an array of last-minute federal regulations ahead of Joe Biden's inauguration, including rules that would make it harder to enforce environmental protections, tighten immigration, remove penalties for killing birds, and possibly eliminate food"
     publishedDateTime: 2020-12-06T14:14:32Z
@@ -303,38 +223,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203130728-02-trump-1203-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Azar has met with Biden's transition team and says 20 million Americans could be vaccinated in 'the next several weeks'"
-    excerpt: "Health and Human Services Secretary Alex Azar said Wednesday that he has met with President-elect Joe Biden's transition team and pledged a smooth transition, a rare recognition of the coming transfer of power from a top member of President Donald Trump's administration.\n    \n"
-    publishedDateTime: 2020-12-09T16:27:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FMLaZxfE5kU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/alex-azar-coronavirus-vaccine-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/alex-azar-coronavirus-vaccine-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 151
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112183403-alex-azar-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump calls Georgia governor for help to overturn Biden's victory in the state"
-    excerpt: "With no clear pathway to re-election, President Donald Trump called Georgia Gov. Brian Kemp on Saturday in an attempt to pressure him to call a special session of the state Legislature in an effort to overturn President-elect Joe Biden's narrow victory in the state."
-    publishedDateTime: 2020-12-05T23:30:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-calls-georgia-governor-help-overturn-biden-s-victory-state-n1250123"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250123"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250123"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 146
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3415440/200928-donald-trump-mn-0821_d1fac2e4c777a6994293a94f4c45c6d2.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "The latest on Biden's transition"
     excerpt: "President-elect Joe Biden forges ahead with transition plans as President Trump refuses to concede and pursues legal challenges to the election results. Follow here for the latest."
@@ -367,22 +255,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125153328-02-biden-thanksgiving-remarks-1125-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Pentagon denies blocking Biden transition team"
-    excerpt: "Reports found the Pentagon rejected requests from the Biden team to meet with leaders at the National Security Agency and other military spy services."
-    publishedDateTime: 2020-12-05T22:02:00Z
-    webUrl: "https://www.politico.com/news/2020/12/05/pentagon-denies-blocking-biden-transition-443080"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/05/pentagon-denies-blocking-biden-transition-443080"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/05/pentagon-denies-blocking-biden-transition-443080"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/70/1d/911d803844eba8d3b4b91c1375ac/ap20322781084822-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Experts, advocates pressure Biden administration to reunite separated migrant families"
     excerpt: "NBC News’ Julia Ainsley reports on how advocates and mental health experts are urging the Biden administration to commit to reuniting the migrant families separated at the border during the Trump administration."

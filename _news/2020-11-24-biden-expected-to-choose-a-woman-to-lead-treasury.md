@@ -368,22 +368,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Republican congressman urges Trump to accept Biden's win and begin transition process"
-    excerpt: "A Republican congressman implored President Donald Trump to accept President-elect Joe Biden's win on Tuesday, urging him to begin the presidential transition process as the nation grapples with a number of urgent challenges.\n    \n"
-    publishedDateTime: 2020-11-17T19:35:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RTCDyXlNH70/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/paul-mitchell-trump-joe-biden-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/paul-mitchell-trump-joe-biden-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 183
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170816201413-paul-mitchell-eb-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump loyalist connected to Biden conspiracy theories is leading Pentagon transition "
     excerpt: "Kash Patel, a Trump loyalist who was connected to efforts to spread conspiracy theories about Joe Biden, has been put in charge of the Pentagon transition effort and will oversee coordination with the incoming Biden-Harris administration, according to two US defense officials.\n    \n"
     publishedDateTime: 2020-11-24T17:47:46Z
@@ -703,6 +687,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111195736-ron-kain-feb-2020-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden, Harris beat Trump again, this time as Time's 'Person of the Year'"
+    excerpt: "Other contenders were Dr. Anthony Fauci, front-line Covid-19 workers and racial justice movements that led protests over the death of George Floyd."
+    publishedDateTime: 2020-12-11T04:47:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/biden-harris-beat-trump-again-time-time-s-person-year-n1250762"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250762"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250762"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 174
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_33/3404797/200811-joe-biden-kamala-harris-ac-1014p_e00b2642631f6be472883994c8fc6730.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Biden poised to make first Cabinet announcements next week, eager to respond to Trump's sabotage attempts"
     excerpt: "President-elect Joe Biden has expedited the selection of his Cabinet and is planning to make the first of several key announcements next week, an official said, as part of a concerted effort to show that he is moving forward despite President Donald Trump's increasingly brazen attempts to sabotage the"

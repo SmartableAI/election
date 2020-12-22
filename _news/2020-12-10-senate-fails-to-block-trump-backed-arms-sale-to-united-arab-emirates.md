@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-sen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-senate-vote-fail/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump tells allies he will run in 2024, but hints he may back out"
+    excerpt: "In calls to allies, Trump has been asking how to navigate the next two years and floated a possible trip to the Middle East."
+    publishedDateTime: 2020-12-14T09:37:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/trump-2024-possible-run-444460"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-2024-possible-run-444460"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-2024-possible-run-444460"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "After Trump's toilet rant, efficiency standards rolled back on showers, laundry machines"
     excerpt: "Trump has spent much of the past year lamenting the functionality of toilets, showers, dishwashers, sinks, and other appliances and bathroom fixtures."
     publishedDateTime: 2020-12-17T00:06:00Z

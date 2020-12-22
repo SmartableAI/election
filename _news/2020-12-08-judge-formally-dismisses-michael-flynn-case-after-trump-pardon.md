@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/michael-flynn/index.html
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/michael-flynn/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 215
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_flynn_201203_1920x1080.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Trump flays former allies, calls to ‘fight on’ after Supreme Court defeat"
-    excerpt: "Trump aired a lengthy list of his ongoing grievances with the high court’s decision that dismissed a longshot challenge by the attorney general of Texas."
-    publishedDateTime: 2020-12-12T15:18:00Z
-    webUrl: "https://www.politico.com/news/2020/12/12/trump-supreme-court-election-lawsuit-twitter-444687"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/12/trump-supreme-court-election-lawsuit-twitter-444687"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/12/trump-supreme-court-election-lawsuit-twitter-444687"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 134
-    images:
-      - url: "https://static.politico.com/74/3a/870f9bc746178bbdbd488f78d586/201212-trump-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "New Trump admin rules make it easier for lenders to charge small businesses super-high interest rates"
     excerpt: "\"This is my life,\" says Carlos Swepson, owner of a New York bistro with his wife. He's trying to pay off loans with an effective interest rate of 268 percent."

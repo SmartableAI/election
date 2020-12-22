@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
 type: article
 quality: 200
-heat: 760
+heat: 780
 published: true
 
 provider:
@@ -333,6 +333,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-274805/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Joe Biden Receives Covid-19 Vaccine in Public to Reassure Its Safety"
+    excerpt: "The president-elect received the Covid-19 vaccine Monday in a televised appearance from a Delaware hospital in which he encouraged the public to get vaccinated."
+    publishedDateTime: 2020-12-22T02:40:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-276349/social"
         width: 1280
         height: 640
         isCached: true

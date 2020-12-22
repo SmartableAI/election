@@ -48,21 +48,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "GOP senators still won't acknowledge Biden's win as some begin to recognize reality"
-    excerpt: "A bevy of Senate Republicans, after refusing for weeks to acknowledge Joe Biden's victory in the presidential race, still wouldn't do so Monday evening even after the Electoral College made the win official.\n    \n"
-    publishedDateTime: 2020-12-15T01:55:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FXHyRSaoKDE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/republican-senators-biden-electoral-college-reaction/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/republican-senators-biden-electoral-college-reaction/index.html"
+  - title: "Biden picks retired Gen. Lloyd Austin to be his secretary of defense"
+    excerpt: "President-elect Joe Biden has selected retired Army Gen. Lloyd Austin, the former commander of US Central Command, to be his secretary of defense, a source familiar with the decision told CNN on Monday.\n    \n"
+    publishedDateTime: 2020-12-08T00:33:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9EqU31lITSQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/biden-picks-lloyd-austin-as-secretary-of-defense/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/biden-picks-lloyd-austin-as-secretary-of-defense/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170504130713-john-kennedy-louisiana-1210-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/111129080221-biden-and-general-story-top.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "Biden faces Democratic pushback over waiver to allow retired general to lead Pentagon "
     excerpt: "Senate Democrats are uneasy about granting a rarely invoked waiver that would allow President-elect Joe Biden's pick of retired Gen. Lloyd Austin to head the Defense Department, the first nominee to encounter resistance from senators in the incoming President's own party.\n    \n"

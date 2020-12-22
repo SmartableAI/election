@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Congressman cites Trump's efforts to overturn election in announcing decision to quit GOP"
-    excerpt: "In an exclusive interview, Rep. Paul Mitchell, Republican of Michigan, told CNN that his disgust and disappointment with President Donald Trump's efforts to overturn the results of the election have led him to request that the Clerk of the House change his party affiliation to \"independent,\" and to notify"
-    publishedDateTime: 2020-12-14T21:53:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7lvSrj0C3GE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/paul-mitchell-quits-gop/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/paul-mitchell-quits-gop/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 181
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214155118-rep-paul-mitchell-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump campaign lawyer Jenna Ellis contracts coronavirus, source says"
     excerpt: "Jenna Ellis, a lawyer who has been leading the Trump campaign's legal efforts to dispute the results of the 2020 presidential election, has contracted the coronavirus, a source familiar with the situation confirmed to CNN.\n    \n"
     publishedDateTime: 2020-12-08T18:18:12Z
@@ -206,22 +190,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01georgia-vote/01georgia-vote-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Trump meets with state attorneys general after joining Supreme Court election challenge"
-    excerpt: "Meanwhile, Biden named his choices for several top administration spots, including Susan Rice as domestic policy adviser and Denis McDonough as VA secretary."
-    publishedDateTime: 2020-12-10T20:06:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/trump-meet-state-attorneys-general-after-joining-supreme-court-election-n1250678"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250678"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250678"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 142
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434870/201210-donald-trump-al-1504_8f03395f3d085e9d1250fa8d29e9defd.jpg"
-        width: 2500
-        height: 1250
         isCached: true
   - title: "Trump Hints at Another Act in Four Years, Just Like Grover Cleveland"
     excerpt: "The president is eying a comeback in 2024 aimed at making him the only person other than Cleveland to win another term after losing the White House."

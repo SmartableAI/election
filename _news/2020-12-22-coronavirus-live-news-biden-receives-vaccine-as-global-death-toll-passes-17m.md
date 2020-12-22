@@ -143,6 +143,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden to push for more coronavirus relief, setting up a clash with GOP"
+    excerpt: "Many Democrats backing the coronavirus relief bill are counting on Biden to push for another aid package shortly after taking office. But Republicans oppose another deal, setting up an early clash of wills between Biden and Senate Republicans."
+    publishedDateTime: 2020-12-22T01:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RX46U2CDZQI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 965
+        isCached: true
   - title: "Georgia upholds Biden's win as US approaches 15m coronavirus cases - live"
     excerpt: "We have now counted legally-cast ballots three times, and the results remain unchanged,’ says Brad Raffensperger, Georgia’s secretary of state"
     publishedDateTime: 2020-12-07T21:48:00Z
@@ -353,6 +369,6 @@ related:
         height: 641
         isCached: true
 
-secured: "Y5c4OVSq+BS7IGoj01Nz8oNWVx0x7R5hBJLLt4PrUWP6u5j2TF1ygEzmoPK/xSLozXqfVi2uubVQg6xkoHU/1FchHSjg6tMNVnkgsu3BrJaRkJVCFI4dZraI9BP2kTBPHnWN7Boahq20ldFtdDGbstBeKJDi+c38yjbf03ezeLHOUNq3yI0MYAv7Hgfhpt6wjNVMox56W/F6j7/I59IhA8Eg2iEwq1UI7+A56JmcNkOQBkGcWkNMlE9dAhuWkZ+d/NDDuc9NaAiNAcRr6d+5qpHHeS15kzQdBweNt8rKNlY79yXG/aam/VBLkxc2JmbAjbi+OClm1QYTD41zN/wQjYzxJJrNBneYZTIE80u8SFY=;dk/yGC5vZj90i9E86PKsLQ=="
+secured: "3MKXYRvi60m7mdUB5KRyv+rAIa2SyRCRPCh5FcCjnceezkh+yxLsUdgthhH8sfl4+3m+ohbxX21/mrq+K9Wx2CBpEwE4eEHSk3VW86/y7sspkKtKfR1KfmT3FIL2g2K3dCYmD/M3c9YKyG0KhCd0jMQ818X+4hvvAZ1n9EIZC3wC7CKCvquoEMdLa2Aokba0rMkVQ3/KaiVJ7wCJ6j/PGCYQ2gq9E/9kK/mBhLsb2AbPDZ/CTKdYkHgyQinYpgHzz2rM4PSeB50+ApNvCOLn7SD1aKkrbosehcOylhMaJ7tPUXYufJNl/CzTQXvXNvwZgHH+wRxe/Hr6Q4JuADETCK/kFt61VANM0wIKjgYUeA/r5gLXitH50gvqM2Lda8aPfEUkY73tLtuc+5Ikbw5UW1YEFUxHodbHU9M5aFX4qMoHzAaJQv9N9qDQYrVWXg2Rziiginde7mdAnzvDCxUvlrex8XGI7g4Yu0maZHVJbKczcqfhVv5rF6Qlqk8o0IaodxvjlAsm2+aJ8Yw7YqLxNA==;j16WMBfmtKUbx2QF9/J0cw=="
 ---
 

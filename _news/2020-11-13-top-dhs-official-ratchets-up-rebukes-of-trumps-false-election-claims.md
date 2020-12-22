@@ -239,22 +239,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "World leaders congratulate Biden as Trump refuses to concede"
-    excerpt: "Leaders around the world have offered their congratulations to President-elect Joe Biden even as President Donald Trump refuses to concede his election loss.\n    \n"
-    publishedDateTime: 2020-11-11T18:44:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XEu5j7HYynU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/world-leaders-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/world-leaders-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109141708-joe-biden-1027-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Here are 7 Trump health care measures that Biden will likely overturn"
     excerpt: "When it comes to health policy, President Donald Trump made it his mission to undo many measures his predecessor put in place.\n    \n"
     publishedDateTime: 2020-11-15T19:22:38Z
@@ -271,22 +255,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Stark contrast between Biden and Trump's words"
-    excerpt: "CNN's John Avlon breaks down President Trump's unwillingness to accept the results of the 2020 election.\n    \n"
-    publishedDateTime: 2020-11-26T01:39:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n3QdaZ7A8og/john-avlon-ebof-biden-trump-contrast-delusional-sot-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/26/john-avlon-ebof-biden-trump-contrast-delusional-sot-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/26/john-avlon-ebof-biden-trump-contrast-delusional-sot-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125203719-avlon-trump-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden's popular vote margin over Trump tops 7 million"
     excerpt: "President-elect Joe Biden's margin over President Donald Trump in the nationwide popular vote is now more than 7 million votes and may continue to grow as several states continue counting votes.\n    \n"
     publishedDateTime: 2020-12-04T15:27:49Z
@@ -300,22 +268,6 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201132456-02-biden-economic-team-1201-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Why hasn't Biden or Trump gotten vaccinated for Covid?"
-    excerpt: "Neither President Donald Trump nor President-elect Joe Biden has gotten vaccinated for Covid-19, a fact that's beginning to draw some attention days after the first shots in the US were administered.\n    \n"
-    publishedDateTime: 2020-12-17T11:46:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UFzoZimszbA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/what-matters-december-16/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/what-matters-december-16/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1631,20 +1583,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration will attempt to box Biden administration in on China policies"
-    excerpt: "The Trump administration plans to continue carrying out its hardline China policies in the next two months before a Biden administration takes over, administration officials tell CNN.\n    \n"
-    publishedDateTime: 2020-11-16T04:32:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m-ndNUWn-hY/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108102810-white-house-morning-1108-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden piles up votes in Pennsylvania as he moves closer to finalizing a path to the White House"
     excerpt: "Former Vice President Joe Biden is relentlessly piling up votes in Western battlegrounds Nevada and Arizona and in the \"blue wall\" state of Pennsylvania, moving ever closer to finalizing the path to 270 electoral votes that he needs to win the presidency.\n    \n"
     publishedDateTime: 2020-11-07T02:55:12Z
@@ -2044,22 +1982,6 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434930/201210-electoral-count-congress-2013-ac-606p_ea22e3050be6b29ce9da3ad45ea6fbfa.jpg"
         width: 2500
         height: 1513
-        isCached: true
-  - title: "Trump-Biden divide hampers Covid vaccine trust-building effort"
-    excerpt: "Biden’s team is wary of enlisting Trump and his allies. Yet Trump’s aides say they won’t want to help Biden because he's not giving Trump due credit."
-    publishedDateTime: 2020-12-16T10:33:00Z
-    webUrl: "https://www.politico.com/news/2020/12/15/trump-biden-covid-vaccine-trust-445956"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/15/trump-biden-covid-vaccine-trust-445956"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/15/trump-biden-covid-vaccine-trust-445956"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
-    images:
-      - url: "https://static.politico.com/44/ff/5a0e21044d8a87e58733f5767d52/ap20297044686582-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Buffeted by Trump, China Has Little Hope for Warmer Relations With Biden"
     excerpt: "Many in Beijing believe that the United States will remain hostile to the country’s rise, regardless of who is president."

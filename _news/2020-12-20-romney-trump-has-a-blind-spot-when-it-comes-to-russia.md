@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/20/politics/mitt-romney-chris-krebs-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/20/politics/mitt-romney-chris-krebs-trump-russia-cyberattack-cnntv/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201219133818-donald-trump-mike-pompeo-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Ex-DHS adviser under Trump calls for urgent action to address suspected Russian cyberattack"
+    excerpt: "President Donald Trump's former homeland security adviser described the massive data breach of multiple US federal agencies, which US officials suspect is the work of Russian-linked hackers, in urgent terms Wednesday night, calling for immediate and decisive action by the President.\n    \n"
+    publishedDateTime: 2020-12-17T14:58:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dP0p92E0wec/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/tom-bossert-trump-us-agencies-hack-russia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/tom-bossert-trump-us-agencies-hack-russia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180410111157-03-tom-bossert-2017-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

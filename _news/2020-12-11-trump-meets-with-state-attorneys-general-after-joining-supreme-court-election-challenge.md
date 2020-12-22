@@ -32,19 +32,51 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-cyber official Krebs sues Trump campaign over its attacks on election results"
-    excerpt: "Chris Krebs, the former top administration official for cybersecurity, whom President Donald Trump fired after the election, is suing the Trump campaign and a lawyer working with the campaign to overturn the results of the election, accusing them of defamation.\n    \n"
-    publishedDateTime: 2020-12-08T19:59:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZopmFt4DcPk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/chris-krebs-lawsuit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/chris-krebs-lawsuit/index.html"
+  - title: "'Accept defeat': See Trump ally's message after election loss"
+    excerpt: "Former New Jersey Governor Chris Christie talks to CNN's Chris Cuomo about the election and how President Donald Trump and some Republicans have refused to concede.\n    \n"
+    publishedDateTime: 2020-12-18T02:53:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zqB1iwI-vOA/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217102245-chris-christie-cpt-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's former national security adviser on using martial law to 'rerun election'"
+    excerpt: "An Oval Office meeting with President Donald Trump that included Sidney Powell and her client Michael Flynn began as an impromptu gathering but quickly devolved, two people familiar with the matter said. CNN's Jeremy Diamond reports screaming matches broke out at certain points as some of Trump's aides"
+    publishedDateTime: 2020-12-19T22:41:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OStSGx2G8JY/oval-office-meeting-trump-martial-law-powell-flynn-diamond-sot-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/19/oval-office-meeting-trump-martial-law-powell-flynn-diamond-sot-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/19/oval-office-meeting-trump-martial-law-powell-flynn-diamond-sot-nr-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112172947-02-chris-krebs-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201008203155-marine-oval-office-thursday-1008-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "George W. Bush sends holiday card with pointed message as Trump denies election loss"
+    excerpt: "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss.\n    \n"
+    publishedDateTime: 2020-12-16T23:44:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XUU1iQQ1IGE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200602180649-george-bush-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -64,277 +96,165 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump campaign lawyer Jenna Ellis contracts coronavirus, source says"
-    excerpt: "Jenna Ellis, a lawyer who has been leading the Trump campaign's legal efforts to dispute the results of the 2020 presidential election, has contracted the coronavirus, a source familiar with the situation confirmed to CNN.\n    \n"
-    publishedDateTime: 2020-12-08T18:18:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GUCW49pXqTc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/jenna-ellis-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/jenna-ellis-coronavirus/index.html"
+  - title: "Pentagon adds more Trump loyalists to Defense Policy Board"
+    excerpt: "The Pentagon has added more supporters of President Donald Trump to the Defense Policy Board following the removal of several high-profile members last month.\n    \n"
+    publishedDateTime: 2020-12-14T19:19:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6nO_D_TFpio/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/pentagon-defense-policy-board/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/pentagon-defense-policy-board/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208121723-jenna-ellis-1202-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump campaign asks supporters if the President should run in 2024"
-    excerpt: "President Donald Trump has not conceded the presidential election, but it appears a fundraising appeal from his campaign may have finally done so.\n    \n"
-    publishedDateTime: 2020-12-16T02:42:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DE3qbVoTzKM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/trump-2024-run/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/trump-2024-run/index.html"
+  - title: "Trump still plans to veto defense spending bill"
+    excerpt: "President Donald Trump's vow to veto the bipartisan National Defense Authorization Act places Capitol Hill in a bind and could lead to Congress having to return to session between Christmas and New Year's.\n    \n"
+    publishedDateTime: 2020-12-16T18:43:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/befXOvGMC0Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/donald-trump-ndaa-congress-armed-services-defense/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/donald-trump-ndaa-congress-armed-services-defense/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201213211352-donald-trump-1212-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216111257-trump-1212-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "How Trump raised massive amounts of money after the election and other takeaways from campaign filings"
-    excerpt: "President Donald Trump raised staggering amounts after losing the White House. Casino billionaire Sheldon Adelson kept donating in the election's waning days, and South Carolina Sen. Lindsey Graham set a new fundraising high water mark for Senate incumbents.\n    \n"
-    publishedDateTime: 2020-12-04T20:59:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2LY-rSs8bPM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/five-takeaways-from-trump-and-biden-fundraising/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/five-takeaways-from-trump-and-biden-fundraising/index.html"
+  - title: "'Simply unacceptable:' Congressman exiting GOP calls out Trump's racist attacks"
+    excerpt: "Rep. Paul Mitchell tells CNN's Jake Tapper that he no longer wants to be affiliated with the Republican Party and calls out President Trump's racist attacks.\n    \n"
+    publishedDateTime: 2020-12-14T22:11:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yqAbUrpzivk/mitchell-son-russia-republican-party-exit-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/14/mitchell-son-russia-republican-party-exit-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/14/mitchell-son-russia-republican-party-exit-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214165531-tapper-mitchell-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "White House exodus begins even as Trump continues to baselessly claim victory"
-    excerpt: "White House staffers at all levels are plotting their departures as a growing number of aides to President Donald Trump are abandoning his quest to overturn the 2020 election results -- some in frustration with the building they are leaving behind.\n    \n"
-    publishedDateTime: 2020-12-04T22:21:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KKnFaxZVI4w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-loyalty-purge/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-loyalty-purge/index.html"
+  - title: "Gov. Kasich: Trump won the election, but he didn't win long-term"
+    excerpt: "President Trump hit the campaign trail last night to take a victory lap over his new trade deal. Stephanie Ruhle is joined by Ohio’s Republican Governor John Kasich. The two discuss the USMCA, Judge Kavanaugh,"
+    publishedDateTime: 2020-12-20T09:58:00Z
+    webUrl: "https://www.nbcnews.com/video/gov-kasich-trump-won-the-election-but-he-didn-t-win-long-term-1334758979548"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo44568645655"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo44568645655"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump purges Pentagon advisory board and gives seats to former campaign managers"
-    excerpt: "President Donald Trump has purged a Pentagon business advisory board and replaced its members with his former campaign manager and deputy campaign manager, neither of whom have served in the military or have any apparent experience with the defense industry.\n    \n"
-    publishedDateTime: 2020-12-04T20:42:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fUnccSYtHPw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-pentagon-board-lewandowski-bossie/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-pentagon-board-lewandowski-bossie/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190918092128-corey-lewandowski-newday-09182019-1-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Courts across the country hand Trump and his allies more losses as attempts to upend election results collapse"
-    excerpt: "The Trump campaign and its allies were dealt additional blows in Michigan, Nevada, Wisconsin and Arizona on Friday as courts rejected their attempts to challenge the presidential election results.\n    \n"
-    publishedDateTime: 2020-12-05T02:23:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aVc3S8TDq-g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-election-defeats-courts/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-election-defeats-courts/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204145824-01-trump-1126-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump Organization must turn over documents to NY attorney general, judge rules "
-    excerpt: "A state judge ruled Tuesday that the Trump Organization must turn over documents related to a property whose tax abatements were being investigated by New York Attorney General Letitia James' office.\n    \n"
-    publishedDateTime: 2020-12-15T23:21:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MgXZILndT9A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/trump-organization-documents-ny-attorney-general/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/trump-organization-documents-ny-attorney-general/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190118093741-20190118-trump-tower-exterior-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Ousted cybersecurity chief Krebs to Trump: 'These constant attacks ... are very dangerous'"
-    excerpt: "Former top cybersecurity official Chris Krebs sent a clear message to President Donald Trump on Friday: Stop attacking the integrity of last month's election because American democracy is fragile.\n    \n"
-    publishedDateTime: 2020-12-05T00:26:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QXAae4AbhRg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/chris-krebs-trump-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/chris-krebs-trump-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204170456-chris-krebs-on-the-lead-12-4-2020-vpx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump moves to sanction Turkey over Russian missile defense system under pressure from Congress"
-    excerpt: "The Trump administration will sanction Turkey for its purchase of a Russian surface-to-air missile system more than a year after Ankara took delivery of the weapons, a delay that so frustrated Congress that lawmakers made the sanctions mandatory.\n    \n"
-    publishedDateTime: 2020-12-14T21:16:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MmIQwS4FLH0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/trump-turkey-s400-sanctions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/trump-turkey-s400-sanctions/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191114093546-02-trump-erdogan-1113-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "‘It Has All Gone Too Far’: Georgia Election Official Lashes Trump"
-    excerpt: "Gabriel Sterling, a voting system official in Georgia, harshly criticized the president for failing to condemn threats of violence against people overseeing the voting system in his state."
-    publishedDateTime: 2020-12-02T00:50:00Z
-    webUrl: "https://www.nytimes.com/2020/12/01/us/politics/georgia-election-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/01/us/politics/georgia-election-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/01/us/politics/georgia-election-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 150
     images:
-      - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01georgia-vote/01georgia-vote-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media1.s-nbcnews.com/i/MSNBC/Components/Video/201810/n_ruhle_bblockkasich_181002_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Trump Hints at Another Act in Four Years, Just Like Grover Cleveland"
-    excerpt: "The president is eying a comeback in 2024 aimed at making him the only person other than Cleveland to win another term after losing the White House."
-    publishedDateTime: 2020-12-03T00:44:00Z
-    webUrl: "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/politics/trump-2024.amp.html"
+  - title: "Michigan congressman leaving GOP over Trump's attempt to overturn election"
+    excerpt: "Paul Mitchell of Michigan said Monday that he is leaving the Republican Party and becoming an independent because Republicans have not stood up to President Donald Trump's attempts to overturn the election."
+    publishedDateTime: 2020-12-16T05:48:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/michigan-congressman-quitting-gop-over-trump-s-attempt-overturn-election-n1251186"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251186"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251186"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 148
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3435688/201214-rep-paul-mitchell-ew-454p_a0d83b05498ead436e6fa99ef5fc1f81.jpg"
+        width: 2500
+        height: 1703
+        isCached: true
+  - title: "Glimmers of progress in stimulus negotiations as Trump's election sideshow drags on"
+    excerpt: "For the first time in months there were small signs of a functioning government Wednesday as congressional leaders negotiated a Covid-19 relief package and millions of vaccine doses were shipped out under the watchful eye of officials with Operation Warp Speed while carrying out contingency planning for delays due to the winter storm."
+    publishedDateTime: 2020-12-17T00:56:00Z
+    webUrl: "https://www.cnn.com/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 144
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216164205-us-capitol-snow-1216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "George W. Bush sends holiday card with pointed message as Trump denies election loss"
+    excerpt: "Former President George W. Bush has sent out holiday cards with a pointed message about a hopeful new year as President Donald Trump continues to deny his election loss."
+    publishedDateTime: 2020-12-16T23:44:00Z
+    webUrl: "https://www.cnn.com/2020/12/16/politics/bush-christmas-card-trump/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/bush-christmas-card-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 143
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200602180649-george-bush-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Federal Judge in Wisconsin Deals Trump Another Court Defeat"
+    excerpt: "A Trump appointee in Milwaukee, Judge Brett H. Ludwig, dismissed a suit contesting the election with a withering rebuke."
+    publishedDateTime: 2020-12-12T22:10:00Z
+    webUrl: "https://www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/12/02/us/politics/02dc-trump-1/02dc-trump-1-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/12/us/12trump-wisconsin/merlin_179552091_dbf4228e-570d-4d46-897e-ad283b8fb58c-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "In final years at Liberty, Falwell spent millions on pro-Trump causes"
-    excerpt: "The nonprofit university’s think tank ran Facebook ads to “pray for our president,” with Donald Trump’s image."
-    publishedDateTime: 2020-12-14T09:48:00Z
-    webUrl: "https://www.politico.com/news/2020/12/14/jerry-falwell-trump-liberty-university-444661"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/jerry-falwell-trump-liberty-university-444661"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/jerry-falwell-trump-liberty-university-444661"
+  - title: "Trump vows to veto defense bill that Congress sent him"
+    excerpt: "President Donald Trump said Thursday that he plans to follow through on his threat to veto the annual defense policy bill that passed with veto-proof majorities in the House and the Senate last week."
+    publishedDateTime: 2020-12-17T16:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/trump-vows-veto-defense-bill-congress-sent-him-n1251570"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251570"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251570"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_51/3436447/201217-donald-trump-jm-1056_6b8dd9a08c701d22da204e13e60e8e86.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump flays former allies, calls to ‘fight on’ after Supreme Court defeat"
+    excerpt: "Trump aired a lengthy list of his ongoing grievances with the high court’s decision that dismissed a longshot challenge by the attorney general of Texas."
+    publishedDateTime: 2020-12-12T15:18:00Z
+    webUrl: "https://www.politico.com/news/2020/12/12/trump-supreme-court-election-lawsuit-twitter-444687"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/12/trump-supreme-court-election-lawsuit-twitter-444687"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/12/trump-supreme-court-election-lawsuit-twitter-444687"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 135
+    quality: 134
     images:
-      - url: "https://static.politico.com/cd/6e/bf9c433347ec94fa846b542e3a94/1211falwelltrump.jpg"
+      - url: "https://static.politico.com/74/3a/870f9bc746178bbdbd488f78d586/201212-trump-ap-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Trump looms over Georgia's high-stakes Senate races, worrying Republicans"
-    excerpt: "The president is scheduled to hold a rally in the state Saturday after spending weeks attacking GOP elected officials."
-    publishedDateTime: 2020-12-02T23:50:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-looms-over-georgia-s-high-stakes-senate-races-worrying-n1249686"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249686"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249686"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3432132/201201-donald-trump-al-0936_acd19401dfb6bd30ec39486989bdb51f.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
-  - title: "Trump administration hands over new data on families separated at border"
-    excerpt: "NBC News’ Jacob Soboroff reports on newly released details from the Trump administration on migrant families who were separated at the southern border and how this information may impact the unification efforts."
-    publishedDateTime: 2020-12-04T00:21:00Z
-    webUrl: "https://www.nbcnews.com/now/video/trump-administration-hands-over-new-data-on-families-separated-at-border-97081413807"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97081413807"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97081413807"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_trump_separation_201203_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Calls grow for Trump administration to stop execution of Brandon Bernard"
-    excerpt: "NBC News’ Erik Ortiz reports on the growing calls from lawmakers and celebrities, including Kim Kardashian, for the Trump administration to stop the execution of Brandon Bernard who was 18 at the time of his crime."
-    publishedDateTime: 2020-12-11T02:09:00Z
-    webUrl: "https://www.nbcnews.com/now/video/calls-grow-for-trump-administration-to-stop-execution-of-brandon-bernard-97517637773"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97517637773"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97517637773"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_execution_201210_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Trump Organization must turn over documents to NY attorney general, judge rules"
-    excerpt: "A state judge ruled Tuesday that the Trump Organization must turn over documents related to a property whose tax abatements were being investigated by New York Attorney General Letitia James' office."
-    publishedDateTime: 2020-12-15T23:21:00Z
-    webUrl: "https://www.cnn.com/2020/12/15/politics/trump-organization-documents-ny-attorney-general/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/trump-organization-documents-ny-attorney-general/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/trump-organization-documents-ny-attorney-general/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 131
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190118093741-20190118-trump-tower-exterior-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "New Trump administration rules make it easier for lenders to charge small businesses super-high interest rates"
-    excerpt: "\"This is my life,\" says Carlos Swepson, owner of a New York bistro with his wife. He's trying to pay off loans with an effective interest rate of 268 percent."
-    publishedDateTime: 2020-12-08T10:04:00Z
-    webUrl: "https://www.nbcnews.com/business/economy/new-trump-administration-rules-make-it-easier-lenders-charge-small-n1250023"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250023"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250023"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_49/3433737/201206-carlos-markisha-swepson-blvd-harlem-2x1-se-530p_43d2f696fe4dac84a7205d86a0382d51.jpg"
-        width: 2500
-        height: 1664
         isCached: true
 
 secured: "/rDJtGVGvGLwOYOFPiXOmciFHGNSG1i8LQEmUsyPmHnhnhZnqt/4izK/4T3ghcPZCzh9xEI92xVWGsywupPGV/TE+fV1PH5yB0pMGXrSfUmdIL1lkn/kZsYLyaZSCIA13l//y+OIFIkLou89u2i+AadgmQzX2oyf+WdCb/R0vXCJGIrzeR8ZEI8C4eTpm3VJswnpcbOb2yHUlfsSi7bzq+WMcYqovQE5IMI1+gEST6f+4L74blBb8JLEoQuhe9q0vrcrx8g9ddCn+oHU9cT6rNYbXVuDq/N67vuCtf1MgsmgXtPwgjWLXBEgx282gdAYjTyKnJuIXi3mTUrLuDkNcz8KP5naISndEpV6hY/6tzbTjvoLolfKWlO3D/DrG2AnYolf5GmXotvgJsjZBkdgqpHsS3gYwYXi0VPns72NWovS/LbnMzQTSmPXLiLIh0SMUbshOhVLlVebhuIs23xqVbGWLLt/x99l0oUVeYeWHo5D+kI3fs+QRpHBz2FrZqrAbXAjAciYHel0NswS1KYDVw==;7b6nmXOLQ2aTseLYU4adbQ=="

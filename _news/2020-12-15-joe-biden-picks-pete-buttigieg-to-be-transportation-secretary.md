@@ -31,99 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's health secretary: 'Of course, we would' vaccinate Biden publicly if he asks"
-    excerpt: "Health and Human Services Secretary Alex Azar said Monday that if President-elect Joe Biden wants the newly released Covid-19 vaccine, the agency will ensure that he receives it.\n    \n"
-    publishedDateTime: 2020-12-14T22:29:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xyUkAcbdqh8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/azar-vaccinate-biden-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/azar-vaccinate-biden-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 184
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214170919-alex-azar-1214-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden picks retired Gen. Lloyd Austin to be his secretary of defense"
-    excerpt: "President-elect Joe Biden has selected retired Army Gen. Lloyd Austin, the former commander of US Central Command, to be his secretary of defense, a source familiar with the decision told CNN on Monday.\n    \n"
-    publishedDateTime: 2020-12-08T00:33:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9EqU31lITSQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/biden-picks-lloyd-austin-as-secretary-of-defense/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/biden-picks-lloyd-austin-as-secretary-of-defense/index.html"
+  - title: "Biden poised to nominate Granholm to lead Department of Energy"
+    excerpt: "President-elect Joe Biden is poised to tap former Michigan Gov. Jennifer Granholm to lead the Department of Energy, two people familiar with the matter say, inviting a longtime adviser who played a critical role in his debate preparations over the years to join his Cabinet.\n    \n"
+    publishedDateTime: 2020-12-15T23:33:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7Fe7bPzbPRU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/jennifer-granholm-biden-energy-secretary/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/jennifer-granholm-biden-energy-secretary/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/111129080221-biden-and-general-story-top.jpg"
-        width: 640
-        height: 360
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160728203436-jennifer-granholm-0728-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "House chairman endorses Flournoy to be Biden's Secretary of Defense nominee "
-    excerpt: "The Democratic chairman of the House Armed Services Committee, Rep. Adam Smith, is backing Michele Flournoy to be President-elect Joe Biden's pick for Defense Secretary, saying Monday she is \"hands down\" the most qualified person for the job.\n    \n"
-    publishedDateTime: 2020-12-07T21:52:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IZKXq6xUSRU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/adam-smith-endorses-flournoy-biden-secretary-of-defense/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/adam-smith-endorses-flournoy-biden-secretary-of-defense/index.html"
+  - title: "Biden to name Gina McCarthy to top domestic climate job"
+    excerpt: "President-elect Joe Biden will name Gina McCarthy as his White House climate czar, a source familiar with the decision tells CNN, making the former head of the Environmental Protection Agency his top domestic climate coordinator.\n    \n"
+    publishedDateTime: 2020-12-16T01:17:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qX_tA_svVOo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/gina-mccarthy-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/gina-mccarthy-joe-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161107105730-michele-flournoy-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161202160232-gina-mccarthy-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden expected to nominate Rep. Marcia Fudge as secretary of Housing and Urban Development"
-    excerpt: "President-elect Joe Biden is expected to nominate Ohio Rep. Marcia Fudge as secretary of Housing and Urban Development, two people familiar with the transition said, a decision that would add another African American woman to the ranks of his Cabinet.\n    \n"
-    publishedDateTime: 2020-12-09T00:18:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jUHJfkpbhXU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/marcia-fudge-hud-secretary/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/marcia-fudge-hud-secretary/index.html"
+  - title: "Biden expected to nominate North Carolina environmental official to run EPA"
+    excerpt: "President-elect Joe Biden is poised to nominate Michael Regan of North Carolina to run the Environmental Protection Agency, two people familiar with the matter tell CNN.\n    \n"
+    publishedDateTime: 2020-12-17T18:20:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h0CwGEfrJZM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/biden-michael-regan-epa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/biden-michael-regan-epa/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217131143-michael-s-regan-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden nominates Denis McDonough to lead VA, turning to another longtime Obama adviser"
+    excerpt: "President-elect Joe Biden is poised to tap Denis McDonough to lead the Department of Veterans Affairs, a person familiar with the decision says, adding the longtime chief of staff to former President Barack Obama to his new Cabinet.\n    \n"
+    publishedDateTime: 2020-12-10T16:03:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2F6ed0RIlY0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/denis-mcdonough-va-secretary/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/denis-mcdonough-va-secretary/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210095900-denis-mcdonough-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden poised to nominate Connecticut education chief Miguel Cardona as education secretary"
+    excerpt: "President-elect Joe Biden is poised to nominate Connecticut education commissioner Miguel Cardona as his education secretary, two people familiar with the matter say, a decision that could be one of the final Cabinet selections before Christmas.\n    \n"
+    publishedDateTime: 2020-12-22T02:16:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EssK7FF7BTI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/miguel-cardona-education-secretary/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/miguel-cardona-education-secretary/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208175659-marcia-fudge-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221193203-miguel-cardona-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden expected to nominate Tom Vilsack as Agriculture secretary later this week"
-    excerpt: "President-elect Joe Biden is expected to nominate Tom Vilsack to lead the Department of Agriculture, two sources familiar with the matter said.\n    \n"
-    publishedDateTime: 2020-12-09T00:43:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IHph6EYcEAo/index.html"
+  - title: "Biden's economic plan is bold. Is it possible?"
+    excerpt: "Elect Joe Biden has sketched out a bold economic agenda, but his ability to enact it could be determined by the upcoming races for control of the Senate."
+    publishedDateTime: 2020-12-11T14:02:00Z
+    webUrl: "https://www.cnn.com/videos/business/2020/12/11/biden-economy-taxes-stimulus-student-debt-trump-covid-orig.cnn-business"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/12/11/biden-economy-taxes-stimulus-student-debt-trump-covid-orig.cnn-business"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/11/biden-economy-taxes-stimulus-student-debt-trump-covid-orig.cnn-business"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 151
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160720165245-vilsack-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden goes to bat for Defense secretary nominee Austin"
-    excerpt: "President-elect Joe Biden speaks during an event to announce his choice of retired Army Gen. Lloyd Austin, right, to be secretary of defense, at The Queen theater in Wilmington, Del. | AP Photo/Susan Walsh President-elect Joe Biden addressed concerns Wednesday about nominating a recently retired four-star general to lead the Department of Defense,"
-    publishedDateTime: 2020-12-09T20:16:00Z
-    webUrl: "https://www.politico.com/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
     quality: 135
     images:
-      - url: "https://static.politico.com/a1/d6/b207abad45c7a9c51fac9e3a3fc4/200826-kellyanne-conway-2-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201206234438-joe-biden-1204-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "What Books Should Biden Read? We Asked 22 Writers"
     excerpt: "George Will, Min Jin Lee, David Frum, Van Jones and others offer their recommendations to the president-elect."
@@ -140,6 +142,38 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/20/books/20BIDENBOOKS/20BIDENBOOKS-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Progressive Groups Urge Biden to Move Quickly on Diverse Slate of Judges"
+    excerpt: "The president-elect faces pressure to install a diverse group of progressives in the courts, but the prospect of a Republican-controlled Senate looms as an obstacle."
+    publishedDateTime: 2020-12-11T23:27:00Z
+    webUrl: "https://www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/11DC-JUDGES/11DC-JUDGES-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden picks Mallory to lead White House Council on Environmental Quality"
+    excerpt: "President-elect Joe Biden will tap Brenda Mallory to lead the White House Council on Environmental Quality, according to two people familiar with selection, which would put the veteran environmental lawyer in charge of an office with sweeping purview over how the federal government assesses environmental effects of policies,"
+    publishedDateTime: 2020-12-16T21:28:00Z
+    webUrl: "https://www.politico.com/news/2020/12/16/biden-white-house-council-environmental-quality-446995"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/16/biden-white-house-council-environmental-quality-446995"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/16/biden-white-house-council-environmental-quality-446995"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 134
+    images:
+      - url: "https://static.politico.com/f4/20/6dcf41294356bf7d220b24f0b8b2/201216-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "j8BvOm9DnP7BtRk961HrkFkJfDiShlQfjduoGGbRdo5dhj3DxcX7PxRAhsGQhKl1HFSCP+HScvxeyKzHgeWnSkBsOMbcYFxdW+DMcsDaR7t2YOdR2kidOEcdsqyBAl4kuxnX2BJstEqXIWZ61VusAuvv2iC4v32QANk0NYFBXVb7IeP4vu1QZx5JI9CWkIWLxsdXKhtECP+BBnGvYTpDnvXpf+wKTZfk/Awus+GPpW0RwH6TlFEzxd+JBUK5V9jFJRMyD6uiw1JxcNaTLJNO6TToFy5Z6A0qpzrytxO8TGPwmSTF2JSClN8FskHGDqcFkByg0yvgEp4JEzPkFCfTs7twUCb90uY5OZ+mdiycdtk=;Bg/1L/cfXTjjE85BpR6Nkw=="

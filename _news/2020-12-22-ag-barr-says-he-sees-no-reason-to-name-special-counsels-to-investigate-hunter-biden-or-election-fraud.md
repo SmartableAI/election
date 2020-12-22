@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3991548001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3991548001"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Barr says Russia likely behind hack, won't name special counsel in Hunter Biden probe"
+    excerpt: "Outgoing Attorney General William Barr said Monday he does not see a reason to appoint a special counsel to lead the investigation into Hunter Biden, and split with President Trump over who is likely behind the massive cyberattack targeting several federal agencies,"
+    publishedDateTime: 2020-12-22T00:16:00Z
+    webUrl: "https://www.cbsnews.com/news/barr-russia-hack-hunter-biden-election-special-counsel/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/barr-russia-hack-hunter-biden-election-special-counsel/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/barr-russia-hack-hunter-biden-election-special-counsel/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 118
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/21/eb038982-0b90-4344-b964-18786880b5e8/thumbnail/1200x630/f4a166ec88a22235f15565c5b36488b7/gettyimages-1230248436.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Electoral College makes it official: Biden won"
     excerpt: "The Electoral College decisively confirmed Joe Biden on Monday as the nation’s next president, ratifying his November victory in an authoritative state-by-state repudiation of President Donald Trump’s refusal to concede he had lost."
     publishedDateTime: 2020-12-15T05:31:00Z
