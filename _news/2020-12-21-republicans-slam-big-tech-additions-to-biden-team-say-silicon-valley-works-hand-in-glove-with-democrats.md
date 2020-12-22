@@ -895,6 +895,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden officials urge caution on 'Day One' immigration changes, say some will 'take time'"
+    excerpt: "Top officials for the incoming Biden administration are warning that some changes to President Trump’s immigration policies will \"take time\" – and migrants should not expect the border to be \"fully open\" right away."
+    publishedDateTime: 2020-12-22T17:01:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bdiVEMGeK7k/biden-officials-day-one-immigration-changes"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-officials-day-one-immigration-changes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-officials-day-one-immigration-changes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a0d009c-290d-48ec-b099-36f8328bcd96/40e3e412-7c85-458b-bc86-f0397800aad6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden breaks silence on Hunter for first time since federal tax investigation surfaced"
     excerpt: "“I’m proud of my son,” Biden said in response to a question from Fox News' Peter Doocy."
     publishedDateTime: 2020-12-11T21:58:43Z

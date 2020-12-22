@@ -75,6 +75,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "California Secretary of State Alex Padilla will fill Kamala Harris' US Senate seat"
+    excerpt: "Padilla will be the first-ever Latino US Senator to represent California, serving out the rest of Harris' term until 2022."
+    publishedDateTime: 2020-12-22T18:20:00Z
+    webUrl: "https://www.businessinsider.com/alex-padilla-to-replace-kamala-harris-in-us-senate-from-california-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/alex-padilla-to-replace-kamala-harris-in-us-senate-from-california-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alex-padilla-to-replace-kamala-harris-in-us-senate-from-california-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5f7dd049282c500018c79137?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "One of these people could be VP-elect Kamala Harris’ successor and California’s next senator"
     excerpt: "The Times asked political strategists for a list of the most likely contenders from whom Newsom might choose to replace Harris for the final two years of her Senate term."
     publishedDateTime: 2020-11-07T16:51:00Z
@@ -170,6 +186,22 @@ related:
       - url: "https://media.nbcnewyork.com/2020/11/Maya-Rudolph-VP-elect-SNL.jpg?crop=296px%2C38px%2C2599px%2C1462px&resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "California Secretary of State Alex Padilla selected to fill Kamala Harris' Senate seat"
+    excerpt: "California Gov. Gavin Newsom (D) announced Tuesday that he has selected California's Secretary of State Alex Padilla (D) to fill the U.S. Senate seat left open by Vice President-elect Kamala Harris. Padilla will serve out the two remaining years of Harris' term after she's sworn in as vice president in January."
+    publishedDateTime: 2020-12-22T18:48:00Z
+    webUrl: "https://theweek.com/speedreads/956709/california-secretary-state-alex-padilla-selected-fill-kamala-harris-senate-seat"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/956709/california-secretary-state-alex-padilla-selected-fill-kamala-harris-senate-seat"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/956709/california-secretary-state-alex-padilla-selected-fill-kamala-harris-senate-seat"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 67
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1267424249.jpg?itok=ivgkRYmo"
+        width: 840
+        height: 560
         isCached: true
   - title: "Who will replace Kamala Harris in California? Alex Padilla? Eva Longoria?"
     excerpt: "A group of Latino organizations has lobbied Newsom since August to select Secretary of State Alex Padilla. Such a move would end 170 years without a Latino/a Senator from California. Of course, with wildfires,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/kamala-harris-prepares-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/kamala-harris-prepares-biden-legacy/index.html"
 type: article
 quality: 192
-heat: 732
+heat: 752
 published: true
 
 provider:
@@ -399,6 +399,22 @@ related:
       - url: "https://static.politico.com/04/d8/7c206e0448d988186c7bed0e98fe/ap20283654072752-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Alex Padilla Will Replace Kamala Harris in the Senate"
+    excerpt: "Gov. Gavin Newsom of California selected Mr. Padilla to serve the final two years of Ms. Harris’s term. Mr. Padilla will be the first Latino senator to represent the state."
+    publishedDateTime: 2020-12-22T18:06:00Z
+    webUrl: "https://www.nytimes.com/2020/12/22/us/politics/alex-padilla-kamala-california-senate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/politics/alex-padilla-kamala-california-senate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/politics/alex-padilla-kamala-california-senate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/21/us/politics/HFOcalifornia-senate-pick-padilla/HFOcalifornia-senate-pick-padilla-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Kamala Harris Makes History as First Woman and Woman of Color as Vice President"
     excerpt: "Ms. Harris, the daughter of an Indian mother and Jamaican father, has risen higher in the country’s leadership than any woman ever before her."

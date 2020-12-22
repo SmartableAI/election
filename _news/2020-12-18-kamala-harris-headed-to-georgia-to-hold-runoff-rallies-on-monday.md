@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Newsom picks California Secretary of State Alex Padilla to fill Harris' Senate seat"
+    excerpt: "California Gov. Gavin Newsom, a Democrat, selected California Secretary of State Alex Padilla for the Senate seat that Vice President-elect Kamala Harris will vacate."
+    publishedDateTime: 2020-12-22T18:18:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PfVdEXKvToo/newsom-california-senate-alex-padilla-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/newsom-california-senate-alex-padilla-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/newsom-california-senate-alex-padilla-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/padilla-newsom.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden campaigns in Georgia runoffs, hoping for Democrat-controlled Senate"
     excerpt: "President-elect Joe Biden hits the campaign trail on Tuesday for the first time since Election Day on Nov. 3. With the success of his incoming administration’s agenda very much hinging on whether the Democrats sweep both of Georgia’s twin Jan. 5 runoff elections and regain the majority in the Senate,"
     publishedDateTime: 2020-12-15T17:04:58Z

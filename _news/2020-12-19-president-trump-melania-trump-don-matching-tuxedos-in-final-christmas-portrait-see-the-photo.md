@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Former New Jersey Gov. Chris Christie says he 'would not' rule out challenging Trump in 2024"
+    excerpt: "In a radio interview, former Gov. Chris Christie kept open the possibility that a 2016 rematch against Donald Trump could happen"
+    publishedDateTime: 2020-12-22T18:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/22/chris-christie-would-not-rule-out-challenging-trump-2024/4011122001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4011122001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4011122001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/11/19/PNJM/40d0121c-485b-403d-ad49-75577bd538b4-YE_New_Jersey_2016.jpg?auto=webp&crop=1999,1142,x0,y54&format=pjpg&width=1200"
+        width: 1200
+        height: 686
+        isCached: true
 
 secured: "ER+TK4FirJStzDtUH1RMF7uI8S6dfhiAJVzo3LlbcZciS2C435wX6CA1JYAjxcciV4r5IOcyU4g7n1Vg9LywMfvLKfWQ1uQrUd83TQwbUfKg4k8v7I+gH+f9EJ2cjDX+vMf+YjHhd3+Eaidv8yLzIB/uFjVZhGlJGgC8T7VyIz9eTdQj4y5+UhcCnSfRY09fOQmN5kqrTtARig/4ccIVKylNYeby2azr1aFudlJe8hhqW6Xgukph7FkoPUznj6e9GjgRSEa0plq1tlaiU4/bngts/yTgGwEM4jWsXATG6bSMjnN97pa1YgZ1ARAsCY9oN/K5fZtVoGcp7XlJLzj8OvlplEYLz9DanJ+fuAP9n5gMIPilaGdcKQISV/PHenNz1tIlpPra+Q+AQ0FISRpYqeY+QOVXO1GluiOxw/+moKTyxLh2TDrsiWa9vOP4NIfzIXT7HAsIwvso8D+t+kpB1AFU7lpRDtN9ortAr/O5ZtRSjjJLtk9S/RN2SlS0HsfxnOR6K2J0BlcMFZtRA3/+Jw==;gAXJPjQy5s22y9XJt+xqlw=="
 ---

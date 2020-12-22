@@ -7,7 +7,7 @@ originalUrl: "https://www.houstonchronicle.com/politics/article/Willie-Brown-Gav
 webUrl: "https://www.houstonchronicle.com/politics/article/Willie-Brown-Gavin-Newsom-Kamala-Harris-Senate-20-15753719.php"
 type: article
 quality: 103
-heat: 123
+heat: 103
 published: true
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 2048
     height: 1430
     isCached: true
-
-related:
-  - title: "In Replacing Kamala Harris in the Senate, Gavin Newsom Is Going to Have to Disappoint Someone"
-    excerpt: "Newsom could avoid the political headache — and leave the choice in the hands of the voters — by declaring he isn’t meant to be a kingmaker."
-    publishedDateTime: 2020-12-21T18:20:00Z
-    webUrl: "https://www.nationalreview.com/corner/in-replacing-kamala-harris-in-the-senate-gavin-newsom-is-going-to-have-to-disappoint-someone/"
-    ampWebUrl: "https://www.nationalreview.com/corner/in-replacing-kamala-harris-in-the-senate-gavin-newsom-is-going-to-have-to-disappoint-someone/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/in-replacing-kamala-harris-in-the-senate-gavin-newsom-is-going-to-have-to-disappoint-someone/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 64
-    images:
-      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/05/20200520_newsom.jpg?resize=300%2C300&ssl=1"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "ZYIxaXT1XWDzMKwov/UQBloA9oX2ApK9oolc0Va4hYFd7A+M5//U5+bjAs+F2ENHHKJqjm2Et2DROh5bPsFXQHmnep7Z/BcK6FSlNylnVuyjf9gqHvuJhrPPDCG1SiJK1/2iGYaNQnE5sk6263zBKJWlDz4eCsgQbIyZtZzMDTYkCjedHV4ZDgcGIyIbH6x7ywi1P2RQvT5CqSmasIjpvVvNr/S89B6FLNFh1D2N6pKpGmszGvdTmGNnNC57VuvIUKmts9JNt+Vr5PiDlT7mk7FusF2MffbUF0RRorif4e80pcDnjtNVBVNYZt3ivddjNdXxEDvkKqdOE1Q582ezznlkuVqp5+Q8TQn/scbvDpO/nrPWrbDeSGYBcLkl4mqjnT7kNHU6INuTtC+HtutvtIo2jlF7PfPspNC5GSpVcTXWMDXqR/91hItC69M0TuM/sFAW8D6fHuE7cccF9KJwGGfwgc3SOy/V/Juceysa3TKcj9Zb8uctfBk//qA2T80u33DMFYo/rCNT74LQsE/6Hw==;I0MpAj7GUFQRZzsU2UKOow=="
 ---

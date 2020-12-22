@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Newsom picks California Secretary of State Alex Padilla to fill Harris' Senate seat"
+    excerpt: "California Gov. Gavin Newsom, a Democrat, selected California Secretary of State Alex Padilla for the Senate seat that Vice President-elect Kamala Harris will vacate."
+    publishedDateTime: 2020-12-22T18:18:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PfVdEXKvToo/newsom-california-senate-alex-padilla-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/newsom-california-senate-alex-padilla-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/newsom-california-senate-alex-padilla-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/padilla-newsom.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "McConnell congratulates Joe Biden, Kamala Harris on election win from Senate"
     excerpt: "Senate Majority Leader Mitch McConnell on Tuesday congratulated President-elect Joe Biden on his victory following the Electoral College’s vote on Monday. “The Electoral College has"
     publishedDateTime: 2020-12-15T15:52:00Z

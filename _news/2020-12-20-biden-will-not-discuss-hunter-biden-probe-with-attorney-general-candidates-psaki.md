@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McConnell says he'll treat Biden 'a hell of a lot better than Chuck Schumer ever treated Donald Trump'"
+    excerpt: "Sen. Majority Leader Mitch McConnell promised to treat President-elect Biden better than his minority-leading counterpart ever treated President Trump. "
+    publishedDateTime: 2020-12-22T18:50:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sl58Ai9kmIk/mcconnell-biden-better-chuck-schumer-treated-donald-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-better-chuck-schumer-treated-donald-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-better-chuck-schumer-treated-donald-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/McConnell-Schumer-Split.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Top Facebook, Twitter execs donated tens of thousands of dollars to Biden campaign"
     excerpt: "Top executives at Facebook and Twitter donated tens of thousands of dollars to President-elect Joe Biden's campaign, Federal Election Commission records reviewed by Fox News reveal, as the social media platforms come under fire for limiting the circulation of reports surrounding Hunter Biden’s business"
     publishedDateTime: 2020-12-15T14:49:03Z

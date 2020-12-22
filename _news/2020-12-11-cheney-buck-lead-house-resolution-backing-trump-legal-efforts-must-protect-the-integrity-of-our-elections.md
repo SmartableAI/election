@@ -125,6 +125,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McConnell says he'll treat Biden 'a hell of a lot better than Chuck Schumer ever treated Donald Trump'"
+    excerpt: "Sen. Majority Leader Mitch McConnell promised to treat President-elect Biden better than his minority-leading counterpart ever treated President Trump. "
+    publishedDateTime: 2020-12-22T18:50:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sl58Ai9kmIk/mcconnell-biden-better-chuck-schumer-treated-donald-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-better-chuck-schumer-treated-donald-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-better-chuck-schumer-treated-donald-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/McConnell-Schumer-Split.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden will not discuss Hunter Biden probe with attorney general candidates: Psaki"
     excerpt: "President-elect Joe Biden's pick for White House press secretary, Jen Psaki, told \"Fox News Sunday\" that Biden will not discuss any investigation of his son Hunter with anyone he is considering to be the next U.S. attorney general."
     publishedDateTime: 2020-12-20T15:37:14Z

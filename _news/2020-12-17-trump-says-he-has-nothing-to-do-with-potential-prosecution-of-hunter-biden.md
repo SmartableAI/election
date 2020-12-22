@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-hunter-biden-special-prosecut
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
 type: article
 quality: 186
-heat: 626
+heat: 646
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 174
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64208635-0349-48e0-a93c-f27a02bd14c0/3fd9dd5d-8e39-4843-83b3-4f10cbc9f0e3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "McConnell says he'll treat Biden 'a hell of a lot better than Chuck Schumer ever treated Donald Trump'"
+    excerpt: "Sen. Majority Leader Mitch McConnell promised to treat President-elect Biden better than his minority-leading counterpart ever treated President Trump. "
+    publishedDateTime: 2020-12-22T18:50:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sl58Ai9kmIk/mcconnell-biden-better-chuck-schumer-treated-donald-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-better-chuck-schumer-treated-donald-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-better-chuck-schumer-treated-donald-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/McConnell-Schumer-Split.jpg"
         width: 1280
         height: 720
         isCached: true

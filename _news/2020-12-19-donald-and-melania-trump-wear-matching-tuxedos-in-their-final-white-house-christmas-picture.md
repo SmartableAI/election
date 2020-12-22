@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trumps-pose-final-white-house-christ
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12?amp"
 type: article
 quality: 115
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Former New Jersey Gov. Chris Christie says he 'would not' rule out challenging Trump in 2024"
+    excerpt: "In a radio interview, former Gov. Chris Christie kept open the possibility that a 2016 rematch against Donald Trump could happen"
+    publishedDateTime: 2020-12-22T18:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/22/chris-christie-would-not-rule-out-challenging-trump-2024/4011122001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4011122001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4011122001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/11/19/PNJM/40d0121c-485b-403d-ad49-75577bd538b4-YE_New_Jersey_2016.jpg?auto=webp&crop=1999,1142,x0,y54&format=pjpg&width=1200"
+        width: 1200
+        height: 686
+        isCached: true
   - title: "President Trump, Melania Trump don matching tuxedos in final Christmas portrait: See the photo"
     excerpt: "President Donald Trump and first lady Melania Trump donned matching looks and smiles for their final White House Christmas portrait."
     publishedDateTime: 2020-12-19T04:26:00Z

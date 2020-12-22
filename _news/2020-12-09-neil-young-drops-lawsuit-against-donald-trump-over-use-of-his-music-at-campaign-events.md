@@ -64,6 +64,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump Will Face Different Twitter Rules When He Leaves Office"
+    excerpt: "As a public official, President Trump tweets with less risk of having his posts taken down or his account suspended. That will change on Jan. 20."
+    publishedDateTime: 2020-12-22T18:03:00Z
+    webUrl: "https://www.wsj.com/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-274855/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "Krh7C7Pk46luWsW0MpXBb2T+za1ePzJZNz/N/oVFl6nmmK3Jspz2eQGrjHOBW7LMGJ4BiDeh3PBY6len21JBPKeH7jKBPRYzMraffAeua8E404fcCmt6kFWVP/70vdkNSOahG/pITxe+bvsZZYub9tHvgfP4hcqSxmQmxz7GojR10EvoNKYoHKeeIYN4sKfYls7xIFhayEeJBbsQEBdQ3FiocJiyGjIjtdnNz93MLbVUFVD0VY/2XknHiMczrp4zCOvtCS4wgx1ls/4NyeNfPMuuJiCllRkXYlLgGjIPiihsp9mbfAB9VoXMu76gFwNeduuZ+u6/63FFRg1xqmdrf3j0MxLiy5Z0uFUEilFNq0yIeAYs0wEVrOc8UHyC/tdg+fF3yegRB9HvvgRHumchqBsF8GjhZIMrKblIYeZoQ6Mj02lodnifzmsLoWqSiA3QUf4vFlljIaJFx46zReIvnPXPFv8ADEccHi2k+Nmcms8pVXWh9lXocw23kxm7tQ4s9g3w3pLgJ1Gemsuy5Epbnw==;Mz5+IkDedAMK3HO6kZ1/Cw=="
 ---

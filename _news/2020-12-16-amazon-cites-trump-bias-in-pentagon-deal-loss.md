@@ -939,6 +939,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "GOP lawmakers are set to challenge states' Electoral College votes in a last-ditch attempt to overturn Trump's election defeat"
+    excerpt: "Majorities in the House and Senate are needed just to reject one state's electors, making the effort highly unlikely to overturn Trump's loss."
+    publishedDateTime: 2020-12-22T17:51:00Z
+    webUrl: "https://businessinsider.com/gop-reps-trump-challenging-electoral-votes-is-unlikely-to-succeed-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/gop-reps-trump-challenging-electoral-votes-is-unlikely-to-succeed-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-reps-trump-challenging-electoral-votes-is-unlikely-to-succeed-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5f50165c7ed0ee001e25d279?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "With punt, Supreme Court largely ends Trump census plan to exclude immigrants lacking documentation"
     excerpt: "The census ruling could leave the issue to Biden. Not counting people in the U.S. illegally would hurt California, costing it power and federal funds."
     publishedDateTime: 2020-12-18T23:56:00Z
@@ -1065,6 +1081,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AGB3XVCD6YI6XLBKHLAPFOGO5M.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "$900B COVID relief bill passed by Congress, sent to Trump"
+    excerpt: "Congress passed a $900 billion pandemic relief package that would finally deliver long-sought cash to businesses and individuals and resources to vaccinate a nation confronting a frightening surge in COVID-19 cases and deaths."
+    publishedDateTime: 2020-12-22T18:14:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/congress-approves-900b-covid-relief-bill-sending-trump-74855580"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6b07d8103a4740c388083b5a1ac319ae_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "President Trump plans to sign COVID-19 stimulus bill"
     excerpt: "Congress passed a $900 billion stimulus measure, which now heads to President Trump for a signature. CBS News White House correspondent Paula Reid joins CBSN with the latest."
