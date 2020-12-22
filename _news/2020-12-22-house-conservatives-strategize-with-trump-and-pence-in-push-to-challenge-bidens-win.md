@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trum
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trump-meeting/index.html"
 type: article
 quality: 208
-heat: 1048
+heat: 1068
 published: true
 
 provider:
@@ -477,6 +477,22 @@ related:
       - url: "https://static.politico.com/af/a2/56574fb144faaebea508e04c0125/gettyimages-1230056598-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Russian hack ‘happened on Donald Trump’s watch when he wasn’t watching,’ Biden says."
+    excerpt: "This assault happened on Donald Trump’s watch when he wasn’t watching,” Mr. Biden said at a year-end news conference “Even if he doesn’t take it seriously, I will. I’m disappointed by the response of President Trump."
+    publishedDateTime: 2020-12-22T20:35:00Z
+    webUrl: "https://www.nytimes.com/2020/12/22/us/russian-hack-happened-on-donald-trumps-watch-when-he-wasnt-watching-biden-says.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/russian-hack-happened-on-donald-trumps-watch-when-he-wasnt-watching-biden-says.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/russian-hack-happened-on-donald-trumps-watch-when-he-wasnt-watching-biden-says.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 143
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/22/us/politics/22transition-briefing-biden/22transition-briefing-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden Faces Challenge as Congress Drops State Aid to Secure Stimulus"
     excerpt: "A campaign by conservative activists and disputes over how to divvy up federal assistance have thwarted negotiators. But President-elect Joe Biden will make a new push for such funding next year."

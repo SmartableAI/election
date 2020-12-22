@@ -494,6 +494,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Russian hack ‘happened on Donald Trump’s watch when he wasn’t watching,’ Biden says."
+    excerpt: "This assault happened on Donald Trump’s watch when he wasn’t watching,” Mr. Biden said at a year-end news conference “Even if he doesn’t take it seriously, I will. I’m disappointed by the response of President Trump."
+    publishedDateTime: 2020-12-22T20:35:00Z
+    webUrl: "https://www.nytimes.com/2020/12/22/us/russian-hack-happened-on-donald-trumps-watch-when-he-wasnt-watching-biden-says.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/russian-hack-happened-on-donald-trumps-watch-when-he-wasnt-watching-biden-says.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/russian-hack-happened-on-donald-trumps-watch-when-he-wasnt-watching-biden-says.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 143
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/22/us/politics/22transition-briefing-biden/22transition-briefing-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Congress braces for painful veto clash with Trump on defense bill"
     excerpt: "Congressional leaders are scrambling to avoid an unusual scenario in which lawmakers are summoned back to Washington in the days between Christmas and New Year’s for a dramatic, eleventh-hour vote to overturn Trump's promised veto of a massive national defense bill."
     publishedDateTime: 2020-12-17T21:20:00Z

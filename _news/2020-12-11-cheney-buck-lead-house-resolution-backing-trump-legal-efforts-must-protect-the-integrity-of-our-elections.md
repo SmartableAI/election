@@ -45,6 +45,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "From Trump's impeachment trial to Hunter Biden: The biggest political scandals of 2020"
+    excerpt: "As 2020 comes to a close, the news has been dominated by a global pandemic, statewide lockdowns and a presidential election. Amid all that, it’s easy to forget about political events, including scandals and controversies, that otherwise would have been more in the spotlight."
+    publishedDateTime: 2020-12-22T19:27:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U99P66zzip0/trump-biden-biggest-political-scandals-of-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6735719-5880-4721-98a4-9f6162f992d6/7744e53b-a550-4780-9b27-5228d2ea0d54/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump asking about potential special counsel to investigate Hunter Biden after Barr resignation"
     excerpt: "President Trump is talking to advisers about asking for a special counsel to be appointed to continue investigations into the \"tax affairs\" of Hunter Biden, the son of President-elect Biden, according to a report."
     publishedDateTime: 2020-12-16T13:37:11Z
@@ -154,6 +170,22 @@ related:
     quality: 170
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d3510bd-03e7-49ea-8fbe-75b8933bd5c1/360cfa39-c952-4b0b-8928-61d73d18ee39/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Omar blasts Biden team 'bait and switch' after officials say undoing Trump immigration policy will 'take time'"
+    excerpt: "Rep. Ilhan Omar accused the Biden team of already breaking a “core campaign promise” after officials picked to serve in the president-elect’s administration admitted that they would not roll back Trump’s immigration policies all at once. "
+    publishedDateTime: 2020-12-22T19:20:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1AxJxVii8FU/omar-biden-team-bait-switch-undoing-trump-immigration-policy-take-time"
+    ampWebUrl: "https://www.foxnews.com/politics/omar-biden-team-bait-switch-undoing-trump-immigration-policy-take-time.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-biden-team-bait-switch-undoing-trump-immigration-policy-take-time.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Ilhan-Omar-REUTERS.jpg"
         width: 1280
         height: 720
         isCached: true

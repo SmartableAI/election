@@ -494,6 +494,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Russian hack ‘happened on Donald Trump’s watch when he wasn’t watching,’ Biden says."
+    excerpt: "This assault happened on Donald Trump’s watch when he wasn’t watching,” Mr. Biden said at a year-end news conference “Even if he doesn’t take it seriously, I will. I’m disappointed by the response of President Trump."
+    publishedDateTime: 2020-12-22T20:35:00Z
+    webUrl: "https://www.nytimes.com/2020/12/22/us/russian-hack-happened-on-donald-trumps-watch-when-he-wasnt-watching-biden-says.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/russian-hack-happened-on-donald-trumps-watch-when-he-wasnt-watching-biden-says.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/russian-hack-happened-on-donald-trumps-watch-when-he-wasnt-watching-biden-says.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 143
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/22/us/politics/22transition-briefing-biden/22transition-briefing-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden Faces Challenge as Congress Drops State Aid to Secure Stimulus"
     excerpt: "A campaign by conservative activists and disputes over how to divvy up federal assistance have thwarted negotiators. But President-elect Joe Biden will make a new push for such funding next year."
     publishedDateTime: 2020-12-17T23:33:00Z

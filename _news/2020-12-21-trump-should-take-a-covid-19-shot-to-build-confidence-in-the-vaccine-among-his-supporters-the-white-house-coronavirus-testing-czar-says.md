@@ -246,6 +246,17 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "U.S. Congress passes nearly $900 bln COVID-19 aid bill, awaits Trump approval"
+    excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week after Congress passed a $892 billion COVID-19 aid package overnight that aims to shore up the nation's pandemic response and bolster the battered economy."
+    publishedDateTime: 2020-12-22T18:45:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-idUSL1N2J20U7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J20U7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J20U7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
   - title: "2 former CDC officials say the Trump administration 'sidelined' science and hobbled the agency's COVID-19 response"
     excerpt: "\"Every time that the science clashed with the messaging, messaging won,\" former CDC chief of staff Kyle McGowan told The New York Times."
     publishedDateTime: 2020-12-16T16:20:00Z

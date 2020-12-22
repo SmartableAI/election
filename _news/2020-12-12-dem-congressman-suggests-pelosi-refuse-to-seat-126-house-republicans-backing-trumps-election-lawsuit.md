@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump expected to veto defense bill, forcing Congress back to the Hill"
+    excerpt: "President Trump is expected to veto the National Defense Authorization Act (NDAA) Wednesday, sources tell Fox News, forcing the House and Senate to reconvene immediately following Christmas."
+    publishedDateTime: 2020-12-22T20:31:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HDgzBEoTNok/trump-expected-to-veto-defense-bill-forcing-congress-back-to-the-hill"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-expected-to-veto-defense-bill-forcing-congress-back-to-the-hill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-expected-to-veto-defense-bill-forcing-congress-back-to-the-hill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d52b8d4b-34b0-4017-b5ba-4302e95b3668/04a2861e-1bee-49c5-be40-19160523eb40/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "McConnell implores Trump not to veto defense bill, prepares override effort"
     excerpt: ""
     publishedDateTime: 2020-12-22T08:12:34Z
