@@ -1,34 +1,28 @@
 ---
 category: news
 title: "AG: 'No reason' for special counsel on election, Biden's son"
-excerpt: "Outgoing Attorney General William Barr says he sees “no reason” to appoint a special counsel on potential election fraud or the tax investigation into the son of President-elect Joe Biden"
-publishedDateTime: 2020-12-21T16:54:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/ag-reason-special-counsel-election-bidens-son-74843541"
-webUrl: "https://abcnews.go.com/Politics/wireStory/ag-reason-special-counsel-election-bidens-son-74843541"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ag-reason-special-counsel-election-bidens-son-74843541"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ag-reason-special-counsel-election-bidens-son-74843541"
+excerpt: "Outgoing Attorney General William Barr said he saw “no reason” to appoint a special counsel on potential election fraud or the tax investigation into the son of President-elect Joe Biden."
+publishedDateTime: 2020-12-21T23:42:00Z
+originalUrl: "https://www.businessinsider.com/ag-no-reason-for-special-counsel-on-election-bidens-son-2020-12"
+webUrl: "https://www.businessinsider.com/ag-no-reason-for-special-counsel-on-election-bidens-son-2020-12"
+ampWebUrl: "https://www.businessinsider.com/ag-no-reason-for-special-counsel-on-election-bidens-son-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ag-no-reason-for-special-counsel-on-election-bidens-son-2020-12?amp"
 type: article
-quality: 140
-heat: 280
-published: true
+quality: 120
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
-    isCached: true
 
 related:
   - title: "Mr. Biden shouldn’t be the only target for Catholics"
@@ -47,22 +41,6 @@ related:
         width: 1440
         height: 970
         isCached: true
-  - title: "AG Barr says he sees no reason to name special counsels to investigate Hunter Biden or election fraud"
-    excerpt: "Attorney General Barr said he saw no reason to appoint special counsels to investigate Hunter Biden or unsubstantiated allegations of election fraud."
-    publishedDateTime: 2020-12-21T16:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/21/barr-no-reason-special-counsels-hunter-biden-election-fraud/3991548001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3991548001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3991548001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/15/USAT/692ddb1b-5135-4cd3-9a7d-f76290ac2108-VPC_BARR_RESIGNS_GETTY_WIDE.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Chris Ruddy: Newsmax calls the election for Joe Biden"
     excerpt: "Chris Ruddy, the CEO of Newsmax Media, has defended his US channel's post election coverage when President Donald Trump challenged the result. He told Hardtalk's Stephen Sackur: \"There is a media-spin that somehow we are trying to deny the election or as you say out-Trump,"
     publishedDateTime: 2020-12-16T16:11:00Z
@@ -77,65 +55,34 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "Biden won't ask his attorney general candidates about potential investigations into his son, Hunter"
-    excerpt: "Incoming White House Press Secretary Jen Psaki said Biden would not be addressing an investigation with his candidates for Attorney General."
-    publishedDateTime: 2020-12-20T17:16:00Z
-    webUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
+  - title: "Biden vows to punish those behind hack against U.S. government"
+    excerpt: "Elect Joe Biden said Thursday that a recently uncovered far-reaching cybersecurity breach against the U.S. government was a matter of \"great concern\" and vowed swift action in response once he takes office next month."
+    publishedDateTime: 2020-12-18T01:40:00Z
+    webUrl: "https://www.businessinsider.com/biden-vows-to-punish-those-behind-hack-against-us-government-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-vows-to-punish-those-behind-hack-against-us-government-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-vows-to-punish-those-behind-hack-against-us-government-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5fdbcfa4d366e60018098c5f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Electoral College makes it official: Biden won"
-    excerpt: "The Electoral College decisively confirmed Joe Biden on Monday as the nation’s next president, ratifying his November victory in an authoritative state-by-state repudiation of President Donald Trump’s refusal to concede he had lost."
-    publishedDateTime: 2020-12-15T05:31:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/15/electoral-college-makes-official-biden-won/3901023001/"
+    quality: 105
+  - title: "'SNL' unveils new Joe Biden as Jim Carrey exits"
+    excerpt: "After Jim Carrey said he would no longer play President-elect Joe Biden on \"SNL,\" the show introduced its new Biden: cast member Alex Moffat."
+    publishedDateTime: 2020-12-20T16:09:00Z
+    webUrl: "https://www.stltoday.com/entertainment/television/snl-unveils-new-joe-biden-as-jim-carrey-exits/article_38faf70b-2350-59df-8435-0f1c045517a6.html"
+    ampWebUrl: "https://www.stltoday.com/entertainment/television/snl-unveils-new-joe-biden-as-jim-carrey-exits/article_38faf70b-2350-59df-8435-0f1c045517a6.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/entertainment/television/snl-unveils-new-joe-biden-as-jim-carrey-exits/article_38faf70b-2350-59df-8435-0f1c045517a6.amp.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/815449b8-6497-4ef2-bafa-450265f6c1b5_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden defends son in Justice Department probe..."
-    excerpt: "Watch \"President-elect Joe Biden defends his son Hunter Biden in the Justice Department probe during a sit down with Stephen Colbert on 'The Late Show'\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
-    publishedDateTime: 2020-12-18T00:59:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201218001933-president-elect-joe-biden-defends-his-son-hunter-biden-in-the-justice-department-probe-during-a-sit-down-with-stephen-colbert-on-the-la/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/18/story_08169353_1608251944.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "'No plans' for special counsel in Hunter Biden probe -Barr"
-    excerpt: "Politics 'No plans' for special counsel in Hunter Biden probe -Barr. Posted . U.S. Attorney General William Barr said on Monday he has no plans to appoint a special counsel to inv"
-    publishedDateTime: 2020-12-21T18:56:00Z
-    webUrl: "https://www.reuters.com/video/watch/no-plans-for-special-counsel-in-hunter-b-idOVD9YH5NJ?chan=6g5ka85"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201221&i=OVD9YH5NJ&r=OVD9YH5NJ&t=2"
-        width: 960
-        height: 540
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/57/657185f6-b6a6-57dc-9122-64f6d1deb061/5fdf6dff2e0cc.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
         isCached: true
 
-secured: "Z1TMbYOXuwJQY1iXzM1LMLUJX7hJvgz9sV1dwY3lmhBxqgiDWtVPd6m28Siw5R4KGQHRFcr6N+XWGiRdNWL3haEx4K19WEB4IUs67RMNgClcThfI1EN1TRltMppI05OvzmQLumVrhY/9R1tu1Gd21i3Ltlrr4QVYfaZeh5XKchXEfbzMvhwJYir7DJ5K1gP2Bd0ph9fMyFlSiiv2cZsfuWVF3cGT1JRoDHpaSkneAwo0lSokvvy7gcczXlnW1d8b7GenP0eSVSEqdSFly1rwIzr4v+KyL8SxXRKr/ZGatKbAgSK7yjaxac/whhdkvs6Adl9DmOR8Vx4SfR/vunS0XHb+zT5YGPoQgYY4fVliLGZadIgtn3bSwju1lZsk+wFFUT8xig2Rm/eJBsYijTSYXQxUyER3DvmfOMlS9Jz4ORii+wW31wMEdEpCuL0/jR/hmnLjzlgSVF2/RnR1L/g9APqK+arv2H+eRKjHZ6GGT/VhYaU/E8opL2wJ7WfaNh67NfKh9rxnNeuXmuk51Rf+iQ==;tou3CkFCHx0uBkHfjbpdFQ=="
+secured: "Gn4ERruRWaWRe8qoJ6kohaEI4Z1cExF4rTNInKLSJNZGOo3miuwwfbf5/5av8Dq00WMrifJXUsAtEfYK4vH5DYNEJYe1Gt9e+Ns9Qp+R4H0baqwg5OqntYllXeOqZSoEWpSRZMn7cHqnpY3fMw7epsn4Rmfj5pSFu3eicvUeypKJ5dyGshH8azUlJs6pTlADd7oDI4jPNeK+r3zPgBR5N039GrJkOXyuxPOCGaZadyCCQhDiaB2vjbZNTFhnbqGU+V5yFsBkiFoeQV5bz3Khg0Of5kr/5ENbdO+CcDNStBiGiPgsey38D/xvQFIkewiI2r8+bv0CDq8wKNe5Viyz9MyCZ5riXv/HjOERIqDHw8E=;Wh5EoFptXeBbB/auJbV6Cw=="
 ---
 

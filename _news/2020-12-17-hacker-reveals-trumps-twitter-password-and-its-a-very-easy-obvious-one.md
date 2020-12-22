@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Twitter says it 'inadvertently' limited engagements on Trump's flagged tweets"
-    excerpt: "Twitter Inc said on Saturday it had \"inadvertently\" limited engagements for a brief period on U.S. President Donald Trump's tweets with \"disputed\" labels but later reversed its action."
-    publishedDateTime: 2020-12-13T00:44:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-twitter-idUKKBN28M0VX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28M0VX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28M0VX"
+  - title: "Probe: Trump officials attacked CDC virus reports"
+    excerpt: "A House investigative panel says Trump administration political appointees tried to block or change more than a dozen government articles that detailed scientific findings about the spread of the coro"
+    publishedDateTime: 2020-12-21T20:53:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544359954&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB0GC"
-        width: 943
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/azar-file-ap-ml-201218_1608298081614_hpMain_3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "‘Like a hand grasping’: Trump appointees describe the crushing of the CDC"
+    excerpt: "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, were installed in 2018 as two of the youngest political appointees in the history of the world’s premier public health agency,"
+    publishedDateTime: 2020-12-16T17:28:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/sns-nyt-cdc-trump-20201216-zmk3voqeunexjnhowzi6tqfkou-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/sns-nyt-cdc-trump-20201216-zmk3voqeunexjnhowzi6tqfkou-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/sns-nyt-cdc-trump-20201216-zmk3voqeunexjnhowzi6tqfkou-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 124
+    images:
+      - url: "https://www.chicagotribune.com/resizer/5re4-qd609Hv_IcCEcu2pP1qyPo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MDBRM2XLUOGRAO4BDJ4CJVJC6A.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "XIOd8waMRHflf8fuDJG2KYXyVDWK/fQx6aIpcjR5s7vRgA/F2oJ8/hwFNyS5HI4VRV5y8snJgEYPy+COhuBYKtLyUYBThurhBxrJmE1JgEyBJ7dti4AW2quWK5+G73oSd6xwCfJC71KFm1kFa5xwlNBXNnsltnDORB6jnRC/ibDHjqG69eAnX+3oBoGTr6aTwAXhEDdx6jvuF+CwrqNgXOShi7ldCIj1I6hPfVxvUlX2MziljAh3Ir2S6JF9LDDGu3EPRGg0eT5iMViBSvf8GB8JIEPWQKGVeVRfz7xcs7TckSxBjxAzHPRUv/ulFbUfSN0Z+ZZOr8Xyr6BjWjmFgzQNfvFL6UR8+o1Mec9WRGU=;vsoXgtgbTC1CjURq/i6l0A=="

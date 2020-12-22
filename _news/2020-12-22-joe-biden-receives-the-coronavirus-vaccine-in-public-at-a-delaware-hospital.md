@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden Receives the Coronavirus Vaccine in Public at a Delaware Hospital"
 excerpt: "The president-elect received the Covid-19 vaccine Monday in a televised appearance from a Delaware hospital in which he encouraged the public to get vaccinated."
 publishedDateTime: 2020-12-21T20:58:00Z
-originalUrl: "https://www.wsj.com/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
-webUrl: "https://www.wsj.com/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
+originalUrl: "https://www.wsj.com/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369?mod=politics_lead_pos2"
+webUrl: "https://www.wsj.com/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369?mod=politics_lead_pos2"
 ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
 type: article
@@ -467,6 +467,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "GnIpjKTL6AIePcWUP6aLTVGHTxQD/K1e7xElQDWmeLzW8Tqikev5prVd6hJYcf4aiH/bDAO9LYSDMetD0oIpvR3QNu+JJZbptHjxnDubWz6qBQPuVcvdWYzbsktjQdt20DjY6YUGdDDKcxLYe4iyFNJYBwljgIUTUMep209TOWW2ztSviy2b6qXmn35ToKl5viSLF4XVZKp7i1zf7Sx8B3FQhzIvWYnvMKIM7yJyPOODPBqla9xQCviLNMUmA/me+fC0hsowsWyyi/qFRv35jPWHGczHzH7+47s1mguxY5Mq99ZALJIkwREiyOBRHrBBa/Va4ZYvMTpu5jAhPq5OjJGbbukZsxCXskcugrqsm6aynBUESegrpb3AKVTsQbvqgmpkof5xO1PLewYMpUpJ6unfKCy+NLJazP2z2EqUwH8x0ut1/H3Dzm0QR1dlYgmxRpEOHkDqV06nYbAQkhITrlyVPIT96OHUxQkalhDZEzIp/pFyHQz558so/AmkGQUnyqfhOr9/yU/eKmpfIBIB7A==;hJbkrhha+pkooyxF7/7nyg=="
+secured: "mkuA579Zt3nvrFyp6OIouIzTXmnPSg61yTsgwKDjs2nWgxHcXSCxgDNK9uxmzF8lh7ZnhtM4Ra4nBd0HSyz9A1vT9zs3PnSjq3tF54qkhGNgEkPHRFZCAu7DdN5DiPCaR+AktVeZapc96hNPQwhc0JwT/NZ4MIsNkLVnEdfHZbLOnBvIU90EzA6WA/piITzxGC0go5EaxHgo1ncdITOuiS/XR64/P4PQP1YJV638rw66l4/S41X9EIbMYUuNxsd7GQY3hsR2Dirdg10XBUDwGfBYc9qgEwdyp+uIwtVJSVWFpPEHtNjoWqKTyuadmHNDyl9MifLyNEiqYr7xr8RVL13HIPX8l9J4cTlyYfo5I1o=;BJ29lYJYK5B6HpHZvzKQ5Q=="
 ---
 

@@ -244,6 +244,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Harris, Ivanka Trump stump in Georgia ahead of Senate runoff"
+    excerpt: "Vice President-elect Kamala Harris and Ivanka Trump were in Georgia to stump for opposite candidates in a runoff election that will determine control of the U.S. Senate"
+    publishedDateTime: 2020-12-21T23:04:00Z
+    webUrl: "https://www.washingtonpost.com/health/harris-ivanka-trump-stump-in-georgia-ahead-of-senate-runoff/2020/12/21/3326ea44-43ec-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/harris-ivanka-trump-stump-in-georgia-ahead-of-senate-runoff/2020/12/21/3326ea44-43ec-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/harris-ivanka-trump-stump-in-georgia-ahead-of-senate-runoff/2020/12/21/3326ea44-43ec-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 150
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden and Harris to be sworn in at Capitol, but public urged to stay home"
     excerpt: "The inaugural committee said in a statement that it urged the public not to travel to attend the inauguration in January."
     publishedDateTime: 2020-12-15T21:40:00Z

@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-17-like-a-hand-grasping-trump-appointees-describe-the-crushing-of-the-cdc.md",
-      "title": "‘Like a hand grasping’: Trump appointees describe the crushing of the CDC",
-      "excerpt": "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, were installed in 2018 as two of the youngest political appointees in the history of the world’s premier public health agency,",
+      "path": "_news/2020-12-17-trump-names-usps-board-nominee-potentially-solidifying-gop-control-of-mail-service.md",
+      "title": "Trump names USPS board nominee, potentially solidifying GOP control of mail service",
+      "excerpt": "Roy A. Bernardi, a former HUD official, would become the fifth Republican on the nine-member board of governors if he wins Senate confirmation.",
       "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/coronavirus/sns-nyt-cdc-trump-20201216-zmk3voqeunexjnhowzi6tqfkou-story.html",
-      "originalUrl": "https://www.chicagotribune.com/coronavirus/sns-nyt-cdc-trump-20201216-zmk3voqeunexjnhowzi6tqfkou-story.html",
+      "webUrl": "https://www.washingtonpost.com/business/2020/12/16/usps-trump-board-governor-nominee/",
+      "originalUrl": "https://www.washingtonpost.com/business/2020/12/16/usps-trump-board-governor-nominee/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://www.chicagotribune.com/resizer/5re4-qd609Hv_IcCEcu2pP1qyPo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MDBRM2XLUOGRAO4BDJ4CJVJC6A.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QIGBL5X6QQI6VMHEGUHE4YGMSE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/sns-nyt-cdc-trump-20201216-zmk3voqeunexjnhowzi6tqfkou-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/sns-nyt-cdc-trump-20201216-zmk3voqeunexjnhowzi6tqfkou-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-16T09:28:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/business/2020/12/16/usps-trump-board-governor-nominee/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/12/16/usps-trump-board-governor-nominee/?outputType=amp",
+      "publishedDateTime": "2020-12-16T10:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -857,7 +857,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-usa-election-trump-twitter-idUKKBN28M0VX",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 122,
       "tags": null,
       "images": [
         {

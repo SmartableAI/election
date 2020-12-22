@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-niece-defends-sasha-obama-aft
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593?amp=1"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20201221&i=OVD9YH9LR&r=OVD9YH9LR&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Kamala Harris campaigns with Ossoff, Warnock"
+    excerpt: "Campaigning in Georgia on Monday, Vice President-elect Kamala Harris stressed to Senate runoff voters a need for Democratic colleagues to advance the Biden administration's policy agenda. (Dec. 21)"
+    publishedDateTime: 2020-12-22T00:36:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/22/kamala-harris-campaigns-ossoff-warnock/4001869001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f7def62e-c0a5-4af9-96c8-1ddf466316ef_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Kamala Harris to campaign in Georgia for Democrats in Senate runoffs"
     excerpt: "Vice President-elect Kamala D. Harris is scheduled to travel to Georgia next week to put her stamp on the two Senate runoff races that will decide how much wiggle room the Biden administration has with Congress."

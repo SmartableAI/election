@@ -25,21 +25,62 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Biden mulls punishments for Russia over suspected role in government hack"
-    excerpt: "President-elect will consider options for unprecedented hacking of US government agencies"
-    publishedDateTime: 2020-12-20T14:19:00Z
-    webUrl: "https://www.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment"
-    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment"
+  - title: "Mr. Biden shouldn’t be the only target for Catholics"
+    excerpt: "Are the religious leaders condemning President-elect Joe Biden for his abortion stance also condemning Attorney General William P. Barr, who is also Catholic, for his rabid haste to execute federal prisoners before Jan."
+    publishedDateTime: 2020-12-18T21:46:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html?outputType=amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/2f95f60c5bec962f79f95030cfc8730e32dcac1f/0_235_3925_2355/master/3925.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fdfc5a1c6bcc8beb176560c6f747a577"
-        width: 600
-        height: 360
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L65E4PSZRAI6TBBNPU7NP2ZZK4.jpg&w=1440"
+        width: 1440
+        height: 970
+        isCached: true
+  - title: "Chris Ruddy: Newsmax calls the election for Joe Biden"
+    excerpt: "Chris Ruddy, the CEO of Newsmax Media, has defended his US channel's post election coverage when President Donald Trump challenged the result. He told Hardtalk's Stephen Sackur: \"There is a media-spin that somehow we are trying to deny the election or as you say out-Trump,"
+    publishedDateTime: 2020-12-16T16:11:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55334234"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 120
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p091mmz2.jpg"
+        width: 400
+        height: 224
+        isCached: true
+  - title: "AG: 'No reason' for special counsel on election, Biden's son"
+    excerpt: "Outgoing Attorney General William Barr said he saw “no reason” to appoint a special counsel on potential election fraud or the tax investigation into the son of President-elect Joe Biden."
+    publishedDateTime: 2020-12-21T23:42:00Z
+    webUrl: "https://www.businessinsider.com/ag-no-reason-for-special-counsel-on-election-bidens-son-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/ag-no-reason-for-special-counsel-on-election-bidens-son-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ag-no-reason-for-special-counsel-on-election-bidens-son-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+  - title: "'SNL' unveils new Joe Biden as Jim Carrey exits"
+    excerpt: "After Jim Carrey said he would no longer play President-elect Joe Biden on \"SNL,\" the show introduced its new Biden: cast member Alex Moffat."
+    publishedDateTime: 2020-12-20T16:09:00Z
+    webUrl: "https://www.stltoday.com/entertainment/television/snl-unveils-new-joe-biden-as-jim-carrey-exits/article_38faf70b-2350-59df-8435-0f1c045517a6.html"
+    ampWebUrl: "https://www.stltoday.com/entertainment/television/snl-unveils-new-joe-biden-as-jim-carrey-exits/article_38faf70b-2350-59df-8435-0f1c045517a6.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/entertainment/television/snl-unveils-new-joe-biden-as-jim-carrey-exits/article_38faf70b-2350-59df-8435-0f1c045517a6.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/57/657185f6-b6a6-57dc-9122-64f6d1deb061/5fdf6dff2e0cc.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "S0sm6paKPsGtxgXSJlZqyzsYWNK07jJjvwBgC8eHjLQcjbcYjqY8HVu395KpQW+wFtiMqsOwGAnC2RQcyL+IDy5Dm/CqSSxAbBpSbsLhVE9xM2vJO/D4+Lu1RAgMniOA+RHw8pf+uQ6JcpnjAM2KcMRLnv1ED7VINACf/Mzehft92yv30HqSXHQONguU5qIGSfB6uuZ4+UpCUVnAz/FKBexWEAHN3e4b9i14F0UijDHDIjBuN9+v63M06JEzkPoWNwb7FP9gUiwmLOKO4aaRlbhNWHo1jdc9gIgYT4d2FapaFLK06aey7La75BFAgWfMgPXhTWa2FU/gajPuxdj6BNUYTgkoHGlc7WOJFz9UhGs=;vhnNK4va1R5iTdjvQYq0TQ=="

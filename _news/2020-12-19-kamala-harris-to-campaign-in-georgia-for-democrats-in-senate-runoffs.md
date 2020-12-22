@@ -87,6 +87,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Kamala Harris campaigns with Ossoff, Warnock"
+    excerpt: "Campaigning in Georgia on Monday, Vice President-elect Kamala Harris stressed to Senate runoff voters a need for Democratic colleagues to advance the Biden administration's policy agenda. (Dec. 21)"
+    publishedDateTime: 2020-12-22T00:36:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/22/kamala-harris-campaigns-ossoff-warnock/4001869001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f7def62e-c0a5-4af9-96c8-1ddf466316ef_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Kamala Harris to arrive in Georgia on Monday for Senate runoff rallies"
     excerpt: "Vice President-elect Kamala Harris will travel to Georgia on Monday to campaign for Senate candidates Jon Ossoff and Raphael Warnock ahead of Jan. 5 runoffs for control of the U.S. Senate."
     publishedDateTime: 2020-12-18T19:18:00Z

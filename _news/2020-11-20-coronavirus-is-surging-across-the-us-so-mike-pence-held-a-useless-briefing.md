@@ -159,6 +159,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Coronavirus live news: Biden receives vaccine as global death toll passes 1.7m"
+    excerpt: "UK warned to expect further restrictions; intensive care beds full in southern California; Denmark bans mink farms for a year"
+    publishedDateTime: 2020-12-21T23:47:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/d6b1f767c1358f4f51885c3503a0754e468d821a/0_433_5668_3401/master/5668.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=52e90980f970ef55af38de5f1fcdcfda"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden says bipartisan coronavirus aid bill should be passed but will still need more"
     excerpt: "President-elect Joe Biden said on Thursday a bipartisan coronavirus aid bill should be passed but that he will have to ask for more once in office."
     publishedDateTime: 2020-12-04T07:32:00Z

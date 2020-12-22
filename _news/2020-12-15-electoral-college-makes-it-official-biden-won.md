@@ -29,38 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AG: 'No reason' for special counsel on election, Biden's son"
-    excerpt: "Outgoing Attorney General William Barr says he sees “no reason” to appoint a special counsel on potential election fraud or the tax investigation into the son of President-elect Joe Biden"
-    publishedDateTime: 2020-12-21T16:54:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ag-reason-special-counsel-election-bidens-son-74843541"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ag-reason-special-counsel-election-bidens-son-74843541"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ag-reason-special-counsel-election-bidens-son-74843541"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Mr. Biden shouldn’t be the only target for Catholics"
-    excerpt: "Are the religious leaders condemning President-elect Joe Biden for his abortion stance also condemning Attorney General William P. Barr, who is also Catholic, for his rabid haste to execute federal prisoners before Jan."
-    publishedDateTime: 2020-12-18T21:46:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L65E4PSZRAI6TBBNPU7NP2ZZK4.jpg&w=1440"
-        width: 1440
-        height: 970
-        isCached: true
   - title: "AG Barr says he sees no reason to name special counsels to investigate Hunter Biden or election fraud"
     excerpt: "Attorney General Barr said he saw no reason to appoint special counsels to investigate Hunter Biden or unsubstantiated allegations of election fraud."
     publishedDateTime: 2020-12-21T16:38:00Z
@@ -76,64 +44,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/15/USAT/692ddb1b-5135-4cd3-9a7d-f76290ac2108-VPC_BARR_RESIGNS_GETTY_WIDE.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Chris Ruddy: Newsmax calls the election for Joe Biden"
-    excerpt: "Chris Ruddy, the CEO of Newsmax Media, has defended his US channel's post election coverage when President Donald Trump challenged the result. He told Hardtalk's Stephen Sackur: \"There is a media-spin that somehow we are trying to deny the election or as you say out-Trump,"
-    publishedDateTime: 2020-12-16T16:11:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-55334234"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 120
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p091mmz2.jpg"
-        width: 400
-        height: 224
-        isCached: true
-  - title: "Biden won't ask his attorney general candidates about potential investigations into his son, Hunter"
-    excerpt: "Incoming White House Press Secretary Jen Psaki said Biden would not be addressing an investigation with his candidates for Attorney General."
-    publishedDateTime: 2020-12-20T17:16:00Z
-    webUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5fdbcfa4d366e60018098c5f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Biden defends son in Justice Department probe..."
-    excerpt: "Watch \"President-elect Joe Biden defends his son Hunter Biden in the Justice Department probe during a sit down with Stephen Colbert on 'The Late Show'\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
-    publishedDateTime: 2020-12-18T00:59:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201218001933-president-elect-joe-biden-defends-his-son-hunter-biden-in-the-justice-department-probe-during-a-sit-down-with-stephen-colbert-on-the-la/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/18/story_08169353_1608251944.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "'No plans' for special counsel in Hunter Biden probe -Barr"
-    excerpt: "Politics 'No plans' for special counsel in Hunter Biden probe -Barr. Posted . U.S. Attorney General William Barr said on Monday he has no plans to appoint a special counsel to inv"
-    publishedDateTime: 2020-12-21T18:56:00Z
-    webUrl: "https://www.reuters.com/video/watch/no-plans-for-special-counsel-in-hunter-b-idOVD9YH5NJ?chan=6g5ka85"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201221&i=OVD9YH5NJ&r=OVD9YH5NJ&t=2"
-        width: 960
-        height: 540
         isCached: true
 
 secured: "+KPb81D7X1r5XL+bmp0Hs30ueLVne98EGsVTnXnkOwIZ4rzQJIGbR1KjiFtT6ivAXZ+fGx3eeAzpVnJ7aTKSlsWsYQ1PgIOTQfAatV0MFVKDil5vLaoY1ZLJbae6Opnfl+8j1Ut6W6XeNhQ95ZAEernq0nNfStwqBfNrpYUNpl9L5y8VPTafFt22ZRCTyH+7HGyEV+MEMB+vTvJ0I5KJ47xSi3r090wsJ9UB7mY1CBs+5Vw99BePxV4IpMyeJsDb3vR14H3p6zD54xe7J6SXqzClThg3RfK1mpuLKF4ZrVehCy6iFQZimhSsGU1JbNUo5RA8qzEStFEyihstoO80uGcvKG6OCA569Z4UCTtCkjFo28IY7JCfla4NmCDWNr1s54Fcmk9kFWBvtAtO4h3tfIYlP3DaUdqcFlZZsScrY9bmBQEd/NPOxSavd0++U437FOluWQysF08gmd0a2v2A+LTzqsJnwIRTOWFXVDf3K3vPz3eID+EBlqUu/ZRM4mtKY7+3eTj5JpvUsQXs/eQp6w==;nnwspYnfGslX4mp5Rm7mjA=="

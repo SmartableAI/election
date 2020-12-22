@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chicagotribune.com/coronavirus/sns-nyt-cdc-trump-2020121
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/sns-nyt-cdc-trump-20201216-zmk3voqeunexjnhowzi6tqfkou-story.html?outputType=amp"
 type: article
 quality: 124
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: Chicago Tribune
@@ -29,6 +29,40 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Probe: Trump officials attacked CDC virus reports"
+    excerpt: "A House investigative panel says Trump administration political appointees tried to block or change more than a dozen government articles that detailed scientific findings about the spread of the coro"
+    publishedDateTime: 2020-12-21T20:53:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/azar-file-ap-ml-201218_1608298081614_hpMain_3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Hacker Reveals Trump's Twitter Password And It's A Very Easy, Obvious One"
+    excerpt: "The cybersecurity researcher said it only took him five attempts to successfully log into President Donald Trump's Twitter account."
+    publishedDateTime: 2020-12-17T03:37:00Z
+    webUrl: "https://www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003"
+    ampWebUrl: "https://www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/29/us-president-donald-trump-says-he-will-not.jpg"
+        width: 1024
+        height: 716
+        isCached: true
 
 secured: "INtb3NMNV48p4C8XqCzRsWAr2p+7DOGLp8ZdAQTfT95ch6MTj69+1tBOR77IJms9ufCdCnEBXn44JLDQ9jVI1VLcAWf4F+qampFipaKNvgvdm0W/8GmYmUzxYArxUQTpeKSAoUacYPoMEOJRedsPRw9pWRDT6usQQ17ucLrN2+iTAVWcnW2m6uCVunKow62HMfqKOIu8OYaWC7adD+olvs6KGvawLC7kLWOanRc8QuofCog6Q92B/9HjO0q1rl3hgm4N84lVwjHJWncs4ov0Q6g2SuHSJbx8kqAQdgnRpo9RdocX1QUeJOZOpqywBtdJxAQvPiEvEfqHRQFqPhwU30W1wvPxlSz0jDwgMzc0O2vV+4/024Bm00VWSqzph0/rStSTEvBDhfA4lR7ILMnCPfxMkMmmd84z42zRmerRufUimT9vdn5xdWXQaPvZylY0/iG4ZXy3qFcjcqAxcYQJ0IBH3DnqZ8oGTm2lXSkSOvT36BNz70CgorUO4HCmSs5buNc83tU4uyNP7TyZAKMqcw==;m8q2PNizHqe3ds/MSF8nUw=="
 ---

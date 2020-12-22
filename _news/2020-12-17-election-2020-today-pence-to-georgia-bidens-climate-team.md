@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-pence-to
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 1955
+heat: 1975
 published: true
 
 provider:
@@ -734,6 +734,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545311096&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK126"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden's team vows action against hack as US threats persist"
+    excerpt: "The chief of staff for President-elect Joe Biden says that once Biden is in office, he'll punish Russia for its suspected cyberespionage operation against the United States with financial sanctions an"
+    publishedDateTime: 2020-12-22T00:34:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-downplays-russia-comments-hacking-campaign-74826640"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-downplays-russia-comments-hacking-campaign-74826640"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-downplays-russia-comments-hacking-campaign-74826640"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_33e2631e17a9481292d29b56b37c8f96_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Mexican president expects no conflicts with Biden administration"
     excerpt: "Mexican President Andres Manuel Lopez Obrador said on Monday his weekend call with U.S. President-elect Joe Biden was \"very friendly\" and that he expect relations to be positive with the new Democratic administration taking office in January."

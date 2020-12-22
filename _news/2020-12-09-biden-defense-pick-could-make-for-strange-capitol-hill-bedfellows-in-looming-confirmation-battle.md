@@ -879,6 +879,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden economic adviser criticized GOP immigration posturing as 'xenophobic, race-baiting'"
+    excerpt: "Comments were made in response to then-candidate Trump's discussion of a U.S.-Mexico border wall."
+    publishedDateTime: 2020-12-22T00:42:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/45ClCbXZ5nw/biden-economic-adviser-gop-immigration-posturing-xenophobic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-economic-adviser-gop-immigration-posturing-xenophobic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-economic-adviser-gop-immigration-posturing-xenophobic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/84658a6e-3221-4f17-8234-f8d7aca48db3/8c8a6b23-a7c5-404f-98f0-5f1493bd9558/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden breaks silence on Hunter for first time since federal tax investigation surfaced"
     excerpt: "“I’m proud of my son,” Biden said in response to a question from Fox News' Peter Doocy."
     publishedDateTime: 2020-12-11T21:58:43Z

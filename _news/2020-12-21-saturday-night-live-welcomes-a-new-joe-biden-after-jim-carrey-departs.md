@@ -95,22 +95,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "'SNL' unveils new Joe Biden as Jim Carrey exits"
-    excerpt: "After Jim Carrey said he would no longer play President-elect Joe Biden on \"SNL,\" the show introduced its new Biden: cast member Alex Moffat."
-    publishedDateTime: 2020-12-20T16:09:00Z
-    webUrl: "https://www.stltoday.com/entertainment/television/snl-unveils-new-joe-biden-as-jim-carrey-exits/article_38faf70b-2350-59df-8435-0f1c045517a6.html"
-    ampWebUrl: "https://www.stltoday.com/entertainment/television/snl-unveils-new-joe-biden-as-jim-carrey-exits/article_38faf70b-2350-59df-8435-0f1c045517a6.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/entertainment/television/snl-unveils-new-joe-biden-as-jim-carrey-exits/article_38faf70b-2350-59df-8435-0f1c045517a6.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 75
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/57/657185f6-b6a6-57dc-9122-64f6d1deb061/5fdf6dff2e0cc.image.jpg?resize=1024%2C576"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "Vil7IMv/gpYz8XxngFddyN4P9vwKRu8X6/CzNpp/he3Ulb2wcuVsHUr2FHtNnBc0OSKvYB6LRN93d66BqgHdqgY6lNV/iNeN/0TCu8Ya0QTqVvxifLnzh4BzdROPHCI59hmucV4jv8hx/D3nROizq45eiHFSyKTTYJDGBSKgqkd4jYzkwEzOgOP7uHmkNvfwCrG2eezN4z8N59GhvBkAj3cF5blxBM+eRK8Zjd9Xi0r91vSuXuuUXkdPAunKWTI7S7efLImas9gdEdu8BV6AiMh7WC5Mz+eLRuvEc0gVgGm9fA89i4WNUr5xH65BHa9Tv2i+oUjbp8mnlyafPIgxJGqG+I/G9gE9aJgyp8RTUwWUAHA9ZfXnO0ONwZXer7o1YuETD83gv1nPxlfztv8kImIvhwUYWzYwYnNQTY2zRxYw7/98ellFIHAn7xMgRFZVq8DyEwqp1+DqgJ41OLHNTqmTlDVjEIwSKq182P0awC/fOmpRbaMO3KU6FTT+ctKaoMZwVvxp9aMV3C5m6eDpXw==;bk7rnGVnyn/7qWkV49RnXw=="
 ---

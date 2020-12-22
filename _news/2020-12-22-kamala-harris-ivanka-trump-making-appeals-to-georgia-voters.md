@@ -244,6 +244,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Harris, Ivanka Trump stump in Georgia ahead of Senate runoff"
+    excerpt: "Vice President-elect Kamala Harris and Ivanka Trump were in Georgia to stump for opposite candidates in a runoff election that will determine control of the U.S. Senate"
+    publishedDateTime: 2020-12-21T23:04:00Z
+    webUrl: "https://www.washingtonpost.com/health/harris-ivanka-trump-stump-in-georgia-ahead-of-senate-runoff/2020/12/21/3326ea44-43ec-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/harris-ivanka-trump-stump-in-georgia-ahead-of-senate-runoff/2020/12/21/3326ea44-43ec-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/harris-ivanka-trump-stump-in-georgia-ahead-of-senate-runoff/2020/12/21/3326ea44-43ec-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 150
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden and Harris to be sworn in at Capitol, but public urged to stay home"
     excerpt: "The inaugural committee said in a statement that it urged the public not to travel to attend the inauguration in January."
     publishedDateTime: 2020-12-15T21:40:00Z
@@ -2642,6 +2658,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "wM8r+QZGlVW5nxo+oqMkb1p57OjCY600hjPwQkzQv3XFcvNVP0qh8Gm2Gk0SOHY5RscqBdRN+dpPzbfrE4OOr2Giz2/vC/u54wkwzr1oEKPv8D45x/z6ngGO2VOf5eUXK++S0L+qVicoaFpqoWkoPUlNw8WzFTaNPiISqbcUi8e1O1uRRde0OgTjswRmjLChaNoB8YQeUly1dm6LO+XU8DM8qMpkMh81NzojLN3XIxZpVBze7Dg8c8AaTj+dSpj0RO8tNaVUuxK6n49HPWUZJb4o3B57aJ4QPDrCKTRCsBdrsOs1mHM73aghvMEle6ienmuQUie+f01X5M0E0Ss6qHz2Ks76CgdQmndyMX54LM4=;doCpaiqe769/WG0qqG7Chg=="
+secured: "pRjgYquhm6DOQeKL36y52K7RYcwU6oOHVeXwDJfdg0KShoBvCbgpdWTcw/4xPlxXXrN5iT9pdMMdGRX4pZ0Y8VaaROl4u2FXNfKfYbgr5Siq7RinTlBSq20ikg3jxQ9G8I7Ms3QyHlv70zVlOs6BrK++vXr0MemxQDZD+sHFzSzLU8Qu+f1WYVJNR+5HTe7HGMNJocer1sL7HWle2ymmQFHozudcoe7qOyBmxitUMH813XwQcIM/n+v1sGAXTK/s9ucgNscmlNf/yRHbaIE9f1OAVUzRP8G3jb1DatugwxIpQhHhasQpzY71qXulQpCV03ElmCmtzRtTi26WwR89lAb1nCOppOtQEvJkgzl7gymDKOoVet+6reb6iEyBm80y3Na0bgQLWmaG3mYGfnQ6Bu1IABeq9Zw/A7fwSGv0T1jTmvmjt87qCH2ttyQPPjXKqjQ+UdBRRM84QZQLNsItleoR9Y+ynIBgdsoicHDicKBAtjyMnQKGUFJzJsqrdTvdr9pVRw3vgIb8tISZk8AXZA==;6HoyYEqocDRRcsxPJvZ/Og=="
 ---
 
