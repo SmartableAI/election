@@ -41,6 +41,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden poised to pick Connecticut schools chief as education secretary"
+    excerpt: "Miguel Cardona was named Connecticut’s top schools official last year and if confirmed will have achieved a meteoric rise, moving from an assistant superintendent to secretary of education in two years."
+    publishedDateTime: 2020-12-22T04:52:00Z
+    webUrl: "https://www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PDIWR6B72II6XNMLCYR7MJTZMA.jpg&w=1440"
+        width: 1440
+        height: 1045
+        isCached: true
   - title: "Politics live updates: Biden to introduce Buttigieg as incoming Transportation chief Wednesday"
     excerpt: "Pete Buttigieg is scheduled to appear with Biden Wednesday for a formal announcement. On Twitter, he called the nomination a \"tremendous opportunity.\""
     publishedDateTime: 2020-12-16T14:27:00Z

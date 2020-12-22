@@ -1034,6 +1034,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Senate Passes Virus Relief; Sends Bill to Trump: Congress Update"
+    excerpt: "The Senate passed the massive year-end legislation combining $900 billion in pandemic relief with $1.4 trillion to fund federal agencies through fiscal 2021."
+    publishedDateTime: 2020-12-22T04:52:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/senate-passes-virus-relief-sends-bill-to-trump-congress-update/2020/12/21/0ec68d76-43f6-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AGB3XVCD6YI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Spotted owls could go extinct without more federal protection. But they’re not going to get it, Trump officials say."
     excerpt: "The northern spotted owl has lost 70 percent of its habitat to development and timber harvesting and could go extinct without added federal protection, the Trump administration announced Monday. But the owls won’t get it."
     publishedDateTime: 2020-12-15T06:18:00Z

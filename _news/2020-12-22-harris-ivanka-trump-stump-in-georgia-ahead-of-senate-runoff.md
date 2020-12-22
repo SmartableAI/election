@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Harris, Ivanka Trump stump in Georgia ahead of Senate runoff"
-excerpt: "Vice President-elect Kamala Harris and Ivanka Trump were in Georgia to stump for opposite candidates in a runoff election that will determine control of the U.S. Senate"
-publishedDateTime: 2020-12-21T23:04:00Z
-originalUrl: "https://www.washingtonpost.com/health/harris-ivanka-trump-stump-in-georgia-ahead-of-senate-runoff/2020/12/21/3326ea44-43ec-11eb-ac2a-3ac0f2b8ceeb_story.html"
-webUrl: "https://www.washingtonpost.com/health/harris-ivanka-trump-stump-in-georgia-ahead-of-senate-runoff/2020/12/21/3326ea44-43ec-11eb-ac2a-3ac0f2b8ceeb_story.html"
-ampWebUrl: "https://www.washingtonpost.com/health/harris-ivanka-trump-stump-in-georgia-ahead-of-senate-runoff/2020/12/21/3326ea44-43ec-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/harris-ivanka-trump-stump-in-georgia-ahead-of-senate-runoff/2020/12/21/3326ea44-43ec-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+excerpt: "Vice President-elect Kamala Harris and Ivanka Trump have both come to Georgia to stump for opposite candidates in a runoff election that will determine control of the U.S. Senate"
+publishedDateTime: 2020-12-22T03:58:00Z
+originalUrl: "https://www.washingtonpost.com/health/harris-ivanka-trump-stump-in-georgia-ahead-of-senate-runoff/2020/12/21/0f0ac5ec-43e0-11eb-ac2a-3ac0f2b8ceeb_story.html"
+webUrl: "https://www.washingtonpost.com/health/harris-ivanka-trump-stump-in-georgia-ahead-of-senate-runoff/2020/12/21/0f0ac5ec-43e0-11eb-ac2a-3ac0f2b8ceeb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/health/harris-ivanka-trump-stump-in-georgia-ahead-of-senate-runoff/2020/12/21/0f0ac5ec-43e0-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/harris-ivanka-trump-stump-in-georgia-ahead-of-senate-runoff/2020/12/21/0f0ac5ec-43e0-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
 type: article
 quality: 150
 heat: -1
@@ -2676,6 +2676,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "YcNnRC+l5+2TYWQtzBXUXQGDrMzrtt8GB+TRS7voahtzDydumDqHvDAjpis9el+AvV4RhCNnuuT/YdD/aYc2sd2x2Nqy2pDf4pb43mubiThYpglmj8ODwUnFntBMSw77o4g9ilobRwwbvVz317obCjPTEEq1/Yk006Pz4tnU+RCrrMfBpd9HT+ljlzAfcV9Jz+avs0m5zX1bieZrC1jSqyX1Iq4URBS3geui+LIXhAQ/U4b9xzLIaR/TqyB4/sdh9r6siIdimF+mPDZKxC2VTOeNdY59oGgValt7QkjMMGkEvmgr+z2c2dSPH/Vm4DpzbTgJSi6CgGGfc1WvQdjLGqo6JY7217s4WkjRdTTfAEw=;cpY5+Txex5Z5HRSM5Pv5Ug=="
+secured: "TJwtsVr7RYo0CuB2OUH8sNv1LbZAoHemw+z8OhSwY47fQDzp6GcIug2bxS7tb97qUdHwTyt3ewOYVh//Xy+IBZrf+bEvijbcRMZeSJwgUPkSSnEa85tKs0QHFznxENO6FffWuHQrmyYJux/BhF5oq9v6A9aCY55/1bv1yROH6Ry6tR8c1+trZLZi1T79XojrEGZQruoAy7amAfjK/Nrk2vY1DWUqQTOGj2MIRX25akMWut3snX/9YzdGvqbk5xhnMCRb90YgMwHE/f9INpX5Ge3N3QoIKRMH7jxeMMDTGYyIzGrJxriozqolQe+d7ViHxq1GlNMZ0D0t4+FDscquL+9t9hBlNn+H7S0iSgV5ejc=;MdR9ZERdoFWXzWzONzh4XA=="
 ---
 

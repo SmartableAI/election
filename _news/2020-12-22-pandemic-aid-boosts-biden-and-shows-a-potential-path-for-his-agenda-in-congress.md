@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here's which Biden Cabinet and other top roles haven't been announced yet"
+    excerpt: "President-elect Joe Biden has yet to announce several key roles in his incoming administration, including attorney general, labor secretary and commerce secretary.\n    \n"
+    publishedDateTime: 2020-12-22T03:21:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R1Tmmcg-gKQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/biden-cabinet-not-announced/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/biden-cabinet-not-announced/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104012338-07-joe-biden-speech-election-night-1104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden vows to impose 'costs' for Russian aggression when he becomes president"
     excerpt: "President-elect Joe Biden's approach to Russia is now an even tougher challenge with news that Moscow may be responsible for a massive cyber attack on US federal agencies -- one Biden said he will impose \"costs\" for.\n    \n"
     publishedDateTime: 2020-12-18T19:49:30Z
@@ -449,6 +465,6 @@ related:
         height: 550
         isCached: true
 
-secured: "8onKzAMtK7lyBWKi6oCVOmU0Hn2y4HV08KxUKFwS6DUCn/L3KgzOwGbMyh9c5t6zpBWrgSBgWP4qXVFBEXhb0DaEx4X8uGmmgJM+LACFPfMwSdbardYgFV/jzFfiFC64Apda6n6Coxh2+DwTiOJzykKWCecvNQmoyrD6mQFw59gYGeUox4UBOpJee9Hm3pag8sbgExUWnWU/Occq1H5rfWkj7vEqb7O3uln7n0lnTe8VCdid8b7S5oE0bwVfbYb424jhuIZ43KUgX8+be54lEaLzrx8+elDlL/8G/2fbvV+XKDdXA6//FOeNjb4nQcxdo6BSmV7734KbWWcWG5trCq0Kui+Txk8PRO9FGqjDHoM=;Mdn2HWl2Vi7o8LgkHeeg7g=="
+secured: "qb26i0ZTw9g09lIj9h30cNH7K4O8wr0fbb3ua/gMVCqEniNjOyUPDR9kFa2wHqqd/gHh48sNqf8PW9oEUmWMVL7G8d8Ej5f4Tvl9ZyE7SV1Pms6hnZrs9fLgnNIAPA9UB4lPAQQ0IHfOvmCojyGOO91KIIqHG3cqsBk3ukYyf4U+CXs1qnE+3DhrpuXSyt+NCmjY+KOdjpZWYHcYvv+1teyV+f8K1r1m2gaqIDxRVMgauRy3YzZBorBMb0QvURw/Iln6NigKS28KcWr/G+MyG156VaRtq1dr5pnJpkTXcstBdTSRUiR8L4aiI3No3ODRniIMxzrD1ajbuWOEXXEwml/Ubd4QG1T8N7iPxwVQsC17YpMuKuRD+8O+K7rZoK7E6xw9vhRRR47aZSq50ItCfNTecik7brDKd8mlR+ekqkq0jwScOr6jQ3iRwcJ1bglkveMI6KZZQa7Bd9nlDMcKnYD9qjRy9SWvcuNu2xjOQyl0d+dme+9Lly9ZjIuuzB5YvzE3BPvvJ1AgFRhVkbE/sw==;w60uisIYq8uEiY96owdQdQ=="
 ---
 

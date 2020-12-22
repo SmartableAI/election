@@ -167,6 +167,20 @@ related:
         width: 1200
         height: 796
         isCached: true
+  - title: "Attorney General Barr breaks with Trump, says Russia likely behind cyberattack"
+    excerpt: "Attorney General William Barr said on Monday that Russia is likely behind a recent cyberattack, breaking with President Trump, who claimed China could have been responsible. CBS News' Paula Reid reports on the latest developments and expert cyberthreat intelligence analyst Charity Wright joins CBSN to discuss."
+    publishedDateTime: 2020-12-22T04:46:00Z
+    webUrl: "https://www.cbsnews.com/video/attorney-general-barr-breaks-with-trump-says-russia-likely-behind-cyberattack/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 101
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/22/782986b1-4d15-4b37-ad77-34afa9b725ab/thumbnail/1200x630/7e6f32e8eaf28ebce0bf00a1d7e3bac1/1221-cbsn-atx-aty-614122-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Romney says Trump has 'blind spot' on Russia, calls hack 'extraordinarily damaging'"
     excerpt: "Republican U.S. Senator Mitt Romney said a widespread data breach across the U.S. government was \"extraordinarily damaging\" and that President Donald Trump has a \"blind spot\" when it comes to Russia,"
     publishedDateTime: 2020-12-20T15:32:00Z
@@ -178,6 +192,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 99
+  - title: "Attorney General Barr breaks with President Trump, says Russia likely behind cyberattack"
+    excerpt: "Attorney General William Barr on Monday said Russia is likely behind a recent cyberattack, breaking with President Trump, who claimed China could have been responsible. Paula Reid reports on the latest developments and expert cyber threat intelligence analyst Charity Wright joins CBSN to discuss."
+    publishedDateTime: 2020-12-22T04:30:00Z
+    webUrl: "https://www.cbsnews.com/video/attorney-general-barr-breaks-with-president-trump-says-russia-likely-behind-cyberattack/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 96
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/22/782986b1-4d15-4b37-ad77-34afa9b725ab/thumbnail/1200x630/7e6f32e8eaf28ebce0bf00a1d7e3bac1/1221-cbsn-atx-aty-614122-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Disputing his own top officials, Trump blames China, not Russia, for government agency hack"
     excerpt: "Cybersecurity experts and Secretary of State Mike Pompeo say evidence points to Russia for a massive hack of U.S. government agencies, but President Trump is pointing the finger at China. CBS News White House correspondent Paula Reid spoke with CBSN's Anne-Marie Green about what the Biden administration can do to deter Russian hacking and interference,"
     publishedDateTime: 2020-12-21T15:49:00Z

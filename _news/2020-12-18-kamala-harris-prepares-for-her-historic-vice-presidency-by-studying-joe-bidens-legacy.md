@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/kamala-harris-prepares-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/kamala-harris-prepares-biden-legacy/index.html"
 type: article
 quality: 192
-heat: 712
+heat: 732
 published: true
 
 provider:
@@ -93,6 +93,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215105233-mcconnell-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Here's which Biden Cabinet and other top roles haven't been announced yet"
+    excerpt: "President-elect Joe Biden has yet to announce several key roles in his incoming administration, including attorney general, labor secretary and commerce secretary.\n    \n"
+    publishedDateTime: 2020-12-22T03:21:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R1Tmmcg-gKQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/biden-cabinet-not-announced/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/biden-cabinet-not-announced/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104012338-07-joe-biden-speech-election-night-1104-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
