@@ -192,22 +192,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "House Republicans urge Trump to veto omnibus spending bill"
-    excerpt: "A group of House Republicans on Wednesday urged President Trump to veto an approximately $1.4 trillion omnibus spending bill being negotiated in Congress, describing it as an example of \"swamp politics\" in Washington D."
-    publishedDateTime: 2020-12-17T10:43:00Z
-    webUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill"
-    ampWebUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "oTD85F+WK6i0w6AYJtYyVCcm57anmNi7BN0c1I3rB2G7x1WpKgKvG3NI1gv31gPhdZgvnIXFicSVa9uDQ80BjyEwqwjiBBW0/tsg09Qxg0unzafxhfjOgPhnkbSsN8IXLYdE3Z/zMyFwffoX72+jRTL35v4832ipv1+kWWPsO93SbTF36fz5s63D+j4invFEkK82YdzvvBJg55tRYhRigTUIedzb6wGU4C4ODVLSPmoDAmO9u5RH1P+Mg/QJH01ry0pBTcHRnfDicImjFy5GNdyBKVhQVO3XEsS8tEzi3pmR2+AaMuuP1sxmR2x0WobPvoyBwlCzru6fJWwohHWOSKZ7LWoJp+PrcCQqStx52FQ=;c86eEWDGhCf6J3mRaZ15Cw=="
 ---

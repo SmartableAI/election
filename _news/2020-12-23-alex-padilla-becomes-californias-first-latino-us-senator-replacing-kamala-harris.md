@@ -41,6 +41,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Governor names California's first Latino senator as replacement for Kamala Harris"
+    excerpt: "California Secretary of State Alex Padilla (D) will be the first Latino senator from California, a state where Latinos make up about 40 percent of the population. Gov. Gavin Newsom (D-Calif.) on Tuesday selected Padilla to fill the Senate seat held by Vice President-elect Kamala Harris,"
+    publishedDateTime: 2020-12-22T21:06:00Z
+    webUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/531341-governor-names-californias-first-latino-senator"
+    ampWebUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/531341-governor-names-californias-first-latino-senator?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/diversity-inclusion/531341-governor-names-californias-first-latino-senator?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 120
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_padillacasenator_122220getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "California Gov. Newsom selects Alex Padilla to replace Kamala Harris in the Senate"
     excerpt: "Gov. Gavin Newsom (D) selected on Tuesday his longtime political ally and current California Secretary of State Alex Padilla to fill the U.S. Senate seat when Vice President-elect Kamala D. Harris steps down next month."
     publishedDateTime: 2020-12-22T19:21:00Z
@@ -101,6 +117,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "California Secretary of State Alex Padilla will replace Kamala Harris as senator"
+    excerpt: "California Gov. Gavin Newsom selected Secretary of State Alex Padilla on Tuesday as the state’s next U.S. senator, a historic pick that sends a Latino to the Senate for the first time in the state’s history."
+    publishedDateTime: 2020-12-22T22:28:00Z
+    webUrl: "https://www.al.com/news/2020/12/california-secretary-of-state-alex-padilla-will-replace-kamala-harris-as-senator.html"
+    ampWebUrl: "https://www.al.com/news/2020/12/california-secretary-of-state-alex-padilla-will-replace-kamala-harris-as-senator.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/12/california-secretary-of-state-alex-padilla-will-replace-kamala-harris-as-senator.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 70
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MGO3VJZZVRGVLAX4HPJKOXNB54.jpg"
+        width: 1024
+        height: 697
+        isCached: true
   - title: "Gavin Newsom names California’s first Latino U.S. senator to replace Kamala Harris"
     excerpt: "Gavin Newsom has appointed Secretary of State Alex Padilla as Vice President-elect Kamala Harris’ successor in the U.S. Senate, making him the first Latino from California to fill the role in the state’s 170-year history."
     publishedDateTime: 2020-12-22T17:00:00Z
@@ -150,6 +182,6 @@ related:
         height: 675
         isCached: true
 
-secured: "RuxHimNPxTjTyNz9vib27zmyTzkxGonr7ciWfhfUKxvPCfNJjHwoHSsTjGcef0MkQ7CQFV1KdjiioF1jwd5lY0YhpNnCPjzQhMASlHyispP79whsCRNkC3IccJjYrP8nPTXCpzXhjt3/TueQzAF6ODca+nki+ufcvoJNzCNc92UPk8Fr+4w4t7d/YPfGIaWI2eGaqxkmm74g5WkQq+yKJ4ynYMNZJaDOjx6T5A7L+6v6iWkggJMwymRlIGgj9diQnlXpJskzqBpulqxhPRLgyMgFwGno2TBEhMsaCICM7GESoRwL2tin2v2VnEQ9vOYnkJFBtwcHQ+EZyCXit6K5jRh9iFH01sT/2FaZ8jszoj4=;e+pQ4qM9a1qwJX6VDSJ5NQ=="
+secured: "MuRJjkbHeQX4H3xhJTsLzO9J8aCroyDgbyWYpgJfnJet97wHSvpIBmGZYKdfz/m2WMixjYgKbtOyKteEj2ne4rchVPkiRLHtCkzL1v4YRJdN0pbERV7BK6CHOjzxAKK3cN/74T/xbVsw0tPS9XpKTHtmWmbYqfiJ/KduMObml92kRSaFWvI6n74ykYBm5J1OYhy/0jQEvolFAfwz1fH0m1aVsVLasgDzCbXifQr7z1I1Lq9FofhUUve1t52Y8Y7MvaJtrowthK9VfEmFLyOU1tW+V2n53s7G3vPqH2wmvLKs4LUpT7r+t22e/0TxEUomCtSzP89uhZp9aUv4ZvndGOG5gJPCJYrSlqWOgxhh65PDEhi09BEzOdu6TvyQPLSeSOd3P9ObdLj/55Og+yI7iMo9HBXHoLLpkmCzJUcI0Sa/fEgAuGhFJprWtH4oGK0THpSOGsoKHySyJMLkKGhuhU9lre91VCiGykLJuohCq710GMrOfEro3vFoYmgVqhJ7nm1xhKhnPajPW0GdH9ERxw==;vFjgCRCN9GPUxv3QPPfsIA=="
 ---
 

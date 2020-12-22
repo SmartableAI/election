@@ -47,6 +47,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cheney, Buck lead House resolution backing Trump legal efforts: 'Must protect the integrity of our elections'"
+    excerpt: "House Republican Conference Chair Rep. Liz Cheney and Rep. Ken Buck on Friday are leading a group of 18 lawmakers in sponsoring a resolution in the House that backs the legal action by President Trump on the presidential election, which most recently includes a request to join the Texas lawsuit aiming"
+    publishedDateTime: 2020-12-11T11:47:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-SwkO2WYy4/liz-cheney-ken-buck-lead-house-resolution-backing-trump-legal-efforts-on-election"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 151
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Rep-Liz-Cheney.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "CNN's John Avlon compares Trump election challenge supporters to 'Confederates'"
     excerpt: "CNN senior political analyst John Avlon compared President Trump and supporters of his ongoing efforts to challenge the results of the 2020 presidential election to \"Confederates\" in support of slavery."
     publishedDateTime: 2020-12-10T02:19:00Z

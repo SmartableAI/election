@@ -127,6 +127,17 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Perdue seeks payoff from Trump loyalty in Georgia runoff"
+    excerpt: "In 2014, David Perdue introduced himself to Georgia voters as a corporate executive capable of bringing pragmatism to a Congress depicted in his first TV ad as a bunch of diaper-clad, crying babies."
+    publishedDateTime: 2020-12-22T21:57:00Z
+    webUrl: "https://www.businessinsider.com/perdue-seeks-payoff-from-trump-loyalty-in-georgia-runoff-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/perdue-seeks-payoff-from-trump-loyalty-in-georgia-runoff-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/perdue-seeks-payoff-from-trump-loyalty-in-georgia-runoff-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "170JtEtQMeRtVDl4Pj7rmptCjVF0DmYSCHXVCl3l6SdxSC7rpTVRSxC2r/U0KWIPoFi5Uv18egdx+X1q8GlmS/qTyPXw4cTfyqaySbRfWqO0WhqaS6fBe4iHcTjiPqJiPIlqibRiHyphFBLuYCIqvsuRU+LvGiG+N0IHt70jxsVetezT511x9rYhQl+ZKZoe1pQ9A0S/A3ywYBqPgCUiLQBsKNg0BMu874eCOId3GuiDtV2xXR4JlBjHH44De/u1IjQfPP2tdRNlK1ogmy75bPJgahdIs37lcCGUOZEfKRRISmuZ/ozMQJ6bRjJyt3X1ChciWLK5kMXhhO5sDKWexxv/SJ0kxBcTiKgZ8lnQyTw=;HeYBbHwJc+aK32NfV/jOZQ=="
 ---

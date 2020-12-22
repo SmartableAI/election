@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/angry-trump-promises-rally-i
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -111,6 +111,17 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Perdue seeks payoff from Trump loyalty in Georgia runoff"
+    excerpt: "In 2014, David Perdue introduced himself to Georgia voters as a corporate executive capable of bringing pragmatism to a Congress depicted in his first TV ad as a bunch of diaper-clad, crying babies."
+    publishedDateTime: 2020-12-22T21:57:00Z
+    webUrl: "https://www.businessinsider.com/perdue-seeks-payoff-from-trump-loyalty-in-georgia-runoff-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/perdue-seeks-payoff-from-trump-loyalty-in-georgia-runoff-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/perdue-seeks-payoff-from-trump-loyalty-in-georgia-runoff-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "An anonymous group of top US CEOs said they would hold off acting against Trump until after the Georgia recount. It's done."
     excerpt: "The CEOs said they only had limited patience for Trump's attempts to dispute the election results, according to the Associated Press."
     publishedDateTime: 2020-11-20T11:53:00Z

@@ -43,6 +43,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Governor names California's first Latino senator as replacement for Kamala Harris"
+    excerpt: "California Secretary of State Alex Padilla (D) will be the first Latino senator from California, a state where Latinos make up about 40 percent of the population. Gov. Gavin Newsom (D-Calif.) on Tuesday selected Padilla to fill the Senate seat held by Vice President-elect Kamala Harris,"
+    publishedDateTime: 2020-12-22T21:06:00Z
+    webUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/531341-governor-names-californias-first-latino-senator"
+    ampWebUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/531341-governor-names-californias-first-latino-senator?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/diversity-inclusion/531341-governor-names-californias-first-latino-senator?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 120
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_padillacasenator_122220getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "California Gov. Newsom selects Alex Padilla to replace Kamala Harris in the Senate"
     excerpt: "Gov. Gavin Newsom (D) selected on Tuesday his longtime political ally and current California Secretary of State Alex Padilla to fill the U.S. Senate seat when Vice President-elect Kamala D. Harris steps down next month."
     publishedDateTime: 2020-12-22T19:21:00Z
@@ -86,6 +102,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/22/afe77ef5-acc9-44f9-bf21-f97a46c05a5d/thumbnail/1200x630/32289ee2afdb9d0117cfa788f8a31aa2/cbsn-fusion-alex-padilla-to-replace-kamala-harris-making-history-as-californias-first-latino-senator-thumbnail-614461-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "California Secretary of State Alex Padilla will replace Kamala Harris as senator"
+    excerpt: "California Gov. Gavin Newsom selected Secretary of State Alex Padilla on Tuesday as the state’s next U.S. senator, a historic pick that sends a Latino to the Senate for the first time in the state’s history."
+    publishedDateTime: 2020-12-22T22:28:00Z
+    webUrl: "https://www.al.com/news/2020/12/california-secretary-of-state-alex-padilla-will-replace-kamala-harris-as-senator.html"
+    ampWebUrl: "https://www.al.com/news/2020/12/california-secretary-of-state-alex-padilla-will-replace-kamala-harris-as-senator.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/12/california-secretary-of-state-alex-padilla-will-replace-kamala-harris-as-senator.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 70
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MGO3VJZZVRGVLAX4HPJKOXNB54.jpg"
+        width: 1024
+        height: 697
         isCached: true
   - title: "Gavin Newsom names California’s first Latino U.S. senator to replace Kamala Harris"
     excerpt: "Gavin Newsom has appointed Secretary of State Alex Padilla as Vice President-elect Kamala Harris’ successor in the U.S. Senate, making him the first Latino from California to fill the role in the state’s 170-year history."

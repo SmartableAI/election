@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
 type: article
 quality: 200
-heat: 780
+heat: 800
 published: true
 
 provider:
@@ -303,6 +303,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden's pick for education secretary is a major proponent of reopening schools amid coronavirus"
+    excerpt: "President-elect Biden chose a Connecticut education commissioner and longtime public school teacher, Miguel Cardona, to serve as his education secretary."
+    publishedDateTime: 2020-12-22T22:16:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RNgGtoi-CQM/bidens-education-secretary-proponent-reopening-schools-amid-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-education-secretary-proponent-reopening-schools-amid-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-education-secretary-proponent-reopening-schools-amid-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Miguel-Cardona-AP.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Many Republicans Now Say Joe Biden Is President-Elect"
     excerpt: "The affirmation came as state electors made Joe Biden’s electoral victory official."

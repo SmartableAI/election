@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Governor names California's first Latino senator as replacement for Kamala Harris"
+    excerpt: "California Secretary of State Alex Padilla (D) will be the first Latino senator from California, a state where Latinos make up about 40 percent of the population. Gov. Gavin Newsom (D-Calif.) on Tuesday selected Padilla to fill the Senate seat held by Vice President-elect Kamala Harris,"
+    publishedDateTime: 2020-12-22T21:06:00Z
+    webUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/531341-governor-names-californias-first-latino-senator"
+    ampWebUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/531341-governor-names-californias-first-latino-senator?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/diversity-inclusion/531341-governor-names-californias-first-latino-senator?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 120
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_padillacasenator_122220getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Dianne Feinstein backs Alex Padilla for Kamala Harris’ Senate seat"
     excerpt: "Sen. Dianne Feinstein endorsed Alex Padilla to join her in the Senate, saying she has shared her support of the California secretary of state with Gov. Gavin Newsom. The governor must pick someone to fill out the remaining two years of Vice President-elect Kamala Harris’ term."
     publishedDateTime: 2020-12-03T19:41:00Z
@@ -90,6 +106,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/20/Senate_California_12130.jpg-ab983_c0-65-3000-1815_s1200x700.jpg?25cb8e4e0f5dfcca581df173f36ce134665f00aa"
         width: 1200
         height: 700
+        isCached: true
+  - title: "California Secretary of State Alex Padilla will replace Kamala Harris as senator"
+    excerpt: "California Gov. Gavin Newsom selected Secretary of State Alex Padilla on Tuesday as the state’s next U.S. senator, a historic pick that sends a Latino to the Senate for the first time in the state’s history."
+    publishedDateTime: 2020-12-22T22:28:00Z
+    webUrl: "https://www.al.com/news/2020/12/california-secretary-of-state-alex-padilla-will-replace-kamala-harris-as-senator.html"
+    ampWebUrl: "https://www.al.com/news/2020/12/california-secretary-of-state-alex-padilla-will-replace-kamala-harris-as-senator.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/12/california-secretary-of-state-alex-padilla-will-replace-kamala-harris-as-senator.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 70
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MGO3VJZZVRGVLAX4HPJKOXNB54.jpg"
+        width: 1024
+        height: 697
         isCached: true
   - title: "Gavin Newsom names California’s first Latino U.S. senator to replace Kamala Harris"
     excerpt: "Gavin Newsom has appointed Secretary of State Alex Padilla as Vice President-elect Kamala Harris’ successor in the U.S. Senate, making him the first Latino from California to fill the role in the state’s 170-year history."
@@ -154,6 +186,6 @@ related:
         height: 683
         isCached: true
 
-secured: "kJOuOs+t+bur9F4GVCaUD0yXHf4OJ7zrxA7LlOqtiHsStgoqOBj9s+uss1zPmoNV0sWaC7ugD52BekNdahmWirsi6VHVEV6Qsi8Kt1Fln91FeXB6ZVwzItSYMz/OnsY06CNNGKZlzqePcrXrNvYzpG3KHLCjIyYLaMzr/k4ROVVE8ATJDvHDEViSofxWl2ef2fmblAXMrjn5g4an9nOx89bqJ/7OP6CkgDrj2UCN3VIigOTJIFt/DeBRJoh0uZHdSSYSf6US6nbVnh8A2QDylzh1dc+pEHBs7TGnBx/SLEXhhhVYDa9FtkZpSjzrXVx5oVgn+q4Vi92JPYAo+Cm3ta8HGU+e0xXKSXOMUIWhLr4=;6852Fjzt5G7WZ+BB6jeLMQ=="
+secured: "kLFQOJmbRZEcHp49PgVpm7nUwNYARiu7e2veVzKQAouYnBNSy6upCC7uP4CixaIlaZbBg+Ls8S6ERcCIYrnm7KK7SCh753+abBGuECUFey8VoyPlS+GU9676K1tcVY4UXmHtQu1l6TPRpRyzaN802YPU3Zw1ApMim8ryPIpowYDjoFQRmDRjcj2qW7ojD0GEgi921yhL8jZQ1q7wb/5mOoN+XDuTnAsnp8cKxbzj9MdaRRUevc8BC/qpUMX4QJ3FtFXjO8+l+dtCmaRzhSiNFDH4s6Oiiq/q8cxGNI6TzRN0slMEPvWRyEiSy2INbK/2UxG14BsMBV2Vwc4DnphcVDXOmthujLrl4b4tpmnmubsz+bOzeU3QTuWFfATUVZwLR5gAfaJJatsJXwQrbE62FVqoEVz5q47nc82Le8zuF3uDLTowcAqy50CDqD99p0DChOPrV94n9vcdamjDTawzT7P7VjMuQyC69RMaz6KoTZSUHBSnF9Hl+Ulqe7NSCrEZ1JObMc52HNc9Unys3AtV3A==;OtOLPaFYfNxg9688RJ4nag=="
 ---
 

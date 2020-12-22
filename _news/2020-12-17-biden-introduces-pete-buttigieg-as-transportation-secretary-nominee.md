@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/biden-pete-buttigieg-eve
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/biden-pete-buttigieg-event/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191209170212-14-pete-buttigieg-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden faces uncertain outlook for quick confirmation of Cabinet nominees as some Republicans urge caution"
+    excerpt: "President-elect Joe Biden has been moving swiftly to fill out much of his Cabinet. Whether the Senate will do the same is another question.\n    \n"
+    publishedDateTime: 2020-12-22T22:54:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5-wVjeXv_us/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/biden-cabinet-confirmation-senate-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/biden-cabinet-confirmation-senate-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201219144958-01-biden-climate-team-announcement-1219-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

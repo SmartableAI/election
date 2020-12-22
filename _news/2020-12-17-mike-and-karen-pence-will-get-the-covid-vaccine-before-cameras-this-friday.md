@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Even as he urges caution on COVID-19, Pence flies to Florida to speak at large event"
+    excerpt: "Vice President Mike Pence has urged Americans to step up precautions, but he flew to Florida to speak to thousands at an indoor summit held by a conservative youth group."
+    publishedDateTime: 2020-12-22T22:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/urges-caution-covid-19-pence-flies-florida-speak/story?id=74858979"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 98
+    images:
+      - url: "https://s.abcnews.com/images/Politics/pence-turningpt-abc-rc-201222_1608662483585_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "TqfXGL7jEBTqL/F1Vn0yxto7NsIXKAvHsqXTHa6dvBcsIS8LA1vmITOO2kKcR4c/z1fofwNwX2+tpmI81cdFe6X7X0GPBvZEuTXKOmXvoAfvi1FSh/ibDgjdVFmJVm+mSDBakAcEiriKUWZhXpOluv+FLZyKOpLfWqfKIiXvbflWcF/7AMx5b+DDHjv4gSFoextpO7IvC930woV+fryyl3mu30IF+fMihw8ojZgJgNGbbHpo2JR6AKvTAXYEGxgEUg8WHnIejutF37dDtohNhTlklRkdd+lXWfIsOmy8EKZzSQD8mzdL9hTSrW6NlKDpFNctGZRDALuCCHifjOFXUxBlH2xqiUcQ0UFC7bnHLkQ=;N97HYZ0QmQhDj4P8CLe0Pw=="
 ---

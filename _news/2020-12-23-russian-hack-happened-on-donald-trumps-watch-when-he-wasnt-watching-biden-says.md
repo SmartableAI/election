@@ -320,6 +320,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden team prepares to revamp the US refugee admissions program "
+    excerpt: "President Donald Trump spent years limiting the number of refugees coming to the United States. President-elect Joe Biden, meanwhile, has pledged to set the annual refugee admissions cap at 125,000. But first, his team will have to contend with the damage left behind.\n    \n"
+    publishedDateTime: 2020-12-22T22:45:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LLOOexsUF8w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/biden-trump-refugee-cap/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/biden-trump-refugee-cap/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190919153709-refugee-resettlement-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Who's who in Donald Trump's desperate last stand"
+    excerpt: "A ragtag team of former aides, lawyers, elected Republicans and sycophants from the outside have grabbed Donald Trump's ear at a time when many of his longtime allies in government have backed away from the President's increasingly extreme ploys for staying in office.\n    \n"
+    publishedDateTime: 2020-12-22T22:40:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yCUF5not6eU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/trump-sidney-powell-rudy-giuliani-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/trump-sidney-powell-rudy-giuliani-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222110725-jenna-ellis-sidney-powell-rudy-giuliani-1119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Dozens of members of Congress call on Biden to end the federal death penalty"
     excerpt: "More than three dozen members of Congress are calling on Joe Biden's incoming administration to prioritize abolishing the death penalty in all jurisdictions, according to a letter sent Tuesday to the transition team for the President-elect and Vice President-elect Kamala Harris.\n    \n"
     publishedDateTime: 2020-12-15T22:07:41Z
@@ -493,6 +525,22 @@ related:
       - url: "https://static.politico.com/af/a2/56574fb144faaebea508e04c0125/gettyimages-1230056598-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Transition Live Updates: Biden Criticizes Trump on Russian Hack and Calls for More Virus Aid"
+    excerpt: "President-elect Joe Biden insisted that more relief will be coming after his inauguration next month. Alex Padilla, California’s secretary of state, was chosen to fill the Senate seat being vacated by Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-12-22T21:46:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/22/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/22/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/22/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 139
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/22/us/politics/22transition-briefing-biden/22transition-briefing-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden Faces Challenge as Congress Drops State Aid to Secure Stimulus"
     excerpt: "A campaign by conservative activists and disputes over how to divvy up federal assistance have thwarted negotiators. But President-elect Joe Biden will make a new push for such funding next year."
@@ -709,6 +757,6 @@ related:
         height: 400
         isCached: true
 
-secured: "cWB9DsS/bL6+IZWFGw2bqLVAMkp/hm06s/NwTypfTZOx75pwmVDwDN6qQGJ1THR7z8Ld3IHAC2fQwrJTwSlmSvNIO4i+WumefoyeMg8L+xbLAWxHlfVjUsGuJauWbfkIA895qNXjOYy+8/glPnAlhZNXh6hk3MV5kQCQ6unIdIH7/85lmP6oLT1a43wAq/1+i3Hn2KoWVkEZAP18yohu4Pr0mWfPBuVPzmL94nMkpynjuMhq2f1tG6EabBLckDuK60hWhn1LsE5X0eaf7nxGRSvpRXBmxOCOvLNRV27ZD7cOUD1bO+Pg4bNPhzYUBRBXm5yF+jOVGYhhCMFF2T1Rb1m52uSjJkEsViBrmLv8mx8=;sRQU2oJF/drWC9bZqBllqg=="
+secured: "O4YVCsncqGrRpK5STqg8ErXKO4OeAQAsf3exEM7hrOuYFBy5gHK0tuL2QGPJ99XHTFTlS6XqrFuyWt+O7ghnSHwAPPX+2cDbH5Avza4ofzCROf7VaM69zp1wWM+jIHPiFT+UvyxNrey+4Ecv9a7oMCXdE9UJ9KGf4dBPXVcqjKHH626ksvcMnAgTYZkhxtpprj9Me0Abi0TQAM1gjeU0OPRdUU7Zh5fKMOWsi+Q2qyeoRwJXpnQaxb4zNHNPlNwR2Yf5uCoiYKkj1JbzMdDYYT9JfhUWD7Fx1SRMHpUOaf+ZXKX87l+AOzmezSNQaegpnO4oX87YmfyIpAfA0U46uW+Vqg+d40o0H4g5BOVp2IBb2tj2jDP6z/QfE1wbmLJL/G9OcvsweUHFH9aeaKx4rkj5BGY4eudFDO5GnuOqWnsKv2RxrKF4rR/1J1Ko9wQajM2DJAeBevzI52ubAV3PPPLUzIKJoE3xZLPdbxObo8nULkJESZCFNMICyuk6+nbmNmQG5GxI7rhvC4jDBsDfsw==;DjsZO5tmHGiKWocHJdC5ag=="
 ---
 

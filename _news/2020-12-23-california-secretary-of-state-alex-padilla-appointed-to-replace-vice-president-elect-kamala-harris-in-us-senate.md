@@ -2,30 +2,26 @@
 category: news
 title: "California Secretary of State Alex Padilla appointed to replace Vice President-elect Kamala Harris in US Senate"
 excerpt: "California Gov. Gavin Newsom appointed Secretary of State Alex Padilla on Tuesday as the state’s next U.S. senator to fill the seat being vacated by Vice President-elect Kamala Harris."
-publishedDateTime: 2020-12-22T18:44:00Z
-originalUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
-webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
-ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
+publishedDateTime: 2020-12-22T21:32:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/5ATYffOF0ZO402fX-cvjaBMN16I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AQFJJLD55NDNPLXH2H6CLLNZWQ.aspx"
+  - url: "https://www.baltimoresun.com/resizer/5ATYffOF0ZO402fX-cvjaBMN16I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AQFJJLD55NDNPLXH2H6CLLNZWQ.aspx"
     width: 1200
     height: 675
     isCached: true
@@ -2161,6 +2157,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "The Latest: Biden says months to fix Trump border policies"
+    excerpt: "Biden spoke Tuesday in a live year-end address from his home state of Delaware. He warned that experts are warning things are going to get worse before they get better and that te"
+    publishedDateTime: 2020-12-22T21:44:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-biden-urges-americans-to-avoid-big-holiday-dos/article_d2f5c76e-fd9b-5cea-83c2-513d67d6615b.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-biden-says-months-to-fix-trump-border-policies/article_d2f5c76e-fd9b-5cea-83c2-513d67d6615b.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/the-latest-biden-says-months-to-fix-trump-border-policies/article_d2f5c76e-fd9b-5cea-83c2-513d67d6615b.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 90
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/da/6da73ebf-a09d-5a81-82e5-3b587bb09d87/5fe25b84224b3.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "After years of indifference and denial under President Trump, experts expect Joe Biden to confront the dangers of domestic extremism"
     excerpt: "Former federal security officials are urging President-elect Joe Biden to more seriously acknowledge the growing danger of domestic terrorism."
     publishedDateTime: 2020-12-09T12:24:00Z
@@ -2723,6 +2735,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "dBhIae0+IXncT5xxdc1yntaBnigGPh1+1JHOV/dwjSUzP+lU2px93NHfFaFd8A4r9wENgrOtKxCIqqhPsOUi3yk19yG+tVpn11vO5XY4WjWMTHiyoT+R/e3i6wPAKmF9OFyZim+K1Hb7hs5ei6bftvz+aj3aw/sMl1hiuW5shVsJTaFfeFxn2/P6aA7PRhwd4wxS1occvjUQnAYLEROTP6WWceNgM5zgtWNk+qwAyi6M2v7KRLlpm/86PYaKHUJwtIhSk/lFhvFFftWDpBRu2d+0A10bLaqRZ3VEAcCD22IGwD177tbf8qErh5i3usgnd2xkuCj7YL38IIH2xkdDeHr2wGhW3CgkFnsj4Dj3fGA=;eHybN5BGefRgs3v3/FtO/w=="
+secured: "E+o29hRO0aS15uj76AAa8PBzz80WidZDJYE9v39xV7Smw0hs/2Zv5LE3x3yZL5fLHXH6egEdW4BgYrTTYHLI6AXTHOLlq4qjw2q66CmyPWQiUgX+dOkCw1g8PnThplHh6HM6hYmmCrEOqTEmT2QwKzeRLGXdlfaAFMJo1GJgpZO5djgiYALDrBg1OzyhC26gSTJX4u9deURaxHkmi7SPYo1aBLDi5aJoERnWEhXMlCOZQrnueBuH0G2ZbZhrBVE3sEg+kD9lsZ+4EcgDr+r+VpCnm7l9Q7IBU/OyZeI2fWaItXPRt1ZOcQ67Ic0RXbCIC4UEaN+yhk1mC55DY8SrAojBv8hXrayVYYrtLQcLb+A=;/c9QY2nDy85p5aDJO3TQsQ=="
 ---
 

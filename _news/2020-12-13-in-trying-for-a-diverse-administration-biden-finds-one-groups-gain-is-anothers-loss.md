@@ -480,6 +480,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "The stimulus negotiation shows how Biden can move his agenda forward in Congress."
+    excerpt: "Biden Jr. and a potential template for congressional deal-making in the coming Biden era. Along with struggling Americans and businesses, the incoming president was a major beneficiary of the $900 billion pandemic stimulus measure that passed on Monday night,"
+    publishedDateTime: 2020-12-22T22:50:00Z
+    webUrl: "https://www.nytimes.com/2020/12/22/us/the-stimulus-negotiation-shows-how-biden-can-move-his-agenda-forward-in-congress.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/the-stimulus-negotiation-shows-how-biden-can-move-his-agenda-forward-in-congress.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/the-stimulus-negotiation-shows-how-biden-can-move-his-agenda-forward-in-congress.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/21/us/politics/21transition-briefing-biden/21transition-briefing-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "hY2rVV+sAPnr40we3u+W6K48CCT+4ZHJ4+WtyV8xSgPZX9kJhfuy2zUh3u8R6wkyCjgPzU9w0YNAxTpNWuXVV06fW1GnhAb6pebspqFz3YqKyUm88ioOH3H/imFCMMjqnxalFFVx71YLFTEos9LeB5V/T1z1EdfD33O6vaj6sLX9Tj33PREZeAcixZ1h8WE6VGIMIJCiNS7vdKUbV0GhM4BSNBtX1ocLI0ngKsRHGL/RLQvb9nnUEMtVRUvdcRKjNdivK/Zj+HX7EIZT1kUQMD6MALLoq/7ms08QWASSdmcX0/ZJHFW9r/wP6wbIr8HLDOV0Najv2smq5Ad9dEgfuo3HmpzJ2DlxgSuNqcpP0B2fDe74BOd1KgYEbc7NGtJXE7qs/Q+2BizacrSo2tdgZupweygTRQNi+n+pdyTy1GitblGrXFL6RxBRkejCr3FlCKaldyz26Ufsvlh494SnC2Fvfa7kgAd8NoVE+bVVd3wi5qiZCW2noinAd0MYOwVcjUOM/b2wWeX5/hzX/94svA==;zxSEqXDRaRlCoiy8ORCpTQ=="
 ---

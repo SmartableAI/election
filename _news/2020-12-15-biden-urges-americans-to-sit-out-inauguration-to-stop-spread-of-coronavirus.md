@@ -303,6 +303,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden's pick for education secretary is a major proponent of reopening schools amid coronavirus"
+    excerpt: "President-elect Biden chose a Connecticut education commissioner and longtime public school teacher, Miguel Cardona, to serve as his education secretary."
+    publishedDateTime: 2020-12-22T22:16:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RNgGtoi-CQM/bidens-education-secretary-proponent-reopening-schools-amid-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-education-secretary-proponent-reopening-schools-amid-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-education-secretary-proponent-reopening-schools-amid-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Miguel-Cardona-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Many Republicans Now Say Joe Biden Is President-Elect"
     excerpt: "The affirmation came as state electors made Joe Biden’s electoral victory official."
     publishedDateTime: 2020-12-15T08:12:00Z

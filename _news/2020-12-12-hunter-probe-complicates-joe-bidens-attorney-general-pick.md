@@ -464,6 +464,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "The stimulus negotiation shows how Biden can move his agenda forward in Congress."
+    excerpt: "Biden Jr. and a potential template for congressional deal-making in the coming Biden era. Along with struggling Americans and businesses, the incoming president was a major beneficiary of the $900 billion pandemic stimulus measure that passed on Monday night,"
+    publishedDateTime: 2020-12-22T22:50:00Z
+    webUrl: "https://www.nytimes.com/2020/12/22/us/the-stimulus-negotiation-shows-how-biden-can-move-his-agenda-forward-in-congress.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/the-stimulus-negotiation-shows-how-biden-can-move-his-agenda-forward-in-congress.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/the-stimulus-negotiation-shows-how-biden-can-move-his-agenda-forward-in-congress.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/21/us/politics/21transition-briefing-biden/21transition-briefing-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "In Trying for a Diverse Administration, Biden Finds One Group’s Gain is Another’s Loss"
     excerpt: "The pressure on the Democratic president-elect is intense, even as his efforts to ensure ethnic and gender diversity already go far beyond those of President Trump. And it’s coming from all sides."
     publishedDateTime: 2020-12-12T16:31:00Z

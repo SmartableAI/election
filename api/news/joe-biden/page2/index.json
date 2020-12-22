@@ -433,63 +433,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-10-cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal.md",
-      "title": "Cotton: 'Dangerous' for Joe Biden to rejoin Iran nuclear deal",
-      "excerpt": "This is a rush transcript from “The Story with Martha MacCallum\" November 30, 2020. This copy may not be in its final form and may be updated. MARTHA MACCALLUM, FOX NEWS ANCHOR: Thank you, Bret. Good to see you tonight. Good evening, everybody. I'm Martha MacCallum in New York, and this is THE STORY. So, as President Trump prepares to head to Georgia on Saturday to rally the vote for the two Republicans who can make or break the GOP Senate majority, he will have to thread the needle of his dissatisfaction with Governor Kemp and the candidates who can cement his legacy. As Victor Davis Hanson writes of the president today, he has a year or more to decide whether he wishes to play kingmaker among would-be Republican congressional and presidential candidates or run himself for a second term. Geraldo Rivera, Fox News Correspondent-at-Large. GERALDO RIVERA, FOX NEWS CORRESPONDENT-AT-LARGE: Hi, Martha. MACCALLUM: Hi, everybody. Great to have you with us tonight. The first thing that I just want to note with regard to these election issues,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal",
-      "originalUrl": "https://www.foxnews.com/transcript/cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2970927c-3de0-45c7-ac27-2dd8e5214ff2/fb93b2b6-66cf-45d1-a0b8-b588a1779790/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/cotton-dangerous-for-joe-biden-to-rejoin-iran-nuclear-deal.amp",
-      "publishedDateTime": "2020-12-10T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-10-biden-has-reportedly-chosen-capitol-hill-staffer-katherine-tai-as-his-us-trade-representative.md",
       "title": "Biden has reportedly chosen Capitol Hill staffer Katherine Tai as his US trade representative",
       "excerpt": "If she is picked, the House Ways and Means chief trade lawyer would be the first woman of color to hold the position.",
@@ -1604,6 +1547,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-the-trailer-what-biden-and-the-left-are-demanding-of-each-other.md",
+      "title": "The Trailer: What Biden and the left are demanding of each other",
+      "excerpt": "The campaign to shape Biden's agenda, the next (and even stranger) stage of election contests, and Donald Trump Jr. goes on the air in Georgia",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5IU43CRK7EI6XHBBHTCQDUEYD4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/?outputType=amp",
+      "publishedDateTime": "2020-12-01T14:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -168,6 +168,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Trump signs stopgap funding bill; Congress awaits his approval of $892 billion COVID aid"
+    excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week while Congress passed a massive COVID-19 aid and government funding package overnight aimed at bolstering the nation's pandemic response and its battered economy."
+    publishedDateTime: 2020-12-22T20:36:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress/trump-signs-stopgap-funding-bill-congress-awaits-his-approval-of-892-billion-covid-aid-idUSKBN28W1RV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W1RV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W1RV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545450408&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL0XQ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump scraps plan to have top White House personnel among first vaccinated against COVID-19"
     excerpt: "President scraps administration order saying they should get the shots along with frontline health workers and people in nursing homes and long-term care facilities."
     publishedDateTime: 2020-12-14T12:29:00Z

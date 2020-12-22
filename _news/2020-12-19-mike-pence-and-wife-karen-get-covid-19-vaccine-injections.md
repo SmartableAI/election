@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-18/pence-wife-kar
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections?_amp=true"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/11/e85bb149-95e7-4131-aabe-a8becbf9ef46/thumbnail/1200x630/8bd37a9a1b6735d713a5268207d8403b/cbsn-fusion-president-elect-biden-thumbnail-606376-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Even as he urges caution on COVID-19, Pence flies to Florida to speak at large event"
+    excerpt: "Vice President Mike Pence has urged Americans to step up precautions, but he flew to Florida to speak to thousands at an indoor summit held by a conservative youth group."
+    publishedDateTime: 2020-12-22T22:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/urges-caution-covid-19-pence-flies-florida-speak/story?id=74858979"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 98
+    images:
+      - url: "https://s.abcnews.com/images/Politics/pence-turningpt-abc-rc-201222_1608662483585_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "T+JWn56ySA1Mc4X8U0UiU9vaDY8CI9xXfhIIJblYTDXgirT4qQ6ir3qGFyGZsrqyFqzwAvqWFW176ihhVzKhzY34smpBymcUe8N2OZ8GlcMks1u7FeU4+A8g9h/HkNCFu4dRHdO0593+DgTSzGVKj+5Hn2f1+vIoeHLbTbnBFGawLTWDgPzl6vv714Q5wbQ18NZmi43L2D18oRwRuvp1kAk6arrq7WekVGC+l9VIck4HktNnDQN9i/n9TGKoheT1VA6SkPNOoSjxb2OemdYZ37ovYV91Yqb6cEqgxqh5huOaGquWuMgI8tLXb8x4gvRFg5ipKO1swo5OcDGpNGBgFHVP18fOqlqJwXYwRUNf2b2lOdv9F9spYeqZcLLId6PhLRcyLu+bKuuO8GkQ4SU5AE8wvRf9RzTEi3ARnR0clQsANjTJQEzwedVROCaKaeBCLi/NuHn7snaHpiYsDbpoWYlCwy/9WBa5huh+Ny0gVH63iyUxUKSeoEdMv1bPfnXWaZjAsAyLpyj2jJpTtVmNbQ==;nqHAYS2opd5z+ecqevOscQ=="

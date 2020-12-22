@@ -48,22 +48,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trey Gowdy rips Biden comments defending son Hunter: 'The United States Attorney's office is not foul play'"
-    excerpt: "Fox News contributor Trey Gowdy rejected President-elect Joe Biden’s notion that accusations surrounding his son’s business dealings overseas constitute \"foul play.\""
-    publishedDateTime: 2020-12-18T19:57:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cw6mGZFHNFU/trey-gowdy-joe-biden-hunter-biden-foul-play"
-    ampWebUrl: "https://www.foxnews.com/politics/trey-gowdy-joe-biden-hunter-biden-foul-play.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trey-gowdy-joe-biden-hunter-biden-foul-play.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "oHkeWZGL/N9DzqUQgbgNYodvEGvFrk5o/xMrAhAwMz4a1iBuWNf/gKDAcdHNMkBbjemA+iB8nPRXt1IDBHSYvcVduy4EBXq+1LFaQEgJ5uLsm6rixRgS7WltvpAc1De8gCL+1kovFGilRJu74jIosuVz/8SQra4zkVDzvJgPA+MNmjmx6w8USVJMbb3sGXcWLOZTb6kox3aptqcd8EwqvAFl1/RDqcJQHKm92jhh2isEMwqfLe98yM2ojOUpb9BHU0eDFZdx5Tew5Lzvnb3GpSn3FNwVtIknF64CNthzR3YefD7qQZCRsyu61R/IZc4K5lgXyE12TND4EfXGvkjZqSYAo3laZJQA5v3l+OD4P3ISqJ5OMzi2djlbztv12utXBrHSQZHSCs1N6QvP+qkpBYsakWpRL5ztXkTKeVONtjyynwj8g+F1R6ryefGQr2NRZ4bByeU30pX3OGiDGZXlhxHXZy1FXpxWL1iKTtSxi2XUiEPBgkIXxcIiaZqft1H765LzAOU4tcATa8LEGVoOyQ==;hy3rm3BpaDh0N1PJAMihkA=="
 ---
