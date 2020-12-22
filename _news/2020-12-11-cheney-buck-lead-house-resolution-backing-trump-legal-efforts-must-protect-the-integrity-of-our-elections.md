@@ -93,6 +93,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump campaign manager launching firm to work with outgoing president"
+    excerpt: "President Trump’s reelection campaign manager Bill Stepien is joining two other top members of Trump’s 2020 campaign team in setting up a political consulting firm that would likely work with the soon-to-be former president as he stays engaged in Republican Party politics."
+    publishedDateTime: 2020-12-22T16:05:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KTee3IG8pJ0/trump-campaign-manager-firm-work-with-outgoing-president"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-manager-firm-work-with-outgoing-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-manager-firm-work-with-outgoing-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump says Barr 'a big disappointment' after report AG knew about Hunter Biden investigation months ago"
     excerpt: "President Trump on Saturday described Attorney General William Barr as a “big disappointment” after a report claiming the nation’s top lawyer knew about the Hunter Biden investigation months ago."
     publishedDateTime: 2020-12-12T17:34:40Z

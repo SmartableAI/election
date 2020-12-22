@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden names Bruce Reed, moderate fiercely opposed by 'Squad,' progressives, as deputy chief of staff"
+    excerpt: "Bruce Reed, Biden's transition organization announced Tuesday, will be the president-elect's deputy chief of staff, one of the most powerful positions in a presidential administration. "
+    publishedDateTime: 2020-12-22T15:43:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eRF1x-gIlzw/biden-bruce-reed-deputy-chief-of-staff-squad-opposition"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-bruce-reed-deputy-chief-of-staff-squad-opposition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bruce-reed-deputy-chief-of-staff-squad-opposition.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden pushes back against critics, touts 'Cabinet of firsts'"
     excerpt: "After weeks of pressure from all sides of the Democratic Party’s vast coalition over the makeup of his incoming administration, President-elect Joe Biden on Wednesday pushed back against his critics as he made another history-making Cabinet nomination."
     publishedDateTime: 2020-12-16T19:26:00Z

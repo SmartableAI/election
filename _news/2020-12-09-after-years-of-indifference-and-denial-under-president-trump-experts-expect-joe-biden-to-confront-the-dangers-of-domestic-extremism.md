@@ -2143,6 +2143,22 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "Here's where Kamala Harris, Ivanka Trump will be today in Georgia"
+    excerpt: "Two political heavyweights will be in Georgia pushing for voters to head to the polls and vote in the U.S. Senate runoffs on Jan. 5. Vice President-elect Kamala Harris will travel to Columbus, Georgia to campaign with Democratic nominees for U."
+    publishedDateTime: 2020-12-22T16:03:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/politics/elections/kamala-harris-ivanka-trump-georgia/85-d8ced087-08d9-4475-a4c8-3acf504c345d"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/politics/elections/kamala-harris-ivanka-trump-georgia/85-d8ced087-08d9-4475-a4c8-3acf504c345d"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/politics/elections/kamala-harris-ivanka-trump-georgia/85-d8ced087-08d9-4475-a4c8-3acf504c345d"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 90
+    images:
+      - url: "https://media.firstcoastnews.com/assets/WXIA/images/645dee1d-8146-4987-acd4-267767642af9/645dee1d-8146-4987-acd4-267767642af9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Chicago Area Leaders React After Joe Biden, Kamala Harris Projected To Defeat President Donald Trump, VP Mike Pence"
     excerpt: "Gov. JB Pritzker said \"America elected a President and Vice President who will lead with compassion, restore dignity to the office, and give us hope for a brighter future.\""
     publishedDateTime: 2020-11-07T21:24:00Z

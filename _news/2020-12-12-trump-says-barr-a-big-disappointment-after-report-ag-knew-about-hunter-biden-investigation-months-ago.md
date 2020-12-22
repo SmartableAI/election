@@ -95,6 +95,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump campaign manager launching firm to work with outgoing president"
+    excerpt: "President Trump’s reelection campaign manager Bill Stepien is joining two other top members of Trump’s 2020 campaign team in setting up a political consulting firm that would likely work with the soon-to-be former president as he stays engaged in Republican Party politics."
+    publishedDateTime: 2020-12-22T16:05:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KTee3IG8pJ0/trump-campaign-manager-firm-work-with-outgoing-president"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-manager-firm-work-with-outgoing-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-manager-firm-work-with-outgoing-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden will not discuss Hunter Biden probe with attorney general candidates: Psaki"
     excerpt: "President-elect Joe Biden's pick for White House press secretary, Jen Psaki, told \"Fox News Sunday\" that Biden will not discuss any investigation of his son Hunter with anyone he is considering to be the next U.S. attorney general."
     publishedDateTime: 2020-12-20T15:37:14Z

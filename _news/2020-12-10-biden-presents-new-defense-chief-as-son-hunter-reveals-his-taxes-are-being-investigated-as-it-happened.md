@@ -57,6 +57,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Fact check: Fake ‘Prague newspaper’ article repurposed to attack Biden supporters"
+    excerpt: "Users on social media are sharing a text, allegedly an extract of an editorial piece by a Czech newspaper translated into English, which claims the United States is endangered by the people who have elected Joe Biden as president."
+    publishedDateTime: 2020-12-22T15:52:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-prague-newspaper-idUSKBN28W1SO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W1SO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W1SO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545448292&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL12O"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Texas Baptist Minister, a Lifelong Republican, Loses License After Endorsing Biden"
     excerpt: "\"Had I endorsed Donald Trump or kept my views to myself, I am sure I would still be a licensed Christian minister on the pathway to formal ordination,\" David Bumgardner said."
     publishedDateTime: 2020-12-18T21:39:00Z

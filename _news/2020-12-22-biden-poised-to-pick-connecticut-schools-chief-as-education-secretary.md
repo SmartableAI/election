@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden picks Connecticut schools chief as education secretary"
+    excerpt: "President-elect Joe Biden has chosen the education commissioner for Connecticut and a former public school teacher to serve as education secretary"
+    publishedDateTime: 2020-12-22T15:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-picks-connecticut-schools-chief-as-education-secretary/2020/12/22/a8f43760-4467-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-picks-connecticut-schools-chief-as-education-secretary/2020/12/22/a8f43760-4467-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-picks-connecticut-schools-chief-as-education-secretary/2020/12/22/a8f43760-4467-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Politics live updates: Biden to introduce Buttigieg as incoming Transportation chief Wednesday"
     excerpt: "Pete Buttigieg is scheduled to appear with Biden Wednesday for a formal announcement. On Twitter, he called the nomination a \"tremendous opportunity.\""
     publishedDateTime: 2020-12-16T14:27:00Z

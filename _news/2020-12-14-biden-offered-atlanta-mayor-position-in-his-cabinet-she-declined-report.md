@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden names Bruce Reed, moderate fiercely opposed by 'Squad,' progressives, as deputy chief of staff"
+    excerpt: "Bruce Reed, Biden's transition organization announced Tuesday, will be the president-elect's deputy chief of staff, one of the most powerful positions in a presidential administration. "
+    publishedDateTime: 2020-12-22T15:43:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eRF1x-gIlzw/biden-bruce-reed-deputy-chief-of-staff-squad-opposition"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-bruce-reed-deputy-chief-of-staff-squad-opposition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bruce-reed-deputy-chief-of-staff-squad-opposition.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Grassley accuses Democrats of double-standard in asking GOP to defer to Biden on Cabinet: 'Pretty darn rich'"
     excerpt: "Sen. Chuck Grassley in comments on the Senate floor Thursday lambasted Democrats for allegedly deploying \"two sets of rules\" for Cabinet nominees based on party and said it's \"pretty darn rich\" that they are asking Republicans to defer to President-elect Joe Biden and swiftly confirm his nominations"
     publishedDateTime: 2020-12-17T17:49:09Z

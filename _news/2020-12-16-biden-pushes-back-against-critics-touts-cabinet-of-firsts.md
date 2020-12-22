@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-responds-critics-cabinet-pick
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-responds-critics-cabinet-picks.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 174
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden names Bruce Reed, moderate fiercely opposed by 'Squad,' progressives, as deputy chief of staff"
+    excerpt: "Bruce Reed, Biden's transition organization announced Tuesday, will be the president-elect's deputy chief of staff, one of the most powerful positions in a presidential administration. "
+    publishedDateTime: 2020-12-22T15:43:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eRF1x-gIlzw/biden-bruce-reed-deputy-chief-of-staff-squad-opposition"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-bruce-reed-deputy-chief-of-staff-squad-opposition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bruce-reed-deputy-chief-of-staff-squad-opposition.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

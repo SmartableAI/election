@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Congress approves $900B COVID relief bill, sending to Trump"
-excerpt: "The relief package, unveiled Monday afternoon, sped through the House and Senate in a matter of hours. The Senate cleared the massive package by a 92-6 vote after the House approved the COVID-19 package by another lopsided vote,"
-publishedDateTime: 2020-12-22T11:56:00Z
-originalUrl: "https://www.washingtonpost.com/business/congress-rushes-to-vote-on-900-billion-covid-relief-bill/2020/12/21/5a5d9d7e-43ec-11eb-ac2a-3ac0f2b8ceeb_story.html"
-webUrl: "https://www.washingtonpost.com/business/congress-rushes-to-vote-on-900-billion-covid-relief-bill/2020/12/21/5a5d9d7e-43ec-11eb-ac2a-3ac0f2b8ceeb_story.html"
-ampWebUrl: "https://www.washingtonpost.com/business/congress-rushes-to-vote-on-900-billion-covid-relief-bill/2020/12/21/5a5d9d7e-43ec-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/congress-rushes-to-vote-on-900-billion-covid-relief-bill/2020/12/21/5a5d9d7e-43ec-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+excerpt: "After months of Washington gridlock, Congress is set to act on a $900 billion pandemic relief package, finally delivering long-sought cash to businesses and individuals as well as resources to vaccinate a nation confronting a frightening surge in COVID-19 cases and deaths."
+publishedDateTime: 2020-12-22T15:09:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/congress-seals-agreement-900-billion-covid-relief-bill-74837831"
+webUrl: "https://abcnews.go.com/Business/wireStory/congress-seals-agreement-900-billion-covid-relief-bill-74837831"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/congress-seals-agreement-900-billion-covid-relief-bill-74837831"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/congress-seals-agreement-900-billion-covid-relief-bill-74837831"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Health/WireAP_ed98b12d65af484c908f5cbfefd34f4a_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -1066,6 +1066,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "President Trump plans to sign COVID-19 stimulus bill"
+    excerpt: "Congress passed a $900 billion stimulus measure, which now heads to President Trump for a signature. CBS News White House correspondent Paula Reid joins CBSN with the latest."
+    publishedDateTime: 2020-12-22T16:24:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-administration-congress-covid-stimulus-checks/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/22/d6e84f35-0d29-47bb-96d1-7ad98a8382ec/thumbnail/1200x630/6625156b63f6488e13c098786be9eb7c/cbsn-fusion-trump-admin-prepares-to-distribute-stimulus-checks-thumbnail-614297-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. Senate passes $892 bln coronavirus aid bill, sends to Trump to sign"
     excerpt: "The U.S. Senate on Monday passed an $892 billion coronavirus aid package, throwing a lifeline to the nation's pandemic-battered economy, while also funding federal government activities through September 2021."
     publishedDateTime: 2020-12-22T05:08:00Z
@@ -1272,6 +1286,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "3XJN69hd7rPh+/lQa19oLziJ76Z964dDe6vgggsRgPAWMfp4WsZQtt+KIeCYUsSqicwzHQwAp8sSkCfc6ASgJSSd5qJ8Y3iuPD6zgT2NSR1GLtcpYtzdiLPdHKQUdvkjCm9RNoVSnuH0EbKbvDfqmTqTUXzzRIQrLZqpUEvGx532ymHem8sJursqxuamNDx3QkOF1vBiEZUnpAG8/rDEAlF0/0KcBXCdPJC5K4X83l6MYBjeJAAXHgClExAFo0iYu90mexhZcNvNNkcl/ZdvsNKP9+oiOra/lGxxK5QLP4NjXWiFMdfHItXK+yAphNqdILG3IzahPqQvLGK9fQXL7mjmEBDMWI4OUQfq/4f2anc=;ptQSLZXp8mQUQVgiSFp/DA=="
+secured: "hrfOIB0/6nS/SUFmq0wZuVkCktUgm2RgoYOUjnWs7lxHVRaSTUnXhiTvSkDzftiI5XihbEC8tf43GzOu1mI7l2kyKHliaTp7aGoK9Fc9nDx+CuF84lraTWCrQB3ddwoduhj9cJB2y6c3wdzrFUQiWSMtrdPP7bkdJLJ3tvokDIUhVWX0Sy3EmLhVGgbbONsgJu8qCIkz+9pXxKNvzNM0eyZ99w0fV+DDILG85Zcc/TyKNe5mLCErKSsQKxNXDjbBV478eJoPL9etZg2RDcl734Bd00iVI56/MyuIG7D4fK95uOGLFiaIL+PhLaz7UC6G45QzKlz6Xh9L3FHFbD8JtNSuy/JiONyB4kQcmhDYv7E=;WD2wcbBmykThApVR4x+9NQ=="
 ---
 

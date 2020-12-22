@@ -2,17 +2,21 @@
 category: news
 title: "Posturing over Kamala Harris' Senate seat is getting increasingly nasty"
 excerpt: "Gavin Newsom in selecting a replacement for Vice President-elect Kamala Harris in the United States Senate is growing increasingly contentious. California Secretary of State Alex Padilla is widely seen as the front-runner for the seat,"
-publishedDateTime: 2020-12-19T16:49:00Z
-originalUrl: "https://www.chron.com/politics/article/Kamala-Harris-Senate-seat-replacement-rumors-Gavin-15816155.php"
-webUrl: "https://www.chron.com/politics/article/Kamala-Harris-Senate-seat-replacement-rumors-Gavin-15816155.php"
+publishedDateTime: 2020-12-19T21:59:00Z
+originalUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-Senate-seat-replacement-rumors-Gavin-15816155.php"
+webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-Senate-seat-replacement-rumors-Gavin-15816155.php"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
   name: Houston Chronicle
-  domain: chron.com
+  domain: houstonchronicle.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -141,6 +145,6 @@ related:
       domain: parade.com
     quality: 52
 
-secured: "Ml/CwLw9VNqJIss4+ftKRBPOdB3+rOooAM111dVGDrn57DdFDqA/LF/fnmPjCf1jRBFS2/Uq6Ib4HuGHSEovhHkpmZrVoATWKYfcJIWcYpumeySEc/jTmQWPtei7vw4piJM8P0Y/z5wWUIHFp1INvsYvj1ftrfPBwFC29j2HNLJAHQSGP8asq9+NyMM42d3nF6iljO2HjS9YqdZbphRwATCgfYmEkGN5oFJ8NjokDcWpNEANLIRVsYlTrLzyCJQtcQL81Z+Lp22Zk27xBwzQZxwYTh8C5D6sE9nbFg9wRpPUvDPUFxGbe3q/uvqL2/0inCfmTy3fvNbBzZOjasILCL6p2UIADv3a/2taAVA+uelD6DJssOWkalkKnDZh6TyjIDalu3VufUnozv9Rr7PiA6WDLSSymKYQMh3veOCQMk27V6fxn3aDn9gNwD5TWGpTT17Pi2O7t/DYIhTak4pIQl+51xVK0I1+33Pw/k7A0ZRTQxtogAN8nxmwjLpz+f3P2G/O9cjmhCPs+0vwCNnFiw==;DMS4n3HcA+lkEnjUlHaNfw=="
+secured: "lT/l/XffG458Yb8fKot1dfjnAFcZnIogTwuccWI0WTTJoYwyTFgH6eThsiAW4LpjSc5bYvxjGCFbxbkZl7RkrfjxrbvibbzbK4DTFdxgTkrqa0jamROXmz0jSes6O/XiFX6ZvEyfYzJJVHdniqOIjSPqsmqQnzcexe3MmIoieyarRwtj+NVEDupSZwemsAIDEmTTQHJ/WbEPEFJ1PEZbSerE+pd0dvDhRa5CQZR4WN1XRpLAoDkX5VDbehlcN12ScxNCXswk5YQyr/jx6dqpj/sXOHPEKwrE2vIqyKtISw2cmOvTQX8TD1wUy2NOMxOe2VRaXN7d8+KBDpMmIF/gpXfhJ5D6Nvjy3KVCAdMcgh8=;P0/dvvVX9VB8Euy9P1KtFQ=="
 ---
 
