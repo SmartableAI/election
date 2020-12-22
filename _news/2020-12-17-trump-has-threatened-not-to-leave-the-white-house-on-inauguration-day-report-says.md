@@ -544,25 +544,25 @@ related:
         height: 558
         isCached: true
   - title: "Congress approves $900B COVID relief bill, sending to Trump"
-    excerpt: "The bill approved Monday night went to President Donald Trump for his signature, which was expected in the coming days. The relief package, unveiled Monday afternoon, sped through the House and Senate in a matter of hours."
-    publishedDateTime: 2020-12-22T06:07:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/congress-approves-900b-covid-relief-bill-sending-trump-74855579"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/congress-approves-900b-covid-relief-bill-sending-trump-74855579"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/congress-approves-900b-covid-relief-bill-sending-trump-74855579"
+    excerpt: "The relief package, unveiled Monday afternoon, sped through the House and Senate in a matter of hours. The Senate cleared the massive package by a 92-6 vote after the House approved the COVID-19 package by another lopsided vote,"
+    publishedDateTime: 2020-12-22T11:56:00Z
+    webUrl: "https://www.washingtonpost.com/business/congress-rushes-to-vote-on-900-billion-covid-relief-bill/2020/12/21/5a5d9d7e-43ec-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/congress-rushes-to-vote-on-900-billion-covid-relief-bill/2020/12/21/5a5d9d7e-43ec-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/congress-rushes-to-vote-on-900-billion-covid-relief-bill/2020/12/21/5a5d9d7e-43ec-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_6b07d8103a4740c388083b5a1ac319ae_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump meets U.S. House Republican allies to push voter fraud claims"
     excerpt: "U.S. President Donald Trump met a group of Republican lawmakers on Monday in his thus-far fruitless bid to gain momentum for claims that the Nov. 3 presidential election won by Democrat Joe Biden was rigged."
-    publishedDateTime: 2020-12-22T01:31:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump/trump-meets-u-s-house-republican-allies-to-push-voter-fraud-claims-idUSKBN28W02W?edition-redirect=ca"
+    publishedDateTime: 2020-12-22T06:05:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28W02W"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W02W"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W02W"
     type: article
@@ -571,7 +571,7 @@ related:
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545377438&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL019"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545385302&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL019"
         width: 817
         height: 545
         isCached: true
@@ -718,6 +718,22 @@ related:
       - url: "https://i.insider.com/5fdf47ebd366e600180992ff?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "U.S. Congress passes nearly $900 billion COVID-19 aid bill, awaits Trump approval"
+    excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week after Congress passed a $892 billion COVID-19 aid package overnight that aims to shore up the nation's pandemic response and bolster the battered economy."
+    publishedDateTime: 2020-12-22T14:41:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUKKBN28W1KP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28W1KP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28W1KP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545440994&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL0XQ"
+        width: 817
+        height: 545
         isCached: true
   - title: "SCOTUS punts on Trump bid to exclude undocumented immigrants from key Census count"
     excerpt: "The Supreme Court on Friday, by a vote of 6-3, said an effort to block President Trump from excluding undocumented immigrants from a key Census count was \"premature.\""

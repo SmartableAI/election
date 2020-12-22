@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6484311002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6484311002"
 type: article
 quality: 150
-heat: 3990
+heat: 4010
 published: true
 
 provider:
@@ -1597,6 +1597,22 @@ related:
     quality: 124
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/12/13/USAT/a112b6e0-6f50-4b16-bdb4-4cab711cf37d-AFP_AFP_8X23JG.jpg?auto=webp&crop=5099,2868,x0,y532&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Politics updates: Donald Trump expected to sign coronavirus stimulus bill"
+    excerpt: "The Senate passed a $900 billion COVID-19 relief package Monday, sending the bill to President Donald Trump to sign."
+    publishedDateTime: 2020-12-22T13:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/22/trump-expected-sign-covid-19-relief-bill-live-politics-updates/4004965001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4004965001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4004965001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/22/USAT/11c6862d-44e0-4df2-8137-e08571f854e8-AFP_AFP_1WD8I7.jpg?auto=webp&crop=6047,3401,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

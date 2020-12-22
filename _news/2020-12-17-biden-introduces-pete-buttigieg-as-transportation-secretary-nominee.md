@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/biden-pete-buttigieg-eve
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/biden-pete-buttigieg-event/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_51/3436251/201216-pete-buttigieg-jm-1649_bfe6eb7042971e4b7219e97925e8d90d.jpg"
         width: 2500
         height: 1481
+        isCached: true
+  - title: "Biden to Pick Latino Chief of Connecticut Schools as Education Secretary"
+    excerpt: "Dr. Miguel A. Cardona will fulfill Mr. Biden’s promise to appoint a diverse cabinet with an education secretary with public school experience."
+    publishedDateTime: 2020-12-22T14:42:00Z
+    webUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-education-secretary.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-education-secretary.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/politics/biden-education-secretary.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/22/us/politics/00dc-edsecretary/00dc-edsecretary-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "2CBunpSwo7StRbF7cNuXyHwGyyTPeAO/FLTKuHF6sSLO5oFJxLxiKaAWFpFkBWxHQbCKiyc3nsKrRKyUiGXvNCDgCJ3s8wThf4oriyoTUoJboR45jsicbMyc1zATmQmMoKJDe0xus1MSjZ6BmKJO11B0/N6t86tUDK8zYnRRfrCxiUZ6drFTbn30TP9Z4mVBcafQ5keHHoSka7m95Ga5tiZfRJ7QwUYsU4+DCco1CnQsCYN2LexkfWWel5Ac9naBsPAD+1WFMedH2tUFX6A+n6YMFiGNYyib+dopzpuZwpx5IHESNWnoRN4E6vrFf4ON78W+gEIDrjJZTvLn+uHupiSG6mv+7svW1ADqBPcWenE=;p7Czg/2Wc4o42gYP16kZJA=="

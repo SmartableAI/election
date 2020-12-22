@@ -1271,6 +1271,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "In confronting climate change, Biden won’t have a day to waste"
+    excerpt: "In recent days Joe Biden has shown he is prepared to deliver on his promise to pursue a more ambitious environmental agenda than any of his predecessors — one that aspires to rapidly shrink the nation’s carbon emissions,"
+    publishedDateTime: 2020-12-22T13:02:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/22/biden-climate-change/?arc404=true"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/s51tottGf5UTxN4eqK2QppiS5Ds=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IJS6HQCAVYI6XNMLCYR7MJTZMA.jpg"
+        width: 1484
+        height: 989
+        isCached: true
   - title: "President-elect Joe Biden taps former Obama adviser and envoy Susan Rice to lead White House Domestic Policy Council"
     excerpt: "President-elect Joe Biden taps former Obama adviser and envoy Susan Rice to lead White House Domestic Policy Council"
     publishedDateTime: 2020-12-10T15:21:00Z

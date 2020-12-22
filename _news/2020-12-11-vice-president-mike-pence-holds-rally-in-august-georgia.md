@@ -1267,6 +1267,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "In confronting climate change, Biden won’t have a day to waste"
+    excerpt: "In recent days Joe Biden has shown he is prepared to deliver on his promise to pursue a more ambitious environmental agenda than any of his predecessors — one that aspires to rapidly shrink the nation’s carbon emissions,"
+    publishedDateTime: 2020-12-22T13:02:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/22/biden-climate-change/?arc404=true"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/s51tottGf5UTxN4eqK2QppiS5Ds=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IJS6HQCAVYI6XNMLCYR7MJTZMA.jpg"
+        width: 1484
+        height: 989
+        isCached: true
   - title: "Electoral College to formally vote for Joe Biden to become next president"
     excerpt: "As Electoral College members meet in each state to cast their ballots, formally affirming Joe Biden as the next president of the United States, President Trump is vowing to continue fighting the election results."
     publishedDateTime: 2020-12-14T14:54:00Z

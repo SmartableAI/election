@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to Pick Latino Chief of Connecticut Schools as Education Secretary"
+    excerpt: "Dr. Miguel A. Cardona will fulfill Mr. Biden’s promise to appoint a diverse cabinet with an education secretary with public school experience."
+    publishedDateTime: 2020-12-22T14:42:00Z
+    webUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-education-secretary.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-education-secretary.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/politics/biden-education-secretary.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/22/us/politics/00dc-edsecretary/00dc-edsecretary-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "ZtAU0qsnuVfRlXSjVDz/wtSAg/A8rm1QIsHADCzxRPvWcHqSicDvgAwe5bSZILOkXnfmImQ6jmEMS+IkDboegNlUIThll1f+GpiBLxIABcbLyKvOyfycjvS1nbNB3keOzFccqNrCgXzaI4S4DrGG+581ANoWygQFFSB78utCboDz051h0wWw1gS9AXNUrcLGJFqvyCvY/a+fJHRb1HlSFTRcelW4JRBuHtXyuysxxulvr9c6eUp3HGPAmX1oGyV9ensWaZiEaaLeeR+WeSxg9/6mm6jSrSfXWOvmcnA9PpggDhgOqLdJocrawKoACoIgNy3+rTcIS8omWJsnvCx53YMMJL/iZZVSo8lvp/O4Qp3qYHREE34c8V3XfMDKhI+X6XF/1/rS8xJTeW3t1TmzqjdmrJV5OifW4P1ZYm60tA0tAAJ9ZzRutKRf+EBAyiMZJ+MICrlMzQI87G23bAhl4fnsBl1HacJ4DqrSZ6iMKs6tjKJ1h9yGFEu/WCSZiOycqErsenztTOyJGqoGLftmuw==;NUHir9fDZjmkjwNm0ibbLA=="
 ---
