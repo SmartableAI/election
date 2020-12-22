@@ -45,6 +45,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump entertains desperate schemes to overturn election"
+    excerpt: "President Donald Trump's unprecedented efforts to overturn the election received pushback from outgoing U.S. Attorney General Bill Barr."
+    publishedDateTime: 2020-12-22T02:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-entertains-desperate-schemes-overturn-election/story?id=74845068"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-entertains-desperate-schemes-overturn-election/story?id=74845068"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-entertains-desperate-schemes-overturn-election/story?id=74845068"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-army-navy-ap-jt-201221_1608577551294_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump says Attorney General Barr resigns"
     excerpt: "President Donald Trump said on Monday that Attorney General William Barr will be leaving his job just before Christmas and Deputy Attorney General Jeff Rosen will become acting attorney general."
     publishedDateTime: 2020-12-14T23:14:00Z

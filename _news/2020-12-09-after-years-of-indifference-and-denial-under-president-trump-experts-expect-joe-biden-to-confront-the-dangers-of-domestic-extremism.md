@@ -2127,6 +2127,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris, Ivanka Trump making appeals to Georgia voters"
+    excerpt: "Campaigning in Georgia on Monday, Vice President-elect Kamala Harris stressed a need to elect Democratic U.S. Senate candidates who will advance President-elect Joe Biden's agenda. Ivanka Trump, meanwhile,"
+    publishedDateTime: 2020-12-21T13:33:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-Ivanka-Trump-making-appeals-to-15820191.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/Kamala-Harris-Ivanka-Trump-making-appeals-to-15820191.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Kamala-Harris-Ivanka-Trump-making-appeals-to-15820191.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 90
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/67/76/20414345/21/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Chicago Area Leaders React After Joe Biden, Kamala Harris Projected To Defeat President Donald Trump, VP Mike Pence"
     excerpt: "Gov. JB Pritzker said \"America elected a President and Vice President who will lead with compassion, restore dignity to the office, and give us hope for a brighter future.\""
     publishedDateTime: 2020-11-07T21:24:00Z

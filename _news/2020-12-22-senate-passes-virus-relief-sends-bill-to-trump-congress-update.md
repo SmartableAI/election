@@ -541,6 +541,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Congress approves $900B COVID relief bill, sending to Trump"
+    excerpt: "The bill approved Monday night went to President Donald Trump for his signature, which was expected in the coming days. The relief package, unveiled Monday afternoon, sped through the House and Senate in a matter of hours."
+    publishedDateTime: 2020-12-22T06:07:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/congress-approves-900b-covid-relief-bill-sending-trump-74855579"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/congress-approves-900b-covid-relief-bill-sending-trump-74855579"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/congress-approves-900b-covid-relief-bill-sending-trump-74855579"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6b07d8103a4740c388083b5a1ac319ae_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump meets U.S. House Republican allies to push voter fraud claims"
     excerpt: "U.S. President Donald Trump met a group of Republican lawmakers on Monday in his thus-far fruitless bid to gain momentum for claims that the Nov. 3 presidential election won by Democrat Joe Biden was rigged."
     publishedDateTime: 2020-12-22T01:31:00Z
@@ -1034,6 +1050,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "U.S. Senate passes $892 bln coronavirus aid bill, sends to Trump to sign"
+    excerpt: "The U.S. Senate on Monday passed an $892 billion coronavirus aid package, throwing a lifeline to the nation's pandemic-battered economy, while also funding federal government activities through September 2021."
+    publishedDateTime: 2020-12-22T05:08:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-senate-idUSL1N2J206O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J206O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J206O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
   - title: "Spotted owls could go extinct without more federal protection. But they’re not going to get it, Trump officials say."
     excerpt: "The northern spotted owl has lost 70 percent of its habitat to development and timber harvesting and could go extinct without added federal protection, the Trump administration announced Monday. But the owls won’t get it."
     publishedDateTime: 2020-12-15T06:18:00Z
@@ -1229,6 +1256,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "o/tGn/xKdMfW1JTig00bpL4G9YoAVqd94MmasywnrAaOXG8zpGkfwPOSEXN11NcJw9TFIIaIWjgvCgXaf28wsnnPz6YADFULSCkdhj4r3c+vW3w9ZIcqUSH2e5rq4GrRsk+IOrnXFM6zNHNRUiSlcWDGRsFTkNFHiwlcGTFK8ZdaDD4M7rN968yOUEntV8BIpupVtt72m38FKDI283gJ5O81RS2N8CmOp3cxgYvk0UckpGBoSVFKIv1j8U9nt8kI4nTqxHzRmowPB1hNhXKBEm+oWSI3F4hdIW8cNoC1uY4WYJcIn0sez1weKflZ4oGWlLkmEDp9FzFze7cpW8wNMIpyQpevAf+cuwQBVVrfFl0=;M2SAat0/fKDsBK41A1FgBw=="
+secured: "nEmUPWIa/Gh9uvIdjwTVRpZWIUgQBgAE7vIDd8jXtOmXb546BxILVvWqP+ddDPsBXnpFnP88LTymjsrehsVNAZm59ZzzpuYf+SEh0Xm/sskuahJvs2YxqydWi6AllZ3vPvgZe0RRSSmntCDhw6KOqV83DDdMBMm9nUPF2mhKyaW/PxaR/oBlhkLTwLyo/bqEUw/1Uo7juQHjZIlwO492FI+i5jSTWVyFXlJYR5iTY4xgr9Djwl0Izkg3gmMhzRxv3yegHJrNGaURkoZrqpPyLC8QtBPRl3MNdq6zQOd9K/7bS9582HCW5Z592MH2v6t3uwKNv2W4dp8ptlASebU8xTyiIXPnkbMBUOMUPMlQSMrL3NFety8hEaX/alwvdBIoHe3efnXxSlkaAs2YM+cGW7nPgtwg/cMhlTU+QxYuimol4EQ1o0204yUqLmESz4EA4DTH0+Kh0BPHqpbQq2iO2ujMS8rJBQOwlMb9qBIbn8GvfEciCTqKlKZnzTYjdoqH8keG9Az0qCBj2QaXkr/ybw==;7VTtd8p2udNEydPbOdLbkw=="
 ---
 

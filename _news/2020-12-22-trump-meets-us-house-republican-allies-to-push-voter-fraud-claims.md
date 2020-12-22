@@ -543,6 +543,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Congress approves $900B COVID relief bill, sending to Trump"
+    excerpt: "The bill approved Monday night went to President Donald Trump for his signature, which was expected in the coming days. The relief package, unveiled Monday afternoon, sped through the House and Senate in a matter of hours."
+    publishedDateTime: 2020-12-22T06:07:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/congress-approves-900b-covid-relief-bill-sending-trump-74855579"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/congress-approves-900b-covid-relief-bill-sending-trump-74855579"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/congress-approves-900b-covid-relief-bill-sending-trump-74855579"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6b07d8103a4740c388083b5a1ac319ae_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "U.S. finalizes shower head rule after Trump complaints about hair rinsing"
     excerpt: "The U.S. Energy Department on Tuesday finalized two rules easing energy standards on consumer fixtures and appliances, including one on shower heads after President Donald Trump complained some showers don't adequately rinse his hair."
     publishedDateTime: 2020-12-16T02:52:00Z
@@ -1034,6 +1050,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "U.S. Senate passes $892 bln coronavirus aid bill, sends to Trump to sign"
+    excerpt: "The U.S. Senate on Monday passed an $892 billion coronavirus aid package, throwing a lifeline to the nation's pandemic-battered economy, while also funding federal government activities through September 2021."
+    publishedDateTime: 2020-12-22T05:08:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-senate-idUSL1N2J206O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J206O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J206O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
   - title: "Spotted owls could go extinct without more federal protection. But they’re not going to get it, Trump officials say."
     excerpt: "The northern spotted owl has lost 70 percent of its habitat to development and timber harvesting and could go extinct without added federal protection, the Trump administration announced Monday. But the owls won’t get it."
     publishedDateTime: 2020-12-15T06:18:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Coronavirus live news: Biden receives vaccine as Congress passes US aid bill"
 excerpt: "UK warned to expect further restrictions; intensive care beds full in southern California; Denmark bans mink farms for a year"
-publishedDateTime: 2020-12-22T04:48:00Z
-originalUrl: "https://www.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m?page=with:block-5fe17a8b8f08da4121f4afe5"
-webUrl: "https://www.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m?page=with:block-5fe17a8b8f08da4121f4afe5"
+publishedDateTime: 2020-12-22T04:17:00Z
+originalUrl: "https://www.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m?page=with:block-5fe13e5e8f08da4121f4ad99"
+webUrl: "https://www.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m?page=with:block-5fe13e5e8f08da4121f4ad99"
 ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/d6b1f767c1358f4f51885c3503a0754e468d821a/0_433_5668_3401/master/5668.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=52e90980f970ef55af38de5f1fcdcfda"
+  - url: "https://i.guim.co.uk/img/media/71ac84d6658c9bc576c25cf3dfaa9cd731de5588/0_392_5887_3532/master/5887.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3d0bde54e393892511239ecebf791427"
     width: 600
     height: 360
     isCached: true
@@ -209,8 +209,8 @@ related:
         isCached: true
   - title: "Coronavirus live news: Biden receives vaccine as global death toll passes 1.7m"
     excerpt: "UK warned to expect further restrictions; intensive care beds full in southern California; Denmark bans mink farms for a year"
-    publishedDateTime: 2020-12-21T23:47:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
+    publishedDateTime: 2020-12-21T23:54:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m?page=with:block-5fe12b2e8f08dd27861ceffb"
     ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
     type: article
@@ -219,7 +219,7 @@ related:
       domain: theguardian.com
     quality: 121
     images:
-      - url: "https://i.guim.co.uk/img/media/d6b1f767c1358f4f51885c3503a0754e468d821a/0_433_5668_3401/master/5668.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=52e90980f970ef55af38de5f1fcdcfda"
+      - url: "https://i.guim.co.uk/img/media/71ac84d6658c9bc576c25cf3dfaa9cd731de5588/0_392_5887_3532/master/5887.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3d0bde54e393892511239ecebf791427"
         width: 600
         height: 360
         isCached: true
@@ -401,6 +401,6 @@ related:
         height: 641
         isCached: true
 
-secured: "KpCjg7UF6x/tYGD8oPZrPtJNO6d27MEqjRpEadJ3NU0J7WfMxgZkAGF/scFZ/2MwC+/pLiDUYKaz4uxsHk+DWWNw6sUoHj/Lqz9TTdXYbP850tcAGf/TwRu8VNaaMAVCkpmBW5VXp/WTQj4Gqh0r+twhSrcb8zK4OUGp6o7PeKcHAgekHOMm9qQqYbz3lVeMMtw2ygcJvJ+3MN2w1CxsGZwI5aWsv6yO8ddnOlDkWsOF6rP2WJnMbIDnxpovps5+m6MaYKyB73UQinCKlsPZVdCXaTo8ku0wzUkxhebLQXtrkr0Nb+GxMdMGcozw46GOCoTpNrRqpvfkV6v6/969zFJEUtpq7Jg9kVvKDdDLWAA=;uZULOEG4p+CPzJVbf/CiJQ=="
+secured: "wuNsYVg+yZEDitpl8xMrK5u6TA8eYibzY3D13+/f+Cd358ZgwdaKldBcAMO2hsOtWLvnCRSI/a8M2Byn8YeRR+SeJ93dtXQfyhSpYULwcLUEBAe7oKBPY6MjlPBaxz4xPMxyGFDGQfekQJVjOfpPEAPH/algluETJHtJ2f6tuiJFfjwdPIR/ASdBKgqHGIteOyuXcSAx7nnnPKbki9n0XC6tD3d/7HyfqI5bdOGh4nGLaWjekblbIT+bwCLnUIl7GOwovyJMgo045X7VsU2vTkhfDyVXsiQYcihIDuQWbfrxBVixlIqVobjdl5w632S2UJlmlLpBDwCTAg+7tBB8cBEL8gZfbuN0oj/SuWXd/9s=;LQG14KMv5qPqzE9vPVXVHA=="
 ---
 

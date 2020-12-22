@@ -973,6 +973,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live Updates: Biden economic adviser was outspokenly critical of GOP-sponsored immigration policies"
+    excerpt: "President-Elect Joe Biden tapped Joelle Gamble to serve as an economic adviser in his incoming administration"
+    publishedDateTime: 2020-12-22T05:03:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tBt3R8OCQB4/live-updates-biden-transition-12-22-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-22-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-22-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e01ec4a-7cb8-4037-bd3e-b55b5f387bc4/23281677-21f6-4bd1-9e92-b6b1ab154be6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "McConnell, top GOP senators acknowledge Biden as president-elect: 'The Electoral College has spoken'"
     excerpt: "Top Senate Republicans are officially accepting President-elect Joe Biden's 2020 victory after the Electoral College confirmed his win on Monday."
     publishedDateTime: 2020-12-15T15:30:27Z
