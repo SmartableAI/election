@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V18F"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V18F"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "US greenhouse gas emissions drop under Trump, but climate experts aren’t celebrating"
+    excerpt: "As Donald Trump prepares to leave office, U.S. greenhouse gas emissions are plunging to levels not seen in decades. But experts say it isn’t happening fast enough."
+    publishedDateTime: 2020-12-22T11:14:00Z
+    webUrl: "https://abcnews.go.com/Politics/us-greenhouse-gas-emissions-drop-trump-climate-experts/story?id=74848440"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/us-greenhouse-gas-emissions-drop-trump-climate-experts/story?id=74848440"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/us-greenhouse-gas-emissions-drop-trump-climate-experts/story?id=74848440"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/global_carbon_emissions-01-ap-iwb-201221_1608581335568_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The US declares Switzerland and Vietnam as currency manipulators in the final days of Trump's administration"
     excerpt: "Joe Biden's incoming administration, according to a chief emerging markets strategist."
     publishedDateTime: 2020-12-17T21:21:00Z

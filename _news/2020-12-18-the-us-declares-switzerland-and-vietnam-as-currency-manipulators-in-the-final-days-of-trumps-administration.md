@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "US greenhouse gas emissions drop under Trump, but climate experts aren’t celebrating"
+    excerpt: "As Donald Trump prepares to leave office, U.S. greenhouse gas emissions are plunging to levels not seen in decades. But experts say it isn’t happening fast enough."
+    publishedDateTime: 2020-12-22T11:14:00Z
+    webUrl: "https://abcnews.go.com/Politics/us-greenhouse-gas-emissions-drop-trump-climate-experts/story?id=74848440"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/us-greenhouse-gas-emissions-drop-trump-climate-experts/story?id=74848440"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/us-greenhouse-gas-emissions-drop-trump-climate-experts/story?id=74848440"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/global_carbon_emissions-01-ap-iwb-201221_1608581335568_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "Z4JPgzRyS8AupsKVlsak8gMMjg4GiHewPTk/2BubRvDiueTvqRUS3hTN1Y1LFYNAIAR6r6BrQDc6d4M/NwLP33T/QiMUzrsjmOoaHpJi3yWSD5FBF8IdF59Vn0JmQzENeN8m5Vt8YvB1WFHObYOHrWSryPX8uZPYu2f/f+qvxeVAaFeEzyg+wIl0VRhDMIJbEh1B317UFbT9XF6LBAexBr+HxWihnGDMunZilgtul+EWZYCFB6bl08ZcluxmV3nj3ZoHbDJsiE+0rJbglGpART+EskrJzJYt3yUPA4j9q6ywt6AQoa2Y+jt43vV7jpV4y/ADNXURIkDbBf85ecP/lTqxqhyef3HWf8XLyzea/TPbajk7Nx9OziszrlzDEQJcrmu+MVPxeN1KuJPC5+vJ+tbGxnSfBHZcIi4XS8ocmD7DQk6sh8HA2FfbtoEovLJ2737KuzStoIV8HurLcyr3WKRFIyB8MnBRM5MMX3mSjpzIKKPj7Q+5pIz1FqiFE4GDrO+SyKyfSi2DIFvoPsfsqw==;8akGVBBvA/8J3Ms/74mKYA=="
 ---

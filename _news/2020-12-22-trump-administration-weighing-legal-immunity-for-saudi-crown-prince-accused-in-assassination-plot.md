@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/local/public-safety/legal-immunity-re
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html?outputType=amp"
 type: article
 quality: 112
-heat: 112
+heat: 132
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 862
     isCached: true
+
+related:
+  - title: "The Trump administration is mulling immunity for Saudi Crown Prince Mohammed, who is accused of sending a hit squad to kill an exiled spy chief"
+    excerpt: "Jabri, a former Saudi intel official, filed a complaint in a US federal court accusing Crown Prince Mohammed of ordering a hit squad on him."
+    publishedDateTime: 2020-12-22T11:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-considering-immunity-saudi-mbs-report-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-considering-immunity-saudi-mbs-report-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-considering-immunity-saudi-mbs-report-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5fe1bb31d366e60018099876?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "kNYypUkPyqbrK0JzBKEUEv4mZOBNtYu8r40COcsqjh6nQTa8vuJLPWIAYeprrMNdAbMoAwtF2NMG6V6eQhuZ0yaDcSCw3/e895jw+C/kq7z9yAu9VWGylw//T6pKTJEjDxa19uNhhIXImwlW0payEW0enH72Fy3G40LeLyVJlhe5kYCpyXRLBfT0D+YNw/oN4T5UD1byKqx0IUWbxaDborYnBnm2vQU78ldT3jMvGBvyirwuPJb8ze6abgD1a9jrtQQE7BLh0ogKNYXu5QXIfkvesd8rY1etrpHJjRQXcjZPSvoytqCPEBNSnbL2DTwCTYF7/heLO1PRlqecfTdawvS0qG4tMVzHYrevZ0qLgVg=;hc2Qaov9EfIj25iGbxoAww=="
 ---
