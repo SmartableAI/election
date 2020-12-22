@@ -77,6 +77,22 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "Officials finally found a case of a dead person voting, accusing a Republican of pretending to be his dead mom to vote for Trump"
+    excerpt: "Bruce Bartman pretended to be his dead mom to cast a ballot for President Donald Trump, who lost the state anyway, prosecutors said."
+    publishedDateTime: 2020-12-22T00:59:00Z
+    webUrl: "https://www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5fe123edc910a400192e8de7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "L7Zr4Df+OEI5sQKn+KGsmuXqKL4EfsFWKJLpuLFSpI5pRFEoXCfQtnIQHMjXE+5KmAR9x3IG6tHCJWdxdxz5MvJwFZ7TKpYN/+ZbmbKC6KxqZedM1A175h/dqy8yykySU8uflFFCo+3MOdJoBXj57SVRLfFp0Jc8P0Oyu9dnQXJb5sDejsPxPtAcKvKT0Fsw1jl+E+ruZbo1JSJBcpEZcfuOljLasVCOsN4Aw8BfThn0x61IPPY3bYzM/B2TDRz+jryts4s4ISp5XdLiXrECBA9V91pHQaeqao45hyvh6epj+SJ0PmQ6ttV6SKE7rXPpoH6E7djdTcaKjz00RfZnNkbBflT3kkakpojH2qNHg98=;fbjrMu5uad696vQaV3kwpg=="
 ---

@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Amid Vaccine Rollout and Historic Hack, Trump Remains Focused on Reversing Election"
-excerpt: "The president has been largely out of sight, paying little public attention to any events other than his efforts to overturn Joe Biden’s victory."
-publishedDateTime: 2020-12-21T02:24:00Z
-originalUrl: "https://www.wsj.com/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545?mod=newsviewer_click"
-ampWebUrl: "https://www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
+title: "McConnell implores Trump not to veto defense bill, prepares override effort"
+excerpt: ""
+publishedDateTime: 2020-12-22T08:12:34Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zYiTGFKrJTk/mcconnell-implores-trump-not-to-veto-defense-bill-prepares-override-effort"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zYiTGFKrJTk/mcconnell-implores-trump-not-to-veto-defense-bill-prepares-override-effort"
+ampWebUrl: "https://www.foxnews.com/politics/mcconnell-implores-trump-not-to-veto-defense-bill-prepares-override-effort.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-implores-trump-not-to-veto-defense-bill-prepares-override-effort.amp"
 type: article
-quality: 144
+quality: 173
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
+  name: Fox News
+  domain: foxnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-275358/social"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9107df7-1cf8-47d5-a9bd-ec708ef61a02/d932b3cc-32bc-45e4-9850-102bc8606f94/1280x720/match/image.jpg"
     width: 1280
-    height: 640
+    height: 720
     isCached: true
 
 related:
@@ -61,22 +60,6 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be49e1af-bdeb-4c95-92ae-d90b8af1ee9a/b851ccf8-5175-45cc-89b2-9f6946360c14/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "McConnell implores Trump not to veto defense bill, prepares override effort"
-    excerpt: ""
-    publishedDateTime: 2020-12-22T08:12:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zYiTGFKrJTk/mcconnell-implores-trump-not-to-veto-defense-bill-prepares-override-effort"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-implores-trump-not-to-veto-defense-bill-prepares-override-effort.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-implores-trump-not-to-veto-defense-bill-prepares-override-effort.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9107df7-1cf8-47d5-a9bd-ec708ef61a02/d932b3cc-32bc-45e4-9850-102bc8606f94/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -144,6 +127,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Amid Vaccine Rollout and Historic Hack, Trump Remains Focused on Reversing Election"
+    excerpt: "The president has been largely out of sight, paying little public attention to any events other than his efforts to overturn Joe Biden’s victory."
+    publishedDateTime: 2020-12-21T02:24:00Z
+    webUrl: "https://www.wsj.com/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 144
+    images:
+      - url: "https://images.wsj.net/im-275358/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump, targeting McConnell and top Republicans, urges them to 'get tougher' in election fight"
     excerpt: "President Trump is again taking aim at Senate Majority Leader Mitch McConnell after the top Republican and Trump ally earlier this week recognized President-elect Joe Biden's White House victory."
     publishedDateTime: 2020-12-18T17:59:00Z
@@ -193,6 +192,6 @@ related:
         height: 720
         isCached: true
 
-secured: "wNxWX6jebyMu2nlNUP0AflEPeExZhI/x2aqyGhhkz1OrTQ9PC/J1dMJBt9JAVrdPeXOD1igKQjwrG6sT0xfZu1XbhNcw51aye0nkcnFjlowRLb37nKhddZSP+3RKwXTrWWtNA/lQMzoR0xpzAnYc7tkWp4B4nK+tngztO/4035R910S0Qs63oKTgxEr8LkDjceAfOm61mL71ODeOwQwgslAJHZVQGk7l6gkfqxET9+BV3udV4r90A26EzvJxav5ArwkW/HmIK/N31tfejjHwuHr2T3B64kvmFJWRpjbAJasgO89HkhodvcKQagYn3HQLlLl4HzEWsyuZsOtTEy4d0LkjCcdOyG43cRmVHka48WWWx3T3k260+XOv9jyPZrcdW1HHvROPNkOXwd0KPv2ZTbPfJvVyub9VlS1a5UbMLLOwCnzF0rwI4QauTkTG4vFMve/Lo5KfcGIO+h5mE0E/SmwXLdHxI6RziGdC8pjrVzpCwpzFHTdn9j5xCMAXjpFIkjyTceajCpO8qVaIuBk7fw==;9l56sDi+7icbWN40BGdB4g=="
+secured: "2x5rAspZqHWIHsJvMQ6e9/DRwi+qCkoCdJAJtHse0oOgZbZmTKehvAlqG9FC2EmgqnErJ80oQzPj0fsgmRYSJZ+vzB59fsVlcy2FGAAzjPGqx0H2ERihiWCcMlVnTyMjAi4EKjwREHVYHULe5JsOyvd1fFpeBNFBix9wT7dmNy0FUvsDUzQ0WI69q+FbWE+p9vlUMtJ81L6ZO7IVkC0Yaq7x3fg19Xyg/0j38IKXE0osw+y7futqeKs84ciOEON9bRK8Lh831EQa8OHlID5HOplWp0/J5t+1n/F136AED6Rwqv6+jGeiI0MbS7OAsMPkehbLleg9vO8dX2npfTMpKnxlUHbFGOoTTGBW0jRgOZQ=;Fjp6JgMA8ZGQiJORRLeJqA=="
 ---
 

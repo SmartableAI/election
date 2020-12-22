@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McConnell implores Trump not to veto defense bill, prepares override effort"
+    excerpt: ""
+    publishedDateTime: 2020-12-22T08:12:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zYiTGFKrJTk/mcconnell-implores-trump-not-to-veto-defense-bill-prepares-override-effort"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-implores-trump-not-to-veto-defense-bill-prepares-override-effort.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-implores-trump-not-to-veto-defense-bill-prepares-override-effort.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9107df7-1cf8-47d5-a9bd-ec708ef61a02/d932b3cc-32bc-45e4-9850-102bc8606f94/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Rep.-elect Yvette Herrell relates to Trump's voter fraud claims: 'I know exactly what he's going through'"
     excerpt: "Rep.-elect Yvette Herrell understands the joy of leading on election night and then the sinking feeling of having that advantage slowly erased as mail-in ballots are counted."
     publishedDateTime: 2020-12-17T20:38:41Z

@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Trump's would-be neighbors say he can't live at Mar-a-Lago post-presidency"
-excerpt: "The Post’s Carol D. Leonnig explains the difficulties President Trump will have if he claims Mar-a-Lago in Palm Beach, Fla., as his post-presidency residence."
-publishedDateTime: 2020-12-18T18:51:00Z
-originalUrl: "https://www.washingtonpost.com/video/politics/trumps-would-be-neighbors-say-he-cant-live-at-mar-a-lago-post-presidency/2020/12/18/266978a3-811d-44f0-a65a-1eb2cf4f69ee_video.html"
-webUrl: "https://www.washingtonpost.com/video/politics/trumps-would-be-neighbors-say-he-cant-live-at-mar-a-lago-post-presidency/2020/12/18/266978a3-811d-44f0-a65a-1eb2cf4f69ee_video.html"
+title: "Officials finally found a case of a dead person voting, accusing a Republican of pretending to be his dead mom to vote for Trump"
+excerpt: "Bruce Bartman pretended to be his dead mom to cast a ballot for President Donald Trump, who lost the state anyway, prosecutors said."
+publishedDateTime: 2020-12-22T00:59:00Z
+originalUrl: "https://www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12"
+webUrl: "https://www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12"
+ampWebUrl: "https://www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12?amp"
 type: article
-quality: 103
+quality: 96
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-18-2020/t_194d60baf64341449edc279aee47ae2e_name_07a44092_2a62_11e9_b2fc_721718903bfc_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-    width: 1484
-    height: 834
+  - url: "https://i.insider.com/5fe123edc910a400192e8de7?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -77,23 +79,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Officials finally found a case of a dead person voting, accusing a Republican of pretending to be his dead mom to vote for Trump"
-    excerpt: "Bruce Bartman pretended to be his dead mom to cast a ballot for President Donald Trump, who lost the state anyway, prosecutors said."
-    publishedDateTime: 2020-12-22T00:59:00Z
-    webUrl: "https://www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12?amp"
+  - title: "Trump's would-be neighbors say he can't live at Mar-a-Lago post-presidency"
+    excerpt: "The Post’s Carol D. Leonnig explains the difficulties President Trump will have if he claims Mar-a-Lago in Palm Beach, Fla., as his post-presidency residence."
+    publishedDateTime: 2020-12-18T18:51:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/trumps-would-be-neighbors-say-he-cant-live-at-mar-a-lago-post-presidency/2020/12/18/266978a3-811d-44f0-a65a-1eb2cf4f69ee_video.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 103
     images:
-      - url: "https://i.insider.com/5fe123edc910a400192e8de7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-18-2020/t_194d60baf64341449edc279aee47ae2e_name_07a44092_2a62_11e9_b2fc_721718903bfc_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
         isCached: true
 
-secured: "o9BCXm/6V8uanGCjwVUuYxM/ZOW6uUyrC3t4/YdrawmZfuCjhmfGGalsZ9n9lxJkiTC60pNcZJdKINNlHEGvT9zBhu303GYOsyjMLBdyefi8/GY8saahvv4JuCrw9UJHvmvs8Ovn2jArAZOKgwz+fcNVFfEqZq37MBNlsFABWYEdTXf4Yb7ctF2VQDYUmYHO4HEEAhfSnMOSXmxEsYUlkQ/unPFxmnsU6GxeENigBEHP/x24aMgp/t7MlMX/FICqjKkbqMXHO/zgDLrLEh8s6PQWAKoeExSgwYXbTKYfjlNi4+75PCegm3FWKkhC3jWY2+Pe6wvcmDcEEceznlhyHmsShAgf0DCYw0MeCd+lORg=;2FwVBMdOJyOsxpP4frgeFQ=="
+secured: "mUge81tQY5ge14XH8o+ldGSQYA8QOzmp+f/X6a4s57I4K1aax2As4aMD/CtBkJK60MjDwybyAR9v4+/81URUlFk5CuQ/em5eJ32QvmE/gT36GztUa01UXLr7LiZtKLV/+Xyeoze0eeJAEUIL3g/l86spvMS3bVo2htBw77ZwRTGoLsn3yv7Yr0dBxh8i6ZfXhUKn1EG2P0TQOSM0a0fo/Yi7RsFmuEGywi5V3iyvnOpF2aJqOcyjavbzIhSzM7YmXvjESxI2mjdByeUMxyu0n3/P5QBtIZomwKOZcBtTi1NAtj8JTXof3oh+9a1azcFiWDRyK0BUGIGuuPWGeR+DgpB8RtKgjLRG4nCCVkiszXM=;ARpnk7AnAA/Pv4HcroYJPQ=="
 ---
 

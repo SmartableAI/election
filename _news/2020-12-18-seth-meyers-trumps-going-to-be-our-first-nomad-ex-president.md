@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/culture/2020/dec/17/seth-meyers-trump-no
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2020/dec/17/seth-meyers-trump-nomad-ex-president-late-night-recap"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-18-2020/t_194d60baf64341449edc279aee47ae2e_name_07a44092_2a62_11e9_b2fc_721718903bfc_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 834
+        isCached: true
+  - title: "Officials finally found a case of a dead person voting, accusing a Republican of pretending to be his dead mom to vote for Trump"
+    excerpt: "Bruce Bartman pretended to be his dead mom to cast a ballot for President Donald Trump, who lost the state anyway, prosecutors said."
+    publishedDateTime: 2020-12-22T00:59:00Z
+    webUrl: "https://www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5fe123edc910a400192e8de7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "+8TfyoJYD/AOCsDS8SZMxRF+9lz439pWQTS29adSRWc7X18M3d3CbRqILcHEZgW6uPpy1Or1DR5lnBIsboDlg4CXqurlSh7+PQWoBz2x2WI7cQlN/ni5EANg7bc7oIrzFTCPE/dNM3dcUpYi3KOLoPzqBNAvz1XzBr9z769qcNrFmFfyjout0p9B+AKfoJb4V6WhIeryi29thwGaqkaQZjXli3eBzhPfNLL1SeC6FN3m6LwNqeDFldCf6l7SnhWc45iNVbCz1+3wnRxSmREZP3oE2nxt3oWxV9rnNA1QaMyHB04Bax4J2kwdQGoGYJkU8UiKHeonLU48xmfnCF2zrAvwU1Zg9aODaVuvnl1O81JBH0j10yAI1ooU7o1/fuB6Ix268FFTsukrRx2vr9ugm4itQM4hq+VGRrKV9oz0D5XgjjE2VncE3o2NSZGnzfGjNZVHOzXJHLhQDNR9WgdRHD8rtbkNKfLepZRSTL5ESgehiwp7eYogMf8bcQ5lWCCBuv20sGnGEusXOgmwyh4DDg==;ckePloKfAUad9XYxi1YqSw=="

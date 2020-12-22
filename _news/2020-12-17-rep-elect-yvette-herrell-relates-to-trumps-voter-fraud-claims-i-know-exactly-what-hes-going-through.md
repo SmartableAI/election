@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McConnell implores Trump not to veto defense bill, prepares override effort"
+    excerpt: ""
+    publishedDateTime: 2020-12-22T08:12:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zYiTGFKrJTk/mcconnell-implores-trump-not-to-veto-defense-bill-prepares-override-effort"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-implores-trump-not-to-veto-defense-bill-prepares-override-effort.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-implores-trump-not-to-veto-defense-bill-prepares-override-effort.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9107df7-1cf8-47d5-a9bd-ec708ef61a02/d932b3cc-32bc-45e4-9850-102bc8606f94/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump meets with members of Congress plotting Electoral College objections on Jan. 6"
     excerpt: "President Trump Monday huddled with members of Congress to discuss plans to object to President-elect Joe Biden's Electoral College win and to force a debate on allegations of voter fraud."
     publishedDateTime: 2020-12-22T03:09:12Z
