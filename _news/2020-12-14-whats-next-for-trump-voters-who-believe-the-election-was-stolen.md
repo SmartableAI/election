@@ -64,6 +64,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump threatens 30-day reign of destruction on the way out of office"
+    excerpt: "Joe Biden will be president in 30 days. Until then, the question is how much damage can be done by a vengeful, delusional soon-to-be ex-President swilling conspiracy theories, whose wild anti-democratic instincts are being encouraged by fringe political opportunists.\n    \n"
+    publishedDateTime: 2020-12-22T09:43:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SHYIsFDfIRI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/donald-trump-white-house-countdown/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/donald-trump-white-house-countdown/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209192032-trump-medal-of-freedom-dan-gable-oval-office-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pentagon anxiety rises as officers wait for Trump's next unpredictable move"
+    excerpt: "It's like a low murmur just below the surface. \"We don't know what he might do,\" says one officer in the Pentagon. \"We are in strange times,\" says another officer. Some senior military officers are trying to steer clear of the White House for the next month, rather than be in the President Donald Trump's"
+    publishedDateTime: 2020-12-22T10:00:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NF06xO7e4Dw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/pentagon-anxiety-trump-final-days/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/pentagon-anxiety-trump-final-days/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215172845-02-pentagon-building-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration says it will withhold $200 million in California Medicaid funding over abortion insurance requirement"
     excerpt: "The Trump administration announced two measures on Wednesday seeking to restrict abortion access, including withholding hundreds of millions in federal funding from California, one in a series of parting shots from an outgoing administration that has repeatedly sought to limit the procedure on religious"
     publishedDateTime: 2020-12-17T05:12:21Z

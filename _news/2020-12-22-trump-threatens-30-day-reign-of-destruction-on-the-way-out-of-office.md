@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Obamacare sign ups increase for first time under Trump"
-excerpt: "More people signed up for Obamacare coverage on the federal exchange during open enrollment this year -- the only increase under the Trump administration, which has long sought to eradicate the landmark health reform law.\n    \n"
-publishedDateTime: 2020-12-19T01:13:10Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tnS5R74JvuA/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tnS5R74JvuA/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/obamacare-enrollment-trump/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/obamacare-enrollment-trump/index.html"
+title: "Trump threatens 30-day reign of destruction on the way out of office"
+excerpt: "Joe Biden will be president in 30 days. Until then, the question is how much damage can be done by a vengeful, delusional soon-to-be ex-President swilling conspiracy theories, whose wild anti-democratic instincts are being encouraged by fringe political opportunists.\n    \n"
+publishedDateTime: 2020-12-22T09:43:12Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SHYIsFDfIRI/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SHYIsFDfIRI/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/donald-trump-white-house-countdown/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/donald-trump-white-house-countdown/index.html"
 type: article
 quality: 175
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016161329-obamacare-sign-file-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209192032-trump-medal-of-freedom-dan-gable-oval-office-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -47,19 +47,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump threatens 30-day reign of destruction on the way out of office"
-    excerpt: "Joe Biden will be president in 30 days. Until then, the question is how much damage can be done by a vengeful, delusional soon-to-be ex-President swilling conspiracy theories, whose wild anti-democratic instincts are being encouraged by fringe political opportunists.\n    \n"
-    publishedDateTime: 2020-12-22T09:43:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SHYIsFDfIRI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/donald-trump-white-house-countdown/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/donald-trump-white-house-countdown/index.html"
+  - title: "Obamacare sign ups increase for first time under Trump"
+    excerpt: "More people signed up for Obamacare coverage on the federal exchange during open enrollment this year -- the only increase under the Trump administration, which has long sought to eradicate the landmark health reform law.\n    \n"
+    publishedDateTime: 2020-12-19T01:13:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tnS5R74JvuA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/obamacare-enrollment-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/obamacare-enrollment-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209192032-trump-medal-of-freedom-dan-gable-oval-office-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016161329-obamacare-sign-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -128,6 +128,6 @@ related:
         height: 773
         isCached: true
 
-secured: "cpydAWqMSlihbjUOP7X3E3S/dEka/6KPQtRMq+WE1BcWxhWfv2gyWtKeI+SGvSCKFt7Bg7O/omz41p589bLya0pos0vOB7cPUzAGy8xgCijs50i9FT91FZwlh3/5HXpNwveHBru5vzFnvyjZIoIoEG6eyEWMZsialvotx8zPN+O6l+mesBHT5gCiDBvRlBd2glD8sHPUTacxtp+fY0/CZYEj+i6U4ej1yJ4pB9fMkYbHwG0bnijIPGiaa+BkmG/hzZHFGDk4EimJ/bmzK71XaqXMmNgWWy6W2++pBfzw9LvSQa8Hv2ZP4eu+ccXDushw2FZNwiku7QHh1/d+zLpP50DQmMgDTs9pu4o7LtjUwKw=;/Rdx7jszBCXz7E7pWny0IA=="
+secured: "2no2ggUak3kQdmHh5TIEdXAZCh4IWQQFtxx9pGAv9dAnYdKStfo62x71pzmnoQNOVf/BtFiplCnkZdMpSVCYhQeAUsKt/aXKiOweMPWDA22XdM5XTbQ2GX8SZY6SW+0j7+wyqyuZrwb94YcJYSjCIln2GUsA81KTE//pkMnIW6D3MnJd/46nNeGfEEDv8bODfj39QFBGKakGiV5wxTiGrCvrbB+dBwvIcMh3Kd/jNCxG1h++UmlmK9dQvQ66iqcifAlqT05hd6fiNYb0LJLmMdrz/InT4LptVD9/haKd/VkbjVag9yM2g6i/6CfdFBSHAr1aHNCrCE9lpREEyCEksFaxG9ilFpUck1CwtLLQNOE=;5o/5YrcjT5gHv5mVBqCdFQ=="
 ---
 

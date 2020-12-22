@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Obamacare sign ups increase for first time under Trump"
-excerpt: "More people signed up for Obamacare coverage on the federal exchange during open enrollment this year -- the only increase under the Trump administration, which has long sought to eradicate the landmark health reform law.\n    \n"
-publishedDateTime: 2020-12-19T01:13:10Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tnS5R74JvuA/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tnS5R74JvuA/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/obamacare-enrollment-trump/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/obamacare-enrollment-trump/index.html"
+title: "Pentagon anxiety rises as officers wait for Trump's next unpredictable move"
+excerpt: "It's like a low murmur just below the surface. \"We don't know what he might do,\" says one officer in the Pentagon. \"We are in strange times,\" says another officer. Some senior military officers are trying to steer clear of the White House for the next month, rather than be in the President Donald Trump's"
+publishedDateTime: 2020-12-22T10:00:39Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NF06xO7e4Dw/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NF06xO7e4Dw/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/pentagon-anxiety-trump-final-days/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/pentagon-anxiety-trump-final-days/index.html"
 type: article
-quality: 175
+quality: 173
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016161329-obamacare-sign-file-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215172845-02-pentagon-building-file-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Obamacare sign ups increase for first time under Trump"
+    excerpt: "More people signed up for Obamacare coverage on the federal exchange during open enrollment this year -- the only increase under the Trump administration, which has long sought to eradicate the landmark health reform law.\n    \n"
+    publishedDateTime: 2020-12-19T01:13:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tnS5R74JvuA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/obamacare-enrollment-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/obamacare-enrollment-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016161329-obamacare-sign-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump threatens 30-day reign of destruction on the way out of office"
     excerpt: "Joe Biden will be president in 30 days. Until then, the question is how much damage can be done by a vengeful, delusional soon-to-be ex-President swilling conspiracy theories, whose wild anti-democratic instincts are being encouraged by fringe political opportunists.\n    \n"
     publishedDateTime: 2020-12-22T09:43:12Z
@@ -60,22 +76,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209192032-trump-medal-of-freedom-dan-gable-oval-office-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Pentagon anxiety rises as officers wait for Trump's next unpredictable move"
-    excerpt: "It's like a low murmur just below the surface. \"We don't know what he might do,\" says one officer in the Pentagon. \"We are in strange times,\" says another officer. Some senior military officers are trying to steer clear of the White House for the next month, rather than be in the President Donald Trump's"
-    publishedDateTime: 2020-12-22T10:00:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NF06xO7e4Dw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/pentagon-anxiety-trump-final-days/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/pentagon-anxiety-trump-final-days/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215172845-02-pentagon-building-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -128,6 +128,6 @@ related:
         height: 773
         isCached: true
 
-secured: "cpydAWqMSlihbjUOP7X3E3S/dEka/6KPQtRMq+WE1BcWxhWfv2gyWtKeI+SGvSCKFt7Bg7O/omz41p589bLya0pos0vOB7cPUzAGy8xgCijs50i9FT91FZwlh3/5HXpNwveHBru5vzFnvyjZIoIoEG6eyEWMZsialvotx8zPN+O6l+mesBHT5gCiDBvRlBd2glD8sHPUTacxtp+fY0/CZYEj+i6U4ej1yJ4pB9fMkYbHwG0bnijIPGiaa+BkmG/hzZHFGDk4EimJ/bmzK71XaqXMmNgWWy6W2++pBfzw9LvSQa8Hv2ZP4eu+ccXDushw2FZNwiku7QHh1/d+zLpP50DQmMgDTs9pu4o7LtjUwKw=;/Rdx7jszBCXz7E7pWny0IA=="
+secured: "UPX5EAH0vyHXebeWKvIGxjYAj2tO6bsM1D1Njk8pRT4Rd1cHXBMH2+f1nylNurcG23c/VeXM5oq6bQ7KjDE3PkWtN1ztxNG/zqt5NI5TkwhhJqTZ3S+tldNtvObLMBksURxyHLvczMIwKPscDy6IaVo5tneM/8vYkna/O0XevANSmd3sJ4TakhJFxPJrAIUGpHj3nJFVj6pl79kGXhPpl3ZAUgk7lXmsQT3OZCG3yvObPhDy20II4T6uPH+G9sLcJ9pEbnFJowC8cusEc615V5+Re8V/JtihIs84qWtJMYlkC8/G3R/TL7ADqYv4BUhBJJN8zxB2UdGJZY+Azf5EwYNZyGfk06bhpfQ9eX8upWs=;mRQdb1Y8nIjizZmBD/yV3A=="
 ---
 
