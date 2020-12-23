@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-mcconnell-senate-republicans-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp"
 type: article
 quality: 179
-heat: 379
+heat: 399
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/5c7cdfe5-Marjorie-Taylor-Greene-FACEBOOK.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "McConnell silent after Trump threatens to block coronavirus, government funding package"
+    excerpt: "Senate Majority Leader Mitch McConnell hasn't yet responded to President Trump demanding Tuesday night that Congress include $2,000 stimulus checks in the coronavirus aid package that it passed on Monday, which included smaller $600 checks for individuals."
+    publishedDateTime: 2020-12-23T16:43:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p3rjdZ8SWiM/mcconnell-trump-threat-coronavirus-government-funding-package"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-threat-coronavirus-government-funding-package.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-threat-coronavirus-government-funding-package.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Rep.-elect Yvette Herrell relates to Trump's voter fraud claims: 'I know exactly what he's going through'"
     excerpt: "Rep.-elect Yvette Herrell understands the joy of leading on election night and then the sinking feeling of having that advantage slowly erased as mail-in ballots are counted."

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S1NF"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S1NF"
 type: article
 quality: 125
-heat: 265
+heat: 305
 published: true
 
 provider:
@@ -94,6 +94,34 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/a991105e-7421-4d8a-9579-88bea40d37a1-daniel_burrows.png?auto=webp&crop=529,298,x0,y176&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Trump calls $900 billion COVID-19 deal a “disgrace”"
+    excerpt: "President Trump ordered Congress to revise its bipartisan $900 billion COVID-19 economic relief package, calling it a “disgrace.” He’s calling for stimulus checks to be raised from $600 to $2,000 each."
+    publishedDateTime: 2020-12-23T16:01:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-calls-900-billion-covid-19-deal-a-disgrace/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/23/5901d0a5-7aac-414c-8416-88272fff28e0/thumbnail/1200x630/4153fd1ed370ca0307660b09ab2921a1/1223-cbsnam-trumpreliefpackagedisgrace-615069-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump threatens COVID relief, Pelosi urges 'sign the bill'"
+    excerpt: "President Donald Trump is threatening to torpedo Congress’ massive pandemic relief package in the midst of a raging pandemic and deep economic uncertainty"
+    publishedDateTime: 2020-12-23T16:57:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-threatens-covid-relief-pelosi-urges-sign-bill-74879887"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump administration threatened to oust the head of the FDA if the Pfizer vaccine isn't cleared by the end of Friday, a new report says"
     excerpt: "Dr. Stephen Hahn denied the report, telling Business Insider that \"this is an untrue representation of the phone call with the Chief of Staff.\""

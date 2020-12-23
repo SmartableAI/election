@@ -144,6 +144,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Time winds down for Trump to veto NDAA"
+    excerpt: "The deadline has arrived for President Donald Trump to veto the defense bill and call Congress’ bluff to override him. — The president pardons private contractors convicted in the massacre of Iraqi civilians."
+    publishedDateTime: 2020-12-23T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2020/12/23/time-winds-down-for-trump-to-veto-ndaa-792486"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "ooa9wz6vRqUTImoriLGFBWObSv41Kbf9ZRgsgiO5FazcMLIEnk/1o9lBs/83kSEu5Y5uTVko0mb2AKnCOuvgofx9NPzRn/rTEy9J5t+7JeKOOlBKXojJaVffvoeZp7CdNRkwjBr7Ih8wGfnasFAXnbzOop3iL9kxQLwGxwTvgEfl8Pu3YJly+wIZxSHm6CdcSRJoQ/TVBVFfrFFluDbQhPhF3I2sJwXFTYdY/AiIQfmZZ/LdUZvBiQyZqqlWFeda0s8rivUFp+BoJ3lfrqzdFYa39AXn8l0DHDBdYqdvQrov/YUEfWmMgZpftAoDuMQvil9WzS9cXwlqAd/Ysj/EzcQ82OFl4qXS/vfB8tUBMCNgMzOCSfTb/264tHCy6ApmaTfXE3XDvIxMsagqoO4Ec2Tey/VbJ9PZQQOX+UHakFL+dGZup51EWAUY/OI1xZLSVcuf64wMWsiZEzI0IMxSADatrCrzkJP3kdyzsOw4QSaqxrfAc3iMOw4wLQfIFGtYjWRfevhMoS06b4HGjlZBLw==;VlLGYOJyb02Twau0X+NWFw=="
 ---

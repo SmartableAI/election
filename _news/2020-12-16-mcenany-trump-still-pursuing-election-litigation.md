@@ -541,6 +541,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Ivanka Trump helps load food into cars of drivers in need"
+    excerpt: "Presidential daughter Ivanka Trump helped load boxes of food into the cars of drivers who showed up at a South Florida drive-through food distribution event for those in need"
+    publishedDateTime: 2020-12-23T16:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ivanka-trump-helps-load-food-cars-drivers-74879427"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ivanka-trump-helps-load-food-cars-drivers-74879427"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ivanka-trump-helps-load-food-cars-drivers-74879427"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump is still pinning his hopes on one last lawsuit in Michigan to overturn the presidential election"
     excerpt: "President Donald Trump said a report written by his allies in a lawsuit over a small Michigan county's Marijuana measure reveals \"massive fraud.\""
     publishedDateTime: 2020-12-17T00:08:00Z
@@ -677,6 +693,22 @@ related:
     quality: 118
     images:
       - url: "https://i.insider.com/5fdcc370c910a400192e8482?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump's attempt to bounce Congress into bigger stimulus checks could easily go wrong"
+    excerpt: "President Donald Trump objected to the $600 coronavirus stimulus checks supported by Congress, saying they should be $2,000 instead."
+    publishedDateTime: 2020-12-23T15:44:00Z
+    webUrl: "https://www.businessinsider.com/trumps-attempts-increase-stimulus-check-size-could-go-wrong-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trumps-attempts-increase-stimulus-check-size-could-go-wrong-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-attempts-increase-stimulus-check-size-could-go-wrong-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5fe3376ca644880018193174?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

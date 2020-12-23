@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/donald-trump-pardons-lam
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/donald-trump-pardons-lame-duck/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://static.politico.com/f7/e6/26a4ccd944a2a60ebd9034cab615/201217-maga-getty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Time winds down for Trump to veto NDAA"
+    excerpt: "The deadline has arrived for President Donald Trump to veto the defense bill and call Congress’ bluff to override him. — The president pardons private contractors convicted in the massacre of Iraqi civilians."
+    publishedDateTime: 2020-12-23T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2020/12/23/time-winds-down-for-trump-to-veto-ndaa-792486"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "5yoUNkYZziFOoSQdKfVo+AkWHAN8e+e0ZK0hA4P0TWSCI0Vgf5WeHkD2UJibExUjU9rrgcLK1hnFYgcU52fP204XWAJ/2+pwjg2JpI4CoTRcxw6yPZFme2mAWDIAFp62if0QZfAh62A0q4e7mWGOCsjQuCIB1uiiftQHQGsKU+pCDBZyK41dgBtV9eK4BPgoZE2cBuLnNHEpbztNVKRz2pvYAdBvRGM5LrgLGTrBCc77W7MCll1Z4ApGiTFZsWYjR5FY9D8aHlBBHARe9O83TY69ifWL4OjsZJ2H+Kw9vcQh6qXLT0qP5nZR/KOHvO3CFhyjAZxCNotd1A5B9wbxHRJ1VFbdSUuJRAmpUyq5YFI=;cq+6sGmWQkHeCmzj6U2ixg=="

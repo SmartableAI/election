@@ -109,6 +109,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump veto threat raises the prospect of year-end government shutdown"
+    excerpt: "Washington on Wednesday faced the prospect of a year-end U.S. government shutdown during a raging pandemic after outgoing President Donald Trump threatened not to sign a $2.3 trillion package funding the government for another year."
+    publishedDateTime: 2020-12-23T15:10:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-idUSL1N2J314S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J314S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J314S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Attorney General Barr breaks with Trump, says Russia likely behind cyberattack"
     excerpt: "Attorney General William Barr said on Monday that Russia is likely behind a recent cyberattack, breaking with President Trump, who claimed China could have been responsible. CBS News' Paula Reid reports on the latest developments and expert cyberthreat intelligence analyst Charity Wright joins CBSN to discuss."
     publishedDateTime: 2020-12-22T04:46:00Z
