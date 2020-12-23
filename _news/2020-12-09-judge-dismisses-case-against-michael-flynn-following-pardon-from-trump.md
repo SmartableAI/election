@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-08/judge-dismisse
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-08/judge-dismisses-flynn-case-following-pardon-from-trump?_amp=true"
 type: article
 quality: 125
-heat: 205
+heat: 245
 published: true
 
 provider:
@@ -95,6 +95,29 @@ related:
         width: 3549
         height: 2366
         isCached: true
+  - title: "Florida’s electoral college casts votes for Donald Trump, Mike Pence"
+    excerpt: "Florida’s Electoral College cast their 29 votes on Monday for President Donald Trump and Vice President Mike Pence during a ceremony inside the Capitol Senate Chamber. Trump won Florida with more than 371,"
+    publishedDateTime: 2020-12-15T00:02:00Z
+    webUrl: "https://floridapolitics.com/archives/388818-floridas-electoral-college-casts-votes-for-donald-trump-mike-pence"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 70
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/12/IMG_6098-1000x563.jpg"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "Florida Casts 29 Electoral College Votes for Trump"
+    excerpt: "Florida’s  29 Electoral College voters were cast for President Donald during a ceremony in the Senate chamber."
+    publishedDateTime: 2020-12-14T20:10:00Z
+    webUrl: "https://www.usnews.com/news/best-states/florida/articles/2020-12-14/florida-casts-29-electoral-college-votes-for-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "Ls58FzDcn0XHvUxcG2qcbdggNb9Em7etW/cZtbK37AyztB/RT0++GOEJxjp44U17tF4zuHHBeFaYrnn/P5krKxpXnJdCdmO9U152/Ccn7Dw1NXSH8a+Pr43kmhmF4ngMYYW7FMSCQDypdM7JXCO0T7AHQiP3xW56owelRRn0PX7DGNWVrzCvFjEQYlxeaYcRC7nO/n3tpRpFrr2DxyEPddfO8h0rXOBzvG+MuFqvul0f7+zXgWdWZpoK+ayeWZALBpQypy61Tom48vYuAGZwOx03indgt5t/rCmWq+ZieX9MN23iGmYHyy7vWUxMCQ0zIVOYJsTk33OE3kL5/R0gQWzzRF+6BzlRjYMYg67wsI95Yf2n0gRO1fx2h0Iq33Sz1/u/HsPSqCCYoxGt6d8Rl40g2/9G5SiE0FhGZPonTiidT+pftXwdhKq9inHNDFrau2hq6RTAS6rTOHuiExaJe7Bom0fSFuGcmNLVQbiy5jVk6wBZUyJvOpWLJz0iNap5m0ivTBRh2AB4QzcZdC/v+w==;83tP2MFUvkgjbdfLFqUfdA=="
 ---

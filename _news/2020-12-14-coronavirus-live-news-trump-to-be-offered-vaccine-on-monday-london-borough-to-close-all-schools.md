@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/13/coronavirus-live-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day"
 type: article
 quality: 111
-heat: 191
+heat: 171
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/10/virus_outbreak_south_carolina_pence_38030_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Pence likely to get the coronavirus vaccine by Friday"
-    excerpt: "Vice President Mike Pence is likely to receive the coronavirus vaccine by Friday, two sources familiar with the plans tell CNN."
-    publishedDateTime: 2020-12-15T20:14:00Z
-    webUrl: "https://www.newspressnow.com/news/national_news/election2020/pence-likely-to-get-the-coronavirus-vaccine-by-friday/article_e0e8d432-00c6-5620-9ddf-fd55d10ed27b.html"
-    type: article
-    provider:
-      name: News-Press NOW
-      domain: newspressnow.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/custom/image/bcf8e96c-4b35-11e5-9c03-7b4fbbdd1e31.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "ujDp1KJMZDcRYm6Dwg2nyvIeJ2CCNpvJNK1nWU5mGMkJerG3IV7opo25TG7yrqOVOYk/RbH/wTyvY5gT+cR/sUmYRr2Ej4xN+73nsfQjzzK63xPyVBxJCxyQjUoxLny4JKsNMTFAxZUXVw8oFwDZ9pV/WNh+cp/1zGpGP6vj9l+f4TPxEJcTwLow1vOttAUt7eRG9AQEZxTXReI4nSZhBIQEWFRbJl5mW45SmyI8TQ+drnAKVuwLiYb+Ag8kHYhUERxsuszD1rCspfevkLMm6PFnJ9oUufclrglPOSLt2jVNdD8I35Y7Vz3eULJD71BV9HdKWCMmiSLET4n6tJ1qqATvCVkl2wpIns4XAHz3yq0=;swCLBnaHTx5MQa1O2YBFVg=="

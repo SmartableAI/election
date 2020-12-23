@@ -41,6 +41,68 @@ related:
         width: 1024
         height: 618
         isCached: true
+  - title: "WATCH LIVE: Pence leads COVID-19 vaccine roundtable discussion"
+    excerpt: "Vice President Mike Pence will lead a roundtable discussion on Operation Warp Speed Dec. 15 after touring a COVID-19 vaccine production facility in Bloomington, Indiana."
+    publishedDateTime: 2020-12-15T17:45:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-pence-leads-covid-19-vaccine-roundtable-discussion"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 105
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/assets/images/social-share.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Pence says he'll receive COVID-19 vaccine in 'the days ahead'"
+    excerpt: "Vice President Mike Pence said Tuesday he's looking forward to receiving the Pfizer-BioNTech COVID-19 vaccine in the \"days ahead ... without hesitation,\" and CNN's Kaitlan Collins later reported that two sources confirmed he would be inoculated by Friday."
+    publishedDateTime: 2020-12-15T23:22:00Z
+    webUrl: "https://theweek.com/speedreads/955399/pence-says-hell-receive-covid19-vaccine-days-ahead"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/955399/pence-says-hell-receive-covid19-vaccine-days-ahead"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/955399/pence-says-hell-receive-covid19-vaccine-days-ahead"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 75
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1289450908.jpg?itok=jgUbbyOD"
+        width: 840
+        height: 560
+        isCached: true
+  - title: "Mike Pence receives the COVID-19 vaccine"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence both received a COVID-19 vaccine with cameras rolling on Friday to try to show the public that it’s safe and that Americans should get vaccinated when they can."
+    publishedDateTime: 2020-12-18T14:34:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/18/mike-pence-receives-covid-19-vaccine/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/18/mike-pence-receives-covid-19-vaccine/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/18/mike-pence-receives-covid-19-vaccine/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/18/Virus_Outbreak_Trump_84982.jpg-7a652_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Watch live: Vice President Mike Pence receives COVID-19 vaccine"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence will receive the COVID-19 vaccine at the White House Friday morning to build public confidence in its safety and efficacy."
+    publishedDateTime: 2020-12-18T12:59:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/12/18/Watch-live-Vice-President-Mike-Pence-receives-COVID-19-vaccine/3501608295566/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/18/VP-Mike-Pence-second-lady-surgeon-general-receive-COVID-19-vaccine/3501608295566/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/18/VP-Mike-Pence-second-lady-surgeon-general-receive-COVID-19-vaccine/3501608295566/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3501608295566/2020/1/59fda84f453f60719ea98124860ab531/v1.5/VP-Mike-Pence-Speaker-Nancy-Pelosi-receive-COVID-19-vaccine.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Vice President Mike Pence to visit Greenville for coronavirus vaccines roundtable"
     excerpt: "Vice President Mike Pence will visit Greenville on Thursday to talk about COVID-19 vaccinations before traveling to a campaign rally in Augusta, Georgia. According to his office, Pence is visiting Greenville to take part in a roundtable discussion highlighting the public-private partnership to combat the coronavirus,"
     publishedDateTime: 2020-12-09T21:06:00Z
@@ -115,6 +177,17 @@ related:
     provider:
       name: Omaha.com
       domain: omaha.com
+    quality: 55
+  - title: "Pence looks forward to receiving COVID-19 vaccine"
+    excerpt: "Vice President Mike Pence says he looks forward in the days ahead to receiving a vaccine for COVID-19 and will do so without hesitation."
+    publishedDateTime: 2020-12-15T23:22:00Z
+    webUrl: "https://napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.html"
+    ampWebUrl: "https://napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.amp.html"
+    cdnAmpWebUrl: "https://napavalleyregister-com.cdn.ampproject.org/c/s/napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.amp.html"
+    type: article
+    provider:
+      name: Napa Valley Register
+      domain: napavalleyregister.com
     quality: 55
   - title: "Vice President Mike Pence to receive COVID-19 vaccine Friday, White House says"
     excerpt: "Vice President Mike Pence, wife Karen to receive COVID-19 vaccine Friday. A winter storm watch is in effect from Wednesday evening through Thursday afternoon for large swaths of New England, with the southernmost part of the region expected to receive the greatest amount of snow."

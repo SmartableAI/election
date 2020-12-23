@@ -31,21 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Several people are stabbed and nearly 30 arrested in clashes after Trump supporters rally"
-    excerpt: "Trump demonstrators over the weekend in Washington, leading to dozens of arrests, several stabbings and injuries to police officers."
-    publishedDateTime: 2020-12-13T22:58:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-13/nearly-30-arrested-after-clashes-at-trump-supporters-rally"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-13/nearly-30-arrested-after-clashes-at-trump-supporters-rally?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-13/nearly-30-arrested-after-clashes-at-trump-supporters-rally?_amp=true"
+  - title: "Trump raised the idea of imposing martial law to overturn the election in a White House meeting, according to reports"
+    excerpt: "In a White House meeting Friday, deploying US troops to re-run the election was one of several wild ideas touted, reported multiple outlets."
+    publishedDateTime: 2020-12-20T12:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5fdf3473c910a400192e893a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Campaign 2016 updates: Donald Trump says women accusing him of sexual misconduct ‘will be sued after the election is over’"
+    excerpt: "Donald Trump hits the campaign trail in Gettysburg, Pa., while Hillary Clinton is in Philadelphia. Trump says women accusing him of sexual assault will be sued after the electionAn adult film actress becomes Trump's latest accuser Khizr Khan,"
+    publishedDateTime: 2020-12-17T05:03:00Z
+    webUrl: "https://www.latimes.com/nation/politics/trailguide/la-na-trailguide-updates-10222016-htmlstory.html"
+    ampWebUrl: "https://www.latimes.com/nation/politics/trailguide/la-na-trailguide-updates-10222016-htmlstory.html?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/nation/politics/trailguide/la-na-trailguide-updates-10222016-htmlstory.html?_amp=true"
     type: article
     provider:
       name: Los Angeles Times
       domain: latimes.com
-    quality: 116
+    quality: 114
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/128424f/2147483647/strip/true/crop/5546x3622+0+37/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fff%2Fc2%2F70455de34c4e9d519e464222fd1f%2Fbiden-41790.jpg"
-        width: 320
-        height: 209
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6a7f826/2147483647/strip/true/crop/0x0+0+0/resize/840x0!/quality/90/?url=https%3A%2F%2Fslack-redir.net%2Flink%3Furl%3Dhttp%3A%2F%2Fwww.trbimg.com%2Fimg-580c045b%2Fturbine%2Fla-na-hillary-clinton-tim-kaine-photo-20161022"
+        width: 350
+        height: 350
+        isCached: true
+  - title: "Trump administration weighing legal immunity for Saudi crown prince accused in assassination plot"
+    excerpt: "Riyadh has asked the State Department to shield Mohammed bin Salman from a U.S. lawsuit by a former Saudi intelligence officer who claims he was targeted days after Jamal Khashoggi’s death in 2018."
+    publishedDateTime: 2020-12-21T18:16:00Z
+    webUrl: "https://www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HC5LGNSBUQI6XC6AVYKVX3SK74.jpg&w=1440"
+        width: 1280
+        height: 862
+        isCached: true
+  - title: "Trump has discussed rebooting 'The Apprentice' as he prepares to leave the White House, according to a report"
+    excerpt: "The president has reportedly talked to aides about the prospect of reviving the reality TV show in which he starred."
+    publishedDateTime: 2020-12-18T12:18:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-mulls-return-to-the-apprentice-report-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-mulls-return-to-the-apprentice-report-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-mulls-return-to-the-apprentice-report-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/5fdc9262c910a400192e841b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The Trump administration is mulling immunity for Saudi Crown Prince Mohammed, who is accused of sending a hit squad to kill an exiled spy chief"
+    excerpt: "Jabri, a former Saudi intel official, filed a complaint in a US federal court accusing Crown Prince Mohammed of ordering a hit squad on him."
+    publishedDateTime: 2020-12-22T11:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-considering-immunity-saudi-mbs-report-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-considering-immunity-saudi-mbs-report-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-considering-immunity-saudi-mbs-report-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5fe1bb31d366e60018099876?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Report: Trump Contemplating Not Leaving White House on January 20"
+    excerpt: "One of the very few remaining mysteries surrounding Donald Trump — a very simple man prone to blurting out his feelings around the clock in whatever medium he has available — is whether or to what degree he is conscious of his lies."
+    publishedDateTime: 2020-12-17T03:55:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/12/will-trump-leave-white-house-january-20-inauguration.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/will-trump-leave-white-house-january-20-inauguration.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/will-trump-leave-white-house-january-20-inauguration.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/b8e/d89/22cc7310a26c6ebe1e4007d0e9860f8e18-donald-trump-pouts.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
         isCached: true
 
 secured: "F7XHkj8LMsot/TNm3VRtb+JbNOZAayt9KsJ+Ya5mYL4TgYDbchjMojNqDyjCIT68Y5FdX6gnZ/hbmyqpHtkhoEgJOfRJCwDJIL9gsrXCwhNHHUSSx/x9Y6J+WK8Vx6+irR4nc7dvxz8gKeM78NYtZSDTbhgMIYw3PE5quYj7ckNvgEIGA0qNytyTGL6njZZQplFoN033eSeiCWPuzJdW5BU8GKTt7QHSdJWC5t8Q8NGgX/k3i/tHVv6nEy5BLSTBva9rSHZptD7QSeZeotj67a7WyHpso4zdKogEejDJv5uf9faLAE2zmfR/O+6JcLrR4gHEE2NBppjWtdxspZYoh0HFwn8+oIafhL6oVZfT5Wxo3n8U5p1/9BCBfWNQsanwIkiJuPFBwuVm24/p5X/u0KURNGERGM+4w+yA/GACb0NE8ikAMDPcnO/QsTpByrl4poeDOtJdQe79zUoac3t8C9MajEGUYCmAfUOxJI8lLSd9raO4AzZ0C4JE8RQJoFj47w1MBLQifwB0H9RVkYONEg==;0Z6lM9/YC3baveQgn/mlaw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/fauci-coronavirus-vaccin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/fauci-coronavirus-vaccine-trump-pence/index.html"
 type: article
 quality: 200
-heat: 540
+heat: 560
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221152810-02-biden-receives-vaccine-1221-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump throws Covid relief bill in doubt by asking Congress to amend it"
+    excerpt: "President Donald Trump on Tuesday said he is asking for changes to the coronavirus relief bill passed by Congress, leaving the future of the $900 billion stimulus in question.\n    \n"
+    publishedDateTime: 2020-12-23T02:39:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vXJR6tL_kyM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/trump-coronavirus-relief-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/trump-coronavirus-relief-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222084821-01-donald-trump-1212-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -542,6 +542,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Transition Highlights: Biden Criticizes Trump on Russian Hack and Calls for More Virus Aid"
+    excerpt: "President-elect Joe Biden insisted that more relief will be coming after his inauguration next month. Alex Padilla, California’s secretary of state, was chosen to fill the Senate seat being vacated by Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-12-22T21:46:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/22/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/22/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/22/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 140
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/22/us/politics/22transition-briefing-biden/22transition-briefing-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden Faces Challenge as Congress Drops State Aid to Secure Stimulus"
     excerpt: "A campaign by conservative activists and disputes over how to divvy up federal assistance have thwarted negotiators. But President-elect Joe Biden will make a new push for such funding next year."
     publishedDateTime: 2020-12-17T23:33:00Z

@@ -47,22 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump entertains desperate schemes to overturn election"
-    excerpt: "President Donald Trump's unprecedented efforts to overturn the election received pushback from outgoing U.S. Attorney General Bill Barr."
-    publishedDateTime: 2020-12-22T02:54:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-entertains-desperate-schemes-overturn-election/story?id=74845068"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-entertains-desperate-schemes-overturn-election/story?id=74845068"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-entertains-desperate-schemes-overturn-election/story?id=74845068"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-army-navy-ap-jt-201221_1608577551294_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump says Attorney General Barr resigns"
     excerpt: "President Donald Trump said on Monday that Attorney General William Barr will be leaving his job just before Christmas and Deputy Attorney General Jeff Rosen will become acting attorney general."
     publishedDateTime: 2020-12-14T23:14:00Z
@@ -79,49 +63,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "City to auction spot to push demolish button on Trump casino"
-    excerpt: "One of President Donald Trump’s former Atlantic City casinos will be blown up next month, and for the right amount of money, you could be the one to press the button that brings it down"
-    publishedDateTime: 2020-12-17T00:41:00Z
-    webUrl: "https://www.washingtonpost.com/national/city-to-auction-spot-to-push-demolish-button-on-trump-casino/2020/12/16/a454f34c-3fd6-11eb-b58b-1623f6267960_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/city-to-auction-spot-to-push-demolish-button-on-trump-casino/2020/12/16/a454f34c-3fd6-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/city-to-auction-spot-to-push-demolish-button-on-trump-casino/2020/12/16/a454f34c-3fd6-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump wants Supreme Court to overturn Pa. election results"
-    excerpt: "President Donald Trump’s campaign says it has filed a new petition with the Supreme Court as it continues its unprecedented efforts to overturn the results of the Nov 3"
-    publishedDateTime: 2020-12-21T02:53:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-  - title: "Trump's former national security advisor says the president should impose martial law to force new elections in battleground states"
-    excerpt: "Flynn's remarks are not based in reality because Trump does not have the power to change the date of an election and the results have been certified."
-    publishedDateTime: 2020-12-18T15:24:00Z
-    webUrl: "https://www.businessinsider.com/michael-flynn-trump-military-martial-law-overturn-election-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/michael-flynn-trump-military-martial-law-overturn-election-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-flynn-trump-military-martial-law-overturn-election-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5a2506e67101ad5c7d7f4e9d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump says U.S. Attorney General Barr resigns"
     excerpt: "U.S. Attorney General William Barr will step down next week, he said on Monday, shortly after the Electoral College confirmed President Donald Trump's loss to Democratic President-elect Joe Biden."
     publishedDateTime: 2020-12-15T09:00:00Z
@@ -136,15 +77,6 @@ related:
         width: 2241
         height: 1495
         isCached: true
-  - title: "Trump continues attempts to overturn election..."
-    excerpt: "Watch \"Trump continues attempts to overturn election results\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-12-21T12:22:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201221121207-trump-continues-attempts-to-overturn-election-results/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 100
 
 secured: "093+PWNDIIEtwCnnlt4LSR8zrJt9CwmJWpSN/SHn6Pti+9xKIoMbrEEwWU2IpBtpj5m1iCT6A9nLdk9bDQ+YTMoDl3btUuPBhnse1zJiFOyDLty9bz+KRuvUiVRyBxzUjrGxWyQyOf5OTJ2CTpHDHGpRuyvuiKkE1mbrS6oMPbk4og2saHiBe6Pad0knBWOpmgRkq54hCdcIJAuRSNo3SWeEEctmf4djg251rVjEFitpVral1iPH9/OSLZJuKtfbb0LhixfcIgQePW3BolM22L5timAkhgvWjpBdZKYhUr0/2TmEKUlLOpu4ykarDGqSCiicRi8w6lyIJ9isfoTnuZAsehfDAUVpzgEDa9Ax8gR1/5IWOCfI6XQPpJr2Ny1jPt/EN2fEHBS0ylsST2jajKKP08+ZXn5ucpQbm6ocFSeGWS4T09GFXVoFb1oZlsj4VjQD8+BIErcngCxZXnuTc/8e4dHarEWrcUWIk1rHc9fQ+HbA/o83w1DE/sm2Q9F00XB6Qxiad5Aydnr+l/T9Rw==;ID8BNwnVOHaeZ5PlPxEydg=="
 ---

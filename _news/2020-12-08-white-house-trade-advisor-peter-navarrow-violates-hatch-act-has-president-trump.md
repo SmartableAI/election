@@ -250,6 +250,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 104
+  - title: "U.S. Senate passes $892 bln coronavirus aid bill, sends to Trump to sign"
+    excerpt: "The U.S. Senate on Monday passed an $892 billion coronavirus aid package, throwing a lifeline to the nation's pandemic-battered economy, while also funding federal government activities through September 2021."
+    publishedDateTime: 2020-12-22T05:08:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-senate-idUSL1N2J206O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J206O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J206O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
   - title: "Trump's Controversial Coronavirus Advisor Resigns: Report"
     excerpt: "One of President Donald Trump's favored coronavirus advisors who sparked controversy over his comments against mask-wearing and other issues has resigned, US media reported Monday. Fox News obtained the resignation letter dated December 1 for Scott Atlas,"
     publishedDateTime: 2020-12-01T01:05:00Z

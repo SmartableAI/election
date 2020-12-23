@@ -41,38 +41,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "China criticizes Trump suggestion it is behind cyber spying"
-    excerpt: "China’s government has criticized President Donald Trump’s suggestion that Chinese hackers, not Russia, might be behind a cyber espionage campaign against the United States"
-    publishedDateTime: 2020-12-21T15:22:00Z
-    webUrl: "https://www.washingtonpost.com/world/the_americas/china-criticizes-trump-suggestion-it-is-behind-cyber-spying/2020/12/21/6429afa8-4376-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/the_americas/china-criticizes-trump-suggestion-it-is-behind-cyber-spying/2020/12/21/6429afa8-4376-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/the_americas/china-criticizes-trump-suggestion-it-is-behind-cyber-spying/2020/12/21/6429afa8-4376-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "China criticizes Trump suggestion it is behind cyber spying"
-    excerpt: "China’s government has criticized President Donald Trump’s suggestion that Chinese hackers, not Russia, might be behind a cyber espionage campaign against the United States"
-    publishedDateTime: 2020-12-21T16:06:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/china-criticizes-trump-suggestion-cyber-spying-74839065"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/china-criticizes-trump-suggestion-cyber-spying-74839065"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/china-criticizes-trump-suggestion-cyber-spying-74839065"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump grants full pardon to Russia probe figure George Papadopoulos"
     excerpt: "President Donald Trump granted a full pardon on Tuesday to George Papadopoulos, a former campaign aide who pleaded guilty as part of the investigation into Russian meddling in the 2016 presidential election."
     publishedDateTime: 2020-12-23T00:31:00Z
@@ -121,22 +89,6 @@ related:
         width: 812
         height: 545
         isCached: true
-  - title: "Trump signs temporary spending bill into law to avoid government shutdown - White House statement"
-    excerpt: "President Donald Trump signed a temporary spending bill into law on Sunday night to avoid a government shutdown, the White House said in a statement."
-    publishedDateTime: 2020-12-21T09:53:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-trump-idUKKBN28V0ET"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28V0ET"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28V0ET"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 112
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545256677&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK063"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump downplays massive cyberattack while Pompeo blames Russia"
     excerpt: "President Trump responded to a massive cyberattack on the U.S., downplaying its severity and impact. Meanwhile, Secretary of State Mike Pompeo blamed Russia for the hack, which affected at least seven government agencies and went undetected for months."
     publishedDateTime: 2020-12-19T20:06:00Z
@@ -150,20 +102,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/19/c4fe8484-65cb-4e80-9c18-bcd7156e46d5/thumbnail/1200x630/c917a8dd6992345c8768d9b7ab63fb51/cbsn-fusion-president-trump-downplays-massive-cyberattack-mike-pompeo-blames-russia-for-breach-thumbnail-612837-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Trump questions Russian involvement in hacking"
-    excerpt: "World Trump questions Russian involvement in hacking. Posted . U.S. President Donald Trump in his first comments about a widespread data breach across the U.S. government downplay"
-    publishedDateTime: 2020-12-19T23:20:00Z
-    webUrl: "https://www.reuters.com/video/watch/trump-questions-russian-involvement-in-h-id723253856?chan=8gwsyvzx"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201219&i=OVD9OH6U7&r=OVD9OH6U7&t=2"
-        width: 960
-        height: 540
         isCached: true
   - title: "Secretary of state says Russia ‘pretty clearly’ behind major cyberattack on US government, industry; Trump silent"
     excerpt: "Mike Pompeo says Russia was “pretty clearly” behind the gravest cyberattack against the United States on record."

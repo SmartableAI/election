@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Pence just got a COVID-19 vaccine on live TV, as Trump sits out leading the US rollout"
-    excerpt: "Pence was given the shot in Washington, DC, at 8 a.m. ET on Friday. He said that it didn't hurt and that it was safe and effective."
-    publishedDateTime: 2020-12-18T13:21:00Z
-    webUrl: "https://www.businessinsider.com/video-mike-pence-coronavirus-vaccine-live-tv-trump-hides-background-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/video-mike-pence-coronavirus-vaccine-live-tv-trump-hides-background-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-mike-pence-coronavirus-vaccine-live-tv-trump-hides-background-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 130
-    images:
-      - url: "https://i.insider.com/5fdcae1cc910a400192e8440?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump suggests White House staff will wait longer for COVID-19 vaccines"
-    excerpt: "U.S. President Donald Trump suggested late Sunday that senior White House officials would wait longer for COVID-19 vaccines hours after media outlets reported senior officials were to receive doses within 10 days."
-    publishedDateTime: 2020-12-14T09:03:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-white-house-idUSKBN28N0UP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28N0UP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28N0UP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201213&t=2&i=1544430348&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBC0I6"
-        width: 801
-        height: 545
-        isCached: true
   - title: "Covid: US Vice-President Mike Pence to receive vaccine"
     excerpt: "President Mike Pence is to receive the coronavirus vaccine live on television at later on Friday. The White House said the aim of the move was to \"promote the safety and efficacy of the vaccine and build confidence among the American people\"."
     publishedDateTime: 2020-12-18T11:31:00Z
@@ -72,6 +40,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/17EF3/production/_116153089_tv063637087.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Mike Pence and wife Karen get COVID-19 vaccine injections"
+    excerpt: "Vice President Mike Pence gets the coronavirus vaccine during a White House event aimed at convincing skeptical Americans that the vaccines are safe."
+    publishedDateTime: 2020-12-18T17:24:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/59d266d/2147483647/strip/true/crop/1512x988+0+514/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbc%2F24%2Fc71925d1213c61e942569e5e6a7f%2Fb857790e7da64295bcaa07401c1d033b"
+        width: 320
+        height: 209
         isCached: true
   - title: "Pence and top congressional leaders receive COVID-19 vaccines"
     excerpt: "Vice President Mike Pence gets the coronavirus vaccine during a White House event aimed at convincing skeptical Americans that the vaccines are safe."
@@ -89,49 +73,54 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Trump, ahead of FDA, says Moderna's COVID-19 vaccine has been approved"
-    excerpt: "U.S. President Donald Trump in a tweet on Friday said Moderna Inc's vaccine had been approved and would ship immediately, although the U.S. Food and Drug Administration has made no public announcement yet regarding its decision."
-    publishedDateTime: 2020-12-18T17:58:00Z
-    webUrl: "https://www.reuters.com/article/healthcoronavirus-moderna-trump/update-1-trump-ahead-of-fda-says-modernas-covid-19-vaccine-has-been-approved-idUSL1N2IY0Z4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S1NF"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S1NF"
+  - title: "Joe and Jill Biden receive the COVID-19 vaccine on camera"
+    excerpt: "So far, a limited number of healthcare workers and high-level government officials have received first doses of Pfizer's COVID-19 vaccine."
+    publishedDateTime: 2020-12-21T20:30:00Z
+    webUrl: "https://www.businessinsider.com/joe-and-jill-biden-receive-covid-19-vaccine-on-camera-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/joe-and-jill-biden-receive-covid-19-vaccine-on-camera-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-and-jill-biden-receive-covid-19-vaccine-on-camera-2020-12?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545045397&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH11H"
-        width: 817
-        height: 545
+      - url: "https://i.insider.com/5fe10676c910a400192e8d13?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Georgia pastor and Trump adviser tests positive for COVID-19"
-    excerpt: "The leader of a north Georgia megachurch who has been a spiritual adviser to President Donald Trump has tested positive for COVID-19"
-    publishedDateTime: 2020-12-21T00:12:00Z
-    webUrl: "https://www.washingtonpost.com/health/georgia-pastor-and-trump-adviser-tests-positive-for-covid-19/2020/12/20/57d7f6ca-4320-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/georgia-pastor-and-trump-adviser-tests-positive-for-covid-19/2020/12/20/57d7f6ca-4320-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/georgia-pastor-and-trump-adviser-tests-positive-for-covid-19/2020/12/20/57d7f6ca-4320-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+  - title: "Mike And Karen Pence Will Get The COVID Vaccine Before Cameras This Friday"
+    excerpt: "Vice President Mike Pence is set to get the COVID-19 vaccine at the White House on Friday, officials announced Wednesday, making him the highest-ranking person in government to receive a dosage. Pence and second lady Karen Pence are expected to get the vaccine in public before media \"to promote the safety and efficacy of the vaccine and build confidence among the American people,"
+    publishedDateTime: 2020-12-17T02:49:00Z
+    webUrl: "https://www.buzzfeednews.com/article/salvadorhernandez/mike-pence-joe-biden-vaccine?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/salvadorhernandez/mike-pence-joe-biden-vaccine"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/salvadorhernandez/mike-pence-joe-biden-vaccine"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 123
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-12/8/21/campaign_images/f348116ee526/biden-plans-to-give-50-million-americans-covid-19-2-2341-1607463581-2_dblbig.jpg"
+        width: 625
+        height: 415
         isCached: true
-  - title: "Trump, Pence, other top officials to be offered COVID-19 vaccine - source"
-    excerpt: "U.S. President Donald Trump, Vice President Mike Pence and other top U.S. officials will be offered the newly approved COVID-19 vaccine beginning Monday, according to a source familiar with the plans."
-    publishedDateTime: 2020-12-14T03:04:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-white-house/trump-pence-other-top-officials-to-be-offered-covid-19-vaccine-source-idUSL1N2IT0NP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IT0NP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IT0NP"
+  - title: "Vice President Mike Pence to receive COVID-19 vaccine at White House Friday"
+    excerpt: "Vice President Mike Pence and his wife will be vaccinated for COVID-19 at the White House to build public confidence in the vaccine."
+    publishedDateTime: 2020-12-18T11:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3948306001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3948306001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/17/USAT/a5af1613-f197-4a43-9457-c64fb9d7c38c-Pence_mask.jpg?auto=webp&crop=4673,2629,x0,y237&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike And Karen Pence Have Received The First Dose Of The COVID-19 Vaccine On Live TV"
     excerpt: "Pence received the first dose of the vaccine as the virus rages across the county and kills about 3,000 people per day."
     publishedDateTime: 2020-12-18T14:25:00Z
@@ -164,170 +153,37 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Trump signs stopgap funding bill; Congress awaits his approval of $892 billion COVID aid"
-    excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week while Congress passed a massive COVID-19 aid and government funding package overnight aimed at bolstering the nation's pandemic response and its battered economy."
-    publishedDateTime: 2020-12-22T20:36:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress/trump-signs-stopgap-funding-bill-congress-awaits-his-approval-of-892-billion-covid-aid-idUSKBN28W1RV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W1RV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W1RV"
+  - title: "Monroe County Airport prepares for Vice President Mike Pence's visit"
+    excerpt: "The vice president is expected to visit Bloomington's Catalent Biologics to tour the COVID-19 vaccine production line."
+    publishedDateTime: 2020-12-14T21:27:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/12/14/monroe-county-airport-prepares-vice-president-mike-pences-visit/6547244002/"
+    ampWebUrl: "https://amp.indystar.com/amp/6547244002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6547244002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545450408&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL0XQ"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump scraps plan to have top White House personnel among first vaccinated against COVID-19"
-    excerpt: "President scraps administration order saying they should get the shots along with frontline health workers and people in nursing homes and long-term care facilities."
-    publishedDateTime: 2020-12-14T12:29:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-rejects-early-covid-vaccination-plan-white-house-staff/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rejects-early-covid-vaccination-plan-white-house-staff/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rejects-early-covid-vaccination-plan-white-house-staff/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 115
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/08/401aaaf8-9c1b-42f2-8222-dce3dee41a73/thumbnail/1200x630/f05ea69c149e05afcaf546d5740f12ca/cbsn-fusion-eye-opener-white-house-denies-rejecting-pfizer-offer-for-more-vaccines-thumbnail-603672-640x360.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/09/PDEM/f0d58c4c-3ed1-4359-8b8a-e8399130d50c-AP20344676064841.jpg?auto=webp&crop=5537,3115,x0,y281&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "American manufacturers pine for home as COVID disruptions, Trump tariffs shake up supplies"
-    excerpt: "President Trump's trade war was supposed to encourage American manufacturers to pack up their international operations and move home. Did it happen?"
-    publishedDateTime: 2020-12-18T05:48:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/12/18/covid-disruptions-trump-tariffs-make-u-s-manufacturers-pine-home/3851515001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3851515001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3851515001"
+  - title: "Vice President Mike Pence in Bloomington: Live updates"
+    excerpt: "The vice president is touring the Catalent facility that is producing and packaging Moderna's new vaccine for COVID-19."
+    publishedDateTime: 2020-12-15T19:46:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/12/15/vice-president-mike-pence-bloomington-live-updates/3908707001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3908707001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3908707001"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/a991105e-7421-4d8a-9579-88bea40d37a1-daniel_burrows.png?auto=webp&crop=529,298,x0,y176&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/15/PIND/1d74e4b1-abb6-414a-92a9-d1bc88f53d57-5fd9006963563.image.jpg?auto=webp&crop=1199,675,x0,y31&format=pjpg&width=1200"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Trump claimed that COVID-19 vaccine would have taken 'five years' to develop if he weren't president"
-    excerpt: "Trump's Operation Warp Speed has spent billions funding vaccine efforts, but Pfizer didn't take any federal money for research and development."
-    publishedDateTime: 2020-12-13T22:16:00Z
-    webUrl: "https://www.businessinsider.com/trump-claims-coronavirus-vaccine-five-years-if-he-werent-president-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-claims-coronavirus-vaccine-five-years-if-he-werent-president-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-coronavirus-vaccine-five-years-if-he-werent-president-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5fd6736de00bce00188bb12c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "WATCH LIVE: Pence leads COVID-19 vaccine roundtable discussion"
-    excerpt: "Vice President Mike Pence will lead a roundtable discussion on Operation Warp Speed Dec. 15 after touring a COVID-19 vaccine production facility in Bloomington, Indiana."
-    publishedDateTime: 2020-12-15T17:45:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-pence-leads-covid-19-vaccine-roundtable-discussion"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 105
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/assets/images/social-share.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump Says White House Officials Won't Be First To Receive COVID-19 Vaccine"
-    excerpt: "An administration spokesman said senior government officials would be among the first to get the vaccine, but the president himself later said that White House staff would get it later."
-    publishedDateTime: 2020-12-14T06:03:00Z
-    webUrl: "https://www.npr.org/sections/coronavirus-live-updates/2020/12/14/946142015/trump-says-white-house-officials-wont-be-first-to-receive-covid-19-vaccine"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 103
-    images:
-      - url: "https://media.npr.org/assets/img/2020/12/13/gettyimages-1230067031_wide-ce0413b079c5a9d14d96e3fb5b48ee1bfa0f4135.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "U.S. Congress passes nearly $900 bln COVID-19 aid bill, awaits Trump approval"
-    excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week after Congress passed a $892 billion COVID-19 aid package overnight that aims to shore up the nation's pandemic response and bolster the battered economy."
-    publishedDateTime: 2020-12-22T18:45:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-idUSL1N2J20U7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J20U7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J20U7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 102
-  - title: "Trump should take a COVID-19 shot to build confidence in the vaccine among his supporters, the White House coronavirus testing czar says"
-    excerpt: "President Donald Trump taking a vaccine would \"generate more confidence among the people who follow him so closely,\" Adm. Brett Giroir told ABC News."
-    publishedDateTime: 2020-12-21T12:34:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-vaccine-republicans-covid-shot-white-house-brett-giroir-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-vaccine-republicans-covid-shot-white-house-brett-giroir-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-vaccine-republicans-covid-shot-white-house-brett-giroir-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/5fe07411c910a400192e8a16?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "2 former CDC officials say the Trump administration 'sidelined' science and hobbled the agency's COVID-19 response"
-    excerpt: "\"Every time that the science clashed with the messaging, messaging won,\" former CDC chief of staff Kyle McGowan told The New York Times."
-    publishedDateTime: 2020-12-16T16:20:00Z
-    webUrl: "https://www.businessinsider.com/former-cdc-officials-white-house-ignored-science-hamper-coronavirus-response-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://i.insider.com/5f1409983ad86150c86aeda5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Pence says he'll receive COVID-19 vaccine in 'the days ahead'"
-    excerpt: "Vice President Mike Pence said Tuesday he's looking forward to receiving the Pfizer-BioNTech COVID-19 vaccine in the \"days ahead ... without hesitation,\" and CNN's Kaitlan Collins later reported that two sources confirmed he would be inoculated by Friday."
-    publishedDateTime: 2020-12-15T23:22:00Z
-    webUrl: "https://theweek.com/speedreads/955399/pence-says-hell-receive-covid19-vaccine-days-ahead"
-    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/955399/pence-says-hell-receive-covid19-vaccine-days-ahead"
-    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/955399/pence-says-hell-receive-covid19-vaccine-days-ahead"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 75
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1289450908.jpg?itok=jgUbbyOD"
-        width: 840
-        height: 560
-        isCached: true
-  - title: "Mike Pence receives the COVID-19 vaccine"
-    excerpt: "Vice President Mike Pence and second lady Karen Pence both received a COVID-19 vaccine with cameras rolling on Friday to try to show the public that it’s safe and that Americans should get vaccinated when they can."
-    publishedDateTime: 2020-12-18T14:34:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/18/mike-pence-receives-covid-19-vaccine/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/18/mike-pence-receives-covid-19-vaccine/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/18/mike-pence-receives-covid-19-vaccine/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/18/Virus_Outbreak_Trump_84982.jpg-7a652_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Vice President Mike Pence, wife Karen get COVID-19 vaccine injections"
     excerpt: "Vice President Mike Pence was vaccinated for COVID-19 on Friday in a live-television event aimed at reassuring Americans the vaccine is safe."
@@ -344,22 +200,6 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2020/12/Virus_Outbreak_Trump_53723.jpg?w=1024&h=683"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Watch live: Vice President Mike Pence receives COVID-19 vaccine"
-    excerpt: "Vice President Mike Pence and second lady Karen Pence will receive the COVID-19 vaccine at the White House Friday morning to build public confidence in its safety and efficacy."
-    publishedDateTime: 2020-12-18T12:59:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/12/18/Watch-live-Vice-President-Mike-Pence-receives-COVID-19-vaccine/3501608295566/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/18/VP-Mike-Pence-second-lady-surgeon-general-receive-COVID-19-vaccine/3501608295566/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/18/VP-Mike-Pence-second-lady-surgeon-general-receive-COVID-19-vaccine/3501608295566/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/3501608295566/2020/1/59fda84f453f60719ea98124860ab531/v1.5/VP-Mike-Pence-Speaker-Nancy-Pelosi-receive-COVID-19-vaccine.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Mike Pence doesn't faint, proving COVID-19 vaccine both safe and effective"
     excerpt: "Vice President Mike Pence took to live television to take the coronavirus vaccine in his arm — and that’s some darn good leadership right there, indeed. Moreover, he didn’t faint. Even better leadership."
@@ -409,17 +249,34 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Pence looks forward to receiving COVID-19 vaccine"
-    excerpt: "Vice President Mike Pence says he looks forward in the days ahead to receiving a vaccine for COVID-19 and will do so without hesitation."
-    publishedDateTime: 2020-12-15T23:22:00Z
-    webUrl: "https://napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.html"
-    ampWebUrl: "https://napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.amp.html"
-    cdnAmpWebUrl: "https://napavalleyregister-com.cdn.ampproject.org/c/s/napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.amp.html"
+  - title: "Pence likely to get the coronavirus vaccine by Friday"
+    excerpt: "Vice President Mike Pence is likely to receive the coronavirus vaccine by Friday, two sources familiar with the plans tell CNN."
+    publishedDateTime: 2020-12-15T20:14:00Z
+    webUrl: "https://www.newspressnow.com/news/national_news/election2020/pence-likely-to-get-the-coronavirus-vaccine-by-friday/article_e0e8d432-00c6-5620-9ddf-fd55d10ed27b.html"
     type: article
     provider:
-      name: Napa Valley Register
-      domain: napavalleyregister.com
+      name: News-Press NOW
+      domain: newspressnow.com
     quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/custom/image/bcf8e96c-4b35-11e5-9c03-7b4fbbdd1e31.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mike Pence receives Pfizer vaccine"
+    excerpt: "Mike Pence becomes first senior member of the Trump administration to receive a vaccine"
+    publishedDateTime: 2020-12-18T17:32:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p091vwhd"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p085s4fy.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Pence, Mitch McConnell, Nancy Pelosi all vaccinated Friday as COVID-19 vaccine rollout continues"
     excerpt: "President Donald Trump’s administration helped deliver vaccinations against the coronavirus earlier than even some in his administration thought possible, but the president has been largely absent from the effort to sell the American public on what aides hope will be a key part of his legacy."
     publishedDateTime: 2020-12-20T05:14:00Z
@@ -434,6 +291,15 @@ related:
         width: 506
         height: 337
         isCached: true
+  - title: "Pence plans visit to state to discuss virus vaccines"
+    excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss novel coronavirus vaccines as federal officials are expected to"
+    publishedDateTime: 2020-12-12T05:00:00Z
+    webUrl: "https://www.journalgazette.net/news/local/indiana/20201212/pence-plans-visit-to-state-to-discuss-virus-vaccines"
+    type: article
+    provider:
+      name: The Journal Gazette
+      domain: journalgazette.net
+    quality: 35
 
 secured: "/Ux66kkJBnANuGe5D67xJvIJJR7bWP9TkDoA42DfQ6MoYoEcfMj739lrMfI64Sn6eaqdAZm4g4OCVT4CfSnjyUAji+7PPWcMyNB7H4viIggWn1csIztEoSk/TID7RWIWtBjyZadtR27ah8V5KTYkd8FoYQbk7Bhc8J0sc4gkh30ZryQ2RLYnHvtp3youJ502G+p9Np4q7bwaf9kA0pvVvIiXI/L+qMMUVwWUHLzUpM7fBZeWDKLTDBxB9IZortZTXxWJHPvQP7B52gukT5hs3voxfIxjlwMx+w0/3rsua5ZbQSq35QnuY/6Bzt3NfXz53LerrZQYQiOBEPnOTj5QSlCfeHEErjFmROIc983K/usGEMgBi1VTyr5bA/10WVLXz9v2ZDzEHkMoKu2YDqD6rFungCuJ9kbFX4Xl2M3raBjJO/782R+FMNhziGe9BcRe+Blkzy8qsH2ukJLeJDER1+Igl6wt8aaWjiCmY+doqXE76uq2IJAVIed3fBqetK+o2bLNSQ5I5vUKNh6F2ePhCA==;2I+mh0QODsxL8Hpn5AI9OA=="
 ---

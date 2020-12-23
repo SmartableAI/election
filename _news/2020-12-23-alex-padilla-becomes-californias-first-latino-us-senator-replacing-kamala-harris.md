@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Alex Padilla becomes California’s first Latino U.S. senator, replacing Kamala Harris"
-excerpt: "Padilla will be the first Latino to represent California in the U.S. Senate. He succeeds Kamala Harris, the newly elected vice president."
-publishedDateTime: 2020-12-22T18:00:00Z
-originalUrl: "https://www.latimes.com/california/story/2020-12-22/gavin-newsom-alex-padilla-senate-california-kamala-harris"
-webUrl: "https://www.latimes.com/california/story/2020-12-22/gavin-newsom-alex-padilla-senate-california-kamala-harris"
-ampWebUrl: "https://www.latimes.com/california/story/2020-12-22/gavin-newsom-alex-padilla-senate-california-kamala-harris?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-12-22/gavin-newsom-alex-padilla-senate-california-kamala-harris?_amp=true"
+title: "Alex Padilla becomes California’s first Latino US senator, replacing Kamala Harris"
+excerpt: "Alex Padilla, a Los Angeles Democrat who once developed software for satellites but later rose through local and state political office to become California secretary of state, was chosen Tuesday by Gov."
+publishedDateTime: 2020-12-22T18:30:00Z
+originalUrl: "https://www.sfexaminer.com/news/alex-padilla-becomes-californias-first-latino-us-senator-replacing-kamala-harris/"
+webUrl: "https://www.sfexaminer.com/news/alex-padilla-becomes-californias-first-latino-us-senator-replacing-kamala-harris/"
 type: article
-quality: 118
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: San Francisco Examiner
+  domain: sfexaminer.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/44efb7f/2147483647/strip/true/crop/6271x4096+0+43/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff1%2Ff5%2F3007e50448f8b7e5ae317a32c9ed%2Fla-photos-1staff-642253-me-1030-pol-ca-newsom-17-cmc.jpg"
-    width: 320
-    height: 209
+  - url: "https://www.sfexaminer.com/wp-content/uploads/2020/12/23720326_web1_201222-SFE-Padilla_1-1024x683.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -218,6 +212,6 @@ related:
         height: 675
         isCached: true
 
-secured: "gAPV9928yeqreHe2HHLaLcWmBvhcb86YOlKUB2KHDjZVentRDr4nEE8aiI/w13/GQ+qT+3tK+9B5z8Vb2K/JvNgUmgTkCPVvTU9jydSaMRtv0Gt/mfyCuEcowSR+tCJmGceZ/3CqtlgJTiRpY96K+KB/oKrZ8CK+/pOAd6rhHjH/qNsTgtKk08rDS2o28LuyP0rp/vlS1iruSJV4uVXpfNzzTZUMOUCuZJZroQHvFDf6Mvbi0w92QMJcDN7Py3bwx1wOE1RqmOKTguCUXi4tiWGuJKLR4A6ZObjTh4lxVpWKz7wrXFG9XqhEK+mE1JA/tFh/Srm0BY0qAQ4HXGA9LjSTok+K3j+2Dr1WcWhW8/Y=;kYszgZ6Z7wQpGGG/zvxhUw=="
+secured: "y1e/UEXD2nYApwd+Tm0E+mZlvugPkfYX5xuPi7HnGz+oCGPlFko94R5QfJcIjRflwi5ca+5c6cveGzdod7jyh8Wua8k2mj3qAjAUCVJ1Z0jvNS1CCOVZY294+6s+Xwid2scFDWWvpCup2L3Hhsn9+02bM1fRluid3K4s8HE4OrY/Qmvae1B5mPYcpZpYhOrm3lzFE/iHSl28+0NBsu0WA7aaiJxzM5k1rX6TbRrdNeqMJq1biTHipMmYcTnpNG+2iY781kHIhDRAaG3FeyXADCSB3589OsQWYCa1SZCeraByZLwqlBClfMxZAOJUbx0jpQOEN+E7w5ymzCODdy2jDg4ClymZfTUHwu4+f26R3js=;/iAQKXLU+ZScPCkfnFrBtw=="
 ---
 

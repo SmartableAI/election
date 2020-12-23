@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3AS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3AS"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -229,6 +229,17 @@ related:
     webUrl: "https://www.reuters.com/article/health-coronavirus-usa-atlas-idUSW1N2HQ0F6"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HQ0F6"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HQ0F6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+  - title: "U.S. Senate passes $892 bln coronavirus aid bill, sends to Trump to sign"
+    excerpt: "The U.S. Senate on Monday passed an $892 billion coronavirus aid package, throwing a lifeline to the nation's pandemic-battered economy, while also funding federal government activities through September 2021."
+    publishedDateTime: 2020-12-22T05:08:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-senate-idUSL1N2J206O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J206O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J206O"
     type: article
     provider:
       name: Reuters

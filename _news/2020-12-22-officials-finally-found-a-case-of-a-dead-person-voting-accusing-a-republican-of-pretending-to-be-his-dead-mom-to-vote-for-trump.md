@@ -31,68 +31,175 @@ images:
     isCached: true
 
 related:
-  - title: "Seth Meyers: Trump's 'going to be our first nomad ex-president'"
-    excerpt: "Late-night hosts discuss a request by residents of Palm Beach, Florida, to keep Trump from residing in Mar-a-Lago and belated GOP admissions of Biden’s victory"
-    publishedDateTime: 2020-12-17T17:06:00Z
-    webUrl: "https://www.theguardian.com/culture/2020/dec/17/seth-meyers-trump-nomad-ex-president-late-night-recap"
-    ampWebUrl: "https://amp.theguardian.com/culture/2020/dec/17/seth-meyers-trump-nomad-ex-president-late-night-recap"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2020/dec/17/seth-meyers-trump-nomad-ex-president-late-night-recap"
+  - title: "A lifelong Republican stood up to Trump. His reward: Death threats"
+    excerpt: "Georgia election official Gabriel Sterling is girding for another battle with conspiracy theories and lies about the integrity of the voting system."
+    publishedDateTime: 2020-12-14T12:14:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done?_amp=true"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/7416014168184d41ce4a6cdd14c8aeeb6edfe637/72_144_2521_1513/master/2521.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d303f29e709c094d6a9170f53385e5da"
-        width: 600
-        height: 360
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/ec7582c/2147483647/strip/true/crop/2510x1412+13+0/resize/768x432!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F09%2F7c%2F1ec055ca4ff69835f12733d1a2fe%2Fsterlingthumb.png"
+        width: 768
+        height: 432
         isCached: true
-  - title: "Trump expected to arrive on Dec. 23 for last presidential Christmas at Mar-a-Lago"
-    excerpt: "Trump is expected to arrive in Palm Beach on Dec. 23 and return to Washington Jan. 3 for his last Christmas and New Years  at Mar-a-Lago as president"
-    publishedDateTime: 2020-12-18T00:34:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/12/17/trump-arrive-dec-23-last-presidential-mar-lago-holiday/3942491001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3942491001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3942491001"
+  - title: "Donald Trump's historic and chaotic presidency, by the numbers"
+    excerpt: "Looking at the numbers surrounding Trump's tenure provides important context and perspective on his accomplishments and failures."
+    publishedDateTime: 2020-12-18T21:21:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-historic-and-chaotic-presidency-by-the-numbers-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-historic-and-chaotic-presidency-by-the-numbers-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-historic-and-chaotic-presidency-by-the-numbers-2020-12?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/10/NPPP/0dcbba27-cb1c-477b-885f-db07d59c3684-trump_christmas_phone_call.jpg?auto=webp&crop=639,360,x0,y1&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5fb491aae74fa70018b83104?width=1200&format=jpeg"
         width: 1200
-        height: 676
+        height: 600
         isCached: true
-  - title: "Mar-a-Lago neighbors say Trump forfeited right to live on estate once presidency ends"
-    excerpt: "President Trump forfeited his right to live at the estate in 1993 when he turned it into a private club, a lawyer tells the town of Palm Beach."
-    publishedDateTime: 2020-12-17T11:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/17/trumps-mar-lago-neighbors-dont-want-him-there-after-presidency/3937126001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3937126001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3937126001"
+  - title: "Trump meets U.S. House Republican allies to push voter fraud claims"
+    excerpt: "U.S. President Donald Trump met a group of Republican lawmakers on Monday in his thus-far fruitless bid to gain momentum for claims that the Nov. 3 presidential election won by Democrat Joe Biden was rigged."
+    publishedDateTime: 2020-12-22T06:05:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28W02W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W02W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W02W"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/18/NPPP/da617525-710e-42f9-a4a9-01413d4a8efc-Trump_Thansgiving_15.jpg?auto=webp&crop=2399,1350,x0,y163&format=pjpg&width=1200"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545385302&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL019"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "As Trump pushes baseless fraud claims, Republicans pledge tougher voting rules"
+    excerpt: "Republican state lawmakers have begun to use President Donald Trump’s baseless charges of voter fraud to push for new restrictions on voting."
+    publishedDateTime: 2020-12-21T17:34:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-voting-rules-insight-idUSKBN28V1DN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V1DN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V1DN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545334968&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK0QE"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Despite his boasts, Trump again is no deal-maker as Congress seeks pandemic relief bill"
+    excerpt: "Donald Trump was elected partly on his fame for \"The Art of the Deal,\" yet he's cut no big deals in office. The relief package is the latest, perhaps final, example."
+    publishedDateTime: 2020-12-20T11:14:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-20/despite-his-boasts-trump-again-is-no-deal-maker-as-congress-seeks-crisis-relief-bill"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-20/despite-his-boasts-trump-again-is-no-deal-maker-as-congress-seeks-crisis-relief-bill?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-20/despite-his-boasts-trump-again-is-no-deal-maker-as-congress-seeks-crisis-relief-bill?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 117
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/8a41683/2147483647/strip/true/crop/1722x1125+139+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdc%2Fbc%2F56179fae7739bfcf6f70d6ad974e%2Fla-fg-iran-nuclear-pictures-20150714-003"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Trump's conspiracies pose 'existential' threat to electronic voting industry -Smartmatic"
+    excerpt: "Conspiracy theories about how voting machines were used to stop the re-election of Donald Trump have not just sapped Americans' faith in the democratic process - they also pose an existential threat to the market for electronic voting systems worldwide,"
+    publishedDateTime: 2020-12-14T11:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-voting-tech/trumps-conspiracies-pose-existential-threat-to-electronic-voting-industry-smartmatic-idUSKBN28O19M?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O19M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O19M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544489818&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0OK"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump's conspiracies pose 'existential' threat to electronic voting industry -Smartmatic"
+    excerpt: "Conspiracy theories alleging that voting machines were used to steal the election from President Donald Trump pose a major threat to the worldwide market for electronic voting systems, the CEO of Smartmatic,"
+    publishedDateTime: 2020-12-15T03:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-voting-tech-idUSKBN28O19M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O19M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O19M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544558267&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0OK"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Major Architects Group Will Stop Designing Death Chambers Amid Trump's Record-Breaking Executions"
+    excerpt: "Convicted murderer Alfred Bourgeois was put to death on Friday, becoming the second man to be executed in two days."
+    publishedDateTime: 2020-12-12T10:21:00Z
+    webUrl: "https://www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310"
+    ampWebUrl: "https://www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 112
+    images:
+      - url: "https://d.newsweek.com/en/full/1685394/lethal-injection-facility-san-quentin-california.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump attacks Republicans while attending Army-Navy football game"
+    excerpt: "Navy football game this Saturday, President Trump tweeted attacks against fellow Republicans and allies who urge the President to accept the election results. Chip Reid has more."
+    publishedDateTime: 2020-12-13T00:10:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-attacks-republicans-while-attending-army-navy-football-game/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/13/7cbaa70c-b218-411b-8363-bc3da5691388/thumbnail/1200x630/2e13b0afd7921afd4ad282cebebdc306/cbsn-fusion-trump-attacks-republicans-while-attending-army-navy-football-game-thumbnail-607720-640x360.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Trump's would-be neighbors say he can't live at Mar-a-Lago post-presidency"
-    excerpt: "The Post’s Carol D. Leonnig explains the difficulties President Trump will have if he claims Mar-a-Lago in Palm Beach, Fla., as his post-presidency residence."
-    publishedDateTime: 2020-12-18T18:51:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/trumps-would-be-neighbors-say-he-cant-live-at-mar-a-lago-post-presidency/2020/12/18/266978a3-811d-44f0-a65a-1eb2cf4f69ee_video.html"
+  - title: "Trump signs bill that could kick Chinese companies off US stock exchanges unless they agree to American accounting standards"
+    excerpt: "The Holding Foreign Companies Accountable Act gives Trump another tool to threaten Beijing with before leaving office in January."
+    publishedDateTime: 2020-12-18T23:37:00Z
+    webUrl: "https://www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 103
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-18-2020/t_194d60baf64341449edc279aee47ae2e_name_07a44092_2a62_11e9_b2fc_721718903bfc_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
+      - url: "https://i.insider.com/5f9c87d76f5b310011724a21?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
+  - title: "White House indicates Trump will sign $900 billion stimulus deal brokered by Republicans and Democrats in Congress"
+    excerpt: "The legislation includes $600 stimulus checks, $300 weekly unemployment benefits, small business aid, and funds for schools and universities."
+    publishedDateTime: 2020-12-21T07:42:00Z
+    webUrl: "https://www.businessinsider.com/trump-reportedly-will-sign-900-billion-coronavirus-stimulus-package-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-reportedly-will-sign-900-billion-coronavirus-stimulus-package-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-reportedly-will-sign-900-billion-coronavirus-stimulus-package-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
 
 secured: "y8Ji/cmmXuupdDHIXtTYlMgIfUkKYM5LYCCsYU7cIr6fHV0V/VRWQtqm/gkLYHFhqU87/H7rRH7aBHRjuhdF7yZrHe2Kn4Xi2UafMJebiPYL5xoYA0EP1w0Slh6/X6M37EtAMM5De07bi8cLIyIf42qYrk/WFYiQF4SLJsdyjMvN1gSKMI2sTiHtCA5G2cRK8C41+Fdmw6iQYy7HLHZHbrmZbrXsYznrljqLEMvk57wrBhFQUZWW6l1XkvXBGyLmvH5jIjEV+QkYsKYVjVmfDOFeC0Q1E9sTym6K5cMyRTt8z10LSZ/In/i9haO7cntr/TEVkDMfWOMTcHWlfw+80e3L7LBPFxdv/1kH9k/PvKG5Yo/jHgUY/fvE2c820mKMmBnrQnnS1m0O9lganLuK2uMDAgAicHP9MsO2aQ4j2YIiOSx/BCEvepNy5WMZBd7CjcqR/1tQUJ7cYSXmv8vI/hGSUhrswrmZH6S8faU+OH59xMpJRzJ/vNVSRQZ0PBZjZFS5g0yTcgXsFVU9YytDWQ==;G3SMnTQfDpEQVqNBUv7AHA=="
 ---

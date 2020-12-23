@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/fired-attorney-sidney-powell-bac
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842"
 type: article
 quality: 118
-heat: 158
+heat: 138
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/ab36745ae4c618ac2c20aff19ed98c3b8be2b06c/0_110_8192_4915/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f7a1dba5230ac83bcadc1ec8563ec996"
         width: 600
         height: 360
-        isCached: true
-  - title: "The US government changed the rules to allow more powerful showers after Trump complained about not getting enough water to wash his hair"
-    excerpt: "At a White House event in July, President Trump complained that showers weren't providing enough water for him to properly wash his hair."
-    publishedDateTime: 2020-12-16T12:52:00Z
-    webUrl: "https://www.businessinsider.com/us-rolls-back-shower-restrictions-after-trump-complained-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/us-rolls-back-shower-restrictions-after-trump-complained-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-rolls-back-shower-restrictions-after-trump-complained-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/5fd9f5721803a80018adfb87?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "zv2m4L0BXi/8Ltpkpcl9LlS2pE/Z64R8Kh1waYmpaw9oKCtbqeT8EO1xwZVNNlciCdhCdRaXjhyYIQ1D+Zjxrn64/KVUeLyTtb1Ia5MOv0GfiSjpf+TTPHeBYhFeDTfym/+1RWcLkKXGH2tCzlGHFTAnZc0VOEgGeMsXgTaIcKfbnSvt38yIqQ6k93oKJZr2vT/BBxYgN4xNbRzJaz2wwdts700BwsSaRFZHr0n07YtQW/JM2bMZ+dyIQiSoDr3A7HlPYPf9z+civqIOppHFi0r2dXZ+LjSVtLR3xK/h3BqJaa/aPx6rFep7NpRho2OuAcgbieuvfFAGC5Ue+XW+RpTl+QnySO79U+SX/qanlDxdfoVKeIyBREkZb4eQV3gJhOmJ5KOsZLXBVH+IruIweDUHCqpk5+N2tZ24RVPuenp7HMM48sAARceYjk0k+EXKhmOP0of2nMs9yO0HFZPGVO71lviqUF6nX+DP025HlonubTCUXGsB5WlFa1tMbhgfjLdf8OEncEgudfuSTQ86aw==;BBXPJfS8fTj+PTy/jFZwHQ=="

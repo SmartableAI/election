@@ -29,53 +29,133 @@ images:
     isCached: true
 
 related:
-  - title: "Under attack from Trump, America’s democratic institutions bend but don’t break"
-    excerpt: "Historians and democracy experts said they feared that the tumultuous post-election period had exposed the fragility of the instruments of democracy."
-    publishedDateTime: 2020-12-15T02:15:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html?outputType=amp"
+  - title: "A lifelong Republican stood up to Trump. His reward: Death threats"
+    excerpt: "Georgia election official Gabriel Sterling is girding for another battle with conspiracy theories and lies about the integrity of the voting system."
+    publishedDateTime: 2020-12-14T12:14:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done?_amp=true"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/ec7582c/2147483647/strip/true/crop/2510x1412+13+0/resize/768x432!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F09%2F7c%2F1ec055ca4ff69835f12733d1a2fe%2Fsterlingthumb.png"
+        width: 768
+        height: 432
+        isCached: true
+  - title: "Donald Trump's historic and chaotic presidency, by the numbers"
+    excerpt: "Looking at the numbers surrounding Trump's tenure provides important context and perspective on his accomplishments and failures."
+    publishedDateTime: 2020-12-18T21:21:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-historic-and-chaotic-presidency-by-the-numbers-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-historic-and-chaotic-presidency-by-the-numbers-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-historic-and-chaotic-presidency-by-the-numbers-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fb491aae74fa70018b83104?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump meets U.S. House Republican allies to push voter fraud claims"
+    excerpt: "U.S. President Donald Trump met a group of Republican lawmakers on Monday in his thus-far fruitless bid to gain momentum for claims that the Nov. 3 presidential election won by Democrat Joe Biden was rigged."
+    publishedDateTime: 2020-12-22T06:05:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28W02W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W02W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W02W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545385302&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL019"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "As Trump pushes baseless fraud claims, Republicans pledge tougher voting rules"
+    excerpt: "Republican state lawmakers have begun to use President Donald Trump’s baseless charges of voter fraud to push for new restrictions on voting."
+    publishedDateTime: 2020-12-21T17:34:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-voting-rules-insight-idUSKBN28V1DN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V1DN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V1DN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 121
     images:
-      - url: "https://www.chicagotribune.com/resizer/hI1Y5FYhOzQSxPk_372qNQCsw4I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XBBB32DW26JFTNJSF6TAYX7P2A.jpg"
-        width: 1200
-        height: 800
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545334968&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK0QE"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Coronavirus live news: Donald Trump will 'absolutely' encourage Americans to take vaccine, says press secretary"
-    excerpt: "EU to bring forward decision on Pfizer/BioNTech vaccine to 21 December; Turkey says 235 more people have died after a Covid diagnosis"
-    publishedDateTime: 2020-12-15T19:27:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain?page=with:block-5fd902938f08b0a99da9702c"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/15/coronavirus-live-news-netherlands-announces-five-week-lockdown-as-uk-detects-new-covid-strain"
+  - title: "Despite his boasts, Trump again is no deal-maker as Congress seeks pandemic relief bill"
+    excerpt: "Donald Trump was elected partly on his fame for \"The Art of the Deal,\" yet he's cut no big deals in office. The relief package is the latest, perhaps final, example."
+    publishedDateTime: 2020-12-20T11:14:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-20/despite-his-boasts-trump-again-is-no-deal-maker-as-congress-seeks-crisis-relief-bill"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-20/despite-his-boasts-trump-again-is-no-deal-maker-as-congress-seeks-crisis-relief-bill?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-20/despite-his-boasts-trump-again-is-no-deal-maker-as-congress-seeks-crisis-relief-bill?_amp=true"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 117
     images:
-      - url: "https://i.guim.co.uk/img/media/d5e96c76ef8c8e7c6c6beaab0a2736b4d19a9703/0_25_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=221db07b2862a04c278523814bee21e8"
-        width: 600
-        height: 360
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/8a41683/2147483647/strip/true/crop/1722x1125+139+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdc%2Fbc%2F56179fae7739bfcf6f70d6ad974e%2Fla-fg-iran-nuclear-pictures-20150714-003"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Trump administration rushes to roll out a $250 million public education effort to encourage Americans to get vaccinated"
-    excerpt: "A large-scale public education campaign, delayed by false starts and investigations, will get off the ground just as the coronavirus vaccine becomes available to high-risk Americans."
-    publishedDateTime: 2020-12-14T17:15:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html?outputType=amp"
+  - title: "Trump's conspiracies pose 'existential' threat to electronic voting industry -Smartmatic"
+    excerpt: "Conspiracy theories about how voting machines were used to stop the re-election of Donald Trump have not just sapped Americans' faith in the democratic process - they also pose an existential threat to the market for electronic voting systems worldwide,"
+    publishedDateTime: 2020-12-14T11:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-voting-tech/trumps-conspiracies-pose-existential-threat-to-electronic-voting-industry-smartmatic-idUSKBN28O19M?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O19M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O19M"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 101
+      name: Reuters
+      domain: reuters.com
+    quality: 116
     images:
-      - url: "https://www.chicagotribune.com/resizer/vhYxJnm77JRG0ft5QUfsg3oZUCk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VK557JGXCB74AHEZ4WDSK7AYNU.jpg"
-        width: 1200
-        height: 801
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544489818&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0OK"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump's conspiracies pose 'existential' threat to electronic voting industry -Smartmatic"
+    excerpt: "Conspiracy theories alleging that voting machines were used to steal the election from President Donald Trump pose a major threat to the worldwide market for electronic voting systems, the CEO of Smartmatic,"
+    publishedDateTime: 2020-12-15T03:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-voting-tech-idUSKBN28O19M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O19M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O19M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544558267&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0OK"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Major Architects Group Will Stop Designing Death Chambers Amid Trump's Record-Breaking Executions"
+    excerpt: "Convicted murderer Alfred Bourgeois was put to death on Friday, becoming the second man to be executed in two days."
+    publishedDateTime: 2020-12-12T10:21:00Z
+    webUrl: "https://www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310"
+    ampWebUrl: "https://www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 112
+    images:
+      - url: "https://d.newsweek.com/en/full/1685394/lethal-injection-facility-san-quentin-california.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump signs bill that could kick Chinese companies off US stock exchanges unless they agree to American accounting standards"
     excerpt: "The Holding Foreign Companies Accountable Act gives Trump another tool to threaten Beijing with before leaving office in January."
@@ -93,22 +173,33 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "CNN's Jake Tapper thanks Trump for 'exposing' Republicans who supported Texas' 'un-democratic, un-American, mendacious joke of a lawsuit'"
-    excerpt: "Tapper closed his show with a blistering attack on Trump and Republicans for their \"desperate desire to subvert the will of the American people.\""
-    publishedDateTime: 2020-12-13T21:51:00Z
-    webUrl: "https://www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12?amp"
+  - title: "Officials finally found a case of a dead person voting, accusing a Republican of pretending to be his dead mom to vote for Trump"
+    excerpt: "Bruce Bartman pretended to be his dead mom to cast a ballot for President Donald Trump, who lost the state anyway, prosecutors said."
+    publishedDateTime: 2020-12-22T00:59:00Z
+    webUrl: "https://www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 92
+    quality: 96
     images:
-      - url: "https://i.insider.com/5fd689d69cf1420018d2f14a?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fe123edc910a400192e8de7?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
+  - title: "White House indicates Trump will sign $900 billion stimulus deal brokered by Republicans and Democrats in Congress"
+    excerpt: "The legislation includes $600 stimulus checks, $300 weekly unemployment benefits, small business aid, and funds for schools and universities."
+    publishedDateTime: 2020-12-21T07:42:00Z
+    webUrl: "https://www.businessinsider.com/trump-reportedly-will-sign-900-billion-coronavirus-stimulus-package-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-reportedly-will-sign-900-billion-coronavirus-stimulus-package-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-reportedly-will-sign-900-billion-coronavirus-stimulus-package-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
 
 secured: "M2zhMu5f/mn8INPzBk8pRN+I7sTyiwca7iQyz7Aya4pqaQ/q+g5CV9rPpbZ22a0QXsB6BCE8TD/Jsz0L1YVTsxzwNCUKE5QceeVmZMsNUecVS6yPgAmHwWnb+a9v/aL9Kac6Mc7XnG5TUhnDt7Da+n6QNRpPxGRbJ9Pp4wUaYs5DaYNdmdevzTlUlDDco8RnfIs+z2bHlljU6HWMLevpqc6N2mV5kUG7qooC209yTvLMLWFOe0U/7Hop/H5FPwzE8tx9h2ibqq4Rd6V9JMpDZFMM6RwFtRv3gdQhQ0OgcSzz16BR85QQD8BQhgh19LT0gLj5OaSIr9aqs56EiwBseuQHsJt+nC0wsMfF8E71iEg=;MIDXfB06VApCPutWfqHO8g=="
 ---

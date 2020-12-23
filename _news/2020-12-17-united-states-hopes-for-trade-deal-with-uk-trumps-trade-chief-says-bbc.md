@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "As Trump pushes baseless fraud claims, Republicans pledge tougher voting rules"
-    excerpt: "Republican state lawmakers have begun to use President Donald Trump’s baseless charges of voter fraud to push for new restrictions on voting."
-    publishedDateTime: 2020-12-21T17:34:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-voting-rules-insight-idUSKBN28V1DN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V1DN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V1DN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545334968&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK0QE"
-        width: 817
-        height: 545
-        isCached: true
   - title: "White House aides talked Trump out of last-minute demand for stimulus checks as big as $2,000"
     excerpt: "Advisers persuaded the president on Thursday not to announce support for significantly bigger stimulus payments."
     publishedDateTime: 2020-12-18T08:41:00Z
@@ -63,6 +47,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "House Dems' campaign chief a moderate who wins in Trump land"
+    excerpt: "Their dwindling majority in peril, House Democrats are entrusting their campaign operations to an analytical, openly gay moderate who’s been an attorney, businessman and five-time winner in his competitive congressional district."
+    publishedDateTime: 2020-12-13T04:42:00Z
+    webUrl: "https://www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "ZbwCaKKQ7c+hJ95kuzRZZXPENz8kNBifIDHbFk34Bg78r942kH3IBH7INEPN7W+eeDk0t7CHod9DwrTnbRB6lDUMxG1awOJR3yMOe0/i5rzxqvqlx4Du7wRzEMYhRv+9AGd3HOgFkH9Le5g7NmUlQutxVCT8Qv6EgCZiPQwkE2JUceLfFEU0taMt0seMbxQnQy34c3DyX3UW9qcLxKdHzu3hWI/G83v4gDHL9IPx+ESjUtsMZ1/V9woRkF76CNgykrASJ4TufuDTQFd9SHZ66zuoU/CKMlvJJP0NSebydZQsgQ0qGBo8wIWhdD2SlLvI8zd9D4jUoPrETfxcTJVQ0U+w0HsPgBPknoL0Zc5zCbUHmRUPgVoZS+JmvnGauJgKCOU2fRq2Xdp0eHESjeLW2j4HeatrkpbYuV475uXS2a5IgLbQU54oeW+pX4RJI1424ahbgVx05IcnjqXiRxZWCJKoYUpIsRo8tIj332MmsxHLKUM7O89LuwqpdvjW0oQFTdkEaELMUGhA3IGDPtixGA==;yhql4QV345gLgL/xsALQww=="
 ---

@@ -31,53 +31,115 @@ images:
     isCached: true
 
 related:
-  - title: "Trump reportedly limited US purchases of Pfizer vaccine when offered - live"
-    excerpt: "New York Times reports Trump passed on the offer in late summer and the company may not be able to provide more doses until next June"
-    publishedDateTime: 2020-12-08T00:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fcec0e68f0861e6ffe1e6e4"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+  - title: "Trump, ahead of FDA, says Moderna's COVID-19 vaccine has been approved"
+    excerpt: "U.S. President Donald Trump in a tweet on Friday said Moderna Inc's vaccine had been approved and would ship immediately, although the U.S. Food and Drug Administration has made no public announcement yet regarding its decision."
+    publishedDateTime: 2020-12-18T17:58:00Z
+    webUrl: "https://www.reuters.com/article/healthcoronavirus-moderna-trump/update-1-trump-ahead-of-fda-says-modernas-covid-19-vaccine-has-been-approved-idUSL1N2IY0Z4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S1NF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S1NF"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/730b1899663f9fe8321baaaff43b7fe1efd95b53/0_210_6016_3610/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a89c32dae22553d9c97145e7fb9681bb"
-        width: 600
-        height: 360
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545045397&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH11H"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Trump vaccine executive order raises questions after Pfizer offer declined"
-    excerpt: "The White House pushed back on reports the United States declined to buy more doses of a COVID-19 vaccine produced by Pfizer and its German partner BioNTech."
-    publishedDateTime: 2020-12-08T17:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-vaccine-executive-order-raises-questions-pfizer-offer/story?id=74604381"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-vaccine-executive-order-raises-questions-pfizer-offer/story?id=74604381"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-vaccine-executive-order-raises-questions-pfizer-offer/story?id=74604381"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 123
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-gty-jt-201208_1607443175602_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "The Trump administration is delivering on a 2020 vaccine, but not at the levels he suggested"
-    excerpt: "Many of the promises and projections that the Trump administration made on coronavirus vaccines have since been revised or contradicted by Trump officials or by President Trump himself."
-    publishedDateTime: 2020-12-10T16:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/?outputType=amp"
+  - title: "Georgia pastor and Trump adviser tests positive for COVID-19"
+    excerpt: "The leader of a north Georgia megachurch who has been a spiritual adviser to President Donald Trump has tested positive for COVID-19"
+    publishedDateTime: 2020-12-21T00:12:00Z
+    webUrl: "https://www.washingtonpost.com/health/georgia-pastor-and-trump-adviser-tests-positive-for-covid-19/2020/12/20/57d7f6ca-4320-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/georgia-pastor-and-trump-adviser-tests-positive-for-covid-19/2020/12/20/57d7f6ca-4320-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/georgia-pastor-and-trump-adviser-tests-positive-for-covid-19/2020/12/20/57d7f6ca-4320-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 114
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-10-2020/t_86660cef3e8b4d0e8383f3bbc5bc196b_name_20201209_TRUMP_VACCINE_V3.png&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Refuting Trump, FDA commissioner says vaccine could not have been authorized sooner"
+    excerpt: "In an interview with Fox News Saturday, Trump, after seeming to take credit for the speed of the vaccine's development, said that the Food and Drug Administration could have authorized the shot for emergency use \"last week."
+    publishedDateTime: 2020-12-13T14:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/this-week-stephen-hahn-02-ap-llr-201212_1607807457019_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump signs stopgap funding bill; Congress awaits his approval of $892 billion COVID aid"
+    excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week while Congress passed a massive COVID-19 aid and government funding package overnight aimed at bolstering the nation's pandemic response and its battered economy."
+    publishedDateTime: 2020-12-23T01:38:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUKKBN28W1KP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28W1KP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28W1KP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545494509&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL0XQ"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "American manufacturers pine for home as COVID disruptions, Trump tariffs shake up supplies"
+    excerpt: "President Trump's trade war was supposed to encourage American manufacturers to pack up their international operations and move home. Did it happen?"
+    publishedDateTime: 2020-12-18T05:48:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/12/18/covid-disruptions-trump-tariffs-make-u-s-manufacturers-pine-home/3851515001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3851515001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3851515001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/a991105e-7421-4d8a-9579-88bea40d37a1-daniel_burrows.png?auto=webp&crop=529,298,x0,y176&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Trump should take a COVID-19 shot to build confidence in the vaccine among his supporters, the White House coronavirus testing czar says"
+    excerpt: "President Donald Trump taking a vaccine would \"generate more confidence among the people who follow him so closely,\" Adm. Brett Giroir told ABC News."
+    publishedDateTime: 2020-12-21T12:34:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-vaccine-republicans-covid-shot-white-house-brett-giroir-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-vaccine-republicans-covid-shot-white-house-brett-giroir-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-vaccine-republicans-covid-shot-white-house-brett-giroir-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5fe07411c910a400192e8a16?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "2 former CDC officials say the Trump administration 'sidelined' science and hobbled the agency's COVID-19 response"
+    excerpt: "\"Every time that the science clashed with the messaging, messaging won,\" former CDC chief of staff Kyle McGowan told The New York Times."
+    publishedDateTime: 2020-12-16T16:20:00Z
+    webUrl: "https://www.businessinsider.com/former-cdc-officials-white-house-ignored-science-hamper-coronavirus-response-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+    images:
+      - url: "https://i.insider.com/5f1409983ad86150c86aeda5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "4t2W5jMRgRkX8+7C4k6vS7eCs1CmL5f4FFfXTFtQzmmE/TVnU4pV6TQR6DK4bA+/WaNxIvPQm+PTJagv+5oSAovJtqDoga+FSy0pjFQJu9NxmWO/z8v8RP0Xb1c576I7QFRRgMZBhVS4cQDOj/zhxaMQyGTImOEMqitOAxCUSmLYms/BGh0ffW2doZxC36uHnctaDxbFSCPRzgaGMuLVKyB2NkuvfnzED+Cn7E5mY2s6oQTMR8W0ay4QTu2wPzqe6vTZT0ihpxfb6AiJJ7sQYUXw3I4kZ+PT0DLloILwaoJC9ahZyRfcBeIJsYIWjSehCP/ufihx2I0F+xzwIrCtzIrDxfxvOGAx7/viRf2MeENIKW0CsyMCRaLFYJg2QUG0LB4hTxcJfqm3dIPGDoEEBbP1kTsKOnXe0k5UzFLVV3UC7FXItvinTqkhgPIt0fGO1MHpjGhVzOZUvqwh1heHskBMYLoPP4chp9w8RBPQbBmKtOK6DJ89UO9JnxvL2gxKiak8kQV786wb7dB7ZVnlgA==;4szid5YJiVyPxJUV70wRKQ=="

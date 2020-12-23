@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/video-mike-pence-coronavirus-vaccine
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-mike-pence-coronavirus-vaccine-live-tv-trump-hides-background-2020-12?amp"
 type: article
 quality: 130
-heat: 670
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,76 +31,220 @@ images:
     isCached: true
 
 related:
-  - title: "Trump suggests White House staff will wait longer for COVID-19 vaccines"
-    excerpt: "U.S. President Donald Trump suggested late Sunday that senior White House officials would wait longer for COVID-19 vaccines hours after media outlets reported senior officials were to receive doses within 10 days."
-    publishedDateTime: 2020-12-14T09:03:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-white-house-idUSKBN28N0UP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28N0UP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28N0UP"
+  - title: "Pence echoes Trump on election loss in West Palm speech to conservative youths"
+    excerpt: "Vice President Mike Pence on Tuesday echoed his boss' defiance in the face of re-election defeat during a speech to young conservatives."
+    publishedDateTime: 2020-12-23T02:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/22/pence-echoes-trump-election-loss-west-palm-beach-speech/4009750001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4009750001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4009750001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 161
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/22/NPPP/c746838d-da64-48c7-b8d9-8e81b70c838b-20201222_wpb_pence_029.JPG?auto=webp&crop=2499,1406,x1,y40&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump campaign launches yet another lawsuit over Pennsylvania election"
+    excerpt: "The outgoing president's legal team is petitioning the US Supreme Court to intervene over the state's rule for mail-in ballots."
+    publishedDateTime: 2020-12-20T22:53:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-launches-yet-another-lawsuit-over-pennsylvania-election-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-launches-yet-another-lawsuit-over-pennsylvania-election-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-launches-yet-another-lawsuit-over-pennsylvania-election-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 140
+    images:
+      - url: "https://i.insider.com/5fdfd440c910a400192e89c7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump campaign will again ask U.S. high court to upend election results"
+    excerpt: "President Donald Trump's campaign said on Sunday it would again ask the U.S. Supreme Court to overturn results from the Nov. 3 election, its latest long-shot effort to subvert the electoral process and sow doubt over the legitimacy of President-elect Joe Biden's victory."
+    publishedDateTime: 2020-12-21T02:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-court-idUSKBN28U0UJ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28U0UJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28U0UJ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 140
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201213&t=2&i=1544430348&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBC0I6"
-        width: 801
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201220&t=2&i=1545228483&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBJ0GH"
+        width: 819
         height: 545
         isCached: true
-  - title: "Covid: US Vice-President Mike Pence to receive vaccine"
-    excerpt: "President Mike Pence is to receive the coronavirus vaccine live on television at later on Friday. The White House said the aim of the move was to \"promote the safety and efficacy of the vaccine and build confidence among the American people\"."
-    publishedDateTime: 2020-12-18T11:31:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55362697"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55362697"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55362697"
+  - title: "Trump wants Supreme Court to overturn Pennsylvania election results"
+    excerpt: "The lawsuit also asks the high court to move swiftly so it can rule before Congress meets on Jan. 6 to tally the vote of the Electoral College."
+    publishedDateTime: 2020-12-20T22:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/20/trump-wants-supreme-court-overturn-pennsylvania-election-results/3985589001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3985589001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3985589001"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/17EF3/production/_116153089_tv063637087.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.gannett-cdn.com/presto/2020/12/20/USAT/027d7eec-c5bb-4c89-822d-c9ce89470666-AFP_AFP_8WZ9Y7.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Pence and top congressional leaders receive COVID-19 vaccines"
-    excerpt: "Vice President Mike Pence gets the coronavirus vaccine during a White House event aimed at convincing skeptical Americans that the vaccines are safe."
-    publishedDateTime: 2020-12-18T21:19:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/5dbe6e3/2147483647/strip/true/crop/5745x3752+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3f%2F7f%2F9241c9612bb0e6653a2902181a4d%2F5b44b76a9783455480d65d24435d21c8"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Trump, ahead of FDA, says Moderna's COVID-19 vaccine has been approved"
-    excerpt: "U.S. President Donald Trump in a tweet on Friday said Moderna Inc's vaccine had been approved and would ship immediately, although the U.S. Food and Drug Administration has made no public announcement yet regarding its decision."
-    publishedDateTime: 2020-12-18T17:58:00Z
-    webUrl: "https://www.reuters.com/article/healthcoronavirus-moderna-trump/update-1-trump-ahead-of-fda-says-modernas-covid-19-vaccine-has-been-approved-idUSL1N2IY0Z4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S1NF"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S1NF"
+  - title: "Trump campaign will again ask U.S. high court to upend election results"
+    excerpt: "President Donald Trump's campaign said on Sunday it would again ask the U.S. Supreme Court to overturn results from the Nov. 3 election, its latest long-shot effort to subvert the electoral process and sow doubt over the legitimacy of President-elect Joe Biden's victory."
+    publishedDateTime: 2020-12-21T16:09:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN28U0UJ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28U0UJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28U0UJ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 140
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545045397&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH11H"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545287871&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBJ0GH"
+        width: 819
         height: 545
         isCached: true
-  - title: "Georgia pastor and Trump adviser tests positive for COVID-19"
-    excerpt: "The leader of a north Georgia megachurch who has been a spiritual adviser to President Donald Trump has tested positive for COVID-19"
-    publishedDateTime: 2020-12-21T00:12:00Z
-    webUrl: "https://www.washingtonpost.com/health/georgia-pastor-and-trump-adviser-tests-positive-for-covid-19/2020/12/20/57d7f6ca-4320-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/georgia-pastor-and-trump-adviser-tests-positive-for-covid-19/2020/12/20/57d7f6ca-4320-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/georgia-pastor-and-trump-adviser-tests-positive-for-covid-19/2020/12/20/57d7f6ca-4320-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+  - title: "Trump entertains desperate schemes to overturn election"
+    excerpt: "President Donald Trump's unprecedented efforts to overturn the election received pushback from outgoing U.S. Attorney General Bill Barr."
+    publishedDateTime: 2020-12-22T02:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-entertains-desperate-schemes-overturn-election/story?id=74845068"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-entertains-desperate-schemes-overturn-election/story?id=74845068"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-entertains-desperate-schemes-overturn-election/story?id=74845068"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-army-navy-ap-jt-201221_1608577551294_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "How Trump drove the lie that the election was stolen, undermining voter trust in the outcome"
+    excerpt: "Trump media outfits and an assortment of state lawmakers and lawyers who gave oxygen to debunked allegations, the president persuaded millions of Americans that the vote was rigged."
+    publishedDateTime: 2020-12-20T22:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-election-voter-trust/2020/12/20/00282aa6-407a-11eb-8db8-395dedaaa036_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-election-voter-trust/2020/12/20/00282aa6-407a-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-voter-trust/2020/12/20/00282aa6-407a-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 129
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KJAFKBBBEQI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Senate Republican uses hearing to pursue baseless election fraud claims as Trump tweets approval"
+    excerpt: "A Senate Republican committee chairman used a hearing Wednesday to pursue baseless election fraud claims as Trump tweeted approval."
+    publishedDateTime: 2020-12-16T21:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/senate-republican-hearing-pursue-baseless-election-fraud-claims/story?id=74761509"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/senate-republican-hearing-pursue-baseless-election-fraud-claims/story?id=74761509"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/senate-republican-hearing-pursue-baseless-election-fraud-claims/story?id=74761509"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 127
+    images:
+      - url: "https://s.abcnews.com/images/Politics/ron-johnson-rt-jt-201216_1608143370616_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Donald Trump Retweets Leading Figure in QAnon Conspiracy Theory"
+    excerpt: "The QAnon online community has recently helped to spread unfounded allegations about Dominion voting machines."
+    publishedDateTime: 2020-12-15T10:01:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-retweets-leading-figure-qanon-conspiracy-theory-1554744"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-retweets-leading-figure-qanon-conspiracy-theory-1554744?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-retweets-leading-figure-qanon-conspiracy-theory-1554744?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1686095/trump-supporter-holding-qanon-flag.jpg"
+        width: 3000
+        height: 2001
+        isCached: true
+  - title: "Barr couldn't pass Trump's loyalty test: shredding the US constitution"
+    excerpt: "The attorney general, who acted as Trump’s enforcer with apparent relish, ultimately wouldn’t help him steal an election"
+    publishedDateTime: 2020-12-15T22:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/14/bill-barr-donald-trump-resignation-us-constitution"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/14/bill-barr-donald-trump-resignation-us-constitution"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/14/bill-barr-donald-trump-resignation-us-constitution"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/064f2374ecc80effe0f8ce0230b9f76755519c6d/0_264_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f5b9b34a80210227c43d3507ec49d8d6"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Mar-a-Lago neighbors to Trump: Spend your post-presidency elsewhere"
+    excerpt: "Lago, President Trump’s private club in Palm Beach, Fla., that he has called his Winter White House, have a message for the outgoing commander in chief: We don’t want you to be our neighbor. Support our journalism."
+    publishedDateTime: 2020-12-16T00:15:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/trump-mar-a-lago-neighbors-dispute/2020/12/15/bc2ce1d0-3ed4-11eb-9453-fc36ba051781_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/trump-mar-a-lago-neighbors-dispute/2020/12/15/bc2ce1d0-3ed4-11eb-9453-fc36ba051781_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-mar-a-lago-neighbors-dispute/2020/12/15/bc2ce1d0-3ed4-11eb-9453-fc36ba051781_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZTQ3QX744I6TC5LB7BATYDFVA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Ross Douthat column: Did the resistance defeat Donald Trump?"
+    excerpt: "Now that the Electoral College has voted and a Biden presidency seems essentially assured, let’s consider the best arguments for how and why the Resistance undid Trump."
+    publishedDateTime: 2020-12-15T16:23:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-resistance-defeat-donald-trump-20201215-6i3u43u5dzewnj65acafz5f3my-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-resistance-defeat-donald-trump-20201215-6i3u43u5dzewnj65acafz5f3my-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-resistance-defeat-donald-trump-20201215-6i3u43u5dzewnj65acafz5f3my-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/4nWU8fP8O9AuOEh9lRNgeFgQCms=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FTBYZYMTSXLIVZWLIVGG6NXO4E.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump's company ordered to give evidence to NY investigators"
+    excerpt: "A New York judge has ordered President Donald Trump’s company to give state investigators documents related to a suburban estate that’s the subject of a civil investigation into the family’s business"
+    publishedDateTime: 2020-12-15T23:50:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/trumps-company-ordered-give-evidence-ny-investigators-74748226"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trumps-company-ordered-give-evidence-ny-investigators-74748226"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trumps-company-ordered-give-evidence-ny-investigators-74748226"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "City to auction spot to push demolish button on Trump casino"
+    excerpt: "One of President Donald Trump’s former Atlantic City casinos will be blown up next month, and for the right amount of money, you could be the one to press the button that brings it down"
+    publishedDateTime: 2020-12-17T00:41:00Z
+    webUrl: "https://www.washingtonpost.com/national/city-to-auction-spot-to-push-demolish-button-on-trump-casino/2020/12/16/a454f34c-3fd6-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/city-to-auction-spot-to-push-demolish-button-on-trump-casino/2020/12/16/a454f34c-3fd6-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/city-to-auction-spot-to-push-demolish-button-on-trump-casino/2020/12/16/a454f34c-3fd6-11eb-b58b-1623f6267960_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -111,333 +255,655 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump, Pence, other top officials to be offered COVID-19 vaccine - source"
-    excerpt: "U.S. President Donald Trump, Vice President Mike Pence and other top U.S. officials will be offered the newly approved COVID-19 vaccine beginning Monday, according to a source familiar with the plans."
-    publishedDateTime: 2020-12-14T03:04:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-white-house/trump-pence-other-top-officials-to-be-offered-covid-19-vaccine-source-idUSL1N2IT0NP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IT0NP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IT0NP"
+  - title: "Implosion of former Trump casino pushed back a few weeks"
+    excerpt: "The implosion of one of President Donald Trump’s former Atlantic City casinos is being delayed by a few weeks. Atlantic City Mayor Marty Small said Thursday that the demolition company handling the job told the city the former Trump Plaza casino cannot be brought down as scheduled on Jan."
+    publishedDateTime: 2020-12-18T00:15:00Z
+    webUrl: "https://www.washingtonpost.com/national/implosion-of-former-trump-casino-pushed-back-a-few-weeks/2020/12/17/29f0e374-409c-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/implosion-of-former-trump-casino-pushed-back-a-few-weeks/2020/12/17/29f0e374-409c-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/implosion-of-former-trump-casino-pushed-back-a-few-weeks/2020/12/17/29f0e374-409c-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Mr. Trump could quell the violence"
+    excerpt: "The responsibility for the disgraceful vandalism and stabbings that took place in D.C. last weekend lies solely at the feet of President Trump, who continues to dangerously push the fantasy that he won the Nov."
+    publishedDateTime: 2020-12-17T22:00:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-trump-could-quell-the-violence/2020/12/17/a3e0f026-3efc-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-trump-could-quell-the-violence/2020/12/17/a3e0f026-3efc-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/mr-trump-could-quell-the-violence/2020/12/17/a3e0f026-3efc-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2I6A53BZSMI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump again threatens to veto defense bill in standoff with Congress"
+    excerpt: "The president has threatened to veto the National Defense Authorization Act, which passed Congress with a veto-proof majority."
+    publishedDateTime: 2020-12-17T16:50:00Z
+    webUrl: "https://www.cbsnews.com/news/national-defense-spending-bill-trump-veto-threat-not-issued-yet/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/national-defense-spending-bill-trump-veto-threat-not-issued-yet/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/national-defense-spending-bill-trump-veto-threat-not-issued-yet/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/12/9f041b88-1a5f-4dd5-9213-d06622116b6c/thumbnail/1200x630/6219b8c8009a7033546036bc1223f898/gettyimages-1230087931.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Turning Point USA: Will A-list conservative speakers admit Trump lost?"
+    excerpt: "Will speakers like Rudy Giuliani, Donald Trump Jr., Tucker Carlson and Laura Ingraham admit Trump lost when they speak at Turning Point USA?"
+    publishedDateTime: 2020-12-18T00:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/12/17/turning-point-usa-list-conservative-speakers-admit-trump-lost/3947267001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3947267001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3947267001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/03/NPPP/972af8b1-ed96-422c-b8cb-b9909a54a295-2019121_trump_saturday_010.JPG?auto=webp&crop=2099,1181,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "U.S. Supreme Court rules for Trump over census immigrant plan"
+    excerpt: "The U.S. Supreme Court on Friday threw out a lawsuit seeking to block President Donald Trump's plan to exclude immigrants living in the United States illegally from the population count used to allocate congressional districts to states."
+    publishedDateTime: 2020-12-18T15:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-census-idUSKBN28S240"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S240"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S240"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 119
-  - title: "Mike And Karen Pence Have Received The First Dose Of The COVID-19 Vaccine On Live TV"
-    excerpt: "Pence received the first dose of the vaccine as the virus rages across the county and kills about 3,000 people per day."
-    publishedDateTime: 2020-12-18T14:25:00Z
-    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/mike-karen-pence-pfizer-covid-19-vaccine"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/clarissajanlim/mike-karen-pence-pfizer-covid-19-vaccine"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/clarissajanlim/mike-karen-pence-pfizer-covid-19-vaccine"
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545054996&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH179"
+        width: 855
+        height: 545
+        isCached: true
+  - title: "House passes bill to avert government shutdown; Trump next"
+    excerpt: "WASHINGTON — The House passed a two-day stopgap spending bill Friday night to avert a partial government shutdown, trying to buy time for frustratingly slow endgame negotiations on an almost $1 trillion COVID-19 economic relief package."
+    publishedDateTime: 2020-12-19T00:21:00Z
+    webUrl: "https://www.washingtonpost.com/business/house-passes-bill-to-avert-government-shutdown-trump-next/2020/12/18/149de64a-418f-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/house-passes-bill-to-avert-government-shutdown-trump-next/2020/12/18/149de64a-418f-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/house-passes-bill-to-avert-government-shutdown-trump-next/2020/12/18/149de64a-418f-11eb-b58b-1623f6267960_story.html?outputType=amp"
     type: article
     provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 118
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-12/14/16/campaign_images/bae355bd64c3/white-house-officials-who-completely-mismanaged-t-2-7531-1607962561-15_dblbig.jpg"
-        width: 625
-        height: 415
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Vice President Mike Pence, wife Karen, receive COVID-19 vaccination on live television"
-    excerpt: "Vice President Mike Pence, wife Karen, receive COVID-19 vaccination on live television. Tool tells when you may be able to get a COVID-19 vaccine 24/7 coverage of breaking news and live events"
-    publishedDateTime: 2020-12-18T13:11:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/vice-president-mike-pence-wife-karen-receive-covid-74798346"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/vice-president-mike-pence-wife-karen-receive-covid-74798346"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/vice-president-mike-pence-wife-karen-receive-covid-74798346"
+  - title: "U.S. lawmakers say Trump administration giving few details on hack"
+    excerpt: "The Trump administration offered lawmakers few details about the recent hacking campaign against the U.S. Government, several members of Congress said on Friday following a classified briefing on the intrusion and calling for an in-person meeting."
+    publishedDateTime: 2020-12-18T20:57:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-cyber-breach-congress-idUSKBN28S26S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S27X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S27X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545058612&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH18V"
+        width: 797
+        height: 545
+        isCached: true
+  - title: "U.S. Supreme Court throws out challenge to Trump census immigrant plan"
+    excerpt: "The U.S. Supreme Court on Friday threw out a lawsuit seeking to block President Donald Trump's plan to exclude immigrants living illegally in the United States from the population count used to allocate congressional districts to states."
+    publishedDateTime: 2020-12-19T00:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-census-idUSKBN28S240"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S240"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S240"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545054996&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH179"
+        width: 855
+        height: 545
+        isCached: true
+  - title: "As end approaches, Trump gets doses of flattery, finality"
+    excerpt: "President Donald Trump’s administration is ending how it began, with over-the-top declarations of praise for the chief executive"
+    publishedDateTime: 2020-12-20T13:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/end-approaches-trump-doses-flattery-finality-74828438"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/end-approaches-trump-doses-flattery-finality-74828438"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/end-approaches-trump-doses-flattery-finality-74828438"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 117
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_78cad830aca04be7a1dba5a9bdf01109_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Pro-Trump shakeups continue at VOA's parent agency"
+    excerpt: "The head of U.S.-funded international broadcasting is pressing ahead with his shakeup of the Voice of America and sister outlets by naming new leaders for two of its main networks"
+    publishedDateTime: 2020-12-19T18:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pro-trump-shakeups-continue-voas-parent-agency-74811200"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pro-trump-shakeups-continue-voas-parent-agency-74811200"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pro-trump-shakeups-continue-voas-parent-agency-74811200"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8e72e544408c42f98a898fa65a9b4ec9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump downplays Russia in first comments on hacking campaign"
+    excerpt: "President Donald Trump is suggesting without evidence that China — not Russia — may be behind the the grave cyber espionage operation against the United States"
+    publishedDateTime: 2020-12-20T14:10:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/pompeo-russia-pretty-clear-cyberattack-us-74818065"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f1f342b60742421dbfda0a3d08fb281b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "China criticizes Trump suggestion it is behind cyber spying"
+    excerpt: "China’s government has criticized President Donald Trump’s suggestion that Chinese hackers, not Russia, might be behind a cyber espionage campaign against the United States"
+    publishedDateTime: 2020-12-21T15:22:00Z
+    webUrl: "https://www.washingtonpost.com/world/the_americas/china-criticizes-trump-suggestion-it-is-behind-cyber-spying/2020/12/21/6429afa8-4376-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/the_americas/china-criticizes-trump-suggestion-it-is-behind-cyber-spying/2020/12/21/6429afa8-4376-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/the_americas/china-criticizes-trump-suggestion-it-is-behind-cyber-spying/2020/12/21/6429afa8-4376-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "China criticizes Trump suggestion it is behind cyber spying"
+    excerpt: "China’s government has criticized President Donald Trump’s suggestion that Chinese hackers, not Russia, might be behind a cyber espionage campaign against the United States"
+    publishedDateTime: 2020-12-21T16:06:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/china-criticizes-trump-suggestion-cyber-spying-74839065"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/china-criticizes-trump-suggestion-cyber-spying-74839065"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/china-criticizes-trump-suggestion-cyber-spying-74839065"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Dominion worker sues Trump campaign and conservative media"
+    excerpt: "An election systems worker who was driven into hiding by death threats has filed a defamation lawsuit against President Donald Trump's campaign, lawyers Rudolph Giuliani and Sidney Powell, and some co"
+    publishedDateTime: 2020-12-23T00:45:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/dominion-worker-sues-trump-campaign-conservative-media-74870918"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/dominion-worker-sues-trump-campaign-conservative-media-74870918"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/dominion-worker-sues-trump-campaign-conservative-media-74870918"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
         isCached: true
-  - title: "Trump signs stopgap funding bill; Congress awaits his approval of $892 billion COVID aid"
-    excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week while Congress passed a massive COVID-19 aid and government funding package overnight aimed at bolstering the nation's pandemic response and its battered economy."
-    publishedDateTime: 2020-12-22T20:36:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress/trump-signs-stopgap-funding-bill-congress-awaits-his-approval-of-892-billion-covid-aid-idUSKBN28W1RV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W1RV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W1RV"
+  - title: "Trump issues flurry of pardons, commutations"
+    excerpt: "President Donald Trump on Wednesday issued a flurry of pardons and commutations to a slew of controversial figures with ties to his administration."
+    publishedDateTime: 2020-12-23T00:28:00Z
+    webUrl: "https://abcnews.go.com/US/trump-issues-flurry-pardons-commutations/story?id=74869694"
+    ampWebUrl: "https://abcnews.go.com/amp/US/trump-issues-flurry-pardons-commutations/story?id=74869694"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-issues-flurry-pardons-commutations/story?id=74869694"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545450408&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL0XQ"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/US/presidential-transition--donald-trump-unprecedented-05-gty-llr-201222_1608680228174_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump scraps plan to have top White House personnel among first vaccinated against COVID-19"
-    excerpt: "President scraps administration order saying they should get the shots along with frontline health workers and people in nursing homes and long-term care facilities."
-    publishedDateTime: 2020-12-14T12:29:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-rejects-early-covid-vaccination-plan-white-house-staff/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rejects-early-covid-vaccination-plan-white-house-staff/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rejects-early-covid-vaccination-plan-white-house-staff/"
+  - title: "Trump is still pinning his hopes on one last lawsuit in Michigan to overturn the presidential election"
+    excerpt: "President Donald Trump said a report written by his allies in a lawsuit over a small Michigan county's Marijuana measure reveals \"massive fraud.\""
+    publishedDateTime: 2020-12-17T00:08:00Z
+    webUrl: "https://www.businessinsider.com/trump-pins-election-hope-michigan-antrim-county-lawsuit-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-pins-election-hope-michigan-antrim-county-lawsuit-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pins-election-hope-michigan-antrim-county-lawsuit-2020-12?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 115
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/08/401aaaf8-9c1b-42f2-8222-dce3dee41a73/thumbnail/1200x630/f05ea69c149e05afcaf546d5740f12ca/cbsn-fusion-eye-opener-white-house-denies-rejecting-pfizer-offer-for-more-vaccines-thumbnail-603672-640x360.jpg"
+      - url: "https://i.insider.com/5fda9ea1c910a400192e7f63?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "American manufacturers pine for home as COVID disruptions, Trump tariffs shake up supplies"
-    excerpt: "President Trump's trade war was supposed to encourage American manufacturers to pack up their international operations and move home. Did it happen?"
-    publishedDateTime: 2020-12-18T05:48:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/12/18/covid-disruptions-trump-tariffs-make-u-s-manufacturers-pine-home/3851515001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3851515001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3851515001"
+  - title: "Trump rushes to dole out plum appointments to allies on way out the door"
+    excerpt: "While President Donald Trump has refused to acknowledge that he lost the election, he’s handling the lame-duck period as his predecessors did in one respect: awarding plum appointments to key allies,"
+    publishedDateTime: 2020-12-18T16:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-rushes-dole-plum-appointments-allies-door/story?id=74739837"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-rushes-dole-plum-appointments-allies-door/story?id=74739837"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-rushes-dole-plum-appointments-allies-door/story?id=74739837"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/white-house-appointments-05-gty-llr-201215_1608077457132_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Even as Trump vows to keep fighting, his aides are quietly starting to move on"
+    excerpt: "Chief of Staff Mark Meadows has discussed opening a consulting firm with other White House aides and allies. Support our journalism. Subscribe today. Top economic adviser Larry Kudlow has told friends he is planning to return to broadcasting,"
+    publishedDateTime: 2020-12-19T11:07:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-aides-new-jobs/2020/12/18/157a02e6-3fd8-11eb-a402-fba110db3b42_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-aides-new-jobs/2020/12/18/157a02e6-3fd8-11eb-a402-fba110db3b42_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-aides-new-jobs/2020/12/18/157a02e6-3fd8-11eb-a402-fba110db3b42_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WY5UZ3RZSMI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "McEnany: Trump 'still pursuing' election litigation"
+    excerpt: "Despite a solid Electoral College victory for Joe Biden, the White House is still refusing to accept the election results. Press Secretary Kayleigh McEnany described the Electoral College vote as just “one step in the constitutional process."
+    publishedDateTime: 2020-12-15T20:23:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/15/mcenany-trump-still-pursuing-election-litigation/3910237001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1b5d4396-2202-41ae-aa2d-5a0f84b95ca9_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump promises 'wild' protests in Washington DC on the day the Electoral College will finalize election results"
+    excerpt: "President Trump took to Twitter on Saturday to urge his followers to rally in Washington two weeks before Inauguration Day."
+    publishedDateTime: 2020-12-20T16:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-wild-protests-planned-day-of-electoral-college-vote-count-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-wild-protests-planned-day-of-electoral-college-vote-count-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-wild-protests-planned-day-of-electoral-college-vote-count-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5fdf47ebd366e600180992ff?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump wants Supreme Court to overturn Pa. election results"
+    excerpt: "President Donald Trump’s campaign says it has filed a new petition with the Supreme Court as it continues its unprecedented efforts to overturn the results of the Nov 3"
+    publishedDateTime: 2020-12-21T02:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+  - title: "Trump has threatened not to leave the White House on Inauguration Day, report says"
+    excerpt: "Few aides believe that Trump will actually follow through on that threat, according to the CNN report."
+    publishedDateTime: 2020-12-17T11:12:00Z
+    webUrl: "https://www.businessinsider.com/trump-reportedly-threatened-not-to-leave-white-house-on-inauguration-day2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-reportedly-threatened-not-to-leave-white-house-on-inauguration-day2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-reportedly-threatened-not-to-leave-white-house-on-inauguration-day2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5fdb2491d366e60018098917?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Mar-a-Lago neighbors say Trump forfeited right to live on estate once presidency ends"
+    excerpt: "President Trump forfeited his right to live at the estate in 1993 when he turned it into a private club, a lawyer tells the town of Palm Beach."
+    publishedDateTime: 2020-12-17T11:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/17/trumps-mar-lago-neighbors-dont-want-him-there-after-presidency/3937126001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3937126001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3937126001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/18/NPPP/da617525-710e-42f9-a4a9-01413d4a8efc-Trump_Thansgiving_15.jpg?auto=webp&crop=2399,1350,x0,y163&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Every single executive order and action Trump has signed in his 4 years as president"
+    excerpt: "President Donald Trump took a drastically different approach to executive orders, signing more than in four years than many presidents did in eight."
+    publishedDateTime: 2020-12-18T22:47:00Z
+    webUrl: "https://www.businessinsider.com/all-of-trumps-executive-actions-orders-memos-proclamations-interactive-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/all-of-trumps-executive-actions-orders-memos-proclamations-interactive-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/all-of-trumps-executive-actions-orders-memos-proclamations-interactive-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5fdcc370c910a400192e8482?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump stays on sidelines as vaccine injections begin"
+    excerpt: "President Donald Trump’s administration helped bring about vaccinations against the coronavirus earlier than even some of his own officials had hoped for"
+    publishedDateTime: 2020-12-18T05:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-stays-on-sidelines-as-vaccine-injections-begin/2020/12/18/3b26b7b6-40f3-11eb-b58b-1623f6267960_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/a991105e-7421-4d8a-9579-88bea40d37a1-daniel_burrows.png?auto=webp&crop=529,298,x0,y176&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Trump claimed that COVID-19 vaccine would have taken 'five years' to develop if he weren't president"
-    excerpt: "Trump's Operation Warp Speed has spent billions funding vaccine efforts, but Pfizer didn't take any federal money for research and development."
-    publishedDateTime: 2020-12-13T22:16:00Z
-    webUrl: "https://www.businessinsider.com/trump-claims-coronavirus-vaccine-five-years-if-he-werent-president-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-claims-coronavirus-vaccine-five-years-if-he-werent-president-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-coronavirus-vaccine-five-years-if-he-werent-president-2020-12?amp"
+  - title: "The Cybersecurity 202: Trump took the nation in the wrong direction on cybersecurity, experts say"
+    excerpt: "The president frequently undermined good cybersecurity work within the government, our Network respondents say."
+    publishedDateTime: 2020-12-15T12:54:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/15/cybersecurity-202-trump-took-nation-wrong-direction-cybersecurity-experts-say/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/15/cybersecurity-202-trump-took-nation-wrong-direction-cybersecurity-experts-say/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/15/cybersecurity-202-trump-took-nation-wrong-direction-cybersecurity-experts-say/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AVX4CSB3VEI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 1029
+        isCached: true
+  - title: "White House refuses to follow McConnell in acknowledging Trump's election defeat – live"
+    excerpt: "Asked about the electoral college vote, Kayleigh McEnany said: ‘The president is still involved in ongoing litigation related to the election’"
+    publishedDateTime: 2020-12-15T22:35:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates?page=with:block-5fd9342d8f08b0a99da972c1"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 112
+  - title: "GOP lawmakers are set to challenge states' Electoral College votes in a last-ditch attempt to overturn Trump's election defeat"
+    excerpt: "Majorities in the House and Senate are needed just to reject one state's electors, making the effort highly unlikely to overturn Trump's loss."
+    publishedDateTime: 2020-12-23T01:42:00Z
+    webUrl: "https://www.businessinsider.com/gop-reps-trump-challenging-electoral-votes-is-unlikely-to-succeed-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/gop-reps-trump-challenging-electoral-votes-is-unlikely-to-succeed-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-reps-trump-challenging-electoral-votes-is-unlikely-to-succeed-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5f50165c7ed0ee001e25d279?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump's former national security advisor says the president should impose martial law to force new elections in battleground states"
+    excerpt: "Flynn's remarks are not based in reality because Trump does not have the power to change the date of an election and the results have been certified."
+    publishedDateTime: 2020-12-18T15:24:00Z
+    webUrl: "https://www.businessinsider.com/michael-flynn-trump-military-martial-law-overturn-election-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/michael-flynn-trump-military-martial-law-overturn-election-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-flynn-trump-military-martial-law-overturn-election-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 110
     images:
-      - url: "https://i.insider.com/5fd6736de00bce00188bb12c?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5a2506e67101ad5c7d7f4e9d?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "WATCH LIVE: Pence leads COVID-19 vaccine roundtable discussion"
-    excerpt: "Vice President Mike Pence will lead a roundtable discussion on Operation Warp Speed Dec. 15 after touring a COVID-19 vaccine production facility in Bloomington, Indiana."
-    publishedDateTime: 2020-12-15T17:45:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-pence-leads-covid-19-vaccine-roundtable-discussion"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 105
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/assets/images/social-share.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump Says White House Officials Won't Be First To Receive COVID-19 Vaccine"
-    excerpt: "An administration spokesman said senior government officials would be among the first to get the vaccine, but the president himself later said that White House staff would get it later."
-    publishedDateTime: 2020-12-14T06:03:00Z
-    webUrl: "https://www.npr.org/sections/coronavirus-live-updates/2020/12/14/946142015/trump-says-white-house-officials-wont-be-first-to-receive-covid-19-vaccine"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 103
-    images:
-      - url: "https://media.npr.org/assets/img/2020/12/13/gettyimages-1230067031_wide-ce0413b079c5a9d14d96e3fb5b48ee1bfa0f4135.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "U.S. Congress passes nearly $900 bln COVID-19 aid bill, awaits Trump approval"
-    excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week after Congress passed a $892 billion COVID-19 aid package overnight that aims to shore up the nation's pandemic response and bolster the battered economy."
-    publishedDateTime: 2020-12-22T18:45:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-idUSL1N2J20U7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J20U7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J20U7"
+  - title: "Amazon cites Trump 'bias' in Pentagon deal loss"
+    excerpt: "Business Amazon cites Trump 'bias' in Pentagon deal loss. Posted . Amazon has urged a U.S. judge to toss out the Pentagon's $10 billion cloud computing contract with Microsoft, ar"
+    publishedDateTime: 2020-12-16T12:15:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD99HNYJ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 102
-  - title: "Trump should take a COVID-19 shot to build confidence in the vaccine among his supporters, the White House coronavirus testing czar says"
-    excerpt: "President Donald Trump taking a vaccine would \"generate more confidence among the people who follow him so closely,\" Adm. Brett Giroir told ABC News."
-    publishedDateTime: 2020-12-21T12:34:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-vaccine-republicans-covid-shot-white-house-brett-giroir-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-vaccine-republicans-covid-shot-white-house-brett-giroir-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-vaccine-republicans-covid-shot-white-house-brett-giroir-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
+    quality: 105
     images:
-      - url: "https://i.insider.com/5fe07411c910a400192e8a16?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://static.reuters.com/resources/r/?d=20201216&i=OVD99HNYJ&r=OVD99HNYJ&t=2"
+        width: 960
+        height: 540
         isCached: true
-  - title: "2 former CDC officials say the Trump administration 'sidelined' science and hobbled the agency's COVID-19 response"
-    excerpt: "\"Every time that the science clashed with the messaging, messaging won,\" former CDC chief of staff Kyle McGowan told The New York Times."
-    publishedDateTime: 2020-12-16T16:20:00Z
-    webUrl: "https://www.businessinsider.com/former-cdc-officials-white-house-ignored-science-hamper-coronavirus-response-2020-12"
+  - title: "Trump stays on sidelines as virus vaccine injections begin"
+    excerpt: "President Donald Trump’s administration helped bring about vaccinations against the coronavirus earlier than even some of his own officials had hoped for"
+    publishedDateTime: 2020-12-18T11:04:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-stays-sidelines-virus-vaccine-injections-begin-74796834"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/5f1409983ad86150c86aeda5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/Politics/WireAP_03219caa44f644e183f9c1f4832986f0_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Pence says he'll receive COVID-19 vaccine in 'the days ahead'"
-    excerpt: "Vice President Mike Pence said Tuesday he's looking forward to receiving the Pfizer-BioNTech COVID-19 vaccine in the \"days ahead ... without hesitation,\" and CNN's Kaitlan Collins later reported that two sources confirmed he would be inoculated by Friday."
-    publishedDateTime: 2020-12-15T23:22:00Z
-    webUrl: "https://theweek.com/speedreads/955399/pence-says-hell-receive-covid19-vaccine-days-ahead"
-    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/955399/pence-says-hell-receive-covid19-vaccine-days-ahead"
-    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/955399/pence-says-hell-receive-covid19-vaccine-days-ahead"
+  - title: "Irritated by loss, Trump avoids talk of future"
+    excerpt: "Top News Irritated by loss, Trump avoids talk of future. Posted [NFA] Hunkered down in what one former White House official called the “presidential man cave” of the Oval Offi"
+    publishedDateTime: 2020-12-18T21:14:00Z
+    webUrl: "https://www.reuters.com/video/watch/irritated-by-loss-trump-avoids-talk-of-f-id723222001"
     type: article
     provider:
-      name: THE WEEK
-      domain: theweek.com
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201218&i=OVD9JHNMN&r=OVD9JHNMN&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "SCOTUS tosses challenge to Trump census plan"
+    excerpt: "Top News SCOTUS tosses challenge to Trump census plan. Posted . The U.S. Supreme Court on Friday threw out a lawsuit seeking to block President Donald Trump's plan to exclude immi"
+    publishedDateTime: 2020-12-18T19:33:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD9JHLYJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201218&i=OVD9JHLYJ&r=OVD9JHLYJ&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Trump questions Russian involvement in hacking"
+    excerpt: "World Trump questions Russian involvement in hacking. Posted . U.S. President Donald Trump in his first comments about a widespread data breach across the U.S. government downplay"
+    publishedDateTime: 2020-12-19T23:20:00Z
+    webUrl: "https://www.reuters.com/video/watch/trump-questions-russian-involvement-in-h-id723253856?chan=8gwsyvzx"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201219&i=OVD9OH6U7&r=OVD9OH6U7&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Senate Passes Virus Relief; Sends Bill to Trump: Congress Update"
+    excerpt: "The Senate passed the massive year-end legislation combining $900 billion in pandemic relief with $1.4 trillion to fund federal agencies through fiscal 2021."
+    publishedDateTime: 2020-12-22T04:52:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/senate-passes-virus-relief-sends-bill-to-trump-congress-update/2020/12/21/0ec68d76-43f6-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AGB3XVCD6YI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump continues attempts to overturn election..."
+    excerpt: "Watch \"Trump continues attempts to overturn election results\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-21T12:22:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201221121207-trump-continues-attempts-to-overturn-election-results/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 100
+  - title: "Pence, Pelosi, McConnell receive COVID vaccine — but Trump still holding out"
+    excerpt: "Trump's apparent reluctance to get the shot comes as some of his most ardent supporters are making unfounded claims about the dangers of the vaccine."
+    publishedDateTime: 2020-12-18T20:09:00Z
+    webUrl: "https://www.nydailynews.com/coronavirus/ny-covid-vaccine-congress-trump-20201218-lxyk7c2g7zd53mrtpopohcajkq-story.html"
+    ampWebUrl: "https://www.nydailynews.com/coronavirus/ny-covid-vaccine-congress-trump-20201218-lxyk7c2g7zd53mrtpopohcajkq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ny-covid-vaccine-congress-trump-20201218-lxyk7c2g7zd53mrtpopohcajkq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 97
+    images:
+      - url: "https://www.nydailynews.com/resizer/lMhd4KHgmoITfmd4hKMJlahKPZA=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/WYGNJ57UZJCCXBMF25UWJXP7VY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump Has Reached the ‘Railing Against Mike Pence’ Bunker Phase"
+    excerpt: "And yet here, in the true final stages of the Trump presidency, we at last have evidence of genuine change. Trump’s mental decline may not be actually accelerating, but he is turning against his supporters in a sharp and distinctive fashion."
+    publishedDateTime: 2020-12-22T20:30:00Z
+    webUrl: "https://nymag.com/intelligencer/article/trump-election-coup-conspiracy-powell-pence-refuse-leave.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/trump-election-coup-conspiracy-powell-pence-refuse-leave.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-election-coup-conspiracy-powell-pence-refuse-leave.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/abd/af5/3630e1e6cf7e4cccc8f60dc8d6813962b7-trump-pence.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Time Trump Told Boy Scouts About Sexy Yacht Parties"
+    excerpt: "The president’s address to the Boy Scout Jamboree featured attacks on enemies and underlings, as well as risqué tales of his own greatness."
+    publishedDateTime: 2020-12-16T02:21:00Z
+    webUrl: "https://nymag.com/intelligencer/article/trump-boy-scout-jamboree-speech.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/trump-boy-scout-jamboree-speech.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-boy-scout-jamboree-speech.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
     quality: 75
     images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1289450908.jpg?itok=jgUbbyOD"
-        width: 840
-        height: 560
-        isCached: true
-  - title: "Mike Pence receives the COVID-19 vaccine"
-    excerpt: "Vice President Mike Pence and second lady Karen Pence both received a COVID-19 vaccine with cameras rolling on Friday to try to show the public that it’s safe and that Americans should get vaccinated when they can."
-    publishedDateTime: 2020-12-18T14:34:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/18/mike-pence-receives-covid-19-vaccine/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/18/mike-pence-receives-covid-19-vaccine/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/18/mike-pence-receives-covid-19-vaccine/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/18/Virus_Outbreak_Trump_84982.jpg-7a652_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+      - url: "https://pyxis.nymag.com/v1/imgs/eee/568/bbb59b0e7ed8eb2b4df67f90db6baef20e-that-happened-boyscouts.1x.rsocial.w1200.jpg"
         width: 1200
-        height: 700
+        height: 632
         isCached: true
-  - title: "Vice President Mike Pence, wife Karen get COVID-19 vaccine injections"
-    excerpt: "Vice President Mike Pence was vaccinated for COVID-19 on Friday in a live-television event aimed at reassuring Americans the vaccine is safe."
-    publishedDateTime: 2020-12-18T12:27:00Z
-    webUrl: "https://www.denverpost.com/2020/12/18/pence-wife-covid-19-vaccine/"
-    ampWebUrl: "https://www.denverpost.com/2020/12/18/pence-wife-covid-19-vaccine/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/12/18/pence-wife-covid-19-vaccine/amp/"
+  - title: "West Virginia’s electors cast votes for Trump, Pence"
+    excerpt: "West Virginia’s members of the Electoral College met on Monday with each member voting for President Donald Trump and Vice President Mike Pence. Secretary of State Mac Warner oversaw the vote, which took place at the state Capitol."
+    publishedDateTime: 2020-12-15T14:10:00Z
+    webUrl: "https://wvmetronews.com/2020/12/15/west-virginias-electors-cast-votes-for-trump-pence/"
     type: article
     provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 75
+      name: West Virginia MetroNews
+      domain: wvmetronews.com
+    quality: 70
     images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/12/Virus_Outbreak_Trump_53723.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+      - url: "https://wvmetronews.com/wp-content/uploads/2018/10/Vote-1.jpg"
+        width: 542
+        height: 350
         isCached: true
-  - title: "Watch live: Vice President Mike Pence receives COVID-19 vaccine"
-    excerpt: "Vice President Mike Pence and second lady Karen Pence will receive the COVID-19 vaccine at the White House Friday morning to build public confidence in its safety and efficacy."
-    publishedDateTime: 2020-12-18T12:59:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/12/18/Watch-live-Vice-President-Mike-Pence-receives-COVID-19-vaccine/3501608295566/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/18/VP-Mike-Pence-second-lady-surgeon-general-receive-COVID-19-vaccine/3501608295566/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/18/VP-Mike-Pence-second-lady-surgeon-general-receive-COVID-19-vaccine/3501608295566/"
+  - title: "Idaho’s 4 electors cast votes for Trump and Pence"
+    excerpt: "All four of Idaho’s Republican electors have cast their ballots for President Donald Trump and Vice President Mike Pence."
+    publishedDateTime: 2020-12-16T14:43:00Z
+    webUrl: "https://www.theolympian.com/news/politics-government/national-politics/article247837130.html"
+    ampWebUrl: "https://amp.theolympian.com/news/politics-government/national-politics/article247837130.html"
+    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/news/politics-government/national-politics/article247837130.html"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/3501608295566/2020/1/59fda84f453f60719ea98124860ab531/v1.5/VP-Mike-Pence-Speaker-Nancy-Pelosi-receive-COVID-19-vaccine.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Mike Pence doesn't faint, proving COVID-19 vaccine both safe and effective"
-    excerpt: "Vice President Mike Pence took to live television to take the coronavirus vaccine in his arm — and that’s some darn good leadership right there, indeed. Moreover, he didn’t faint. Even better leadership."
-    publishedDateTime: 2020-12-18T16:30:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/18/mike-pence-doesnt-faint-proving-covid-19-vaccine-b/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/18/mike-pence-doesnt-faint-proving-covid-19-vaccine-b/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/18/mike-pence-doesnt-faint-proving-covid-19-vaccine-b/"
+      name: The Olympian
+      domain: theolympian.com
+    quality: 70
+  - title: "VP Pence says they plan to keep fighting election"
+    excerpt: "Vice President Mike Pence told a group of young conservatives in Florida that the President's administration plans to keep fighting the election \"until every legal vote is counted\" and \"until"
+    publishedDateTime: 2020-12-23T00:19:00Z
+    webUrl: "https://www.stltoday.com/news/national/vp-pence-says-they-plan-to-keep-fighting-election/video_2008f519-17e9-5504-ad55-7ff77875f8e0.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/vp-pence-says-they-plan-to-keep-fighting-election/video_2008f519-17e9-5504-ad55-7ff77875f8e0.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/vp-pence-says-they-plan-to-keep-fighting-election/video_2008f519-17e9-5504-ad55-7ff77875f8e0.amp.html"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 73
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/18/virus_outbreak_trump_88698_c0-173-4149-2593_s1200x700.jpg?182726b57d40fa2e2c16843586536b48350944b6"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "'I didn't feel a thing.' Vice President Mike Pence gets COVID-19 vaccine on camera"
-    excerpt: "Vice President Mike Pence and his wife were vaccinated for COVID-19 at the White House to build public confidence in the vaccine."
-    publishedDateTime: 2020-12-18T15:48:00Z
-    webUrl: "https://www.statesman.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
-    ampWebUrl: "https://amp.statesman.com/amp/3948306001"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/3948306001"
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 70
+  - title: "Erasing Trump's Legacy With the Stroke of a Pen"
+    excerpt: "Joe Biden is hoping to lead in a manner that, unlike his recent predecessors, leans more on legislation and less on signing executive orders. But he may not have a choice."
+    publishedDateTime: 2020-12-18T11:04:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2020-12-18/the-trump-policies-biden-can-undo-by-executive-order"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-12-18/the-trump-policies-biden-can-undo-by-executive-order?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-12-18/the-trump-policies-biden-can-undo-by-executive-order?context=amp"
     type: article
     provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 69
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/18/USAT/2da82bdf-527e-4c45-9d7f-538ff0eada07-AFP_AFP_8XE32K.jpg?auto=webp&crop=3839,2160,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "'I didn't feel a thing.' Vice President Mike Pence gets COVID-19 vaccine on camera"
-    excerpt: "Vice President Mike Pence and his wife were vaccinated for COVID-19 at the White House to build public confidence in the vaccine."
-    publishedDateTime: 2020-12-19T00:50:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/?itm_source=parsely-api"
-    ampWebUrl: "https://amp.azcentral.com/amp/3948306001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3948306001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 69
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/18/USAT/2da82bdf-527e-4c45-9d7f-538ff0eada07-AFP_AFP_8XE32K.jpg?auto=webp&crop=3839,2160,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Pence looks forward to receiving COVID-19 vaccine"
-    excerpt: "Vice President Mike Pence says he looks forward in the days ahead to receiving a vaccine for COVID-19 and will do so without hesitation."
-    publishedDateTime: 2020-12-15T23:22:00Z
-    webUrl: "https://napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.html"
-    ampWebUrl: "https://napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.amp.html"
-    cdnAmpWebUrl: "https://napavalleyregister-com.cdn.ampproject.org/c/s/napavalleyregister.com/news/national/pence-looks-forward-to-receiving-covid-19-vaccine/video_fceb0140-ea66-5c81-beaf-faeb76340bb2.amp.html"
-    type: article
-    provider:
-      name: Napa Valley Register
-      domain: napavalleyregister.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
-  - title: "Vice President Mike Pence Receives COVID-19 Vaccine During Live Broadcast"
-    excerpt: "Vice President Mike Pence and second lady Karen Pence, seen here in a TV screen grab, received Pfizer's COVID-19 vaccine at the White House on Friday, December 18, 2020, in a bid to build public confidence in its safety and efficacy."
-    publishedDateTime: 2020-12-18T14:07:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/113d02f4017067be7d3e6860dd3c87a1/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
+  - title: "U.S. Supreme Court Throws Out Challenge to Trump Census Immigrant Plan"
+    excerpt: "The U.S. Supreme Court on Friday threw out a lawsuit seeking to block President Donald Trump's plan to exclude immigrants living in the United States illegally from the population count used to allocate congressional districts to states."
+    publishedDateTime: 2020-12-18T15:32:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-12-18/us-supreme-court-rules-for-trump-over-census-immigrant-plan"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-12-18/us-supreme-court-rules-for-trump-over-census-immigrant-plan?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-12-18/us-supreme-court-rules-for-trump-over-census-immigrant-plan?context=amp"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 54
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/113d02f4017067be7d3e6860dd3c87a1/PENCE-CORONAVIRUS-VACCINE.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "Mike Pence, Mitch McConnell, Nancy Pelosi all vaccinated Friday as COVID-19 vaccine rollout continues"
-    excerpt: "President Donald Trump’s administration helped deliver vaccinations against the coronavirus earlier than even some in his administration thought possible, but the president has been largely absent from the effort to sell the American public on what aides hope will be a key part of his legacy."
-    publishedDateTime: 2020-12-20T05:14:00Z
-    webUrl: "https://www.bostonglobe.com/2020/12/18/nation/trump-stays-sidelines-vaccine-injections-begin/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 40
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/9BcMhbQfJ0gLFDMCDoHCbA7AbiI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/KCJZ3GUIRIZF6G3PS6DZ4OEPAA.jpg"
-        width: 506
-        height: 337
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "odg2I/rKQPbgMQumv/TdeGMpy7imnMCaB4y08aGfYJhQBf2IJUkkIeUx37T326aAibLCOo7AowC85DaYxEonvUyF0LWQBJC9eVq9mG/YIKw4W8/kSch8K7ii1OJb4uU8MfE9+O1k/I4CsLdLaDDWB8j0hC3le65YHnJJXgIxT4NiPS1EUM4L2nxgAmU2Oc2Q8siB28EmlpU2QYCEI8LloXJ6XMloWD1JAUDQVPYe9ANo23XYmh8YFUzRI3MYUQNhIX1m5All6c1tGmUXY84k3sGJxcmPGLQjhMN7HxT9BC1rwxm+x1aI81sAmJUy8Xl1a3TVr+vJhVxyd6FiIKb1QgitnYusAqZ69wkONqTiZMy2JRNvJtRNBZ2KHdcWMGD8PsY4Ef4wNwmdxaOlACmDiqr+L7cSUC8xRNNXJ7z59aG2ircJYufix71VaCBAMYs295lc+AnzBeUz79V90N3c1oInahzVC9IGfSSMC5OgJx0ZUX5e8p/nLYgVcChfHl9lXUU68bT4ZsZFLNribxhcrQ==;5b5gZXFO5uiSPAjHSBEc8Q=="
 ---

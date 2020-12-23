@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Trump grants 15 pardons, 5 commutations"
-excerpt: ""
+excerpt: "President Trump issued full pardons to 15 individuals and commuted part or all of the sentences of an additional five people, the White House announced Tuesday."
 publishedDateTime: 2020-12-23T00:18:12Z
 originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4X-ugqKI64/trump-grants-15-pardons-5-commutations"
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4X-ugqKI64/trump-grants-15-pardons-5-commutations"

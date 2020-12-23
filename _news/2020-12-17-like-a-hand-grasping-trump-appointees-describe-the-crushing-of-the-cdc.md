@@ -49,35 +49,35 @@ related:
         isCached: true
   - title: "Trump: Classified material can be used in Durham probe"
     excerpt: "The special counsel investigating the origins of the FBI’s probe into the 2016 election now has the authority to use classified information indefinitely in his investigation, a procedural step followi"
-    publishedDateTime: 2020-12-23T00:25:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-classified-material-can-be-used-in-durham-probe/2020/12/22/9c883088-44b4-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-classified-material-can-be-used-in-durham-probe/2020/12/22/9c883088-44b4-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-classified-material-can-be-used-in-durham-probe/2020/12/22/9c883088-44b4-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    publishedDateTime: 2020-12-23T01:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-classified-material-durham-probe-74870547"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-classified-material-durham-probe-74870547"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-classified-material-durham-probe-74870547"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
-  - title: "Hacker Reveals Trump's Twitter Password And It's A Very Easy, Obvious One"
-    excerpt: "The cybersecurity researcher said it only took him five attempts to successfully log into President Donald Trump's Twitter account."
-    publishedDateTime: 2020-12-17T03:37:00Z
-    webUrl: "https://www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003"
-    ampWebUrl: "https://www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003?amp=1"
+  - title: "Florida’s Electoral College votes officially go to Trump and Pence"
+    excerpt: "Florida’s 29 Electoral College votes officially were cast for President Donald Trump and Vice President Mike Pence on Monday during a brief ceremony in the Senate chambers of the Capitol."
+    publishedDateTime: 2020-12-15T01:33:00Z
+    webUrl: "https://www.sun-sentinel.com/news/politics/os-ne-florida-senate-president-covid-20201214-mizjrtvgjvaobf7sbfgvdagxj4-story.html"
+    ampWebUrl: "https://www.sun-sentinel.com/news/politics/os-ne-florida-senate-president-covid-20201214-mizjrtvgjvaobf7sbfgvdagxj4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/politics/os-ne-florida-senate-president-covid-20201214-mizjrtvgjvaobf7sbfgvdagxj4-story.html?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 74
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 90
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/29/us-president-donald-trump-says-he-will-not.jpg"
-        width: 1024
-        height: 716
+      - url: "https://www.sun-sentinel.com/resizer/i9kUSPHXjws601q_x2SvnMb1Tlw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2IXB2MNHUR5TZX5IUO53ZBUGBM.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "INtb3NMNV48p4C8XqCzRsWAr2p+7DOGLp8ZdAQTfT95ch6MTj69+1tBOR77IJms9ufCdCnEBXn44JLDQ9jVI1VLcAWf4F+qampFipaKNvgvdm0W/8GmYmUzxYArxUQTpeKSAoUacYPoMEOJRedsPRw9pWRDT6usQQ17ucLrN2+iTAVWcnW2m6uCVunKow62HMfqKOIu8OYaWC7adD+olvs6KGvawLC7kLWOanRc8QuofCog6Q92B/9HjO0q1rl3hgm4N84lVwjHJWncs4ov0Q6g2SuHSJbx8kqAQdgnRpo9RdocX1QUeJOZOpqywBtdJxAQvPiEvEfqHRQFqPhwU30W1wvPxlSz0jDwgMzc0O2vV+4/024Bm00VWSqzph0/rStSTEvBDhfA4lR7ILMnCPfxMkMmmd84z42zRmerRufUimT9vdn5xdWXQaPvZylY0/iG4ZXy3qFcjcqAxcYQJ0IBH3DnqZ8oGTm2lXSkSOvT36BNz70CgorUO4HCmSs5buNc83tU4uyNP7TyZAKMqcw==;m8q2PNizHqe3ds/MSF8nUw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/coronavirus-pandemic-darkest-days-b
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/"
 type: article
 quality: 115
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biden warns \"darkest days\" of pandemic are still ahead"
+    excerpt: "President-elect Joe Biden warned that tens of thousands of more lives will be lost due to COVID-19, even with a vaccine. Nikole Killion reports."
+    publishedDateTime: 2020-12-23T00:39:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-warns-darkest-days-of-pandemic-are-still-ahead/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/23/eaa54dae-b3bb-4ee1-8a5a-2f3334df0a6e/thumbnail/1200x630/faca699237f4f387d8d9553e78c1b755/20201222-en-killion-replace-614816-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Coronavirus live news: Biden warns 'darkest days' ahead for US; UK reports another 691 deaths"
     excerpt: "Anthony Fauci ‘extremely confident’ in vaccine; BioNTech’s CEO says tests being run on mutant strain; Ireland to tighten restrictions from Christmas Eve"
     publishedDateTime: 2020-12-22T23:25:00Z

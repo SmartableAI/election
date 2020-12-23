@@ -47,22 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Mar-a-Lago neighbors say Trump forfeited right to live on estate once presidency ends"
-    excerpt: "President Trump forfeited his right to live at the estate in 1993 when he turned it into a private club, a lawyer tells the town of Palm Beach."
-    publishedDateTime: 2020-12-17T11:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/17/trumps-mar-lago-neighbors-dont-want-him-there-after-presidency/3937126001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3937126001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3937126001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/18/NPPP/da617525-710e-42f9-a4a9-01413d4a8efc-Trump_Thansgiving_15.jpg?auto=webp&crop=2399,1350,x0,y163&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump's would-be neighbors say he can't live at Mar-a-Lago post-presidency"
     excerpt: "The Post’s Carol D. Leonnig explains the difficulties President Trump will have if he claims Mar-a-Lago in Palm Beach, Fla., as his post-presidency residence."
     publishedDateTime: 2020-12-18T18:51:00Z
@@ -77,22 +61,15 @@ related:
         width: 1484
         height: 834
         isCached: true
-  - title: "Officials finally found a case of a dead person voting, accusing a Republican of pretending to be his dead mom to vote for Trump"
-    excerpt: "Bruce Bartman pretended to be his dead mom to cast a ballot for President Donald Trump, who lost the state anyway, prosecutors said."
-    publishedDateTime: 2020-12-22T00:59:00Z
-    webUrl: "https://www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12?amp"
+  - title: "South Carolina Electors Cast All 9 Votes for President Trump"
+    excerpt: "South Carolina’s nine presidential electors have officially voted for President Donald Trump and Vice President Mike Pence."
+    publishedDateTime: 2020-12-14T16:54:00Z
+    webUrl: "https://www.usnews.com/news/best-states/south-carolina/articles/2020-12-14/south-carolina-electors-cast-all-9-votes-for-president-trump"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/5fe123edc910a400192e8de7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "L7Zr4Df+OEI5sQKn+KGsmuXqKL4EfsFWKJLpuLFSpI5pRFEoXCfQtnIQHMjXE+5KmAR9x3IG6tHCJWdxdxz5MvJwFZ7TKpYN/+ZbmbKC6KxqZedM1A175h/dqy8yykySU8uflFFCo+3MOdJoBXj57SVRLfFp0Jc8P0Oyu9dnQXJb5sDejsPxPtAcKvKT0Fsw1jl+E+ruZbo1JSJBcpEZcfuOljLasVCOsN4Aw8BfThn0x61IPPY3bYzM/B2TDRz+jryts4s4ISp5XdLiXrECBA9V91pHQaeqao45hyvh6epj+SJ0PmQ6ttV6SKE7rXPpoH6E7djdTcaKjz00RfZnNkbBflT3kkakpojH2qNHg98=;fbjrMu5uad696vQaV3kwpg=="
 ---

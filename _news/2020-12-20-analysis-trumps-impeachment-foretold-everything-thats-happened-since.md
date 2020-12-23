@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump throws Covid relief bill in doubt by asking Congress to amend it"
+    excerpt: "President Donald Trump on Tuesday said he is asking for changes to the coronavirus relief bill passed by Congress, leaving the future of the $900 billion stimulus in question.\n    \n"
+    publishedDateTime: 2020-12-23T02:39:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vXJR6tL_kyM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/trump-coronavirus-relief-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/trump-coronavirus-relief-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222084821-01-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Former Trump appointee encouraged herd immunity strategy for Covid-19, internal emails reveal  "
     excerpt: "A former top Trump appointee urged health officials to adopt a \"herd immunity\" approach to Covid-19, according to internal emails obtained by the House Oversight Committee and shared with reporters.\n    \n"
     publishedDateTime: 2020-12-16T22:05:25Z

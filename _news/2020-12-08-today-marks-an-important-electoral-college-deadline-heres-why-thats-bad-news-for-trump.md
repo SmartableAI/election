@@ -31,33 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "Trump faces Dec. 23 deadline to veto - or sign - massive NDAA defense bill"
-    excerpt: "U.S. President Donald Trump has until Dec. 23 to decide whether to veto the $740 billion National Defense Authorization Act or allow the annual measure setting policy for the Department of Defense to become law,"
-    publishedDateTime: 2020-12-14T16:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-defense-congress/trump-faces-dec-23-deadline-to-veto-or-sign-massive-ndaa-defense-bill-idUSKBN28O26L?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O26L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O26L"
+  - title: "Trump expands his cable diet to Newsmax and OAN. They benefit and so does he."
+    excerpt: "Presidential praise has boosted ratings, and more viewers can then increase pressure on Republicans to back Trump’s false claims of election fraud."
+    publishedDateTime: 2020-12-14T02:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544521382&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD175"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V3ZFN5BLPAI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "House Dems' campaign chief a moderate who wins in Trump land"
-    excerpt: "Their dwindling majority in peril, House Democrats are entrusting their campaign operations to an analytical, openly gay moderate who’s been an attorney, businessman and five-time winner in his competitive congressional district."
-    publishedDateTime: 2020-12-13T04:42:00Z
-    webUrl: "https://www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
 
 secured: "8Wz1LwDOZmc4WkxskDjgkiFKXd7RQupGkplHpFO901WqdyWCsakOzIY34BQV5D0dOY8lXKCrRYD12/lLwJL0qYSuI4WtHIJ6UDXfvvXZckUw4EI2yydVKpnLiQrtmq7b3of9vOReHP/GmACfPS4PbMTpU7ojbRHXUv0cKh7jDK+K39FIOBM1WAG33/rE/JuDrN1qoVGU16I+VMM+eSaQgGM2U1d/Bj+X3uZQ6y5bijdCvR3Wk9PkuWLfT1K9sMfE5jj+/R0aBFpShevefhFN8m73sA7R7kPR6Vgr+J2KAPoCbQ9TObjUdvLRutKJRGKZQKnJ3MWcOLCLemHWSscJtvk+2wytqfJJZ1CL0pDqjhZ5Y7u5KnDElB9VbS+zUNgKQ5qyaXgqsnGDG5UwmPbFM1qT/InzL5MwO6uy1Y2D/QfHFnw7GMbnUlSqJGFvRkLTG4XH+QH8oZm+VvYv8LyuMuVh+54tIwgrievCN/t1My7cJAVh5XiFdXfKvpMihA1pHpSLFuQVVh99Y/KvkA21kQ==;Mz8LED9WvJ+L7GB/hFIIXg=="
 ---

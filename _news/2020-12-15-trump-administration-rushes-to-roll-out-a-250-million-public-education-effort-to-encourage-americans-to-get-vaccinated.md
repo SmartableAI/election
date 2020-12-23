@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump attacks Republicans while attending Army-Navy football game"
-    excerpt: "Navy football game this Saturday, President Trump tweeted attacks against fellow Republicans and allies who urge the President to accept the election results. Chip Reid has more."
-    publishedDateTime: 2020-12-13T00:10:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-attacks-republicans-while-attending-army-navy-football-game/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/13/7cbaa70c-b218-411b-8363-bc3da5691388/thumbnail/1200x630/2e13b0afd7921afd4ad282cebebdc306/cbsn-fusion-trump-attacks-republicans-while-attending-army-navy-football-game-thumbnail-607720-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Coronavirus live news: Donald Trump will 'absolutely' encourage Americans to take vaccine, says press secretary"
     excerpt: "EU to bring forward decision on Pfizer/BioNTech vaccine to 21 December; Turkey says 235 more people have died after a Covid diagnosis"
     publishedDateTime: 2020-12-15T19:27:00Z
@@ -76,22 +62,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/d5e96c76ef8c8e7c6c6beaab0a2736b4d19a9703/0_25_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=221db07b2862a04c278523814bee21e8"
         width: 600
         height: 360
-        isCached: true
-  - title: "Trump signs bill that could kick Chinese companies off US stock exchanges unless they agree to American accounting standards"
-    excerpt: "The Holding Foreign Companies Accountable Act gives Trump another tool to threaten Beijing with before leaving office in January."
-    publishedDateTime: 2020-12-18T23:37:00Z
-    webUrl: "https://www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
-    images:
-      - url: "https://i.insider.com/5f9c87d76f5b310011724a21?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "CNN's Jake Tapper thanks Trump for 'exposing' Republicans who supported Texas' 'un-democratic, un-American, mendacious joke of a lawsuit'"
     excerpt: "Tapper closed his show with a blistering attack on Trump and Republicans for their \"desperate desire to subvert the will of the American people.\""

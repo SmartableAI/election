@@ -125,6 +125,54 @@ related:
         width: 1024
         height: 665
         isCached: true
+  - title: "Trump blasts COVID-19 economic relief package and demands changes"
+    excerpt: "President Trump indicated Tuesday night that he would not sign the massive COVID-19 economic relief package, bringing new risk to the effort to provide financial aid to millions of Americans struggling during the pandemic."
+    publishedDateTime: 2020-12-23T02:11:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-blasts-covid-19-economic-relief-package-and-demands-changes/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-blasts-covid-19-economic-relief-package-and-demands-changes/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-blasts-covid-19-economic-relief-package-and-demands-changes/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/23/ac57d883-d8d2-4405-a4bf-18068bc6aead/thumbnail/1200x630/8586713d78108fbcf0144908b3c95136/screen-shot-2020-12-22-at-8-07-16-pm.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump suggests he might not sign COVID relief bill"
+    excerpt: "President Donald Trump is blasting the bipartisan $900 billion pandemic relief package that Congress just passed and is suggesting that he may not sign it"
+    publishedDateTime: 2020-12-23T01:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-suggests-he-might-not-sign-covid-relief-bill/2020/12/22/726634e0-44bd-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-suggests-he-might-not-sign-covid-relief-bill/2020/12/22/726634e0-44bd-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-suggests-he-might-not-sign-covid-relief-bill/2020/12/22/726634e0-44bd-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "U.S. Congress passes nearly $900 billion COVID-19 aid bill, awaits Trump approval"
+    excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week after Congress passed a $892 billion COVID-19 aid package overnight that aims to shore up the nation's pandemic response and bolster the battered economy."
+    publishedDateTime: 2020-12-22T14:41:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUKKBN28W1KP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28W1KP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28W1KP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545440994&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL0XQ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Coronavirus live news: Donald Trump Jr tests positive as Mexico deaths pass 100,000"
     excerpt: "Obrador rejects criticism as political attacks; Canada fears big rise in cases could overwhelm hospitals; Italy records 37,242 new cases"
     publishedDateTime: 2020-11-21T00:44:00Z
@@ -157,6 +205,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "COVID-19 stimulus deal remains elusive as Trump signs 2-day spending bill to avoid shutdown"
+    excerpt: "This short-term extension of government funding would be the second time Congress has punted a shutdown deadline this month."
+    publishedDateTime: 2020-12-20T08:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/18/covid-stimulus-update-lawmakers-prepare-fund-government-2-days/3940074001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3940074001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3940074001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/17/USAT/82478af1-0d25-4fa4-bd52-06c5186b4f99-AFP_AFP_8XA3VM.jpg?auto=webp&crop=1023,576,x0,y66&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "OAN, touted by Donald Trump for its 'Great News,' suspended from YouTube for COVID-19 misinformation"
     excerpt: "OAN, which had been warned about violating a COVID-19 misinformation policy, according to YouTube, won't be allowed to upload videos for one week."
     publishedDateTime: 2020-11-25T01:31:00Z
@@ -173,6 +237,45 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "$900B COVID relief bill passed by Congress, sent to Trump"
+    excerpt: "Congress passed a $900 billion pandemic relief package that would finally deliver long-sought cash to businesses and individuals and resources to vaccinate a nation confronting a frightening surge in COVID-19 cases and deaths."
+    publishedDateTime: 2020-12-22T18:14:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/congress-approves-900b-covid-relief-bill-sending-trump-74855580"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6b07d8103a4740c388083b5a1ac319ae_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "President Trump plans to sign COVID-19 stimulus bill"
+    excerpt: "Congress passed a $900 billion stimulus measure, which now heads to President Trump for a signature. CBS News White House correspondent Paula Reid joins CBSN with the latest."
+    publishedDateTime: 2020-12-22T16:24:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-administration-congress-covid-stimulus-checks/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/22/d6e84f35-0d29-47bb-96d1-7ad98a8382ec/thumbnail/1200x630/6625156b63f6488e13c098786be9eb7c/cbsn-fusion-trump-admin-prepares-to-distribute-stimulus-checks-thumbnail-614297-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "U.S. Congress passes nearly $900 bln COVID-19 aid bill, awaits Trump approval"
+    excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week after Congress passed a $892 billion COVID-19 aid package overnight that aims to shore up the nation's pandemic response and bolster the battered economy."
+    publishedDateTime: 2020-12-22T18:45:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-idUSL1N2J20U7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J20U7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J20U7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
   - title: "Judge stops Trump policy of ‘expelling’ child migrants, questioning legality of border controls linked to covid crisis"
     excerpt: "Decision could have wider implications for the Biden administration as illegal border crossings into the United States have risen to their highest levels in more than a year."
     publishedDateTime: 2020-11-18T20:40:00Z

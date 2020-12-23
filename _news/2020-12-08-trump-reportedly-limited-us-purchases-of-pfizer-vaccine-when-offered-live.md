@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-cov
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
 type: article
 quality: 123
-heat: 183
+heat: 143
 published: true
 
 provider:
@@ -46,38 +46,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-gty-jt-201208_1607443175602_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "The Trump administration is delivering on a 2020 vaccine, but not at the levels he suggested"
-    excerpt: "Many of the promises and projections that the Trump administration made on coronavirus vaccines have since been revised or contradicted by Trump officials or by President Trump himself."
-    publishedDateTime: 2020-12-10T16:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-10-2020/t_86660cef3e8b4d0e8383f3bbc5bc196b_name_20201209_TRUMP_VACCINE_V3.png&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Trump administration threatened to oust the head of the FDA if the Pfizer vaccine isn't cleared by the end of Friday, a new report says"
-    excerpt: "Dr. Stephen Hahn denied the report, telling Business Insider that \"this is an untrue representation of the phone call with the Chief of Staff.\""
-    publishedDateTime: 2020-12-11T21:45:00Z
-    webUrl: "https://www.businessinsider.com/white-house-reportedly-threatened-fda-hahn-pfizer-coronavirus-vaccine-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/white-house-reportedly-threatened-fda-hahn-pfizer-coronavirus-vaccine-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-reportedly-threatened-fda-hahn-pfizer-coronavirus-vaccine-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
-    images:
-      - url: "https://i.insider.com/5fd3c9b2e00bce00188bae82?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "T5mRyDKOCc4gkPZw8KHR9hNy78G9u2fFsK6CAZuIl1g3ExNkNqNfjH248kNgPBlchSlD2ebQx0NOjy4sbA2wxB95ZtMfVDzAKKbhHNboYDkENX0P7GhHch+9U9OmTR/B5CDPm6BiqYfh7t4dAQdXhpS7hq3mbwcPL7p/bQCOFnPTWtn/8rDlQCXx+7Xq5Fh5K1mPyUhhTUdcLU7Z8MllS4hoU1oaS6QNCtm17eczcf5KHOUOVH6SyK5R3b8SWkoYb/JoEW2fZeG77hAPRLj10TBuGoJTDLEUb0/ewx0fX6EuWfFSupoD1rH3/jCTAPmBdrAR37B1St7wBp/MNV/AIgH/3NhyNAGIw9BcMip29SQ=;foJMBEnkmZ4gDKqN2ONv/g=="

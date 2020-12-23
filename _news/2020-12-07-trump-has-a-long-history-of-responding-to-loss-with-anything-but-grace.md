@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Pro-Trump protests decry president's election loss, opposing groups clash in Washington"
+    excerpt: "Conservative groups claiming without evidence that the Nov. 3 election was stolen from President Donald Trump staged protests across the country on Saturday, with one in Washington turning violent at times as police broke up sporadic clashes after dark."
+    publishedDateTime: 2020-12-13T10:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-protests-idUSKBN28M0E5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28M0E5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0E5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 132
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201213&t=2&i=1544375607&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBC01C"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump and his allies have won zero out of at least 38 lawsuits they've filed since Election Day"
     excerpt: "Republicans have filed more than two dozen lawsuits since the election challenging the results. They've won zero."
     publishedDateTime: 2020-12-10T21:33:00Z
@@ -303,6 +319,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Thousands gather in Washington D.C. to show support for Trump"
+    excerpt: "Thousands descended on Washington D.C. Saturday for the second \"Million MAGA March\" in support of President Trump since he lost the presidential election. Metro Police confirmed Saturday afternoon there were some arrests,"
+    publishedDateTime: 2020-12-13T12:07:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-supporters-gather-washington-dc-million-maga-march/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-supporters-gather-washington-dc-million-maga-march/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-supporters-gather-washington-dc-million-maga-march/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/12/fb6fd6ee-39e7-41d1-a92f-ca7a9ef9f32f/thumbnail/1200x630/0044488bd243acc1a4c26b93c736cc95/rtx8fozw.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Watch Live: Trump does coin toss at Army-Navy Game"
     excerpt: "Navy coin toss before the game on Saturday afternoon. The event begins at 3:00 p.m. EST. Watch the live video above."
     publishedDateTime: 2020-12-12T20:06:00Z
@@ -318,6 +350,54 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald1_12052020_gettyimages.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Trump administration pushing delay in nursing home vaccinations"
+    excerpt: "HHS explicitly instructs providers that the \"earliest the program can turn on is Dec 21st\" for the Pfizer vaccine, according to Operation Warp Speed documents obtained by CBS News."
+    publishedDateTime: 2020-12-13T18:43:00Z
+    webUrl: "https://www.cbsnews.com/news/nursing-home-vaccinations-trump-administration-delay/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/nursing-home-vaccinations-trump-administration-delay/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/nursing-home-vaccinations-trump-administration-delay/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/01/66e738a1-0723-4f2c-946f-684ca4f443b9/thumbnail/1200x630/25f8279b568b0894653c9657e3ad7ae8/cbsn-fusion-modernas-covid-19-vaccine-looks-promising-for-elderly-thumbnail-558046-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump appoints flurry of allies as presidency winds down"
+    excerpt: "As he prepares to exit the White House, President Donald Trump is rewarding some supporters and like-minded allies with the perks and prestige that come with serving on federal advisory boards and com"
+    publishedDateTime: 2020-12-13T17:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-appoints-flurry-of-allies-as-presidency-winds-down/2020/12/13/909ef534-3d40-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-appoints-flurry-of-allies-as-presidency-winds-down/2020/12/13/909ef534-3d40-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-appoints-flurry-of-allies-as-presidency-winds-down/2020/12/13/909ef534-3d40-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Vandals hit Black churches during weekend of pro-Trump rallies in D.C."
+    excerpt: "Groups of people tore down a Black Lives Matter banner and sign from historic Black churches in downtown Washington and set one ablaze as nighttime clashes Saturday between pro-Donald Trump supporters and counterdemonstrators erupted into violence and arrests."
+    publishedDateTime: 2020-12-13T22:53:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-dc-rally-20201213-5auvq66dr5hj7d5ddkdwgdd634-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-dc-rally-20201213-5auvq66dr5hj7d5ddkdwgdd634-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-dc-rally-20201213-5auvq66dr5hj7d5ddkdwgdd634-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/VI8IeS9Zd9uLeA4mOSFZyqBnyqY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CUFJYWIJ7VKUIAOBAFJH2ERSS4.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Company targeted by vote fraud claims strikes back at Trump"
     excerpt: "The head of an electronic voting company being targeted by allies of President Donald Trump said baseless claims that it helped flip the 2020 election for Joe Biden threaten to undermine Americans’ fa"
@@ -335,21 +415,37 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Barr couldn't pass Trump's loyalty test: shredding the US constitution"
-    excerpt: "The attorney general, who acted as Trump’s enforcer with apparent relish, ultimately wouldn’t help him steal an election"
-    publishedDateTime: 2020-12-15T22:25:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/14/bill-barr-donald-trump-resignation-us-constitution"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/14/bill-barr-donald-trump-resignation-us-constitution"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/14/bill-barr-donald-trump-resignation-us-constitution"
+  - title: "Trump nominee takes seat at U.S. telecom regulator"
+    excerpt: "A senior Trump administration official who helped lead a regulatory effort seeking to rein in social media companies was sworn in to the five-member Federal Communications Commission (FCC) on Monday."
+    publishedDateTime: 2020-12-14T20:45:00Z
+    webUrl: "https://www.reuters.com/article/usa-tech-fcc-idUKKBN28O20B"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28O20B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28O20B"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/064f2374ecc80effe0f8ce0230b9f76755519c6d/0_264_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f5b9b34a80210227c43d3507ec49d8d6"
-        width: 600
-        height: 360
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544515179&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD13O"
+        width: 807
+        height: 545
+        isCached: true
+  - title: "U.S. finalizes shower head rule after Trump complaints about hair rinsing"
+    excerpt: "The U.S. Energy Department on Tuesday finalized two rules easing energy standards on consumer fixtures and appliances, including one on shower heads after President Donald Trump complained some showers don't adequately rinse his hair."
+    publishedDateTime: 2020-12-16T02:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-energy-efficiency-idUSKBN28P2XZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2XZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2XZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544679145&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1Q8"
+        width: 818
+        height: 545
         isCached: true
   - title: "Donald Trump Jr.'s Hunting Trip Expected to Start As Rumors Swirl in Alaska"
     excerpt: "In February, a week-long $150,000 \"dream hunt\" was raffled off with the winner joining Trump Jr. and his son on a yacht traveling along the Tongass National Forest coastline in southeastern Alaska."
@@ -399,6 +495,38 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump-appointed judge dismisses 'extraordinary' lawsuit seeking to overturn Wisconsin election in US court"
+    excerpt: "\"A sitting president who did not prevail in his bid for reelection has asked for federal court help in setting aside the popular vote,\" Ludwig wrote."
+    publishedDateTime: 2020-12-13T17:36:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/13/trump-appointee-brett-ludwig-tosses-wisconsin-election-lawsuit/6530303002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6530303002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6530303002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/10/PMJS/ee1680b4-5450-40a4-afa7-1023a5c58f66-Brett_Ludwig.jpg?auto=webp&crop=533,300,x0,y205&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump, Pence, Congress and Supreme Court will all be offered COVID-19 vaccine in coming days, officials say"
+    excerpt: "The shots will be offered to top personnel across all three branches of government, including the White House, Congress, and the Supreme Court, officials said."
+    publishedDateTime: 2020-12-13T22:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/13/trump-pence-congress-supreme-court-coronavirus-vaccine/6533449002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6533449002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6533449002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/13/USAT/a52e7e4e-e2be-44bf-87a8-e608c83418cc-GTY_1230113245.jpg?auto=webp&crop=3620,2036,x934,y796&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "U.S. Senate OKs stopgap funding bill to avoid gov't shutdown, sends to Trump"
     excerpt: "The U.S. Senate approved on Friday a temporary funding bill to keep the government open through Dec. 20, sending the measure to President Donald Trump for signing into law."
     publishedDateTime: 2020-12-19T05:10:00Z
@@ -430,6 +558,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/leaders-abraham-accords-gty-ps-201209_1607527065488_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "After Supreme Court dismisses Texas case, Trump says his efforts to challenge election results are ‘not over’"
+    excerpt: "In an interview that aired Sunday, the president repeated his false claims of election fraud and said his legal team will keep pursuing challenges — even as the electoral college meets Monday."
+    publishedDateTime: 2020-12-13T22:21:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-electoral-college-challenge/2020/12/13/9f536e2a-3d4a-11eb-8db8-395dedaaa036_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-electoral-college-challenge/2020/12/13/9f536e2a-3d4a-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-electoral-college-challenge/2020/12/13/9f536e2a-3d4a-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WWIBVWB5JQI6XDNYHFO63KVAGY.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "EXPLAINER: Trump's failing, monthlong fight against election"
     excerpt: "President Donald Trump's frantic effort in the courts to delegitimize an election he lost has come no closer in a month to reversing any results."
@@ -618,6 +762,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "With punt, Supreme Court largely ends Trump census plan to exclude immigrants lacking documentation"
+    excerpt: "The census ruling could leave the issue to Biden. Not counting people in the U.S. illegally would hurt California, costing it power and federal funds."
+    publishedDateTime: 2020-12-18T23:56:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-18/supreme-court-trumps-plan-to-exclude-undocumented-immigrants-from-census"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-18/supreme-court-trumps-plan-to-exclude-undocumented-immigrants-from-census?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-18/supreme-court-trumps-plan-to-exclude-undocumented-immigrants-from-census?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 111
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/72d0e40/2147483647/strip/true/crop/3202x2091+221+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2F3e%2F35667abb4e6df2caaf6d4482eb07%2F2b96aba14e2f46d8a6b672916ae376fc"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Trump campaign committees spent $1.1 million at Trump properties in the last days of his losing campaign"
     excerpt: "President Trump’s campaign and its affiliated committees spent more than $1.1 million at Trump’s own properties in the last weeks of the 2020 campaign, continuing a pattern during his presidency."
     publishedDateTime: 2020-12-04T22:50:00Z
@@ -664,6 +824,82 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Right wing and anti-Trump protesters clash in D.C."
+    excerpt: "Posted . Conservative groups claiming without evidence that the Nov. 3 election was stolen from President Donald Tru"
+    publishedDateTime: 2020-12-13T12:44:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPM9n?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fd603a1e4b04f7ff7c2d8ff-1607861153721?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Neighbors say Trump can't live at Mar-a-Lago"
+    excerpt: "Reports of a demand letter sent by Palm Beach residents attempting to bar President Donald Trump from living at his Mar-a-Lago resort."
+    publishedDateTime: 2020-12-18T15:30:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/18/neighbors-say-trump-cant-live-mar-lago/3926957001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/21e5eaf0-61d2-41d0-b1bd-742c198fc9ef_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Supreme Court won’t decide yet if Trump can exclude undocumented immigrants when allocating congressional seats"
+    excerpt: "The justices said in an unsigned opinion they are not deciding the merits in a case “riddled with contingencies and speculation.”"
+    publishedDateTime: 2020-12-18T18:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-census-undocumented-immigrants/2020/12/18/45223a82-413f-11eb-9453-fc36ba051781_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-census-undocumented-immigrants/2020/12/18/45223a82-413f-11eb-9453-fc36ba051781_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/supreme-court-census-undocumented-immigrants/2020/12/18/45223a82-413f-11eb-9453-fc36ba051781_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost%252Es3%252Eamazonaws%252Ecom%2Fpublic%2FJ4TLXLSBJQI6XDNYHFO63KVAGY%252Ejpg&w=1440"
+        width: 1440
+        height: 917
+        isCached: true
+  - title: "Spotted owls could go extinct without more federal protection. But they’re not going to get it, Trump officials say."
+    excerpt: "The northern spotted owl has lost 70 percent of its habitat to development and timber harvesting and could go extinct without added federal protection, the Trump administration announced Monday. But the owls won’t get it."
+    publishedDateTime: 2020-12-15T06:18:00Z
+    webUrl: "https://www.washingtonpost.com/climate-environment/2020/12/14/spotted-owls-could-go-extinct-without-more-federal-protection-theyre-not-going-get-it-trump-officials-say/"
+    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2020/12/14/spotted-owls-could-go-extinct-without-more-federal-protection-theyre-not-going-get-it-trump-officials-say/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2020/12/14/spotted-owls-could-go-extinct-without-more-federal-protection-theyre-not-going-get-it-trump-officials-say/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XK3E4OGTOUI6VATLZQ4U3ASOGU.jpg&w=1440"
+        width: 1440
+        height: 1014
+        isCached: true
+  - title: "Supreme Court rules it's too early to review Trump census plan to exclude undocumented immigrants from House redistricting"
+    excerpt: "The U.S. has always counted citizens and non-citizens for the purposes of redrawing congressional districts every 10 years."
+    publishedDateTime: 2020-12-18T19:00:00Z
+    webUrl: "https://www.cbsnews.com/news/supreme-court-census-ruling-too-early-undocumented-immigrants/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-census-ruling-too-early-undocumented-immigrants/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-census-ruling-too-early-undocumented-immigrants/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/18/598123c6-e9fc-4e7d-8df1-d6e7d1cf4237/thumbnail/1200x630g8/e12aa40557dbc7b3525ba6258ddd5da2/gettyimages-1230073815.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'The moment of truth': The Electoral College prepares to hand Trump the loss he refuses to accept"
     excerpt: "Facing a loss in the Electoral College, Trump's allies have shifted their focus to Jan. 6, when Congress will count the electoral votes."
     publishedDateTime: 2020-12-11T10:15:00Z
@@ -677,6 +913,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/3aff1be8-cc45-4ab8-9b34-bcb8535b15bb-six_certificates_.JPG?crop=5075,2855,x0,y0&width=3200&height=1680&fit=bounds"
         width: 2986
         height: 1680
+        isCached: true
+  - title: "Tennessee's 11 electors cast ballot for Trump, Pence"
+    excerpt: "Tennessee’s 11 representatives to the Electoral College on Monday cast their vote for President Donald Trump and Vice President Mike Pence."
+    publishedDateTime: 2020-12-14T23:51:00Z
+    webUrl: "https://thesouthern.com/news/national/govt-and-politics/tennessees-11-electors-cast-ballot-for-trump-pence/article_d92d21d3-6ed5-5560-b9ac-61d915a89876.html"
+    ampWebUrl: "https://thesouthern.com/news/national/govt-and-politics/tennessees-11-electors-cast-ballot-for-trump-pence/article_d92d21d3-6ed5-5560-b9ac-61d915a89876.amp.html"
+    cdnAmpWebUrl: "https://thesouthern-com.cdn.ampproject.org/c/s/thesouthern.com/news/national/govt-and-politics/tennessees-11-electors-cast-ballot-for-trump-pence/article_d92d21d3-6ed5-5560-b9ac-61d915a89876.amp.html"
+    type: article
+    provider:
+      name: The Southern Illinoisan
+      domain: thesouthern.com
+    quality: 90
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/thesouthern.com/content/tncms/assets/v3/editorial/d/22/d22b5bb6-ed77-52d8-b0f8-d0f087c90068/5fd7e3f8a2f77.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Senate Falls Short of Halting Trump's $23B Arms Sales to UAE"
     excerpt: "The Senate has fallen short of disapproving the Trump administration’s proposed $23 billion arms sales to the United Arab Emirates."

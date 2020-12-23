@@ -33,19 +33,19 @@ images:
 related:
   - title: "Trump: Classified material can be used in Durham probe"
     excerpt: "The special counsel investigating the origins of the FBI’s probe into the 2016 election now has the authority to use classified information indefinitely in his investigation, a procedural step followi"
-    publishedDateTime: 2020-12-23T00:25:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-classified-material-can-be-used-in-durham-probe/2020/12/22/9c883088-44b4-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-classified-material-can-be-used-in-durham-probe/2020/12/22/9c883088-44b4-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-classified-material-can-be-used-in-durham-probe/2020/12/22/9c883088-44b4-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    publishedDateTime: 2020-12-23T01:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-classified-material-durham-probe-74870547"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-classified-material-durham-probe-74870547"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-classified-material-durham-probe-74870547"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "‘Like a hand grasping’: Trump appointees describe the crushing of the CDC"
     excerpt: "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, were installed in 2018 as two of the youngest political appointees in the history of the world’s premier public health agency,"
@@ -63,21 +63,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Hacker Reveals Trump's Twitter Password And It's A Very Easy, Obvious One"
-    excerpt: "The cybersecurity researcher said it only took him five attempts to successfully log into President Donald Trump's Twitter account."
-    publishedDateTime: 2020-12-17T03:37:00Z
-    webUrl: "https://www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003"
-    ampWebUrl: "https://www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003?amp=1"
+  - title: "Florida’s Electoral College votes officially go to Trump and Pence"
+    excerpt: "Florida’s 29 Electoral College votes officially were cast for President Donald Trump and Vice President Mike Pence on Monday during a brief ceremony in the Senate chambers of the Capitol."
+    publishedDateTime: 2020-12-15T01:33:00Z
+    webUrl: "https://www.sun-sentinel.com/news/politics/os-ne-florida-senate-president-covid-20201214-mizjrtvgjvaobf7sbfgvdagxj4-story.html"
+    ampWebUrl: "https://www.sun-sentinel.com/news/politics/os-ne-florida-senate-president-covid-20201214-mizjrtvgjvaobf7sbfgvdagxj4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/politics/os-ne-florida-senate-president-covid-20201214-mizjrtvgjvaobf7sbfgvdagxj4-story.html?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 74
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 90
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/29/us-president-donald-trump-says-he-will-not.jpg"
-        width: 1024
-        height: 716
+      - url: "https://www.sun-sentinel.com/resizer/i9kUSPHXjws601q_x2SvnMb1Tlw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2IXB2MNHUR5TZX5IUO53ZBUGBM.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "IzC6+dZfxFd1xlu2jFkrbHNnFuSzQk+nn4Gy+IZyP/1pslXvc8djeiMGJyJioI5Hpf+bUyEXHe/vBVfXO2qn0c752YvFzb1kmUWkWDr/jDW+jOb1xUiu4Bv1SMqB4D15VBvW3zrIUpTw9stkjD+KuDBVORdeu5YRrNSQzB23kiRK+SL0jGVDsjVyz7gj7APMf+tM1uFbzWoXInVXyR2KzHxM7WdUntszHT5tsPgeJO8v3t5KSM382qtWdoh1g4VIvP2EsxzbAWbIT2YbJtuaBwNGo/M2H/p/8Rwk4+lyD8YjV+ib9pGGeFhIDsaJg+TL1Yp8zWuxfcWnWDrEviootsfRz18E3A6IPVVVv4lKrGA=;JgOq8Pvkbhi194ANqZ1row=="

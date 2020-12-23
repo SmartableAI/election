@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump attacks Republicans while attending Army-Navy football game"
-    excerpt: "Navy football game this Saturday, President Trump tweeted attacks against fellow Republicans and allies who urge the President to accept the election results. Chip Reid has more."
-    publishedDateTime: 2020-12-13T00:10:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-attacks-republicans-while-attending-army-navy-football-game/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/13/7cbaa70c-b218-411b-8363-bc3da5691388/thumbnail/1200x630/2e13b0afd7921afd4ad282cebebdc306/cbsn-fusion-trump-attacks-republicans-while-attending-army-navy-football-game-thumbnail-607720-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Coronavirus live news: Donald Trump will 'absolutely' encourage Americans to take vaccine, says press secretary"
     excerpt: "EU to bring forward decision on Pfizer/BioNTech vaccine to 21 December; Turkey says 235 more people have died after a Covid diagnosis"
     publishedDateTime: 2020-12-15T19:27:00Z
@@ -92,22 +78,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/vhYxJnm77JRG0ft5QUfsg3oZUCk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VK557JGXCB74AHEZ4WDSK7AYNU.jpg"
         width: 1200
         height: 801
-        isCached: true
-  - title: "Trump signs bill that could kick Chinese companies off US stock exchanges unless they agree to American accounting standards"
-    excerpt: "The Holding Foreign Companies Accountable Act gives Trump another tool to threaten Beijing with before leaving office in January."
-    publishedDateTime: 2020-12-18T23:37:00Z
-    webUrl: "https://www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
-    images:
-      - url: "https://i.insider.com/5f9c87d76f5b310011724a21?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "rgGzPvVPJChAUQyr4zOl3sXUsDpn9UIHb/I8ft4Em8CFB4bs4p/8oQSMODnN7BVRS/ZCB8NNkvDh+dE0JBTZdSLwKcDCN2cbAiay/XdYuybHpcmgLmSCdfuvT7MKWGX00sbunWmRDAXRbcWinivuq34CUYZZterdpwMFPvWLmalfKM0PdldaVbUBQQHpWWuaH1pwg7ojUc/7S0YU8D8eZ2vFME97P900RL5Zk49xfs9z3G89n9Y22LF3UOIXpzCGs7v7yTt3M57bvCkPouq0Es1BwHAyh1gcohf47vxiDDLFr5etsqlHaVviKe3MeLFPvir4ieoJlxJq8LXfjE9EPTcFKs6BC2UWNWq2cqOtfso=;jajwkqHv1cELVKOSEg0Vyg=="

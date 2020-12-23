@@ -45,6 +45,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden, fresh off Electoral College win, accuses Trump of \"unprecedented assault on democracy\""
+    excerpt: "President-elect Joe Biden accused President Trump of an \"unprecedented assault on democracy\" in a speech Monday night hours after the Electoral College formalized his victory. Mr. Trump has refused to concede the election and has tried repeatedly to use the courts to challenge the results without success."
+    publishedDateTime: 2020-12-15T12:32:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-president-elect-speech-trump/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-president-elect-speech-trump/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-president-elect-speech-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 129
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/15/cf2a5f9d-4a6a-4664-a4ea-297853bf8e72/thumbnail/1200x630/b0818684b059c2d2959006c2524eed98/biden.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'Unconscionable': Biden criticises Trump while accepting electoral college victory – live updates"
     excerpt: "President-elect says ‘urgent work in front of all of us’ as Covid deaths reach 300,000"
     publishedDateTime: 2020-12-15T12:16:00Z
@@ -181,22 +197,6 @@ related:
     quality: 98
     images:
       - url: "https://www.chicagotribune.com/resizer/mVKDeiI_tbtsz9ltNU4LRwQzHkM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3ZZBBPTT2T7ZITS4HOPCBZGPRI.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Pence, Pelosi, McConnell receive COVID vaccine — but Trump still holding out"
-    excerpt: "Trump's apparent reluctance to get the shot comes as some of his most ardent supporters are making unfounded claims about the dangers of the vaccine."
-    publishedDateTime: 2020-12-18T20:09:00Z
-    webUrl: "https://www.nydailynews.com/coronavirus/ny-covid-vaccine-congress-trump-20201218-lxyk7c2g7zd53mrtpopohcajkq-story.html"
-    ampWebUrl: "https://www.nydailynews.com/coronavirus/ny-covid-vaccine-congress-trump-20201218-lxyk7c2g7zd53mrtpopohcajkq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ny-covid-vaccine-congress-trump-20201218-lxyk7c2g7zd53mrtpopohcajkq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 97
-    images:
-      - url: "https://www.nydailynews.com/resizer/lMhd4KHgmoITfmd4hKMJlahKPZA=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/WYGNJ57UZJCCXBMF25UWJXP7VY.jpg"
         width: 1200
         height: 800
         isCached: true

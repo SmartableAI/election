@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/worst-place-worst-time
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/worst-place-worst-time-trump-faces-virus-spike-74673175"
 type: article
 quality: 125
-heat: 225
+heat: 205
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://i.insider.com/5fd490e39cf1420018d2f063?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "West Virginia’s electors cast votes for Trump, Pence"
-    excerpt: "West Virginia’s members of the Electoral College met on Monday with each member voting for President Donald Trump and Vice President Mike Pence. Secretary of State Mac Warner oversaw the vote, which took place at the state Capitol."
-    publishedDateTime: 2020-12-15T14:10:00Z
-    webUrl: "https://wvmetronews.com/2020/12/15/west-virginias-electors-cast-votes-for-trump-pence/"
-    type: article
-    provider:
-      name: West Virginia MetroNews
-      domain: wvmetronews.com
-    quality: 70
-    images:
-      - url: "https://wvmetronews.com/wp-content/uploads/2018/10/Vote-1.jpg"
-        width: 542
-        height: 350
         isCached: true
 
 secured: "rV8yOtdLujKeIjyMf+5ikXiMiH4J1kyE2VZ+05ir4kFGpL63ydAONOrZ7b1SVql8zRqGr2Sfb7VMxmsQDZoDIkOe7T3trR/svAghXU0QTJaErFr55JU+28BRKVbxI3jzA9H7hNRrr15MNobxkkCwJmExL6cI6SfPep54XKhZQghPv7XtSUfWNxn6K3IO+cBpscSHiJleSAN0tA0TVrOQelVucd53vh/34Tv00vwJRYDQJQMC5j2Are/r+jjLS98sq3GiAVaZhN6wo3SpyVprZCHPCNZCkXFSSLcia1MLk6OFE4AvzuEKiHzRssZFlWI1Uc7UIpD7mGujCp+XPTAu6z+b6dC0eGdVckl9aQuuaPk=;ZlujNu71Mj8sldkxorjmuA=="

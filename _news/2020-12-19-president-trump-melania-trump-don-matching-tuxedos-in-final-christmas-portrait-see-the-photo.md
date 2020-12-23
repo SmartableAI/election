@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Three Christmases: Highlights of Trump's previous Mar-a-Lago holiday stays"
+    excerpt: "Lago will have in store this year, but his previous holidays at the Southern White House have been notable and memorable. Trump arrived on Dec. 16 and departed on Jan. 1. On his way to Palm Beach, the president-elect first stopped in Orlando for a \"thank you\" rally for supporters."
+    publishedDateTime: 2020-12-23T02:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/22/president-donald-trumps-prior-mar-lago-holiday-vacations/3855759001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3855759001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3855759001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/22/NPPP/74095b5e-ff54-474c-871d-7364dab22c13-123116_NYE_lago_20.JPG?auto=webp&crop=2099,1181,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald and Melania Trump wear matching tuxedos in their final White House Christmas picture"
     excerpt: "The picture shows the Trumps smiling as they stand together on the Grand staircase in the White House, beneath festive Christmas decorations."
     publishedDateTime: 2020-12-19T12:28:00Z

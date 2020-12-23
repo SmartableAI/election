@@ -93,20 +93,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "West Virginia’s electors cast votes for Trump, Pence"
-    excerpt: "West Virginia’s members of the Electoral College met on Monday with each member voting for President Donald Trump and Vice President Mike Pence. Secretary of State Mac Warner oversaw the vote, which took place at the state Capitol."
-    publishedDateTime: 2020-12-15T14:10:00Z
-    webUrl: "https://wvmetronews.com/2020/12/15/west-virginias-electors-cast-votes-for-trump-pence/"
-    type: article
-    provider:
-      name: West Virginia MetroNews
-      domain: wvmetronews.com
-    quality: 70
-    images:
-      - url: "https://wvmetronews.com/wp-content/uploads/2018/10/Vote-1.jpg"
-        width: 542
-        height: 350
-        isCached: true
 
 secured: "MlQnE42cS7U3WHWXFMzVfh0N+baa5CWinLA6zT9mlxeTmYSLibGRlmfO6HzWtSufLtYSyGpPzP5hxQX9oyWor/gHwAcTQFrNCameQpAoTSx9F2MdWz4/po/0VwEOutqkvhgb+imaS9Nsq2k0sw9ls7PjZTqUh6F2RtIGVzQ02+5EONphqviyXULemY/gnCuwTZaq/Sen/JapRWRVh+W2kZQg9Hwgv0+mqmiTcFc7ObCEhJhphrR0BAFGOvnTr6i5KErzOAYuFjYD7TkrKueSQeN8r+nhmKyEzCftnOGUuRzd9BFKPqfsX9Q9jteik9dyOFJ5GlWvUyfb03QZgTh5q1pMXPIjXoVGv2m20LKJVyU=;+EASx5l6sY7DBNtLhBslGA=="
 ---

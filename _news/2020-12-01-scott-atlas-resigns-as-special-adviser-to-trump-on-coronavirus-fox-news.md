@@ -233,6 +233,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "U.S. Senate passes $892 bln coronavirus aid bill, sends to Trump to sign"
+    excerpt: "The U.S. Senate on Monday passed an $892 billion coronavirus aid package, throwing a lifeline to the nation's pandemic-battered economy, while also funding federal government activities through September 2021."
+    publishedDateTime: 2020-12-22T05:08:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-senate-idUSL1N2J206O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J206O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J206O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
   - title: "White House Trade Advisor Peter Navarrow Violates Hatch Act; Has President Trump?"
     excerpt: "The Office of Special Counsel found that White House trade advisor Peter Navarro violated the Hatch Act on multiple occasions."
     publishedDateTime: 2020-12-07T22:28:00Z

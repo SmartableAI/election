@@ -93,22 +93,6 @@ related:
         width: 1440
         height: 1080
         isCached: true
-  - title: "Alex Padilla becomes California’s first Latino U.S. senator, replacing Kamala Harris"
-    excerpt: "Padilla will be the first Latino to represent California in the U.S. Senate. He succeeds Kamala Harris, the newly elected vice president."
-    publishedDateTime: 2020-12-22T18:00:00Z
-    webUrl: "https://www.latimes.com/california/story/2020-12-22/gavin-newsom-alex-padilla-senate-california-kamala-harris"
-    ampWebUrl: "https://www.latimes.com/california/story/2020-12-22/gavin-newsom-alex-padilla-senate-california-kamala-harris?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-12-22/gavin-newsom-alex-padilla-senate-california-kamala-harris?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 118
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/44efb7f/2147483647/strip/true/crop/6271x4096+0+43/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff1%2Ff5%2F3007e50448f8b7e5ae317a32c9ed%2Fla-photos-1staff-642253-me-1030-pol-ca-newsom-17-cmc.jpg"
-        width: 320
-        height: 209
-        isCached: true
   - title: "Dianne Feinstein backs Alex Padilla for Kamala Harris’ Senate seat"
     excerpt: "Sen. Dianne Feinstein endorsed Alex Padilla to join her in the Senate, saying she has shared her support of the California secretary of state with Gov. Gavin Newsom. The governor must pick someone to fill out the remaining two years of Vice President-elect Kamala Harris’ term."
     publishedDateTime: 2020-12-03T19:41:00Z
@@ -217,7 +201,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Alex Padilla becomes California’s first Latino US senator, replacing Kamala Harris"
+    excerpt: "Alex Padilla, a Los Angeles Democrat who once developed software for satellites but later rose through local and state political office to become California secretary of state, was chosen Tuesday by Gov."
+    publishedDateTime: 2020-12-22T18:30:00Z
+    webUrl: "https://www.sfexaminer.com/news/alex-padilla-becomes-californias-first-latino-us-senator-replacing-kamala-harris/"
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 49
+    images:
+      - url: "https://www.sfexaminer.com/wp-content/uploads/2020/12/23720326_web1_201222-SFE-Padilla_1-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
-secured: "1YdhSQ6kZbmdv8sqLsiHjCegwzq8OFJ7fLckaXj27LNnLDWjVCki31d9MTQbBKfW+fhm9S3i78TA3dvc0zjt/6R5riAbrSXdUATgfNUTyt/DTGshNtMtJ7FclAxsdRi8FxJm2ti6/uuiDbmYVSzgOOlXtkcZcEHmNUI+xX8S/zxvFROJDHpSWCa9MMc9rZpnQXRpf/TZTwzIi+Cf3zR8gQDeqjlaFxKOy8HaKR3fQPhPACWAg5BERUSVu+xi495LXO9JISt+CEmFPHJUOIPuxgfTRiTvSZNmLo9YESdc1tmHcUiotqYlg0nR0atpsXlO3W5eie5lzWD0/wDOY9jp6c4Bi7+tadj6rYOvBhItXJs=;pMYdY5qOVZG0n4FITVRcLw=="
+secured: "TOpiJVaCqzsE2+GQ1ms7eaHY+a0Ashd/LERJhgZiPs1u8pXczRnfrwki+tWwub5rdpM/sGzCTvyo7ICBPD5j0IwSkC2TUxnD6mldlVqgMz4k+jM6EQ9NclS4nUn0DgdcnUT0a/77E0VSaa9p//gwGKUieEED1ozloynaou31f9YSEBj0srkA1U7glSBul9cXeIHQKwps4znkoVsHNJ5eowiZqToVv6NdsbR3KLDIjRoRlTPW3MnXa9bg6YDXmUIbtoB5FOLTmk+VnKJexoTafbJA8dyb2LlcY6Gj9VGybmOezndytZncRBKD+mOdvq4/rlwmDw0EFfwBgWGVMyeeUTp6HbY+r9qqEkTbOwIgNhoDWvynu1VJiGNeVfNuNCCMavjSiJIit/YB1zu3URJO6xOLRjU1aZS/41dS+B0U7zddDXzfgpunOxqMiX+ozbTIzDt1VkI/WD0yeukrVkSjXl9PdzhPsd4q/F86oNdl5uscBF/6i08KCotDzTeT1EkBuFls/FPLXsvrdwFNetTujw==;dqpfyvGUSiY4zP/clj7lGg=="
 ---
 

@@ -453,22 +453,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "The Cybersecurity 202: Trump took the nation in the wrong direction on cybersecurity, experts say"
-    excerpt: "The president frequently undermined good cybersecurity work within the government, our Network respondents say."
-    publishedDateTime: 2020-12-15T12:54:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/15/cybersecurity-202-trump-took-nation-wrong-direction-cybersecurity-experts-say/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/15/cybersecurity-202-trump-took-nation-wrong-direction-cybersecurity-experts-say/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/15/cybersecurity-202-trump-took-nation-wrong-direction-cybersecurity-experts-say/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AVX4CSB3VEI6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 1029
-        isCached: true
   - title: "'Honored to serve. We did it right': Top cybersecurity official fired by Trump via Twitter responds"
     excerpt: "Christopher Krebs defended CISA's work on election security. Lawmakers praised the director's work after Trump ousted him on Tuesday."
     publishedDateTime: 2020-11-19T00:36:00Z

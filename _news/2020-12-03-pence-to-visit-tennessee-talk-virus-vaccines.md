@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Pence plans visit to state to discuss virus vaccines"
-    excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss novel coronavirus vaccines as federal officials are expected to"
-    publishedDateTime: 2020-12-12T05:00:00Z
-    webUrl: "https://www.journalgazette.net/news/local/indiana/20201212/pence-plans-visit-to-state-to-discuss-virus-vaccines"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 35
 
 secured: "ho06jwWa2uX47FeoTPIEGxYzHssDCD68Kmb60CMefTRUDnWXcMLKBC3tFIDoxNG0Na0o835ApnfKbROk4t2eTbAp9Soxmcq0hj4OInjKt/ugmKvwpVY2Co3dX1Hpgvd6N4TSGTFoSw8EPmacAZXM+QNdnrt13zJIuUj7XBV4QBkF1lLQKAaJM16XjFaDOnVYueUdEmq2TRVDTbtUbVhQxSX3dYsPzagOXrtk46OaeVSP/+3Pgw5huB18Ju+PmtWg1MIpNp5t9z1qFZOwPcPObheUfQOO6EY+9ovYvvlll66l1qK9tKn2NyYT6YN7TEBPd0kc66mKUzJuIkpRbLjpxfy3gAcs3EXaCXuqAvcCyAs=;BGfXsGmfE0SoToOM4FNtUQ=="
 ---
