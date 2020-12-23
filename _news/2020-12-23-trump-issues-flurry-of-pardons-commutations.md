@@ -789,6 +789,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Odds for who Donald Trump will pardon before leaving office"
+    excerpt: "Before leaving office on January 21, 2021, Donald Trump has the ability to gift a presidential pardon to whomever he wants. Here are the odds for who Trump will pardon before his last day as president,"
+    publishedDateTime: 2020-12-22T21:59:00Z
+    webUrl: "https://www.chicagotribune.com/gambling/sns-donald-trump-pardon-odds-paul-manafort-steve-bannon-rudy-giuliana-julian-assange-joe-exotic-20201222-7pt4hgtt6zevdgpmsly7bjp2n4-photogallery.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 105
+    images:
+      - url: "https://www.chicagotribune.com/resizer/oBxAF1na49zhJ1IFbZjFID9ndoo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CG6CK7YSPNHAPPQUQ6BIYPBAFM.jpg"
+        width: 1200
+        height: 822
+        isCached: true
   - title: "Trump issues 15 presidential pardons"
     excerpt: "Watch \"Trump issues 15 presidential pardons that includes two for men convicted in the Russia probe and former congressmen and military contractors\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
     publishedDateTime: 2020-12-23T04:07:00Z
@@ -919,6 +933,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "4XZxy4uygtepTTx1IAFnS+FT52cbIub4v14TodCy4G94U76Zgx/l5clP5yfSdsnfM+sOOOxFI+9oJ7XCUCb6TgVdYTtcoLNIu9eBvel4Cl2GNoaoF8Nq1ezoFtOXVHlO82PG3xUlEoSHSYnXrR/3Uw9kygWbWSvhjRFYqJxPPzCv6oyPxydwsIy4D6B4xBWcMiEizalYCOgOeZo4OqtBQu4vtQk5K/nrigrafg9/xD5cOnBMV6h9Ji+9kC9dGkOqr1nYxmeYcJaWVEFcGU6RaFOyHtKFDstvKknLb1Kp+6ibK9W/umlBOOWi293xc0ZYB9tan6WchzkW3Qaz76fgfcHDcL1cerliPtQwCEgdRfs=;PE2qrZfZJsUm4AONPr1MLA=="
+secured: "d+3twyOCjlAZ9/s8NC4uhVhSC5fYlyOXtVLlUH/qumxprZPQy8UpcPRFkNWRu8FmQf2sNcXMT7L5ArCgVQ02v7LINQ8mmS8vt+g81Vrf3zptDT1chIa+1t/jqeIZWms4Y3H+ldnSdQYJnSaJZmRCa090i1ojahFgh9yua5qz5amrpdyB8uNehTrWVZQ3cZtHLgb3OaOM1bh8PldQgZ1w5DEDv2yFZ3D73oRu6hWx6kdlHCScEEgt3WfF/3tdnciHupIwqSrfluQ81p+4UUtpDE8AWFQmJ50LhcEV8+yJRZhzRNdPYS5YvU/wJPvbzk+f2XuJqQ+K/O3UjF0khLk6UoODxGm+9LoNneU6dP7Erp4rXmsxzMgc1p1gcrVxe6nTgbYSKkt5idk8groTTJ2l65tKLF+IsmzpR5EeOi7Y2D1/aeLbr5+nA46OC7yWG6NmB5xM5hlfxsmXwtsxchonTMvSqg9s17zl9pQfxpb5QP1O7IUYxH35MYR0hbRIVPoofPDd0fj8hIMGE71EqIDmCg==;AFon5GJ21gCorrbdXld1Sw=="
 ---
 

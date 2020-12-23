@@ -93,6 +93,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live Updates: Biden says it will take months to reverse Trump's immigration policies"
+    excerpt: "President-elect Joe Biden says he won’t roll back President Trump’s immigration restrictions \"on day one,\" but rather would take approximately six months to implement immigration reform policies in order to prevent triggering a surge of \"2 million people on our border.\""
+    publishedDateTime: 2020-12-23T05:59:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gQDs7DV__a8/live-updates-biden-transition-12-23-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-23-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-23-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17982449-b85a-4a77-a6be-96d8701ff3b2/70bb5fd8-6315-4a9d-bdfb-644b243e64ec/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Rep. Jim Jordan: Voters not knowing about Hunter Biden probe before election 'is just wrong'"
     excerpt: "The media and the American people should have known about the federal investigation into President-elect Joe Biden's son Hunter prior to last month's presidential election, Rep. Jim Jordan, R-Ohio, said on Friday."
     publishedDateTime: 2020-12-12T05:42:03Z

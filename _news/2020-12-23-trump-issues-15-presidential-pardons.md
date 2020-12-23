@@ -803,6 +803,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Odds for who Donald Trump will pardon before leaving office"
+    excerpt: "Before leaving office on January 21, 2021, Donald Trump has the ability to gift a presidential pardon to whomever he wants. Here are the odds for who Trump will pardon before his last day as president,"
+    publishedDateTime: 2020-12-22T21:59:00Z
+    webUrl: "https://www.chicagotribune.com/gambling/sns-donald-trump-pardon-odds-paul-manafort-steve-bannon-rudy-giuliana-julian-assange-joe-exotic-20201222-7pt4hgtt6zevdgpmsly7bjp2n4-photogallery.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 105
+    images:
+      - url: "https://www.chicagotribune.com/resizer/oBxAF1na49zhJ1IFbZjFID9ndoo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CG6CK7YSPNHAPPQUQ6BIYPBAFM.jpg"
+        width: 1200
+        height: 822
+        isCached: true
   - title: "Trump continues attempts to overturn election..."
     excerpt: "Watch \"Trump continues attempts to overturn election results\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-12-21T12:22:00Z

@@ -2,26 +2,30 @@
 category: news
 title: "California Secretary of State Alex Padilla appointed to replace Vice President-elect Kamala Harris in US Senate"
 excerpt: "California Gov. Gavin Newsom appointed Secretary of State Alex Padilla on Tuesday as the state’s next U.S. senator to fill the seat being vacated by Vice President-elect Kamala Harris."
-publishedDateTime: 2020-12-22T21:32:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
+publishedDateTime: 2020-12-22T20:32:00Z
+originalUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
+webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
+ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/5ATYffOF0ZO402fX-cvjaBMN16I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AQFJJLD55NDNPLXH2H6CLLNZWQ.aspx"
+  - url: "https://www.chicagotribune.com/resizer/5ATYffOF0ZO402fX-cvjaBMN16I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AQFJJLD55NDNPLXH2H6CLLNZWQ.aspx"
     width: 1200
     height: 675
     isCached: true
@@ -581,6 +585,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545332468&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK1BG"
         width: 896
         height: 545
+        isCached: true
+  - title: "Biden castigates Trump over recent cyberattack on U.S. government"
+    excerpt: "Biden accused Trump of “failure” in his handling of a recent cyberattack on the U.S. government, suggesting the president neglected his duty. The president-elect praised other Republicans, signaling he is looking ahead to the post-Trump era."
+    publishedDateTime: 2020-12-23T06:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-trump-cyberattack/2020/12/22/8db71566-446d-11eb-a277-49a6d1f9dff1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-cyberattack/2020/12/22/8db71566-446d-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-cyberattack/2020/12/22/8db71566-446d-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AL7YFFSEVEI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden: Reversing Trump border policies will take months"
     excerpt: "President-elect Joe Biden says it will take months to roll back some of President Donald Trump’s actions on immigration"
@@ -2781,6 +2801,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "JPXLJfNSwkEHzPvW3OKnifd8hdR1L4GRlbRzwrZCgnvjlrbycAsAosUtzDKtHThDDH4IyyQT0ORj8/WHV9haVWCI2abDkC4aWv1ygv4/CBkFxgRSkXZXs2PYWsrC/l7hpYzpYhvivQ8uWEYdPmHXN2do6ywYzXdL9h88gSM/eWOfqlj5ZVqh9m/L91mJeF2tCVa8VEwxSx9RlDpOmQVspPUSpdJPvgSgBhrVUVDjUIkoaYSdgUsInGafSJYGIOGrRRZ7JpgjPEJ4jNXPySKdPA4hR61ZQSp9l+ZrKe6yHKnjP5gxgi0Kpk5P/Ei/6DuytGHP1iBDXmi0CB1prP/ujGYdv11aQNQVgEodhlo7xPrFcIgr3FtEE1DUpy3h2WJXWgZ41mtnRE9e+vdBfWh+PGCjPvS3dttDocxgN99BKW7bbkOYsoibUDiC8Zd5uV9dR2chye2HAgaGx9MzTqBWet5TXwZbVALibDvVFM1WLB6XOqntGKHoGyJNtrQbBogFEBS/MP9XdzZLh+YIC3g3Zg==;9eEdlb4es9jWmwutHK4BWQ=="
+secured: "/55Ahy9h+QVgI8+clAnQO7iHlivJP1rjnL+NVWLk0L1Nz4cZfpa8PS285lhyz/SqLJ0alXyIbZCDaD6qIr1a4S5WPoQ2r6U1lU2xNwvLbDjfqWYUfBhuynCqAeNmFqBE2ybhcm5NMODjYhebjDtmQbGCiCpDEmwNq6rqLBWoNUlcxQawRYGe/NLgbhoGLNmVdB3AB0gnHscN6FO04/HQ/PL1TEXLx6xKP7hLGPAYBxr+BDdn2Lg4+fS4uQqmvsSsZjRWQaJLRH2TAqaBO5w96+Tsf2bZbVl9hdkOnnOTPDMfghxz64K9a/sdxrfmWpcF5GWSmXxzNNQDJRHpcC0Okl4UfAWGRlbJtMoiwLXH8Ew=;TlX8gLVbbgkPneBbSMU40A=="
 ---
 

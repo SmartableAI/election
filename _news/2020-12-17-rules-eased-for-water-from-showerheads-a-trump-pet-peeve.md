@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump's presidential legacy, by the numbers"
+    excerpt: "Presidential historians and others will plumb them as they assess President Donald Trump ’s legacy, Trump's presidency is reflected in a broad range of numbers representing everything from the U.S. death toll during the coronavirus pandemic to the miles of his “big,"
+    publishedDateTime: 2020-12-23T06:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-presidential-legacy-numbers-74874578"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-presidential-legacy-numbers-74874578"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-presidential-legacy-numbers-74874578"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_02c80f0ffd974b349dce990e511214f3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Most federal employees to get the day off Dec. 24 under Trump executive order"
     excerpt: "Trump follows a tradition of presidents excusing federal employees from work on the day before Christmas when the Christmas Day federal holiday falls on a Friday."
     publishedDateTime: 2020-12-14T16:54:00Z

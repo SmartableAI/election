@@ -45,6 +45,22 @@ related:
         width: 1440
         height: 970
         isCached: true
+  - title: "Biden's Latino education secretary to add to diverse Cabinet"
+    excerpt: "President-elect Joe Biden will add to the diversity of his incoming administration on Wednesday when he introduces Miguel Cardona as his choice for U.S. Secretary of Education."
+    publishedDateTime: 2020-12-23T06:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet/bidens-latino-education-secretary-to-add-to-diverse-cabinet-idUSKBN28X0JU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X0JU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X0JU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545523490&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM0AF"
+        width: 817
+        height: 545
+        isCached: true
   - title: "AG: 'No reason' for special counsel on election, Biden's son"
     excerpt: "Outgoing Attorney General William Barr said he saw “no reason” to appoint a special counsel on potential election fraud or the tax investigation into the son of President-elect Joe Biden."
     publishedDateTime: 2020-12-21T23:42:00Z

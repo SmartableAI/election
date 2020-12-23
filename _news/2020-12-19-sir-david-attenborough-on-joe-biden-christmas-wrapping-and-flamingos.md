@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/entertainment-arts-55042006"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/entertainment-arts-55042006"
 type: article
 quality: 124
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "'Darkest days ahead': Joe Biden gives sobering message on Covid – video"
+    excerpt: "Joe Biden said the US would have dark days ahead in tackling the coronavirus pandemic and things would get worse before they improved"
+    publishedDateTime: 2020-12-22T20:58:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2020/dec/22/darkest-days-ahead-joe-biden-gives-sobering-message-on-covid-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/bb7c716852214216bc58e718cbc21e4966cd6eb5/0_139_5746_3450/master/5746.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a08451ce165989766cb586154cbb2e8"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6joEYSjl7oVtCGt3gc2B9FERzoqLbrEQimGrrBc3L2bEuVK8YcWM1RbNCGkf4rw8vorDlh13Ij8eMKppdUN8jd7PfNP+3oDpglW0QFAXv+d+4DSS/0ynK9uxvE2xNleHS5blTW1TMpgCrmQMIVWUDwWjOShcp/Gsuwps9jFGekGyG5AfJIMKKFNT8EdB8agKcAltL6+8dk7xchZdJQ8wHEypD21fmv7X3XIy9tuWfn8NkFxSlHfHu1zjeYz1SopApikPJAQWUhmwJke1PKck+FpDc0dcoN5Si2JnQuDrPXrXmrtB0m70VgyQCp+eimbKXuLTzHnDgKCf4Y0IpU8s1vXB6vvx/2483jzBzMS4hByyyDsDrDCgia6o1NRzhpDM+HzXVEo2ClCnzO8iYysSZRRVqbmuGQ82OS9UWIKUoOo0tCkxtfdTQ3+dQZaOcHSm2IzW13grb41nOm2rG+IItpDHVjxGH3mmQpEMS/OBGJMY70cwEaacUvDPcvalz1NITrEdeOgr1735GdW8tVSYCQ==;IAh3mLUV7rretwTK8JuqPA=="
 ---

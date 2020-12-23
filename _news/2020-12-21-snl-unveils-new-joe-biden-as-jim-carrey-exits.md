@@ -43,6 +43,22 @@ related:
         width: 1440
         height: 970
         isCached: true
+  - title: "Biden's Latino education secretary to add to diverse Cabinet"
+    excerpt: "President-elect Joe Biden will add to the diversity of his incoming administration on Wednesday when he introduces Miguel Cardona as his choice for U.S. Secretary of Education."
+    publishedDateTime: 2020-12-23T06:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet/bidens-latino-education-secretary-to-add-to-diverse-cabinet-idUSKBN28X0JU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X0JU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X0JU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545523490&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM0AF"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Chris Ruddy: Newsmax calls the election for Joe Biden"
     excerpt: "Chris Ruddy, the CEO of Newsmax Media, has defended his US channel's post election coverage when President Donald Trump challenged the result. He told Hardtalk's Stephen Sackur: \"There is a media-spin that somehow we are trying to deny the election or as you say out-Trump,"
     publishedDateTime: 2020-12-16T16:11:00Z

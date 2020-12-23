@@ -580,6 +580,22 @@ related:
         width: 896
         height: 545
         isCached: true
+  - title: "Biden castigates Trump over recent cyberattack on U.S. government"
+    excerpt: "Biden accused Trump of “failure” in his handling of a recent cyberattack on the U.S. government, suggesting the president neglected his duty. The president-elect praised other Republicans, signaling he is looking ahead to the post-Trump era."
+    publishedDateTime: 2020-12-23T06:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-trump-cyberattack/2020/12/22/8db71566-446d-11eb-a277-49a6d1f9dff1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-cyberattack/2020/12/22/8db71566-446d-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-cyberattack/2020/12/22/8db71566-446d-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AL7YFFSEVEI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden: Reversing Trump border policies will take months"
     excerpt: "President-elect Joe Biden says it will take months to roll back some of President Donald Trump’s actions on immigration"
     publishedDateTime: 2020-12-23T00:11:00Z
@@ -1901,6 +1917,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "California Secretary of State Alex Padilla appointed to replace Vice President-elect Kamala Harris in US Senate"
+    excerpt: "California Gov. Gavin Newsom appointed Secretary of State Alex Padilla on Tuesday as the state’s next U.S. senator to fill the seat being vacated by Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-12-22T20:32:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 105
+    images:
+      - url: "https://www.chicagotribune.com/resizer/5ATYffOF0ZO402fX-cvjaBMN16I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AQFJJLD55NDNPLXH2H6CLLNZWQ.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris on Joe Biden, Being a 'First' and Restoring the Soul of the Nation: The 2020 TIME Person of the Year Interview"
     excerpt: "Kamala Harris is the first Vice President-elect to be named TIME’s Person of the Year. TIME senior correspondent Charlotte Alter sat down with the California senator in Wilmington, Del., on Dec. 7—which happened to be Harris’s mother’s birthday."
     publishedDateTime: 2020-12-12T22:44:00Z
@@ -2730,22 +2762,6 @@ related:
       - url: "https://d279m997dpfwgl.cloudfront.net/wp/2016/06/HereandNow-3000b.jpg"
         width: 3000
         height: 3000
-        isCached: true
-  - title: "California Secretary of State Alex Padilla appointed to replace Vice President-elect Kamala Harris in US Senate"
-    excerpt: "California Gov. Gavin Newsom appointed Secretary of State Alex Padilla on Tuesday as the state’s next U.S. senator to fill the seat being vacated by Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-12-22T21:32:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 55
-    images:
-      - url: "https://www.baltimoresun.com/resizer/5ATYffOF0ZO402fX-cvjaBMN16I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AQFJJLD55NDNPLXH2H6CLLNZWQ.aspx"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Joe Biden and Senator Kamala Harris Address the Nation"
     excerpt: "Senator Kamala Harris Speaks at Biden Campaign Event in Fort Worth, Texas. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a"

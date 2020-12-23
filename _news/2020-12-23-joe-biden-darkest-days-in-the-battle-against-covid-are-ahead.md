@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden: 'Darkest days in the battle against Covid are ahead'"
 excerpt: "Mr Biden, who is due to be sworn in next month, has made the fight against the virus a priority and promised to distribute 100m vaccine shots in his first 100 days in office. Biden: 'Darkest days' ahead in fight against Covid."
 publishedDateTime: 2020-12-23T01:54:00Z
-originalUrl: "https://www.bbc.com/news/av/world-us-canada-55419737"
-webUrl: "https://www.bbc.com/news/av/world-us-canada-55419737"
+originalUrl: "https://www.bbc.com/news/world-us-canada-55419737"
+webUrl: "https://www.bbc.com/news/world-us-canada-55419737"
 type: article
 quality: 105
 heat: -1
@@ -55,6 +55,6 @@ related:
       domain: theguardian.com
     quality: 94
 
-secured: "h6e64a0jTfWPMrsjY1JuOw+vNs0ZN6jOBOMsgzS2XEejujwPDBjQ3Y13Nkz7Vwwv7j87HIFijW17xxb0aNOXOU50gXz7h3AOkG1hSifhpt/S5XEBLiQIM9i0dH2nkqwNagnJw07JmU6V7AgGI16vIB6W8goAVOU1PURPK6DBGF5aN85LKuqocOwsBc0UdIpa325jK+95Y9s9pKIRsnwmiMeJy8lDBZkg6cVzmToSSw2f18PMLz3trxvN6Ibz07u/5FhvcwFqzfMZT/KZn3xeaZvI3eQ+agerrl/teZjL29OkYt3qUROS1Ze8AV2E8uDEjNAnKm2Q39HSoMnT3uWjcwbn0/wQvzvDRTVLFoN5uFs=;WsqikJ3qESYMfvbBbLXk+g=="
+secured: "nMCtjEoPNF+2p/tlybfGOMxvk6ODCwcOdFhscTr+kbeyDGC2gZalRh5OI7ER280ImuBqSZURrhf6VtEQWKSHOh/UPaf9QOjm4C4O7NhNkJCkFj1kNDUVUbS9CblvYnQTllYY5w081nAjKx6fouVYkldxWW5Ixxh5wEDxxdiaB74MaYXebMS58FZESYqgcUNTldyUmFEWx+eeD28aJQDpSIvwbYgpRb6eOpVBk5MtotQbcSN2ZIKiJo4Fgu6xdvRah1aabLcgVundwPMKmb1f5BYyHkWzbMPhlheHl1YuwIdAwOy1yqE639QQm7KgpvXeHOzzCw55FnExhceRqXqNjeyq9yVXoBs6LOep0Hc4zAs=;3+gddTSBaZ9ASakO7qE9kw=="
 ---
 

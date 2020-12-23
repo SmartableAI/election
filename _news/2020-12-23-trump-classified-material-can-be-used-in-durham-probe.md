@@ -2,21 +2,21 @@
 category: news
 title: "Trump: Classified material can be used in Durham probe"
 excerpt: "The special counsel investigating the origins of the FBI’s probe into the 2016 election now has the authority to use classified information indefinitely in his investigation, a procedural step followi"
-publishedDateTime: 2020-12-23T01:13:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-classified-material-durham-probe-74870547"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-classified-material-durham-probe-74870547"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-classified-material-durham-probe-74870547"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-classified-material-durham-probe-74870547"
+publishedDateTime: 2020-12-23T05:20:00Z
+originalUrl: "https://www.washingtonpost.com/politics/courts_law/trump-classified-material-can-be-used-in-durham-probe/2020/12/22/9c883088-44b4-11eb-ac2a-3ac0f2b8ceeb_story.html"
+webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-classified-material-can-be-used-in-durham-probe/2020/12/22/9c883088-44b4-11eb-ac2a-3ac0f2b8ceeb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-classified-material-can-be-used-in-durham-probe/2020/12/22/9c883088-44b4-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-classified-material-can-be-used-in-durham-probe/2020/12/22/9c883088-44b4-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -80,6 +80,6 @@ related:
         height: 800
         isCached: true
 
-secured: "8mXAYTh5M1wP3sGMsUPWapPzeUcCryubgQMsNGupCb1hemcXxZisA4rvYUmXsxYBm2wiDqgZvYgN2FqvjeroQnSCgv6UT83TibpJ7wKHQF1ypj6PY9OEnUsZVWB+WLPP1ClRAWmRvmtope/xSk451fG/oGXvWlVTpcxHuvuOeOjJI6j6ixN5o1jz88ocMUFMmqbyQFk0GZQ+4niGYyI0uDKen4iDzlwM7tK8pzNLfI4aNf9JYILE8B+3Eg1PpYmXcoXDnXhhsOD4qVFB7zxecLA1usn7DBZNoc6Pv/HVZUr1ScX7bNzxOCTk0mWYWb/HRu7/ZxHpP+PnrBGMQmZbUOjtWYDE0hIGJOQiNF2bbf4=;/jdkGiTsKoftYFt2LSTOmA=="
+secured: "7HyNk79dq9Kl/Amaj2eAH0JBRPQ/JQccQGn4j8mHGMbZ4zUcasFDiYBgYhdFziu91B8SosZjxNOviM4gtU8RL86bAZHOKo9e2q1PUw3fU38J3LExdCpCG49oQglvwO2d4kSXJC1dyBF83gh0kzqgrYEkVgZkciBZ+CJ9MzDMLz7G8r+xONh58TOslc5a5i2lDMqBBl+Bi+QmMd4LRHpoOR3Eu59O3IOrafIMuP+aOH6oo96rbkw83n/qrC54Vx0RGrMM2Urw94bK7b/NdrPPvIi1aLpzwbjQ0KazSbraa/GoYH0YMhvi6GZcGA5Ba+t1h8UWrCJDIV2H2Sl9HbcEJ0MXKjs4AmxoYPdiECBXmNg=;4Q1JZhTL5pZs5mvoljhc5Q=="
 ---
 

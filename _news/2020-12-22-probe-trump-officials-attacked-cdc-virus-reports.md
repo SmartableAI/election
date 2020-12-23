@@ -33,19 +33,19 @@ images:
 related:
   - title: "Trump: Classified material can be used in Durham probe"
     excerpt: "The special counsel investigating the origins of the FBI’s probe into the 2016 election now has the authority to use classified information indefinitely in his investigation, a procedural step followi"
-    publishedDateTime: 2020-12-23T01:13:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-classified-material-durham-probe-74870547"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-classified-material-durham-probe-74870547"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-classified-material-durham-probe-74870547"
+    publishedDateTime: 2020-12-23T05:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-classified-material-can-be-used-in-durham-probe/2020/12/22/9c883088-44b4-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-classified-material-can-be-used-in-durham-probe/2020/12/22/9c883088-44b4-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-classified-material-can-be-used-in-durham-probe/2020/12/22/9c883088-44b4-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "‘Like a hand grasping’: Trump appointees describe the crushing of the CDC"
     excerpt: "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, were installed in 2018 as two of the youngest political appointees in the history of the world’s premier public health agency,"
