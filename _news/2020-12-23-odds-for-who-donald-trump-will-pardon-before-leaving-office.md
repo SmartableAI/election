@@ -493,6 +493,38 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Factbox: List of 15 people pardoned by Trump"
+    excerpt: "Two men sentenced to prison as part of the investigation into Russian meddling in the 2016 presidential election, two former Republican lawmakers, and four security contractors convicted in the massacre of 14 Iraqi civilians were among 15 people granted full pardons by U."
+    publishedDateTime: 2020-12-23T07:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pardons-list-factbox-idUSKBN28X06P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X06P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X06P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545507735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM02T"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Stock futures slip as Trump threatens to derail stimulus bill"
+    excerpt: "U.S. stock futures fell, commodities slipped and Treasuries edged higher on Wednesday after Donald Trump threw a last-minute spanner in to pandemic relief plans by threatening not to sign a long-awaited stimulus bill in to law."
+    publishedDateTime: 2020-12-23T08:08:00Z
+    webUrl: "https://www.reuters.com/article/global-markets/global-markets-stock-futures-slip-as-trump-threatens-to-derail-stimulus-bill-idUSL1N2J3067"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W2S3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W2S3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545496791&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL1NO"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Trump issues flurry of pardons, commutations"
     excerpt: "President Donald Trump on Wednesday issued a flurry of pardons and commutations to a slew of controversial figures with ties to his administration."
     publishedDateTime: 2020-12-23T00:28:00Z
@@ -858,6 +890,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A Lincoln Project ad reportedly turned Trump against Mike Pence. Pence is now bending."
+    excerpt: "President Trump has turned against everyone he thinks isn't fighting to keep in office after he lost the Nov. 3 election, according to several reports and Trump tweets, and among those the president considers insufficiently loyal is Vice President Mike Pence,"
+    publishedDateTime: 2020-12-23T08:30:00Z
+    webUrl: "https://theweek.com/speedreads/956841/lincoln-project-ad-reportedly-turned-trump-against-mike-pence-pence-now-bending"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/956841/lincoln-project-ad-reportedly-turned-trump-against-mike-pence-pence-now-bending"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/956841/lincoln-project-ad-reportedly-turned-trump-against-mike-pence-pence-now-bending"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 82
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/screen_shot_2020-12-23_at_1.30.56_am.jpg?itok=04f3P3gT"
+        width: 840
+        height: 560
+        isCached: true
   - title: "The Time Trump Told Boy Scouts About Sexy Yacht Parties"
     excerpt: "The president’s address to the Boy Scout Jamboree featured attacks on enemies and underlings, as well as risqué tales of his own greatness."
     publishedDateTime: 2020-12-16T02:21:00Z
@@ -933,6 +981,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "C5tDtl/IHzLeb2wnlGCkJk+RcM1c4oEg4NG5OPNp3l/1qC86Md/JkiM+5zZRcWPuukU/T1U+UVV0e4qAqnpxVTsfgEiC0SOqO1rDxxXQ0I1FEfVxODvo30iFzrZDW8X0emY0MhB47NDYusEBraOev3RR58Vo2biVbK+A4JDEawCOjgiNfyoxwmtmr2GzI+i5DLGSSFYFtFWHwCKAGTeUcPx1C5NQhvfNejYVVRqo4tpUMKP+fbjHaut4jI0ZTKROaPi+9B3JdyFvxvQ6uoZOTTIoIAimTStJ9CJQaJHcmTTiVe56dNjt81ZU/TUT7Gq3nA3TP2MKxMD+XapoLyUi92150/nLtehxWkwwL4Cki8M=;jbsccIilGJHQIsB+GRTnvg=="
+secured: "fCZSNNq58+uXP+sNVI5DANlstvxaPBD5TcP2rjsZ9ZaGZBQjSF+TKp4jc3a+XER+cjXLMJ2k8m1ee+67682Zf5LQ3sQ79M5J3eBq/1zcxP+by8t5V4Z2JlytYREwitX2UPhqSj/Y3T1hzEUmo9rdA6/3BJ6HoOo9lqiqrx4JlLXktHR9XtmQyGl1YbEEHpsfAmPK6CdWlyIJccSTXahkF26mNhXM5fkHhwXMSIkLMkJrsIKmnvzkQd57aYoZeSt18HegSPPJHG2MKIr1T5EEjS7thqqPtFj+YkBnqTtWYcJOe8bI64/R6P00iZvDx8bjCLUa7zPr/xyutZb5Pr5C5jvR34Mj3s6bVYsOvEKigcpuVil8DTZxCNrHuVGKy9TKQbslmkth2Cvh3G4f44z7+/ueVmAyugPq4LL4wZHQS0gLXZTK8N1RrQ2YEK2xp1Y5ZGvK5CWo9jRaD0zh0XNERNV6Izajp71gaW3pB1PKn5rrEPmPv7iS6qgG2Ob099oG9HOE9GOU8lhuWNUG+gYl4g==;j4XWtEzM2I2dlXzNQlAqLw=="
 ---
 

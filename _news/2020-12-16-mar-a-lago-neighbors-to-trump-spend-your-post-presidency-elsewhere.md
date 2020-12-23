@@ -479,6 +479,38 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Factbox: List of 15 people pardoned by Trump"
+    excerpt: "Two men sentenced to prison as part of the investigation into Russian meddling in the 2016 presidential election, two former Republican lawmakers, and four security contractors convicted in the massacre of 14 Iraqi civilians were among 15 people granted full pardons by U."
+    publishedDateTime: 2020-12-23T07:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pardons-list-factbox-idUSKBN28X06P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X06P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X06P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545507735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM02T"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Stock futures slip as Trump threatens to derail stimulus bill"
+    excerpt: "U.S. stock futures fell, commodities slipped and Treasuries edged higher on Wednesday after Donald Trump threw a last-minute spanner in to pandemic relief plans by threatening not to sign a long-awaited stimulus bill in to law."
+    publishedDateTime: 2020-12-23T08:08:00Z
+    webUrl: "https://www.reuters.com/article/global-markets/global-markets-stock-futures-slip-as-trump-threatens-to-derail-stimulus-bill-idUSL1N2J3067"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W2S3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W2S3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545496791&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL1NO"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Trump issues flurry of pardons, commutations"
     excerpt: "President Donald Trump on Wednesday issued a flurry of pardons and commutations to a slew of controversial figures with ties to his administration."
     publishedDateTime: 2020-12-23T00:28:00Z
@@ -857,6 +889,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/abd/af5/3630e1e6cf7e4cccc8f60dc8d6813962b7-trump-pence.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "A Lincoln Project ad reportedly turned Trump against Mike Pence. Pence is now bending."
+    excerpt: "President Trump has turned against everyone he thinks isn't fighting to keep in office after he lost the Nov. 3 election, according to several reports and Trump tweets, and among those the president considers insufficiently loyal is Vice President Mike Pence,"
+    publishedDateTime: 2020-12-23T08:30:00Z
+    webUrl: "https://theweek.com/speedreads/956841/lincoln-project-ad-reportedly-turned-trump-against-mike-pence-pence-now-bending"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/956841/lincoln-project-ad-reportedly-turned-trump-against-mike-pence-pence-now-bending"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/956841/lincoln-project-ad-reportedly-turned-trump-against-mike-pence-pence-now-bending"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 82
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/screen_shot_2020-12-23_at_1.30.56_am.jpg?itok=04f3P3gT"
+        width: 840
+        height: 560
         isCached: true
   - title: "The Time Trump Told Boy Scouts About Sexy Yacht Parties"
     excerpt: "The president’s address to the Boy Scout Jamboree featured attacks on enemies and underlings, as well as risqué tales of his own greatness."

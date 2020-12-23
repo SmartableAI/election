@@ -526,6 +526,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden blasts Trump for handling of cyberattack"
+    excerpt: "President-elect Joe Biden blasts President Donald Trump over response to cyber attack. | Patrick Semansky/AP Photo President-elect Joe Biden upbraided President Donald Trump on Tuesday over his response to a massive cyberattack that’s affected numerous government agencies."
+    publishedDateTime: 2020-12-23T07:20:00Z
+    webUrl: "https://www.politico.com/news/2020/12/22/biden-blasts-trump-cyber-attack-450126"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/22/biden-blasts-trump-cyber-attack-450126"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/22/biden-blasts-trump-cyber-attack-450126"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/13/4c/2009dbb5418cbef6541aa1e3066d/dsc-8614-copy.JPG"
+        width: 7360
+        height: 4904
+        isCached: true
   - title: "Transition Highlights: Biden Criticizes Trump on Russian Hack and Calls for More Virus Aid"
     excerpt: "President-elect Joe Biden insisted that more relief will be coming after his inauguration next month. Alex Padilla, California’s secretary of state, was chosen to fill the Senate seat being vacated by Vice President-elect Kamala Harris."
     publishedDateTime: 2020-12-22T21:46:00Z

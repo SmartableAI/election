@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trum
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trump-meeting/index.html"
 type: article
 quality: 208
-heat: 1168
+heat: 1188
 published: true
 
 provider:
@@ -509,6 +509,22 @@ related:
       - url: "https://static.politico.com/af/a2/56574fb144faaebea508e04c0125/gettyimages-1230056598-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden blasts Trump for handling of cyberattack"
+    excerpt: "President-elect Joe Biden blasts President Donald Trump over response to cyber attack. | Patrick Semansky/AP Photo President-elect Joe Biden upbraided President Donald Trump on Tuesday over his response to a massive cyberattack that’s affected numerous government agencies."
+    publishedDateTime: 2020-12-23T07:20:00Z
+    webUrl: "https://www.politico.com/news/2020/12/22/biden-blasts-trump-cyber-attack-450126"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/22/biden-blasts-trump-cyber-attack-450126"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/22/biden-blasts-trump-cyber-attack-450126"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/13/4c/2009dbb5418cbef6541aa1e3066d/dsc-8614-copy.JPG"
+        width: 7360
+        height: 4904
         isCached: true
   - title: "Russian hack ‘happened on Donald Trump’s watch when he wasn’t watching,’ Biden says."
     excerpt: "This assault happened on Donald Trump’s watch when he wasn’t watching,” Mr. Biden said at a year-end news conference “Even if he doesn’t take it seriously, I will. I’m disappointed by the response of President Trump."
