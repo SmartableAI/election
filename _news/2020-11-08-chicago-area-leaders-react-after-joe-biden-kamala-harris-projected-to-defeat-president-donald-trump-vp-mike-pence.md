@@ -577,6 +577,22 @@ related:
         width: 896
         height: 545
         isCached: true
+  - title: "Biden: Reversing Trump border policies will take months"
+    excerpt: "President-elect Joe Biden says it will take months to roll back some of President Donald Trump’s actions on immigration"
+    publishedDateTime: 2020-12-23T00:11:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/biden-reversing-trump-border-policies-will-take-months/2020/12/22/d87772b8-44b2-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-reversing-trump-border-policies-will-take-months/2020/12/22/d87772b8-44b2-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-reversing-trump-border-policies-will-take-months/2020/12/22/d87772b8-44b2-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden to present new defense chief as Trump clings to failed effort to overturn election result – live"
     excerpt: "Trump calls to ‘overturn’ results as legal attempts to reverse Biden’s victory dwindle, while president-elect will nominate Lloyd Austin to lead US defense"
     publishedDateTime: 2020-12-09T18:13:00Z
@@ -1590,6 +1606,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President-elect Joe Biden blames President Donald Trump for cyber attack"
+    excerpt: "President-elect Biden told reporters that the cyber attack on private and federal offices was a failure of the Trump Administration."
+    publishedDateTime: 2020-12-22T21:05:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/12/22/president-elect-biden-blames-trump-administration-cyber-attack/4015075001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/22/USAT/29e2e28a-436b-4836-b037-75a63080d5a2-VPC_BIDEN_DESK.00_00_23_21.Still003.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "California delivers Electoral College victory for Joe Biden, Kamala Harris"
     excerpt: "President Trump’s unfounded claims of election fraud were ignored Monday as California delivered Joe Biden the Electoral College votes that put him over the 270 he needed to clinch the presidency."
     publishedDateTime: 2020-12-15T09:42:00Z
@@ -1836,6 +1866,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "California Secretary of State Alex Padilla appointed to replace Vice President-elect Kamala Harris in US Senate"
+    excerpt: "California Gov. Gavin Newsom appointed Secretary of State Alex Padilla on Tuesday as the state’s next U.S. senator to fill the seat being vacated by Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-12-22T18:44:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 105
+    images:
+      - url: "https://www.chicagotribune.com/resizer/5ATYffOF0ZO402fX-cvjaBMN16I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AQFJJLD55NDNPLXH2H6CLLNZWQ.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris on Joe Biden, Being a 'First' and Restoring the Soul of the Nation: The 2020 TIME Person of the Year Interview"
     excerpt: "Kamala Harris is the first Vice President-elect to be named TIME’s Person of the Year. TIME senior correspondent Charlotte Alter sat down with the California senator in Wilmington, Del., on Dec. 7—which happened to be Harris’s mother’s birthday."
     publishedDateTime: 2020-12-12T22:44:00Z
@@ -2682,22 +2728,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "California Secretary of State Alex Padilla appointed to replace Vice President-elect Kamala Harris in US Senate"
-    excerpt: "California Gov. Gavin Newsom appointed Secretary of State Alex Padilla on Tuesday as the state’s next U.S. senator to fill the seat being vacated by Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-12-22T21:32:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 55
-    images:
-      - url: "https://www.baltimoresun.com/resizer/5ATYffOF0ZO402fX-cvjaBMN16I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AQFJJLD55NDNPLXH2H6CLLNZWQ.aspx"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Joe Biden and Senator Kamala Harris Address the Nation"
     excerpt: "Senator Kamala Harris Speaks at Biden Campaign Event in Fort Worth, Texas. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a"
     publishedDateTime: 2020-11-06T21:58:00Z

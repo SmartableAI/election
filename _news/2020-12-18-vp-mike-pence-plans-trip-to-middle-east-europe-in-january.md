@@ -28,19 +28,16 @@ images:
 
 related:
   - title: "VP Pence says they plan to keep fighting election"
-    excerpt: "Vice President Mike Pence told a group of young conservatives in Florida that the President's administration plans to keep fighting the election \"until every legal vote is counted\" and \"until every illegal vote is thrown out.\" (Dec. 22)"
-    publishedDateTime: 2020-12-22T22:41:00Z
-    webUrl: "https://www.azcentral.com/videos/news/nation/2020/12/22/vp-pence-says-they-plan-keep-fighting-election/4017125001/"
+    excerpt: "Vice President Mike Pence told a group of young conservatives in Florida that the President's administration plans to keep fighting the election \"until every legal vote is counted\" and \"until"
+    publishedDateTime: 2020-12-23T00:19:00Z
+    webUrl: "https://www.stltoday.com/news/national/vp-pence-says-they-plan-to-keep-fighting-election/video_2008f519-17e9-5504-ad55-7ff77875f8e0.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/vp-pence-says-they-plan-to-keep-fighting-election/video_2008f519-17e9-5504-ad55-7ff77875f8e0.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/vp-pence-says-they-plan-to-keep-fighting-election/video_2008f519-17e9-5504-ad55-7ff77875f8e0.amp.html"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 70
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e0a5c8ce-7d4b-4cda-8b52-98952feb0c45_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "/PlSheZGbwp8cf4pgnsHNQxnh+Twzg5Otkv27aPFzxdgNJktisIilnVjsTb3wj5sr7SqnJxaIYytIAQ6xShNi626h7IPF/VnkovnwjxiA74YhnQ3YGc7eDQg2f3pGfXmqEzeBHoewciChMPtwL2moOS/0ABny7L8HGiOadBB+FB6SBsH3b2O21KzN+yBSNyRXKmcwe31a6jeAojwSuxcFnQm0VvNwjKp9gD810gDbiW/kzkUrp6HTD1IpWFUBTjjJpaewdkOi6Evo+tjCuPJ2N0jX5jY/rJm+y2It0Q/ClWVK1nlJBsdIk0TIxqnkFhy1CBg0cbUHcHEW0zRKAF4ZZiXDvfn0Hr5Pspa6CfOv82vMG1cRYW6tJm4yB8HMK4jkFohzYuM0etqto3faVwYSi9nCoJIXds7zgwHgPRo8hdms9251Zwj3IwbOy0cEKP0AhGYurkDGtgj4NS4ls0dWfnvng/cQ8KLDg7Aml/7DYmw7IpQiFXF6Dsj2XqB99ZHgHGnUMT7oVTWMwK16gTXYQ==;ll4uoPa7E+B/yuHHwy9dmg=="
 ---

@@ -1,28 +1,24 @@
 ---
 category: news
 title: "VP Pence says they plan to keep fighting election"
-excerpt: "Vice President Mike Pence told a group of young conservatives in Florida that the President's administration plans to keep fighting the election \"until every legal vote is counted\" and \"until every illegal vote is thrown out.\" (Dec. 22)"
-publishedDateTime: 2020-12-22T22:41:00Z
-originalUrl: "https://www.azcentral.com/videos/news/nation/2020/12/22/vp-pence-says-they-plan-keep-fighting-election/4017125001/"
-webUrl: "https://www.azcentral.com/videos/news/nation/2020/12/22/vp-pence-says-they-plan-keep-fighting-election/4017125001/"
+excerpt: "Vice President Mike Pence told a group of young conservatives in Florida that the President's administration plans to keep fighting the election \"until every legal vote is counted\" and \"until"
+publishedDateTime: 2020-12-23T00:19:00Z
+originalUrl: "https://www.stltoday.com/news/national/vp-pence-says-they-plan-to-keep-fighting-election/video_2008f519-17e9-5504-ad55-7ff77875f8e0.html"
+webUrl: "https://www.stltoday.com/news/national/vp-pence-says-they-plan-to-keep-fighting-election/video_2008f519-17e9-5504-ad55-7ff77875f8e0.html"
+ampWebUrl: "https://www.stltoday.com/news/national/vp-pence-says-they-plan-to-keep-fighting-election/video_2008f519-17e9-5504-ad55-7ff77875f8e0.amp.html"
+cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/vp-pence-says-they-plan-to-keep-fighting-election/video_2008f519-17e9-5504-ad55-7ff77875f8e0.amp.html"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Election
   - Mike Pence
-
-images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e0a5c8ce-7d4b-4cda-8b52-98952feb0c45_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "VP Mike Pence plans trip to Middle East, Europe in January"
@@ -42,6 +38,6 @@ related:
         height: 532
         isCached: true
 
-secured: "XvCQROjbpmqGbuxToCzB95mQCIXxkn39+WyorVmtzXoPTtK7PSnemA4fTeBqV74c+P9q97GQYHF017qfLdUvLqkQF8IrmG3I+4WEJtLkaK0q9f3IpUMlqdL0E0xwjU1O7HXh55QFNYknzuH7AvZPCaPKd13qgwgKUFoufRAjDspPuawTMdeu5efMgCRIJCSoA7G4cJLOH10lTggV9B+Qi45CcKNllLtxd64Lmf2pqxrZhDmwCMNq2+kWF5m8dhdzdgImC3tfBd8ebKb2telZzwrh5HJ64AjvAgu93ZHJK7kV9p9UgE2KjCRMCBx3csGNPyrSCLiXedCcvBiTYlOWBuY3hZTyGIXQ2mNyPCL6rRE=;dD8JW5UXxoj/v6tmjcS+Cg=="
+secured: "QQfRg4K8bM6ey/Hl7OScDsU6y5OyRePin0h823Ozx3wDX9EZJ3LCq3GIZ02imqRNjQmh3zbcoqKyEpR0McUzThPIJwXKSvUiBMEKz0Rbc89eJYATJPja2R6Aaao/yZA4yr3cNJcquH4NTLYmLL6t/lPnfpxwSkKDZ0JoioMtYKmNK5gWeU4sapuYWi+YxzaCV/HQE9f+vKZ+Up76yiDNLInb68t4BKtmI4wUQtDr9pMkx7XUrO33u7XJZ7JRTIjZAPrN29euDw31ynqElWZm1HdClAeBbTpwzaan9ijIzsyo5FbJASjoDqZI6puig2FYURS26w1QtSCQLRIUsltL3CNQn29yGFHKVgB2dBRkQgLCszHb0ObBKA5fnggMbiURE+RaGFG0r77XmP32akYu3qjIwqCqO1eiWKzVBh+PPiDNbfuDceza78Rldk49O/tptPreMtENH4TOUJKiKTQVckLDonlt9mncXoRGLmHUMGa2vjIIacmQWXwP202/hxQL2JW14hNkdznDmzOwoX2yiw==;b7p3piBojSa1LU3uBNz/dg=="
 ---
 

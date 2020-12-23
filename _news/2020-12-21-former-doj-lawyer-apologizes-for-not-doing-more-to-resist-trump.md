@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump grants 15 pardons, 5 commutations"
+    excerpt: ""
+    publishedDateTime: 2020-12-23T00:18:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4X-ugqKI64/trump-grants-15-pardons-5-commutations"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-grants-15-pardons-5-commutations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-grants-15-pardons-5-commutations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20353841936137.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump Will Face Different Twitter Rules When He Leaves Office"
     excerpt: "As a public official, President Trump tweets with less risk of having his posts taken down or his account suspended. That will change on Jan. 20."
     publishedDateTime: 2020-12-22T18:03:00Z

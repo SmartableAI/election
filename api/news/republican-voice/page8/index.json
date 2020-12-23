@@ -2,6 +2,62 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-14-trump-says-he-may-stop-by-maga-rally-in-dc-on-saturday.md",
+      "title": "Trump says he may ‘stop by’ MAGA rally in DC on Saturday",
+      "excerpt": "President Trump showed his gratitude for the MAGA rallies in the nation’s capital this weekend to voice their dissent over the recent presidential election outcome – echoing the same resistance they mocked in 2016.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZV-shwLT2Vs/trump-maga-rally-dc-saturday",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZV-shwLT2Vs/trump-maga-rally-dc-saturday",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b59ed4f-70a2-4339-a427-fe424897bc6b/100d8a49-0939-4dfb-bd5f-0ca17b299bb4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp",
+      "publishedDateTime": "2020-11-13T16:16:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-will-biden-consider-adding-republicans-to-his-administration.md",
       "title": "Will Biden consider adding Republicans to his administration?",
       "excerpt": "Among GOP names floating around for a Biden cabinet are John Kasich, Quibi CEO Meg Whitman, Massachusetts Gov. Charlie Baker and former Sen. Jeff Flake and former Rep. Charlie Dent.",
@@ -1617,63 +1673,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-pence-on-2020-race-it-aint-over-til-its-overand-this-aint-over.md",
-      "title": "Pence on 2020 race: ‘It ain’t over til it’s over...and this AIN’T over!’",
-      "excerpt": "Vice President Mike Pence on Monday rallied his staff, saying the 2020 presidential race “ain’t over,” as the Trump campaign mounts legal battles in a number of key battleground states where President-elect Joe Biden is leading.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GoO-6W5iqH0/pence-on-2020-race-it-aint-over-til-its-over-and-this-aint-over",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GoO-6W5iqH0/pence-on-2020-race-it-aint-over-til-its-over-and-this-aint-over",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-on-2020-race-it-aint-over-til-its-over-and-this-aint-over.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-on-2020-race-it-aint-over-til-its-over-and-this-aint-over.amp",
-      "publishedDateTime": "2020-11-09T11:39:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

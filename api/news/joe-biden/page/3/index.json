@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-02-the-trailer-what-biden-and-the-left-are-demanding-of-each-other.md",
+      "title": "The Trailer: What Biden and the left are demanding of each other",
+      "excerpt": "The campaign to shape Biden's agenda, the next (and even stranger) stage of election contests, and Donald Trump Jr. goes on the air in Georgia",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5IU43CRK7EI6XHBBHTCQDUEYD4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/?outputType=amp",
+      "publishedDateTime": "2020-12-01T14:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-live-politics-updates-biden-on-covid-stimulus-help-is-on-the-way.md",
       "title": "Live politics updates: Biden on COVID stimulus: 'Help is on the way'",
       "excerpt": "President-elect Joe Biden called on Congress to approve an economic stimulus plan. He also suggested that a package would be followed up.",
@@ -1504,58 +1556,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-biden-needs-to-hit-the-ground-running.md",
-      "title": "'Biden needs to hit the ground running'",
-      "excerpt": "Watch \"NY Senator Kirsten Gillibrand explains why President-elect Joe Biden needs to hit the ground running and have a comprehensive plan to combat the coron\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/live/video/20201114051309-ny-senator-kirsten-gillibrand-explains-why-president-elect-joe-biden-needs-to-hit-the-ground-running-and-have-a-comprehensive-plan-to-c/",
-      "originalUrl": "https://www.cbsnews.com/live/video/20201114051309-ny-senator-kirsten-gillibrand-explains-why-president-elect-joe-biden-needs-to-hit-the-ground-running-and-have-a-comprehensive-plan-to-c/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images-cbsn.cbsnews.com/prod/2020/11/14/story_07694294_1605331505.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T15:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

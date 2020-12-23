@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-23-bidens-plans-on-further-covid19-relief-aid.md",
+      "title": "Biden's plans on further COVID19 relief aid?",
+      "excerpt": "Watch \"What are President-elect Joe Biden's plans on further COVID-19 relief aid?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live/video/20201223002205-what-are-president-elect-joe-bidens-plans-on-further-covid-19-relief-aid/",
+      "originalUrl": "https://www.cbsnews.com/live/video/20201223002205-what-are-president-elect-joe-bidens-plans-on-further-covid-19-relief-aid/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08232198_1608683644.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-22T16:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-biden-no-obvious-choice-yet-for-attorney-general.md",
+      "title": "Biden: No 'obvious choice' yet for attorney general",
+      "excerpt": "The president-elect also re-upped his commitment to not discuss his son's legal troubles with any AG candidates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/22/biden-no-attorney-general-yet-450008",
+      "originalUrl": "https://www.politico.com/news/2020/12/22/biden-no-attorney-general-yet-450008",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/0b/63/437fda84437f80dc3d864f2e690d/webp.net-resizeimage%20(48).jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/22/biden-no-attorney-general-yet-450008",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/22/biden-no-attorney-general-yet-450008",
+      "publishedDateTime": "2020-12-22T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-biden-gets-vaccine-says-nothing-to-worry-about.md",
       "title": "Biden gets vaccine, says 'nothing to worry about'",
       "excerpt": "President-elect Joe Biden on Monday received his first dose of the coronavirus vaccine on live television as part of a growing effort to convince the American public the inoculations are safe. (Dec. 2",
@@ -34,49 +143,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-coronavirus-live-joe-biden-receives-covid-vaccine-uk-warned-to-expect-further-restrictions.md",
-      "title": "Coronavirus live: Joe Biden receives Covid vaccine; UK warned to expect further restrictions",
-      "excerpt": "Joe Biden receives the coronavirus vaccine; Sir Patrick Vallance suggests more areas may need to enter tier 4; PM says border delays only affecting small amount of freight",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal?page=with:block-5fe110038f08dd27861ceee3",
-      "originalUrl": "https://www.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal?page=with:block-5fe110038f08dd27861ceee3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal",
-      "publishedDateTime": "2020-12-21T14:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1543,58 +1609,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-in-latin-america-a-biden-white-house-faces-a-rising-china.md",
-      "title": "In Latin America, a Biden White House faces a rising China",
-      "excerpt": "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-latam-usa-china-insight-idUSKBN28O18R",
-      "originalUrl": "https://www.reuters.com/article/us-latam-usa-china-insight-idUSKBN28O18R",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 385,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544488578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0NX",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28O18R",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R",
-      "publishedDateTime": "2020-12-14T03:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

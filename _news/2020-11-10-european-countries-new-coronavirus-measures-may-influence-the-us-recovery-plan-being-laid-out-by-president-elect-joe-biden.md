@@ -45,6 +45,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Coronavirus live news: Biden warns 'darkest days' ahead for US; UK reports another 691 deaths"
+    excerpt: "Anthony Fauci ‘extremely confident’ in vaccine; BioNTech’s CEO says tests being run on mutant strain; Ireland to tighten restrictions from Christmas Eve"
+    publishedDateTime: 2020-12-22T23:25:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m?page=with:block-5fe279cd8f08dd27861cff78"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 94
   - title: "Coronavirus updates: President-elect Joe Biden to announce COVID task force; Global infections surpass 50M; Air Force-Wyoming game canceled"
     excerpt: "President-elect Joe Biden will take different approach to virus. Anchorage, Alaska, restrictions start Monday. US nears 10M cases. Latest COVID news."
     publishedDateTime: 2020-11-09T09:23:00Z

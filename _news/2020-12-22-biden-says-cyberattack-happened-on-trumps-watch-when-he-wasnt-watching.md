@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-says-cyber-attack-happened-on
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching.amp"
 type: article
 quality: 188
-heat: 268
+heat: 288
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 186
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden now says it will take ‘six months’ to reverse Trump’s immigration policies"
+    excerpt: "President-elect Joe Biden says he won’t roll back President Trump’s immigration restrictions “on day one,” but rather would take approximately six months to implement immigration reform policies in order to prevent triggering a surge of “2 million people on our border.”"
+    publishedDateTime: 2020-12-22T23:34:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lxmwS93CtLU/biden-says-it-will-take-six-months-to-reverse-trumps-immigration-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-it-will-take-six-months-to-reverse-trumps-immigration-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-it-will-take-six-months-to-reverse-trumps-immigration-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -96,6 +112,6 @@ related:
         height: 720
         isCached: true
 
-secured: "3KeacBSqhhhEDK2GoRX1Uss3LArop8lKveSdFsDbemA6o3D4OWUcEyZzMsPtCnRNXD7ijzhBJasn6Gs/CeiQPw//pe0mAvs5Nsty9UDrqry77tXZ6COLLgNJkJpJX7SGqkNEwewczuSE9YeOvwJZhyVfrH64YeUgt+tHlYsrfkC/Jh7LUbebP2xlsFzlgPhd96+RWlCamKbG7En/Gg/bIC1udZBVss1HflkD4yCrWyCkkBUqfvo7cIYiFS/4Tl4QJOw51FxINA1uou+v/wKjEaaWsnDUzqyJnFJyGzeuxXJuAcuZqgdiAxqQt5v94AXIeuh5kajlmGraR2cZm3Ab02gJB0Llq/g3io6RiYK+fDg=;jj3X7rq6NeLsMeHrbbw8iQ=="
+secured: "HpvvX8OyGt70jkJjkyMO+rIYclMdzUX301p3Sfqv0oDNSEEISPaSOH+9WjBBRhx+CCL6Rh9ryOVOtl0BvsWBIropim6AoiRNQ3y02g5gAiV/h7O91JM25Y31zic1ziDad5H4n/6ZABN+hCMQIZE0t4tCRiiocEsuceDRI7qNF1KZK9BNoknNRlbpcjSODT3NG9Gvve9/O3C5yAL0Gk+q97Ee+1N6r5dydyTokXCVZUK8bWUNilvXGOtdOufOyskY1/YeDYbyrdK2wQAvdnJ4vlndTw/YeMeoGMUIohPbMaYn/nXdWRt36EzgeisfhWA5oxo0y9S1KBVkdipIaPGBMaiWJ38DcUjT9DoFmRYrhUs=;///0mI9b/vSDarC/qZkX/w=="
 ---
 

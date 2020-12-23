@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump: Classified material can be used in Durham probe"
+    excerpt: "The special counsel investigating the origins of the FBI’s probe into the 2016 election now has the authority to use classified information indefinitely in his investigation, a procedural step followi"
+    publishedDateTime: 2020-12-23T00:25:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-classified-material-can-be-used-in-durham-probe/2020/12/22/9c883088-44b4-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-classified-material-can-be-used-in-durham-probe/2020/12/22/9c883088-44b4-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-classified-material-can-be-used-in-durham-probe/2020/12/22/9c883088-44b4-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Hacker Reveals Trump's Twitter Password And It's A Very Easy, Obvious One"
     excerpt: "The cybersecurity researcher said it only took him five attempts to successfully log into President Donald Trump's Twitter account."
     publishedDateTime: 2020-12-17T03:37:00Z

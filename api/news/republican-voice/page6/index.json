@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-25-aoc-ilhan-omar-try-to-block-deficit-hawk-from-biden-administration.md",
+      "title": "AOC, Ilhan Omar try to block 'deficit hawk' from Biden administration",
+      "excerpt": "Squad members Reps. Alexandria Ocasio-Cortez, D-N.Y. and Ilhan Omar, D-Minn., are mounting a petition against Biden nominating his former chief of staff Bruce Reed, who they say is a “deficit hawk,” to a role within the incoming administration. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC1EBAjpbxM/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC1EBAjpbxM/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/squad-thumb.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration.amp",
+      "publishedDateTime": "2020-11-24T16:27:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-biden-emphasizes-foreign-policy-team-will-lead-the-world-not-retreat.md",
       "title": "Biden emphasizes foreign policy team will 'lead the world, not retreat'",
       "excerpt": "President-elect Joe Biden says that his newly named foreign policy and national security team will keep the nation \"safe and secure\" and will show that \"America is back.\"",
@@ -1585,62 +1641,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bowman-biden-payback-black-communities.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bowman-biden-payback-black-communities.amp",
       "publishedDateTime": "2020-11-19T18:22:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-biden-transition-team-member-urged-dems-to-use-amy-coney-barretts-faith-against-her.md",
-      "title": "Biden transition team member urged Dems to use Amy Coney Barrett's faith against her",
-      "excerpt": "A member of his legal review team questioned whether Barrett could put her faith aside to uphold the rule of law.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6tNGR61Ty3E/biden-democrats-amy-coney-barrett-faith",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6tNGR61Ty3E/biden-democrats-amy-coney-barrett-faith",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0427208f-5e41-49a8-9153-300b413b3ad9/90e6c995-d824-4807-8b3b-550b3971b990/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-democrats-amy-coney-barrett-faith.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-democrats-amy-coney-barrett-faith.amp",
-      "publishedDateTime": "2020-11-19T14:46:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

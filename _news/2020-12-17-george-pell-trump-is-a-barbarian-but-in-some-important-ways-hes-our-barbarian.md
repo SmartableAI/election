@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2020/dec/17/george-pell-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2020/dec/17/george-pell-trump-is-a-barbarian-but-in-some-important-ways-hes-our-barbarian"
 type: article
 quality: 119
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Trump Grants Slew Of Pardons, Including George Papadopoulos And Duncan Hunter"
+    excerpt: "Clemency advocates have pressed President Trump to intervene in the cases of people hit with mandatory minimum sentences for drug offenses who have filled prisons in the past few decades."
+    publishedDateTime: 2020-12-23T00:34:00Z
+    webUrl: "https://www.npr.org/2020/12/22/947972044/trump-grants-slew-of-pardons-including-george-papadopoulos-and-duncan-hunter"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 102
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/18/ap_20351771171034_wide-a1d0787ca4b6ff4d60a877fc34a43008e8f5a91a.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
 
 secured: "QrKSCZz93RDwVTcd7G674ym8gqPGFTZVirJtPvq+vvEP1t/WULhrHZcS9ckPuo7uE9tmJ2SzmZVIa/QHClrh76M7cYCGSIMwUm5lf9OrtpcfoDB0NaX2MsLKlH72rVE3VCB+Imh2y1bRcPibfhGesl5drh4EX2KeAazL9hHl5oK89NJMxIbuddTJIBzp80+S5rOuCfxl3MLCeJgI72r/skTn6uUgkoMpILD6q8KCph2wsa19T0/6ZQEfWtMgm018j96I5+AEcNig9wibG9VgZDzo3lPvZSEQ3Vf55GIJ5QqdbFn+SIRnM47N7Jg8B1XaOrlUef09PDYIgyz1SJnC7BYtPOY35TPaTzH0NeMoDTQ=;cJdcp/+K99FhjE6Ug6KDFQ=="
 ---

@@ -2,26 +2,30 @@
 category: news
 title: "California Secretary of State Alex Padilla appointed to replace Vice President-elect Kamala Harris in US Senate"
 excerpt: "California Gov. Gavin Newsom appointed Secretary of State Alex Padilla on Tuesday as the state’s next U.S. senator to fill the seat being vacated by Vice President-elect Kamala Harris."
-publishedDateTime: 2020-12-22T21:32:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
+publishedDateTime: 2020-12-22T18:44:00Z
+originalUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
+webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
+ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/5ATYffOF0ZO402fX-cvjaBMN16I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AQFJJLD55NDNPLXH2H6CLLNZWQ.aspx"
+  - url: "https://www.chicagotribune.com/resizer/5ATYffOF0ZO402fX-cvjaBMN16I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AQFJJLD55NDNPLXH2H6CLLNZWQ.aspx"
     width: 1200
     height: 675
     isCached: true
@@ -581,6 +585,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545332468&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK1BG"
         width: 896
         height: 545
+        isCached: true
+  - title: "Biden: Reversing Trump border policies will take months"
+    excerpt: "President-elect Joe Biden says it will take months to roll back some of President Donald Trump’s actions on immigration"
+    publishedDateTime: 2020-12-23T00:11:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/biden-reversing-trump-border-policies-will-take-months/2020/12/22/d87772b8-44b2-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-reversing-trump-border-policies-will-take-months/2020/12/22/d87772b8-44b2-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-reversing-trump-border-policies-will-take-months/2020/12/22/d87772b8-44b2-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden to present new defense chief as Trump clings to failed effort to overturn election result – live"
     excerpt: "Trump calls to ‘overturn’ results as legal attempts to reverse Biden’s victory dwindle, while president-elect will nominate Lloyd Austin to lead US defense"
@@ -1594,6 +1614,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/11/3f13c3fb-2b3c-4aac-9135-ecdd011688a9/thumbnail/1200x630/56cf491e9a2940cbcde9caa141d20be0/cbsn-fusion-time-2020-person-of-the-year-joe-biden-kamala-harris-thumbnail-606617-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "President-elect Joe Biden blames President Donald Trump for cyber attack"
+    excerpt: "President-elect Biden told reporters that the cyber attack on private and federal offices was a failure of the Trump Administration."
+    publishedDateTime: 2020-12-22T21:05:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/12/22/president-elect-biden-blames-trump-administration-cyber-attack/4015075001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/22/USAT/29e2e28a-436b-4836-b037-75a63080d5a2-VPC_BIDEN_DESK.00_00_23_21.Still003.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "California delivers Electoral College victory for Joe Biden, Kamala Harris"
     excerpt: "President Trump’s unfounded claims of election fraud were ignored Monday as California delivered Joe Biden the Electoral College votes that put him over the 270 he needed to clinch the presidency."
@@ -2735,6 +2769,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "E+o29hRO0aS15uj76AAa8PBzz80WidZDJYE9v39xV7Smw0hs/2Zv5LE3x3yZL5fLHXH6egEdW4BgYrTTYHLI6AXTHOLlq4qjw2q66CmyPWQiUgX+dOkCw1g8PnThplHh6HM6hYmmCrEOqTEmT2QwKzeRLGXdlfaAFMJo1GJgpZO5djgiYALDrBg1OzyhC26gSTJX4u9deURaxHkmi7SPYo1aBLDi5aJoERnWEhXMlCOZQrnueBuH0G2ZbZhrBVE3sEg+kD9lsZ+4EcgDr+r+VpCnm7l9Q7IBU/OyZeI2fWaItXPRt1ZOcQ67Ic0RXbCIC4UEaN+yhk1mC55DY8SrAojBv8hXrayVYYrtLQcLb+A=;/c9QY2nDy85p5aDJO3TQsQ=="
+secured: "AJLB32ZBB/LsLzKZ9peGKv/EhghlMuqszeVHSQWUGA+aPttuV7OriMjYymlPPbdpJUpNO9xCApliBBcw5M1j9FoKqkbqGXb/fjX2vPUeEL3wwobIs8UY2/diDY5TXlFOO2gt88bZKYUIxY3B2pJPOLdcdKuo2eYVTISpZ5ad7cCYc2nNJmkqF0fLahIOFOzBWwwxP/W1PtYIeqjAdE1VhHime22/ATk0JJ4L4Vw0Ogp/E3pNYW6MH7lyciGbUt3WKTlXI69Fzpq3UfD/NnAvnSa+pZtz2MDpwLly0OfN5ozmUlfP6ZF1LmqtUGlfrEZoQv5EmQ71//9NjrnGWzs+rZIyLTFfukNYVot+dvMVVw8=;IC3+44beXR2X3aIVgoRM/w=="
 ---
 

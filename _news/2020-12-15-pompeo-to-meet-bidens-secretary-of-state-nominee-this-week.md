@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Key lines from Biden's remarks ahead of Christmas "
+    excerpt: "President-elect Joe Biden on Tuesday urged Americans to steel themselves for dark days ahead battling the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2020-12-22T23:15:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SwJphzV1ZZ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/biden-key-lines-christmas-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/biden-key-lines-christmas-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222163909-joe-biden-ataque-cibernetico-critica-gobierno-trump-mensaje-fin-de-ano-sot-00001022-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "READ: Mitch McConnell's floor speech congratulating President-elect Biden"
     excerpt: "Senate Majority Leader Mitch McConnell recognized Joe Biden's victory on Tuesday in a floor speech, where he congratulated the President-elect but also praised Donald Trump's presidency.\n    \n"
     publishedDateTime: 2020-12-15T17:11:51Z

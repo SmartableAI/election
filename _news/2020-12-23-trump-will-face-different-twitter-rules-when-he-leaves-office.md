@@ -80,6 +80,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump grants 15 pardons, 5 commutations"
+    excerpt: ""
+    publishedDateTime: 2020-12-23T00:18:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4X-ugqKI64/trump-grants-15-pardons-5-commutations"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-grants-15-pardons-5-commutations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-grants-15-pardons-5-commutations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20353841936137.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Neil Young drops lawsuit against Donald Trump over use of his music at campaign events"
     excerpt: "Neil Young seems to have dropped his legal suit against Donald Trump for using his music at campaign events. In August, the singer and songwriter finally sued the Trump 2020 campaign for copyright infringement after the president repeatedly ignored calls from the rocker to stop using his music at events,"
     publishedDateTime: 2020-12-09T15:35:00Z

@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden now says it will take ‘six months’ to reverse Trump’s immigration policies"
+    excerpt: "President-elect Joe Biden says he won’t roll back President Trump’s immigration restrictions “on day one,” but rather would take approximately six months to implement immigration reform policies in order to prevent triggering a surge of “2 million people on our border.”"
+    publishedDateTime: 2020-12-22T23:34:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lxmwS93CtLU/biden-says-it-will-take-six-months-to-reverse-trumps-immigration-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-it-will-take-six-months-to-reverse-trumps-immigration-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-it-will-take-six-months-to-reverse-trumps-immigration-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "McConnell says he'll treat Biden 'a hell of a lot better than Chuck Schumer ever treated Donald Trump'"
     excerpt: "Sen. Majority Leader Mitch McConnell promised to treat President-elect Biden better than his minority-leading counterpart ever treated President Trump. "
     publishedDateTime: 2020-12-22T18:50:24Z

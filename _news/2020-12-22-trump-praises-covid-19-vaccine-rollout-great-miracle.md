@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "De Blasio says Trump administration played 'valuable role' in getting COVID-19 vaccine quickly"
-    excerpt: "New York City Mayor Bill de Blasio on Tuesday praised the Trump administration for its \"valuable role\" in getting a coronavirus vaccine out quickly -- after President-elect Joe Biden said the administration deserves credit."
-    publishedDateTime: 2020-12-22T17:57:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n209tAs7mNM/de-blasio-trump-administration-valuable-role-coronavirus-vaccine"
-    ampWebUrl: "https://www.foxnews.com/politics/de-blasio-trump-administration-valuable-role-coronavirus-vaccine.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-trump-administration-valuable-role-coronavirus-vaccine.amp"
+  - title: "Trump threatens to veto massive COVID bill, demands Congress make this big change"
+    excerpt: "President Trump slammed the recently passed $900 billion COVID-19 relief package as a \"disgrace\" on Tuesday evening, urging Congress amend the bill to increase the direct payments given to Americans."
+    publishedDateTime: 2020-12-23T00:29:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XMC6sUUUbPM/trump-threatens-to-veto-massive-covid-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-threatens-to-veto-massive-covid-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-threatens-to-veto-massive-covid-bill.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a609696-7a27-4713-89f3-eb466538688f/0202de8b-222e-4f3a-8a40-56bc57a240cc/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/814418a1-08c9-4bed-b7c7-fdab0625619e/0c6fe622-1cb6-4599-a598-7e8010fec20a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -63,6 +63,38 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump Asks Congress to Amend Covid-19 Package, Boost Direct Payments"
+    excerpt: "President Trump tweeted a video criticizing the $900 billion coronavirus relief legislation passed by Congress, calling for lawmakers to increase direct payments to Americans to $2,000 from $600."
+    publishedDateTime: 2020-12-23T00:57:00Z
+    webUrl: "https://www.wsj.com/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-207060/social"
+        width: 1281
+        height: 670
+        isCached: true
+  - title: "Supreme Court Dismisses Challenge to Trump Plan to Exclude Illegal Immigrants From Congressional Reapportionment"
+    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
+    publishedDateTime: 2020-12-18T20:25:00Z
+    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125?mod=breakingnews"
+    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 114
+    images:
+      - url: "https://images.wsj.net/im-251063?width=620&size=1.5"
+        width: 620
+        height: 413
         isCached: true
 
 secured: "6RGmBLNJeUP8wANralSIHYjKwNbMD1y4q+uQ7QcPdiPqj2RxDPOl0KmhrvSUOSNHsy7DCL0wzpQnNiHmIiLS+ZpBSBuq7I56f3IVainkBGNol3GH5v2zdqslJSjPkZW/fi+WZi3l6DibGXv2jDvrPFvJ7G09SHXkom8/nsbOV5X3oZLQUnK9rWM60D2kdmaTHTulJHJZUB50sdsbMI9VgeSEGgmSf0YQ4jlfKTg7Gw5TBalwGiSpyyPlFZ5GrYuq2OMCXLwjo/Sbf7tSrDRXBJQ5b+8gVO61EwdorMfkNhumGASJjJpsSi3nqHF28y7rKJJL9N7Q4Ee1HqEtpZzvt31fJlmJQ3saJ6pw0JHTfh8=;EH4saGJAYGGr0Q7HKRIZTw=="

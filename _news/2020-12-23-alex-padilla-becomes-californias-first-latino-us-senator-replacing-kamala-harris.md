@@ -1,30 +1,52 @@
 ---
 category: news
-title: "Alex Padilla becomes California’s first Latino US senator, replacing Kamala Harris"
-excerpt: "Alex Padilla, a Los Angeles Democrat who once developed software for satellites but later rose through local and state political office to become California secretary of state, was chosen Tuesday by Gov."
-publishedDateTime: 2020-12-22T18:30:00Z
-originalUrl: "https://www.sfexaminer.com/news/alex-padilla-becomes-californias-first-latino-us-senator-replacing-kamala-harris/"
-webUrl: "https://www.sfexaminer.com/news/alex-padilla-becomes-californias-first-latino-us-senator-replacing-kamala-harris/"
+title: "Alex Padilla becomes California’s first Latino U.S. senator, replacing Kamala Harris"
+excerpt: "Padilla will be the first Latino to represent California in the U.S. Senate. He succeeds Kamala Harris, the newly elected vice president."
+publishedDateTime: 2020-12-22T18:00:00Z
+originalUrl: "https://www.latimes.com/california/story/2020-12-22/gavin-newsom-alex-padilla-senate-california-kamala-harris"
+webUrl: "https://www.latimes.com/california/story/2020-12-22/gavin-newsom-alex-padilla-senate-california-kamala-harris"
+ampWebUrl: "https://www.latimes.com/california/story/2020-12-22/gavin-newsom-alex-padilla-senate-california-kamala-harris?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-12-22/gavin-newsom-alex-padilla-senate-california-kamala-harris?_amp=true"
 type: article
-quality: 49
+quality: 118
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Examiner
-  domain: sfexaminer.com
+  name: Los Angeles Times
+  domain: latimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.sfexaminer.com/wp-content/uploads/2020/12/23720326_web1_201222-SFE-Padilla_1-1024x683.jpg"
-    width: 1024
-    height: 683
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/44efb7f/2147483647/strip/true/crop/6271x4096+0+43/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff1%2Ff5%2F3007e50448f8b7e5ae317a32c9ed%2Fla-photos-1staff-642253-me-1030-pol-ca-newsom-17-cmc.jpg"
+    width: 320
+    height: 209
     isCached: true
 
 related:
+  - title: "News Wrap: Alex Padilla is tapped to fill Kamala Harris’ Senate seat"
+    excerpt: "In our news wrap Tuesday, California Secretary of State Alex Padilla is tapped to fill the U.S. Senate seat vacated by Vice President-elect Kamala Harris, the E.U.'s executive body calls for an end to travel bans aimed at confining a new COVID-19 strain in Britain,"
+    publishedDateTime: 2020-12-22T23:35:00Z
+    webUrl: "https://www.pbs.org/newshour/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/12/newswrap15-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "California secretary of state Alex Padilla to fill Kamala Harris's Senate seat"
     excerpt: "Padilla will be state’s first Latino senator after appointment by governor and ally Gavin Newsom"
     publishedDateTime: 2020-12-22T18:26:00Z
@@ -86,6 +108,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/15/45/35/20338528/5/rawImage.jpg"
         width: 2048
         height: 1377
+        isCached: true
+  - title: "Alex Padilla to replace Kamala Harris in Senate, becoming California's first Latino senator"
+    excerpt: "Governor Gavin Newsom tapped California Secretary of State Alex Padilla to fill the U.S. Senate seat that's soon to be vacated by Vice President-elect Kamala Harris. Padilla will become the first Latino to represent California in the Senate."
+    publishedDateTime: 2020-12-22T23:56:00Z
+    webUrl: "https://www.cbsnews.com/video/alex-padilla-to-replace-kamala-harris-in-senate-becoming-californias-first-latino-senator/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 95
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/22/2c8516bf-9f84-43aa-82d1-bf8f90050289/thumbnail/1200x630/37fb3ed5b7404c4e48ca2f44ec71ba34/122-rb-alexpadillareplaceharris-bnj-614655-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Alex Padilla to replace Kamala Harris in Senate, making history as California's first Latino senator"
     excerpt: "California Governor Gavin Newsom will name Secretary of State Alex Padilla to replace Vice President-elect Kamala Harris in the U.S. Senate. Padilla will be the first Latino senator to represent California,"
@@ -166,9 +202,9 @@ related:
         height: 300
         isCached: true
   - title: "California Gov. Gavin Newsom Picks Top State Official Alex Padilla to Replace Kamala Harris in Senate"
-    excerpt: "California Secretary of State Alex Padilla will replace Vice President-elect Kamala Harris in the U.S. Senate, Gov. Gavin Newsom announced Tuesday."
+    excerpt: "California Secretary of State Alex Padilla will replace Vice President-elect Kamala Karris in the U.S. Senate, Gov. Gavin Newsom announced Tuesday."
     publishedDateTime: 2020-12-22T19:39:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/"
     ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
     type: article
@@ -182,6 +218,6 @@ related:
         height: 675
         isCached: true
 
-secured: "MuRJjkbHeQX4H3xhJTsLzO9J8aCroyDgbyWYpgJfnJet97wHSvpIBmGZYKdfz/m2WMixjYgKbtOyKteEj2ne4rchVPkiRLHtCkzL1v4YRJdN0pbERV7BK6CHOjzxAKK3cN/74T/xbVsw0tPS9XpKTHtmWmbYqfiJ/KduMObml92kRSaFWvI6n74ykYBm5J1OYhy/0jQEvolFAfwz1fH0m1aVsVLasgDzCbXifQr7z1I1Lq9FofhUUve1t52Y8Y7MvaJtrowthK9VfEmFLyOU1tW+V2n53s7G3vPqH2wmvLKs4LUpT7r+t22e/0TxEUomCtSzP89uhZp9aUv4ZvndGOG5gJPCJYrSlqWOgxhh65PDEhi09BEzOdu6TvyQPLSeSOd3P9ObdLj/55Og+yI7iMo9HBXHoLLpkmCzJUcI0Sa/fEgAuGhFJprWtH4oGK0THpSOGsoKHySyJMLkKGhuhU9lre91VCiGykLJuohCq710GMrOfEro3vFoYmgVqhJ7nm1xhKhnPajPW0GdH9ERxw==;vFjgCRCN9GPUxv3QPPfsIA=="
+secured: "gAPV9928yeqreHe2HHLaLcWmBvhcb86YOlKUB2KHDjZVentRDr4nEE8aiI/w13/GQ+qT+3tK+9B5z8Vb2K/JvNgUmgTkCPVvTU9jydSaMRtv0Gt/mfyCuEcowSR+tCJmGceZ/3CqtlgJTiRpY96K+KB/oKrZ8CK+/pOAd6rhHjH/qNsTgtKk08rDS2o28LuyP0rp/vlS1iruSJV4uVXpfNzzTZUMOUCuZJZroQHvFDf6Mvbi0w92QMJcDN7Py3bwx1wOE1RqmOKTguCUXi4tiWGuJKLR4A6ZObjTh4lxVpWKz7wrXFG9XqhEK+mE1JA/tFh/Srm0BY0qAQ4HXGA9LjSTok+K3j+2Dr1WcWhW8/Y=;kYszgZ6Z7wQpGGG/zvxhUw=="
 ---
 

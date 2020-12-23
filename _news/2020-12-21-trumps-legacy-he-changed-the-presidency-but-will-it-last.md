@@ -569,6 +569,38 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Dominion worker sues Trump campaign and conservative media"
+    excerpt: "An election systems worker who was driven into hiding by death threats has filed a defamation lawsuit against President Donald Trump's campaign, lawyers Rudolph Giuliani and Sidney Powell, and some co"
+    publishedDateTime: 2020-12-23T00:45:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/dominion-worker-sues-trump-campaign-conservative-media-74870918"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/dominion-worker-sues-trump-campaign-conservative-media-74870918"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/dominion-worker-sues-trump-campaign-conservative-media-74870918"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Trump issues flurry of pardons, commutations"
+    excerpt: "President Donald Trump on Wednesday issued a flurry of pardons and commutations to a slew of controversial figures with ties to his administration."
+    publishedDateTime: 2020-12-23T00:28:00Z
+    webUrl: "https://abcnews.go.com/US/trump-issues-flurry-pardons-commutations/story?id=74869694"
+    ampWebUrl: "https://abcnews.go.com/amp/US/trump-issues-flurry-pardons-commutations/story?id=74869694"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-issues-flurry-pardons-commutations/story?id=74869694"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/presidential-transition--donald-trump-unprecedented-05-gty-llr-201222_1608680228174_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump's main banker at Deutsche Bank announces her resignation"
     excerpt: "The president's longstanding contact at the bank, Rosemary Vrablic, will step down on Dec. 31, though the reasons for her departure are unclear."
     publishedDateTime: 2020-12-22T22:18:00Z
@@ -1125,6 +1157,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump's longtime banker at Deutsche Bank resigns"
+    excerpt: "U.S. President Donald Trump's longtime banker at Deutsche Bank AG will be stepping down from the German lender."
+    publishedDateTime: 2020-12-23T00:54:00Z
+    webUrl: "https://www.reuters.com/article/deutsche-bank-rosemary-vrablic/trumps-longtime-banker-at-deutsche-bank-resigns-idUSL4N2J23EU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2J23EU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2J23EU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "U.S. Senate passes $892 bln coronavirus aid bill, sends to Trump to sign"
     excerpt: "The U.S. Senate on Monday passed an $892 billion coronavirus aid package, throwing a lifeline to the nation's pandemic-battered economy, while also funding federal government activities through September 2021."
     publishedDateTime: 2020-12-22T05:08:00Z

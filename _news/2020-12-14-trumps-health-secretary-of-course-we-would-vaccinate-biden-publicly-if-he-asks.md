@@ -683,6 +683,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Highlights of President-Elect Joe Biden’s Transition: Congress Races to Finalize Stimulus Deal"
+    excerpt: "Lawmakers have given themselves 24 hours to finalize the $900 billion coronavirus relief deal and approve legislation to keep the government funded for the rest of the fiscal year. The deal needs Mr."
+    publishedDateTime: 2020-12-23T00:16:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/21/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/21/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/21/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 123
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/21/us/politics/21transition-briefing-pelosi/21transition-briefing-pelosi-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Presidential Transition Highlights: Election ‘Should Be Celebrated, Not Attacked,’ Biden Says as Electoral College Affirms His Victory"
     excerpt: "Electors in states across the country have cast their votes for president, and the winner is not in doubt: Joseph R. Biden Jr. will be officially declared the president-elect."
     publishedDateTime: 2020-12-15T10:20:00Z
