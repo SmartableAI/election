@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Euro, Aussie gain, disregarding Trump's threat to block stimulus"
+    excerpt: "The euro rose to $1.22 and the dollar fell on Wednesday as foreign exchange traders looked beyond U.S. President Donald Trump's threat to block a $892 billion COVID-19 aid package."
+    publishedDateTime: 2020-12-23T14:14:00Z
+    webUrl: "https://www.reuters.com/article/uk-global-forex-idUSKBN28X064"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X064"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X064"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545537325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM0JA"
+        width: 741
+        height: 545
+        isCached: true
   - title: "Attorney General William Barr resigns after clashes with Trump, still defends president"
     excerpt: "William Barr, who served as President Donald Trump's most effective shield and advocate for broad presidential authority, will leave before Christmas."
     publishedDateTime: 2020-12-16T09:24:00Z

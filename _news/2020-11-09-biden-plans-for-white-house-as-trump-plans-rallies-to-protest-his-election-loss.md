@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
 type: article
 quality: 161
-heat: 10721
+heat: 10741
 published: true
 
 provider:
@@ -2111,6 +2111,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_70d69aee84e240af90bef411cacb6ad6_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Twitter to wipe Trump's followers before Biden handover"
+    excerpt: "Twitter agreed to Donald Trump's request in 2016 to inherit Barack Obama's millions of followers. “In 2016, the Trump administration absorbed all of President Obama's Twitter followers on @POTUS and @WhiteHouse - at Team 44's urging,"
+    publishedDateTime: 2020-12-23T14:10:00Z
+    webUrl: "https://www.bbc.com/news/technology-55426685?via=indexdotco"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-55426685"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55426685"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/AF48/production/_116227844_whatsubject.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "A large majority of Brits wanted Biden to defeat Trump in the US election, a new opinion poll has found"
     excerpt: "An opinion poll showed that 57% of Brits wanted Biden to triumph in the US election, while only 16% supported Trump."

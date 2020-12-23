@@ -732,6 +732,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "In a shift, Twitter won’t transfer followers of official White House accounts when Biden takes office."
+    excerpt: "If you follow @POTUS, @WhiteHouse or the other official presidential handles on Twitter, you’ll have to re-follow them on Jan. 20 when President-elect Joseph R. Biden Jr. takes office. When President Trump was inaugurated in January 2017,"
+    publishedDateTime: 2020-12-22T23:49:00Z
+    webUrl: "https://www.nytimes.com/2020/12/22/us/in-a-shift-twitter-wont-transfer-followers-of-official-white-house-accounts-when-biden-takes-office.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/in-a-shift-twitter-wont-transfer-followers-of-official-white-house-accounts-when-biden-takes-office.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/in-a-shift-twitter-wont-transfer-followers-of-official-white-house-accounts-when-biden-takes-office.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 119
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/22/lens/22xp-twitter-biden/22xp-twitter-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Presidential Transition Highlights: Election ‘Should Be Celebrated, Not Attacked,’ Biden Says as Electoral College Affirms His Victory"
     excerpt: "Electors in states across the country have cast their votes for president, and the winner is not in doubt: Joseph R. Biden Jr. will be officially declared the president-elect."
     publishedDateTime: 2020-12-15T10:20:00Z

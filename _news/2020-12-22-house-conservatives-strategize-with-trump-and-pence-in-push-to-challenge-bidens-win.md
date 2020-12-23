@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trum
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trump-meeting/index.html"
 type: article
 quality: 208
-heat: 1188
+heat: 1208
 published: true
 
 provider:
@@ -729,6 +729,22 @@ related:
     quality: 123
     images:
       - url: "https://static01.nyt.com/images/2020/12/21/us/politics/21transition-briefing-pelosi/21transition-briefing-pelosi-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "In a shift, Twitter won’t transfer followers of official White House accounts when Biden takes office."
+    excerpt: "If you follow @POTUS, @WhiteHouse or the other official presidential handles on Twitter, you’ll have to re-follow them on Jan. 20 when President-elect Joseph R. Biden Jr. takes office. When President Trump was inaugurated in January 2017,"
+    publishedDateTime: 2020-12-22T23:49:00Z
+    webUrl: "https://www.nytimes.com/2020/12/22/us/in-a-shift-twitter-wont-transfer-followers-of-official-white-house-accounts-when-biden-takes-office.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/in-a-shift-twitter-wont-transfer-followers-of-official-white-house-accounts-when-biden-takes-office.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/in-a-shift-twitter-wont-transfer-followers-of-official-white-house-accounts-when-biden-takes-office.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 119
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/22/lens/22xp-twitter-biden/22xp-twitter-biden-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

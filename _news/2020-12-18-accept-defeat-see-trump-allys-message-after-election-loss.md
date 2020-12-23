@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn"
 type: article
 quality: 190
-heat: 470
+heat: 490
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216111257-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Here's what Trump's attempt to upend stimulus deal means"
+    excerpt: "President Donald Trump's surprise Tuesday night video cataloging his complaints about the massive -- and painstakingly negotiated -- $900 billion coronavirus relief bill immediately raised the specter of a government shutdown and economic turmoil at a time when aid is desperately sought for millions"
+    publishedDateTime: 2020-12-23T13:32:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sgLX0lBXhRs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/donald-trump-covid-relief-capitol-hill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/donald-trump-covid-relief-capitol-hill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200207001437-trump-mcconnell-sotu-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

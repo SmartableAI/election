@@ -2127,6 +2127,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Twitter to wipe Trump's followers before Biden handover"
+    excerpt: "Twitter agreed to Donald Trump's request in 2016 to inherit Barack Obama's millions of followers. “In 2016, the Trump administration absorbed all of President Obama's Twitter followers on @POTUS and @WhiteHouse - at Team 44's urging,"
+    publishedDateTime: 2020-12-23T14:10:00Z
+    webUrl: "https://www.bbc.com/news/technology-55426685?via=indexdotco"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-55426685"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55426685"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/AF48/production/_116227844_whatsubject.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Arizona election updates: Biden still leads in Arizona as Trump cuts into margin on 5th day of counting"
     excerpt: "Arizona enters its fourth day of postelection waiting. Follow The Arizona Republic's updates for Saturday, Nov. 7."
     publishedDateTime: 2020-11-07T16:15:00Z

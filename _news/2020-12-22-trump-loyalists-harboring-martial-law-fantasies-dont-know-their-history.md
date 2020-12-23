@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 1011
         isCached: true
+  - title: "Trump derails \"Santa rally\", Brexit deal hopes lift pound"
+    excerpt: "World stocks ticked up on Wednesday, as a last-minute intervention by President Donald Trump dampened positive sentiment over a U.S. stimulus deal, while the pound rose on the possibility of a Brexit agreement."
+    publishedDateTime: 2020-12-23T14:13:00Z
+    webUrl: "https://www.reuters.com/article/us-global-markets-idCAKBN28W2S3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN28W2S3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN28W2S3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545562812&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM0WA"
+        width: 923
+        height: 545
+        isCached: true
 
 secured: "+jV9I8mBpNL0mEau9ooH63/qw4O2TEgrU8yI8qukOkwNeg9JlWgXvk2iJb0dOGco+iYoERBP7n4L1SUPh7VeG7XSQ4lbD8egJMYPw8p8RjLnvt8vjLAvyFE1/8aCaW0TGln/wOTM5W9AX9MKLO3qri8/0Dcc0GGHOM5sWl7Ox0TDu3YepIlKnmViNYZW3Wv0SiL/sWSAawslbSaAu7bSSx+Rw4JnRofLPA5eKIFIp4lXZBlhdzxC20ZvQpuakqRZMc3JsjcBZJTlv4ETq/hUMR2CNlNZUetPo2kxRnOvlmwOccHYdSZI2SBGPvgmc8qYYX8/cOKx9d0iFBHYxPEaHBAfbaXO82mbcHlAFCecoV8=;QEEqg3tv9vk7M33XN3A9XQ=="
 ---

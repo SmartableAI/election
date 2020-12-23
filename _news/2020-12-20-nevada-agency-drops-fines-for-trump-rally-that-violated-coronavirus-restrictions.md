@@ -64,6 +64,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Rep. Chip Roy: Trump right to 'call B.S.' on 'irresponsible swamp' bill for coronavirus relief"
+    excerpt: "President Trump is right to oppose the new coronavirus relief package, Rep. Chip Roy, R-Texas, said Wednesday, calling it just the latest example of \"irresponsible swamp\" spending from Washington, D.C. "
+    publishedDateTime: 2020-12-23T13:01:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UVndKI5oM20/chip-roy-trump-coronavirus-payments-right-swamp-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/chip-roy-trump-coronavirus-payments-right-swamp-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chip-roy-trump-coronavirus-payments-right-swamp-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/414fff6d-3b55-4cb8-b4d6-3f9c03337139/159ca94b-07f0-4964-8a11-95eabedf5442/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Klobuchar calls Trump holding up coronavirus package for more stimulus an 'attack on every American'"
+    excerpt: "Minnesota Democratic Sen. Amy Klobuchar said President Trump's calls to amend the COVID-19 relief bill Congress passed on Monday an \"attack on every American.\""
+    publishedDateTime: 2020-12-23T14:25:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RYuL5yitey8/klobuchar-trump-coronavirus-package-attack-on-americans"
+    ampWebUrl: "https://www.foxnews.com/politics/klobuchar-trump-coronavirus-package-attack-on-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/klobuchar-trump-coronavirus-package-attack-on-americans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/441afbd8-3b5d-49bb-94e3-b15cc9c0ea76/37ad5e6f-62a0-407d-b794-e5e541d30bae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "CDC pushes back against House coronavirus committee accusations of 'political meddling' by Trump campaign"
     excerpt: "The CDC is pushing back against the House coronavirus crisis subcommittee's accusations of \"political meddling\" by the Trump administration."
     publishedDateTime: 2020-12-10T21:25:35Z

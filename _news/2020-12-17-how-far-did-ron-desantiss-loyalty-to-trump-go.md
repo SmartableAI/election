@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/16/how-far-did-ron-d
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/16/how-far-did-ron-desantiss-loyalty-trump-go/?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump derails \"Santa rally\", Brexit deal hopes lift pound"
+    excerpt: "World stocks ticked up on Wednesday, as a last-minute intervention by President Donald Trump dampened positive sentiment over a U.S. stimulus deal, while the pound rose on the possibility of a Brexit agreement."
+    publishedDateTime: 2020-12-23T14:13:00Z
+    webUrl: "https://www.reuters.com/article/us-global-markets-idCAKBN28W2S3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN28W2S3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN28W2S3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545562812&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM0WA"
+        width: 923
+        height: 545
+        isCached: true
   - title: "Trump loyalists harboring martial law fantasies don’t know their history"
     excerpt: "Martial law has been declared 68 times in the past, according to a law center report, though never for the reasons some of President Trump's supporters are advocating for now."
     publishedDateTime: 2020-12-22T12:06:00Z

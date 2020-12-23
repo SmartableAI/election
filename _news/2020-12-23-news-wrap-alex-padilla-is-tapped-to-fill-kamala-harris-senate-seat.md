@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/show/news-wrap-alex-padilla-is-tapp
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -180,6 +180,22 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c1ac55a6-cda3-4c11-b0fa-fe86866d49a8/5bf5cedd-8104-4227-ac0c-af858a7abdae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The choice to replace Kamala Harris has a trade-off: no Black women in the U.S. Senate"
+    excerpt: "Alex Padilla will be California’s first Latino senator, but some say it’s a step back for the hard-won representation of Black women in politics."
+    publishedDateTime: 2020-12-23T12:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article248037240.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article248037240.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article248037240.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 67
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c1ac55a6-cda3-4c11-b0fa-fe86866d49a8/5bf5cedd-8104-4227-ac0c-af858a7abdae/1280x720/match/image.jpg"
         width: 1280
