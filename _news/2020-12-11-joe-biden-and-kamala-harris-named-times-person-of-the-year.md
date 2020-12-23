@@ -603,6 +603,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump must blame Russia for cyber attack on U.S., Biden says"
+    excerpt: "President-elect Joe Biden said on Tuesday he had seen no evidence that a massive cyber attack against the United States is under control and warned that the breach will not go unanswered once he takes office on Jan."
+    publishedDateTime: 2020-12-23T04:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idUKKBN28W1ZF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28W1ZF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28W1ZF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545505476&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL1IE"
+        width: 829
+        height: 545
+        isCached: true
   - title: "Biden to present new defense chief as Trump clings to failed effort to overturn election result – live"
     excerpt: "Trump calls to ‘overturn’ results as legal attempts to reverse Biden’s victory dwindle, while president-elect will nominate Lloyd Austin to lead US defense"
     publishedDateTime: 2020-12-09T18:13:00Z

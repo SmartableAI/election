@@ -797,6 +797,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump issues 15 presidential pardons"
+    excerpt: "Watch \"Trump issues 15 presidential pardons that includes two for men convicted in the Russia probe and former congressmen and military contractors\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2020-12-23T04:07:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201223042702-trump-issues-15-presidential-pardons-that-includes-two-for-men-convicted-in-the-russia-probe-and-former-congressmen-and-military-contra/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/23/24f8efb2-94dc-4237-9e76-9d1e2f2eaa0c/thumbnail/1200x630/9076e78cedf15bd2a31f5201ff6d531c/1222-cbsn-bsb-614803-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pence, Pelosi, McConnell receive COVID vaccine — but Trump still holding out"
     excerpt: "Trump's apparent reluctance to get the shot comes as some of his most ardent supporters are making unfounded claims about the dangers of the vaccine."
     publishedDateTime: 2020-12-18T20:09:00Z

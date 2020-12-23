@@ -616,6 +616,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump must blame Russia for cyber attack on U.S., Biden says"
+    excerpt: "President-elect Joe Biden said on Tuesday he had seen no evidence that a massive cyber attack against the United States is under control and warned that the breach will not go unanswered once he takes office on Jan."
+    publishedDateTime: 2020-12-23T04:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idUKKBN28W1ZF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28W1ZF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28W1ZF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545505476&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL1IE"
+        width: 829
+        height: 545
+        isCached: true
   - title: "Biden to present new defense chief as Trump clings to failed effort to overturn election result – live"
     excerpt: "Trump calls to ‘overturn’ results as legal attempts to reverse Biden’s victory dwindle, while president-elect will nominate Lloyd Austin to lead US defense"
     publishedDateTime: 2020-12-09T18:13:00Z
@@ -2769,6 +2785,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "rfotfpdBjx+mk1o5KfmrgY/MvfKJALXMRloPWoXXmUP4+K98h3hFiAWbci0Om2HHkRJGaLxaxDxRznb2MEHQtoaTuINUilWuDQ7VQqb4m+gZ/7JrOn7BXGjJzP1dcIVWWHz2eGgqqtzHbEiG0TVF7afLxVjjlf2IilwTOqi9Lp8NvUdBa9BayF7GwS5A3P9vZKvP39q9mMVgj7g8xkHlDzIp02YY6ZqTUwE5Icjl61/X+xkqpaaEad5O+/W+KdoJqoY2ZI+BuU8yr//3DYyMPYZb7BBe+xE+yFtTb3skE/ujKDHjg4RrnClZaWdfxJVKBaYdrKUC+iYAOWutYtwMacQdBg6zoVpFMDNlRZXBSxU=;o56WH3KYRumNXWwNLZgy+w=="
+secured: "W8pZCylvFIo1rhCYiV2wHC1lAr4nAbknT6Jyy52ONANCcOocOvzQeEWZKVBLAh87sJmjqqxU0yWiIizULXNdwW/sxX9+kkxUCAGtZHESbeq0SUlVNs0hzTCgaHq5wnlh1MHVMCpMbvh/IYe6aryF07uJMP1Dy1gOUyG91zlCGOF714vhjRP4p7aLYRsFoPWH3DahM3Dc41HNt/v8W6Y182rEi0sWnEv+EYYoteaBsKDh8rld0SgjJ9MAvD2Fo6Xni2HHTR259XPQpLKFK6+zKQ2vdV4/3vFY2dZCm35aC4v6g29hsuTNLZq9+46pfiPVIGWzUMHFsy70BEIIPszbb7xV+z5krNk5kfOCjIcDjr/pcMYFg0doCwBLDc/BkB9J7oGHRUsW0xpJ+ymQ221tP3ag/DTfM18fw04h5A8OPd01J2h/Q/2kW8pwQOlObBKMxmZ5F5Boos/1GvCNL8kxdu1ewXjJ5Tan6q3DM32pRuu5VwCEDZxCFCWumZOR6KQJZSmg0e6h6snstmGdw0YoRA==;7lZIyqU3eI+mL0zL/F70Ag=="
 ---
 

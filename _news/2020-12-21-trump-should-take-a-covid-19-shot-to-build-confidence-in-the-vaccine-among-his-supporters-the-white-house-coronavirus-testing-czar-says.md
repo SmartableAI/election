@@ -81,10 +81,10 @@ related:
         isCached: true
   - title: "Trump signs stopgap funding bill; Congress awaits his approval of $892 billion COVID aid"
     excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week while Congress passed a massive COVID-19 aid and government funding package overnight aimed at bolstering the nation's pandemic response and its battered economy."
-    publishedDateTime: 2020-12-23T01:38:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUKKBN28W1KP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28W1KP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28W1KP"
+    publishedDateTime: 2020-12-23T04:13:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-idUSKBN28W1RV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W1RV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W1RV"
     type: article
     provider:
       name: Reuters

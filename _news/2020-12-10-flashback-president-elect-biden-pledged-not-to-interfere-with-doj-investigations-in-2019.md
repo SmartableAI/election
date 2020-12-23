@@ -863,6 +863,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden education secretary nominee pushed microaggression resources in response to riots"
+    excerpt: "Miguel Cardona is said to have been chosen for the role in part because of his public school experience."
+    publishedDateTime: 2020-12-23T03:05:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gyl2TF_awMw/biden-education-secretary-microaggression-resources-riots"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d35de097-8c5a-4e70-8247-09107ab6329c/068d8bec-02c6-4123-942d-2551920bbfe1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden economic adviser criticized GOP immigration posturing as 'xenophobic, race-baiting'"
     excerpt: "Comments were made in response to then-candidate Trump's discussion of a U.S.-Mexico border wall."
     publishedDateTime: 2020-12-22T00:42:42Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/putin-congratulates-biden-on-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp"
 type: article
 quality: 190
-heat: 1930
+heat: 1950
 published: true
 
 provider:
@@ -844,6 +844,22 @@ related:
     quality: 167
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4f0c4ce-26a5-46b0-9492-d485a2f1d303/e1ba3175-f9c1-4dbe-a47f-e9b4991047df/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden education secretary nominee pushed microaggression resources in response to riots"
+    excerpt: "Miguel Cardona is said to have been chosen for the role in part because of his public school experience."
+    publishedDateTime: 2020-12-23T03:05:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gyl2TF_awMw/biden-education-secretary-microaggression-resources-riots"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d35de097-8c5a-4e70-8247-09107ab6329c/068d8bec-02c6-4123-942d-2551920bbfe1/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

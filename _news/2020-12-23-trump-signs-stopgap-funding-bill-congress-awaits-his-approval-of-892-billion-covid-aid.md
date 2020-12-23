@@ -2,11 +2,11 @@
 category: news
 title: "Trump signs stopgap funding bill; Congress awaits his approval of $892 billion COVID aid"
 excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week while Congress passed a massive COVID-19 aid and government funding package overnight aimed at bolstering the nation's pandemic response and its battered economy."
-publishedDateTime: 2020-12-23T01:38:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUKKBN28W1KP"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUKKBN28W1KP"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28W1KP"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28W1KP"
+publishedDateTime: 2020-12-23T04:13:00Z
+originalUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-idUSKBN28W1RV"
+webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-idUSKBN28W1RV"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W1RV"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W1RV"
 type: article
 quality: 116
 heat: -1
@@ -142,6 +142,6 @@ related:
         height: 600
         isCached: true
 
-secured: "nLB8VATuSEpNccCzaWfFvWE8TlZ5G3/iK6eLHtqEngCKKge2XpqmL9hua3dS0gstFuYNZcGhZ0aq55qLwik3iI5DOFXRVWQo6x6hEsWMUuXwkllW3J+i/QEpM5aU+Ltc1i2bTn5GjmCNkNz/vJLRW5vB+0GUHt1hV9aEJxtXBsMl2hzmuNV/wEv9W7o3qslmTUZmJUEpq+vQdQpTzWpvesQOs5RKV+50+Xs2hKeEt0JnhDeSGeXL/8xQg0xnAbNtnnjSZKt8Go4X3YHdRyd4cTfPkgm0OXONGCBXEFJVwqTq1ma73vNBaONsBogS6QBQPDJZN6jvY3qQkmMdfqiM95c5hgHzhJZxjmvtyuPkyo4=;7z5eRZbfGoIv/UUqBiUogw=="
+secured: "TT+KtIrEES83QF7+PiBz+UpIl/G5gHK9mq2H/ITPjFl+icYbR5WmA8WUbPcrPuHG+jHsTM0XyTgmvlJ1jlXE/tbIK2wOpANR5fUNTfn+snt2C3dEnyRAGhwtI6Wq2/tbzK8teKppT6VmV2S1WstXHyplL/9vLy/zOh+JbkToiUOErfXPEYdYe5S87A8YdDXvoKzLsrWwmGTmyA6zwNuxfGKV3uLcTGTzeU7G//2eNhHYE457swt2Ur6lPwjxhk2f5Vs9aKcekgmVuZtAXtoF9tzd89B+liE19Z5IyTNU4YCoau1QlWcxRkAOoh7twlSwCEmb4NGNk5Lfg3c9Rx2086lrDxX+egBj5H9pkKyC904=;PwEdUKowZsSOzv4rMhrLLA=="
 ---
 

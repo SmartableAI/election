@@ -89,6 +89,22 @@ related:
         width: 1440
         height: 1080
         isCached: true
+  - title: "Alex Padilla to become California’s first Latino U.S. senator, replacing Kamala Harris"
+    excerpt: "Alex Padilla will be the first Latino to represent California in the U.S. Senate. He will succeed Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-12-22T18:00:00Z
+    webUrl: "https://www.latimes.com/california/story/2020-12-22/gavin-newsom-alex-padilla-senate-california-kamala-harris"
+    ampWebUrl: "https://www.latimes.com/california/story/2020-12-22/gavin-newsom-alex-padilla-senate-california-kamala-harris?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-12-22/gavin-newsom-alex-padilla-senate-california-kamala-harris?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 117
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/44efb7f/2147483647/strip/true/crop/6271x4096+0+43/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff1%2Ff5%2F3007e50448f8b7e5ae317a32c9ed%2Fla-photos-1staff-642253-me-1030-pol-ca-newsom-17-cmc.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Dianne Feinstein backs Alex Padilla for Kamala Harris’ Senate seat"
     excerpt: "Sen. Dianne Feinstein endorsed Alex Padilla to join her in the Senate, saying she has shared her support of the California secretary of state with Gov. Gavin Newsom. The governor must pick someone to fill out the remaining two years of Vice President-elect Kamala Harris’ term."
     publishedDateTime: 2020-12-03T19:41:00Z
@@ -196,9 +212,9 @@ related:
         height: 300
         isCached: true
   - title: "California Gov. Gavin Newsom Picks Top State Official Alex Padilla to Replace Kamala Harris in Senate"
-    excerpt: "California Secretary of State Alex Padilla will replace Vice President-elect Kamala Karris in the U.S. Senate, Gov. Gavin Newsom announced Tuesday."
+    excerpt: "California Secretary of State Alex Padilla will replace Vice President-elect Kamala Harris in the U.S. Senate, Gov. Gavin Newsom announced Tuesday."
     publishedDateTime: 2020-12-22T19:39:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/"
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
     ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
     type: article
@@ -212,6 +228,6 @@ related:
         height: 675
         isCached: true
 
-secured: "y1e/UEXD2nYApwd+Tm0E+mZlvugPkfYX5xuPi7HnGz+oCGPlFko94R5QfJcIjRflwi5ca+5c6cveGzdod7jyh8Wua8k2mj3qAjAUCVJ1Z0jvNS1CCOVZY294+6s+Xwid2scFDWWvpCup2L3Hhsn9+02bM1fRluid3K4s8HE4OrY/Qmvae1B5mPYcpZpYhOrm3lzFE/iHSl28+0NBsu0WA7aaiJxzM5k1rX6TbRrdNeqMJq1biTHipMmYcTnpNG+2iY781kHIhDRAaG3FeyXADCSB3589OsQWYCa1SZCeraByZLwqlBClfMxZAOJUbx0jpQOEN+E7w5ymzCODdy2jDg4ClymZfTUHwu4+f26R3js=;/iAQKXLU+ZScPCkfnFrBtw=="
+secured: "UzAhRgVMN4TWVlksuWDHHa3Z7P6xuFjpc6OR4ECsZ1KKnwjdg7b31VYY0SS+760OscKxM4CrspdjkoRJ1DshExPj8XP8v6tQnciWo8yFDfRvgicN2GcmqFd3vLg59pFPrQWE1mHowjty1zKUOculeKaN530vzmZbQ8OlgAuQGt0cwGsc2Fuu7zei9bi3gtOC383ONz7ojk98dV17AB/V9nXAyVpyAcXYpQWuZCO3L0+J7OSwiRk8k56m1AnwYA0fgr2axHeojSm3il9xMGdsfr+Vg7hGr6ufy0mMjuucaCCCP0ek/earK8gKKZ+o9onwwvOtvcJkfy3HAITjV4/z/IbmxGkZEwoSEmpJTUrOIhmMY88Edk3+j6cQ5ZCZfx+5NTenFOPSBMkRJ7TSYnSolbrAWr5kkOizvuUrTagSvp3Q/qx9I8RWosQz56s9h0PjcZpEu1PrDcYgR4+fLoQb4BJEtR7QXYti5sirwbSmN9tSjYqKcKFkvQ5b5UInrLpoGN7p2/Mkw7pEgSwWn4mXFg==;OeBVbp7HfU0ZRaFjzfs2FQ=="
 ---
 
