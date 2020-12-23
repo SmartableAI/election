@@ -569,6 +569,54 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump vetoes major defense bill, despite strong backing in Congress"
+    excerpt: "U.S. President Donald Trump vetoed a $740 billion bill setting policy for the Department of Defense on Wednesday, despite its strong support in Congress, raising the possibility that the measure will fail to become law for the first time in 60 years."
+    publishedDateTime: 2020-12-23T20:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-defense-congress/trump-vetoes-major-defense-bill-despite-strong-backing-in-congress-idUSKBN28X2IS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X2IS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X2IS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545602140&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM1DO"
+        width: 762
+        height: 545
+        isCached: true
+  - title: "Trump vetoes 'unconstitutional' defence bill"
+    excerpt: "US President Donald Trump has vetoed a $740bn (£549bn) defence spending bill that passed Congress this month. Mr Trump is objecting to provisions that limit troop withdrawals from Afghanistan and Europe and remove Confederate leaders' names from military bases."
+    publishedDateTime: 2020-12-23T20:57:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55432550?fbclid=IwAR3NUpFcsC94viL6paFZdI8vRHn9yQdjIHXMfUqxuYLAqFIT3kqZZcvvZLc"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55432550"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55432550"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1539F/production/_116234968_gettyimages-1230085839.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "UN rights office criticizes Trump pardons of ex-contractors"
+    excerpt: "The United Nations’ human rights office says it is “deeply concerned” by U.S. President Donald Trump’s pardons of four former government contractors convicted in a 2007 massacre in Baghdad that left m"
+    publishedDateTime: 2020-12-23T20:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/un-rights-office-criticizes-trump-pardons-of-ex-contractors/2020/12/23/13079f6a-4545-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/un-rights-office-criticizes-trump-pardons-of-ex-contractors/2020/12/23/13079f6a-4545-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/un-rights-office-criticizes-trump-pardons-of-ex-contractors/2020/12/23/13079f6a-4545-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump is still pinning his hopes on one last lawsuit in Michigan to overturn the presidential election"
     excerpt: "President Donald Trump said a report written by his allies in a lawsuit over a small Michigan county's Marijuana measure reveals \"massive fraud.\""
     publishedDateTime: 2020-12-17T00:08:00Z

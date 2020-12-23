@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's pick Buttigieg agrees to look for emails related to ID card program for illegal immigrants"
+    excerpt: "The incoming Biden administration’s nominee for transportation secretary will be busy producing emails for a conservative government watchdog group about his role in establishing a special residential ID card program for illegal immigrants."
+    publishedDateTime: 2020-12-23T18:54:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/igwKwXyE8P8/buttigieg-email-lawsuit-id-card-program-illegal-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/buttigieg-email-lawsuit-id-card-program-illegal-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-email-lawsuit-id-card-program-illegal-immigrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20351632662706-e1608148698619.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "hHp8gLSyOG2AeRqbnftw30oGnV4txYjoTha6tiGgm90VtJCE4WuYqUnYYkEnnPVTEfWR7/cIsCvC9lrdRFbDkYQJZ3MOIYVVflfdHqW4osDtr7B1sMHYq1s4MVGd1fVFaWCUKxr3Vatyteam0zz3ACO5H5VJVPrgqZiEdEDcy9xDoZLzHNBXrILtgwNX7M/WdIykINeOnSg1LJD6M8sVFTgHr+bRUpkuDSIirtIYirIwzmG+l2XSSYeOT+UZnXF6b25P/tcjp77l/C0QLH2brO9dKFLf9HsvCpZuniHbxobONQlT/fGq6O1aqStv67KJVND3OeOIDok1Nx9vp4ac4L2ZSfieWlzxr19Lu+rEugw=;u4jdNZ39Ff2CUArUiJ7JAQ=="
 ---

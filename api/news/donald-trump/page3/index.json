@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-12-12-climate-point-nissan-dumps-trump-and-nevada-is-spared-from-bombing.md",
-      "title": "Climate Point: Nissan dumps Trump, and Nevada is spared from bombing",
-      "excerpt": "Welcome to Climate Point, your weekly guide to climate, energy and environment news from around the Golden State and the country. In Palm Springs, Calif., I’m Mark Olalde. I've unfortunately never reported from Nevada,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2020/12/11/climate-point-nissan-dumps-trump-nevada-protected-bombing/6494580002/",
-      "originalUrl": "https://www.usatoday.com/story/news/2020/12/11/climate-point-nissan-dumps-trump-nevada-protected-bombing/6494580002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/03/11/USAT/02ac4568-442e-45c9-a134-95204eb31af9-Nevada_031119.jpg?auto=webp&crop=2969,1683,x0,y90&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6494580002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6494580002",
-      "publishedDateTime": "2020-12-11T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-12-msnbcs-maddow-ive-learned-from-trump-era-not-to-blindly-trust-government-officials.md",
       "title": "MSNBC's Maddow: I've learned from Trump era not to blindly trust government officials",
       "excerpt": "Liberal MSNBC host Rachel Maddow said Wednesday she had learned from the Donald Trump era not to blindly trust the word of government officials, an interesting assertion given her reliance on intelligence leaks,",
@@ -1584,6 +1532,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle.md",
+      "title": "If no crime was committed, how can Trump issue pardons to his inner circle?",
+      "excerpt": "Don’t let Trump discredit the pardon ,” op-ed, Dec. 1]. This presents a logical quandary: This administration has held that it has committed no crimes. How does a pardon work in absence of crime? The president has pardoned convicted criminals such as.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle/2020/12/04/4cc534b8-357f-11eb-9699-00d311f13d2d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle/2020/12/04/4cc534b8-357f-11eb-9699-00d311f13d2d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z6AWUJXIYUI6NEB5TMI627MNFI.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle/2020/12/04/4cc534b8-357f-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle/2020/12/04/4cc534b8-357f-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-06T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/trump-silence-cyber-hack
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/trump-silence-cyber-hack/index.html"
 type: article
 quality: 173
-heat: 193
+heat: 173
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Congressional backers cite cybersecurity provisions as they push Trump to sign defense bill"
-    excerpt: "The massive defense bill that President Donald Trump is threatening to veto contains provisions for increased cybersecurity, which has taken on significantly more importance in the wake of a massive cyberattack on federal agencies at the hands of suspected Russian hackers.\n    \n"
-    publishedDateTime: 2020-12-18T20:32:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RZrYuDIW11A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170513225821-cyberattacks-ransomware-latest-sebastian-lklv-00002816-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "iWl9XKKEfsFeBhdp/QDkkQMpT4nHixghPS023yFD4+u5kBptINW5DYW+OPNywj0CA72yhoS2uEweY7URnVqO7kdMiN/pdPHJowJ6/bLPZPPXpkqcUKSJhHBYtt2GB2uCisXMEnClxnBx0Flc4iAR4IXIQPc0/FNLYbLhbYjFDfaFWY4z0KYwlWUVHGBu4OmbPnSJkKBuqn9vHOKNaR/RcbEM0zHpoygVGJXcQAFRQ5B/IXnAF+WGC6RV6n8NtBSspBhgAracv5kjH7BlrEEZBNN0pB3tMFlUQ4Frp9rAkGAlzyGoaSV/777YQutqP11bcwEE8APPYuWOL04tyP/gomm5wNkDbV4mAbu/kX058c0=;XyHeQjeBS7jEaIaPGuuD6g=="
 ---

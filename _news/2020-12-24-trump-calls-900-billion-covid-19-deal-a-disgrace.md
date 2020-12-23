@@ -125,6 +125,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Trump leaves Congress with holiday cliffhanger on COVID-19 stimulus bill as lawmakers scramble"
+    excerpt: "Congress's $900 billion coronavirus relief package was thrown into doubt after Trump raised doubts about whether he would sign the bill into law before Christmas."
+    publishedDateTime: 2020-12-23T20:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/23/congress-scrambles-address-trump-concerns-coronavirus-relief-package/4028650001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4028650001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4028650001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/b3584f89-291f-4b6f-accc-0b6dd9aba598-GTY_1292279983.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Trump threatens COVID relief, Pelosi urges 'sign the bill'"
     excerpt: "President Donald Trump is threatening to torpedo Congress’ massive pandemic relief package in the midst of a raging pandemic and deep economic uncertainty"
     publishedDateTime: 2020-12-23T16:57:00Z

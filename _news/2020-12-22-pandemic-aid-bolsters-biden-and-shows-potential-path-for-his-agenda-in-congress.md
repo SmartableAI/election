@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Congress will have 0 Black women senators after Kamala Harris becomes VP"
+    excerpt: "Sen. Kamala Harris broke barriers as America's first female, first Black and first South Asian vice president-elect. But after her exit in January to join the Biden administration, there will be no Black women in the Senate.\n    \n"
+    publishedDateTime: 2020-12-23T19:35:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pi8x4KeNUHU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/black-women-senators-harris-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/black-women-senators-harris-trnd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015095117-01-kamala-harris-lead-image-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pompeo to meet Biden's secretary of state nominee this week"
     excerpt: "President-elect Joe Biden's pick for secretary of state is expected to visit the State Department and meet with Secretary of State Mike Pompeo on Thursday for the first time since Biden's victory, according to three sources familiar with the planning.\n    \n"
     publishedDateTime: 2020-12-15T12:23:29Z
@@ -511,6 +527,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/11/us/politics/12dc-cabinet1/11dc-cabinet1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden eyes frequent testing to reopen nation's schools"
+    excerpt: "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country."
+    publishedDateTime: 2020-12-23T19:55:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/12/23/biden-eyes-frequent-testing-to-reopen-nations-schools-1350426"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d6/1f/d14f15944a349a63f3aea61c185a/gettyimages-1276530953-c.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "vECj+ZkkzZEQ7phWJv3eZpQuFFuZys79oyX6uF03q14R8ah/qpz8NHkpZSvgcBZQJk+ST3x7tj7FivSMTPt39VcsW6B3TiYehLZG0tvsHj9ffqHNe/lFytWfjGssQlq3Eh51ZGbgo3a9Mx7za5weR0xu5R6CDD0VZAKDzkoY3bzgyLQF1dnbkkvYIkXyVIs0E7dBCd6Gw339+z6sIH+YBDkx8FoE/fdQNuG/XtV2cH2FfIELP0cIuwkL1r07fxTmNqn8v2cnwF9l9QjIhsSe2O3nBCwKioa1RfDeuVYAGaohKFnOdGDaYtz4eRwndSM0aU3HARkh055/AcBdIjFb4IM2j3drKJJw+d/6RwtHAjYDf9KFK4l9IsmAidEnxMm0VCecCQt8fZNqbQM3bbxCH1QthPJuGgEb9Ba2r8s5ojcmirHxr3MiaMktH5TZ/JUafXoxqY5i1OQZzDSf8dcJHI4Ep/ncn4F2vId+qVmaxtIhr7s+5rqKHt1+UJXvRpmL6fXvYXQKqKQvszcbJJbVQg==;Yt0rwzGVCtw+/m8QOb8a0g=="

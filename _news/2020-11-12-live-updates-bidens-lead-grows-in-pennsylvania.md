@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-bidens-lead-grows-in-p
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-bidens-lead-grows-in-pennslvania.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20309644010679-e1604514837386.jpg"
         width: 1280
         height: 675
+        isCached: true
+  - title: "Live Updates: Biden introduces education pick Cardona"
+    excerpt: "President-elect Joe Biden introduced his pick for education secretary, Miguel Cardona, on Wednesday and promised an \"ambitious agenda\" to re-open most schools within the first 100 days of his presidency."
+    publishedDateTime: 2020-12-23T19:11:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-23-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-23-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-23-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17982449-b85a-4a77-a6be-96d8701ff3b2/70bb5fd8-6315-4a9d-bdfb-644b243e64ec/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "mnck5Hnxt1JdEZZlW+3tMZprInhhWf4u9RkjhW6KiOpu4tYH4RN7eHFo/Fk/CvarmyDc660wJWCWL3N/z6NL/TOHrXgWaw4RPoCFSldYbPNHhGxe+ACiadfGpGTyfYEZtDosG3wsF2FQ7rRQNcXjkX345XeJeJ6OTYtefDdU3lX+KWY526hzVAwijzpjJRr+Z3NhfKe0u1AE8w9Gv3T3RERZFWQzP1qe9g7PQIcm3tKo7SxTps1mehH6l+LVt14jwWy1lXaUOMyA0kRbD0UMIjje00O74aBYFtz/8g0xo1dPTvJtlXc47vbJTZcpGa+SuJVHW4cUtAoDDeVp5i+19Ew/bZIR3n7Hm1pHtjB4hyM=;aF1Lcph7gQNbT14tEurCZg=="

@@ -384,6 +384,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Tensions intensify between Biden and Pentagon over stalled transition briefings "
+    excerpt: "President-elect Joe Biden's transition team on Wednesday disputed suggestions from Pentagon officials who questioned the accuracy of Biden's assertion a day earlier that the Department of Defense has refused to brief his team on the massive cyberattack on government agencies and major American technology"
+    publishedDateTime: 2020-12-23T20:17:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/te7DjX1C-o0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/pentagon-biden-tension/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/pentagon-biden-tension/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP senators still won't acknowledge Biden's win as some begin to recognize reality"
     excerpt: "A bevy of Senate Republicans, after refusing for weeks to acknowledge Joe Biden's victory in the presidential race, still wouldn't do so Monday evening even after the Electoral College made the win official.\n    \n"
     publishedDateTime: 2020-12-15T01:55:10Z
@@ -638,6 +654,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Vetoes Defense Spending Bill"
+    excerpt: "The legislation passed with a veto-proof majority in the House and Senate, but it’s unclear whether Congress will override him."
+    publishedDateTime: 2020-12-23T20:31:00Z
+    webUrl: "https://www.nytimes.com/2020/12/23/us/politics/trump-veto-defense-spending-bill.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/23/us/politics/trump-veto-defense-spending-bill.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/23/us/politics/trump-veto-defense-spending-bill.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/23/us/politics/23dc-veto/23dc-veto-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Inside the Right-Wing Media Bubble, Where the Myth of a Trump Win Lives On"
     excerpt: "The Electoral College has affirmed Biden’s victory. That doesn’t mean that Trump-friendly news outlets have accepted it."
     publishedDateTime: 2020-12-15T10:00:00Z
@@ -835,6 +867,20 @@ related:
       - url: "https://static.politico.com/capny/sites/default/files/eric-garcetti.jpg"
         width: 700
         height: 400
+        isCached: true
+  - title: "Trump vetoes defense bill, setting up showdown with Congress"
+    excerpt: "The veto paves the way for lawmakers to deliver a major rebuke of the president in the final weeks of his administration."
+    publishedDateTime: 2020-12-23T20:23:00Z
+    webUrl: "https://www.politico.com/news/2020/12/23/trump-ndaa-veto-defense-bill-450286"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/58/e8/f21539b847f3be77329d92b6f9b0/20201223-donald-trump-ap-773-2.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "dO4d/Amlwm9ledXzMfL1CwgqhjExU4MfuaeDEKo5ycaPOJYpw8enpAvPxEC8nHO99uES+yzxvx6v1dB1iNGlt2hZMGPCm58Nww1YDvtQ5JgDzIoJhTdKnI/BMeOrfTN2PG+Rq4h/7ipDuXhOdXW0RzcdiqtAXrpHw8Mp4h4c46QefFFdv0ia70EY9PkdlJXL1OeMs+p+r/0Bp9K8lfYmLqM593JHVQuZvVMmNy2EXbcyK2S1iP4Q1XXx+tfoYUIHUv8tWUAw3UiYdSLmBpLHmJ4ksZodtWCar6g6uhs8mZYVcE3Z8dbxqKbnuqk76J46pjcIM3OxGyjXE+7OwNpc2w1mKRZ3XrObjCHZKDVFuJSfYWb02S/8mP6DmC7BG1W2g8Ay1m76cBL8P5F7jDAjTmAZh+1ofHnNVHXhW5ISG56s3mwl37nEODMB18nYqQYhtpDcQ6NGYY+LnTKpPTY9HyEgXttAUC6NnZ54IbY0gvTUecV5gQ2HRuZya1oxlfh6LcYfb5Xl3jQgtCBoHbC3yQ==;3NIX6v6qPEezXVPl10o3xw=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.amp.html"
 type: article
 quality: 135
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -30,6 +30,88 @@ images:
     width: 1050
     height: 549
     isCached: true
+
+related:
+  - title: "Congressional GOP grapples with 'unhinged' Trump"
+    excerpt: "Even in his waning days in power, President Donald Trump is still finding ways to inflict his signature loyalty tests on the Republican Party.\n    \n"
+    publishedDateTime: 2020-12-23T20:44:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gQBM4HKE9Mo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/congress-gop-trump-veto/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/congress-gop-trump-veto/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223055901-02-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump vetoes massive defense bill despite overwhelming GOP support"
+    excerpt: "President Donald Trump on Wednesday vetoed the sweeping defense bill recently passed by Congress. He had previously threatened to do so because it doesn't include a repeal of Section 230, a law that shields internet companies from being liable for what is posted on their websites by them or third parties.\n"
+    publishedDateTime: 2020-12-23T20:41:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ydo-xVf8rFk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/trump-ndaa-veto/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/trump-ndaa-veto/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222011052-donald-trump-1212-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Congressional backers cite cybersecurity provisions as they push Trump to sign defense bill"
+    excerpt: "The massive defense bill that President Donald Trump is threatening to veto contains provisions for increased cybersecurity, which has taken on significantly more importance in the wake of a massive cyberattack on federal agencies at the hands of suspected Russian hackers.\n    \n"
+    publishedDateTime: 2020-12-18T20:32:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RZrYuDIW11A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170513225821-cyberattacks-ransomware-latest-sebastian-lklv-00002816-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Congress passes coronavirus relief bill, but Trump criticizes deal"
+    excerpt: "President Donald Trump had been expected to sign the bill in days, but he then called for bigger payments. He didn't directly say he would veto it."
+    publishedDateTime: 2020-12-23T11:50:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-12-22-covid-live-updates-vaccine-news-n1252058"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1252058"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1252058"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436937/201220-covid-live-blog-social-only_430f30c4e08497ebcf945e5d49426121.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "‘Like a Hand Grasping’: Trump Appointees Describe the Crushing of the C.D.C."
+    excerpt: "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, go public on the Trump administration’s manipulation of the agency."
+    publishedDateTime: 2020-12-16T10:00:00Z
+    webUrl: "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/16/us/politics/cdc-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/09/us/politics/00dc-virus-cdc-2/00dc-virus-cdc-2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "wXIRdoH42J95VIHIAiV9EsHN6snSGJJmn3zDd4hWMR+TycQb9uZ0Ffc3XYCSSEUsB3zR2l8d0Se26K1C1nxflt9vn+wRh47menx2zhd7JwhbsEJiSq/evrWJdpzqbG8zQYj3TW1lPoeEEZ68b1cj+qo+pYyYTKKGUgkihJhRo9F/1eLWVGdbtUfcomwl+rw6tn772Ds6+T8LGl4ZU4g0mlbFCBuNJVHTkFAKN5Bhym5xGysEwMWWNW5gmJoXgNj3X7585XHscIeBVmtpT+uqrOoJJZII+o/dmooZ+3GfCHp+Bst4ZvtsKMWO/N24Nzkb7XHz7jQBS2q5ceOh0RFmuvuPpbc956YtbUSfvhPGd4uAWiHlrfKeYQL4RrOEszVC96l3FqBMVdnwPjLxDngnxtNHA2Mqt1z3Zbcb0gUcm1v0f7jBMMwA0vLpJrv/IbmMc22ZW70QO621UPOiFymCAxTtjjX7JMN4soKyT3E6f0OL9EsYDq7XbYbavQBc1/qrJYNmDID5HOAOOu/8boBZ+A==;AP8eLv1t3VB50P5S1J+gSA=="
 ---

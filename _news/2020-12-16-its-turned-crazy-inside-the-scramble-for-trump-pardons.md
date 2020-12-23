@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/donald-trump-pardons-lam
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/donald-trump-pardons-lame-duck/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 375
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump lauded, then derided Barr. A look in inside the attorney general's tumultuous term. "
+    excerpt: "At his confirmation hearing nearly two years ago, Attorney General William Barr boasted that there was an advantage to putting him in charge of the Justice Department -- he could afford not to care about the consequences of his decisions.\n    \n"
+    publishedDateTime: 2020-12-23T20:48:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_O2PwU0he1o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/trump-barr-attorney-general-legacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/trump-barr-attorney-general-legacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222192556-02-bill-barr-profile-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "What’s Next for Trump Voters Who Believe the Election Was Stolen?"
     excerpt: "Some are certain the election was fraudulent. Others aren’t so sure. What becomes of their skepticism has important implications for American democracy."
     publishedDateTime: 2020-12-14T10:00:00Z
@@ -142,6 +158,22 @@ related:
       - url: "https://static.politico.com/f7/e6/26a4ccd944a2a60ebd9034cab615/201217-maga-getty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "How Trump Has Jeopardized Stimulus Relief"
+    excerpt: "The president’s demand that Congress amend a giant coronavirus relief and government spending bill has raised the unexpected prospect that help may no longer be days away."
+    publishedDateTime: 2020-12-23T20:30:00Z
+    webUrl: "https://www.nytimes.com/2020/12/23/us/politics/trump-covid-stimulus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/23/us/politics/trump-covid-stimulus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/23/us/politics/trump-covid-stimulus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/23/us/politics/23dc-stimulus-explainer-sub/23dc-stimulus-explainer-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Time winds down for Trump to veto NDAA"
     excerpt: "The deadline has arrived for President Donald Trump to veto the defense bill and call Congress’ bluff to override him. — The president pardons private contractors convicted in the massacre of Iraqi civilians."

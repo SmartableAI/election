@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump veto threat raises the prospect of year-end government shutdown"
+    excerpt: "Washington on Wednesday faced the prospect of a year-end U.S. government shutdown during a raging pandemic after outgoing President Donald Trump threatened not to sign a $2.3 trillion package funding the government for another year."
+    publishedDateTime: 2020-12-23T20:03:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump/trump-veto-threat-raises-the-prospect-of-year-end-government-shutdown-idUSKBN28X1UD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X1UD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X1UD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545570453&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM10K"
+        width: 738
+        height: 545
+        isCached: true
   - title: "RPT-UPDATE 2-Trump downplays impact of massive breach of government computer systems"
     excerpt: "U.S. President Donald Trump in his first comments about a widespread data breach across the U.S. government downplayed the seriousness and impact of the cyber espionage campaign, and questioned whether Russia was to blame."
     publishedDateTime: 2020-12-19T18:27:00Z

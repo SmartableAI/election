@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-biggest-political-scand
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
 type: article
 quality: 182
-heat: 282
+heat: 302
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "President Trump vetoes National Defense Authorization Act for Fiscal Year 2021"
+    excerpt: "President Trump vetoed the National Defense Authorization Act for Fiscal Year 2021 Wednesday, calling it a “gift” to U.S. adversaries China and Russia, making good on a promise to veto it if it did not repeal a law that shields certain Big Tech companies from liabilities."
+    publishedDateTime: 2020-12-23T20:42:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DlsSY3OwP2Y/trump-veto-national-defense-authorization-act"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-veto-national-defense-authorization-act.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-veto-national-defense-authorization-act.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20357806053798-1.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Omar blasts Biden team 'bait and switch' after officials say undoing Trump immigration policy will 'take time'"
     excerpt: "Rep. Ilhan Omar accused the Biden team of already breaking a “core campaign promise” after officials picked to serve in the president-elect’s administration admitted that they would not roll back Trump’s immigration policies all at once. "

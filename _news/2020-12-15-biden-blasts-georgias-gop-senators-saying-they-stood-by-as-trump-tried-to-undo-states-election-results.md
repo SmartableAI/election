@@ -367,6 +367,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Tensions intensify between Biden and Pentagon over stalled transition briefings "
+    excerpt: "President-elect Joe Biden's transition team on Wednesday disputed suggestions from Pentagon officials who questioned the accuracy of Biden's assertion a day earlier that the Department of Defense has refused to brief his team on the massive cyberattack on government agencies and major American technology"
+    publishedDateTime: 2020-12-23T20:17:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/te7DjX1C-o0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/pentagon-biden-tension/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/pentagon-biden-tension/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP senators still won't acknowledge Biden's win as some begin to recognize reality"
     excerpt: "A bevy of Senate Republicans, after refusing for weeks to acknowledge Joe Biden's victory in the presidential race, still wouldn't do so Monday evening even after the Electoral College made the win official.\n    \n"
     publishedDateTime: 2020-12-15T01:55:10Z
@@ -621,6 +637,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Vetoes Defense Spending Bill"
+    excerpt: "The legislation passed with a veto-proof majority in the House and Senate, but it’s unclear whether Congress will override him."
+    publishedDateTime: 2020-12-23T20:31:00Z
+    webUrl: "https://www.nytimes.com/2020/12/23/us/politics/trump-veto-defense-spending-bill.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/23/us/politics/trump-veto-defense-spending-bill.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/23/us/politics/trump-veto-defense-spending-bill.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/23/us/politics/23dc-veto/23dc-veto-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "First U.S. vaccines, Electoral College affirms Biden win and Barr is out"
     excerpt: "Health care workers get first vaccines as Covid death toll tops 300,000. With the prick of a needle, the battle against Covid-19 took what could be a decisive turn Monday as the f"
     publishedDateTime: 2020-12-15T13:36:00Z
@@ -834,6 +866,20 @@ related:
       - url: "https://static.politico.com/capny/sites/default/files/eric-garcetti.jpg"
         width: 700
         height: 400
+        isCached: true
+  - title: "Trump vetoes defense bill, setting up showdown with Congress"
+    excerpt: "The veto paves the way for lawmakers to deliver a major rebuke of the president in the final weeks of his administration."
+    publishedDateTime: 2020-12-23T20:23:00Z
+    webUrl: "https://www.politico.com/news/2020/12/23/trump-ndaa-veto-defense-bill-450286"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/58/e8/f21539b847f3be77329d92b6f9b0/20201223-donald-trump-ap-773-2.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "gODMDaq6eOYjgUtLpOm0c14XFuXfcv5vK6jAF6vvO1vB0MKt1J3yCNK1P4mnaZGwDL2QD4Lur0TE3GJ6t+oEHKKaMcRIUQB0xZQr9yMkeaUS/eSluQxouWOvsXWsKzRvctNND4JovP0wlKaQftLVbJbI5LiZIi1qgAtSQRfXUcKH08OTNOYVEhJhSVucPGLvhkKMD5JJPZnVgFydf/G/feFokl6h7cmAfmpu5w9b4YKOxJyPmG+9afZeuJ0I8gy9muCwLqRAA+xg5+AhYCWeNPwa47rOrMfKMM2iIbKNl4a0K8sDmdoP6lnqAQn9B3250E4bP/BU5JZj30WL7U5bXoAx1vVi1EGIDBa5VpIoF5Q=;qdmlKCUuo98X+K4Osj0Jeg=="
