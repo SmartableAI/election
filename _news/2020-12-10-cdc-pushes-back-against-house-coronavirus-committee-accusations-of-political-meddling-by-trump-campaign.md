@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Toomey urges Trump to sign coronavirus aid bill despite flaws, says he's 'not a fan' of direct payments"
+    excerpt: "Sen. Pat Toomey, R-Pa., urged President Trump Wednesday to sign the $908 billion coronavirus relief bill into law, despite the legislation's flaws."
+    publishedDateTime: 2020-12-23T21:42:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IhPO4rvf8Fo/pat-toomey-trump-coronavirus-bill-direct-payments"
+    ampWebUrl: "https://www.foxnews.com/politics/pat-toomey-trump-coronavirus-bill-direct-payments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pat-toomey-trump-coronavirus-bill-direct-payments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Nevada agency drops fines for Trump rally that violated coronavirus restrictions"
     excerpt: "The Nevada agency responsible for enforcing the state’s coronavirus restrictions has dropped fines it imposed after President Donald Trump held a campaign rally at an airport hangar in September."
     publishedDateTime: 2020-12-19T18:18:00Z

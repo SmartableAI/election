@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/16/how-far-did-ron-d
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/16/how-far-did-ron-desantiss-loyalty-trump-go/?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "With threat, Trump plunges COVID talks, GOP into tumult"
+    excerpt: "The video message that plunged Washington into chaos was filmed in secret."
+    publishedDateTime: 2020-12-23T22:10:00Z
+    webUrl: "https://www.businessinsider.com/with-threat-trump-plunges-covid-talks-gop-into-tumult-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/with-threat-trump-plunges-covid-talks-gop-into-tumult-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/with-threat-trump-plunges-covid-talks-gop-into-tumult-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "vEv+wzUUz1eYEwRenumDR0qUv3pVeVuehwKDD4tT2YNRxGJAp5NdRncGbgY33w1VQeQ3TPYvsc0cohjYwvzYfZZPMaS4n32QEl7ZGo0aAsC4Rx5taudh9Y+sQl63TeT++o5PIjFtv8ALOJQF9vUp7f9F3eGJC3JlUrX+AR3YlWFoYUjrODNhIPNWgNV7/h7G5tyz6Dw/RcEV8Xj+w4w3axW0q7OhPcr/xgHVf62HMruJl/y7gXJteyjZbdn4FupXBJ/Z2352b6Gn0xDDPuZHI/DOBB9JrXtXbRXVUYe2abXpM9ytkr/fSMwJHZNHqdD0DUQTwEUepzBOQTlwV2zyVY8TDjvRW9YKv0kGfkr45irc8cusmo28U3dm0O/FhgSi7+oxmuAORg4AOweZUgKL3Npe/hagxIvjauT73gw4Pfg55zOqAcnkZWYtt95P2KJkde4uEWDBfIG71XcYMxwuVPBiJT30SSTpxQmaf2QRosM4w664AbyFbMVNZUojNuKfkBs6w+KFRgSJ+N87YQzHuA==;yNQxS0Qh4aPX9stk1b7uEw=="
 ---

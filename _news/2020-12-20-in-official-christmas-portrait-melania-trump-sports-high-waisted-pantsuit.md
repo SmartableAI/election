@@ -96,6 +96,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump heads to Mar-a-Lago for Christmas with government funding, coronavirus relief package in limbo"
+    excerpt: "President Trump headed to Palm Beach, Florida Wednesday to celebrate Christmas, as coronavirus relief and government spending remain in limbo after he said he was dissatisfied with the package. "
+    publishedDateTime: 2020-12-23T21:09:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZuYpt54LAl8/trump-mar-a-lago-christmas-coronavirus-relief-in-limbo"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-mar-a-lago-christmas-coronavirus-relief-in-limbo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mar-a-lago-christmas-coronavirus-relief-in-limbo.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15e12a5d-e28b-45fd-a1f3-606289515e5c/d1994829-de47-4bcf-b359-b6477a0f80dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump and Melania wear matching tuxedos in official Christmas portrait"
     excerpt: "President Trump and first lady Melania donned coordinating tuxedos for their final official Christmas portrait, released Friday. Melania tweeted a photo of the pair standing in the Grand Staircase of the White House,"
     publishedDateTime: 2020-12-18T23:24:00Z

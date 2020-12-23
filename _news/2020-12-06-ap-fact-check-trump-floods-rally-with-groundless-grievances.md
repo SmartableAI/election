@@ -79,6 +79,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Fact check: Trump did not tweet declaring Martial Law"
+    excerpt: "A screenshot of a tweet from an account allegedly belonging to President Donald Trump circulating on social media announced his invocation of Martial Law on Dec. 18. This tweet is fabricated."
+    publishedDateTime: 2020-12-23T20:31:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-fake-trump-tweet-martial/fact-check-trump-did-not-tweet-declaring-martial-law-idUSKBN28X2HE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X2HE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X2HE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545600510&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM1CR"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Fact check: False QAnon claim that Trump secretly watermarked mail-in ballots to prove fraud"
     excerpt: "QAnon followers are pushing the claim that Donald Trump secretly watermarked mail-in ballots to prove fraud. This is false."
     publishedDateTime: 2020-11-10T20:55:00Z

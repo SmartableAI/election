@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn"
 type: article
 quality: 190
-heat: 510
+heat: 530
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_51/3436447/201217-donald-trump-jm-1056_6b8dd9a08c701d22da204e13e60e8e86.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "New Signs of Economic Distress Emerge as Trump Imperils Aid Deal"
+    excerpt: "A decline in consumer income and spending poses a further challenge to the recovery as jobless claims remain high and benefits approach a cutoff."
+    publishedDateTime: 2020-12-23T22:36:00Z
+    webUrl: "https://www.nytimes.com/2020/12/23/business/economy/economy-trump-income-spending-unemployment.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/23/business/economy/economy-trump-income-spending-unemployment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/23/business/economy/economy-trump-income-spending-unemployment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/23/us/23virus-econ01/23virus-econ01-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Trump flays former allies, calls to ‘fight on’ after Supreme Court defeat"
     excerpt: "Trump aired a lengthy list of his ongoing grievances with the high court’s decision that dismissed a longshot challenge by the attorney general of Texas."

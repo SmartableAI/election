@@ -175,6 +175,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "7 things Joe Biden promised to do his first day in office"
+    excerpt: "President-elect Joe Biden has peddled “day one” promises far and wide throughout his campaign. Here’s what he said is on his agenda for Jan. 20, Inauguration Day"
+    publishedDateTime: 2020-12-23T21:53:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uTb4rUBSRJQ/7-things-biden-promised-first-day-in-office"
+    ampWebUrl: "https://www.foxnews.com/politics/7-things-biden-promised-first-day-in-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/7-things-biden-promised-first-day-in-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48694bc-fcc1-4336-bf59-e0584bc8a4e1/369eedf1-67e3-45b8-81ce-9a7ed8e49f01/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Democratic Party to choose new chair day after Biden inauguration"
     excerpt: "The Democratic National Committee (DNC) will formally choose its new chair the day after President-elect Joe Biden is inaugurated."
     publishedDateTime: 2020-12-23T16:54:35Z

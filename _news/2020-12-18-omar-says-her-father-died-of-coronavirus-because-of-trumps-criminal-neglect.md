@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/omar-father-died-coronavirus-trumps
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-father-died-coronavirus-trumps-criminal-neglect.amp"
 type: article
 quality: 171
-heat: 271
+heat: 291
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/441afbd8-3b5d-49bb-94e3-b15cc9c0ea76/37ad5e6f-62a0-407d-b794-e5e541d30bae/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Toomey urges Trump to sign coronavirus aid bill despite flaws, says he's 'not a fan' of direct payments"
+    excerpt: "Sen. Pat Toomey, R-Pa., urged President Trump Wednesday to sign the $908 billion coronavirus relief bill into law, despite the legislation's flaws."
+    publishedDateTime: 2020-12-23T21:42:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IhPO4rvf8Fo/pat-toomey-trump-coronavirus-bill-direct-payments"
+    ampWebUrl: "https://www.foxnews.com/politics/pat-toomey-trump-coronavirus-bill-direct-payments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pat-toomey-trump-coronavirus-bill-direct-payments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "CDC pushes back against House coronavirus committee accusations of 'political meddling' by Trump campaign"
     excerpt: "The CDC is pushing back against the House coronavirus crisis subcommittee's accusations of \"political meddling\" by the Trump administration."

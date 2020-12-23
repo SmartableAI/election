@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump vetoes national defense bill"
+    excerpt: "Meanwhile Pelosi pushing for bigger stimulus checks after Trump intervention."
+    publishedDateTime: 2020-12-23T21:22:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u77L-cq0kuQ/trump-vetoes-national-defense-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-vetoes-national-defense-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vetoes-national-defense-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Georgia secretary of state orders study of mail-in ballot signatures after Trump pressure "
     excerpt: "Georgia Secretary of State Brad Raffensperger said Wednesday that there will be a statewide signature match study after pressure from President Trump and his supporters."
     publishedDateTime: 2020-12-16T19:42:36Z
@@ -188,6 +204,22 @@ related:
     quality: 135
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eefeeb7a-e4d9-46a2-94fa-ea358179ae3f/153fcbb1-8ed2-4531-be23-ba0209bbc851/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump vetoes national defense bill"
+    excerpt: "President Trump vetoed the National Defense Authorization Act for Fiscal Year 2021 Wednesday, calling it a ‘gift’ to U.S. adversaries China and Russia, making good on a promise to veto if it did not repeal a law that shields certain Big Tech companies from liabilities."
+    publishedDateTime: 2020-12-23T21:28:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-vetoes-national-defense-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-vetoes-national-defense-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vetoes-national-defense-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15e12a5d-e28b-45fd-a1f3-606289515e5c/d1994829-de47-4bcf-b359-b6477a0f80dc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

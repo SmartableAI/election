@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-sec
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/"
 type: article
 quality: 122
-heat: 182
+heat: 162
 published: true
 
 provider:
@@ -63,17 +63,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Biden picks U.S. Representative Deb Haaland to be Interior Secretary: Washington Post"
-    excerpt: "Elect Joe Biden will nominate Representative Deb Haaland to serve as his Interior Secretary, the Washington Post reported Thursday."
-    publishedDateTime: 2020-12-17T20:05:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-interior-idUSW1N2HV025"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HV025"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HV025"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
 
 secured: "chefqoKvf+918Kc6G4k000vccwqWDtAH6LAdblBlSKjFDg7LuA69aUEWnT4eysyQGBkgpJ0Hoh3Ec6iL+GK4Dl0522vESw6kQU5brkEbyRdsEkjam9fDMLscNJ2ReF2E8v+6dJeqlT5ny+DaCzEMWh4Z/hAyPsZqw5TG+mWD3qcxXrLaoL3HAqTbNYjXErrD0eX+y8gIUbFrj5BCoQIhVwG7H04lAgof8Ers7jfJidTfut+NFgxD+NQahd+C/EUIx2pN+5KztwzOq+8DyzbiDk9adME4v2Rvt4tigAap93yo/pA20Ibz7/5ZtNhgsqIZ6EKjxDkYXIogsvi/cfc+OsHm6fkRFQFWrpl0d7C6Y2ulnd4/KkRfptZ3YFhLEqT6WtZ9KmveP2jK/ssdrPjWflQr/wXEMStrJzQ5afm8xdT3k4fsd2IbXC9pyuY2C8kx9lZ0HnTdxYredIFqLHhIKud3J9Pgm9C1C33OFm+JFqnYpe1R3RXFHws3uAUXUJHJkxtcx4Uz6/nMYKXiDYALhA==;QZyO82zh2IJf7Y0DDXBcFg=="
 ---

@@ -272,6 +272,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "New Signs of Economic Distress Emerge as Trump Imperils Aid Deal"
+    excerpt: "A decline in consumer income and spending poses a further challenge to the recovery as jobless claims remain high and benefits approach a cutoff."
+    publishedDateTime: 2020-12-23T22:36:00Z
+    webUrl: "https://www.nytimes.com/2020/12/23/business/economy/economy-trump-income-spending-unemployment.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/23/business/economy/economy-trump-income-spending-unemployment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/23/business/economy/economy-trump-income-spending-unemployment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/23/us/23virus-econ01/23virus-econ01-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump flays former allies, calls to ‘fight on’ after Supreme Court defeat"
     excerpt: "Trump aired a lengthy list of his ongoing grievances with the high court’s decision that dismissed a longshot challenge by the attorney general of Texas."
     publishedDateTime: 2020-12-12T15:18:00Z

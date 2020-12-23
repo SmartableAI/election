@@ -63,17 +63,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Biden picks U.S. Representative Deb Haaland to be Interior Secretary: Washington Post"
-    excerpt: "Elect Joe Biden will nominate Representative Deb Haaland to serve as his Interior Secretary, the Washington Post reported Thursday."
-    publishedDateTime: 2020-12-17T20:05:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-interior-idUSW1N2HV025"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HV025"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HV025"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
 
 secured: "aVAsxtYWDrH2opPQYJbbxnbF6imhRDtr+JYHPTJmop0ZgffqdM/mmsdfDxP6is9kCcH+knZ4wXFxUe/A908ZJtHcqX72jsMHva2382zgjvFoXW/cvM8A5ZPk+DkaLjG5yGdXHgvzckNhZL3qpPR6x59VEboZZS+BdtJkhjvUoY2ge/Cpf7GhpeZcYtKKPi+e31uD+nsl2nfXNUWPtatGjcgdfebAhu0bACBAQcEsQo4KHZbtosh0aYwecxSUz62Zub1Ecf3/edOzJqcTkC3OzkX8epOc77hVn+ezhwcgBV5KpQhyaIr2WKeVnwOry7+1jFiL3LFwz/TudpFMXRGC1owNL6b5hlx1T5vFDa2iKxc=;mTmPe5xdZ5P/VeMwKQBDUw=="
 ---

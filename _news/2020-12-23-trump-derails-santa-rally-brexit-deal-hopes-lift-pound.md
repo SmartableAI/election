@@ -63,6 +63,17 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "With threat, Trump plunges COVID talks, GOP into tumult"
+    excerpt: "The video message that plunged Washington into chaos was filmed in secret."
+    publishedDateTime: 2020-12-23T22:10:00Z
+    webUrl: "https://www.businessinsider.com/with-threat-trump-plunges-covid-talks-gop-into-tumult-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/with-threat-trump-plunges-covid-talks-gop-into-tumult-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/with-threat-trump-plunges-covid-talks-gop-into-tumult-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "x3dKaE/kEql8tzlJckEGr6PDwMuvZSsdpxlGh7qWtCXeaePbz5yQn5aQE3+ZGG00djSLwYkiTepYqybQXJLmcK0XUnzU1touc/UFWCpawtlnVFh6yrpHN1eVtDXOFm1639pCrVbK0zoYbAUqnS0ejuVUayBXn28jwHp3uEAYNv42Gx7YnGGUbhFX0lQtqX+CZ9jOAyh7gL8P8bVSn9DluiM9e5tlq03Dmg3+unRFe7xLGc9baTDBTTncmeU9P/GuF11U4Eueail8BIfDBz8vDAEWnkboaNOj2JZHqhWKzR6SNjH8Nv8K+GVhqYKajzpmvTGmQWi/KgzFFhAsSbyhQJsd3RDgPPXvFev/+prfBC0=;FCcNqjuzenyvjO37KG8SNQ=="
 ---

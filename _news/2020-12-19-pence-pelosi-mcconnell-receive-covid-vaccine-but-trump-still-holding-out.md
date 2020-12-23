@@ -668,6 +668,38 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump vetoes defense bill, and Congress is set to override him for first time"
+    excerpt: "President Trump's veto tees up his first override by Congress. He sought language penalizing online platforms and opposed renaming military bases."
+    publishedDateTime: 2020-12-23T22:32:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-23/trump-vetoes-defense-bill-and-congress-is-set-to-override-him-for-first-time"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-23/trump-vetoes-defense-bill-and-congress-is-set-to-override-him-for-first-time?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-23/trump-vetoes-defense-bill-and-congress-is-set-to-override-him-for-first-time?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 122
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/ae0f4b6/2147483647/strip/true/crop/3675x2400+575+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe5%2F53%2Fffa3d97344959f0206c67d32fd61%2Fap20358035275681.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "U.S. House Speaker Pelosi will push to override Trump's veto of Pentagon bill"
+    excerpt: "U.S. House of Representatives Speaker Nancy Pelosi said Wednesday that the chamber will vote on Dec. 28 to override Trump's veto of Pentagon's spending bill, the National Defense Authorization Act."
+    publishedDateTime: 2020-12-23T22:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-defense-congress-pelosi/u-s-house-speaker-pelosi-will-push-to-override-trumps-veto-of-pentagon-bill-idUSKBN28X2N9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X2N9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X2N9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545607737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM1FL"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Even as Trump vows to keep fighting, his aides are quietly starting to move on"
     excerpt: "Chief of Staff Mark Meadows has discussed opening a consulting firm with other White House aides and allies. Support our journalism. Subscribe today. Top economic adviser Larry Kudlow has told friends he is planning to return to broadcasting,"
     publishedDateTime: 2020-12-19T11:07:00Z

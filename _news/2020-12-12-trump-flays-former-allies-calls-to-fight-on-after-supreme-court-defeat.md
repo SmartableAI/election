@@ -288,6 +288,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "New Signs of Economic Distress Emerge as Trump Imperils Aid Deal"
+    excerpt: "A decline in consumer income and spending poses a further challenge to the recovery as jobless claims remain high and benefits approach a cutoff."
+    publishedDateTime: 2020-12-23T22:36:00Z
+    webUrl: "https://www.nytimes.com/2020/12/23/business/economy/economy-trump-income-spending-unemployment.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/23/business/economy/economy-trump-income-spending-unemployment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/23/business/economy/economy-trump-income-spending-unemployment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/23/us/23virus-econ01/23virus-econ01-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "YrzoCbRK+8TO6SI6S05E4agolzWhu4k7k1vRB1u7EwPx4ZJxuDEJo8vFndxAirL+AQYjyIiV42s9eFqAfKhQTRUMvebDsYFfaqDDl+5ecjd0qCCqxHU9N0KO0rPW2YcNmQhbrhs5MZExFTafvalodWT+tU/suxDkL/TqsWxfFPw+V0UdmEkHGNgdmdUKijAbMksAlrJbGDQY3/kZOXnq0sk1zSVgm/u+AJU/KficHb/IHBUo+b3c7/WT+sWKbzuzxGsDVOebJ4RfVOtH/9Wy25uHwwu+rcZY7y8v/QARNHHSvU2l99bvfhJNG7SgTYxlyWk39WUj4OuEkaDvRslxYcMy/ZlQggdcNqlql3asPcjXm4sNtcC5OIVWK1gGco4bL683biTsqIGQ/X6+yBFWzQrp/4jWL/YY7NpU+x338GAI1S7XaojSv02B1dZTUsyZYc1fbYj6VjHn8FW/REgZYfIZ5Hz4EHVSJ0wVDzctZSeq+dE36iXWaLSdRCuYXUp61+JA79WNFk2FqVHin/ZDQg==;HaIVB//GML99pqhqxcxa4Q=="
 ---
