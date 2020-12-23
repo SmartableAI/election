@@ -2,6 +2,220 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-21-biden-looks-to-susan-rice-to-elevate-low-profile-domestic-policy-council.md",
+      "title": "Biden looks to Susan Rice to elevate low-profile Domestic Policy Council",
+      "excerpt": "\"Susan will elevate and turbocharge a revitalized\" council, Joe Biden said when he nominated the former national security adviser.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/biden-looks-susan-rice-elevate-low-profile-domestic-policy-council-n1251851",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/biden-looks-susan-rice-elevate-low-profile-domestic-policy-council-n1251851",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_51/3437064/201220-susan-rice-jm-1136_d7e184dab91c148e4afe840a6b58ea05.jpg",
+          "width": 2500,
+          "height": 1670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1251851",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251851",
+      "publishedDateTime": "2020-12-21T03:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-trump-campaign-asks-scotus-to-reverse-decisions-by-pennsylvania-high-court.md",
+      "title": "Trump campaign asks SCOTUS to reverse decisions by Pennsylvania high court",
+      "excerpt": "The Trump campaign on Sunday asked the US Supreme Court to reverse three decisions by the Pennsylvania Supreme Court, claiming there is a “likelihood” they violate the Constitution and",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/",
+      "originalUrl": "https://nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-scotus-pa.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/amp/",
+      "publishedDateTime": "2020-12-20T13:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-trump-attempt-to-overturn-election-is-nutty-and-loopy-romney-says.md",
+      "title": "Trump attempt to overturn election is 'nutty and loopy', Romney says",
+      "excerpt": "Utah Republican decries flirtation with Flynn martial law plan and suggestion conspiracy theorist Powell could be special counsel",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney?ref=newsnetworks-dot-com",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney?ref=newsnetworks-dot-com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/7d1d3b375fd2e6f241b830500e10ca3a1128bc06/0_139_4166_2499/master/4166.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=55712b8160d3857ce3ca12773beb4d92",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney",
+      "publishedDateTime": "2020-12-20T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-trump-discussed-naming-sidney-powell-special-counsel-during-white-house-meeting.md",
+      "title": "Trump discussed naming Sidney Powell special counsel during White House meeting",
+      "excerpt": "President Donald Trump held a meeting at the White House on Friday evening in which he discussed the idea of naming appellate attorney Sidney Powell as a special counsel to investigate voter fraud in the election,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-discussed-naming-sidney-powell-special-counsel-during-white-house-n1251859",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-discussed-naming-sidney-powell-special-counsel-during-white-house-n1251859",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_51/3437071/201220-sidney-powell-jm-1221_29a0459573741a5e73006aa10e4229bc.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1251859",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251859",
+      "publishedDateTime": "2020-12-20T11:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-romney-trump-continuing-to-dispute-election-results-is-really-sad-and-embarrassing.md",
       "title": "Romney: Trump continuing to dispute election results is 'really sad' and 'embarrassing'",
       "excerpt": "Sen. Mitt Romney, R-Utah, called President Trump's refusal to concede the 2020 election \"really sad\" and \"embarrassing\" on Sunday.",
@@ -1134,213 +1348,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-trump-promises-wild-protest-in-washington-dc-on-jan-6-claims-its-impossible-he-lost.md",
-      "title": "Trump promises 'wild' protest in Washington DC on Jan. 6, claims it's 'impossible' he lost",
-      "excerpt": "President Trump on Saturday promised that there would be a “wild” protest in Washington D.C. on Jan. 6, as he continued to deny that he lost the election -- claiming it was “statistically impossible” for him to have been defeated.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-I30v3XLfV4/trump-wild-protest-washington-dc-jan-6",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-I30v3XLfV4/trump-wild-protest-washington-dc-jan-6",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10c14811-d45f-4cdf-aae9-04d8ca6a8d15/791ea33c-a185-4df4-81ce-8dc74c6c49dd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-wild-protest-washington-dc-jan-6.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wild-protest-washington-dc-jan-6.amp",
-      "publishedDateTime": "2020-12-19T06:55:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-betsy-devos-stalled-obamas-student-loan-relief-program-borrowers-hope-biden-will-fix-it.md",
-      "title": "Betsy DeVos stalled Obama's student loan relief program. Borrowers hope Biden will fix it",
-      "excerpt": "Just before President Barack Obama left office, he made it easier for students defrauded by for-profit colleges to apply for the federal debt relief they had long been entitled to.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k3hdmHPYqJc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k3hdmHPYqJc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201216161003-rebekah-sanchez-norton-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/19/politics/student-loan-relief-devos-trump-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/student-loan-relief-devos-trump-biden/index.html",
-      "publishedDateTime": "2020-12-19T06:10:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.md",
-      "title": "US Space Force members will be called ‘guardians,’ Vice President Mike Pence says",
-      "excerpt": "The Trump administration celebrated the first birthday of the U.S. Space Force on Friday by announcing that its members will be known as “guardians.” Vice President Mike Pence made the announcement at a celebratory event tracing the development of the newest branch of the military over the past year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.masslive.com/politics/2020/12/us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.html",
-      "originalUrl": "https://www.masslive.com/politics/2020/12/us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TBQO6M6JPVBHDD32VSHIOZHFYM.jpg",
-          "width": 5845,
-          "height": 3897,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.masslive.com/politics/2020/12/us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/12/us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.html?outputType=amp",
-      "publishedDateTime": "2020-12-19T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassLive",
-        "domain": "masslive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-sir-david-attenborough-on-joe-biden-christmas-wrapping-and-flamingos.md",
-      "title": "Sir David Attenborough on Joe Biden, Christmas wrapping... and flamingos",
-      "excerpt": "Like many of us, Sir David Attenborough has had to adapt to new ways of working since the coronavirus pandemic took hold this spring. For his latest series, the 93-year-old - who has been shielding - had to record some of his voiceovers from his home in south-west London.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/entertainment-arts-55042006",
-      "originalUrl": "https://www.bbc.com/news/entertainment-arts-55042006",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/D8DF/production/_116091555_attenborough_bbc.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/entertainment-arts-55042006",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/entertainment-arts-55042006",
-      "publishedDateTime": "2020-12-18T17:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

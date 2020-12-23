@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Flashback: Trump in 2018 on massive spending bill 'nobody read': 'I will never sign another bill like this'"
+    excerpt: "President Trump on Tuesday blasted the bipartisan omnibus spending bill passed by Congress that wrapped up COVID relief in it, calling for larger stimulus checks and arguing no one in Congress had read the bill."
+    publishedDateTime: 2020-12-23T18:49:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NXt7eXVNPcc/flashback-trump-2018-spending-bill-nobody-read-never-sign-another-bill-like-this"
+    ampWebUrl: "https://www.foxnews.com/politics/flashback-trump-2018-spending-bill-nobody-read-never-sign-another-bill-like-this.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-trump-2018-spending-bill-nobody-read-never-sign-another-bill-like-this.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/441afbd8-3b5d-49bb-94e3-b15cc9c0ea76/37ad5e6f-62a0-407d-b794-e5e541d30bae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump praises COVID-19 vaccine rollout: 'Great miracle'"
     excerpt: "President Trump on Tuesday said the distribution of the Pfizer and Moderna coronavirus vaccines is going \"very smoothly,\" calling the efforts of his administration to complete vaccines against COVID-19 a \"great miracle."
     publishedDateTime: 2020-12-22T15:53:00Z

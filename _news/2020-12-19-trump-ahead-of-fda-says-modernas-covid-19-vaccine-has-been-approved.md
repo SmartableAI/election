@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S1NF"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S1NF"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Trump threatens to not sign COVID-19 bill, wants bigger stimulus checks"
+    excerpt: "President Donald Trump threatened on Tuesday to not sign an $892 billion coronavirus relief bill that includes desperately needed money for individual Americans, saying it should be amended to increase the amount in the stimulus checks."
+    publishedDateTime: 2020-12-23T18:00:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUKKBN28X01V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28X01V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28X01V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545558317&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM00V"
+        width: 817
+        height: 545
         isCached: true
   - title: "Refuting Trump, FDA commissioner says vaccine could not have been authorized sooner"
     excerpt: "In an interview with Fox News Saturday, Trump, after seeming to take credit for the speed of the vaccine's development, said that the Food and Drug Administration could have authorized the shot for emergency use \"last week."

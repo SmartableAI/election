@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Congress passes coronavirus relief bill, but Trump criticizes deal"
-    excerpt: "President Donald Trump had been expected to sign the bill in days, but he then called for bigger payments. He didn't directly say he would veto it."
-    publishedDateTime: 2020-12-23T11:50:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-12-22-covid-live-updates-vaccine-news-n1252058"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1252058"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1252058"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436937/201220-covid-live-blog-social-only_430f30c4e08497ebcf945e5d49426121.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
   - title: "Donald Trump Jr. tests positive for coronavirus. He has been isolating since Monday."
     excerpt: "Donald Trump Jr., the president’s son, tested positive for the coronavirus, a spokesman for Mr. Trump said on Friday. Mr. Trump tested positive for the coronavirus at the beginning of the week and has been isolating since Monday,"
     publishedDateTime: 2020-11-21T00:12:00Z

@@ -479,6 +479,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Dominion Voting Systems employee sues Trump campaign for defamation"
+    excerpt: "An senior employee of Dominion Voting Systems has sued President Donald Trump's re-election campaign in a Colorado court for spreading false conspiracy theories related to November's presidential election that Trump lost to Democrat Joe Biden."
+    publishedDateTime: 2020-12-23T15:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-dominion-idUSKBN28X0EB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X0EB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X0EB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545545757&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM07U"
+        width: 796
+        height: 545
+        isCached: true
   - title: "Dominion worker sues Trump campaign and conservative media"
     excerpt: "An election systems worker who was driven into hiding by death threats has filed a defamation lawsuit against President Donald Trump's campaign, lawyers Rudolph Giuliani and Sidney Powell, and some co"
     publishedDateTime: 2020-12-23T00:45:00Z

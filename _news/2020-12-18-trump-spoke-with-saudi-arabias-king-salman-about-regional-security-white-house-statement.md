@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump pardons security contractors involved in Baghdad massacre"
+    excerpt: "President Donald Trump has pardoned four former Blackwater security contractors who were previously convicted in the murders of civilians during the 2007 Baghdad massacre. Nicholas Slatten, Paul Slough,"
+    publishedDateTime: 2020-12-23T18:30:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-pardons-security-contractors-involved-in-baghdad-massacre/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-pardons-security-contractors-involved-in-baghdad-massacre/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-pardons-security-contractors-involved-in-baghdad-massacre/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/23/2e4aef4a-6cb1-41a9-a420-0a143c395282/thumbnail/1200x630/444950440a8ce0cf449a1e3dbf449ae8/gettyimages-83951527.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "bxwdOICJpYYtGcSatMvnKgrtja3g6OoBwPMCl6082TjCpfyUc8SONcN0eI53EUo5UJsl23fWPEYbe6hdDpMkI+k5KMwblCdTD5Ttu96Fk/s3EZGnvqhdPHAluk5NH+AQcYE427IQVdFCH+HE859iZo2+rilMBeCGajK36gRjuqGKk3A6Ropjt9mZrgaDvDrc2suEBgGdBO0UWBRnK7yxDcTQdBjiNxJZNZIoe9sw5W8JObG2LgX2Ciocmxhe8tBYGGT9/Eprdj+z36SVfmmYnb50b5hYHKnxhG/iSITHW3OqO2gjGEq0IpCK8nTzxeAiWsOya0SKHs1zm4Pxk+Ief/W9E/Ai8l2o8+rUX7bs/LU=;yJxOarud+RjXopT13No6XQ=="
 ---

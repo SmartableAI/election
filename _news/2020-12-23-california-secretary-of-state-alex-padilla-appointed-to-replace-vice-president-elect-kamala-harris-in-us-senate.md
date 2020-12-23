@@ -2,30 +2,26 @@
 category: news
 title: "California Secretary of State Alex Padilla appointed to replace Vice President-elect Kamala Harris in US Senate"
 excerpt: "California Gov. Gavin Newsom appointed Secretary of State Alex Padilla on Tuesday as the state’s next U.S. senator to fill the seat being vacated by Vice President-elect Kamala Harris."
-publishedDateTime: 2020-12-22T20:32:00Z
-originalUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
-webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
-ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
+publishedDateTime: 2020-12-22T21:32:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/5ATYffOF0ZO402fX-cvjaBMN16I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AQFJJLD55NDNPLXH2H6CLLNZWQ.aspx"
+  - url: "https://www.baltimoresun.com/resizer/5ATYffOF0ZO402fX-cvjaBMN16I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AQFJJLD55NDNPLXH2H6CLLNZWQ.aspx"
     width: 1200
     height: 675
     isCached: true
@@ -2801,6 +2797,6 @@ related:
       domain: cincinnati.com
     quality: 49
 
-secured: "/UL8i8jkhD3sd892LUzlq73LMq46UQu5ImQYfQ75xIPY4nHWSURR0fLbWAjO2qIpcrPAUjaAiXOgT36WFIOsn0YkYbofXNxa9xr4GdN0WqrYc52dZtjvij4R0FvYMd+nhaMv0tVrN3GX4lAmbmv5wSX4SsAbB6K50TuhthvI1/HSHen4sMypcG2D4CCXsBAB1Aep196/Z6ajY+sWgYXjRiUNwJt+H6YNR+8DugRrXsqHnc7MAQsx94+qUqjPFImiYjCfieuu6yH52pL2D2z6XMJ611a+dANU58Q4gHPg451zRNi10kyGC3h/lXtFcLNImyiljPyFpqDEs9kkrqktdQk4AmMvteXnodmwSy/lGZ1zA9nedszc5tjPUgqeXHgNSeSPBZFzmslcG/MzcO4UltuhOeqA62GBsYSsnJPx7O92NjbNmsN0n/EZr3b7AEUKxK16QC/Q8ZNmLSrhXD2uS8CAgs5K0VaHVnRmZB/DjXZRRjPlXDNDZ0tuI1oQIz7/Q/k8BFTLvirrS9xclzmong==;TvAXDjW1NXZ1jEUp4wioAA=="
+secured: "UyEqoF/7GynuCpJ/XjD6jgt0MLu8cM48hKNdMNF3smNftTvHx3kbgMosTn0+K0TcAO4gzZG+xvmvTHEe9vV+Ocw34SYL9CnH7EnDuDF5+yMTb2iDHyer+lciBM9p3PiJKSKgGlmdLInKfRYKFiNGcZrleLZroJEzB/L6VT2/YcWIgqF41YnzK4OXSCfzLMs6ulgthRECH/BUv4JEJMy89cCMKwBRf31cRnuJEWmR5qCyJLR2FOL6QvuqYrYObafIYoHuedub5Lg72EzE7clz1QEpUIMyaC3Ii04/PcwJ3JGJSOEuWcSN8Fq6hNGy+fz0By6mwHw27wRgjN98TmZqzitxzpNJqKUbvVq71MF3NtU=;KoX8iPuWnXl3tmfrkis0OQ=="
 ---
 

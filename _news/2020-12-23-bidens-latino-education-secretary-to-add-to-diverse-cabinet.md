@@ -3,8 +3,8 @@ category: news
 title: "Biden's Latino education secretary to add to diverse Cabinet"
 excerpt: "President-elect Joe Biden will add to the diversity of his incoming administration on Wednesday when he introduces Miguel Cardona as his choice for U.S. Secretary of Education."
 publishedDateTime: 2020-12-23T11:05:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-idUSKBN28X0JU"
-webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-idUSKBN28X0JU"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-cabinet/bidens-latino-education-secretary-to-add-to-diverse-cabinet-idUSKBN28X0JU"
+webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet/bidens-latino-education-secretary-to-add-to-diverse-cabinet-idUSKBN28X0JU"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X0JU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X0JU"
 type: article
@@ -25,8 +25,8 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545523490&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM0AF"
-    width: 817
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545589631&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM19H"
+    width: 753
     height: 545
     isCached: true
 
@@ -100,6 +100,6 @@ related:
         height: 576
         isCached: true
 
-secured: "OJqDN1ZE7weGY5UkHTbc/WOgiti5xrd9JPVFziEUjmLmfU7uiMdJVr+zRM0E+D6ljlToVYyQGguqBXrg3lCMcNjyPlEpZtqJuCr4gSl2fD/WJYZy681Bd8bdQdVVrEkdZaazv9cU8OB2qrc/zgLXS9rucPg7KuiyjVYf30eW3IH4HOtp/domcqATIXrJY4pecz89Hm4/W3uoTPznuQuqc9qzK3h5tdat0S0JCGca8Gi0rVp5j83RgRsKd78M2jHYIkIMONZ4Hajlf/N8FkZfoo1JpVbvWZtuxtugN7BK6uHq3uCid2tKPwPN2GBq+7UtJ/WRmMbcZcuAoortejtGwlvYnU2WeDe00mAZfomMvYY=;ha+zPb42P95EmL5uF/7zug=="
+secured: "Kf7+rHRO5sM9dKIP5pczsmrA5UtGi/5+6EFIl/W4awhI0CI3KSzA9SiTex4OszrpRsVe3moLGxu2+EcyWIxHaxiwXegWAHPmpLADRi2vnEl5/z8Pdf7c+LmGJ7PEeziznNUy+fPbJrE8t8wQmk/o+PDzziw+m0kkBi0NU7L/Ea59OTNolvxhavkMmET1CW00a0dg59gxNP0yhtGDuHeOjzbvXQ7nh4qaJ8yWhkC0Z1oHYswWTCsaGTo5C7OruXwzjq3zDgvG2BdtuRO/wUJahw2xbqEv0mMMPP4+uaGwvKdMZ6nBGw1Lwh2BXjrqvDdprm3SQG8WbJjnTL6owGNA5BpHtqp/kRbe+8SfK7QcBPI=;1npQGa7pOrNeU1xPvbapjw=="
 ---
 

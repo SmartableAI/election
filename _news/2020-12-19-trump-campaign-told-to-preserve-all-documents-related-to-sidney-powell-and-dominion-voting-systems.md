@@ -31,21 +31,97 @@ images:
     isCached: true
 
 related:
-  - title: "Four key ways Barr broke with Trump at the attorney general's news conference"
-    excerpt: "Two days before he leaves the Justice Department, Attorney General William Barr offered his sharpest rebuke to date of President Donald Trump's baseless allegations surrounding the election result, rejecting Trump's efforts to act on the conspiracy theories the President has embraced to explain his loss"
-    publishedDateTime: 2020-12-21T22:13:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5F0DS3L1D0g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/barr-news-conference-break-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/barr-news-conference-break-trump/index.html"
+  - title: "Listen to Trump's sudden stipulation for Covid-19 stimulus bill"
+    excerpt: "President Trump issued a sudden pre-Christmas demand for changes to a desperately needed $900 billion pandemic relief bill that could potentially risk shattering the bipartisan compromise reached by Democrats and Republicans. CNN's Joe Johns reports.\n    \n"
+    publishedDateTime: 2020-12-23T12:57:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4SS99xZY5qk/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221144127-bill-barr-presser-1221-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222230738-trump-media-final-days-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Pentagon under pressure from Trump administration to split NSA and Cyber Command"
+    excerpt: "The Trump administration is pushing to make major adjustments to the Pentagon organizations charged with cybersecurity and signals intelligence, according to a US defense official.\n    \n"
+    publishedDateTime: 2020-12-20T01:59:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAgg3jyefCs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130128052250-pentagon-aerial-shot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Congress passes coronavirus relief bill, but Trump criticizes deal"
+    excerpt: "President Donald Trump had been expected to sign the bill in days, but he then called for bigger payments. He didn't directly say he would veto it."
+    publishedDateTime: 2020-12-23T11:50:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-12-22-covid-live-updates-vaccine-news-n1252058"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1252058"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1252058"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436937/201220-covid-live-blog-social-only_430f30c4e08497ebcf945e5d49426121.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "In win for Trump, Supreme Court throws out challenge to his census plan to exclude undocumented immigrants"
+    excerpt: "This case is riddled with contingencies and speculation,” the court said in a short, unsigned opinion, referring to the states' challenge."
+    publishedDateTime: 2020-12-18T15:49:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/win-trump-supreme-court-throws-out-challenge-his-census-plan-n1251698"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251698"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251698"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 117
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_36/3306571/200413-census-poster-coronavirus-ac-505p_ae7532cbbf8350ffcd49b8f899c75c2a.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Stanley Chera Was a Mogul Who Made Covid-19 Personal for Trump"
+    excerpt: "The Lives They Lived The Lives They Lived By Jamie Lauren Keiles Shortly after his Covid diagnosis — fever spiking, hooked up to an oxygen tank — Donald Trump reportedly wondered aloud to an aide, “Am I going out like Stan Chera?” Like so many ..."
+    publishedDateTime: 2020-12-23T10:33:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/12/23/magazine/stanley-chera-death.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/27/magazine/27mag-chera/27mag-chera-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Pandemic complicates street vendor reform — Trump pardons Chris Collins — City pushes for expanded use of speed cameras"
+    excerpt: "Subscribe for Season Two, available now. — President Donald Trump blasted the $900 billion coronavirus relief package passed by Congress, calling it a “disgrace” and asking for amendments to the bill to increase stimulus payments to Americans."
+    publishedDateTime: 2020-12-23T12:11:00Z
+    webUrl: "https://www.politico.com/newsletters/new-york-playbook/2020/12/23/pandemic-complicates-street-vendor-reform-trump-pardons-chris-collins-city-pushes-for-expanded-use-of-speed-cameras-491239"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 91
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "r7ZX4++6es/caIks/wa4JcrGPaEgfAekm4a4N8ZlcDrHM2RGzsczRFvdC00e5X6W3ppUik7q2tBoW0KEPxBhGThMqfWLjME6wv3DBI2ynEkAv2PoVn8TJ5Lci4Iot+dUiPnQhzAd7KOXi7oaBLmm1g86hAPiMOVbmXhEVmCeIcKAHYZMTY1MKflSyP2FXfaGSUnW8+zjQHpQrlIkuQVnIacglH/Er91yKkwn6NmHQYeemawDe5xAPbs/iwNVYo7UjtU6p3x4MvtL0p+iSOGrI4KDsQtzf4GYL69NH6mq0/eMCCK/pJ4ild7WdHAZOHrsP81R2AiqNy3LxfLprLD1ldTI1DYNW1t6eZ4Zp1/7mYI=;I84putJl9oC8t+FzrCYUxQ=="

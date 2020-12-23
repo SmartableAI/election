@@ -193,6 +193,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Democratic Party to choose new chair day after Biden inauguration"
+    excerpt: "The Democratic National Committee (DNC) will formally choose its new chair the day after President-elect Joe Biden is inaugurated."
+    publishedDateTime: 2020-12-23T16:54:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z2eVWVmYxzw/democratic-party-chair-election-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/democratic-party-chair-election-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-party-chair-election-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden coronavirus adviser makes grim prediction after Thanksgiving holiday"
     excerpt: "A member of President-elect Joe Biden's COVID-19 advisory board on Saturday made a grim prediction about U.S. coronavirus cases in the coming weeks after millions of Americans traveled for Thanksgiving, despite warnings from public health officials."
     publishedDateTime: 2020-11-29T20:25:42Z

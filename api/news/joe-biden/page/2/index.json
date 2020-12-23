@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-15-vc-daily-venture-firms-ready-for-payday-nvca-lobbies-biden-with-letter-softbank-ends-year-on-high-note.md",
+      "title": "VC Daily: Venture Firms Ready for Payday; NVCA Lobbies Biden With Letter; SoftBank Ends Year on High Note",
+      "excerpt": "Last week, the National Venture Capital Association sent a letter to President-elect Joe Biden to get a lobbying head start.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/vc-daily-venture-firms-ready-for-payday-nvca-lobbies-biden-with-letter-softbank-ends-year-on-high-note-11607955869",
+      "originalUrl": "https://www.wsj.com/articles/vc-daily-venture-firms-ready-for-payday-nvca-lobbies-biden-with-letter-softbank-ends-year-on-high-note-11607955869",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.wsj.net/img/meta/wsj-social-share.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-in-latin-america-a-biden-white-house-faces-a-rising-china.md",
       "title": "In Latin America, a Biden White House faces a rising China",
       "excerpt": "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home.",
@@ -1547,58 +1604,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-the-latest-biden-picks-deese-for-national-economic-council.md",
-      "title": "The Latest: Biden picks Deese for National Economic Council",
-      "excerpt": "President-elect Joe Biden has tapped former Obama administration senior economic adviser Brian Deese to be director of the National Economic Council",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-03T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

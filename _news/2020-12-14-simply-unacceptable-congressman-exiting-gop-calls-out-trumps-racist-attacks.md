@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Voting machine company executive sues Trump allies for defamation"
+    excerpt: "An executive for a voting machine company that has been the target of conspiracy theories in the aftermath of Donald Trump's 2020 election loss and been baselessly accused of swinging the results against the President is suing his campaign and conservative media figures for defamation.\n    \n"
+    publishedDateTime: 2020-12-23T18:43:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RU7UbO43ZO8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/dominion-voting-executive-defamation-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/dominion-voting-executive-defamation-lawsuit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223122559-giuliani-powell-1119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Gov. Kasich: Trump won the election, but he didn't win long-term"
     excerpt: "President Trump hit the campaign trail last night to take a victory lap over his new trade deal. Stephanie Ruhle is joined by Ohio’s Republican Governor John Kasich. The two discuss the USMCA, Judge Kavanaugh,"
     publishedDateTime: 2020-12-20T09:58:00Z

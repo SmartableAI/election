@@ -479,6 +479,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Dominion Voting Systems employee sues Trump campaign for defamation"
+    excerpt: "An senior employee of Dominion Voting Systems has sued President Donald Trump's re-election campaign in a Colorado court for spreading false conspiracy theories related to November's presidential election that Trump lost to Democrat Joe Biden."
+    publishedDateTime: 2020-12-23T15:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-dominion-idUSKBN28X0EB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X0EB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X0EB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545545757&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM07U"
+        width: 796
+        height: 545
+        isCached: true
   - title: "Factbox: List of 15 people pardoned by Trump"
     excerpt: "Two men sentenced to prison as part of the investigation into Russian meddling in the 2016 presidential election, two former Republican lawmakers, and four security contractors convicted in the massacre of 14 Iraqi civilians were among 15 people granted full pardons by U."
     publishedDateTime: 2020-12-23T07:08:00Z

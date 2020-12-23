@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28R0D1"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R0D1"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump pardons security contractors involved in Baghdad massacre"
+    excerpt: "President Donald Trump has pardoned four former Blackwater security contractors who were previously convicted in the murders of civilians during the 2007 Baghdad massacre. Nicholas Slatten, Paul Slough,"
+    publishedDateTime: 2020-12-23T18:30:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-pardons-security-contractors-involved-in-baghdad-massacre/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-pardons-security-contractors-involved-in-baghdad-massacre/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-pardons-security-contractors-involved-in-baghdad-massacre/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/23/2e4aef4a-6cb1-41a9-a420-0a143c395282/thumbnail/1200x630/444950440a8ce0cf449a1e3dbf449ae8/gettyimages-83951527.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump spoke with Saudi Arabia's King Salman about regional security -White House statement"
     excerpt: "President Donald Trump spoke with King Salman bin Abdulaziz Al Saud of Saudi Arabia on Thursday, discussing regional security issues, according to a statement from the White House."
     publishedDateTime: 2020-12-18T01:35:00Z

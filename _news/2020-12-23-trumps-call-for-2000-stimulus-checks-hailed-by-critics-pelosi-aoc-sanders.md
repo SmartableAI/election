@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pelosi presses McCarthy to agree to bigger stimulus checks after Trump intervention"
+    excerpt: "House Speaker Nancy Pelosi on Wednesday called on GOP Leader Kevin McCarthy to join her in backing a boost to the coronavirus stimulus checks – which would bump them to $2,000 – because of a last-minute demand from President Trump."
+    publishedDateTime: 2020-12-23T17:58:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IvospTGeXI8/pelosi-presses-mccarthy-bigger-stimulus-checks-trump-intervention"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-presses-mccarthy-bigger-stimulus-checks-trump-intervention.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-presses-mccarthy-bigger-stimulus-checks-trump-intervention.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/441afbd8-3b5d-49bb-94e3-b15cc9c0ea76/37ad5e6f-62a0-407d-b794-e5e541d30bae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "sZOjCsFHZtTd1cV9kNhZs7O9Iu8drBehGEg3UeBV8c4CDY+mhi3iazGjTowfg1S5q9qnXI7CswZiUQVMxmBCQDAy1kS9H5bl/jcHk8Qvz75RwgTwkxnSStGjej0knM+KiQO+5nofOANQBpKdGaJhdqV8E2HoZZjvRiFKTtJxbXpUsfkUuJ+mh4yRReMYaO2FIxbHePWzDDj9TRr/KRlu4WQ99RWusY/NOBj89OnfHn/0SQBQMMGRWV8FsgZ04q/IX8A3sQ8nxKNisJaSHPP2W30BDIxcgnja0XaIi1Qo7E+dqzX3k9RL9LpTgA6ZX8qEjMJ05yj44pM7z7LjY6h8UfBsFNX2RmInyxIngGGsXYg=;D4h2bxmoFlxWYZ7c3+ovBQ=="
 ---

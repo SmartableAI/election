@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Voting machine company executive sues Trump allies for defamation"
+    excerpt: "An executive for a voting machine company that has been the target of conspiracy theories in the aftermath of Donald Trump's 2020 election loss and been baselessly accused of swinging the results against the President is suing his campaign and conservative media figures for defamation.\n    \n"
+    publishedDateTime: 2020-12-23T18:43:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RU7UbO43ZO8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/dominion-voting-executive-defamation-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/dominion-voting-executive-defamation-lawsuit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223122559-giuliani-powell-1119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Simply unacceptable:' Congressman exiting GOP calls out Trump's racist attacks"
     excerpt: "Rep. Paul Mitchell tells CNN's Jake Tapper that he no longer wants to be affiliated with the Republican Party and calls out President Trump's racist attacks.\n    \n"
     publishedDateTime: 2020-12-14T22:11:49Z

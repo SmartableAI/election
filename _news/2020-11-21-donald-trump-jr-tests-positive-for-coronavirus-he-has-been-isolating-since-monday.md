@@ -96,22 +96,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Congress passes coronavirus relief bill, but Trump criticizes deal"
-    excerpt: "President Donald Trump had been expected to sign the bill in days, but he then called for bigger payments. He didn't directly say he would veto it."
-    publishedDateTime: 2020-12-23T11:50:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-12-22-covid-live-updates-vaccine-news-n1252058"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1252058"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1252058"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436937/201220-covid-live-blog-social-only_430f30c4e08497ebcf945e5d49426121.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
 
 secured: "annDld8Z92sHOonw9AXzI7QCVFrWnPLaDV02Sbk3Myu8rnMdQ35b43TmdT2qisN4rPSie2P+fJ8Cev6dncwR5iVgxVN83t3zVdmbORtSXrf+ZNYEbvF8Ls1fa7npsMIrP8VyxEmAGK3s8m8chGSKPIZ1IjkyVCcBkMtgFv2IKSPAnEoc39mwMzyCduDeipAjpGMOQj15/mGiPBIvDeBn9T8yVWY6k2c/617qbooFnUYCLYQOBqrCT2sGedOaCX2uJzS0X/eYPdz/0+PTRaoi500M9t149r9Qp8a9LtaGGoo9ovaI1SOItFWvSCXS/rfesU1GQtvFW1y3XCVay9yVJmCh6V+VKxsUGe5ophGIPR3pq6C28sEZtZaL1DXxE6rOc1QjK9bbgfAik0uA/RdhzdjAEH/qxdQBQIGR3T4amHnadpcYWgh2fLJ0iZM7sp9cbYFynxZki/Hoso5BPMx9KQCVyci2y56CHsXkssG5JWARN+xdjZckUaWLs3tkptK/zqr3OaiNe/sjFRW0dNCmOg==;0mhOzPGqBwvANwi5fk18Kg=="
 ---

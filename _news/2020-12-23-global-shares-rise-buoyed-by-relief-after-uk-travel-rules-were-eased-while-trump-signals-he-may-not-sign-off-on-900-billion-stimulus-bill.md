@@ -63,22 +63,6 @@ related:
         width: 816
         height: 545
         isCached: true
-  - title: "White House aides talked Trump out of last-minute demand for stimulus checks as big as $2,000"
-    excerpt: "Advisers persuaded the president on Thursday not to announce support for significantly bigger stimulus payments."
-    publishedDateTime: 2020-12-18T08:41:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2020/12/17/trump-2000-stimulus-checks/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2020/12/17/trump-2000-stimulus-checks/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/12/17/trump-2000-stimulus-checks/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TUGCMYSAL4I6XNMLCYR7MJTZMA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "House Dems' campaign chief a moderate who wins in Trump land"
     excerpt: "Their dwindling majority in peril, House Democrats are entrusting their campaign operations to an analytical, openly gay moderate who’s been an attorney, businessman and five-time winner in his competitive congressional district."
     publishedDateTime: 2020-12-13T04:42:00Z

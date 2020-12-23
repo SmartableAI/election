@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Twitter says it 'inadvertently' limited engagements on Trump's flagged tweets"
-    excerpt: "Twitter Inc said on Saturday it had \"inadvertently\" limited engagements for a brief period on U.S. President Donald Trump's tweets with \"disputed\" labels but later reversed its action."
-    publishedDateTime: 2020-12-13T00:44:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-twitter-idUKKBN28M0VX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28M0VX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28M0VX"
+  - title: "Milwaukee County spent nearly $1.7 million on Trump recount"
+    excerpt: "Newly released figures show that the presidential recount in Wisconsin’s Milwaukee County came in slightly under budget, at nearly $1.7 million"
+    publishedDateTime: 2020-12-23T18:22:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/milwaukee-county-spent-17-million-trump-recount-74881211"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/milwaukee-county-spent-17-million-trump-recount-74881211"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/milwaukee-county-spent-17-million-trump-recount-74881211"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544359954&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB0GC"
-        width: 943
-        height: 545
+      - url: "https://s.abcnews.com/images/WNT/201220_wn_abubey_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "frkhJ4SCRrFK36w/XQaEuOUre5fOQOrnxqDI8LyIyfWRKqyEJ57aLSVF0lnidMNbd+asrvmsZZHf+gqehwNODl+j/nadX+NoH5w2DYeEc8Rks+sjCr4WheSBN0iBkw/1k1rCKNixBlIVfHtB+so/Zzd1rfdggMZS58leTPN349612tvh6HgitsEmIIZMLvSmaOQTH3sTy8FjsIsqpH5sABHw9pXol80NotLfrf5v4yBtA/SXY7JhNy95ex+OhXNicwPwf9ZpIS3umdaZZ8/Dn3ifJh+Wjj4msKuRQQCPq0wwWPnsyGT/G/sU0noInnKeNI3Vucl7vd0PKQHjZ9b3lUP03A0iKhDY6Qd9erD5VkRMfs0AFZTaW6ciJzHizB6anlIZ/yfJvytke2kdtMGtImxoWlv//Mh8pIgLR+E4pAL76GUA7vwPVTkKmvaT32u8dcEPxri9eAMhUUb5iowOA4WWNuX4aBk8D1EU6KQHHapGQD4dBUSff0Z5vEZStckMM0IhHNQ1Zvt/SH2kZkrcnQ==;op5eyAbM+VcfTIe5xejROg=="

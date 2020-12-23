@@ -57,22 +57,6 @@ related:
         width: 816
         height: 545
         isCached: true
-  - title: "White House aides talked Trump out of last-minute demand for stimulus checks as big as $2,000"
-    excerpt: "Advisers persuaded the president on Thursday not to announce support for significantly bigger stimulus payments."
-    publishedDateTime: 2020-12-18T08:41:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2020/12/17/trump-2000-stimulus-checks/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2020/12/17/trump-2000-stimulus-checks/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/12/17/trump-2000-stimulus-checks/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TUGCMYSAL4I6XNMLCYR7MJTZMA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Global shares rise, buoyed by relief after UK travel rules were eased, while Trump signals he may not sign off on $900 billion stimulus bill"
     excerpt: "Shares increase after France relaxes rules on arrivals from UK, where a new strain of COVID-19 has millions in lockdown; Trump bashes stimulus bill"
     publishedDateTime: 2020-12-23T10:56:00Z

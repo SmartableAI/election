@@ -620,6 +620,22 @@ related:
         width: 4000
         height: 2665
         isCached: true
+  - title: "Biden needs to dump protectionism"
+    excerpt: "President-elect Joe Biden has indicated his intention to strengthen the economy, boost employment and rebuild relations with our international allies. Those aspirations will all be made easier if the incoming administration abandons a self-defeating regime of high tariffs,"
+    publishedDateTime: 2020-12-23T13:24:00Z
+    webUrl: "https://www.cnn.com/2020/12/23/perspectives/biden-trade-policy/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/perspectives/biden-trade-policy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/perspectives/biden-trade-policy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222140058-joe-biden-1219-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First U.S. vaccines, Electoral College affirms Biden win and Barr is out"
     excerpt: "Health care workers get first vaccines as Covid death toll tops 300,000. With the prick of a needle, the battle against Covid-19 took what could be a decisive turn Monday as the f"
     publishedDateTime: 2020-12-15T13:36:00Z

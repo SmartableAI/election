@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Former Rep. Chris Collins released from prison after Trump pardon"
+    excerpt: "Former New York Republican Rep. Chris Collins was released from a Pensacola prison on Tuesday, the same day President Trump granted him and several other high-profile individuals pardons. "
+    publishedDateTime: 2020-12-23T18:45:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_25DoLGWLYU/former-rep-chris-collins-released-from-prison-after-trump-pardon"
+    ampWebUrl: "https://www.foxnews.com/politics/former-rep-chris-collins-released-from-prison-after-trump-pardon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-rep-chris-collins-released-from-prison-after-trump-pardon.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1db342b1-2b8f-427b-b173-cfafcb085d3a/41496152-13b2-47eb-affd-77947ebd56f9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "In official Christmas portrait, Melania Trump sports high-waisted pantsuit"
     excerpt: "The first lady on Saturday shared her official White House Christmas portrait with President Trump standing on the White House Grand Staircase."
     publishedDateTime: 2020-12-19T19:39:53Z
@@ -78,6 +94,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trumpxmas.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Former Rep. Chris Collins released from prison after Trump pardon"
+    excerpt: "Former New York Republican Rep. Chris Collins was released from a Pensacola prison on Tuesday, the same day President Trump granted him and several other high-profile individuals pardons."
+    publishedDateTime: 2020-12-23T18:57:00Z
+    webUrl: "https://www.foxnews.com/politics/former-rep-chris-collins-released-from-prison-after-trump-pardon"
+    ampWebUrl: "https://www.foxnews.com/politics/former-rep-chris-collins-released-from-prison-after-trump-pardon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-rep-chris-collins-released-from-prison-after-trump-pardon.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1db342b1-2b8f-427b-b173-cfafcb085d3a/41496152-13b2-47eb-affd-77947ebd56f9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "In official Christmas portrait, Melania Trump sports high-waisted pantsuit"
     excerpt: "The first lady on Saturday shared her official White House Christmas portrait with President Trump standing on the White House Grand Staircase."

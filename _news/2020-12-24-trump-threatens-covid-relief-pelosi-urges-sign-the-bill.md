@@ -61,6 +61,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump threatens to not sign COVID-19 bill, wants bigger stimulus checks"
+    excerpt: "President Donald Trump threatened on Tuesday to not sign an $892 billion coronavirus relief bill that includes desperately needed money for individual Americans, saying it should be amended to increase the amount in the stimulus checks."
+    publishedDateTime: 2020-12-23T18:00:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUKKBN28X01V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28X01V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28X01V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545558317&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM00V"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Refuting Trump, FDA commissioner says vaccine could not have been authorized sooner"
     excerpt: "In an interview with Fox News Saturday, Trump, after seeming to take credit for the speed of the vaccine's development, said that the Food and Drug Administration could have authorized the shot for emergency use \"last week."
     publishedDateTime: 2020-12-13T14:25:00Z
@@ -170,6 +186,6 @@ related:
         height: 600
         isCached: true
 
-secured: "AW0ZX1QHJw0DWzPll2Uw0+XGPgWEedo/87bKo3KLNgAsW85pLoMqDHQg7BF+zFrZCJS6pxtqiaCZhBayWpBJ0B1il0mQLYATXJ0EHUbHWHJiM3OsqrqNzygyhBEM8i/mcGkdf7PL+9PQMI4TqIZEYuTmCwuSAde69fdZPNeHz8/OF8tmNx/gvTuSSM0QSW/2yYBBsRRSDQYvQzyw5prfCytsHI23BdDNpMAfuBw4FDgfgfxWeRmWsPslY2VQXVcgcvwkajsTcq3vK1HPm6SKoOpd3gpzq3btmbfOXIyokeWrPezuQ5EnkBn5ceZwVBq3a4gfoejFeQZ4PfCenTTxoviMyp4hkoDHP8kskBNZCEs=;cDhOuOZfWfN4CjTQz21h1Q=="
+secured: "k3IE4h6JcLXk8dTK7DkuHyscNYUc15Lb1hbBJu2xLU+U34384RJdq0JIAkuFBzsIHgTzKEpOyzGUTmf0d1mUclBpvd5M7uvoDjmROKGnI6Jy3SECJU7seTXq3imP1BCuFYo628GJDW785p0LuDM8WginRvEoI3Io/iT1dzy1JAyBVTQmie/4rAKhGHjP0zkiBTudCzWb9Cdz1byhVLWC0rMWv7xbnEZjO2vrpDCe/3p4SwtcPJNsJxeadbBdnqkhQE81g1qKqvNUdvf9JTLiRh+apSqCp36PJXkTOn/03mqqojT43/sfO3VJvUA6ujGT/Up0FE2aII7iRn59X4wIEYv1uoVitYlNIonNN82PFCQw0m0TCqV6or+TF/2wH2iGvDJBM6uHPrAr0AoScFwJXJKzmEElSYQ0zstzu8H/JE5ZVH4FOrUOMjP3lrD2agzMlvTKQDlDlEjaESmaJswKIYACXBhbVdER0hJG2k2F0joiqg1XOIvwKsgnBQjgmrWOWBZf4vWUHTdDT5Yxo1/KHg==;jrWiteKwQCGQw1QqndwBTA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/trump-silence-cyber-hack
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/trump-silence-cyber-hack/index.html"
 type: article
 quality: 173
-heat: 213
+heat: 193
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pentagon under pressure from Trump administration to split NSA and Cyber Command"
-    excerpt: "The Trump administration is pushing to make major adjustments to the Pentagon organizations charged with cybersecurity and signals intelligence, according to a US defense official.\n    \n"
-    publishedDateTime: 2020-12-20T01:59:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAgg3jyefCs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130128052250-pentagon-aerial-shot-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Congressional backers cite cybersecurity provisions as they push Trump to sign defense bill"
     excerpt: "The massive defense bill that President Donald Trump is threatening to veto contains provisions for increased cybersecurity, which has taken on significantly more importance in the wake of a massive cyberattack on federal agencies at the hands of suspected Russian hackers.\n    \n"
     publishedDateTime: 2020-12-18T20:32:33Z

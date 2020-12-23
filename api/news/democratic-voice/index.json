@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-23-stanley-chera-was-a-mogul-who-made-covid-19-personal-for-trump.md",
-      "title": "Stanley Chera Was a Mogul Who Made Covid-19 Personal for Trump",
-      "excerpt": "The Lives They Lived The Lives They Lived By Jamie Lauren Keiles Shortly after his Covid diagnosis — fever spiking, hooked up to an oxygen tank — Donald Trump reportedly wondered aloud to an aide, “Am I going out like Stan Chera?” Like so many ...",
+      "path": "_news/2020-12-24-george-clooney-on-the-midnight-sky-and-donald-trump.md",
+      "title": "George Clooney on ‘The Midnight Sky’ and Donald Trump",
+      "excerpt": "His new movie is on Netflix, but the actor-director says theaters won’t go away and Hollywood will be fine. He’s not so sure about Washington.",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/interactive/2020/12/23/magazine/stanley-chera-death.html",
-      "originalUrl": "https://www.nytimes.com/interactive/2020/12/23/magazine/stanley-chera-death.html",
+      "webUrl": "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 115,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2020/12/27/magazine/27mag-chera/27mag-chera-facebookJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2020/12/24/arts/23george-clooney2/23george-clooney2-facebookJumbo.jpg",
           "width": 1050,
           "height": 550,
           "title": null,
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-23T02:33:00-08:00",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html",
+      "publishedDateTime": "2020-12-23T10:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Times",
@@ -55,6 +55,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-listen-to-trumps-sudden-stipulation-for-covid-19-stimulus-bill.md",
+      "title": "Listen to Trump's sudden stipulation for Covid-19 stimulus bill",
+      "excerpt": "President Trump issued a sudden pre-Christmas demand for changes to a desperately needed $900 billion pandemic relief bill that could potentially risk shattering the bipartisan compromise reached by Democrats and Republicans. CNN's Joe Johns reports.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4SS99xZY5qk/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4SS99xZY5qk/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201222230738-trump-media-final-days-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn",
+      "publishedDateTime": "2020-12-23T04:57:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Democratic Voice"
       ]
     },
@@ -127,7 +183,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 183,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -633,7 +689,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1208,
+      "heat": 1228,
       "tags": null,
       "images": [
         {
@@ -690,7 +746,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 192,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -1425,7 +1481,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 199,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1635,63 +1691,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-joe-biden-wears-a-kick-me-sign.md",
-      "title": "Joe Biden Wears a ‘Kick Me’ Sign",
-      "excerpt": "Critics like AOC and Sanders believe there is no price to be paid, and benefits to be gained, by publicly pressuring the new administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964",
-      "originalUrl": "https://www.politico.com/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/e3/5e/3ba27c9c4f00b80e8b1e6788411a/ap20350034179902-1-c.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964",
-      "publishedDateTime": "2020-12-17T19:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

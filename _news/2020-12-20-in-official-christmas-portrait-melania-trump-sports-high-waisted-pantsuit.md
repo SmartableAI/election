@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Former Rep. Chris Collins released from prison after Trump pardon"
+    excerpt: "Former New York Republican Rep. Chris Collins was released from a Pensacola prison on Tuesday, the same day President Trump granted him and several other high-profile individuals pardons. "
+    publishedDateTime: 2020-12-23T18:45:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_25DoLGWLYU/former-rep-chris-collins-released-from-prison-after-trump-pardon"
+    ampWebUrl: "https://www.foxnews.com/politics/former-rep-chris-collins-released-from-prison-after-trump-pardon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-rep-chris-collins-released-from-prison-after-trump-pardon.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1db342b1-2b8f-427b-b173-cfafcb085d3a/41496152-13b2-47eb-affd-77947ebd56f9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump declares war on Thune, but Noem says she won't challenge senator"
     excerpt: "Soon after President Trump declared that South Dakota Sen. John Thune's \"political career is over,\" the state’s governor and Trump ally Kristi Noem called the number two Republican in the Senate \"a friend\" and said she wouldn’t \"be challenging\" Thune when he is up for re-election in 2022."
     publishedDateTime: 2020-12-23T15:12:54Z
@@ -95,6 +111,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trumpxmas.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Former Rep. Chris Collins released from prison after Trump pardon"
+    excerpt: "Former New York Republican Rep. Chris Collins was released from a Pensacola prison on Tuesday, the same day President Trump granted him and several other high-profile individuals pardons."
+    publishedDateTime: 2020-12-23T18:57:00Z
+    webUrl: "https://www.foxnews.com/politics/former-rep-chris-collins-released-from-prison-after-trump-pardon"
+    ampWebUrl: "https://www.foxnews.com/politics/former-rep-chris-collins-released-from-prison-after-trump-pardon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-rep-chris-collins-released-from-prison-after-trump-pardon.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1db342b1-2b8f-427b-b173-cfafcb085d3a/41496152-13b2-47eb-affd-77947ebd56f9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "6vNQVoACuWfj2MjXuJejJGkcOMUCfqJbAeYCuqQgl8XAqCTkKXTvka5uHI+cXA7gxEAa5cImctrTgNyjeA9HJ1P52DvB2TAkCXsZGp5iEiGBKkOgKPX9sWcGJodBQwqbaTB/8rRe1M/ckmi1KInIwEsZakJGi0Wb6DVy+nnKdDrGT3OoUp+61gn+2q3m2mzoLoX+BjpXAABn3HMu+HLDRc0kFee5NSLq0NW/4NIIv4HWu6rxOoak7NRTNYo0Y9hSeU6ujreN4qaQjo4ovirsMz52m0XYI/20BS/bPTJOQ1ohZCBNmaU5hZCBaS2nx5cN2OjSiQCJ2s3wpvW12SkB5X396Id43cgzEHDj15jyMPY=;7TV+bK9xDm3KWXujNMfnog=="
