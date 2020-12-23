@@ -2,6 +2,120 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-11-08-saturday-night-live-sends-off-trump-with-a-ballad.md",
+      "title": "‘Saturday Night Live’ Sends Off Trump With a Ballad",
+      "excerpt": "The host Dave Chappelle, who also hosted the first episode after the 2016 election, urged Americans to “find a way to forgive each other.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/08/arts/television/saturday-night-live-dave-chappelle.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/08/arts/television/saturday-night-live-dave-chappelle.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/09/arts/08snl-2/08snl-2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/08/arts/television/saturday-night-live-dave-chappelle.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/arts/television/saturday-night-live-dave-chappelle.amp.html",
+      "publishedDateTime": "2020-11-07T22:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-kamala-harris-as-first-woman-elected-vp-says-she-wont-be-the-last.md",
+      "title": "Kamala Harris, as first woman elected VP, says she 'won't be the last' ",
+      "excerpt": "On the night Vice President-elect Kamala Harris made history, she recognized the long battle women had faced for the right to vote and to break into the highest ranks of American politics -- and said that \"every little girl watching\" across the country now knows they can do so, too.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gy5J6LV7xi8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gy5J6LV7xi8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 505,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201107204230-20-biden-harris-address-1107-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-speech/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-speech/index.html",
+      "publishedDateTime": "2020-11-07T18:47:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-hispanic-voters-deliver-a-texas-win-for-trump.md",
       "title": "Hispanic Voters Deliver a Texas Win for Trump",
       "excerpt": "The Rio Grande Valley shifted decisively toward President Trump, cancelling out votes for Joseph R. Biden Jr. in urban and suburban areas.",
@@ -1218,110 +1332,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-how-donald-trump-won-ohio-a-closer-look-at-the-campaign-in-a-battleground-state.md",
-      "title": "How Donald Trump won Ohio: A closer look at the campaign in a battleground state",
-      "excerpt": "President Donald Trump improved on his 2016 map; former Vice President Joe Biden couldn't make up the difference in the cities and suburbs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/04/how-donald-trump-won-ohio-again/6161704002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/04/how-donald-trump-won-ohio-again/6161704002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/25/PCIN/bbc1d0b4-2ba3-472e-ac4c-cef8974a5311-AP20298827401012.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6161704002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6161704002",
-      "publishedDateTime": "2020-11-06T13:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-fact-check-video-shows-mail-waste-not-shredded-trump-ballots.md",
-      "title": "Fact check: Video shows mail waste, not shredded Trump ballots",
-      "excerpt": "Social media users have claimed a video shows shredded mail-in ballots for U.S. President Donald Trump that were found in the back of a trailer. This is not true.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-factcheck-shredded-leaflets/fact-check-video-shows-mail-waste-not-shredded-trump-ballots-idUSKBN27M25L",
-      "originalUrl": "https://www.reuters.com/article/uk-factcheck-shredded-leaflets/fact-check-video-shows-mail-waste-not-shredded-trump-ballots-idUSKBN27M25L",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540275459&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51AC",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27M25L",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M25L",
-      "publishedDateTime": "2020-11-06T12:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

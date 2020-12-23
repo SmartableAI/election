@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-03-trump-awards-football-coach-lou-holtz-the-medal-of-freedom.md",
+      "title": "Trump awards football coach Lou Holtz the Medal of Freedom",
+      "excerpt": "President Donald Trump awarded the Medal of Freedom to former football coach Lou Holtz on Thursday in an Oval Office ceremony.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTVejM6MY1o/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTVejM6MY1o/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/160502185550-lou-holtz-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/donald-trump-lou-holtz-medal-of-freedom/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/donald-trump-lou-holtz-medal-of-freedom/index.html",
+      "publishedDateTime": "2020-12-03T09:59:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-dianne-feinstein-says-she-backs-padilla-to-replace-harris-in-senate.md",
       "title": "Dianne Feinstein says she backs Padilla to replace Harris in Senate",
       "excerpt": "Democratic Sen. Diane Feinstein said she backs California Secretary of State Alex Padilla to fill Kamala Harris' US Senate seat when she is sworn in as vice president in January.\n    \n",
@@ -1609,62 +1665,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/22/politics/trump-paris-climate-accord-g20/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/trump-paris-climate-accord-g20/index.html",
       "publishedDateTime": "2020-11-22T09:30:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-trump-campaign-requests-georgia-recount-thats-unlikely-to-change-his-loss-in-the-state.md",
-      "title": "Trump campaign requests Georgia recount that's unlikely to change his loss in the state",
-      "excerpt": "Georgia will conduct another recount of its presidential ballots following a Trump campaign request Saturday, but the recount is extremely unlikely to change his loss in the state.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/57IMkYkp5ok/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/57IMkYkp5ok/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201111113617-ballot-counting-georgia-1105-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/21/politics/georgia-presidential-election-recount/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/21/politics/georgia-presidential-election-recount/index.html",
-      "publishedDateTime": "2020-11-21T21:38:23-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

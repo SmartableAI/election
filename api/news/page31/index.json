@@ -2,6 +2,110 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-11-07-how-donald-trump-won-ohio-a-closer-look-at-the-campaign-in-a-battleground-state.md",
+      "title": "How Donald Trump won Ohio: A closer look at the campaign in a battleground state",
+      "excerpt": "President Donald Trump improved on his 2016 map; former Vice President Joe Biden couldn't make up the difference in the cities and suburbs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/04/how-donald-trump-won-ohio-again/6161704002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/04/how-donald-trump-won-ohio-again/6161704002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/25/PCIN/bbc1d0b4-2ba3-472e-ac4c-cef8974a5311-AP20298827401012.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6161704002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6161704002",
+      "publishedDateTime": "2020-11-06T13:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-fact-check-video-shows-mail-waste-not-shredded-trump-ballots.md",
+      "title": "Fact check: Video shows mail waste, not shredded Trump ballots",
+      "excerpt": "Social media users have claimed a video shows shredded mail-in ballots for U.S. President Donald Trump that were found in the back of a trailer. This is not true.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-factcheck-shredded-leaflets/fact-check-video-shows-mail-waste-not-shredded-trump-ballots-idUSKBN27M25L",
+      "originalUrl": "https://www.reuters.com/article/uk-factcheck-shredded-leaflets/fact-check-video-shows-mail-waste-not-shredded-trump-ballots-idUSKBN27M25L",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540275459&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51AC",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27M25L",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M25L",
+      "publishedDateTime": "2020-11-06T12:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-how-joe-bidens-leads-in-georgia-pennsylvania-nevada-give-him-a-clear-path-to-270-electoral-votes.md",
       "title": "How Joe Biden's leads in Georgia, Pennsylvania, Nevada, give him a clear path to 270 electoral votes",
       "excerpt": "Joe Biden's lead is growing in key states. Former Vice President Joe Biden is on the verge of reaching 270 electoral votes and winning the race for president after he surged ahead in Georgia early Friday morning and hours later in Pennsylvania.",

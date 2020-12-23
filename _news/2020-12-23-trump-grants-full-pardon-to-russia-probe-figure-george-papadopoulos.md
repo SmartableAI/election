@@ -2,11 +2,11 @@
 category: news
 title: "Trump grants full pardon to Russia probe figure George Papadopoulos"
 excerpt: "President Donald Trump granted a full pardon on Tuesday to George Papadopoulos, a former campaign aide who pleaded guilty as part of the investigation into Russian meddling in the 2016 presidential election."
-publishedDateTime: 2020-12-23T00:31:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN28X00R"
-webUrl: "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN28X00R"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X00R"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X00R"
+publishedDateTime: 2020-12-23T10:19:00Z
+originalUrl: "https://www.reuters.com/article/usa-trump-pardons-idINKBN28X06E"
+webUrl: "https://www.reuters.com/article/usa-trump-pardons-idINKBN28X06E"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28X06E"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28X06E"
 type: article
 quality: 125
 heat: -1
@@ -162,6 +162,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump issues wave of pardons and commutations to Russia probe defendants, former GOP lawmakers, Blackwater guards, and Border Patrol agents"
+    excerpt: "Trump issued pardons and commutations to 20 people including multiple close associates ensnared in the Russia probe and former GOP congressmen."
+    publishedDateTime: 2020-12-23T10:21:00Z
+    webUrl: "https://www.businessinsider.com/trump-pardons-former-campaign-associates-ex-gop-congressmen-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-pardons-former-campaign-associates-ex-gop-congressmen-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pardons-former-campaign-associates-ex-gop-congressmen-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/5fd0bd5ecee0cf00114fa55e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump downplays hack as Pompeo blames Russia"
     excerpt: "Watch \"President Trump downplays U.S. government hack as Pompeo blames Russia\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-12-21T12:56:00Z
@@ -188,6 +204,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Mgn9Zl8axXQoRryqmKr1jbRkjFlsa6yioXd9tbyuqqBI8wkndVKXrZhf7FiXtw4MHFjfTOFy1FUOGyhqHl7s6lze+40yTWV/f3TVC4LtTQNOIt2b+4v6JU+FBq4WIp4i1Vhe4Xx8ymUqNWP0Jp3YDhhZNZez8fH/DQnXeonDa4nRUOuDhfWeE9EImTGU9DlqoxX7TwhvF2BW4WhJ90rw8l+P+HJFkkwDkofyUzmxqd9VLQTLpHDzrrqRU0MgLg6l9xhgVmZ54aiFH/eQ/GpP5SaaiSZEtOxU+bPSGwCQpUp6SrN6R9DFdhN8eZN9BbMkp4jRMtnkXe90E4P/9/WeAlAlAqUEe8bdc6D2gzI3HW8=;XJf/JaF5yaPZCs0jZqPkUw=="
+secured: "rNkEmW3efW3WV5TIn/8ql8UCDQjs4zZ7+TbA7cuj/Hizp4QrVCOKf4SjtmM14cN4a3D81MPB3gp7BxvEfXrrts1UF0Y7xh3Zcff87zpjfhjy45ORmyJmfNEfQe8Zy0s3Fly0MRewTnBYlOQtkUXBJ/smZU21Z4IGmMBreZvaLhRo1zQ5BN8jJtdzZbNKye8yidTh97ahPsrVAN5q3tsb/R/v17wMp0zvj6ikDku2+tU3mpdPWp3lplQLvfmHbv0D9nCPIrfV2us0Etx+qBM5EXWYMOeOj6PEIFFKtmDMY/lZjLgmnx5859H4I166i3eC4aCzra8pIyz4MRUrWPez/muSRkPaOXvHBEocxHoJxNo=;lm2HsBBB+0eHBVZ9xlTY8Q=="
 ---
 

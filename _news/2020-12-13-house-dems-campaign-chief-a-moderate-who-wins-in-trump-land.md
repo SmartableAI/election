@@ -57,6 +57,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Global shares rise, buoyed by relief after UK travel rules were eased, while Trump signals he may not sign off on $900 billion stimulus bill"
+    excerpt: "Shares increase after France relaxes rules on arrivals from UK, where a new strain of COVID-19 has millions in lockdown; Trump bashes stimulus bill"
+    publishedDateTime: 2020-12-23T10:56:00Z
+    webUrl: "https://www.businessinsider.com/stock-markets-equities-up-uk-travel-rules-ease-trump-focus-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/stock-markets-equities-up-uk-travel-rules-ease-trump-focus-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-markets-equities-up-uk-travel-rules-ease-trump-focus-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://images2.markets.businessinsider.com/5fe315efa644880018193148?format=jpeg"
+        width: 789
+        height: 526
+        isCached: true
 
 secured: "NgvipZwzM1UeSbzFt22ESjzsDcdaWFKAEKdtLqns2f1x6jaKvJoDzi0jn76PT21e5WIoXHojH9MbRKtcaoXNVGqSBk36MoY7BxvGnukfhjCFVrzu+UTiI1GQng9f6pHjSfp/VYhoT+ToTYAe9baWWN/yBD7OUU04sLOLmYrl6bSB9gCUeIap/1JcHzuYv71TielRxTaV9DmbLB290fleg0/Ncd3wo9ZID/gsxysH43RcUmU9qUl9PGy7+DFQysOvrqXEjiALGbtjetvrbpc1Q24Pf/dBP2aLwSSMjVDdf8889VQensTtH9SBAF98UfDVflR/b4kET4J+62Uqn2DTY5mrSeZf377fzh3q6+s7RkM=;V+EfCeqVDpYLCUXIQh0tmg=="
 ---

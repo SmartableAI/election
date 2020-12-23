@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-23-stanley-chera-was-a-mogul-who-made-covid-19-personal-for-trump.md",
+      "title": "Stanley Chera Was a Mogul Who Made Covid-19 Personal for Trump",
+      "excerpt": "The Lives They Lived The Lives They Lived By Jamie Lauren Keiles Shortly after his Covid diagnosis — fever spiking, hooked up to an oxygen tank — Donald Trump reportedly wondered aloud to an aide, “Am I going out like Stan Chera?” Like so many ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/interactive/2020/12/23/magazine/stanley-chera-death.html",
+      "originalUrl": "https://www.nytimes.com/interactive/2020/12/23/magazine/stanley-chera-death.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/27/magazine/27mag-chera/27mag-chera-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T02:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-biden-team-calls-out-twitter-over-plan-to-wipe-white-house-accounts-followers.md",
       "title": "Biden team calls out Twitter over plan to wipe White House accounts' followers",
       "excerpt": "President-elect Joe Biden's transition team has pushed back against Twitter's decision to not allow the millions of followers of the White House Twitter accounts to be automatically retained when the accounts are handed over to the new administration.\n    \n",
@@ -1635,62 +1692,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-accept-defeat-see-trump-allys-message-after-election-loss.md",
-      "title": "'Accept defeat': See Trump ally's message after election loss",
-      "excerpt": "Former New Jersey Governor Chris Christie talks to CNN's Chris Cuomo about the election and how President Donald Trump and some Republicans have refused to concede.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zqB1iwI-vOA/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zqB1iwI-vOA/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 470,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201217102245-chris-christie-cpt-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn",
-      "publishedDateTime": "2020-12-17T18:53:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

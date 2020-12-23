@@ -49,10 +49,10 @@ related:
         isCached: true
   - title: "Trump grants full pardon to Russia probe figure George Papadopoulos"
     excerpt: "President Donald Trump granted a full pardon on Tuesday to George Papadopoulos, a former campaign aide who pleaded guilty as part of the investigation into Russian meddling in the 2016 presidential election."
-    publishedDateTime: 2020-12-23T00:31:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN28X00R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X00R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X00R"
+    publishedDateTime: 2020-12-23T10:19:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-pardons-idINKBN28X06E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28X06E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28X06E"
     type: article
     provider:
       name: Reuters
@@ -161,6 +161,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/21/76e4379e-d249-4937-bdad-62f94b8f2e36/thumbnail/1200x630/ef9879eba68ee8292eea612d940aed45/cbsn-fusion-president-trump-blames-china-not-russia-for-government-agency-hack-thumbnail-613606-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump issues wave of pardons and commutations to Russia probe defendants, former GOP lawmakers, Blackwater guards, and Border Patrol agents"
+    excerpt: "Trump issued pardons and commutations to 20 people including multiple close associates ensnared in the Russia probe and former GOP congressmen."
+    publishedDateTime: 2020-12-23T10:21:00Z
+    webUrl: "https://www.businessinsider.com/trump-pardons-former-campaign-associates-ex-gop-congressmen-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-pardons-former-campaign-associates-ex-gop-congressmen-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pardons-former-campaign-associates-ex-gop-congressmen-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/5fd0bd5ecee0cf00114fa55e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump downplays hack as Pompeo blames Russia"
     excerpt: "Watch \"President Trump downplays U.S. government hack as Pompeo blames Russia\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."

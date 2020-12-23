@@ -2,6 +2,114 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-16-biden-pushes-back-against-critics-touts-cabinet-of-firsts.md",
+      "title": "Biden pushes back against critics, touts 'Cabinet of firsts'",
+      "excerpt": "After weeks of pressure from all sides of the Democratic Party’s vast coalition over the makeup of his incoming administration, President-elect Joe Biden on Wednesday pushed back against his critics as he made another history-making Cabinet nomination.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TNq58tgjw5U/biden-responds-critics-cabinet-picks",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TNq58tgjw5U/biden-responds-critics-cabinet-picks",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-responds-critics-cabinet-picks.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-responds-critics-cabinet-picks.amp",
+      "publishedDateTime": "2020-12-16T10:38:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-trump-names-usps-board-nominee-potentially-solidifying-gop-control-of-mail-service.md",
+      "title": "Trump names USPS board nominee, potentially solidifying GOP control of mail service",
+      "excerpt": "Roy A. Bernardi, a former HUD official, would become the fifth Republican on the nine-member board of governors if he wins Senate confirmation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/2020/12/16/usps-trump-board-governor-nominee/",
+      "originalUrl": "https://www.washingtonpost.com/business/2020/12/16/usps-trump-board-governor-nominee/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QIGBL5X6QQI6VMHEGUHE4YGMSE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/2020/12/16/usps-trump-board-governor-nominee/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/12/16/usps-trump-board-governor-nominee/?outputType=amp",
+      "publishedDateTime": "2020-12-16T10:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-kamala-harris-to-robin-roberts-i-feel-a-very-big-sense-of-responsibility-as-historic-vp.md",
       "title": "Kamala Harris to Robin Roberts: 'I feel a very big sense of responsibility' as historic VP",
       "excerpt": "The people are suffering,” Harris told \"Good Morning America\" anchor Robin Roberts in an exclusive interview. “The moratoriums on evictions and foreclosures are about to end. The extension that people need of benefits is very real.",
@@ -1228,114 +1336,6 @@
         "Election",
         "Mike Pence",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-judith-heumann-biden-is-committed-to-involving-disabled-people-in-his-administration.md",
-      "title": "Judith Heumann: 'Biden is committed to involving disabled people in his administration'",
-      "excerpt": "The US activist on Covid’s impact and her starring role in Crip Camp, the documentary charting the birth of the disability rights movement",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp",
-      "originalUrl": "https://www.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/3d90cbafa017f6722f77179c47ff994b5abfc67a/120_0_1800_1080/master/1800.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e8585343d59071aee5cb9e05a5d0ad88",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp",
-      "publishedDateTime": "2020-12-15T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-putin-congratulates-biden-on-election-victory.md",
-      "title": "Putin congratulates Biden on election victory",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ov1bROivNoQ/putin-congratulates-biden-on-election-victory",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ov1bROivNoQ/putin-congratulates-biden-on-election-victory",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1970,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp",
-      "publishedDateTime": "2020-12-15T00:44:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

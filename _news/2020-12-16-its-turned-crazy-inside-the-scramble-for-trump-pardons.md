@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/donald-trump-pardons-lam
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/donald-trump-pardons-lame-duck/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209192032-trump-medal-of-freedom-dan-gable-oval-office-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump goes on a rampage with pardons, veto threats and Covid denial"
+    excerpt: "Donald Trump's presidency is blazing into history in a way that epitomizes his corrupt excess, with pardons for cronies and war crimes, assaults on democracy, fresh Covid-19 denial and impunity for Russia.\n    \n"
+    publishedDateTime: 2020-12-23T09:58:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9CQptI9ICaM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/donald-trump-pardons-stimulus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/donald-trump-pardons-stimulus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221215204-donald-trump-1208-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

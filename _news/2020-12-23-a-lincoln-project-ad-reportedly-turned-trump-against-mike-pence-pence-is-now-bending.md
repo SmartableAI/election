@@ -571,6 +571,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Markets on edge as Trump demands changes to US stimulus bill – business live"
+    excerpt: "Jeffrey Halley of OANDA says investors are resisting pressing the sell button until the situation around the US stimulus deal is clearer. The President has stated that direct payments to families are too low and has suggested to Congress that it tries again."
+    publishedDateTime: 2020-12-23T09:14:00Z
+    webUrl: "https://www.theguardian.com/business/live/2020/dec/23/markets-trump-stimulus-bill-pound-brexit-pound-covid-ftse-us-jobless-business-live"
+    ampWebUrl: "https://amp.theguardian.com/business/live/2020/dec/23/markets-trump-stimulus-bill-pound-brexit-pound-covid-ftse-us-jobless-business-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/live/2020/dec/23/markets-trump-stimulus-bill-pound-brexit-pound-covid-ftse-us-jobless-business-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/95567eef153faec4d553781c05c3f78b7b259c8f/0_142_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=61d94adf200029731515c4b777dd973f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Even as Trump vows to keep fighting, his aides are quietly starting to move on"
     excerpt: "Chief of Staff Mark Meadows has discussed opening a consulting firm with other White House aides and allies. Support our journalism. Subscribe today. Top economic adviser Larry Kudlow has told friends he is planning to return to broadcasting,"
     publishedDateTime: 2020-12-19T11:07:00Z
@@ -847,6 +863,20 @@ related:
         width: 1200
         height: 822
         isCached: true
+  - title: "President Trump Pushes The Boundaries Of His Pardon Power"
+    excerpt: "Trump granted clemency to 20 people. That includes three former GOP congressmen, two people prosecuted in the Russia probe and four contractors involved in a deadly incident in Iraq."
+    publishedDateTime: 2020-12-23T10:01:00Z
+    webUrl: "https://www.npr.org/2020/12/23/949503052/president-trump-pushes-the-boundaries-of-his-pardon-power"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Trump issues 15 presidential pardons"
     excerpt: "Watch \"Trump issues 15 presidential pardons that includes two for men convicted in the Russia probe and former congressmen and military contractors\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
     publishedDateTime: 2020-12-23T04:07:00Z
@@ -977,6 +1007,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "PvoQVQTZ22ITzbjUd82mbTCEv6Cbcvy+F2xBwlihgsrYeNgJyXVMLyfRO/T4pqkUr5k6dUXWoA4iXJW0CZpE2Q3fEbE4PqP2wKT3fCY30n7WS7NDpEGG1CzUZ04nHc7iE0IbgnfKqs39bzbiYJrDs5UnJle2xNUJKhBluU/EkmVOM+b0D4aSTvFh8fuaYxUR/QeX0Ow6tgiEqm/4IUYmgQi7McApvkI6alSLomW3U36h0u5eyK8Fl9Ep6wH85pmN7WpCQovQqD0xMoGdIBrwzgR1TxvRb0djp0hugzY76C96O7Yvt60MT7G0EcHadCNZoLmuwFQj87+VCP4gS1IF6XvTxj0km6/y8QY27gZVMVQ=;H+IsJIo8uEFLP0G9mBqhcw=="
+secured: "qUHlf99At3hmRbxneYo86OPfZ/VP1wbRNe9OYAY85ZyUKmK4hz0RtyIMmSuFsJTUBGragAI8SbRsIimLsnrV3cegxl8A+GAOMu/3nfaGEgV4dRYvbiL/8kE5CdFH7032veHBnCyhKA0pR4kzcRRb5rh2nxgyF0XvRekxVGxQntJaqRds4fG5TZ8glgxupHpb4rT6HiEklzQytAWlGzI2tc+0RizHX8aS4xtmeQVNQjbF9XMOUoc3wCpHY9g/NIcN8jKg8hRgwqCyVfzPc43Bo71p8Mm22BtJTAm6jCroEB2oJI0GU+M1WZx1mgX2/0ubf3ILGIEidb3LDucRz0rtdMMr/kOYw/atijx/PjEz3/5sTTQ4KqGVufXge1j5/temTtxyqdI5YYOMVOK4xDSA4T7FhiuX1Ws4zQfYf9KkY0GF4N8De2IpQdhHjHGGcFgNYXri4nRdqRT7XJ4tHvMQ/zqDpW0FYp5ZRaTG6qzc7apK7wOcPbC+1KW72PQtcFardha+Rbrv4AN/WfcwTRpVhA==;niddLywPQ+Hs1zbOCJnCvQ=="
 ---
 
