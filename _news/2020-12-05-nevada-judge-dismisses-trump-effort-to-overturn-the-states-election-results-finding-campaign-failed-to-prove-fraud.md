@@ -2110,6 +2110,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Live politics updates: Trump slams COVID stimulus bill, sending lawmakers scrambling"
+    excerpt: "Trump says stimulus checks should exceed $600. Dems are on board. The proposal has been met with less enthusiasm from Republicans."
+    publishedDateTime: 2020-12-23T12:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/23/politics-updates-president-elect-joe-biden-donald-trump-congress/4001539001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4001539001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4001539001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/08/USAT/a8b7c038-d832-4bf2-a913-14a0ce98737a-VPC_COVID_RELIEF_BILL_2_WIDE_GETTY.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump asks Pennsylvania House speaker for help overturning election results, personally intervening in a third state"
     excerpt: "The outreach reflects a broadening pressure campaign by the president and his allies to try to subvert the 2020 election result."
     publishedDateTime: 2020-12-08T00:57:00Z

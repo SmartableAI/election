@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28R0M7"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R0M7"
 type: article
 quality: 123
-heat: 183
+heat: 203
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Israel hopes for rapprochement with fifth Muslim country before Trump exit - minister"
+    excerpt: "Israel is working towards formalising relations with a fifth Muslim country during U.S. President Donald Trump's term, which ends next month, an Israeli government minister told Ynet TV on Wednesday."
+    publishedDateTime: 2020-12-23T10:59:00Z
+    webUrl: "https://www.reuters.com/article/us-israel-diplomacy-usa/israel-hopes-for-rapprochement-with-fifth-muslim-country-before-trump-exit-minister-idUSKBN28X17H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X17H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X17H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545545711&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM0OI"
+        width: 816
+        height: 545
+        isCached: true
   - title: "White House aides talked Trump out of last-minute demand for stimulus checks as big as $2,000"
     excerpt: "Advisers persuaded the president on Thursday not to announce support for significantly bigger stimulus payments."
     publishedDateTime: 2020-12-18T08:41:00Z

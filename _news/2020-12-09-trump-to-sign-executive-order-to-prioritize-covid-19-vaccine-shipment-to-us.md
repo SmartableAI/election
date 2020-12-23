@@ -240,6 +240,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump takes aim at Covid stimulus bill, raising spectre of veto"
+    excerpt: "President Donald Trump on Tuesday blasted the $900 billion coronavirus relief package passed by Congress, calling it a “disgrace” and asking for amendments to the bill to increase stimulus payments to Americans."
+    publishedDateTime: 2020-12-23T02:11:00Z
+    webUrl: "https://www.politico.com/news/2020/12/22/trump-covid-stimulus-bill-450204"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/22/trump-covid-stimulus-bill-450204"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/22/trump-covid-stimulus-bill-450204"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/4b/8a/6cff66334913979e3340b6370b26/gettyimages-1229927444-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump touts a false narrative — and forces allies to come along for the lie"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
     publishedDateTime: 2020-12-10T14:11:00Z

@@ -41,10 +41,10 @@ related:
         isCached: true
   - title: "Trump grants full pardon to Russia probe figure George Papadopoulos"
     excerpt: "President Donald Trump granted a full pardon on Tuesday to George Papadopoulos, a former campaign aide who pleaded guilty as part of the investigation into Russian meddling in the 2016 presidential election."
-    publishedDateTime: 2020-12-23T10:19:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-pardons-idINKBN28X06E"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28X06E"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28X06E"
+    publishedDateTime: 2020-12-23T11:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN28X00R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X00R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X00R"
     type: article
     provider:
       name: Reuters

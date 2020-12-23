@@ -144,6 +144,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump puts GOP on its heels with 11th-hour stimulus demands, throws wrench into Georgia Senate race"
+    excerpt: "President Trump in a video posted to Twitter on Tuesday night demanded that lawmakers amend the coronavirus stimulus package they passed Monday to include $2,000 checks for individuals instead of $600 checks -- while also demanding that \"wasteful and unnecessary\" items be cut from the year-end spending"
+    publishedDateTime: 2020-12-23T12:48:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T8TtvKF0sY8/trump-gop-coronavirus-stimulus-demands-georgia-senate-race"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-gop-coronavirus-stimulus-demands-georgia-senate-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-gop-coronavirus-stimulus-demands-georgia-senate-race.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump campaign poll asks if he should run for president in 2024"
     excerpt: "In a Tuesday email, President Trump's campaign wrote to supporters asking if he should run for office again in 2024."
     publishedDateTime: 2020-12-16T20:02:00Z

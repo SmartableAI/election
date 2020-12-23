@@ -2,11 +2,11 @@
 category: news
 title: "Trump grants full pardon to Russia probe figure George Papadopoulos"
 excerpt: "President Donald Trump granted a full pardon on Tuesday to George Papadopoulos, a former campaign aide who pleaded guilty as part of the investigation into Russian meddling in the 2016 presidential election."
-publishedDateTime: 2020-12-23T10:19:00Z
-originalUrl: "https://www.reuters.com/article/usa-trump-pardons-idINKBN28X06E"
-webUrl: "https://www.reuters.com/article/usa-trump-pardons-idINKBN28X06E"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28X06E"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28X06E"
+publishedDateTime: 2020-12-23T11:58:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN28X00R"
+webUrl: "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN28X00R"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X00R"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X00R"
 type: article
 quality: 125
 heat: -1
@@ -204,6 +204,6 @@ related:
         height: 630
         isCached: true
 
-secured: "rNkEmW3efW3WV5TIn/8ql8UCDQjs4zZ7+TbA7cuj/Hizp4QrVCOKf4SjtmM14cN4a3D81MPB3gp7BxvEfXrrts1UF0Y7xh3Zcff87zpjfhjy45ORmyJmfNEfQe8Zy0s3Fly0MRewTnBYlOQtkUXBJ/smZU21Z4IGmMBreZvaLhRo1zQ5BN8jJtdzZbNKye8yidTh97ahPsrVAN5q3tsb/R/v17wMp0zvj6ikDku2+tU3mpdPWp3lplQLvfmHbv0D9nCPIrfV2us0Etx+qBM5EXWYMOeOj6PEIFFKtmDMY/lZjLgmnx5859H4I166i3eC4aCzra8pIyz4MRUrWPez/muSRkPaOXvHBEocxHoJxNo=;lm2HsBBB+0eHBVZ9xlTY8Q=="
+secured: "g3yr9t0IvD0vgbja8AWZcXoZWZvFp1vXFxBrZ+utbrjCNYWLSzrZ+ylZE80XGEZ1C0kmIL9bts60KeBG0WT2CrBvPhql9bZa472a5cavyLGL1y9Kay1vgKGAZbcq6DzqMMQ4GYsGS01UUAE+FweMFqU0y0RzodBicfeKS+Gk1PPW7s19IMgQMgf9hHEJNf7UWKrQkyPPJDfAfD+NQMQIY122Zjla5W+JdXsgheJN//09Dvjg73IdMbtw+W6Y74PRwz5lmFOO6sUD2/wPFH+HYKUqN/3S92h27k3meIQNRgHv4sLprlBEjB7JC342MPwFrhE34uTtcyBrYWbxJXq1MH5sTj50hZAhTWBzyyc6dR4=;RApDP6qA6OLNj+Mmu3BGOQ=="
 ---
 

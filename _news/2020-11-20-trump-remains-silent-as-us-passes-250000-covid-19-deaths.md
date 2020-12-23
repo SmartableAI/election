@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-2
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
 type: article
 quality: 125
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -264,6 +264,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/22/d6e84f35-0d29-47bb-96d1-7ad98a8382ec/thumbnail/1200x630/6625156b63f6488e13c098786be9eb7c/cbsn-fusion-trump-admin-prepares-to-distribute-stimulus-checks-thumbnail-614297-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump delays signing of COVID relief bill"
+    excerpt: "Watch \"President Trump delays signing of COVID-19 relief bill, says stimulus checks should be $2,000\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-23T12:25:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201223115930-president-trump-delays-signing-of-covid-19-relief-bill-says-stimulus-checks-should-be-2000/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08240230_1608725103.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "U.S. Congress passes nearly $900 bln COVID-19 aid bill, awaits Trump approval"
     excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week after Congress passed a $892 billion COVID-19 aid package overnight that aims to shore up the nation's pandemic response and bolster the battered economy."

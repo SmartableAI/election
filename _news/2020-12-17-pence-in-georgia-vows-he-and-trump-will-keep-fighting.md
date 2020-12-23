@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp"
 type: article
 quality: 200
-heat: 400
+heat: 420
 published: true
 
 provider:
@@ -127,6 +127,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20349715127433.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump puts GOP on its heels with 11th-hour stimulus demands, throws wrench into Georgia Senate race"
+    excerpt: "President Trump in a video posted to Twitter on Tuesday night demanded that lawmakers amend the coronavirus stimulus package they passed Monday to include $2,000 checks for individuals instead of $600 checks -- while also demanding that \"wasteful and unnecessary\" items be cut from the year-end spending"
+    publishedDateTime: 2020-12-23T12:48:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T8TtvKF0sY8/trump-gop-coronavirus-stimulus-demands-georgia-senate-race"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-gop-coronavirus-stimulus-demands-georgia-senate-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-gop-coronavirus-stimulus-demands-georgia-senate-race.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Pence in Georgia vows he and Trump will 'keep fighting'"
     excerpt: "For Vice President Mike Pence, it’s a delicate balance on the Georgia Senate runoffs campaign trail. But Pence – aiming to energize Trump supporters and other Republicans to vote for GOP Sens. David Perdue and Kelly Loeffler in contests that will be won by the party that does a better job turning out its base – vowed that \"we’re going to keep fighting,"

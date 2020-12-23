@@ -240,6 +240,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump takes aim at Covid stimulus bill, raising spectre of veto"
+    excerpt: "President Donald Trump on Tuesday blasted the $900 billion coronavirus relief package passed by Congress, calling it a “disgrace” and asking for amendments to the bill to increase stimulus payments to Americans."
+    publishedDateTime: 2020-12-23T02:11:00Z
+    webUrl: "https://www.politico.com/news/2020/12/22/trump-covid-stimulus-bill-450204"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/22/trump-covid-stimulus-bill-450204"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/22/trump-covid-stimulus-bill-450204"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/4b/8a/6cff66334913979e3340b6370b26/gettyimages-1229927444-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump to sign executive order to prioritize Covid-19 vaccine shipment to US"
     excerpt: "NBC's Peter Alexander discusses Trump signing an executive order aimed at prioritizing the shipment of the coronavirus vaccine to the U.S. before other nations."
     publishedDateTime: 2020-12-08T18:28:00Z
