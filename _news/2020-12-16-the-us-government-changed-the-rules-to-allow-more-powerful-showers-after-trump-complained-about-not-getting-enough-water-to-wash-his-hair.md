@@ -58,6 +58,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trump vowed to drain the swamp. Then he granted clemency to three former congressmen convicted of federal crimes."
+    excerpt: "Pardons and commutations went to “cronies” while thousands of applications at the Justice Department are pending."
+    publishedDateTime: 2020-12-24T01:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/45Z646SFOII6XMHEB4MCSI5AEU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "2KvvsY8nbtlFSAd14D5iKzLnHL1x/5OifHDXldFxZwzvil7iMnmUtrtzVRVSCg4M36K9XOw0DZIUmQVcFgLnxSw985rlkio4nmtQBTe4qDAWUHTvGMq6IFpklarNNG1s0XjF4qPMXLN52A9qW7RuP6CS/4M/rGuDnPchgUJQcjnKXqJmKBbjEgE5G3l/JMr8YMPqFl+ESk7h+j9f7p/JJ2Cmcr9zmh1e03yXsa8cWrAXAWXh8daRQ9AEdM/gP5eody+3/0HDFhkMnqc13VpQSdbQqZGSRkSGQiJvioywpbRKcoBqdJR4F5pLsgd13hVZPV4olW6UeZGn0siFjpxZHDKTYodIaegl4N4NTqWVW4c=;nYVZZiPmMmSOPBFUsAmuUA=="
 ---

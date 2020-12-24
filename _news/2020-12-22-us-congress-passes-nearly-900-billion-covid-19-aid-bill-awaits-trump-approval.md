@@ -159,6 +159,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "U.S. faces risk of government shutdown as Trump balks at COVID-19 relief deal"
+    excerpt: "Americans on Wednesday faced the prospect of a government shutdown during a pandemic as outgoing President Donald Trump, angry at his fellow Republicans in Congress, demanded dramatic changes to a $2."
+    publishedDateTime: 2020-12-24T01:07:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idINKBN28X1UD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28X1UD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28X1UD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545570453&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM10K"
+        width: 738
+        height: 545
+        isCached: true
   - title: "Coronavirus live news: Donald Trump Jr tests positive as Mexico deaths pass 100,000"
     excerpt: "Obrador rejects criticism as political attacks; Canada fears big rise in cases could overwhelm hospitals; Italy records 37,242 new cases"
     publishedDateTime: 2020-11-21T00:44:00Z

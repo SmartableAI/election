@@ -41,6 +41,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump vowed to drain the swamp. Then he granted clemency to three former congressmen convicted of federal crimes."
+    excerpt: "Pardons and commutations went to “cronies” while thousands of applications at the Justice Department are pending."
+    publishedDateTime: 2020-12-24T01:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/45Z646SFOII6XMHEB4MCSI5AEU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The US government changed the rules to allow more powerful showers after Trump complained about not getting enough water to wash his hair"
     excerpt: "At a White House event in July, President Trump complained that showers weren't providing enough water for him to properly wash his hair."
     publishedDateTime: 2020-12-16T12:52:00Z

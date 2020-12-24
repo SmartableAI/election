@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here are the high-profile pardons and commutations Trump has granted during his presidency"
+    excerpt: "The end of President Donald Trump's time in office has been marked by a renewed interest in granting clemency -- both from the President, and from members of his inner circle looking for protection before President-elect Joe Biden assumes office.\n    \n"
+    publishedDateTime: 2020-12-24T01:09:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hmdxClypLxU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/trump-pardons-commutations-list/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/trump-pardons-commutations-list/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204112620-trump-pardons-split-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden, Harris to introduce Susan Rice, others for key administration posts"
     excerpt: "WASHINGTON — President-elect Joe Biden and Vice President-elect Kamala Harris will introduce more key members of their administration to the public on Friday, several of whom are veterans of the Obama White House."
     publishedDateTime: 2020-12-11T12:17:00Z
@@ -447,22 +463,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Biden eyes frequent testing to reopen nation's schools"
-    excerpt: "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country."
-    publishedDateTime: 2020-12-23T20:06:00Z
-    webUrl: "https://www.politico.com/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/d6/1f/d14f15944a349a63f3aea61c185a/gettyimages-1276530953-c.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Kamala Harris Makes History as First Woman and Woman of Color as Vice President"
     excerpt: "Ms. Harris, the daughter of an Indian mother and Jamaican father, has risen higher in the country’s leadership than any woman ever before her."
     publishedDateTime: 2020-11-07T16:40:00Z
@@ -542,6 +542,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/11/us/politics/12dc-cabinet1/11dc-cabinet1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden eyes frequent testing to reopen nation's schools"
+    excerpt: "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country."
+    publishedDateTime: 2020-12-23T19:55:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/12/23/biden-eyes-frequent-testing-to-reopen-nations-schools-1350426"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d6/1f/d14f15944a349a63f3aea61c185a/gettyimages-1276530953-c.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "oK305XwL+0OCpbrn8xG1ioukJbhrnBHYOrPu6E6S+m1PA8cbkxKiWN3e4kvFxk6jdZ2j3iWJcj+6+8pNbiWIMjSms/GoQMzBVHweIZdLSvOpgseyIfSdkiaIAU40C8EjjvWIjUCzNJYxSXj/xTnIGnY4b32fjPrNcg9h3cUsvZFhuLy7ksM+utjNc3e17MrBEZtihZenv655IQ+T1wvGDKIwGvIUYCiJnBIgVk31OYNpd6ZKb/EORUJ0qogDlPYV/ikc4x950UDpNUbUDIIRG6WNDGWrAZxcEvFsjXPsgK7ngajiaZsna+Jq5S/H5CZg8yqFiR5RJa8uaKuzkMjL3HCb41LDg2sADsESWlyBIYc=;binj6nJduZsK+NeokPasvw=="

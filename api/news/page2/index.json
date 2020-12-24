@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-23-trump-threatens-to-veto-massive-covid-bill-demands-congress-make-this-big-change.md",
+      "title": "Trump threatens to veto massive COVID bill, demands Congress make this big change",
+      "excerpt": "President Trump slammed the recently passed $900 billion COVID-19 relief package as a \"disgrace\" on Tuesday evening, urging Congress amend the bill to increase the direct payments given to Americans.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XMC6sUUUbPM/trump-threatens-to-veto-massive-covid-bill",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XMC6sUUUbPM/trump-threatens-to-veto-massive-covid-bill",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 270,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/814418a1-08c9-4bed-b7c7-fdab0625619e/0c6fe622-1cb6-4599-a598-7e8010fec20a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-threatens-to-veto-massive-covid-bill.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-threatens-to-veto-massive-covid-bill.amp",
+      "publishedDateTime": "2020-12-22T16:29:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-trump-administration-considering-granting-saudi-prince-legal-immunity-for-alleged-assassination-plot-sources-say.md",
+      "title": "Trump administration considering granting Saudi prince legal immunity for alleged assassination plot, sources say  ",
+      "excerpt": "The Trump administration is considering granting Saudi Crown Prince Mohammed bin Salman legal immunity from a federal lawsuit alleging that he ordered an assassination squad to kill a former top Saudi intelligence official who shared information with the US, according to sources familiar with the situation.\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bzVJjrn7QrM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bzVJjrn7QrM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190930014101-mohammed-bin-salman-denies-involvement-in-khashoggi-killing-sot-vpx-00000204-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/22/politics/trump-mbs-legal-immunity/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/trump-mbs-legal-immunity/index.html",
+      "publishedDateTime": "2020-12-22T15:54:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat.md",
       "title": "News Wrap: Alex Padilla is tapped to fill Kamala Harris’ Senate seat",
       "excerpt": "In our news wrap Tuesday, California Secretary of State Alex Padilla is tapped to fill the U.S. Senate seat vacated by Vice President-elect Kamala Harris, the E.U.'s executive body calls for an end to travel bans aimed at confining a new COVID-19 strain in Britain,",
@@ -953,7 +1065,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1288,
+      "heat": 1328,
       "tags": null,
       "images": [
         {
@@ -1258,114 +1370,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-gen-jack-keane-biden-must-be-willing-to-confront-the-chinese-communist-party.md",
-      "title": "Gen. Jack Keane: Biden must be 'willing to confront the Chinese Communist Party'",
-      "excerpt": "New reports confirm China lied about the severity of the coronavirus pandemic, making the question of how the incoming Biden administration will hold Beijing accountable an urgent one, Fox News senior strategic analyst Gen. Jack Keane told \"America's Newsroom\" Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jHsk4wB2VbM/gen-jack-keane-biden-china-coronavirus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jHsk4wB2VbM/gen-jack-keane-biden-china-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba0a1538-c4b5-405d-be79-641ee7ee5a41/35c5cb5e-2711-4458-bd3b-399da0382b26/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gen-jack-keane-biden-china-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gen-jack-keane-biden-china-coronavirus.amp",
-      "publishedDateTime": "2020-12-21T13:18:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-probe-trump-officials-attacked-cdc-virus-reports.md",
-      "title": "Probe: Trump officials attacked CDC virus reports",
-      "excerpt": "A House investigative panel says Trump administration political appointees tried to block or change more than a dozen government articles that detailed scientific findings about the spread of the coro",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/azar-file-ap-ml-201218_1608298081614_hpMain_3_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
-      "publishedDateTime": "2020-12-21T12:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

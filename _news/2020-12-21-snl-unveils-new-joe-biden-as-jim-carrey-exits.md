@@ -111,6 +111,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden taps Big Law partners for White House Counsel's office"
+    excerpt: "President-elect Joe Biden on Wednesday named four partners from three Big Law firms who will serve in senior roles in the Office of the White House Counsel."
+    publishedDateTime: 2020-12-24T02:56:00Z
+    webUrl: "https://www.reuters.com/article/whitehousecounsel-biglaw-biden/biden-taps-big-law-partners-for-white-house-counsels-office-idUSL1N2J32N1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J32N1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J32N1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
 
 secured: "KibW8F+4YaoIW9jhOvcOa+YSjmB4sZKl8AoiDNWYMhaJ2lPlWQWKOcqLmKcf74WIaIBbMmnuJBzoe4I83CQ6JsK4otaQT9K6jPqflS/SqRQZf5yLhyCoG6219+h/IKEXXGss0q194N+VPzdouvHdqOwoCuj/7F97ntROsBd0XX/YXyWj69/tLX55ceVHEDrwQd62nd6MIZwVXC7j5uEgRY8R4cxveUxRFJDSmKAhR+2h8eQTv4FqvakIoVXfTQ/2AHVzsa2jpd74h5nWO9tguozrwyKGu22sKmjV8WeH9cxGGSXXeeK2OTMboQ+mVZt4tDZu2zuRzotah2J/Lua/z8WizbBSTqUQwGaFFMgrTH/QSLNoJ313gY0va902lXdTqT5QZSlRsq95pJY5/xxY34UxvY5zYDSacn55XrrK+6wT45thJKEZdEYh6aUhAH20NKlr9nr4DFmu7HxP1LK2SIA5eEymObsffh8LiKhj90hkYh+ryIAvYw7kKX+F+yI25ngyGZrLQbHod2Z5iv9wIw==;vcQsznlLZXHibjaCmaSczQ=="
 ---

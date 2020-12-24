@@ -2,6 +2,114 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-16-fact-check-laptop-repairman-at-center-of-hunter-biden-saga-is-alive.md",
+      "title": "Fact check: Laptop repairman at center of Hunter Biden saga is alive",
+      "excerpt": "Some users on Facebook have falsely claimed John Paul Mac Isaac — the laptop repairman at the center of the Hunter Biden laptop saga — was found dead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-laptop-repairman-center-hunter-biden-saga-alive/3905393001/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-laptop-repairman-center-hunter-biden-saga-alive/3905393001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/10/USAT/dd7975a8-d63a-4e8b-b306-739763b38569-VPC_HUNTER_BIDEN_TAXES_DESK.00_00_32_05.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3905393001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3905393001",
+      "publishedDateTime": "2020-12-15T17:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-pompeo-applauds-barrs-loyalty-to-trump-following-ags-resignation.md",
+      "title": "Pompeo applauds Barr's loyalty to Trump following AG's resignation",
+      "excerpt": "Secretary of State Mike Pompeo praised Attorney General William Barr and lauded his loyalty to President Trump just a day after Barr resigned from his post. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hj3tsXQjoVU/mike-pompeo-william-barr-resignation-trump-loyalty",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hj3tsXQjoVU/mike-pompeo-william-barr-resignation-trump-loyalty",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a861ef0-3d82-42aa-9033-ade01358a10c/f1e888a1-a635-407b-94bb-f9ebfb0558ba/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mike-pompeo-william-barr-resignation-trump-loyalty.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-william-barr-resignation-trump-loyalty.amp",
+      "publishedDateTime": "2020-12-15T16:34:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-pence-lauds-vaccine-effort-during-stop-at-indiana-plant.md",
       "title": "Pence lauds vaccine effort during stop at Indiana plant",
       "excerpt": "Vice President Mike Pence said Tuesday that he's looking forward to getting vaccinated for COVID-19 and that he expects to receive his first dose in the next",
@@ -1248,118 +1356,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-hunter-biden-email-shows-400g-unreported-income-from-burisma-states-he-needs-to-amend-tax-returns.md",
-      "title": "Hunter Biden email shows $400G unreported income from Burisma, states he needs to 'amend' tax returns",
-      "excerpt": "Hunter Biden did not report “approximately $400,000” in income he collected from his position on the board of Ukrainian natural gas firm Burisma Holdings when he joined in 2014, according to an attorney for his firm who noted that his tax returns needed to be amended, a new email obtained by Fox News",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vI_7pnpmcEk/hunter-biden-email-tax-returns-unreported-burisma-income",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vI_7pnpmcEk/hunter-biden-email-tax-returns-unreported-burisma-income",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-email-tax-returns-unreported-burisma-income.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-email-tax-returns-unreported-burisma-income.amp",
-      "publishedDateTime": "2020-12-14T07:54:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-intel-officials-who-called-hunter-biden-story-russian-disinformation-should-face-consequences-domenech.md",
-      "title": "Intel officials who called Hunter Biden story Russian disinformation should face consequences: Domenech",
-      "excerpt": "There should be consequences for former intelligence officials who called the Hunter Biden story Russian disinformation, Federalist publisher Ben Domenech said on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DnyNc2k6j6c/consequences-officials-hunter-biden-story-russian-disinformation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DnyNc2k6j6c/consequences-officials-hunter-biden-story-russian-disinformation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/consequences-officials-hunter-biden-story-russian-disinformation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/consequences-officials-hunter-biden-story-russian-disinformation.amp",
-      "publishedDateTime": "2020-12-14T06:44:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

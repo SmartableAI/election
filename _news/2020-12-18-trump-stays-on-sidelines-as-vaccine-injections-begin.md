@@ -622,6 +622,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Who has Donald Trump just pardoned? A guide to the key figures"
+    excerpt: "From figures in the Russia investigation to former Republican lawmakers, a look at who’s who in the latest round of pardons"
+    publishedDateTime: 2020-12-24T02:11:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/22/who-trump-pardon-guide-george-papadopoulos-duncan-hunter"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/22/who-trump-pardon-guide-george-papadopoulos-duncan-hunter"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/22/who-trump-pardon-guide-george-papadopoulos-duncan-hunter"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7f947fe8828037ee4d9f352455ac2ff47eb708d5/0_161_4833_2900/master/4833.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2f645cc3d0595e1a529229dbb5f265a9"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump is still pinning his hopes on one last lawsuit in Michigan to overturn the presidential election"
     excerpt: "President Donald Trump said a report written by his allies in a lawsuit over a small Michigan county's Marijuana measure reveals \"massive fraud.\""
     publishedDateTime: 2020-12-17T00:08:00Z
@@ -654,6 +670,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump pardons former officer convicted in police brutality, dog bite case"
+    excerpt: "President Donald Trump on Wednesday pardoned a former Maryland police officer who served 10 years in prison in a police brutality case after her canine partner attacked a man suspected of burglary. Stephanie Mohr,"
+    publishedDateTime: 2020-12-24T02:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/23/stephanie-mohr-officer-police-brutality-case-gets-trump-pardon/3904405001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3904405001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3904405001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/ba65bdcb-bd84-406d-9b41-ba51b34ab13b-stephanie_mohr_1.jpg?auto=webp&crop=249,141,x0,y26&format=pjpg&width=1200"
+        width: 1200
+        height: 680
+        isCached: true
   - title: "Markets on edge as Trump demands changes to US stimulus bill – business live"
     excerpt: "Jeffrey Halley of OANDA says investors are resisting pressing the sell button until the situation around the US stimulus deal is clearer. The President has stated that direct payments to families are too low and has suggested to Congress that it tries again."
     publishedDateTime: 2020-12-23T09:14:00Z
@@ -669,6 +701,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/95567eef153faec4d553781c05c3f78b7b259c8f/0_142_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=61d94adf200029731515c4b777dd973f"
         width: 600
         height: 360
+        isCached: true
+  - title: "Defying Congress, Trump vetoes defense bill and threatens government shutdown"
+    excerpt: "U.S. President Donald Trump vetoed a bipartisan defense policy bill on Wednesday and raised the prospect that the United States could face a government shutdown during a pandemic, stirring new turmoil in Washington as he headed to Florida for Christmas."
+    publishedDateTime: 2020-12-24T02:57:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN28X2MP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X2MP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X2MP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545627285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN04O"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump vetoes defense bill, and Congress is set to override him for first time"
     excerpt: "President Trump's veto tees up his first override by Congress. He sought language penalizing online platforms and opposed renaming military bases."

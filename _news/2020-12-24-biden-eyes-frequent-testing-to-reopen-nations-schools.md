@@ -2,13 +2,11 @@
 category: news
 title: "Biden eyes frequent testing to reopen nation's schools"
 excerpt: "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country."
-publishedDateTime: 2020-12-23T20:06:00Z
-originalUrl: "https://www.politico.com/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
-webUrl: "https://www.politico.com/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
-ampWebUrl: "https://www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
+publishedDateTime: 2020-12-23T19:55:00Z
+originalUrl: "https://www.politico.com/states/california/story/2020/12/23/biden-eyes-frequent-testing-to-reopen-nations-schools-1350426"
+webUrl: "https://www.politico.com/states/california/story/2020/12/23/biden-eyes-frequent-testing-to-reopen-nations-schools-1350426"
 type: article
-quality: 135
+quality: 115
 heat: -1
 published: false
 
@@ -189,6 +187,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110111702-14-biden-admin-possibilities-haaland-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Here are the high-profile pardons and commutations Trump has granted during his presidency"
+    excerpt: "The end of President Donald Trump's time in office has been marked by a renewed interest in granting clemency -- both from the President, and from members of his inner circle looking for protection before President-elect Joe Biden assumes office.\n    \n"
+    publishedDateTime: 2020-12-24T01:09:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hmdxClypLxU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/trump-pardons-commutations-list/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/trump-pardons-commutations-list/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204112620-trump-pardons-split-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -545,6 +559,6 @@ related:
         height: 550
         isCached: true
 
-secured: "hup0OGovRU9dB4MNCjO0r0F/VJaK6RubnVZFVA014BbT/gJ7xPSq3cAW10WLWlaoXm10VTym17N+9gnPAaA5b8A+nUwqenS8ASERO1yWwPOm56GE9r0KVdcWXOHpgmNJmxrv7agDrNcaR9V9bpm4uVSBEE/DH1fA2JlUz6hc41I7nskJV+IKjnkr9g+ESEskcLXYX0GE1AE5MNrzRw9RDOl2J7WCSRNI6VOVkr0AX1AbAcz5y5hOsEmV7YOw6mItvN5PSgVThbUPxTD0vA8Xc1qB1DlwbZFWhws8ZS3+lYfmXcPgx8pht935j9z8d0MikWisn+W56TeYX3xl1Ce66BQlB/4mlN5F/VLIbnCTYYM=;CDwgANDey6N2lnYpCTEdyg=="
+secured: "74CwOG7Lzuw0dURuXxf5wVk5NT7tj/ybNc4Y4CvEjV53aN8yQ82+VnwgjC34NcZJbvK3wHiu5LBJX9NYITo5IgPvxRl582UqOnHmMIe85fMtg4Qul1jdlIq5Krcr62Uy8VEJ83pLYkwvkoJt3BuAFnrN03bVCYGLqkImf0ImqoR9hxSsII0X2DwoHaxd3K8e/cbqlFslB5DZMpxFgIXaGEcWwg6nSr05SnVnfK77fDK3YMslSAkIeMqndSb/EoYo5TJodxSr1aWZjsio4rSdd2cMSevqYI3+pjkm8RtRJDgBDZ7kNOlgi8fAwC4NPU0DhJHkUSkHni/MNCVk5uoVI/XdEEN78+pGDP0G+nUQe6E=;S5xHN4AxtRSRMtv0LOm9MQ=="
 ---
 

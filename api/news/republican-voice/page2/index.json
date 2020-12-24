@@ -2,6 +2,120 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-18-atlantic-city-auctions-off-chance-to-push-demolish-button-on-former-trump-casino.md",
+      "title": "Atlantic City auctions off chance to push demolish button on former Trump casino",
+      "excerpt": "The implosion of one of President Donald Trump's former Atlantic City casinos is being delayed by a few weeks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/atlantic-city-former-trump-casino-demolition",
+      "originalUrl": "https://www.foxnews.com/us/atlantic-city-former-trump-casino-demolition",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Plaza.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/atlantic-city-former-trump-casino-demolition.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/atlantic-city-former-trump-casino-demolition.amp",
+      "publishedDateTime": "2020-12-18T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-pence-gets-covid-19-vaccine-to-show-its-safe-and-effective.md",
+      "title": "Pence gets COVID-19 vaccine to show it's 'safe and effective'",
+      "excerpt": "Calling it a “medical miracle,” Vice President Mike Pence on Friday morning publicly took the new coronavirus vaccine. Pence, second lady Karen Pence and Surgeon General Jerome Adams, were all administered the vaccine in front of cameras at the vice president’s office in an event that was broadcast live",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u3ulDBdsRbs/pence-gets-coronavirus-vaccine",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u3ulDBdsRbs/pence-gets-coronavirus-vaccine",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-gets-coronavirus-vaccine.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-gets-coronavirus-vaccine.amp",
+      "publishedDateTime": "2020-12-18T06:45:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-virginia-gubernatorial-candidate-says-trump-should-declare-martial-law.md",
       "title": "Virginia gubernatorial candidate says ‘Trump should declare martial law’",
       "excerpt": "Virginia Republican state Sen. Amanda Chase, an outspoken Trump supporter, former small business owner and gubernatorial hopeful, doubled down on disputed voter fraud claims and said Thursday that her state needs an election audit – through martial law, if necessary.",
@@ -1563,120 +1677,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-trump-supporters-counterprotesters-clash-in-olympia-wash.md",
-      "title": "Trump supporters, counterprotesters clash in Olympia, Wash.",
-      "excerpt": "Protests are raging on for another weekend in Olympia, Wash. Trump supporters and members of the Proud Boys gathered at Washington's state Capitol, along with leftist counterprotesters. There was at least one street brawl between the groups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa",
-      "originalUrl": "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/protest-cropped-417a.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp",
-      "publishedDateTime": "2020-12-12T14:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-jordan-claims-trump-paid-what-he-owed-in-response-to-ny-times-report.md",
-      "title": "Jordan claims Trump 'paid what he owed' in response to NY Times report",
-      "excerpt": "One poll says nearly three in four registered voters plan to tune in to see President Trump face off against Democratic nominee Joe Biden tonight.  MACCALLUM: Fireworks are anticipated as theshowdown comes against a tense backdrop in thenation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/jordan-claims-trump-paid-what-he-owed-in-response-to-ny-times-report",
-      "originalUrl": "https://www.foxnews.com/transcript/jordan-claims-trump-paid-what-he-owed-in-response-to-ny-times-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8241411b-5bcb-46d6-bbe8-f51124ee7cda/a39ee341-3490-443f-bbbe-b3badea4f82c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-12T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

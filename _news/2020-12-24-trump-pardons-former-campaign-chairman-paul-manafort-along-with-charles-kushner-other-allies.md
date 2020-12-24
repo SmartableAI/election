@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump pardons Charles Kushner, Paul Manafort, Roger Stone in latest wave of clemency grants"
+    excerpt: "The president once again used his executive power to benefit his allies and undermine an investigation that dogged his presidency."
+    publishedDateTime: 2020-12-24T02:11:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XE7GXWSFOEI6XF242F5YQFNGNU.jpg&w=1440"
+        width: 1440
+        height: 1036
+        isCached: true
   - title: "Paul Manafort, Roger Stone, Charles Kushner among those pardoned by Trump"
     excerpt: "President Donald Trump issued a second round of pardons Wednesday, just weeks before his time in the White House comes to a close."
     publishedDateTime: 2020-12-24T00:33:00Z
@@ -85,6 +101,6 @@ related:
       domain: npr.org
     quality: 85
 
-secured: "rp90nenwSniB/U7dIQ99BY3lf88pmnZuPGEKS+RCdbj9ISs4gj2dD6SHD2Z4eogsVVdD27hX/6DSsmDpbYwZS099jaShbpn7k+le0gWIycQe9phedAHkv0U1OvzYfenD6Uc4JuOt3Q1UTnBgt7R9LIT5Z/zLzopQaD9guoESjOcbKTavVZuw1DBlzCPzU3ru9l6ck2ec84PqGl2jD1RHEvG+UgCbw5L215fs/oqk7YX9WKxdGD23C3VS1bgI98s5Lf/ZctvLfAL7ERgUUOB+Xb00Kqp2U6lQEgLi/b8wy4i79WKDpzrsZspRq3CB7I0GyNHOnLhgskgmOal/d8LSOA2YklmYSZJeSYfwQGzX63Y=;QDVhY1dftivSZ/9eBcOj3A=="
+secured: "8jM1v5cMXvWsYm1PC7GkkjYQWV2Yu5fWfzHHse2ECOJnt5A7Ko48F20VxhFeeEUGFe2lY/7eIHYobcM7hS4tPvMDGJ5WDP6qwDnKZeaOOOYWk5qGGH/848rGyeVty8r27vGCiZgSEchmFGGecsicRIDZJGSgd3Gw2wQ3KFBhvCclhC8e4Mvc9OkyCbztTr8jbz03hL9M8jf3VgZ8zyTqk4+a7pm99AwwKMke1IMK1SGn36jH8CEGZySmOZ+dsZKptM24iUcABGNlcWHy5PX9h1b0XJlLnanAIENb/KCih0MdCExTrroAoa03R6Yo6WWHTePNB03GhtB4Mwb09K4YFFWpiCApDIkA2HwR/3yXIHsnwK2bYDI3E396JbWv8OYwggfmkG6t8wx/FjWQBib3dFMgV6LeDjoB64nDuWL3q0etx7D6D6SR14MyR0q3kBE2aB9YeUAKC4vSazioVXZ5tN7MhroYg3x7bA4NZlvsAng57LD9kxTCi+L4HJOmanz4mJoa5W0KjFT9N/kmp/IScg==;0H3TRQgQ2ZbsE0L8ZqfetQ=="
 ---
 

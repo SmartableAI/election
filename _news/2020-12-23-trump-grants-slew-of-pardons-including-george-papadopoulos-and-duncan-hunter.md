@@ -45,6 +45,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump pardons Charles Kushner, Paul Manafort, Roger Stone in latest wave of clemency grants"
+    excerpt: "The president once again used his executive power to benefit his allies and undermine an investigation that dogged his presidency."
+    publishedDateTime: 2020-12-24T02:11:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XE7GXWSFOEI6XF242F5YQFNGNU.jpg&w=1440"
+        width: 1440
+        height: 1036
+        isCached: true
   - title: "Trump pardons former campaign chairman Paul Manafort along with Charles Kushner, other allies"
     excerpt: "Trump's pardon of Paul Manafort once again highlighted the long shadow cast on the White House by the investigation into Russia's interference in the 2016 election."
     publishedDateTime: 2020-12-24T00:57:00Z

@@ -192,6 +192,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here are the high-profile pardons and commutations Trump has granted during his presidency"
+    excerpt: "The end of President Donald Trump's time in office has been marked by a renewed interest in granting clemency -- both from the President, and from members of his inner circle looking for protection before President-elect Joe Biden assumes office.\n    \n"
+    publishedDateTime: 2020-12-24T01:09:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hmdxClypLxU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/trump-pardons-commutations-list/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/trump-pardons-commutations-list/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204112620-trump-pardons-split-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's Catholic faith will be on full display as the first churchgoing president in decades"
     excerpt: "Joe Biden rarely misses Sunday Mass. So it was notable when the President-elect didn't attend church on November 29, the first Sunday of Advent and the beginning of the season when Roman Catholics like Biden prepare for Christmas.\n    \n"
     publishedDateTime: 2020-12-13T15:39:13Z
@@ -464,22 +480,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Biden eyes frequent testing to reopen nation's schools"
-    excerpt: "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country."
-    publishedDateTime: 2020-12-23T20:06:00Z
-    webUrl: "https://www.politico.com/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/d6/1f/d14f15944a349a63f3aea61c185a/gettyimages-1276530953-c.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Kamala Harris Makes History as First Woman and Woman of Color as Vice President"
     excerpt: "Ms. Harris, the daughter of an Indian mother and Jamaican father, has risen higher in the country’s leadership than any woman ever before her."
     publishedDateTime: 2020-11-07T16:40:00Z
@@ -543,6 +543,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/11/us/politics/12dc-cabinet1/11dc-cabinet1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden eyes frequent testing to reopen nation's schools"
+    excerpt: "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country."
+    publishedDateTime: 2020-12-23T19:55:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/12/23/biden-eyes-frequent-testing-to-reopen-nations-schools-1350426"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d6/1f/d14f15944a349a63f3aea61c185a/gettyimages-1276530953-c.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "vECj+ZkkzZEQ7phWJv3eZpQuFFuZys79oyX6uF03q14R8ah/qpz8NHkpZSvgcBZQJk+ST3x7tj7FivSMTPt39VcsW6B3TiYehLZG0tvsHj9ffqHNe/lFytWfjGssQlq3Eh51ZGbgo3a9Mx7za5weR0xu5R6CDD0VZAKDzkoY3bzgyLQF1dnbkkvYIkXyVIs0E7dBCd6Gw339+z6sIH+YBDkx8FoE/fdQNuG/XtV2cH2FfIELP0cIuwkL1r07fxTmNqn8v2cnwF9l9QjIhsSe2O3nBCwKioa1RfDeuVYAGaohKFnOdGDaYtz4eRwndSM0aU3HARkh055/AcBdIjFb4IM2j3drKJJw+d/6RwtHAjYDf9KFK4l9IsmAidEnxMm0VCecCQt8fZNqbQM3bbxCH1QthPJuGgEb9Ba2r8s5ojcmirHxr3MiaMktH5TZ/JUafXoxqY5i1OQZzDSf8dcJHI4Ep/ncn4F2vId+qVmaxtIhr7s+5rqKHt1+UJXvRpmL6fXvYXQKqKQvszcbJJbVQg==;Yt0rwzGVCtw+/m8QOb8a0g=="

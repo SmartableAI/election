@@ -98,6 +98,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Biden taps Big Law partners for White House Counsel's office"
+    excerpt: "President-elect Joe Biden on Wednesday named four partners from three Big Law firms who will serve in senior roles in the Office of the White House Counsel."
+    publishedDateTime: 2020-12-24T02:56:00Z
+    webUrl: "https://www.reuters.com/article/whitehousecounsel-biglaw-biden/biden-taps-big-law-partners-for-white-house-counsels-office-idUSL1N2J32N1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J32N1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J32N1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "'SNL' unveils new Joe Biden as Jim Carrey exits"
     excerpt: "After Jim Carrey said he would no longer play President-elect Joe Biden on \"SNL,\" the show introduced its new Biden: cast member Alex Moffat."
     publishedDateTime: 2020-12-20T16:09:00Z

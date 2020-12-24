@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-bid
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -98,6 +98,17 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 105
+  - title: "Biden taps Big Law partners for White House Counsel's office"
+    excerpt: "President-elect Joe Biden on Wednesday named four partners from three Big Law firms who will serve in senior roles in the Office of the White House Counsel."
+    publishedDateTime: 2020-12-24T02:56:00Z
+    webUrl: "https://www.reuters.com/article/whitehousecounsel-biglaw-biden/biden-taps-big-law-partners-for-white-house-counsels-office-idUSL1N2J32N1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J32N1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J32N1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 105
   - title: "'SNL' unveils new Joe Biden as Jim Carrey exits"
     excerpt: "After Jim Carrey said he would no longer play President-elect Joe Biden on \"SNL,\" the show introduced its new Biden: cast member Alex Moffat."

@@ -2,6 +2,114 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-11-19-judge-orders-trump-administration-to-stop-expelling-unaccompanied-migrant-children-at-us-mexico-border.md",
+      "title": "Judge orders Trump administration to stop expelling unaccompanied migrant children at US-Mexico border",
+      "excerpt": "A U.S. judge has barred the Trump administration from expelling unaccompanied migrant children detained at the border under an emergency health order.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/11/18/judge-orders-us-stop-expelling-unaccompanied-migrant-children/3771858001/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/11/18/judge-orders-us-stop-expelling-unaccompanied-migrant-children/3771858001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/11/USAT/b6ca927b-2395-4a79-96c7-871c3f9b002d-AP_Immigration_Separated_Families.jpg?auto=webp&crop=2999,1687,x1,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3771858001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3771858001",
+      "publishedDateTime": "2020-11-19T01:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-reince-priebus-reacts-to-wis-dems-rule-change-try-following-trump-recount-filing-you-cant-make-this-up.md",
+      "title": "Reince Priebus reacts to Wis. Dems' rule-change try following Trump recount filing: ‘You can’t make this up!'",
+      "excerpt": "Former White House Chief of Staff Reince Priebus reacted on Twitter late Wednesday to the election situation in Wisconsin.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S35GgfTHxSQ/reince-priebus-reacts-to-wis-dems-rule-change-try-following-trump-recount-filing-you-cant-make-this-up",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S35GgfTHxSQ/reince-priebus-reacts-to-wis-dems-rule-change-try-following-trump-recount-filing-you-cant-make-this-up",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Reince-Preibus-Latino.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/reince-priebus-reacts-to-wis-dems-rule-change-try-following-trump-recount-filing-you-cant-make-this-up.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reince-priebus-reacts-to-wis-dems-rule-change-try-following-trump-recount-filing-you-cant-make-this-up.amp",
+      "publishedDateTime": "2020-11-19T00:00:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-trump-friendly-newsmax-seeks-to-cut-into-foxs-viewership.md",
       "title": "Trump-friendly Newsmax seeks to cut into Fox’s viewership",
       "excerpt": "NEW YORK -- Now that his largely invisible network has suddenly been flooded by fans of President Donald Trump, Newsmax television personality Grant Stinchfield is puffing out his chest.",
@@ -1255,110 +1363,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-twitter-fact-checks-donald-trump-tweet-about-the-firing-of-chris-krebs-on-twitter.md",
-      "title": "Twitter fact-checks Donald Trump tweet about the firing of Chris Krebs (on Twitter)",
-      "excerpt": "Twitter appended a label to fact-check President Donald Trump’s tweet about his firing of the nation’s top election security official Chris Krebs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2020/11/17/twitter-fact-checks-donald-trump-tweet-highly-inaccurate-chris-krebs-firing/6335471002/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2020/11/17/twitter-fact-checks-donald-trump-tweet-highly-inaccurate-chris-krebs-firing/6335471002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/18/USAT/01a35a8f-239a-485d-9cf8-fc2c341d56b5-AP_20297817077474.jpg?auto=webp&crop=4663,2623,x0,y236&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6335471002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6335471002",
-      "publishedDateTime": "2020-11-17T18:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-in-court-giuliani-argues-to-block-biden-win-in-pennsylvania.md",
-      "title": "In court, Giuliani argues to block Biden win in Pennsylvania",
-      "excerpt": "President Donald Trump’s personal lawyer Rudy Giuliani has gone before a federal judge to accuse Democrats in control of big cities of hatching a conspiracy to steal the election from the Republican e",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-17T17:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

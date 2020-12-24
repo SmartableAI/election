@@ -351,6 +351,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Border wall construction presses on in Trump's final days"
+    excerpt: "In the waning days of the Trump administration, construction crews are rapidly working to finish the US-Mexico border wall as President-elect Joe Biden pledges to bring construction to a halt. CNN's Ed Lavandera reports.\n    \n"
+    publishedDateTime: 2020-12-23T22:42:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lFiiiSVHvgM/donald-trump-final-days-border-wall-construction-lavandera-pkg-vpx-lead.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/23/donald-trump-final-days-border-wall-construction-lavandera-pkg-vpx-lead.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/23/donald-trump-final-days-border-wall-construction-lavandera-pkg-vpx-lead.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005174514-border-wall-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Immigrant advocates urge Biden to quickly rectify the trauma of family separation"
     excerpt: "Immigrant advocacy groups, who for years scrambled to identify and reunite families separated at the US-Mexico border, are now preparing for the incoming administration and steps to rectify the trauma experienced by parents and children.\n    \n"
     publishedDateTime: 2020-12-16T10:11:32Z
@@ -396,6 +412,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/170504130713-john-kennedy-louisiana-1210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Border wall construction presses full steam ahead in final days of Trump administration"
+    excerpt: "At a secluded spot in southeast Arizona, the San Pedro River flows north from Mexico and crosses the United States border, running under a majestic canopy of tall cottonwood trees.\n    \n"
+    publishedDateTime: 2020-12-23T23:15:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RjLsWL_H9r0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/us/us-mexico-border-wall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/us/us-mexico-border-wall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218174015-01-border-wall-scramble-border-fence-jpg-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

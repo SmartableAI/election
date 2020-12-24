@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trum
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trump-meeting/index.html"
 type: article
 quality: 208
-heat: 1288
+heat: 1328
 published: true
 
 provider:
@@ -336,6 +336,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Border wall construction presses on in Trump's final days"
+    excerpt: "In the waning days of the Trump administration, construction crews are rapidly working to finish the US-Mexico border wall as President-elect Joe Biden pledges to bring construction to a halt. CNN's Ed Lavandera reports.\n    \n"
+    publishedDateTime: 2020-12-23T22:42:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lFiiiSVHvgM/donald-trump-final-days-border-wall-construction-lavandera-pkg-vpx-lead.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/23/donald-trump-final-days-border-wall-construction-lavandera-pkg-vpx-lead.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/23/donald-trump-final-days-border-wall-construction-lavandera-pkg-vpx-lead.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005174514-border-wall-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Dozens of members of Congress call on Biden to end the federal death penalty"
     excerpt: "More than three dozen members of Congress are calling on Joe Biden's incoming administration to prioritize abolishing the death penalty in all jurisdictions, according to a letter sent Tuesday to the transition team for the President-elect and Vice President-elect Kamala Harris.\n    \n"
     publishedDateTime: 2020-12-15T22:07:41Z
@@ -397,6 +413,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/170504130713-john-kennedy-louisiana-1210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Border wall construction presses full steam ahead in final days of Trump administration"
+    excerpt: "At a secluded spot in southeast Arizona, the San Pedro River flows north from Mexico and crosses the United States border, running under a majestic canopy of tall cottonwood trees.\n    \n"
+    publishedDateTime: 2020-12-23T23:15:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RjLsWL_H9r0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/us/us-mexico-border-wall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/us/us-mexico-border-wall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218174015-01-border-wall-scramble-border-fence-jpg-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
