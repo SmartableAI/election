@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55362697"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55362697"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://i.insider.com/5fe10676c910a400192e8d13?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Joe Biden receives COVID-19 vaccine, says ‘nothing to worry about’"
+    excerpt: "WASHINGTON — President-elect Joe Biden will receive his first dose of the coronavirus vaccine on live television as part of a growing effort to convince the American public the inoculations are safe."
+    publishedDateTime: 2020-12-21T22:42:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-covid-vaccine-20201221-nvk4ayx4inhmresr5gxx4ewwf4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-covid-vaccine-20201221-nvk4ayx4inhmresr5gxx4ewwf4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-joe-biden-covid-vaccine-20201221-nvk4ayx4inhmresr5gxx4ewwf4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/0YtdR0Jf-ohu88y85PLlp48UVbs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PT76OM37HMY46R4UMFSSVXZCLE.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Mike And Karen Pence Will Get The COVID Vaccine Before Cameras This Friday"
     excerpt: "Vice President Mike Pence is set to get the COVID-19 vaccine at the White House on Friday, officials announced Wednesday, making him the highest-ranking person in government to receive a dosage. Pence and second lady Karen Pence are expected to get the vaccine in public before media \"to promote the safety and efficacy of the vaccine and build confidence among the American people,"

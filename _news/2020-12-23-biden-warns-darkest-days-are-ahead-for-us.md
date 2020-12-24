@@ -3,8 +3,8 @@ category: news
 title: "Biden warns 'darkest days' are ahead for U.S...."
 excerpt: "Watch \"President-elect Joe Biden warns of 'darkest days' are ahead for U.S.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-12-23T14:33:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201223142044-president-elect-joe-biden-warns-of-darkest-days-are-ahead-for-u-s/"
-webUrl: "https://www.cbsnews.com/live/video/20201223142044-president-elect-joe-biden-warns-of-darkest-days-are-ahead-for-u-s/"
+originalUrl: "https://www.cbsnews.com/live/video/20201223163005-president-elect-joe-biden-warns-of-darkest-days-are-ahead-for-u-s/"
+webUrl: "https://www.cbsnews.com/live/video/20201223163005-president-elect-joe-biden-warns-of-darkest-days-are-ahead-for-u-s/"
 type: article
 quality: 105
 heat: 145
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08241538_1608733504.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08244329_1608741244.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -58,6 +58,6 @@ related:
         height: 225
         isCached: true
 
-secured: "j2DVBiV9h3UQTA87N3ENOigOR0lR6s8h1a/vA4Z+tfMAucTlJH6ug/+/wvZf6/mcewRbxPo0/8xA4OKz16lTvjLX3W9L6NdGDcn5i4RONd4V75ef7cG3DYD4OyT3la0IDpb7m5v8+2TSnUtaLgfFQurpJb8l/57yGAGSz2Y8VVwoNnFZpMm+oRZ15ZiaRwnZKFRZRgrgszHfQ2WAj0jGDW9T61iLvmnZF6BTv78+T8KZK3XPSffIDHHpT1ulD/GLCcDq+bRFEtFIOMxzGmD6JOcl9wWRHUTLQEcxXZq+Bz/g9vzvuVBizDYTMWGxkmtMZeJkRZVtkvVZ7cadoBfE5thZL9gtlPFEy//S2Mpf4Ow=;G2RtNXw//+EyntrmdJYuag=="
+secured: "MkrecQHVtmIQKimElwhlVx7iSxsu0uMcuh+SCsuWxZOCY0iF1voHh3XxpojyvDKXXpSeEwPVlj1j0OYhUIq0qQoib8fAm1bOPNnU60loeIetDSBF3Uy4yrJlWtgt1c7olmHmRHKucJ4RzxFbyUg5uh8jsf9SJYYiGPDa7rTNeLF0WpO457v3iVrA263fkN6/HFeWGNVlkrBnz0ckiywWkrwQBjwsbheULigKXjMQikYf6RhN9bMTj6JJ+nbfX4Qu0oI2WPkCGgJayE3fbWaPh/qAidTtgoBwTyiGgwMPRdAxSy1Q7i0ot2MRM09oypvQgHp8l/M3M+E5Gcbtw+8nofILG5QYqBolBxEIxeo3M9I=;2CCPHI+bNJDwfZ29pYb46w=="
 ---
 

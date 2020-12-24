@@ -64,9 +64,9 @@ related:
         height: 720
         isCached: true
   - title: "Trump Issues 26 More Pardons, Including to Paul Manafort, Roger Stone"
-    excerpt: "President Trump on Wednesday issued 26 more pardons to individuals including Charles Kushner, his son-in-law’s father, former campaign chairman Paul Manafort and longtime adviser Roger Stone."
-    publishedDateTime: 2020-12-24T00:46:00Z
-    webUrl: "https://www.wsj.com/articles/trump-issues-26-more-pardons-including-to-paul-manafort-roger-stone-11608769926?mod=hp_lead_pos2"
+    excerpt: "President Trump issued 26 more pardons to individuals including former campaign chairman Paul Manafort, longtime adviser Roger Stone and Charles Kushner, his son-in-law’s father."
+    publishedDateTime: 2020-12-24T10:10:00Z
+    webUrl: "https://www.wsj.com/articles/trump-issues-26-more-pardons-including-to-paul-manafort-roger-stone-11608769926"
     ampWebUrl: "https://www.wsj.com/amp/articles/trump-issues-26-more-pardons-including-to-paul-manafort-roger-stone-11608769926"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-issues-26-more-pardons-including-to-paul-manafort-roger-stone-11608769926"
     type: article
@@ -75,7 +75,7 @@ related:
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-277782/social"
+      - url: "https://images.wsj.net/im-277787/social"
         width: 1280
         height: 640
         isCached: true

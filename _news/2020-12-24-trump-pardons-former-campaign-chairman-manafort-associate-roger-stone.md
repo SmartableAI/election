@@ -3,13 +3,13 @@ category: news
 title: "Trump pardons former campaign chairman Manafort, associate Roger Stone"
 excerpt: "U.S. President Donald Trump on Wednesday granted pardons to former campaign chairman Paul Manafort and former adviser Roger Stone, sweeping away the most important convictions under the long-running Russia election probe."
 publishedDateTime: 2020-12-24T07:07:00Z
-originalUrl: "https://www.reuters.com/article/usa-trump-pardons-idINKBN28Y087"
-webUrl: "https://www.reuters.com/article/usa-trump-pardons-idINKBN28Y087"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28Y087"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28Y087"
+originalUrl: "https://www.reuters.com/article/usa-trump-pardons-idUSKBN28Y087"
+webUrl: "https://www.reuters.com/article/usa-trump-pardons-idUSKBN28Y087"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Y087"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Y087"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Trump pardons Paul Manafort, Roger Stone and Charles Kushner"
+    excerpt: "US President Donald Trump has pardoned hi Mr Trump's son-in-law. Mr Manafort was convicted in 2018 in an investigation into alleged Russian meddling in the 2016 US election. Mr Trump had previously commuted the prison sentence of Mr Stone,"
+    publishedDateTime: 2020-12-24T10:16:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55433522"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55433522"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55433522"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/DA91/production/_116235955_manafortstonereuters.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Trump pardons Blackwater contractors convicted in deaths of 14 Iraqi civilians"
     excerpt: "President Trump on Tuesday pardoned four U.S. security contractors convicted in the 2007 killing of 14 unarmed Iraqi civilians in Baghdad, abruptly ending a long legal saga and right-wing cause celebre."
@@ -135,6 +151,6 @@ related:
       domain: npr.org
     quality: 85
 
-secured: "WKUXoD8VUf/1ZGQU2a6zZ5dONJ1O3kxRLdVYdIp9Nsvah8EqR8XUzWRzRi0MMX408c0ufM34r8NzrjTF9bTLYL8I6MYCXDl59KC9gZ7MIzbhPe+B46+8Ts0wlZVc7sFBqygr77V7zEGzePmfN4omU8ZMnkvO96GGJ/pyqM2oe0jtYQa2KXfc13bSC0i586HUTT7VvkJ+R9ORyEzD60fL8modpWXNsOy6ONtLYEsTLKCmUZhI7/8vZbJ9jZbRRVFDl8X2+I3QhVumQXeeM8heFoo1z8Jc/XwS6t3ggjCITJj/iFi1wshYJjg2yDceFVtT+uecOXjh83v+VV5mT5g4cJZpBJbV7uRF7tHiCLXsgvg=;dLofjIPc2dLcutlnNzzYKg=="
+secured: "kjQAQI41LZa1O0E7XP9qRUZtN/qpQksnDx/6ENTPdmIpNCiuYcMTNp+LLDCj/+BBh0MCEuA6Sl3uDSLSYrtdy7D+3UhRWpmVwUJYy+YXJBvK05PIgibqqDtdtb25o/A8Y0erRiykw8AtNvm0nqsF9WOTixpP06s2AgY/YT8LJbx2C8Pp5GcUB7vACBCQVVgNfVvdidY2PG4Q4Gd/HQCgzh0Usy18VJ6sJa0rQm/tNXrr8BKXnH7JLaFN6CLau8YeMFBExHZsUzsyZ50p3n6nnCAZVzgmTP+nsHB/vWbU8ZKM2No9zlj2uYvcxT2h/Q6k4Q/v9cbbh9AIFwv4BBkO6eDXgD/dCmBvKZfQHniIIAg=;RFgeIOGgLNP3W8lfpcDkWg=="
 ---
 

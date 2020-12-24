@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden receives COVID-19 vaccine, says ‘nothing to worry about’"
+    excerpt: "WASHINGTON — President-elect Joe Biden will receive his first dose of the coronavirus vaccine on live television as part of a growing effort to convince the American public the inoculations are safe."
+    publishedDateTime: 2020-12-21T22:42:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-covid-vaccine-20201221-nvk4ayx4inhmresr5gxx4ewwf4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-covid-vaccine-20201221-nvk4ayx4inhmresr5gxx4ewwf4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-joe-biden-covid-vaccine-20201221-nvk4ayx4inhmresr5gxx4ewwf4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/0YtdR0Jf-ohu88y85PLlp48UVbs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PT76OM37HMY46R4UMFSSVXZCLE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vice President Mike Pence to receive COVID-19 vaccine at White House Friday"
     excerpt: "Vice President Mike Pence and his wife will be vaccinated for COVID-19 at the White House to build public confidence in the vaccine."
     publishedDateTime: 2020-12-18T11:31:00Z

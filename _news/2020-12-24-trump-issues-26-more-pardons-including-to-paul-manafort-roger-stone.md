@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Trump Issues 26 More Pardons, Including to Paul Manafort, Roger Stone"
-excerpt: "President Trump on Wednesday issued 26 more pardons to individuals including Charles Kushner, his son-in-law’s father, former campaign chairman Paul Manafort and longtime adviser Roger Stone."
-publishedDateTime: 2020-12-24T00:46:00Z
-originalUrl: "https://www.wsj.com/articles/trump-issues-26-more-pardons-including-to-paul-manafort-roger-stone-11608769926?mod=hp_lead_pos2"
-webUrl: "https://www.wsj.com/articles/trump-issues-26-more-pardons-including-to-paul-manafort-roger-stone-11608769926?mod=hp_lead_pos2"
+excerpt: "President Trump issued 26 more pardons to individuals including former campaign chairman Paul Manafort, longtime adviser Roger Stone and Charles Kushner, his son-in-law’s father."
+publishedDateTime: 2020-12-24T10:10:00Z
+originalUrl: "https://www.wsj.com/articles/trump-issues-26-more-pardons-including-to-paul-manafort-roger-stone-11608769926"
+webUrl: "https://www.wsj.com/articles/trump-issues-26-more-pardons-including-to-paul-manafort-roger-stone-11608769926"
 ampWebUrl: "https://www.wsj.com/amp/articles/trump-issues-26-more-pardons-including-to-paul-manafort-roger-stone-11608769926"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-issues-26-more-pardons-including-to-paul-manafort-roger-stone-11608769926"
 type: article
@@ -26,7 +26,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-277782/social"
+  - url: "https://images.wsj.net/im-277787/social"
     width: 1280
     height: 640
     isCached: true
@@ -81,6 +81,6 @@ related:
         height: 720
         isCached: true
 
-secured: "f6R83U4Q1BB2sToVHHUHDnlPbnOkHbANgGr1R9xfXU5XcXWyAeGUvohgjHv6s1ffnyTz/uyu32Nk+7MU4V0tqqvyKY+dqeP3R9fh8CqkzhOfiYbP1ONXEn1XpFyrCYxiz1Iv+95N34o/Vkq+FNI1t0ROH2xJ+i3S+pD8I7kMgYOATxxwDwRNsnWCMRknjMfas4s/7vItcFD7fymxVKVLG/H4aQpHBVgDBHojnGk4WteozHvlJfuEVkZ2TIM+8QDDPa6VL9BTeuvnQeaydfwtJ8JEm15Y+OkLahP/BeUsTAnXK3gpKMyMt5AGiMgPffReygK9spQUUllncghA6h7u2BwEzDUfHbIVmL9wx7dObNI=;/CbpUlj7Uf2SZOaAsT8sXg=="
+secured: "9h2sC2xQ/JTi9UsUAR5OgdU3VEvBxv9Xy+9JCtEDdWLDMN7pHHLSSiCDn6HRlnJJ7Y9TJ5NQtvimxZN+DpsGYfXulgg52HfSlxv4PPEBEGnrZ6hpHF/dtP7fCR3zrAyO/AYo/CysGaVj+lnNRA4srssA4zUJYljBBJNnG1ZxGGAcDTwJlTHc2ylbOrY3wO6ZBe6JI4E+xsmFiIFqd/DBGUQWLiwDkGM3RekSQBhvmSN5I69X88P0lLNP3GgL32mpRy5+AqdKt4uvHVx/tJsCjeICL4lJHRa4HSDi6KHqJJ8k/u/HWsG5pXTs6hECaI05G1y+pfA5p7/qqAp3YJ20MNxfgCbNiD1e2Ac1U1rEEWI=;EZyT0rbjT8MEknhy+pAsHg=="
 ---
 
