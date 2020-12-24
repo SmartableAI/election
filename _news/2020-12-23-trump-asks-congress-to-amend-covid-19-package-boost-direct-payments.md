@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
+    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature. "
+    publishedDateTime: 2020-12-24T19:55:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDUV8C4hI7Y/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Flashback: Trump in 2018 on massive spending bill 'nobody read': 'I will never sign another bill like this'"
     excerpt: "President Trump on Tuesday blasted the bipartisan omnibus spending bill passed by Congress that wrapped up COVID relief in it, calling for larger stimulus checks and arguing no one in Congress had read the bill."
     publishedDateTime: 2020-12-23T18:49:58Z
@@ -127,22 +143,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/howard-kurtz.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Supreme Court Dismisses Challenge to Trump Plan to Exclude Illegal Immigrants From Congressional Reapportionment"
-    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
-    publishedDateTime: 2020-12-18T20:25:00Z
-    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125?mod=breakingnews"
-    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 114
-    images:
-      - url: "https://images.wsj.net/im-251063?width=620&size=1.5"
-        width: 620
-        height: 413
         isCached: true
 
 secured: "w1bth9YptvU/cQUEjYeviKnlffIWUOdai5IUaYJ34fsh57V75ZhvYJpvpvQDDZ31o4Qh3LAefJMDoy6dECCp756nniHSCyjOTpwn7S5BvrmYMkaXpuYrSpzX6kPeuBAHzlJHAXZVdSS2l+7uLV/vc4NlKv1bw3HepFiUumDEwuiZQrs+pFR1XSsTzO6PNS/Gd1Swh+fwVBYPzMFtipNx9gShBzXzPdiqjvj4Ys6K0IPOrFC9yeZwAoSUMpahA4R02+SUg/+3ujglgeElkJNSiEUpTOFUSKz3kaaqrMqOLxkQRmg9KcVw9kyia7kVcQhiv0/MDsEEGqQ78a6L0WFZu/N0oze4iykHjmc8bUSEZaU=;ZjITUZ7Gv1ixvbCIQL3YgQ=="

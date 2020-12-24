@@ -96,22 +96,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump meets with members of Congress plotting Electoral College objections on Jan. 6"
-    excerpt: "President Trump Monday huddled with members of Congress to discuss plans to object to President-elect Joe Biden's Electoral College win and to force a debate on allegations of voter fraud."
-    publishedDateTime: 2020-12-22T03:09:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aX2HxSADYtY/members-of-congress-trump-electoral-college-objections-on-jan-6"
-    ampWebUrl: "https://www.foxnews.com/politics/members-of-congress-trump-electoral-college-objections-on-jan-6.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/members-of-congress-trump-electoral-college-objections-on-jan-6.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/5c7cdfe5-Marjorie-Taylor-Greene-FACEBOOK.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "McConnell silent after Trump threatens to block coronavirus, government funding package"
     excerpt: "Senate Majority Leader Mitch McConnell hasn't yet responded to President Trump demanding Tuesday night that Congress include $2,000 stimulus checks in the coronavirus aid package that it passed on Monday, which included smaller $600 checks for individuals."
     publishedDateTime: 2020-12-23T16:43:11Z

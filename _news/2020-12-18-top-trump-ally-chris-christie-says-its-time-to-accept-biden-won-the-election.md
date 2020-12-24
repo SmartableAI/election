@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Frustrated Trump met with Pence before holiday break"
+    excerpt: "Hours before President Donald Trump retweeted a message for his vice president to \"act\" in stopping the ratification of the Electoral College, he met for more than an hour in the Oval Office with Mike Pence, whom he has complained recently isn't doing enough to support his bid to overturn the election.\n"
+    publishedDateTime: 2020-12-24T20:16:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eUUxyF3jDeo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/trump-pence-electoral-college/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/trump-pence-electoral-college/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 200
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200510202354-pence-trump-split-0510-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "McConnell sets stage for new face-off with Biden after delivering blow to Trump's election fantasy"
     excerpt: "President Donald Trump is now learning, in the words of his Rolling Stones campaign anthem, that he can't always get what he wants. Sen. Mitch McConnell, on the other hand, usually does.\n    \n"
     publishedDateTime: 2020-12-16T12:17:31Z

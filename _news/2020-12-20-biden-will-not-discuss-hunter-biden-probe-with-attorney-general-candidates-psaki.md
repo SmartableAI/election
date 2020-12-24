@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-probe-attorney-general
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-probe-attorney-general-candidates-psaki.amp"
 type: article
 quality: 170
-heat: 310
+heat: 330
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/314ad8b7-b082-424c-9561-c701dbe9d307/28526cd8-742c-444b-8156-c59abbed03ee/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden considers Boston Mayor Walsh for labor secretary amid pressure for diverse Cabinet: sources"
+    excerpt: "Boston Mayor Marty Walsh is being strongly considered for labor secretary in the new Biden administration, two sources familiar with the discussions tell Fox News, but racial diversity considerations are weighing heavily on President-elect Joe Biden’s decision."
+    publishedDateTime: 2020-12-24T20:51:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rNIev554as/biden-considers-boston-mayor-walsh"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-considers-boston-mayor-walsh.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-considers-boston-mayor-walsh.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden's claim he won't discuss Hunter case with AG pick shows need for special counsel: Sen. Kennedy"
     excerpt: "Sen. John Kennedy, R-La., said President-elect Joe Biden's claim he would not discuss the investigation into his son with his attorney general pick was why a special counsel was needed on the matter."

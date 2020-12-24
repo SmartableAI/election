@@ -31,12 +31,28 @@ images:
     isCached: true
 
 related:
-  - title: "Chris Christie won't rule out challenging Trump in 2024"
-    excerpt: "Former two-term New Jersey Gov. Chris Christie says he wouldn’t rule out another presidential bid even if his longtime friend President Trump launches a 2024 run to try to return to the White House."
-    publishedDateTime: 2020-12-21T20:08:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dqSJNmbibe8/chris-christie-trump-2024-presidential-run"
-    ampWebUrl: "https://www.foxnews.com/politics/chris-christie-trump-2024-presidential-run.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-trump-2024-presidential-run.amp"
+  - title: "Trump campaign persists with election challenges less than 2 weeks from key Jan. 6 date"
+    excerpt: "President Trump and his campaign are continuing to challenge the result of November's presidential election, with a number of cases still ongoing less than two weeks before electoral votes are officially counted by Congress on Jan. 6."
+    publishedDateTime: 2020-12-24T19:47:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gTyReV9x0Xw/trump-campaign-election-challenges-ongoing-jan-6-date"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-election-challenges-ongoing-jan-6-date.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-election-challenges-ongoing-jan-6-date.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Texas-SCOTUS-Challenge.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump campaign manager launching firm to work with outgoing president"
+    excerpt: "President Trump’s reelection campaign manager Bill Stepien is joining two other top members of Trump’s 2020 campaign team in setting up a political consulting firm that would likely work with the soon-to-be former president as he stays engaged in Republican Party politics."
+    publishedDateTime: 2020-12-22T16:05:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KTee3IG8pJ0/trump-campaign-manager-firm-work-with-outgoing-president"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-manager-firm-work-with-outgoing-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-manager-firm-work-with-outgoing-president.amp"
     type: article
     provider:
       name: Fox News
@@ -47,21 +63,37 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Former Rep. Chris Collins released from prison after Trump pardon"
-    excerpt: "Former New York Republican Rep. Chris Collins was released from a Pensacola prison on Tuesday, the same day President Trump granted him and several other high-profile individuals pardons. "
-    publishedDateTime: 2020-12-23T18:45:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_25DoLGWLYU/former-rep-chris-collins-released-from-prison-after-trump-pardon"
-    ampWebUrl: "https://www.foxnews.com/politics/former-rep-chris-collins-released-from-prison-after-trump-pardon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-rep-chris-collins-released-from-prison-after-trump-pardon.amp"
+  - title: "Trump supporters to hold virtual 'second inauguration' on Jan. 20"
+    excerpt: "Thousands of supporters have pledged to attend a virtual \"second inauguration\" for President Trump, who lost his bid for a second term, at the same time President-elect Joe Biden is slated to be sworn in on Jan. 20. "
+    publishedDateTime: 2020-12-22T19:12:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zdWWyQp7CVQ/trump-supporters-to-hold-virtual-second-inauguration-on-jan-20"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-to-hold-virtual-second-inauguration-on-jan-20.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-to-hold-virtual-second-inauguration-on-jan-20.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1db342b1-2b8f-427b-b173-cfafcb085d3a/41496152-13b2-47eb-affd-77947ebd56f9/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d52b8d4b-34b0-4017-b5ba-4302e95b3668/04a2861e-1bee-49c5-be40-19160523eb40/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump grants 15 pardons, 5 commutations"
+    excerpt: "President Trump issued full pardons to 15 individuals and commuted part or all of the sentences of an additional five people, the White House announced Tuesday."
+    publishedDateTime: 2020-12-23T00:18:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4X-ugqKI64/trump-grants-15-pardons-5-commutations"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-grants-15-pardons-5-commutations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-grants-15-pardons-5-commutations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20353841936137.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Who is Charles Kushner, who was pardoned by Trump?"
     excerpt: "President Trump issued 26 pardons on Wednesday, including several with personal ties to the president or members of his administration. One of them is Charles Kushner, father of Trump's adviser and son-in-law, Jared Kushner."
@@ -79,85 +111,53 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "In official Christmas portrait, Melania Trump sports high-waisted pantsuit"
-    excerpt: "The first lady on Saturday shared her official White House Christmas portrait with President Trump standing on the White House Grand Staircase."
-    publishedDateTime: 2020-12-19T19:39:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0clQJuWnmt8/official-2020-christmas-portrait-melania-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/official-2020-christmas-portrait-melania-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/official-2020-christmas-portrait-melania-trump.amp"
+  - title: "Trump meets with members of Congress plotting Electoral College objections on Jan. 6"
+    excerpt: "President Trump Monday huddled with members of Congress to discuss plans to object to President-elect Joe Biden's Electoral College win and to force a debate on allegations of voter fraud."
+    publishedDateTime: 2020-12-22T03:09:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aX2HxSADYtY/members-of-congress-trump-electoral-college-objections-on-jan-6"
+    ampWebUrl: "https://www.foxnews.com/politics/members-of-congress-trump-electoral-college-objections-on-jan-6.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/members-of-congress-trump-electoral-college-objections-on-jan-6.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 168
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/45268267395_b3677cbd08_o.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/5c7cdfe5-Marjorie-Taylor-Greene-FACEBOOK.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump heads to Mar-a-Lago for Christmas with government funding, coronavirus relief package in limbo"
-    excerpt: "President Trump headed to Palm Beach, Florida Wednesday to celebrate Christmas, as coronavirus relief and government spending remain in limbo after he said he was dissatisfied with the package. "
-    publishedDateTime: 2020-12-23T21:09:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZuYpt54LAl8/trump-mar-a-lago-christmas-coronavirus-relief-in-limbo"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-mar-a-lago-christmas-coronavirus-relief-in-limbo.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mar-a-lago-christmas-coronavirus-relief-in-limbo.amp"
+  - title: "Trump Will Face Different Twitter Rules When He Leaves Office"
+    excerpt: "As a public official, President Trump tweets with less risk of having his posts taken down or his account suspended. That will change on Jan. 20."
+    publishedDateTime: 2020-12-22T18:03:00Z
+    webUrl: "https://www.wsj.com/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15e12a5d-e28b-45fd-a1f3-606289515e5c/d1994829-de47-4bcf-b359-b6477a0f80dc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump and Melania wear matching tuxedos in official Christmas portrait"
-    excerpt: "President Trump and first lady Melania donned coordinating tuxedos for their final official Christmas portrait, released Friday. Melania tweeted a photo of the pair standing in the Grand Staircase of the White House,"
-    publishedDateTime: 2020-12-18T23:24:00Z
-    webUrl: "https://nypost.com/2020/12/18/trump-and-melania-wear-matching-tuxedos-in-official-xmas-portrait/"
-    ampWebUrl: "https://nypost.com/2020/12/18/trump-and-melania-wear-matching-tuxedos-in-official-xmas-portrait/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/18/trump-and-melania-wear-matching-tuxedos-in-official-xmas-portrait/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trumpxmas.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Former Rep. Chris Collins released from prison after Trump pardon"
-    excerpt: "Former New York Republican Rep. Chris Collins was released from a Pensacola prison on Tuesday, the same day President Trump granted him and several other high-profile individuals pardons."
-    publishedDateTime: 2020-12-23T18:57:00Z
-    webUrl: "https://www.foxnews.com/politics/former-rep-chris-collins-released-from-prison-after-trump-pardon"
-    ampWebUrl: "https://www.foxnews.com/politics/former-rep-chris-collins-released-from-prison-after-trump-pardon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-rep-chris-collins-released-from-prison-after-trump-pardon.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1db342b1-2b8f-427b-b173-cfafcb085d3a/41496152-13b2-47eb-affd-77947ebd56f9/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-274855/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
-  - title: "In official Christmas portrait, Melania Trump sports high-waisted pantsuit"
-    excerpt: "The first lady on Saturday shared her official White House Christmas portrait with President Trump standing on the White House Grand Staircase."
-    publishedDateTime: 2020-12-19T19:59:00Z
-    webUrl: "https://www.foxnews.com/politics/official-2020-christmas-portrait-melania-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/official-2020-christmas-portrait-melania-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/official-2020-christmas-portrait-melania-trump.amp"
+  - title: "Supreme Court Dismisses Challenge to Trump Plan to Exclude Illegal Immigrants From Congressional Reapportionment"
+    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
+    publishedDateTime: 2020-12-18T20:25:00Z
+    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125?mod=breakingnews"
+    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 114
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/45268267395_b3677cbd08_o.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://images.wsj.net/im-251063?width=620&size=1.5"
+        width: 620
+        height: 413
         isCached: true
 
 secured: "mnoNmVPew2GNLzv4EGZWG35bpy+vJovLVmC29IMh0KMsVj0WHmDfYgmBPQ+mwZwAzyhsTRniC90H39Q71x47Pz6dYEpHRFEv98efDA6ICf8dANuuzsrw3FFwO9hThttA9xEPOIoUsd08+Abf3we15XBNBGJ9suD2t7/3hslNsLb+0NnqilMmCnAJDcSaVkWS3ctenWpY69HAiTVGDvsBtUVVbAH3s9YifzygdPyIXCIVlD9CPZBbdIE+ZJg7JJreBWjzUAxgwUrdbCicC7tNBK4NYwAeOd/6lDSDh5iEFdQUJoM1J+bNmJyRDB+5tefRWjKIqjG9cLjIVbGuf2EwW3L15ZvJSUZn9Q4Ezw7pVm8=;A/CiHsEYEVRyX/XLLGgm+g=="

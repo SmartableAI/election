@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden considers Boston Mayor Walsh for labor secretary amid pressure for diverse Cabinet: sources"
+    excerpt: "Boston Mayor Marty Walsh is being strongly considered for labor secretary in the new Biden administration, two sources familiar with the discussions tell Fox News, but racial diversity considerations are weighing heavily on President-elect Joe Biden’s decision."
+    publishedDateTime: 2020-12-24T20:51:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rNIev554as/biden-considers-boston-mayor-walsh"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-considers-boston-mayor-walsh.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-considers-boston-mayor-walsh.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trey Gowdy rips Biden comments defending son Hunter: 'The United States Attorney's office is not foul play'"
     excerpt: "Fox News contributor Trey Gowdy rejected President-elect Joe Biden’s notion that accusations surrounding his son’s business dealings overseas constitute \"foul play.\""
     publishedDateTime: 2020-12-18T19:57:10Z

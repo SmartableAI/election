@@ -95,6 +95,22 @@ related:
         width: 757
         height: 545
         isCached: true
+  - title: "Coronavirus aid at risk as U.S. lawmakers block Trump's changes"
+    excerpt: "U.S. lawmakers on Thursday blocked attempts to alter a $2.3 trillion coronavirus aid and government spending package, rejecting President Donald Trump's demand for extensive changes and leaving benefits for millions of Americans at risk."
+    publishedDateTime: 2020-12-24T20:37:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN28Y12E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28Y12E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28Y12E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545710097&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN10E"
+        width: 818
+        height: 545
+        isCached: true
   - title: "White House coronavirus adviser Fauci to meet with Biden transition team: CNN"
     excerpt: "White House coronavirus task force member Anthony Fauci will meet with members of President-elect Joe Biden's team on Thursday after President Donald Trump's administration delayed the transition process for weeks amid a coronavirus surge."
     publishedDateTime: 2020-12-03T15:24:00Z

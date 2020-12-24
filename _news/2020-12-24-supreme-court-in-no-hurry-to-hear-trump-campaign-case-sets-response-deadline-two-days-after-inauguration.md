@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-campaign-case-n
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-campaign-case-no-hurry.amp"
 type: article
 quality: 158
-heat: -1
-published: false
+heat: 198
+published: true
 
 provider:
   name: Fox News
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump supporters to hold virtual 'second inauguration' on Jan. 20"
-    excerpt: "Thousands of supporters have pledged to attend a virtual \"second inauguration\" for President Trump, who lost his bid for a second term, at the same time President-elect Joe Biden is slated to be sworn in on Jan. 20. "
-    publishedDateTime: 2020-12-22T19:12:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zdWWyQp7CVQ/trump-supporters-to-hold-virtual-second-inauguration-on-jan-20"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-to-hold-virtual-second-inauguration-on-jan-20.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-to-hold-virtual-second-inauguration-on-jan-20.amp"
+  - title: "Trump campaign asks SCOTUS to reverse decisions by Pennsylvania high court"
+    excerpt: "The Trump campaign on Sunday asked the US Supreme Court to reverse three decisions by the Pennsylvania Supreme Court, claiming there is a “likelihood” they violate the Constitution and"
+    publishedDateTime: 2020-12-20T21:47:00Z
+    webUrl: "https://nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/"
+    ampWebUrl: "https://nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
+      name: New York Post
+      domain: nypost.com
+    quality: 133
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d52b8d4b-34b0-4017-b5ba-4302e95b3668/04a2861e-1bee-49c5-be40-19160523eb40/1280x720/match/image.jpg"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-scotus-pa.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "High Court Rejects as Premature a Bid to Block Trump Plan to Bar Illegal Immigrants in Redistricting"
+    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
+    publishedDateTime: 2020-12-18T20:25:00Z
+    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 120
+    images:
+      - url: "https://images.wsj.net/im-251063/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
 
 secured: "oajWVfJ9gqSuQwxZ0l0EM5Ko6e/tXFQBwJERy5zLgTqdhlKla6gE46Fj/ei1eWNYPxRSXDgTs1/ExEPUWS8nalw4Py7KNrqgRYx4ODcdhD3Kvi06POhR0Qg9dKXyEA1VUkQReeUvpCxOx4ZKehSGuzNgXWcfsld8xFlsr1WqEmSmsjb63v7Zgxxemz5QpYk9gl2YLkflIisUT7JEviXghWmAw0u8HIfJvS1UZXaF3IYIXfvcWXiwf4zbLzpj8u80+mrbtk5YURz29ihD47IK53+UL8N8H86DyVh9C+N/7f8X4YjBZalVFjW+VHfVE/aCFfOZ3pLn9wesQBU9TuHhQbjzyDo8l/v/gTIN+N5Lg7o=;h2ODjD3u1WAYW0XgsmvYpA=="

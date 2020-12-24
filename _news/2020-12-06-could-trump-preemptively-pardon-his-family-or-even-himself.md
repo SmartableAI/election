@@ -127,6 +127,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Explainer: Can anything stop Trump from pardoning his family or even himself?"
+    excerpt: "President Donald Trump on Wednesday granted pardons to his former campaign chairman Paul Manafort and former adviser Roger Stone, sweeping away the most important convictions from U.S. Special Counsel Robert Mueller’s investigation into Russian meddling in the 2016"
+    publishedDateTime: 2020-12-24T20:02:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN28Y1XK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Y1XK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Y1XK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545733467&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN13O"
+        width: 871
+        height: 545
+        isCached: true
   - title: "Can Trump preemptively pardon his allies or himself? Here is what you need to know."
     excerpt: "Trump has also claimed that he has “the absolute right to pardon myself,” raising the possibility that he may try to impose roadblocks against any future federal prosecution of himself. And a federal judge this week unsealed heavily redacted documents revealing that the FBI has been investigating an unidentified person for a potential pardon-for-bribe scheme."
     publishedDateTime: 2020-12-03T08:11:00Z
