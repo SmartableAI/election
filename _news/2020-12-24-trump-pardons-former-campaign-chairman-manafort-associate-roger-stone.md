@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump pardons Paul Manafort, Roger Stone and Jared Kushner’s father in latest wave of clemency to benefit allies"
-excerpt: "The actions, in Trump’s final weeks at the White House, bring to nearly 50 the number of people whom the president in the last two days has granted clemency."
-publishedDateTime: 2020-12-24T04:56:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html?outputType=amp"
+title: "Trump pardons former campaign chairman Manafort, associate Roger Stone"
+excerpt: "U.S. President Donald Trump on Wednesday granted pardons to former campaign chairman Paul Manafort and former adviser Roger Stone, sweeping away the most important convictions under the long-running Russia election probe."
+publishedDateTime: 2020-12-24T07:07:00Z
+originalUrl: "https://www.reuters.com/article/usa-trump-pardons-idINKBN28Y087"
+webUrl: "https://www.reuters.com/article/usa-trump-pardons-idINKBN28Y087"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28Y087"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28Y087"
 type: article
-quality: 104
-heat: -1
-published: false
+quality: 125
+heat: 265
+published: true
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,28 +25,12 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/YoSRKlX982wBwJm3lerCRhvnEwE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LJ7AWKEP4JCFXJCQMAWMIOKQRY.jpg"
-    width: 1200
-    height: 675
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545625287&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN03O"
+    width: 817
+    height: 545
     isCached: true
 
 related:
-  - title: "Trump pardons former campaign chairman Manafort, associate Roger Stone"
-    excerpt: "U.S. President Donald Trump on Wednesday granted pardons to former campaign chairman Paul Manafort and former adviser Roger Stone, sweeping away the most important convictions under the long-running Russia election probe."
-    publishedDateTime: 2020-12-24T07:07:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-pardons-idINKBN28Y087"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28Y087"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28Y087"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545625287&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN03O"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump pardons former campaign chairman Paul Manafort"
     excerpt: "President Donald Trump has issued pardons and sentence commutations for 29 people, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law"
     publishedDateTime: 2020-12-24T00:33:00Z
@@ -125,6 +109,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump pardons Paul Manafort, Roger Stone and Jared Kushner’s father in latest wave of clemency to benefit allies"
+    excerpt: "The actions, in Trump’s final weeks at the White House, bring to nearly 50 the number of people whom the president in the last two days has granted clemency."
+    publishedDateTime: 2020-12-24T04:56:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 104
+    images:
+      - url: "https://www.chicagotribune.com/resizer/YoSRKlX982wBwJm3lerCRhvnEwE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LJ7AWKEP4JCFXJCQMAWMIOKQRY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump Pardons Roger Stone, Paul Manafort And Charles Kushner"
     excerpt: "President Trump issued several more pardons on Wednesday evening, including to former campaign chairman Paul Manafort, Republican operative Roger Stone and Charles Kushner, the father-in-law of Ivanka Trump."
     publishedDateTime: 2020-12-24T00:38:00Z
@@ -135,6 +135,6 @@ related:
       domain: npr.org
     quality: 85
 
-secured: "VVivYnmZcDImncMbUSnYgYp3tBB1Gfgyy/CW8xRMtEMwOsaVyr0NeZ7sgqbeO6y2a0h+0B+VMTlY4Ez6GskZPRe1FfnqeWMjk+w7YCPjP9PMktpx2lqXTvdSBUih/bBXCy+mwET2J4mWW6rmdXuyHEZAChpCnqJYRFP4WkWZhG0dvBepdFaUjjylet76D2bxcNCXeXHONIKxCMKmzhbnOBhjvE7nDCpowrLQO8BuRbCvX+cO9Ui5J2Dud1yXV8Z/ij3Ojzllm5ghbefe3EAtgMZNLY/aHNwmQ/X44CnVLawXxgshd6T9IEYeUC4HbzYN6FEx6o/GA/A1JiKbARaKt5feyA7y+LOow1Dm7BQt318=;5h9zR0maZXaDdPRNEQh7sg=="
+secured: "WKUXoD8VUf/1ZGQU2a6zZ5dONJ1O3kxRLdVYdIp9Nsvah8EqR8XUzWRzRi0MMX408c0ufM34r8NzrjTF9bTLYL8I6MYCXDl59KC9gZ7MIzbhPe+B46+8Ts0wlZVc7sFBqygr77V7zEGzePmfN4omU8ZMnkvO96GGJ/pyqM2oe0jtYQa2KXfc13bSC0i586HUTT7VvkJ+R9ORyEzD60fL8modpWXNsOy6ONtLYEsTLKCmUZhI7/8vZbJ9jZbRRVFDl8X2+I3QhVumQXeeM8heFoo1z8Jc/XwS6t3ggjCITJj/iFi1wshYJjg2yDceFVtT+uecOXjh83v+VV5mT5g4cJZpBJbV7uRF7tHiCLXsgvg=;dLofjIPc2dLcutlnNzzYKg=="
 ---
 

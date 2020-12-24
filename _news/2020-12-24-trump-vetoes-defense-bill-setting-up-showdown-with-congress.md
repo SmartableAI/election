@@ -668,6 +668,22 @@ related:
         width: 4000
         height: 2665
         isCached: true
+  - title: "Joe Biden receives coronavirus vaccination"
+    excerpt: "President-elect Joe Biden and incoming first lady Jill Biden received initial injections of the coronavirus vaccine on Monday in a show of support for the inoculation. “I’m doing this to demonstrate that people should be prepared when it’s available to take the vaccine,"
+    publishedDateTime: 2020-12-21T20:57:00Z
+    webUrl: "https://www.politico.com/news/2020/12/21/joe-biden-receives-coronavirus-vaccination-449652"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/21/joe-biden-receives-coronavirus-vaccination-449652"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/21/joe-biden-receives-coronavirus-vaccination-449652"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/3a/3e/15b2eb6a411c9a5bc9b5c85aa4f0/ap20352044803772-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden needs to dump protectionism"
     excerpt: "President-elect Joe Biden has indicated his intention to strengthen the economy, boost employment and rebuild relations with our international allies. Those aspirations will all be made easier if the incoming administration abandons a self-defeating regime of high tariffs,"
     publishedDateTime: 2020-12-23T13:24:00Z
@@ -915,6 +931,6 @@ related:
         height: 400
         isCached: true
 
-secured: "wzbWhxsLFsWkkviZ42eP4mmRRdDnyZij/LUOf6FZC41a7ctfJ1hOQDJXg9ZAoN1zZ2pDGXN9KpSZGMzz3qnNFcE25XexCmLNNyUllYPNPfM1BuUoZUMP2FXV6awEmio0CoeYgWWsYXdsNXQaNVrpd/4IqVBZz12WDKYumofKnTZaV3lbNL+2rVgUX7vneV8xg+tm+v6Nqg/Cb9k0ImrfceayLAAgxxar7nvv2UbeWmjzWmaW9EeMpNoDlVVZ+ZQDeZkugMxFIyx8K/SuzRqRIUtXHsLVYkQ66jE/bOfv2R1lCgR0kJpigMyXWB4nMu+Hm142E7i2b/sTIB3TZPyH0eNGQQasph9yHeAn66sAlMo=;cyzjXxAlhlHxZYqmtKnSrw=="
+secured: "NE6Y8IA7Anz4IaVPGhcs9Ampdx9RkTV+kU2k6o3UUytnMSYV1/e9SCutqj7L69Pb4qxJUeyJGR0ieC2eASLE/LL0mkM8R1GVSpXWRT5Enzln6BZ9ANf+/R4HOI2XXoeo0MG/UfPMvPL80ayCVWxpU6PsFRQ/q7yaE4UJd9ucDFUmNCy233KLQY10mpEg+T5FBfOcgNzdE13eZme3lOBaxVMI5FfBVJGpIMbzdB9GIU+NKfQ9UjT4zF3esC/rZlr8cJzUM97P3GwrtgwJDUj26XRbJxvi9w+f8IC0fwK5i975UK85KkQDBKWF3ZN5NzBvEG2sNfdtnpE7fvPJeVaA9Bpy/RoxmMiXg3KDjJAnKSEdEEzUW2qN3ZyKZGGfpX9vakeD9uGbjjV6CbdTs0/ZvCQGcqJSOwtIryh4VrmLSP8dF41geGr7MFCq4sJnCPaXW0MG5RtjxPhdz5o9oi6PURTD4ScaLDiDMCt3HIGVuVCT/dr7NObmu4+xgB42WKgNVRSuCNCbbUlVuxczQHh1Ng==;s43jccu+hQ4VUTdA4rITTA=="
 ---
 

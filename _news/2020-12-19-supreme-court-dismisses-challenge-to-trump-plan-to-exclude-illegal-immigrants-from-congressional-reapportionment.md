@@ -112,6 +112,22 @@ related:
         width: 1281
         height: 670
         isCached: true
+  - title: "Trump explodes stimulus bill, leaving Washington scrambling, millions in doubt"
+    excerpt: "President Trump sat out the first four quarters and then dropped a bomb in overtime, threatening to blow up the Christmas package that Congress had finally cobbled together to ease the pain of the pandemic."
+    publishedDateTime: 2020-12-24T08:12:00Z
+    webUrl: "https://www.foxnews.com/media/trump-explodes-stimulus-bill-leaving-washington-scrambling-millions-in-doubt"
+    ampWebUrl: "https://www.foxnews.com/media/trump-explodes-stimulus-bill-leaving-washington-scrambling-millions-in-doubt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-explodes-stimulus-bill-leaving-washington-scrambling-millions-in-doubt.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/howard-kurtz.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "fFUau2ezU3bE8eVA5BySgtJfjX7VhO8LtFqPcKvhjdYPPmm19CDsfT95b1NGdG7V+oDWcdVgUoIa3fseVsbh9UhnjBGB4gMX5L9mnn4mNmgD5S4m0XkuhBGWHf+qVepWGw3lgrqazQzAIbVmGqoKB1WyRZj3lp/wIZl/bAjx8mPMZOXa1zumvG8olp6Q2bGW6m1nDaQOHabvCij6J3SbHyaxmwO7mLOoHk3MyNqblTZ8d8xm8YSHjyLSxKfMbUeDlAwh4KK6D4pUbOhEbQcgHqm2vlJm1+0rgpKeMO/qSbP2PJUYkLRRsTOPNIfJsZAI7Yo0DvWauNfdCLDEWLvNHdYge1ywf28bXg18nSh0cnE=;iY2Pa3QhwzZM8peGX09J1A=="
 ---

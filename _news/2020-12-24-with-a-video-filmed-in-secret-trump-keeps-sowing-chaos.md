@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Trump wants Supreme Court to overturn Pa. election results"
-excerpt: "President Donald Trump’s campaign says it has filed a new petition with the Supreme Court as it continues its unprecedented efforts to overturn the results of the Nov 3"
-publishedDateTime: 2020-12-21T02:53:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+title: "With a video filmed in secret, Trump keeps sowing chaos"
+excerpt: "President Donald Trump has plunged Washington into chaos once more by mounting another desperate attempt to cling to power while leaving lawmakers scrambling to respond to his threat to detonate Congr"
+publishedDateTime: 2020-12-24T07:50:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/final-weeks-trump-sowing-chaos-hamstringing-gop-74884964"
+webUrl: "https://abcnews.go.com/Politics/wireStory/final-weeks-trump-sowing-chaos-hamstringing-gop-74884964"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/final-weeks-trump-sowing-chaos-hamstringing-gop-74884964"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/final-weeks-trump-sowing-chaos-hamstringing-gop-74884964"
 type: article
-quality: 120
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_682d6b5c63684fcf9c71a5d0acdddc0b_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Pence echoes Trump on election loss in West Palm speech to conservative youths"
@@ -649,22 +655,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "With a video filmed in secret, Trump keeps sowing chaos"
-    excerpt: "President Donald Trump has plunged Washington into chaos once more by mounting another desperate attempt to cling to power while leaving lawmakers scrambling to respond to his threat to detonate Congr"
-    publishedDateTime: 2020-12-24T07:50:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/final-weeks-trump-sowing-chaos-hamstringing-gop-74884964"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/final-weeks-trump-sowing-chaos-hamstringing-gop-74884964"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/final-weeks-trump-sowing-chaos-hamstringing-gop-74884964"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_682d6b5c63684fcf9c71a5d0acdddc0b_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump is still pinning his hopes on one last lawsuit in Michigan to overturn the presidential election"
     excerpt: "President Donald Trump said a report written by his allies in a lawsuit over a small Michigan county's Marijuana measure reveals \"massive fraud.\""
     publishedDateTime: 2020-12-17T00:08:00Z
@@ -839,6 +829,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump wants Supreme Court to overturn Pa. election results"
+    excerpt: "President Donald Trump’s campaign says it has filed a new petition with the Supreme Court as it continues its unprecedented efforts to overturn the results of the Nov 3"
+    publishedDateTime: 2020-12-21T02:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-wants-supreme-court-to-overturn-pa-election-results/2020/12/20/c4c13fb6-430d-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
   - title: "Trump has threatened not to leave the White House on Inauguration Day, report says"
     excerpt: "Few aides believe that Trump will actually follow through on that threat, according to the CNN report."
     publishedDateTime: 2020-12-17T11:12:00Z
@@ -1248,6 +1249,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "SZxXygJ4kdSkenopRzw1Z/3lh7d2eoih8eYq7AGkkHlhKLgdyKLV70jZeunyEhM6+GVc6tARpg2VW3tS6G3KvcSFT6vCkMgtcV4jDfBnMPZ9hin+19ZGQ8m4MMMx7QpMQRhDmcP7iSKmKbx01HsgELP0FnKCQ7wf0n5XjD8GSUs1ZVilswkluhf4nomgliqer94qkWjoy5AeSYqOYBgj9WWmKoBxuyRufQlGCtz84Su76mRx+fW0OqigscZQ5C5HCjJe/k5EYpgvzgIefhEO8BPvQkE3aRfuVucshIxP0OVgm22fj3qVDYzgbZnOnxfyMUNPnIVirfFx5PixcTZ122YqlJ+JZsZny9xDiPX2bh8=;th3BdzgACtnnAxNrXL4joA=="
+secured: "PHY5EiCnsYPM2rkoCk1laAlg0xWDAMvpVASIke6JkuzY40a1ttdGGxbNMqY/S1Z3whsL40zEjjA6yo+ZefYpWWqR7ABsVWVHymUn8qyra8/fctgcnc7On35uiJr3sPpBsdjvlQsMguuTtxrJk7P144y5UJU/1X9e9+q1sGpQEaslwUKQx9DIQXWl3Rh6Qc7/ZV2/cUQWX4aIWecvKljiXEEgiuSNodIm3V6DxeTTj5iYzl7d20lscS9g9anNcb83ZPR2gxeeCa8wY/6RgNuLKYAjkpzwR3a6UhoUCmb61gTkhgpK4ax53NV1GKihljbzljN8XbkowxzqfU3uL8atTWCXJZd/2lOsPvCJZD7eQsc=;XNl7ftw06QC+ej5ikrv/Ww=="
 ---
 

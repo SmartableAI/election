@@ -670,6 +670,22 @@ related:
         width: 4000
         height: 2665
         isCached: true
+  - title: "Joe Biden receives coronavirus vaccination"
+    excerpt: "President-elect Joe Biden and incoming first lady Jill Biden received initial injections of the coronavirus vaccine on Monday in a show of support for the inoculation. “I’m doing this to demonstrate that people should be prepared when it’s available to take the vaccine,"
+    publishedDateTime: 2020-12-21T20:57:00Z
+    webUrl: "https://www.politico.com/news/2020/12/21/joe-biden-receives-coronavirus-vaccination-449652"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/21/joe-biden-receives-coronavirus-vaccination-449652"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/21/joe-biden-receives-coronavirus-vaccination-449652"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/3a/3e/15b2eb6a411c9a5bc9b5c85aa4f0/ap20352044803772-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump Vetoes Defense Spending Bill"
     excerpt: "The legislation passed with a veto-proof majority in the House and Senate, but it’s unclear whether Congress will override him."
     publishedDateTime: 2020-12-23T20:31:00Z

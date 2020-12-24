@@ -32,14 +32,14 @@ related:
   - title: "Biden warns 'darkest days' are ahead for U.S...."
     excerpt: "Watch \"President-elect Joe Biden warns of 'darkest days' are ahead for U.S.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-12-23T14:33:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201223163005-president-elect-joe-biden-warns-of-darkest-days-are-ahead-for-u-s/"
+    webUrl: "https://www.cbsnews.com/live/video/20201223142044-president-elect-joe-biden-warns-of-darkest-days-are-ahead-for-u-s/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08244329_1608741244.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08241538_1608733504.jpg"
         width: 1280
         height: 720
         isCached: true

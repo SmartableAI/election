@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/4023126001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4023126001"
 type: article
 quality: 114
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: USA Today
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 677
     isCached: true
-
-related:
-  - title: "Trump pardons Blackwater contractors convicted in deaths of 14 Iraqi civilians"
-    excerpt: "President Trump on Tuesday pardoned four U.S. security contractors convicted in the 2007 killing of 14 unarmed Iraqi civilians in Baghdad, abruptly ending a long legal saga and right-wing cause celebre."
-    publishedDateTime: 2020-12-23T10:41:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/trump-pardon-blackwater-contractors-iraq/2020/12/22/603da1f4-44b8-11eb-a277-49a6d1f9dff1_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-pardon-blackwater-contractors-iraq/2020/12/22/603da1f4-44b8-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-pardon-blackwater-contractors-iraq/2020/12/22/603da1f4-44b8-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 121
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H2DWCXSE3II6XMHEB4MCSI5AEU.jpg&w=1440"
-        width: 1440
-        height: 954
-        isCached: true
 
 secured: "gbF/pt2oTOGq/uQzJItV+QtmICgU1ihzthprDuPxcchHPKRwgj1J5tgL0fqhFQhFOkfe7ylsG69MA1o7xovWdH76wycoFS3NHdVMT8hkw7pTm+Dzk7NZ81HpYwgqS7VD7eozWUX+TYHNLyVS4V+8Kq5ARJT7soUyS8kZZoQhBIuJrZp35v6z5NQy/cKTBmI4okiAj0dQHEkfYhaVTlm9zsyxtzo9G5KiT4u+SaDXMT/nnCpW7xJlpgC3ivJhs4zXTY9rF0yymC/3/q/bVuk1f4b2zf9o9SSJpykuQsLKtomzRXgCZ3zKUInmWVRiEzGxKMJMzrELtdRiVQG9b1KfnSZj44U6+Kww0EXnRPAyPQGuf6oIUSrXyRmklUwb/ZxIxcBLCdDejm9tHWAHjnixnEcpcY6H8IYWJA7WXJ91KG2bn+NhRptIY/ZlrQoGnnvOb2k4wWrGL+l9QMQxLWOvF6EBQthFKcCDxAYd06u+lsyZsKjKebuHNvchON5rPnWZ7hJhsjUpPTpWVAWHfXU6Rg==;NeX3M88PeQ0N0VS+BuetbQ=="
 ---

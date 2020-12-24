@@ -96,6 +96,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump explodes stimulus bill, leaving Washington scrambling, millions in doubt"
+    excerpt: "President Trump sat out the first four quarters and then dropped a bomb in overtime, threatening to blow up the Christmas package that Congress had finally cobbled together to ease the pain of the pandemic."
+    publishedDateTime: 2020-12-24T08:12:00Z
+    webUrl: "https://www.foxnews.com/media/trump-explodes-stimulus-bill-leaving-washington-scrambling-millions-in-doubt"
+    ampWebUrl: "https://www.foxnews.com/media/trump-explodes-stimulus-bill-leaving-washington-scrambling-millions-in-doubt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-explodes-stimulus-bill-leaving-washington-scrambling-millions-in-doubt.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/howard-kurtz.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Supreme Court Dismisses Challenge to Trump Plan to Exclude Illegal Immigrants From Congressional Reapportionment"
     excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
     publishedDateTime: 2020-12-18T20:25:00Z

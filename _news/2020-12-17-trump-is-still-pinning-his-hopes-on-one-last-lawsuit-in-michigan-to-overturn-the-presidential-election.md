@@ -655,6 +655,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "With a video filmed in secret, Trump keeps sowing chaos"
+    excerpt: "President Donald Trump has plunged Washington into chaos once more by mounting another desperate attempt to cling to power while leaving lawmakers scrambling to respond to his threat to detonate Congr"
+    publishedDateTime: 2020-12-24T07:50:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/final-weeks-trump-sowing-chaos-hamstringing-gop-74884964"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/final-weeks-trump-sowing-chaos-hamstringing-gop-74884964"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/final-weeks-trump-sowing-chaos-hamstringing-gop-74884964"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_682d6b5c63684fcf9c71a5d0acdddc0b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump rushes to dole out plum appointments to allies on way out the door"
     excerpt: "While President Donald Trump has refused to acknowledge that he lost the election, he’s handling the lame-duck period as his predecessors did in one respect: awarding plum appointments to key allies,"
     publishedDateTime: 2020-12-18T16:59:00Z

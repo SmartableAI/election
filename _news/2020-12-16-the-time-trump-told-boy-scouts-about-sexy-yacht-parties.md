@@ -651,6 +651,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "With a video filmed in secret, Trump keeps sowing chaos"
+    excerpt: "President Donald Trump has plunged Washington into chaos once more by mounting another desperate attempt to cling to power while leaving lawmakers scrambling to respond to his threat to detonate Congr"
+    publishedDateTime: 2020-12-24T07:50:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/final-weeks-trump-sowing-chaos-hamstringing-gop-74884964"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/final-weeks-trump-sowing-chaos-hamstringing-gop-74884964"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/final-weeks-trump-sowing-chaos-hamstringing-gop-74884964"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_682d6b5c63684fcf9c71a5d0acdddc0b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump is still pinning his hopes on one last lawsuit in Michigan to overturn the presidential election"
     excerpt: "President Donald Trump said a report written by his allies in a lawsuit over a small Michigan county's Marijuana measure reveals \"massive fraud.\""
     publishedDateTime: 2020-12-17T00:08:00Z
