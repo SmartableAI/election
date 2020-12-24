@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden mocks questions about Hunter as mainstream media remains largely uninterested"
+    excerpt: "President-elect Joe Biden on Tuesday laughed off a question about the federal investigation of his son Hunter, in what's become part of a pattern for him to mock or belittle reporters who broach the topic."
+    publishedDateTime: 2020-12-23T18:31:00Z
+    webUrl: "https://www.foxnews.com/media/joe-biden-mocks-questions-hunter-media-uninterested"
+    ampWebUrl: "https://www.foxnews.com/media/joe-biden-mocks-questions-hunter-media-uninterested.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-mocks-questions-hunter-media-uninterested.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86956551-e068-49b5-a2db-204d8ebeb325/f136f818-3a95-467b-ba4e-1a795a7ac3a0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "HilqPTEn0QsmvMOTanfek87YoUZB/lzcJq8q7FqOWAWFZKy0c3aEnArpJNy0Mn+zEJweG1I1IGAH45WW3YK0qwzXNP4DXqJqHLht5ocxatLlrJ3elwkCMk5kRkeZJQbQ9/VKXOj9tNapoI2RKBUIOlfcZGZw28nvvHJC9LWAYJ9a0LOc05S73KcR1Xi5vdCrITwx2OUMDl3tkIAA7F2M144RFM8A1lWxdXaEY0zLwNDZ+g6MfUJNftgojfra4cA6FOe7I1MXsiY9sP4UrmHtQ50co45Oum3SleCMgcMicZ8K4bkrpS2P+96Ef1DANnoMxD/Kr8csFNaIPtf2GHCJOv+Dyyi7s7sbIIuXDnYWzaI=;n9DXiZWfdmvWuZ1CID2AEQ=="
 ---

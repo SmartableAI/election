@@ -2,6 +2,166 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-11-11-supreme-court-appears-ready-to-uphold-affordable-care-act-over-latest-challenge-from-trump-gop.md",
+      "title": "Supreme Court appears ready to uphold Affordable Care Act over latest challenge from Trump, GOP",
+      "excerpt": "The court is reviewing a decision that found part of the law, also known as Obamacare, unconstitutional. The case raises questions about the fate of health insurance for millions of Americans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YYJWDOBCYUI6XHCKBXDCILCICQ.jpg&w=1440",
+          "width": 1440,
+          "height": 994,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp",
+      "publishedDateTime": "2020-11-10T15:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-andrew-cuomo-says-he-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor.md",
+      "title": "Andrew Cuomo says he 'would've decked' Trump over insults if he wasn't NY governor",
+      "excerpt": "Trump and Cuomo have exchanged insults in the media for months, with each politician accusing the other of poor leadership during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bviDPDqbvcI/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bviDPDqbvcI/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73918fbe-82d4-4470-b2f1-60013a0a9794/1a1fc4c2-4ce7-476b-b39b-88baee82ae59/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor.amp",
+      "publishedDateTime": "2020-11-10T14:18:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-join-us-at-1-pm-et-thursday-for-a-chat-with-insider-politics-reporter-tom-lobianco-about-whats-next-for-republicans-and-trump.md",
+      "title": "Join us at 1 PM ET Thursday for a chat with Insider politics reporter Tom LoBianco about what's next for Republicans — and Trump",
+      "excerpt": "The first clear gauge of Trump's power as an outgoing president will be a pair run-off special elections for the Senate in Georgia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021",
+      "originalUrl": "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fab0b3df7d1cb0019e3b003?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp",
+      "publishedDateTime": "2020-11-10T14:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-my-faith-is-shaken-the-qanon-conspiracy-theory-faces-a-post-trump-identity-crisis.md",
       "title": "‘My faith is shaken’: The QAnon conspiracy theory faces a post-Trump identity crisis",
       "excerpt": "President Trump’s election loss and the week-long disappearance of their anonymous prophet have forced supporters of the baseless movement to rethink their beliefs: “Have we all been conned?”",
@@ -1192,175 +1352,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-ex-israeli-un-ambassador-danon-on-what-a-biden-presidency-means-for-middle-east-peace.md",
-      "title": "Ex-Israeli UN Ambassador Danon on what a Biden presidency means for Middle East peace",
-      "excerpt": "Israel's former ambassador to the United Nations Danny Danon provided insight on Monday into what a Biden presidency could mean for Middle East peace.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_dPucYgxA6U/israeli-un-ambassador-danon-biden-presidency-middle-east-peace",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_dPucYgxA6U/israeli-un-ambassador-danon-biden-presidency-middle-east-peace",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/israeli-un-ambassador-danon-biden-presidency-middle-east-peace.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/israeli-un-ambassador-danon-biden-presidency-middle-east-peace.amp",
-      "publishedDateTime": "2020-11-09T12:06:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-pence-on-2020-race-it-aint-over-til-its-overand-this-aint-over.md",
-      "title": "Pence on 2020 race: ‘It ain’t over til it’s over...and this AIN’T over!’",
-      "excerpt": "Vice President Mike Pence on Monday rallied his staff, saying the 2020 presidential race “ain’t over,” as the Trump campaign mounts legal battles in a number of key battleground states where President-elect Joe Biden is leading.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GoO-6W5iqH0/pence-on-2020-race-it-aint-over-til-its-over-and-this-aint-over",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GoO-6W5iqH0/pence-on-2020-race-it-aint-over-til-its-over-and-this-aint-over",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-on-2020-race-it-aint-over-til-its-over-and-this-aint-over.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-on-2020-race-it-aint-over-til-its-over-and-this-aint-over.amp",
-      "publishedDateTime": "2020-11-09T11:39:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-mike-huckabee-trump-team-must-be-allowed-to-examine-voting-machines-ballots.md",
-      "title": "Mike Huckabee: Trump team must be allowed to examine voting machines, ballots",
-      "excerpt": "President Trump needs to pursue legal action against the 2020 presidential election results due to the state's having suspicious outcomes, Fox News contributor Mike Huckabee said on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fjKW2b1MoRk/huckabee-trump-legal-team-review-ballots-evidence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fjKW2b1MoRk/huckabee-trump-legal-team-review-ballots-evidence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 252,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/huckabee-trump-legal-team-review-ballots-evidence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/huckabee-trump-legal-team-review-ballots-evidence.amp",
-      "publishedDateTime": "2020-11-09T10:59:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump EPA retains ozone standards despite COVID-19 link to air pollution"
+    excerpt: "The Trump administration on Wednesday finalized a 5-year-old air quality standard for ozone pollution despite calls by environmental groups to toughen the rule because people harmed by air pollution are more vulnerable to COVID-19."
+    publishedDateTime: 2020-12-24T00:00:00Z
+    webUrl: "https://www.reuters.com/article/usa-environment-ozone/trump-epa-retains-ozone-standards-despite-covid-19-link-to-air-pollution-idUSL1N2J31WR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J31WR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J31WR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545595167&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM1B8"
+        width: 877
+        height: 545
+        isCached: true
   - title: "Refuting Trump, FDA commissioner says vaccine could not have been authorized sooner"
     excerpt: "In an interview with Fox News Saturday, Trump, after seeming to take credit for the speed of the vaccine's development, said that the Food and Drug Administration could have authorized the shot for emergency use \"last week."
     publishedDateTime: 2020-12-13T14:25:00Z

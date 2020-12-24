@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-24-doj-officials-in-ongoing-discussions-about-hunter-biden-special-counsel-some-say-its-warranted-sources.md",
+      "title": "DOJ officials in 'ongoing discussions' about Hunter Biden special counsel, some say it's 'warranted': sources",
+      "excerpt": "High level officials within the Justice Department are in \"onging discussions\" on whether to appoint a special counsel to take over the investigation into Hunter Biden, with some believing it is \"warranted,\" two sources familiar told Fox News Wednesday. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fN1knlTB8Lw/hunter-biden-special-counsel-justice-department",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fN1knlTB8Lw/hunter-biden-special-counsel-justice-department",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-special-counsel-justice-department.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-special-counsel-justice-department.amp",
+      "publishedDateTime": "2020-12-23T16:47:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-socialists-blast-kamala-harris-in-covid-19-relief-battle-saying-she-has-been-nowhere-to-be-found.md",
+      "title": "Socialists blast Kamala Harris in COVID-19 relief battle saying she has been 'nowhere to be found'",
+      "excerpt": "Socialists are evidently displeased with Vice President-elect Kamala Harris’ curious silence on much-needed economic relief to Americans during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G10L81gPnyo/socialists-blast-kamala-harris-as-nowhere-to-be-found-in-coronavirus-relief-fight",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G10L81gPnyo/socialists-blast-kamala-harris-as-nowhere-to-be-found-in-coronavirus-relief-fight",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20358720594343.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/socialists-blast-kamala-harris-as-nowhere-to-be-found-in-coronavirus-relief-fight.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/socialists-blast-kamala-harris-as-nowhere-to-be-found-in-coronavirus-relief-fight.amp",
+      "publishedDateTime": "2020-12-23T15:35:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-george-papadopoulos-ecstatic-over-trump-pardon-hints-at-possible-lawsuit.md",
       "title": "George Papadopoulos 'ecstatic' over Trump pardon, hints at possible lawsuit",
       "excerpt": "Former Trump 2016 campaign adviser George Papadopoulos celebrated the pardon President Trump granted to him while noting that he may not be done with his accusers.",
@@ -744,7 +857,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 170,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -1185,7 +1298,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 290,
+      "heat": 310,
       "tags": null,
       "images": [
         {
@@ -1565,118 +1678,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-virginia-gubernatorial-candidate-says-trump-should-declare-martial-law.md",
-      "title": "Virginia gubernatorial candidate says ‘Trump should declare martial law’",
-      "excerpt": "Virginia Republican state Sen. Amanda Chase, an outspoken Trump supporter, former small business owner and gubernatorial hopeful, doubled down on disputed voter fraud claims and said Thursday that her state needs an election audit – through martial law, if necessary.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Wcpmpy9uPg/virginia-amanda-chase-trump-martial-law",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Wcpmpy9uPg/virginia-amanda-chase-trump-martial-law",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Amanda-Chase-GETTY.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/virginia-amanda-chase-trump-martial-law.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-amanda-chase-trump-martial-law.amp",
-      "publishedDateTime": "2020-12-17T17:53:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-omar-says-her-father-died-of-coronavirus-because-of-trumps-criminal-neglect.md",
-      "title": "Omar says her father died of coronavirus because of Trump's 'criminal neglect'",
-      "excerpt": "Rep. Ilhan Omar said Friday that her father died of Covid-19 in June because of “criminal neglect” by the Trump administration. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NTWmfBTzBuI/omar-father-died-coronavirus-trumps-criminal-neglect",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NTWmfBTzBuI/omar-father-died-coronavirus-trumps-criminal-neglect",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 291,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Omar-reuters.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/omar-father-died-coronavirus-trumps-criminal-neglect.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-father-died-coronavirus-trumps-criminal-neglect.amp",
-      "publishedDateTime": "2020-12-17T17:10:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -47,6 +47,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump issues new wave of pardons, commutations"
+    excerpt: "Just before heading to his private club in Palm, Beach, Florida for the Christmas holiday on Wednesday, President Trump issued a new wave of 26 pardons and three commutations."
+    publishedDateTime: 2020-12-24T00:52:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XMYUpP66rx8/trump-pardons-paul-manafort-roger-stone"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-pardons-paul-manafort-roger-stone.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pardons-paul-manafort-roger-stone.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202012/1278/854081161001_6218023626001_6218023729001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump Issues 26 More Pardons, Including to Paul Manafort, Roger Stone"
+    excerpt: "President Trump on Wednesday issued 26 more pardons to individuals including Charles Kushner, his son-in-law’s father, former campaign chairman Paul Manafort and longtime adviser Roger Stone."
+    publishedDateTime: 2020-12-24T00:46:00Z
+    webUrl: "https://www.wsj.com/articles/trump-issues-26-more-pardons-including-to-paul-manafort-roger-stone-11608769926?mod=hp_lead_pos2"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-issues-26-more-pardons-including-to-paul-manafort-roger-stone-11608769926"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-issues-26-more-pardons-including-to-paul-manafort-roger-stone-11608769926"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-277782/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "yQ8XYcLHHmqQNqbX/1AEGw91xcDF2u+DWGeUY5K3QPl/cEXzKJvZooiD8d3YjSfIXefshH04UmHjOQ/jz2vtWR3kb2+h4IAU4OCEj71YJfWkYs7PB6UGiqk/ft463q5srX1UN2MgZn/rNEdYpI2CoGZtDk+XBO8PKxaZ1RHC4Ej+KXRB9IsGmMn+K9EkDp45CuA45NgphZeXuyVsn7VuJPmrn8kZ/o/n4luGAwXc0Hgs8HqWBC0VcEjdRwOt9mLyR/h0ANbdl4KIj1yN8aS4C5w7lTJY0+AReye7LG4IPkeMKfHESfWS0EVpmQKeZZ7QXiRyuoXPiW14N7vk3I8paLh0Nl3ZaDIe3Mj+TouIqbs=;qU/0mJlHDQpju6JELrBGZg=="
 ---

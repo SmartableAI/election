@@ -3,8 +3,8 @@ category: news
 title: "Biden's Latino education secretary to add to diverse Cabinet"
 excerpt: "President-elect Joe Biden will add to the diversity of his incoming administration on Wednesday when he introduces Miguel Cardona as his choice for U.S. Secretary of Education."
 publishedDateTime: 2020-12-23T11:05:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-cabinet/bidens-latino-education-secretary-to-add-to-diverse-cabinet-idUSKBN28X0JU"
-webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet/bidens-latino-education-secretary-to-add-to-diverse-cabinet-idUSKBN28X0JU"
+originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28X0JU"
+webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28X0JU"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X0JU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X0JU"
 type: article
@@ -116,6 +116,6 @@ related:
         height: 576
         isCached: true
 
-secured: "Kf7+rHRO5sM9dKIP5pczsmrA5UtGi/5+6EFIl/W4awhI0CI3KSzA9SiTex4OszrpRsVe3moLGxu2+EcyWIxHaxiwXegWAHPmpLADRi2vnEl5/z8Pdf7c+LmGJ7PEeziznNUy+fPbJrE8t8wQmk/o+PDzziw+m0kkBi0NU7L/Ea59OTNolvxhavkMmET1CW00a0dg59gxNP0yhtGDuHeOjzbvXQ7nh4qaJ8yWhkC0Z1oHYswWTCsaGTo5C7OruXwzjq3zDgvG2BdtuRO/wUJahw2xbqEv0mMMPP4+uaGwvKdMZ6nBGw1Lwh2BXjrqvDdprm3SQG8WbJjnTL6owGNA5BpHtqp/kRbe+8SfK7QcBPI=;1npQGa7pOrNeU1xPvbapjw=="
+secured: "Lma9KJf23VUX5r/0VdLqzNnE/T3r6Tmq0XomJkPpLtif8iG3CErLn48KaQqld4XQVuxElsEVeBXlVcRsHd7Dt/sz7VNepyFysf/etDoeGTEStUP/ZEYqaY2/NWxNfZjmdFh04xpkKGICNGs8uQsk3mtBuW1mFIUwXluH5C0HtNl0poAYjHc3oBHZbi64axqHzCtHVvqfB0pejLjs9BPx93mNJCrUqo8BwSBPDdsNmm98MPJrHKx74BxJ0uLMEC9S8J5oSOcHmrnzTu3mnCyl8QsBJqT/xAwxVOzf2PgLfzJq8r9nEjAbvUwcOD9U/hizvUtnsWQfisQgpnxUT3sYlwGrpi42ou6cGiqRQcHT4z8=;LjPmVsWQrLmnpSfz3ypWqQ=="
 ---
 

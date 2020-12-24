@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-probe-attorney-general
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-probe-attorney-general-candidates-psaki.amp"
 type: article
 quality: 170
-heat: 290
+heat: 310
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 128
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/078f1b0b-dd95-4528-8469-4953a43cfd21/6593df76-3ee6-4ad4-8a83-44dbc5d4923c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden mocks questions about Hunter as mainstream media remains largely uninterested"
+    excerpt: "President-elect Joe Biden on Tuesday laughed off a question about the federal investigation of his son Hunter, in what's become part of a pattern for him to mock or belittle reporters who broach the topic."
+    publishedDateTime: 2020-12-23T18:31:00Z
+    webUrl: "https://www.foxnews.com/media/joe-biden-mocks-questions-hunter-media-uninterested"
+    ampWebUrl: "https://www.foxnews.com/media/joe-biden-mocks-questions-hunter-media-uninterested.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-mocks-questions-hunter-media-uninterested.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86956551-e068-49b5-a2db-204d8ebeb325/f136f818-3a95-467b-ba4e-1a795a7ac3a0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

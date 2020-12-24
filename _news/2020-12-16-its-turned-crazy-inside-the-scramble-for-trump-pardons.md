@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/donald-trump-pardons-lam
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/donald-trump-pardons-lame-duck/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221215204-donald-trump-1208-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's complaints vs. his own budget proposal"
+    excerpt: "President Donald Trump complained about a litany of federal spending in a video released Tuesday objecting to the new stimulus deal, claiming the line items had nothing to do with Covid relief.\n    \n"
+    publishedDateTime: 2020-12-23T23:31:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/knJXWVmsePY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/trump-complaints-spending-bill-graphic/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/trump-complaints-spending-bill-graphic/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222230738-trump-media-final-days-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

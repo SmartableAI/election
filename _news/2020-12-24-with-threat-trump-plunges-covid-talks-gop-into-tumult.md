@@ -1,28 +1,34 @@
 ---
 category: news
 title: "With threat, Trump plunges COVID talks, GOP into tumult"
-excerpt: "The video message that plunged Washington into chaos was filmed in secret."
-publishedDateTime: 2020-12-23T22:10:00Z
-originalUrl: "https://www.businessinsider.com/with-threat-trump-plunges-covid-talks-gop-into-tumult-2020-12"
-webUrl: "https://www.businessinsider.com/with-threat-trump-plunges-covid-talks-gop-into-tumult-2020-12"
-ampWebUrl: "https://www.businessinsider.com/with-threat-trump-plunges-covid-talks-gop-into-tumult-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/with-threat-trump-plunges-covid-talks-gop-into-tumult-2020-12?amp"
+excerpt: "Facing his final four weeks in office, President Donald Trump has plunged Washington into chaos once more, mounting another desperate attempt to cling to power while leaving lawmakers scrambling to re"
+publishedDateTime: 2020-12-24T00:31:00Z
+originalUrl: "https://www.washingtonpost.com/politics/with-threat-trump-plunges-covid-talks-gop-into-tumult/2020/12/23/70f9ac98-4555-11eb-ac2a-3ac0f2b8ceeb_story.html"
+webUrl: "https://www.washingtonpost.com/politics/with-threat-trump-plunges-covid-talks-gop-into-tumult/2020/12/23/70f9ac98-4555-11eb-ac2a-3ac0f2b8ceeb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/with-threat-trump-plunges-covid-talks-gop-into-tumult/2020/12/23/70f9ac98-4555-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/with-threat-trump-plunges-covid-talks-gop-into-tumult/2020/12/23/70f9ac98-4555-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "How far did Ron DeSantis’s loyalty to Trump go?"
@@ -74,6 +80,6 @@ related:
         height: 810
         isCached: true
 
-secured: "XQjfzig1oXQtK43rieYp4pdXKUQi8yhPq6KwIARqP1cVBHuu6pUt+noL3eGoavubjB78qfH51ohQ3j+yTSmG8qrHDJ4jdiTfRHf/s4QxKK0fTcNyC+ZmfxyYXh+tMOMg/M/Xdf+XDfM9sOrAt49rJ3SIUnAHZ5J05AQf7Aeigl/vj3Z7yIvOlvFINjdwqG/+eF1pYeCwRWMQUyO8VM1IabXguWhk5BkDcwt4QQNVBku/BKJMNopNPtgfOji+ANyAbDggEs6FUG3GAkKFC1fpT8/w+S90eHqDdNELf/0O5sc16bZwcrkdTnE8XMA+rOA7lecywU9fmDaxE2xxMZIZoCEud1Ql3jiT24JJQpKZghE=;R2JqmSbcnZYFfqPHbr57Tg=="
+secured: "j7TgcnjKIZlEUl54y0OIQFnkyAO+KzsYgdAyGNjpLPNpnGXd9+c7msV6noFBXC+meU/6xY/L3k3bYsMJVOlVxlro89Yg6y4z7twiw0d36JluR8pe6x621oIE8ZAw6GD4enHH7eLxV1Jj7U8ZMEwH1e29dAxYrhSwsM7XqR6I0xbpOqrXG8gDfnSp23kfe8VHOQ+equ0H1zHY7XO0/LdqfQ3fdAHrvGAjTRKTAL9z3O6m0lzr/LPbiTtG+fJpmDLPM49wgQ7fF2eF89ml2JzoEMD0Bazyosj8fx7fjtu8E5wrZ+vFFk99OBrOYmHJ8a4fwye5tXDJQH1nOr4UDdrLdE8fmF2eW1/ANJh/1JlqnYA=;lTiH72Xc/KdMcWipc/UPhA=="
 ---
 

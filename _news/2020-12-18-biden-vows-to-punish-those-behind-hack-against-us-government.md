@@ -44,7 +44,7 @@ related:
   - title: "Biden's Latino education secretary to add to diverse Cabinet"
     excerpt: "President-elect Joe Biden will add to the diversity of his incoming administration on Wednesday when he introduces Miguel Cardona as his choice for U.S. Secretary of Education."
     publishedDateTime: 2020-12-23T11:05:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet/bidens-latino-education-secretary-to-add-to-diverse-cabinet-idUSKBN28X0JU"
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28X0JU"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X0JU"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X0JU"
     type: article

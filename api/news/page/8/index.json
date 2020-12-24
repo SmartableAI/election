@@ -2,6 +2,167 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-14-who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts.md",
+      "title": "Who will replace Kamala Harris in the Senate? California governor weighs a shortlist of firsts",
+      "excerpt": "The possible replacements include Long Beach Mayor Robert Garcia and California Secretary of State Alex Padilla.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/who-will-replace-kamala-harris-u-s-senate-california-governor-n1250975",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/who-will-replace-kamala-harris-u-s-senate-california-governor-n1250975",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_50/3434600/201209-los-angeles-alex-padilla-ac-419p_0_5eecaf7673fb2b6dd17bdf7d233aff1c.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250975",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250975",
+      "publishedDateTime": "2020-12-14T05:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-how-the-deep-state-scientists-vilified-by-trump-helped-him-deliver-an-unprecedented-achievement.md",
+      "title": "How the ‘deep state’ scientists vilified by Trump helped him deliver an unprecedented achievement",
+      "excerpt": "A $14-billion partnership between government and industry is spurring the quickest vaccine development in U.S. history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/",
+      "originalUrl": "https://www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LPMJUBR5JQI6XNMLCYR7MJTZMA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/?outputType=amp",
+      "publishedDateTime": "2020-12-14T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-a-lifelong-republican-stood-up-to-trump-his-reward-death-threats.md",
+      "title": "A lifelong Republican stood up to Trump. His reward: Death threats",
+      "excerpt": "Georgia election official Gabriel Sterling is girding for another battle with conspiracy theories and lies about the integrity of the voting system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/ec7582c/2147483647/strip/true/crop/2510x1412+13+0/resize/768x432!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F09%2F7c%2F1ec055ca4ff69835f12733d1a2fe%2Fsterlingthumb.png",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done?_amp=true",
+      "publishedDateTime": "2020-12-14T04:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-in-latin-america-a-biden-white-house-faces-a-rising-china.md",
       "title": "In Latin America, a Biden White House faces a rising China",
       "excerpt": "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home.",
@@ -1178,167 +1339,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-jordan-claims-trump-paid-what-he-owed-in-response-to-ny-times-report.md",
-      "title": "Jordan claims Trump 'paid what he owed' in response to NY Times report",
-      "excerpt": "One poll says nearly three in four registered voters plan to tune in to see President Trump face off against Democratic nominee Joe Biden tonight.  MACCALLUM: Fireworks are anticipated as theshowdown comes against a tense backdrop in thenation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/jordan-claims-trump-paid-what-he-owed-in-response-to-ny-times-report",
-      "originalUrl": "https://www.foxnews.com/transcript/jordan-claims-trump-paid-what-he-owed-in-response-to-ny-times-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8241411b-5bcb-46d6-bbe8-f51124ee7cda/a39ee341-3490-443f-bbbe-b3badea4f82c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-12T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-hunter-biden-requested-keys-for-new-office-mates-joe-biden-chinese-emissary-to-cefc-chairman-emails-show.md",
-      "title": "Hunter Biden requested keys for new 'office mates' Joe Biden, Chinese 'emissary' to CEFC chairman, emails show",
-      "excerpt": "Hunter Biden requested in 2017 that keys be made for his new \"office mates,\" listing his father, President-elect Joe Biden, Jill Biden and his uncle, Jim Biden, for space he planned to share with an \"emissary\" for a chairman of a Chinese energy company, according to an email obtained by Fox News. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/azy4ZwN7zyM/hunter-biden-requested-keys-new-office-mates-joe-biden-chinese-emissary-cefc-chairman",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/azy4ZwN7zyM/hunter-biden-requested-keys-new-office-mates-joe-biden-chinese-emissary-cefc-chairman",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-requested-keys-new-office-mates-joe-biden-chinese-emissary-cefc-chairman.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-requested-keys-new-office-mates-joe-biden-chinese-emissary-cefc-chairman.amp",
-      "publishedDateTime": "2020-12-12T07:34:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-mike-pompeo-mike-pence-go-to-bat-for-imprisoned-hong-kong-media-tycoon-jimmy-lai.md",
-      "title": "Mike Pompeo, Mike Pence go to bat for imprisoned Hong Kong media tycoon Jimmy Lai",
-      "excerpt": "Top US officials are speaking out against the arrest and imprisonment of Hong Kong media tycoon Jimmy Lai. The 73-year-old billionaire and pro democracy advocate was denied bail Saturday after",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/12/12/us-officials-go-to-bat-for-imprisoned-hong-kong-tycoon-jimmy-lai/",
-      "originalUrl": "https://nypost.com/2020/12/12/us-officials-go-to-bat-for-imprisoned-hong-kong-tycoon-jimmy-lai/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/hong-kong-jimmy-lai.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/12/12/us-officials-go-to-bat-for-imprisoned-hong-kong-tycoon-jimmy-lai/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/12/us-officials-go-to-bat-for-imprisoned-hong-kong-tycoon-jimmy-lai/amp/",
-      "publishedDateTime": "2020-12-12T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
       ]
     }
   ],

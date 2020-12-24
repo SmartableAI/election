@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's complaints vs. his own budget proposal"
+    excerpt: "President Donald Trump complained about a litany of federal spending in a video released Tuesday objecting to the new stimulus deal, claiming the line items had nothing to do with Covid relief.\n    \n"
+    publishedDateTime: 2020-12-23T23:31:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/knJXWVmsePY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/trump-complaints-spending-bill-graphic/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/trump-complaints-spending-bill-graphic/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222230738-trump-media-final-days-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pentagon anxiety rises as officers wait for Trump's next unpredictable move"
     excerpt: "It's like a low murmur just below the surface. \"We don't know what he might do,\" says one officer in the Pentagon. \"We are in strange times,\" says another officer. Some senior military officers are trying to steer clear of the White House for the next month, rather than be in the President Donald Trump's"
     publishedDateTime: 2020-12-22T10:00:39Z

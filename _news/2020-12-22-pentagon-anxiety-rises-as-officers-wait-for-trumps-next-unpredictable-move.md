@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's complaints vs. his own budget proposal"
+    excerpt: "President Donald Trump complained about a litany of federal spending in a video released Tuesday objecting to the new stimulus deal, claiming the line items had nothing to do with Covid relief.\n    \n"
+    publishedDateTime: 2020-12-23T23:31:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/knJXWVmsePY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/trump-complaints-spending-bill-graphic/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/trump-complaints-spending-bill-graphic/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222230738-trump-media-final-days-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump lauded, then derided Barr. A look in inside the attorney general's tumultuous term. "
     excerpt: "At his confirmation hearing nearly two years ago, Attorney General William Barr boasted that there was an advantage to putting him in charge of the Justice Department -- he could afford not to care about the consequences of his decisions.\n    \n"
     publishedDateTime: 2020-12-23T20:48:56Z

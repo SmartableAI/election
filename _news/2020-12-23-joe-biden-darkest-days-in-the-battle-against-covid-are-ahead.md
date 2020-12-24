@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biden warns 'darkest days' are ahead for U.S...."
+    excerpt: "Watch \"President-elect Joe Biden warns of 'darkest days' are ahead for U.S.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-23T14:33:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201223163005-president-elect-joe-biden-warns-of-darkest-days-are-ahead-for-u-s/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08244329_1608741244.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's plans on further COVID19 relief aid?"
     excerpt: "Watch \"What are President-elect Joe Biden's plans on further COVID-19 relief aid?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-12-23T00:56:00Z
@@ -43,18 +57,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Coronavirus live: Joe Biden receives Covid vaccine; UK warned to expect further restrictions"
-    excerpt: "Joe Biden receives the coronavirus vaccine; Sir Patrick Vallance suggests more areas may need to enter tier 4; PM says border delays only affecting small amount of freight"
-    publishedDateTime: 2020-12-21T22:06:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal?page=with:block-5fe110038f08dd27861ceee3"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 94
 
-secured: "I61obCXiwBQX96wX/KeRpE5n/bO97JPIWVovFTzEwGD/vD4LuvOXyRRq8XWCjxanxlGu8GfCQBK3PUYkk/cqFTbFL3ZocCLGHbKcpysj/3ou1+E2AwVJVoPhAWe/Ay53ic0lCeIifiEoBps5nGcsr0N334LviWHx4lUPyGJSRg2bSMk43zP4EhINonNQ0iLmu4p04sk6eyFdTdFa552K1yBE6AHfcoBC1pCBIVulj1cQiSYu77uLgej4UsdS/5tN1ytpIK/+JxXGNfBj5TN/c5xmGOOIS7gtRrjsnlk1VktHea6htWqmn+wI8k761FnB8rsOM+YK20LOiaB1EVrIiQM9zJBm1DB+KBUYzu1Avk4=;IAWrqKYHkb80sJ3RRPJZDA=="
+secured: "p+/kwwXWv57okF7q237zdQgOcQVZUHgP4QRkULUfKvQ4zwSXQz/itWTtK+OFBeIp/fT/7+H65ikN33eeDZBOotHCbDL1VpZVpAU5+LzLU6dKk55tF8FT6YFHvHX0GwGuaLDozQn3bs4HvjAXv3NABs9MoVGBAPKbfVDV+xFRUzlmn31wh0qAKMDHa9HpegDJtJ7rKQ09+IeGN7qaxx6eXNp+/hX0XMM+hAMcfddDrdUeEwd0MHXK6ql36x0p5nb2ElVHedQS5aOu4PHayxGypZgziAdHytLjiNnUs8D0xWJ5nsn8Z8NyDsBqpr6fUiOUiTEE5YqPVnvIsXHVbrIs4nYyxF7qhEkbfL4huHNjXnbOscD75bmzaxMZK+iazK5q9juimdIwS3cYGQag4vHEROl0K65B5qWF7GqFYOEIL01Z0xef0W72ZTHYPLU4MJ7x/18aYnTc13tFaEbFQr5GvHOr2KI2KQgWZcCN9CBIcj5Dn8hJdGxgg5oYhx4AVu9BBKIoj/3PzpByBFDw48GbPA==;w3VEmiQyVcitaIzcoimMAA=="
 ---
 

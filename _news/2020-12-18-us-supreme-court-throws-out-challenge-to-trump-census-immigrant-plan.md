@@ -1017,6 +1017,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump departs WH after he vetoes defense bill"
+    excerpt: "President Donald Trump and First lady Melania departed the White House South Lawn on Wednesday after Trump vetoed the annual defense policy bill, following through on threats to veto a measure that has broad bipartisan support in Congress."
+    publishedDateTime: 2020-12-23T22:56:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/23/trump-departs-wh-after-he-vetoes-defense-bill/4033377001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0b38ed2c-ef8a-4adb-8daf-cd925d67613f_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump continues attempts to overturn election..."
     excerpt: "Watch \"Trump continues attempts to overturn election results\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-12-21T12:22:00Z

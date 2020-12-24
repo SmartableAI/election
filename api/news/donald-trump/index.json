@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-24-trump-pardons-former-campaign-chairman-paul-manafort.md",
+      "title": "Trump pardons former campaign chairman Paul Manafort",
+      "excerpt": "President Donald Trump has issued pardons and sentence commutations for 29 people, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-pardons-former-campaign-chairman-paul-manafort/2020/12/23/5b821be6-457f-11eb-ac2a-3ac0f2b8ceeb_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-pardons-former-campaign-chairman-paul-manafort/2020/12/23/5b821be6-457f-11eb-ac2a-3ac0f2b8ceeb_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-pardons-former-campaign-chairman-paul-manafort/2020/12/23/5b821be6-457f-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pardons-former-campaign-chairman-paul-manafort/2020/12/23/5b821be6-457f-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-23T16:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-trump-bashes-dems-extreme-left-wing-agenda-then-pushes-for-2000-cash-payments-something-opposed-by-conservatives-its-confusing.md",
       "title": "Trump bashes Dems’ ‘extreme left-wing agenda,’ then pushes for $2,000 cash payments, something opposed by conservatives. It’s confusing.",
       "excerpt": "President Donald Trump stood in the White House’s Diplomatic Reception Room, holiday garland and gleaming ornaments draped on the fireplace behind him, and spoke into the camera not to deliver warm Christmas wishes,",
@@ -379,7 +431,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/pence-echoes-trump-election-loss-west-palm-beach-speech/4009750001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1621,
+      "heat": 1641,
       "tags": null,
       "images": [
         {
@@ -421,58 +473,6 @@
         "Election",
         "Donald Trump",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-trump-grants-slew-of-pardons-including-george-papadopoulos-and-duncan-hunter.md",
-      "title": "Trump Grants Slew Of Pardons, Including George Papadopoulos And Duncan Hunter",
-      "excerpt": "Clemency advocates have pressed President Trump to intervene in the cases of people hit with mandatory minimum sentences for drug offenses who have filled prisons in the past few decades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2020/12/22/947972044/trump-grants-slew-of-pardons-including-george-papadopoulos-and-duncan-hunter",
-      "originalUrl": "https://www.npr.org/2020/12/22/947972044/trump-grants-slew-of-pardons-including-george-papadopoulos-and-duncan-hunter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/12/18/ap_20351771171034_wide-a1d0787ca4b6ff4d60a877fc34a43008e8f5a91a.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -900,7 +900,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 131,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1431,7 +1431,7 @@
       "originalUrl": "https://www.reuters.com/article/healthcoronavirus-moderna-trump/update-1-trump-ahead-of-fda-says-modernas-covid-19-vaccine-has-been-approved-idUSL1N2IY0Z4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
