@@ -77,6 +77,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump pardons Paul Manafort, Roger Stone and Jared Kushner’s father in latest wave of clemency to benefit allies"
+    excerpt: "The actions, in Trump’s final weeks at the White House, bring to nearly 50 the number of people whom the president in the last two days has granted clemency."
+    publishedDateTime: 2020-12-24T04:56:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 104
+    images:
+      - url: "https://www.chicagotribune.com/resizer/YoSRKlX982wBwJm3lerCRhvnEwE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LJ7AWKEP4JCFXJCQMAWMIOKQRY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump Grants Slew Of Pardons, Including George Papadopoulos And Duncan Hunter"
     excerpt: "Clemency advocates have pressed President Trump to intervene in the cases of people hit with mandatory minimum sentences for drug offenses who have filled prisons in the past few decades."
     publishedDateTime: 2020-12-23T00:34:00Z
@@ -101,6 +117,6 @@ related:
       domain: npr.org
     quality: 85
 
-secured: "ATh2RRCK34ZdkKdL2nqwn7//FDSfmgHV84qKTlhfQi/0BZ/GzmqeKzHcGQqpcWwcujKEn2SKZCEY/qMfKilPJ5/4grKXs9xR3a3EBRVDBfOEZTvhCZoqYdRO+CYLGhCzrIeicNNhLRoRwMylkUbk+U2ONfJgs8VQyeOVh6vTqcnp6h9yyStDuMK3BVObCruminNci0OdFU06FgVK7Fe2hyWjnH0W0Y/tB7VqvWC/8hlslS5GSau+QG9dNAkeazGeF8L4I5C3s72OnP+Aq9kKjZzRL2JNjjJvLURWZ06+iYBN/BxVtrJrhkZVVJnrXsSRL8PQEPypq0cOY13JVPAMYM6L6TWHQSmb0bFZ5UslybE=;+MM8PkOZpytlF3xhECjySQ=="
+secured: "47rIctJRCZ6bogmvOC3Tscp16urQwWOTAOcXweBca5qD0PykQbBRKl/sjDWTf5kLpgzkeg+5iIegMvD6d5LJdk1HxsVESDhnMRbH6JMo1tNMaTRnvj1d6Z0VPvc8mdub4FN3HyTO/V7XGpMNKUQbKnvKyPPYsxgjLiSMGEDxNf1+Q95ClCSdcu+JCeosUxvGeLamPn9v6h0j+VIO39bxWZi4HHTi5b37u2vx2BR3/JSt3AyH9T1JWWpnepeVyzMIAbfDP5KHdNLWuClIzkQJcJ5hilnmQg5UJ9VrwPw85Z2ZKFIXkP9u+vcdnhfTzQ7VpWLjp4aR0ZJstdNm8S/iACwqjn3FGKhw9SM2T7YlkMRN20EBU8wxWx9li1q2AjkMTAZ/GAjSU3KKcH7KXe3YJzbiw2AvSfukiDlU4oz/aOlBDZUj9O4GrVQQUJ6iVFLq9O98DISldF/QViZdWYzlCqJlL5o5gE5YA9SytxqgHpt3+izBNM9E/WRTEGIzgtSoaRerEVr2whzWRsIqBEcq7Q==;C1w4y8r/ta5eYNqCQCZlNg=="
 ---
 

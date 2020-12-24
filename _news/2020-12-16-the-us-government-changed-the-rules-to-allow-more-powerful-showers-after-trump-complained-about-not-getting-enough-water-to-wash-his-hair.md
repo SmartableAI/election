@@ -48,6 +48,22 @@ related:
         height: 558
         isCached: true
   - title: "Trump's legacy: He changed the presidency, but will it last?"
+    excerpt: "His legacy: a tumultuous four years that were marked by his impeachment, failures during the worst pandemic in a century and his refusal to accept defeat. He smashed conceptions about how presidents behave and communicate,"
+    publishedDateTime: 2020-12-24T06:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-legacy-changed-presidency-74889255"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74889255"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74889255"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump's legacy: He changed the presidency, but will it last?"
     excerpt: "The most improbable of presidents, Donald Trump reshaped the office and shattered its centuries-old norms and traditions while dominating the national discourse like no one before."
     publishedDateTime: 2020-12-21T15:52:00Z
     webUrl: "https://www.businessinsider.com/trumps-legacy-he-changed-the-presidency-but-will-it-last-2020-12"

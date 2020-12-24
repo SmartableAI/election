@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Trump Pardons Roger Stone, Paul Manafort And Charles Kushner"
-excerpt: "President Trump issued several more pardons on Wednesday evening, including to former campaign chairman Paul Manafort, Republican operative Roger Stone and Charles Kushner, the father-in-law of Ivanka Trump."
-publishedDateTime: 2020-12-24T00:38:00Z
-originalUrl: "https://www.npr.org/2020/12/23/949820820/trump-pardons-roger-stone-paul-manafort-and-charles-kushner"
-webUrl: "https://www.npr.org/2020/12/23/949820820/trump-pardons-roger-stone-paul-manafort-and-charles-kushner"
+title: "Trump pardons Paul Manafort, Roger Stone and Jared Kushner’s father in latest wave of clemency to benefit allies"
+excerpt: "The actions, in Trump’s final weeks at the White House, bring to nearly 50 the number of people whom the president in the last two days has granted clemency."
+publishedDateTime: 2020-12-24T04:56:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html?outputType=amp"
 type: article
-quality: 85
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: NPR
-  domain: npr.org
+  name: Chicago Tribune
+  domain: chicagotribune.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.chicagotribune.com/resizer/YoSRKlX982wBwJm3lerCRhvnEwE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LJ7AWKEP4JCFXJCQMAWMIOKQRY.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Trump pardons former campaign chairman Paul Manafort"
@@ -85,22 +93,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump pardons Paul Manafort, Roger Stone and Jared Kushner’s father in latest wave of clemency to benefit allies"
-    excerpt: "The actions, in Trump’s final weeks at the White House, bring to nearly 50 the number of people whom the president in the last two days has granted clemency."
-    publishedDateTime: 2020-12-24T04:56:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 104
-    images:
-      - url: "https://www.chicagotribune.com/resizer/YoSRKlX982wBwJm3lerCRhvnEwE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LJ7AWKEP4JCFXJCQMAWMIOKQRY.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump Grants Slew Of Pardons, Including George Papadopoulos And Duncan Hunter"
     excerpt: "Clemency advocates have pressed President Trump to intervene in the cases of people hit with mandatory minimum sentences for drug offenses who have filled prisons in the past few decades."
     publishedDateTime: 2020-12-23T00:34:00Z
@@ -115,7 +107,16 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Trump Pardons Roger Stone, Paul Manafort And Charles Kushner"
+    excerpt: "President Trump issued several more pardons on Wednesday evening, including to former campaign chairman Paul Manafort, Republican operative Roger Stone and Charles Kushner, the father-in-law of Ivanka Trump."
+    publishedDateTime: 2020-12-24T00:38:00Z
+    webUrl: "https://www.npr.org/2020/12/23/949820820/trump-pardons-roger-stone-paul-manafort-and-charles-kushner"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 85
 
-secured: "r9flBAk7866HbHEmHe8/tB9gs9TyV34+qGB+ui5E8BHzlBnOq6Z7xIY4OunCtv9pqIWeWZsZQ7g3TgbsIUyuRSquV2wuuvfjfzvEq6XdoIuxC4C7jtNH7huUcIWmmSVJ/25eEchwqVm9DUiHdR8p3ER+MRawbYVjVOAPlMlRmUqVcak4gb3gD/ovL3qE1H5ErfQEnVpJhTo75cmvx42++UtlKUti1nfkp6MvY+JYfcfbdgSosC8sLRPBecli50sOUGgwKEcn3EBoAT4j2CDXNVMf+o7rJODcglQ2m850+OIg3V2eYZ6ri4CmeCTlRsIkP9pPIzQqWUAsMGJ1tqAs5iZ3C31gN+f2mdwkkFeSDxgg+bxyLXZFp/z8gEJ+mUFZhEvQdVR9N+8WMGuMX7DPB7fx3VYg0beMvBDBDSvxAevWR4ri0VkgYyMBjDhAAvaxUMEeusFvmo6XTn/euMCKZjNQ/vkXcgep58MBBVbhOChwxgWn+sqa9fxZi9bEt/4w7R0MXvdkQ+HsqUD0swIIaQ==;LWcQOTNiRdXgX45mKVkPHA=="
+secured: "VVivYnmZcDImncMbUSnYgYp3tBB1Gfgyy/CW8xRMtEMwOsaVyr0NeZ7sgqbeO6y2a0h+0B+VMTlY4Ez6GskZPRe1FfnqeWMjk+w7YCPjP9PMktpx2lqXTvdSBUih/bBXCy+mwET2J4mWW6rmdXuyHEZAChpCnqJYRFP4WkWZhG0dvBepdFaUjjylet76D2bxcNCXeXHONIKxCMKmzhbnOBhjvE7nDCpowrLQO8BuRbCvX+cO9Ui5J2Dud1yXV8Z/ij3Ojzllm5ghbefe3EAtgMZNLY/aHNwmQ/X44CnVLawXxgshd6T9IEYeUC4HbzYN6FEx6o/GA/A1JiKbARaKt5feyA7y+LOow1Dm7BQt318=;5h9zR0maZXaDdPRNEQh7sg=="
 ---
 

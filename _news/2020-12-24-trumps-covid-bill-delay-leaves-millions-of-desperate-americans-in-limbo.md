@@ -1,34 +1,28 @@
 ---
 category: news
-title: "American manufacturers pine for home as COVID disruptions, Trump tariffs shake up supplies"
-excerpt: "President Trump's trade war was supposed to encourage American manufacturers to pack up their international operations and move home. Did it happen?"
-publishedDateTime: 2020-12-18T05:48:00Z
-originalUrl: "https://www.usatoday.com/story/money/2020/12/18/covid-disruptions-trump-tariffs-make-u-s-manufacturers-pine-home/3851515001/"
-webUrl: "https://www.usatoday.com/story/money/2020/12/18/covid-disruptions-trump-tariffs-make-u-s-manufacturers-pine-home/3851515001/"
-ampWebUrl: "https://amp.usatoday.com/amp/3851515001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3851515001"
+title: "Trump's COVID bill delay leaves millions of desperate Americans in limbo"
+excerpt: "President Donald Trump's threat late Tuesday to veto the $892 billion coronavirus relief bill approved by Congress this week may delay aid for millions of families on the cusp of eviction and about to lose unemployment benefits."
+publishedDateTime: 2020-12-24T05:42:00Z
+originalUrl: "https://www.businessinsider.com/trumps-covid-bill-delay-leaves-millions-of-desperate-americans-in-limbo-2020-12"
+webUrl: "https://www.businessinsider.com/trumps-covid-bill-delay-leaves-millions-of-desperate-americans-in-limbo-2020-12"
+ampWebUrl: "https://www.businessinsider.com/trumps-covid-bill-delay-leaves-millions-of-desperate-americans-in-limbo-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-covid-bill-delay-leaves-millions-of-desperate-americans-in-limbo-2020-12?amp"
 type: article
-quality: 115
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/a991105e-7421-4d8a-9579-88bea40d37a1-daniel_burrows.png?auto=webp&crop=529,298,x0,y176&format=pjpg&width=1200"
-    width: 1200
-    height: 676
-    isCached: true
 
 related:
   - title: "Trump, ahead of FDA, says Moderna's COVID-19 vaccine has been approved"
@@ -127,6 +121,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "American manufacturers pine for home as COVID disruptions, Trump tariffs shake up supplies"
+    excerpt: "President Trump's trade war was supposed to encourage American manufacturers to pack up their international operations and move home. Did it happen?"
+    publishedDateTime: 2020-12-18T05:48:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/12/18/covid-disruptions-trump-tariffs-make-u-s-manufacturers-pine-home/3851515001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3851515001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3851515001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/a991105e-7421-4d8a-9579-88bea40d37a1-daniel_burrows.png?auto=webp&crop=529,298,x0,y176&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Trump leaves Congress with holiday cliffhanger on COVID-19 stimulus bill as lawmakers scramble"
     excerpt: "Congress's $900 billion coronavirus relief package was thrown into doubt after Trump raised doubts about whether he would sign the bill into law before Christmas."
     publishedDateTime: 2020-12-23T20:50:00Z
@@ -171,17 +181,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump's COVID bill delay leaves millions of desperate Americans in limbo"
-    excerpt: "President Donald Trump's threat late Tuesday to veto the $892 billion coronavirus relief bill approved by Congress this week may delay aid for millions of families on the cusp of eviction and about to lose unemployment benefits."
-    publishedDateTime: 2020-12-24T05:42:00Z
-    webUrl: "https://www.businessinsider.com/trumps-covid-bill-delay-leaves-millions-of-desperate-americans-in-limbo-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trumps-covid-bill-delay-leaves-millions-of-desperate-americans-in-limbo-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-covid-bill-delay-leaves-millions-of-desperate-americans-in-limbo-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
   - title: "Trump administration threatened to oust the head of the FDA if the Pfizer vaccine isn't cleared by the end of Friday, a new report says"
     excerpt: "Dr. Stephen Hahn denied the report, telling Business Insider that \"this is an untrue representation of the phone call with the Chief of Staff.\""
     publishedDateTime: 2020-12-11T21:45:00Z
@@ -229,6 +228,6 @@ related:
         height: 600
         isCached: true
 
-secured: "oRH03RU30ggFDMGY6RYUdrgAm9K2VEjNGAfvOjUIeZChaEX/ELnn98zeQ+XEyyCnbM1VC6pIMkhuDh/e7hwPC+N7LZdhXg3Iwtp09zAaBnmssT1rxsFQCtefH2FIM/GNimsL6NCeq4tYrXRovC9bnd9OFqqnChorz42C/QhX9B+Jz8LbHCP8JhGDEF6IqN8Gjl+N9dosWh8lyrLl6Y0jBjDXYyAI88w+Xtl85hPKTHnwklPgVafG7VTux3+bEpo1iEUjDvsZ+Ng0V1vDXuEvqXfkoZl2wd74NYXWIY5rWWBemmQp+8ZzWCyREDOamWYMt+RWlJ5ccc5mY89Do6H5pQCDbBAqa6Ne9zSDfK3pqNI=;WjAoVxKkeShIc7sDUrpXbw=="
+secured: "5/BSbR2H1ARCheE50laaBD7jCewuPVlN3VZ5GTAcaJpOfN0EfwFFGVVdBgU3fJDzQKU5V6dw6cpre6zr8kP/j1ejnlSgKsDlY1E0+1iQTqWco8VdHx6zv3OOSdkgbFNbMj4WPe3gxIUzcwXQZjD9MKxOzP46/wcGzYXxwQ6GRe6W5AVn6oJO5/XDLZoV4/ZpCuTy33/BCFIMNAQkIjT6SKEgDYqSuLdjlfgWXW4t8lyCOjK2u8gdMyChgJu3PCf8A2vt+FAzjM2GpxQlitPni1BCI1CKB8eR88vs02UT1f/jkXc3WSIvTGwhIVGZG7allQpFbVkMP/BPdheRw2Ar97DER5FJiGMBqpbef17md6I=;PqiqEBq6yRlTaV9St/HOAw=="
 ---
 

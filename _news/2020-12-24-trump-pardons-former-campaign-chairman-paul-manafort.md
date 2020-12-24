@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-pardons-former-campaig
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pardons-former-campaign-chairman-paul-manafort/2020/12/23/5b821be6-457f-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://s.abcnews.com/images/US/paul-manafort-gty-jc-201218_1608311805666_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump pardons Paul Manafort, Roger Stone and Jared Kushner’s father in latest wave of clemency to benefit allies"
+    excerpt: "The actions, in Trump’s final weeks at the White House, bring to nearly 50 the number of people whom the president in the last two days has granted clemency."
+    publishedDateTime: 2020-12-24T04:56:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 104
+    images:
+      - url: "https://www.chicagotribune.com/resizer/YoSRKlX982wBwJm3lerCRhvnEwE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LJ7AWKEP4JCFXJCQMAWMIOKQRY.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump Grants Slew Of Pardons, Including George Papadopoulos And Duncan Hunter"
     excerpt: "Clemency advocates have pressed President Trump to intervene in the cases of people hit with mandatory minimum sentences for drug offenses who have filled prisons in the past few decades."

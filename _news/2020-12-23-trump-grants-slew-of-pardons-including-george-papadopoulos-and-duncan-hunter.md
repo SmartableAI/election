@@ -91,6 +91,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump pardons Paul Manafort, Roger Stone and Jared Kushner’s father in latest wave of clemency to benefit allies"
+    excerpt: "The actions, in Trump’s final weeks at the White House, bring to nearly 50 the number of people whom the president in the last two days has granted clemency."
+    publishedDateTime: 2020-12-24T04:56:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20201224-nyyi7gli65eobmxyosi5oufrqm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 104
+    images:
+      - url: "https://www.chicagotribune.com/resizer/YoSRKlX982wBwJm3lerCRhvnEwE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LJ7AWKEP4JCFXJCQMAWMIOKQRY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump Pardons Roger Stone, Paul Manafort And Charles Kushner"
     excerpt: "President Trump issued several more pardons on Wednesday evening, including to former campaign chairman Paul Manafort, Republican operative Roger Stone and Charles Kushner, the father-in-law of Ivanka Trump."
     publishedDateTime: 2020-12-24T00:38:00Z

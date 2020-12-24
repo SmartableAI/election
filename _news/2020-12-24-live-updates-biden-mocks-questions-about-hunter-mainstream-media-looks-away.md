@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Live Updates: Biden introduces education pick Cardona"
-excerpt: "President-elect Joe Biden introduced his pick for education secretary, Miguel Cardona, on Wednesday and promised an \"ambitious agenda\" to re-open most schools within the first 100 days of his presidency."
-publishedDateTime: 2020-12-23T19:11:00Z
-originalUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-23-2020"
-webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-23-2020"
-ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-23-2020.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-23-2020.amp"
+title: "Live updates: Biden mocks questions about Hunter, mainstream media looks away"
+excerpt: "President-elect Joe Biden on Tuesday laughed off a question about the federal investigation of his son Hunter, in what's become part of a pattern for him to mock or belittle reporters who broach the topic."
+publishedDateTime: 2020-12-24T06:32:11Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zU88OLhJm_M/live-updates-biden-transition-12-24-2020"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zU88OLhJm_M/live-updates-biden-transition-12-24-2020"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-24-2020.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-24-2020.amp"
 type: article
-quality: 135
+quality: 172
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17982449-b85a-4a77-a6be-96d8701ff3b2/70bb5fd8-6315-4a9d-bdfb-644b243e64ec/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f6e5eab9-fe1b-4184-bbff-ce0cd1f58649/d4621cb8-0321-4aed-a53e-e94baa079ea1/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -64,22 +63,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Live updates: Biden mocks questions about Hunter, mainstream media looks away"
-    excerpt: "President-elect Joe Biden on Tuesday laughed off a question about the federal investigation of his son Hunter, in what's become part of a pattern for him to mock or belittle reporters who broach the topic."
-    publishedDateTime: 2020-12-24T06:32:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zU88OLhJm_M/live-updates-biden-transition-12-24-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-24-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-24-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f6e5eab9-fe1b-4184-bbff-ce0cd1f58649/d4621cb8-0321-4aed-a53e-e94baa079ea1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "House minority leader says he did not speak with Biden"
     excerpt: "Biden said during a press conference on Tuesday that he had spoken with both leaders of the House, which would appear to indicate Rep. Kevin McCarthy, the minority leader, and Speaker Nancy Pelosi."
     publishedDateTime: 2020-11-10T22:21:39Z
@@ -94,7 +77,23 @@ related:
         width: 1280
         height: 675
         isCached: true
+  - title: "Live Updates: Biden introduces education pick Cardona"
+    excerpt: "President-elect Joe Biden introduced his pick for education secretary, Miguel Cardona, on Wednesday and promised an \"ambitious agenda\" to re-open most schools within the first 100 days of his presidency."
+    publishedDateTime: 2020-12-23T19:11:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-23-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-23-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-23-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17982449-b85a-4a77-a6be-96d8701ff3b2/70bb5fd8-6315-4a9d-bdfb-644b243e64ec/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "m4LPAUZa9CJqinVrpyng/QqcSi1liYaL7d75hDeKaePKwWeIqrncCazd8uSYiKqcIBBdS+gHoVwHCWfo6+dM4naoTzwXqnMAOInGFuL0pArgP9Pbe0M5nrhYfPC1z+YJcebEdc4BxQOKq9rU8albrcRl5CeUf21TwrmjYGpUGbukJcnPJmSa9ebV6i6f7EzmOGisuW8cgJ0RzEX3c3mIeBfnnmwQtpekx68eXlLm2KgoQkoA7eEVGyUQUeYdxiMfJeNLV73RvvxUrDFDOgHMQ03rRdtOXkdNmlsi8dJuVUfgNJtvCSxkEJco8OSKlVv3Ee1gqEPVnZQjhRYGix0lE+ivpnzekkHeRnjF5KJhD0VCCCc7c6i2nRo6iQ+fLd/2syBeyMtHDDkB9hX+1z1xtt59r+wnT/FkqJSyHzD/aHYXDDJTd2EKfd0R0eAmXneg77kJkzYa4MzJc9fTpPrdgpz5jhvVq2XlGnIxaIeYthUpemXA4w3WvmBUpmsiMwxffyg1i7NmN7x+6lvSEU3HqQ==;WGCZe+kuPHPg1IqBLMnFkg=="
+secured: "wliQ7OkWnQc0LgXJtIa5DKGZuVASKOuZXKHZ4ZUMlO9JCiB/ErP8K1ihe33MTqAE5Xy7Ss2n4xlEFsopGjaMv/sBhekCtiHH4z+bxn7LkzH6R4pAzIcE9xUT0UBg1jFKvJ2wWUGDUoAH2Kb/A/+pRs8m+cRtTRYPvt/ehnQ6RSDTJCPDBflpEoCTbSRkK6hhfxyqYXU97s0RmsQq18yDnyfgMqmB9/xIZIz+ovrf/05z3Y7ukEmi8eqaaCTBkppFWxPTtnqdCvMWgRN+UEwuUMDa0Pe7Omxs4dYlSelkIWXwSIAtV/1PVjbHHuEUR+ZHau2hWjbX0MAIwOfT0ZFtHsJQZa/z6TwGKTK3xpFX79M=;Z+mzbQEbTVr62rRbztvrrw=="
 ---
 
