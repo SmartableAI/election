@@ -239,6 +239,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Democrats want rushed vote on Trump's $2,000 coronavirus aid checks"
+    excerpt: "Democrats in the U.S. House of Representatives on Thursday aim to win quick passage of legislation providing $2,000 in direct payments to Americans as part of a coronavirus economic relief initiative after President Donald Trump unexpectedly insisted on the provision."
+    publishedDateTime: 2020-12-24T11:32:00Z
+    webUrl: "https://www.businessinsider.com/democrats-want-rushed-vote-on-trumps-2000-coronavirus-aid-checks-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/democrats-want-rushed-vote-on-trumps-2000-coronavirus-aid-checks-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-want-rushed-vote-on-trumps-2000-coronavirus-aid-checks-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Scott Atlas resigns as special adviser to Trump on coronavirus -Fox News"
     excerpt: "Dr. Scott Atlas has resigned as special adviser to President Donald Trump on the coronavirus, Fox News reported on Monday, after a controversial four months at the White House in which he clashed repeatedly with other members of the task force responding to the deadly"
     publishedDateTime: 2020-12-01T01:45:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-mcconnell-senate-republicans-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp"
 type: article
 quality: 179
-heat: 399
+heat: 419
 published: true
 
 provider:
@@ -106,6 +106,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "House set for showdown over Trump demands on stimulus, spending; McConnell mum on potential veto"
+    excerpt: "House Democrats and Republicans are set to make dueling \"unanimous consent\" requests on Thursday based on grievances President Trump aired Tuesday night to the massive coronavirus stimulus and government funding package lawmakers sent to his desk — exchanging political barbs as it's still unclear whether"
+    publishedDateTime: 2020-12-24T12:20:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pAR1gXH_f9A/house-showdown-trump-demands-stimulus-spending"
+    ampWebUrl: "https://www.foxnews.com/politics/house-showdown-trump-demands-stimulus-spending.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-showdown-trump-demands-stimulus-spending.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340

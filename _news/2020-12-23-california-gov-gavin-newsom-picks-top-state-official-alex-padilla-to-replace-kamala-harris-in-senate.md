@@ -1,10 +1,10 @@
 ---
 category: news
 title: "California Gov. Gavin Newsom Picks Top State Official Alex Padilla to Replace Kamala Harris in Senate"
-excerpt: "California Secretary of State Alex Padilla will replace Vice President-elect Kamala Karris in the U.S. Senate, Gov. Gavin Newsom announced Tuesday."
+excerpt: "California Secretary of State Alex Padilla will replace Vice President-elect Kamala Harris in the U.S. Senate, Gov. Gavin Newsom announced Tuesday."
 publishedDateTime: 2020-12-22T19:39:00Z
-originalUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/"
-webUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/"
+originalUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
+webUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
 ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
 type: article
@@ -149,6 +149,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Bay Area students get Kamala Harris action figures"
+    excerpt: "Kentfield resident Lisa Bernard Rosenberg bought 120 of the dolls to inspire students Bayside Martin Luther King Jr. Academy."
+    publishedDateTime: 2020-12-24T10:32:00Z
+    webUrl: "https://www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/"
+    ampWebUrl: "https://www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/MIJ-L-KAMALA-1224-02.jpg?w=1024&h=711"
+        width: 1024
+        height: 711
+        isCached: true
   - title: "California Gov. Newsom picks Alex Padilla to fill Kamala Harris's Senate seat"
     excerpt: "California Gov. Gavin Newsom announced Tuesday that he’s selected Secretary of State Alex Padilla to fill the seat of Sen. Kamala Harris once she’s sworn in as vice president."
     publishedDateTime: 2020-12-22T18:55:00Z
@@ -244,6 +260,6 @@ related:
         height: 683
         isCached: true
 
-secured: "W94H5bswFpe+z4VWe56FoXvPtmPTezooH33RS9Svw8bOi7rqrRmdknIzTYhTSMGKpbCCrcbWsGHse8B8bkVN4UBjxW/bmyDKZX7q0dU8VadTdoA/mYuOtjR/Z6N3Ii3MjxZziyH0zSOSntZlFDAyAuqv3Cr7YTnxvZ/fIeBJ1LCUCAJzcjNpPHMLxVuraxSCXOYZKyqHZs8AGvzwoXbNL9OgEhzUFOIfovaDXZYYiHfgq1gFFBIU3VuVejGRCha9MJ832vFZzsh+5gVMJDSzvl45T5c5X9gmxrCD5QHBbYvnTg+r7jwK/YNGkMXOGDJ0lKJHEXXs7H1VmIX1IzochxptfW7SZABMBuJQwA3ZlV4=;JEXBTffgEF9KgkT4G45H0g=="
+secured: "XFFVUHp7ZOhn3EFn6i/3zNkfdvVMrWevTPYsX19ya3q6oJgiIKF5UN+e4ho51dFv3/UE/CwsQxkaKAKi7baebI/bWhO5AzffVOrRzHbMdqi6Y4q2TypiLdTjrFDY73LFgKjaYojRB8ZNwN2gJXOdMMP6GBM/P6Xr/YbSpGQTo1ZxetkPBFmIjBCEgXPkmZ233j3BnCRmn7HpwWCbnbKyWMQOVT5qamzHKpYBTVafzrt8zgsbOZ83YDAZlTBiGSp1sxXi1x5MzWT9nDidN+uNdiS3haIlh6f+A22iy1X2eyUJ78HMg+iGQIza0GCSid5ZSp8/2G6D9H8fFB8XhgLVJk7QGiMYH3lnm14KwfLHJ2o=;tC2e0uE+ZNRT3p/0HfT16Q=="
 ---
 

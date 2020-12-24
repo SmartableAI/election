@@ -141,6 +141,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Trump's demolition of the COVID-19 stimulus package could cost the GOP control of the Senate"
+    excerpt: "GOP Sens. Kelly Loeffler and David Perdue had put the passage of a stimulus bill at the front of their campaigns — until the president torpedoed it."
+    publishedDateTime: 2020-12-24T12:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-coronavirus-stimulus-attacks-could-cost-gop-georgia-senate-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-stimulus-attacks-could-cost-gop-georgia-senate-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-stimulus-attacks-could-cost-gop-georgia-senate-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fe478a7edf8920018093a15?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump leaves Congress with holiday cliffhanger on COVID-19 stimulus bill as lawmakers scramble"
     excerpt: "Congress's $900 billion coronavirus relief package was thrown into doubt after Trump raised doubts about whether he would sign the bill into law before Christmas."
     publishedDateTime: 2020-12-23T20:50:00Z

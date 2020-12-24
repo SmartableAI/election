@@ -367,6 +367,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here's where things stand on Biden's Cabinet deliberations "
+    excerpt: "President-elect Joe Biden enters the Christmas holiday with the vast majority of his Cabinet nominees announced, yet final deliberations continue for two of the most high-profile positions in his administration: attorney general and CIA director.\n    \n"
+    publishedDateTime: 2020-12-24T12:33:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eEtTV3zf93Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/biden-cabinet-deliberations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/biden-cabinet-deliberations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222172421-01-biden-announcement-1223-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Dozens of members of Congress call on Biden to end the federal death penalty"
     excerpt: "More than three dozen members of Congress are calling on Joe Biden's incoming administration to prioritize abolishing the death penalty in all jurisdictions, according to a letter sent Tuesday to the transition team for the President-elect and Vice President-elect Kamala Harris.\n    \n"
     publishedDateTime: 2020-12-15T22:07:41Z

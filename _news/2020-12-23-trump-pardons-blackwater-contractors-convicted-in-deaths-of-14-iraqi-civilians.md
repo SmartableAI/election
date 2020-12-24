@@ -79,6 +79,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Trump grants more pardons, including for Paul Manafort, Roger Stone and Charles Kushner"
+    excerpt: "With days left in office, President Trump isn't holding back on controversial pardons of white-collar criminals and allies."
+    publishedDateTime: 2020-12-24T12:39:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-announces-26-new-pardons-allies-paul-manaford-roger-stone-charles-kushner/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-announces-26-new-pardons-allies-paul-manaford-roger-stone-charles-kushner/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-announces-26-new-pardons-allies-paul-manaford-roger-stone-charles-kushner/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 117
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2019/11/15/d50063fd-1a97-4d11-bede-67d30aeb4d9e/thumbnail/1200x630/265b89e83a02e6650ab917ade9590248/ap-19319631440573.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump pardons Charles Kushner, Paul Manafort, Roger Stone in latest wave of clemency grants"
     excerpt: "The president once again used his executive power to benefit his allies and undermine an investigation that dogged his presidency."
     publishedDateTime: 2020-12-24T02:11:00Z
@@ -110,6 +126,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/06/05/USAT/362a9b9e-796d-46a5-bd6d-c9b34761283b-AFP_AFP_1RI3FJ.JPG?auto=webp&crop=2583,1453,x1,y65&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "President Trump Pardons Roger Stone, Paul Manafort And Charles Kushner"
+    excerpt: "Trump granted more pardons Wednesday to 26 people, including some people who are close to him. On Monday Trump granted full pardons to 15 individuals and commuted part or all of the sentences of five."
+    publishedDateTime: 2020-12-24T12:12:00Z
+    webUrl: "https://www.npr.org/2020/12/24/949926149/president-trump-pardons-roger-stone-paul-manafort-and-charles-kushner"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Paul Manafort, Roger Stone, Charles Kushner among those pardoned by Trump"
     excerpt: "President Donald Trump issued a second round of pardons Wednesday, just weeks before his time in the White House comes to a close."

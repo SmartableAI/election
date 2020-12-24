@@ -132,6 +132,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Eye Opener: Trump pardons former advisers convicted in Russia probe"
+    excerpt: "President Trump announced another round of pardons and commutations on Wednesday, with former advisers Paul Manafort and Roger Stone both on the list. Also, American airports are buzzing with travelers despite warnings from health officials."
+    publishedDateTime: 2020-12-24T12:49:00Z
+    webUrl: "https://www.cbsnews.com/video/eye-opener-trump-pardons-former-advisers-convicted-in-russia-probe/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/24/2ba3d634-673e-4d57-b175-5c4538502b19/thumbnail/1200x630/a41c34924ee8c14dfc7664f7bb1b5694/cbsn-fusion-eye-opener-trump-pardons-former-advisers-convicted-in-russia-probe-thumbnail-615578-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Secretary of state says Russia ‘pretty clearly’ behind major cyberattack on US government, industry; Trump silent"
     excerpt: "Mike Pompeo says Russia was “pretty clearly” behind the gravest cyberattack against the United States on record."
     publishedDateTime: 2020-12-19T16:53:00Z
