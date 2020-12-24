@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-22-congress-passes-900-billion-historic-bipartisan-rescue-package-that-now-heads-to-trump-for-approval.md",
+      "title": "Congress passes $900 billion 'historic bipartisan rescue package' that now heads to Trump for approval",
+      "excerpt": "After weeks of painstaking negotiation and months of partisan finger-pointing, the Senate resoundingly passed a sweeping COVID-19 relief package Monday, sending a bill to President Donald Trump to sign that will send millions of Americans direct payments and rescue thousands of small businesses nationwide struggling to stay open in the face of the pandemic's suffocating grip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/21/stimulus-checks-covid-relief-bill-ppp-loan/3990756001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/21/stimulus-checks-covid-relief-bill-ppp-loan/3990756001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/21/USAT/398cd292-4d0a-49c5-b3e1-dada011a0b40-GTY_1292304296.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3990756001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3990756001",
+      "publishedDateTime": "2020-12-22T03:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-trump-issues-executive-order-requiring-beautiful-federal-architecture.md",
       "title": "Trump issues executive order requiring 'beautiful' federal architecture",
       "excerpt": "President Donald Trump signed an executive order on Monday looking to ensure that federal buildings feature \"beautiful\" architecture, expressing a preference for classical architecture over modernist designs.\n    \n",
@@ -555,7 +607,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -1290,62 +1342,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-trump-responds-to-boltons-incompetence-claim-hints-he-could-reveal-stupid-stories-about-former-adviser.md",
-      "title": "Trump responds to Bolton's 'incompetence' claim, hints he could reveal 'stupid stories' about former adviser",
-      "excerpt": "President Trump hit back after former national security adviser John Bolton blasted him for \"incompetence\" amid reports that Trump discussed invoking martial law with another former national security adviser, Michael Flynn.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QaPj5M9iXz0/trump-bolton-election-martial-law-michael-flynn",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QaPj5M9iXz0/trump-bolton-election-martial-law-michael-flynn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/09/640/320/3b9234da-Bolton091919.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-bolton-election-martial-law-michael-flynn.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-bolton-election-martial-law-michael-flynn.amp",
-      "publishedDateTime": "2020-12-20T08:07:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

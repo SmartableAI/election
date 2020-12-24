@@ -2,6 +2,63 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-04-pence-says-us-a-week-and-a-half-away-from-likely-approval-of-first-coronavirus-vaccine.md",
+      "title": "Pence says US 'a week and a half away' from 'likely approval' of first coronavirus vaccine",
+      "excerpt": "Vice President Mike Pence said Friday that the U.S. is “maybe just a week and a half away” from the “likely approval” of the first vaccine to protect against the novel coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JXdkqXgON10/pence-week-and-a-half-away-likely-approval-first-coronavirus-vaccine",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JXdkqXgON10/pence-week-and-a-half-away-likely-approval-first-coronavirus-vaccine",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-week-and-a-half-away-likely-approval-first-coronavirus-vaccine.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-week-and-a-half-away-likely-approval-first-coronavirus-vaccine.amp",
+      "publishedDateTime": "2020-12-04T11:01:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-videos-virtual-events-and-planned-trips-biden-obama-pence-trump-weigh-in-on-georgia-runoffs.md",
       "title": "Videos, virtual events and planned trips: Biden, Obama, Pence, Trump weigh in on Georgia runoffs",
       "excerpt": "President Trump, his predecessor and soon-to-be successor in the White House, as well as Vice President Mike Pence, are all weighing in on Georgia’s two Jan. 5 Senate runoff elections, where the Republican majority in the chamber is up for grabs.",
@@ -1312,54 +1369,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-lou-holtz-calls-trump-greatest-president-in-my-lifetime-accepts-medal-of-freedom.md",
-      "title": "Lou Holtz calls Trump ‘greatest president in my lifetime,’ accepts Medal of Freedom",
-      "excerpt": "President Trump on Thursday awarded Notre Dame’s legendary former football coach Lou Holtz the Presidential Medal of Freedom — and Holtz reciprocated by hailing Trump as the “greatest",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/",
-      "originalUrl": "https://nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/1229926968-e1607018824688.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/amp/",
-      "publishedDateTime": "2020-12-03T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

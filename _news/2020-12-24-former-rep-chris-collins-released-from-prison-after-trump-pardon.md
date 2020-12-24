@@ -80,6 +80,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Who is Charles Kushner, who was pardoned by Trump?"
+    excerpt: "President Trump issued 26 pardons on Wednesday, including several with personal ties to the president or members of his administration. One of them is Charles Kushner, father of Trump's adviser and son-in-law, Jared Kushner."
+    publishedDateTime: 2020-12-24T14:21:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xh4B44uoAhI/who-is-charles-kushner-trump-pardon"
+    ampWebUrl: "https://www.foxnews.com/politics/who-is-charles-kushner-trump-pardon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-charles-kushner-trump-pardon.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20359026146833-e1608817865436.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "In official Christmas portrait, Melania Trump sports high-waisted pantsuit"
     excerpt: "The first lady on Saturday shared her official White House Christmas portrait with President Trump standing on the White House Grand Staircase."
     publishedDateTime: 2020-12-19T19:39:53Z

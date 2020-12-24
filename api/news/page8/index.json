@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-15-under-attack-from-trump-americas-democratic-institutions-bend-but-dont-break.md",
+      "title": "Under attack from Trump, America’s democratic institutions bend but don’t break",
+      "excerpt": "Historians and democracy experts said they feared that the tumultuous post-election period had exposed the fragility of the instruments of democracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/hI1Y5FYhOzQSxPk_372qNQCsw4I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XBBB32DW26JFTNJSF6TAYX7P2A.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-14T18:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-trump-antagonizes-republicans-with-georgia-fundraising-ploy.md",
       "title": "Trump antagonizes Republicans with Georgia fundraising ploy",
       "excerpt": "Emails and texts raising cash for Trump's PAC have rankled Republicans, who want cash to flow directly to Georgia's endangered GOP senators.",
@@ -1299,58 +1351,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-kamala-harris-husband-lawyer-doug-emhoff-to-teach-next-semester-at-georgetown.md",
-      "title": "Kamala Harris’ husband, lawyer Doug Emhoff, to teach next semester at Georgetown",
-      "excerpt": "The incoming second gentleman has landed a new job at the Georgetown University Law Center, school officials announced. Doug Emhoff, husband to Vice President-elect Kamala D. Harris, announced last month he would leave his Los Angeles law firm by Inauguration Day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2YNFSAR37YI6XETWVYGKOJZJXY.jpg&w=1440",
-          "width": 1440,
-          "height": 958,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-12T23:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

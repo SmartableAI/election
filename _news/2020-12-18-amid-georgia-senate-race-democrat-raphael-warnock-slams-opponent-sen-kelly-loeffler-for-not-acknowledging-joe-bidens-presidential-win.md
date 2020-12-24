@@ -1333,6 +1333,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Who is Miguel Cardona? The Connecticut education commissioner is President-elect Joe Biden’s pick for U.S. education secretary"
+    excerpt: "President-elect Joe Biden has selected Connecticut education Commissioner Miguel Cardona to be the next U.S. secretary of education, according to The Associated Press and multiple reports."
+    publishedDateTime: 2020-12-22T15:43:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/hc-pol-who-is-miguel-cardona-20201222-t3ok4evvobfhrgwyesjql67vny-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/hc-pol-who-is-miguel-cardona-20201222-t3ok4evvobfhrgwyesjql67vny-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/hc-pol-who-is-miguel-cardona-20201222-t3ok4evvobfhrgwyesjql67vny-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 97
+    images:
+      - url: "https://www.chicagotribune.com/resizer/4kWgjcdbgSC_uHmEu1u5QiXkQl0=/630x630/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FMQOPSDT2VG2LHHYPHNQBMNF2M.jpg"
+        width: 630
+        height: 630
+        isCached: true
   - title: "Mike Pence in Georgia again today | Everything to know"
     excerpt: "Vice President Mike Pence will again visit Georgia today, a frequent stop of his as the Trump administration looks to continue supporting Sens. Kelly Loeffler and David Perdue in their re-election bid."
     publishedDateTime: 2020-12-10T12:33:00Z

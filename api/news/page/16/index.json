@@ -2,6 +2,63 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-12-03-in-new-interview-mueller-talks-about-vietnam-but-not-trump-and-russia.md",
+      "title": "In new interview, Mueller talks about Vietnam, but not Trump and Russia",
+      "excerpt": "Mueller spoke to Chuck Rosenberg for the NBC News podcast The Oath. In the interview, Mueller seems more in command than when he spoke to Congress in 2019.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/new-interview-mueller-talks-about-vietnam-not-trump-russia-n1249714",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/new-interview-mueller-talks-about-vietnam-not-trump-russia-n1249714",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2018_18/2416666/180430-robert-mueller-2013-ac-1008p_a40d0ee92c3445b1c48a4a9f30613111.jpg",
+          "width": 2500,
+          "height": 1698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249714",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249714",
+      "publishedDateTime": "2020-12-02T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-a-trump-fund-raiser-for-maya-wiley-yes-but-its-mary-trump.md",
       "title": "A Trump Fund-Raiser for Maya Wiley? Yes, but It’s Mary Trump",
       "excerpt": "Ms. Trump, the president’s niece, has written a tell-all book and opposed his re-election. Now she’s holding an online event for Ms. Wiley, who’s running for mayor of New York.",
@@ -1319,62 +1376,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-biden-expected-to-introduce-key-members-of-economic-team-tuesday.md",
-      "title": "Biden expected to introduce key members of economic team Tuesday ",
-      "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris on Tuesday afternoon are expected to introduce key members of their economic team at an event in Wilmington, Delaware.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q1uuFmApTkQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q1uuFmApTkQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 395,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201130103441-biden-economic-admin-1130-announcement-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/biden-economic-team-event/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/biden-economic-team-event/index.html",
-      "publishedDateTime": "2020-12-01T07:36:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

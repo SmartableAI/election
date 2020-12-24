@@ -1317,6 +1317,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Who is Miguel Cardona? The Connecticut education commissioner is President-elect Joe Biden’s pick for U.S. education secretary"
+    excerpt: "President-elect Joe Biden has selected Connecticut education Commissioner Miguel Cardona to be the next U.S. secretary of education, according to The Associated Press and multiple reports."
+    publishedDateTime: 2020-12-22T15:43:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/hc-pol-who-is-miguel-cardona-20201222-t3ok4evvobfhrgwyesjql67vny-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/hc-pol-who-is-miguel-cardona-20201222-t3ok4evvobfhrgwyesjql67vny-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/hc-pol-who-is-miguel-cardona-20201222-t3ok4evvobfhrgwyesjql67vny-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 97
+    images:
+      - url: "https://www.chicagotribune.com/resizer/4kWgjcdbgSC_uHmEu1u5QiXkQl0=/630x630/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FMQOPSDT2VG2LHHYPHNQBMNF2M.jpg"
+        width: 630
+        height: 630
+        isCached: true
   - title: "Amid Georgia Senate race, Democrat Raphael Warnock slams opponent Sen. Kelly Loeffler for not acknowledging Joe Biden’s presidential win"
     excerpt: "\"It's difficult to overstate how much is at stake here,\" Warnock said. The two runoff races in Georgia between Warnock and Republican Sen. Kelly Loeffler and Republican Sen. David Perdue and Democratic candidate Jon Ossoff have become a political centerfold as the future of the Senate rests on who will win in Georgia."
     publishedDateTime: 2020-12-17T18:06:00Z

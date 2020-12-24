@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-23-listen-to-trumps-sudden-stipulation-for-covid-19-stimulus-bill.md",
+      "title": "Listen to Trump's sudden stipulation for Covid-19 stimulus bill",
+      "excerpt": "President Trump issued a sudden pre-Christmas demand for changes to a desperately needed $900 billion pandemic relief bill that could potentially risk shattering the bipartisan compromise reached by Democrats and Republicans. CNN's Joe Johns reports.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4SS99xZY5qk/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4SS99xZY5qk/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201222230738-trump-media-final-days-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn",
+      "publishedDateTime": "2020-12-23T04:57:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-biden-education-secretary-nominee-pushed-microaggression-resources-in-response-to-riots.md",
       "title": "Biden education secretary nominee pushed ‘microaggression’ resources in response to riots",
       "excerpt": "Elect Joe Biden nominated Connecticut Education Commissioner Miguel Cardona to serve as head of the Department of Education in his administration, a public school advocate who sent around resources on \"microaggressions\" as he took action to help parents and educators navigate difficult race-related discussions earlier this year.",
@@ -1002,7 +1058,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 302,
+      "heat": 322,
       "tags": null,
       "images": [
         {
@@ -1324,58 +1380,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-congress-passes-900-billion-historic-bipartisan-rescue-package-that-now-heads-to-trump-for-approval.md",
-      "title": "Congress passes $900 billion 'historic bipartisan rescue package' that now heads to Trump for approval",
-      "excerpt": "After weeks of painstaking negotiation and months of partisan finger-pointing, the Senate resoundingly passed a sweeping COVID-19 relief package Monday, sending a bill to President Donald Trump to sign that will send millions of Americans direct payments and rescue thousands of small businesses nationwide struggling to stay open in the face of the pandemic's suffocating grip.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/21/stimulus-checks-covid-relief-bill-ppp-loan/3990756001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/21/stimulus-checks-covid-relief-bill-ppp-loan/3990756001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/21/USAT/398cd292-4d0a-49c5-b3e1-dada011a0b40-GTY_1292304296.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3990756001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3990756001",
-      "publishedDateTime": "2020-12-22T03:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

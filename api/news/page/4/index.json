@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-20-trump-responds-to-boltons-incompetence-claim-hints-he-could-reveal-stupid-stories-about-former-adviser.md",
+      "title": "Trump responds to Bolton's 'incompetence' claim, hints he could reveal 'stupid stories' about former adviser",
+      "excerpt": "President Trump hit back after former national security adviser John Bolton blasted him for \"incompetence\" amid reports that Trump discussed invoking martial law with another former national security adviser, Michael Flynn.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QaPj5M9iXz0/trump-bolton-election-martial-law-michael-flynn",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QaPj5M9iXz0/trump-bolton-election-martial-law-michael-flynn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/09/640/320/3b9234da-Bolton091919.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-bolton-election-martial-law-michael-flynn.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-bolton-election-martial-law-michael-flynn.amp",
+      "publishedDateTime": "2020-12-20T08:07:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-navarro-we-are-all-china-hawks-because-of-trump.md",
       "title": "Navarro: 'We are all China hawks' because of Trump",
       "excerpt": "As tensions between the U.S. and China rage on, White House trade adviser Peter Navarro told \"Fox & Friends Weekend\" that President Trump has pushed both parties to take a tougher line against China.",
@@ -1271,63 +1327,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-trump-appoints-1776-commission-members-in-last-minute-bid-to-advance-patriotic-education.md",
-      "title": "Trump appoints 1776 Commission members in last-minute bid to advance 'patriotic education'",
-      "excerpt": "The group will be led by the president of the conservative Hillsdale College, Larry Arnn, a longtime Trump ally, the White House said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/18/trump-1776-commission-appointments-448229",
-      "originalUrl": "https://www.politico.com/news/2020/12/18/trump-1776-commission-appointments-448229",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d8/88/8403c9844566924526431b2c7c58/gettyimages-1215228995-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/18/trump-1776-commission-appointments-448229",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/trump-1776-commission-appointments-448229",
-      "publishedDateTime": "2020-12-18T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

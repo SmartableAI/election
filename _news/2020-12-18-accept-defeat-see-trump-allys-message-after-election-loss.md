@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn"
 type: article
 quality: 190
-heat: 530
+heat: 550
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_51/3436447/201217-donald-trump-jm-1056_6b8dd9a08c701d22da204e13e60e8e86.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Here Are the People Trump Has Pardoned So Far"
+    excerpt: "Paul Manafort and Roger J. Stone Jr., both sentenced in the special counsel’s Russia inquiry, and Charles Kushner, the father of the president’s son-in-law, were pardoned days before Christmas."
+    publishedDateTime: 2020-12-24T10:22:00Z
+    webUrl: "https://www.nytimes.com/article/trump-pardons-commutations.html"
+    ampWebUrl: "https://www.nytimes.com/article/trump-pardons-commutations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/trump-pardons-commutations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/02/lens/02xp-trumppardon-manafort/02xp-trumppardon-manafort-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "New Signs of Economic Distress Emerge as Trump Imperils Aid Deal"
     excerpt: "A decline in consumer income and spending poses a further challenge to the recovery as jobless claims remain high and benefits approach a cutoff."

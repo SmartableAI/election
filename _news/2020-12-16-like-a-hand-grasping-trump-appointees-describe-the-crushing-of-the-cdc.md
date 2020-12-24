@@ -112,6 +112,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Christmas comes early for Trump allies with more pardons"
+    excerpt: "Christmas came early for some of President Donald Trump's friends and associates as he issued a second wave of pardons and commutations late Wednesday. Here is what we're watching this Christmas Eve."
+    publishedDateTime: 2020-12-24T13:59:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/christmas-comes-early-trump-allies-more-pardons-n1252332"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252332"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252332"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/1608811741191_tdy_news_haake_trump_vetoes_defense_bill_201224_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "c2keUzPhesnWnXe+3RlWyliU91Wx7rUxIKBigAfvDHJzaLsZ64tl4+U3J+l+ERGoC49+DN5i1GqsYgmkXwNBYjGIQqEO8RixjGi0By40FNXtX3EI5XkA88ONCxJmTC5051+ZVWJO0L7JV58651qp+aM4QNFP2Hwn4OEB+fpnWpl87YVjQkZ/wB5aZLKJ2M32ebQXJ3lEV+CuhQf9nSHDc0JYLp+7Acq3IWuxOyUBQBzLqPM4Bgo/mNKKs7TiwqmOuWVlKyYNvIZzUcqVUOuXygZ8GPP/11oD+z2Ojmb3NlSSBYduM6RSqehIP2LCE3KvczczWeAj58AcTsYtfR64dV4I0KmmCew9ql80Rbk+dGluXH88YZ3ptHJ1hsKtkhCl0gbu6pWl0PbBNkPzE8Lkr4XOj0NFeAhDhD33T9brlPibVZUz9VXztStFFIMJ/efyeIOXMT2SdmHXEaMkBmXb6c5Se1w0wMAZsUvrWfmlYBEQb/RygmID0/MoRvC6HDyWPdAhjnXb/S1TS3ZuoIVijA==;2/o0FHCnmbqcIAi87LkLvw=="
 ---

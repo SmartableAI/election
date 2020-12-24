@@ -288,6 +288,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Here Are the People Trump Has Pardoned So Far"
+    excerpt: "Paul Manafort and Roger J. Stone Jr., both sentenced in the special counsel’s Russia inquiry, and Charles Kushner, the father of the president’s son-in-law, were pardoned days before Christmas."
+    publishedDateTime: 2020-12-24T10:22:00Z
+    webUrl: "https://www.nytimes.com/article/trump-pardons-commutations.html"
+    ampWebUrl: "https://www.nytimes.com/article/trump-pardons-commutations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/trump-pardons-commutations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/02/lens/02xp-trumppardon-manafort/02xp-trumppardon-manafort-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump flays former allies, calls to ‘fight on’ after Supreme Court defeat"
     excerpt: "Trump aired a lengthy list of his ongoing grievances with the high court’s decision that dismissed a longshot challenge by the attorney general of Texas."
     publishedDateTime: 2020-12-12T15:18:00Z

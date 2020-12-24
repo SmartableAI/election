@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-biggest-political-scand
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
 type: article
 quality: 182
-heat: 302
+heat: 322
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Jenna Ellis, Trump campaign legal adviser, pans calls for martial law"
+    excerpt: "As Trump continues to make baseless claims that he won the presidential election in a \"magnificent landslide,\" Ellis' tweet is a high-profile indication from someone who's been publicly aligned with the president every step of the way that martial law is off the table. "
+    publishedDateTime: 2020-12-24T14:07:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0BK8h0MMMSA/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction"
+    ampWebUrl: "https://www.foxnews.com/politics/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340

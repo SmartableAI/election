@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-24-trump-claims-to-be-working-tirelessly-but-leaves-covid-relief-bill-in-disarray.md",
+      "title": "Trump claims to be 'working tirelessly' but leaves Covid relief bill in disarray",
+      "excerpt": "President flies to Florida after throwing own party ‘under a bus’ while Democrats seize chance to push for $2,000 payments",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1872709c03a58b86cc58d362e550dde90a103477/0_156_4343_2607/master/4343.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93af28608ad58a321efed167c85064e8",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden",
+      "publishedDateTime": "2020-12-24T06:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-democratic-rep-elect-kai-kahele-combat-veteran-says-trump-supporters-are-a-force-to-be-reckoned-with.md",
       "title": "Democratic Rep.-elect Kai Kahele, combat veteran, says Trump supporters are 'a force to be reckoned with'",
       "excerpt": "As a progressive Democrat who supports the Green New Deal and \"Medicare-for-all,\" Rep.-elect Kai Kahele, D-Hawaii, has had to temper his aspirations for the new Congress. ",
@@ -672,7 +724,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -1290,62 +1342,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-listen-to-trumps-sudden-stipulation-for-covid-19-stimulus-bill.md",
-      "title": "Listen to Trump's sudden stipulation for Covid-19 stimulus bill",
-      "excerpt": "President Trump issued a sudden pre-Christmas demand for changes to a desperately needed $900 billion pandemic relief bill that could potentially risk shattering the bipartisan compromise reached by Democrats and Republicans. CNN's Joe Johns reports.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4SS99xZY5qk/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4SS99xZY5qk/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201222230738-trump-media-final-days-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn",
-      "publishedDateTime": "2020-12-23T04:57:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

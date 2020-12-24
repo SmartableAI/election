@@ -95,6 +95,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Christmas comes early for Trump allies with more pardons"
+    excerpt: "Christmas came early for some of President Donald Trump's friends and associates as he issued a second wave of pardons and commutations late Wednesday. Here is what we're watching this Christmas Eve."
+    publishedDateTime: 2020-12-24T13:59:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/christmas-comes-early-trump-allies-more-pardons-n1252332"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252332"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252332"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/1608811741191_tdy_news_haake_trump_vetoes_defense_bill_201224_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "‘Like a Hand Grasping’: Trump Appointees Describe the Crushing of the C.D.C."
     excerpt: "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, go public on the Trump administration’s manipulation of the agency."
     publishedDateTime: 2020-12-16T10:00:00Z

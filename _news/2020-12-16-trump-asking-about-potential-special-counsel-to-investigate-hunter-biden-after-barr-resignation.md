@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Jenna Ellis, Trump campaign legal adviser, pans calls for martial law"
+    excerpt: "As Trump continues to make baseless claims that he won the presidential election in a \"magnificent landslide,\" Ellis' tweet is a high-profile indication from someone who's been publicly aligned with the president every step of the way that martial law is off the table. "
+    publishedDateTime: 2020-12-24T14:07:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0BK8h0MMMSA/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction"
+    ampWebUrl: "https://www.foxnews.com/politics/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "President Trump vetoes National Defense Authorization Act for Fiscal Year 2021"
     excerpt: "President Trump vetoed the National Defense Authorization Act for Fiscal Year 2021 Wednesday, calling it a “gift” to U.S. adversaries China and Russia, making good on a promise to veto it if it did not repeal a law that shields certain Big Tech companies from liabilities."
     publishedDateTime: 2020-12-23T20:42:44Z

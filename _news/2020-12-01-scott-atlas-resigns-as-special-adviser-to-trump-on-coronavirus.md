@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3AS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3AS"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "U.S. lawmakers block Trump bid to modify coronavirus aid, spending bill"
+    excerpt: "Republicans and Democrats in the U.S. House of Representatives on Thursday blocked each other's efforts to modify a $2.3 trillion coronavirus aid and government spending bill that Congress passed on Monday."
+    publishedDateTime: 2020-12-24T14:29:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-coronavirus-congress-idUSW1N2HQ0M1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HQ0M1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HQ0M1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545681844&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN0TF"
+        width: 757
+        height: 545
         isCached: true
   - title: "White House coronavirus adviser Fauci to meet with Biden transition team: CNN"
     excerpt: "White House coronavirus task force member Anthony Fauci will meet with members of President-elect Joe Biden's team on Thursday after President Donald Trump's administration delayed the transition process for weeks amid a coronavirus surge."
