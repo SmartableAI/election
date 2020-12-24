@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/congress-gop-trump-veto/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/congress-gop-trump-veto/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -174,6 +174,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/09/us/politics/00dc-virus-cdc-2/00dc-virus-cdc-2-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Snowden allies see opening amid Trump clemency blitz"
+    excerpt: "Republican members of Congress who have spoken with the president recently view him as increasingly malleable to their suggestions in his closing days."
+    publishedDateTime: 2020-12-24T21:51:00Z
+    webUrl: "https://www.politico.com/news/2020/12/24/snowden-allies-trump-pardons-450360"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/7f/b8/4df041274859972d57fd8800eaa2/ap19308706751660-1-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "dFJ7ijRgD5UuNYTkayiqEQaM1cg+mLUz87iWaN2dSFn8xCoEq8XHDTsLsW1/SFU7FIUWiMv7vYaVQ+OyITX8CQ9nOq7hlDRdPathitdev/ZRYnLO2+5MZZQuNnaVryfitbiG4wHBCcyyILR0fw3B669ZXeUKhz/rC+ug4IbF/Fc1TsdOxbcWX+A8E6QFjC9A7+hxo8jnrSASvHVp6wqepbhLMU8QhIhYkmWidNw5uc2vxOAv4H1oXbPeIRJd/iCELTaiHltTI9shHxPKW3X2glxiVkLX4Z6eREd3aXdzeDL4kDVANy0j5wL7DYvOMqVuYf+JIGb+L9p/Cx/HhD/O1L4XXCUAY9AZvyo+mQmShPU=;NtltRgi8atJdVre7d+akvg=="

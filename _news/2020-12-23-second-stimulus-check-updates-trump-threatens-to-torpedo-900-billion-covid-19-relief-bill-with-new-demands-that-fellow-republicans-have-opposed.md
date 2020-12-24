@@ -136,6 +136,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Republicans Buck Trump, Reject Proposal for $2,000 Stimulus Checks"
+    excerpt: "Republicans on Thursday shut down an effort by Democratic leadership in the House to add $2,000 payments to the latest stimulus package, breaking with President Donald Trump’s demand for such checks,"
+    publishedDateTime: 2020-12-24T21:34:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/f74/39e/75805b07042d28264174aae959cff36626-GettyImages-1230254465.rsquare.w1200.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
 
 secured: "+supzToV25FWwwh1BpzrulJFOysVOhju+g64pskRl+FeZsn718eHLibxkeOjgYWio2CcqW8/XVmj0B2RbcCYRLRdinqsM1+2oSwYs+BieR4WLdi84/BzW7Sn6Sli2FD6JgLCdyE67O4S4icX9d6DfRQ5afgow6ceRYvqRZBOaiWO5sjFM6oTVofk8TQTcqChBhsDx6Xj2cI8WtX6D3NeJZapHSZdyPiJET4zyrOYYD+/O1Ab1FfdgJ8X5tCUvOq5t19lKhrElkoXTh16Mg2Ii0BU09mCIbplJouWcaw9a7/rOgEmhZsbEV0sZefa4MRapldGkQh2PyzlNFcUQf5IBVY+4QzH1Ulq4viHkULUujc=;9Vj39tcXOX51AR1AyoRPJg=="
 ---

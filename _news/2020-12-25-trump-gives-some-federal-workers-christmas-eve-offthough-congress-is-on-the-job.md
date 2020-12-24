@@ -1,20 +1,24 @@
 ---
 category: news
-title: "Trump and Melania wear matching tuxedos in official Christmas portrait"
-excerpt: "President Trump and first lady Melania donned coordinating tuxedos for their final official Christmas portrait, released Friday. Melania tweeted a photo of the pair standing in the Grand Staircase of the White House,"
-publishedDateTime: 2020-12-18T23:24:00Z
-originalUrl: "https://nypost.com/2020/12/18/trump-and-melania-wear-matching-tuxedos-in-official-xmas-portrait/"
-webUrl: "https://nypost.com/2020/12/18/trump-and-melania-wear-matching-tuxedos-in-official-xmas-portrait/"
-ampWebUrl: "https://nypost.com/2020/12/18/trump-and-melania-wear-matching-tuxedos-in-official-xmas-portrait/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/18/trump-and-melania-wear-matching-tuxedos-in-official-xmas-portrait/amp/"
+title: "Trump Gives Some Federal Workers Christmas Eve Off—Though Congress Is on the Job"
+excerpt: "For a third year, President Trump has given employees of the executive branch of the federal government a full day off on Christmas Eve, though Congress remained on the job."
+publishedDateTime: 2020-12-24T22:30:00Z
+originalUrl: "https://www.wsj.com/articles/trump-gives-some-federal-workers-christmas-eve-offthough-congress-is-on-the-job-11608831020"
+webUrl: "https://www.wsj.com/articles/trump-gives-some-federal-workers-christmas-eve-offthough-congress-is-on-the-job-11608831020"
+ampWebUrl: "https://www.wsj.com/amp/articles/trump-gives-some-federal-workers-christmas-eve-offthough-congress-is-on-the-job-11608831020"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-gives-some-federal-workers-christmas-eve-offthough-congress-is-on-the-job-11608831020"
 type: article
-quality: 135
+quality: 130
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -22,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trumpxmas.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://images.wsj.net/im-277969/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -108,6 +112,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump and Melania wear matching tuxedos in official Christmas portrait"
+    excerpt: "President Trump and first lady Melania donned coordinating tuxedos for their final official Christmas portrait, released Friday. Melania tweeted a photo of the pair standing in the Grand Staircase of the White House,"
+    publishedDateTime: 2020-12-18T23:24:00Z
+    webUrl: "https://nypost.com/2020/12/18/trump-and-melania-wear-matching-tuxedos-in-official-xmas-portrait/"
+    ampWebUrl: "https://nypost.com/2020/12/18/trump-and-melania-wear-matching-tuxedos-in-official-xmas-portrait/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/18/trump-and-melania-wear-matching-tuxedos-in-official-xmas-portrait/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trumpxmas.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Former Rep. Chris Collins released from prison after Trump pardon"
     excerpt: "Former New York Republican Rep. Chris Collins was released from a Pensacola prison on Tuesday, the same day President Trump granted him and several other high-profile individuals pardons."
     publishedDateTime: 2020-12-23T18:57:00Z
@@ -140,23 +160,7 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump Gives Some Federal Workers Christmas Eve Off—Though Congress Is on the Job"
-    excerpt: "For a third year, President Trump has given employees of the executive branch of the federal government a full day off on Christmas Eve, though Congress remained on the job."
-    publishedDateTime: 2020-12-24T22:30:00Z
-    webUrl: "https://www.wsj.com/articles/trump-gives-some-federal-workers-christmas-eve-offthough-congress-is-on-the-job-11608831020"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-gives-some-federal-workers-christmas-eve-offthough-congress-is-on-the-job-11608831020"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-gives-some-federal-workers-christmas-eve-offthough-congress-is-on-the-job-11608831020"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 130
-    images:
-      - url: "https://images.wsj.net/im-277969/social"
-        width: 1280
-        height: 640
-        isCached: true
 
-secured: "+zef7PS5417IiV0rR6Kt/J0ciVFoOqSKHmWIl9T3N3rPDq1xTaW8lsr2X21gIgPD2yX5T8XG30Ep5pVmSzbm0KC6LHwss/CcFbWeAixxQs0mBuelk0EJLmScWSs2GoVxXH2SI8ujeax2Cbn4l9U4KsmNPB/LOk4XH9YSwi0oMDamoSUGDMeOzPAkWwVkfXyzaIt3iXV7WAyLzJ6JmIKNA97QpPdsL7/IrzodMinK+pGBus2TjJ7FYKDugIHIm3V3bKrqqE/PFmjiVT9/in9ZjZRGva8kQRAtfEFJuv81TLC/WZ6VpFaGNB/23dsLMTlc8Gpl+uvACKMsVXu7uI1NuEwfU1ahwRqCWmArqkhLEUprC2xP3ex70XAcGY+AxpIMLqEfjgwvRd3zuGm6a6g/tHhOY9iyF/J6xzPHdtjRqFeyLaVG6RQj1jHlnnl5WHMokzRaC6jJ1eaGjtHYLGLVH9VJlOzihiJZnNcAJnrerGsBG3k91K8ZgrMY9+ImchXE27GeCqH+sADnpXtEtGwRWg==;XGDEq+pmYbJ1lHvqYEudHg=="
+secured: "/GmUNz63uRlObQ5jJVdGmLMChh3p21hZ10iPbS/eZOFiUWAelCp073bjorsSpT7egLlbp40iw91bOHuYIRcOjNEhvb4y1cGVcZryYLMlxJUS+mo4laOD8gL+mad3G6GNFiPLQhn+gsRfhF8AbgWmdS2rfkgPK3ADzSpXTgjQ6XAt5zdB6PkfAoXvJMjsUZuXZwdAESWWoSzQNc0qmnH0Rih1dWSf2v5+Q9USR3K6MQ5xA+YtwKyIcsE5m5s2fybNxwvqj6Z/imBTSVcCjpmw1zOJ7YXnFudQTwy/JOgbeppAQHXifD5m9z1CcqThGPqYXFVb6fEA0Qhvjc1f3zDhLY9QPDZIRKH8srtnybrru0Q=;cJnUmGlLp1f9CR+hBQiXfQ=="
 ---
 

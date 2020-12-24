@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-11-21-mike-pence-rallies-with-loeffler-perdue-in-cherokee-county.md",
+      "title": "Mike Pence rallies with Loeffler, Perdue in Cherokee County",
+      "excerpt": "Vice President Mike Pence traveled to Georgia today to attend rallies in support of incumbent Republican Sens. Kelly Loeffler and David Perdue, as those Senate runoff races begin to take the state's political center stage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khou.com/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698",
+      "originalUrl": "https://www.khou.com/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.khou.com/assets/WXIA/images/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khou.com/amp/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698",
+      "cdnAmpWebUrl": "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698",
+      "publishedDateTime": "2020-11-20T11:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHOU 11",
+        "domain": "khou.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-call-his-bluff-edward-norton-lays-out-poker-style-trump-analysis-we-never-expected.md",
       "title": "‘Call his bluff’: Edward Norton lays out poker-style Trump analysis we never expected",
       "excerpt": "Actor Edward Norton spelled out Donald Trump's lame-duck actions in poker terms on Friday, laying out the president's \"desperate endgame.\"",
@@ -1263,63 +1306,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-trumps-refusal-to-concede-creates-strange-gap-between-biden-and-harris-on-classified-intelligence.md",
-      "title": "Trump's refusal to concede creates strange gap between Biden and Harris on classified intelligence",
-      "excerpt": "Vice President-elect Kamala Harris took part in a classified briefing of the Senate Intelligence Committee this week and emerged in a strange position -- being more informed about current threats than President-elect Joe Biden but bound by congressional rules to keep that information from him.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ooSwoBiPky0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ooSwoBiPky0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 1901,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201116153545-05-biden-harris-economy-remarks-1116-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html",
-      "publishedDateTime": "2020-11-19T16:10:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

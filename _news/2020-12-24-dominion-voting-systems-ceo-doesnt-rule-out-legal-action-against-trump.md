@@ -175,6 +175,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Snowden allies see opening amid Trump clemency blitz"
+    excerpt: "Republican members of Congress who have spoken with the president recently view him as increasingly malleable to their suggestions in his closing days."
+    publishedDateTime: 2020-12-24T21:51:00Z
+    webUrl: "https://www.politico.com/news/2020/12/24/snowden-allies-trump-pardons-450360"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/7f/b8/4df041274859972d57fd8800eaa2/ap19308706751660-1-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "BBMAxCG1CJBZ7uqSPINAQEGQTOi3dCXt/hgFoeYKO0viaoRTVjhBnRMWgYZrmTDPqoZne2hplBIDz70SjQm2sRZvqK3pTDzEILjtEiYdr8NYKNjSYSikON7Z2JiHyvoOVsUdku8wChr8ybeVaZ5B4HbIPGyb3WaYy782migi0V+SpajUhFY1eHdcjeLdJw4Vs1gpN4592q9WwzznVV4hcFNQRSK85RukFI8iefL+0rHy49Ljcoy7OtbjEsXrpvI9ZSrOmkpq1+ru9FNNWynngnYECKZ8hMSJI40ZxrJ6jRmGj8EMrqVQlafS45qayiv9hea4R1G5ZNBWGpDdURVxhz11HLkEtuHPOk0h9fSKXV8=;uASFmbcQ3MfRCkbICAgCtA=="
 ---

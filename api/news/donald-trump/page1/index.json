@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-25-for-gods-sakes-get-out-of-the-way-trumps-former-national-security-adviser-urges-him-to-fund-the-us-military.md",
+      "title": "'For God's sakes, get out of the way': Trump's former national security adviser urges him to fund the US military",
+      "excerpt": "Former national security adviser John Bolton told Trump to \"get out of the way\" and said he was \"not a conservative.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/john-bolton-trump-get-out-of-the-way-ndaa-2020-12",
+      "originalUrl": "https://www.businessinsider.com/john-bolton-trump-get-out-of-the-way-ndaa-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe4e2caa644880018193562?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/john-bolton-trump-get-out-of-the-way-ndaa-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-bolton-trump-get-out-of-the-way-ndaa-2020-12?amp",
+      "publishedDateTime": "2020-12-24T13:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-prosecutors-have-mounting-amount-of-evidence-against-trump-michael-cohen-says.md",
       "title": "Prosecutors have \"mounting amount of evidence\" against Trump, Michael Cohen says",
       "excerpt": "\"What he is right now is very, very nervous and he is very scared,\" the president's former personal attorney told CBSN.",
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 281,
+      "heat": 301,
       "tags": null,
       "images": [
         {
@@ -1534,58 +1586,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-trump-raised-the-idea-of-imposing-martial-law-to-overturn-the-election-in-a-white-house-meeting-according-to-reports.md",
-      "title": "Trump raised the idea of imposing martial law to overturn the election in a White House meeting, according to reports",
-      "excerpt": "In a White House meeting Friday, deploying US troops to re-run the election was one of several wild ideas touted, reported multiple outlets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12",
-      "originalUrl": "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 237,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fdf3473c910a400192e893a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12?amp",
-      "publishedDateTime": "2020-12-20T04:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

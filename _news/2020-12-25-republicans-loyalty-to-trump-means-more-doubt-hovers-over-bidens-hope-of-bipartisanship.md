@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyal
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/?outputType=amp"
 type: article
 quality: 141
-heat: 281
+heat: 301
 published: true
 
 provider:
@@ -136,6 +136,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/fk0V3jTdM0znmmtIBR7USnL-RXg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KADLT5AIRFDM3OFMKUQLBT5LBU"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Republicans Buck Trump, Reject Proposal for $2,000 Stimulus Checks"
+    excerpt: "Republicans on Thursday shut down an effort by Democratic leadership in the House to add $2,000 payments to the latest stimulus package, breaking with President Donald Trump’s demand for such checks,"
+    publishedDateTime: 2020-12-24T21:34:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/f74/39e/75805b07042d28264174aae959cff36626-GettyImages-1230254465.rsquare.w1200.jpg"
+        width: 1200
+        height: 1200
         isCached: true
 
 secured: "QCBrr+UTdQ0s3IreVYMBlsNUGZWSsfCLEZrDU28A0QGjDtjH7NU0BoJ5bD68CMHambh3lHYurA6IudHfYPgS2+bqZyUlDLfZu654Un+v4CbRUlidFOmg+ofuou33oiqCJiO4tVKtzddoWKgpWxDb0vmJRjlc0v1nY6riMdlG0bE0ega2y4sXL0lF4L6lB8vvkqXRYRrxmisNfIR1C8/jLP+rHIsVDq9t0fGnuo48QUyNiHCHPfA8VU2WtGwO/ngZlH/OvIoXR8Go4evuxEoInXmJ+PHJGVRF/BHihjZ5wlvR8t+sEyg/WR+jBsTnn7JYcXNZ01lf5tbF64GC7O3xPN+L0dx9PJdnYWRxiMm0tqA=;G6BOmHeqgVZemLM0k/3pGA=="

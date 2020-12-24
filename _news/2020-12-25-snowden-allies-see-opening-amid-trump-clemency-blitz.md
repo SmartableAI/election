@@ -1,33 +1,32 @@
 ---
 category: news
-title: "Trump's been playing the pardon long game his entire presidency "
-excerpt: "More than a year and a half ago, special counsel Robert Mueller had caught on to what President Donald Trump might do with his pardon power.\n    \n"
-publishedDateTime: 2020-12-24T14:54:05Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bKBwIrKtzFk/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bKBwIrKtzFk/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/trump-mueller-pardons/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/trump-mueller-pardons/index.html"
+title: "Snowden allies see opening amid Trump clemency blitz"
+excerpt: "Republican members of Congress who have spoken with the president recently view him as increasingly malleable to their suggestions in his closing days."
+publishedDateTime: 2020-12-24T21:51:00Z
+originalUrl: "https://www.politico.com/news/2020/12/24/snowden-allies-trump-pardons-450360"
+webUrl: "https://www.politico.com/news/2020/12/24/snowden-allies-trump-pardons-450360"
 type: article
-quality: 175
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/191118113014-trump-mueller-split-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/7f/b8/4df041274859972d57fd8800eaa2/ap19308706751660-1-1.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -76,6 +75,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223215641-tom-reed-screengrab-for-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's been playing the pardon long game his entire presidency "
+    excerpt: "More than a year and a half ago, special counsel Robert Mueller had caught on to what President Donald Trump might do with his pardon power.\n    \n"
+    publishedDateTime: 2020-12-24T14:54:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bKBwIrKtzFk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/trump-mueller-pardons/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/trump-mueller-pardons/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191118113014-trump-mueller-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -175,21 +190,7 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Snowden allies see opening amid Trump clemency blitz"
-    excerpt: "Republican members of Congress who have spoken with the president recently view him as increasingly malleable to their suggestions in his closing days."
-    publishedDateTime: 2020-12-24T21:51:00Z
-    webUrl: "https://www.politico.com/news/2020/12/24/snowden-allies-trump-pardons-450360"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/7f/b8/4df041274859972d57fd8800eaa2/ap19308706751660-1-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
-secured: "ad/xHlq4DPFz1Oc8M86oWGiRkzB9mnuc/pAS9VQ01EMOz9yNCl1oog32LAlRKYQf1qcvmPzy6SQus7DnMd5Emd/eGF1Uq70DcEoIm65aWcEyhh+45hRk/sJ+0pxRbWmEe9BYPQoG4ucvKJbFhI64Jv/qfvHMJRIAt6tk4Ev50W8ttAaa7qlZhJ8Jx8kOV1Yh7WchJ+/+JSlpASzZBXkAOiGflcYex13R26oiP2P4tFzE8GF9W2I6d2D+5hWYPBB7L7H7iCP0LlBLp4QQVUGPUvTGOHYwA//ObFgzBIouo/HFDCkeEVW3bdH+xVQKU74tMG5lxsgOMQsLLzWrwwwSwvHk2Mlewp0Q1X+01SSTe44=;ORQpg/OHq4xOXeuLFH7+hg=="
+secured: "54rN/YVlbKP1GGbLXCzbLnyS1eJT8A0LOIlHtH11q36bOa+naES3F7R8p5R37lmkDP0jidfr19NAio3sy/zSY5Y4xrXmMfDIfFSVRCTgYGlrsJDaWCstDDXANJ50eqhxHvMVSMrzLuyIJhmdPlE/Usua8PohXV4nV8w19O495zX5kX1T3PXYWi+alTuaI0P8kQ+C/spI5gCL4eVEhjQbR+MFp/+jWAsT3hhg4lsTzYV0RkjJILnc4WjFwLdTo4xJzomEOxim0a7wZiy7rKzaTrWMzQTpTZmBre0FAIecC1Fc6gMBK3B5zzXSZrFG3mUTSYqyP3MqbNnW6xjBtatDnkPVsjb0QRaHB8X91G9UcZY=;pC7YV37/fhb3ROllQMTYtg=="
 ---
 

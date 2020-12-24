@@ -2,6 +2,62 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-11-11-andrew-mccarthy-trumps-post-recount-legal-options-depend-on-how-much-fraud-you-can-prove.md",
+      "title": "Andrew McCarthy: Trump's post-recount legal options depend on 'how much fraud you can prove'",
+      "excerpt": "After Georgia Secretary of State Brad Raffensperger ordered a hand recount of 2020 presidential election ballots cast in the Peach State, former federal prosecutor Andrew McCarthy joined \"Your World\" to discuss the potential impact.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zAIBg6V3q0M/georgia-recount-2020-election-trump-legal-options",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zAIBg6V3q0M/georgia-recount-2020-election-trump-legal-options",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4bd2c690-a9b9-47f4-a2a6-54b14610ca5f/b3af6cb5-a41e-4a4c-b9c1-5998502ca702/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/georgia-recount-2020-election-trump-legal-options.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-recount-2020-election-trump-legal-options.amp",
+      "publishedDateTime": "2020-11-11T14:56:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-trump-rips-gop-philadelphia-commissioner-al-schmidt-amid-election-fight-being-used-big-time.md",
       "title": "Trump rips GOP Philadelphia Commissioner Al Schmidt amid election fight: 'Being used big time'",
       "excerpt": "President Trump ripped Philadelphia City Commissioner Al Schmidt in a tweet on Wednesday, accusing the Republican official of ignoring his campaign’s claims of election fraud in Pennsylvania’s largest city.",
@@ -1295,62 +1351,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-trump-faith-adviser-bishop-harry-jackson-dead-at-66.md",
-      "title": "Trump faith adviser Bishop Harry Jackson dead at 66",
-      "excerpt": "Bishop Harry Jackson Jr., a Maryland pastor and unofficial faith adviser for President Trump, died Monday at age 66, his church announced.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8yMpCcQqhy4/bishop-harry-jackson-jr-dead-white-house-faith-adviser",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8yMpCcQqhy4/bishop-harry-jackson-jr-dead-white-house-faith-adviser",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-Bishop-Harry-Jackson-Trump.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bishop-harry-jackson-jr-dead-white-house-faith-adviser.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bishop-harry-jackson-jr-dead-white-house-faith-adviser.amp",
-      "publishedDateTime": "2020-11-10T07:48:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

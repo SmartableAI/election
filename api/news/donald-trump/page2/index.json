@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-20-trump-raised-the-idea-of-imposing-martial-law-to-overturn-the-election-in-a-white-house-meeting-according-to-reports.md",
+      "title": "Trump raised the idea of imposing martial law to overturn the election in a White House meeting, according to reports",
+      "excerpt": "In a White House meeting Friday, deploying US troops to re-run the election was one of several wild ideas touted, reported multiple outlets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 237,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fdf3473c910a400192e893a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12?amp",
+      "publishedDateTime": "2020-12-20T04:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-trump-downplays-impact-of-massive-hacking-questions-russia-involvement.md",
       "title": "Trump downplays impact of massive hacking, questions Russia involvement",
       "excerpt": "U.S. President Donald Trump, in his first comments about a widespread data breach across the U.S. government, on Saturday downplayed the cyber espionage campaign and questioned whether Russia was to blame as alleged by his own top diplomat.",
@@ -1527,54 +1579,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-trump-threatens-to-veto-defense-spending-bill-citing-china.md",
-      "title": "Trump threatens to veto defense spending bill, citing China",
-      "excerpt": "President Trump on Sunday reiterated his threat to veto a $740 billion defense spending bill, setting up a showdown with the Congress that passed the legislation last week by veto-proof margins.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/",
-      "originalUrl": "https://nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/Trump-ndaa-veto-3.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/amp/",
-      "publishedDateTime": "2020-12-13T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

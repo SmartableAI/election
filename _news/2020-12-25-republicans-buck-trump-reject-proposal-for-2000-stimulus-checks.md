@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Trump-Biden transition: Attorney Sidney Powell back at White House Sunday"
-excerpt: "Attorney Sidney Powell was back at the White House Sunday to push President Donald Trump and his administration to issue an executive order to seize voting machines for examinatio"
-publishedDateTime: 2020-12-21T11:33:00Z
-originalUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74713338"
-webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74713338"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
+title: "Republicans Buck Trump, Reject Proposal for $2,000 Stimulus Checks"
+excerpt: "Republicans on Thursday shut down an effort by Democratic leadership in the House to add $2,000 payments to the latest stimulus package, breaking with President Donald Trump’s demand for such checks,"
+publishedDateTime: 2020-12-24T21:34:00Z
+originalUrl: "https://nymag.com/intelligencer/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+webUrl: "https://nymag.com/intelligencer/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
 type: article
-quality: 119
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Magazine
+  domain: nymag.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://pyxis.nymag.com/v1/imgs/f74/39e/75805b07042d28264174aae959cff36626-GettyImages-1230254465.rsquare.w1200.jpg"
+    width: 1200
+    height: 1200
+    isCached: true
 
 related:
   - title: "Republicans’ loyalty to Trump means more doubt hovers over Biden’s hope of bipartisanship"
@@ -89,6 +91,17 @@ related:
         width: 2500
         height: 1669
         isCached: true
+  - title: "Trump-Biden transition: Attorney Sidney Powell back at White House Sunday"
+    excerpt: "Attorney Sidney Powell was back at the White House Sunday to push President Donald Trump and his administration to issue an executive order to seize voting machines for examinatio"
+    publishedDateTime: 2020-12-21T11:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
   - title: "Biden's incoming deputy chief of staff apologizes for calling Republicans 'a bunch of f---ers'"
     excerpt: "\"I used some words that I probably could have chosen better,\" O'Malley Dillon said on Thursday, per a Politico report."
     publishedDateTime: 2020-12-17T21:48:00Z
@@ -135,23 +148,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Republicans Buck Trump, Reject Proposal for $2,000 Stimulus Checks"
-    excerpt: "Republicans on Thursday shut down an effort by Democratic leadership in the House to add $2,000 payments to the latest stimulus package, breaking with President Donald Trump’s demand for such checks,"
-    publishedDateTime: 2020-12-24T21:34:00Z
-    webUrl: "https://nymag.com/intelligencer/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/f74/39e/75805b07042d28264174aae959cff36626-GettyImages-1230254465.rsquare.w1200.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
 
-secured: "FqVmAuTnsPzS6LamH0Oq3wA57cIYgnxFijkFDIpXXhoQL6xsTuRiN/m+EKaDf37uGA1hhSCoNRe4C08vGY9MRFyxrYOhjDnceHmE4CWLnCu1isj5qbqa8R3x+LyOWyqttEQ3bkdXF30RpyzpT9AlxA8IIavrEcbdJaxj8yqDs0vc1ryaAGgAyT/RwTSo7yZU4ywifiJSjhx0yZqHySO2upqQt3BqotE+gpGpakmvwPX9dniZyN86FAdqsDTp5H1FYOB0ew5xdbQiKQL0Rv0rBlV5dXsw5E5TpCv1DTO2GzItTCPTyOqYjArty9lGOVbQzndyoyGb5jGvuR/a+BQeXaZvSjtapkp4PS2fjirKqVPav35ngF4QiSGqTUHt6PEuHsGD5q8H3Oj/IX9/aOo42j11hj/uJgpI85oevsHHjrD3kNoF3Enr7BWAYrm5Aq4FxBngsUoXnbNvCxAJILy686VEu9troTDGKGqxF2bCGWH5lQUttnMGYIofRp16cZsjnQQx3RObO1mb6zd7H7/M1g==;Z1hz/fEu6f5H43tKeD8b1w=="
+secured: "r5/fUaORVZuxzlFajpLwDwAYKkyi9GJ0ppS8N5pzjdm81FGYQ/eLLSfBYMP7iSzFCgwHBKVU9M9rJPZAHYpEV+5SbJW5YOKkNjKfudmZ4QPg4V7IIoq2jsXQsOJUa71gsc6CpDWv9RZoDGKVJpHLtJUnWy37Xz4eJshleZE62sIctGs8WjbPx5lCl4tzq31fhzUGnrZx+dyo8KJ2xlDOqAk53/7XgDBrp91qrE1Sbdtu1Bm18irYVci/tS4BPpMrwAoUNZ5CFmtG4afaTcQNJm6G+AkwQP9hm+hYgZ3VcVkJoMCboFlMyVrAqzwsUpke4fpDUDZrxpihPYgOpc5bBjlONNpoCn8KZZPqsLwulcY=;xHRS3S/qeBcByzHEC9pT5w=="
 ---
 

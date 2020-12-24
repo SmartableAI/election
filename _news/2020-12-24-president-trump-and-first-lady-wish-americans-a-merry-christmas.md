@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Trump and Melania wear matching tuxedos in official Christmas portrait"
-excerpt: "President Trump and first lady Melania donned coordinating tuxedos for their final official Christmas portrait, released Friday. Melania tweeted a photo of the pair standing in the Grand Staircase of the White House,"
-publishedDateTime: 2020-12-18T23:24:00Z
-originalUrl: "https://nypost.com/2020/12/18/trump-and-melania-wear-matching-tuxedos-in-official-xmas-portrait/"
-webUrl: "https://nypost.com/2020/12/18/trump-and-melania-wear-matching-tuxedos-in-official-xmas-portrait/"
-ampWebUrl: "https://nypost.com/2020/12/18/trump-and-melania-wear-matching-tuxedos-in-official-xmas-portrait/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/18/trump-and-melania-wear-matching-tuxedos-in-official-xmas-portrait/amp/"
+title: "President Trump and first lady wish Americans a Merry Christmas"
+excerpt: "President Trump and First Lady Melania Trump issued a joint message wishing Americans a Merry Christmas on Thursday, noting the importance of the holiday and praising Americans' efforts during the pandemic."
+publishedDateTime: 2020-12-24T22:52:17Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHDCCU0QMx4/president-trump-melania-merry-christmas-message"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHDCCU0QMx4/president-trump-melania-merry-christmas-message"
+ampWebUrl: "https://www.foxnews.com/politics/president-trump-melania-merry-christmas-message.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-melania-merry-christmas-message.amp"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trumpxmas.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6703b896-3c41-447b-97dc-955b283136b0/7b4e8295-3b5b-4763-b30e-c113a394434c/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -60,22 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "President Trump and first lady wish Americans a Merry Christmas"
-    excerpt: "President Trump and First Lady Melania Trump issued a joint message wishing Americans a Merry Christmas on Thursday, noting the importance of the holiday and praising Americans' efforts during the pandemic."
-    publishedDateTime: 2020-12-24T22:52:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHDCCU0QMx4/president-trump-melania-merry-christmas-message"
-    ampWebUrl: "https://www.foxnews.com/politics/president-trump-melania-merry-christmas-message.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-melania-merry-christmas-message.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6703b896-3c41-447b-97dc-955b283136b0/7b4e8295-3b5b-4763-b30e-c113a394434c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "In official Christmas portrait, Melania Trump sports high-waisted pantsuit"
     excerpt: "The first lady on Saturday shared her official White House Christmas portrait with President Trump standing on the White House Grand Staircase."
     publishedDateTime: 2020-12-19T19:39:53Z
@@ -107,6 +94,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15e12a5d-e28b-45fd-a1f3-606289515e5c/d1994829-de47-4bcf-b359-b6477a0f80dc/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump and Melania wear matching tuxedos in official Christmas portrait"
+    excerpt: "President Trump and first lady Melania donned coordinating tuxedos for their final official Christmas portrait, released Friday. Melania tweeted a photo of the pair standing in the Grand Staircase of the White House,"
+    publishedDateTime: 2020-12-18T23:24:00Z
+    webUrl: "https://nypost.com/2020/12/18/trump-and-melania-wear-matching-tuxedos-in-official-xmas-portrait/"
+    ampWebUrl: "https://nypost.com/2020/12/18/trump-and-melania-wear-matching-tuxedos-in-official-xmas-portrait/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/18/trump-and-melania-wear-matching-tuxedos-in-official-xmas-portrait/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trumpxmas.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Former Rep. Chris Collins released from prison after Trump pardon"
     excerpt: "Former New York Republican Rep. Chris Collins was released from a Pensacola prison on Tuesday, the same day President Trump granted him and several other high-profile individuals pardons."
@@ -157,6 +160,6 @@ related:
         height: 640
         isCached: true
 
-secured: "+zef7PS5417IiV0rR6Kt/J0ciVFoOqSKHmWIl9T3N3rPDq1xTaW8lsr2X21gIgPD2yX5T8XG30Ep5pVmSzbm0KC6LHwss/CcFbWeAixxQs0mBuelk0EJLmScWSs2GoVxXH2SI8ujeax2Cbn4l9U4KsmNPB/LOk4XH9YSwi0oMDamoSUGDMeOzPAkWwVkfXyzaIt3iXV7WAyLzJ6JmIKNA97QpPdsL7/IrzodMinK+pGBus2TjJ7FYKDugIHIm3V3bKrqqE/PFmjiVT9/in9ZjZRGva8kQRAtfEFJuv81TLC/WZ6VpFaGNB/23dsLMTlc8Gpl+uvACKMsVXu7uI1NuEwfU1ahwRqCWmArqkhLEUprC2xP3ex70XAcGY+AxpIMLqEfjgwvRd3zuGm6a6g/tHhOY9iyF/J6xzPHdtjRqFeyLaVG6RQj1jHlnnl5WHMokzRaC6jJ1eaGjtHYLGLVH9VJlOzihiJZnNcAJnrerGsBG3k91K8ZgrMY9+ImchXE27GeCqH+sADnpXtEtGwRWg==;XGDEq+pmYbJ1lHvqYEudHg=="
+secured: "/5gOwGvmkfmnFrOdL/LKSOwCBL64K8PQuGR0S9nlpvT6fOFlNgfZZ8MywFTYnJZkm5gmlyLCxcluQbMvE7adfNBK/8tBJAjOOzPgjwmki90DLwV1eaB+J8AzkBJXfHw9criELqP/0L4/w5AiZ3y+70BYwd+6nof3ih0B/e+AoZG/zCs9IX7Ny0a+G0aWHb4p44M70glg10p9oXOPqb6q5PHKgamLD325bOXKgHWmbb87k45l3VXrDVwIhdE+MEEoxOl+f5r1b3XrzSl9aDFDrpQhYc5KCL1tkBS3CORwQv4SVj3+xq7hd3EVkOY+omYW3ngnUFmoW9eVvnTgpcXdvWycJSViIpV19cIHwkIEuhM=;ondY7yZj3Bkdya58w4GYaw=="
 ---
 

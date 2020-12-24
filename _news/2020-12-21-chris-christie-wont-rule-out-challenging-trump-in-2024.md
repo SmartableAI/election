@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/chris-christie-trump-2024-president
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-trump-2024-presidential-run.amp"
 type: article
 quality: 175
-heat: 295
+heat: 335
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1db342b1-2b8f-427b-b173-cfafcb085d3a/41496152-13b2-47eb-affd-77947ebd56f9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "President Trump and first lady wish Americans a Merry Christmas"
+    excerpt: "President Trump and First Lady Melania Trump issued a joint message wishing Americans a Merry Christmas on Thursday, noting the importance of the holiday and praising Americans' efforts during the pandemic."
+    publishedDateTime: 2020-12-24T22:52:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHDCCU0QMx4/president-trump-melania-merry-christmas-message"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-melania-merry-christmas-message.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-melania-merry-christmas-message.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6703b896-3c41-447b-97dc-955b283136b0/7b4e8295-3b5b-4763-b30e-c113a394434c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -126,6 +142,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/45268267395_b3677cbd08_o.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump Gives Some Federal Workers Christmas Eve Off—Though Congress Is on the Job"
+    excerpt: "For a third year, President Trump has given employees of the executive branch of the federal government a full day off on Christmas Eve, though Congress remained on the job."
+    publishedDateTime: 2020-12-24T22:30:00Z
+    webUrl: "https://www.wsj.com/articles/trump-gives-some-federal-workers-christmas-eve-offthough-congress-is-on-the-job-11608831020"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-gives-some-federal-workers-christmas-eve-offthough-congress-is-on-the-job-11608831020"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-gives-some-federal-workers-christmas-eve-offthough-congress-is-on-the-job-11608831020"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-277969/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "qF+nfiYGIqAPq3HNOB8B0zEFmmasLTdS8fPw9nCobo1JRc6oW7e5JO0wSRWnWIGnS/yZp9vQc0qkBbOMbFO5EilcCJmbAe0669LUZUOAGwNC8t6r4DsxzRCtvFaovMGE9SWf37rCOF/kgUYtc08ksJe2YeIAPCK0r036Ska8yVNDmR+fC93T4mcTFdZxVBt+r/5vtz6cagMyyQBlo6+2Uw6crwHGl7FA5pmp5gWm3oYcNcYjUTF+n5DPhqPzjzC1jecLmSVkF4YJ65FeaHPeEXJWob6aKSbgjPOlTCgJ5mpfKjWQE+ouoMJitp4V4n/kw2CxPdSSH+1L8p1W+A5uWjgHtUM7Y/we5YNKnsQbaAc=;IpT2DqKencosT6aKefWqFQ=="

@@ -2,6 +2,62 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-11-27-federal-appeals-court-denies-trump-campaign-effort-to-revive-pennsylvania-lawsuit-saying-claims-have-no-merit.md",
+      "title": "Federal appeals court denies Trump campaign effort to revive Pennsylvania lawsuit saying 'claims have no merit'",
+      "excerpt": "A federal appeals court denied the Trump campaign's effort to revive a federal lawsuit challenging the election results in Pennsylvania, ruling \"the claims have no merit.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h9kQVfOphD0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h9kQVfOphD0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201121185207-01-pennsylvania-mail-in-ballot-counting-1112-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/27/politics/trump-pennsylvania-lawsuit-appeal/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/trump-pennsylvania-lawsuit-appeal/index.html",
+      "publishedDateTime": "2020-11-27T11:57:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-donor-sues-pro-trump-group-for-25m-over-empty-promises-on-voter-fraud.md",
       "title": "Donor sues pro-Trump group for $2.5M over 'empty promises' on voter fraud",
       "excerpt": "A pro-Trump group is being sued by a donor for not delivering on promises to overturn the election results in President Trump's favor. ",
@@ -1310,58 +1366,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-corn-vs-cob-trump-pardons-lucky-thanksgiving-turkey-but-avoids-political-jokes.md",
-      "title": "Corn vs. Cob: Trump pardons 'lucky' Thanksgiving turkey but avoids political jokes",
-      "excerpt": "President Donald Trump partook in an annual holiday tradition – the pardoning of the National Thanksgiving Turkey, a turkey named Corn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/11/24/president-donald-trump-pardons-thanksgiving-turkey-skips-political-jokes/6406179002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/24/president-donald-trump-pardons-thanksgiving-turkey-skips-political-jokes/6406179002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/24/USAT/446ebf97-c3da-4737-a944-cc6c6e2b5dfb-turkey-pic.jpg?auto=webp&crop=3382,1902,x1,y161&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6406179002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6406179002",
-      "publishedDateTime": "2020-11-24T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
