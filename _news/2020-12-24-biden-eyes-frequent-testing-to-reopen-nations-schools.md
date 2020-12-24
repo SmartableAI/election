@@ -2,11 +2,13 @@
 category: news
 title: "Biden eyes frequent testing to reopen nation's schools"
 excerpt: "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country."
-publishedDateTime: 2020-12-23T19:55:00Z
-originalUrl: "https://www.politico.com/states/california/story/2020/12/23/biden-eyes-frequent-testing-to-reopen-nations-schools-1350426"
-webUrl: "https://www.politico.com/states/california/story/2020/12/23/biden-eyes-frequent-testing-to-reopen-nations-schools-1350426"
+publishedDateTime: 2020-12-23T20:06:00Z
+originalUrl: "https://www.politico.com/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
+webUrl: "https://www.politico.com/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
+ampWebUrl: "https://www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
 type: article
-quality: 115
+quality: 135
 heat: -1
 published: false
 
@@ -559,6 +561,6 @@ related:
         height: 550
         isCached: true
 
-secured: "ogFsthfoIQ1nY9whrZJvrEZvnBsJ///hMPrcn8EL9KdNDNcgpgKykmQ0sLQFIZPIu9HG2SPCUA8wJqXQ0C2lI2q/yssyruBPknmONh/25MhNQkbEVECKlcr2k0tt/L3V8j5NhVi1tD293LdCnUsEm1tWQPH4VeKqVrrraU0KLasW4QESWvRUz4oCgI2rAGZkPXAvLsB+lCbLTrnfe3nWJs2Vj4h3iwo4ZQ4uvc3t8A2yfquTtx+nJqnQjWMCdLceMbkR+tZGTHrfRXL2BkD0+GUMcZmqON5rSNsuPc6SumDHLcPRI/PiN2UHZ/asN+6sbuwgwPOWrWoux8qr1sXAcQPZkfy6CKdQ7YoZ5BJ16JfhVDWvAhXNwbtXiGaNfVa5ohSbfSFQ/C1n18TJAyFg+yHLRcFtMW6pS3gh9gtckKajHsq2IG96MwAJYcGt5iLj79SQNxshHAIKnlv/i/sKWFqhUzUmCdT21tIoTyRwprL0a9VA7tuoytLMYvQAJdxyXuzFtDuB0npj3jZapEMZpA==;t6yksLr7/EEpd8xQPuqLlQ=="
+secured: "tao6ecxRjRneMrQotVLUhK94Fshdx4QcFwx6kOc6NbeRxA9GhaPDYgBidTIyVv9zQLKeifVHma5y2HJMBlNuzfP01UApZm6BkodBD/G99fZO1ZWvs2vxwucKRpGDgyF5jHEmLiyICs/eY++rs3YutdPaeoSB1HCi30J2eze001ZfJYnIS/qShDXyah+quQAP2npk8xoqSWWPBFmhFBimmoj/4gRrYMjKI9TfRhEWEl6FRvRZB6bQ77SoV9DfqSiITJKNnu4+o+sNDiCpNimufDBXvnwE7yFBv93kz33gQ4pygy0jzyLQIxPWswoJpA6jOTAromp5Jh/aETtnzVmN/BLC8EU/HmfdUYnxXQCTsWU=;Io4KozvdGUej0vbxml/qsg=="
 ---
 

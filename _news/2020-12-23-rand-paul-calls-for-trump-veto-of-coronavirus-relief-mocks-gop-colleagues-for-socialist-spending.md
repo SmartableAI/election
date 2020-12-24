@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump pardons Maryland police officer imprisoned after releasing canine on suspect"
+    excerpt: "A former Maryland police officer who was sentenced to 10 years in prison was pardoned by President Trump on Wednesday. "
+    publishedDateTime: 2020-12-24T18:11:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DVt5Q1OyJt0/trump-pardons-maryland-police-officer-sentenced-to-10-years-after-releasing-canine-on-suspect"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-pardons-maryland-police-officer-sentenced-to-10-years-after-releasing-canine-on-suspect.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pardons-maryland-police-officer-sentenced-to-10-years-after-releasing-canine-on-suspect.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6f0e7bc-bea7-4e69-bdcf-854cc2a22130/d524100a-3def-4ea9-9787-a139c2462193/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump Issues 26 More Pardons, Including to Paul Manafort, Roger Stone"
     excerpt: "President Trump issued 26 more pardons to individuals including former campaign chairman Paul Manafort, longtime adviser Roger Stone and Charles Kushner, his son-in-law’s father."
     publishedDateTime: 2020-12-24T10:10:00Z

@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "UPDATE 1-Lawmakers block Trump's requested changes on coronavirus bill"
+    excerpt: "Republicans and Democrats in the U.S. House of Representatives on Thursday blocked attempts to alter a $2.3 trillion coronavirus aid and government spending package, leaving its status in doubt after President Donald Trump demanded extensive changes to the legislation."
+    publishedDateTime: 2020-12-24T14:31:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-idUSL1N2J40NK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J40NK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J40NK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545710097&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN10E"
+        width: 818
+        height: 545
+        isCached: true
   - title: "U.S. lawmakers block Trump bid to modify coronavirus aid, spending bill"
     excerpt: "Republicans and Democrats in the U.S. House of Representatives on Thursday blocked each other's efforts to modify a $2.3 trillion coronavirus aid and government spending bill that Congress passed on Monday."
     publishedDateTime: 2020-12-24T14:29:00Z

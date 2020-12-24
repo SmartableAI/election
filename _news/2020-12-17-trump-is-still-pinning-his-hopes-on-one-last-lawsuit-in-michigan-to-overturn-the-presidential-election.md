@@ -687,6 +687,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Congress scrambles as Trump upends COVID-19 deal"
+    excerpt: "Chaos and uncertainty loom over the holidays and it’s unclear at this point if there will be a government shutdown on Monday night at midnight."
+    publishedDateTime: 2020-12-24T18:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/congress-scrambles-trump-upends-covid-19-deal/story?id=74896598"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/congress-scrambles-trump-upends-covid-19-deal/story?id=74896598"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/congress-scrambles-trump-upends-covid-19-deal/story?id=74896598"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/capitol-building-gty-jef-201224_1608830133572_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump rushes to dole out plum appointments to allies on way out the door"
     excerpt: "While President Donald Trump has refused to acknowledge that he lost the election, he’s handling the lame-duck period as his predecessors did in one respect: awarding plum appointments to key allies,"
     publishedDateTime: 2020-12-18T16:59:00Z

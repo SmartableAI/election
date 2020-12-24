@@ -464,6 +464,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden eyes frequent testing to reopen nation's schools"
+    excerpt: "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country."
+    publishedDateTime: 2020-12-23T20:06:00Z
+    webUrl: "https://www.politico.com/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d6/1f/d14f15944a349a63f3aea61c185a/gettyimages-1276530953-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Kamala Harris Makes History as First Woman and Woman of Color as Vice President"
     excerpt: "Ms. Harris, the daughter of an Indian mother and Jamaican father, has risen higher in the country’s leadership than any woman ever before her."
     publishedDateTime: 2020-11-07T16:40:00Z
@@ -543,20 +559,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/11/us/politics/12dc-cabinet1/11dc-cabinet1-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Biden eyes frequent testing to reopen nation's schools"
-    excerpt: "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country."
-    publishedDateTime: 2020-12-23T19:55:00Z
-    webUrl: "https://www.politico.com/states/california/story/2020/12/23/biden-eyes-frequent-testing-to-reopen-nations-schools-1350426"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/d6/1f/d14f15944a349a63f3aea61c185a/gettyimages-1276530953-c.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "lZwZKGAK7+BJ0QWODgNSlxEPNab2pJHkN1n/MpbCNNlnihS8pdZK7m/SWHe2rIlG82N/rOFoyUSzhm+o7IHJd/Wx28plyzIJ1fsk++3bG42Ko9+IpeMbIkO8m0tQ+sMfi6vlQ1VATm0pnb9tXX0wJhA3O5wAZKOsHh3nlAypu1kCnAEDcX0OxQUVGdBlvgvV0yK1Pk/Rs+nU/bHJwwm/I5fpzyurLK+VauJSDsXdRsTBAK8bzbz6yA7tGA/ryyronIM0OfCvYMeQ9sZqywoJLi5bjc3yA8HORjLQoOz1ja8o3Rh2U2SvQzp9oM6z03ItxCrFHmUrbs5Oaoy2qfCiYbnpg+ANP4sFejzNuBKpKaULl7MM5AN2mn4vkk+aPalO9dI9squsUZL4whPs+/DLQJAkQqxrP2qNyMUCrzxTS00ijXF1GUQVW0vDBq/sHtvzOGhY02yLsy3IVq60W9qaboOwcpmn77ludCEWSvf3sFUj2Fl4yh5eoosjmOvDG7fqsoBS7DTjufuH3W/tWJOJ5Q==;AbxozA2KTCrFTZ1HFpJGBw=="
