@@ -60,7 +60,7 @@ related:
   - title: "U.S. lawmakers block Trump bid to modify coronavirus aid, spending bill"
     excerpt: "Republicans and Democrats in the U.S. House of Representatives on Thursday blocked each other's efforts to modify a $2.3 trillion coronavirus aid and government spending bill that Congress passed on Monday."
     publishedDateTime: 2020-12-24T14:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-coronavirus-congress-idUSW1N2HQ0M1"
+    webUrl: "https://www.reuters.com/article/usa-trump-coronavirus-congress/u-s-lawmakers-block-trump-bid-to-modify-coronavirus-aid-spending-bill-idUSW1N2HQ0M1"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HQ0M1"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HQ0M1"
     type: article

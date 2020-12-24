@@ -122,6 +122,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Meet 14 Joe Biden family members who could be powerful surrogates — or potential headaches — for the new Democratic president's administration"
+    excerpt: "Biden's political campaigns have always been family affairs. Now his siblings, children, and grandchildren are primed to make headlines when he's president."
+    publishedDateTime: 2020-12-24T15:27:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-family-hunter-jill-ashley-frank-james-valerie-caroline-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/5fe20739d366e600180998fb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "KibW8F+4YaoIW9jhOvcOa+YSjmB4sZKl8AoiDNWYMhaJ2lPlWQWKOcqLmKcf74WIaIBbMmnuJBzoe4I83CQ6JsK4otaQT9K6jPqflS/SqRQZf5yLhyCoG6219+h/IKEXXGss0q194N+VPzdouvHdqOwoCuj/7F97ntROsBd0XX/YXyWj69/tLX55ceVHEDrwQd62nd6MIZwVXC7j5uEgRY8R4cxveUxRFJDSmKAhR+2h8eQTv4FqvakIoVXfTQ/2AHVzsa2jpd74h5nWO9tguozrwyKGu22sKmjV8WeH9cxGGSXXeeK2OTMboQ+mVZt4tDZu2zuRzotah2J/Lua/z8WizbBSTqUQwGaFFMgrTH/QSLNoJ313gY0va902lXdTqT5QZSlRsq95pJY5/xxY34UxvY5zYDSacn55XrrK+6wT45thJKEZdEYh6aUhAH20NKlr9nr4DFmu7HxP1LK2SIA5eEymObsffh8LiKhj90hkYh+ryIAvYw7kKX+F+yI25ngyGZrLQbHod2Z5iv9wIw==;vcQsznlLZXHibjaCmaSczQ=="
 ---

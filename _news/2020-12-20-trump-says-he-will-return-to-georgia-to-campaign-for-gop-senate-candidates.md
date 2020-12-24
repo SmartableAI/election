@@ -236,6 +236,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "A Trump White House intern with autism changes laws and opens hearts"
+    excerpt: "Xavier DeGroat, a Michigan college student, just completed a landmark internship at the White House, adding to an already impressive list of accomplishments for someone who was once counted out because of his disability."
+    publishedDateTime: 2020-12-24T16:20:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-white-house-intern-autism-changes-laws-and-hearts"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-white-house-intern-autism-changes-laws-and-hearts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-white-house-intern-autism-changes-laws-and-hearts.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/xavier3.jpeg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "ihJeOZ3p0YriHRp0qvHLXnxME0gk4O6QSaBnMBlKvmhQlRnnxU5AgRn1abHuzINMpobPq/EKHpx2CBPhkdHMNpCdS9tNbbD3IwYA/o66sENR1wpUNnbkYAGcbiYWmkaC3w1CMKy57B5js32iB6mNXR0EPxpn/Y17dvE94PfNe3V4OwFvwJINBTU4wH8+XCkbaeFVzWo3WBKjKMhQJaUT9wXxpE9yH2TsBQl0q2IyVaai6S7ra7Jtjm5A0rP/m+3BxqKHTw70txYlz5PN5AV/wDy6iALqlGVrEzQCwSkZDJN80Cih0/0mpiwEKPyamHY3gWOmpDeLQOZbIi2CvIFrrYHUYew9SlYYQOPZ9rdRAdc=;3NQqHwSobdH8YgsVhTLhVw=="
 ---

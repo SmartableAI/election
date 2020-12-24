@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4009750001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4009750001"
 type: article
 quality: 161
-heat: 1761
+heat: 1781
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-army-navy-ap-jt-201221_1608577551294_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Could Trump declare martial law to try to steal the election?"
+    excerpt: "Could President Trump declare martial law, or seize voting machines, or try to otherwise steal the election by force in his last month in office? Any of those would be an extreme escalation of Trump’s already unprecedented strong-arm tactics in his effort to overturn the election results."
+    publishedDateTime: 2020-12-24T16:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/24/could-trump-declare-martial-law-try-steal-election/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/24/could-trump-declare-martial-law-try-steal-election/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/24/could-trump-declare-martial-law-try-steal-election/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AFOY5FSFNAI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Mike Pence just got a COVID-19 vaccine on live TV, as Trump sits out leading the US rollout"
     excerpt: "Pence was given the shot in Washington, DC, at 8 a.m. ET on Friday. He said that it didn't hurt and that it was safe and effective."

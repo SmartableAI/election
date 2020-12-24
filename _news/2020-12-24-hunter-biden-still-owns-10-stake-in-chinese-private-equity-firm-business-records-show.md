@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Hunter Biden still owns 10% stake in Chinese private equity firm, business records show"
-excerpt: "Hunter Biden still owns a 10% stake in a Chinese private equity firm, less than one month before his father, President-elect Joe Biden, is set to take office, business records reviewed by Fox News show. "
-publishedDateTime: 2020-12-24T00:51:23Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1iadLTsDUr4/hunter-biden-chinese-business-ownership"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1iadLTsDUr4/hunter-biden-chinese-business-ownership"
+excerpt: "Hunter Biden still owns a 10% stake in a Chinese private equity firm, less than one month before his father, President-elect Joe Biden, is set to take office, business records reviewed by Fox News show."
+publishedDateTime: 2020-12-24T01:07:00Z
+originalUrl: "https://www.foxnews.com/politics/hunter-biden-chinese-business-ownership"
+webUrl: "https://www.foxnews.com/politics/hunter-biden-chinese-business-ownership"
 ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-chinese-business-ownership.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-chinese-business-ownership.amp"
 type: article
-quality: 167
+quality: 127
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -48,6 +49,6 @@ related:
         height: 720
         isCached: true
 
-secured: "WB3dApk8xcPAzZq6awrOCHgiie4X0x0is+EpLrhhv0T9fgwCDY+hIcp1G+1SBOyd0ZPgsAME13r8eY2H1RBfdyasQl1Z06u6TUnq9G2nVCQ6kq+rlJ+MlzUwCV0fXWRAOEQfMj6IE+O4YSV5ZjsItp7X9cTljgqTdqam560Ltv+znYCACjP0hUWuqZaAnNa3BqydizZpaaWb6FnJz5o+UNmaafatMC+AQjTDKLPc8P8BjKOogD+sGGjrT7KB34PcEgPTHiY7+O7R1fXGKBQl/xteO+rUcRrbYJzDVh51+Qz8KvnScPLoOYOysMOc7wqMAcNygGlXjsn7Gr+1iVFFGUezj781ADrHCRmsfUOfHVI=;1TiJkb92vv3wuQY1WXLnPQ=="
+secured: "rano3dwiyHHB8e+duIMkQpXxOqIEGolBKcEqd6qHePiEUT0x8xmsM/uA7X3NiygfNOMhGtQGsHhINFV71ivK6JfAJb4NIDv8LRHURuRdVzBmDsMif5neaeCzHJq+k28inlSZECjAY/huzy0no033mQGEM2FMUUvoQhvfOa8q2/rnRuI7vUMCzXHF+zgp2Z88AVbSQJsnn3lG1nCWywa505nxTN36Cs7NCwMsjujwcR3ZyNNXlQGBmbuyiXXl0bvCnsoSQpIGyvmC6h25Wyxlges2M4e6Kv2gpATxS+xt4/kiwVW/DHeOivSkpwCFj7jOh4Qt3CmHbDhfEFTvPKSJB+KYFuOuv0oTj+EmEpiic8c=;IGyfy4IWcNDyStcSvG2nKQ=="
 ---
 

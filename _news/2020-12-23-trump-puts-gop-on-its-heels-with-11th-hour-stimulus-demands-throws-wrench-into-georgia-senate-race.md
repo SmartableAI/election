@@ -223,6 +223,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "A Trump White House intern with autism changes laws and opens hearts"
+    excerpt: "Xavier DeGroat, a Michigan college student, just completed a landmark internship at the White House, adding to an already impressive list of accomplishments for someone who was once counted out because of his disability."
+    publishedDateTime: 2020-12-24T16:20:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-white-house-intern-autism-changes-laws-and-hearts"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-white-house-intern-autism-changes-laws-and-hearts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-white-house-intern-autism-changes-laws-and-hearts.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/xavier3.jpeg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump says he will return to Georgia to campaign for GOP Senate candidates"
     excerpt: "The Jan. 5 election pits Democratic candidates Jon Ossoff and the Rev. Raphael Warnock against Republican incumbents Sens. David Perdue and Kelly Loeffler, respectively."
     publishedDateTime: 2020-12-20T13:36:00Z

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: This is always how the Trump presidency was going to end"
+    excerpt: "It was once said about a famous TV personality that when he left a job, he didn't burn bridges with his past employer, he napalmed them.\n    \n"
+    publishedDateTime: 2020-12-24T15:47:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dSqmWwM4uxc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/donald-trump-pardons-stimulus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/donald-trump-pardons-stimulus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223163736-02-trumps-1223-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump puts his bottom line before the country. And the GOP is helping him do it."
     excerpt: "Given what we know about Donald Trump, his refusal to accept loss as he begins a revenge purge of his perceived enemies should not surprise us. He is a tiny man, devoid of moral fiber and character, defined only by his self-interest.\n    \n"
     publishedDateTime: 2020-11-11T18:22:55Z

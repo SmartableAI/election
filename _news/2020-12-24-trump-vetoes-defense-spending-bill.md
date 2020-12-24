@@ -718,6 +718,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "A Conversation With Joe Biden"
+    excerpt: "It will be the first priority, the second priority and the third priority — to deal with Covid and bring down the spread and bring down the death rate,” President-elect Joe Biden told me during a phone call yesterday."
+    publishedDateTime: 2020-12-24T11:26:00Z
+    webUrl: "https://www.nytimes.com/2020/12/24/briefing/stella-tennant-the-midnight-sky-rebecca-luker.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/24/briefing/stella-tennant-the-midnight-sky-rebecca-luker.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/24/briefing/stella-tennant-the-midnight-sky-rebecca-luker.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/24/us/24AMBRIEFING-promo/24AMBRIEFING-promo-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "First U.S. vaccines, Electoral College affirms Biden win and Barr is out"
     excerpt: "Health care workers get first vaccines as Covid death toll tops 300,000. With the prick of a needle, the battle against Covid-19 took what could be a decisive turn Monday as the f"
     publishedDateTime: 2020-12-15T13:36:00Z

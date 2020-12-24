@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trum
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trump-meeting/index.html"
 type: article
 quality: 208
-heat: 1368
+heat: 1388
 published: true
 
 provider:
@@ -701,6 +701,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222140058-joe-biden-1219-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "A Conversation With Joe Biden"
+    excerpt: "It will be the first priority, the second priority and the third priority — to deal with Covid and bring down the spread and bring down the death rate,” President-elect Joe Biden told me during a phone call yesterday."
+    publishedDateTime: 2020-12-24T11:26:00Z
+    webUrl: "https://www.nytimes.com/2020/12/24/briefing/stella-tennant-the-midnight-sky-rebecca-luker.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/24/briefing/stella-tennant-the-midnight-sky-rebecca-luker.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/24/briefing/stella-tennant-the-midnight-sky-rebecca-luker.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/24/us/24AMBRIEFING-promo/24AMBRIEFING-promo-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump Vetoes Defense Spending Bill"
     excerpt: "The legislation passed with a veto-proof majority in the House and Senate, but it’s unclear whether Congress will override him."

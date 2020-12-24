@@ -64,6 +64,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's been playing the pardon long game his entire presidency "
+    excerpt: "More than a year and a half ago, special counsel Robert Mueller had caught on to what President Donald Trump might do with his pardon power.\n    \n"
+    publishedDateTime: 2020-12-24T14:54:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bKBwIrKtzFk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/trump-mueller-pardons/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/trump-mueller-pardons/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191118113014-trump-mueller-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Dominion Voting Systems CEO doesn't rule out legal action against Trump "
+    excerpt: "The chief executive officer of Dominion Voting Systems on Thursday did not rule out taking legal action against President Donald Trump as the election technology company has been the target of conspiracy theories about voter fraud after Trump's election loss to President-elect Joe Biden.\n    \n"
+    publishedDateTime: 2020-12-24T15:32:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NBJXHyG7lSA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/dominion-ceo-trump-legal-action-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/dominion-ceo-trump-legal-action-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217200015-dominion-voting-systems-ceo-john-poulos-ebof-intv-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Congressional backers cite cybersecurity provisions as they push Trump to sign defense bill"
     excerpt: "The massive defense bill that President Donald Trump is threatening to veto contains provisions for increased cybersecurity, which has taken on significantly more importance in the wake of a massive cyberattack on federal agencies at the hands of suspected Russian hackers.\n    \n"
     publishedDateTime: 2020-12-18T20:32:33Z
@@ -129,6 +161,6 @@ related:
         height: 550
         isCached: true
 
-secured: "IogNHB1ZiqhYe3EsOgHMGcldAd/eWySHpCekuY8XTKYyi5FpG6Z/Mm06h3XATBELtDNTfhF9dAp7IL8OKhh+UtPU3BRuWGqs2zjXWc3ZD+GBJ05UdM3kDM+5fmktSf8qqhvg80GBdlOxgrIatHaKUfHbA5PJZ2z7Ms6OqVEZPnknkoAHOsJyEi/Xfu1PXAS9DPkhthWcXApLULkxU58fMH5GAydGdaykCBx52QxJxUTBEtDY1nMHMttazYZhfvNxcUeIGB3U+0R4s6WL9tFdKqzh4U7rJF3AOwWs7yJ11cX69GVImCI4jpAsbpaIe5cSqQX7UIcTAtoodev7ZAyVjKrddsyEW3Z5ox3g/n+mWLI=;VI7HB90P+hOTWnsEd+rm7w=="
+secured: "Xr61RnfntidOhuqHQwVZFu/WJ/J89sLMj48CIGWDt0DAriQ5L0UoaexHZiXjNpYMwwjhHcJG1/fNLfLVfissih+01ja5t2+FpUFJlogUMEhr5gDzTyQvZcKgX25xFcNORJQtSnKqiGp6/Y5mL4wRcZvKImM5hBMeMpFSUfx65NfDLWUaP2oZK72fNYBpFPyq/9ItaUBcEXM0pfqRA5tOIScSNUA6JiN0YKjAmHsJA93zfbIzBn+9HHP27nuXm31u9HnaIZhOm41o0jjRlgz8O48EFjjACxTDi4rS/jED0E6PrfZyRlkdu5MdmNq8CfELUj4EQh8qdzw0lSLfvow1++xI3zN+ggWJpcgtM9wgsWqYrCIr7JDb+xkGVmA+YiAex3RrpxUxheEw3+TrecXCkC/EaC8mRM85ZSLRjwFVp4rH4oP7F/7Xj9/PkmFIr7/bOCOLp74wfYYcx1RIZzBtGFkrDcCiOnSyT6RDUPr0dsFvx16RT3Jp5pcJ03JMaBfdYjbeuGM0BXQqeG3woSLPCQ==;RW4/ykCdcoQai2CNcQFs9w=="
 ---
 
