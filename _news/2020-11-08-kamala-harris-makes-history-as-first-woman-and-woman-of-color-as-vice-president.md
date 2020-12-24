@@ -480,6 +480,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden eyes frequent testing to reopen nation's schools"
+    excerpt: "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country."
+    publishedDateTime: 2020-12-23T20:06:00Z
+    webUrl: "https://www.politico.com/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d6/1f/d14f15944a349a63f3aea61c185a/gettyimages-1276530953-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Pandemic Aid Bolsters Biden and Shows Potential Path for His Agenda in Congress"
     excerpt: "Working together with the president-elect, bipartisan groups in the Senate and House helped push feuding leaders to compromise. It could be a template for the future."
     publishedDateTime: 2020-12-21T21:49:00Z
@@ -543,20 +559,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/11/us/politics/12dc-cabinet1/11dc-cabinet1-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Biden eyes frequent testing to reopen nation's schools"
-    excerpt: "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country."
-    publishedDateTime: 2020-12-23T19:55:00Z
-    webUrl: "https://www.politico.com/states/california/story/2020/12/23/biden-eyes-frequent-testing-to-reopen-nations-schools-1350426"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/d6/1f/d14f15944a349a63f3aea61c185a/gettyimages-1276530953-c.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "o9FqDCx30S5pjexSGk1hRQxMWahrw6CiwSllegJt2NI+tvh/m6obA2nmDzYrjdYLfdCWgnMFyt2WZQZ6Y/cfBqhOsExhD9msR7H7ASzv1bJFB0PEWItKNQuhieN9UO270bQHlY+cnghA98da1gjTNnmM82cnmXI8VL5wDR/ekCDweaEdUDr64H1Yf/hAFlUkDz/xy2z7QmV4cy5SWG/SbeNb1iwl7VV2Mxg5yMe3ZVMEXN9i5SugBlpeR7MSAkb68iua5NRJ/5Ts0SQ7BA0/vrnIcAZ9gTMHZXHvagZ+pSGt03SLtLQdS4kgIFd7OxbAfHnx8WO36DCavTpNRyOQy1kU9T6LW3Z3aPjl1xHkoV8HEU37+FwTCVA+eMfX6M5pUUJQOwFHhXUpI64NHQOQSt/e4o44AC7GyawNNAP23v7IRRw+L+DuKvTfEIpN8xdR9/PO49nINMeBsRXeNd9CAIRKnFvShCYLB6szPtRiCWJ0UzOkIjORYVhAryb7o6zzYLHuUv+MlU59lxLLEa78cQ==;C4Tk9vodi0uIU5hw5HG2tA=="

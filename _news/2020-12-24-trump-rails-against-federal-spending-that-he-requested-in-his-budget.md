@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Ivanka Trump helps load food into cars of drivers in need"
-excerpt: "Presidential daughter Ivanka Trump helped load boxes of food into the cars of drivers who showed up at a South Florida drive-through food distribution event for those in need"
-publishedDateTime: 2020-12-23T16:46:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/ivanka-trump-helps-load-food-cars-drivers-74879427"
-webUrl: "https://abcnews.go.com/Politics/wireStory/ivanka-trump-helps-load-food-cars-drivers-74879427"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ivanka-trump-helps-load-food-cars-drivers-74879427"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ivanka-trump-helps-load-food-cars-drivers-74879427"
+title: "Trump rails against federal spending that he requested in his budget"
+excerpt: "The president singled out foreign aid and money for other programs in the video in which he threatened not to sign a sweeping coronavirus relief package."
+publishedDateTime: 2020-12-24T04:23:00Z
+originalUrl: "https://www.washingtonpost.com/politics/trump-spending-stimulus-congress/2020/12/23/7a04ebd8-4549-11eb-b0e4-0f182923a025_story.html"
+webUrl: "https://www.washingtonpost.com/politics/trump-spending-stimulus-congress/2020/12/23/7a04ebd8-4549-11eb-b0e4-0f182923a025_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/trump-spending-stimulus-congress/2020/12/23/7a04ebd8-4549-11eb-b0e4-0f182923a025_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-spending-stimulus-congress/2020/12/23/7a04ebd8-4549-11eb-b0e4-0f182923a025_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4RQS4SCFOUI6XMHEB4MCSI5AEU.jpg&w=1440"
+    width: 1440
+    height: 1045
     isCached: true
 
 related:
@@ -559,21 +559,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump rails against federal spending that he requested in his budget"
-    excerpt: "The president singled out foreign aid and money for other programs in the video in which he threatened not to sign a sweeping coronavirus relief package."
-    publishedDateTime: 2020-12-24T04:23:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-spending-stimulus-congress/2020/12/23/7a04ebd8-4549-11eb-b0e4-0f182923a025_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-spending-stimulus-congress/2020/12/23/7a04ebd8-4549-11eb-b0e4-0f182923a025_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-spending-stimulus-congress/2020/12/23/7a04ebd8-4549-11eb-b0e4-0f182923a025_story.html?outputType=amp"
+  - title: "Ivanka Trump helps load food into cars of drivers in need"
+    excerpt: "Presidential daughter Ivanka Trump helped load boxes of food into the cars of drivers who showed up at a South Florida drive-through food distribution event for those in need"
+    publishedDateTime: 2020-12-23T16:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ivanka-trump-helps-load-food-cars-drivers-74879427"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ivanka-trump-helps-load-food-cars-drivers-74879427"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ivanka-trump-helps-load-food-cars-drivers-74879427"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4RQS4SCFOUI6XMHEB4MCSI5AEU.jpg&w=1440"
-        width: 1440
-        height: 1045
+      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump vetoes major defense bill, despite strong backing in Congress"
     excerpt: "U.S. President Donald Trump vetoed a $740 billion bill setting policy for the Department of Defense on Wednesday, despite its strong support in Congress, raising the possibility that the measure will fail to become law for the first time in 60 years."
@@ -1233,6 +1233,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "vufwgM1+FIbFhMCtiLPksro74P2Au3D1sg/Pnq2KuLb9POy1+BH/xUFE06FoB+W5EpyjeJzKLD9gti6baapRZ81lEMcALH/zq3Hb16H8WIT7Ql0Qw66QFxf8/eVzUN+VBOtjPK+8Ew8OPxliPwtTCj2gHR5tKx3XWYphgS87NsT1f6VMdIBgaWAsAG+OinRDSc5nDEgaur3wjm/92uiAroT2h3CecATD9KONGACp7SMEBf0Ny9NXlc8d38R3LSbrXlu5Ik4ce6vth/8ZM0Tl43AgURiuueRu7z+zb2zBcnUJeesWOLdRYv6DRTzHIWPgGquBqK32OZNlX9IokGzENQTk5ahdaKgvO9voFLRhgWM=;WouvWJKVpNP5FJq6tOtDoQ=="
+secured: "gNi1Ii+wa22drxAgIjv3G1WVhREioXM3SAJbKM+jovtZJ5TYLBalwSPh3q4OhyQr8Y5U4LhqCY+FRb/nsoSLfx8J6vns6tRG3Mzj+Q+PMUuV1DFgkxSMsZokyEldHVuTaLIUlRI9GxV35TGJrt8924tLJozjwdy7H58ew2Qa8+udSPCjKMQ7GSrjn1/U6N6iM16vRcDk2Wrvqq0Isq3rKSqAGCU5TYiooaNHF4Djv+hQTDdDq6KX6uBZNQuQM8HuFxh6Hs4A3gE0iAgjhLACSmKJARkTXdakCQrm5fTYQ2At4oBV6EzxHjz6oHkenItw8pSZUkW6J0zCn2mzlf621++iGuQKaHhdssr6w/or8js=;zrRzgRraXuO85GFPaPM2Fg=="
 ---
 

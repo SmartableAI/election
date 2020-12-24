@@ -2,11 +2,13 @@
 category: news
 title: "Biden eyes frequent testing to reopen nation's schools"
 excerpt: "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country."
-publishedDateTime: 2020-12-23T19:55:00Z
-originalUrl: "https://www.politico.com/states/california/story/2020/12/23/biden-eyes-frequent-testing-to-reopen-nations-schools-1350426"
-webUrl: "https://www.politico.com/states/california/story/2020/12/23/biden-eyes-frequent-testing-to-reopen-nations-schools-1350426"
+publishedDateTime: 2020-12-23T20:06:00Z
+originalUrl: "https://www.politico.com/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
+webUrl: "https://www.politico.com/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
+ampWebUrl: "https://www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
 type: article
-quality: 115
+quality: 135
 heat: -1
 published: false
 
@@ -559,6 +561,6 @@ related:
         height: 550
         isCached: true
 
-secured: "74CwOG7Lzuw0dURuXxf5wVk5NT7tj/ybNc4Y4CvEjV53aN8yQ82+VnwgjC34NcZJbvK3wHiu5LBJX9NYITo5IgPvxRl582UqOnHmMIe85fMtg4Qul1jdlIq5Krcr62Uy8VEJ83pLYkwvkoJt3BuAFnrN03bVCYGLqkImf0ImqoR9hxSsII0X2DwoHaxd3K8e/cbqlFslB5DZMpxFgIXaGEcWwg6nSr05SnVnfK77fDK3YMslSAkIeMqndSb/EoYo5TJodxSr1aWZjsio4rSdd2cMSevqYI3+pjkm8RtRJDgBDZ7kNOlgi8fAwC4NPU0DhJHkUSkHni/MNCVk5uoVI/XdEEN78+pGDP0G+nUQe6E=;S5xHN4AxtRSRMtv0LOm9MQ=="
+secured: "30f91vGZwlkUWBbolS6gWV0lnmPmCeN5IvenhPu3em8mCtr14YUykRWy9ZK4vlXemlmXNxB24cAZ/qGTRLgM4BVpP5GeThOd3z110xhaUvQJvrNqtqJYvmhMKCdcl8wtt+XHrcycADAQ23N/v/rWWYvJ2Bz61amkf4QJ47otzQmXj41BwDQaAgBdVrBSKbuocCI21+Z5I531PrYgGXENYw4SvYi3VnzydjxJLO35CN4ZcXOH8mtIO5e+LkoyGw/1AwaClpbQsFQUlVSPX3TEpIYZ1hR49G8KZ3z9YPCZ/z04/3gR7b/v2unNyWQPBB4n2TgQuL8ZkgOBddQxcXtit7Y/kB+14s0TzePciRcMJCE=;K3TqZw73+aTVj73eSldf8Q=="
 ---
 

@@ -575,6 +575,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump rails against federal spending that he requested in his budget"
+    excerpt: "The president singled out foreign aid and money for other programs in the video in which he threatened not to sign a sweeping coronavirus relief package."
+    publishedDateTime: 2020-12-24T04:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-spending-stimulus-congress/2020/12/23/7a04ebd8-4549-11eb-b0e4-0f182923a025_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-spending-stimulus-congress/2020/12/23/7a04ebd8-4549-11eb-b0e4-0f182923a025_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-spending-stimulus-congress/2020/12/23/7a04ebd8-4549-11eb-b0e4-0f182923a025_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4RQS4SCFOUI6XMHEB4MCSI5AEU.jpg&w=1440"
+        width: 1440
+        height: 1045
+        isCached: true
   - title: "Trump vetoes major defense bill, despite strong backing in Congress"
     excerpt: "U.S. President Donald Trump vetoed a $740 billion bill setting policy for the Department of Defense on Wednesday, despite its strong support in Congress, raising the possibility that the measure will fail to become law for the first time in 60 years."
     publishedDateTime: 2020-12-23T20:51:00Z
@@ -670,6 +686,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/white-house-appointments-05-gty-llr-201215_1608077457132_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Defying Congress, Trump vetoes defense bill, threatens government shutdown"
+    excerpt: "U.S. President Donald Trump vetoed a bipartisan defense policy bill on Wednesday and raised the prospect that the United States could face a government shutdown during a pandemic, stirring new turmoil in Washington as he headed to Florida for Christmas."
+    publishedDateTime: 2020-12-24T01:26:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump/defying-congress-trump-vetoes-defense-bill-threatens-government-shutdown-idUSKBN28Y09U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Y09U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Y09U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545627285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN04O"
+        width: 817
+        height: 545
         isCached: true
   - title: "Markets on edge as Trump demands changes to US stimulus bill – business live"
     excerpt: "Jeffrey Halley of OANDA says investors are resisting pressing the sell button until the situation around the US stimulus deal is clearer. The President has stated that direct payments to families are too low and has suggested to Congress that it tries again."
@@ -1201,6 +1233,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "iJ5S2ol98i5DrS/6nGjFQl/FuaTgX29FKfeWd1/mUiu0+kO+pY22Cuq6NCLT8BAHqw5SqiMujUSw4TjNXISRcAXo19Ve8rCGdn95DfOD7bBr5QbJQUa0m82MvNm4JEz5DBmS2uTtWjfFUVIqwi+4jqX0FpzbtRHZmO9rPGpHQ+5WA8A7V8OLmhYcxDRz7S6fUNfCtYi3RTEbA/+4DZSAeAL4ppWuc/608/7PsnEgzpLASyyJky8DNz+rQCmtadFZdapzeBqb/tf9QzARHvDADkB2B+CX/IxsVItVraqQzhCOnK/sl+nInDFdm+TnXasjWlKf6n0fcE5LuWFprl1hKBmrTixTzZOI0+BysDdZpJ4=;f/CEPqBTc7uBI66pZjI70g=="
+secured: "vf3md3HYsQS8X7Mnl/DmE1kVhO7h54KxAg0HU306XjO0ytE8W/3Ud2ie8GtBUxA4qsXxTEgNuojVj9bgPXxs6yIT+vjsRL3H8rtTbNpu+Sp8F4KjvHO/AG9k/FoFvSAm22wj/b9COFYmUsPvBOgJa/qFsAEMqnF5aL4dYBeLmCY9RbezKV2PiBaXwBq1NIIGW4I9qk1geXLqoMFBId5vRwYUrODDW93xBqt0t9iqLqW2YjDysRqLzX6P+xqEQ9+j1E0CvFN4dmnY63sXjwfMtX6I/dEShTXufSfmJmgOeTccl8wK3CY0+3elbsjxVlMh65SDrxQwsB3XswyMWA+2uLqeR0pb4g3eP3gwGKPYvj4NhCKqE2IY0KK6hRt4H41FsYKiXsiXUeY69ulLDP/sm8BQhE0CCKjBB5HghqZybDt57eO53itC4DAVKHNqNyXXy0XGf4nCdnl1o1z6yRos2lchWAer+CfpFpQXlZtjQyexp0PYSS7xPNZqkHsFIwb7Xj8UIfaPJXrnpXdnevOS/g==;2VRhFfIvNWouZGwjf53JPA=="
 ---
 

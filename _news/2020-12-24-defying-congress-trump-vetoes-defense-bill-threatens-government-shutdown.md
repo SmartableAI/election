@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Ivanka Trump helps load food into cars of drivers in need"
-excerpt: "Presidential daughter Ivanka Trump helped load boxes of food into the cars of drivers who showed up at a South Florida drive-through food distribution event for those in need"
-publishedDateTime: 2020-12-23T16:46:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/ivanka-trump-helps-load-food-cars-drivers-74879427"
-webUrl: "https://abcnews.go.com/Politics/wireStory/ivanka-trump-helps-load-food-cars-drivers-74879427"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ivanka-trump-helps-load-food-cars-drivers-74879427"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ivanka-trump-helps-load-food-cars-drivers-74879427"
+title: "Defying Congress, Trump vetoes defense bill, threatens government shutdown"
+excerpt: "U.S. President Donald Trump vetoed a bipartisan defense policy bill on Wednesday and raised the prospect that the United States could face a government shutdown during a pandemic, stirring new turmoil in Washington as he headed to Florida for Christmas."
+publishedDateTime: 2020-12-24T01:26:00Z
+originalUrl: "https://www.reuters.com/article/usa-trump/defying-congress-trump-vetoes-defense-bill-threatens-government-shutdown-idUSKBN28Y09U"
+webUrl: "https://www.reuters.com/article/usa-trump/defying-congress-trump-vetoes-defense-bill-threatens-government-shutdown-idUSKBN28Y09U"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Y09U"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Y09U"
 type: article
-quality: 125
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545627285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN04O"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -559,6 +559,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Ivanka Trump helps load food into cars of drivers in need"
+    excerpt: "Presidential daughter Ivanka Trump helped load boxes of food into the cars of drivers who showed up at a South Florida drive-through food distribution event for those in need"
+    publishedDateTime: 2020-12-23T16:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ivanka-trump-helps-load-food-cars-drivers-74879427"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ivanka-trump-helps-load-food-cars-drivers-74879427"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ivanka-trump-helps-load-food-cars-drivers-74879427"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump rails against federal spending that he requested in his budget"
     excerpt: "The president singled out foreign aid and money for other programs in the video in which he threatened not to sign a sweeping coronavirus relief package."
     publishedDateTime: 2020-12-24T04:23:00Z
@@ -686,22 +702,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/ba65bdcb-bd84-406d-9b41-ba51b34ab13b-stephanie_mohr_1.jpg?auto=webp&crop=249,141,x0,y26&format=pjpg&width=1200"
         width: 1200
         height: 680
-        isCached: true
-  - title: "Defying Congress, Trump vetoes defense bill, threatens government shutdown"
-    excerpt: "U.S. President Donald Trump vetoed a bipartisan defense policy bill on Wednesday and raised the prospect that the United States could face a government shutdown during a pandemic, stirring new turmoil in Washington as he headed to Florida for Christmas."
-    publishedDateTime: 2020-12-24T01:26:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump/defying-congress-trump-vetoes-defense-bill-threatens-government-shutdown-idUSKBN28Y09U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Y09U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Y09U"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545627285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN04O"
-        width: 817
-        height: 545
         isCached: true
   - title: "Markets on edge as Trump demands changes to US stimulus bill – business live"
     excerpt: "Jeffrey Halley of OANDA says investors are resisting pressing the sell button until the situation around the US stimulus deal is clearer. The President has stated that direct payments to families are too low and has suggested to Congress that it tries again."
@@ -1233,6 +1233,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "vufwgM1+FIbFhMCtiLPksro74P2Au3D1sg/Pnq2KuLb9POy1+BH/xUFE06FoB+W5EpyjeJzKLD9gti6baapRZ81lEMcALH/zq3Hb16H8WIT7Ql0Qw66QFxf8/eVzUN+VBOtjPK+8Ew8OPxliPwtTCj2gHR5tKx3XWYphgS87NsT1f6VMdIBgaWAsAG+OinRDSc5nDEgaur3wjm/92uiAroT2h3CecATD9KONGACp7SMEBf0Ny9NXlc8d38R3LSbrXlu5Ik4ce6vth/8ZM0Tl43AgURiuueRu7z+zb2zBcnUJeesWOLdRYv6DRTzHIWPgGquBqK32OZNlX9IokGzENQTk5ahdaKgvO9voFLRhgWM=;WouvWJKVpNP5FJq6tOtDoQ=="
+secured: "f0IxRv0h+Qs7MbU5lNanvm4hymX45izpCc3pR6WMHpshoxVzOiWDkZT6zvBg0Bh8AMD7M0PUWXD7ATrqADnRyLsDKehsdHA5OpDxRf82XQ8Fl5ol1nMP2EeSBid8e6PYR1EQ5i7gl7UKbQPtQv3MjV6Mp1nvtcj9FKbSN23qPaJZ6e4QkZsG5assl9RfikQJGNAweXHfCz3rN6QCaxHvT0DCRK4t03zjxfzg2L3m8ZauckT3QVxiOhTCrlKMCeZF2LHeYKJnDRq3/+VUtQ8GjsjCBDOm4Q8bGejTI1Rz6ujQ+3kObveNEAV13I13D+Vx+y7bxGPEGWyhmv+qK62N+WgtURRq0XmQ+izCTQj1LQg=;s1y/71KTeBBjMk8YS6l+qQ=="
 ---
 
