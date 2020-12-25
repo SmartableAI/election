@@ -2,11 +2,11 @@
 category: news
 title: "Coronavirus aid at risk as U.S. lawmakers block Trump's changes"
 excerpt: "U.S. lawmakers on Thursday blocked attempts to alter a $2.3 trillion coronavirus aid and government spending package, rejecting President Donald Trump's demand for extensive changes and leaving benefits for millions of Americans at risk."
-publishedDateTime: 2020-12-24T20:37:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN28Y12E"
-webUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN28Y12E"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28Y12E"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28Y12E"
+publishedDateTime: 2020-12-25T06:26:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-trump-idAFKBN28Y12E"
+webUrl: "https://www.reuters.com/article/uk-usa-trump-idAFKBN28Y12E"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28Y12E"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28Y12E"
 type: article
 quality: 125
 heat: -1
@@ -25,8 +25,8 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545710097&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN10E"
-    width: 818
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201225&t=2&i=1545752768&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN10C"
+    width: 757
     height: 545
     isCached: true
 
@@ -335,6 +335,6 @@ related:
         height: 682
         isCached: true
 
-secured: "xD1rUn8JZE8/8kCQUOPSpOKBOngvoE+AKpCgOVC4fU7+60ecJsZS7++rLv1YQyWIfrKC90B4Tv+1DxqUq9hol2cVBKA0syTZOkNbQCD2cjfg3aJk6Y30I9nu7lzhMWM/sx883iLxYO6SNfWhwA7n7pWjLMoI0rRl3kldJ4kpbzSWIwqwy26XeSGnKs0NS+w7xsEaTtnZemRhZRGAeQGdVmyIvjm+AJqXM4DgXemHUY2hCxfJPgq0fk9Q5GyOjUfxRcP8b/fla3PE//7htEjT0d3v7c0Obkv0xBJS/F8oRscsqfBMrD1AveNRHf0vg4UfvYUmzNS/kJTKS+ic1ofR6v9ueK8RXfy6HbAnUsNIPhM=;Wb5jDx3k96yINK0b4qqcKg=="
+secured: "Sgv9OKeB6aLiZC6jyIPGcN7R6xFmG2XlMeOSWkKnB3sce0Gyj2tqfTxxySHxmC9ljZ828beaGGnzb5z1R8CtT1Cw+eGuViZcyXwBscfOr1cxBtUtXiQsjHw+peu4wBFaJroMtNYyOXXZBREO+pq2h4be9Ye6MfE1SdzL1OFZv7nYl6KP7ZbnQJOwonAwvl3+Ku1k0+45bqPL2ky18P6jyZCnWdwuCuHobOpKwzL7loGls3DyXvQlAEkcAv5s5L409urKxRrYTlavy3HgDs+bZsKyFHvVU/r2OA2BWOus/9CUdv/fPA7Ug/lpbiTwf203xmGvhYBchFhpv68B5ymxm/+VUVHcNSPL7n0u2DlZQ7s=;h5ditbDNAAwPcEfAmYPdSg=="
 ---
 

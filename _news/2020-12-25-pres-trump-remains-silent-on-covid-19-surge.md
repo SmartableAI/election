@@ -3,8 +3,8 @@ category: news
 title: "Pres. Trump remains silent on COVID 19 surge"
 excerpt: "Watch \"Pres. Trump remains silent on COVID 19 surge\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-12-25T07:36:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201225071228-pres-trump-remains-silent-on-covid-19-surge/"
-webUrl: "https://www.cbsnews.com/live/video/20201225071228-pres-trump-remains-silent-on-covid-19-surge/"
+originalUrl: "https://www.cbsnews.com/live/video/20201225101228-pres-trump-remains-silent-on-covid-19-surge/"
+webUrl: "https://www.cbsnews.com/live/video/20201225101228-pres-trump-remains-silent-on-covid-19-surge/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/25/story_08266561_1608880564.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/25/story_08271488_1608891364.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -1311,6 +1311,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "NNVcZbj2ucgBcRPGhWbt995K0cTUiIj8Q3Ipr6gCdn2Cxgm9+YydfgUtVbIx8Zi88NGbdN9NbsIJ5tERKdmCZ04++xGplGL2O0/N5deohzkjRvW3Gv53165SnU+T6GZnsCCYXEHxyZTYN1lpd7yUDHWfSOlT2QfQamm+4t5wuG64wlIKHL6L8bZkAXhjM5teWB0mRpeqXMqa2o+ozylTAOZQGpNq3Yq9Tq2bVVBB3wuHZ0MRpcVSQna42cWdwxFZFnlfmZ1cqVuu0a1IvJW1Os3uKFS3/4DNb/OZlVAsViZ2CRyrZYNTy+DKBOlc+TfEMzytzJ9vrzGqGP6FjpmjDWdfTpHQ3+8dKI0zX33GBs4=;w7U7Cjx74UXD4g8qZEaa7Q=="
+secured: "jCGYfbt+BdYI4rvHoTdlq3mrR3oQVELOSr9zgMbywVXtB/CoY84hcZfMg5eNiy+/cH85N+Qp/FA+TW82emeDFVMsGnRk4z15jXWqNnyWjI50jnXrGfrd3hdrGBnGlI9ihVkDVI6+68/tfHpb7j90yadHrcqiQiJDFIm+h5m/OCc1yzwu73pjDYew8GAFWrfvrLD5EEcmo9cK1lSfItYTkDNgSvL02NDwItG9C5YB3wKSZW0LE15MCfSWDe/jmFXiNcb5MdecKr+e1xScnIHNbXQTXyY/DyXnuWUG50Zk7jk3SFVRU9cytUIbMVqVn4P5njXzVJciTIUK/2ZP7x7/7mygTS8+f0WjWLgULbjq08w=;N+12Wy6/oEqLZLR+C6vF8w=="
 ---
 

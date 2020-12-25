@@ -465,6 +465,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden allies push back on sweeping plan to promote fair housing"
+    excerpt: "Donald Trump scrapped an Obama-era rule on housing. Some local officials hope Joe Biden doesn’t simply restore it as is."
+    publishedDateTime: 2020-12-25T09:30:00Z
+    webUrl: "https://www.politico.com/news/2020/12/25/biden-allies-push-back-fair-housing-450352"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/25/biden-allies-push-back-fair-housing-450352"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/25/biden-allies-push-back-fair-housing-450352"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/7f/7a/b541c1b94503bd85ea99a82800e1/ap18057784915598-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Kamala Harris Makes History as First Woman and Woman of Color as Vice President"
     excerpt: "Ms. Harris, the daughter of an Indian mother and Jamaican father, has risen higher in the country’s leadership than any woman ever before her."
     publishedDateTime: 2020-11-07T16:40:00Z

@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Trump golfs in Florida as COVID relief hangs in the balance"
-excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christmas Eve golf ing in Florida."
-publishedDateTime: 2020-12-24T23:52:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/trump-golfs-florida-covid-relief-hangs-balance-74903439"
-webUrl: "https://abcnews.go.com/US/wireStory/trump-golfs-florida-covid-relief-hangs-balance-74903439"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-golfs-florida-covid-relief-hangs-balance-74903439"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-golfs-florida-covid-relief-hangs-balance-74903439"
+excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christ"
+publishedDateTime: 2020-12-25T11:24:00Z
+originalUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html"
+webUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/US/WireAP_4a2c3ddd02384f8d900e999e2af8ccaf_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -277,6 +277,6 @@ related:
         height: 600
         isCached: true
 
-secured: "fPEP+BVpAMEK+n9QydUm4x8TTLVtIN7+zSdopXuhcrnBDHL+4JAx5KVqypcqwBdptJaqQVaNTAPPsIMRQgcxcoMOaPzfZJLKxhZBpLeyBXO1nXcs24u/kY36Z/r/JbTeoos3CqRUZl//xbX2WmN7aeygA15NHxSmgqZgvk/I/mpl5JARC3dKkBxTWLlAERfN7O78itJ/9sczi0wSKUYaero19XoTyw2Hg42LFV8bMGc2jNY4eS5IHYY/MjApBFgXWMKOJtUN4iAdfLNnWzxBnWymzg5RSHkPS2tBwCIk1N1aJGm0Lo+63DGQjF7CXrTvzzI+t3ligBQGEb1nOVGYq+UGQT5UZPdxEGcjQav1ooY=;rilN8PAutaIOXHfCr/FC8Q=="
+secured: "v6GYnuGkT5ZFFi2Wm9gr1D4xqpjr/S1gtbZn97uKNmtpPbgaWJzEpwsY7YiHSxME8a0erzYrFJzTuzhPdDAbfWA6rco3GGCdOA9NTDsTnpCLiWZFsS1INMSj6ExLr58uadQzKY9e2iygaWh0kIaxkJw6LsfCDxr5hp8jDXLihd9FnjmzRZ5YmBPYRsxZjWnypf7/16CkxBzV0e9luRKcSCO97HclnqVjUnRLjWivMn+taWyq1OxoDIgIzK8xQFbEWlNuzDeGAOYlWcrUG1HTjWajet7r3BrPdYHAtl7NXiuAb3a6JMDsSOuHiSzQ8jTEAvrmoOdBivpD/OogvLUPK6HNcaOc+4+o9JLCoIlGQ2c=;ce4l/MrdjUpv95qwDJBiyA=="
 ---
 
