@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/kamala-harris-prepares-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/kamala-harris-prepares-biden-legacy/index.html"
 type: article
 quality: 192
-heat: 872
+heat: 892
 published: true
 
 provider:
@@ -479,6 +479,22 @@ related:
       - url: "https://static.politico.com/7f/7a/b541c1b94503bd85ea99a82800e1/ap18057784915598-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "On Working With Congress, Biden Predicts Success Where Predecessors Failed"
+    excerpt: "The president-elect insisted that his skills and his history would enable him to secure bipartisan support for bold initiatives."
+    publishedDateTime: 2020-12-24T21:58:00Z
+    webUrl: "https://www.nytimes.com/2020/12/24/us/politics/biden-congress-deals.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/24/us/politics/biden-congress-deals.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/24/us/politics/biden-congress-deals.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/24/us/politics/24dc-biden/24dc-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Kamala Harris Makes History as First Woman and Woman of Color as Vice President"
     excerpt: "Ms. Harris, the daughter of an Indian mother and Jamaican father, has risen higher in the country’s leadership than any woman ever before her."

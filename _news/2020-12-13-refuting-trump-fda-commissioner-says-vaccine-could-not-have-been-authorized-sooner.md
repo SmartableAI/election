@@ -127,6 +127,22 @@ related:
         width: 877
         height: 545
         isCached: true
+  - title: "Donald Trump plays golf as Congress scrambles to salvage Covid relief bill"
+    excerpt: "Nancy Pelosi in talks with treasury secretary Steven Mnuchin after president’s demand for $2,000 stimulus checks left deal in disarray"
+    publishedDateTime: 2020-12-25T13:51:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/25/donald-trump-plays-golf-covid-relief-congress"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/25/donald-trump-plays-golf-covid-relief-congress"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/25/donald-trump-plays-golf-covid-relief-congress"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/2e010efc9cce70ab747b89e817abb0ba63678e43/0_103_3094_1857/master/3094.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a6c7cedeaa4b2498d5bc815bb052ad2b"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump signs stopgap funding bill; Congress awaits his approval of $892 billion COVID aid"
     excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week while Congress passed a massive COVID-19 aid and government funding package overnight aimed at bolstering the nation's pandemic response and its battered economy."
     publishedDateTime: 2020-12-23T04:13:00Z

@@ -31,19 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Nancy Pelosi plans to pull Trump out of the White House 'by his hair': Report"
-    excerpt: "The House Speaker is said to have made the comments during discussions regarding a coronavirus relief package."
-    publishedDateTime: 2020-12-22T22:54:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tuqs7ifuXZs/nancy-pelosi-pull-trump-out-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/nancy-pelosi-pull-trump-out-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nancy-pelosi-pull-trump-out-white-house.amp"
+  - title: "'Squad' introduces bill for $2,000 stimulus checks backed by Trump"
+    excerpt: "Members of the progressive \"Squad\" in the House on Thursday introduced their own bill to send $2,000 stimulus checks to Americans after President Trump this week demanded the $600 checks included in Congress' stimulus deal be increased to that number. "
+    publishedDateTime: 2020-12-25T17:38:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9LZqQjUCns/squad-stimulus-checks-bill-trump-funding-bill-on-hold"
+    ampWebUrl: "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4075735f-49a6-4cdc-891c-07958e64eca1/f8e5afac-7cf8-49c2-8e7a-12643376b67d/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump threatens to veto massive COVID bill, demands Congress make this big change"
+    excerpt: "President Trump slammed the recently passed $900 billion COVID-19 relief package as a \"disgrace\" on Tuesday evening, urging Congress amend the bill to increase the direct payments given to Americans."
+    publishedDateTime: 2020-12-23T00:29:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XMC6sUUUbPM/trump-threatens-to-veto-massive-covid-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-threatens-to-veto-massive-covid-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-threatens-to-veto-massive-covid-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/814418a1-08c9-4bed-b7c7-fdab0625619e/0c6fe622-1cb6-4599-a598-7e8010fec20a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -62,6 +78,54 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Pelosi-Sanders-AOC-THUMB.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Flashback: Trump in 2018 on massive spending bill 'nobody read': 'I will never sign another bill like this'"
+    excerpt: "President Trump on Tuesday blasted the bipartisan omnibus spending bill passed by Congress that wrapped up COVID relief in it, calling for larger stimulus checks and arguing no one in Congress had read the bill."
+    publishedDateTime: 2020-12-23T18:49:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NXt7eXVNPcc/flashback-trump-2018-spending-bill-nobody-read-never-sign-another-bill-like-this"
+    ampWebUrl: "https://www.foxnews.com/politics/flashback-trump-2018-spending-bill-nobody-read-never-sign-another-bill-like-this.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-trump-2018-spending-bill-nobody-read-never-sign-another-bill-like-this.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/441afbd8-3b5d-49bb-94e3-b15cc9c0ea76/37ad5e6f-62a0-407d-b794-e5e541d30bae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "'Squad' introduces bill for $2,000 stimulus checks backed by Trump"
+    excerpt: "Members of the progressive \"Squad\" in the House on Thursday introduced their own bill to send $2,000 stimulus checks to Americans after President Trump this week demanded the $600 checks included in Congress' stimulus deal be increased to that number."
+    publishedDateTime: 2020-12-25T17:42:00Z
+    webUrl: "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold"
+    ampWebUrl: "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1197873325.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump explodes stimulus bill, leaving Washington scrambling, millions in doubt"
+    excerpt: "President Trump sat out the first four quarters and then dropped a bomb in overtime, threatening to blow up the Christmas package that Congress had finally cobbled together to ease the pain of the pandemic."
+    publishedDateTime: 2020-12-24T08:12:00Z
+    webUrl: "https://www.foxnews.com/media/trump-explodes-stimulus-bill-leaving-washington-scrambling-millions-in-doubt"
+    ampWebUrl: "https://www.foxnews.com/media/trump-explodes-stimulus-bill-leaving-washington-scrambling-millions-in-doubt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-explodes-stimulus-bill-leaving-washington-scrambling-millions-in-doubt.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/howard-kurtz.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "R/jXZvvvfXfilp1+TIjdWwzCsXesg6Qm9JROSO3XeEJStXDvkpFMfrTv17n98Aa3O/+LQT6QEArLpTgTlSKzM9OuFl0KbdtOJZLjPYYAPNOLBRmE/LMXT+A1spErDUOWiHEcMExaB9Od5wj9ztl0Im25usbVi7XFuUxhnuxR5lLpDJ2ZCGcHg72UTEJyQ74V5kbyI5bObBlSQswIzEGinpTM7j2bZClKHjGblS8Nfs0O6f+f1Dc8wTf8vdP/t+YxVEN33GJAV0IQwPkKnOL9kVZlB12RTnaktYb+SBIjTgVaIAtGj0qIDGLO66hOBK9ndlKm1Z7rSgrotgpyfFjpInGfCXJLYrcbPEV4c+1plZ4=;UOsQL239uZ3uOWVQ8OAUvw=="

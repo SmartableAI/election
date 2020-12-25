@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-25-squad-introduces-bill-for-2000-stimulus-checks-backed-by-trump.md",
+      "title": "'Squad' introduces bill for $2,000 stimulus checks backed by Trump",
+      "excerpt": "Members of the progressive \"Squad\" in the House on Thursday introduced their own bill to send $2,000 stimulus checks to Americans after President Trump this week demanded the $600 checks included in Congress' stimulus deal be increased to that number. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9LZqQjUCns/squad-stimulus-checks-bill-trump-funding-bill-on-hold",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9LZqQjUCns/squad-stimulus-checks-bill-trump-funding-bill-on-hold",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp",
+      "publishedDateTime": "2020-12-25T09:38:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-26-live-updates-trump-briefed-on-nashville-explosion-that-appears-to-be-intentional.md",
+      "title": "Live Updates: Trump briefed on Nashville explosion that appears to be 'intentional'",
+      "excerpt": "President Trump has been briefed on an explosion in downtown Nashville on Christmas morning that is now under FBI investigation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional",
+      "originalUrl": "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecd9e63a-3171-4e5c-b5d5-c5700a01c640/58c53567-f05d-4d1a-a7d4-0812105618e0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp",
+      "publishedDateTime": "2020-12-25T09:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-whitmer-admits-to-sigh-of-relief-after-not-being-picked-as-biden-vp-though-she-would-have-said-yes.md",
       "title": "Whitmer admits to 'sigh of relief' after not being picked as Biden VP, though she would have said yes",
       "excerpt": "After then-candidate Joe Biden vowed to choose a woman as his running mate in the 2020 election, Michigan Gov. Gretchen Whitmer emerged as an early front-runner, but now that Biden has won, Whitmer admits she is glad she never got the call.",
@@ -663,7 +776,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 198,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -1090,6 +1203,62 @@
       ]
     },
     {
+      "path": "_news/2020-12-24-trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.md",
+      "title": "Trump’s 2014 tweet on government spending resurfaces amid COVID-19 bill deadlock",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zhm1dyA54i0/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zhm1dyA54i0/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 330,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp",
+      "publishedDateTime": "2020-12-24T01:48:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-exclusive-as-trump-leaves-office-50-of-americans-see-him-as-a-failed-president.md",
       "title": "Exclusive: As Trump leaves office, 50% of Americans see him as a 'failed' president",
       "excerpt": "Trump hasn't succeeded in overturning the election results but he has persuaded a third of Americans that Biden wasn't legitimately elected",
@@ -1191,170 +1360,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-were-going-to-save-lives-aid-groups-look-to-end-of-trumps-global-gag-rule.md",
-      "title": "'We're going to save lives': aid groups look to end of Trump's 'global gag rule'",
-      "excerpt": "Joe Biden’s election as US president raises reproductive funding hopes – but some caution that reversing rule’s impact will not be quick",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/global-development/2020/dec/24/were-going-to-save-lives-aid-groups-look-to-end-of-trumps-global-gag-rule",
-      "originalUrl": "https://www.theguardian.com/global-development/2020/dec/24/were-going-to-save-lives-aid-groups-look-to-end-of-trumps-global-gag-rule",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7aa3102b9c27418e25e7d050f7935df38c88f1d8/0_208_5310_3186/master/5310.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f3b025b0c10b1e6aadf9f1c938bde207",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/global-development/2020/dec/24/were-going-to-save-lives-aid-groups-look-to-end-of-trumps-global-gag-rule",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2020/dec/24/were-going-to-save-lives-aid-groups-look-to-end-of-trumps-global-gag-rule",
-      "publishedDateTime": "2020-12-23T22:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-roger-stone-reacts-to-pardon-calls-trump-greatest-president-since-abraham-lincoln.md",
-      "title": "Roger Stone reacts to pardon, calls Trump 'greatest president since Abraham Lincoln'",
-      "excerpt": "In his first television interview since being pardoned by President Trump, longtime Republican consultant Roger Stone sounded off on being absolved and praised the president as the greatest since Abraham Lincoln.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CFzfYVmDpUk/roger-stone-reacts-to-pardon-calls-trump-greatest-president-since-lincoln",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CFzfYVmDpUk/roger-stone-reacts-to-pardon-calls-trump-greatest-president-since-lincoln",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3aad1b5c-f865-4a8c-b449-bbe0d5fa0729/41d11d9b-8f05-44ae-934e-82fd8ee44704/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/roger-stone-reacts-to-pardon-calls-trump-greatest-president-since-lincoln.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roger-stone-reacts-to-pardon-calls-trump-greatest-president-since-lincoln.amp",
-      "publishedDateTime": "2020-12-23T18:34:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-anti-trump-lincoln-project-republican-says-hes-reregistering-democrat.md",
-      "title": "Anti-Trump Lincoln Project ‘Republican’ says he’s reregistering Democrat",
-      "excerpt": "A co-founder of the anti-Trump Lincoln Project group, a PAC formed by a group of “Never Trump” Rebublicans with the goal of aiding Joe Biden in the 2020 presidential race, said on his podcast that he will reregister as a member of the Democratic Party.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EuLyhzOLoS8/rino-anti-trump-lincoln-project-democrat",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EuLyhzOLoS8/rino-anti-trump-lincoln-project-democrat",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Steve-Schmidt-GETTY.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rino-anti-trump-lincoln-project-democrat.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rino-anti-trump-lincoln-project-democrat.amp",
-      "publishedDateTime": "2020-12-23T17:44:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

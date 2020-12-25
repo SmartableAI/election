@@ -144,6 +144,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ivanka Trump shares Christmas family photo"
+    excerpt: "Ivanka Trump on Friday wished her followers a Merry Christmas and tweeted a family photo from inside the White House as they prepare to leave public office. “Merry"
+    publishedDateTime: 2020-12-25T17:47:00Z
+    webUrl: "https://nypost.com/2020/12/25/ivanka-trump-shares-christmas-family-photo/"
+    ampWebUrl: "https://nypost.com/2020/12/25/ivanka-trump-shares-christmas-family-photo/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/25/ivanka-trump-shares-christmas-family-photo/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201225-ivanka-trump-christmas-photo.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump Gives Some Federal Workers Christmas Eve Off—Though Congress Is on the Job"
     excerpt: "For a third year, President Trump has given employees of the executive branch of the federal government a full day off on Christmas Eve, though Congress remained on the job."
     publishedDateTime: 2020-12-24T22:30:00Z

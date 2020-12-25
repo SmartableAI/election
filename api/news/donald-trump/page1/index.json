@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-26-live-updates-trump-briefed-on-nashville-explosion-that-appears-to-be-intentional.md",
+      "title": "Live Updates: Trump briefed on Nashville explosion that appears to be 'intentional'",
+      "excerpt": "President Trump has been briefed on an explosion in downtown Nashville on Christmas morning that is now under FBI investigation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional",
+      "originalUrl": "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecd9e63a-3171-4e5c-b5d5-c5700a01c640/58c53567-f05d-4d1a-a7d4-0812105618e0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp",
+      "publishedDateTime": "2020-12-25T09:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-what-watchdogs-trump-leaves-office-with-key-ig-jobs-vacant-across-govt.md",
       "title": "What watchdogs? Trump leaves office with key IG jobs vacant across govt",
       "excerpt": "At least a dozen of the 38 presidentially appointed inspectors general will not be in place at the end of the Trump administration.",
@@ -1507,58 +1564,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-trump-attempt-to-overturn-election-is-nutty-and-loopy-romney-says.md",
-      "title": "Trump attempt to overturn election is 'nutty and loopy', Romney says",
-      "excerpt": "Utah Republican decries flirtation with Flynn martial law plan and suggestion conspiracy theorist Powell could be special counsel",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney?ref=newsnetworks-dot-com",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney?ref=newsnetworks-dot-com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7d1d3b375fd2e6f241b830500e10ca3a1128bc06/0_139_4166_2499/master/4166.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=55712b8160d3857ce3ca12773beb4d92",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney",
-      "publishedDateTime": "2020-12-20T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump threatens to veto massive COVID bill, demands Congress make this big change"
-    excerpt: "President Trump slammed the recently passed $900 billion COVID-19 relief package as a \"disgrace\" on Tuesday evening, urging Congress amend the bill to increase the direct payments given to Americans."
-    publishedDateTime: 2020-12-23T00:29:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XMC6sUUUbPM/trump-threatens-to-veto-massive-covid-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-threatens-to-veto-massive-covid-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-threatens-to-veto-massive-covid-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/814418a1-08c9-4bed-b7c7-fdab0625619e/0c6fe622-1cb6-4599-a598-7e8010fec20a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump’s 2014 tweet on government spending resurfaces amid COVID-19 bill deadlock"
     excerpt: ""
     publishedDateTime: 2020-12-24T09:48:17Z
@@ -63,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "De Blasio says Trump administration played 'valuable role' in getting COVID-19 vaccine quickly"
+    excerpt: "New York City Mayor Bill de Blasio on Tuesday praised the Trump administration for its \"valuable role\" in getting a coronavirus vaccine out quickly -- after President-elect Joe Biden said the administration deserves credit."
+    publishedDateTime: 2020-12-22T17:57:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n209tAs7mNM/de-blasio-trump-administration-valuable-role-coronavirus-vaccine"
+    ampWebUrl: "https://www.foxnews.com/politics/de-blasio-trump-administration-valuable-role-coronavirus-vaccine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-trump-administration-valuable-role-coronavirus-vaccine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a609696-7a27-4713-89f3-eb466538688f/0202de8b-222e-4f3a-8a40-56bc57a240cc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
     excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature. "
     publishedDateTime: 2020-12-24T19:55:31Z
@@ -76,22 +76,6 @@ related:
     quality: 163
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Flashback: Trump in 2018 on massive spending bill 'nobody read': 'I will never sign another bill like this'"
-    excerpt: "President Trump on Tuesday blasted the bipartisan omnibus spending bill passed by Congress that wrapped up COVID relief in it, calling for larger stimulus checks and arguing no one in Congress had read the bill."
-    publishedDateTime: 2020-12-23T18:49:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NXt7eXVNPcc/flashback-trump-2018-spending-bill-nobody-read-never-sign-another-bill-like-this"
-    ampWebUrl: "https://www.foxnews.com/politics/flashback-trump-2018-spending-bill-nobody-read-never-sign-another-bill-like-this.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-trump-2018-spending-bill-nobody-read-never-sign-another-bill-like-this.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/441afbd8-3b5d-49bb-94e3-b15cc9c0ea76/37ad5e6f-62a0-407d-b794-e5e541d30bae/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -127,22 +111,6 @@ related:
         width: 1281
         height: 670
         isCached: true
-  - title: "Trump explodes stimulus bill, leaving Washington scrambling, millions in doubt"
-    excerpt: "President Trump sat out the first four quarters and then dropped a bomb in overtime, threatening to blow up the Christmas package that Congress had finally cobbled together to ease the pain of the pandemic."
-    publishedDateTime: 2020-12-24T08:12:00Z
-    webUrl: "https://www.foxnews.com/media/trump-explodes-stimulus-bill-leaving-washington-scrambling-millions-in-doubt"
-    ampWebUrl: "https://www.foxnews.com/media/trump-explodes-stimulus-bill-leaving-washington-scrambling-millions-in-doubt.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-explodes-stimulus-bill-leaving-washington-scrambling-millions-in-doubt.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/howard-kurtz.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
     excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature."
     publishedDateTime: 2020-12-25T05:23:00Z
@@ -158,6 +126,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "High Court Rejects as Premature a Bid to Block Trump Plan to Bar Illegal Immigrants in Redistricting"
+    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
+    publishedDateTime: 2020-12-18T20:25:00Z
+    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 120
+    images:
+      - url: "https://images.wsj.net/im-251063/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Covid-19 Live Updates: U.S. Hospitalizations Hit New Record; Trump to Tighten Rules on U.K. Air Arrivals"
     excerpt: "The number of newly reported Covid-19 infections and deaths in the U.S. fell Thursday from the day earlier, but hospitalizations hit another record."

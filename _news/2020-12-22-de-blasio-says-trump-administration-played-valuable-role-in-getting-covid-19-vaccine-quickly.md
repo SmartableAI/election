@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/de-blasio-trump-administration-valu
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-trump-administration-valuable-role-coronavirus-vaccine.amp"
 type: article
 quality: 163
-heat: 163
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,134 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Trump’s 2014 tweet on government spending resurfaces amid COVID-19 bill deadlock"
+    excerpt: ""
+    publishedDateTime: 2020-12-24T09:48:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zhm1dyA54i0/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
+    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature. "
+    publishedDateTime: 2020-12-24T19:55:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDUV8C4hI7Y/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump says Moderna COVID-19 vaccine distribution will start 'immediately,' signals to Europe vaccines to come"
+    excerpt: "President Trump on Friday said distribution of the Moderna vaccine will start \"immediately\" after it was \"overwhelmingly approved\" this week, while signaling to European nations that have been \"hit hard\" that coronavirus vaccines would be \"on their way\" to them, as well."
+    publishedDateTime: 2020-12-18T13:35:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mHqCzc-cOj0/trump-moderna-covid-19-vaccine-distribution-start-immediately-europe-to-come"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-moderna-covid-19-vaccine-distribution-start-immediately-europe-to-come.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-moderna-covid-19-vaccine-distribution-start-immediately-europe-to-come.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump praises COVID-19 vaccine rollout: 'Great miracle'"
+    excerpt: "President Trump on Tuesday said the distribution of the Pfizer and Moderna coronavirus vaccines is going \"very smoothly,\" calling the efforts of his administration to complete vaccines against COVID-19 a \"great miracle."
+    publishedDateTime: 2020-12-22T15:53:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-praises-covid-19-vaccine-rollout-great-miracle"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-praises-covid-19-vaccine-rollout-great-miracle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-praises-covid-19-vaccine-rollout-great-miracle.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump Asks Congress to Amend Covid-19 Package, Boost Direct Payments"
+    excerpt: "President Trump tweeted a video criticizing the $900 billion coronavirus relief legislation passed by Congress, calling for lawmakers to increase direct payments to Americans to $2,000 from $600."
+    publishedDateTime: 2020-12-23T00:57:00Z
+    webUrl: "https://www.wsj.com/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-207060/social"
+        width: 1281
+        height: 670
+        isCached: true
+  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
+    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature."
+    publishedDateTime: 2020-12-25T05:23:00Z
+    webUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "High Court Rejects as Premature a Bid to Block Trump Plan to Bar Illegal Immigrants in Redistricting"
+    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
+    publishedDateTime: 2020-12-18T20:25:00Z
+    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 120
+    images:
+      - url: "https://images.wsj.net/im-251063/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Covid-19 Live Updates: U.S. Hospitalizations Hit New Record; Trump to Tighten Rules on U.K. Air Arrivals"
+    excerpt: "The number of newly reported Covid-19 infections and deaths in the U.S. fell Thursday from the day earlier, but hospitalizations hit another record."
+    publishedDateTime: 2020-12-25T08:29:00Z
+    webUrl: "https://www.wsj.com/livecoverage/covid-2020-12-25"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 98
+    images:
+      - url: "https://images.wsj.net/im-278216/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "Jwyx67sbkeua8uITIOvDmbSMhE+1IfcGNU7xFeTkLrtKfXBsJidcgE69+8vmgxMiaWnBgUG6AmoEus1oI6D2ahtVmMknhMRe+iYodfK2R6qkNy+ABeDMDfoNy6sY5/VdYDo8ZCFfbWl4QJMtNq8R+foPX7Pw3Iu6jLnAJTjL4RPS6+NfmZEoQfV0Qhll1PvR3yAKmRMPdERX7es/uBldZ/RmE3paZCHf8YoA6Vi4VjmIu//aNoklzEm3a2NDeoRl3dlW+CudsbjqvidsoXvUBvJ1ymHptqK45TgCMUI07E128oipYjLQyRziRe8qnVqn/Hy07Ho/XSSm+lcVSHdZ4aeaH35JwcXxsZN16IdUd5c=;6KgjP2zW+dVyIQaBpnlDMg=="
 ---

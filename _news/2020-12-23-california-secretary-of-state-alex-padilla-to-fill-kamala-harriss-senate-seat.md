@@ -153,6 +153,20 @@ related:
         width: 1024
         height: 711
         isCached: true
+  - title: "California Governor Gavin Newsom Appoints Secretary of State Alex Padilla to Replace Vice President-elect Kamala Harris in US Senate"
+    excerpt: "Voto Latino celebrates California Secretary of State Alex Padilla becoming the first Latinx person to represent California in the United States Senate after Governor Gavin Newsom announced his appointment to the seat being vacated by Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-12-23T16:11:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/legislature-cabinets-state-governments-north-america-government-appointments-and-nominations-bf67176f653d30cc33f89e1fe08698b6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 74
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "California Gov. Newsom picks Alex Padilla to fill Kamala Harris's Senate seat"
     excerpt: "California Gov. Gavin Newsom announced Tuesday that he’s selected Secretary of State Alex Padilla to fill the seat of Sen. Kamala Harris once she’s sworn in as vice president."
     publishedDateTime: 2020-12-22T18:55:00Z
@@ -217,6 +231,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "California's first Latino senator: Alex Padilla picked to fill Kamala Harris' Senate seat"
+    excerpt: "California Gov. Gavin Newsom appoints Secretary of State Alex Padilla to fill the U.S. Senate seat being vacated by Vice President-elect Kamala Harris"
+    publishedDateTime: 2020-12-22T22:10:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/12/22/newsom-taps-alex-padilla-senate-seat-vacancy-left-kamala-harris/4011660001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4011660001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4011660001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/media/2020/09/09/Norwich/ghows-CT-200819975-48378334.jpg?auto=webp&crop=3000,1688,x0,y218&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "In Replacing Kamala Harris in the Senate, Gavin Newsom Is Going to Have to Disappoint Someone"
     excerpt: "Newsom could avoid the political headache — and leave the choice in the hands of the voters — by declaring he isn’t meant to be a kingmaker."
     publishedDateTime: 2020-12-21T18:20:00Z
@@ -263,6 +293,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "California Gov. Gavin Newsom Names State Elections Chief Alex Padilla to Fill Remainder of Kamala Harris' US Senate Term"
+    excerpt: "California Gov. Gavin Newsom names state elections chief Alex Padilla to fill remainder of Kamala Harris' US Senate term."
+    publishedDateTime: 2020-12-23T00:27:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-12-22/gauge-of-us-consumer-confidence-slides-again-in-december-to-886-with-christmas-approaching"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 25
 
 secured: "Ok1DQfZgoiXWaM4+jEe6jnwshqIWLBTpt7N5NWIcFtey3L13RnVGBqsTavbremtary7xfrtkQB62DIS78w2wT1mWvsKaQ50A7+ViCBsdx7g9QvB3mQhO3uPY0KtrPtvCXd3rFsmWfhi2I15/6yTVJ1PNws4mmeqm2ZsvGicK2AWVJUD4+M7dWJ6nRIHijAt5HLFPwgptNu56ugaGb/XCovtIebUWqcKfcqTBu2yRcnv+KN3hxCfoMUYmPCvx5A3K5FTFULN8KbJfP1/eD6dayzE9eCDTjoO4rkDKFvg73XjpilaP8xjzZCBayvyGSnvSZo/jJrn2rQC2M9BIfI5N4Zo3UUWHIOL/V8l67Tgi4h9/OKLt/KAAFBAYeK5GazzPdFQGDv5B2Gg/Y8GFO7IRZC+/DVgn/iwrPG90CDZbofLxwRuSCWHIy+VotBRlHC7dqce7Da1IW2+RcZArAmYOOi/snNHvBpALs//ORkGCw2mzYEs8IFEIeb6/0iPSgPo1TZKlL4qhB+VfGs6vylH3vg==;o72/HLUQBNqGNncTZLPB6Q=="
 ---

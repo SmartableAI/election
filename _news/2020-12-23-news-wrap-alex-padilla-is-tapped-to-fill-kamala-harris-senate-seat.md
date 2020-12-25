@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/show/news-wrap-alex-padilla-is-tapp
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat"
 type: article
 quality: 125
-heat: 425
+heat: 485
 published: true
 
 provider:
@@ -153,6 +153,20 @@ related:
         width: 1024
         height: 711
         isCached: true
+  - title: "California Governor Gavin Newsom Appoints Secretary of State Alex Padilla to Replace Vice President-elect Kamala Harris in US Senate"
+    excerpt: "Voto Latino celebrates California Secretary of State Alex Padilla becoming the first Latinx person to represent California in the United States Senate after Governor Gavin Newsom announced his appointment to the seat being vacated by Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-12-23T16:11:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/legislature-cabinets-state-governments-north-america-government-appointments-and-nominations-bf67176f653d30cc33f89e1fe08698b6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 74
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "California Gov. Newsom picks Alex Padilla to fill Kamala Harris's Senate seat"
     excerpt: "California Gov. Gavin Newsom announced Tuesday that he’s selected Secretary of State Alex Padilla to fill the seat of Sen. Kamala Harris once she’s sworn in as vice president."
     publishedDateTime: 2020-12-22T18:55:00Z
@@ -217,6 +231,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "California's first Latino senator: Alex Padilla picked to fill Kamala Harris' Senate seat"
+    excerpt: "California Gov. Gavin Newsom appoints Secretary of State Alex Padilla to fill the U.S. Senate seat being vacated by Vice President-elect Kamala Harris"
+    publishedDateTime: 2020-12-22T22:10:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/12/22/newsom-taps-alex-padilla-senate-seat-vacancy-left-kamala-harris/4011660001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4011660001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4011660001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/media/2020/09/09/Norwich/ghows-CT-200819975-48378334.jpg?auto=webp&crop=3000,1688,x0,y218&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "In Replacing Kamala Harris in the Senate, Gavin Newsom Is Going to Have to Disappoint Someone"
     excerpt: "Newsom could avoid the political headache — and leave the choice in the hands of the voters — by declaring he isn’t meant to be a kingmaker."
     publishedDateTime: 2020-12-21T18:20:00Z
@@ -263,6 +293,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "California Gov. Gavin Newsom Names State Elections Chief Alex Padilla to Fill Remainder of Kamala Harris' US Senate Term"
+    excerpt: "California Gov. Gavin Newsom names state elections chief Alex Padilla to fill remainder of Kamala Harris' US Senate term."
+    publishedDateTime: 2020-12-23T00:27:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-12-22/gauge-of-us-consumer-confidence-slides-again-in-december-to-886-with-christmas-approaching"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 25
 
 secured: "uYgpuLRx+TSmq0/aRt98VzdAswoQNU5KX+ud5eR2b60EM5z0txpXiZteaByKcUqECSFkyDKGX9WraBBm2DXr3Js58QRIwA9Xe7aeUC7TX1bDTOPguXXqwmeqIlL99cJucf6LCmWP6C/YBXZeGzqtdJ0M9rt8Wt2pmK9kF9dVn+wz5IaRCqcsspxB9JkXREAha2W9MeElA6uCjfLN7rFhavADyF4FE/39EfuHy/w9/7L2cc/0mZUJK5C8PI9XUyJ4DMITyAjyB7hGrCDS6miXSNGi1q0sJtALE+lRVizF7WJo+TkyqRvX23k3z+eCDzU0VkiB6Aqru35Xz5tk8Ql58FMeBIjU81q3093iVEJjFlx3adpmypJxbN23MevjzuYh+0lfJmNWe/hFP1M61wZ7bbJJNN/6oggzk+kVQXdckyx57nmeJxkWN7jD5ivG5T9dpbqTpKpkwLS4msfrOBfgPy3Iz92Xr0j3p9ZVFqPXyHBVfIQjRvtHEEzmoXRCROTzWLD+LY+yfc26q/O2b8RYWQ==;w7t1KVARYvwVs/Eu6E/U+A=="
 ---

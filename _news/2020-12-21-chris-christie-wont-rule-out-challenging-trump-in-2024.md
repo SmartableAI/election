@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/chris-christie-trump-2024-president
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-trump-2024-presidential-run.amp"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1db342b1-2b8f-427b-b173-cfafcb085d3a/41496152-13b2-47eb-affd-77947ebd56f9/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Ivanka Trump shares Christmas family photo"
+    excerpt: "Ivanka Trump on Friday wished her followers a Merry Christmas and tweeted a family photo from inside the White House as they prepare to leave public office. “Merry"
+    publishedDateTime: 2020-12-25T17:47:00Z
+    webUrl: "https://nypost.com/2020/12/25/ivanka-trump-shares-christmas-family-photo/"
+    ampWebUrl: "https://nypost.com/2020/12/25/ivanka-trump-shares-christmas-family-photo/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/25/ivanka-trump-shares-christmas-family-photo/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201225-ivanka-trump-christmas-photo.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "In official Christmas portrait, Melania Trump sports high-waisted pantsuit"
     excerpt: "The first lady on Saturday shared her official White House Christmas portrait with President Trump standing on the White House Grand Staircase."

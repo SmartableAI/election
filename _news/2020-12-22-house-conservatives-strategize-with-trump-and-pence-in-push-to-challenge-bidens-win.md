@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trum
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trump-meeting/index.html"
 type: article
 quality: 208
-heat: 1428
+heat: 1448
 published: true
 
 provider:
@@ -523,6 +523,22 @@ related:
     quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110115300-capitol-building-inauguration-stage-1109-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Execution date of only woman on federal death row on hold, potentially into the Biden administration"
+    excerpt: "The only woman on the federal death row may see her execution date pushed to when the administration of President-elect Joe Biden takes over, after a federal judge said Thursday the Department of Justice could not yet reset the date.\n    \n"
+    publishedDateTime: 2020-12-25T16:50:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4JnOn7jtwdk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/25/politics/federal-execution-delay-lisa-montgomery/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/25/politics/federal-execution-delay-lisa-montgomery/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017080958-lisa-montgomery-mugshot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

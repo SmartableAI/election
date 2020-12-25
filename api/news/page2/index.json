@@ -2,6 +2,170 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-24-were-going-to-save-lives-aid-groups-look-to-end-of-trumps-global-gag-rule.md",
+      "title": "'We're going to save lives': aid groups look to end of Trump's 'global gag rule'",
+      "excerpt": "Joe Biden’s election as US president raises reproductive funding hopes – but some caution that reversing rule’s impact will not be quick",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/global-development/2020/dec/24/were-going-to-save-lives-aid-groups-look-to-end-of-trumps-global-gag-rule",
+      "originalUrl": "https://www.theguardian.com/global-development/2020/dec/24/were-going-to-save-lives-aid-groups-look-to-end-of-trumps-global-gag-rule",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/7aa3102b9c27418e25e7d050f7935df38c88f1d8/0_208_5310_3186/master/5310.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f3b025b0c10b1e6aadf9f1c938bde207",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/global-development/2020/dec/24/were-going-to-save-lives-aid-groups-look-to-end-of-trumps-global-gag-rule",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2020/dec/24/were-going-to-save-lives-aid-groups-look-to-end-of-trumps-global-gag-rule",
+      "publishedDateTime": "2020-12-23T22:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-roger-stone-reacts-to-pardon-calls-trump-greatest-president-since-abraham-lincoln.md",
+      "title": "Roger Stone reacts to pardon, calls Trump 'greatest president since Abraham Lincoln'",
+      "excerpt": "In his first television interview since being pardoned by President Trump, longtime Republican consultant Roger Stone sounded off on being absolved and praised the president as the greatest since Abraham Lincoln.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CFzfYVmDpUk/roger-stone-reacts-to-pardon-calls-trump-greatest-president-since-lincoln",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CFzfYVmDpUk/roger-stone-reacts-to-pardon-calls-trump-greatest-president-since-lincoln",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3aad1b5c-f865-4a8c-b449-bbe0d5fa0729/41d11d9b-8f05-44ae-934e-82fd8ee44704/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/roger-stone-reacts-to-pardon-calls-trump-greatest-president-since-lincoln.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roger-stone-reacts-to-pardon-calls-trump-greatest-president-since-lincoln.amp",
+      "publishedDateTime": "2020-12-23T18:34:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-anti-trump-lincoln-project-republican-says-hes-reregistering-democrat.md",
+      "title": "Anti-Trump Lincoln Project ‘Republican’ says he’s reregistering Democrat",
+      "excerpt": "A co-founder of the anti-Trump Lincoln Project group, a PAC formed by a group of “Never Trump” Rebublicans with the goal of aiding Joe Biden in the 2020 presidential race, said on his podcast that he will reregister as a member of the Democratic Party.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EuLyhzOLoS8/rino-anti-trump-lincoln-project-democrat",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EuLyhzOLoS8/rino-anti-trump-lincoln-project-democrat",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Steve-Schmidt-GETTY.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rino-anti-trump-lincoln-project-democrat.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rino-anti-trump-lincoln-project-democrat.amp",
+      "publishedDateTime": "2020-12-23T17:44:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-doj-officials-in-ongoing-discussions-about-hunter-biden-special-counsel-some-say-its-warranted-sources.md",
       "title": "DOJ officials in 'ongoing discussions' about Hunter Biden special counsel, some say it's 'warranted': sources",
       "excerpt": "High level officials within the Justice Department are in \"onging discussions\" on whether to appoint a special counsel to take over the investigation into Hunter Biden, with some believing it is \"warranted,\" two sources familiar told Fox News Wednesday. ",
@@ -1188,170 +1352,6 @@
         "Election",
         "Donald Trump",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-biden-says-our-darkest-days-with-covid-are-ahead-of-us-not-behind-us.md",
-      "title": "Biden says 'our darkest days with COVID are ahead of us, not behind us'",
-      "excerpt": "President-elect Joe Biden spoke frankly in a rare address on the bleak reality of COVID-19 in the U.S., telling Americans \"Our darkest days…are ahead of us, not behind us,\" during remarks on Tuesday. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OBsPqq72k8A/biden-says-our-darkest-days-with-covid-are-ahead-of-us-not-behind-us",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OBsPqq72k8A/biden-says-our-darkest-days-with-covid-are-ahead-of-us-not-behind-us",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/814418a1-08c9-4bed-b7c7-fdab0625619e/0c6fe622-1cb6-4599-a598-7e8010fec20a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-our-darkest-days-with-covid-are-ahead-of-us-not-behind-us.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-our-darkest-days-with-covid-are-ahead-of-us-not-behind-us.amp",
-      "publishedDateTime": "2020-12-22T18:26:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-trump-grants-slew-of-pardons-including-george-papadopoulos-and-duncan-hunter.md",
-      "title": "Trump Grants Slew Of Pardons, Including George Papadopoulos And Duncan Hunter",
-      "excerpt": "Clemency advocates have pressed President Trump to intervene in the cases of people hit with mandatory minimum sentences for drug offenses who have filled prisons in the past few decades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2020/12/22/947972044/trump-grants-slew-of-pardons-including-george-papadopoulos-and-duncan-hunter",
-      "originalUrl": "https://www.npr.org/2020/12/22/947972044/trump-grants-slew-of-pardons-including-george-papadopoulos-and-duncan-hunter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/12/18/ap_20351771171034_wide-a1d0787ca4b6ff4d60a877fc34a43008e8f5a91a.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-trump-threatens-to-veto-massive-covid-bill-demands-congress-make-this-big-change.md",
-      "title": "Trump threatens to veto massive COVID bill, demands Congress make this big change",
-      "excerpt": "President Trump slammed the recently passed $900 billion COVID-19 relief package as a \"disgrace\" on Tuesday evening, urging Congress amend the bill to increase the direct payments given to Americans.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XMC6sUUUbPM/trump-threatens-to-veto-massive-covid-bill",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XMC6sUUUbPM/trump-threatens-to-veto-massive-covid-bill",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 350,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/814418a1-08c9-4bed-b7c7-fdab0625619e/0c6fe622-1cb6-4599-a598-7e8010fec20a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-threatens-to-veto-massive-covid-bill.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-threatens-to-veto-massive-covid-bill.amp",
-      "publishedDateTime": "2020-12-22T16:29:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

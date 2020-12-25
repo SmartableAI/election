@@ -2,6 +2,62 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-11-19-mob-boss-denies-philadelphia-election-claim-says-joe-biden-is-a-mans-man.md",
+      "title": "Mob boss denies Philadelphia election claim, says Joe Biden 'is a man's man'",
+      "excerpt": "President Trump's personal lawyer, former New York City Mayor Rudolph Giuliani, who is also heading the campaign legal efforts, was asked about the possibility of mob election interference during an interview on the Fox Business Network. He said that \"although there is an allegation of a mobster involved,",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2X64XE_sJOM/mob-boss-denies-philadelphia-election-joe-biden-mans-man",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2X64XE_sJOM/mob-boss-denies-philadelphia-election-joe-biden-mans-man",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 287,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Shawn_Eric.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mob-boss-denies-philadelphia-election-joe-biden-mans-man.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mob-boss-denies-philadelphia-election-joe-biden-mans-man.amp",
+      "publishedDateTime": "2020-11-18T17:32:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-biden-deputy-chief-of-staff-touted-mandatory-buybacks-of-assault-weapons.md",
       "title": "Biden deputy chief of staff touted 'mandatory buybacks' of assault weapons",
       "excerpt": "President-elect Joe Biden’s incoming deputy chief of staff once touted a gun control proposal that called for “mandatory” buybacks of certain rifles, as seen in a resurfaced campaign video.",
@@ -1310,58 +1366,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-trump-fed-nominee-shelton-blocked-in-senate-for-now.md",
-      "title": "Trump Fed nominee Shelton blocked in Senate, for now",
-      "excerpt": "The U.S. Senate on Tuesday blocked President Donald Trump's controversial nomination of Judy Shelton to the Federal Reserve's board, though a White House spokesman expressed confidence she would eventually be confirmed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-fed-shelton-blocked-idUSKBN27X2UD",
-      "originalUrl": "https://www.reuters.com/article/us-usa-fed-shelton-blocked-idUSKBN27X2UD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541544795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1PP",
-          "width": 840,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27X2UD",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2UD",
-      "publishedDateTime": "2020-11-17T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

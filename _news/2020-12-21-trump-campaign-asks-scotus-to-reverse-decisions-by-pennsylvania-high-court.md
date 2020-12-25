@@ -44,22 +44,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "High Court Rejects as Premature a Bid to Block Trump Plan to Bar Illegal Immigrants in Redistricting"
-    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
-    publishedDateTime: 2020-12-18T20:25:00Z
-    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
-    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 120
-    images:
-      - url: "https://images.wsj.net/im-251063/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "18PbipfbWwQi70c4yBXRTbWtS7MZM9hGDVzHZVwuugf+aqgIo67Tt83d6hEzAIDD8rvZvMsFqMMVnJblSeFrJQVbKtSiuvXQWxnwh5Yna9+OBoLPzuJ9zYJ8RVMvIzY3jhN+eiKx17q0i8uFp5XNdzW7fr2j8K4YBOFYi5m5rWOpUFJGUUS8ef85qoqRxGwGWw0c06JSk2qieFujnqaQdxMVqv0jAN1P9+JrufP+C4PhRxWn+kF2zH1jWk0KRKRX8x9Qb/zos53l+TycUNGzIzM5yr5p9+3+D60LRMrN7AFeJgn+NNvjmR2i4l3Bb4LQvDxbbDYdEdSxLIuZZCYvMI0IqRg68I1WF4hYeA10skboITolXnkZwyf5sxn0fKLkVmMoDy1VYhCXYeTqstwC3btxJFCOJopoYTrxSQb5MDuNwIx+jLMHR53chv+OflJJ+Ex5C7RZpGRhiIBXR5/WgNqSMLk+KQRP0ikOjadpFeBTMiT5f4bY7ASSsXA2kLzEHFLHUmxSj8I0OoKMHTC99Q==;6vqNkR9M+uMrA/TV91oeRQ=="
 ---

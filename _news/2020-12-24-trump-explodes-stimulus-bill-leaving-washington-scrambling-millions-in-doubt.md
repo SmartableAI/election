@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "'Squad' introduces bill for $2,000 stimulus checks backed by Trump"
+    excerpt: "Members of the progressive \"Squad\" in the House on Thursday introduced their own bill to send $2,000 stimulus checks to Americans after President Trump this week demanded the $600 checks included in Congress' stimulus deal be increased to that number. "
+    publishedDateTime: 2020-12-25T17:38:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9LZqQjUCns/squad-stimulus-checks-bill-trump-funding-bill-on-hold"
+    ampWebUrl: "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump threatens to veto massive COVID bill, demands Congress make this big change"
     excerpt: "President Trump slammed the recently passed $900 billion COVID-19 relief package as a \"disgrace\" on Tuesday evening, urging Congress amend the bill to increase the direct payments given to Americans."
     publishedDateTime: 2020-12-23T00:29:47Z
@@ -48,35 +64,35 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump’s 2014 tweet on government spending resurfaces amid COVID-19 bill deadlock"
-    excerpt: ""
-    publishedDateTime: 2020-12-24T09:48:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zhm1dyA54i0/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock"
-    ampWebUrl: "https://www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp"
+  - title: "Trump’s call for $2,000 stimulus checks hailed – by critics Pelosi, AOC, Sanders"
+    excerpt: "As if 2020 hasn’t delivered enough unexpected news, consider this: President Trump’s call Tuesday night for Congress to raise coronavirus stimulus payments to Americans to $2,000 won raves from at least three of his harshest critics."
+    publishedDateTime: 2020-12-23T04:15:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DluRjDsgcPA/trumps-call-for-2000-stimulus-checks-hailed-by-critics-pelosi-aoc-sanders"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-call-for-2000-stimulus-checks-hailed-by-critics-pelosi-aoc-sanders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-call-for-2000-stimulus-checks-hailed-by-critics-pelosi-aoc-sanders.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Pelosi-Sanders-AOC-THUMB.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
-    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature. "
-    publishedDateTime: 2020-12-24T19:55:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDUV8C4hI7Y/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+  - title: "Pelosi presses McCarthy to agree to bigger stimulus checks after Trump intervention"
+    excerpt: "House Speaker Nancy Pelosi on Wednesday called on GOP Leader Kevin McCarthy to join her in backing a boost to the coronavirus stimulus checks – which would bump them to $2,000 – because of a last-minute demand from President Trump."
+    publishedDateTime: 2020-12-23T17:58:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IvospTGeXI8/pelosi-presses-mccarthy-bigger-stimulus-checks-trump-intervention"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-presses-mccarthy-bigger-stimulus-checks-trump-intervention.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-presses-mccarthy-bigger-stimulus-checks-trump-intervention.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/441afbd8-3b5d-49bb-94e3-b15cc9c0ea76/37ad5e6f-62a0-407d-b794-e5e541d30bae/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -96,83 +112,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump says Moderna COVID-19 vaccine distribution will start 'immediately,' signals to Europe vaccines to come"
-    excerpt: "President Trump on Friday said distribution of the Moderna vaccine will start \"immediately\" after it was \"overwhelmingly approved\" this week, while signaling to European nations that have been \"hit hard\" that coronavirus vaccines would be \"on their way\" to them, as well."
-    publishedDateTime: 2020-12-18T13:35:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mHqCzc-cOj0/trump-moderna-covid-19-vaccine-distribution-start-immediately-europe-to-come"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-moderna-covid-19-vaccine-distribution-start-immediately-europe-to-come.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-moderna-covid-19-vaccine-distribution-start-immediately-europe-to-come.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump praises COVID-19 vaccine rollout: 'Great miracle'"
-    excerpt: "President Trump on Tuesday said the distribution of the Pfizer and Moderna coronavirus vaccines is going \"very smoothly,\" calling the efforts of his administration to complete vaccines against COVID-19 a \"great miracle."
-    publishedDateTime: 2020-12-22T15:53:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-praises-covid-19-vaccine-rollout-great-miracle"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-praises-covid-19-vaccine-rollout-great-miracle.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-praises-covid-19-vaccine-rollout-great-miracle.amp"
+  - title: "'Squad' introduces bill for $2,000 stimulus checks backed by Trump"
+    excerpt: "Members of the progressive \"Squad\" in the House on Thursday introduced their own bill to send $2,000 stimulus checks to Americans after President Trump this week demanded the $600 checks included in Congress' stimulus deal be increased to that number."
+    publishedDateTime: 2020-12-25T17:42:00Z
+    webUrl: "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold"
+    ampWebUrl: "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump Asks Congress to Amend Covid-19 Package, Boost Direct Payments"
-    excerpt: "President Trump tweeted a video criticizing the $900 billion coronavirus relief legislation passed by Congress, calling for lawmakers to increase direct payments to Americans to $2,000 from $600."
-    publishedDateTime: 2020-12-23T00:57:00Z
-    webUrl: "https://www.wsj.com/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-207060/social"
-        width: 1281
-        height: 670
-        isCached: true
-  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
-    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature."
-    publishedDateTime: 2020-12-25T05:23:00Z
-    webUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Covid-19 Live Updates: U.S. Hospitalizations Hit New Record; Trump to Tighten Rules on U.K. Air Arrivals"
-    excerpt: "The number of newly reported Covid-19 infections and deaths in the U.S. fell Thursday from the day earlier, but hospitalizations hit another record."
-    publishedDateTime: 2020-12-25T08:29:00Z
-    webUrl: "https://www.wsj.com/livecoverage/covid-2020-12-25"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 98
-    images:
-      - url: "https://images.wsj.net/im-278216/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1197873325.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "atlQy8dB2Zbjc+F+3U5l1iRRuO5iXvkbN+5p4fbQGyi6tceVO5P2uUsCFQftLw4tZdjB647qbqy7Z6INTbmI7o0WPvrOpXC+nt3XQPiEhIoqtYhehCQFtSVS1c3zUD/IR1BLbHWOyMzH3iTRuAu5ITgZyGTTbMbZORJ8jhKsXupgyYOlchLK9Pqznuz5Lp1Xe1Jusi4w6h7yvUiGQUPGiwBxdQXkikuWDoTYXn1jTSnVLAKMEDeweGDBEbrHn9tLcqb/Tm7UBUSTv6X+XStTQT7peFi2NR6WWY1dPKMTTyx48TPotn94RlW0FdAJ5pCObTYQLAEUhjpfnN1j8+PF6fe/mhtYzxlOqBggHusN0zs=;IdtdcSt2o+JcwM+cshVuiQ=="
