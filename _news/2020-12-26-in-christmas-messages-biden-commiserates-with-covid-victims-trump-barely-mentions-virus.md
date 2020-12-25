@@ -1,37 +1,48 @@
 ---
 category: news
-title: "Republicans’ loyalty to Trump means more doubt hovers over Biden’s hope of bipartisanship"
-excerpt: "But some GOP lawmakers’ continued loyalty to President Trump weeks before Biden is inaugurated suggests that convincing members of the opposing party to work will not be an easy transition. The electoral college affirmed Biden’s victory over Trump more than a week ago,"
-publishedDateTime: 2020-12-24T17:01:00Z
-originalUrl: "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/"
-webUrl: "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/"
-ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/?outputType=amp"
+title: "In Christmas messages, Biden commiserates with COVID victims; Trump barely mentions virus"
+excerpt: "In dueling Christmas messages to the nation Friday, Joe Biden commiserated with Americans who’ve lost loved ones or their livelihoods because of coronavirus — while President Trump barely made mention of the pandemic that‘s killed over 330,"
+publishedDateTime: 2020-12-25T20:27:00Z
+originalUrl: "https://www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html"
+webUrl: "https://www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html"
+ampWebUrl: "https://www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html?outputType=amp"
 type: article
-quality: 141
-heat: 321
-published: true
+quality: 81
+heat: -1
+published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Daily News
+  domain: nydailynews.com
 
 topics:
   - Election
-  - Joe Biden
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4HJHLZCFJMI6XLBKHLAPFOGO5M.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://www.nydailynews.com/resizer/0ul6_DlUDSmHjuvUUVPjjaJwAQQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KTEZGCM3Z5F7VDNUIPZ3B4YYK4.jpg"
+    width: 1200
+    height: 838
     isCached: true
 
 related:
+  - title: "Republicans’ loyalty to Trump means more doubt hovers over Biden’s hope of bipartisanship"
+    excerpt: "But some GOP lawmakers’ continued loyalty to President Trump weeks before Biden is inaugurated suggests that convincing members of the opposing party to work will not be an easy transition. The electoral college affirmed Biden’s victory over Trump more than a week ago,"
+    publishedDateTime: 2020-12-24T17:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 141
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4HJHLZCFJMI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump meets U.S. House Republican allies to push voter fraud claims"
     excerpt: "U.S. President Donald Trump met a group of Republican lawmakers on Monday in his thus-far fruitless bid to gain momentum for claims that the Nov. 3 presidential election won by Democrat Joe Biden was rigged."
     publishedDateTime: 2020-12-22T06:05:00Z
@@ -137,22 +148,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "In Christmas messages, Biden commiserates with COVID victims; Trump barely mentions virus"
-    excerpt: "In dueling Christmas messages to the nation Friday, Joe Biden commiserated with Americans who’ve lost loved ones or their livelihoods because of coronavirus — while President Trump barely made mention of the pandemic that‘s killed over 330,"
-    publishedDateTime: 2020-12-25T20:27:00Z
-    webUrl: "https://www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html"
-    ampWebUrl: "https://www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 81
-    images:
-      - url: "https://www.nydailynews.com/resizer/0ul6_DlUDSmHjuvUUVPjjaJwAQQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KTEZGCM3Z5F7VDNUIPZ3B4YYK4.jpg"
-        width: 1200
-        height: 838
-        isCached: true
   - title: "Republicans Buck Trump, Reject Proposal for $2,000 Stimulus Checks"
     excerpt: "Republicans on Thursday shut down an effort by Democratic leadership in the House to add $2,000 payments to the latest stimulus package, breaking with President Donald Trump’s demand for such checks,"
     publishedDateTime: 2020-12-24T21:34:00Z
@@ -170,6 +165,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "JSjTlARQE3vv3cbZ7r9edxpUMu4lazrX3SLEUHeRlxBeFySPZSEidzAtVnvUyrEbKe+M93xjm6cFrpa1QU0GRWvk+6ZjENJguX73+0q5xpMSUT340+OXRWaUrw5Xc0IR/jBsqY2rGesPOqTgmqznuUl5E0wfLYACpq+jtYNZphHrilBkWiPNR1wZND9719lHb7NRZyA3s89BhxriUzW53aq/PDbf/lctdI3JZPTRcLO7X7ff4PH2iWXiMCzUwTwx+tRxZ3VSldXOq4tj1dqM/FCcUdF/6zWZEKpbZHLbB1UGZSPxv4SamqpLlFUlcchKlFrbpiPJsNGWj1EJX/x4oxD6Y7ZHjZcHaHpWIPzUVsM8k8kleejZWLKZnbjhwI/Um+I/g+9oELFicXBV+HDJAJwh2aJWs7tfPWrWvhkVJVpI5ut8Mpm1p4s9k4/ta2wMHWLAUwfqtzx1hGEDcQnYbGVg44lXTKMmnhrkga9DhpGt/BEyIMtk/5vsqAZizGHJy5M7W95bgmi1gCmm8zo5Vg==;mUSIoNn1bUAi3Tm08+/YYA=="
+secured: "6rBmwy28SzY3a0Wu/TW658unebdFr5uH/zG9zfg3E+M6vJMAPaiqvIVGhLY97lxPkLpP4N+dFSKi2k6NAgLTaRHiB7U7gWQ+qLNAUr+HKv1SSkhFsOd6SmlCshBTAh/51hmyuxHc/gvbWW3PqQaTksxQ7pE+8XOCiLVor4x6zqe5brdE5BBKjMwq1OSkj4eQDUvru1w0si+YjQpOXiL4+/QYWbOQHSYzt1IDWgt22sFqNKHYfFZDDecxb6dXogltm+15gFBpIt99gy9oc9Dtn6RY/oOIf8cZjvhYxLU/M+7por4Nd57e/qHloeoorKbN34Cf+DyTJp1dQgdMdBppEaQx0zjVd5it6gQohJ4Aq8E=;hG8bUPRapVtKDTziHVcspQ=="
 ---
 

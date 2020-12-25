@@ -159,6 +159,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump takes meetings on Christmas to urge Congress to pass $2K stimulus checks"
+    excerpt: "President Trump repeated his calls for Congress to approve $2,000 coronavirus stimulus checks in a Christmas Day tweet, announcing he has been taking meetings over the holiday to secure a deal"
+    publishedDateTime: 2020-12-25T22:35:00Z
+    webUrl: "https://nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/"
+    ampWebUrl: "https://nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-12.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Supreme Court Dismisses Challenge to Trump Plan to Exclude Illegal Immigrants From Congressional Reapportionment"
     excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
     publishedDateTime: 2020-12-18T20:25:00Z

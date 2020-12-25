@@ -63,6 +63,22 @@ related:
         width: 741
         height: 545
         isCached: true
+  - title: "Musicians who opposed Trump's use of their music in 2020"
+    excerpt: "President Trump has repeatedly feuded with musical acts that have sued him to prevent his campaign from using their music at events."
+    publishedDateTime: 2020-12-25T19:26:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/musiciansagainsttrump_getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "The Trump booster group that helped the head of the extremist Proud Boys gain access to the White House"
     excerpt: "The Proud Boys leader visited the White House before clashes erupted in DC on Dec. 12. He was invited by a political group with ties to Trump allies."
     publishedDateTime: 2020-12-19T11:23:00Z

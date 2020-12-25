@@ -148,6 +148,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "In Christmas messages, Biden commiserates with COVID victims; Trump barely mentions virus"
+    excerpt: "In dueling Christmas messages to the nation Friday, Joe Biden commiserated with Americans who’ve lost loved ones or their livelihoods because of coronavirus — while President Trump barely made mention of the pandemic that‘s killed over 330,"
+    publishedDateTime: 2020-12-25T20:27:00Z
+    webUrl: "https://www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html"
+    ampWebUrl: "https://www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 81
+    images:
+      - url: "https://www.nydailynews.com/resizer/0ul6_DlUDSmHjuvUUVPjjaJwAQQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KTEZGCM3Z5F7VDNUIPZ3B4YYK4.jpg"
+        width: 1200
+        height: 838
+        isCached: true
 
 secured: "r5/fUaORVZuxzlFajpLwDwAYKkyi9GJ0ppS8N5pzjdm81FGYQ/eLLSfBYMP7iSzFCgwHBKVU9M9rJPZAHYpEV+5SbJW5YOKkNjKfudmZ4QPg4V7IIoq2jsXQsOJUa71gsc6CpDWv9RZoDGKVJpHLtJUnWy37Xz4eJshleZE62sIctGs8WjbPx5lCl4tzq31fhzUGnrZx+dyo8KJ2xlDOqAk53/7XgDBrp91qrE1Sbdtu1Bm18irYVci/tS4BPpMrwAoUNZ5CFmtG4afaTcQNJm6G+AkwQP9hm+hYgZ3VcVkJoMCboFlMyVrAqzwsUpke4fpDUDZrxpihPYgOpc5bBjlONNpoCn8KZZPqsLwulcY=;xHRS3S/qeBcByzHEC9pT5w=="
 ---

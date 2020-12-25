@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Biggest Vets Groups Step up Pressure on Trump to Fire Wilkie"
-excerpt: "The nation’s six largest veterans groups are calling on President Donald Trump to immediately fire Veterans Affairs Secretary Robert Wilkie over the mishandling of a congressional aide’s allegation of a sexual assault at a VA hospital."
-publishedDateTime: 2020-12-16T19:31:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie?context=amp"
+title: "Musicians who opposed Trump's use of their music in 2020"
+excerpt: "President Trump has repeatedly feuded with musical acts that have sued him to prevent his campaign from using their music at events."
+publishedDateTime: 2020-12-25T19:26:00Z
+originalUrl: "https://thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020"
+webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020"
+ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020?amp"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: The Hill
+  domain: thehill.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://thehill.com/sites/default/files/musiciansagainsttrump_getty.jpg"
+    width: 980
+    height: 551
+    isCached: true
 
 related:
   - title: "Biggest vets groups step up pressure on Trump to fire Wilkie"
@@ -57,22 +63,6 @@ related:
         width: 741
         height: 545
         isCached: true
-  - title: "Musicians who opposed Trump's use of their music in 2020"
-    excerpt: "President Trump has repeatedly feuded with musical acts that have sued him to prevent his campaign from using their music at events."
-    publishedDateTime: 2020-12-25T19:26:00Z
-    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020"
-    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/musiciansagainsttrump_getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Attorney General William Barr resigns after clashes with Trump, still defends president"
     excerpt: "William Barr, who served as President Donald Trump's most effective shield and advocate for broad presidential authority, will leave before Christmas."
     publishedDateTime: 2020-12-16T09:24:00Z
@@ -105,7 +95,18 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biggest Vets Groups Step up Pressure on Trump to Fire Wilkie"
+    excerpt: "The nation’s six largest veterans groups are calling on President Donald Trump to immediately fire Veterans Affairs Secretary Robert Wilkie over the mishandling of a congressional aide’s allegation of a sexual assault at a VA hospital."
+    publishedDateTime: 2020-12-16T19:31:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
-secured: "E0mKcrj7c/Pw+MU8EUTzoZyFbzRghvY9T/mbcZw6BGDiToxuCYweN5t8H9t0z9wSez1IDEooDfWpgh9MZSreWtD8Hwqe7ScgEAyZwTrVm5zXg2Nm2goMBaef8uXMJOAopusuqGrbCoNMaNWj+AwhgFzPykxerm6+0H5dpD2ycXoghdZSiqDjwf6WsKy8sx1dK3FfWdnBgsOsmMOqiIAPSpYBP1vxqh6Xyv6xjgW+KD9ln+gZu+BwzsDtliHzBOwtakwJCvtp4LOyGIS3PjdrCmi+0WKec5yoO68kBeXedt7OvdVcSUYXAxlnn4eh8ONBsi3paXApBjTmvrwPZfJjs8PbdW7RYS0f9QlscFx/WezVTyXeO0ru08bjFaP2bXHr9SIOvYE8xQhmR0Z7UokBeM8SqjUdwY6qNoSZjqrfAZ/J7py4iqLEyvnyxRs9zASNVvBUhvYqjWIbVE/JdALQwedlVm4eSOUiL2pR6Fd8Fao559xWO7nVArMwoxLv38fKhDbxi9EC4O4YRN49Pzuu+g==;5SUREVqOUuoGXrxprplqUw=="
+secured: "VN5O589JxQpBbv8UZR68yyPDpAxARIUG6C8UMQIveXzFOjCYVS+fGucGX4hKaCVIC37UScJGWzM7/RjdJ+TkfITCpP0wZJ7HpauBIckG4YRkVu/rkqS2NfFb1p3060hmEmLp7uIgpERNAg+udel+TAjoNLzy4hRbYGnRfYojHM2ymncAqpWK1tJTl4dJ5np4lUAwpMwoXb267tosvOVvkfDk9MARbvgEyijZhz2F+GEZl4ow5TGUCJxZiHAq09uyMNJX9YBQ2lnOkK1jXPZFNj2o5KIFXP6CcNnaCPUxfOaPcdnCDjrEgRsw8K7t6hyj8rKE8nqUAkIrZAUDqm08Y7TGpq40tdz2cGBRbqShvKM=;n4A4q9VLPYcj7gtdbIYwzQ=="
 ---
 

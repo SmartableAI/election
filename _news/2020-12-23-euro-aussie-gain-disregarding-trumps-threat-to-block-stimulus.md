@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Musicians who opposed Trump's use of their music in 2020"
+    excerpt: "President Trump has repeatedly feuded with musical acts that have sued him to prevent his campaign from using their music at events."
+    publishedDateTime: 2020-12-25T19:26:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/musiciansagainsttrump_getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Attorney General William Barr resigns after clashes with Trump, still defends president"
     excerpt: "William Barr, who served as President Donald Trump's most effective shield and advocate for broad presidential authority, will leave before Christmas."
     publishedDateTime: 2020-12-16T09:24:00Z

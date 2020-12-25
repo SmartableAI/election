@@ -1,24 +1,20 @@
 ---
 category: news
-title: "Supreme Court Dismisses Challenge to Trump Plan to Exclude Illegal Immigrants From Congressional Reapportionment"
-excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
-publishedDateTime: 2020-12-18T20:25:00Z
-originalUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125?mod=breakingnews"
-webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125?mod=breakingnews"
-ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+title: "Trump takes meetings on Christmas to urge Congress to pass $2K stimulus checks"
+excerpt: "President Trump repeated his calls for Congress to approve $2,000 coronavirus stimulus checks in a Christmas Day tweet, announcing he has been taking meetings over the holiday to secure a deal"
+publishedDateTime: 2020-12-25T22:35:00Z
+originalUrl: "https://nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/"
+webUrl: "https://nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/"
+ampWebUrl: "https://nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/amp/"
 type: article
-quality: 114
+quality: 131
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
@@ -26,9 +22,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-251063?width=620&size=1.5"
-    width: 620
-    height: 413
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-12.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -176,23 +172,23 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Trump takes meetings on Christmas to urge Congress to pass $2K stimulus checks"
-    excerpt: "President Trump repeated his calls for Congress to approve $2,000 coronavirus stimulus checks in a Christmas Day tweet, announcing he has been taking meetings over the holiday to secure a deal"
-    publishedDateTime: 2020-12-25T22:35:00Z
-    webUrl: "https://nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/"
-    ampWebUrl: "https://nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/amp/"
+  - title: "Supreme Court Dismisses Challenge to Trump Plan to Exclude Illegal Immigrants From Congressional Reapportionment"
+    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
+    publishedDateTime: 2020-12-18T20:25:00Z
+    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125?mod=breakingnews"
+    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 131
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 114
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-12.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://images.wsj.net/im-251063?width=620&size=1.5"
+        width: 620
+        height: 413
         isCached: true
 
-secured: "fFUau2ezU3bE8eVA5BySgtJfjX7VhO8LtFqPcKvhjdYPPmm19CDsfT95b1NGdG7V+oDWcdVgUoIa3fseVsbh9UhnjBGB4gMX5L9mnn4mNmgD5S4m0XkuhBGWHf+qVepWGw3lgrqazQzAIbVmGqoKB1WyRZj3lp/wIZl/bAjx8mPMZOXa1zumvG8olp6Q2bGW6m1nDaQOHabvCij6J3SbHyaxmwO7mLOoHk3MyNqblTZ8d8xm8YSHjyLSxKfMbUeDlAwh4KK6D4pUbOhEbQcgHqm2vlJm1+0rgpKeMO/qSbP2PJUYkLRRsTOPNIfJsZAI7Yo0DvWauNfdCLDEWLvNHdYge1ywf28bXg18nSh0cnE=;iY2Pa3QhwzZM8peGX09J1A=="
+secured: "9vpgntVtXxvBza2H8zQ5uvwYJPOpPs3EfAXrP9UC1WujABwBWboEk+/ajrtvIQDO8xapWANTuyALld6aqBgaWGzrSjwjMWxgC8DCnrghKdP8kkVyZ3gxzUd4OM4fAqPWoFCRDU6nInZrR03OO11L9MPxZuEA7hTGNV7RKxQ7szKR+pWknUK222G5YrB1oRWLQd6MfUlhq53tvVarobEiRJiw1nM9TUvmLjNyNXXk7XaX0xHtXN4HO/VMOGc2T9naAJRMmuXmdUmQBBDCJSckMjrDZURApvHQCilPyC2SUa9rtH3q77ODWxSAJgcJSEAzes4Ntl88F7Nv0AtESwLut1MPzmJf+NGDgbH2jMNabIw=;4tNSZop4q3Rqfd4J2dYoRg=="
 ---
 
