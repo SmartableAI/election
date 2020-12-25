@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Supreme Court Dismisses Challenge to Trump Plan to Exclude Illegal Immigrants From Congressional Reapportionment"
-excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
-publishedDateTime: 2020-12-18T20:25:00Z
-originalUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125?mod=breakingnews"
-webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125?mod=breakingnews"
-ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+title: "Trump Lawyers Get Little Backup From Their Firms or Universities"
+excerpt: "Chapman University becomes the latest organization to formally distance itself from President Trump’s quixotic legal efforts to challenge the results of November’s election."
+publishedDateTime: 2020-12-25T10:50:00Z
+originalUrl: "https://www.wsj.com/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
+webUrl: "https://www.wsj.com/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
+ampWebUrl: "https://www.wsj.com/amp/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
 type: article
-quality: 114
+quality: 135
 heat: -1
 published: false
 
@@ -26,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-251063?width=620&size=1.5"
-    width: 620
-    height: 413
+  - url: "https://images.wsj.net/im-277452/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -160,23 +160,23 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Trump Lawyers Get Little Backup From Their Firms or Universities"
-    excerpt: "Chapman University becomes the latest organization to formally distance itself from President Trump’s quixotic legal efforts to challenge the results of November’s election."
-    publishedDateTime: 2020-12-25T10:50:00Z
-    webUrl: "https://www.wsj.com/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
+  - title: "Supreme Court Dismisses Challenge to Trump Plan to Exclude Illegal Immigrants From Congressional Reapportionment"
+    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
+    publishedDateTime: 2020-12-18T20:25:00Z
+    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125?mod=breakingnews"
+    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 135
+    quality: 114
     images:
-      - url: "https://images.wsj.net/im-277452/social"
-        width: 1280
-        height: 640
+      - url: "https://images.wsj.net/im-251063?width=620&size=1.5"
+        width: 620
+        height: 413
         isCached: true
 
-secured: "fFUau2ezU3bE8eVA5BySgtJfjX7VhO8LtFqPcKvhjdYPPmm19CDsfT95b1NGdG7V+oDWcdVgUoIa3fseVsbh9UhnjBGB4gMX5L9mnn4mNmgD5S4m0XkuhBGWHf+qVepWGw3lgrqazQzAIbVmGqoKB1WyRZj3lp/wIZl/bAjx8mPMZOXa1zumvG8olp6Q2bGW6m1nDaQOHabvCij6J3SbHyaxmwO7mLOoHk3MyNqblTZ8d8xm8YSHjyLSxKfMbUeDlAwh4KK6D4pUbOhEbQcgHqm2vlJm1+0rgpKeMO/qSbP2PJUYkLRRsTOPNIfJsZAI7Yo0DvWauNfdCLDEWLvNHdYge1ywf28bXg18nSh0cnE=;iY2Pa3QhwzZM8peGX09J1A=="
+secured: "poToV9OgCQhpXV73igWv9N2orKFwx+boEMf389D30fwGYxVwCs9YRFyKBf3YoJglPL/vKZ4aaU3iqKDb2JD7WYK4XcUlQedUeE4mXs+uRAjbyK2yhsQaGu7hcO+wPhsXtQjgW2WEppmaqAxR9TwKRVOcNONqGMhNKgJWdZPZ4LfDg7C2Rm2jcKkE66k5GHP91ywYt9Gw2IRrQ2gKD8CkklU953B03EKN3dbRMYKfzOlkxq+EVhP8HDwyK8+Iib7IRZ4RkFjMF1q7PdtEcaa9H+6kPWPnajz6tfCynLZzw3wKDAZW8hijlpo/ZB8z/qtctFhLsy2ejseLCNl756gzWsvtYYUxPFDA/5I4wyZk8iI=;4Bqk1zAOawoOPe+vSczYDg=="
 ---
 

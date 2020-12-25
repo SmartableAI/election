@@ -1,30 +1,31 @@
 ---
 category: news
-title: "Pence, Pelosi, McConnell receive COVID vaccine — but Trump still holding out"
-excerpt: "Trump's apparent reluctance to get the shot comes as some of his most ardent supporters are making unfounded claims about the dangers of the vaccine."
-publishedDateTime: 2020-12-18T20:09:00Z
-originalUrl: "https://www.nydailynews.com/coronavirus/ny-covid-vaccine-congress-trump-20201218-lxyk7c2g7zd53mrtpopohcajkq-story.html"
-webUrl: "https://www.nydailynews.com/coronavirus/ny-covid-vaccine-congress-trump-20201218-lxyk7c2g7zd53mrtpopohcajkq-story.html"
-ampWebUrl: "https://www.nydailynews.com/coronavirus/ny-covid-vaccine-congress-trump-20201218-lxyk7c2g7zd53mrtpopohcajkq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ny-covid-vaccine-congress-trump-20201218-lxyk7c2g7zd53mrtpopohcajkq-story.html?outputType=amp"
+title: "Pres. Trump remains silent on COVID 19 surge"
+excerpt: "Watch \"Pres. Trump remains silent on COVID 19 surge\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+publishedDateTime: 2020-12-25T07:36:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20201225071228-pres-trump-remains-silent-on-covid-19-surge/"
+webUrl: "https://www.cbsnews.com/live/video/20201225071228-pres-trump-remains-silent-on-covid-19-surge/"
 type: article
-quality: 97
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: New York Daily News
-  domain: nydailynews.com
+  name: CBS News
+  domain: cbsnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
-  - Mike Pence
 
 images:
-  - url: "https://www.nydailynews.com/resizer/lMhd4KHgmoITfmd4hKMJlahKPZA=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/WYGNJ57UZJCCXBMF25UWJXP7VY.jpg"
-    width: 1200
-    height: 800
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/25/story_08266561_1608880564.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -1162,20 +1163,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Pres. Trump remains silent on COVID 19 surge"
-    excerpt: "Watch \"Pres. Trump remains silent on COVID 19 surge\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-12-25T07:36:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201225071228-pres-trump-remains-silent-on-covid-19-surge/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/25/story_08266561_1608880564.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump continues attempts to overturn election..."
     excerpt: "Watch \"Trump continues attempts to overturn election results\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-12-21T12:22:00Z
@@ -1185,6 +1172,22 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 100
+  - title: "Pence, Pelosi, McConnell receive COVID vaccine — but Trump still holding out"
+    excerpt: "Trump's apparent reluctance to get the shot comes as some of his most ardent supporters are making unfounded claims about the dangers of the vaccine."
+    publishedDateTime: 2020-12-18T20:09:00Z
+    webUrl: "https://www.nydailynews.com/coronavirus/ny-covid-vaccine-congress-trump-20201218-lxyk7c2g7zd53mrtpopohcajkq-story.html"
+    ampWebUrl: "https://www.nydailynews.com/coronavirus/ny-covid-vaccine-congress-trump-20201218-lxyk7c2g7zd53mrtpopohcajkq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ny-covid-vaccine-congress-trump-20201218-lxyk7c2g7zd53mrtpopohcajkq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 97
+    images:
+      - url: "https://www.nydailynews.com/resizer/lMhd4KHgmoITfmd4hKMJlahKPZA=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/WYGNJ57UZJCCXBMF25UWJXP7VY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump Has Reached the ‘Railing Against Mike Pence’ Bunker Phase"
     excerpt: "And yet here, in the true final stages of the Trump presidency, we at last have evidence of genuine change. Trump’s mental decline may not be actually accelerating, but he is turning against his supporters in a sharp and distinctive fashion."
     publishedDateTime: 2020-12-22T20:30:00Z
@@ -1308,6 +1311,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "jEosp/bWkbcKgRsgG7l7kZcSVYe122vtfBKE5T7EtFlhYKBwu9DcttjQC6m9S2zpTkc7twKp5RfreeYL5iS6V+5ZpkOete+2jvAjPEzurqbyuXhO41MkW4Y9GOR6E0W2AObN8DuMhKIodRWfh9TWNWekoiESXR0VS+tg3FnAWiRYNt+5EZqLy58jMPtYwlgHnrXUufKWQe8mzVcU5chMAWbCNi77pnIaeojLgFMNPc3SlnbfepirFYaYEn06FvQj6v2DCDEqrK9Oe7mKE4MqBcEjWWc96KCbcT3NtG8iaL6LJ+dE1A6TALytFTw6Hi8aCXldYlyg5nIn+3o3Wsy5qKqDl8W9RA1IeSk3iuRKjXw=;4HmU9RwUcDVBPCwcz3JY7A=="
+secured: "NNVcZbj2ucgBcRPGhWbt995K0cTUiIj8Q3Ipr6gCdn2Cxgm9+YydfgUtVbIx8Zi88NGbdN9NbsIJ5tERKdmCZ04++xGplGL2O0/N5deohzkjRvW3Gv53165SnU+T6GZnsCCYXEHxyZTYN1lpd7yUDHWfSOlT2QfQamm+4t5wuG64wlIKHL6L8bZkAXhjM5teWB0mRpeqXMqa2o+ozylTAOZQGpNq3Yq9Tq2bVVBB3wuHZ0MRpcVSQna42cWdwxFZFnlfmZ1cqVuu0a1IvJW1Os3uKFS3/4DNb/OZlVAsViZ2CRyrZYNTy+DKBOlc+TfEMzytzJ9vrzGqGP6FjpmjDWdfTpHQ3+8dKI0zX33GBs4=;w7U7Cjx74UXD4g8qZEaa7Q=="
 ---
 

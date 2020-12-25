@@ -144,6 +144,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump Lawyers Get Little Backup From Their Firms or Universities"
+    excerpt: "Chapman University becomes the latest organization to formally distance itself from President Trump’s quixotic legal efforts to challenge the results of November’s election."
+    publishedDateTime: 2020-12-25T10:50:00Z
+    webUrl: "https://www.wsj.com/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-277452/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Supreme Court Dismisses Challenge to Trump Plan to Exclude Illegal Immigrants From Congressional Reapportionment"
     excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
     publishedDateTime: 2020-12-18T20:25:00Z

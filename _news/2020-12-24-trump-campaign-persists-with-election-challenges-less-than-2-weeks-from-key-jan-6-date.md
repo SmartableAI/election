@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-election-challenges-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-election-challenges-ongoing-jan-6-date.amp"
 type: article
 quality: 182
-heat: 342
+heat: 362
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-274855/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Lawyers Get Little Backup From Their Firms or Universities"
+    excerpt: "Chapman University becomes the latest organization to formally distance itself from President Trump’s quixotic legal efforts to challenge the results of November’s election."
+    publishedDateTime: 2020-12-25T10:50:00Z
+    webUrl: "https://www.wsj.com/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-277452/social"
         width: 1280
         height: 640
         isCached: true

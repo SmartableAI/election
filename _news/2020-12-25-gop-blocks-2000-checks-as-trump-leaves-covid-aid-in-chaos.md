@@ -80,20 +80,20 @@ related:
         height: 545
         isCached: true
   - title: "Trump golfs in Florida as COVID relief hangs in the balance"
-    excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christmas Eve golfing in Florida."
-    publishedDateTime: 2020-12-25T04:40:00Z
-    webUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christmas Eve golf ing in Florida."
+    publishedDateTime: 2020-12-24T23:52:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/trump-golfs-florida-covid-relief-hangs-balance-74903439"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-golfs-florida-covid-relief-hangs-balance-74903439"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-golfs-florida-covid-relief-hangs-balance-74903439"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/US/WireAP_4a2c3ddd02384f8d900e999e2af8ccaf_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump EPA retains ozone standards despite COVID-19 link to air pollution"
     excerpt: "The Trump administration on Wednesday finalized a 5-year-old air quality standard for ozone pollution despite calls by environmental groups to toughen the rule because people harmed by air pollution are more vulnerable to COVID-19."
@@ -277,6 +277,6 @@ related:
         height: 600
         isCached: true
 
-secured: "z7nftgHZ/lmLnzO0fgEKaW+x7ZC5zpqzEyvPExqJn4JIXGBUJ78Jsda1oMfQEI81dHJMc1mrF3ZY5NzwnoYrn3duunEY6DMHaNLyUd1oGVp2NuOuoYtPaTuvpaNwewcHkHNPDodkcHvT9PNpzKzxMLYE+onFOt+nSX6DHz+9mUOEAKdM2JkH0jk3wrHaj0FQlOSeNJGGkfKkuHlW2dZPE4ATFHXh83YIFyIqT4Vi/6MfssDTBpfX4CwRP5yTeI0Nq/9D3KSsUYDjpHwEfFEhU/wQrw7tIKulrIqR+TkDIkJncGQDlkX/zezfCsOBRmT6mazCk5RfSQOph3E5mIXpEgUjsRzW+eSPU8kVPn3ljF4=;tw7okv24viioLeJDRYwu4w=="
+secured: "odGSbmarWtkmZQzzGtyp3v7WkvOj95QqDyzYuAP1jAf8UgVS08Ta9YjDWHLGq3sPlcGmpV1qJ/LtoraFHh3555BKkJeyPzwK6yIRlg1axtG/3ucUiFGhRo5CZoGomahCrDaCVelaZNPOJcnNQb9ShWANOp6TRgo+eRNaViK9SoBu+4nSW4WbZyEa0GGrfEOKqf34FKLpH8KCXT6Wd+khmrM0kLRAWPHlu7meIUMZHJCA6qOiPt3BQTOTKePb+HeLFFjII/PuE5H4Y3vIPoPGWsUvbnZY4/nlTgoYKZ09RbtIUlBEhLqwAJ3uWKf/GShMNk4Vp/1mPhD99w5TBqn47f9aUSB2SX5n3dKxsH/V2jRs4EyS8RN/1F6tYB5RLiVQIycXOhmG0dw8tI42Lqz/9zdnzmgNAJH+EtVQ4e8Xnhx3XY8BFJ37h1wYnLkUpqZ4Yf9U9rUkpk63MvxFJBfqHP1VVejJbaR0bU0oJTS4vY1UfEHraaFWYgwVzn8/hl5oaBnBkhYVOQHVWKJFKS0isg==;XN0HgeKwproZXFcD2O5vUQ=="
 ---
 

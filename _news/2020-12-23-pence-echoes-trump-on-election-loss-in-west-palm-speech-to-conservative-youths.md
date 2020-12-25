@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4009750001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4009750001"
 type: article
 quality: 161
-heat: 1821
+heat: 1841
 published: true
 
 provider:
@@ -1149,6 +1149,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0b38ed2c-ef8a-4adb-8daf-cd925d67613f_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Pres. Trump remains silent on COVID 19 surge"
+    excerpt: "Watch \"Pres. Trump remains silent on COVID 19 surge\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-25T07:36:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201225071228-pres-trump-remains-silent-on-covid-19-surge/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/25/story_08266561_1608880564.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump continues attempts to overturn election..."
     excerpt: "Watch \"Trump continues attempts to overturn election results\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
