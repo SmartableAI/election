@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Trump threatens COVID relief, Pelosi urges 'sign the bill'"
-excerpt: "President Donald Trump is threatening to torpedo Congress’ massive pandemic relief package in the midst of a raging pandemic and deep economic uncertainty"
-publishedDateTime: 2020-12-23T16:57:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/trump-threatens-covid-relief-pelosi-urges-sign-bill-74879887"
-webUrl: "https://abcnews.go.com/Business/wireStory/trump-threatens-covid-relief-pelosi-urges-sign-bill-74879887"
+title: "Trump Golfs in Florida as COVID Relief Hangs in the Balance"
+excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christmas Eve golfing in Florida."
+publishedDateTime: 2020-12-24T23:42:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2020-12-24/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance"
+webUrl: "https://www.usnews.com/news/politics/articles/2020-12-24/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-24/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-24/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance?context=amp"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Trump, ahead of FDA, says Moderna's COVID-19 vaccine has been approved"
@@ -187,6 +183,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump threatens COVID relief, Pelosi urges 'sign the bill'"
+    excerpt: "President Donald Trump is threatening to torpedo Congress’ massive pandemic relief package in the midst of a raging pandemic and deep economic uncertainty"
+    publishedDateTime: 2020-12-23T16:57:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-threatens-covid-relief-pelosi-urges-sign-bill-74879887"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump's COVID bill delay leaves millions of desperate Americans in limbo"
     excerpt: "President Donald Trump's threat late Tuesday to veto the $892 billion coronavirus relief bill approved by Congress this week may delay aid for millions of families on the cusp of eviction and about to lose unemployment benefits."
     publishedDateTime: 2020-12-24T05:42:00Z
@@ -244,18 +254,7 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump Golfs in Florida as COVID Relief Hangs in the Balance"
-    excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christmas Eve golfing in Florida."
-    publishedDateTime: 2020-12-24T23:42:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-24/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-24/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-24/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
-secured: "k3IE4h6JcLXk8dTK7DkuHyscNYUc15Lb1hbBJu2xLU+U34384RJdq0JIAkuFBzsIHgTzKEpOyzGUTmf0d1mUclBpvd5M7uvoDjmROKGnI6Jy3SECJU7seTXq3imP1BCuFYo628GJDW785p0LuDM8WginRvEoI3Io/iT1dzy1JAyBVTQmie/4rAKhGHjP0zkiBTudCzWb9Cdz1byhVLWC0rMWv7xbnEZjO2vrpDCe/3p4SwtcPJNsJxeadbBdnqkhQE81g1qKqvNUdvf9JTLiRh+apSqCp36PJXkTOn/03mqqojT43/sfO3VJvUA6ujGT/Up0FE2aII7iRn59X4wIEYv1uoVitYlNIonNN82PFCQw0m0TCqV6or+TF/2wH2iGvDJBM6uHPrAr0AoScFwJXJKzmEElSYQ0zstzu8H/JE5ZVH4FOrUOMjP3lrD2agzMlvTKQDlDlEjaESmaJswKIYACXBhbVdER0hJG2k2F0joiqg1XOIvwKsgnBQjgmrWOWBZf4vWUHTdDT5Yxo1/KHg==;jrWiteKwQCGQw1QqndwBTA=="
+secured: "r3oV+wuzs6L3KQY0PZGrBkWqVoW+dG76/vP5jL6Mdhl/9jBgJug8HCs4iP1NPj/bdzWapnRzJVO6QtY76KuDgYP1TV/r+6aRK1Pd0IGpzs2hbwm6BwOn4yk6C/9cQFJvNkG0Ug+S5pKTZX4GVmqGvoNrSGpn7t+6vhHMP74fQh2qOJGK9TtSiHoZeOhUkO7e4231S+3VGNopLsXuECmwpR7wCEgIERnrYXZhclsVTD9E+tb/qlt20uEJ2zZw//XtPnIUDil4wOjOC0dH/XM0AFR+Nzwyo0AGnT98SUh0hpGdfGDI9HJaKeCaGdTWK9Hs8ftM5D5uBJCRMhHDz249mrBK0vVtxvPJEmhOoRaCchLr115driX1XYJyXex2NVXlz60YRRsH5MGIq0QxHwE/sCLlbkwC5EWqg33/lYAT7IeAG/4rbC1W1DKX+eHzDE36G4Sm55isrQtg8SR2Lr1uQ7xFUY/mIspJc0BhD8AH95rYJ+lHvOyBQLZKQTvWkh5suZscNbvqS46qXl6l8Fx6wQ==;JwcSF3HggTunNKRyw2BzYA=="
 ---
 

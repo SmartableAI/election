@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-23-trumps-main-banker-at-deutsche-bank-announces-her-resignation.md",
+      "title": "Trump's main banker at Deutsche Bank announces her resignation",
+      "excerpt": "The president's longstanding contact at the bank, Rosemary Vrablic, will step down on Dec. 31, though the reasons for her departure are unclear.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trumps-main-banker-at-deutsche-bank-announces-her-resignation-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trumps-main-banker-at-deutsche-bank-announces-her-resignation-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe265fda644880018193053?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trumps-main-banker-at-deutsche-bank-announces-her-resignation-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-main-banker-at-deutsche-bank-announces-her-resignation-2020-12?amp",
+      "publishedDateTime": "2020-12-22T14:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-biden-says-cyberattack-happened-on-trumps-watch-when-he-wasnt-watching.md",
       "title": "Biden says cyberattack happened on ‘Trump’s watch when he wasn’t watching’",
       "excerpt": "President-elect Joe Biden is placing blame for the serious cyber hack of numerous federal government agencies and major companies on President Trump and pledged that “we will respond” when it’s determined which county is behind the damage.",
@@ -1291,58 +1343,6 @@
       "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74837833",
       "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74837833",
       "publishedDateTime": "2020-12-21T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-loefflers-wealth-trump-loyalty-face-scrutiny-in-georgia.md",
-      "title": "Loeffler's wealth, Trump loyalty face scrutiny in Georgia",
-      "excerpt": "Kelly Loeffler’s tight embrace of President Donald Trump and the far right while fighting to hold on to her U.S. Senate seat is not exactly what allies of Georgia Gov. Brian Kemp envisioned when he ap",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875",
-      "publishedDateTime": "2020-12-21T09:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC",

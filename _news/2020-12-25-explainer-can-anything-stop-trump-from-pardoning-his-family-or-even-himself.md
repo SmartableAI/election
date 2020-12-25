@@ -2,9 +2,9 @@
 category: news
 title: "Explainer: Can anything stop Trump from pardoning his family or even himself?"
 excerpt: "President Donald Trump on Wednesday granted pardons to his former campaign chairman Paul Manafort and former adviser Roger Stone, sweeping away the most important convictions from U.S. Special Counsel Robert Mueller’s investigation into Russian meddling in the 2016"
-publishedDateTime: 2020-12-25T00:38:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-pardon-explainer/explainer-can-anything-stop-trump-from-pardoning-his-family-or-even-himself-idUSKBN28Y1XK?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/us-usa-election-pardon-explainer/explainer-can-anything-stop-trump-from-pardoning-his-family-or-even-himself-idUSKBN28Y1XK?edition-redirect=ca"
+publishedDateTime: 2020-12-25T01:20:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN28Y1XK"
+webUrl: "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN28Y1XK"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Y1XK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Y1XK"
 type: article
@@ -174,6 +174,6 @@ related:
         height: 630
         isCached: true
 
-secured: "aaSuw//kHjEo0d07gqQ40f/2LVmTNV0/W/5XZTWZmUzyzvu4JrkXWRvNPAT1vqSH7/Ew00EBrL/NV495DySLT4z8D/Mtuueou+4+s68P9gtjmwYra6PQHIz3ZmXyum7XwrE/WRnb5V8bq9La+QQIE2uU7/dKGDilLZxmUNYYLL090H7JswJntGMduQQoYNzcaoqDhQJlYgE5ngWdlorIzmYDwEyGZ+CNkC9mLQU92YWNwA1+fmjmFsyU51HH+b0hssJhh/3n0qUFT/PYxNslofW0PXO7yjqvlNuIKKq9Bu6OMAJsoJHjpoma2+BisLtThY6UlPkJjx+xPRZh4IVXzhzJ901Z9hLNXxFYj3nSj4w=;oXn1WM7n9G2IviMj4+er+g=="
+secured: "9bbQpsY068PgHOCJRoZ9hSPcZ1JhBnNspQQzQDIgrPTYnuTN1c22ukaVN+E8O1pM8gpySKCbxwwYYd6H+Rxm/uNEeuBohB3Lq072Alpfl9HrvHlNCnny5v2huntbuxu+JGeFBy+sNLIXnjrabWWiErf8HMP7oHPJGK67+i9/6/iGGofPVanVrwWyKg3zOZYwwB4Pr8ileXtsDWo018z4DE6rUEMBEaOms4SmPQhQ6CtVLDe+ePQsY79X3jke2uo0G8eAB0gaJ209WYs5B4SJZQZ1lhfAC0LJU0DWsiTFJaSj7GUT6/S9E6D1opKjyHY0CrL+hCYx/X2QpLfjIvZxysBeRWlHS0YVvIHMyQ3Z8wg=;BsiJCROsaQM1Unf+7ETD0w=="
 ---
 

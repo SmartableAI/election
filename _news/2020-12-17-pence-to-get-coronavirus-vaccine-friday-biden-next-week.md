@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
 type: article
 quality: 200
-heat: 840
+heat: 860
 published: true
 
 provider:
@@ -239,6 +239,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c3bd447-8a3b-48ca-855f-1905ec761300/f9d04390-711f-4fdc-ae12-5d8d954e431c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden says coronavirus will be first, second & third priority come Jan. 20"
+    excerpt: "President-elect Joe Biden said on Wednesday that the coronavirus pandemic will be his “first priority, the second priority, and the third priority” once he takes over the White House next month."
+    publishedDateTime: 2020-12-25T01:56:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gzbQGGESdXo/biden-says-coronavirus-will-be-first-second-and-third-priority-once-taking-office"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-coronavirus-will-be-first-second-and-third-priority-once-taking-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-coronavirus-will-be-first-second-and-third-priority-once-taking-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20358633091199.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump: Coronavirus vaccine would have taken 'five years' if I wasn't president"
     excerpt: "President Trump said finding a coronavirus vaccine would have taken \"five years\" if he weren't president during an interview that aired Sunday."

@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/fired-attorney-sidney-powell-bac
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842"
 type: article
 quality: 118
-heat: 138
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Sidney Powell’s secret intelligence contractor witness is a pro-Trump podcaster"
+    excerpt: "Lindeman, whose credentials were questioned in a recent civil fraud case, confirmed that she wrote the affidavit and said she viewed it as her contribution to a fight against the theft of the election."
+    publishedDateTime: 2020-12-25T02:21:00Z
+    webUrl: "https://www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ASCOY2SFLQI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 766
+        isCached: true
   - title: "Trump wanted conspiracy theorist Sidney Powell as special counsel on voter fraud – report"
     excerpt: "Rudy Giuliani and other advisers opposed president’s suggestion, according to New York Times"
     publishedDateTime: 2020-12-19T20:12:00Z

@@ -244,6 +244,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump Golfs in Florida as COVID Relief Hangs in the Balance"
+    excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christmas Eve golfing in Florida."
+    publishedDateTime: 2020-12-24T23:42:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-24/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-24/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-24/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "oRH03RU30ggFDMGY6RYUdrgAm9K2VEjNGAfvOjUIeZChaEX/ELnn98zeQ+XEyyCnbM1VC6pIMkhuDh/e7hwPC+N7LZdhXg3Iwtp09zAaBnmssT1rxsFQCtefH2FIM/GNimsL6NCeq4tYrXRovC9bnd9OFqqnChorz42C/QhX9B+Jz8LbHCP8JhGDEF6IqN8Gjl+N9dosWh8lyrLl6Y0jBjDXYyAI88w+Xtl85hPKTHnwklPgVafG7VTux3+bEpo1iEUjDvsZ+Ng0V1vDXuEvqXfkoZl2wd74NYXWIY5rWWBemmQp+8ZzWCyREDOamWYMt+RWlJ5ccc5mY89Do6H5pQCDbBAqa6Ne9zSDfK3pqNI=;WjAoVxKkeShIc7sDUrpXbw=="
 ---

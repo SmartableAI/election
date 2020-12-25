@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump Jr. to stump for Perdue after Pence rallies Thursday, as Trump team answers Biden event"
-excerpt: "Donald Trump Jr. will hold his first in-person events of the Georgia Senate runoffs this week for Sen. David Perdue, adding himself to the long list of boldface political names to descend on the Peach State for the critical Jan."
-publishedDateTime: 2020-12-16T12:03:00Z
-originalUrl: "https://www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-pence-rallies-thursday-trump-team-answers-biden-event"
-webUrl: "https://www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-pence-rallies-thursday-trump-team-answers-biden-event"
-ampWebUrl: "https://www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-pence-rallies-thursday-trump-team-answers-biden-event.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-pence-rallies-thursday-trump-team-answers-biden-event.amp"
+title: "Biden says coronavirus will be first, second & third priority come Jan. 20"
+excerpt: "President-elect Joe Biden said on Wednesday that the coronavirus pandemic will be his “first priority, the second priority, and the third priority” once he takes over the White House next month."
+publishedDateTime: 2020-12-25T01:56:32Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gzbQGGESdXo/biden-says-coronavirus-will-be-first-second-and-third-priority-once-taking-office"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gzbQGGESdXo/biden-says-coronavirus-will-be-first-second-and-third-priority-once-taking-office"
+ampWebUrl: "https://www.foxnews.com/politics/biden-says-coronavirus-will-be-first-second-and-third-priority-once-taking-office.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-coronavirus-will-be-first-second-and-third-priority-once-taking-office.amp"
 type: article
-quality: 164
+quality: 173
 heat: -1
 published: false
 
@@ -22,12 +22,10 @@ provider:
 
 topics:
   - Election
-  - Mike Pence
   - Republican Voice
-  - Donald Trump
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-Jr-GETTY.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20358633091199.jpg?ve=1&tl=1"
     width: 640
     height: 320
     isCached: true
@@ -257,22 +255,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden says coronavirus will be first, second & third priority come Jan. 20"
-    excerpt: "President-elect Joe Biden said on Wednesday that the coronavirus pandemic will be his “first priority, the second priority, and the third priority” once he takes over the White House next month."
-    publishedDateTime: 2020-12-25T01:56:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gzbQGGESdXo/biden-says-coronavirus-will-be-first-second-and-third-priority-once-taking-office"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-coronavirus-will-be-first-second-and-third-priority-once-taking-office.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-coronavirus-will-be-first-second-and-third-priority-once-taking-office.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20358633091199.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump: Coronavirus vaccine would have taken 'five years' if I wasn't president"
     excerpt: "President Trump said finding a coronavirus vaccine would have taken \"five years\" if he weren't president during an interview that aired Sunday."
     publishedDateTime: 2020-12-13T13:35:59Z
@@ -336,6 +318,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df8f4632-4ac8-4f68-8edb-476828874608/ce0c337a-b8c1-4f66-896a-2d2458e61119/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump Jr. to stump for Perdue after Pence rallies Thursday, as Trump team answers Biden event"
+    excerpt: "Donald Trump Jr. will hold his first in-person events of the Georgia Senate runoffs this week for Sen. David Perdue, adding himself to the long list of boldface political names to descend on the Peach State for the critical Jan."
+    publishedDateTime: 2020-12-16T12:03:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-pence-rallies-thursday-trump-team-answers-biden-event"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-pence-rallies-thursday-trump-team-answers-biden-event.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-pence-rallies-thursday-trump-team-answers-biden-event.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-Jr-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Reporter tests positive for coronavirus after covering Biden in Georgia, transition office says"
     excerpt: "A member of the press who traveled with President-elect Biden on Tuesday tested positive for the coronavirus on Wednesday, according to Biden's transition team."
@@ -548,6 +546,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "AS3d06sT0+/IBhDZUp6MEJpXc3sk2DwCOFdkEAFaiZ13ovoA3iB7xSSSK0PCyJC3CvnrJ7W0I2WinXosOWYxMXc4dwR10HIfHWgLhXPvJNZhpAC8l5MZMcmTOtnrB+ac/xzTzPbaCHJo4XbTz3fCeCJa8tD7n7PRFz+FFEsz0ELotOh2D7bDHK8iyGdYfVSXgRm0yOFsK61hTcSvBISOijXL3I5QfUfUsJ5cJRJfEnPWDojbU7gHiv+o3CJ4I6/W+yJBxqhn7ny4tgsRoxt3BwL1P6LI5jI6ZTSjWcoGmbEzXQLKlzm85bAmqjfiSpNh/Yv/Lh7Z77bNfU/xxe/NOsScZvvp/zKRvolHzPexi+27EkG+JO8mKbpWKzSXjrLLUUAf0VeAd7RGGRmRPSo5fWTDZ8gQrJ+2xJTM8w+7h0G5POrpzLvb2wGat0NeaO7sTbKsyy8D4/F9lx2F2lnG0NHmhqG/j2E2cTev2edUt6+lQeafTAFZD+IyIpHXQTYWpENOjUIBn52jCNqW25cgjA==;+M5e7x84i5lIYyKhdX+WBA=="
+secured: "x5/CXdCN6BFuzJSDQWvtXJnaXKW2QyyXlkG6dlerk5pUUI8iT1qjVDuFM5UqGkWBDMKHRF0Nm6VlAhfRrLuBpIm9NtGOZ/fanoc1Z8i6aMLR/lByu/q+0+YpQBOatnccD6YJaGb3PgA17U1XdETIAYl1STN1JorbPyhmrHzs8YZUb/YyRW7IJnkQpINPRfFB2ePflOc9p1lUdJ+tlXwwKvC2bdfsS+GdGgbqjfIBdX7hW1O+dr6ryP6bEVO25MnyZ8apN7vhStp6qIayTsd/1lmhYuiQvLFsFuqCyq/9tItxdrULoCHT2LTFnrLkukSZFTU9XQ3mSxoQfXGSQ1SFcORKTy38X3YnaTKlm/5Ro5o=;CmQTREiUbGoOfnXGpymp1Q=="
 ---
 
