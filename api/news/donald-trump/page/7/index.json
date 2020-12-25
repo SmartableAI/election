@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-19-judge-orders-trump-administration-to-stop-expelling-unaccompanied-migrant-children-at-us-mexico-border.md",
+      "title": "Judge orders Trump administration to stop expelling unaccompanied migrant children at US-Mexico border",
+      "excerpt": "A U.S. judge has barred the Trump administration from expelling unaccompanied migrant children detained at the border under an emergency health order.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/11/18/judge-orders-us-stop-expelling-unaccompanied-migrant-children/3771858001/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/11/18/judge-orders-us-stop-expelling-unaccompanied-migrant-children/3771858001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/11/USAT/b6ca927b-2395-4a79-96c7-871c3f9b002d-AP_Immigration_Separated_Families.jpg?auto=webp&crop=2999,1687,x1,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3771858001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3771858001",
+      "publishedDateTime": "2020-11-19T01:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-trump-friendly-newsmax-seeks-to-cut-into-foxs-viewership.md",
       "title": "Trump-friendly Newsmax seeks to cut into Fox’s viewership",
       "excerpt": "NEW YORK -- Now that his largely invisible network has suddenly been flooded by fans of President Donald Trump, Newsmax television personality Grant Stinchfield is puffing out his chest.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-int/wisconsin-to-hold-partial-vote-recount-as-fuming-trump-denies-defeat-idUSKBN27V05A",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1520,
+      "heat": 1540,
       "tags": null,
       "images": [
         {
@@ -1501,58 +1553,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-abuse-of-the-rule-of-law-1000-ex-judges-legal-experts-slam-trumps-false-claims-of-voter-fraud.md",
-      "title": "'Abuse of the rule of law': 1,000 ex-judges, legal experts slam Trump's false claims of voter fraud",
-      "excerpt": "\"Court challenges ... must be based on facts, on evidence,\" says the letter from 1,000 attorneys, including retired federal and state judges, state attorneys general and law professors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/11/13/election-2020-trump-voter-fraud-claims-slammed-ex-officials/6276446002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/13/election-2020-trump-voter-fraud-claims-slammed-ex-officials/6276446002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/02/12/USAT/ce583045-798c-46cc-a18d-e3b61692e606-AP_Trump_15.JPG?auto=webp&crop=5026,2827,x0,y20&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6276446002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6276446002",
-      "publishedDateTime": "2020-11-13T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

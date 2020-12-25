@@ -7,8 +7,8 @@ originalUrl: "https://abcnews.go.com/Politics/urges-caution-covid-19-pence-flies
 webUrl: "https://abcnews.go.com/Politics/urges-caution-covid-19-pence-flies-florida-speak/story?id=74858979"
 type: article
 quality: 98
-heat: 118
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Maskless young conservatives chant ‘four more years’ with Pence at West Palm Beach conference that flouts COVID-19 rules"
-    excerpt: "Thousands of young conservatives from all over the country flocked to West Palm Beach for a four-day summit that flouted COVID-19 health guidelines and featured speeches from top conservative leaders,"
-    publishedDateTime: 2020-12-23T14:32:00Z
-    webUrl: "https://www.orlandosentinel.com/coronavirus/fl-ne-turning-point-usa-conference-20201223-imqanbdptfd7bb622xnix5v6vi-story.html"
-    ampWebUrl: "https://www.orlandosentinel.com/coronavirus/fl-ne-turning-point-usa-conference-20201223-imqanbdptfd7bb622xnix5v6vi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/coronavirus/fl-ne-turning-point-usa-conference-20201223-imqanbdptfd7bb622xnix5v6vi-story.html?outputType=amp"
+  - title: "Trump golfs in Florida, rails against House GOP and election results on first day of his winter vacation as COVID relief hangs in the balance"
+    excerpt: "Trump had no events on his public schedule on the first day of his winter vacation Thursday, but traveled to his Palm Beach golf club, where he was spotted by CNN cameras on the links. Reporters were given no details of his schedule for the day,"
+    publishedDateTime: 2020-12-24T23:52:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
     type: article
     provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 50
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 105
     images:
-      - url: "https://www.orlandosentinel.com/resizer/gq6nuuVyUjaZbzAyRwuaHN_d6G4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AOOTNBLPDJGGLA2PXCMQRNHIEQ.jpg"
+      - url: "https://www.chicagotribune.com/resizer/TVprj6I_MiixMX6j-AmfkAs6eYc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PAVSBWTRPDKJZNXABFXCVNHI6Q.aspx"
         width: 1200
         height: 800
         isCached: true

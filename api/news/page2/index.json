@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-24-trump-bashes-dems-extreme-left-wing-agenda-then-pushes-for-2000-cash-payments-something-opposed-by-conservatives-its-confusing.md",
+      "title": "Trump bashes Dems’ ‘extreme left-wing agenda,’ then pushes for $2,000 cash payments, something opposed by conservatives. It’s confusing.",
+      "excerpt": "President Donald Trump stood in the White House’s Diplomatic Reception Room, holiday garland and gleaming ornaments draped on the fireplace behind him, and spoke into the camera not to deliver warm Christmas wishes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-covid-19-relief-20201223-4npyt3iqsbbwtohq6fd4bin23e-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-covid-19-relief-20201223-4npyt3iqsbbwtohq6fd4bin23e-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/NIqwUIY1cAamOKhxJynugtGG97Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5CQXMI33ZVBUVOCTSVDKV6ZN4Y",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-covid-19-relief-20201223-4npyt3iqsbbwtohq6fd4bin23e-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-covid-19-relief-20201223-4npyt3iqsbbwtohq6fd4bin23e-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-23T12:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-egregious-and-disgusting-trumps-pardon-of-blackwater-contractors-sparks-outrage-warnings.md",
+      "title": "'Egregious and disgusting': Trump's pardon of Blackwater contractors sparks outrage, warnings",
+      "excerpt": "Blackwater contractors convicted of killing 14 Iraqi civilians could jeopardize the safety of American military personnel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/world/2020/12/23/trumps-blackwater-pardons-spark-outrage-fear-backlash-troops/4023126001/",
+      "originalUrl": "https://www.usatoday.com/story/news/world/2020/12/23/trumps-blackwater-pardons-spark-outrage-fear-backlash-troops/4023126001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/6fc81074669057475a44043318ad93911be424c2/c=0-192-3200-1997/local/-/media/USATODAY/USATODAY/2014/06/29/1404096296000-AP-Blackwater-Trial.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4023126001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4023126001",
+      "publishedDateTime": "2020-12-23T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-mike-pence-reportedly-in-vail-valley-for-the-holidays.md",
       "title": "Mike Pence reportedly in Vail Valley for the holidays",
       "excerpt": "Vice President Mike Pence has chosen the Vail Valley as his holiday destination, according to multiple sources.",
@@ -760,7 +864,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/pence-echoes-trump-election-loss-west-palm-beach-speech/4009750001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1801,
+      "heat": 1821,
       "tags": null,
       "images": [
         {
@@ -1238,114 +1342,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-even-as-he-urges-caution-on-covid-19-pence-flies-to-florida-to-speak-at-large-event.md",
-      "title": "Even as he urges caution on COVID-19, Pence flies to Florida to speak at large event",
-      "excerpt": "Vice President Mike Pence has urged Americans to step up precautions, but he flew to Florida to speak to thousands at an indoor summit held by a conservative youth group.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/urges-caution-covid-19-pence-flies-florida-speak/story?id=74858979",
-      "originalUrl": "https://abcnews.go.com/Politics/urges-caution-covid-19-pence-flies-florida-speak/story?id=74858979",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/pence-turningpt-abc-rc-201222_1608662483585_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T14:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-biden-says-cyberattack-happened-on-trumps-watch-when-he-wasnt-watching.md",
-      "title": "Biden says cyberattack happened on ‘Trump’s watch when he wasn’t watching’",
-      "excerpt": "President-elect Joe Biden is placing blame for the serious cyber hack of numerous federal government agencies and major companies on President Trump and pledged that “we will respond” when it’s determined which county is behind the damage.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9bt43KxK9EA/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9bt43KxK9EA/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 288,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching.amp",
-      "publishedDateTime": "2020-12-22T14:07:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

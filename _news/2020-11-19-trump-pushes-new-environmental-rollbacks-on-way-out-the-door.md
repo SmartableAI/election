@@ -601,6 +601,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Court affirms ruling dismissing Trump challenge in Wisconsin"
+    excerpt: "A federal appeals court has refused to overturn a decision dismissing President Donald Trump’s lawsuit seeking to declare him the winner in swing state Wisconsin"
+    publishedDateTime: 2020-12-24T23:24:00Z
+    webUrl: "https://www.washingtonpost.com/national/court-affirms-ruling-dismissing-trump-challenge-in-wisconsin/2020/12/24/49f7228a-463e-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/court-affirms-ruling-dismissing-trump-challenge-in-wisconsin/2020/12/24/49f7228a-463e-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/court-affirms-ruling-dismissing-trump-challenge-in-wisconsin/2020/12/24/49f7228a-463e-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Spurred on by false claims of fraud, Trump supporters rally in Washington"
     excerpt: "Tens of thousands of President Donald Trump's supporters marched through downtown Washington on Saturday, echoing his unsubstantiated claims of election fraud and cheering as his motorcade drove past."
     publishedDateTime: 2020-11-15T07:46:00Z

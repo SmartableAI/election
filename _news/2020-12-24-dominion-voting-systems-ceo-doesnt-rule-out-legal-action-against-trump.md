@@ -189,6 +189,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump squeezes Republicans with eye on 2022 primaries"
+    excerpt: "The president is lashing out at Republicans he sees as disloyal — and the GOP is seeing how Trump's interests can diverge from the party's."
+    publishedDateTime: 2020-12-24T21:35:00Z
+    webUrl: "https://www.politico.com/news/2020/12/24/trump-republicans-2022-primaries-450381"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d5/e6/10028d3d45e5b1a55db4eb16a90f/201224-kemp-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "BBMAxCG1CJBZ7uqSPINAQEGQTOi3dCXt/hgFoeYKO0viaoRTVjhBnRMWgYZrmTDPqoZne2hplBIDz70SjQm2sRZvqK3pTDzEILjtEiYdr8NYKNjSYSikON7Z2JiHyvoOVsUdku8wChr8ybeVaZ5B4HbIPGyb3WaYy782migi0V+SpajUhFY1eHdcjeLdJw4Vs1gpN4592q9WwzznVV4hcFNQRSK85RukFI8iefL+0rHy49Ljcoy7OtbjEsXrpvI9ZSrOmkpq1+ru9FNNWynngnYECKZ8hMSJI40ZxrJ6jRmGj8EMrqVQlafS45qayiv9hea4R1G5ZNBWGpDdURVxhz11HLkEtuHPOk0h9fSKXV8=;uASFmbcQ3MfRCkbICAgCtA=="
 ---

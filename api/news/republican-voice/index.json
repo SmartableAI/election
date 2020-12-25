@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-25-rep-buck-mueller-set-precedent-that-demands-hunter-biden-special-counsel.md",
+      "title": "Rep. Buck: Mueller set 'precedent' that demands Hunter Biden special counsel",
+      "excerpt": "House Judiciary Committee member Rep. Ken Buck, R-Colo., said Thursday that he is disappointed outgoing Attorney General Bill Barr refused to name a special counsel to investigate Hunter Biden, the 50-year-old son of Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k-JG7W-ujHU/rep-buck-mueller-set-precedent-that-demands-hunter-biden-special-counsel",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k-JG7W-ujHU/rep-buck-mueller-set-precedent-that-demands-hunter-biden-special-counsel",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b72c5183-ca3c-4d70-a458-7e198c681306/48a80fe5-8ebd-4c65-85fa-6a2e7a648706/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-buck-mueller-set-precedent-that-demands-hunter-biden-special-counsel.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-buck-mueller-set-precedent-that-demands-hunter-biden-special-counsel.amp",
+      "publishedDateTime": "2020-12-24T16:17:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-roger-stone-vows-to-sue-lawmaker-for-claiming-he-covered-up-trump-misconduct-for-clemency.md",
+      "title": "Roger Stone vows to sue lawmaker for claiming he covered up Trump misconduct for clemency",
+      "excerpt": "Veteran political operative Roger Stone is vowing to sue a Democratic lawmaker, alleging that he falsely accused him of covering for President Trump in order to obtain clemency.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAbKf5U72vE/roger-stone-sue-hakeem-jeffries",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAbKf5U72vE/roger-stone-sue-hakeem-jeffries",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cccc97f7-4285-4736-a48d-39699d71d1dc/e1d53e3e-9a8b-4517-8baf-6b33c1b4535b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp",
+      "publishedDateTime": "2020-12-24T16:10:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-trump-campaign-persists-with-election-challenges-less-than-2-weeks-from-key-jan-6-date.md",
       "title": "Trump campaign persists with election challenges less than 2 weeks from key Jan. 6 date",
       "excerpt": "President Trump and his campaign are continuing to challenge the result of November's presidential election, with a number of cases still ongoing less than two weeks before electoral votes are officially counted by Congress on Jan. 6.",
@@ -31,62 +143,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-election-challenges-ongoing-jan-6-date.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-election-challenges-ongoing-jan-6-date.amp",
       "publishedDateTime": "2020-12-24T11:47:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.md",
-      "title": "Ivanka Trump champions working families, fights human trafficking during her father's presidency",
-      "excerpt": "While President Donald Trump commanded the nation’s attention over the last four years, his daughter and senior adviser, Ivanka Trump, racked up a list of considerable achievements.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20356689491057.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp",
-      "publishedDateTime": "2020-12-24T10:23:31-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1519,62 +1575,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-20-trump-responds-to-boltons-incompetence-claim-hints-he-could-reveal-stupid-stories-about-former-adviser.md",
-      "title": "Trump responds to Bolton's 'incompetence' claim, hints he could reveal 'stupid stories' about former adviser",
-      "excerpt": "President Trump hit back after former national security adviser John Bolton blasted him for \"incompetence\" amid reports that Trump discussed invoking martial law with another former national security adviser, Michael Flynn.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QaPj5M9iXz0/trump-bolton-election-martial-law-michael-flynn",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QaPj5M9iXz0/trump-bolton-election-martial-law-michael-flynn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/09/640/320/3b9234da-Bolton091919.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-bolton-election-martial-law-michael-flynn.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-bolton-election-martial-law-michael-flynn.amp",
-      "publishedDateTime": "2020-12-20T08:07:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-20-navarro-we-are-all-china-hawks-because-of-trump.md",
       "title": "Navarro: 'We are all China hawks' because of Trump",
       "excerpt": "As tensions between the U.S. and China rage on, White House trade adviser Peter Navarro told \"Fox & Friends Weekend\" that President Trump has pushed both parties to take a tougher line against China.",
@@ -1643,7 +1643,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 330,
+      "heat": 310,
       "tags": null,
       "images": [
         {

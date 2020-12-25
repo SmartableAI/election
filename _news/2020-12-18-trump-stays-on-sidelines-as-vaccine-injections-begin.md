@@ -1191,6 +1191,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump, Pence reportedly met before president went to Florida"
+    excerpt: "Pence joined a meeting between Trump and a sizable group of House conservatives where the long-shot effort to overturn the election results in January was discussed."
+    publishedDateTime: 2020-12-25T00:20:00Z
+    webUrl: "https://www.mercurynews.com/2020/12/24/trump-pence-reportedly-met-before-president-went-to-florida"
+    ampWebUrl: "https://www.mercurynews.com/2020/12/24/trump-pence-reportedly-met-before-president-went-to-florida/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/24/trump-pence-reportedly-met-before-president-went-to-florida/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 90
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/sjm-utbreak-Trump-Vaccine_79646317.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "A Lincoln Project ad reportedly turned Trump against Mike Pence. Pence is now bending."
     excerpt: "President Trump has turned against everyone he thinks isn't fighting to keep in office after he lost the Nov. 3 election, according to several reports and Trump tweets, and among those the president considers insufficiently loyal is Vice President Mike Pence,"
     publishedDateTime: 2020-12-23T08:30:00Z

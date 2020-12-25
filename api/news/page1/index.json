@@ -2,6 +2,170 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-25-rep-buck-mueller-set-precedent-that-demands-hunter-biden-special-counsel.md",
+      "title": "Rep. Buck: Mueller set 'precedent' that demands Hunter Biden special counsel",
+      "excerpt": "House Judiciary Committee member Rep. Ken Buck, R-Colo., said Thursday that he is disappointed outgoing Attorney General Bill Barr refused to name a special counsel to investigate Hunter Biden, the 50-year-old son of Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k-JG7W-ujHU/rep-buck-mueller-set-precedent-that-demands-hunter-biden-special-counsel",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k-JG7W-ujHU/rep-buck-mueller-set-precedent-that-demands-hunter-biden-special-counsel",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b72c5183-ca3c-4d70-a458-7e198c681306/48a80fe5-8ebd-4c65-85fa-6a2e7a648706/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-buck-mueller-set-precedent-that-demands-hunter-biden-special-counsel.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-buck-mueller-set-precedent-that-demands-hunter-biden-special-counsel.amp",
+      "publishedDateTime": "2020-12-24T16:17:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-roger-stone-vows-to-sue-lawmaker-for-claiming-he-covered-up-trump-misconduct-for-clemency.md",
+      "title": "Roger Stone vows to sue lawmaker for claiming he covered up Trump misconduct for clemency",
+      "excerpt": "Veteran political operative Roger Stone is vowing to sue a Democratic lawmaker, alleging that he falsely accused him of covering for President Trump in order to obtain clemency.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAbKf5U72vE/roger-stone-sue-hakeem-jeffries",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAbKf5U72vE/roger-stone-sue-hakeem-jeffries",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cccc97f7-4285-4736-a48d-39699d71d1dc/e1d53e3e-9a8b-4517-8baf-6b33c1b4535b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp",
+      "publishedDateTime": "2020-12-24T16:10:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-trump-golfs-in-florida-rails-against-house-gop-and-election-results-on-first-day-of-his-winter-vacation-as-covid-relief-hangs-in-the-balance.md",
+      "title": "Trump golfs in Florida, rails against House GOP and election results on first day of his winter vacation as COVID relief hangs in the balance",
+      "excerpt": "Trump had no events on his public schedule on the first day of his winter vacation Thursday, but traveled to his Palm Beach golf club, where he was spotted by CNN cameras on the links. Reporters were given no details of his schedule for the day,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/TVprj6I_MiixMX6j-AmfkAs6eYc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PAVSBWTRPDKJZNXABFXCVNHI6Q.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-24T15:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-for-gods-sakes-get-out-of-the-way-trumps-former-national-security-adviser-urges-him-to-fund-the-us-military.md",
       "title": "'For God's sakes, get out of the way': Trump's former national security adviser urges him to fund the US military",
       "excerpt": "Former national security adviser John Bolton told Trump to \"get out of the way\" and said he was \"not a conservative.\"",
@@ -211,62 +375,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.md",
-      "title": "Ivanka Trump champions working families, fights human trafficking during her father's presidency",
-      "excerpt": "While President Donald Trump commanded the nation’s attention over the last four years, his daughter and senior adviser, Ivanka Trump, racked up a list of considerable achievements.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20356689491057.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp",
-      "publishedDateTime": "2020-12-24T10:23:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -1215,7 +1323,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 375,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -1256,110 +1364,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-trump-bashes-dems-extreme-left-wing-agenda-then-pushes-for-2000-cash-payments-something-opposed-by-conservatives-its-confusing.md",
-      "title": "Trump bashes Dems’ ‘extreme left-wing agenda,’ then pushes for $2,000 cash payments, something opposed by conservatives. It’s confusing.",
-      "excerpt": "President Donald Trump stood in the White House’s Diplomatic Reception Room, holiday garland and gleaming ornaments draped on the fireplace behind him, and spoke into the camera not to deliver warm Christmas wishes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-covid-19-relief-20201223-4npyt3iqsbbwtohq6fd4bin23e-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-covid-19-relief-20201223-4npyt3iqsbbwtohq6fd4bin23e-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/NIqwUIY1cAamOKhxJynugtGG97Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5CQXMI33ZVBUVOCTSVDKV6ZN4Y",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-covid-19-relief-20201223-4npyt3iqsbbwtohq6fd4bin23e-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-covid-19-relief-20201223-4npyt3iqsbbwtohq6fd4bin23e-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-23T12:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-egregious-and-disgusting-trumps-pardon-of-blackwater-contractors-sparks-outrage-warnings.md",
-      "title": "'Egregious and disgusting': Trump's pardon of Blackwater contractors sparks outrage, warnings",
-      "excerpt": "Blackwater contractors convicted of killing 14 Iraqi civilians could jeopardize the safety of American military personnel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/world/2020/12/23/trumps-blackwater-pardons-spark-outrage-fear-backlash-troops/4023126001/",
-      "originalUrl": "https://www.usatoday.com/story/news/world/2020/12/23/trumps-blackwater-pardons-spark-outrage-fear-backlash-troops/4023126001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/6fc81074669057475a44043318ad93911be424c2/c=0-192-3200-1997/local/-/media/USATODAY/USATODAY/2014/06/29/1404096296000-AP-Blackwater-Trial.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4023126001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4023126001",
-      "publishedDateTime": "2020-12-23T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

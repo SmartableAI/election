@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-22-biden-says-cyberattack-happened-on-trumps-watch-when-he-wasnt-watching.md",
+      "title": "Biden says cyberattack happened on ‘Trump’s watch when he wasn’t watching’",
+      "excerpt": "President-elect Joe Biden is placing blame for the serious cyber hack of numerous federal government agencies and major companies on President Trump and pledged that “we will respond” when it’s determined which county is behind the damage.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9bt43KxK9EA/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9bt43KxK9EA/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 288,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching.amp",
+      "publishedDateTime": "2020-12-22T14:07:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-biden-no-obvious-choice-yet-for-attorney-general.md",
       "title": "Biden: No 'obvious choice' yet for attorney general",
       "excerpt": "The president-elect also re-upped his commitment to not discuss his son's legal troubles with any AG candidates.",
@@ -1311,58 +1367,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-ag-barr-says-he-sees-no-reason-to-name-special-counsels-to-investigate-hunter-biden-or-election-fraud.md",
-      "title": "AG Barr says he sees no reason to name special counsels to investigate Hunter Biden or election fraud",
-      "excerpt": "Attorney General Barr said he saw no reason to appoint special counsels to investigate Hunter Biden or unsubstantiated allegations of election fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/21/barr-no-reason-special-counsels-hunter-biden-election-fraud/3991548001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/21/barr-no-reason-special-counsels-hunter-biden-election-fraud/3991548001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/15/USAT/692ddb1b-5135-4cd3-9a7d-f76290ac2108-VPC_BARR_RESIGNS_GETTY_WIDE.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3991548001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3991548001",
-      "publishedDateTime": "2020-12-21T08:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

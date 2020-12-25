@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-25-trump-golfs-in-florida-rails-against-house-gop-and-election-results-on-first-day-of-his-winter-vacation-as-covid-relief-hangs-in-the-balance.md",
+      "title": "Trump golfs in Florida, rails against House GOP and election results on first day of his winter vacation as COVID relief hangs in the balance",
+      "excerpt": "Trump had no events on his public schedule on the first day of his winter vacation Thursday, but traveled to his Palm Beach golf club, where he was spotted by CNN cameras on the links. Reporters were given no details of his schedule for the day,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/TVprj6I_MiixMX6j-AmfkAs6eYc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PAVSBWTRPDKJZNXABFXCVNHI6Q.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-24T15:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-for-gods-sakes-get-out-of-the-way-trumps-former-national-security-adviser-urges-him-to-fund-the-us-military.md",
       "title": "'For God's sakes, get out of the way': Trump's former national security adviser urges him to fund the US military",
       "excerpt": "Former national security adviser John Bolton told Trump to \"get out of the way\" and said he was \"not a conservative.\"",
@@ -962,7 +1014,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/pence-echoes-trump-election-loss-west-palm-beach-speech/4009750001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1801,
+      "heat": 1821,
       "tags": null,
       "images": [
         {
@@ -1529,63 +1581,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-full-panel-trump-downplays-widespread-us-security-breach.md",
-      "title": "Full Panel: Trump downplays widespread U.S. security breach",
-      "excerpt": "Hallie Jackson, Yamiche Alcindor and Rich Lowry join the Meet the Press roundtable to discuss President Trump's response to a massive hack of government agencies and businesses reportedly tied to Russia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/video/full-panel-trump-downplays-widespread-u-s-security-breach-98115141679",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/full-panel-trump-downplays-widespread-u-s-security-breach-98115141679",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/1608475557148_mtp_full_panel_201220_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo98115141679",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98115141679",
-      "publishedDateTime": "2020-12-20T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -1202,6 +1202,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump, Pence reportedly met before president went to Florida"
+    excerpt: "Pence joined a meeting between Trump and a sizable group of House conservatives where the long-shot effort to overturn the election results in January was discussed."
+    publishedDateTime: 2020-12-25T00:20:00Z
+    webUrl: "https://www.mercurynews.com/2020/12/24/trump-pence-reportedly-met-before-president-went-to-florida"
+    ampWebUrl: "https://www.mercurynews.com/2020/12/24/trump-pence-reportedly-met-before-president-went-to-florida/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/24/trump-pence-reportedly-met-before-president-went-to-florida/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 90
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/sjm-utbreak-Trump-Vaccine_79646317.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "The Time Trump Told Boy Scouts About Sexy Yacht Parties"
     excerpt: "The president’s address to the Boy Scout Jamboree featured attacks on enemies and underlings, as well as risqué tales of his own greatness."
     publishedDateTime: 2020-12-16T02:21:00Z
