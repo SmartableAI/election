@@ -1162,14 +1162,14 @@ related:
   - title: "Pres. Trump remains silent on COVID 19 surge"
     excerpt: "Watch \"Pres. Trump remains silent on COVID 19 surge\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-12-25T07:36:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201225101228-pres-trump-remains-silent-on-covid-19-surge/"
+    webUrl: "https://www.cbsnews.com/live/video/20201225121228-pres-trump-remains-silent-on-covid-19-surge/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/25/story_08271488_1608891364.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/25/story_08272665_1608899464.jpg"
         width: 1280
         height: 720
         isCached: true

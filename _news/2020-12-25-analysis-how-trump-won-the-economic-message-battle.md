@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Tension rises between Pentagon and Biden transition team over meetings"
-excerpt: "President-elect Joe Biden's transition team said Friday that they did not agree to a two-week break in critical transfer-of-power discussions with Pentagon officials, despite an assertion from the acting Defense Secretary that both sides had agreed to take such a \"holiday pause.\"\n    \n"
-publishedDateTime: 2020-12-18T20:43:49Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vf2Viwt8QFo/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vf2Viwt8QFo/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/pentagon-dod-transition-briefings/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/pentagon-dod-transition-briefings/index.html"
+title: "Analysis: How Trump won the economic message battle"
+excerpt: "President Donald Trump has always liked to talk about how strong the economy was under his watch.\n    \n"
+publishedDateTime: 2020-12-25T11:52:55Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eOS6Wx_ZY7Q/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eOS6Wx_ZY7Q/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/12/25/politics/trump-economy-analysis/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/25/politics/trump-economy-analysis/index.html"
 type: article
 quality: 175
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215172845-02-pentagon-building-file-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211141734-trump-1207-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Tension rises between Pentagon and Biden transition team over meetings"
+    excerpt: "President-elect Joe Biden's transition team said Friday that they did not agree to a two-week break in critical transfer-of-power discussions with Pentagon officials, despite an assertion from the acting Defense Secretary that both sides had agreed to take such a \"holiday pause.\"\n    \n"
+    publishedDateTime: 2020-12-18T20:43:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vf2Viwt8QFo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/pentagon-dod-transition-briefings/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/pentagon-dod-transition-briefings/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215172845-02-pentagon-building-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: How voters rank Trump a historically bad president"
     excerpt: "Poll of the week: A new Fox News poll finds that 42% of voters say history will remember President Donald Trump as one of the worst presidents ever.\n    \n"
     publishedDateTime: 2020-12-20T17:42:00Z
@@ -204,22 +220,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210140000-01-trump-1102-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: How Trump won the economic message battle"
-    excerpt: "President Donald Trump has always liked to talk about how strong the economy was under his watch.\n    \n"
-    publishedDateTime: 2020-12-25T11:52:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eOS6Wx_ZY7Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/25/politics/trump-economy-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/25/politics/trump-economy-analysis/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211141734-trump-1207-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -446,6 +446,6 @@ related:
         height: 773
         isCached: true
 
-secured: "JsuqcgJNRD7oBvFdq8cK/a+TyeqFDpHdmudAScJ9oVnsxCAI49P+TZ8TkT01PTdKmaaR6opkJ7vVQ16VE7lBUrkNs0JppQHUObV8jKGOEaHJueI5BuYnr2+d3GvAa7RMkqpT91N7hXN61KR4qImiB/UaoD+C8w2onLEkSuT6OIaSavaDsP6bmGsMpRtALGENvNXZuOUJDrEoOOqpKPfKum39AZTR+WC6dbFMABUFktz+vSiSGPO/uMuHB3s+VQMj5PXFV50MD7FIyv7dN8/rlxOygr/7gGag2lmDCQiyuiXt/yb5ywi3991NAq6uLjA3U/i5oKu4SE0X0pxC4qPUpUBdMoBTBeDYTvkKWtWw9G4=;OfchpQTauUwWDaJNMWvLew=="
+secured: "qpjn6HIlqaCaz/xFZZ0263PZ5DG3hmijuLoFSw2Bg7IrW+KH7PD9irem9DV1aZN7ulJTUcTP2YZLXpo7l8eBI0ugf3CFMhKJhJ9oSXdwHrLEAhxAD2EpbovnWpa7oLSYeBlPUilg5QgKiaL3izEhfp8e3mEjmcInnG4uyZR6tjPkJTnV3ARrx6oyeFoMuLdFvd8bxFVPACa45G9t/DQseNdRY0I8+sHpJdvE3H3devFcFx1QNSVlMFuQnE5llbpuuzyKF3CABQfsvHXm7oFYfjch7NPFLJ/L5Kyp+1BCtGiP/7khiYcJB0Idp5QauNoGWYZjIyfzI1NcFS759VVDVZZBmett7Y2yPT3Ls2JhTjA=;Uocxks2Bh2aIm6+2gE4QiQ=="
 ---
 

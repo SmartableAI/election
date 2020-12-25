@@ -1,36 +1,54 @@
 ---
 category: news
-title: "From Trump's impeachment trial to Hunter Biden: The biggest political scandals of 2020"
-excerpt: "As 2020 comes to a close, the news has been dominated by a global pandemic, statewide lockdowns and a presidential election. Amid all that, it’s easy to forget about political events, including scandals and controversies, that otherwise would have been more in the spotlight."
-publishedDateTime: 2020-12-22T19:27:31Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U99P66zzip0/trump-biden-biggest-political-scandals-of-2020"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U99P66zzip0/trump-biden-biggest-political-scandals-of-2020"
-ampWebUrl: "https://www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
+title: "President Trump Spends Christmas at Mar-a-Lago, and Joe Biden in Delaware"
+excerpt: "The president"
+publishedDateTime: 2020-12-25T13:16:00Z
+originalUrl: "https://www.wsj.com/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768?mod=hp_listb_pos1"
+webUrl: "https://www.wsj.com/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768?mod=hp_listb_pos1"
+ampWebUrl: "https://www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
 type: article
-quality: 182
-heat: 342
-published: true
+quality: 159
+heat: -1
+published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
+  name: Wall Street Journal
+  domain: wsj.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
+  - Donald Trump
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6735719-5880-4721-98a4-9f6162f992d6/7744e53b-a550-4780-9b27-5228d2ea0d54/1280x720/match/image.jpg"
+  - url: "https://images.wsj.net/im-278203/social"
     width: 1280
-    height: 720
+    height: 640
     isCached: true
 
 related:
+  - title: "From Trump's impeachment trial to Hunter Biden: The biggest political scandals of 2020"
+    excerpt: "As 2020 comes to a close, the news has been dominated by a global pandemic, statewide lockdowns and a presidential election. Amid all that, it’s easy to forget about political events, including scandals and controversies, that otherwise would have been more in the spotlight."
+    publishedDateTime: 2020-12-22T19:27:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U99P66zzip0/trump-biden-biggest-political-scandals-of-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6735719-5880-4721-98a4-9f6162f992d6/7744e53b-a550-4780-9b27-5228d2ea0d54/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump asking about potential special counsel to investigate Hunter Biden after Barr resignation"
     excerpt: "President Trump is talking to advisers about asking for a special counsel to be appointed to continue investigations into the \"tax affairs\" of Hunter Biden, the son of President-elect Biden, according to a report."
     publishedDateTime: 2020-12-16T13:37:11Z
@@ -111,22 +129,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "President Trump Spends Christmas at Mar-a-Lago, and Joe Biden in Delaware"
-    excerpt: "The president"
-    publishedDateTime: 2020-12-25T13:16:00Z
-    webUrl: "https://www.wsj.com/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768?mod=hp_listb_pos1"
-    ampWebUrl: "https://www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 159
-    images:
-      - url: "https://images.wsj.net/im-278203/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Graham vows to hold Dems, media accountable over Hunter Biden: 'We're not going to sweep this under the rug'"
     excerpt: "Senate Judiciary Committee Chairman Lindsey Graham doubled down Thursday on his calls for President Trump to appoint a special counsel to investigate Hunter Biden’s business dealings in China."
     publishedDateTime: 2020-12-18T01:19:36Z
@@ -160,6 +162,6 @@ related:
         height: 320
         isCached: true
 
-secured: "sNpHSgJOnBsL/v+O4SP2X17Ah42MThBWJNT+jAId2h2DJ4rNIj0HIeyIADBLSr2uXuqDdi8cP5F3AB2bDU4EffmPoxAUmNT4j4Qik+zYbgLDxqN2R3CA/gGHZX1I3O08zpe0+EOgckz7vMx4V/FseP2ci+ghX3+0GFhB1DNKsIR0yWrDV1LhDG/EwvqiMnFhEnm8vGeyFnheuiyMC6R61VDQVJPIC/RVmUv3VKeizXM5ZVz+PBoWJnynBfwo1Ap2+GfgO/Z65SgJ//03RJqGuTkgEAkSJ6X5nLTXMcp+I6itkry/5JHn2itqZLGzpigxOezNK1U7dUjLeAAnpF1HlmZjZmAyyM1a84/ShXMhktU=;aLdU3RWLUXoY5Xduk4BHYw=="
+secured: "A8ZIPeqnrpr0W9yNR3PUwhtE9W3qrwi1QP2XKPnVohzTh0mLi+BxA/9q2iV/VqASi91daQ/RwqfNOgupTsb6fmyVaGPjNEihER/u7OQnpQPYkZW5G4laV3/SM08aQRFdpwThczHEPdn6wnavOTXY/gZ3buheKn8oSYDrpxdNsmcCWtMOu59k0/5NZPpPQjH8S1o4VdKmO+GIx3KiVu8uuzURlyz48SSfZ0gq+XxxqjWO45NwOUsTEB8n0DY6gxGjG3YTsQtluUj5eDdszPbUujUplLXB2QujejF0KEuXS7MaOoMpPloqlgiAU3diSIpgm7Z7YH08YcjMW81Kkbw/oghEkYvIV+oqcC0TQAUPBug=;vwzW14GcFFgtdDjOR9FjHw=="
 ---
 
