@@ -2,15 +2,15 @@
 category: news
 title: "Harris giving Biden 'spotlight' on coronavirus relief talks: Deroy Murdock"
 excerpt: "Vice-president-elect Kamala Harris is giving President-elect Joe Biden the “spotlight” on coronavirus relief discussions, Fox News contributor Deroy Murdock said on Thursday."
-publishedDateTime: 2020-12-24T17:04:37Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zR00ev9bZJs/harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zR00ev9bZJs/harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock"
+publishedDateTime: 2020-12-24T17:20:00Z
+originalUrl: "https://www.foxnews.com/politics/harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock"
+webUrl: "https://www.foxnews.com/politics/harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock"
 ampWebUrl: "https://www.foxnews.com/politics/harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock.amp"
 type: article
-quality: 198
-heat: 258
-published: true
+quality: 158
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
   - Kamala Harris
 
@@ -32,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "Harris giving Biden 'spotlight' on coronavirus relief talks: Deroy Murdock"
+    excerpt: "Vice-president-elect Kamala Harris is giving President-elect Joe Biden the “spotlight” on coronavirus relief discussions, Fox News contributor Deroy Murdock said on Thursday."
+    publishedDateTime: 2020-12-24T17:04:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zR00ev9bZJs/harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 198
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "President-elect Joe Biden’s dogs wish Americans a Merry Christmas"
     excerpt: "President-elect Joe Biden’s dogs Champ and Major wished Americans a merry Christmas on Thursday — and gave the public a glimpse of what the White House is in for next month."
     publishedDateTime: 2020-12-25T03:03:25Z
@@ -64,23 +81,7 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Harris giving Biden 'spotlight' on coronavirus relief talks: Deroy Murdock"
-    excerpt: "Vice-president-elect Kamala Harris is giving President-elect Joe Biden the “spotlight” on coronavirus relief discussions, Fox News contributor Deroy Murdock said on Thursday."
-    publishedDateTime: 2020-12-24T17:20:00Z
-    webUrl: "https://www.foxnews.com/politics/harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
-secured: "XQk3RncN5uwjfheN5TJ5nz1Y0R0j+xgp5rdOqTUIpk8BryPbiLsbye1p+MMVIIi+C06pRgiZ38jsOuhtJyy9Kh3X23Chj8gDnm0nCjvscR1SrTHnaupqBPAca5uTgknLliu9V88oQdfwCXXnKx0i+RnK2vmCUz3M40BmthFpsH9eFG2CF8JLGjgTW0tlrld9Yulo0nlDSdq0Jg7lURjxMyDid+iSKrHesKfeEROjXLo8Sd+nwuuME71JAo7mTDOjsHtzVdjEQEHCUTfPo/GcTviJRfwFUhA9v9j8nDtHnx3yL8HoxxiYNQF4Vdm0+HyfqetGowulhxjiaHHiXSN7kCWllTf6taZzsZn7VvW/Xlw=;VqZ3eZ6EyAfDJHVv8kaKRA=="
+secured: "SjYBtu+hBa+TPoLmLq9LqLAlZfQjcDXd+D8svr+kbLW5C+A//VuJuIJxoHBIh6KcDzwKpLCdqc48frXiJfK16EXLq9UJp/HZ/3Ip9zPbKDv9Fd+prMl/mnSL8vdEfmN1452YHXFKMVuxBvLP6mMYOgGT589AwTtjppnrogFuNLJqi8u6QHYx0otDEmc9JQvqmJUfo2w+d9hu+c7VZhTVaem7X5PXKHIXOpZLexi9BamKyP1jBw6AD8/biPRYQhWc89PlBv39NY3tDoTy6xiuXftU6LcaYjI25hCWPFClRokseKo7Re6cp5WUFUcf9dqKLHTTGnaFMW0MQn8/gcAQnhgB+q5BjuTkXBaq3MtjLSY=;FLcXDDZ4ULsZoF1B2VFs/g=="
 ---
 

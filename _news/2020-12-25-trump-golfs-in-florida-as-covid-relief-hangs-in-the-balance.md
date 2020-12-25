@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Trump golfs in Florida as COVID relief hangs in the balance"
-excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christmas Eve golfing in Florida."
-publishedDateTime: 2020-12-25T04:40:00Z
-originalUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html"
-webUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html"
-ampWebUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christ"
+publishedDateTime: 2020-12-24T23:43:00Z
+originalUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html"
+webUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
@@ -261,6 +261,6 @@ related:
         height: 600
         isCached: true
 
-secured: "pR3Qm6uzisvIVYmeY00l4h2aoCmgzbpO8iS2sGYDjlMfxzrvJoZiCQw58/tzfTGrRmJk58OInbXZ5G+lPQCfh9+t6c2AzgRuL8rIYzp3MXT2gC5tMWJGdhGSx9uYktlUSTqPEFgTSSOHEUSWrw+6dZ5dG4bjmrTO+LpQVCze5bO830Er++nqwQfbLM4/ON6wxJvsg5s7t2/sBQ2Amldjmfqva0AMsn/Zmu3g81vVMRkLMAIiAzdXDLAI4LkV8EmljBQ8ZkytDIWVgrAqx/9zFhvfFVqSycNZfOh5lIJHrcuK1er1lZGY+7pUGSlwV8rfOafpiFn+M/e6X5JIN7aojBzyXhUwl/39viRAn1yQedc=;U46C4vDZPJ/dYqh5ZFmNcQ=="
+secured: "EEqIlyXgNxbmo9uXX1sgXLsJF8Z0a+arZPkWA5FksbIYE0JeNr0lnPHfYm+2k5lHDi88JOtIw28HYpW5aKTMQ5l74Qj+Jn+eU0S7o1bnvrFXAXeYDhODHLWSABTkNogwRu7OMrhhpbapA+8aQpUGjlri+KH1THW0sIpWPaiJCm9q1j+EPOUaunIGjIyBUTcgcRvoBMNKynZCsWq8z3iFKpOrS0rAu208rD49nuEJMmUp673nbhUP29tfsaWEmcrMpjBo72xdLEFtiQT17aBzdRnSadAps8CfhlzOG48HUfjEQsP29J3toSPxCAeHyJ5hnOsQGywroaNh0gsdbREx+iYq3u6VoYkh1Mypt0k58/M=;R3xqQc82UIgVGBcF9zOvbA=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Biden eyes frequent testing to reopen nation's schools"
 excerpt: "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country."
 publishedDateTime: 2020-12-23T19:55:00Z
-originalUrl: "https://www.politico.com/states/california/story/2020/12/23/biden-eyes-frequent-testing-to-reopen-nations-schools-1350426"
-webUrl: "https://www.politico.com/states/california/story/2020/12/23/biden-eyes-frequent-testing-to-reopen-nations-schools-1350426"
+originalUrl: "https://www.politico.com/states/new-york/albany/story/2020/12/23/biden-eyes-frequent-testing-to-reopen-nations-schools-1350426"
+webUrl: "https://www.politico.com/states/new-york/albany/story/2020/12/23/biden-eyes-frequent-testing-to-reopen-nations-schools-1350426"
 type: article
 quality: 115
 heat: -1
@@ -559,6 +559,6 @@ related:
         height: 550
         isCached: true
 
-secured: "Y7xgD7KooeirhT/BVVYAALbyl9n6xED/lkC0r9g4mo9kdeYCs50mZOMsds6HHIp4lLPa5cH5qgyeEVa8klh7T6DmIvw2jz7ghexTd5nX2waQaYWczMQySjjAMC2m2HaB+HBbqoFuzh0x7KYsyW8g/6bItXDkpp6ipw/FoOgkn4MZECaCHwPq1v0zcytVT/NOC0amPc6ldJ0hNRGTBk6Z7ZVpBVES8JIMpNEvuX0tInKS+CqqkGhU2yk2LHny9JGp7N077ED9rFTJkE/C2IEw3DuhmyNNOcDTUFxtBWg5bOWozTrvJAzqCAeuS/dWWsSFz+SHoRWc99Arjyc/fHBZrnxd1QUqTxtaljar4LvYrcI=;6oZdmjGyAugpLBORRuzw4w=="
+secured: "oTHAWDHnjSc/sdueeEOys0hcyXln3fEu5Khs4GgfndoPIQ17YfQv3ND7puTEelvHV68Ngu/Pejt2PCVDZlZh4fT3Ho2htaFVdG0r+O8aaq7LF6krpp798AB9Fu2YIgeohUbY5fkSsIQi6FJiuCjVI7GtBoakq7TgiOpH7Yfq42/F9R3gbQNzHn6bqTHXoSynnzW4ilA3bzsLi7ZM+C7sEIpw0plhGhI0FOR/yc+92asop4eyfbfFUiptQyO4K50pVBa0WVsg9GC6PFJMNFC4DA6PxbwG1LJsHNoUXOT1N+JvCT0AWMOxUtjgaH8ohgqQUSn7EqiZ4jeiH9syliYtOWcfRkorNmXcDsAH0l+bKns=;VxSM8H140M1R15G7mVR1rA=="
 ---
 

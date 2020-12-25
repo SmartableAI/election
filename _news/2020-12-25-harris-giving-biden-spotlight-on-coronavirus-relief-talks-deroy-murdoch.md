@@ -65,6 +65,22 @@ related:
         width: 770
         height: 720
         isCached: true
+  - title: "Harris giving Biden 'spotlight' on coronavirus relief talks: Deroy Murdock"
+    excerpt: "Vice-president-elect Kamala Harris is giving President-elect Joe Biden the “spotlight” on coronavirus relief discussions, Fox News contributor Deroy Murdock said on Thursday."
+    publishedDateTime: 2020-12-24T17:20:00Z
+    webUrl: "https://www.foxnews.com/politics/harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "PSB5M9R+PJKpxtuDxzI3ge1gWFcrqXW0gVdFsEK0mXIzMHARI0vZSF8ewAqd7NIAjs0cFMObUM3xmXP2LLKMy6LNLQxDT+OSwR/00A12rDcdQ1jrO9AURInejbHP5M0E+BecBzIgzmnQVBBLSONp3IlvQoDuqc01CMrfQ0kNqJrYAGQqnCfG3HfF9WUidwE1OVtxAK2C4sb5p0LRYGagmgMZkIlflACJ7MkfZNBm74ZQJYMkMaJEyCFiEGmls7ZE07sMwplidB9lj6vY6OhjDbn0oc790jS2jBc5bo1xhI3ylnbXzK/ND469dGXE5AVraqAGfC2MTXFevaFc9pBP41oRRDZRI6FEWar5wvUO6WA=;3CEBG51VyJwgZYnsUFwUoA=="
 ---

@@ -546,7 +546,7 @@ related:
   - title: "Biden eyes frequent testing to reopen nation's schools"
     excerpt: "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country."
     publishedDateTime: 2020-12-23T19:55:00Z
-    webUrl: "https://www.politico.com/states/california/story/2020/12/23/biden-eyes-frequent-testing-to-reopen-nations-schools-1350426"
+    webUrl: "https://www.politico.com/states/new-york/albany/story/2020/12/23/biden-eyes-frequent-testing-to-reopen-nations-schools-1350426"
     type: article
     provider:
       name: Politico
