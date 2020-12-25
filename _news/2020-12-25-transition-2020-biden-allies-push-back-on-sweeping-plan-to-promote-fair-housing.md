@@ -3,8 +3,8 @@ category: news
 title: "Transition 2020: Biden allies push back on sweeping plan to promote fair housing"
 excerpt: "Donald Trump scrapped an Obama-era rule on housing. Some local officials hope Joe Biden doesn’t simply restore it as is."
 publishedDateTime: 2020-12-24T22:44:00Z
-originalUrl: "https://www.politico.com/states/new-york/albany/story/2020/12/24/transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing-1351109"
-webUrl: "https://www.politico.com/states/new-york/albany/story/2020/12/24/transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing-1351109"
+originalUrl: "https://www.politico.com/states/new-jersey/story/2020/12/24/transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing-1351109"
+webUrl: "https://www.politico.com/states/new-jersey/story/2020/12/24/transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing-1351109"
 type: article
 quality: 110
 heat: 110
@@ -29,6 +29,6 @@ images:
     height: 773
     isCached: true
 
-secured: "6eIRNEzSTqTrQCca1Rk020L8yBFlqyL6vGm2H6OQTPiaYjjjG1HdQBTOyhFy8nnfKWh72PX6NRMuUJP0J70oP2Y4JIH1qRra1Mq1b9RUuBzDB834prgiFJ41J8d5pGNNJepCN+E9pLB1aogNOBjQJa9cENWHpDcXVjU8QjD2/eVT9Rui0nuXiGcWlSAnctUdiaUZcXC0iYq7cR7HH1/hKkQDThq8vE4d9Q9LOYbJXsgcbklP/4tyQVUaG6AFisII2/ShsdMrwPBmZFO8lViK8cEIMDDk7Mm5HHm4dJ5GgFGa6Z1z4LqEbGPjO+UKx6+PWvikDNDLGRHyoBb+B0h8sGCFt+Vvt30aD5cdgbvR6uqJhiE0PSyRC1q51RHKOm1ap4JhVNCSxWJc7kQuN/PbFngdurM50gE8gJQ/s+WRlBENAjpZbGrej3AGA6eKyfmGrA71UVln9M2x4HjF62QYulLhjoOAsYRYb/cpJHqatOns8m5PZ2A8UnQ6XMMrOPEh7LKhohPFiLZ2H+kKSnrcbQ==;CaEBQfFqBsy1dg6WwKfyKA=="
+secured: "0vZp5sYsBAIANQ7ssz/AhAqN0rgb30NnlYkDXFD13zrkIEJjS3evPEU5V2Fhrixu6DgUAg+Mm+55EGhfiB5GL5mNj7YLmQFPL2mjXxMQhgKAXemqzThVv+t4EUiz6peqAOfjG2wDT7M7aH8qBiMPG7BJV+JVMVjsR1pB9ZsjEb456Y9VMaHLYrqrjgxq5iZBGrnX0/jrO/tpKn1xVGIeXEEQbl/XuT1RqiXemvfOJjupmWqMr3OMNoBXNnuqaHvKq6MWDqula3ldLOcQB3iWHKrFXhs+3cWX+ghQdpfhX9SKfIMHLeVN4lUqS+/it+m5g+0hGbP9ughrjfCuc8lygka0KtRvXXpD/POdtI3+0Ac=;qEsKoJ7XuWFDJI2mhJwlow=="
 ---
 

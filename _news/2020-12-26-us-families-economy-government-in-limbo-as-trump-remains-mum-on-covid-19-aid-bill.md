@@ -1,36 +1,53 @@
 ---
 category: news
-title: "Trump’s 2014 tweet on government spending resurfaces amid COVID-19 bill deadlock"
-excerpt: ""
-publishedDateTime: 2020-12-24T09:48:17Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zhm1dyA54i0/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zhm1dyA54i0/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock"
-ampWebUrl: "https://www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp"
+title: "U.S. Families, Economy, Government in Limbo as Trump Remains Mum on Covid-19 Aid Bill"
+excerpt: "President has neither vetoed nor signed massive coronavirus relief package, a day before pandemic-related unemployment benefits expire."
+publishedDateTime: 2020-12-25T19:37:00Z
+originalUrl: "https://www.wsj.com/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
+webUrl: "https://www.wsj.com/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
+ampWebUrl: "https://www.wsj.com/amp/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
 type: article
-quality: 170
-heat: 350
-published: true
+quality: 128
+heat: -1
+published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
+  name: Wall Street Journal
+  domain: wsj.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://images.wsj.net/im-278258/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
+  - title: "Trump’s 2014 tweet on government spending resurfaces amid COVID-19 bill deadlock"
+    excerpt: ""
+    publishedDateTime: 2020-12-24T09:48:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zhm1dyA54i0/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "De Blasio says Trump administration played 'valuable role' in getting COVID-19 vaccine quickly"
     excerpt: "New York City Mayor Bill de Blasio on Tuesday praised the Trump administration for its \"valuable role\" in getting a coronavirus vaccine out quickly -- after President-elect Joe Biden said the administration deserves credit."
     publishedDateTime: 2020-12-22T17:57:44Z
@@ -111,22 +128,6 @@ related:
         width: 1281
         height: 670
         isCached: true
-  - title: "U.S. Families, Economy, Government in Limbo as Trump Remains Mum on Covid-19 Aid Bill"
-    excerpt: "President has neither vetoed nor signed massive coronavirus relief package, a day before pandemic-related unemployment benefits expire."
-    publishedDateTime: 2020-12-25T19:37:00Z
-    webUrl: "https://www.wsj.com/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
-    ampWebUrl: "https://www.wsj.com/amp/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 128
-    images:
-      - url: "https://images.wsj.net/im-278258/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
     excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature."
     publishedDateTime: 2020-12-25T05:23:00Z
@@ -174,6 +175,6 @@ related:
         height: 640
         isCached: true
 
-secured: "wpFQdegNz6G81yRatvZm7YQlylCICWLo5Ish1zrxvJIo3C5cn/iP5gjafX7YQZWTNxBQj21N6TgI/GAWLMyYqKVYZ2vxdZ/tfkvC9BJ9AxMzRoy+dFHTGn1HnTXU4hw8xiDIFb6ESA68qRc09VjRIfLaGR4gRhFCQFUa1gRDrUVLyBZbChg+PVBX5c+JRzIrUURUXJlku3gOFpHctUlUudgTnI2XXpcRSebFjcq+XLgFGDvJDgSDo4FN7zSujjPUtTUyPCmRTFNuwhKtpvgXhyN6x3+spm2/Gfl0LeoU7URT42NDmcIFdLUBUpXhCmFNhUw2vdszlAU5x8I3vGGZcr5emeUQjECCVfx0avocgJQ=;FjLCsJLvmAwSXJDD05zptA=="
+secured: "/gxoIbMgkismvrTtqFldopTvIkpcwEjFV0WGDB12lL9Y07T9qcyHGDSPwCnqFDzmmQ0xFjDuWAgPH3d8b9whkzldzB546ZfurVdxr0De+gEwillewVKVd24yXyzuxgM9u3LeUfKh7CKd/q2zTzGtuCV8d77GRfC2f9Yvc8KXrMEWmnA9Z2CSFaK0yVEgv9uMoke9PJzfM6kbtFnsxsGyO8datWDt4WOZH8LiJOcgFslSv1ZL5Wm166/9G2UAtnq9A8eGizVmIFSdUIbR5wGXBkkzrMJUYmhMntb8boI971Uj7U2HYhVkdSJ0kI/XszjtOGRImMwca5SmSRnkci2Gr5Cu/NZ+z5gdLDQdTLdAW/0=;pJnmcl5UzoeYXlRFDnDS8A=="
 ---
 

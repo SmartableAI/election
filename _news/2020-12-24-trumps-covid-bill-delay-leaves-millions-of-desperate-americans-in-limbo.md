@@ -245,6 +245,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "GOP blocks $2,000 checks as Trump leaves COVID aid in chaos"
+    excerpt: "President Donald Trump’s sudden demand for $2,000 checks for most Americans was swiftly rejected by House Republicans as his haphazard actions have thrown a massive relief and government funding bill into chaos."
+    publishedDateTime: 2020-12-25T20:22:00Z
+    webUrl: "https://www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump administration threatened to oust the head of the FDA if the Pfizer vaccine isn't cleared by the end of Friday, a new report says"
     excerpt: "Dr. Stephen Hahn denied the report, telling Business Insider that \"this is an untrue representation of the phone call with the Chief of Staff.\""
     publishedDateTime: 2020-12-11T21:45:00Z

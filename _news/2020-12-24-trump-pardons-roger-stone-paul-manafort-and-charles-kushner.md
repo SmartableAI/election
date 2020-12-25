@@ -179,6 +179,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump pardons former Prince George’s officer whose conviction was ‘watershed’ moment for police reform in county"
+    excerpt: "President Trump granted a pardon this week to a former Prince George’s County canine police officer who was convicted of a federal civil rights violation and eventually served 10 years in federal prison for releasing her police dog on an unarmed homeless man in 1995."
+    publishedDateTime: 2020-12-25T20:24:00Z
+    webUrl: "https://www.washingtonpost.com/local/public-safety/trump-pardons-former-prince-georges-police-officer/2020/12/23/041eb13e-4589-11eb-a277-49a6d1f9dff1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/public-safety/trump-pardons-former-prince-georges-police-officer/2020/12/23/041eb13e-4589-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/trump-pardons-former-prince-georges-police-officer/2020/12/23/041eb13e-4589-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BYSHF4CGCQI6XF242F5YQFNGNU.jpg&w=1440"
+        width: 768
+        height: 648
+        isCached: true
 
 secured: "r9flBAk7866HbHEmHe8/tB9gs9TyV34+qGB+ui5E8BHzlBnOq6Z7xIY4OunCtv9pqIWeWZsZQ7g3TgbsIUyuRSquV2wuuvfjfzvEq6XdoIuxC4C7jtNH7huUcIWmmSVJ/25eEchwqVm9DUiHdR8p3ER+MRawbYVjVOAPlMlRmUqVcak4gb3gD/ovL3qE1H5ErfQEnVpJhTo75cmvx42++UtlKUti1nfkp6MvY+JYfcfbdgSosC8sLRPBecli50sOUGgwKEcn3EBoAT4j2CDXNVMf+o7rJODcglQ2m850+OIg3V2eYZ6ri4CmeCTlRsIkP9pPIzQqWUAsMGJ1tqAs5iZ3C31gN+f2mdwkkFeSDxgg+bxyLXZFp/z8gEJ+mUFZhEvQdVR9N+8WMGuMX7DPB7fx3VYg0beMvBDBDSvxAevWR4ri0VkgYyMBjDhAAvaxUMEeusFvmo6XTn/euMCKZjNQ/vkXcgep58MBBVbhOChwxgWn+sqa9fxZi9bEt/4w7R0MXvdkQ+HsqUD0swIIaQ==;LWcQOTNiRdXgX45mKVkPHA=="
 ---

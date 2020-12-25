@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Bay Area students get Kamala Harris action figures"
-excerpt: "Kentfield resident Lisa Bernard Rosenberg bought 120 of the dolls to inspire students Bayside Martin Luther King Jr. Academy."
-publishedDateTime: 2020-12-24T10:32:00Z
-originalUrl: "https://www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/"
-webUrl: "https://www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/"
-ampWebUrl: "https://www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/amp/"
-cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/amp/"
+title: "Kamala Harris and husband donate to Toys for Tots"
+excerpt: "Vice President-elect Kamala and husband Doug Emhoff visit Washington DC fire station number one to drop off toys as the station serves as one of the Toys for Tots drop-off locations in the nation's capital."
+publishedDateTime: 2020-12-23T21:30:00Z
+originalUrl: "https://www.freep.com/videos/news/nation/2020/12/23/kamala-harris-and-husband-donate-toys-tots/4031998001/"
+webUrl: "https://www.freep.com/videos/news/nation/2020/12/23/kamala-harris-and-husband-donate-toys-tots/4031998001/"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/MIJ-L-KAMALA-1224-02.jpg?w=1024&h=711"
-    width: 1024
-    height: 711
+  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0c9006e9-61e0-475b-9531-33fd674f2e1d_poster.jpg?quality=10"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -148,6 +146,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/22/afe77ef5-acc9-44f9-bf21-f97a46c05a5d/thumbnail/1200x630/32289ee2afdb9d0117cfa788f8a31aa2/cbsn-fusion-alex-padilla-to-replace-kamala-harris-making-history-as-californias-first-latino-senator-thumbnail-614461-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Bay Area students get Kamala Harris action figures"
+    excerpt: "Kentfield resident Lisa Bernard Rosenberg bought 120 of the dolls to inspire students Bayside Martin Luther King Jr. Academy."
+    publishedDateTime: 2020-12-24T10:32:00Z
+    webUrl: "https://www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/"
+    ampWebUrl: "https://www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/MIJ-L-KAMALA-1224-02.jpg?w=1024&h=711"
+        width: 1024
+        height: 711
         isCached: true
   - title: "Marin City students get Kamala Harris action figures"
     excerpt: "Kentfield resident Lisa Bernard Rosenberg bought 120 of the dolls to inspire students Bayside Martin Luther King Jr. Academy."
@@ -291,20 +305,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Kamala Harris and husband donate to Toys for Tots"
-    excerpt: "Vice President-elect Kamala and husband Doug Emhoff visit Washington DC fire station number one to drop off toys as the station serves as one of the Toys for Tots drop-off locations in the nation's capital."
-    publishedDateTime: 2020-12-23T21:30:00Z
-    webUrl: "https://www.freep.com/videos/news/nation/2020/12/23/kamala-harris-and-husband-donate-toys-tots/4031998001/"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0c9006e9-61e0-475b-9531-33fd674f2e1d_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Alex Padilla becomes California’s first Latino US senator, replacing Kamala Harris"
     excerpt: "Alex Padilla, a Los Angeles Democrat who once developed software for satellites but later rose through local and state political office to become California secretary of state, was chosen Tuesday by Gov."
     publishedDateTime: 2020-12-22T18:30:00Z
@@ -329,6 +329,6 @@ related:
       domain: usnews.com
     quality: 25
 
-secured: "tWfkxlqmudpcMpSt2U8yGahMvLRTpFXXJLkC4QLxjkqB7awqmIe/MnDbbFHvm1TVTSkM3HEFovxij+mNKBj/J04qyLzUONu2mKEblWlgSCjvBCbuw/+BJTOBmzyvT7kZ/q7sNnVKSya1wMaS6/2vrL14MCsBnAcmrwmzMHYyeSlQGgV9NhxVHpG5nzCvvRLfcwixbQLgre0jK3Pg580FqBpyS+MQbV7H/nFlqoBuZEfM0chls4JrPhtWV+1MZYJLEIoXnzqeftU7RWsfygAfNkIt9MNdV1jcDbxDCzprqTQeUqXFK+9fV78ecuIJRstd6JsPZ+7wgJZWNGHKbaEg2QJpua2xR5pnxNnjI+eaKqu3i1Kpu/JBAKOcaomaMzOO74aEutxvr0r3xIc+LIdf5NqY1WyWFipBqlIMfm/gGbESoGCNEA9/PAMX7eyBkjwsvOEcjZnsiA+OGHOLuGVDWIPnIA5o9yCecSTrjNvPkPHvWRlhPmqMln4nCex0KHQgXXxiGHCA7fr+3PQmpJzNqQ==;nz9tjRuPVqMwbZ9ARKWFbQ=="
+secured: "sxXMu74BACH8Mq0YzRmkOXpTdN7xy0DOi3aFBWC7K5XqPT+Pu1VyuMVbZM4gzkknuc2rtVHfvi8mbhuAGB4tJaXjPIHfWIQdMW5b6Rr2KW4CJBzQUevWLVbovEGCatsdhoIWlzkGOgnWlswDWQgRyKRM6p0v0aHr99C7UOyYujO5Y4THi0IQqx+bGhW7IJdMUpfGdlfaiADcNxxLUuc772uUcPZVOiqhwfxC82ozffy1a/hJjB9l9PCaZ2ZVeV2BwRCYHsv7F/4++wspDfBsJehE/Eh2U1Bq5+WFx+czZpx9CRyqe2iIR1xrkln/YMMfvkpVBn3jK7fVq0MsnhFmHz1/EJSrMUiUZQFIaPOVpKw=;uUbJqTCGo3juPYsXaW1LiQ=="
 ---
 

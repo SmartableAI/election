@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S1NF"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S1NF"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -235,6 +235,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "GOP blocks $2,000 checks as Trump leaves COVID aid in chaos"
+    excerpt: "President Donald Trump’s sudden demand for $2,000 checks for most Americans was swiftly rejected by House Republicans as his haphazard actions have thrown a massive relief and government funding bill into chaos."
+    publishedDateTime: 2020-12-25T20:22:00Z
+    webUrl: "https://www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump's COVID bill delay leaves millions of desperate Americans in limbo"
     excerpt: "President Donald Trump's threat late Tuesday to veto the $892 billion coronavirus relief bill approved by Congress this week may delay aid for millions of families on the cusp of eviction and about to lose unemployment benefits."
     publishedDateTime: 2020-12-24T05:42:00Z

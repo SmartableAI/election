@@ -235,6 +235,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "GOP blocks $2,000 checks as Trump leaves COVID aid in chaos"
+    excerpt: "President Donald Trump’s sudden demand for $2,000 checks for most Americans was swiftly rejected by House Republicans as his haphazard actions have thrown a massive relief and government funding bill into chaos."
+    publishedDateTime: 2020-12-25T20:22:00Z
+    webUrl: "https://www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump's COVID bill delay leaves millions of desperate Americans in limbo"
     excerpt: "President Donald Trump's threat late Tuesday to veto the $892 billion coronavirus relief bill approved by Congress this week may delay aid for millions of families on the cusp of eviction and about to lose unemployment benefits."
     publishedDateTime: 2020-12-24T05:42:00Z
@@ -293,6 +304,6 @@ related:
         height: 600
         isCached: true
 
-secured: "8FczIh1jVxPeqMHgOin5HC7nYnEgMtpD8ZD9+NMCFKp3YJQIkyzJ/Bl9OP7GZdXcSPw3br3VPoWTnqWGRzY+HDo63g2gLgBv/6a5afokurX6z4WR1NMG97g/Cdhf8fRXfIrT1HciKt70r5J7oCCCGnDKf9fhv5sHaQ2Nzm/1FHkddum9VdyDYvtwLwOGI/10DKf1esURuyme9wvARGE1nqPvb8T5qxgz7qLjxo2FBN0IGwbX+/fJIihXiMW63bzboqN0C3kAGrgmHAIhdQc1h3COzV28sQJ+kntD5DRsW0qkwluysVhhKMlKavWuh8C6HkRi5pvDQRGzSqUwg9oTTLiVdqMymxwKRzUBYNkm2Fg=;+lSZZCZjYGFyXPOmve3MMA=="
+secured: "0IK7mKEVvSRDyEvcVMgL7voSRTie+ekH0cvZjN9iDd3kG44ZxGWdTYq8u9g2cEya7fTevUIiCkw9CXhksPCaosmRo46bnT2N5HV6r11kanmKIEC846RqD2c/WclxVFRZBxtq10fBuTbeNVwOfIzsWeAWFZIe94FcD8AMZ6LRSJBmtvwsWpqV88KdOoPMwNCgzsZN6bYBa5ofenXABth0DfGXLbzClLi8chmAPsUZYxjv1h9pmqk/ACvjIKidBl1kxqaG5mtxpR7feuC5jguIjaPXhRCTl1fpPby+Xs1D2DHefAl63jifA0E1run2zHFDkQCZz+xYpKI14L62FMMCdJjFnQ5LRB9W0uaGrYs1nlTTtzkFoW787mbCKh/KYm6NfugHeRIsjm6f9b+eLFKANXOksDGbgrIzx84iQLfBFtnpFS/w/RyfWUUUbi6RXMvgTIW5O+evEReSjxiMKlXLO9KK+7O9dSAncOV54cXF4V+rXzjY/5HuresVZQnpzfhlV4y0AlFl+cO5inkgFPmfNQ==;NedQtbyQ33jvYV0XzIM3fw=="
 ---
 

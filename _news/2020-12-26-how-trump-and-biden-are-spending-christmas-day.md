@@ -1,36 +1,49 @@
 ---
 category: news
-title: "Biden says cyberattack happened on ‘Trump’s watch when he wasn’t watching’"
-excerpt: "President-elect Joe Biden is placing blame for the serious cyber hack of numerous federal government agencies and major companies on President Trump and pledged that “we will respond” when it’s determined which county is behind the damage."
-publishedDateTime: 2020-12-22T22:07:22Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9bt43KxK9EA/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9bt43KxK9EA/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching"
-ampWebUrl: "https://www.foxnews.com/politics/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching.amp"
+title: "How Trump and Biden are spending Christmas Day"
+excerpt: "Oh Christmas tee, oh Christmas tee. President Trump spent Christmas Day doing what he does best, hitting the links at his Trump International Golf Course in Palm Beach, Florida where he will"
+publishedDateTime: 2020-12-25T19:22:00Z
+originalUrl: "https://nypost.com/2020/12/25/how-trump-and-biden-are-spending-christmas-day/"
+webUrl: "https://nypost.com/2020/12/25/how-trump-and-biden-are-spending-christmas-day/"
+ampWebUrl: "https://nypost.com/2020/12/25/how-trump-and-biden-are-spending-christmas-day/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/25/how-trump-and-biden-are-spending-christmas-day/amp/"
 type: article
-quality: 188
-heat: 308
-published: true
+quality: 150
+heat: -1
+published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201225-trump-biden-christmas-day.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
+  - title: "Biden says cyberattack happened on ‘Trump’s watch when he wasn’t watching’"
+    excerpt: "President-elect Joe Biden is placing blame for the serious cyber hack of numerous federal government agencies and major companies on President Trump and pledged that “we will respond” when it’s determined which county is behind the damage."
+    publishedDateTime: 2020-12-22T22:07:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9bt43KxK9EA/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump says he has 'nothing to do' with 'potential prosecution' of Hunter Biden"
     excerpt: "President Trump on Thursday said he has \"NOTHING to do\" with the \"potential prosecution\" of President-elect Joe Biden’s son, calling the fallout surrounding Hunter Biden’s confirmation that he is under federal investigation \"very sad to watch.\""
     publishedDateTime: 2020-12-17T15:56:30Z
@@ -79,22 +92,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How Trump and Biden are spending Christmas Day"
-    excerpt: "Oh Christmas tee, oh Christmas tee. President Trump spent Christmas Day doing what he does best, hitting the links at his Trump International Golf Course in Palm Beach, Florida where he will"
-    publishedDateTime: 2020-12-25T19:22:00Z
-    webUrl: "https://nypost.com/2020/12/25/how-trump-and-biden-are-spending-christmas-day/"
-    ampWebUrl: "https://nypost.com/2020/12/25/how-trump-and-biden-are-spending-christmas-day/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/25/how-trump-and-biden-are-spending-christmas-day/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201225-trump-biden-christmas-day.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Trump says he has 'nothing to do' with 'potential prosecution' of Hunter Biden"
     excerpt: "President Trump on Thursday said he has \"NOTHING to do\" with the \"potential prosecution\" of President-elect Joe Biden’s son, calling the fallout surrounding Hunter Biden’s confirmation that he is under federal investigation \"very sad to watch."
     publishedDateTime: 2020-12-17T16:10:00Z
@@ -128,6 +125,6 @@ related:
         height: 720
         isCached: true
 
-secured: "HpvvX8OyGt70jkJjkyMO+rIYclMdzUX301p3Sfqv0oDNSEEISPaSOH+9WjBBRhx+CCL6Rh9ryOVOtl0BvsWBIropim6AoiRNQ3y02g5gAiV/h7O91JM25Y31zic1ziDad5H4n/6ZABN+hCMQIZE0t4tCRiiocEsuceDRI7qNF1KZK9BNoknNRlbpcjSODT3NG9Gvve9/O3C5yAL0Gk+q97Ee+1N6r5dydyTokXCVZUK8bWUNilvXGOtdOufOyskY1/YeDYbyrdK2wQAvdnJ4vlndTw/YeMeoGMUIohPbMaYn/nXdWRt36EzgeisfhWA5oxo0y9S1KBVkdipIaPGBMaiWJ38DcUjT9DoFmRYrhUs=;///0mI9b/vSDarC/qZkX/w=="
+secured: "DUANVHzZs0bDqBeCOS4eAQfoKJ/E30iSvShGhiACfjaJUWaWgyACMnZEv0juAD25BuRfDH8ilzS0AfkHrUQO0opZxxmwA7Wfboiy0m0yTQqlLEjW44c9wpSkQUyK53/JXOaOWL+dOV3GfmxWx6aDdxnMrLu5RBB1XNFuJCIZcGEpdjb/d0nLUh7+x2GZf/sVEd9W3vtv1SA2p96KyCpoFKZmkd5J17eR/2FKBW2by41NAmAXxTcvAoQ0RDtC9ecqrBZPBYmZyQhChmRHTz6dAEz+LoKbyGv6Vcp/+vFGWgE09awaDJ2NJsMFG/8sbjQ51g/Uet4/Ub6NP3M1ZHLj0VWRCeolQIeA3p6bHJe1WTk=;fWZx/SdSwq6dnTDV7Bei5Q=="
 ---
 

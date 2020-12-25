@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Refuting Trump, FDA commissioner says vaccine could not have been authorized sooner"
-excerpt: "In an interview with Fox News Saturday, Trump, after seeming to take credit for the speed of the vaccine's development, said that the Food and Drug Administration could have authorized the shot for emergency use \"last week."
-publishedDateTime: 2020-12-13T14:25:00Z
-originalUrl: "https://abcnews.go.com/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
-webUrl: "https://abcnews.go.com/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
+title: "GOP blocks $2,000 checks as Trump leaves COVID aid in chaos"
+excerpt: "President Donald Trump’s sudden demand for $2,000 checks for most Americans was swiftly rejected by House Republicans as his haphazard actions have thrown a massive relief and government funding bill into chaos."
+publishedDateTime: 2020-12-25T20:22:00Z
+originalUrl: "https://www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12"
+webUrl: "https://www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12"
+ampWebUrl: "https://www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12?amp"
 type: article
-quality: 119
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/this-week-stephen-hahn-02-ap-llr-201212_1607807457019_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Trump, ahead of FDA, says Moderna's COVID-19 vaccine has been approved"
@@ -143,6 +137,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Refuting Trump, FDA commissioner says vaccine could not have been authorized sooner"
+    excerpt: "In an interview with Fox News Saturday, Trump, after seeming to take credit for the speed of the vaccine's development, said that the Food and Drug Administration could have authorized the shot for emergency use \"last week."
+    publishedDateTime: 2020-12-13T14:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/this-week-stephen-hahn-02-ap-llr-201212_1607807457019_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump signs stopgap funding bill; Congress awaits his approval of $892 billion COVID aid"
     excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week while Congress passed a massive COVID-19 aid and government funding package overnight aimed at bolstering the nation's pandemic response and its battered economy."
     publishedDateTime: 2020-12-23T04:13:00Z
@@ -235,17 +245,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "GOP blocks $2,000 checks as Trump leaves COVID aid in chaos"
-    excerpt: "President Donald Trump’s sudden demand for $2,000 checks for most Americans was swiftly rejected by House Republicans as his haphazard actions have thrown a massive relief and government funding bill into chaos."
-    publishedDateTime: 2020-12-25T20:22:00Z
-    webUrl: "https://www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Trump's COVID bill delay leaves millions of desperate Americans in limbo"
     excerpt: "President Donald Trump's threat late Tuesday to veto the $892 billion coronavirus relief bill approved by Congress this week may delay aid for millions of families on the cusp of eviction and about to lose unemployment benefits."
     publishedDateTime: 2020-12-24T05:42:00Z
@@ -304,6 +303,6 @@ related:
         height: 600
         isCached: true
 
-secured: "1oSiRMRkPzpkS12ctBRyOpUf71bW8sCjRSn31kco32BGyWUweNUHQhyTp05KddvdTFvkZaugDeQ35HQCsRNP1ud151RyzKSkV4wL4LzsRFZboCJwAyNTNJgDniOgS1yBr8uBM34T4cjcEpO+Jt+Td/gW5i9HahAAwqT90ghr+Kn4//jp/cHasg490MzM6ZxY58AuVa8Squ2uMRIpIg+Oq7yOr0dINMTQczrpOkULNMb9Uy0+4OcPOFwxzdnEVGOcy1RgB5LPPH6tcRT5yVMGScpZTfOMMlGkfvOVhWwUwZAvPWYL7EtS+Bh1LuYD+RFAkwokgbgRiETeg9aSNxiNBW2fCDt72OTqIPKiD9mdc060Z7PQV3sYpJ6VBcStiqlm9V6fuMBU5gw1Ee5BxP1ExFC3l0P8O+vE/w3Oi0g8j+Q7ihms6ug8OhO3PCmUDhFoRER4JF7mVo4Rw8jMsgyJ8eYyYBg4XWeRrxMxzj176XdpuqBHcz/3aS/oUT7nS7sMND/GvxmjvJbLHb9a2BH9Nw==;7kk4sXdIlw8Jyip/Ojh5mw=="
+secured: "ALcRoV637o5ypKiVAC7A83wGHTI5FUbANOxxfZTfFKas3GyUUrvpP1a/mfTMgodbF8bdrtW2HhGKMpfUoZ4dvMensPZhnV+EKKZXWVcO3mYdE/vBInoRRXr6UWZm1Q/33PEizsyOmGBuQRazPV6pu+Hj8t8KIRfYZ3nu2NkJuAmnP4D+aQNNkuyJIYBtFF89o1lyacpqD7Ua7iwX+SorgxxUZ+C4H8ESbm9pwPaAwQCQJjFAE1qtwyUhWCE4mwRIhz6sLtE24z6FZmTvzH/14zkGm1usyPuYOmuWhiymcikvibyXEeO6sSmRXAQ2uAekhfW+InLJFRWLxr5D4qorFGPucrwMxhOCWhmkbaVPsyw=;JRXXRfCOhn9Ph8wNJuKH+g=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump pardons Charles Kushner, Paul Manafort, Roger Stone in latest wave of clemency grants"
-excerpt: "The president once again used his executive power to benefit his allies and undermine an investigation that dogged his presidency."
-publishedDateTime: 2020-12-24T02:11:00Z
-originalUrl: "https://www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html"
-webUrl: "https://www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+title: "Trump pardons former Prince George’s officer whose conviction was ‘watershed’ moment for police reform in county"
+excerpt: "President Trump granted a pardon this week to a former Prince George’s County canine police officer who was convicted of a federal civil rights violation and eventually served 10 years in federal prison for releasing her police dog on an unarmed homeless man in 1995."
+publishedDateTime: 2020-12-25T20:24:00Z
+originalUrl: "https://www.washingtonpost.com/local/public-safety/trump-pardons-former-prince-georges-police-officer/2020/12/23/041eb13e-4589-11eb-a277-49a6d1f9dff1_story.html"
+webUrl: "https://www.washingtonpost.com/local/public-safety/trump-pardons-former-prince-georges-police-officer/2020/12/23/041eb13e-4589-11eb-a277-49a6d1f9dff1_story.html"
+ampWebUrl: "https://www.washingtonpost.com/local/public-safety/trump-pardons-former-prince-georges-police-officer/2020/12/23/041eb13e-4589-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/trump-pardons-former-prince-georges-police-officer/2020/12/23/041eb13e-4589-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
 type: article
-quality: 115
+quality: 104
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XE7GXWSFOEI6XF242F5YQFNGNU.jpg&w=1440"
-    width: 1440
-    height: 1036
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BYSHF4CGCQI6XF242F5YQFNGNU.jpg&w=1440"
+    width: 768
+    height: 648
     isCached: true
 
 related:
@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump pardons Charles Kushner, Paul Manafort, Roger Stone in latest wave of clemency grants"
+    excerpt: "The president once again used his executive power to benefit his allies and undermine an investigation that dogged his presidency."
+    publishedDateTime: 2020-12-24T02:11:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XE7GXWSFOEI6XF242F5YQFNGNU.jpg&w=1440"
+        width: 1440
+        height: 1036
+        isCached: true
   - title: "Trump pardons former campaign chairman Paul Manafort along with Charles Kushner, other allies"
     excerpt: "Trump's pardon of Paul Manafort once again highlighted the long shadow cast on the White House by the investigation into Russia's interference in the 2016 election."
     publishedDateTime: 2020-12-24T00:57:00Z
@@ -171,22 +187,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump pardons former Prince George’s officer whose conviction was ‘watershed’ moment for police reform in county"
-    excerpt: "President Trump granted a pardon this week to a former Prince George’s County canine police officer who was convicted of a federal civil rights violation and eventually served 10 years in federal prison for releasing her police dog on an unarmed homeless man in 1995."
-    publishedDateTime: 2020-12-25T20:24:00Z
-    webUrl: "https://www.washingtonpost.com/local/public-safety/trump-pardons-former-prince-georges-police-officer/2020/12/23/041eb13e-4589-11eb-a277-49a6d1f9dff1_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/public-safety/trump-pardons-former-prince-georges-police-officer/2020/12/23/041eb13e-4589-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/trump-pardons-former-prince-georges-police-officer/2020/12/23/041eb13e-4589-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 104
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BYSHF4CGCQI6XF242F5YQFNGNU.jpg&w=1440"
-        width: 768
-        height: 648
-        isCached: true
   - title: "Trump Pardons Roger Stone, Paul Manafort And Charles Kushner"
     excerpt: "President Trump issued several more pardons on Wednesday evening, including to former campaign chairman Paul Manafort, Republican operative Roger Stone and Charles Kushner, the father-in-law of Ivanka Trump."
     publishedDateTime: 2020-12-24T00:38:00Z
@@ -197,6 +197,6 @@ related:
       domain: npr.org
     quality: 85
 
-secured: "47rIctJRCZ6bogmvOC3Tscp16urQwWOTAOcXweBca5qD0PykQbBRKl/sjDWTf5kLpgzkeg+5iIegMvD6d5LJdk1HxsVESDhnMRbH6JMo1tNMaTRnvj1d6Z0VPvc8mdub4FN3HyTO/V7XGpMNKUQbKnvKyPPYsxgjLiSMGEDxNf1+Q95ClCSdcu+JCeosUxvGeLamPn9v6h0j+VIO39bxWZi4HHTi5b37u2vx2BR3/JSt3AyH9T1JWWpnepeVyzMIAbfDP5KHdNLWuClIzkQJcJ5hilnmQg5UJ9VrwPw85Z2ZKFIXkP9u+vcdnhfTzQ7VpWLjp4aR0ZJstdNm8S/iACwqjn3FGKhw9SM2T7YlkMRN20EBU8wxWx9li1q2AjkMTAZ/GAjSU3KKcH7KXe3YJzbiw2AvSfukiDlU4oz/aOlBDZUj9O4GrVQQUJ6iVFLq9O98DISldF/QViZdWYzlCqJlL5o5gE5YA9SytxqgHpt3+izBNM9E/WRTEGIzgtSoaRerEVr2whzWRsIqBEcq7Q==;C1w4y8r/ta5eYNqCQCZlNg=="
+secured: "t8EMjvDUie513AXC/InYDqxVUm0y427ES5YKF0oICTXwaxglaqsK2PkNWw0Et7gBl3c2Y0Y2ogs9NyokD3WYXfKGOHpe1i6u8hfTFF3Apx85PgPpP3ifVVDgrmRlnASW9/n6IzV3MevYgnW7AxexMN7Opv/WLuih9WKUZ1okUvIwEziGKC5eYi1/cUC6uwiazoI8uNgnCmYnZwF/fOmk67Y18Po4bTkcUFk2zTevk8s1jNAdWf4O26Ry/kgQIESGi4XGbJcxW+kaFB70fDOsYGlIBxCu6wniRwS1XLXkgLp84GCwkys/kGonvzZ2c8m1p0vfEfZHAZRHmy7TPfhu98LyQUQjrqo+MZr5Q7a0FNI=;GceC6DtcC/0XSajJjG9WxQ=="
 ---
 

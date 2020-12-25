@@ -112,6 +112,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "U.S. Families, Economy, Government in Limbo as Trump Remains Mum on Covid-19 Aid Bill"
+    excerpt: "President has neither vetoed nor signed massive coronavirus relief package, a day before pandemic-related unemployment benefits expire."
+    publishedDateTime: 2020-12-25T19:37:00Z
+    webUrl: "https://www.wsj.com/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
+    ampWebUrl: "https://www.wsj.com/amp/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
+    images:
+      - url: "https://images.wsj.net/im-278258/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
     excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature."
     publishedDateTime: 2020-12-25T05:23:00Z

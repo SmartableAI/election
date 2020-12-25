@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Bay Area students get Kamala Harris action figures"
+title: "Marin City students get Kamala Harris action figures"
 excerpt: "Kentfield resident Lisa Bernard Rosenberg bought 120 of the dolls to inspire students Bayside Martin Luther King Jr. Academy."
-publishedDateTime: 2020-12-24T10:32:00Z
-originalUrl: "https://www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/"
-webUrl: "https://www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/"
-ampWebUrl: "https://www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/amp/"
-cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/amp/"
+publishedDateTime: 2020-12-24T01:43:00Z
+originalUrl: "https://www.marinij.com/2020/12/23/marin-city-students-get-kamala-harris-action-figures/"
+webUrl: "https://www.marinij.com/2020/12/23/marin-city-students-get-kamala-harris-action-figures/"
+ampWebUrl: "https://www.marinij.com/2020/12/23/marin-city-students-get-kamala-harris-action-figures/amp/"
+cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2020/12/23/marin-city-students-get-kamala-harris-action-figures/amp/"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: Marin Independent Journal
+  domain: marinij.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/MIJ-L-KAMALA-1224-02.jpg?w=1024&h=711"
+  - url: "https://www.marinij.com/wp-content/uploads/2020/12/MIJ-L-KAMALA-1224-02.jpg?w=1024&h=711"
     width: 1024
     height: 711
     isCached: true
@@ -149,19 +149,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Marin City students get Kamala Harris action figures"
+  - title: "Bay Area students get Kamala Harris action figures"
     excerpt: "Kentfield resident Lisa Bernard Rosenberg bought 120 of the dolls to inspire students Bayside Martin Luther King Jr. Academy."
-    publishedDateTime: 2020-12-24T01:43:00Z
-    webUrl: "https://www.marinij.com/2020/12/23/marin-city-students-get-kamala-harris-action-figures/"
-    ampWebUrl: "https://www.marinij.com/2020/12/23/marin-city-students-get-kamala-harris-action-figures/amp/"
-    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2020/12/23/marin-city-students-get-kamala-harris-action-figures/amp/"
+    publishedDateTime: 2020-12-24T10:32:00Z
+    webUrl: "https://www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/"
+    ampWebUrl: "https://www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/amp/"
     type: article
     provider:
-      name: Marin Independent Journal
-      domain: marinij.com
+      name: Mercury News
+      domain: mercurynews.com
     quality: 75
     images:
-      - url: "https://www.marinij.com/wp-content/uploads/2020/12/MIJ-L-KAMALA-1224-02.jpg?w=1024&h=711"
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/MIJ-L-KAMALA-1224-02.jpg?w=1024&h=711"
         width: 1024
         height: 711
         isCached: true
@@ -329,6 +329,6 @@ related:
       domain: usnews.com
     quality: 25
 
-secured: "tWfkxlqmudpcMpSt2U8yGahMvLRTpFXXJLkC4QLxjkqB7awqmIe/MnDbbFHvm1TVTSkM3HEFovxij+mNKBj/J04qyLzUONu2mKEblWlgSCjvBCbuw/+BJTOBmzyvT7kZ/q7sNnVKSya1wMaS6/2vrL14MCsBnAcmrwmzMHYyeSlQGgV9NhxVHpG5nzCvvRLfcwixbQLgre0jK3Pg580FqBpyS+MQbV7H/nFlqoBuZEfM0chls4JrPhtWV+1MZYJLEIoXnzqeftU7RWsfygAfNkIt9MNdV1jcDbxDCzprqTQeUqXFK+9fV78ecuIJRstd6JsPZ+7wgJZWNGHKbaEg2QJpua2xR5pnxNnjI+eaKqu3i1Kpu/JBAKOcaomaMzOO74aEutxvr0r3xIc+LIdf5NqY1WyWFipBqlIMfm/gGbESoGCNEA9/PAMX7eyBkjwsvOEcjZnsiA+OGHOLuGVDWIPnIA5o9yCecSTrjNvPkPHvWRlhPmqMln4nCex0KHQgXXxiGHCA7fr+3PQmpJzNqQ==;nz9tjRuPVqMwbZ9ARKWFbQ=="
+secured: "VjwSRdX4MqoYoHYxkQanw234Zrn73ddpAgY2Te0F+B7n9Ck8IdzW69w6IVj1P6EKXZ3h27RRsHsXbf4D16ZgAvgP16ToOn9+EjmNP3gOFMuo/K0b/ADzoGLTQXRyDwimeNbkTyUezNkUxs8gRqEUW5Nb08JjY7WjXFA9AywK44UFXpH/jNLdRAr6Jm6m1c34ItQZtPNrqhiM3XLSYfSa5dorVEQTOBss3vZJxLR0mgm2cGrKncy58s8BMl+DxFMZYFGc2BN84l0Ea/fJODujc4ppI5dN0LdIFAMzngJSQ9b56ZNIMysvlLktu95YZXjM2toa5BkKEJpTk+7SyIzr2P5tlgumTpc6ObG86mTDXMM=;hqNImtLSOox8hea7ilaq8w=="
 ---
 

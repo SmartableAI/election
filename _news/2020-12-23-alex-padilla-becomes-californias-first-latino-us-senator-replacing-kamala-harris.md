@@ -163,6 +163,22 @@ related:
         width: 1024
         height: 711
         isCached: true
+  - title: "Marin City students get Kamala Harris action figures"
+    excerpt: "Kentfield resident Lisa Bernard Rosenberg bought 120 of the dolls to inspire students Bayside Martin Luther King Jr. Academy."
+    publishedDateTime: 2020-12-24T01:43:00Z
+    webUrl: "https://www.marinij.com/2020/12/23/marin-city-students-get-kamala-harris-action-figures/"
+    ampWebUrl: "https://www.marinij.com/2020/12/23/marin-city-students-get-kamala-harris-action-figures/amp/"
+    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2020/12/23/marin-city-students-get-kamala-harris-action-figures/amp/"
+    type: article
+    provider:
+      name: Marin Independent Journal
+      domain: marinij.com
+    quality: 75
+    images:
+      - url: "https://www.marinij.com/wp-content/uploads/2020/12/MIJ-L-KAMALA-1224-02.jpg?w=1024&h=711"
+        width: 1024
+        height: 711
+        isCached: true
   - title: "California Governor Gavin Newsom Appoints Secretary of State Alex Padilla to Replace Vice President-elect Kamala Harris in US Senate"
     excerpt: "Voto Latino celebrates California Secretary of State Alex Padilla becoming the first Latinx person to represent California in the United States Senate after Governor Gavin Newsom announced his appointment to the seat being vacated by Vice President-elect Kamala Harris."
     publishedDateTime: 2020-12-23T16:11:00Z
@@ -288,6 +304,20 @@ related:
       - url: "https://media.nbcnewyork.com/2020/12/106815183-1608661336860-AP20357652453277.jpg?resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris and husband donate to Toys for Tots"
+    excerpt: "Vice President-elect Kamala and husband Doug Emhoff visit Washington DC fire station number one to drop off toys as the station serves as one of the Toys for Tots drop-off locations in the nation's capital."
+    publishedDateTime: 2020-12-23T21:30:00Z
+    webUrl: "https://www.freep.com/videos/news/nation/2020/12/23/kamala-harris-and-husband-donate-toys-tots/4031998001/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0c9006e9-61e0-475b-9531-33fd674f2e1d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "California Gov. Gavin Newsom Names State Elections Chief Alex Padilla to Fill Remainder of Kamala Harris' US Senate Term"
     excerpt: "California Gov. Gavin Newsom names state elections chief Alex Padilla to fill remainder of Kamala Harris' US Senate term."
