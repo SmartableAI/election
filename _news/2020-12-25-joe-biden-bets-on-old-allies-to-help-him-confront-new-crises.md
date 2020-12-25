@@ -1,34 +1,33 @@
 ---
 category: news
-title: "First U.S. vaccines, Electoral College affirms Biden win and Barr is out"
-excerpt: "Health care workers get first vaccines as Covid death toll tops 300,000. With the prick of a needle, the battle against Covid-19 took what could be a decisive turn Monday as the f"
-publishedDateTime: 2020-12-15T13:36:00Z
-originalUrl: "https://www.nbcnews.com/news/morning-briefing/first-u-s-vaccines-electoral-college-affirms-biden-win-barr-n1251233"
-webUrl: "https://www.nbcnews.com/news/morning-briefing/first-u-s-vaccines-electoral-college-affirms-biden-win-barr-n1251233"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251233"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251233"
+title: "Joe Biden bets on old allies to help him confront new crises"
+excerpt: "President-elect Joe Biden is leaning on familiar faces and old allies from his decades in public life as he builds an administration that will immediately confront a storm of extraordinary interlocking crises.\n    \n"
+publishedDateTime: 2020-12-25T15:42:12Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B0IU5tS4H2U/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B0IU5tS4H2U/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/12/25/politics/joe-biden-cabinet-white-house-team-of-allies/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/25/politics/joe-biden-cabinet-white-house-team-of-allies/index.html"
 type: article
-quality: 134
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3435796/201215-biden-mc-1151_83138c3e116d56aec776b6c91d99bc12.JPG"
-    width: 5380
-    height: 3329
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223105619-01-joe-biden-1222-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -400,22 +399,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Joe Biden bets on old allies to help him confront new crises"
-    excerpt: "President-elect Joe Biden is leaning on familiar faces and old allies from his decades in public life as he builds an administration that will immediately confront a storm of extraordinary interlocking crises.\n    \n"
-    publishedDateTime: 2020-12-25T15:42:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B0IU5tS4H2U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/25/politics/joe-biden-cabinet-white-house-team-of-allies/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/25/politics/joe-biden-cabinet-white-house-team-of-allies/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223105619-01-joe-biden-1222-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Dozens of members of Congress call on Biden to end the federal death penalty"
     excerpt: "More than three dozen members of Congress are calling on Joe Biden's incoming administration to prioritize abolishing the death penalty in all jurisdictions, according to a letter sent Tuesday to the transition team for the President-elect and Vice President-elect Kamala Harris.\n    \n"
     publishedDateTime: 2020-12-15T22:07:41Z
@@ -782,6 +765,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "First U.S. vaccines, Electoral College affirms Biden win and Barr is out"
+    excerpt: "Health care workers get first vaccines as Covid death toll tops 300,000. With the prick of a needle, the battle against Covid-19 took what could be a decisive turn Monday as the f"
+    publishedDateTime: 2020-12-15T13:36:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/first-u-s-vaccines-electoral-college-affirms-biden-win-barr-n1251233"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251233"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251233"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3435796/201215-biden-mc-1151_83138c3e116d56aec776b6c91d99bc12.JPG"
+        width: 5380
+        height: 3329
+        isCached: true
   - title: "Inside the Right-Wing Media Bubble, Where the Myth of a Trump Win Lives On"
     excerpt: "The Electoral College has affirmed Biden’s victory. That doesn’t mean that Trump-friendly news outlets have accepted it."
     publishedDateTime: 2020-12-15T10:00:00Z
@@ -995,6 +994,6 @@ related:
         height: 773
         isCached: true
 
-secured: "dO4d/Amlwm9ledXzMfL1CwgqhjExU4MfuaeDEKo5ycaPOJYpw8enpAvPxEC8nHO99uES+yzxvx6v1dB1iNGlt2hZMGPCm58Nww1YDvtQ5JgDzIoJhTdKnI/BMeOrfTN2PG+Rq4h/7ipDuXhOdXW0RzcdiqtAXrpHw8Mp4h4c46QefFFdv0ia70EY9PkdlJXL1OeMs+p+r/0Bp9K8lfYmLqM593JHVQuZvVMmNy2EXbcyK2S1iP4Q1XXx+tfoYUIHUv8tWUAw3UiYdSLmBpLHmJ4ksZodtWCar6g6uhs8mZYVcE3Z8dbxqKbnuqk76J46pjcIM3OxGyjXE+7OwNpc2w1mKRZ3XrObjCHZKDVFuJSfYWb02S/8mP6DmC7BG1W2g8Ay1m76cBL8P5F7jDAjTmAZh+1ofHnNVHXhW5ISG56s3mwl37nEODMB18nYqQYhtpDcQ6NGYY+LnTKpPTY9HyEgXttAUC6NnZ54IbY0gvTUecV5gQ2HRuZya1oxlfh6LcYfb5Xl3jQgtCBoHbC3yQ==;3NIX6v6qPEezXVPl10o3xw=="
+secured: "8r6TDIq+w+J0RyFv41amHu8neotBNGayF7Eb4j8iseZ3gaYQUZVPMBzWmxCZZtVD9id7X/hCUCl5/fP6kZ4dmiLmK9fTguswcBSIxAGx+pg42lWH8VXQjWbOPVSxEh8cKxLPj4Wo8imZGAiYIcslfjQo5jQLvzUG4Gp8ex/36Khb10URWV5qpBjjXHF/h82wEvyPYeD0I9usxVSJYFi8Vksm32G7vREtdc2+i+C4VXyimZ3CsTcmGjsk38W8VblwGAGrxvApwfjRQHCP01F/Ejp1y5LgUVHyR1X3flQC0IIeQ5ENr5RvqinVIFpNo44FVDSkZWAFiql0jU45xFxEvtEJw9Rno4A9CYcRqa3aFEo=;9B3sCIdavXla+o6mIf4ZtQ=="
 ---
 

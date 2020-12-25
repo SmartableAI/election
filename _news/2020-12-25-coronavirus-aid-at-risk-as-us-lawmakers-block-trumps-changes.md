@@ -2,11 +2,11 @@
 category: news
 title: "Coronavirus aid at risk as U.S. lawmakers block Trump's changes"
 excerpt: "U.S. lawmakers on Thursday blocked attempts to alter a $2.3 trillion coronavirus aid and government spending package, rejecting President Donald Trump's demand for extensive changes and leaving benefits for millions of Americans at risk."
-publishedDateTime: 2020-12-25T06:26:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump-idAFKBN28Y12E"
-webUrl: "https://www.reuters.com/article/uk-usa-trump-idAFKBN28Y12E"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28Y12E"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28Y12E"
+publishedDateTime: 2020-12-25T06:55:00Z
+originalUrl: "https://www.reuters.com/article/usa-trump-idINKBN28Y1PO"
+webUrl: "https://www.reuters.com/article/usa-trump-idINKBN28Y1PO"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28Y1PO"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28Y1PO"
 type: article
 quality: 125
 heat: -1
@@ -335,6 +335,6 @@ related:
         height: 682
         isCached: true
 
-secured: "b0zZ7dN5W9XRzryb9x9BEUHESkrGL5uZe+DS9zLwuYA7oN5C5wR3grTd2lhm8h13xrRf2iktu4za8U9YXsnQ78ZWnIACYGnXlUGfyAcLDFL6fpk6g8sO9cxDCwRwlX6r5ewfvnDUr6R8pbGyZNt1wMwsb3RCjvyVHwVp9hPMrnbTX2D77flzD5r095ObOawva7TAgCFftADL1pKR3IjxKL7oANeuIs+CvyUiXtyfU9f0anWdLT16un8jmU/HClAsDxmQZ2TFkZalsDzXTmZ/EaHGeCZzRqUHAgRrWAS25nFR/enO0xkpwDw8aOKik44jw8r+A0XDz1cCiTbv/5mKfZ7UNP6iVlyVZow7N5LCPGvtyQ1QT/sEoCDIEne6J+eeRHCevQUenjm233BuLpf0M0rSy2XEGOMzEVN3rdoikr3ke4HjcSehaP+Xo884s1/FASDtTjUJdXYkA+mC3Ha9FPj/4RuBWWFZml0eJ2VYXN8aPac/cssY+Lkm+UQ9htYQHaymtVJ69RrbV+cnudZJKA==;cidn/si8/lasAHucztAEBw=="
+secured: "qkk1wiTtgB4DYJ3MNScRvzuxkv057XHpTjXGVf2rgLPXI/DBvvJBrdghNnqJYsteQwgzguof2YNyIOBBmObe8/eWd6LfBJCuA+/U0FuPUJLAuYGmd7L33ooUKvJprqJPjU6SM8DsSvT+YsAbweDSx5PLp6kIhbuMkTmwtyrGLP00fcuJ2XLmd4F/4KqHg8CKD3DcIUAfELHbcJovtFmjGNFNtUL6mR3q297F9itv6bIWcCMCnK3QwrKwrEDgeET1WHsCDMtEqLFgIKClpfWRijL2dWoL9PmoNWT1ZHQ4Rp4V1f4od5s+3EvWfbRj1lB89fI44G0zuunRWcrk9l19cLLDNL7YWJFj/2SWlP+63YU=;WKKwUYw7vl4XqHguvwgSdw=="
 ---
 

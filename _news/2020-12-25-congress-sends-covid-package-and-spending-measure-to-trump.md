@@ -1,33 +1,32 @@
 ---
 category: news
-title: "Congressional backers cite cybersecurity provisions as they push Trump to sign defense bill"
-excerpt: "The massive defense bill that President Donald Trump is threatening to veto contains provisions for increased cybersecurity, which has taken on significantly more importance in the wake of a massive cyberattack on federal agencies at the hands of suspected Russian hackers.\n    \n"
-publishedDateTime: 2020-12-18T20:32:33Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RZrYuDIW11A/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RZrYuDIW11A/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html"
+title: "Congress sends Covid package and spending measure to Trump"
+excerpt: "Congress sent the massive coronavirus stimulus package and annual budget measure to President Donald Trump Thursday afternoon, though the president has signaled that he doesn’t support the bill as written."
+publishedDateTime: 2020-12-24T20:00:00Z
+originalUrl: "https://www.politico.com/news/2020/12/24/congress-covid-stimulus-trump-450370"
+webUrl: "https://www.politico.com/news/2020/12/24/congress-covid-stimulus-trump-450370"
 type: article
-quality: 165
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/170513225821-cyberattacks-ransomware-latest-sebastian-lklv-00002816-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/f3/2a/4c4082b441c49c24c9c67ff08473/ap20358774087431-1.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -111,6 +110,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Congressional backers cite cybersecurity provisions as they push Trump to sign defense bill"
+    excerpt: "The massive defense bill that President Donald Trump is threatening to veto contains provisions for increased cybersecurity, which has taken on significantly more importance in the wake of a massive cyberattack on federal agencies at the hands of suspected Russian hackers.\n    \n"
+    publishedDateTime: 2020-12-18T20:32:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RZrYuDIW11A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170513225821-cyberattacks-ransomware-latest-sebastian-lklv-00002816-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "With Trump Fading, Ukraine’s President Looks to a Reset With the U.S."
     excerpt: "They roped us in, but I think we behaved with dignity,” Volodymyr Zelensky said of his encounter with American politics."
     publishedDateTime: 2020-12-19T17:59:00Z
@@ -175,20 +190,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Congress sends Covid package and spending measure to Trump"
-    excerpt: "Congress sent the massive coronavirus stimulus package and annual budget measure to President Donald Trump Thursday afternoon, though the president has signaled that he doesn’t support the bill as written."
-    publishedDateTime: 2020-12-24T20:00:00Z
-    webUrl: "https://www.politico.com/news/2020/12/24/congress-covid-stimulus-trump-450370"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/f3/2a/4c4082b441c49c24c9c67ff08473/ap20358774087431-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Snowden allies see opening amid Trump clemency blitz"
     excerpt: "Republican members of Congress who have spoken with the president recently view him as increasingly malleable to their suggestions in his closing days."
     publishedDateTime: 2020-12-24T21:51:00Z
@@ -218,6 +219,6 @@ related:
         height: 773
         isCached: true
 
-secured: "/NLPftFqJhtqWmNrnciR+wmjhtHLHQImS8FgmORG/EE6vOfeKiZ4BKr/RhkmfsgczeGNR/2FUKAmUlakEm1R4f5K2Gz0TcnutH5IxuTshhjTb6rOJR96T1L+V+zcHs45qRU1m6O1xQUuZSmijX26l6dnCe70WyaIY0or6inAqMR9/58P72JerB/6zlpHFP6WM25fAJck633xUK4nSa/TQPX6j30MSmCalG1gNpcSqjMF5tl/I1J8n5c5olUc/2hVWtTrTYOGc70R2g4oATWUeNCqfb6hUtY9LA/5yXatAnYXlxpWKAQw1u94G4vj6PjeF7BGp05i6aVCzAyb4VsB8KDLk+cAOZPMUH7q9j/vI1A=;b20azkoNBkK3ymZTyJo0YQ=="
+secured: "HtcDDMUKikVdTYSHjDHXVbubD1w2Tao4bS6uT0Vi9ykPu0sS1dMWZbROZUHfFbCq/Y0jazniDOuEQu/zU64l5L4jYQCjZ6j0dQJWFfZCMKVbGdcRsH/+s493IQnJXs7xynIyYwkubIW/N1a0DCslEEC2jrp+XuN9xfy6M/A1WuZTHl4bbMdSBJsbgI6E8G6hz8rIfj+KobAWtlMAKPAPzkW8duHNuuWF1ukQiutrVeew98JN/jc/xeXuaJl5j4hngIkuomNn0f205J7+fo7JOONuW/il1jQcIc5nawBcJ8xDRar3ktLC565i3WJLH3sUEx/oVaf5+URWlV9A9CBN1b78x40DX2QsLdYL6pq0a94=;2+EmC33N2INQylYAixZ0oA=="
 ---
 

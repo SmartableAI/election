@@ -81,10 +81,10 @@ related:
         isCached: true
   - title: "Coronavirus aid at risk as U.S. lawmakers block Trump's changes"
     excerpt: "U.S. lawmakers on Thursday blocked attempts to alter a $2.3 trillion coronavirus aid and government spending package, rejecting President Donald Trump's demand for extensive changes and leaving benefits for millions of Americans at risk."
-    publishedDateTime: 2020-12-25T06:26:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-idAFKBN28Y12E"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28Y12E"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28Y12E"
+    publishedDateTime: 2020-12-25T06:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-idINKBN28Y1PO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28Y1PO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28Y1PO"
     type: article
     provider:
       name: Reuters

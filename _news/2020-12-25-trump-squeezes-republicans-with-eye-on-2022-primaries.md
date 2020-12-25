@@ -190,6 +190,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Congress sends Covid package and spending measure to Trump"
+    excerpt: "Congress sent the massive coronavirus stimulus package and annual budget measure to President Donald Trump Thursday afternoon, though the president has signaled that he doesn’t support the bill as written."
+    publishedDateTime: 2020-12-24T20:00:00Z
+    webUrl: "https://www.politico.com/news/2020/12/24/congress-covid-stimulus-trump-450370"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/f3/2a/4c4082b441c49c24c9c67ff08473/ap20358774087431-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Snowden allies see opening amid Trump clemency blitz"
     excerpt: "Republican members of Congress who have spoken with the president recently view him as increasingly malleable to their suggestions in his closing days."
     publishedDateTime: 2020-12-24T21:51:00Z
