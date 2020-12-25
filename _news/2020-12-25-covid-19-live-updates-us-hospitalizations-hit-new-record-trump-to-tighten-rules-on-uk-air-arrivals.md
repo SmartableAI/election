@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Trump Asks Congress to Amend Covid-19 Package, Boost Direct Payments"
-excerpt: "President Trump tweeted a video criticizing the $900 billion coronavirus relief legislation passed by Congress, calling for lawmakers to increase direct payments to Americans to $2,000 from $600."
-publishedDateTime: 2020-12-23T00:57:00Z
-originalUrl: "https://www.wsj.com/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
-webUrl: "https://www.wsj.com/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
-ampWebUrl: "https://www.wsj.com/amp/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
+title: "Covid-19 Live Updates: U.S. Hospitalizations Hit New Record; Trump to Tighten Rules on U.K. Air Arrivals"
+excerpt: "The number of newly reported Covid-19 infections and deaths in the U.S. fell Thursday from the day earlier, but hospitalizations hit another record."
+publishedDateTime: 2020-12-25T08:29:00Z
+originalUrl: "https://www.wsj.com/livecoverage/covid-2020-12-25"
+webUrl: "https://www.wsj.com/livecoverage/covid-2020-12-25"
 type: article
-quality: 135
+quality: 98
 heat: -1
 published: false
 
@@ -26,9 +24,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-207060/social"
-    width: 1281
-    height: 670
+  - url: "https://images.wsj.net/im-278216/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -128,6 +126,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump Asks Congress to Amend Covid-19 Package, Boost Direct Payments"
+    excerpt: "President Trump tweeted a video criticizing the $900 billion coronavirus relief legislation passed by Congress, calling for lawmakers to increase direct payments to Americans to $2,000 from $600."
+    publishedDateTime: 2020-12-23T00:57:00Z
+    webUrl: "https://www.wsj.com/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-207060/social"
+        width: 1281
+        height: 670
+        isCached: true
   - title: "Trump explodes stimulus bill, leaving Washington scrambling, millions in doubt"
     excerpt: "President Trump sat out the first four quarters and then dropped a bomb in overtime, threatening to blow up the Christmas package that Congress had finally cobbled together to ease the pain of the pandemic."
     publishedDateTime: 2020-12-24T08:12:00Z
@@ -144,21 +158,7 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Covid-19 Live Updates: U.S. Hospitalizations Hit New Record; Trump to Tighten Rules on U.K. Air Arrivals"
-    excerpt: "The number of newly reported Covid-19 infections and deaths in the U.S. fell Thursday from the day earlier, but hospitalizations hit another record."
-    publishedDateTime: 2020-12-25T08:29:00Z
-    webUrl: "https://www.wsj.com/livecoverage/covid-2020-12-25"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 98
-    images:
-      - url: "https://images.wsj.net/im-278216/social"
-        width: 1280
-        height: 640
-        isCached: true
 
-secured: "w1bth9YptvU/cQUEjYeviKnlffIWUOdai5IUaYJ34fsh57V75ZhvYJpvpvQDDZ31o4Qh3LAefJMDoy6dECCp756nniHSCyjOTpwn7S5BvrmYMkaXpuYrSpzX6kPeuBAHzlJHAXZVdSS2l+7uLV/vc4NlKv1bw3HepFiUumDEwuiZQrs+pFR1XSsTzO6PNS/Gd1Swh+fwVBYPzMFtipNx9gShBzXzPdiqjvj4Ys6K0IPOrFC9yeZwAoSUMpahA4R02+SUg/+3ujglgeElkJNSiEUpTOFUSKz3kaaqrMqOLxkQRmg9KcVw9kyia7kVcQhiv0/MDsEEGqQ78a6L0WFZu/N0oze4iykHjmc8bUSEZaU=;ZjITUZ7Gv1ixvbCIQL3YgQ=="
+secured: "JwhD5QvO9lfDoIZkAXrXfQh84raqx4Kmf2ymOt/d1jH7N/eGHYSNPKYyyuOrsD/9lPg//jxqdkfxBnvtHuVUjLRPkRk02c0lhPefcyluoTbI69I+FmuxGJHPH3e6KdAx/oXTgd0ooZKsbBND6RyDjsE8e44x3r/Cu/rdJcvHBsFNjGE5YkLHtPh+QmWdlA+H7As7oIa90GHnoyLFzg6tnm+2avKrh9NqE+plqzJdKoAVIeQRhig8G5bYGZhMu69FEK1Du3NHNBEBvMitV/tIHKNbtBy9IyBQvJFVZlhKcmZ2wp6bcUPsGVSJAP9yKT4FzqrMY2xFBDaH+noUB4pdGwcYtKA1+82wijJKA3E3cYk=;Es8uj5pjHmld1DKKfuOlHQ=="
 ---
 

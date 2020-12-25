@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-threatens-to-veto-massive-cov
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-threatens-to-veto-massive-covid-bill.amp"
 type: article
 quality: 170
-heat: 310
+heat: 330
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/howard-kurtz.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Covid-19 Live Updates: U.S. Hospitalizations Hit New Record; Trump to Tighten Rules on U.K. Air Arrivals"
+    excerpt: "The number of newly reported Covid-19 infections and deaths in the U.S. fell Thursday from the day earlier, but hospitalizations hit another record."
+    publishedDateTime: 2020-12-25T08:29:00Z
+    webUrl: "https://www.wsj.com/livecoverage/covid-2020-12-25"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 98
+    images:
+      - url: "https://images.wsj.net/im-278216/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "rHafeCNrnkAkHKvDktQVBfaZLfnNyNizAq3pN5SHZT8Zs2Qk4jLWVP3SrnLKcvSNhVCLjYP58Ei36DyPzdE48lyBgCi+8OFxPQTmZnAOTxYBhMZo/efaJlVsAPQfMdby4MCQZJ3QDQuAeTUPThV3nAQkundHycDZE0dpdZlXqieEGVKGmkCqBVp8kxKSTyiFjlynCyjwTp3f/ljTzOA3FIyFRaDq2SEA1QA76Er+RZYgKSkAN2yPVca2tlEZcIzF+vyrEcPkjEyJ1i1bEr6xxqfQOmStOQ48VcD53RanL9+N/TQSh6TUUB0KBEXYgVccatznFDSWRXyDcpz92jhIWtOzSrgoguEDll3ob8sHneo=;LUC8U/BU3gzWI2SPgJWvXw=="

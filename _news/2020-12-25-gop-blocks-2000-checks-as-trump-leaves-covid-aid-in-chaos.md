@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Trump calls $900 billion COVID-19 deal a “disgrace”"
-excerpt: "President Trump ordered Congress to revise its bipartisan $900 billion COVID-19 economic relief package, calling it a “disgrace.” He’s calling for stimulus checks to be raised from $600 to $2,000 each."
-publishedDateTime: 2020-12-23T16:01:00Z
-originalUrl: "https://www.cbsnews.com/video/trump-calls-900-billion-covid-19-deal-a-disgrace/"
-webUrl: "https://www.cbsnews.com/video/trump-calls-900-billion-covid-19-deal-a-disgrace/"
+title: "GOP blocks $2,000 checks as Trump leaves COVID aid in chaos"
+excerpt: "President Donald Trump’s last-minute demand for $2,000 checks for most Americans has thrown the year-end COVID relief effort into chaos"
+publishedDateTime: 2020-12-25T08:39:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/gop-blocks-2000-checks-trump-leaves-covid-aid-74905528"
+webUrl: "https://abcnews.go.com/Politics/wireStory/gop-blocks-2000-checks-trump-leaves-covid-aid-74905528"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-blocks-2000-checks-trump-leaves-covid-aid-74905528"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-blocks-2000-checks-trump-leaves-covid-aid-74905528"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/23/5901d0a5-7aac-414c-8416-88272fff28e0/thumbnail/1200x630/4153fd1ed370ca0307660b09ab2921a1/1223-cbsnam-trumpreliefpackagedisgrace-615069-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -76,22 +78,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545558317&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM00V"
         width: 817
         height: 545
-        isCached: true
-  - title: "GOP blocks $2,000 checks as Trump leaves COVID aid in chaos"
-    excerpt: "President Donald Trump’s last-minute demand for $2,000 checks for most Americans has thrown the year-end COVID relief effort into chaos"
-    publishedDateTime: 2020-12-25T08:39:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-blocks-2000-checks-trump-leaves-covid-aid-74905528"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-blocks-2000-checks-trump-leaves-covid-aid-74905528"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-blocks-2000-checks-trump-leaves-covid-aid-74905528"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Trump golfs in Florida as COVID relief hangs in the balance"
     excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christmas Eve golfing in Florida."
@@ -205,6 +191,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Trump calls $900 billion COVID-19 deal a “disgrace”"
+    excerpt: "President Trump ordered Congress to revise its bipartisan $900 billion COVID-19 economic relief package, calling it a “disgrace.” He’s calling for stimulus checks to be raised from $600 to $2,000 each."
+    publishedDateTime: 2020-12-23T16:01:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-calls-900-billion-covid-19-deal-a-disgrace/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/23/5901d0a5-7aac-414c-8416-88272fff28e0/thumbnail/1200x630/4153fd1ed370ca0307660b09ab2921a1/1223-cbsnam-trumpreliefpackagedisgrace-615069-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump threatens COVID relief, Pelosi urges 'sign the bill'"
     excerpt: "President Donald Trump is threatening to torpedo Congress’ massive pandemic relief package in the midst of a raging pandemic and deep economic uncertainty"
     publishedDateTime: 2020-12-23T16:57:00Z
@@ -277,6 +277,6 @@ related:
         height: 600
         isCached: true
 
-secured: "pCzBBhk4tNcyNg5JGKOwbUUxsUnvj8GdhCSgg7Iw3VgVGZSBzfXdBJk6gpV4AeDJdmElGAn0onyG+L9BYW1yfkvgCGHqt5j95XR3C3aALZFf5CHrgtK58Wk6VqildTJ/IqFLzvT2X2Nv3QH4MyA9P6wIZnAene4HSSu1fiAOx1Oc2JHEyiEyD5vaMzG/AQugA1pL1F0WUUrj38u02A9RgRcaQuGBWay3yggQl6VN6MEJTgBY0ZLDoox1FqiwS5NquAS3vXvsxTd0wbJj9MHDXH6I+txF0urzK0ewGWZRVDp9KzKnbKnP91zcBnAXHeAijQx8EoGSURRRSkSZPiOrU+Q5HehdPFTZbD3lPNguSSo=;5KUqgHSzcfxavqX7739oMg=="
+secured: "z7nftgHZ/lmLnzO0fgEKaW+x7ZC5zpqzEyvPExqJn4JIXGBUJ78Jsda1oMfQEI81dHJMc1mrF3ZY5NzwnoYrn3duunEY6DMHaNLyUd1oGVp2NuOuoYtPaTuvpaNwewcHkHNPDodkcHvT9PNpzKzxMLYE+onFOt+nSX6DHz+9mUOEAKdM2JkH0jk3wrHaj0FQlOSeNJGGkfKkuHlW2dZPE4ATFHXh83YIFyIqT4Vi/6MfssDTBpfX4CwRP5yTeI0Nq/9D3KSsUYDjpHwEfFEhU/wQrw7tIKulrIqR+TkDIkJncGQDlkX/zezfCsOBRmT6mazCk5RfSQOph3E5mIXpEgUjsRzW+eSPU8kVPn3ljF4=;tw7okv24viioLeJDRYwu4w=="
 ---
 

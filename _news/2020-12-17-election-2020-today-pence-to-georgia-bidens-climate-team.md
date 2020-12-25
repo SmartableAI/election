@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-pence-to
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 2035
+heat: 2055
 published: true
 
 provider:
@@ -766,6 +766,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545311096&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK126"
         width: 817
         height: 545
+        isCached: true
+  - title: "Covid: US President-elect Joe Biden gets vaccine live on TV"
+    excerpt: "President-elect Joe Biden has received his first dose of the Pfizer Covid-19 vaccine, saying he was getting the jab to show Americans it is \"safe to take\". Mr Biden joins a growing number of political leaders getting the jab,"
+    publishedDateTime: 2020-12-25T07:47:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55401706?at_custom2=twitter&at_campaign=64&at_custom4=BC9012"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55401706"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55401706"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/115EE/production/_116205117_biden.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Biden taps Susan Rice as top domestic policy adviser amid flurry of moves"
     excerpt: "U.S. President-elect Joe Biden chose Susan Rice, who was national security adviser to former President Barack Obama, on Thursday to lead the White House's domestic policy council as part of a flurry of appointments to his developing administration."

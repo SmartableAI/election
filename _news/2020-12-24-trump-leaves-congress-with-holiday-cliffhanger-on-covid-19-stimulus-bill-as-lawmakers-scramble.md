@@ -79,12 +79,28 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "GOP blocks $2,000 checks as Trump leaves COVID aid in chaos"
+    excerpt: "President Donald Trump’s last-minute demand for $2,000 checks for most Americans has thrown the year-end COVID relief effort into chaos"
+    publishedDateTime: 2020-12-25T08:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-blocks-2000-checks-trump-leaves-covid-aid-74905528"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-blocks-2000-checks-trump-leaves-covid-aid-74905528"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-blocks-2000-checks-trump-leaves-covid-aid-74905528"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump golfs in Florida as COVID relief hangs in the balance"
-    excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christ"
-    publishedDateTime: 2020-12-24T23:43:00Z
-    webUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christmas Eve golfing in Florida."
+    publishedDateTime: 2020-12-25T04:40:00Z
+    webUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post

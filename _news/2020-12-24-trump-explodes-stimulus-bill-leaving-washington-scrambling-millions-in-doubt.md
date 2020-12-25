@@ -144,6 +144,20 @@ related:
         width: 1281
         height: 670
         isCached: true
+  - title: "Covid-19 Live Updates: U.S. Hospitalizations Hit New Record; Trump to Tighten Rules on U.K. Air Arrivals"
+    excerpt: "The number of newly reported Covid-19 infections and deaths in the U.S. fell Thursday from the day earlier, but hospitalizations hit another record."
+    publishedDateTime: 2020-12-25T08:29:00Z
+    webUrl: "https://www.wsj.com/livecoverage/covid-2020-12-25"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 98
+    images:
+      - url: "https://images.wsj.net/im-278216/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "atlQy8dB2Zbjc+F+3U5l1iRRuO5iXvkbN+5p4fbQGyi6tceVO5P2uUsCFQftLw4tZdjB647qbqy7Z6INTbmI7o0WPvrOpXC+nt3XQPiEhIoqtYhehCQFtSVS1c3zUD/IR1BLbHWOyMzH3iTRuAu5ITgZyGTTbMbZORJ8jhKsXupgyYOlchLK9Pqznuz5Lp1Xe1Jusi4w6h7yvUiGQUPGiwBxdQXkikuWDoTYXn1jTSnVLAKMEDeweGDBEbrHn9tLcqb/Tm7UBUSTv6X+XStTQT7peFi2NR6WWY1dPKMTTyx48TPotn94RlW0FdAJ5pCObTYQLAEUhjpfnN1j8+PF6fe/mhtYzxlOqBggHusN0zs=;IdtdcSt2o+JcwM+cshVuiQ=="
 ---

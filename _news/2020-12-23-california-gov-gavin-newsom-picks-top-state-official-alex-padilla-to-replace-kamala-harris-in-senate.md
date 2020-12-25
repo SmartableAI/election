@@ -1,10 +1,10 @@
 ---
 category: news
 title: "California Gov. Gavin Newsom Picks Top State Official Alex Padilla to Replace Kamala Harris in Senate"
-excerpt: "California Secretary of State Alex Padilla will replace Vice President-elect Kamala Harris in the U.S. Senate, Gov. Gavin Newsom announced Tuesday."
+excerpt: "California Secretary of State Alex Padilla will replace Vice President-elect Kamala Karris in the U.S. Senate, Gov. Gavin Newsom announced Tuesday."
 publishedDateTime: 2020-12-22T19:39:00Z
-originalUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
-webUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
+originalUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/"
+webUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/"
 ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
 type: article
@@ -260,6 +260,6 @@ related:
         height: 683
         isCached: true
 
-secured: "LJffHRjkL3mtnnw5X386h9RNflY7CUnEZJInE9uW4kMk8FT4BmG7ih0/Z+FC2loyP3kq9goFiuG5gqmtLrrWfe6ZAMBtvUMdE05Z497qvnPO55OUZ61XRl/fFGyBlHE/YcK7hE3MFjjrX8Wo+lhVrCKnrxs7Tu0jaCipvktje1AlNNflZhPRJE0W+xbseuPOyJXQ6BZwj9okU4IpZ8ojAAYstkq3w01Zff6a70aQ6XtL2UZrKG6D/Zm+sYiRu7j9PyjAjkeijo6XcoITYsUd/hiEx2+iGmm/xnEB2oz9zYl3XjBFSVKfLNftamiHBXR1jP5QZ94wA/qbrpuqmiaIqnlWVWiUDuU5n+g9/heZQCobP2TATfMLtfL69vipNuODQla37Ljo4Hn2cQDXPaRyFspGkeR89Mhbp6xCcA3RhpNGlxfMOUYG9o4FCIBeqO3SQl3DX3oH0PaG8FFge+5+esrlfT2ku68z5S19PcugmZtVjoHKula40JmZ51b/ruZz2M2CzINqJEOLHaP/S7GGFQ==;Zj0a768o0IwSayBukW5IgQ=="
+secured: "a09Lv+/DTX9utCVW1QEL79AE/+Z3a/cD1oAqYJqwcUBHhFXPbeomyk8H77/kK9dQZ+VWPxmPY+eGa6V1a+zxfVFXDrCWn/9Gzqk3y5aKcaVqD0HXXNHAc8AMJKMo8XXHPoeh/TlWY5DVbQ0neVxVTmX7APC8qJ9hPmtO9QKsZ/14Uw4G3th1dcmBnS7NlICH7tg3WSPN0d5px1KfLPzQrCPlfmri91go876qxE64zZ5fbaPJBHP03QpOe8wEijjGS6JhttqY2n08KMMDkbErUIBRKAW2n3IZ8mQufWVOmgATHAfZBAl9qY9aFi2kfMy90rvkmvMLAVYzUWidGPYpJr3veglm2LdSP/REJyuBLjQ=;Lqvc2D2setfJ3iKigwYS3w=="
 ---
 

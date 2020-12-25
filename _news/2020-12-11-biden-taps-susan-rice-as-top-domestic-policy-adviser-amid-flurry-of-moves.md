@@ -783,6 +783,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Covid: US President-elect Joe Biden gets vaccine live on TV"
+    excerpt: "President-elect Joe Biden has received his first dose of the Pfizer Covid-19 vaccine, saying he was getting the jab to show Americans it is \"safe to take\". Mr Biden joins a growing number of political leaders getting the jab,"
+    publishedDateTime: 2020-12-25T07:47:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55401706?at_custom2=twitter&at_campaign=64&at_custom4=BC9012"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55401706"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55401706"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/115EE/production/_116205117_biden.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Progressives frustrated with representation as Biden Cabinet takes shape"
     excerpt: "Some progressives are getting increasingly frustrated with the how President-elect Joe Biden’s potential Cabinet is shaping up, venting that the incoming administration does not properly reflect the r"
     publishedDateTime: 2020-12-13T15:24:00Z

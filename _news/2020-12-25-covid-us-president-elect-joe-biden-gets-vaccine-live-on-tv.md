@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Transition stumbles test Biden's bond with Capitol Hill"
-excerpt: "WASHINGTON -- President-elect Joe Biden brings more Capitol Hill experience than any president in decades, but his transition has stumbled in ways large and small, exposing the challenges of navigating a Congress that is a different place than when he last served in 2009."
-publishedDateTime: 2020-12-18T10:19:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/transition-stumbles-test-bidens-bond-capitol-hill-74795016"
-webUrl: "https://abcnews.go.com/Politics/wireStory/transition-stumbles-test-bidens-bond-capitol-hill-74795016"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/transition-stumbles-test-bidens-bond-capitol-hill-74795016"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/transition-stumbles-test-bidens-bond-capitol-hill-74795016"
+title: "Covid: US President-elect Joe Biden gets vaccine live on TV"
+excerpt: "President-elect Joe Biden has received his first dose of the Pfizer Covid-19 vaccine, saying he was getting the jab to show Americans it is \"safe to take\". Mr Biden joins a growing number of political leaders getting the jab,"
+publishedDateTime: 2020-12-25T07:47:00Z
+originalUrl: "https://www.bbc.com/news/world-us-canada-55401706?at_custom2=twitter&at_campaign=64&at_custom4=BC9012"
+webUrl: "https://www.bbc.com/news/world-us-canada-55401706?at_custom2=twitter&at_campaign=64&at_custom4=BC9012"
+ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55401706"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55401706"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: BBC
+  domain: bbc.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_6139efaf033d42579c0c3d46bd00a5aa_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/115EE/production/_116205117_biden.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -559,6 +559,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Transition stumbles test Biden's bond with Capitol Hill"
+    excerpt: "WASHINGTON -- President-elect Joe Biden brings more Capitol Hill experience than any president in decades, but his transition has stumbled in ways large and small, exposing the challenges of navigating a Congress that is a different place than when he last served in 2009."
+    publishedDateTime: 2020-12-18T10:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/transition-stumbles-test-bidens-bond-capitol-hill-74795016"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/transition-stumbles-test-bidens-bond-capitol-hill-74795016"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/transition-stumbles-test-bidens-bond-capitol-hill-74795016"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6139efaf033d42579c0c3d46bd00a5aa_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "With climate change focus, Biden filling environmental, interior posts"
     excerpt: "(This Dec 17 story corrects historic significance of Michael Regan's nomination in 2nd paragraph to say if appointed, he would be the first Black man to run the EPA. Also corrects references in previous updates of story."
     publishedDateTime: 2020-12-18T14:33:00Z
@@ -766,22 +782,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545311096&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK126"
         width: 817
         height: 545
-        isCached: true
-  - title: "Covid: US President-elect Joe Biden gets vaccine live on TV"
-    excerpt: "President-elect Joe Biden has received his first dose of the Pfizer Covid-19 vaccine, saying he was getting the jab to show Americans it is \"safe to take\". Mr Biden joins a growing number of political leaders getting the jab,"
-    publishedDateTime: 2020-12-25T07:47:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55401706?at_custom2=twitter&at_campaign=64&at_custom4=BC9012"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55401706"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55401706"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/115EE/production/_116205117_biden.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Biden taps Susan Rice as top domestic policy adviser amid flurry of moves"
     excerpt: "U.S. President-elect Joe Biden chose Susan Rice, who was national security adviser to former President Barack Obama, on Thursday to lead the White House's domestic policy council as part of a flurry of appointments to his developing administration."
@@ -1478,6 +1478,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "J6U5J67xlTyNGLIRsJKEOAjdf76C10rRsHSZD/3PocUb1lVmkmuKprKPEE85TS1KFxEQvJt7bM1+thSHnLtnl6UwSCvjJoAExtrzpULLQdhLHlFrOH3POBVZN3JlUosujdDl/6QDsAWFdPhWBT3WSHdTHigUgD5TLt+kyGgqJom8/uGhrJVQOzh3l6vRv8mjL4ws6csFapqokFXfnWj91tiuJIQVVBvsGYmYhaJ9nVUuoUi7LXUwX9BOoMDiZLYbMHG9IjaftGE5p4zDfDRFKRdZpntz5xsLPOHTdp4lyGyiuXCFavxXiz5Z7QNz4dfo+7uBIZx5oPFe+ZrJe1XsEdMgk8goe04pvwpc/TwxqH9QU/g6Jdvn79DEAnjmaAY0cXU6POf1fw8mmUqitkdUsGJ5zubccnF9xLi2yAEOrdK8LzoounrarzFwCPIbWG5Gx7Yl1hYHH9GVBXc2YQ+XkyUW9ESdWb+GEosurnLK2IcOxnzBmowVqqiEhCzlgtcFvjpj4CJ4S0m1jJxlb0UCBg==;pSkNvGKvhJ0/48NO6toI5A=="
+secured: "5aag2McX7q+kOinNK4gsXfDD3CE4nYd5HLQAM+ZyXE+dVppo0hPcYlxmvHMNhnjNEBuqFbdMocBEtlh5meNPicgB3GRMvCR5ICD5pBsvZEsui8+UPrh6dzfry55KxuyqeCSLNcgPjPk/Z1/AJUjT9BPgCBaloaty3gYSkETWmOJBRoYvR8BB4ESOlaVG7gQDVTFl+pSTKtdfKNasjreXXdsTNJh8zQDfSkEjXxCAABCifLnriwYfObB5Hhw31sEfZRxCZtf7fAjwW1tQ5udY2j4ZZzVzbWj31WvGu2JvlfywEPMEgw5IP4Cb9qwfReHvJKi9OUUHnfZ2GyxP+wCggurcqpUcpnjngnIZgUMqHA8=;qcWYUG6XaGLQ2HJh2LBBZA=="
 ---
 

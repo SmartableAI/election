@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Trump golfs in Florida as COVID relief hangs in the balance"
-excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christ"
-publishedDateTime: 2020-12-24T23:43:00Z
-originalUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html"
-webUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html"
-ampWebUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christmas Eve golfing in Florida."
+publishedDateTime: 2020-12-25T04:40:00Z
+originalUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html"
+webUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
@@ -78,6 +78,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545558317&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM00V"
         width: 817
         height: 545
+        isCached: true
+  - title: "GOP blocks $2,000 checks as Trump leaves COVID aid in chaos"
+    excerpt: "President Donald Trump’s last-minute demand for $2,000 checks for most Americans has thrown the year-end COVID relief effort into chaos"
+    publishedDateTime: 2020-12-25T08:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-blocks-2000-checks-trump-leaves-covid-aid-74905528"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-blocks-2000-checks-trump-leaves-covid-aid-74905528"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-blocks-2000-checks-trump-leaves-covid-aid-74905528"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump EPA retains ozone standards despite COVID-19 link to air pollution"
     excerpt: "The Trump administration on Wednesday finalized a 5-year-old air quality standard for ozone pollution despite calls by environmental groups to toughen the rule because people harmed by air pollution are more vulnerable to COVID-19."
@@ -261,6 +277,6 @@ related:
         height: 600
         isCached: true
 
-secured: "EEqIlyXgNxbmo9uXX1sgXLsJF8Z0a+arZPkWA5FksbIYE0JeNr0lnPHfYm+2k5lHDi88JOtIw28HYpW5aKTMQ5l74Qj+Jn+eU0S7o1bnvrFXAXeYDhODHLWSABTkNogwRu7OMrhhpbapA+8aQpUGjlri+KH1THW0sIpWPaiJCm9q1j+EPOUaunIGjIyBUTcgcRvoBMNKynZCsWq8z3iFKpOrS0rAu208rD49nuEJMmUp673nbhUP29tfsaWEmcrMpjBo72xdLEFtiQT17aBzdRnSadAps8CfhlzOG48HUfjEQsP29J3toSPxCAeHyJ5hnOsQGywroaNh0gsdbREx+iYq3u6VoYkh1Mypt0k58/M=;R3xqQc82UIgVGBcF9zOvbA=="
+secured: "63Dm9xOiZkce2P+7UozaexNRiLgtWlBLMZmKijs+us1eFVusjYe49lX6oATXBRyXOOIHnGL4vwyHDpWNMy89g/Asv2Y/Kg86I/GIIaNoqD8YtCNIw2BahyFTkQsXH/jF7zBZAWszeSsu91EEtolszy4/HO7AFkcECdeyu8oJOxqiAJJ2TBydZKerzKALc1mB84p1isaOsmTfI2DOwUEb9N2sY9pc4qmf6l3ULeNingLpVlX02iwKMQuVBjADI6GdIxg2cu4hGTym0FFiTevPNy0/tO4f7QXtlfnO9DectVhFan04Gki49M3W56WS/rNu5Z4kgS6R1i/eP6fQmtrOxpFDPkD6tegRIB9nf7qxh/E=;xTl38CoAtskfYdo4d4WQ9A=="
 ---
 

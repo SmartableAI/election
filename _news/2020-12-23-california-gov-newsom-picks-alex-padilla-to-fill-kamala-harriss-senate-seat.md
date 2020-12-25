@@ -230,9 +230,9 @@ related:
         height: 300
         isCached: true
   - title: "California Gov. Gavin Newsom Picks Top State Official Alex Padilla to Replace Kamala Harris in Senate"
-    excerpt: "California Secretary of State Alex Padilla will replace Vice President-elect Kamala Harris in the U.S. Senate, Gov. Gavin Newsom announced Tuesday."
+    excerpt: "California Secretary of State Alex Padilla will replace Vice President-elect Kamala Karris in the U.S. Senate, Gov. Gavin Newsom announced Tuesday."
     publishedDateTime: 2020-12-22T19:39:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/"
     ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
     type: article
