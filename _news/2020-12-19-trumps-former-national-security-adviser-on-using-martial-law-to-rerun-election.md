@@ -303,6 +303,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Congress scrambles to avert shutdown after Trump’s stimulus demands"
+    excerpt: "Congressional leaders are clambering to avoid a disastrous government shutdown days before a spending deadline after President Donald Trump rejected their $900 billion stimulus deal that would provide relief to millions of Americans."
+    publishedDateTime: 2020-12-25T01:20:00Z
+    webUrl: "https://www.politico.com/news/2020/12/24/house-gop-blocks-stimulus-checks-boost-450343"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/24/house-gop-blocks-stimulus-checks-boost-450343"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/24/house-gop-blocks-stimulus-checks-boost-450343"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/a3/66/9c469f3448a0803eb39cd78176e2/hoyer-773-ap.jpg"
+        width: 1159
+        height: 773
+        isCached: true
   - title: "Trump flays former allies, calls to ‘fight on’ after Supreme Court defeat"
     excerpt: "Trump aired a lengthy list of his ongoing grievances with the high court’s decision that dismissed a longshot challenge by the attorney general of Texas."
     publishedDateTime: 2020-12-12T15:18:00Z

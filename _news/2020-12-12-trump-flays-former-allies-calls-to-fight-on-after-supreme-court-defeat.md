@@ -320,6 +320,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Congress scrambles to avert shutdown after Trump’s stimulus demands"
+    excerpt: "Congressional leaders are clambering to avoid a disastrous government shutdown days before a spending deadline after President Donald Trump rejected their $900 billion stimulus deal that would provide relief to millions of Americans."
+    publishedDateTime: 2020-12-25T01:20:00Z
+    webUrl: "https://www.politico.com/news/2020/12/24/house-gop-blocks-stimulus-checks-boost-450343"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/24/house-gop-blocks-stimulus-checks-boost-450343"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/24/house-gop-blocks-stimulus-checks-boost-450343"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/a3/66/9c469f3448a0803eb39cd78176e2/hoyer-773-ap.jpg"
+        width: 1159
+        height: 773
+        isCached: true
 
 secured: "YrzoCbRK+8TO6SI6S05E4agolzWhu4k7k1vRB1u7EwPx4ZJxuDEJo8vFndxAirL+AQYjyIiV42s9eFqAfKhQTRUMvebDsYFfaqDDl+5ecjd0qCCqxHU9N0KO0rPW2YcNmQhbrhs5MZExFTafvalodWT+tU/suxDkL/TqsWxfFPw+V0UdmEkHGNgdmdUKijAbMksAlrJbGDQY3/kZOXnq0sk1zSVgm/u+AJU/KficHb/IHBUo+b3c7/WT+sWKbzuzxGsDVOebJ4RfVOtH/9Wy25uHwwu+rcZY7y8v/QARNHHSvU2l99bvfhJNG7SgTYxlyWk39WUj4OuEkaDvRslxYcMy/ZlQggdcNqlql3asPcjXm4sNtcC5OIVWK1gGco4bL683biTsqIGQ/X6+yBFWzQrp/4jWL/YY7NpU+x338GAI1S7XaojSv02B1dZTUsyZYc1fbYj6VjHn8FW/REgZYfIZ5Hz4EHVSJ0wVDzctZSeq+dE36iXWaLSdRCuYXUp61+JA79WNFk2FqVHin/ZDQg==;HaIVB//GML99pqhqxcxa4Q=="
 ---

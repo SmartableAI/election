@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Here Are the People Trump Has Pardoned So Far"
-excerpt: "Paul Manafort and Roger J. Stone Jr., both sentenced in the special counsel’s Russia inquiry, and Charles Kushner, the father of the president’s son-in-law, were pardoned days before Christmas."
-publishedDateTime: 2020-12-24T10:22:00Z
-originalUrl: "https://www.nytimes.com/article/trump-pardons-commutations.html"
-webUrl: "https://www.nytimes.com/article/trump-pardons-commutations.html"
-ampWebUrl: "https://www.nytimes.com/article/trump-pardons-commutations.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/trump-pardons-commutations.amp.html"
+title: "Congress scrambles to avert shutdown after Trump’s stimulus demands"
+excerpt: "Congressional leaders are clambering to avoid a disastrous government shutdown days before a spending deadline after President Donald Trump rejected their $900 billion stimulus deal that would provide relief to millions of Americans."
+publishedDateTime: 2020-12-25T01:20:00Z
+originalUrl: "https://www.politico.com/news/2020/12/24/house-gop-blocks-stimulus-checks-boost-450343"
+webUrl: "https://www.politico.com/news/2020/12/24/house-gop-blocks-stimulus-checks-boost-450343"
+ampWebUrl: "https://www.politico.com/amp/news/2020/12/24/house-gop-blocks-stimulus-checks-boost-450343"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/24/house-gop-blocks-stimulus-checks-boost-450343"
 type: article
 quality: 135
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/01/02/lens/02xp-trumppardon-manafort/02xp-trumppardon-manafort-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://static.politico.com/a3/66/9c469f3448a0803eb39cd78176e2/hoyer-773-ap.jpg"
+    width: 1159
+    height: 773
     isCached: true
 
 related:
@@ -288,6 +288,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Here Are the People Trump Has Pardoned So Far"
+    excerpt: "Paul Manafort and Roger J. Stone Jr., both sentenced in the special counsel’s Russia inquiry, and Charles Kushner, the father of the president’s son-in-law, were pardoned days before Christmas."
+    publishedDateTime: 2020-12-24T10:22:00Z
+    webUrl: "https://www.nytimes.com/article/trump-pardons-commutations.html"
+    ampWebUrl: "https://www.nytimes.com/article/trump-pardons-commutations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/trump-pardons-commutations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/02/lens/02xp-trumppardon-manafort/02xp-trumppardon-manafort-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "New Signs of Economic Distress Emerge as Trump Imperils Aid Deal"
     excerpt: "A decline in consumer income and spending poses a further challenge to the recovery as jobless claims remain high and benefits approach a cutoff."
     publishedDateTime: 2020-12-23T22:36:00Z
@@ -303,22 +319,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/23/us/23virus-econ01/23virus-econ01-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Congress scrambles to avert shutdown after Trump’s stimulus demands"
-    excerpt: "Congressional leaders are clambering to avoid a disastrous government shutdown days before a spending deadline after President Donald Trump rejected their $900 billion stimulus deal that would provide relief to millions of Americans."
-    publishedDateTime: 2020-12-25T01:20:00Z
-    webUrl: "https://www.politico.com/news/2020/12/24/house-gop-blocks-stimulus-checks-boost-450343"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/24/house-gop-blocks-stimulus-checks-boost-450343"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/24/house-gop-blocks-stimulus-checks-boost-450343"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/a3/66/9c469f3448a0803eb39cd78176e2/hoyer-773-ap.jpg"
-        width: 1159
-        height: 773
         isCached: true
   - title: "Trump flays former allies, calls to ‘fight on’ after Supreme Court defeat"
     excerpt: "Trump aired a lengthy list of his ongoing grievances with the high court’s decision that dismissed a longshot challenge by the attorney general of Texas."
@@ -337,6 +337,6 @@ related:
         height: 773
         isCached: true
 
-secured: "0kXbwmSO9BU50YeRyGPsZ68eBJC3AJFdMOc636eLYsT6bkI9lF8qFSf8QUSkPZl+7DlIc7QPZT+WIq59VqqkgD+0OIOr4tF8t9RFDc0kCHNLNQ00Wb/nep5qFgRRpVKLFFqlyxiMwpoqn0YBCkKS+dz9M4rxLHjvRv+r5t7q5DSneXLdBIxHGPdu9yH68k1mE+tqZiiDthxdT6P5AJJL46njz/bkimvupLluWuImYkzDUpclj1qZ8EGxWizPG2mkirH4kbX4ThieTIz0wgp4w7R6VbFXCc6MfX+wdBbkk55FcoPXL1zf7Wu6cucOmPsV9chI0xI3uz2kG5e2J8ZPDy6j7nSNVLFwgbCz+A+rdg8=;FXVeBInD7y8qrhVcduMJ9w=="
+secured: "oMLViTlewhiHk6aBZXby0zqV/2NIOAl2rUzm1KjcI23g6vDVr9iufXizTrPxIof2nQyPy9p05CKVqIsbzbBM7dJe9QDDBZiJ/+2P5ebFrU2Wp8UFC3Wybdu7XkQScv4vAux6KtP/+dQ2fmJGLyugB9IxhPuTC5oN7lW1RJzU9Iw+BrzdsCrwtBnLQZUTkNflFNw04qwvR+1e6RsB0uinb4k4A3KnZ8xmKRxX/bqi0o+uyZr/OGMejk6bbie2bSS65QgbfXu+rZCeHpLU4O6QjYflbOoN1DKmLpOjBKWMHc+DCb8aWFOJyKJHDLf3nm2ifswtBuSsUjKFUo95rt/ors/SWuvPV42fIS9MxngNAXc=;lm6NiOVms9ot5CtamEvCAg=="
 ---
 

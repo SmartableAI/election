@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Trump Golfs in Florida as COVID Relief Hangs in the Balance"
+title: "Trump golfs in Florida as COVID relief hangs in the balance"
 excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christmas Eve golfing in Florida."
-publishedDateTime: 2020-12-24T23:42:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-12-24/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-12-24/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-24/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-24/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance?context=amp"
+publishedDateTime: 2020-12-25T04:40:00Z
+originalUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html"
+webUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Trump, ahead of FDA, says Moderna's COVID-19 vaccine has been approved"
@@ -255,6 +261,6 @@ related:
         height: 600
         isCached: true
 
-secured: "r3oV+wuzs6L3KQY0PZGrBkWqVoW+dG76/vP5jL6Mdhl/9jBgJug8HCs4iP1NPj/bdzWapnRzJVO6QtY76KuDgYP1TV/r+6aRK1Pd0IGpzs2hbwm6BwOn4yk6C/9cQFJvNkG0Ug+S5pKTZX4GVmqGvoNrSGpn7t+6vhHMP74fQh2qOJGK9TtSiHoZeOhUkO7e4231S+3VGNopLsXuECmwpR7wCEgIERnrYXZhclsVTD9E+tb/qlt20uEJ2zZw//XtPnIUDil4wOjOC0dH/XM0AFR+Nzwyo0AGnT98SUh0hpGdfGDI9HJaKeCaGdTWK9Hs8ftM5D5uBJCRMhHDz249mrBK0vVtxvPJEmhOoRaCchLr115driX1XYJyXex2NVXlz60YRRsH5MGIq0QxHwE/sCLlbkwC5EWqg33/lYAT7IeAG/4rbC1W1DKX+eHzDE36G4Sm55isrQtg8SR2Lr1uQ7xFUY/mIspJc0BhD8AH95rYJ+lHvOyBQLZKQTvWkh5suZscNbvqS46qXl6l8Fx6wQ==;JwcSF3HggTunNKRyw2BzYA=="
+secured: "pR3Qm6uzisvIVYmeY00l4h2aoCmgzbpO8iS2sGYDjlMfxzrvJoZiCQw58/tzfTGrRmJk58OInbXZ5G+lPQCfh9+t6c2AzgRuL8rIYzp3MXT2gC5tMWJGdhGSx9uYktlUSTqPEFgTSSOHEUSWrw+6dZ5dG4bjmrTO+LpQVCze5bO830Er++nqwQfbLM4/ON6wxJvsg5s7t2/sBQ2Amldjmfqva0AMsn/Zmu3g81vVMRkLMAIiAzdXDLAI4LkV8EmljBQ8ZkytDIWVgrAqx/9zFhvfFVqSycNZfOh5lIJHrcuK1er1lZGY+7pUGSlwV8rfOafpiFn+M/e6X5JIN7aojBzyXhUwl/39viRAn1yQedc=;U46C4vDZPJ/dYqh5ZFmNcQ=="
 ---
 

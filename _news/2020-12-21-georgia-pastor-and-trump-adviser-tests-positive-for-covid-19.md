@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump golfs in Florida as COVID relief hangs in the balance"
+    excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christmas Eve golfing in Florida."
+    publishedDateTime: 2020-12-25T04:40:00Z
+    webUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump EPA retains ozone standards despite COVID-19 link to air pollution"
     excerpt: "The Trump administration on Wednesday finalized a 5-year-old air quality standard for ozone pollution despite calls by environmental groups to toughen the rule because people harmed by air pollution are more vulnerable to COVID-19."
     publishedDateTime: 2020-12-24T00:00:00Z
@@ -244,17 +260,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump Golfs in Florida as COVID Relief Hangs in the Balance"
-    excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christmas Eve golfing in Florida."
-    publishedDateTime: 2020-12-24T23:42:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-24/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-24/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-24/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "50GiLv+2NtLQMaug0Gh83v43piHGpblLNpCP0btvz3JKKJGQZk88XalLXk99h8WSYhCH3VdBDOfibxXQ4RPoc3/6QYLgF2V8pRAbk2YEUVRVzDH8WtY5p+bQ3QhFzClS7/wFrTXDA/5RSYK1t+1oCtCeK6R4m0uqgkJWElyBdvRswBhg3RVUfmHrtQs0qgYp3myy/9zcE11qia6iRrtzID+467d4LkmhVbZ4inzeaOJdmR84BPpz9L3iLHcIyMMuC+PPFk9QfMDViqX3x60PPmF9COFp3BRW5lUr+8uspsBaDWw26NOZ4Cn5c6wwJwFP7W8CSDqQ25TOhuyrVV+0lRbqUmlleotF6z0UjC1cnYo=;uVPrzy1vYF1zrWjDQ9Ca1A=="
 ---

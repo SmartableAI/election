@@ -79,6 +79,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump golfs in Florida as COVID relief hangs in the balance"
+    excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christmas Eve golfing in Florida."
+    publishedDateTime: 2020-12-25T04:40:00Z
+    webUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/24/629a9e40-4641-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Refuting Trump, FDA commissioner says vaccine could not have been authorized sooner"
     excerpt: "In an interview with Fox News Saturday, Trump, after seeming to take credit for the speed of the vaccine's development, said that the Food and Drug Administration could have authorized the shot for emergency use \"last week."
     publishedDateTime: 2020-12-13T14:25:00Z
@@ -244,17 +260,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump Golfs in Florida as COVID Relief Hangs in the Balance"
-    excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christmas Eve golfing in Florida."
-    publishedDateTime: 2020-12-24T23:42:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-24/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-24/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-24/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "cwBDHMRfG+uKAShpq1Sy+GdpQTUKHjGb208AYdvp34WXyyh4Lcop9B1b3UY3qDn0SbRNCZoMDnVGuRuMA07YKPRIXkCtfq+Aed7+LhFaFnJl03jc2Ze57VZCb4qXoBNOHZuHhG8vDvEiihGcYGKbOG1+807B6Dcj/KjR0a8PdzaH4Ls9zNLCKABa/s1TEX1LQyUPf88ODY6mYt/rEWe5WZYp684ZOWdn2LRdVRuPuabMhreNA21Gncbdlyqedaot4fIf+1SjDcTq8K9BlMm5he0fIIxKv6dhei052xljYlwCchbIvzurHCaoMH5L4QSYQz+BXXMlOmBCHm23bwume27q7tpllYPfqdsLwhA6uOU=;OgrrSyh24wcaOPkqOtAcCQ=="
 ---

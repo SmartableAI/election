@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn"
 type: article
 quality: 190
-heat: 550
+heat: 570
 published: true
 
 provider:
@@ -302,6 +302,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/23/us/23virus-econ01/23virus-econ01-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Congress scrambles to avert shutdown after Trump’s stimulus demands"
+    excerpt: "Congressional leaders are clambering to avoid a disastrous government shutdown days before a spending deadline after President Donald Trump rejected their $900 billion stimulus deal that would provide relief to millions of Americans."
+    publishedDateTime: 2020-12-25T01:20:00Z
+    webUrl: "https://www.politico.com/news/2020/12/24/house-gop-blocks-stimulus-checks-boost-450343"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/24/house-gop-blocks-stimulus-checks-boost-450343"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/24/house-gop-blocks-stimulus-checks-boost-450343"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/a3/66/9c469f3448a0803eb39cd78176e2/hoyer-773-ap.jpg"
+        width: 1159
+        height: 773
         isCached: true
   - title: "Trump flays former allies, calls to ‘fight on’ after Supreme Court defeat"
     excerpt: "Trump aired a lengthy list of his ongoing grievances with the high court’s decision that dismissed a longshot challenge by the attorney general of Texas."

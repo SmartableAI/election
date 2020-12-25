@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/biden-twitter-white-hous
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/biden-twitter-white-house-accounts/index.html"
 type: article
 quality: 171
-heat: 171
+heat: 191
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Biden team's multibillion-dollar school testing plan takes shape"
+    excerpt: "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country."
+    publishedDateTime: 2020-12-24T20:32:00Z
+    webUrl: "https://www.politico.com/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d6/1f/d14f15944a349a63f3aea61c185a/gettyimages-1276530953-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "134RbPm4TOpUmQg9PGRiJKlDHiJUMbz+8wJdALT1ZYKfY+Hc7i3mtsHw7d0KN32BbxfSpo6hgIeZKksBzgPiM9LNW7GP0WY4CUwayI8kDyNf2xAZL8lb7O9boBQ4CGZcC/M7ECRtBrJxiWHb1bxsMf8Eu6gDgRvXzfE2CzXpXn5iJCzeqb22KUfGn8KN0YUaPxo+R9cNFu5VyjO1H1rcdf+eI6kfYEvznLGY7Pqf6vGUlvTqyUidnkr7Y1QVtVrb1cHEF7+gNipRvMBljDhL00H7rRb3EclkkZLi3ciKHUVaHMbfLT+ZvKQg+beK5Dq6AkXd9V1K0P1eXbEbzQ0UbBVyFKWQumAkF3U26tfRGqM=;sVIoM5qQDh3xDFncKdnipQ=="
 ---
