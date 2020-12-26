@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Trump pardons Charles Kushner, Paul Manafort, Roger Stone in latest wave of clemency grants"
-excerpt: "The president once again used his executive power to benefit his allies and undermine an investigation that dogged his presidency."
-publishedDateTime: 2020-12-24T02:11:00Z
-originalUrl: "https://www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html"
-webUrl: "https://www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+title: "New Round of Trump Clemency Benefits Manafort, Other Allies"
+excerpt: "President Donald Trump pardoned more than two dozen people Wednesday, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law."
+publishedDateTime: 2020-12-26T17:24:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies"
+webUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies?context=amp"
 type: article
-quality: 115
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XE7GXWSFOEI6XF242F5YQFNGNU.jpg&w=1440"
-    width: 1440
-    height: 1036
-    isCached: true
 
 related:
   - title: "Trump pardons former campaign chairman Manafort, associate Roger Stone"
@@ -110,6 +104,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2019/11/15/d50063fd-1a97-4d11-bede-67d30aeb4d9e/thumbnail/1200x630/265b89e83a02e6650ab917ade9590248/ap-19319631440573.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump pardons Charles Kushner, Paul Manafort, Roger Stone in latest wave of clemency grants"
+    excerpt: "The president once again used his executive power to benefit his allies and undermine an investigation that dogged his presidency."
+    publishedDateTime: 2020-12-24T02:11:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XE7GXWSFOEI6XF242F5YQFNGNU.jpg&w=1440"
+        width: 1440
+        height: 1036
         isCached: true
   - title: "Trump pardons former campaign chairman Paul Manafort along with Charles Kushner, other allies"
     excerpt: "Trump's pardon of Paul Manafort once again highlighted the long shadow cast on the White House by the investigation into Russia's interference in the 2016 election."
@@ -196,18 +206,7 @@ related:
       name: NPR
       domain: npr.org
     quality: 85
-  - title: "New Round of Trump Clemency Benefits Manafort, Other Allies"
-    excerpt: "President Donald Trump pardoned more than two dozen people Wednesday, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law."
-    publishedDateTime: 2020-12-26T17:24:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
-secured: "47rIctJRCZ6bogmvOC3Tscp16urQwWOTAOcXweBca5qD0PykQbBRKl/sjDWTf5kLpgzkeg+5iIegMvD6d5LJdk1HxsVESDhnMRbH6JMo1tNMaTRnvj1d6Z0VPvc8mdub4FN3HyTO/V7XGpMNKUQbKnvKyPPYsxgjLiSMGEDxNf1+Q95ClCSdcu+JCeosUxvGeLamPn9v6h0j+VIO39bxWZi4HHTi5b37u2vx2BR3/JSt3AyH9T1JWWpnepeVyzMIAbfDP5KHdNLWuClIzkQJcJ5hilnmQg5UJ9VrwPw85Z2ZKFIXkP9u+vcdnhfTzQ7VpWLjp4aR0ZJstdNm8S/iACwqjn3FGKhw9SM2T7YlkMRN20EBU8wxWx9li1q2AjkMTAZ/GAjSU3KKcH7KXe3YJzbiw2AvSfukiDlU4oz/aOlBDZUj9O4GrVQQUJ6iVFLq9O98DISldF/QViZdWYzlCqJlL5o5gE5YA9SytxqgHpt3+izBNM9E/WRTEGIzgtSoaRerEVr2whzWRsIqBEcq7Q==;C1w4y8r/ta5eYNqCQCZlNg=="
+secured: "WVM8fVgd4pR33A9dQ6W8FSNtTXDHEwhtXwXJ0xz34lqUanwuZtsbiXaDT2yJq3CUjyMbFurRoCvf8xRi5X4DXzg4OMrKrgXSptq+odss+NcAmJXm2y8EjYfw48XS8rLbFtsvYwLi/eYReJn3Yu76jXfWQNa83SreC61J1ZWEAMAdI9xzT7JgewqBhWSo/y8ZQIUZvGJPQOb/GLNSx8UoE9I/dpfZUs8Bq0M8+UlTM4Dmy5n2p/zB33cmn86YHfGdurBGUQT7GwEicRGu5l7maqq+JTpAVtWislihfcnxkIoJEJzlnsTIJoSSzZBqMtYAPHEE4jHod070kMq9mOjmZhxWbtHN2SuZoSFZCatxHHE5EE858JUt7eetklOPxxyZ8cHRo21pB7C+C5PR5842pz1AVemsVOMvlyb40MELw+MVxPI63XBaCV19gNIFukn5VTGwgfXbHsNvbHCMjwoFGCbq1aUhbX3BuBh/g4gfBjHidDbSOAOs60DwWAgR83mIx4D9iFRLGcOscOzw+XPcgg==;BGt1EDAWKHRDqGRwSZopQQ=="
 ---
 

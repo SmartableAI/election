@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Kamala Harris and husband donate to Toys for Tots"
-excerpt: "Vice President-elect Kamala and husband Doug Emhoff visit Washington DC fire station number one to drop off toys as the station serves as one of the Toys for Tots drop-off locations in the nation's capital."
-publishedDateTime: 2020-12-23T21:30:00Z
-originalUrl: "https://www.azcentral.com/videos/news/nation/2020/12/23/kamala-harris-and-husband-donate-toys-tots/4031998001/"
-webUrl: "https://www.azcentral.com/videos/news/nation/2020/12/23/kamala-harris-and-husband-donate-toys-tots/4031998001/"
+excerpt: "Vice President-elect Kamala and husband Doug Emhoff visit Washington D.C. fire station number one to drop off toys as the station serves as one of the Toys for Tots drop-off"
+publishedDateTime: 2020-12-23T23:25:00Z
+originalUrl: "https://www.stltoday.com/news/national/kamala-harris-and-husband-donate-to-toys-for-tots/video_998a12db-8c55-5126-a0bb-235450bced60.html"
+webUrl: "https://www.stltoday.com/news/national/kamala-harris-and-husband-donate-to-toys-for-tots/video_998a12db-8c55-5126-a0bb-235450bced60.html"
+ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-and-husband-donate-to-toys-for-tots/video_998a12db-8c55-5126-a0bb-235450bced60.amp.html"
+cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-and-husband-donate-to-toys-for-tots/video_998a12db-8c55-5126-a0bb-235450bced60.amp.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0c9006e9-61e0-475b-9531-33fd674f2e1d_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "News Wrap: Alex Padilla is tapped to fill Kamala Harris’ Senate seat"
@@ -329,6 +325,6 @@ related:
       domain: usnews.com
     quality: 25
 
-secured: "iK2AVO672AM0VjR5SO81D5198Ae90pTKYe/ctfaQ5bH0ZqSe4a3LuXHhk/L1FD4W2t8ARwhArGbukC/jGU3lEYMnqfLlabRjdbu26nUWCbqIsWC6F0WM3AX9idd+DCRU1YwOdJCDbuOvtasVD/f5tSAbNmTAxwnOBhvZlueU2Fe/Ok3NhC7uox3CQUWgIQq8++9pFafyOeaQcLavC4Onc36gnnigjz5rAacZP4cMt4Qt9LcXFO88Ucr1HiVLYiSveJ9ra+JP9pRo+tNlshDyR7ocBRyEg7Yk/tqwt3FIIFwd8Oxm3Allc55s7dhMN5mEv3hk1oUPgejezRzQrZtznI2OvqunWQefuOYNLbDLdns=;m5l+yhow/keV8vS04xJmyg=="
+secured: "wU6FbCYQb5dsRmGBJpLtr2Bj+1ghcChI5gD8xKT4wDvXxSgS4cXkkXArtyxlDW0OKkR0Ml1e2QZ3fGbTSOfauXLyl/swIb2O06AyNLKNruOQjBC1St5p7aPFcm+U/QByJI1sr/zVRgYI/kXW9a4GSCd257UrY8a9Xdx9nbOcR0m4esr2Ua534cRUHbIVDXCn/Lyhdv5/TTZDbq+qsjrTYZoqwd3ktOediIhjjHRG9QBLvxTK7x1wXMdT1hQLGWpoeoA+7dGiAa69stGxX/XW90L6lZx1ZWaLu1PquQcuaYo12CrZ4h4zW0lOUwE/8o1k8NQh2IW5lY2pTV+RMojDB2oCM7arMnBrKkBd+RPjsy3pGhhh5romdlEaQysH8FsYcW2jwoVAHq81vcNuyozQ7VxyllSLmqBIQi+v5hiT0GOO5OFjfq6DU5fKaPAakL2pAVLdcld5gpLGFLUlFpWev82ygLtcmsKSsWOm7jxBFzNLAqMMaj6Fkx4PnRpyHyPsGzSsGVcTwWwSLNf094E7dQ==;JqFBiODkrF873VRDnfTBmA=="
 ---
 

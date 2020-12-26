@@ -304,19 +304,16 @@ related:
         height: 675
         isCached: true
   - title: "Kamala Harris and husband donate to Toys for Tots"
-    excerpt: "Vice President-elect Kamala and husband Doug Emhoff visit Washington DC fire station number one to drop off toys as the station serves as one of the Toys for Tots drop-off locations in the nation's capital."
-    publishedDateTime: 2020-12-23T21:30:00Z
-    webUrl: "https://www.azcentral.com/videos/news/nation/2020/12/23/kamala-harris-and-husband-donate-toys-tots/4031998001/"
+    excerpt: "Vice President-elect Kamala and husband Doug Emhoff visit Washington D.C. fire station number one to drop off toys as the station serves as one of the Toys for Tots drop-off"
+    publishedDateTime: 2020-12-23T23:25:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harris-and-husband-donate-to-toys-for-tots/video_998a12db-8c55-5126-a0bb-235450bced60.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-and-husband-donate-to-toys-for-tots/video_998a12db-8c55-5126-a0bb-235450bced60.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-and-husband-donate-to-toys-for-tots/video_998a12db-8c55-5126-a0bb-235450bced60.amp.html"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0c9006e9-61e0-475b-9531-33fd674f2e1d_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Alex Padilla becomes California’s first Latino US senator, replacing Kamala Harris"
     excerpt: "Alex Padilla, a Los Angeles Democrat who once developed software for satellites but later rose through local and state political office to become California secretary of state, was chosen Tuesday by Gov."
     publishedDateTime: 2020-12-22T18:30:00Z

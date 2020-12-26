@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Many jobless Americans will lose benefits unless Trump signs relief bill Saturday"
+    excerpt: "Millions of jobless gig-workers and independent contractors, as well as long-term unemployed Americans, will lose their unemployment benefits after this weekend if President Donald Trump doesn't sign the $900 billion relief package Congress passed earlier this week.\n    \n"
+    publishedDateTime: 2020-12-26T21:22:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CRIg-uz3TQo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/26/politics/unemployment-benefits-stimulus-relief-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/26/politics/unemployment-benefits-stimulus-relief-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201226140818-01-trump-south-lawn-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "xROmhEEmN61CvmqrRBL4CSeROvmMJOcO8TXMuDAFIvoBqC+2pcnaZ+DBobd6KP+jOvVtSgOEV8ML9LVBvkHLl2HAX0G1puUPlnssYOqi+dDbESn5gSBIjqNTrzhI91WNn82wICxttYvLenF4aDxEtplPEFEF1QgwyM8/Q3SxvFcij17xOnjmUUHo0BZHRWkI/h2aGHIyk0MwQ4Wwe2b3BCzxjSF4aytGVMEWDJoZf26Jgi9Vs8uHH/gAh4gKsVEpmBkogtwyz/OHb7KaPRkW23izM9mWVVo4EzxGPn4dKwBn18Hlz5rCbZoFNEKT2VF1wm1oYCLaGBLhc/P9GaNyNlNwDINUtghnxvD7hZHDGVU=;I+8ydemlSiIS8djJ3LnEfw=="
 ---

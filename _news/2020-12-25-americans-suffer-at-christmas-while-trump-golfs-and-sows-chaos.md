@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/25/politics/donald-trump-christmas-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/25/politics/donald-trump-christmas-election/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Many jobless Americans will lose benefits unless Trump signs relief bill Saturday"
+    excerpt: "Millions of jobless gig-workers and independent contractors, as well as long-term unemployed Americans, will lose their unemployment benefits after this weekend if President Donald Trump doesn't sign the $900 billion relief package Congress passed earlier this week.\n    \n"
+    publishedDateTime: 2020-12-26T21:22:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CRIg-uz3TQo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/26/politics/unemployment-benefits-stimulus-relief-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/26/politics/unemployment-benefits-stimulus-relief-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201226140818-01-trump-south-lawn-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's mind is elsewhere as unemployment benefits run out for millions of Americans"
     excerpt: "A day before unemployment benefits for millions of Americans were set to expire, President Donald Trump had a different insult in mind: his former-model wife has yet to appear on the cover of a fashion magazine as first lady.\n    \n"
     publishedDateTime: 2020-12-26T11:22:22Z
