@@ -3,16 +3,16 @@ category: news
 title: "Kamala Harris and husband donate to Toys for Tots"
 excerpt: "Vice President-elect Kamala and husband Doug Emhoff visit Washington DC fire station number one to drop off toys as the station serves as one of the Toys for Tots drop-off locations in the nation's capital."
 publishedDateTime: 2020-12-23T21:30:00Z
-originalUrl: "https://www.freep.com/videos/news/nation/2020/12/23/kamala-harris-and-husband-donate-toys-tots/4031998001/"
-webUrl: "https://www.freep.com/videos/news/nation/2020/12/23/kamala-harris-and-husband-donate-toys-tots/4031998001/"
+originalUrl: "https://www.azcentral.com/videos/news/nation/2020/12/23/kamala-harris-and-husband-donate-toys-tots/4031998001/"
+webUrl: "https://www.azcentral.com/videos/news/nation/2020/12/23/kamala-harris-and-husband-donate-toys-tots/4031998001/"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -329,6 +329,6 @@ related:
       domain: usnews.com
     quality: 25
 
-secured: "SzePIA2kbJn+9jJ9ZdrXyyuT9KGcf0SFJaoO8qIzjGaV3uKm52NituSXZOqCoPeEkg0a+AG7dFo4GXwuwr/etzAUqQM8iEOphGdthWooJxkxuLVN9ioJva+NIK9WN+YABxeHYB0iGGxRgaaG2j3LaTj6+zGFe3MlXsLaXdvlJZhJtGRMtANRfBer2xKnAG4HNZmgJUdhcVX3uHbSPySVENmX15GE76dmObmSw1av3y1ztkW3eKF0SntnkdRM02QszgcnenaN8Gz7V2H/ZE/lEvUGVgOqZpoK/uDdJ+SAA3F9ODcIjI8fP91eAYNtIWQUNHK6DEKpw9AyVGpTzhFxeB6vNN6VvwxY/PEsuU9wU2ouNyea9rUPqkKxvTQnDjsqAFhZxVvZo0un+yTjpRHDHZWrBGgG/PsrtopJ/WM08EOMr3OGTSkrLLUeZItMgyk6F2VbAzZazEwcPg/+uWazuyoC13Jw3cPb9dY0JU94vOEP2+zF03DX3q5sja6Fx7b8RksNG+MDnJsNjwkig/X5zw==;KUeG5EqI2f+lLnMnO4dMfQ=="
+secured: "iK2AVO672AM0VjR5SO81D5198Ae90pTKYe/ctfaQ5bH0ZqSe4a3LuXHhk/L1FD4W2t8ARwhArGbukC/jGU3lEYMnqfLlabRjdbu26nUWCbqIsWC6F0WM3AX9idd+DCRU1YwOdJCDbuOvtasVD/f5tSAbNmTAxwnOBhvZlueU2Fe/Ok3NhC7uox3CQUWgIQq8++9pFafyOeaQcLavC4Onc36gnnigjz5rAacZP4cMt4Qt9LcXFO88Ucr1HiVLYiSveJ9ra+JP9pRo+tNlshDyR7ocBRyEg7Yk/tqwt3FIIFwd8Oxm3Allc55s7dhMN5mEv3hk1oUPgejezRzQrZtznI2OvqunWQefuOYNLbDLdns=;m5l+yhow/keV8vS04xJmyg=="
 ---
 

@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden calls on Trump to sign COVID relief bill amid battle over direct payments"
+    excerpt: "President-elect Joe Biden on Saturday called on President Trump to sign the coronavirus stimulus bill -- warning that failing to do so would have \"devastating consequences\" for millions of Americans."
+    publishedDateTime: 2020-12-26T18:55:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sgsULjmpAOk/biden-trump-covid-stimulus-direct-payments"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-covid-stimulus-direct-payments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-covid-stimulus-direct-payments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00d6934e-888e-4c80-bebb-6e4080d7717b/258bf19a-907d-4926-808b-b6a92ab955f3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden now says it will take ‘six months’ to reverse Trump’s immigration policies"
     excerpt: "President-elect Joe Biden says he won’t roll back President Trump’s immigration restrictions “on day one,” but rather would take approximately six months to implement immigration reform policies in order to prevent triggering a surge of “2 million people on our border.”"
     publishedDateTime: 2020-12-22T23:34:41Z
@@ -145,6 +161,6 @@ related:
         height: 720
         isCached: true
 
-secured: "gzIUyDEIQd8c0ac2hPhTzUeWtiLwsj1WXpIPQQ/o6xD1jIaqZ16DHycuciA8MYCf8O7lVoGfvfBT4KTZlfAefo84F5VGdoZFf+n84/PcX/AoQkaVcUXgH6UXKlDEyQMWM8hNuWxeQN33Z45MFPSIt9hxTCb+SaogRihO8IsNLVMk9x1Um2VpekNnfAEXSGEYJo45J9MB0ykwOTygBH07vBjx9Qn9urNFB0qTf3m9laCO8wwPsgWH2r85hSer6C2Em+QpP1DpJoctA++9RT0LTE1+ozeHpGLjulK4ryqb4oQRz0y4WimOhpnuuMtkEl1jo2rwRm2lw85PEoi8qK7hFanjk8N3sJ1tB7TndWKB/TU=;DMhV7zHdN4uQaSEU+OqrCw=="
+secured: "UteGTTaYs8pM7ZU8RvBxuuQeQLheS5fmrr23EGpDyqRLfIRNwyD1SYqbj7/GsJAX2e9dUAf1R4VrS3MHm2TmHDn/Y8nS97f+lfF38UIvP3VnJC/Mljj3rQa6uYxvV5vk00iKgShTvva/GDwX1xyT4e8Lva1RzckzTZmrRa8uj0kC6EoK5kPCYHu1FSn0znZBpvN3kMcPeFvnLfHNkb7i7OcMsWsk2YUDXAsZJ++xlFaBsNTC0f5cgY7i2JdffAPe2Z73NLPykXk0rFSlXkg3vAfON0ym+TfTZXYGW4MQLQEshHbpOODH04sojRBaDqEgcwYDhp4niyLRBK/PMf+CrEaJOZzFtvxkl+1PBpGww1ESQ6wmIHGAIwnso7Rx36ags8SylL41iNIqNP8eog+YSrdAkHxIXDD0m3vJ3lOmYia3IvkTiLzJoFIxB9GQY5uB0/ScddA6OM7qXCzvzpWhQKuOp5Cgklce+QFFXZrZZ0i9/rD+WbZAXOhMewmTXI476st5Qz+z9ASlji09MIKFmA==;NHggyMYO0pwspjfZDzXgvw=="
 ---
 

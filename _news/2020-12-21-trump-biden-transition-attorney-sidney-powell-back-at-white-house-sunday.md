@@ -41,6 +41,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden calls for Trump to sign COVID-19 economic relief package"
+    excerpt: "President-elect Joe Biden has called on President Trump to sign the bipartisan end-of-year spending bill that would provide $600 COVID relief checks to most Americans. The president has demanded the checks be increased to $2,"
+    publishedDateTime: 2020-12-26T20:51:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-calls-for-trump-to-sign-covid-19-economic-relief-package/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-calls-for-trump-to-sign-covid-19-economic-relief-package/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-calls-for-trump-to-sign-covid-19-economic-relief-package/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/22/a20c9f88-aaab-4ae1-8d99-a4a205c60d1a/thumbnail/1200x630g2/423a5e0094b3b5fef22168cdd073de70/gettyimages-1230220167.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump meets U.S. House Republican allies to push voter fraud claims"
     excerpt: "U.S. President Donald Trump met a group of Republican lawmakers on Monday in his thus-far fruitless bid to gain momentum for claims that the Nov. 3 presidential election won by Democrat Joe Biden was rigged."
     publishedDateTime: 2020-12-22T06:05:00Z
@@ -60,7 +76,7 @@ related:
   - title: "Millions of Americans lose jobless benefits as Trump refuses to sign aid bill"
     excerpt: "Millions of Americans saw their jobless benefits expire on Saturday after U.S. President Donald Trump refused to sign into law a $2.3 trillion pandemic aid and spending package, protesting that it did not do enough to help everyday people."
     publishedDateTime: 2020-12-26T10:31:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/millions-of-americans-lose-jobless-benefits-as-trump-refuses-to-sign-aid-bill-idUSKBN29003U"
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29003U"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29003U"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29003U"
     type: article
@@ -69,8 +85,8 @@ related:
       domain: reuters.com
     quality: 122
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201226&t=2&i=1545819468&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBP02G"
-        width: 818
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201226&t=2&i=1545851654&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBP0A1"
+        width: 817
         height: 545
         isCached: true
   - title: "As Trump pushes baseless fraud claims, Republicans pledge tougher voting rules"

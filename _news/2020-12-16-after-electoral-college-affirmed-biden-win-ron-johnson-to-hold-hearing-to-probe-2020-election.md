@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden warns of 'devastating consequences' in push for Trump to sign Covid relief package"
+    excerpt: "President-elect Joe Biden has called on President Donald Trump to sign the bipartisan Covid-19 relief bill, warning that any further delay has \"devastating consequences\" for Americans.\n    \n"
+    publishedDateTime: 2020-12-26T19:35:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_XTms5icsXI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/26/politics/biden-trump-covid-relief-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/26/politics/biden-trump-covid-relief-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Electors in key battleground states affirm votes for Biden"
     excerpt: "Electors in Vermont and Tennessee cast their ballots for president Monday morning, opening the formal Electoral College process of sealing Joe Biden's election as the 46th president of the United States.\n    \n"
     publishedDateTime: 2020-12-14T18:09:26Z

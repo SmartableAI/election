@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4009750001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4009750001"
 type: article
 quality: 161
-heat: 1881
+heat: 1901
 published: true
 
 provider:
@@ -1179,6 +1179,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/12/25/story_08266621_1608885604.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Benefits Lapse For Millions if Trump Fails to Approve Bill"
+    excerpt: "Millions of Americans will begin to see their unemployment benefits expire on Saturday because President Donald Trump has so far refused to sign a bipartisan stimulus package."
+    publishedDateTime: 2020-12-26T20:47:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/benefits-lapse-for-millions-if-trump-fails-to-approve-bill/2020/12/26/34cc0e22-47a9-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EGDDPXSHVEI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump continues attempts to overturn election..."
     excerpt: "Watch \"Trump continues attempts to overturn election results\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."

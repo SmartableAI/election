@@ -306,11 +306,11 @@ related:
   - title: "Kamala Harris and husband donate to Toys for Tots"
     excerpt: "Vice President-elect Kamala and husband Doug Emhoff visit Washington DC fire station number one to drop off toys as the station serves as one of the Toys for Tots drop-off locations in the nation's capital."
     publishedDateTime: 2020-12-23T21:30:00Z
-    webUrl: "https://www.freep.com/videos/news/nation/2020/12/23/kamala-harris-and-husband-donate-toys-tots/4031998001/"
+    webUrl: "https://www.azcentral.com/videos/news/nation/2020/12/23/kamala-harris-and-husband-donate-toys-tots/4031998001/"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 55
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0c9006e9-61e0-475b-9531-33fd674f2e1d_poster.jpg?quality=10"

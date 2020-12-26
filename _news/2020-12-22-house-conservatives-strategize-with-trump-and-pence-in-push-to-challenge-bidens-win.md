@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trum
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trump-meeting/index.html"
 type: article
 quality: 208
-heat: 1488
+heat: 1508
 published: true
 
 provider:
@@ -189,6 +189,22 @@ related:
     quality: 183
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/170816201413-paul-mitchell-eb-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden warns of 'devastating consequences' in push for Trump to sign Covid relief package"
+    excerpt: "President-elect Joe Biden has called on President Donald Trump to sign the bipartisan Covid-19 relief bill, warning that any further delay has \"devastating consequences\" for Americans.\n    \n"
+    publishedDateTime: 2020-12-26T19:35:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_XTms5icsXI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/26/politics/biden-trump-covid-relief-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/26/politics/biden-trump-covid-relief-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

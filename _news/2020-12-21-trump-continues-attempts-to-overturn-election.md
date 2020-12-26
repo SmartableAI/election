@@ -1187,6 +1187,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Benefits Lapse For Millions if Trump Fails to Approve Bill"
+    excerpt: "Millions of Americans will begin to see their unemployment benefits expire on Saturday because President Donald Trump has so far refused to sign a bipartisan stimulus package."
+    publishedDateTime: 2020-12-26T20:47:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/benefits-lapse-for-millions-if-trump-fails-to-approve-bill/2020/12/26/34cc0e22-47a9-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EGDDPXSHVEI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Pence, Pelosi, McConnell receive COVID vaccine — but Trump still holding out"
     excerpt: "Trump's apparent reluctance to get the shot comes as some of his most ardent supporters are making unfounded claims about the dangers of the vaccine."
     publishedDateTime: 2020-12-18T20:09:00Z

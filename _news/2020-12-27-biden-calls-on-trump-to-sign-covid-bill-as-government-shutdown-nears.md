@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden warns of 'devastating consequences' in push for Trump to sign Covid relief package"
+    excerpt: "President-elect Joe Biden has called on President Donald Trump to sign the bipartisan Covid-19 relief bill, warning that any further delay has \"devastating consequences\" for Americans.\n    \n"
+    publishedDateTime: 2020-12-26T19:35:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_XTms5icsXI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/26/politics/biden-trump-covid-relief-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/26/politics/biden-trump-covid-relief-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "After Electoral College affirmed Biden win, Ron Johnson to hold hearing to probe 2020 election"
     excerpt: "One day after Senate Majority Leader Mitch McConnell said plainly that Joe Biden was the President-elect, Wisconsin Republican Sen. Ron Johnson is holding a controversial hearing Wednesday to probe the 2020 election.\n    \n"
     publishedDateTime: 2020-12-16T12:09:00Z
@@ -1043,6 +1059,6 @@ related:
         height: 773
         isCached: true
 
-secured: "/ePvRYGgc6R0jFLP20QbW9r6qVx65HpK24UrLgspDPh1v9+QQ6484fXE0EXPsoj8YKmj/3oGTOeNzbyzCkbfTrpgUqWPPv3nqZSrnXD4HENnQ+E+piULOlOH2nQtX4IcT9jrACEzTp1jhEt7soDtHM+1RnE82wzsBMTWPlKmbe4Trgp14+qV/jkiNqRLXu59um/bw5voqGQvE6Sdsq4fVdrPip/Zn4oDabliPNjvQGwvEJQieUdbFCiPgB5rIhVv0lCgp7aQAsXjyScTfmvaOaBDGe3K72Wy+GdferoNB4fbwmnD5HZuE3K8wFoCGbNyGmqoKZ1V1juIUKMomgZ5nuNm8f10YnaO1LF61AMYAK0=;97HottqVxAPWB3oNCngTVw=="
+secured: "PGfRS/GmVqJuim94M+eq85RNHljHkT6FzTCArBDb/y3TjEx6hGUxtXg4tVb2ua5+eIQLqrSgiAf6pHDAgCx6zWzRLQX8Ub571/SvlR9jjCJfntdF9VmCWXXOcWiXanY+dacRS4oi416rrZnoLbGKVk+jS14TQiW5YJp46HEc+PSfbJTUO0lrHFjAXnTZqvTJ3UqtWOJDxoTV0vj7Td3hB/CzUqCVIFDcHmFeltXDmEmviV02j+hQOCqeTvMOp76Ol25lPbmKtxDW/2yoWG0L3Xd1dw9UhfBu9svJrkm+WT9kOneRWRScKNNm6mOxCXND/0TPkcXydZ3DGkWnLYYaJQfDwD51UT8TTp9UrMJi4AZmUJ1328E8lqevawjdmhL8pcle+axBQsugE2I2vgYglsI1S2PMC04KfgGwaAb5kuBD+LL13dso5lqOYk42DKgfqF4Ix1TiIYHTHMb3NEWViF2uznu1ajBI1JsTaX0NxHpy9/INRtuv7zS2G3zeOwie0HEeBq0Ujzog3O23+uOfcw==;Fuso9RUxKyYuQ99ka0zTaQ=="
 ---
 

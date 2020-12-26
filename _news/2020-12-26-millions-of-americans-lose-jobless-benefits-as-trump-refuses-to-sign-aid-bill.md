@@ -3,8 +3,8 @@ category: news
 title: "Millions of Americans lose jobless benefits as Trump refuses to sign aid bill"
 excerpt: "Millions of Americans saw their jobless benefits expire on Saturday after U.S. President Donald Trump refused to sign into law a $2.3 trillion pandemic aid and spending package, protesting that it did not do enough to help everyday people."
 publishedDateTime: 2020-12-26T10:31:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump/millions-of-americans-lose-jobless-benefits-as-trump-refuses-to-sign-aid-bill-idUSKBN29003U"
-webUrl: "https://www.reuters.com/article/us-usa-trump/millions-of-americans-lose-jobless-benefits-as-trump-refuses-to-sign-aid-bill-idUSKBN29003U"
+originalUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29003U"
+webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29003U"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29003U"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29003U"
 type: article
@@ -25,8 +25,8 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201226&t=2&i=1545819468&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBP02G"
-    width: 818
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201226&t=2&i=1545851654&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBP0A1"
+    width: 817
     height: 545
     isCached: true
 
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4HJHLZCFJMI6XLBKHLAPFOGO5M.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden calls for Trump to sign COVID-19 economic relief package"
+    excerpt: "President-elect Joe Biden has called on President Trump to sign the bipartisan end-of-year spending bill that would provide $600 COVID relief checks to most Americans. The president has demanded the checks be increased to $2,"
+    publishedDateTime: 2020-12-26T20:51:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-calls-for-trump-to-sign-covid-19-economic-relief-package/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-calls-for-trump-to-sign-covid-19-economic-relief-package/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-calls-for-trump-to-sign-covid-19-economic-relief-package/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/22/a20c9f88-aaab-4ae1-8d99-a4a205c60d1a/thumbnail/1200x630g2/423a5e0094b3b5fef22168cdd073de70/gettyimages-1230220167.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump meets U.S. House Republican allies to push voter fraud claims"
     excerpt: "U.S. President Donald Trump met a group of Republican lawmakers on Monday in his thus-far fruitless bid to gain momentum for claims that the Nov. 3 presidential election won by Democrat Joe Biden was rigged."
@@ -201,6 +217,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "0It2q38JDokdWVaY/3KxbhYlmvoPBXu0fhRIQHchLY3uBIJF0s1qqA1U+Ga3mPrkUDOuVT1G6oyF6YrvrjI30zGzUI9+LBaE8mrDBa4zVQz+uHeOhiVHaqyXNPHn/b563lt/FBS8jd7097/2V1Npaoj5Dvtmi6meM/u1rCL/cE16604ZfZ9ThzL91vb+pOt/ouk82JUDoxSkPG6gGb5AlpZGFmw5HvRPoR37Uvnpi8L1JtFIPljRzHgqoriam8RpylpSKzG2xZWvtMkuyWX003wdCLn0LKUm1D4TEPhUWUJ6UsbHOoD3krI9QaATUQ+c9KZvABCqr+uG/+FEiPJTP32ZrihZxmQGBIWw11lyNqwmvqDBbdH6qwbKVngUwuy/zH38GGBF5CAnuUvEUriCiNPXrPHOUaasHv5q1BDryqEwuni0rE8qYLDVUzcWJOiDGSPy99DVJsPy5j3mcH18j1pHC9Fnv8qwiWt+Pra3rfjSPCmNfAah5bAZJxLn1kPKWi8NOiMX6eYies3Ub1yDjw==;P6fs0kMjNsuLVcYIdQrC2A=="
+secured: "RqJQvDZegThh8Lw10VMbtWKe7hR4M6mnGegKG6dWT6YDd9cjRKMr3h6xmdkC1LwjLvYohn/A0gW38R5/WaKdSTuxyrnHNOHk6oZ8bPhUObA8uAJja3Hq1hosL3Jg9PBlCXVRS1yefvt24OT0RKT+RhgcLUS/cA9juU4hq4j3fFZX4Hdet8Qf9CLY7PYFnc/H2FG7IHlrqDmVz7MA7rc0IPMyqx2dXwrCpyEjKGACBq/G2EM314CMLmhtlucqckoVW6tfY/kHpA2+ZBeJ/JP0+72Sx8qFa5EIeSKnJrl7D47p7EHxE8iuYbWKNU1VjmK97IuL/R8zkHJrz6gke1ohZpJ154bfm//uPVp33L2W27A=;zhrcaoN9683bjxFvuG9ncg=="
 ---
 

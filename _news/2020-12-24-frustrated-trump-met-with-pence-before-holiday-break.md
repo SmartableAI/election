@@ -192,6 +192,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden warns of 'devastating consequences' in push for Trump to sign Covid relief package"
+    excerpt: "President-elect Joe Biden has called on President Donald Trump to sign the bipartisan Covid-19 relief bill, warning that any further delay has \"devastating consequences\" for Americans.\n    \n"
+    publishedDateTime: 2020-12-26T19:35:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_XTms5icsXI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/26/politics/biden-trump-covid-relief-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/26/politics/biden-trump-covid-relief-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "After Electoral College affirmed Biden win, Ron Johnson to hold hearing to probe 2020 election"
     excerpt: "One day after Senate Majority Leader Mitch McConnell said plainly that Joe Biden was the President-elect, Wisconsin Republican Sen. Ron Johnson is holding a controversial hearing Wednesday to probe the 2020 election.\n    \n"
     publishedDateTime: 2020-12-16T12:09:00Z
