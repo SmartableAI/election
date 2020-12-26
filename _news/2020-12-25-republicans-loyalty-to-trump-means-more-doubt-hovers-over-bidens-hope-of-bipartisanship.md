@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyal
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/?outputType=amp"
 type: article
 quality: 141
-heat: 321
+heat: 341
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545385302&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL019"
         width: 817
+        height: 545
+        isCached: true
+  - title: "Millions of Americans lose jobless benefits as Trump refuses to sign aid bill"
+    excerpt: "Millions of Americans saw their jobless benefits expire on Saturday after U.S. President Donald Trump refused to sign into law a $2.3 trillion pandemic aid and spending package, protesting that it did not do enough to help everyday people."
+    publishedDateTime: 2020-12-26T10:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/millions-of-americans-lose-jobless-benefits-as-trump-refuses-to-sign-aid-bill-idUSKBN29003U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29003U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29003U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201226&t=2&i=1545819468&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBP02G"
+        width: 818
         height: 545
         isCached: true
   - title: "As Trump pushes baseless fraud claims, Republicans pledge tougher voting rules"

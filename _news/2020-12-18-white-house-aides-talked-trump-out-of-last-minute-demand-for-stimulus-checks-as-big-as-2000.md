@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump shuns stimulus bill as pandemic relief expires for millions of Americans"
+    excerpt: "President Trump is still not saying whether he will sign the latest $900 billion coronavirus stimulus plan, as federal unemployment benefits and an eviction protection program are expiring for millions of Americans."
+    publishedDateTime: 2020-12-26T13:31:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-shuns-stimulus-bill-as-pandemic-relief-expires-for-millions-of-americans/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 101
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/26/46879155-3db9-441d-b0b1-0dccbf130565/thumbnail/1200x630/5c3a56fc69894b2e9efd44ed85946b73/1226-satmo-trumpfriday-616319-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "wVY6ix5p0UyYGj0BK7CJA4MZIxz6Y9StzzhbLe5ox3TshSMBI2NZ4iht1XCa+XC4gBqncKHL0Iwdx3QqXXrqHjcw3uQwOQB9Fqs8JDquRiXfnqloaByC5LGe53BiE+H7BBwGvlftRJUMBtdaehMa935fT8K9ZjlHAZvZvjLqzXnnpSyFmVx1xyFsx0EIGZgthT8COTib32j/QSStv1h0VRsItmG6lKS3z2J1jSC1IpClCqVbb/xT6o4z5hnuci4WDE9EpoJLdD4D9CL43rJboeSVFPoY6MfYp1yE6bp3vRZN4agV4UZfBDYTxCt9hYl9W8d4fV5vIVnQ+HLxvceHE4P6ZbvW+FvuRo7VBFFsVn0vNA88Im7yYGw5+3WLqFKkZZ5yEJ075FUW0wn26fgmhnt1/J69BTOTNuIl3kw/dEw02/tPJWEfJrIm548s201L63/cOGuODfN+TUdm+4DmNeTFEQ6ludpOVCj78m//ohoHDAy0pZpfmTMmQnDuy54DLYBuZB96d6z03VlMGVWdAw==;dQi9xuLhzeBFrv6l3xzEgA=="
 ---

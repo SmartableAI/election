@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Republicans Buck Trump, Reject Proposal for $2,000 Stimulus Checks"
-excerpt: "Republicans on Thursday shut down an effort by Democratic leadership in the House to add $2,000 payments to the latest stimulus package, breaking with President Donald Trump’s demand for such checks,"
-publishedDateTime: 2020-12-24T21:34:00Z
-originalUrl: "https://nymag.com/intelligencer/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
-webUrl: "https://nymag.com/intelligencer/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
-ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
-cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+title: "Millions of Americans lose jobless benefits as Trump refuses to sign aid bill"
+excerpt: "Millions of Americans saw their jobless benefits expire on Saturday after U.S. President Donald Trump refused to sign into law a $2.3 trillion pandemic aid and spending package, protesting that it did not do enough to help everyday people."
+publishedDateTime: 2020-12-26T10:31:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump/millions-of-americans-lose-jobless-benefits-as-trump-refuses-to-sign-aid-bill-idUSKBN29003U"
+webUrl: "https://www.reuters.com/article/us-usa-trump/millions-of-americans-lose-jobless-benefits-as-trump-refuses-to-sign-aid-bill-idUSKBN29003U"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29003U"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29003U"
 type: article
-quality: 75
+quality: 122
 heat: -1
 published: false
 
 provider:
-  name: New York Magazine
-  domain: nymag.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://pyxis.nymag.com/v1/imgs/f74/39e/75805b07042d28264174aae959cff36626-GettyImages-1230254465.rsquare.w1200.jpg"
-    width: 1200
-    height: 1200
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201226&t=2&i=1545819468&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBP02G"
+    width: 818
+    height: 545
     isCached: true
 
 related:
@@ -57,22 +61,6 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545385302&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL019"
         width: 817
-        height: 545
-        isCached: true
-  - title: "Millions of Americans lose jobless benefits as Trump refuses to sign aid bill"
-    excerpt: "Millions of Americans saw their jobless benefits expire on Saturday after U.S. President Donald Trump refused to sign into law a $2.3 trillion pandemic aid and spending package, protesting that it did not do enough to help everyday people."
-    publishedDateTime: 2020-12-26T10:31:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/millions-of-americans-lose-jobless-benefits-as-trump-refuses-to-sign-aid-bill-idUSKBN29003U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29003U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29003U"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201226&t=2&i=1545819468&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBP02G"
-        width: 818
         height: 545
         isCached: true
   - title: "As Trump pushes baseless fraud claims, Republicans pledge tougher voting rules"
@@ -180,7 +168,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Republicans Buck Trump, Reject Proposal for $2,000 Stimulus Checks"
+    excerpt: "Republicans on Thursday shut down an effort by Democratic leadership in the House to add $2,000 payments to the latest stimulus package, breaking with President Donald Trump’s demand for such checks,"
+    publishedDateTime: 2020-12-24T21:34:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/f74/39e/75805b07042d28264174aae959cff36626-GettyImages-1230254465.rsquare.w1200.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
 
-secured: "r5/fUaORVZuxzlFajpLwDwAYKkyi9GJ0ppS8N5pzjdm81FGYQ/eLLSfBYMP7iSzFCgwHBKVU9M9rJPZAHYpEV+5SbJW5YOKkNjKfudmZ4QPg4V7IIoq2jsXQsOJUa71gsc6CpDWv9RZoDGKVJpHLtJUnWy37Xz4eJshleZE62sIctGs8WjbPx5lCl4tzq31fhzUGnrZx+dyo8KJ2xlDOqAk53/7XgDBrp91qrE1Sbdtu1Bm18irYVci/tS4BPpMrwAoUNZ5CFmtG4afaTcQNJm6G+AkwQP9hm+hYgZ3VcVkJoMCboFlMyVrAqzwsUpke4fpDUDZrxpihPYgOpc5bBjlONNpoCn8KZZPqsLwulcY=;xHRS3S/qeBcByzHEC9pT5w=="
+secured: "NrLT4tFbcRDSIhIlQN/Bhx+UQJEMee1lntQvMjITL9XgSvfoiFQjuKXXQrwzVeTyS2AFm3UgG7cfujvTWL2HRfdnnowtNy1dg136yAzwyT02CZZ/y8MYIXr4uNdUSAemmgb7OFvqtns7p4VKdkiUOUPOGgw6czIN62DthD7/rppAbRSyLm6P5ZGeALWjFxzAuHAeO8QvTw+S8iDzFr6BDrTA05vPSYxJ3UKUUSlRnJNXLAiMfi2an0TfP1CQkToe08iUCED6I/bk3OD2flPZ6qQ5X6qu0sVOq7bhDQFdLNo/E6+Hdp5IdqDp73qMhYYVzZmz7G+SH/Ld4zubSWHS43T3VpE/M248sLBsqpek9L8=;v344pt1RK0OzD3Ts9J7uMg=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "'Squad' members pressure Joe Biden to deliver on progressive agenda"
-excerpt: "Well, my hope is that by shining the light on this it lights - sunlight is a great disinfectant and what we got to have is put pressure on these counties to make sure that they are actually taking the proper precautions with their absentee ballots,"
-publishedDateTime: 2020-11-27T13:07:00Z
-originalUrl: "https://www.foxnews.com/transcript/squad-members-pressure-joe-biden-to-deliver-on-progressive-agenda"
-webUrl: "https://www.foxnews.com/transcript/squad-members-pressure-joe-biden-to-deliver-on-progressive-agenda"
-ampWebUrl: "https://www.foxnews.com/transcript/squad-members-pressure-joe-biden-to-deliver-on-progressive-agenda.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/squad-members-pressure-joe-biden-to-deliver-on-progressive-agenda.amp"
+title: "Live updates: Whitmer says she is relieved not to be Biden's VP"
+excerpt: "Michigan Gov. Gretchen Whitmer said she would have accepted an offer to serve as Joe Biden’s running mate — but admitted to relief at not being picked."
+publishedDateTime: 2020-12-26T13:14:14Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/88Ti183CU6M/live-updates-biden-transition-12-26-2020"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/88Ti183CU6M/live-updates-biden-transition-12-26-2020"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b2a1e1b-4d5a-452d-8186-0fc9f2dfe0a3/3cc6197e-65e3-4e86-bf57-402d92fc305e/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48694bc-fcc1-4336-bf59-e0584bc8a4e1/369eedf1-67e3-45b8-81ce-9a7ed8e49f01/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -125,22 +124,6 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ddd0cb98-02ad-491f-ad0a-4aa0c3e69c2a/dd15db2e-4b64-4e40-a211-5c24dfac41ff/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live updates: Whitmer says she is relieved not to be Biden's VP"
-    excerpt: "Michigan Gov. Gretchen Whitmer said she would have accepted an offer to serve as Joe Biden’s running mate — but admitted to relief at not being picked."
-    publishedDateTime: 2020-12-26T13:14:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/88Ti183CU6M/live-updates-biden-transition-12-26-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48694bc-fcc1-4336-bf59-e0584bc8a4e1/369eedf1-67e3-45b8-81ce-9a7ed8e49f01/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -272,6 +255,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "'Squad' members pressure Joe Biden to deliver on progressive agenda"
+    excerpt: "Well, my hope is that by shining the light on this it lights - sunlight is a great disinfectant and what we got to have is put pressure on these counties to make sure that they are actually taking the proper precautions with their absentee ballots,"
+    publishedDateTime: 2020-11-27T13:07:00Z
+    webUrl: "https://www.foxnews.com/transcript/squad-members-pressure-joe-biden-to-deliver-on-progressive-agenda"
+    ampWebUrl: "https://www.foxnews.com/transcript/squad-members-pressure-joe-biden-to-deliver-on-progressive-agenda.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/squad-members-pressure-joe-biden-to-deliver-on-progressive-agenda.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b2a1e1b-4d5a-452d-8186-0fc9f2dfe0a3/3cc6197e-65e3-4e86-bf57-402d92fc305e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Electoral College voting to select Biden as next president"
     excerpt: "Members of the Electoral College are gathering in each state Monday to cast their votes for president and vice president of the United States."
     publishedDateTime: 2020-12-14T16:45:00Z
@@ -289,6 +288,6 @@ related:
         height: 815
         isCached: true
 
-secured: "/GlauiLzmDbG3xqHnj8wLVQlJ8LoerEtrx5TAHIFsj2QTC8U7+jNCo5sgviKDfpDpgQvBjCACDpDvFhYXJ8GdTtdv4fazyxaLJ7EyRdZ90CA9+/7Ky3KhQjpaEdC9EnMiN5RSceYOT+dWSTb/+lO8GQLKZKZtiTOqZ8Sli4WNRaCZYsMtI5HgpFZc+GNOloBGtRQVXc538oVG33Ojhk8uYXNIobqm/OEj9kkDDODC28mypIcFBqqBcNnuD70d6IF4FzfiR89TTdHKDkZJqc/QaugHxp901dd8ueGEC1K1RBomcerMFhrUrmqghlxvKmZpgYvjjmoU7MSn+5XcHJfaF9uKaWHwM8ei81z9vRGOyI3E1RrdYzBLDZrM6AUZVNua7dmAa6TqGLKj2hEQxEIOQQ5vRG6v0WFEhKv2INLqfbekRpdy8OSj6roBUEpdLfdqMpYJ9SCyX4faBfdacNQXVCVYIArv+kPjScPOS3U+F+R1JVsF6Zwj832XCuunSY0dgAPK19QhnH8Jw0cwJ/bww==;MAG3XCd/yTHAQzG9mTto6w=="
+secured: "dunF0i15HZ8JcI4p9ac3JdeLJNJLBj28PXXhDPoI+9YFgBcuHEIV1K8e1zxtx4cv88Mqg9nXGlUoxCigOfxPsB4j8QZmqJ5EiexVoJcNGfuFbBt7868neXb9v925Ekfxl7bTWrQ5hX4P+sR2rLv0WGdBE74by6MjzcYCQ0fco2dDfVOKiK6m1QZlYNnCjo+mj085Q7kLlhAS73BIXl4wYMp5FaEAHdqjl7JSR19e67osH+K/WjlOa633D/ndLZkRYGkr0xV/F/6/PMv/U7VMHCUoSpSUq75gBkRdNhU9cfoWXFLZKiBpwMJF0oo+o+ZXfJIBfA10rS5LHKUE0FGUWLG8TUv+q7m5aDrB03lv+2w=;+oHzefvF3pBmvb9brB1G2A=="
 ---
 

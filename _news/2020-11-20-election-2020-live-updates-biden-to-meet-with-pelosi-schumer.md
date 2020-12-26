@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-elections-2020-nov-20-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-elections-2020-nov-20-2020.amp"
 type: article
 quality: 190
-heat: 490
+heat: 510
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ddd0cb98-02ad-491f-ad0a-4aa0c3e69c2a/dd15db2e-4b64-4e40-a211-5c24dfac41ff/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live updates: Whitmer says she is relieved not to be Biden's VP"
+    excerpt: "Michigan Gov. Gretchen Whitmer said she would have accepted an offer to serve as Joe Biden’s running mate — but admitted to relief at not being picked."
+    publishedDateTime: 2020-12-26T13:14:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/88Ti183CU6M/live-updates-biden-transition-12-26-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48694bc-fcc1-4336-bf59-e0584bc8a4e1/369eedf1-67e3-45b8-81ce-9a7ed8e49f01/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

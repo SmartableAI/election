@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-2000-checks-stimulus-veto-spen
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12?amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TUGCMYSAL4I6XNMLCYR7MJTZMA.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump shuns stimulus bill as pandemic relief expires for millions of Americans"
+    excerpt: "President Trump is still not saying whether he will sign the latest $900 billion coronavirus stimulus plan, as federal unemployment benefits and an eviction protection program are expiring for millions of Americans."
+    publishedDateTime: 2020-12-26T13:31:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-shuns-stimulus-bill-as-pandemic-relief-expires-for-millions-of-americans/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 101
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/26/46879155-3db9-441d-b0b1-0dccbf130565/thumbnail/1200x630/5c3a56fc69894b2e9efd44ed85946b73/1226-satmo-trumpfriday-616319-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "jcmh4CZ5yAkI/RGfHBeFdrlyEd0EwNektxqBHL1y6+dgCqzkSZHfMZRLbNSNR4YKDi5lOGJC5nyGV2YAB/0cuOE2AxOV/KMEEwrMRE1TofjtM8jR9EmAvirpMBdILMtVhtyZt0M3ME5JMnVOSGiOmUIcMMOqQ1/wvyJdXK54sT6RVPOYgmqyDJzjWeAocdszhdwxVnuP2tDg44Jkh9FMXygbPVQaGz9rnkMwYKp8QVb+dOFx33m89PcgjyNyRl31FWqE6w9VD7Ocg6G8CZqNgoaU9+VhSopX+RNri8Zrw+vc/QUjvvKlEnKxtFnrdsk5CEkqqoYFlYvk33bcF7Qw1fN1/H7JFjvG+OwhwWGiwLI=;DE7UGPdt6vcglayT+vMT1w=="
