@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Attacks China in Christmas Tweet as Millions Await Stimulus Update"
+    excerpt: "President tells lawmakers who blocked attempts to increase coronavirus relief package to $2,000 per qualified individual \"it wasn't their fault, it was China.\""
+    publishedDateTime: 2020-12-26T12:35:00Z
+    webUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359"
+    ampWebUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1693329/donald-trump.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Three Christmases: Highlights of Trump's previous Mar-a-Lago holiday stays"
     excerpt: "Lago will have in store this year, but his previous holidays at the Southern White House have been notable and memorable. Trump arrived on Dec. 16 and departed on Jan. 1. On his way to Palm Beach, the president-elect first stopped in Orlando for a \"thank you\" rally for supporters."
     publishedDateTime: 2020-12-23T02:30:00Z
@@ -63,21 +79,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "President Trump, Melania Trump don matching tuxedos in final Christmas portrait: See the photo"
-    excerpt: "President Donald Trump and first lady Melania Trump donned matching looks and smiles for their final White House Christmas portrait."
-    publishedDateTime: 2020-12-19T04:26:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/12/18/president-trump-melania-don-matching-tuxedos-final-christmas-photo/3969324001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3969324001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3969324001"
+  - title: "Stock market live updates: Stocks rise, Trump knocks stimulus, personal income falls"
+    excerpt: "This is a markets live blog for CNBC PRO subscribers that will be updated throughout the day. The major indexes rose on Wednesday morning as the S&P 500 looked to snap a three-day losing streak. The move came despite President Donald Trump calling the new stimulus deal reached by Congress a \"disgrace\" and called for the amount of direct checks to Americans to be increased."
+    publishedDateTime: 2020-12-23T15:31:00Z
+    webUrl: "https://www.cnbc.com/2020/12/23/stock-market-live-updates-futures-up-slightly-trump-knocks-stimulus-jobless-claims-ahead.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
+      name: CNBC
+      domain: cnbc.com
+    quality: 98
     images:
-      - url: "https://www.gannett-cdn.com/presto/2019/12/06/USAT/ae8ce7ee-93a3-4011-9aa0-3a5f6632cb8f-AP_Trump.JPG?auto=webp&crop=4130,2324,x0,y210&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://image.cnbcfm.com/api/v1/image/106810836-1607962037161NYSE-Trading-Floor-Photo-20201214-Press-4-jpg?v=1607962445"
+        width: 6385
+        height: 4257
         isCached: true
 
 secured: "28eYKaB+x4I0drGAQwYFjXoSWfRYg2maTIUs+Aq+PBRBqha53/ubfV6CjlqypFgVlHDZ6QuXlI4jXtNYJ+ClL6iGWLK9S72qH6Ow6cFdYtBXxY/Q2FGJxIGSQbI9sp/x+yRkbg5IpMn2CBV5oJP8UoWE8K7MtW+BoDsgFlA2CGRhfnK5p0D/UytV1XsrZiFAwjr39niOEjAk9E9PROc/8C5MyfuCzu0+v2DxYvEj5sc7RBLCfcEusLpnjauRGiy9IvcjWr9CPz9Zrs0/9AnqhNahrjLKyY4loOLuJvGRK1IWqcN7/Ma1Yb8mOmNj8bWstBBnel/hjoLA7JlK2LJUem3AGVaa1ZGGvX0vQ6ylKRls81KZ+PO7DQn0eX5XoVSS99Mg/WKqOH4esWrXjdAkcc1OgT2DwXRAQHRVNRUBH7dzGdCQzNogXLIKc1fyBuQmpK+wYCFDr49WXz1HCDgF0jpv0SRnTwxKg4Rc5aEzmBc/VfzOmQ2CWz7pZTQDIn1f91PwjlFTfoJ+hkyFB9cxQA==;jx5QkAjlFoPthHQ41tG/aA=="

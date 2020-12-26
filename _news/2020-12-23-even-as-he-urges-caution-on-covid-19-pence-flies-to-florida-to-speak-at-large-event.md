@@ -29,6 +29,38 @@ images:
     isCached: true
 
 related:
+  - title: "COVID relief bill flown to Florida, where Trump went golfing"
+    excerpt: "President's insistence on $2,000 checks to most Americans, rather than the $600 Congress agreed to, has left the future of any relief payments up in the air."
+    publishedDateTime: 2020-12-26T12:44:00Z
+    webUrl: "https://www.cbsnews.com/news/covid-relief-bill-trump-flown-florida-golfing/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/25/bce91f76-ba94-4a92-a5c7-37babe774881/thumbnail/1200x630/b296c2307f373634d121d20813368967/gettyimages-1230290576.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump claims to be 'working tirelessly' but leaves Covid relief bill in disarray"
+    excerpt: "President flies to Florida after throwing own party ‘under a bus’ while Democrats seize chance to push for $2,000 payments"
+    publishedDateTime: 2020-12-24T14:51:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/1872709c03a58b86cc58d362e550dde90a103477/0_156_4343_2607/master/4343.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93af28608ad58a321efed167c85064e8"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump golfs in Florida, rails against House GOP and election results on first day of his winter vacation as COVID relief hangs in the balance"
     excerpt: "Trump had no events on his public schedule on the first day of his winter vacation Thursday, but traveled to his Palm Beach golf club, where he was spotted by CNN cameras on the links. Reporters were given no details of his schedule for the day,"
     publishedDateTime: 2020-12-24T23:52:00Z
@@ -44,6 +76,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/TVprj6I_MiixMX6j-AmfkAs6eYc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PAVSBWTRPDKJZNXABFXCVNHI6Q.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump is holding up the COVID-19 stimulus package with demands for $2,000 checks — but there are enough votes in Congress to override a veto"
+    excerpt: "President Trump called the $900 billion package — passed by Congress earlier this week after months of negotiations — a \"disgrace\" on Tuesday."
+    publishedDateTime: 2020-12-23T12:16:00Z
+    webUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://i.insider.com/5fe32894a64488001819315e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "r22aifwMK0efen4f1s4+thDuv54b07vWGHhS7YcOtPWHgrNCj3gU0iHSWBgwcSrYCdGMfV1GPuf08RS3Gq+u93NUDall+1Rf140Q7HQ3V3Y45K/3QZfKvnHZVkike6zyEGiYy78EM+wkphnbpzvlqtRCYz+UsKRC2hBYtveb45EGbBgx9fcaFSgTmrMWnsNdxHhrdQZQfvSFdB3iJPDf2bFASseqJjyJrKZutOO6T6ORmbqlvwr9rKLymaRMKbwqJAuOsqu9yDPQ8TNq0sEqPxdAHlOVyQ5/defzN4S/XPVq/v/OwAktMgvxQ2JbWkisA+t59WF7b4WgogPJ96slbQz1wkIVIGgQr0yGnNjyoTY=;Yxl2da+nBpsHs6yt7v0CoA=="

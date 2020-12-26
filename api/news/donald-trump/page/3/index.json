@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-12-14-trump-expands-his-cable-diet-to-newsmax-and-oan-they-benefit-and-so-does-he.md",
-      "title": "Trump expands his cable diet to Newsmax and OAN. They benefit and so does he.",
-      "excerpt": "Presidential praise has boosted ratings, and more viewers can then increase pressure on Republicans to back Trump’s false claims of election fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V3ZFN5BLPAI6XHBBHTCQDUEYD4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-13T18:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-14-several-people-are-stabbed-and-nearly-30-arrested-in-clashes-after-trump-supporters-rally.md",
       "title": "Several people are stabbed and nearly 30 arrested in clashes after Trump supporters rally",
       "excerpt": "Trump demonstrators over the weekend in Washington, leading to dozens of arrests, several stabbings and injuries to police officers.",
@@ -1577,6 +1525,63 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-former-israeli-space-security-chief-says-extraterrestrials-exist-and-trump-knows-about-it.md",
+      "title": "Former Israeli space security chief says extraterrestrials exist, and Trump knows about it",
+      "excerpt": "\"The Unidentified Flying Objects have asked not to publish that they are here, humanity is not ready,\" Haim Eshed said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333",
+      "originalUrl": "https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_50/3434098/201208-space-contact-mc-1000_2ccd3fbfb3e3d974e910d1abd9b81c1a.jpg",
+          "width": 2500,
+          "height": 1584,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250333",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250333",
+      "publishedDateTime": "2020-12-08T05:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

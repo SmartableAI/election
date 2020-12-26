@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump claims to be 'working tirelessly' but leaves Covid relief bill in disarray"
-excerpt: "President flies to Florida after throwing own party ‘under a bus’ while Democrats seize chance to push for $2,000 payments"
-publishedDateTime: 2020-12-24T14:51:00Z
-originalUrl: "https://www.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden"
-webUrl: "https://www.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden"
-ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden"
+title: "COVID relief bill flown to Florida, where Trump went golfing"
+excerpt: "President's insistence on $2,000 checks to most Americans, rather than the $600 Congress agreed to, has left the future of any relief payments up in the air."
+publishedDateTime: 2020-12-26T12:44:00Z
+originalUrl: "https://www.cbsnews.com/news/covid-relief-bill-trump-flown-florida-golfing/"
+webUrl: "https://www.cbsnews.com/news/covid-relief-bill-trump-flown-florida-golfing/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
 type: article
-quality: 120
-heat: -1
-published: false
+quality: 125
+heat: 205
+published: true
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,27 +25,27 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/1872709c03a58b86cc58d362e550dde90a103477/0_156_4343_2607/master/4343.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93af28608ad58a321efed167c85064e8"
-    width: 600
-    height: 360
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/25/bce91f76-ba94-4a92-a5c7-37babe774881/thumbnail/1200x630/b296c2307f373634d121d20813368967/gettyimages-1230290576.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
-  - title: "COVID relief bill flown to Florida, where Trump went golfing"
-    excerpt: "President's insistence on $2,000 checks to most Americans, rather than the $600 Congress agreed to, has left the future of any relief payments up in the air."
-    publishedDateTime: 2020-12-26T12:44:00Z
-    webUrl: "https://www.cbsnews.com/news/covid-relief-bill-trump-flown-florida-golfing/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
+  - title: "Trump claims to be 'working tirelessly' but leaves Covid relief bill in disarray"
+    excerpt: "President flies to Florida after throwing own party ‘under a bus’ while Democrats seize chance to push for $2,000 payments"
+    publishedDateTime: 2020-12-24T14:51:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/25/bce91f76-ba94-4a92-a5c7-37babe774881/thumbnail/1200x630/b296c2307f373634d121d20813368967/gettyimages-1230290576.jpg"
-        width: 1200
-        height: 630
+      - url: "https://i.guim.co.uk/img/media/1872709c03a58b86cc58d362e550dde90a103477/0_156_4343_2607/master/4343.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93af28608ad58a321efed167c85064e8"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump golfs in Florida, rails against House GOP and election results on first day of his winter vacation as COVID relief hangs in the balance"
     excerpt: "Trump had no events on his public schedule on the first day of his winter vacation Thursday, but traveled to his Palm Beach golf club, where he was spotted by CNN cameras on the links. Reporters were given no details of his schedule for the day,"
@@ -94,6 +94,6 @@ related:
         height: 600
         isCached: true
 
-secured: "xG7F+SOIYdL2uGoI/IhVvcpKDuZwMP88klYNLE2c+28aAc/25tH0jYS6pDAWcQuFLL6Nm5IY0DY5b+6C40GzOOi+BQqAcw5HvPLv2L1nFmBcx8K4xpwpVnyZ1VBPa30gHWVsG0pEOn/CZyVDpDDbMWOqTrlSK1D13B6y8ByWo6i2A3wqi9jfQGz4jyQzkDOClumRyglHDkwutFezeDIjrrtiJlopPYpXqyL8HfsXKH4Ghke00xiTGzTd7oC4LCA46TqKIN/ZoN9ybGcPyRi4weudQjAJsSHvVOlyPJpCEJ7N5CrrmsAt+bQiKmf1s/kv4eKR6/d6g12WuMJo8Xf6wMSOOialYz47HNOsFX9ZX+Xbtuj3QEzVba1BM8O/7M+8m8eVfzb8kkv4piXlrB/0FhfWVc0wxOGHeVwixIz+/bEnGQyVO4P2VWClBp0NaNrehaZExMkN3EEv8geWT586rTUHgqNj/4IgSRx7C1pAkJRxw93PE4nXPb8kMZsvEHef8wcan/cNSdG5VyoeHNdEBw==;GZL2xzD8sbKJ+9HvSnMT5w=="
+secured: "E9mRGsyBT16wNOlrhuKkXdtH1P4aEAK7y1vIFZFQ4HCVOYzDxeZPztgb/nnTqWyKAm/lDjhEOVO8Kdfz/oGTnIADpny+VhdtiOJb7X1jEeGjDm39cVsxtFtPBS++xPD5pjIKq5I9tYEfzSCIW6rFs4lhOrqddZbNEVZkM73oM1Kr7gKnqsoIO6GuNY023oNWajbJHA0M3RHLZey7VwEtJlgoy0Itw/eb8ruv6hC87SCMOG1MjJN2ZsYJ9Si/1oJcIo97QTJ88ARnfaMEYZNijFeoTgp4auTuyfqhEIxb+Li5/3Hi09rxHzKTVJGmoaimSt3xuJ2tJ8nCovsvWs/aWg9klHz4ZvMuEHkR60VUb+E=;jgovrMInGz1pwdoXLqnQqQ=="
 ---
 

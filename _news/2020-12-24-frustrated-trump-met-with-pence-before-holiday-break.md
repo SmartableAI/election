@@ -830,6 +830,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "In pursuing historic climate change agenda, Biden may find surprising ally"
+    excerpt: "President-elect Joe Biden has made no secret that tackling climate change will be one of his top priorities. But to enact his platform to reduce global warming he may find an unexpected ally: Republicans."
+    publishedDateTime: 2020-12-26T11:03:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/pursuing-historic-climate-change-agenda-biden-may-find-surprising-ally-n1252234"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252234"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252234"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_52/3438096/201225-joe-biden-al-0913_fccaea4782c74743348e434ed2b5419f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Biden Transition Live Updates: Electoral College Vote Underway Across the Country"
     excerpt: "Electors in states across the country have cast their votes for president, and the winner is not in doubt: Joseph R. Biden Jr. will be officially declared the president-elect."
     publishedDateTime: 2020-12-14T15:49:00Z

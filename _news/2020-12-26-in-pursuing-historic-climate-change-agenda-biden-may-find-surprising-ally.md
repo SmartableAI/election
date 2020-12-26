@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden advisers warn Trump mass vaccine timeline may be too optimistic"
-excerpt: "Democrats are warning that the Trump may have unrealistically raised expectations to make Biden look bad if the shots are delayed."
-publishedDateTime: 2020-12-17T19:58:00Z
-originalUrl: "https://www.nbcnews.com/politics/white-house/biden-advisers-warn-trump-mass-vaccine-timeline-may-be-too-n1251499"
-webUrl: "https://www.nbcnews.com/politics/white-house/biden-advisers-warn-trump-mass-vaccine-timeline-may-be-too-n1251499"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251499"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251499"
+title: "In pursuing historic climate change agenda, Biden may find surprising ally"
+excerpt: "President-elect Joe Biden has made no secret that tackling climate change will be one of his top priorities. But to enact his platform to reduce global warming he may find an unexpected ally: Republicans."
+publishedDateTime: 2020-12-26T11:03:00Z
+originalUrl: "https://www.nbcnews.com/politics/white-house/pursuing-historic-climate-change-agenda-biden-may-find-surprising-ally-n1252234"
+webUrl: "https://www.nbcnews.com/politics/white-house/pursuing-historic-climate-change-agenda-biden-may-find-surprising-ally-n1252234"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252234"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252234"
 type: article
-quality: 150
+quality: 133
 heat: -1
 published: false
 
@@ -22,13 +22,13 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://media3.s-nbcnews.com/i/newscms/2020_51/3436379/201217-covid-vaccine-mc-1212_9e1e7028658f6ef625d0c15ea0ea9053.JPG"
+  - url: "https://media4.s-nbcnews.com/i/newscms/2020_52/3438096/201225-joe-biden-al-0913_fccaea4782c74743348e434ed2b5419f.jpg"
     width: 2500
-    height: 1667
+    height: 1250
     isCached: true
 
 related:
@@ -606,6 +606,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden advisers warn Trump mass vaccine timeline may be too optimistic"
+    excerpt: "Democrats are warning that the Trump may have unrealistically raised expectations to make Biden look bad if the shots are delayed."
+    publishedDateTime: 2020-12-17T19:58:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-advisers-warn-trump-mass-vaccine-timeline-may-be-too-n1251499"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251499"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251499"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_51/3436379/201217-covid-vaccine-mc-1212_9e1e7028658f6ef625d0c15ea0ea9053.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Pence prepares to oversee Trump’s loss — and then leave town"
     excerpt: "It’s a tactic Pence has used in recent weeks: stay out of the spotlight and insulate himself from his boss’s election-fraud crusade, while still bolstering his own credentials."
     publishedDateTime: 2020-12-18T03:41:00Z
@@ -830,22 +846,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "In pursuing historic climate change agenda, Biden may find surprising ally"
-    excerpt: "President-elect Joe Biden has made no secret that tackling climate change will be one of his top priorities. But to enact his platform to reduce global warming he may find an unexpected ally: Republicans."
-    publishedDateTime: 2020-12-26T11:03:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/pursuing-historic-climate-change-agenda-biden-may-find-surprising-ally-n1252234"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252234"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252234"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_52/3438096/201225-joe-biden-al-0913_fccaea4782c74743348e434ed2b5419f.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
   - title: "Biden Transition Live Updates: Electoral College Vote Underway Across the Country"
     excerpt: "Electors in states across the country have cast their votes for president, and the winner is not in doubt: Joseph R. Biden Jr. will be officially declared the president-elect."
     publishedDateTime: 2020-12-14T15:49:00Z
@@ -1027,6 +1027,6 @@ related:
         height: 773
         isCached: true
 
-secured: "L3aijGxNpxB0w30EslgAl/sS1Oa2eyxSuElSsgvnF5SCuZPIK8P4L/JUIb8No02fGRNVYXaQ6tbaIGNQsmoH141tL+zkZxT8Q9hT+seZBDZcTEQXiMoLf83xeY+1s9oN83KixXoowjhqIntJnwW5uJlpFLMOhVFtWjV+JH3gQNfkZj9rIsH7uOtNtzlk1GKzhPtEP5OgSGfwySmB6q2bEz8uR/+kO3W2o7NZ2SmJcT+lPit08Ao5E/GbB9C4IYiDSfVxOHlDaMSgK9Pusmq0haWC3tw4JibMAJAnu3H60etOXbqE4X9MhdP60it0yZGnxUO/c7G1iSJB9qZRn5mlsR4uO4cqNWVMm5mtejfOeZRM5Tk9pFHqDJ52mWUXXDlesRP1/XBEg7hCSsC58auou7yjZxc755lJvD2ZpeZGs0cRHhQObwy9GvlpqTe3cSfwnJzm+KucLtx2bNoH1g69Niy7f63q5YacUbLyygruGnE84sgfIWgYTNmDyI/uU+YbBSBpOUfW6XfnNmjSl4FqlQ==;TVnUrWNxfCj1rl6q4w+UOA=="
+secured: "T8m+kRV0QXOrZvUpg/rYQFa4GENjpbp5Nb7yFBMj3g6v+u38/KFSUCNzzAziZVyLbRg0bFVKyfQzTRj2Le+/skDJKcRehGIdho9j5IikCVpPfDCsdJAge2L1cwqEBy3haD3kkKmfQL0g207Yc9qFK7+hiCdQp2vEDCPV+8XBGV7JsGiWKbf83L39c6W5VuLZqR/qwkuqJzfrsnVzAsxBZ5H7RwYMGXDmQUwDaQnqSsaUVlbU3OUMQjiIHbbK8evUoEk0y8foBwhOgitNdR1RFJJXbIhYYPu+g3N9IFr/C5vf+ckS5R71f4aKwZqGOMLJY7jRgwb5vrnQAgJcQ6/Dhc2c0Pryf3MfPTdVt+I9uz0=;i8t2R+w2wnW+ANy8MvKKbg=="
 ---
 

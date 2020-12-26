@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Three Christmases: Highlights of Trump's previous Mar-a-Lago holiday stays"
-excerpt: "Lago will have in store this year, but his previous holidays at the Southern White House have been notable and memorable. Trump arrived on Dec. 16 and departed on Jan. 1. On his way to Palm Beach, the president-elect first stopped in Orlando for a \"thank you\" rally for supporters."
-publishedDateTime: 2020-12-23T02:30:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2020/12/22/president-donald-trumps-prior-mar-lago-holiday-vacations/3855759001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2020/12/22/president-donald-trumps-prior-mar-lago-holiday-vacations/3855759001/"
-ampWebUrl: "https://amp.usatoday.com/amp/3855759001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3855759001"
+title: "Trump Attacks China in Christmas Tweet as Millions Await Stimulus Update"
+excerpt: "President tells lawmakers who blocked attempts to increase coronavirus relief package to $2,000 per qualified individual \"it wasn't their fault, it was China.\""
+publishedDateTime: 2020-12-26T12:35:00Z
+originalUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359"
+webUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359"
+ampWebUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
 type: article
-quality: 123
-heat: -1
-published: false
+quality: 124
+heat: 204
+published: true
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,27 +25,27 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/12/22/NPPP/74095b5e-ff54-474c-871d-7364dab22c13-123116_NYE_lago_20.JPG?auto=webp&crop=2099,1181,x0,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://d.newsweek.com/en/full/1693329/donald-trump.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
-  - title: "Trump Attacks China in Christmas Tweet as Millions Await Stimulus Update"
-    excerpt: "President tells lawmakers who blocked attempts to increase coronavirus relief package to $2,000 per qualified individual \"it wasn't their fault, it was China.\""
-    publishedDateTime: 2020-12-26T12:35:00Z
-    webUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359"
-    ampWebUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
+  - title: "Three Christmases: Highlights of Trump's previous Mar-a-Lago holiday stays"
+    excerpt: "Lago will have in store this year, but his previous holidays at the Southern White House have been notable and memorable. Trump arrived on Dec. 16 and departed on Jan. 1. On his way to Palm Beach, the president-elect first stopped in Orlando for a \"thank you\" rally for supporters."
+    publishedDateTime: 2020-12-23T02:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/22/president-donald-trumps-prior-mar-lago-holiday-vacations/3855759001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3855759001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3855759001"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
     images:
-      - url: "https://d.newsweek.com/en/full/1693329/donald-trump.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://www.gannett-cdn.com/presto/2020/12/22/NPPP/74095b5e-ff54-474c-871d-7364dab22c13-123116_NYE_lago_20.JPG?auto=webp&crop=2099,1181,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Donald and Melania Trump wear matching tuxedos in their final White House Christmas picture"
     excerpt: "The picture shows the Trumps smiling as they stand together on the Grand staircase in the White House, beneath festive Christmas decorations."
@@ -94,6 +94,6 @@ related:
         height: 4257
         isCached: true
 
-secured: "20OY+RfUjPVwAoYXRtK19LnqD+z4jEU6KTJZqUZOiZghDa+KA4zecIXwZD7nadyA1YT7Wy/7w2jVYxQNkACUtTojWb9BUkrHZ5pLdj2enQ8bCOh4mDvzhWoAktQYSsGD9ODCky8OoZDPOJLuVQbI65c9DuZkLSqTegCrq5cMlAs4/fm8E1aC1DJ8mFjE+AA314n1FJd1BWFPeMLvNAEjrUiWbthZq482nxGfR1+qUJz8rNEHPeBab19ivfVCNjy3t8YGEUTTLGQhfnMRuKyjx5Fm+9S6Uk4EDkL9M7LvcQ7F+5y23uS7+FMpo1z8qwZTMSY2lzE7mbcF//jUXlF9D7xWjx38MmuLQReRLLBYGww=;cNvpSJs/cG/hvbLZ7JdjPg=="
+secured: "H5pAtB0YKgRGaoISNO00KHEytA9/2vloEI8b1XhSQlaUMxtrtXbuPrT9UsHvhM7k6RFOxu5JYLpVLDKqXQjJluy5TgZz1ae3lZ//j2qU+E9CJ0y2JNrMAja9BMOzSsysPK97uwC63TIAwC/KG46by6aSv75zy4YH6/mvpMoKSbZdEhbpbquZqoVmBRa3scmDTdrq1bW1oLmvaVKEBzUKCZmrTZv31Y8oKc5IveDu0oVyRIBwSmDQyDDA84TNlhuLbyMLBKXvrPXP/g9Zkq+c/7paP72U1JNT3aRVtPAqoFgvqeW3NnW7lY3QFMwQoC1PLN5NmDYBUDPdwXlMaGtq0FliIqAxTMCDcQB5dh9iM9w=;WfPTbPe61oW/kseGKaUuMg=="
 ---
 

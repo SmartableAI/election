@@ -2,111 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-12-23-three-christmases-highlights-of-trumps-previous-mar-a-lago-holiday-stays.md",
-      "title": "Three Christmases: Highlights of Trump's previous Mar-a-Lago holiday stays",
-      "excerpt": "Lago will have in store this year, but his previous holidays at the Southern White House have been notable and memorable. Trump arrived on Dec. 16 and departed on Jan. 1. On his way to Palm Beach, the president-elect first stopped in Orlando for a \"thank you\" rally for supporters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/president-donald-trumps-prior-mar-lago-holiday-vacations/3855759001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/president-donald-trumps-prior-mar-lago-holiday-vacations/3855759001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/22/NPPP/74095b5e-ff54-474c-871d-7364dab22c13-123116_NYE_lago_20.JPG?auto=webp&crop=2099,1181,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3855759001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3855759001",
-      "publishedDateTime": "2020-12-22T18:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-pence-echoes-trump-on-election-loss-in-west-palm-speech-to-conservative-youths.md",
-      "title": "Pence echoes Trump on election loss in West Palm speech to conservative youths",
-      "excerpt": "Vice President Mike Pence on Tuesday echoed his boss' defiance in the face of re-election defeat during a speech to young conservatives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/pence-echoes-trump-election-loss-west-palm-beach-speech/4009750001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/pence-echoes-trump-election-loss-west-palm-beach-speech/4009750001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1881,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/22/NPPP/c746838d-da64-48c7-b8d9-8e81b70c838b-20201222_wpb_pence_029.JPG?auto=webp&crop=2499,1406,x1,y40&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4009750001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4009750001",
-      "publishedDateTime": "2020-12-22T18:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-12-23-biden-says-our-darkest-days-with-covid-are-ahead-of-us-not-behind-us.md",
       "title": "Biden says 'our darkest days with COVID are ahead of us, not behind us'",
       "excerpt": "President-elect Joe Biden spoke frankly in a rare address on the bleak reality of COVID-19 in the U.S., telling Americans \"Our darkest days…are ahead of us, not behind us,\" during remarks on Tuesday. ",
@@ -946,7 +841,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/21/stimulus-checks-covid-relief-bill-ppp-loan/3990756001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1058,7 +953,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1448,
+      "heat": 1468,
       "tags": null,
       "images": [
         {
@@ -1363,6 +1258,114 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-gen-jack-keane-biden-must-be-willing-to-confront-the-chinese-communist-party.md",
+      "title": "Gen. Jack Keane: Biden must be 'willing to confront the Chinese Communist Party'",
+      "excerpt": "New reports confirm China lied about the severity of the coronavirus pandemic, making the question of how the incoming Biden administration will hold Beijing accountable an urgent one, Fox News senior strategic analyst Gen. Jack Keane told \"America's Newsroom\" Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jHsk4wB2VbM/gen-jack-keane-biden-china-coronavirus",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jHsk4wB2VbM/gen-jack-keane-biden-china-coronavirus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba0a1538-c4b5-405d-be79-641ee7ee5a41/35c5cb5e-2711-4458-bd3b-399da0382b26/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gen-jack-keane-biden-china-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gen-jack-keane-biden-china-coronavirus.amp",
+      "publishedDateTime": "2020-12-21T13:18:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-probe-trump-officials-attacked-cdc-virus-reports.md",
+      "title": "Probe: Trump officials attacked CDC virus reports",
+      "excerpt": "A House investigative panel says Trump administration political appointees tried to block or change more than a dozen government articles that detailed scientific findings about the spread of the coro",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/azar-file-ap-ml-201218_1608298081614_hpMain_3_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
+      "publishedDateTime": "2020-12-21T12:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

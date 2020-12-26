@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-26-covid-relief-bill-flown-to-florida-where-trump-went-golfing.md",
+      "title": "COVID relief bill flown to Florida, where Trump went golfing",
+      "excerpt": "President's insistence on $2,000 checks to most Americans, rather than the $600 Congress agreed to, has left the future of any relief payments up in the air.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/covid-relief-bill-trump-flown-florida-golfing/",
+      "originalUrl": "https://www.cbsnews.com/news/covid-relief-bill-trump-flown-florida-golfing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/25/bce91f76-ba94-4a92-a5c7-37babe774881/thumbnail/1200x630/b296c2307f373634d121d20813368967/gettyimages-1230290576.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/",
+      "publishedDateTime": "2020-12-26T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-26-trump-attacks-china-in-christmas-tweet-as-millions-await-stimulus-update.md",
+      "title": "Trump Attacks China in Christmas Tweet as Millions Await Stimulus Update",
+      "excerpt": "President tells lawmakers who blocked attempts to increase coronavirus relief package to $2,000 per qualified individual \"it wasn't their fault, it was China.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-tweet-stimulus-china-1557359",
+      "originalUrl": "https://www.newsweek.com/trump-tweet-stimulus-china-1557359",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1693329/donald-trump.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1",
+      "publishedDateTime": "2020-12-26T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-26-live-updates-trump-briefed-on-nashville-explosion-that-appears-to-be-intentional.md",
       "title": "Live Updates: Trump briefed on Nashville explosion that appears to be 'intentional'",
       "excerpt": "President Trump has been briefed on an explosion in downtown Nashville on Christmas morning that is now under FBI investigation.",
@@ -143,58 +247,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-trump-golfs-in-florida-rails-against-house-gop-and-election-results-on-first-day-of-his-winter-vacation-as-covid-relief-hangs-in-the-balance.md",
-      "title": "Trump golfs in Florida, rails against House GOP and election results on first day of his winter vacation as COVID relief hangs in the balance",
-      "excerpt": "Trump had no events on his public schedule on the first day of his winter vacation Thursday, but traveled to his Palm Beach golf club, where he was spotted by CNN cameras on the links. Reporters were given no details of his schedule for the day,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/TVprj6I_MiixMX6j-AmfkAs6eYc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PAVSBWTRPDKJZNXABFXCVNHI6Q.aspx",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-24T15:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -478,58 +530,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-trump-claims-to-be-working-tirelessly-but-leaves-covid-relief-bill-in-disarray.md",
-      "title": "Trump claims to be 'working tirelessly' but leaves Covid relief bill in disarray",
-      "excerpt": "President flies to Florida after throwing own party ‘under a bus’ while Democrats seize chance to push for $2,000 payments",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1872709c03a58b86cc58d362e550dde90a103477/0_156_4343_2607/master/4343.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93af28608ad58a321efed167c85064e8",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden",
-      "publishedDateTime": "2020-12-24T06:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1063,110 +1063,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-23-stock-market-live-updates-stocks-rise-trump-knocks-stimulus-personal-income-falls.md",
-      "title": "Stock market live updates: Stocks rise, Trump knocks stimulus, personal income falls",
-      "excerpt": "This is a markets live blog for CNBC PRO subscribers that will be updated throughout the day. The major indexes rose on Wednesday morning as the S&P 500 looked to snap a three-day losing streak. The move came despite President Donald Trump calling the new stimulus deal reached by Congress a \"disgrace\" and called for the amount of direct checks to Americans to be increased.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/12/23/stock-market-live-updates-futures-up-slightly-trump-knocks-stimulus-jobless-claims-ahead.html",
-      "originalUrl": "https://www.cnbc.com/2020/12/23/stock-market-live-updates-futures-up-slightly-trump-knocks-stimulus-jobless-claims-ahead.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106810836-1607962037161NYSE-Trading-Floor-Photo-20201214-Press-4-jpg?v=1607962445",
-          "width": 6385,
-          "height": 4257,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-23T07:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-three-christmases-highlights-of-trumps-previous-mar-a-lago-holiday-stays.md",
-      "title": "Three Christmases: Highlights of Trump's previous Mar-a-Lago holiday stays",
-      "excerpt": "Lago will have in store this year, but his previous holidays at the Southern White House have been notable and memorable. Trump arrived on Dec. 16 and departed on Jan. 1. On his way to Palm Beach, the president-elect first stopped in Orlando for a \"thank you\" rally for supporters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/president-donald-trumps-prior-mar-lago-holiday-vacations/3855759001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/president-donald-trumps-prior-mar-lago-holiday-vacations/3855759001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/22/NPPP/74095b5e-ff54-474c-871d-7364dab22c13-123116_NYE_lago_20.JPG?auto=webp&crop=2099,1181,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3855759001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3855759001",
-      "publishedDateTime": "2020-12-22T18:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-23-pence-echoes-trump-on-election-loss-in-west-palm-speech-to-conservative-youths.md",
       "title": "Pence echoes Trump on election loss in West Palm speech to conservative youths",
       "excerpt": "Vice President Mike Pence on Tuesday echoed his boss' defiance in the face of re-election defeat during a speech to young conservatives.",
@@ -1332,7 +1228,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/21/stimulus-checks-covid-relief-bill-ppp-loan/3990756001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1581,6 +1477,115 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-trump-attempt-to-overturn-election-is-nutty-and-loopy-romney-says.md",
+      "title": "Trump attempt to overturn election is 'nutty and loopy', Romney says",
+      "excerpt": "Utah Republican decries flirtation with Flynn martial law plan and suggestion conspiracy theorist Powell could be special counsel",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney?ref=newsnetworks-dot-com",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney?ref=newsnetworks-dot-com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/7d1d3b375fd2e6f241b830500e10ca3a1128bc06/0_139_4166_2499/master/4166.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=55712b8160d3857ce3ca12773beb4d92",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney",
+      "publishedDateTime": "2020-12-20T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-trump-discussed-naming-sidney-powell-special-counsel-during-white-house-meeting.md",
+      "title": "Trump discussed naming Sidney Powell special counsel during White House meeting",
+      "excerpt": "President Donald Trump held a meeting at the White House on Friday evening in which he discussed the idea of naming appellate attorney Sidney Powell as a special counsel to investigate voter fraud in the election,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-discussed-naming-sidney-powell-special-counsel-during-white-house-n1251859",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-discussed-naming-sidney-powell-special-counsel-during-white-house-n1251859",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_51/3437071/201220-sidney-powell-jm-1221_29a0459573741a5e73006aa10e4229bc.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1251859",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251859",
+      "publishedDateTime": "2020-12-20T11:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-chri
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
 type: article
 quality: 105
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: Chicago Tribune
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "COVID relief bill flown to Florida, where Trump went golfing"
+    excerpt: "President's insistence on $2,000 checks to most Americans, rather than the $600 Congress agreed to, has left the future of any relief payments up in the air."
+    publishedDateTime: 2020-12-26T12:44:00Z
+    webUrl: "https://www.cbsnews.com/news/covid-relief-bill-trump-flown-florida-golfing/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/25/bce91f76-ba94-4a92-a5c7-37babe774881/thumbnail/1200x630/b296c2307f373634d121d20813368967/gettyimages-1230290576.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump claims to be 'working tirelessly' but leaves Covid relief bill in disarray"
+    excerpt: "President flies to Florida after throwing own party ‘under a bus’ while Democrats seize chance to push for $2,000 payments"
+    publishedDateTime: 2020-12-24T14:51:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/1872709c03a58b86cc58d362e550dde90a103477/0_156_4343_2607/master/4343.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93af28608ad58a321efed167c85064e8"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Even as he urges caution on COVID-19, Pence flies to Florida to speak at large event"
     excerpt: "Vice President Mike Pence has urged Americans to step up precautions, but he flew to Florida to speak to thousands at an indoor summit held by a conservative youth group."
     publishedDateTime: 2020-12-22T22:16:00Z
@@ -44,6 +76,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/pence-turningpt-abc-rc-201222_1608662483585_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump is holding up the COVID-19 stimulus package with demands for $2,000 checks — but there are enough votes in Congress to override a veto"
+    excerpt: "President Trump called the $900 billion package — passed by Congress earlier this week after months of negotiations — a \"disgrace\" on Tuesday."
+    publishedDateTime: 2020-12-23T12:16:00Z
+    webUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://i.insider.com/5fe32894a64488001819315e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "028qePlSVcrODBJPKOYULrex1Dnlkcp+mHw1nA9NuuS2oY3P1fbCnU1JvGIrDK4gqoka2mIzKDSquh6d4M92NSOzNk0c6WUEs+qeYHtVuf0S/omYkUwBEKw0unouR5LP7wuw9skER7VKgzK5gyhdLdivdAtF1G5zNjCj84wAWTHBaCm/VMs96k93eLkQ83naQxVVc9IJr7MojjY4fGsstQ0ggnmbjGUUhE3EzR9JCBZAuFtgfdjBrZPSLCdfW4/6642ANWK75HVdFS3y5slK2o94UDV3dpJngnvzszg1tIi94kFjC932S+o21EwA7Y6J/AZ+hqXBKjjD51ocRl81OfUcConJ+mQEvmho/2nBwxaJqmoGO3kIgftgR8V4Ktp3x/wDcQbJpSN6HmhQXd5GdBBV5grynssC0V1wtWvbFKBKy+GqXv5v+fV6tPJz8ArnszZKxvIiKenO5kwdHl6U4I3P7bZk2K+k0aiH+gxM1VzEpdE/LaUOrQM/Mx0KxvUY0XhJZxbBct32ZojHOBG+Lg==;ZauSbEZgZhOh2jSRXoitsw=="
