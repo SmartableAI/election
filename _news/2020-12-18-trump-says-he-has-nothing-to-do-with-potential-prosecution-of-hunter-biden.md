@@ -128,6 +128,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Live updates: Biden urges Trump to pass stimulus bill amid stalemate"
+    excerpt: "President-elect Joe Biden on Saturday has urged President Trump to sign the COVID-19 relief bill, after Trump rejected the bill and called for higher stimulus payments and less \"wasteful\" spending."
+    publishedDateTime: 2020-12-26T22:21:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-26-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48694bc-fcc1-4336-bf59-e0584bc8a4e1/369eedf1-67e3-45b8-81ce-9a7ed8e49f01/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden calls on Trump to sign COVID relief bill amid battle over direct payments"
     excerpt: "President-elect Joe Biden on Saturday called on President Trump to sign the coronavirus stimulus bill -- warning that failing to do so would have \"devastating consequences\" for millions of Americans."
     publishedDateTime: 2020-12-26T18:59:00Z

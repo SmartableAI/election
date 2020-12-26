@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 862
         isCached: true
+  - title: "Trump slams US fashion magazines for not giving Melania a single cover shoot while he has been in office"
+    excerpt: "Trump supporters have long taken issue with US magazines for granting Michelle Obama 12 cover shoots, but giving Melania Trump none."
+    publishedDateTime: 2020-12-26T16:54:00Z
+    webUrl: "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5fe722f1a644880018193614?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump has discussed rebooting 'The Apprentice' as he prepares to leave the White House, according to a report"
     excerpt: "The president has reportedly talked to aides about the prospect of reviving the reality TV show in which he starred."
     publishedDateTime: 2020-12-18T12:18:00Z

@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Report: Trump Contemplating Not Leaving White House on January 20"
-excerpt: "One of the very few remaining mysteries surrounding Donald Trump — a very simple man prone to blurting out his feelings around the clock in whatever medium he has available — is whether or to what degree he is conscious of his lies."
-publishedDateTime: 2020-12-17T03:55:00Z
-originalUrl: "https://nymag.com/intelligencer/2020/12/will-trump-leave-white-house-january-20-inauguration.html"
-webUrl: "https://nymag.com/intelligencer/2020/12/will-trump-leave-white-house-january-20-inauguration.html"
-ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/will-trump-leave-white-house-january-20-inauguration.html"
-cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/will-trump-leave-white-house-january-20-inauguration.html"
+title: "Trump slams US fashion magazines for not giving Melania a single cover shoot while he has been in office"
+excerpt: "Trump supporters have long taken issue with US magazines for granting Michelle Obama 12 cover shoots, but giving Melania Trump none."
+publishedDateTime: 2020-12-26T16:54:00Z
+originalUrl: "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12"
+webUrl: "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12"
+ampWebUrl: "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12?amp"
 type: article
-quality: 75
+quality: 108
 heat: -1
 published: false
 
 provider:
-  name: New York Magazine
-  domain: nymag.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://pyxis.nymag.com/v1/imgs/b8e/d89/22cc7310a26c6ebe1e4007d0e9860f8e18-donald-trump-pouts.1x.rsocial.w1200.jpg"
+  - url: "https://i.insider.com/5fe722f1a644880018193614?width=1200&format=jpeg"
     width: 1200
-    height: 632
+    height: 600
     isCached: true
 
 related:
@@ -75,22 +79,6 @@ related:
         width: 1280
         height: 862
         isCached: true
-  - title: "Trump slams US fashion magazines for not giving Melania a single cover shoot while he has been in office"
-    excerpt: "Trump supporters have long taken issue with US magazines for granting Michelle Obama 12 cover shoots, but giving Melania Trump none."
-    publishedDateTime: 2020-12-26T16:54:00Z
-    webUrl: "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
-    images:
-      - url: "https://i.insider.com/5fe722f1a644880018193614?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump has discussed rebooting 'The Apprentice' as he prepares to leave the White House, according to a report"
     excerpt: "The president has reportedly talked to aides about the prospect of reviving the reality TV show in which he starred."
     publishedDateTime: 2020-12-18T12:18:00Z
@@ -139,7 +127,23 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Report: Trump Contemplating Not Leaving White House on January 20"
+    excerpt: "One of the very few remaining mysteries surrounding Donald Trump — a very simple man prone to blurting out his feelings around the clock in whatever medium he has available — is whether or to what degree he is conscious of his lies."
+    publishedDateTime: 2020-12-17T03:55:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/12/will-trump-leave-white-house-january-20-inauguration.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/will-trump-leave-white-house-january-20-inauguration.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/will-trump-leave-white-house-january-20-inauguration.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/b8e/d89/22cc7310a26c6ebe1e4007d0e9860f8e18-donald-trump-pouts.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
 
-secured: "f9Wa82ruQnclLzppph10VgRCwCKEko7yorOEpkkBjoaIDUjlDqIeCZRcyRmt4qu++7dENl+D4WSBaq1NO1i1BRYJ+Yixgsh5l8J7SWKr1t0d/5IgsTlttreah6umJjW8HSJ3BFwCCFqkYjtSJQsAyTaKyzBLN51APMwihJ8aqDf7YtOytAh9yfyGJAWQGUXLKLlAJwZSy4O6GcrS18eihBdkAtqKMKrAW9g5hAfMyCJyP2ET4UJgNUVfgr05wqp1wH2KNclJaBvC7HLrw465cgnqtaHsDP/RfENHEazA0tCLrUnWmUlufNvZzj8J4rUBzEQlWzAvv73MTQvXGRY/AxySzkHNy48Pno+lH2A1oAs=;pH5IdFGIZIufUXL+iEM9FQ=="
+secured: "wt1hQoIINLVye2i9pNkcrGSpYIj+r0jnF+rOfgARohV2KszqzYZBtDrhKqgfrCk+s3SKx2L4OH2cgom29qgNkFgXvfP+JZbYhx5/PVnK27F2eQiQJBDSsLzcpwKLOb6sQrtQGAyDF11pj5Zvu3mRc7lEVjpgRYG/wk/FXY89mGooyyO9WXDa8cBqJKT6X0W5scPwgeiJfb1+zDhiG3Vj6y78e95aP3x0zr/W04gUsIaS66/9L51tDFMEZR6kj/gzpO3Fn3g7ezbrXeS7o+44BqgovokJPrEeOHobj90oO0k2gK0mwFYOwrDrCcSwYkKOrAINScivkTZD+a/PLdoVPyTqlQ0ySphlf/n8Z/c0Jfc=;9VATlry9mDzY5NALtP81Ow=="
 ---
 

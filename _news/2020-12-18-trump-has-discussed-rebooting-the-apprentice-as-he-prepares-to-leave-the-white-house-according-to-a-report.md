@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 862
         isCached: true
+  - title: "Trump slams US fashion magazines for not giving Melania a single cover shoot while he has been in office"
+    excerpt: "Trump supporters have long taken issue with US magazines for granting Michelle Obama 12 cover shoots, but giving Melania Trump none."
+    publishedDateTime: 2020-12-26T16:54:00Z
+    webUrl: "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5fe722f1a644880018193614?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "White House aides reportedly stepped in to keep Trump from calling for $2,000 stimulus checks fearing it could torpedo relief negotiations"
     excerpt: "The Post reported that White House aides talked Trump out of calling for larger direct payments than Republicans seek in stimulus talks."
     publishedDateTime: 2020-12-18T04:09:00Z
