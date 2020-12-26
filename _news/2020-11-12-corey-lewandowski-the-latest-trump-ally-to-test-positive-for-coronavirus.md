@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump doubles down $2,000 coronavirus check demand"
+    excerpt: "President Trump on Friday doubled down on his demand for increased coronavirus-related stimulus checks to working-class Americans."
+    publishedDateTime: 2020-12-25T22:53:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h-7QUImVAiU/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f35bbb7-4c3b-4a0e-bf61-6e591243d96b/e20067c3-dc8c-4338-94ca-15ed916a6fcb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "McConnell plans for new coronavirus relief bill that President Trump will sign into law"
     excerpt: "Senate Majority Leader Mitch McConnell said Republicans are eyeing a new targeted coronavirus relief bill based on what President Trump would sign into law, and poured cold water on a new bipartisan $908 billion proposal his colleagues put forth earlier Tuesday."
     publishedDateTime: 2020-12-01T21:31:48Z
@@ -92,6 +108,22 @@ related:
     quality: 162
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/aoc-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump doubles down $2,000 coronavirus check demand"
+    excerpt: "President Trump on Friday doubled down on his demand for increased coronavirus-related stimulus checks to working-class Americans."
+    publishedDateTime: 2020-12-25T23:07:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f35bbb7-4c3b-4a0e-bf61-6e591243d96b/e20067c3-dc8c-4338-94ca-15ed916a6fcb/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

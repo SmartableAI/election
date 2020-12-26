@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/whitmer-biden-vice-president-relief
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-biden-vice-president-relief.amp"
 type: article
 quality: 160
-heat: 160
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,24 @@ images:
     height: 320
     isCached: true
 
-secured: "DdzK6ICGDvlpLJ+XRaGHlzv134Zpv+Kb8bx0iXU3OIGTChOSVuFHWvxzCHJPfctWl0gTwBHk2MRPPpSwex3QXGF+fSJvsi9oD2QsUXEzgFkp9/k7eNvmGxEHZ1PRiWwzE1CdCyMEp6ZaIzY58DwZueiXynLtKALtoFs0hSikVZfl4qa9gMXhid8RFthrg+3e3elXdN1EmFv4Mimayjl5iSKJIDmxOxmVJ9WY2QkjUtcA3VLjbDX9mqPzwLTLEKJtXjKeeEgEWUX+UgOQ261VQ26ZhWzdJ7HzjQxGsZ8aD90N18oejZ7KcXyuAWyedhy+qoq6GvGVNyIa5iDmKVZ9Zamefh2IBWlpDC+s1TmytVM=;wFUOn3nEDqgFz88m14l5oA=="
+related:
+  - title: "Michigan Gov. Gretchen Whitmer relieved at not being picked as Biden’s VP"
+    excerpt: "Michigan Gov. Gretchen Whitmer said she would have accepted an offer to serve as Joe Biden’s running mate — but admitted to relief at not being picked."
+    publishedDateTime: 2020-12-26T00:26:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwrFyuvQlw8/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp"
+    ampWebUrl: "https://www.foxnews.com/politics/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/740928e4-8afe-4600-b734-c8316a13683a/8baa9bb1-9877-471f-9823-992340eebdf4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "vs+H8Jxofvy2OiPLqgCso8pfltRoL++YQMSB9N2jQ4EhSwTOoRbXzijD7pp0cl/YuVgD5+jaNFpiys9eCGAEFp6btEAnznIhsr2G0HxzbafYQo1VlunBhGdT87cI22GxUsXDaxBfR1sqY/66mF1UYsG43UrmkYqM/t5sYNLBs/VnyHiimikJAEFFG6taDUNeqCKl5iq6BVhENPeMZv5LNc0gZFnjyfZjFgELlre/8qs9Zz2ubxFj3pT1e7XN0ol16Kk1biewdI2dCLU/KtX1Ku71UwzAtupXrCRcuioWAVREELmKzSLgYD+EsM5I46z6O/6YZhWg/MBaxeH2fElEVTv82RDcTWTr7N6qCp1M2eE=;VZwfzdiajSPSWtPWxT7oig=="
 ---
 

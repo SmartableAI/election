@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump doubles down $2,000 coronavirus check demand"
+    excerpt: "President Trump on Friday doubled down on his demand for increased coronavirus-related stimulus checks to working-class Americans."
+    publishedDateTime: 2020-12-25T22:53:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h-7QUImVAiU/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f35bbb7-4c3b-4a0e-bf61-6e591243d96b/e20067c3-dc8c-4338-94ca-15ed916a6fcb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Corey Lewandowski the latest Trump ally to test positive for coronavirus"
     excerpt: "Trump campaign adviser Corey Lewandowski tested positive for COVID-19 on Wednesday, making him the latest official in the Trump orbit to be diagnosed with the novel coronavirus."
     publishedDateTime: 2020-11-12T18:07:08Z
@@ -92,6 +108,22 @@ related:
     quality: 167
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a05a6f71-adcf-43b7-8139-dd0c114c7d1f/45c6487d-dc28-4d26-bb45-979df0143ac0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump doubles down $2,000 coronavirus check demand"
+    excerpt: "President Trump on Friday doubled down on his demand for increased coronavirus-related stimulus checks to working-class Americans."
+    publishedDateTime: 2020-12-25T23:07:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f35bbb7-4c3b-4a0e-bf61-6e591243d96b/e20067c3-dc8c-4338-94ca-15ed916a6fcb/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
