@@ -93,6 +93,22 @@ related:
         width: 6385
         height: 4257
         isCached: true
+  - title: "Jobless benefits for about 14 million Americans expire, as Trump still refuses to sign the pandemic aid package containing $600 stimulus checks"
+    excerpt: "President Donald Trump has refused to sign a $2.3 trillion stimulus package, in part because he says $600 checks for Americans aren't large enough."
+    publishedDateTime: 2020-12-26T08:19:00Z
+    webUrl: "https://www.businessinsider.com/trump-stimulus-checks-refuse-sign-jobless-benefits-expire-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-stimulus-checks-refuse-sign-jobless-benefits-expire-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-stimulus-checks-refuse-sign-jobless-benefits-expire-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5fe6eb2dedf8920018093c2a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "28eYKaB+x4I0drGAQwYFjXoSWfRYg2maTIUs+Aq+PBRBqha53/ubfV6CjlqypFgVlHDZ6QuXlI4jXtNYJ+ClL6iGWLK9S72qH6Ow6cFdYtBXxY/Q2FGJxIGSQbI9sp/x+yRkbg5IpMn2CBV5oJP8UoWE8K7MtW+BoDsgFlA2CGRhfnK5p0D/UytV1XsrZiFAwjr39niOEjAk9E9PROc/8C5MyfuCzu0+v2DxYvEj5sc7RBLCfcEusLpnjauRGiy9IvcjWr9CPz9Zrs0/9AnqhNahrjLKyY4loOLuJvGRK1IWqcN7/Ma1Yb8mOmNj8bWstBBnel/hjoLA7JlK2LJUem3AGVaa1ZGGvX0vQ6ylKRls81KZ+PO7DQn0eX5XoVSS99Mg/WKqOH4esWrXjdAkcc1OgT2DwXRAQHRVNRUBH7dzGdCQzNogXLIKc1fyBuQmpK+wYCFDr49WXz1HCDgF0jpv0SRnTwxKg4Rc5aEzmBc/VfzOmQ2CWz7pZTQDIn1f91PwjlFTfoJ+hkyFB9cxQA==;jx5QkAjlFoPthHQ41tG/aA=="
 ---

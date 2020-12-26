@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyal
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/?outputType=amp"
 type: article
 quality: 141
-heat: 341
+heat: 361
 published: true
 
 provider:
@@ -120,6 +120,22 @@ related:
     quality: 113
     images:
       - url: "https://i.insider.com/5fdbc16bc910a400192e82a5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden says Trump's 'abdication of responsibility has devastating consequences' as the president neglects to sign bipartisan stimulus"
+    excerpt: "Trump said he wants $2,000 direct payments to Americans, but House Republicans blocked Democrats' attempt this week to meet his demand."
+    publishedDateTime: 2020-12-26T18:28:00Z
+    webUrl: "https://www.businessinsider.com/biden-trumps-abdication-of-responsibility-has-devastating-consequences-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-trumps-abdication-of-responsibility-has-devastating-consequences-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-trumps-abdication-of-responsibility-has-devastating-consequences-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5fe77a26edf8920018093c66?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

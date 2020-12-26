@@ -121,6 +121,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden says Trump's 'abdication of responsibility has devastating consequences' as the president neglects to sign bipartisan stimulus"
+    excerpt: "Trump said he wants $2,000 direct payments to Americans, but House Republicans blocked Democrats' attempt this week to meet his demand."
+    publishedDateTime: 2020-12-26T18:28:00Z
+    webUrl: "https://www.businessinsider.com/biden-trumps-abdication-of-responsibility-has-devastating-consequences-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-trumps-abdication-of-responsibility-has-devastating-consequences-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-trumps-abdication-of-responsibility-has-devastating-consequences-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5fe77a26edf8920018093c66?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Here's the Democrats' plan for handling Donald Trump as Joe Biden's biggest critic and Twitter troll during the next 4 years"
     excerpt: "Joe Biden and the White House will try to avoid talking about ex-President Donald Trump as much as possible. Good luck with that."
     publishedDateTime: 2020-12-24T15:41:00Z

@@ -2,6 +2,62 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-12-02-bidens-stern-warning-you-cannot-be-traveling-during-holidays.md",
+      "title": "Biden’s stern warning: ‘You cannot be traveling during … holidays’",
+      "excerpt": "President-elect Joe Biden says he doesn’t “want to scare anybody,” but he’s pleading with Americans to not travel during the upcoming holiday season.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YXKxD4yFNSs/bidens-stern-warning-traveling-holidays",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YXKxD4yFNSs/bidens-stern-warning-traveling-holidays",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-stern-warning-traveling-holidays.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-stern-warning-traveling-holidays.amp",
+      "publishedDateTime": "2020-12-02T15:07:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-biden-dhs-pick-had-inappropriate-involvement-in-drug-traffickers-commutation-investigation.md",
       "title": "Biden DHS pick had 'inappropriate' involvement in drug trafficker's commutation: Investigation",
       "excerpt": "Alejandro Mayorkas has admitted to making a mistake in weighing in on the case.",
@@ -1300,58 +1356,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years.md",
-      "title": "Donald Trump suggests 2024 presidential bid: 'I'll see you in four years'",
-      "excerpt": "President makes comments to Republicans at a White House reception, where video shows dozens of people crammed together without masks",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/54100791a8b7b74981f48fa11e0f564cee5eaa9a/0_279_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=12fbd88d874e58a3ea82feb28d17ca57",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years",
-      "publishedDateTime": "2020-12-01T22:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

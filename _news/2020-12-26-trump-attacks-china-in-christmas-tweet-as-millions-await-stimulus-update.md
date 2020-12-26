@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
 type: article
 quality: 124
-heat: 204
+heat: 224
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106810836-1607962037161NYSE-Trading-Floor-Photo-20201214-Press-4-jpg?v=1607962445"
         width: 6385
         height: 4257
+        isCached: true
+  - title: "Jobless benefits for about 14 million Americans expire, as Trump still refuses to sign the pandemic aid package containing $600 stimulus checks"
+    excerpt: "President Donald Trump has refused to sign a $2.3 trillion stimulus package, in part because he says $600 checks for Americans aren't large enough."
+    publishedDateTime: 2020-12-26T08:19:00Z
+    webUrl: "https://www.businessinsider.com/trump-stimulus-checks-refuse-sign-jobless-benefits-expire-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-stimulus-checks-refuse-sign-jobless-benefits-expire-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-stimulus-checks-refuse-sign-jobless-benefits-expire-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5fe6eb2dedf8920018093c2a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "aQi8CSSoxbRV9LUnjh1FAzvDHvfo0LPIyjhrAURBR/vLF3t3QifJz223lGy1BLxe8rR1eXhlTbvVZUi7jpIE6yI1LDZkkbMXpF1jnR8U5CmXcNdEFMC863XvFp/1DSYu/lC3zN03c3oJlyEH1gAq8xblnS0TXI8nqTcZ7MowCzvmd0W30gKYmUW4oQUfQZDgPjZRkVobdqy0J55Xkemjgrl0On7zJpTrZmQYXUGzLBPnoo3b6eyp7hssq8vF30vVaiPx2zUo81MAntHSiLkoFasI017TUyBgbzLo8btFojoq2qtT+elX4erNQ6cXdDaF1ek1TCPUL4VsGjyINN+2qz7yqfMKdF8+s+JcEM1bkUU=;8WMbTokugI0vnBhTmXGHdg=="

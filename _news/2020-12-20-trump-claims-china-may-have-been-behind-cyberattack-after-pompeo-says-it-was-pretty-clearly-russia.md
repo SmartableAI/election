@@ -128,6 +128,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden calls on Trump to sign COVID relief bill amid battle over direct payments"
+    excerpt: "President-elect Joe Biden on Saturday called on President Trump to sign the coronavirus stimulus bill -- warning that failing to do so would have \"devastating consequences\" for millions of Americans."
+    publishedDateTime: 2020-12-26T18:59:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-trump-covid-stimulus-direct-payments"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-covid-stimulus-direct-payments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-covid-stimulus-direct-payments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00d6934e-888e-4c80-bebb-6e4080d7717b/258bf19a-907d-4926-808b-b6a92ab955f3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "nI1jXjdEGn5NkWomIE7hwzimPLdztCKiFTrFecLDNRPuaOUzttPUywqpSakqXbIYKQNJQBteTYpptYdyOBDGPE1AVZUMSmNDrq5lcM00rx4BSW95wXbf7+WHLDPqJ7qgm2u9NEETUtXgCaHrLXqSn+ixbE8sVul2ctnZDyxNMfPujyGJHAPWc7R1V+ESRzavNVBEdo2LQcEB1osy18aanjv3XpMdZyU0AihiyrrPMb/F1QCXyOqyXkSldakKMPWR0Jw++6qb9QG+wd3m9XoJn9NcjxMR8VJnemrZRZ0MbvD4xv1K0inP+QaJm++THWadOig/xQKw+hloLSbxgQiuzYe5MZ5FJF65647ZuNypgqTPwRnVLl0Wq/O5ezCTauZCVbvRylzRTIv4hmxPgTSIHxAdwryabAv6iJRhlkrQ2+A3sbDhQzDcN3KeG1nGNcGC6V+ozoWb1w5IlDG6Wygo5ykU1PGYwshlnO1KtrjLXk8DyyuiiJnbNnt9u3Qc5yhIb/NWxU7bB4Pw97mkuMeA8Q==;8z53FuRvuQDYRcmDEXulww=="
 ---

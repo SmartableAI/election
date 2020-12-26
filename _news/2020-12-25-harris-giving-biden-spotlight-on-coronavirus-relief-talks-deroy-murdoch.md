@@ -81,6 +81,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Joe Biden urges Trump to sign COVID-19 relief bill"
+    excerpt: "President-elect Joe Biden urged President Trump Saturday to sign the coronavirus relief bill approved by Congress last week, warning that “this abdication of responsibility has devastating"
+    publishedDateTime: 2020-12-26T17:57:00Z
+    webUrl: "https://nypost.com/2020/12/26/joe-biden-urges-trump-to-sign-covid-19-relief-bill/"
+    ampWebUrl: "https://nypost.com/2020/12/26/joe-biden-urges-trump-to-sign-covid-19-relief-bill/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/26/joe-biden-urges-trump-to-sign-covid-19-relief-bill/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201226-biden-covid-aid.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "PSB5M9R+PJKpxtuDxzI3ge1gWFcrqXW0gVdFsEK0mXIzMHARI0vZSF8ewAqd7NIAjs0cFMObUM3xmXP2LLKMy6LNLQxDT+OSwR/00A12rDcdQ1jrO9AURInejbHP5M0E+BecBzIgzmnQVBBLSONp3IlvQoDuqc01CMrfQ0kNqJrYAGQqnCfG3HfF9WUidwE1OVtxAK2C4sb5p0LRYGagmgMZkIlflACJ7MkfZNBm74ZQJYMkMaJEyCFiEGmls7ZE07sMwplidB9lj6vY6OhjDbn0oc790jS2jBc5bo1xhI3ylnbXzK/ND469dGXE5AVraqAGfC2MTXFevaFc9pBP41oRRDZRI6FEWar5wvUO6WA=;3CEBG51VyJwgZYnsUFwUoA=="
 ---

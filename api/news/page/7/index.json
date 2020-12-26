@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-17-trump-administration-blocks-funding-for-california-brings-doj-suit-over-abortion-issues.md",
+      "title": "Trump administration blocks funding for California, brings DOJ suit over abortion issues",
+      "excerpt": "The Trump administration announced two key actions Wednesday designed to protect entities that sought to avoid supporting abortion.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bE0RDm0X_8E/trump-admin-conscience-abortion-hhs-california",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bE0RDm0X_8E/trump-admin-conscience-abortion-hhs-california",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d81c8226-1711-4eae-b269-b02d3e289aff/b0d46677-1617-4e11-ba3c-473a0d6f011c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-admin-conscience-abortion-hhs-california.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-admin-conscience-abortion-hhs-california.amp",
+      "publishedDateTime": "2020-12-16T19:59:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-biden-introduces-pete-buttigieg-as-transportation-secretary-nominee.md",
       "title": "Biden introduces Pete Buttigieg as transportation secretary nominee",
       "excerpt": "President-elect Joe Biden will introduce former South Bend, Indiana, Mayor Pete Buttigieg as his nominee for transportation secretary at an event in Wilmington, Delaware on Wednesday.\n    \n",
@@ -1289,49 +1345,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-pence-lauds-vaccine-effort-during-stop-at-indiana-plant.md",
-      "title": "Pence lauds vaccine effort during stop at Indiana plant",
-      "excerpt": "Vice President Mike Pence said Tuesday that he's looking forward to getting vaccinated for COVID-19 and that he expects to receive his first dose in the next",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/072d19ccb696f25ff18715b831f072a5",
-      "originalUrl": "https://apnews.com/072d19ccb696f25ff18715b831f072a5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/f754d3185f964607a8735a917ca88426/3000.jpeg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T16:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

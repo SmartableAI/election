@@ -2,13 +2,13 @@
 category: news
 title: "Whitmer admits to 'sigh of relief' after not being picked as Biden VP, though she would have said yes"
 excerpt: "After then-candidate Joe Biden vowed to choose a woman as his running mate in the 2020 election, Michigan Gov. Gretchen Whitmer emerged as an early front-runner, but now that Biden has won, Whitmer admits she is glad she never got the call."
-publishedDateTime: 2020-12-25T13:39:59Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T6NyDa3FYJU/whitmer-biden-vice-president-relief"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T6NyDa3FYJU/whitmer-biden-vice-president-relief"
+publishedDateTime: 2020-12-25T13:43:00Z
+originalUrl: "https://www.foxnews.com/politics/whitmer-biden-vice-president-relief"
+webUrl: "https://www.foxnews.com/politics/whitmer-biden-vice-president-relief"
 ampWebUrl: "https://www.foxnews.com/politics/whitmer-biden-vice-president-relief.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-biden-vice-president-relief.amp"
 type: article
-quality: 160
+quality: 120
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -48,6 +49,6 @@ related:
         height: 720
         isCached: true
 
-secured: "zVqSVuE0facqJp/WUa02XMKptncN8ZEY6kdiXIstR1N2YEDtKncmhDM8crx9PJKaRESwUXILLzH9hRBty4opf73jgO9wnWyG/tnWNerl0d2H5UXOI6gjVv+AxEhy3JKSlpIEBFSVx7JnTc5SF97cYIABJ9gnf/IGJNYKC5mFPHYPNp/nV8EgtoFlUwqbdj4VUKY9jHqowkmKeJQZXMwWAWvo5IyFkDgfELF04YA/bGUh3tLuxd5y5+CG9XVyce2BnGxvhv2TlqmnlizlH5cSp7KO5mAMulI5qDg7H0jSXw65o5hlYW/QRQFOrE32MIUnb56OJjgXLb9+GAbkuTewesFkhXh9CwD6tOIsljH7xy4=;VCmwzT5zKq8KJ3dDa4Blpw=="
+secured: "8bHNPp+80S6KqLPwhj1r3NG1nQSOC2RhU95ZUGWWLTDXuzxH2cjYqKbP+Fy/5BvgSNWCcILVepcllJqlDdnYdZf946hpXeyJ4dI4Y/7eG0YkBqIYhxC4Moe/lqunw1mB4nHeLE7jQTh5oU4TMa3xmOT7+uqm4f4krsATzM4cSqIC7sKIYS5WOKI+DqCMlCK8fU8haBckagmSVp9EenkTgiNdQea80x0wzMKYojnDEgx2+5PuxZBduUBtfmjxSMstxQRaetPQFqvbTOiqEz9E6EKI3Z+ffxbPfhAwIplABfUJEuQl4eHiZvmxP7Y+hJc/32g6f3+NPAfDNSZoFrX+jX6hEdoF7TmuD37XxlvU9rI=;bGSKojorAYtSGiFMwOWtCA=="
 ---
 

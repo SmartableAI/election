@@ -33,15 +33,15 @@ images:
 related:
   - title: "Whitmer admits to 'sigh of relief' after not being picked as Biden VP, though she would have said yes"
     excerpt: "After then-candidate Joe Biden vowed to choose a woman as his running mate in the 2020 election, Michigan Gov. Gretchen Whitmer emerged as an early front-runner, but now that Biden has won, Whitmer admits she is glad she never got the call."
-    publishedDateTime: 2020-12-25T13:39:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T6NyDa3FYJU/whitmer-biden-vice-president-relief"
+    publishedDateTime: 2020-12-25T13:43:00Z
+    webUrl: "https://www.foxnews.com/politics/whitmer-biden-vice-president-relief"
     ampWebUrl: "https://www.foxnews.com/politics/whitmer-biden-vice-president-relief.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-biden-vice-president-relief.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 120
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Gretchen-Whitmer-AP-e1608902899685.jpg?ve=1&tl=1"
         width: 640

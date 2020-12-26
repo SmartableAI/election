@@ -137,6 +137,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden says Trump's 'abdication of responsibility has devastating consequences' as the president neglects to sign bipartisan stimulus"
+    excerpt: "Trump said he wants $2,000 direct payments to Americans, but House Republicans blocked Democrats' attempt this week to meet his demand."
+    publishedDateTime: 2020-12-26T18:28:00Z
+    webUrl: "https://www.businessinsider.com/biden-trumps-abdication-of-responsibility-has-devastating-consequences-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-trumps-abdication-of-responsibility-has-devastating-consequences-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-trumps-abdication-of-responsibility-has-devastating-consequences-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5fe77a26edf8920018093c66?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "In Christmas messages, Biden commiserates with COVID victims; Trump barely mentions virus"
     excerpt: "In dueling Christmas messages to the nation Friday, Joe Biden commiserated with Americans who’ve lost loved ones or their livelihoods because of coronavirus — while President Trump barely made mention of the pandemic that‘s killed over 330,"
     publishedDateTime: 2020-12-25T20:27:00Z

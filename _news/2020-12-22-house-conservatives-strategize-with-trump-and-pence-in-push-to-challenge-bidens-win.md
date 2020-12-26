@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trum
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trump-meeting/index.html"
 type: article
 quality: 208
-heat: 1468
+heat: 1488
 published: true
 
 provider:
@@ -637,6 +637,22 @@ related:
       - url: "https://static.politico.com/13/4c/2009dbb5418cbef6541aa1e3066d/dsc-8614-copy.JPG"
         width: 7360
         height: 4904
+        isCached: true
+  - title: "Biden calls on Trump to sign Covid bill as government shutdown nears"
+    excerpt: "The president-elect also criticized Trump for letting a handful of Covid relief protections expire with his refusal to sign the bill."
+    publishedDateTime: 2020-12-26T18:22:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-calls-trump-sign-covid-bill-government-shutdown-nears-n1252371"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252371"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252371"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_52/3438160/201226-joe-biden-al-1231_d4978428616ad1cf681d747349d55230.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Russian hack ‘happened on Donald Trump’s watch when he wasn’t watching,’ Biden says."
     excerpt: "This assault happened on Donald Trump’s watch when he wasn’t watching,” Mr. Biden said at a year-end news conference “Even if he doesn’t take it seriously, I will. I’m disappointed by the response of President Trump."
