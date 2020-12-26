@@ -1,24 +1,20 @@
 ---
 category: news
-title: "Trump Gives Some Federal Workers Christmas Eve Off—Though Congress Is on the Job"
-excerpt: "For a third year, President Trump has given employees of the executive branch of the federal government a full day off on Christmas Eve, though Congress remained on the job."
-publishedDateTime: 2020-12-24T22:30:00Z
-originalUrl: "https://www.wsj.com/articles/trump-gives-some-federal-workers-christmas-eve-offthough-congress-is-on-the-job-11608831020"
-webUrl: "https://www.wsj.com/articles/trump-gives-some-federal-workers-christmas-eve-offthough-congress-is-on-the-job-11608831020"
-ampWebUrl: "https://www.wsj.com/amp/articles/trump-gives-some-federal-workers-christmas-eve-offthough-congress-is-on-the-job-11608831020"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-gives-some-federal-workers-christmas-eve-offthough-congress-is-on-the-job-11608831020"
+title: "President Trump, First Lady release second White House Christmas greeting"
+excerpt: "President Trump and First Lady Melania Trump wished their fellow Americans a merry Christmas in a second holiday greeting released by the White House Friday. In the statement, the first couple"
+publishedDateTime: 2020-12-25T22:15:00Z
+originalUrl: "https://nypost.com/2020/12/25/president-trump-first-lady-release-second-christmas-greeting/"
+webUrl: "https://nypost.com/2020/12/25/president-trump-first-lady-release-second-christmas-greeting/"
+ampWebUrl: "https://nypost.com/2020/12/25/president-trump-first-lady-release-second-christmas-greeting/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/25/president-trump-first-lady-release-second-christmas-greeting/amp/"
 type: article
-quality: 130
+quality: 134
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
@@ -26,9 +22,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-277969/social"
-    width: 1280
-    height: 640
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/d-m-trump.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -160,22 +156,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "President Trump, First Lady release second White House Christmas greeting"
-    excerpt: "President Trump and First Lady Melania Trump wished their fellow Americans a merry Christmas in a second holiday greeting released by the White House Friday. In the statement, the first couple"
-    publishedDateTime: 2020-12-25T22:15:00Z
-    webUrl: "https://nypost.com/2020/12/25/president-trump-first-lady-release-second-christmas-greeting/"
-    ampWebUrl: "https://nypost.com/2020/12/25/president-trump-first-lady-release-second-christmas-greeting/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/25/president-trump-first-lady-release-second-christmas-greeting/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/d-m-trump.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "In official Christmas portrait, Melania Trump sports high-waisted pantsuit"
     excerpt: "The first lady on Saturday shared her official White House Christmas portrait with President Trump standing on the White House Grand Staircase."
     publishedDateTime: 2020-12-19T19:59:00Z
@@ -192,7 +172,23 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump Gives Some Federal Workers Christmas Eve Off—Though Congress Is on the Job"
+    excerpt: "For a third year, President Trump has given employees of the executive branch of the federal government a full day off on Christmas Eve, though Congress remained on the job."
+    publishedDateTime: 2020-12-24T22:30:00Z
+    webUrl: "https://www.wsj.com/articles/trump-gives-some-federal-workers-christmas-eve-offthough-congress-is-on-the-job-11608831020"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-gives-some-federal-workers-christmas-eve-offthough-congress-is-on-the-job-11608831020"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-gives-some-federal-workers-christmas-eve-offthough-congress-is-on-the-job-11608831020"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-277969/social"
+        width: 1280
+        height: 640
+        isCached: true
 
-secured: "A5a+4IKYQdf+62Dmlgn3j+OcSaA7591W1m+SFMml6jZmSD+W+j3RltayRAs75Exf3qitEiYmjyVgSZ/Q9lcNTGs+bjr23a3YFnjiIzUTt6l6fSRyaWH4whegO5/2dR5IkJjdUGhNF41lQ9x3EH0kor1XCJO3gq3ZykpP4Gw6j7VQbuRLvQ/RYLnIqKBpGppIFTthecwKYV2vySgNG+hlyXx+y/Wk8iE/q5Fk4nubuoEVINVXxKmqfuXJDGsgi6RT6rFNJjJzjQSvMRyz6yL1dhcpJox9AuQK0hARYSxjp9lT2HWY/bwL1eu6WBOy3938rm6Ps3xGYymM0lw0TbFCzCgzSUpSUziyrtcG5op0nhI4vvGs5p+SCt7SSUOiOkPRtXIorOdroBF+5d1q/EnUhArLKI6eU++sRkAN+E+8xaLEMc1kJpcBp7dalUFccl/cZUifvaWYDprkZyq8JrwQizaD9o6JWtiQIvm6EnMuzNLs2ed+76JyXLoz/lg3l5sY2Art107UhPGd9ZTg1dBlog==;/TQLfSW64sXleCVRK0TBlg=="
+secured: "vsaZrFIfoS7baxrDjZ+GAV4XtD4qOPTG3a6Us2j8nhIni4v1C72BdJ5uYm1ttkTg9p61vzY2Fb3H71YjfeEWjwluHGct+9mx/iCrjETgO7T9J3/Sc6tyYDhCTM/pi1I+Kv/Y9FKov8EDEzikXNoa12J0Gi9M9jmhmIaeHGZhxySNacZDbj0BtjldDzSb/vykKklyiHc76xJskcEJu2230mKpcr4YNihIgYG5ISaT7TyX1XYdLXpElh/SHlO4Nn/khs1iPFXHhzu1Zp/WrOmXrGXLoYS3n5elFlLTDQR5ZgyG2iHDahhoGucRyVuYGYFlFJ9ehQx8PojS4GarGymBzweIi7YxlMoTgsNt2x2im6E=;a+buvE4zfjSfZv7W2l4tpA=="
 ---
 

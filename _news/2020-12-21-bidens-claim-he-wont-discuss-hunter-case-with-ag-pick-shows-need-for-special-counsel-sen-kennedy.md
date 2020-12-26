@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Special counsel for Hunter Biden case may be 'warranted,' some at DOJ say: sources"
+    excerpt: "Justice Department officials in ‘ongoing discussions’ on Hunter Biden special counsel, sources say High-level officials within the Justice Department are in \"ongoing discussions\" on whether to appoint a special counsel to take over the investigation into Hunter Biden,"
+    publishedDateTime: 2020-12-24T10:11:00Z
+    webUrl: "https://www.foxnews.com/us/special-counsel-for-hunter-biden-case-may-be-warranted-some-at-doj-say-sources"
+    ampWebUrl: "https://www.foxnews.com/us/special-counsel-for-hunter-biden-case-may-be-warranted-some-at-doj-say-sources.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/special-counsel-for-hunter-biden-case-may-be-warranted-some-at-doj-say-sources.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Hunter-Biden-THUMB-1-copy.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "yAzHYHkpf8cHLOSns0u1QiKFovBvNr7ipmYp23XqsX81tQnWrLbbRK/SsAqB5qlk8zFpSocIOtdprv8asP28WJx9CfA9bd/sjnNeNUY8wlv0AU/wJo6E7gPwuIU27fyrgnhXOAGKDG5jzRUn/xUaGgVPI6jOlnsKuq1dLDI2EBecIpJtG6MnUCLWW86cTh8BnVOtHqcasjKnW2gm0rmha/ov66ux8Q6a8hAVnGKHt1RlSPPpU7nPNsa4DjfuFWskmPCEFWNZIS1kbVkjcQ8OJbPElLf6xE1bVqKQYVbPUNLlu1bQSYtzwBZKf4hbIYdgXmwsudS0pBXSE6l4+qBP8nV+uruZcWLU0LG3XgmKh6I=;hlkv61iXTCDnDTLofvDMWA=="
 ---

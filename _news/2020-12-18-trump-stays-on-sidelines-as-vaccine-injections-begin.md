@@ -702,6 +702,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump stain likely to dog officials' post-administration job prospects"
+    excerpt: "Serving in the White House is normally a passport to a lucrative job in business or lobbying but little about the Trump presidency is normal"
+    publishedDateTime: 2020-12-26T08:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/26/trump-stain-post-administration-job-prospects"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/26/trump-stain-post-administration-job-prospects"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/26/trump-stain-post-administration-job-prospects"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/bb680f97db5ed75bca8bd8d68170cb78a74fb760/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f00dc40a06190ccb7abc78539122e899"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump is still pinning his hopes on one last lawsuit in Michigan to overturn the presidential election"
     excerpt: "President Donald Trump said a report written by his allies in a lawsuit over a small Michigan county's Marijuana measure reveals \"massive fraud.\""
     publishedDateTime: 2020-12-17T00:08:00Z

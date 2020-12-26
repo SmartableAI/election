@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Who has Donald Trump just pardoned? A guide to the key figures"
-excerpt: "From figures in the Russia investigation to former Republican lawmakers, a look at who’s who in the latest round of pardons"
-publishedDateTime: 2020-12-24T02:11:00Z
-originalUrl: "https://www.theguardian.com/us-news/2020/dec/22/who-trump-pardon-guide-george-papadopoulos-duncan-hunter"
-webUrl: "https://www.theguardian.com/us-news/2020/dec/22/who-trump-pardon-guide-george-papadopoulos-duncan-hunter"
-ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/22/who-trump-pardon-guide-george-papadopoulos-duncan-hunter"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/22/who-trump-pardon-guide-george-papadopoulos-duncan-hunter"
+title: "Trump stain likely to dog officials' post-administration job prospects"
+excerpt: "Serving in the White House is normally a passport to a lucrative job in business or lobbying but little about the Trump presidency is normal"
+publishedDateTime: 2020-12-26T08:02:00Z
+originalUrl: "https://www.theguardian.com/us-news/2020/dec/26/trump-stain-post-administration-job-prospects"
+webUrl: "https://www.theguardian.com/us-news/2020/dec/26/trump-stain-post-administration-job-prospects"
+ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/26/trump-stain-post-administration-job-prospects"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/26/trump-stain-post-administration-job-prospects"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/7f947fe8828037ee4d9f352455ac2ff47eb708d5/0_161_4833_2900/master/4833.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2f645cc3d0595e1a529229dbb5f265a9"
+  - url: "https://i.guim.co.uk/img/media/bb680f97db5ed75bca8bd8d68170cb78a74fb760/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f00dc40a06190ccb7abc78539122e899"
     width: 600
     height: 360
     isCached: true
@@ -655,6 +655,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Who has Donald Trump just pardoned? A guide to the key figures"
+    excerpt: "From figures in the Russia investigation to former Republican lawmakers, a look at who’s who in the latest round of pardons"
+    publishedDateTime: 2020-12-24T02:11:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/22/who-trump-pardon-guide-george-papadopoulos-duncan-hunter"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/22/who-trump-pardon-guide-george-papadopoulos-duncan-hunter"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/22/who-trump-pardon-guide-george-papadopoulos-duncan-hunter"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7f947fe8828037ee4d9f352455ac2ff47eb708d5/0_161_4833_2900/master/4833.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2f645cc3d0595e1a529229dbb5f265a9"
+        width: 600
+        height: 360
+        isCached: true
   - title: "With a video filmed in secret, Trump keeps sowing chaos"
     excerpt: "President Donald Trump has plunged Washington into chaos once more by mounting another desperate attempt to cling to power while leaving lawmakers scrambling to respond to his threat to detonate Congr"
     publishedDateTime: 2020-12-24T07:50:00Z
@@ -686,22 +702,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/capitol-building-gty-jef-201224_1608830133572_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Trump stain likely to dog officials' post-administration job prospects"
-    excerpt: "Serving in the White House is normally a passport to a lucrative job in business or lobbying but little about the Trump presidency is normal"
-    publishedDateTime: 2020-12-26T08:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/26/trump-stain-post-administration-job-prospects"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/26/trump-stain-post-administration-job-prospects"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/26/trump-stain-post-administration-job-prospects"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/bb680f97db5ed75bca8bd8d68170cb78a74fb760/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f00dc40a06190ccb7abc78539122e899"
-        width: 600
-        height: 360
         isCached: true
   - title: "Trump is still pinning his hopes on one last lawsuit in Michigan to overturn the presidential election"
     excerpt: "President Donald Trump said a report written by his allies in a lawsuit over a small Michigan county's Marijuana measure reveals \"massive fraud.\""
@@ -1338,6 +1338,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "CAWzTPG/TiqnZVh3f9rx6P+84R6ICDalGxQswNsF4esvKVftyIlQZVp9PsjiHenoEhErRNxSCoARJNMZfEVCVGYkKTKKsSuCpfq980T/VVqS5AdXklP8b38wq1EtyfH863qc74HBUbXaWObYHSyJDSGwR7choow/9tws6WbtXuEcYe1N0RtNTWMk5qz8zPDvelI3DLKOMeUHls3lOCYBLdKMOHv8OgJOBgiIPrKg51eSfU2nwmkfCiJLladu7d+XjtEY+EmW52p6gGjB+YWGpOnjajk9c98VcXt2RlqwlJljO5CU4/5uAYSYzcgDeeFoYZYoLlyv4TdJuX9NmpwK6XrHp23jq4GqNWJ3YOUCDAyaEVpxUUVWiEbhJor6Eqb2m+BOF3i35EFo1ptdcX8+SAc2erzScpiOsVn3T6LE5Q2j//mGLy/OdIX1VFGPpu4UIwWpFGPYdrcqVyM4yGyUunhCE6t15poBk68ZWWvQMzzVcPsKc9d1GNfIt6AIUBYw7R4pQcSiCnfRzgAyHfKjzQ==;a2SNmE0+yy7aTTAHE6GCJg=="
+secured: "F9Arw9ofnT33XgQktrJSckOpoVuYJyxZZsX1b+yPlE9liL+sE3GKETKFz1WFXF7uatYtK9KqlCpN5dj5YYEEAuJHlXIQNLjUtDMW2ycvkYe1rrf7nabG0VklNDGW8DMQ+Ss7Af4ShkZ58ZeTUPL2h39sR1FK/lOdTWQ933/cusChiZa2FsJxavyp6QfIUAaG2hsQa7IVnVx5PinTtnrVc8VEDy3qDN84yYZvwDiSw4MFo+lg648gU/Imp0Zx1JgmRhPltJ1DsvjaB+vxIZeT805e9Si9tHyuJc3UW4CHi4B5RNP7RkdOVN33Ag/gcP70u2H5xjKMbr3aTo0B+g+CH1CVnkd7jAvYTqaKDZPVNdI=;nat82q+yMEqWrcO4V2T9vQ=="
 ---
 

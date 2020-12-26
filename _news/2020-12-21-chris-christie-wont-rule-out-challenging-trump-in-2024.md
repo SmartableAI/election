@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/chris-christie-trump-2024-president
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-trump-2024-presidential-run.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201225-ivanka-trump-christmas-photo.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "President Trump, First Lady release second White House Christmas greeting"
+    excerpt: "President Trump and First Lady Melania Trump wished their fellow Americans a merry Christmas in a second holiday greeting released by the White House Friday. In the statement, the first couple"
+    publishedDateTime: 2020-12-25T22:15:00Z
+    webUrl: "https://nypost.com/2020/12/25/president-trump-first-lady-release-second-christmas-greeting/"
+    ampWebUrl: "https://nypost.com/2020/12/25/president-trump-first-lady-release-second-christmas-greeting/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/25/president-trump-first-lady-release-second-christmas-greeting/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/d-m-trump.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
