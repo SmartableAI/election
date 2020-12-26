@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden’s niece Caroline gets no jail time after DUI guilty plea"
 excerpt: "Joe Biden’s niece Caroline Biden pleaded guilty to DUI on Dec. 3 — and was sentenced to 20 days to six months of “confinement,” Pennsylvania court records said."
 publishedDateTime: 2020-12-26T03:57:00Z
-originalUrl: "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea?wp0"
-webUrl: "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea?wp0"
+originalUrl: "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea"
+webUrl: "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea"
 ampWebUrl: "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea.amp"
 type: article
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "tw5hLZRPbIf4WS0+k9onuD/LCMWWJXzTUX1jM/NffdrrVNY7bBtVypWBYTSGNYMpGIFCNixiY9MelBfhCkE0FVbqydp9nKU+Sq0gjIePkLYl7HxCyN8yyqJAouR0oCfRQ0v9tQPSXP7Az7EWXkbl2VMWrS02cYFZbI47lqQS71bVUyzPfc/zbV1LZjBuWrnbdQdUuvAiiIc4+GvMqbS5r7ANDCnjgXEFcAsjh8ekJu1bu4uCKayFK8sX0/6OCm1XHw0YwefUWCo0yLYeBtI0kX4kDTS48GtuLjjFvyyVsg/TvpL/+E8Grcxai4/vIa8CvgcaNBepIC0Uqe6PDecncDweG+MpLXwL43klRmmxJiw=;nTwU54IuaN90gvcz3+Pvfw=="
+secured: "iptS1EFcgUtkoYE7ZkNPJzhl5TCZsOLJ/EE0w06X2UyQkOQbUk08cTtJNf81iBTZXQ8NC1mg2kQNIpTbz3XClzR4qYas1locFTk9t4ogdr9lEE/cGh3CNUJN9QjXuslHrmAuV9i5m3+U5fApawDc59nvLqGJ2eVwDD3yMTU9Gj4bTySwCCZfWNkyk3OrbIk13A2tnuGeiwL+Vzmmid7r/LeCcpSDeZiU/ByEOUbVvOCumSMNn2vGamMTVjhVHi2JhT3ITHOzYwvPJHf61EeXxP6x2USOstluFcuwj9vO/hrtfU6XRXU6HAJmIQP3q9LgA6ImnPI43EemHU3cYSyNUeo3Q1G8A0HrVgnPF34QHCg=;8DmD3yCWA6wsg5FRKpS1Eg=="
 ---
 

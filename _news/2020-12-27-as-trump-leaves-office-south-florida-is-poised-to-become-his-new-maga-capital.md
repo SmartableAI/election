@@ -1,31 +1,33 @@
 ---
 category: news
-title: "Even as he urges caution on COVID-19, Pence flies to Florida to speak at large event"
-excerpt: "Vice President Mike Pence has urged Americans to step up precautions, but he flew to Florida to speak to thousands at an indoor summit held by a conservative youth group."
-publishedDateTime: 2020-12-22T22:16:00Z
-originalUrl: "https://abcnews.go.com/Politics/urges-caution-covid-19-pence-flies-florida-speak/story?id=74858979"
-webUrl: "https://abcnews.go.com/Politics/urges-caution-covid-19-pence-flies-florida-speak/story?id=74858979"
+title: "As Trump leaves office, South Florida is poised to become his new ‘MAGA’ capital"
+excerpt: "Everyone’s leaving. They’re moving to Florida,\" President Donald Trump says. South Florida is poised to become Trump's new MAGA capital after he leaves the White House."
+publishedDateTime: 2020-12-26T16:28:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html?outputType=amp"
 type: article
-quality: 98
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/pence-turningpt-abc-rc-201222_1608662483585_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.chicagotribune.com/resizer/qsZjaLIu7GiP_fWOhE-QZSmIC4o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GHKY7KVXTJ4O6LZG5SZMZL2AL4.jpg"
+    width: 1200
+    height: 832
     isCached: true
 
 related:
@@ -61,22 +63,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "As Trump leaves office, South Florida is poised to become his new ‘MAGA’ capital"
-    excerpt: "Everyone’s leaving. They’re moving to Florida,\" President Donald Trump says. South Florida is poised to become Trump's new MAGA capital after he leaves the White House."
-    publishedDateTime: 2020-12-26T16:28:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 120
-    images:
-      - url: "https://www.chicagotribune.com/resizer/qsZjaLIu7GiP_fWOhE-QZSmIC4o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GHKY7KVXTJ4O6LZG5SZMZL2AL4.jpg"
-        width: 1200
-        height: 832
-        isCached: true
   - title: "Trump golfs in Florida, rails against House GOP and election results on first day of his winter vacation as COVID relief hangs in the balance"
     excerpt: "Trump had no events on his public schedule on the first day of his winter vacation Thursday, but traveled to his Palm Beach golf club, where he was spotted by CNN cameras on the links. Reporters were given no details of his schedule for the day,"
     publishedDateTime: 2020-12-24T23:52:00Z
@@ -92,6 +78,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/TVprj6I_MiixMX6j-AmfkAs6eYc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PAVSBWTRPDKJZNXABFXCVNHI6Q.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Even as he urges caution on COVID-19, Pence flies to Florida to speak at large event"
+    excerpt: "Vice President Mike Pence has urged Americans to step up precautions, but he flew to Florida to speak to thousands at an indoor summit held by a conservative youth group."
+    publishedDateTime: 2020-12-22T22:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/urges-caution-covid-19-pence-flies-florida-speak/story?id=74858979"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 98
+    images:
+      - url: "https://s.abcnews.com/images/Politics/pence-turningpt-abc-rc-201222_1608662483585_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump is holding up the COVID-19 stimulus package with demands for $2,000 checks — but there are enough votes in Congress to override a veto"
     excerpt: "President Trump called the $900 billion package — passed by Congress earlier this week after months of negotiations — a \"disgrace\" on Tuesday."
@@ -110,6 +110,6 @@ related:
         height: 600
         isCached: true
 
-secured: "r22aifwMK0efen4f1s4+thDuv54b07vWGHhS7YcOtPWHgrNCj3gU0iHSWBgwcSrYCdGMfV1GPuf08RS3Gq+u93NUDall+1Rf140Q7HQ3V3Y45K/3QZfKvnHZVkike6zyEGiYy78EM+wkphnbpzvlqtRCYz+UsKRC2hBYtveb45EGbBgx9fcaFSgTmrMWnsNdxHhrdQZQfvSFdB3iJPDf2bFASseqJjyJrKZutOO6T6ORmbqlvwr9rKLymaRMKbwqJAuOsqu9yDPQ8TNq0sEqPxdAHlOVyQ5/defzN4S/XPVq/v/OwAktMgvxQ2JbWkisA+t59WF7b4WgogPJ96slbQz1wkIVIGgQr0yGnNjyoTY=;Yxl2da+nBpsHs6yt7v0CoA=="
+secured: "Uq5YONMa0TEHld7xCU4AJoI1rnVSOi5cJvRKCp+tMbGKZm+11Sq2/0cLFUzKtZuOAW9sQDxtjswvf/W5VvxlRcoP1JkHWZsduMVDuIvGzqDgOF1DBFSRqymgFB01DfvjOs18jOB/QW3PMkHD+ryzY2GkdM9X7l4d12mpFpuqR41giug5emVJUZLpQcuXLOiTiTtLb/JBC1gj/VfBXqLtgNaTytfHENCg8XvkKCQbOLKxi6u+eorSDcpHZtyuFxsANuPHH6vmodnj8x2LyIOhtiQ6sxmEx5e+npgwUJVROXFRfEhFOtMnRy9PW+REPU3oVunzpNdJfJPkj37vGa0QuWJZcP6QaxBgGOS7LMtVikY=;jkCy9prJSKEcUcdcqgFSpQ=="
 ---
 
