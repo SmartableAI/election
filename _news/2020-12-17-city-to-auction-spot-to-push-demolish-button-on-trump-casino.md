@@ -1310,6 +1310,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Made Lasting Impact on Federal Courts"
+    excerpt: "President Donald Trump’s deep imprint on the federal courts is a rare point of agreement about the president across the political spectrum."
+    publishedDateTime: 2020-12-26T05:32:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-26/trump-made-lasting-impact-on-federal-courts"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-26/trump-made-lasting-impact-on-federal-courts?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-26/trump-made-lasting-impact-on-federal-courts?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "EveFTwq5Z4V9UwReZShF2VG60iuzxB+Rm/OK9LZj3j/daSy7aegKRyVeH6kTmO7yqGkr01Rr6U4tZB60IxbHFCvsxQLp6iOXir7ONBcw9IeLdQxFjXOB/0sGGG0wdRp4ZzbCT9s1V4Phfp+z21H3TqlNQDo8IFHN7NTtQOFv6YZ0oxPAnesM4QBMrIjQ5fkQARWjxfBJAaFqq2Dv75CuJmuREYJGFmOxSFmj/Si/08isJjJ83IHHDvruNsrnh1JLe+NEj8g+Rnb1nQrKQdC8jLYkC9ryKOkhCEq0JEzRKFgCB2s3WA+q+zmRnC5/V6WtUUL8kuQCPjVlTbrgbTBgmkGl/Q1WlTSRhtUzQM1vzyY=;IMVTu2F+Hwq+H3NzDiElcQ=="
 ---

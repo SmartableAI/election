@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-26-joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea.md",
+      "title": "Joe Biden’s niece Caroline gets no jail time after DUI guilty plea",
+      "excerpt": "Joe Biden’s niece Caroline Biden pleaded guilty to DUI on Dec. 3 — and was sentenced to 20 days to six months of “confinement,” Pennsylvania court records said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea?wp0",
+      "originalUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea?wp0",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/caro222.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea.amp",
+      "publishedDateTime": "2020-12-25T19:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-26-michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp.md",
       "title": "Michigan Gov. Gretchen Whitmer relieved at not being picked as Biden’s VP",
       "excerpt": "Michigan Gov. Gretchen Whitmer said she would have accepted an offer to serve as Joe Biden’s running mate — but admitted to relief at not being picked.",
@@ -1605,62 +1662,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/maxine-waters-congress-missed-opportunity-impeach-trump-for-treason.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/maxine-waters-congress-missed-opportunity-impeach-trump-for-treason.amp",
       "publishedDateTime": "2020-12-21T09:54:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-romney-trump-continuing-to-dispute-election-results-is-really-sad-and-embarrassing.md",
-      "title": "Romney: Trump continuing to dispute election results is 'really sad' and 'embarrassing'",
-      "excerpt": "Sen. Mitt Romney, R-Utah, called President Trump's refusal to concede the 2020 election \"really sad\" and \"embarrassing\" on Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rpDWxhjlcAs/mitt-romney-trump-election-republican-party",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rpDWxhjlcAs/mitt-romney-trump-election-republican-party",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/mitt-romney-2-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mitt-romney-trump-election-republican-party.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-trump-election-republican-party.amp",
-      "publishedDateTime": "2020-12-20T09:03:09-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -120,6 +120,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "In Christmas messages, Biden commiserates with COVID victims; Trump barely mentions virus"
+    excerpt: "In dueling Christmas messages to the nation Friday, Joe Biden commiserated with Americans who’ve lost loved ones or their livelihoods because of coronavirus — while President Trump barely made mention of the pandemic that‘s killed over 330,"
+    publishedDateTime: 2020-12-25T20:27:00Z
+    webUrl: "https://www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html"
+    ampWebUrl: "https://www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 91
+    images:
+      - url: "https://www.nydailynews.com/resizer/0ul6_DlUDSmHjuvUUVPjjaJwAQQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KTEZGCM3Z5F7VDNUIPZ3B4YYK4.jpg"
+        width: 1200
+        height: 838
+        isCached: true
   - title: "Second stimulus check updates: Trump threatens to torpedo $900 billion COVID-19 relief bill with new demands that fellow Republicans have opposed"
     excerpt: "President Trump is blasting the bipartisan $900 billion pandemic relief package that Congress just passed and is suggesting that he may not sign it."
     publishedDateTime: 2020-12-23T06:58:00Z
@@ -135,22 +151,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/fk0V3jTdM0znmmtIBR7USnL-RXg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KADLT5AIRFDM3OFMKUQLBT5LBU"
         width: 1200
         height: 675
-        isCached: true
-  - title: "In Christmas messages, Biden commiserates with COVID victims; Trump barely mentions virus"
-    excerpt: "In dueling Christmas messages to the nation Friday, Joe Biden commiserated with Americans who’ve lost loved ones or their livelihoods because of coronavirus — while President Trump barely made mention of the pandemic that‘s killed over 330,"
-    publishedDateTime: 2020-12-25T20:27:00Z
-    webUrl: "https://www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html"
-    ampWebUrl: "https://www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 81
-    images:
-      - url: "https://www.nydailynews.com/resizer/0ul6_DlUDSmHjuvUUVPjjaJwAQQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KTEZGCM3Z5F7VDNUIPZ3B4YYK4.jpg"
-        width: 1200
-        height: 838
         isCached: true
   - title: "Republicans Buck Trump, Reject Proposal for $2,000 Stimulus Checks"
     excerpt: "Republicans on Thursday shut down an effort by Democratic leadership in the House to add $2,000 payments to the latest stimulus package, breaking with President Donald Trump’s demand for such checks,"

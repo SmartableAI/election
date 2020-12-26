@@ -1,34 +1,28 @@
 ---
 category: news
-title: "U.S. lawmakers say Trump administration giving few details on hack"
-excerpt: "The Trump administration offered lawmakers few details about the recent hacking campaign against the U.S. Government, several members of Congress said on Friday following a classified briefing on the intrusion and calling for an in-person meeting."
-publishedDateTime: 2020-12-18T20:57:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-cyber-breach-congress-idUSKBN28S26S"
-webUrl: "https://www.reuters.com/article/us-usa-cyber-breach-congress-idUSKBN28S26S"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S27X"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S27X"
+title: "Trump Made Lasting Impact on Federal Courts"
+excerpt: "President Donald Trump’s deep imprint on the federal courts is a rare point of agreement about the president across the political spectrum."
+publishedDateTime: 2020-12-26T05:32:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2020-12-26/trump-made-lasting-impact-on-federal-courts"
+webUrl: "https://www.usnews.com/news/politics/articles/2020-12-26/trump-made-lasting-impact-on-federal-courts"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-26/trump-made-lasting-impact-on-federal-courts?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-26/trump-made-lasting-impact-on-federal-courts?context=amp"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545058612&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH18V"
-    width: 797
-    height: 545
-    isCached: true
 
 related:
   - title: "Pence echoes Trump on election loss in West Palm speech to conservative youths"
@@ -382,6 +376,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "U.S. lawmakers say Trump administration giving few details on hack"
+    excerpt: "The Trump administration offered lawmakers few details about the recent hacking campaign against the U.S. Government, several members of Congress said on Friday following a classified briefing on the intrusion and calling for an in-person meeting."
+    publishedDateTime: 2020-12-18T20:57:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-cyber-breach-congress-idUSKBN28S26S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S27X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S27X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545058612&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH18V"
+        width: 797
+        height: 545
         isCached: true
   - title: "U.S. Supreme Court throws out challenge to Trump census immigrant plan"
     excerpt: "The U.S. Supreme Court on Friday threw out a lawsuit seeking to block President Donald Trump's plan to exclude immigrants living illegally in the United States from the population count used to allocate congressional districts to states."
@@ -1310,18 +1320,7 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Trump Made Lasting Impact on Federal Courts"
-    excerpt: "President Donald Trump’s deep imprint on the federal courts is a rare point of agreement about the president across the political spectrum."
-    publishedDateTime: 2020-12-26T05:32:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-26/trump-made-lasting-impact-on-federal-courts"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-26/trump-made-lasting-impact-on-federal-courts?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-26/trump-made-lasting-impact-on-federal-courts?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
-secured: "Y9k4zy0LGrbzMUFWWxEVfJinAwfy7fgSyoBEliIOynZE2hniiTN1yQcvcQmijAaJb5YS4fjQfR8R21tmo4rNRurZALwV+OykioS7iR9eTK4C9+qmaPiKVo0qiHbsxoGw8iTkuPMh7EQZNaUvwMS9F7wZkHi+J8tRg29c+oYnj6ecf6VpSbw1zc1Xh1NfwF6lA47YDWUf3RCCRQuKcv7XA4qRJ4WXV3oWSXiseJ6lgkQC8LsfGzd/V5AI1nyAucy6DAhBXvG9vtwidJwJlC2yZxAViDaNYyuu8SnyDgKHIUs8dr8gXk2h4JKzacjClOnlMpUlmFn5mQCnvY6Jg83WZ4v/LLjEH3ggDSuntAHsx5s=;gZh4VqhZXwa6DNANMSvxlA=="
+secured: "kLesv5MxP0s7HmEYDxWQkcw7EaGqj7w+3MVA5RhkLrDMnu7qN9FPMuOtx1wpRAoBQDt6HeVyikMkUFvmT7tDKQ31TP3LInnqiACbUCMsFU0S4+q3/gAP2RCiQGq+k88vSPOpL1amiYSVc/+ejseVkVp3YYKID/60LiQgft3xdFAmBuE7/hwiI5/JNG+UcZfeIGoaIGzvWMDjKiYstS8/7Jjig4TA6OgeJlZn4EC/VP3StT6bfp3/VtvD3w24AVlSLzXcSi7u249PaErjj1ZLGVY9KDoJFTKL2t5bK7ug62MtVJVc536E4kcwcDSFysb+ahgAipk6ZItx21QD8N7IYlqrLmSErEoJl16S1UmvAmZnG38/arzySC/PihxThZd1EiE55DfnKiKevuxI8RtA1hCvaUxSzNa/lsSYLMFDlINp82Hp/XPfArnxhTn0QcAwetwSAxob5T4cbMm5GF0ZkE21WQ6PA81vZTAH+GKZId81doJdyGkkJIRhvhM4DM0hkVxcBZL+ud2qkeHvn9XrWA==;zekDADgykSr8oCxOWuu6WQ=="
 ---
 

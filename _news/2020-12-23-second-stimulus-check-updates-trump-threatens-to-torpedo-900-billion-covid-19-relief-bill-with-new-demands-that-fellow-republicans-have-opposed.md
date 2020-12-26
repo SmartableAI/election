@@ -146,7 +146,7 @@ related:
     provider:
       name: New York Daily News
       domain: nydailynews.com
-    quality: 81
+    quality: 91
     images:
       - url: "https://www.nydailynews.com/resizer/0ul6_DlUDSmHjuvUUVPjjaJwAQQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KTEZGCM3Z5F7VDNUIPZ3B4YYK4.jpg"
         width: 1200

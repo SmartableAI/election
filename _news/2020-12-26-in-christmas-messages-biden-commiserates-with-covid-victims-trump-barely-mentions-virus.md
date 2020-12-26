@@ -8,7 +8,7 @@ webUrl: "https://www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-
 ampWebUrl: "https://www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html?outputType=amp"
 type: article
-quality: 81
+quality: 91
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://www.nydailynews.com/resizer/0ul6_DlUDSmHjuvUUVPjjaJwAQQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KTEZGCM3Z5F7VDNUIPZ3B4YYK4.jpg"
