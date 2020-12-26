@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-biggest-political-scand
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
 type: article
 quality: 182
-heat: 342
+heat: 362
 published: true
 
 provider:
@@ -158,6 +158,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump: Rigging Of 2020 Election Was Final Step In Media's Effort To Overthrow The Will Of The People"
+    excerpt: "President Donald Trump released a video message on the 2020 election Tuesday night from the White House. PRESIDENT DONALD TRUMP: My fellow Americans, today I want to explain to you why I am so determined to pursue every legal and constitutional option available to stop the theft of the Presidential Election."
+    publishedDateTime: 2020-12-26T10:19:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/12/23/trump_rigging_of_2020_election_was_the_final_step_in_the_medias_effort_to_overthrow_the_will_of_the_people.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/530656.jpg"
+        width: 910
+        height: 682
         isCached: true
 
 secured: "sNpHSgJOnBsL/v+O4SP2X17Ah42MThBWJNT+jAId2h2DJ4rNIj0HIeyIADBLSr2uXuqDdi8cP5F3AB2bDU4EffmPoxAUmNT4j4Qik+zYbgLDxqN2R3CA/gGHZX1I3O08zpe0+EOgckz7vMx4V/FseP2ci+ghX3+0GFhB1DNKsIR0yWrDV1LhDG/EwvqiMnFhEnm8vGeyFnheuiyMC6R61VDQVJPIC/RVmUv3VKeizXM5ZVz+PBoWJnynBfwo1Ap2+GfgO/Z65SgJ//03RJqGuTkgEAkSJ6X5nLTXMcp+I6itkry/5JHn2itqZLGzpigxOezNK1U7dUjLeAAnpF1HlmZjZmAyyM1a84/ShXMhktU=;aLdU3RWLUXoY5Xduk4BHYw=="

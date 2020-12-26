@@ -159,6 +159,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump: Rigging Of 2020 Election Was Final Step In Media's Effort To Overthrow The Will Of The People"
+    excerpt: "President Donald Trump released a video message on the 2020 election Tuesday night from the White House. PRESIDENT DONALD TRUMP: My fellow Americans, today I want to explain to you why I am so determined to pursue every legal and constitutional option available to stop the theft of the Presidential Election."
+    publishedDateTime: 2020-12-26T10:19:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/12/23/trump_rigging_of_2020_election_was_the_final_step_in_the_medias_effort_to_overthrow_the_will_of_the_people.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/530656.jpg"
+        width: 910
+        height: 682
+        isCached: true
 
 secured: "0GVutx092EhqoG90lZn78lTthSxpoWYr17LWpy2LqNI3wiJ1TlDGDFu1wB+8c02bpUFSZFaWfgXmVdz8Ze4ohZyGzquBLLrR7f2f4ct+vakuHFya4Ar/sETWjkqNJ0w8Waz62s6TtuZbQcRcVWFZPQ38ijbw/c7GYbj8ofEduWEqgbN9LOnNrF+mR9pUMFKjWpyOZEOn4TBeXz6LiaCAmPa5bMiqO48D+GwqWk3qQl4UGA082hz3vkHzu3sGJ7vgh4ZPr63HBSC0nK/0Uz8P/Ahm+4fFhyzi7zi9UIKltgG4D2DM/4SPe2G2pRsALTAk+1Gucryyp/seP11/7AMwB6uulL+eNzoZXXbvaU0Sd+c=;kYXuIE5LY7cif0uHOnSK7g=="
 ---

@@ -1,33 +1,28 @@
 ---
 category: news
-title: "Jenna Ellis, Trump campaign legal adviser, pans calls for martial law"
-excerpt: "As Trump continues to make baseless claims that he won the presidential election in a \"magnificent landslide,\" Ellis' tweet is a high-profile indication from someone who's been publicly aligned with the president every step of the way that martial law is off the table. "
-publishedDateTime: 2020-12-24T14:07:29Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0BK8h0MMMSA/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0BK8h0MMMSA/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction"
-ampWebUrl: "https://www.foxnews.com/politics/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction.amp"
+title: "Trump: Rigging Of 2020 Election Was Final Step In Media's Effort To Overthrow The Will Of The People"
+excerpt: "President Donald Trump released a video message on the 2020 election Tuesday night from the White House. PRESIDENT DONALD TRUMP: My fellow Americans, today I want to explain to you why I am so determined to pursue every legal and constitutional option available to stop the theft of the Presidential Election."
+publishedDateTime: 2020-12-26T10:19:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2020/12/23/trump_rigging_of_2020_election_was_the_final_step_in_the_medias_effort_to_overthrow_the_will_of_the_people.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2020/12/23/trump_rigging_of_2020_election_was_the_final_step_in_the_medias_effort_to_overthrow_the_will_of_the_people.html#!"
 type: article
-quality: 175
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://assets.realclear.com/images/53/530656.jpg"
+    width: 910
+    height: 682
     isCached: true
 
 related:
@@ -58,6 +53,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Jenna Ellis, Trump campaign legal adviser, pans calls for martial law"
+    excerpt: "As Trump continues to make baseless claims that he won the presidential election in a \"magnificent landslide,\" Ellis' tweet is a high-profile indication from someone who's been publicly aligned with the president every step of the way that martial law is off the table. "
+    publishedDateTime: 2020-12-24T14:07:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0BK8h0MMMSA/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction"
+    ampWebUrl: "https://www.foxnews.com/politics/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
@@ -159,21 +170,7 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump: Rigging Of 2020 Election Was Final Step In Media's Effort To Overthrow The Will Of The People"
-    excerpt: "President Donald Trump released a video message on the 2020 election Tuesday night from the White House. PRESIDENT DONALD TRUMP: My fellow Americans, today I want to explain to you why I am so determined to pursue every legal and constitutional option available to stop the theft of the Presidential Election."
-    publishedDateTime: 2020-12-26T10:19:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/12/23/trump_rigging_of_2020_election_was_the_final_step_in_the_medias_effort_to_overthrow_the_will_of_the_people.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/530656.jpg"
-        width: 910
-        height: 682
-        isCached: true
 
-secured: "rGXo5evALTJRWpAqTFVXfDvcXyKR+9RKzt/bjxL1QAuM7IgwGomIlH08fUzxwOesdwP6M4jWpHtqtOTmLHJTzV9+ll33yyHVViFDoCHn90/LTm6uEejpWfeVt5pBLhdkeP+wK15E5nEmmjmdnlf0uNSpUzNIJdykTNBDzs7IKzoyVRMEMWkI/JdaJFpSY0c1BpyFx2SxhuuU2OsijnTFsadjN+yjRlMrY4dn5gtVYiTbUmsMA1EwbyELkGaQdhNqux+XOMt3n4W9w+clzZyamggV3l1kbiK4DshRm6bzuVTwcBg/Paze5IQ2rJ3KR2cJML7BWTqzwdoPN8P3+YBjBPP2Ukhnvwgh8QMDD5xTXmM=;rnEFgqwb9Fdt/oAmMSc2nQ=="
+secured: "W7JmAnoBiBLKoeH2Wp6aJXa0n3lpzU76EttexDxVRTHIEvPd/Vmddke0euUAByny7uCfoqaIrlBZ+uq9BVaDqUOLobEtvfNM6To7bqRkdvFu1kYScoWuo621bRox0OhixEdLFOHMlMmTCSUWyZ+/pBeengbGQXuo3Fks4QUbC3BsWBKPnqNdtBSeJsfhUobW2rTMb/9RQlMLPczSb5nNK7gsZl7FVgQw6abuHabPM7+h8uJ/V6FxuDgAW38mNSGi7j3uh0Lcwudx+tHb5RXNOzkZIGbyhGYl6SLVrDIwsUuHJqUNQxMec4qaDeNF3Vu5QSaYjCqf4O4FiQlfLfJgw3VQCKztg0ps/8Q+LGzgUb0=;ql3FlgMgnR2da4Xs3bOLTQ=="
 ---
 
