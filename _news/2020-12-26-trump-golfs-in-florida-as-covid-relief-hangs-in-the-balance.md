@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Trump golfs in Florida as COVID relief hangs in the balance"
-excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christ"
-publishedDateTime: 2020-12-25T11:24:00Z
-originalUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html"
-webUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html"
-ampWebUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christmas Eve golfing in Florida."
+publishedDateTime: 2020-12-25T20:22:00Z
+originalUrl: "https://www.businessinsider.com/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance-2020-12"
+webUrl: "https://www.businessinsider.com/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance-2020-12"
+ampWebUrl: "https://www.businessinsider.com/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance-2020-12?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Trump, ahead of FDA, says Moderna's COVID-19 vaccine has been approved"
@@ -94,6 +88,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump golfs in Florida as COVID relief hangs in the balance"
+    excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christ"
+    publishedDateTime: 2020-12-25T11:24:00Z
+    webUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump EPA retains ozone standards despite COVID-19 link to air pollution"
     excerpt: "The Trump administration on Wednesday finalized a 5-year-old air quality standard for ozone pollution despite calls by environmental groups to toughen the rule because people harmed by air pollution are more vulnerable to COVID-19."
@@ -246,17 +256,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Trump golfs in Florida as COVID relief hangs in the balance"
-    excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christmas Eve golfing in Florida."
-    publishedDateTime: 2020-12-25T20:22:00Z
-    webUrl: "https://www.businessinsider.com/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Trump's COVID bill delay leaves millions of desperate Americans in limbo"
     excerpt: "President Donald Trump's threat late Tuesday to veto the $892 billion coronavirus relief bill approved by Congress this week may delay aid for millions of families on the cusp of eviction and about to lose unemployment benefits."
     publishedDateTime: 2020-12-24T05:42:00Z
@@ -315,6 +314,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Kb0AhUIbmudMck/naFEqINwWfmj4+LHuQPU12Zzyc+cNS7aq9shB1zHfJPwCkBXndJPDlzd723M3NGuAhQPJbgMEtu/HaOIf65G3SdV9IkiAjVgLCoutnZh9PanchIVv7FBkto2aE+D0UVszeWPUYw9PBVou5hd6h6J15PqT7crF8me3tdv6BLwP4MHpNjqtrG0RGGcPHg4HqglsiRlABTK/93gEWipQu4BhfafOI328JdBgjo1FmCEZsr+kELF8hRr4453VKdcSK9JDHWissd1ilJ6PNa0Q6DydzE2OuVRoz+o8y/zzEvFqBGYWY2KGWhN/djgFYagRt+Tm6a7oD9+BUTlTLAEwar3z9O+Gs58=;x1YX7CP6XzzaPDvsHefrvA=="
+secured: "on2Nsb3fNPEwHJNBNuDcUWCKju7luZpLnEll5PGsk762OdTvXIdEhWV6vJqTrvsTy5F6DBoWvOIOHcEodbkRmlEDJmBiXnn0NUej6Ts/COWmC9UnMAVwnrFaUGP6onP+l9lbLB6YpgWefjRWEI9dN2n9QsELSj01X0fuS97nKBOtVMREm+eHVb/Nao/v/6sGB8S/iSq3Q4fVZ2seabCiY7NGwalOQ0j2YhCSWPINSCWmqsGPbzZv8xQPrkfTkxUbSsZn0iKcMSntvYj6qHyLCbq5l4LGpC03VcxYn8bvpYBsgLjd2Qzs+ssQQ19SDLGwnoQMWgVpJ/UWhn7h8Syiy6gfQsca6Wb8bWxnKbn6Pvg=;mo2yNcb2jGcHbUKdMJsO3Q=="
 ---
 

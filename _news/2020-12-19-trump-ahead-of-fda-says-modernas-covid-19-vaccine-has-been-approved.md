@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S1NF"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S1NF"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -241,6 +241,17 @@ related:
     webUrl: "https://www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12"
     ampWebUrl: "https://www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump golfs in Florida as COVID relief hangs in the balance"
+    excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christmas Eve golfing in Florida."
+    publishedDateTime: 2020-12-25T20:22:00Z
+    webUrl: "https://www.businessinsider.com/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance-2020-12?amp"
     type: article
     provider:
       name: Business Insider
