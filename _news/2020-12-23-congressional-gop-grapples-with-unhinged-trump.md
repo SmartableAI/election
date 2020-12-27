@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/congress-gop-trump-veto/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/congress-gop-trump-veto/index.html"
 type: article
 quality: 175
-heat: 435
+heat: 495
 published: true
 
 provider:
@@ -175,6 +175,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Jobless benefits run out as Trump resists signing the relief bill."
+    excerpt: "Two critical federal unemployment programs expired on Saturday as President Trump resisted signing a sweeping $900 billion aid package into law until lawmakers more than tripled the size of relief checks."
+    publishedDateTime: 2020-12-27T16:57:00Z
+    webUrl: "https://www.nytimes.com/2020/12/27/us/jobless-benefits-run-out-as-trump-resists-signing-the-relief-bill.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/27/us/jobless-benefits-run-out-as-trump-resists-signing-the-relief-bill.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/27/us/jobless-benefits-run-out-as-trump-resists-signing-the-relief-bill.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/26/realestate/26virus-briefing-stimulus/26virus-briefing-stimulus-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "‘Like a Hand Grasping’: Trump Appointees Describe the Crushing of the C.D.C."
     excerpt: "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, go public on the Trump administration’s manipulation of the agency."
     publishedDateTime: 2020-12-16T10:00:00Z
@@ -230,6 +246,34 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/d5/e6/10028d3d45e5b1a55db4eb16a90f/201224-kemp-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Edging closer to shutdown with Trump showing no signs of caving"
+    excerpt: "He is showing no signs whatsoever that he is going to sign it. NYT’s Emily Cochrane with more on the state of play TRUMP at 12:38 a.m.: “Increase payments to the people, get rid of the ‘pork’.” … at 12:36 a."
+    publishedDateTime: 2020-12-27T15:37:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2020/12/27/edging-closer-to-shutdown-with-trump-showing-no-signs-of-caving-491249"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ae/19/03a2d02343e693c6b8c46efc3b1e/201227-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Members of Congress to Trump: Sign stimulus bill"
+    excerpt: "\"The danger is he’ll be remembered for chaos and misery and erratic behavior if he allows this to expire,” one Republican senator says."
+    publishedDateTime: 2020-12-27T16:18:00Z
+    webUrl: "https://www.politico.com/news/2020/12/27/stimulus-bill-congress-trump-450835"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ce/73/9bc48fe949378f87eef55cc895e7/190910-pat-toomey-gty-773.jpg"
         width: 1160
         height: 773
         isCached: true

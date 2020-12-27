@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Joe Biden receives coronavirus vaccination"
-excerpt: "President-elect Joe Biden and incoming first lady Jill Biden received initial injections of the coronavirus vaccine on Monday in a show of support for the inoculation. “I’m doing this to demonstrate that people should be prepared when it’s available to take the vaccine,"
-publishedDateTime: 2020-12-21T20:57:00Z
-originalUrl: "https://www.politico.com/news/2020/12/21/joe-biden-receives-coronavirus-vaccination-449652"
-webUrl: "https://www.politico.com/news/2020/12/21/joe-biden-receives-coronavirus-vaccination-449652"
-ampWebUrl: "https://www.politico.com/amp/news/2020/12/21/joe-biden-receives-coronavirus-vaccination-449652"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/21/joe-biden-receives-coronavirus-vaccination-449652"
+title: "Some Republicans plan to challenge Biden's Electoral College victory. Here's what happened when Democrats challenged Bush"
+excerpt: "When Congress met to tally the results of the 2004 presidential election, then-Sen. Barbara Boxer stood alone on the Senate floor to object to President George W. Bush's reelection victory in Ohio over Democrat John Kerry, forcing the House and Senate to vote for only the second time in a century on"
+publishedDateTime: 2020-12-27T14:00:14Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2L-_U7TZJ20/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2L-_U7TZJ20/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/12/27/politics/electoral-college-objection-bush-boxer/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/27/politics/electoral-college-objection-bush-boxer/index.html"
 type: article
-quality: 135
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/3a/3e/15b2eb6a411c9a5bc9b5c85aa4f0/ap20352044803772-1.jpg"
-    width: 1160
-    height: 773
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222070325-02-us-capitol-1221-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -686,22 +685,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Some Republicans plan to challenge Biden's Electoral College victory. Here's what happened when Democrats challenged Bush"
-    excerpt: "When Congress met to tally the results of the 2004 presidential election, then-Sen. Barbara Boxer stood alone on the Senate floor to object to President George W. Bush's reelection victory in Ohio over Democrat John Kerry, forcing the House and Senate to vote for only the second time in a century on"
-    publishedDateTime: 2020-12-27T14:00:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2L-_U7TZJ20/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/27/politics/electoral-college-objection-bush-boxer/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/27/politics/electoral-college-objection-bush-boxer/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 150
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222070325-02-us-capitol-1221-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Russian hack ‘happened on Donald Trump’s watch when he wasn’t watching,’ Biden says."
     excerpt: "This assault happened on Donald Trump’s watch when he wasn’t watching,” Mr. Biden said at a year-end news conference “Even if he doesn’t take it seriously, I will. I’m disappointed by the response of President Trump."
     publishedDateTime: 2020-12-22T20:35:00Z
@@ -781,6 +764,22 @@ related:
       - url: "https://static.politico.com/de/3e/2ecd7d6241fe83c9e3f29ee1aade/gettyimages-1223644845.jpg"
         width: 4000
         height: 2665
+        isCached: true
+  - title: "Joe Biden receives coronavirus vaccination"
+    excerpt: "President-elect Joe Biden and incoming first lady Jill Biden received initial injections of the coronavirus vaccine on Monday in a show of support for the inoculation. “I’m doing this to demonstrate that people should be prepared when it’s available to take the vaccine,"
+    publishedDateTime: 2020-12-21T20:57:00Z
+    webUrl: "https://www.politico.com/news/2020/12/21/joe-biden-receives-coronavirus-vaccination-449652"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/21/joe-biden-receives-coronavirus-vaccination-449652"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/21/joe-biden-receives-coronavirus-vaccination-449652"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/3a/3e/15b2eb6a411c9a5bc9b5c85aa4f0/ap20352044803772-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden needs to dump protectionism"
     excerpt: "President-elect Joe Biden has indicated his intention to strengthen the economy, boost employment and rebuild relations with our international allies. Those aspirations will all be made easier if the incoming administration abandons a self-defeating regime of high tariffs,"
@@ -1089,6 +1088,6 @@ related:
         height: 773
         isCached: true
 
-secured: "s56KhGhwHyQV/NBVlU9GG5twxzE6zzrx5qiSrMWRhX+G3mzxCi9a/rOG6Bu3FUFqITJHuRTI4k5igU5yLUXZ/sB4TtevCVXu34MQMxk1vF/e7ScodpjOhfngmI+rquJ5LbLqrfgz7AeSqIIsOW2dY4UNg3wb3ZP9Ym/akTueKMf5v7daNA63bNNV1EmbM+Rt35MmZsEdarAn9ZdimIFQRQcobJOahjAvkGInSmDcPjghvMfsA/oFxczMUcP42k1kDtVZ4x8RQS5F9G9mP7+kfAJPyEpfLC8BGka1v6vXQG51M2Db5+iTnoiB1N1m1GUCCKAoFiAQiG/WcQj9qVBrNZMsMAK0wbEEPVNdyRKySqgGh2gKM4tkdqEbVoGSZqPmaKRV4TNh0oDhwILGqf1KExLMIaha1o2qtoKDJ0j179e64L/seAFrTN3SQnpZZjVWMb4NBVP8WB4XXv2m9UJtJFC9jGfBUoLpPZ4CLrjKkc+RKjr9LKqvAuxbWQF5VGIhugc8OWtt47yJ1+PGcMlJeQ==;THohfMXjM+QaPLPRCOnBWg=="
+secured: "EowTS/C94X+VcocyoiOCbcAmWx/NtEESXe2IL1CW2PNAfCHmRYeDetYItj5bcvqB/dIwe2LYyotv2ElRRoFymkEMjcz+JaTAuUpQGGzhRetX+/ei+BoCL0DTwNhs0d1fe7Q4g7PLxc5nJJ+Bp3FuFSfCQxgNic+3vPkRGNk+LB6HDNio1VcwFjWlXU1+vg/PHm5EHtB6f7mgPPuyxUM5iamMtmri6SfBYnEOBcviz0CIqKB8PCk/Y5p0Vzz8UcogpeAL8RS5DZkctSDhH1s6I53jmGYVWrtfAmnQd5E2tZYYtFyTJu2CRgfgrelGGIvWxTZPU4xBfzUjRFUXR6OMH+pZeQI3IQ+2hQVOu2m4yFE=;mOuQUruy/2iho2nQ0Aul9w=="
 ---
 

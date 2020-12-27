@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Joe Biden receives coronavirus vaccination"
-excerpt: "President-elect Joe Biden and incoming first lady Jill Biden received initial injections of the coronavirus vaccine on Monday in a show of support for the inoculation. “I’m doing this to demonstrate that people should be prepared when it’s available to take the vaccine,"
-publishedDateTime: 2020-12-21T20:57:00Z
-originalUrl: "https://www.politico.com/news/2020/12/21/joe-biden-receives-coronavirus-vaccination-449652"
-webUrl: "https://www.politico.com/news/2020/12/21/joe-biden-receives-coronavirus-vaccination-449652"
-ampWebUrl: "https://www.politico.com/amp/news/2020/12/21/joe-biden-receives-coronavirus-vaccination-449652"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/21/joe-biden-receives-coronavirus-vaccination-449652"
+title: "Sanders would like to see Biden pick more progressives for Cabinet"
+excerpt: "Bernie Sanders said Sunday he'd like to see more progressives in President-elect Joe Biden's Cabinet. Speaking on ABC's \"This Week,\" Sanders said, \"What I have said many, many times is the progressive movement itself probably is 35 or 40 percent of the Democratic Coalition."
+publishedDateTime: 2020-12-27T15:06:00Z
+originalUrl: "https://www.politico.com/news/2020/12/27/sanders-biden-cabinet-picks-450796"
+webUrl: "https://www.politico.com/news/2020/12/27/sanders-biden-cabinet-picks-450796"
 type: article
-quality: 135
+quality: 115
 heat: -1
 published: false
 
@@ -26,7 +24,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/3a/3e/15b2eb6a411c9a5bc9b5c85aa4f0/ap20352044803772-1.jpg"
+  - url: "https://static.politico.com/11/d7/374a97584b5c915219ab1e1d23ee/gettyimages-1230067454-1.jpg"
     width: 1160
     height: 773
     isCached: true
@@ -782,6 +780,22 @@ related:
         width: 4000
         height: 2665
         isCached: true
+  - title: "Joe Biden receives coronavirus vaccination"
+    excerpt: "President-elect Joe Biden and incoming first lady Jill Biden received initial injections of the coronavirus vaccine on Monday in a show of support for the inoculation. “I’m doing this to demonstrate that people should be prepared when it’s available to take the vaccine,"
+    publishedDateTime: 2020-12-21T20:57:00Z
+    webUrl: "https://www.politico.com/news/2020/12/21/joe-biden-receives-coronavirus-vaccination-449652"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/21/joe-biden-receives-coronavirus-vaccination-449652"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/21/joe-biden-receives-coronavirus-vaccination-449652"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/3a/3e/15b2eb6a411c9a5bc9b5c85aa4f0/ap20352044803772-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden needs to dump protectionism"
     excerpt: "President-elect Joe Biden has indicated his intention to strengthen the economy, boost employment and rebuild relations with our international allies. Those aspirations will all be made easier if the incoming administration abandons a self-defeating regime of high tariffs,"
     publishedDateTime: 2020-12-23T13:24:00Z
@@ -1074,21 +1088,7 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Sanders would like to see Biden pick more progressives for Cabinet"
-    excerpt: "Bernie Sanders said Sunday he'd like to see more progressives in President-elect Joe Biden's Cabinet. Speaking on ABC's \"This Week,\" Sanders said, \"What I have said many, many times is the progressive movement itself probably is 35 or 40 percent of the Democratic Coalition."
-    publishedDateTime: 2020-12-27T15:06:00Z
-    webUrl: "https://www.politico.com/news/2020/12/27/sanders-biden-cabinet-picks-450796"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/11/d7/374a97584b5c915219ab1e1d23ee/gettyimages-1230067454-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
-secured: "s56KhGhwHyQV/NBVlU9GG5twxzE6zzrx5qiSrMWRhX+G3mzxCi9a/rOG6Bu3FUFqITJHuRTI4k5igU5yLUXZ/sB4TtevCVXu34MQMxk1vF/e7ScodpjOhfngmI+rquJ5LbLqrfgz7AeSqIIsOW2dY4UNg3wb3ZP9Ym/akTueKMf5v7daNA63bNNV1EmbM+Rt35MmZsEdarAn9ZdimIFQRQcobJOahjAvkGInSmDcPjghvMfsA/oFxczMUcP42k1kDtVZ4x8RQS5F9G9mP7+kfAJPyEpfLC8BGka1v6vXQG51M2Db5+iTnoiB1N1m1GUCCKAoFiAQiG/WcQj9qVBrNZMsMAK0wbEEPVNdyRKySqgGh2gKM4tkdqEbVoGSZqPmaKRV4TNh0oDhwILGqf1KExLMIaha1o2qtoKDJ0j179e64L/seAFrTN3SQnpZZjVWMb4NBVP8WB4XXv2m9UJtJFC9jGfBUoLpPZ4CLrjKkc+RKjr9LKqvAuxbWQF5VGIhugc8OWtt47yJ1+PGcMlJeQ==;THohfMXjM+QaPLPRCOnBWg=="
+secured: "flvxlZf+SVTq1mpAH/OJV3M9ymgfEd6v8BjLtZtRSsjjmb1QeEFrJqS+GBsu8NwYOdmN/DMpa6+dBTQVib2BgSHyu+iCIOGtksY/ENvnYNDRb6piLNqC+UcBQdOp167bFqfTlCpALHjbWLOGpg299Fp85kkiF7n5tBosw/S6Q7PayNjs4VFEjMnmLYFG9gWbiapx6zseSl2mlKAwJVUJ0Pqoz6vNSW7qVNs33Rfbgf/M9Y1x70HzT8ODlJDjJZapFeuGsyxu0NjwaSVYw1d9x7n2WS/eeaPbZFPct8fSlORxZT/salzF/TyebMyd0lX2SlClNohjx4f6nriyDFTgZUrPTAKasoUVuia+WwD8dGI=;jCN+GYFJzSBkDB+dhP874g=="
 ---
 

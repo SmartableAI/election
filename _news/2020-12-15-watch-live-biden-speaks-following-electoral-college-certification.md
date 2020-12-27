@@ -684,6 +684,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Some Republicans plan to challenge Biden's Electoral College victory. Here's what happened when Democrats challenged Bush"
+    excerpt: "When Congress met to tally the results of the 2004 presidential election, then-Sen. Barbara Boxer stood alone on the Senate floor to object to President George W. Bush's reelection victory in Ohio over Democrat John Kerry, forcing the House and Senate to vote for only the second time in a century on"
+    publishedDateTime: 2020-12-27T14:00:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2L-_U7TZJ20/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/27/politics/electoral-college-objection-bush-boxer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/27/politics/electoral-college-objection-bush-boxer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222070325-02-us-capitol-1221-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Russian hack ‘happened on Donald Trump’s watch when he wasn’t watching,’ Biden says."
     excerpt: "This assault happened on Donald Trump’s watch when he wasn’t watching,” Mr. Biden said at a year-end news conference “Even if he doesn’t take it seriously, I will. I’m disappointed by the response of President Trump."
     publishedDateTime: 2020-12-22T20:35:00Z
@@ -1055,6 +1071,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/58/e8/f21539b847f3be77329d92b6f9b0/20201223-donald-trump-ap-773-2.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Sanders would like to see Biden pick more progressives for Cabinet"
+    excerpt: "Bernie Sanders said Sunday he'd like to see more progressives in President-elect Joe Biden's Cabinet. Speaking on ABC's \"This Week,\" Sanders said, \"What I have said many, many times is the progressive movement itself probably is 35 or 40 percent of the Democratic Coalition."
+    publishedDateTime: 2020-12-27T15:06:00Z
+    webUrl: "https://www.politico.com/news/2020/12/27/sanders-biden-cabinet-picks-450796"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/11/d7/374a97584b5c915219ab1e1d23ee/gettyimages-1230067454-1.jpg"
         width: 1160
         height: 773
         isCached: true

@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Congress passes coronavirus relief bill, but Trump criticizes deal"
-excerpt: "President Donald Trump had been expected to sign the bill in days, but he then called for bigger payments. He didn't directly say he would veto it."
-publishedDateTime: 2020-12-23T11:50:00Z
-originalUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-12-22-covid-live-updates-vaccine-news-n1252058"
-webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-12-22-covid-live-updates-vaccine-news-n1252058"
-ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1252058"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1252058"
+title: "Members of Congress to Trump: Sign stimulus bill"
+excerpt: "\"The danger is he’ll be remembered for chaos and misery and erratic behavior if he allows this to expire,” one Republican senator says."
+publishedDateTime: 2020-12-27T16:18:00Z
+originalUrl: "https://www.politico.com/news/2020/12/27/stimulus-bill-congress-trump-450835"
+webUrl: "https://www.politico.com/news/2020/12/27/stimulus-bill-congress-trump-450835"
 type: article
-quality: 135
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +24,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436937/201220-covid-live-blog-social-only_430f30c4e08497ebcf945e5d49426121.jpg"
-    width: 2500
-    height: 1250
+  - url: "https://static.politico.com/ce/73/9bc48fe949378f87eef55cc895e7/190910-pat-toomey-gty-773.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -143,6 +141,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/18/world/18ZELENSKY1/18ZELENSKY1-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Congress passes coronavirus relief bill, but Trump criticizes deal"
+    excerpt: "President Donald Trump had been expected to sign the bill in days, but he then called for bigger payments. He didn't directly say he would veto it."
+    publishedDateTime: 2020-12-23T11:50:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-12-22-covid-live-updates-vaccine-news-n1252058"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1252058"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1252058"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436937/201220-covid-live-blog-social-only_430f30c4e08497ebcf945e5d49426121.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "Christmas comes early for Trump allies with more pardons"
     excerpt: "Christmas came early for some of President Donald Trump's friends and associates as he issued a second wave of pardons and commutations late Wednesday. Here is what we're watching this Christmas Eve."
@@ -264,21 +278,7 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Members of Congress to Trump: Sign stimulus bill"
-    excerpt: "\"The danger is he’ll be remembered for chaos and misery and erratic behavior if he allows this to expire,” one Republican senator says."
-    publishedDateTime: 2020-12-27T16:18:00Z
-    webUrl: "https://www.politico.com/news/2020/12/27/stimulus-bill-congress-trump-450835"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/ce/73/9bc48fe949378f87eef55cc895e7/190910-pat-toomey-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
-secured: "tirF48EKMcDbA5p7cEFbJJHas9GcC/UYBgHHkk0Tgx2EZrXcTzxvCevCoVBaUlv1woM5SixQcfhXsk3gq8fRVRv1l+CIDa7699q1aADYIgQB+vpTYu4t0I5GL+P5c56FfVkGkz77ChhDZnrs5IFgLiPhLZbuvXrWfLaWyHumDWYkZu+iYqtC+VcmF5ILKymqPz2rA5n+VogAmHfnrCqLeYGF/3cKF8eXkq3uRkYAzSgnWYk9St3sMoyiNI2RsX1S/irbfLuKzPokZ2HF1KKw+toMl6hhdEcDKri9Ak2ExQd3O6w9PL3lunW/xXldCwG2uqF6k2VPQIysDeyu68uCbHbWZ9BleMtUWUfJjzN9xbo=;a5UYCMLh/QH2fa6lKDBnWg=="
+secured: "OjXrItRo2rmb425K84amgWWHBpZeY3tRzXW4SF2ANMKv2iVfIjq+7Y61B25Uf37goIBwLE3MS0aVtrMs82FK+6oHeKA7OZKfqoqWAOXUV9R/x7bPRj8cw7+vnEqVV67NiEXcKbJx4K9Vp4uKZkheGflyqFVVIF2xbbVrHZwadm+fbp+rfkgxjMa44VYU1JbC7A4/6h8Yh9DwKeeR3HGuQIRO1/aHI1gr7lPVAZU9h2PFN06OmoCtWKzYoq0Hx2aF9vcXrKcg6OyQOy2ocMucUGei+fVwpO5TZSIZgwJuOQglSJuPAgMkoqf5EZawEQJZfgCbSVmpkBT4uxEqtwVGXCYYtMlxrrUDpb5MowwKZtQ=;Er1UBxwKnf2NL0ibgspUQQ=="
 ---
 

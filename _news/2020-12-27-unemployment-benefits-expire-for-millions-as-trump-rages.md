@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Unemployment Benefits Expire for Millions as Trump Rages"
-excerpt: "Unemployment benefits for millions of Americans expired overnight as President Donald Trump refuses to sign an end-of-year COVID relief and spending bill that had been considered a done deal before his objections."
-publishedDateTime: 2020-12-27T05:34:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-12-27/unemployment-benefits-expire-for-millions-as-trump-rages"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-12-27/unemployment-benefits-expire-for-millions-as-trump-rages"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-27/unemployment-benefits-expire-for-millions-as-trump-rages?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-27/unemployment-benefits-expire-for-millions-as-trump-rages?context=amp"
+title: "Unemployment benefits expire for millions as Trump rages"
+excerpt: "President Trump refuses to sign an end-of-year COVID-19 relief and spending bill that had been considered a done deal before his objections."
+publishedDateTime: 2020-12-27T15:23:00Z
+originalUrl: "https://www.latimes.com/politics/story/2020-12-27/unemployment-benefits-expire-for-millions-as-trump-rages"
+webUrl: "https://www.latimes.com/politics/story/2020-12-27/unemployment-benefits-expire-for-millions-as-trump-rages"
+ampWebUrl: "https://www.latimes.com/politics/story/2020-12-27/unemployment-benefits-expire-for-millions-as-trump-rages?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-27/unemployment-benefits-expire-for-millions-as-trump-rages?_amp=true"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Los Angeles Times
+  domain: latimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/39893c2/2147483647/strip/true/crop/4775x3119+0+32/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F20%2F8c%2Fc6cc34b64224b8744e96d569cbb2%2Felection-2020-trump-62374.jpg"
+    width: 320
+    height: 209
+    isCached: true
 
 related:
   - title: "Pence echoes Trump on election loss in West Palm speech to conservative youths"
@@ -1408,6 +1414,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "0eCPNEllTSocSNoo5KhPMT/StyVLBkOPUzZRt1uv3iRueOpesDlZizGX7HBTClVf3uQn2WCwq/sbcW80OCXJ4MW45hMNI5lBkn5hyB0ENLYoJ87iYQLggHhLkJU65ea49vWm+JExIUbEmrjylS/ohqHSG694c4lAgX6cNggmbVoKjZLHSAnZdXQ6aNK4/NK8PbX65p3JM4OnHJGKaJ0hmZuE9WNX2uuLkE5dMmKgb1M6LH2z4tGb8nOJDBW/0/iXgudcfrMHbh7brZ2gKgnt/Con7F0RXVVLIzBMJpKm7My6AlHjpHZIcj1czqejCi7be1taSvRaFOdNL/Mej+pCrZCnxCR6Cy/EL17MWY6+U0yDr/+fuzGRrTlIaAQKm0Aw5unHiCbfz8GoN66PpMGp9EQWFLCRVd0m2aSjMRa9sZzPV3XH+l12aW8aQxfcSpsvoQrIjZlb0YUBMd1Rbq4TkrnsIY0h2kYINCu+7GEKxGKBHZrRv7bSL8Kn6zXE8BX4SyWKcElNADE4hdgqH6oyiQ==;NWqpbhixioSQ3ePUiVE2dQ=="
+secured: "7wa2SCwa6PloV4l8vH63OHfdfrKinslEeKc7mz9HBjMAH5VLD+nEMXdiAqBrgqVg+mFpSBIhf5GpyE84BzyDYpey4+Ude3QVr3zpbHre6BYy2DiH+Ox1yQWY+/MqSmcCft+M8Q78cL1DT+8CQd8yixmnsvB9jp3SonzkGqjAGj1Pj/9JSxWynTP7w5Q1BpTs3AZDnEJddTC/GWhLUsYGu0qoJC3VPq+9HhcwJTKTi3LMSAEo/aZ2cncKb243IOLyY9oB54A9BSMC63M+EnD4PvFfSl+hIl9hd6w5I0L+xUz7jYO/oV+mQR03wBG7PcTm/oi9GpLgL66EI0B1P4OB6PWQlMhfrdF2vi37j10miU0=;NR+PRs7FNjqSINdvWug0fA=="
 ---
 

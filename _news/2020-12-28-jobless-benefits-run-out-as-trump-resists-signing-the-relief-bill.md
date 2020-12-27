@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Congress passes coronavirus relief bill, but Trump criticizes deal"
-excerpt: "President Donald Trump had been expected to sign the bill in days, but he then called for bigger payments. He didn't directly say he would veto it."
-publishedDateTime: 2020-12-23T11:50:00Z
-originalUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-12-22-covid-live-updates-vaccine-news-n1252058"
-webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-12-22-covid-live-updates-vaccine-news-n1252058"
-ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1252058"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1252058"
+title: "Jobless benefits run out as Trump resists signing the relief bill."
+excerpt: "Two critical federal unemployment programs expired on Saturday as President Trump resisted signing a sweeping $900 billion aid package into law until lawmakers more than tripled the size of relief checks."
+publishedDateTime: 2020-12-27T16:57:00Z
+originalUrl: "https://www.nytimes.com/2020/12/27/us/jobless-benefits-run-out-as-trump-resists-signing-the-relief-bill.html"
+webUrl: "https://www.nytimes.com/2020/12/27/us/jobless-benefits-run-out-as-trump-resists-signing-the-relief-bill.html"
+ampWebUrl: "https://www.nytimes.com/2020/12/27/us/jobless-benefits-run-out-as-trump-resists-signing-the-relief-bill.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/27/us/jobless-benefits-run-out-as-trump-resists-signing-the-relief-bill.amp.html"
 type: article
 quality: 135
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436937/201220-covid-live-blog-social-only_430f30c4e08497ebcf945e5d49426121.jpg"
-    width: 2500
-    height: 1250
+  - url: "https://static01.nyt.com/images/2020/12/26/realestate/26virus-briefing-stimulus/26virus-briefing-stimulus-facebookJumbo.jpg"
+    width: 1050
+    height: 549
     isCached: true
 
 related:
@@ -144,6 +144,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Congress passes coronavirus relief bill, but Trump criticizes deal"
+    excerpt: "President Donald Trump had been expected to sign the bill in days, but he then called for bigger payments. He didn't directly say he would veto it."
+    publishedDateTime: 2020-12-23T11:50:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-12-22-covid-live-updates-vaccine-news-n1252058"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1252058"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1252058"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436937/201220-covid-live-blog-social-only_430f30c4e08497ebcf945e5d49426121.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Christmas comes early for Trump allies with more pardons"
     excerpt: "Christmas came early for some of President Donald Trump's friends and associates as he issued a second wave of pardons and commutations late Wednesday. Here is what we're watching this Christmas Eve."
     publishedDateTime: 2020-12-24T13:59:00Z
@@ -175,22 +191,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/27/lens/26dc-stimulus-sub/27weekend-briefing-stimulus-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Jobless benefits run out as Trump resists signing the relief bill."
-    excerpt: "Two critical federal unemployment programs expired on Saturday as President Trump resisted signing a sweeping $900 billion aid package into law until lawmakers more than tripled the size of relief checks."
-    publishedDateTime: 2020-12-27T16:57:00Z
-    webUrl: "https://www.nytimes.com/2020/12/27/us/jobless-benefits-run-out-as-trump-resists-signing-the-relief-bill.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/27/us/jobless-benefits-run-out-as-trump-resists-signing-the-relief-bill.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/27/us/jobless-benefits-run-out-as-trump-resists-signing-the-relief-bill.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/26/realestate/26virus-briefing-stimulus/26virus-briefing-stimulus-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "‘Like a Hand Grasping’: Trump Appointees Describe the Crushing of the C.D.C."
     excerpt: "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, go public on the Trump administration’s manipulation of the agency."
@@ -279,6 +279,6 @@ related:
         height: 773
         isCached: true
 
-secured: "tirF48EKMcDbA5p7cEFbJJHas9GcC/UYBgHHkk0Tgx2EZrXcTzxvCevCoVBaUlv1woM5SixQcfhXsk3gq8fRVRv1l+CIDa7699q1aADYIgQB+vpTYu4t0I5GL+P5c56FfVkGkz77ChhDZnrs5IFgLiPhLZbuvXrWfLaWyHumDWYkZu+iYqtC+VcmF5ILKymqPz2rA5n+VogAmHfnrCqLeYGF/3cKF8eXkq3uRkYAzSgnWYk9St3sMoyiNI2RsX1S/irbfLuKzPokZ2HF1KKw+toMl6hhdEcDKri9Ak2ExQd3O6w9PL3lunW/xXldCwG2uqF6k2VPQIysDeyu68uCbHbWZ9BleMtUWUfJjzN9xbo=;a5UYCMLh/QH2fa6lKDBnWg=="
+secured: "XNDhAP1MhlfkH7bDaQTR95JqgbKBaVz1WX1miefP0R/VB52o8n097F7m+6vhUisiDlquMn2Zbpz78rxI6mFuKA9GV/CaFoTvSAJs87+ic3HptPuC5zoyVSx5ACwkhCyDe+2/52w+Xo+StMIfzdaK0h+D8XNrRxDSAJnFsinEp4Vkwyd/AcjPWVpV1o4G2NgjsIw8iD7Er9TNDCAQTEpYjXBkRT0IHfhxGNJPycsD8zWo9wFUT524diBwgQQPfVJZwJNfj/8KdN3I4jf0jRvDz89V7C1Vr4BLt+ff/qpvr8ASrQmTYFfxsdyAeqLwaTzapQTU8un96ECYYKzZekCmczRUHLUl9b+QxIYuYxrRMQ0=;vueBMbV1XidtKjxaIpU74w=="
 ---
 

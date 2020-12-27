@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Congress passes coronavirus relief bill, but Trump criticizes deal"
-excerpt: "President Donald Trump had been expected to sign the bill in days, but he then called for bigger payments. He didn't directly say he would veto it."
-publishedDateTime: 2020-12-23T11:50:00Z
-originalUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-12-22-covid-live-updates-vaccine-news-n1252058"
-webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-12-22-covid-live-updates-vaccine-news-n1252058"
-ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1252058"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1252058"
+title: "Edging closer to shutdown with Trump showing no signs of caving"
+excerpt: "He is showing no signs whatsoever that he is going to sign it. NYT’s Emily Cochrane with more on the state of play TRUMP at 12:38 a.m.: “Increase payments to the people, get rid of the ‘pork’.” … at 12:36 a."
+publishedDateTime: 2020-12-27T15:37:00Z
+originalUrl: "https://www.politico.com/newsletters/playbook/2020/12/27/edging-closer-to-shutdown-with-trump-showing-no-signs-of-caving-491249"
+webUrl: "https://www.politico.com/newsletters/playbook/2020/12/27/edging-closer-to-shutdown-with-trump-showing-no-signs-of-caving-491249"
 type: article
-quality: 135
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +24,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436937/201220-covid-live-blog-social-only_430f30c4e08497ebcf945e5d49426121.jpg"
-    width: 2500
-    height: 1250
+  - url: "https://static.politico.com/ae/19/03a2d02343e693c6b8c46efc3b1e/201227-trump-ap-773.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -144,6 +142,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Congress passes coronavirus relief bill, but Trump criticizes deal"
+    excerpt: "President Donald Trump had been expected to sign the bill in days, but he then called for bigger payments. He didn't directly say he would veto it."
+    publishedDateTime: 2020-12-23T11:50:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-12-22-covid-live-updates-vaccine-news-n1252058"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1252058"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1252058"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436937/201220-covid-live-blog-social-only_430f30c4e08497ebcf945e5d49426121.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Christmas comes early for Trump allies with more pardons"
     excerpt: "Christmas came early for some of President Donald Trump's friends and associates as he issued a second wave of pardons and commutations late Wednesday. Here is what we're watching this Christmas Eve."
     publishedDateTime: 2020-12-24T13:59:00Z
@@ -250,20 +264,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Edging closer to shutdown with Trump showing no signs of caving"
-    excerpt: "He is showing no signs whatsoever that he is going to sign it. NYT’s Emily Cochrane with more on the state of play TRUMP at 12:38 a.m.: “Increase payments to the people, get rid of the ‘pork’.” … at 12:36 a."
-    publishedDateTime: 2020-12-27T15:37:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2020/12/27/edging-closer-to-shutdown-with-trump-showing-no-signs-of-caving-491249"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/ae/19/03a2d02343e693c6b8c46efc3b1e/201227-trump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Members of Congress to Trump: Sign stimulus bill"
     excerpt: "\"The danger is he’ll be remembered for chaos and misery and erratic behavior if he allows this to expire,” one Republican senator says."
     publishedDateTime: 2020-12-27T16:18:00Z
@@ -279,6 +279,6 @@ related:
         height: 773
         isCached: true
 
-secured: "tirF48EKMcDbA5p7cEFbJJHas9GcC/UYBgHHkk0Tgx2EZrXcTzxvCevCoVBaUlv1woM5SixQcfhXsk3gq8fRVRv1l+CIDa7699q1aADYIgQB+vpTYu4t0I5GL+P5c56FfVkGkz77ChhDZnrs5IFgLiPhLZbuvXrWfLaWyHumDWYkZu+iYqtC+VcmF5ILKymqPz2rA5n+VogAmHfnrCqLeYGF/3cKF8eXkq3uRkYAzSgnWYk9St3sMoyiNI2RsX1S/irbfLuKzPokZ2HF1KKw+toMl6hhdEcDKri9Ak2ExQd3O6w9PL3lunW/xXldCwG2uqF6k2VPQIysDeyu68uCbHbWZ9BleMtUWUfJjzN9xbo=;a5UYCMLh/QH2fa6lKDBnWg=="
+secured: "C+biw+QOLZOtf2i9Um9O/1MU9a6aEY23F/tM3+gOD5YhfaRCiFZSRxS58NouFxPeJ+2GIhP3+wAK4oFOVidU2erk0e10BSnSxwFU/3rvEyuBpLO9dNk57Ra+qQ7/yNBbjgkvnWpeaNhyyx6b15brfBRSRackDdicRMBTe1w6MvOgXpDMQ8H5X7Si02pWbNtawx+LURyzBB6ww3Wr928wiTLEz0yRfluZNosNueCkpJnbbT9gbQgwxet9aL7LUlOC6qvDf8EqTtAn687m7S+58GBiGHmKoWTwqVMa5ExGVg8ycXZEi572upZdVzdEhD7YxHQxIz38JurbRYAxtcmxtBDI5k1LxSSrZUiEDw6Oqd4=;pvrbzO9ae7PwCU7K8rNzHw=="
 ---
 
