@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trum
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trump-meeting/index.html"
 type: article
 quality: 208
-heat: 1548
+heat: 1568
 published: true
 
 provider:
@@ -829,6 +829,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/23/us/politics/23dc-veto/23dc-veto-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Dec. 27 — President-elect Joe Biden, in his own words"
+    excerpt: "Meet the Press looks back at President-elect Joe Biden's interviews with NBC News and speeches on the campaign trail. Kristen Welker, White House correspondent, Gov. Chris Sununu (R-N.H.) and former Sen."
+    publishedDateTime: 2020-12-27T18:08:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/dec-27-president-elect-joe-biden-in-his-own-words-98383429557"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98383429557"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98383429557"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/MTP_full_dec_27th.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "First U.S. vaccines, Electoral College affirms Biden win and Barr is out"
     excerpt: "Health care workers get first vaccines as Covid death toll tops 300,000. With the prick of a needle, the battle against Covid-19 took what could be a decisive turn Monday as the f"

@@ -173,6 +173,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump ally Geraldo Rivera: The president acting 'like an entitled frat boy' since election loss"
+    excerpt: "I’ve supported @realDonaldTrump who was assailed by leftist creeps,\" Rivera said. \"Sadly he lost a bitterly contested election.\""
+    publishedDateTime: 2020-12-27T18:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/27/geraldo-rivera-trump-acting-like-entitled-frat-boy/4052853001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4052853001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052853001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 128
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/76104be2-e2e6-41d7-8798-a5fc8cde93c4-XXX_775148827TW024_Geraldo_Rive.JPG?auto=webp&crop=1993,1121,x1,y193&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Senate Republican uses hearing to pursue baseless election fraud claims as Trump tweets approval"
     excerpt: "A Senate Republican committee chairman used a hearing Wednesday to pursue baseless election fraud claims as Trump tweeted approval."
     publishedDateTime: 2020-12-16T21:32:00Z

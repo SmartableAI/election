@@ -45,6 +45,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "White House aides reportedly stepped in to keep Trump from calling for $2,000 stimulus checks fearing it could torpedo relief negotiations"
+    excerpt: "The Post reported that White House aides talked Trump out of calling for larger direct payments than Republicans seek in stimulus talks."
+    publishedDateTime: 2020-12-18T04:09:00Z
+    webUrl: "https://www.businessinsider.com/trumps-stimulus-checks-congress-republicans-democrats-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trumps-stimulus-checks-congress-republicans-democrats-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-stimulus-checks-congress-republicans-democrats-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/5fd0b6b9240ebd00126bddd9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "QfCv8YFukRyT/76ulCrkSD4ggRvw19ttUuC5sxSsY81JSQgh95ZJIkf5bLFHBJWZTnb0taQuL6K6E3ceF6WLkJ8uujmoKIOpHjTqAjs2zCeo+NGCI/OLbypGQKtqKaGIBOmHKTIZyTk8dHQeTK32s8yt2JJGSOnRMisNtBPmPRVmW5E/j663okhc+RPflGPqeSrfmO7f0+uDMG5ksVVbN9Z055McrKXr99RXuFYn5mMvc3B2t1ORdvUnpGYgh1jJQAWxvzPBsEB99I5rExMYNYaUPfbwuxRntbmUpPLi5v9QXueNWEnCT8MQyb4N9D5eKC+8QnsdkHPV+d+3LWPkasDkvCWtNS4Z20N88et+3XaCYX5hfOaoZcW45/lBc8/Xd0f0aveT6MkLf1gAtTtQ1MVZkNFLSR9s5NcCa7ol9FUtW0L3TsjOk4OFWx7JNtaqSACbujQyg9MszjF5dJMZhKzxi5u7KqrFAZnI0NGBY5Fr/r8tJh8+TNKIWZwbKRjiQgzdB5CXbSvEzSGcU3vFIA==;3LgcJzZXprAyoTW91xb/ow=="
 ---

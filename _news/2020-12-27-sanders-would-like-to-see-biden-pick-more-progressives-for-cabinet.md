@@ -844,6 +844,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Dec. 27 — President-elect Joe Biden, in his own words"
+    excerpt: "Meet the Press looks back at President-elect Joe Biden's interviews with NBC News and speeches on the campaign trail. Kristen Welker, White House correspondent, Gov. Chris Sununu (R-N.H.) and former Sen."
+    publishedDateTime: 2020-12-27T18:08:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/dec-27-president-elect-joe-biden-in-his-own-words-98383429557"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98383429557"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98383429557"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/MTP_full_dec_27th.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "First U.S. vaccines, Electoral College affirms Biden win and Barr is out"
     excerpt: "Health care workers get first vaccines as Covid death toll tops 300,000. With the prick of a needle, the battle against Covid-19 took what could be a decisive turn Monday as the f"
     publishedDateTime: 2020-12-15T13:36:00Z
@@ -1089,6 +1105,6 @@ related:
         height: 773
         isCached: true
 
-secured: "flvxlZf+SVTq1mpAH/OJV3M9ymgfEd6v8BjLtZtRSsjjmb1QeEFrJqS+GBsu8NwYOdmN/DMpa6+dBTQVib2BgSHyu+iCIOGtksY/ENvnYNDRb6piLNqC+UcBQdOp167bFqfTlCpALHjbWLOGpg299Fp85kkiF7n5tBosw/S6Q7PayNjs4VFEjMnmLYFG9gWbiapx6zseSl2mlKAwJVUJ0Pqoz6vNSW7qVNs33Rfbgf/M9Y1x70HzT8ODlJDjJZapFeuGsyxu0NjwaSVYw1d9x7n2WS/eeaPbZFPct8fSlORxZT/salzF/TyebMyd0lX2SlClNohjx4f6nriyDFTgZUrPTAKasoUVuia+WwD8dGI=;jCN+GYFJzSBkDB+dhP874g=="
+secured: "uWnbDvUZtdeCOXALTeSAKaWmAr6AXepsoeJwKdGp+/M3S/7wBL7GA35Tj2gl6psTCsMtcv2Qezl5mBZRqFWqZN0cwm2rhF4Pb0VMDPA8H5XR4iqdp93hGDPydez5j8KBDMwXcndxpwXumRFqfsPU2NzpkoJnxHYhfldqAWgKE7kF4iNWzAPu47p7pk2I7IpeI5XiNq0eBznE3oZdiUaQRCFwPcsNM67sfb3UMx95R+Vy8OG9/npQAxI2LGZZPCJ/gawYQjV++lv/ykbgm18HjPdketlA8+FQk/J3hl38NJkrH75nR1ZT6UfWwW/Ptx0VpbmK9EMAi/oEpCc19Mlb8tcNZ+B8XyWtXPxNDC3nT3byaw1mASmZSz3W0eD50Op8mgFZZp/9e5gg8lhXICLxRzD5ZKuKA6IXGERNDSoqJAbo2644t46wH27KQvivbhesmkuSnHdyJhgLD4J5jjcgdScNH7Riqc0DBRRtSYqinM3wzNvuz/iW3iad6rjAd/xyb+uTM1ouC1+E6ksEguxd+g==;dOnwocxXcn3W2qOm23bT7g=="
 ---
 

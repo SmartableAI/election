@@ -846,6 +846,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Dec. 27 — President-elect Joe Biden, in his own words"
+    excerpt: "Meet the Press looks back at President-elect Joe Biden's interviews with NBC News and speeches on the campaign trail. Kristen Welker, White House correspondent, Gov. Chris Sununu (R-N.H.) and former Sen."
+    publishedDateTime: 2020-12-27T18:08:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/dec-27-president-elect-joe-biden-in-his-own-words-98383429557"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98383429557"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98383429557"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/MTP_full_dec_27th.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Inside the Right-Wing Media Bubble, Where the Myth of a Trump Win Lives On"
     excerpt: "The Electoral College has affirmed Biden’s victory. That doesn’t mean that Trump-friendly news outlets have accepted it."
     publishedDateTime: 2020-12-15T10:00:00Z

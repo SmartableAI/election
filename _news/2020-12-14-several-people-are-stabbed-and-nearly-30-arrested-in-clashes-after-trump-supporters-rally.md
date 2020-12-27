@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-13/nearly-30-arre
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-13/nearly-30-arrested-after-clashes-at-trump-supporters-rally?_amp=true"
 type: article
 quality: 116
-heat: 136
+heat: 156
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "White House aides reportedly stepped in to keep Trump from calling for $2,000 stimulus checks fearing it could torpedo relief negotiations"
+    excerpt: "The Post reported that White House aides talked Trump out of calling for larger direct payments than Republicans seek in stimulus talks."
+    publishedDateTime: 2020-12-18T04:09:00Z
+    webUrl: "https://www.businessinsider.com/trumps-stimulus-checks-congress-republicans-democrats-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trumps-stimulus-checks-congress-republicans-democrats-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-stimulus-checks-congress-republicans-democrats-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/5fd0b6b9240ebd00126bddd9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "EXCLUSIVE: Lawmakers ask FBI and Federal Election Commission to investigate Jared Kushner-backed Trump campaign company after Insider's reporting"
     excerpt: "In a letter obtained by Insider, two lawmakers told the FBI and the FEC that the only way to know if the Trump campaign violated federal laws is for the agencies to open an investigation."
     publishedDateTime: 2020-12-19T11:29:00Z

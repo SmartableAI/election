@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Why Donald Trump is already the 2024 GOP frontrunner"
+    excerpt: "Poll of the week: A new Gallup poll finds that 87% of self-identified Republican voters approve of President Donald Trump's job performance.\n    \n"
+    publishedDateTime: 2020-12-27T13:30:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Kmk8N2CSQRA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/27/politics/trump-2024-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/27/politics/trump-2024-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216111257-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Dominion Voting Systems CEO doesn't rule out legal action against Trump "
     excerpt: "The chief executive officer of Dominion Voting Systems on Thursday did not rule out taking legal action against President Donald Trump as the election technology company has been the target of conspiracy theories about voter fraud after Trump's election loss to President-elect Joe Biden.\n    \n"
     publishedDateTime: 2020-12-24T15:32:17Z
@@ -279,6 +295,6 @@ related:
         height: 773
         isCached: true
 
-secured: "XNDhAP1MhlfkH7bDaQTR95JqgbKBaVz1WX1miefP0R/VB52o8n097F7m+6vhUisiDlquMn2Zbpz78rxI6mFuKA9GV/CaFoTvSAJs87+ic3HptPuC5zoyVSx5ACwkhCyDe+2/52w+Xo+StMIfzdaK0h+D8XNrRxDSAJnFsinEp4Vkwyd/AcjPWVpV1o4G2NgjsIw8iD7Er9TNDCAQTEpYjXBkRT0IHfhxGNJPycsD8zWo9wFUT524diBwgQQPfVJZwJNfj/8KdN3I4jf0jRvDz89V7C1Vr4BLt+ff/qpvr8ASrQmTYFfxsdyAeqLwaTzapQTU8un96ECYYKzZekCmczRUHLUl9b+QxIYuYxrRMQ0=;vueBMbV1XidtKjxaIpU74w=="
+secured: "TKMA2znnufNcSnEAuvTYh/ZvKp/gFoj8hxwAPcTJSltRKmCbN1+3Js+koT7C7bG7bPAbygVoElekwsquLfUXkANYR5cSklfHKqli6rxYjnWHZx7Gf27EFi+aUAY/240vUX6QxDB+KJ/MXCfe0O/1vCA13FZsaKuHmZV89qxzOnYSRGypXd3MsihkAlio0vAIo37MVzhpG2QrFHpwFS1miMF8Sy336uw8xe8OTPFi3UBukWyGB34G+HbBusdLFpJr4PxVrNfKbyHwWcqmnVd81UuNlwTrm0oLGQ6lzXJQbNOxOCymme6YwwvYR1BwSSZysQO4speoAA0hNEsUuw4uQrl4dKl705ORGT26PUzdmThBXjKndWz5mbuIptpJ3ow0WC/AXvRNXYCIgojVzZ1q1vwhPBGel5GO+zfIMQiVJfX1ZZkBBWItRxDx1Kr63rG6BeA4KHpW7ZE3t/ZpGYmNjmt18l9b38QOv+Bt8zl1+SV3GFO6i3HhXuv6d+MascUhNCBowNE78f/d2IJeqworjQ==;YhMhK4K8Dy54R2heJBym+A=="
 ---
 

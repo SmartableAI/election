@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/biden-holiday-remarks/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/biden-holiday-remarks/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Fauci shares Biden's concern that 'darkest days' may be ahead in Covid-19 fight"
+    excerpt: "Dr. Anthony Fauci on Sunday expressed concern that the worst may still come in America's battle against Covid-19, agreeing with President-elect Joe Biden's recent assessment that the \"darkest days\" in fighting the virus lie ahead.\n    \n"
+    publishedDateTime: 2020-12-27T16:30:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-40nN89SPKY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/27/politics/anthony-fauci-biden-coronavirus-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/27/politics/anthony-fauci-biden-coronavirus-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921155827-anthony-fauci-0630-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "ViVHQUeuqHdnHJeE5C/jc8jtSWJzSQ1HCgHqcOOE34vr1Vcy38w9MSnFLPcjEyOpkdJMzCKleETkmx1gUX5AymL0Vp5oG2gQqhmUSIj9ghezpp8ZOAqfzbpUX7w/wQtqqeZYSVQvEjYze6yMn4ayLPjcrspoHwOgZNkdJC0WAE8i6FEW+RxX1kJI3o5+5J4IKs+s9JIgYadmQd29zzv8oHd+U0htsGo7QPs6Jx+Fz2GEAhy3q+EyXTneTYBn8tKOaSx/gf2nWTnEBuqToCIV/Af8kqMRCUIz8vOTfwWGrcTZIDGq78UBuS8/u+1v8yCcQ9NP8O5Fr0udpghOuzbm0O2/Vdb7JQnHmFb5ufyRO8U=;hw6H/THUXNdG9n/oOMKKBg=="
 ---

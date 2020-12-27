@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3936091001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3936091001"
 type: article
 quality: 114
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Trump administration weighing legal immunity for Saudi crown prince accused in assassination plot"
+    excerpt: "Riyadh has asked the State Department to shield Mohammed bin Salman from a U.S. lawsuit by a former Saudi intelligence officer who claims he was targeted days after Jamal Khashoggi’s death in 2018."
+    publishedDateTime: 2020-12-21T18:16:00Z
+    webUrl: "https://www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HC5LGNSBUQI6XC6AVYKVX3SK74.jpg&w=1440"
+        width: 1280
+        height: 862
+        isCached: true
 
 secured: "RxSH9Z2MTiV0ebEwbZg/0mzBDayYDHG9QvoW+izTFkKHu7r3hYpcz9UiuVoImXOUPHfBTMKWP9LhPO7SY3ZlIw8Cwyb5rf+cRheMpxuuQ21fW/dh6BVkwdqijyD0WhO0Fx+RWI8NFVmOPuC3Hbb7HpAgsZqnvRGRk2pe/vQ9WwRnn9ZcPEgPk35KZkg68aVnJDlqA3GHGIwUXGy4xXudhBZiM/UZdbQd3YlhMJqAAGDsQ8LaKuMFFVHLyCLS8cLsuyP0nvb15sEgdnmg3zOv19eelyUEuE22H2C1P+gdp/nAxWJwGv0JoGTnz6+7ct7jjOVbRl9zfZrvbjw3ZIcJoTb5ZJk9SpH/1N7gWwYTC/k=;o7dACq5W/uPYuvHQZHjZ6w=="
 ---
