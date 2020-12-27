@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "LIVE UPDATES: Biden calls on Trump to sign coronavirus stimulus bill"
+    excerpt: "Follow for the latest updates on the Biden transition."
+    publishedDateTime: 2020-12-27T05:04:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IoA4acIfHJI/live-updates-biden-trump-coronavirus-stimulus-bill-12-27-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-trump-coronavirus-stimulus-bill-12-27-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-trump-coronavirus-stimulus-bill-12-27-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dec892cf-55a2-48f3-bca2-8d3d9fc2a685/335939ce-c070-478d-bc04-d9e49d325bf1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Harris giving Biden 'spotlight' on coronavirus relief talks: Deroy Murdoch"
     excerpt: "Vice-president-elect Kamala Harris is giving President-elect Joe Biden the “spotlight” on coronavirus relief discussions, Fox News contributor Deroy Murdock said on Thursday."
     publishedDateTime: 2020-12-24T17:16:00Z

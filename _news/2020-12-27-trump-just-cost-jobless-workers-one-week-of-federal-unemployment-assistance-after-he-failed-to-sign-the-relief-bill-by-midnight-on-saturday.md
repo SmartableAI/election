@@ -1,33 +1,33 @@
 ---
 category: news
-title: "'Devastating consequences': Biden blasts Trump for not signing COVID relief bill before unemployment aid lapses"
-excerpt: "If Trump doesn't sign the bill Saturday, it would effectively cut the extension in unemployment aid from 11 to 10 weeks."
-publishedDateTime: 2020-12-27T00:01:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2020/12/26/biden-criticism-trump-stimulus-package-unemployment-aid-expires/4049687001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2020/12/26/biden-criticism-trump-stimulus-package-unemployment-aid-expires/4049687001/"
-ampWebUrl: "https://amp.usatoday.com/amp/4049687001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4049687001"
+title: "Trump just cost jobless workers one week of federal unemployment assistance after he failed to sign the relief bill by midnight on Saturday"
+excerpt: "The president's push for $2,000 stimulus checks has threatened the federal unemployment benefits included in the bill."
+publishedDateTime: 2020-12-27T05:13:00Z
+originalUrl: "https://www.businessinsider.com/trump-just-cost-jobless-workers-one-week-of-unemployment-benefits-2020-12"
+webUrl: "https://www.businessinsider.com/trump-just-cost-jobless-workers-one-week-of-unemployment-benefits-2020-12"
+ampWebUrl: "https://www.businessinsider.com/trump-just-cost-jobless-workers-one-week-of-unemployment-benefits-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-just-cost-jobless-workers-one-week-of-unemployment-benefits-2020-12?amp"
 type: article
-quality: 120
+quality: 91
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/78fb4e3d-b8ac-49b6-96f6-feb144f2bde4-AP_Biden.jpg?auto=webp&crop=5111,2875,x122,y196&format=pjpg&width=1200"
+  - url: "https://i.insider.com/5fe7ffcfedf8920018093c82?width=1200&format=jpeg"
     width: 1200
-    height: 675
+    height: 600
     isCached: true
 
 related:
@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 832
         isCached: true
+  - title: "'Devastating consequences': Biden blasts Trump for not signing COVID relief bill before unemployment aid lapses"
+    excerpt: "If Trump doesn't sign the bill Saturday, it would effectively cut the extension in unemployment aid from 11 to 10 weeks."
+    publishedDateTime: 2020-12-27T00:01:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/26/biden-criticism-trump-stimulus-package-unemployment-aid-expires/4049687001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4049687001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4049687001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/78fb4e3d-b8ac-49b6-96f6-feb144f2bde4-AP_Biden.jpg?auto=webp&crop=5111,2875,x122,y196&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump golfs in Florida, rails against House GOP and election results on first day of his winter vacation as COVID relief hangs in the balance"
     excerpt: "Trump had no events on his public schedule on the first day of his winter vacation Thursday, but traveled to his Palm Beach golf club, where he was spotted by CNN cameras on the links. Reporters were given no details of his schedule for the day,"
     publishedDateTime: 2020-12-24T23:52:00Z
@@ -109,22 +125,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump just cost jobless workers one week of federal unemployment assistance after he failed to sign the relief bill by midnight on Saturday"
-    excerpt: "The president's push for $2,000 stimulus checks has threatened the federal unemployment benefits included in the bill."
-    publishedDateTime: 2020-12-27T05:13:00Z
-    webUrl: "https://www.businessinsider.com/trump-just-cost-jobless-workers-one-week-of-unemployment-benefits-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-just-cost-jobless-workers-one-week-of-unemployment-benefits-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-just-cost-jobless-workers-one-week-of-unemployment-benefits-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/5fe7ffcfedf8920018093c82?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump is holding up the COVID-19 stimulus package with demands for $2,000 checks — but there are enough votes in Congress to override a veto"
     excerpt: "President Trump called the $900 billion package — passed by Congress earlier this week after months of negotiations — a \"disgrace\" on Tuesday."
     publishedDateTime: 2020-12-23T12:16:00Z
@@ -142,6 +142,6 @@ related:
         height: 600
         isCached: true
 
-secured: "voOKVbAtnpfzeV8oocjSP1rxtlc6za51wJLKkn+YsmrTxNJG/3FQD/Sr4PIJl+Nj5Nf824VDeiSkl3wcXwXplun+n+f6HtmSRklS+DUnx4IN8FZvbB2Q2UnOBuVbIUfnV3IJjI16jq/sU/GniY60HlUSbKG8AlOgFdyM9gZi6B2TAvdYfnT7YIrBjnDp8w+I1az6Qz6B/jvcftHUPC1M4jhe86favcxSgPk4KfCYR+PtH8eHFzzk4Ln7bkCFfLhTMTVP3pp0yokr2dSbjH6/TEymu+u9EIKEpgdWPOsGLkCjwaYIxex3pd1kJMydO/8gLjrLljnzw1MGtgfCXyd/PNJYj7x4OLgB0z6uo9K1uS93yXPdGQJ30FOai5pFg6CBS0WVNqE3ouTQ8WiIR3rSfOS/Yf/wVTYQin4y35sRZBTzOkxtgxp1pQJdJZ/EKqCLMtobXde4F+2LCmJYV/rUo2azWYdkQPxGjnOr8j4PBM/DEmHoefKYZHcLLx519Cw6N1OorYLtCSSR3tYxImwsRA==;qG5zCRvsWksHaveUdhW0Nw=="
+secured: "mAAbMKlMVAdCQ9a+2L/qyDyW7eA+r6pr4Z5AdSFgK/B3EcPc6qu7qHFZcPx/gyFs436enrI+l1+b/PY1YAT7ezJq6Qm9puJVf6/EGp9lcctWVJvCu/Kg9rmJ5vV8B0TLw4nQJW+L7LbGhA+9SMqdvaeHeoLefS4vmdS1f1EPaEhTF32EgTqV9dtR5itAKGtsiiz8yRxe3azI3vA3KqKiwC9URX9vJg9aNN5fBtkp2kLqA3JX/lcJJx+7s56nQXGQizca9EcrR28IAILzEC0ygya8EGloz8jZyFIN+ksyISv0M6BixKx9Ddi1+2hKkUewxHKvZsHweRLVf4ApE6b80yN4Ja27iweHcp4oudqacwQ=;5k3imXWbj2yjiVRpcel04Q=="
 ---
 

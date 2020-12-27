@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Joe Biden urges Trump to sign COVID-19 relief bill"
-excerpt: "President-elect Joe Biden urged President Trump Saturday to sign the coronavirus relief bill approved by Congress last week, warning that “this abdication of responsibility has devastating"
-publishedDateTime: 2020-12-26T17:57:00Z
-originalUrl: "https://nypost.com/2020/12/26/joe-biden-urges-trump-to-sign-covid-19-relief-bill/"
-webUrl: "https://nypost.com/2020/12/26/joe-biden-urges-trump-to-sign-covid-19-relief-bill/"
-ampWebUrl: "https://nypost.com/2020/12/26/joe-biden-urges-trump-to-sign-covid-19-relief-bill/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/26/joe-biden-urges-trump-to-sign-covid-19-relief-bill/amp/"
+title: "LIVE UPDATES: Biden calls on Trump to sign coronavirus stimulus bill"
+excerpt: "Follow for the latest updates on the Biden transition."
+publishedDateTime: 2020-12-27T05:04:16Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IoA4acIfHJI/live-updates-biden-trump-coronavirus-stimulus-bill-12-27-2020"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IoA4acIfHJI/live-updates-biden-trump-coronavirus-stimulus-bill-12-27-2020"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-trump-coronavirus-stimulus-bill-12-27-2020.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-trump-coronavirus-stimulus-bill-12-27-2020.amp"
 type: article
-quality: 150
+quality: 190
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201226-biden-covid-aid.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dec892cf-55a2-48f3-bca2-8d3d9fc2a685/335939ce-c070-478d-bc04-d9e49d325bf1/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -43,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "LIVE UPDATES: Biden calls on Trump to sign coronavirus stimulus bill"
-    excerpt: "Follow for the latest updates on the Biden transition."
-    publishedDateTime: 2020-12-27T05:04:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IoA4acIfHJI/live-updates-biden-trump-coronavirus-stimulus-bill-12-27-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-trump-coronavirus-stimulus-bill-12-27-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-trump-coronavirus-stimulus-bill-12-27-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dec892cf-55a2-48f3-bca2-8d3d9fc2a685/335939ce-c070-478d-bc04-d9e49d325bf1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "President-elect Joe Biden’s dogs wish Americans a Merry Christmas"
     excerpt: "President-elect Joe Biden’s dogs Champ and Major wished Americans a merry Christmas on Thursday — and gave the public a glimpse of what the White House is in for next month."
@@ -108,7 +95,23 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Joe Biden urges Trump to sign COVID-19 relief bill"
+    excerpt: "President-elect Joe Biden urged President Trump Saturday to sign the coronavirus relief bill approved by Congress last week, warning that “this abdication of responsibility has devastating"
+    publishedDateTime: 2020-12-26T17:57:00Z
+    webUrl: "https://nypost.com/2020/12/26/joe-biden-urges-trump-to-sign-covid-19-relief-bill/"
+    ampWebUrl: "https://nypost.com/2020/12/26/joe-biden-urges-trump-to-sign-covid-19-relief-bill/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/26/joe-biden-urges-trump-to-sign-covid-19-relief-bill/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201226-biden-covid-aid.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "LFYGxQzKqCLFGEsW5mTwhgmHnljJTBcIO5k1K4wO8mjDZY4fVnhkgRrH7swROJoMI3Sd2fJ0465c5lEaZ/3wM7Jzy/JEL5B609uL67IzQow1fgOWG9k56tNDaL3Xom3YQKFMgrEUNcqUgZKkS21OdByGHtAZMG2h9Dvn+0t6xYH0oYAuu+tI+YAkWQcdQBBcAlBirZYSFXWoZZuByNuo/ccTA/QhMB89jl0UVZqVcWg6q9rZQnlDh+rb39Zv6sCFpI80WHXS+c3CYoQFxF9TKZurSb00a0OKsfMkJ36otTDrGWAbRBoto45VZ+trO8s/TCxXGUaxY6/bIh6CQxsscWBQU1t/AHnOQtSsjyYPc8A=;BnE0Z8pbJ+FHbDKeLJoxCQ=="
+secured: "aAeGUh0gzAkKDuxRekdvJUoS0U9N6U9v6q016Se8wXoAaAQDpd7NyhCuwUrV9DsH0C1rZ5dNdNhcJO99ksAhS2GplgDIi/FaXLNhN6COMRq06/BOUoliQbT5vOSsTliWTMB/RGRYskUWRMB/QzWzjcVvJTQWw9FVn8G0zqzSvaoiLnKsSrKfrA94lqhmvU4eNFgL3tJXd0n2zQ0rDkQatzQ35Isn+Poy9vbckPMMXCa0rYpRyTyhONFmvDNnfrN5d+p+fnbulv6DjC5x8JrpVIoyg2oiuuflC3aR5dv8B7QggNDflRPT1PeIDUuSNymOjK9bya6fbyjkG7h7qFIXEAxwby5B/i8GXHQ25d8mO7M=;KE+uER017BdX26zYYURmeQ=="
 ---
 

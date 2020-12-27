@@ -125,6 +125,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump just cost jobless workers one week of federal unemployment assistance after he failed to sign the relief bill by midnight on Saturday"
+    excerpt: "The president's push for $2,000 stimulus checks has threatened the federal unemployment benefits included in the bill."
+    publishedDateTime: 2020-12-27T05:13:00Z
+    webUrl: "https://www.businessinsider.com/trump-just-cost-jobless-workers-one-week-of-unemployment-benefits-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-just-cost-jobless-workers-one-week-of-unemployment-benefits-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-just-cost-jobless-workers-one-week-of-unemployment-benefits-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/5fe7ffcfedf8920018093c82?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "lJyliok6QTenhCjukz4cV7Kr6o2x9554iMhETiQNYIO+LS7pL+CcUGCNbnqmZtbSfXkr8wshxJ8fqibDcbfZvUZ2u/ymthHvNEZQeAOADUjSPzAgjsJL4mLL3s2FZljBX6SDq3OMAgJsvpbM8zAXF6drJAE36bdGxdFFFzP9g5waXJwqycslsxyhXlAAXu7G7RWk69S+ZeS44rPcrI9wvgWo+72PGOYsZE+pPpAU29ooRpbYV1IhFqEi3e2V/a533VQQho74OnoBIPu54gzxofa9CivFtrTHA1TCJaCjJUq0AtIYBz5z57diB7Mc1fSDm3+fMrGDuFFzeZEo8wH9VVxseMasFTIO8h+dpFF9/+4=;nae6OJfARd4+Fjf6tpK6dg=="
 ---
