@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Lindsey Graham says Trump is 'more determined than ever' to secure $2,000 checks as COVID-19 relief bill lingers in limbo"
+    excerpt: "Sen. Lindsey Graham tweeted that President Donald \"more determined than ever to increase stimulus payments to $2000 per person.\""
+    publishedDateTime: 2020-12-26T15:00:00Z
+    webUrl: "https://www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5fe69a46edf8920018093c24?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Even as he urges caution on COVID-19, Pence flies to Florida to speak at large event"
     excerpt: "Vice President Mike Pence has urged Americans to step up precautions, but he flew to Florida to speak to thousands at an indoor summit held by a conservative youth group."
     publishedDateTime: 2020-12-22T22:16:00Z

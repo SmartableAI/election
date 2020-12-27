@@ -1,22 +1,22 @@
 ---
 category: news
-title: "COVID relief bill flown to Florida, where Trump went golfing"
-excerpt: "President's insistence on $2,000 checks to most Americans, rather than the $600 Congress agreed to, has left the future of any relief payments up in the air."
-publishedDateTime: 2020-12-26T12:44:00Z
-originalUrl: "https://www.cbsnews.com/news/covid-relief-bill-trump-flown-florida-golfing/"
-webUrl: "https://www.cbsnews.com/news/covid-relief-bill-trump-flown-florida-golfing/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
+title: "Lindsey Graham says Trump is 'more determined than ever' to secure $2,000 checks as COVID-19 relief bill lingers in limbo"
+excerpt: "Sen. Lindsey Graham tweeted that President Donald \"more determined than ever to increase stimulus payments to $2000 per person.\""
+publishedDateTime: 2020-12-26T15:00:00Z
+originalUrl: "https://www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12"
+webUrl: "https://www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12"
+ampWebUrl: "https://www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12?amp"
 type: article
-quality: 125
-heat: 285
-published: true
+quality: 100
+heat: -1
+published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/25/bce91f76-ba94-4a92-a5c7-37babe774881/thumbnail/1200x630/b296c2307f373634d121d20813368967/gettyimages-1230290576.jpg"
+  - url: "https://i.insider.com/5fe69a46edf8920018093c24?width=1200&format=jpeg"
     width: 1200
-    height: 630
+    height: 600
     isCached: true
 
 related:
+  - title: "COVID relief bill flown to Florida, where Trump went golfing"
+    excerpt: "President's insistence on $2,000 checks to most Americans, rather than the $600 Congress agreed to, has left the future of any relief payments up in the air."
+    publishedDateTime: 2020-12-26T12:44:00Z
+    webUrl: "https://www.cbsnews.com/news/covid-relief-bill-trump-flown-florida-golfing/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/25/bce91f76-ba94-4a92-a5c7-37babe774881/thumbnail/1200x630/b296c2307f373634d121d20813368967/gettyimages-1230290576.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump claims to be 'working tirelessly' but leaves Covid relief bill in disarray"
     excerpt: "President flies to Florida after throwing own party ‘under a bus’ while Democrats seize chance to push for $2,000 payments"
     publishedDateTime: 2020-12-24T14:51:00Z
@@ -95,22 +111,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Lindsey Graham says Trump is 'more determined than ever' to secure $2,000 checks as COVID-19 relief bill lingers in limbo"
-    excerpt: "Sen. Lindsey Graham tweeted that President Donald \"more determined than ever to increase stimulus payments to $2000 per person.\""
-    publishedDateTime: 2020-12-26T15:00:00Z
-    webUrl: "https://www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 100
-    images:
-      - url: "https://i.insider.com/5fe69a46edf8920018093c24?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Even as he urges caution on COVID-19, Pence flies to Florida to speak at large event"
     excerpt: "Vice President Mike Pence has urged Americans to step up precautions, but he flew to Florida to speak to thousands at an indoor summit held by a conservative youth group."
     publishedDateTime: 2020-12-22T22:16:00Z
@@ -158,6 +158,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ys8vC60x2HB+hgM6MmBOC8d1Tb9PaRKaeQZcrULEfYzpvgqdpBvljsJ2zZXhJ7H3czp3jySKa/68NE1FOKY9irDRSI5L8lph+OfXH26YUSv0IvEAzxkmxi/N1ZDZ64hmoPwj1GxG/BTYcmRsEnZfv0NoqyhVg+/xUZfW1ViJaZgnsOKlFGPjGHxX/kdYJ+vkOtSKhysdi84Du17yOHjpHMNsgofdMng0D2D1U8YPiVBm8SO8by0X2xq8OffgjRs81X5lpotx1RIzi4URW/cBiLOoBDVVxItvNZm8SyVjKiksXXhFJD32kNXI5sgxB4DOenamc4+tsSKvrE3+EdqhY2sHejlfUXCrMa8+AwhTbpYZ4OuJaxjVf459jt7+jC0wvBR1VyEdb9S74nOUQIHhnV0BTxXCLHlpV4XrhToWhCH5e6iQgBQVIbbjkWqZLYrJtkgj7bDyifuCdikhe2qsYFUeB5CS6KZeJA11XYwlvSj2a5wVR5622GCih+T3liO9sb/qPtKqM8ZyKcjU6T4Zgg==;mFsaUYOH063XdCKxx19oXA=="
+secured: "8uigh1HNUwzsmu0eNw4gVdCyF66cIU6JZBjIlmDeiw8PDynN1VNCfAyIkDO4IXdESOuPRwuRCAoIOpsXbleIBGdoYp7e1pxEJ1OigbZoaHNDEWQCzxALizFr09z81d/myK7EGohjvhgJqM3sAk/aHBKDPkXkB5tlazMVoZyQjC34+R9B3ZHZUWaGEgMfx/dWKRNx5nr33YILDHW5Ej70ebbNsisNCfrKBVS9C/veDDgrAZbEIxpdBSL/KQH8BnJH5LFw0Znnz24lBzAkifSZMbNMJgQyXyluqg7lZr1s618VxyKcstfmxpTuIQW0LkM0jvP/fQbRSX0ikhFtF1GHIYmrUBemA9QJzkR+z0+YJRE=;pq2rWXVUn6UVEFwEQbv2gw=="
 ---
 
