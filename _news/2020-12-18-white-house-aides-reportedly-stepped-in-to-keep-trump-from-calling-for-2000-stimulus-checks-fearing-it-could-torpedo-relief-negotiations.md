@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 862
         isCached: true
+  - title: "Trump supporter and Fox News star Geraldo Rivera said the president is acting like an 'entitled frat boy' since losing the election"
+    excerpt: "Rivera also took aim at conservative attorney Sidney Powell, calling her a \"pathetic lawyer\" who is \"working to destroy the legacy of Donald Trump.\""
+    publishedDateTime: 2020-12-27T07:17:00Z
+    webUrl: "https://www.businessinsider.com/geraldo-rivera-said-trump-acting-entitled-frat-boy-since-election-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/geraldo-rivera-said-trump-acting-entitled-frat-boy-since-election-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/geraldo-rivera-said-trump-acting-entitled-frat-boy-since-election-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fe82c51a644880018193658?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
+        isCached: true
   - title: "Trump slams US fashion magazines for not giving Melania a single cover shoot while he has been in office"
     excerpt: "Trump supporters have long taken issue with US magazines for granting Michelle Obama 12 cover shoots, but giving Melania Trump none."
     publishedDateTime: 2020-12-26T16:54:00Z

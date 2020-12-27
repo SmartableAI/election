@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Trump issues flurry of pardons, commutations"
-excerpt: "President Donald Trump on Wednesday issued a flurry of pardons and commutations to a slew of controversial figures with ties to his administration."
-publishedDateTime: 2020-12-23T00:28:00Z
-originalUrl: "https://abcnews.go.com/US/trump-issues-flurry-pardons-commutations/story?id=74869694"
-webUrl: "https://abcnews.go.com/US/trump-issues-flurry-pardons-commutations/story?id=74869694"
-ampWebUrl: "https://abcnews.go.com/amp/US/trump-issues-flurry-pardons-commutations/story?id=74869694"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-issues-flurry-pardons-commutations/story?id=74869694"
+title: "Unemployment Benefits Expire for Millions as Trump Rages"
+excerpt: "Unemployment benefits for millions of Americans expired overnight as President Donald Trump refuses to sign an end-of-year COVID relief and spending bill that had been considered a done deal before his objections."
+publishedDateTime: 2020-12-27T05:34:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2020-12-27/unemployment-benefits-expire-for-millions-as-trump-rages"
+webUrl: "https://www.usnews.com/news/politics/articles/2020-12-27/unemployment-benefits-expire-for-millions-as-trump-rages"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-27/unemployment-benefits-expire-for-millions-as-trump-rages?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-27/unemployment-benefits-expire-for-millions-as-trump-rages?context=amp"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/US/presidential-transition--donald-trump-unprecedented-05-gty-llr-201222_1608680228174_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Pence echoes Trump on election loss in West Palm speech to conservative youths"
@@ -558,6 +552,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545496791&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL1NO"
         width: 818
         height: 545
+        isCached: true
+  - title: "Trump issues flurry of pardons, commutations"
+    excerpt: "President Donald Trump on Wednesday issued a flurry of pardons and commutations to a slew of controversial figures with ties to his administration."
+    publishedDateTime: 2020-12-23T00:28:00Z
+    webUrl: "https://abcnews.go.com/US/trump-issues-flurry-pardons-commutations/story?id=74869694"
+    ampWebUrl: "https://abcnews.go.com/amp/US/trump-issues-flurry-pardons-commutations/story?id=74869694"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-issues-flurry-pardons-commutations/story?id=74869694"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/presidential-transition--donald-trump-unprecedented-05-gty-llr-201222_1608680228174_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Ivanka Trump helps load food into cars of drivers in need"
     excerpt: "Presidential daughter Ivanka Trump helped load boxes of food into the cars of drivers who showed up at a South Florida drive-through food distribution event for those in need"
@@ -1397,18 +1407,7 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Unemployment Benefits Expire for Millions as Trump Rages"
-    excerpt: "Unemployment benefits for millions of Americans expired overnight as President Donald Trump refuses to sign an end-of-year COVID relief and spending bill that had been considered a done deal before his objections."
-    publishedDateTime: 2020-12-27T05:34:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-27/unemployment-benefits-expire-for-millions-as-trump-rages"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-27/unemployment-benefits-expire-for-millions-as-trump-rages?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-27/unemployment-benefits-expire-for-millions-as-trump-rages?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
-secured: "d+3twyOCjlAZ9/s8NC4uhVhSC5fYlyOXtVLlUH/qumxprZPQy8UpcPRFkNWRu8FmQf2sNcXMT7L5ArCgVQ02v7LINQ8mmS8vt+g81Vrf3zptDT1chIa+1t/jqeIZWms4Y3H+ldnSdQYJnSaJZmRCa090i1ojahFgh9yua5qz5amrpdyB8uNehTrWVZQ3cZtHLgb3OaOM1bh8PldQgZ1w5DEDv2yFZ3D73oRu6hWx6kdlHCScEEgt3WfF/3tdnciHupIwqSrfluQ81p+4UUtpDE8AWFQmJ50LhcEV8+yJRZhzRNdPYS5YvU/wJPvbzk+f2XuJqQ+K/O3UjF0khLk6UoODxGm+9LoNneU6dP7Erp4rXmsxzMgc1p1gcrVxe6nTgbYSKkt5idk8groTTJ2l65tKLF+IsmzpR5EeOi7Y2D1/aeLbr5+nA46OC7yWG6NmB5xM5hlfxsmXwtsxchonTMvSqg9s17zl9pQfxpb5QP1O7IUYxH35MYR0hbRIVPoofPDd0fj8hIMGE71EqIDmCg==;AFon5GJ21gCorrbdXld1Sw=="
+secured: "0eCPNEllTSocSNoo5KhPMT/StyVLBkOPUzZRt1uv3iRueOpesDlZizGX7HBTClVf3uQn2WCwq/sbcW80OCXJ4MW45hMNI5lBkn5hyB0ENLYoJ87iYQLggHhLkJU65ea49vWm+JExIUbEmrjylS/ohqHSG694c4lAgX6cNggmbVoKjZLHSAnZdXQ6aNK4/NK8PbX65p3JM4OnHJGKaJ0hmZuE9WNX2uuLkE5dMmKgb1M6LH2z4tGb8nOJDBW/0/iXgudcfrMHbh7brZ2gKgnt/Con7F0RXVVLIzBMJpKm7My6AlHjpHZIcj1czqejCi7be1taSvRaFOdNL/Mej+pCrZCnxCR6Cy/EL17MWY6+U0yDr/+fuzGRrTlIaAQKm0Aw5unHiCbfz8GoN66PpMGp9EQWFLCRVd0m2aSjMRa9sZzPV3XH+l12aW8aQxfcSpsvoQrIjZlb0YUBMd1Rbq4TkrnsIY0h2kYINCu+7GEKxGKBHZrRv7bSL8Kn6zXE8BX4SyWKcElNADE4hdgqH6oyiQ==;NWqpbhixioSQ3ePUiVE2dQ=="
 ---
 

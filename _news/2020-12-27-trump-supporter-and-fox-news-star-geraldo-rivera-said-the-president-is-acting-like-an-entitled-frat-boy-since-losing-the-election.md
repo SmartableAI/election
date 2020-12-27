@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Trump raised the idea of imposing martial law to overturn the election in a White House meeting, according to reports"
-excerpt: "In a White House meeting Friday, deploying US troops to re-run the election was one of several wild ideas touted, reported multiple outlets."
-publishedDateTime: 2020-12-20T12:14:00Z
-originalUrl: "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12"
-webUrl: "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12"
-ampWebUrl: "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12?amp"
+title: "Trump supporter and Fox News star Geraldo Rivera said the president is acting like an 'entitled frat boy' since losing the election"
+excerpt: "Rivera also took aim at conservative attorney Sidney Powell, calling her a \"pathetic lawyer\" who is \"working to destroy the legacy of Donald Trump.\""
+publishedDateTime: 2020-12-27T07:17:00Z
+originalUrl: "https://www.businessinsider.com/geraldo-rivera-said-trump-acting-entitled-frat-boy-since-election-2020-12"
+webUrl: "https://www.businessinsider.com/geraldo-rivera-said-trump-acting-entitled-frat-boy-since-election-2020-12"
+ampWebUrl: "https://www.businessinsider.com/geraldo-rivera-said-trump-acting-entitled-frat-boy-since-election-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/geraldo-rivera-said-trump-acting-entitled-frat-boy-since-election-2020-12?amp"
 type: article
-quality: 117
-heat: 277
-published: true
+quality: 110
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -25,12 +25,28 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/5fdf3473c910a400192e893a?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://i.insider.com/5fe82c51a644880018193658?width=750&format=jpeg&auto=webp"
+    width: 750
+    height: 563
     isCached: true
 
 related:
+  - title: "Trump raised the idea of imposing martial law to overturn the election in a White House meeting, according to reports"
+    excerpt: "In a White House meeting Friday, deploying US troops to re-run the election was one of several wild ideas touted, reported multiple outlets."
+    publishedDateTime: 2020-12-20T12:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-touted-imposing-martial-law-to-overturn-election-reports-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5fdf3473c910a400192e893a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Campaign 2016 updates: Donald Trump says women accusing him of sexual misconduct ‘will be sued after the election is over’"
     excerpt: "Donald Trump hits the campaign trail in Gettysburg, Pa., while Hillary Clinton is in Philadelphia. Trump says women accusing him of sexual assault will be sued after the electionAn adult film actress becomes Trump's latest accuser Khizr Khan,"
     publishedDateTime: 2020-12-17T05:03:00Z
@@ -62,22 +78,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HC5LGNSBUQI6XC6AVYKVX3SK74.jpg&w=1440"
         width: 1280
         height: 862
-        isCached: true
-  - title: "Trump supporter and Fox News star Geraldo Rivera said the president is acting like an 'entitled frat boy' since losing the election"
-    excerpt: "Rivera also took aim at conservative attorney Sidney Powell, calling her a \"pathetic lawyer\" who is \"working to destroy the legacy of Donald Trump.\""
-    publishedDateTime: 2020-12-27T07:17:00Z
-    webUrl: "https://www.businessinsider.com/geraldo-rivera-said-trump-acting-entitled-frat-boy-since-election-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/geraldo-rivera-said-trump-acting-entitled-frat-boy-since-election-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/geraldo-rivera-said-trump-acting-entitled-frat-boy-since-election-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5fe82c51a644880018193658?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
         isCached: true
   - title: "Trump slams US fashion magazines for not giving Melania a single cover shoot while he has been in office"
     excerpt: "Trump supporters have long taken issue with US magazines for granting Michelle Obama 12 cover shoots, but giving Melania Trump none."
@@ -160,6 +160,6 @@ related:
         height: 632
         isCached: true
 
-secured: "703rcsaeMgv+pQ4msIlMUV/yKRQyEBgQj/Wfvdh9fpSzc+vUDSR1vy/HzOSasrmwzJNHBGZawbjv9As6rfCrA5mxQ5IfGmb2IKg/64wK4NhKx2ZMAbxFQsw6n+Uxag/HFXORY71WJk/ndZ5KcVuLDvet84yhA1ukr4ErJfTcJNKQSJ2Uk+AxsraTmaWafdqedW0ZgUW+GoPNH+SRB7NqSzFd1fmQR/5v6LnmMlmKkhZ2XOS59KweHABfAhroxfsrXr8dxhglzcprGoJFyIOB7Jn4xlOXBInZ+gTJBwyzcS94sUz9MxeYTWYyYEpd2dTZ5w4LOOmvnnHcore2eL+6OVzwzNdex4BinKKsueCsMTI=;W5vYsvwm1Zl3ScoKJtAyWA=="
+secured: "Ffv7jt7ptSu9NfWC4mczwMTl8Jx9Y2v3CxGbc7vf5b5yz4KM6KitYnG/PqRH/Cbzs1fJGJbSn+0/JkM7RkfMF4qYChqnv/c7lkutdK/KWQUGrSHNW4DbvpoUSiLM3z8uNV13lrgF15umT/gXa2186mOTVFF9S6xdolJHPkWmMfJpSuHjr49EYvWyWPvG4zkhsesusHHe0+2XlP7Zoiq0uUiJsSJR5kW6QmG10xQvclOAfwz/WAc0CeeRSG3Qr52xlzt2k8z3TJZaDcMNTJHRuGOenzhrMv5iKPzM7CrLO0oT3X8z8N0xjg5E2DM+WH2lKTCbTilMetpSVS3IxxF8DsNzhcPAfIlKjJGq5oDa44w=;t+pwSg1ikASpnO9q6fxPog=="
 ---
 

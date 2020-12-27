@@ -1398,6 +1398,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Unemployment Benefits Expire for Millions as Trump Rages"
+    excerpt: "Unemployment benefits for millions of Americans expired overnight as President Donald Trump refuses to sign an end-of-year COVID relief and spending bill that had been considered a done deal before his objections."
+    publishedDateTime: 2020-12-27T05:34:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-27/unemployment-benefits-expire-for-millions-as-trump-rages"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-27/unemployment-benefits-expire-for-millions-as-trump-rages?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-27/unemployment-benefits-expire-for-millions-as-trump-rages?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "ZpfCoYqNzFnUH54PpKUM7F9sIf/CNjPPtVD4UKCbbrZOgCvU0mwBchjgfPeFIpnwzsbpLguEfKqNtRTcequEVBF/S87jnuuFc3T6gRS159VIgqY7IZ1Tzxe3tunQ6cjwfoLK75q2yOTCiZaiyVu3paccVrOM51fbsicrkMYBN+fyOb2ypZy78FkWbvzKohb3AJqL28GgYLNZfLBFY9sLt05Shelfs526X40gwuGVHA/n7Ja0boN4IRb8BxyEfmek6ENVcC70PmuOoGuWErQ4/kvaNF0jQef59M4kc4jmbVOq2U4Y7wdYs4d77YcdiRdr8qnPtgfzNtCtdxZJXyzHxrKw3qMXUBFSFjCZ2Yc3aa0=;zZ+aIqSpkgcnU/jIGAudIA=="
 ---

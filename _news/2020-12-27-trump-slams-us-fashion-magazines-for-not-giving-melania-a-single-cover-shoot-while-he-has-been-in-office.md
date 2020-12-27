@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 862
         isCached: true
+  - title: "Trump supporter and Fox News star Geraldo Rivera said the president is acting like an 'entitled frat boy' since losing the election"
+    excerpt: "Rivera also took aim at conservative attorney Sidney Powell, calling her a \"pathetic lawyer\" who is \"working to destroy the legacy of Donald Trump.\""
+    publishedDateTime: 2020-12-27T07:17:00Z
+    webUrl: "https://www.businessinsider.com/geraldo-rivera-said-trump-acting-entitled-frat-boy-since-election-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/geraldo-rivera-said-trump-acting-entitled-frat-boy-since-election-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/geraldo-rivera-said-trump-acting-entitled-frat-boy-since-election-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fe82c51a644880018193658?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
+        isCached: true
   - title: "Trump has discussed rebooting 'The Apprentice' as he prepares to leave the White House, according to a report"
     excerpt: "The president has reportedly talked to aides about the prospect of reviving the reality TV show in which he starred."
     publishedDateTime: 2020-12-18T12:18:00Z
