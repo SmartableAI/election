@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ilhan Omar slams Trump for 'disgraceful' pardons of Blackwater guards"
+    excerpt: "President Trump’s pardon of four Blackwater guards convicted in the killing of 14 Iraqi civilians was \"disgraceful,\" Rep. Ilhan Omar, D-Minn., asserted Saturday."
+    publishedDateTime: 2020-12-27T09:41:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q0YODziVo1Q/ilhan-omar-slams-trump-for-disgraceful-pardons-of-blackwater-guards"
+    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-slams-trump-for-disgraceful-pardons-of-blackwater-guards.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-slams-trump-for-disgraceful-pardons-of-blackwater-guards.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b45d6986-056f-4590-a12b-c4e41d83ca66/02deafa1-9ac6-49ee-98ed-11f9426e817c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "UN hits Trump over Blackwater pardons, says move 'contributes to impunity'"
     excerpt: "The United Nation’s human rights office criticized President Trump this week for pardoning four Blackwater guards who had been convicted in connection with the killing of Iraqi civilians while working as contractors in 2007 -- claiming that the pardons contribute “to impunity.”"
     publishedDateTime: 2020-12-26T22:46:09Z
