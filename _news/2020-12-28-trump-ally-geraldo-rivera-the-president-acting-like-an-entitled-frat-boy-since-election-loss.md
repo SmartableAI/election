@@ -815,6 +815,22 @@ related:
         width: 1200
         height: 680
         isCached: true
+  - title: "U.S. government heads toward chaotic end to 2020 as Trump fights Congress"
+    excerpt: "The U.S. government headed toward a chaotic last few days of the year as President Donald Trump's refusal to approve a $2.3 trillion financial package caused millions of jobless Americans to lose benefits and threatened to shut down federal agencies due to lack of funding."
+    publishedDateTime: 2020-12-27T19:11:00Z
+    webUrl: "https://www.reuters.com/article/ousivMolt/idUSKBN2910NA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2910NA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2910NA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201227&t=2&i=1545904086&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBQ0BZ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Defying Congress, Trump vetoes defense bill, threatens government shutdown"
     excerpt: "U.S. President Donald Trump vetoed a bipartisan defense policy bill on Wednesday and raised the prospect that the United States could face a government shutdown during a pandemic, stirring new turmoil in Washington as he headed to Florida for Christmas."
     publishedDateTime: 2020-12-24T01:26:00Z
@@ -1430,6 +1446,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "xUpAzJ3k9Zu004Q4XAYcQm20LRWOzod/re10fYkwgHr4VUalLBXSdFLSBqliRetdI9lpE4GTJytTpKLaeejso9K5BmmqTZGEc1r/VXywHPYnZVR6A+odTsiQv61FBnssGHpqW1wLouFCWhOqTIXR3fjUymS8ZIKPVaH2XT5hc5/PfYG+GlmcvKFDu5B5iS0P4zokJfvoEVlqlhTY24blc40T3v7rZlG+FvMGtlNcotTAQB8WKw7KcvU5KmxKYJDLbAOXvCk2fFczENxlSWZlHyg6Rja6dAUB08N/q11YVbo2qvRmOPtNlWesl82sGYPiuful3d08Ye/1ufZ3d0wLt1xAvE/eF3JF4nQOCh8wI6s=;TPrKPTxllX8/UpjYcacLYA=="
+secured: "cAIRmEAKMKMzx+PNVVryAtJFRnEfF5xg6NPx22TUBQ56V7BCP3E6p25hn4LlZwOkVuVsp863nvUHnOArBO7thMlFmIe0wj/4vFpX9sY/21XVbOnJ5Bo3ZzFXbfXOVoeIzqQKb5IfNu97T8q738kJmWKBKzOoMhesagYyAeWpHrvF7W0SFD+3tcCSFBs0UPWwefNNgvdeEEDbCU8UQlpYu+GYch9oZoZ/z089m5k19LwzPF8PT4M2jEgLTKDq5PeUVABawwk5C5HQt28A3Htaokm4vHfNEXWzsWjc6jI0AR0j++WKNlrlP991JsnUSgf5cOeSmIRprnnSJYz+PiPlIvos1k5zYJDZzQCY0EPIUsISBek2NCgAZd9OReBQuJ5qFDVLRz7FT1yh18DogGq+9E71kOLMTswSfTWZVZCMRZNLF6tAb0XHU30mcfNzUQRzHp2bjAl3rwFg1ffCOEz3Mem+Add8MT8DgchW2VbQd07zVzCcGWapgTG6q5yw4pA7m0XJqCouRRQ5oUcwqBoBxw==;1Jv/iDfMLhNgfuqDsIcnDA=="
 ---
 

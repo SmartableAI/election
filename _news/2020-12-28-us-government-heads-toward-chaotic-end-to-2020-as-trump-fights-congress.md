@@ -1,22 +1,22 @@
 ---
 category: news
-title: "How Trump drove the lie that the election was stolen, undermining voter trust in the outcome"
-excerpt: "Trump media outfits and an assortment of state lawmakers and lawyers who gave oxygen to debunked allegations, the president persuaded millions of Americans that the vote was rigged."
-publishedDateTime: 2020-12-20T22:26:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-election-voter-trust/2020/12/20/00282aa6-407a-11eb-8db8-395dedaaa036_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-election-voter-trust/2020/12/20/00282aa6-407a-11eb-8db8-395dedaaa036_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-election-voter-trust/2020/12/20/00282aa6-407a-11eb-8db8-395dedaaa036_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-voter-trust/2020/12/20/00282aa6-407a-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+title: "U.S. government heads toward chaotic end to 2020 as Trump fights Congress"
+excerpt: "The U.S. government headed toward a chaotic last few days of the year as President Donald Trump's refusal to approve a $2.3 trillion financial package caused millions of jobless Americans to lose benefits and threatened to shut down federal agencies due to lack of funding."
+publishedDateTime: 2020-12-27T19:11:00Z
+originalUrl: "https://www.reuters.com/article/ousivMolt/idUSKBN2910NA"
+webUrl: "https://www.reuters.com/article/ousivMolt/idUSKBN2910NA"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2910NA"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2910NA"
 type: article
-quality: 129
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KJAFKBBBEQI6XLKTJQP5USMQPU.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201227&t=2&i=1545904086&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBQ0BZ"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -158,6 +158,22 @@ related:
       - url: "https://i.insider.com/5fdcae1cc910a400192e8440?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "How Trump drove the lie that the election was stolen, undermining voter trust in the outcome"
+    excerpt: "Trump media outfits and an assortment of state lawmakers and lawyers who gave oxygen to debunked allegations, the president persuaded millions of Americans that the vote was rigged."
+    publishedDateTime: 2020-12-20T22:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-election-voter-trust/2020/12/20/00282aa6-407a-11eb-8db8-395dedaaa036_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-election-voter-trust/2020/12/20/00282aa6-407a-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-voter-trust/2020/12/20/00282aa6-407a-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 129
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KJAFKBBBEQI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump ally Geraldo Rivera: The president acting 'like an entitled frat boy' since election loss"
     excerpt: "I’ve supported @realDonaldTrump who was assailed by leftist creeps,\" Rivera said. \"Sadly he lost a bitterly contested election.\""
@@ -815,22 +831,6 @@ related:
         width: 1200
         height: 680
         isCached: true
-  - title: "U.S. government heads toward chaotic end to 2020 as Trump fights Congress"
-    excerpt: "The U.S. government headed toward a chaotic last few days of the year as President Donald Trump's refusal to approve a $2.3 trillion financial package caused millions of jobless Americans to lose benefits and threatened to shut down federal agencies due to lack of funding."
-    publishedDateTime: 2020-12-27T19:11:00Z
-    webUrl: "https://www.reuters.com/article/ousivMolt/idUSKBN2910NA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2910NA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2910NA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201227&t=2&i=1545904086&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBQ0BZ"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Defying Congress, Trump vetoes defense bill, threatens government shutdown"
     excerpt: "U.S. President Donald Trump vetoed a bipartisan defense policy bill on Wednesday and raised the prospect that the United States could face a government shutdown during a pandemic, stirring new turmoil in Washington as he headed to Florida for Christmas."
     publishedDateTime: 2020-12-24T01:26:00Z
@@ -1446,6 +1446,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "8L8B038VkhapNm4MRsSeo2QKy4r1y9QS39nd09XyO6SNOwn+yaKHxM3L5hHmUkW0DYFRChyRSD3PZqPgmJONJWJYGtRsrIbz2IcnOKpyazGHvnbYKORTvWM7OznxEzmgRwsouAbVJLYXdQYLQccAGa7wC1P6UI2TxIkWg8WQojDeRqQGbzzDcmRyaCeQCMYlnY8EylovVg6g2rfqhpM6G4vXo5Ph1lMH3yPioU7SVDl8jS6VbeXxyXajgvMSIEKxqPWXsTpg75uaCJlB+m3NwcnSJl0smJvB9gy5ZHDIPcWIG9f2zbH6Cbqu0Scs683WmWBMLGsMOyeZ9KNE9zXrxQ/R23FDb3afgiYmob9CHHMe5Sz4re2DTA4ruk7e1ak82++BZ41S4OIQ5ciPsApRZ3LWdOxxq48H5L4W6Sr+DXXwZ4RdSYPmc1Zqnj8q8eN0S102Xvg0I6L1rwqh4mfxswnYyy0ejeLjpWoTnKJgcOkVa8FGTGizyF1uU+D3brawdhdeguvFc3UN+eEyAcfeOw==;xifFK9PWg7QnccW4sW1AJg=="
+secured: "aizxvnlbXq6oR4TjCLx22StatypsiXIQhdfv7+Juml7HKD5FFQN8f/WFxTPkCHs2fNNud6KtxKpiOKkSQ5rVauDUzLnFGkzaK0cErCahTNZN40T04SQ/Mv1RNBhBBcE64q3bnesa2LMa2+TasjmPp6rOL+Uljzl49JUnGUo0P5ns9Q28iPt8QDYmcagXTJzr+hmYrXjbx01aGr4G39spt1KlbDoM14k0KHXvurSHdulBj52zLv8ZKkVn60TN7HP3Uvle1AmVfBG1qKDA+WbO1LZZmEoUiRZ3yDcbd6u4AH2p1jJv9fkCAijQh4mO1kWG2UmEYOxBCX37goSm6nnB2WbhKEP9e/hxQg6OXm7KDqk=;aT5SNEpCVPeBGem4ETwE+w=="
 ---
 

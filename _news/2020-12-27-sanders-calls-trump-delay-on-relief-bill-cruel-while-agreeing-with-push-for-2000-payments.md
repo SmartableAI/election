@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Pelosi presses McCarthy to agree to bigger stimulus checks after Trump intervention"
-excerpt: "House Speaker Nancy Pelosi on Wednesday called on GOP Leader Kevin McCarthy to join her in backing a boost to the coronavirus stimulus checks – which would bump them to $2,000 – because of a last-minute demand from President Trump."
-publishedDateTime: 2020-12-23T17:58:28Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IvospTGeXI8/pelosi-presses-mccarthy-bigger-stimulus-checks-trump-intervention"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IvospTGeXI8/pelosi-presses-mccarthy-bigger-stimulus-checks-trump-intervention"
-ampWebUrl: "https://www.foxnews.com/politics/pelosi-presses-mccarthy-bigger-stimulus-checks-trump-intervention.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-presses-mccarthy-bigger-stimulus-checks-trump-intervention.amp"
+title: "Sanders calls Trump delay on relief bill 'cruel,' while agreeing with push for $2,000 payments"
+excerpt: "House Speaker Nancy Pelosi said she would force a vote Monday on increasing payments to Americans in a coronavirus relief bill from $600 to $2,000 after President Trump urged lawmakers to do so, but Sen. Bernie Sanders, I-Vt., offered sharp opposition to the president's decision to not automatically"
+publishedDateTime: 2020-12-27T19:43:18Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bx2rWLUCaWA/sanders-trump-delay-coronavirus-relief-bill-cruel-stimulus-checks"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bx2rWLUCaWA/sanders-trump-delay-coronavirus-relief-bill-cruel-stimulus-checks"
+ampWebUrl: "https://www.foxnews.com/politics/sanders-trump-delay-coronavirus-relief-bill-cruel-stimulus-checks.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-trump-delay-coronavirus-relief-bill-cruel-stimulus-checks.amp"
 type: article
-quality: 169
+quality: 163
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/441afbd8-3b5d-49bb-94e3-b15cc9c0ea76/37ad5e6f-62a0-407d-b794-e5e541d30bae/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68f2e7ff-9ac5-45dd-ace4-2e5288b5f724/b4a74886-bfc2-4b11-a57f-9eedc083859b/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -79,19 +79,19 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Sanders calls Trump delay on relief bill 'cruel,' while agreeing with push for $2,000 payments"
-    excerpt: "House Speaker Nancy Pelosi said she would force a vote Monday on increasing payments to Americans in a coronavirus relief bill from $600 to $2,000 after President Trump urged lawmakers to do so, but Sen. Bernie Sanders, I-Vt., offered sharp opposition to the president's decision to not automatically"
-    publishedDateTime: 2020-12-27T19:43:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bx2rWLUCaWA/sanders-trump-delay-coronavirus-relief-bill-cruel-stimulus-checks"
-    ampWebUrl: "https://www.foxnews.com/politics/sanders-trump-delay-coronavirus-relief-bill-cruel-stimulus-checks.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-trump-delay-coronavirus-relief-bill-cruel-stimulus-checks.amp"
+  - title: "Pelosi presses McCarthy to agree to bigger stimulus checks after Trump intervention"
+    excerpt: "House Speaker Nancy Pelosi on Wednesday called on GOP Leader Kevin McCarthy to join her in backing a boost to the coronavirus stimulus checks – which would bump them to $2,000 – because of a last-minute demand from President Trump."
+    publishedDateTime: 2020-12-23T17:58:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IvospTGeXI8/pelosi-presses-mccarthy-bigger-stimulus-checks-trump-intervention"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-presses-mccarthy-bigger-stimulus-checks-trump-intervention.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-presses-mccarthy-bigger-stimulus-checks-trump-intervention.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68f2e7ff-9ac5-45dd-ace4-2e5288b5f724/b4a74886-bfc2-4b11-a57f-9eedc083859b/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/441afbd8-3b5d-49bb-94e3-b15cc9c0ea76/37ad5e6f-62a0-407d-b794-e5e541d30bae/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -160,6 +160,6 @@ related:
         height: 340
         isCached: true
 
-secured: "R/jXZvvvfXfilp1+TIjdWwzCsXesg6Qm9JROSO3XeEJStXDvkpFMfrTv17n98Aa3O/+LQT6QEArLpTgTlSKzM9OuFl0KbdtOJZLjPYYAPNOLBRmE/LMXT+A1spErDUOWiHEcMExaB9Od5wj9ztl0Im25usbVi7XFuUxhnuxR5lLpDJ2ZCGcHg72UTEJyQ74V5kbyI5bObBlSQswIzEGinpTM7j2bZClKHjGblS8Nfs0O6f+f1Dc8wTf8vdP/t+YxVEN33GJAV0IQwPkKnOL9kVZlB12RTnaktYb+SBIjTgVaIAtGj0qIDGLO66hOBK9ndlKm1Z7rSgrotgpyfFjpInGfCXJLYrcbPEV4c+1plZ4=;UOsQL239uZ3uOWVQ8OAUvw=="
+secured: "k1O7t9QAKaLSUZP/w1Z6C74KTlYxO/A0DpsvEx/Q4+g8N+bC8bjS2RDAYBbXkWnJYXBVoe8YISHnRAsRCk5r8NMOYV75CczmIKz2lXNMz9jMlnYYNKRGBFazHXoAfJaQy4wCzUldRMtTpJJk8/mS6C1a8yFGd00DQxiK1/EYzwOthJSb0xPLYp+PicnRUxZIpR2qCsu9xd5CKCFuOgwnJ9dtuOKYcRpDTDUolNCQJk96HR7hM3tLq2hePcqchrRKcDg9oQU4JxdOj3aftUxxPVLmvMGLDjduj3KTnxTWxUHKGknaKyqraAsCgo03M1vg1tQGh+b3aU9CCsUJHC5156iQEwpLPXJ9sr92nV1DORw=;4a/DSA9Tcwy9siZ7f7dK+g=="
 ---
 

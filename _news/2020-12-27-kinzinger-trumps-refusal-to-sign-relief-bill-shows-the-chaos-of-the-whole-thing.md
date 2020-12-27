@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Dominion Voting Systems CEO doesn't rule out legal action against Trump "
-excerpt: "The chief executive officer of Dominion Voting Systems on Thursday did not rule out taking legal action against President Donald Trump as the election technology company has been the target of conspiracy theories about voter fraud after Trump's election loss to President-elect Joe Biden.\n    \n"
-publishedDateTime: 2020-12-24T15:32:17Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NBJXHyG7lSA/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NBJXHyG7lSA/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/dominion-ceo-trump-legal-action-cnntv/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/dominion-ceo-trump-legal-action-cnntv/index.html"
+title: "Kinzinger: Trump's refusal to sign relief bill 'shows the chaos of the whole thing'"
+excerpt: "Republican Illinois Rep. Adam Kinzinger said Sunday that President Donald Trump's refusal to sign a $900 billion relief package Congress passed last week and allow critical benefits to lapse for millions of jobless Americans \"shows the chaos of the whole thing.\"\n    \n"
+publishedDateTime: 2020-12-27T19:24:07Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BQGOYF0DCzM/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BQGOYF0DCzM/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/12/27/politics/republicans-trump-relief-bill-adam-kinzinger-cnntv/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/27/politics/republicans-trump-relief-bill-adam-kinzinger-cnntv/index.html"
 type: article
-quality: 174
+quality: 169
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217200015-dominion-voting-systems-ceo-john-poulos-ebof-intv-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227132733-01-adam-kinzinger-sept2020-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -111,19 +111,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Kinzinger: Trump's refusal to sign relief bill 'shows the chaos of the whole thing'"
-    excerpt: "Republican Illinois Rep. Adam Kinzinger said Sunday that President Donald Trump's refusal to sign a $900 billion relief package Congress passed last week and allow critical benefits to lapse for millions of jobless Americans \"shows the chaos of the whole thing.\"\n    \n"
-    publishedDateTime: 2020-12-27T19:24:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BQGOYF0DCzM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/27/politics/republicans-trump-relief-bill-adam-kinzinger-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/27/politics/republicans-trump-relief-bill-adam-kinzinger-cnntv/index.html"
+  - title: "Dominion Voting Systems CEO doesn't rule out legal action against Trump "
+    excerpt: "The chief executive officer of Dominion Voting Systems on Thursday did not rule out taking legal action against President Donald Trump as the election technology company has been the target of conspiracy theories about voter fraud after Trump's election loss to President-elect Joe Biden.\n    \n"
+    publishedDateTime: 2020-12-24T15:32:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NBJXHyG7lSA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/dominion-ceo-trump-legal-action-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/dominion-ceo-trump-legal-action-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227132733-01-adam-kinzinger-sept2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217200015-dominion-voting-systems-ceo-john-poulos-ebof-intv-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -326,6 +326,6 @@ related:
         height: 773
         isCached: true
 
-secured: "BBMAxCG1CJBZ7uqSPINAQEGQTOi3dCXt/hgFoeYKO0viaoRTVjhBnRMWgYZrmTDPqoZne2hplBIDz70SjQm2sRZvqK3pTDzEILjtEiYdr8NYKNjSYSikON7Z2JiHyvoOVsUdku8wChr8ybeVaZ5B4HbIPGyb3WaYy782migi0V+SpajUhFY1eHdcjeLdJw4Vs1gpN4592q9WwzznVV4hcFNQRSK85RukFI8iefL+0rHy49Ljcoy7OtbjEsXrpvI9ZSrOmkpq1+ru9FNNWynngnYECKZ8hMSJI40ZxrJ6jRmGj8EMrqVQlafS45qayiv9hea4R1G5ZNBWGpDdURVxhz11HLkEtuHPOk0h9fSKXV8=;uASFmbcQ3MfRCkbICAgCtA=="
+secured: "aF19LudrNvLo4a067nHpKjgV/m6OdY00XnjAHm4ctDZXTEjV+DThlihABQtF6frfKYfkIMTR9WTxcjIK/5J07EJybnpExwivt4iZBWdtIQ/qBbMkfysAAOG/hUMkAY1W+r+zuf/Knq3zuDuhA6aziu69CJZUS2PQD73Ca9wsQinUC448aObkXcphb80tzUP/ApvLEmNTZDnyRSW0zgeJZm15XfVDFZoJ1eHG75vwA41sw2xqM7L1Oc8V1GdYESEn69zZcGhmcWVZx34sCzYf16typYRxPm2o36c33VV4sFX5c9Zq5oxJisVg2aSX0LRH3Dekqtqrcm5s3kRD/46t8xErl6ZZwm5ojbxkIHsvGjY=;SAT749mhFhZ0csO4oGb/xg=="
 ---
 

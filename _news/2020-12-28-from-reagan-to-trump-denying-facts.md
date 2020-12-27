@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Dominion Voting Systems CEO doesn't rule out legal action against Trump "
-excerpt: "The chief executive officer of Dominion Voting Systems on Thursday did not rule out taking legal action against President Donald Trump as the election technology company has been the target of conspiracy theories about voter fraud after Trump's election loss to President-elect Joe Biden.\n    \n"
-publishedDateTime: 2020-12-24T15:32:17Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NBJXHyG7lSA/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NBJXHyG7lSA/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/dominion-ceo-trump-legal-action-cnntv/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/dominion-ceo-trump-legal-action-cnntv/index.html"
+title: "From Reagan to Trump, Denying Facts"
+excerpt: "The line from Ronald Reagan to Donald Trump and our current situation may be even straighter and darker than Paul Krugman paints it. Consider the following core Reagan messages: Government is your enemy."
+publishedDateTime: 2020-12-27T19:37:00Z
+originalUrl: "https://www.nytimes.com/2020/12/27/opinion/letters/republicans-facts.html"
+webUrl: "https://www.nytimes.com/2020/12/27/opinion/letters/republicans-facts.html"
+ampWebUrl: "https://www.nytimes.com/2020/12/27/opinion/letters/republicans-facts.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/27/opinion/letters/republicans-facts.amp.html"
 type: article
-quality: 174
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217200015-dominion-voting-systems-ceo-john-poulos-ebof-intv-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2020/12/15/opinion/15KRUGMAN_PRINT/14krugmanWeb-facebookJumbo.jpg"
+    width: 1050
+    height: 549
     isCached: true
 
 related:
@@ -108,6 +109,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216111257-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Dominion Voting Systems CEO doesn't rule out legal action against Trump "
+    excerpt: "The chief executive officer of Dominion Voting Systems on Thursday did not rule out taking legal action against President Donald Trump as the election technology company has been the target of conspiracy theories about voter fraud after Trump's election loss to President-elect Joe Biden.\n    \n"
+    publishedDateTime: 2020-12-24T15:32:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NBJXHyG7lSA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/dominion-ceo-trump-legal-action-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/dominion-ceo-trump-legal-action-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217200015-dominion-voting-systems-ceo-john-poulos-ebof-intv-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -206,22 +223,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/27/lens/26dc-stimulus-sub/27weekend-briefing-stimulus-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "From Reagan to Trump, Denying Facts"
-    excerpt: "The line from Ronald Reagan to Donald Trump and our current situation may be even straighter and darker than Paul Krugman paints it. Consider the following core Reagan messages: Government is your enemy."
-    publishedDateTime: 2020-12-27T19:37:00Z
-    webUrl: "https://www.nytimes.com/2020/12/27/opinion/letters/republicans-facts.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/27/opinion/letters/republicans-facts.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/27/opinion/letters/republicans-facts.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/15/opinion/15KRUGMAN_PRINT/14krugmanWeb-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "Jobless benefits run out as Trump resists signing the relief bill."
     excerpt: "Two critical federal unemployment programs expired on Saturday as President Trump resisted signing a sweeping $900 billion aid package into law until lawmakers more than tripled the size of relief checks."
@@ -326,6 +327,6 @@ related:
         height: 773
         isCached: true
 
-secured: "BBMAxCG1CJBZ7uqSPINAQEGQTOi3dCXt/hgFoeYKO0viaoRTVjhBnRMWgYZrmTDPqoZne2hplBIDz70SjQm2sRZvqK3pTDzEILjtEiYdr8NYKNjSYSikON7Z2JiHyvoOVsUdku8wChr8ybeVaZ5B4HbIPGyb3WaYy782migi0V+SpajUhFY1eHdcjeLdJw4Vs1gpN4592q9WwzznVV4hcFNQRSK85RukFI8iefL+0rHy49Ljcoy7OtbjEsXrpvI9ZSrOmkpq1+ru9FNNWynngnYECKZ8hMSJI40ZxrJ6jRmGj8EMrqVQlafS45qayiv9hea4R1G5ZNBWGpDdURVxhz11HLkEtuHPOk0h9fSKXV8=;uASFmbcQ3MfRCkbICAgCtA=="
+secured: "KyNWiT6e6bl98ENoaT891w8f4d3EPxUjvy3zwbg4nPE2s9+lgmd7DT4ZltQaPSSg+kzfWMsA7LkizISEt6xW966oUhIDXUJkdpWuJ/vEJS5CzPP6NZxceeIsxCnOMtM5hF1wmXe/7AlJOAHGKos15WX/s3aGZWzFoIOhOLq3ROGoOko5KqtFbyDkIYTfsW32zyP0en8JhJlj9cKQN+XXzXXuA6zxFr2ROsSm6C9bKnLKY9VXbSviSdSOZm3EBq7EhMN46/frzncYTz/W6yohOrQ85sJUS3w2tiNecKxoVUhB63EJFtl0jjwiPSFuheoYS9deXZt+Z5GCQDRAyEAK3DsCGlkNp0W9LrNacKje5hA=;Hvbwqba0MpyXyuWuGzmZHw=="
 ---
 

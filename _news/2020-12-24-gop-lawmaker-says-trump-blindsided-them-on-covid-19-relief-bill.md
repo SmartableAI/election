@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kinzinger: Trump's refusal to sign relief bill 'shows the chaos of the whole thing'"
+    excerpt: "Republican Illinois Rep. Adam Kinzinger said Sunday that President Donald Trump's refusal to sign a $900 billion relief package Congress passed last week and allow critical benefits to lapse for millions of jobless Americans \"shows the chaos of the whole thing.\"\n    \n"
+    publishedDateTime: 2020-12-27T19:24:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BQGOYF0DCzM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/27/politics/republicans-trump-relief-bill-adam-kinzinger-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/27/politics/republicans-trump-relief-bill-adam-kinzinger-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227132733-01-adam-kinzinger-sept2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Congressional backers cite cybersecurity provisions as they push Trump to sign defense bill"
     excerpt: "The massive defense bill that President Donald Trump is threatening to veto contains provisions for increased cybersecurity, which has taken on significantly more importance in the wake of a massive cyberattack on federal agencies at the hands of suspected Russian hackers.\n    \n"
     publishedDateTime: 2020-12-18T20:32:33Z
@@ -190,6 +206,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/27/lens/26dc-stimulus-sub/27weekend-briefing-stimulus-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "From Reagan to Trump, Denying Facts"
+    excerpt: "The line from Ronald Reagan to Donald Trump and our current situation may be even straighter and darker than Paul Krugman paints it. Consider the following core Reagan messages: Government is your enemy."
+    publishedDateTime: 2020-12-27T19:37:00Z
+    webUrl: "https://www.nytimes.com/2020/12/27/opinion/letters/republicans-facts.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/27/opinion/letters/republicans-facts.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/27/opinion/letters/republicans-facts.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/15/opinion/15KRUGMAN_PRINT/14krugmanWeb-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Jobless benefits run out as Trump resists signing the relief bill."
     excerpt: "Two critical federal unemployment programs expired on Saturday as President Trump resisted signing a sweeping $900 billion aid package into law until lawmakers more than tripled the size of relief checks."

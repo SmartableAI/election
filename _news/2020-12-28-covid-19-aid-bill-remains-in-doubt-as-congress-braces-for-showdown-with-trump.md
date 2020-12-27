@@ -96,6 +96,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sanders calls Trump delay on relief bill 'cruel,' while agreeing with push for $2,000 payments"
+    excerpt: "House Speaker Nancy Pelosi said she would force a vote Monday on increasing payments to Americans in a coronavirus relief bill from $600 to $2,000 after President Trump urged lawmakers to do so, but Sen. Bernie Sanders, I-Vt., offered sharp opposition to the president's decision to not automatically"
+    publishedDateTime: 2020-12-27T19:43:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bx2rWLUCaWA/sanders-trump-delay-coronavirus-relief-bill-cruel-stimulus-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/sanders-trump-delay-coronavirus-relief-bill-cruel-stimulus-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-trump-delay-coronavirus-relief-bill-cruel-stimulus-checks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68f2e7ff-9ac5-45dd-ace4-2e5288b5f724/b4a74886-bfc2-4b11-a57f-9eedc083859b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Flashback: Trump in 2018 on massive spending bill 'nobody read': 'I will never sign another bill like this'"
     excerpt: "President Trump on Tuesday blasted the bipartisan omnibus spending bill passed by Congress that wrapped up COVID relief in it, calling for larger stimulus checks and arguing no one in Congress had read the bill."
     publishedDateTime: 2020-12-23T18:49:58Z

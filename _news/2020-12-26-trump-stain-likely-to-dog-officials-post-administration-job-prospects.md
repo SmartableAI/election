@@ -815,6 +815,22 @@ related:
         width: 1200
         height: 680
         isCached: true
+  - title: "U.S. government heads toward chaotic end to 2020 as Trump fights Congress"
+    excerpt: "The U.S. government headed toward a chaotic last few days of the year as President Donald Trump's refusal to approve a $2.3 trillion financial package caused millions of jobless Americans to lose benefits and threatened to shut down federal agencies due to lack of funding."
+    publishedDateTime: 2020-12-27T19:11:00Z
+    webUrl: "https://www.reuters.com/article/ousivMolt/idUSKBN2910NA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2910NA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2910NA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201227&t=2&i=1545904086&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBQ0BZ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Defying Congress, Trump vetoes defense bill, threatens government shutdown"
     excerpt: "U.S. President Donald Trump vetoed a bipartisan defense policy bill on Wednesday and raised the prospect that the United States could face a government shutdown during a pandemic, stirring new turmoil in Washington as he headed to Florida for Christmas."
     publishedDateTime: 2020-12-24T01:26:00Z
