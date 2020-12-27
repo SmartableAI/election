@@ -1,36 +1,52 @@
 ---
 category: news
-title: "COVID relief bill flown to Florida, where Trump went golfing"
-excerpt: "President's insistence on $2,000 checks to most Americans, rather than the $600 Congress agreed to, has left the future of any relief payments up in the air."
-publishedDateTime: 2020-12-26T12:44:00Z
-originalUrl: "https://www.cbsnews.com/news/covid-relief-bill-trump-flown-florida-golfing/"
-webUrl: "https://www.cbsnews.com/news/covid-relief-bill-trump-flown-florida-golfing/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
+title: "'Devastating consequences': Biden blasts Trump for not signing COVID relief bill before unemployment aid lapses"
+excerpt: "If Trump doesn't sign the bill Saturday, it would effectively cut the extension in unemployment aid from 11 to 10 weeks."
+publishedDateTime: 2020-12-27T00:01:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2020/12/26/biden-criticism-trump-stimulus-package-unemployment-aid-expires/4049687001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2020/12/26/biden-criticism-trump-stimulus-package-unemployment-aid-expires/4049687001/"
+ampWebUrl: "https://amp.usatoday.com/amp/4049687001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4049687001"
 type: article
-quality: 125
-heat: 245
-published: true
+quality: 120
+heat: -1
+published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/25/bce91f76-ba94-4a92-a5c7-37babe774881/thumbnail/1200x630/b296c2307f373634d121d20813368967/gettyimages-1230290576.jpg"
+  - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/78fb4e3d-b8ac-49b6-96f6-feb144f2bde4-AP_Biden.jpg?auto=webp&crop=5111,2875,x122,y196&format=pjpg&width=1200"
     width: 1200
-    height: 630
+    height: 675
     isCached: true
 
 related:
+  - title: "COVID relief bill flown to Florida, where Trump went golfing"
+    excerpt: "President's insistence on $2,000 checks to most Americans, rather than the $600 Congress agreed to, has left the future of any relief payments up in the air."
+    publishedDateTime: 2020-12-26T12:44:00Z
+    webUrl: "https://www.cbsnews.com/news/covid-relief-bill-trump-flown-florida-golfing/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/25/bce91f76-ba94-4a92-a5c7-37babe774881/thumbnail/1200x630/b296c2307f373634d121d20813368967/gettyimages-1230290576.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump claims to be 'working tirelessly' but leaves Covid relief bill in disarray"
     excerpt: "President flies to Florida after throwing own party ‘under a bus’ while Democrats seize chance to push for $2,000 payments"
     publishedDateTime: 2020-12-24T14:51:00Z
@@ -62,22 +78,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/qsZjaLIu7GiP_fWOhE-QZSmIC4o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GHKY7KVXTJ4O6LZG5SZMZL2AL4.jpg"
         width: 1200
         height: 832
-        isCached: true
-  - title: "'Devastating consequences': Biden blasts Trump for not signing COVID relief bill before unemployment aid lapses"
-    excerpt: "If Trump doesn't sign the bill Saturday, it would effectively cut the extension in unemployment aid from 11 to 10 weeks."
-    publishedDateTime: 2020-12-27T00:01:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/26/biden-criticism-trump-stimulus-package-unemployment-aid-expires/4049687001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4049687001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4049687001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/78fb4e3d-b8ac-49b6-96f6-feb144f2bde4-AP_Biden.jpg?auto=webp&crop=5111,2875,x122,y196&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Trump golfs in Florida, rails against House GOP and election results on first day of his winter vacation as COVID relief hangs in the balance"
     excerpt: "Trump had no events on his public schedule on the first day of his winter vacation Thursday, but traveled to his Palm Beach golf club, where he was spotted by CNN cameras on the links. Reporters were given no details of his schedule for the day,"
@@ -126,6 +126,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ys8vC60x2HB+hgM6MmBOC8d1Tb9PaRKaeQZcrULEfYzpvgqdpBvljsJ2zZXhJ7H3czp3jySKa/68NE1FOKY9irDRSI5L8lph+OfXH26YUSv0IvEAzxkmxi/N1ZDZ64hmoPwj1GxG/BTYcmRsEnZfv0NoqyhVg+/xUZfW1ViJaZgnsOKlFGPjGHxX/kdYJ+vkOtSKhysdi84Du17yOHjpHMNsgofdMng0D2D1U8YPiVBm8SO8by0X2xq8OffgjRs81X5lpotx1RIzi4URW/cBiLOoBDVVxItvNZm8SyVjKiksXXhFJD32kNXI5sgxB4DOenamc4+tsSKvrE3+EdqhY2sHejlfUXCrMa8+AwhTbpYZ4OuJaxjVf459jt7+jC0wvBR1VyEdb9S74nOUQIHhnV0BTxXCLHlpV4XrhToWhCH5e6iQgBQVIbbjkWqZLYrJtkgj7bDyifuCdikhe2qsYFUeB5CS6KZeJA11XYwlvSj2a5wVR5622GCih+T3liO9sb/qPtKqM8ZyKcjU6T4Zgg==;mFsaUYOH063XdCKxx19oXA=="
+secured: "NaqZws0MkZCDY1ISVdLSy3E07zVuE0jSYQT+StCBTgtAySTh1j11SWl/ir0wPhf+ZSupn7nf63a8ZzZyXdaXoJBzMEd6T9Rw/DzjoCVPZgBwwtLAgbPpobqygW3rgIRdJM0TlrUG3Wb6O6ZrG4SJGVarLkR/xtDcoIp3KX6oOl6WE4OF+qCqlU5M2ucPxBl/qkLpTwSKCG+Ea7km+JiuLY9lVfQ1yF3TjKz1aCO+rRxxXgOuvyykYAPAIgLLPcemHEIQavLtu4IiNNDQBPYDIgON8LP02kIlSm93EzDFezWGCXLrN0FSTilBSNOwEwnu52cJoEJpaPdyBDG01UCfP1p28pq/vrGTg8WzoG9GtTQ=;XneEsqzQ1MAj215lG+Qt/w=="
 ---
 

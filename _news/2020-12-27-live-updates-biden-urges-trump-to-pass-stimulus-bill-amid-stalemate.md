@@ -128,6 +128,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "President Trump Spends Christmas at Mar-a-Lago, and Joe Biden in Delaware"
+    excerpt: "The president is spending Christmas at his private Florida club and President-elect Joe Biden will remain in Delaware, the unofficial headquarters of his transition to the White House."
+    publishedDateTime: 2020-12-26T01:10:00Z
+    webUrl: "https://www.wsj.com/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-278203/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump says he has 'nothing to do' with 'potential prosecution' of Hunter Biden"
     excerpt: "President Trump on Thursday said he has \"NOTHING to do\" with the \"potential prosecution\" of President-elect Joe Biden’s son, calling the fallout surrounding Hunter Biden’s confirmation that he is under federal investigation \"very sad to watch."
     publishedDateTime: 2020-12-17T16:10:00Z
@@ -177,6 +193,6 @@ related:
         height: 720
         isCached: true
 
-secured: "zGKczCiq9t3Wawk64y2J6iZEBkh7jNd1IrdI44KbBwNxV9wK9t67ezfHZ3+x+cYTVaqI3sECSbavIwLaLlUMzfCnON0KSMprUs+toUk2Hqa+pm/bbMbIbXmPJ8sxMLKUsIxxH23CTG+PYzI9WVCVkkyb4YTrP8tpSldqIXbE91UyWg8ey67tC8l54hFYaPkd/iYCIMjnnD66lXwW3pJDcQyVPkJxHn5CSI+Nmfpf73BtkI5vLpOlM6YkQytHvuWVi55sf3RdqwfFOv3W9WzMif9VeFswGaRYRurJsnitffahjNhaha/U0GmGbOn/d++xcNgGKpjjOyjv6scM9iPof07fN54f6ZZacLmcHHhc1H8=;eROTTs16aGEUJqfJ1g0Csw=="
+secured: "7m/9UtwEWudIgS3DJ85Ndb086DBjj7TmcqHwd7VfXUEJSj6JejGvSfYM4WXTw1zZRzQE5+rS3ojjBa4J02MD+OSzrjI18cuTdQYsdYvSWeP0JEzW4gDOT4ZyyhOJxI64PT2NNR2vjtt3foE/IAu36c/l1wt2JRwvcKiYLcB6QkQDiA4l+g/OKKU7DXMx97cXSQquLr1bjP/rAiiOHMG2Mz+MUGOY3SgjXnVzlug2j/5CesuSXTi6yQgyXqUvMUzW9CEUNFt3MVdhv5MkB9LjGH6w0tvs5aQx6BN/SnyHP0yQECDpce0wtTE895676Vuw082PrGX0Fq1lJP0wwGyvVCGvvPVeSCR3PPnu8AFXHFpFWJdmCeswExWHeBuLxZr+z/zApYBrP/uadxMHyZ5DMBiTq2OOBr3Eu87JCjsMCNqBMk1XQYZCjLiJKSBcjyYnkecmDKuCrBhgSAcUKDXkdNfqdwQej7WYIMbCBjQDxA7F6rOSdIMw65udNNJjTeWhPFbvWyxtYz2TNQTPVwyrgg==;P41/NnoTo8unyBonEiP5Ew=="
 ---
 

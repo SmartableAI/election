@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 832
         isCached: true
+  - title: "'Devastating consequences': Biden blasts Trump for not signing COVID relief bill before unemployment aid lapses"
+    excerpt: "If Trump doesn't sign the bill Saturday, it would effectively cut the extension in unemployment aid from 11 to 10 weeks."
+    publishedDateTime: 2020-12-27T00:01:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/26/biden-criticism-trump-stimulus-package-unemployment-aid-expires/4049687001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4049687001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4049687001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/78fb4e3d-b8ac-49b6-96f6-feb144f2bde4-AP_Biden.jpg?auto=webp&crop=5111,2875,x122,y196&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump golfs in Florida, rails against House GOP and election results on first day of his winter vacation as COVID relief hangs in the balance"
     excerpt: "Trump had no events on his public schedule on the first day of his winter vacation Thursday, but traveled to his Palm Beach golf club, where he was spotted by CNN cameras on the links. Reporters were given no details of his schedule for the day,"
     publishedDateTime: 2020-12-24T23:52:00Z

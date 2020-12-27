@@ -144,6 +144,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "President Trump Spends Christmas at Mar-a-Lago, and Joe Biden in Delaware"
+    excerpt: "The president is spending Christmas at his private Florida club and President-elect Joe Biden will remain in Delaware, the unofficial headquarters of his transition to the White House."
+    publishedDateTime: 2020-12-26T01:10:00Z
+    webUrl: "https://www.wsj.com/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-278203/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden calls on Trump to sign COVID relief bill amid battle over direct payments"
     excerpt: "President-elect Joe Biden on Saturday called on President Trump to sign the coronavirus stimulus bill -- warning that failing to do so would have \"devastating consequences\" for millions of Americans."
     publishedDateTime: 2020-12-26T18:59:00Z

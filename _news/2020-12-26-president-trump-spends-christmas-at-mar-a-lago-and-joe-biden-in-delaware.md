@@ -1,30 +1,34 @@
 ---
 category: news
-title: "How Trump and Biden are spending Christmas Day"
-excerpt: "Oh Christmas tee, oh Christmas tee. President Trump spent Christmas Day doing what he does best, hitting the links at his Trump International Golf Course in Palm Beach, Florida where he will"
-publishedDateTime: 2020-12-25T19:22:00Z
-originalUrl: "https://nypost.com/2020/12/25/how-trump-and-biden-are-spending-christmas-day/"
-webUrl: "https://nypost.com/2020/12/25/how-trump-and-biden-are-spending-christmas-day/"
-ampWebUrl: "https://nypost.com/2020/12/25/how-trump-and-biden-are-spending-christmas-day/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/25/how-trump-and-biden-are-spending-christmas-day/amp/"
+title: "President Trump Spends Christmas at Mar-a-Lago, and Joe Biden in Delaware"
+excerpt: "The president is spending Christmas at his private Florida club and President-elect Joe Biden will remain in Delaware, the unofficial headquarters of his transition to the White House."
+publishedDateTime: 2020-12-26T01:10:00Z
+originalUrl: "https://www.wsj.com/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768?mod=newsviewer_click"
+ampWebUrl: "https://www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
 type: article
-quality: 150
+quality: 149
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201225-trump-biden-christmas-day.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://images.wsj.net/im-278203/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -108,6 +112,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Trump and Biden are spending Christmas Day"
+    excerpt: "Oh Christmas tee, oh Christmas tee. President Trump spent Christmas Day doing what he does best, hitting the links at his Trump International Golf Course in Palm Beach, Florida where he will"
+    publishedDateTime: 2020-12-25T19:22:00Z
+    webUrl: "https://nypost.com/2020/12/25/how-trump-and-biden-are-spending-christmas-day/"
+    ampWebUrl: "https://nypost.com/2020/12/25/how-trump-and-biden-are-spending-christmas-day/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/25/how-trump-and-biden-are-spending-christmas-day/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201225-trump-biden-christmas-day.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Live updates: Biden urges Trump to pass stimulus bill amid stalemate"
     excerpt: "President-elect Joe Biden on Saturday has urged President Trump to sign the COVID-19 relief bill, after Trump rejected the bill and called for higher stimulus payments and less \"wasteful\" spending."
     publishedDateTime: 2020-12-26T22:21:00Z
@@ -123,22 +143,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48694bc-fcc1-4336-bf59-e0584bc8a4e1/369eedf1-67e3-45b8-81ce-9a7ed8e49f01/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "President Trump Spends Christmas at Mar-a-Lago, and Joe Biden in Delaware"
-    excerpt: "The president is spending Christmas at his private Florida club and President-elect Joe Biden will remain in Delaware, the unofficial headquarters of his transition to the White House."
-    publishedDateTime: 2020-12-26T01:10:00Z
-    webUrl: "https://www.wsj.com/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768?mod=newsviewer_click"
-    ampWebUrl: "https://www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 149
-    images:
-      - url: "https://images.wsj.net/im-278203/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Trump says he has 'nothing to do' with 'potential prosecution' of Hunter Biden"
     excerpt: "President Trump on Thursday said he has \"NOTHING to do\" with the \"potential prosecution\" of President-elect Joe Biden’s son, calling the fallout surrounding Hunter Biden’s confirmation that he is under federal investigation \"very sad to watch."
@@ -189,6 +193,6 @@ related:
         height: 720
         isCached: true
 
-secured: "KBhmWIrdnzWJQ+iMm2Hrramu0VI4b6AoIGqQ+HD29X0NxzAbvr0CKFMfoXCl/abne50aX4CMd/OHK7bkwiPLa92mbVF93hNGXhs28cCAt+FO8qRiZWZPwBWHFdeZz2J60KrbpR+10RUYpvyOrmWcxBeG9acQGas0SzPUsn00oMgvSvz+W6RUx08IZcHorBqL6A9GsNkfTa51/T8lCusG5jh+p4DsGGWJojvlACdMG0j5wt9k91F4OzAnmDxPoTT2ycfoFeleZ1rsNQefKAfhnFwb+gktfV4sioEds6FlrncaFp7QaqGef3wGm1Arjan93Y7FMBnUD7L6xZxAkpU+DN0yzHm0+yhwEH51LcIadIt/ARHA2tk1jwNQFzM7hdQD5xhv9YTeLQm5fxP5dagYkY5p0PlpMwDCAPhnCwLdm92PyvyORbLfb+a6wD1uNhHtfqwIOKxpLXXMq6k7Ak4yc5gFHqPL4Bk5HlC7R7BMUW7agGqcehs8zZ7jxRt46cxOqpfxql6YC/BuTdrOj4ueJQ==;99uzTSShb+7Jb2p9zsT4dQ=="
+secured: "ipeNIoFKrJ37G1m62qn+0jOYCxhGGba5+h9t2qjutlUOwEzXLVgYkY56wDVJ93RdYz/SdAtxM2ZSxa/uFHe/IqwvSG+3gtll7C1zwlp1rMVfrO3aQ2X9Sz4HmkCbrHAd0SG6Ka9FddG6rAlyKQ2Sf92ZMpvae1BAoo7tWP9lSO91rROzR5scFjv24NN5XN+uk4MXQ6vyMaBghmZHTwszaIn25fujcvsAKAfwnCERkd1+3UzHzOr5TckuTheQU8DW8uD00oj2yOlLoGvI6099PLKf3JWS62kKlw3U4UmKzB6oKVq9bUrkcuS0/hTR0e+SSKYIOKwoy/qiHY9fY0TgHLntFzDkSMydIhOGMNz5EHE=;erx2zV547U3YGfpYm43VYQ=="
 ---
 

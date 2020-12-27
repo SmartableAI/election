@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Pres. Trump remains silent on COVID 19 surge"
-excerpt: "Watch \"Pres. Trump remains silent on COVID 19 surge\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2020-12-25T07:36:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201225083614-pres-trump-remains-silent-on-covid-19-surge/"
-webUrl: "https://www.cbsnews.com/live/video/20201225083614-pres-trump-remains-silent-on-covid-19-surge/"
+title: "Benefits Lapse for Millions as Trump Fails to Approve Stimulus"
+excerpt: "Millions of Americans began to see their unemployment benefits expire on Saturday because President Donald Trump has so far refused to sign a bipartisan stimulus package."
+publishedDateTime: 2020-12-26T23:33:00Z
+originalUrl: "https://www.washingtonpost.com/business/on-small-business/benefits-lapse-for-millions-as-trump-fails-to-approve-stimulus/2020/12/26/34cc0e22-47a9-11eb-ac2a-3ac0f2b8ceeb_story.html"
+webUrl: "https://www.washingtonpost.com/business/on-small-business/benefits-lapse-for-millions-as-trump-fails-to-approve-stimulus/2020/12/26/34cc0e22-47a9-11eb-ac2a-3ac0f2b8ceeb_story.html"
 type: article
 quality: 105
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/25/story_08266621_1608885604.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EGDDPXSHVEI6XLBKHLAPFOGO5M.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -1195,19 +1195,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Benefits Lapse for Millions as Trump Fails to Approve Stimulus"
-    excerpt: "Millions of Americans began to see their unemployment benefits expire on Saturday because President Donald Trump has so far refused to sign a bipartisan stimulus package."
-    publishedDateTime: 2020-12-26T23:33:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/benefits-lapse-for-millions-as-trump-fails-to-approve-stimulus/2020/12/26/34cc0e22-47a9-11eb-ac2a-3ac0f2b8ceeb_story.html"
+  - title: "Pres. Trump remains silent on COVID 19 surge"
+    excerpt: "Watch \"Pres. Trump remains silent on COVID 19 surge\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-25T07:36:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201225083614-pres-trump-remains-silent-on-covid-19-surge/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EGDDPXSHVEI6XLBKHLAPFOGO5M.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/25/story_08266621_1608885604.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Benefits Lapse For Millions if Trump Fails to Approve Bill"
     excerpt: "Millions of Americans will begin to see their unemployment benefits expire on Saturday because President Donald Trump has so far refused to sign a bipartisan stimulus package."
@@ -1382,6 +1382,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "2GC8Cht4ndOtyWjDbbW+KMoeWHWndWOrhvNgUFFEMHB6GCmZ6itazqKq65/5MaGfew3sKRPNVdN1jH0AY/sgVM8G2SMIk3NMqPNsm0ambWvo1OsuYhZdP+fvOOl0sHzr6ISYGZry+hLIFDam9aqkFWX2xUSfCkuQu+laUInHOPnM57nLGQe3GPH6ODp9qOEJLxmqlRlfZkzy5Rm6qp5HXkEyHGESHtMapvJ9XhAK7Vi+jw2PmggbKEu8krlMNR0QYWPYcJdPXF24lw1qz5UPch8W6AKrIB89x3CTeNXU3pQryMeJ9mGpNvItNLmvuVnhcvVfo1s3x35Go7nRLCcO+ZFY1C0AZEgBhE2Pq4wcy1k=;aNQMZo2wZdzXiq4J+CJFtg=="
+secured: "D0xQZnS+KHadVmT8rZ7caFa0FeHo3YAGH1gbG9l5h9U/sNic156QdJEPdBFhMreok1ITKjdCaIsaNCeqCZKBmCG/NBeMFM4E6X+xFdwpEjGMoER7ZlYiW0ScDU+suNAgOwn6ADeFB6WEhqCeTkPNukNCCAe5pE0C9W2JN9C1tBzlOWsuKVIxFAk4o7g/6RYyLXf7G5f36Dxd1DJ2aCLONZOApMo6WwapAoVswJFiq2ydPTI85RhPUl5YmqSeaXbqOyDRE5es9ZhUnuPHvVWIafTRM1CDdEAvf6SS4nTgOgG32/nz3qxQmMcortRGU+mbs1+1TO53MfE6rKpL7Jo5W6axDmjtylA9Or3Vtb9FsHc=;VC+k9ORmvFf/9BGXbjBzOQ=="
 ---
 

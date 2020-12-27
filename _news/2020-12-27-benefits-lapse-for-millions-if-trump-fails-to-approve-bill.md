@@ -717,6 +717,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Unemployment benefits for millions in limbo as Trump rages"
+    excerpt: "Unemployment benefits for millions of Americans are set to lapse at midnight unless President Donald Trump signs an end-of-year COVID relief and spending bill that had been considered a done deal befo"
+    publishedDateTime: 2020-12-26T23:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/unemployment-benefits-millions-limbo-trump-rages-74917450"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/unemployment-benefits-millions-limbo-trump-rages-74917450"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/unemployment-benefits-millions-limbo-trump-rages-74917450"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_2653ada68fa242c6a619f961c5838f69_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump is still pinning his hopes on one last lawsuit in Michigan to overturn the presidential election"
     excerpt: "President Donald Trump said a report written by his allies in a lawsuit over a small Michigan county's Marijuana measure reveals \"massive fraud.\""
     publishedDateTime: 2020-12-17T00:08:00Z
@@ -1192,6 +1208,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/12/25/story_08266621_1608885604.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Benefits Lapse for Millions as Trump Fails to Approve Stimulus"
+    excerpt: "Millions of Americans began to see their unemployment benefits expire on Saturday because President Donald Trump has so far refused to sign a bipartisan stimulus package."
+    publishedDateTime: 2020-12-26T23:33:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/benefits-lapse-for-millions-as-trump-fails-to-approve-stimulus/2020/12/26/34cc0e22-47a9-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EGDDPXSHVEI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump continues attempts to overturn election..."
     excerpt: "Watch \"Trump continues attempts to overturn election results\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."

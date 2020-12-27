@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-says-cyber-attack-happened-on
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching.amp"
 type: article
 quality: 188
-heat: 368
+heat: 388
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48694bc-fcc1-4336-bf59-e0584bc8a4e1/369eedf1-67e3-45b8-81ce-9a7ed8e49f01/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "President Trump Spends Christmas at Mar-a-Lago, and Joe Biden in Delaware"
+    excerpt: "The president is spending Christmas at his private Florida club and President-elect Joe Biden will remain in Delaware, the unofficial headquarters of his transition to the White House."
+    publishedDateTime: 2020-12-26T01:10:00Z
+    webUrl: "https://www.wsj.com/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-278203/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump says he has 'nothing to do' with 'potential prosecution' of Hunter Biden"
     excerpt: "President Trump on Thursday said he has \"NOTHING to do\" with the \"potential prosecution\" of President-elect Joe Biden’s son, calling the fallout surrounding Hunter Biden’s confirmation that he is under federal investigation \"very sad to watch."

@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Pres. Trump remains silent on COVID 19 surge"
-excerpt: "Watch \"Pres. Trump remains silent on COVID 19 surge\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2020-12-25T07:36:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201225083614-pres-trump-remains-silent-on-covid-19-surge/"
-webUrl: "https://www.cbsnews.com/live/video/20201225083614-pres-trump-remains-silent-on-covid-19-surge/"
+title: "Unemployment benefits for millions in limbo as Trump rages"
+excerpt: "Unemployment benefits for millions of Americans are set to lapse at midnight unless President Donald Trump signs an end-of-year COVID relief and spending bill that had been considered a done deal befo"
+publishedDateTime: 2020-12-26T23:05:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/unemployment-benefits-millions-limbo-trump-rages-74917450"
+webUrl: "https://abcnews.go.com/Politics/wireStory/unemployment-benefits-millions-limbo-trump-rages-74917450"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/unemployment-benefits-millions-limbo-trump-rages-74917450"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/unemployment-benefits-millions-limbo-trump-rages-74917450"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/25/story_08266621_1608885604.jpg"
-    width: 1280
-    height: 720
+  - url: "https://s.abcnews.com/images/Politics/WireAP_2653ada68fa242c6a619f961c5838f69_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -717,22 +719,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Unemployment benefits for millions in limbo as Trump rages"
-    excerpt: "Unemployment benefits for millions of Americans are set to lapse at midnight unless President Donald Trump signs an end-of-year COVID relief and spending bill that had been considered a done deal befo"
-    publishedDateTime: 2020-12-26T23:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/unemployment-benefits-millions-limbo-trump-rages-74917450"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/unemployment-benefits-millions-limbo-trump-rages-74917450"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/unemployment-benefits-millions-limbo-trump-rages-74917450"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_2653ada68fa242c6a619f961c5838f69_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump is still pinning his hopes on one last lawsuit in Michigan to overturn the presidential election"
     excerpt: "President Donald Trump said a report written by his allies in a lawsuit over a small Michigan county's Marijuana measure reveals \"massive fraud.\""
     publishedDateTime: 2020-12-17T00:08:00Z
@@ -1195,6 +1181,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Pres. Trump remains silent on COVID 19 surge"
+    excerpt: "Watch \"Pres. Trump remains silent on COVID 19 surge\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-25T07:36:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201225083614-pres-trump-remains-silent-on-covid-19-surge/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/25/story_08266621_1608885604.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Benefits Lapse for Millions as Trump Fails to Approve Stimulus"
     excerpt: "Millions of Americans began to see their unemployment benefits expire on Saturday because President Donald Trump has so far refused to sign a bipartisan stimulus package."
     publishedDateTime: 2020-12-26T23:33:00Z
@@ -1382,6 +1382,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "2GC8Cht4ndOtyWjDbbW+KMoeWHWndWOrhvNgUFFEMHB6GCmZ6itazqKq65/5MaGfew3sKRPNVdN1jH0AY/sgVM8G2SMIk3NMqPNsm0ambWvo1OsuYhZdP+fvOOl0sHzr6ISYGZry+hLIFDam9aqkFWX2xUSfCkuQu+laUInHOPnM57nLGQe3GPH6ODp9qOEJLxmqlRlfZkzy5Rm6qp5HXkEyHGESHtMapvJ9XhAK7Vi+jw2PmggbKEu8krlMNR0QYWPYcJdPXF24lw1qz5UPch8W6AKrIB89x3CTeNXU3pQryMeJ9mGpNvItNLmvuVnhcvVfo1s3x35Go7nRLCcO+ZFY1C0AZEgBhE2Pq4wcy1k=;aNQMZo2wZdzXiq4J+CJFtg=="
+secured: "BSBRJBtEbJcR9zRLRZeDjak7M3F0yv7790HvfBFcXpDBmrE8t2ELiP+FMjfEdSlGYqHpgXBvAAh9oejHJHdXvW8A3iKrtedo10PavAMAPllNI5DLFEAUioPh7m1kUFnqc4f1A+YEEbWO7BcireFURCKtEiiiOXtmzdAhrg3De6kIOv+ypMVly6+j0izOx34lGC+3YOVhwu/UnbQJRjKHQ/7BAFafgfzzCBhB5u9IoWRLJ2E6+AdKocbd1YbkE0zg1qBQKr0+53UXX0b4S5Bt1WN6MTaa341IacOqIn1qSaDI/jZnFOWcJfTcbZ9kkAwJKOAJ+WvFWXwHhs6n+yN86BPXR8jhryOj9ZHXyGCjOCs=;Msp+oEylZIHhpBmUpq1ihw=="
 ---
 
