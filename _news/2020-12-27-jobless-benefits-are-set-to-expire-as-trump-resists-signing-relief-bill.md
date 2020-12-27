@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Snowden allies see opening amid Trump clemency blitz"
-excerpt: "Republican members of Congress who have spoken with the president recently view him as increasingly malleable to their suggestions in his closing days."
-publishedDateTime: 2020-12-24T21:51:00Z
-originalUrl: "https://www.politico.com/news/2020/12/24/snowden-allies-trump-pardons-450360"
-webUrl: "https://www.politico.com/news/2020/12/24/snowden-allies-trump-pardons-450360"
+title: "Jobless Benefits Are Set to Expire as Trump Resists Signing Relief Bill"
+excerpt: "Millions of Americans were set to lose crucial jobless aid, as the president continued to criticize the bill that would keep the programs from lapsing."
+publishedDateTime: 2020-12-26T23:55:00Z
+originalUrl: "https://www.nytimes.com/2020/12/26/us/politics/trump-unemployment-coronavirus-aid.html"
+webUrl: "https://www.nytimes.com/2020/12/26/us/politics/trump-unemployment-coronavirus-aid.html"
+ampWebUrl: "https://www.nytimes.com/2020/12/26/us/politics/trump-unemployment-coronavirus-aid.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/26/us/politics/trump-unemployment-coronavirus-aid.amp.html"
 type: article
-quality: 115
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/7f/b8/4df041274859972d57fd8800eaa2/ap19308706751660-1-1.jpg"
-    width: 1160
-    height: 773
+  - url: "https://static01.nyt.com/images/2020/12/27/lens/26dc-stimulus-sub/27weekend-briefing-stimulus-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -174,22 +176,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Jobless Benefits Are Set to Expire as Trump Resists Signing Relief Bill"
-    excerpt: "Millions of Americans were set to lose crucial jobless aid, as the president continued to criticize the bill that would keep the programs from lapsing."
-    publishedDateTime: 2020-12-26T23:55:00Z
-    webUrl: "https://www.nytimes.com/2020/12/26/us/politics/trump-unemployment-coronavirus-aid.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/26/us/politics/trump-unemployment-coronavirus-aid.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/26/us/politics/trump-unemployment-coronavirus-aid.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/27/lens/26dc-stimulus-sub/27weekend-briefing-stimulus-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "‘Like a Hand Grasping’: Trump Appointees Describe the Crushing of the C.D.C."
     excerpt: "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, go public on the Trump administration’s manipulation of the agency."
     publishedDateTime: 2020-12-16T10:00:00Z
@@ -220,6 +206,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Snowden allies see opening amid Trump clemency blitz"
+    excerpt: "Republican members of Congress who have spoken with the president recently view him as increasingly malleable to their suggestions in his closing days."
+    publishedDateTime: 2020-12-24T21:51:00Z
+    webUrl: "https://www.politico.com/news/2020/12/24/snowden-allies-trump-pardons-450360"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/7f/b8/4df041274859972d57fd8800eaa2/ap19308706751660-1-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump squeezes Republicans with eye on 2022 primaries"
     excerpt: "The president is lashing out at Republicans he sees as disloyal — and the GOP is seeing how Trump's interests can diverge from the party's."
     publishedDateTime: 2020-12-24T21:35:00Z
@@ -235,6 +235,6 @@ related:
         height: 773
         isCached: true
 
-secured: "+Hjw7EIPIeNF1EKeXZKzX/1Im4Qqpwg3GnWCFtX0SdoxC59ey+mNHV3eKphj6jVX54JFV5cR2emsyFC/EQkOxN/EceoeASQbUTC7pXNP5k3g35S64/V3J3BQmveJyVrQeF95z3BLfD04iave70NrMbr/sFXPyVXrKH9GRzWrD0rRze9vBLp/Oww4NZocZW/075NGHma6+1d4cGE2GF0OGgjdqq7KO/69+yq7sBoSgRn0tUFGFdkNSVyGFulAW9p62quhNtvDBuCx7DOagqnOmzR//TsOP7iw+Mbom9VG6VZkCb9jO07zxarJjhtcUwdnb9JsbF0aVPf3c26/zCG/abFrzVRrxH5p5vs9akwLx2rLRq0mF161G1G2BymZBRnhU5UkDwREq0Fry0kLltSmhYgasl4MNFcFr9wbwSIGfJ+PN5jJpl01VZACoOpiO7Kn9vqJpvyqlkEysqZm8FaqQasUbE9ius0pFXrGAnVcxAyQA292XDzjIMulrqp/O/g+g5RYRAKr5pv1ImlDQijOpw==;xtHgEAtg2zZ68td5Tysv/A=="
+secured: "qt0krDB9qJrixJk1mH5x7DGi4BoPUVZVjCBi+9wZY0l2oALnfsA1Uak0xvWkXVDlWoFxNijqSiBW+9LfgCXtj6dV4Sfzalg5uBhu1UCQRCYZOv+84FVpq3eWdg7ii3rGVJYccIC2YRLV8Bf5WX5ItGyR2tgzt6j470IiEJyb+sZZ3V2KMGKrTupHhpd2B+vWmIjayJP7W1/EQ18vn5CCG1oWK1X0xnekf7LpJB1fyZeiKx7BDkEhDwX/98mcymaQpWP3wmTq/apUqxakkXUxcItp7y2ctuQJ/YOixYwyerBuZx7sDOS9hmG5rb/Iwvw0TLuG4o5KMnlzcA33KVLDn8sLFxwQrCLrsjQe4lt/jsE=;I7jbtFL3PRthzgeAlSaNPA=="
 ---
 

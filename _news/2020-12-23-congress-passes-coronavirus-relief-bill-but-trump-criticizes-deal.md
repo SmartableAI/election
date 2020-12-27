@@ -160,6 +160,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Jobless Benefits Are Set to Expire as Trump Resists Signing Relief Bill"
+    excerpt: "Millions of Americans were set to lose crucial jobless aid, as the president continued to criticize the bill that would keep the programs from lapsing."
+    publishedDateTime: 2020-12-26T23:55:00Z
+    webUrl: "https://www.nytimes.com/2020/12/26/us/politics/trump-unemployment-coronavirus-aid.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/26/us/politics/trump-unemployment-coronavirus-aid.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/26/us/politics/trump-unemployment-coronavirus-aid.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/27/lens/26dc-stimulus-sub/27weekend-briefing-stimulus-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "‘Like a Hand Grasping’: Trump Appointees Describe the Crushing of the C.D.C."
     excerpt: "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, go public on the Trump administration’s manipulation of the agency."
     publishedDateTime: 2020-12-16T10:00:00Z
