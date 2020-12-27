@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump meets U.S. House Republican allies to push voter fraud claims"
-excerpt: "U.S. President Donald Trump met a group of Republican lawmakers on Monday in his thus-far fruitless bid to gain momentum for claims that the Nov. 3 presidential election won by Democrat Joe Biden was rigged."
-publishedDateTime: 2020-12-22T06:05:00Z
-originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28W02W"
-webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28W02W"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W02W"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W02W"
+title: "Republican and Democratic lawmakers to Trump: ‘Sign the bill, Mr. President’"
+excerpt: "Republican and Democratic lawmakers urged President Trump Dec. 27 to sign the bipartisan stimulus bill, which sits at his Mar-a-Lago resort, as the government shutdown deadline loomed."
+publishedDateTime: 2020-12-27T22:07:00Z
+originalUrl: "https://www.washingtonpost.com/video/politics/republican-and-democratic-lawmakers-to-trump-sign-the-bill-mr-president/2020/12/27/47cb2fd7-2190-4875-a6a2-8aaf6b8822d4_video.html"
+webUrl: "https://www.washingtonpost.com/video/politics/republican-and-democratic-lawmakers-to-trump-sign-the-bill-mr-president/2020/12/27/47cb2fd7-2190-4875-a6a2-8aaf6b8822d4_video.html"
 type: article
-quality: 125
+quality: 102
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545385302&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL019"
-    width: 817
-    height: 545
+  - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-27-2020/t_f044b9b2f3c84f10bc10a1c55a58cf04_name_01_SundayShow.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+    width: 1484
+    height: 834
     isCached: true
 
 related:
@@ -78,6 +76,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/696A/production/_116268962_gettyimages-1230097563.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Trump meets U.S. House Republican allies to push voter fraud claims"
+    excerpt: "U.S. President Donald Trump met a group of Republican lawmakers on Monday in his thus-far fruitless bid to gain momentum for claims that the Nov. 3 presidential election won by Democrat Joe Biden was rigged."
+    publishedDateTime: 2020-12-22T06:05:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28W02W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W02W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W02W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545385302&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL019"
+        width: 817
+        height: 545
         isCached: true
   - title: "Millions of Americans lose jobless benefits as Trump refuses to sign aid bill"
     excerpt: "Millions of Americans saw their jobless benefits expire on Saturday after U.S. President Donald Trump refused to sign into law a $2.3 trillion pandemic aid and spending package, protesting that it did not do enough to help everyday people."
@@ -200,20 +214,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Republican and Democratic lawmakers to Trump: ‘Sign the bill, Mr. President’"
-    excerpt: "Republican and Democratic lawmakers urged President Trump Dec. 27 to sign the bipartisan stimulus bill, which sits at his Mar-a-Lago resort, as the government shutdown deadline loomed."
-    publishedDateTime: 2020-12-27T22:07:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/republican-and-democratic-lawmakers-to-trump-sign-the-bill-mr-president/2020/12/27/47cb2fd7-2190-4875-a6a2-8aaf6b8822d4_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-27-2020/t_f044b9b2f3c84f10bc10a1c55a58cf04_name_01_SundayShow.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
   - title: "In Christmas messages, Biden commiserates with COVID victims; Trump barely mentions virus"
     excerpt: "In dueling Christmas messages to the nation Friday, Joe Biden commiserated with Americans who’ve lost loved ones or their livelihoods because of coronavirus — while President Trump barely made mention of the pandemic that‘s killed over 330,"
     publishedDateTime: 2020-12-25T20:27:00Z
@@ -263,6 +263,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "OTiFOQ1Ml9g3m2si5T5GUN1zq4hWDbHgKcr91yJ7yiPM/UUaZoUl6HZDT0dyTns1YaBpTDOzKJgG0wTbV08jvNRaceJDshrqzY9HEuW3e/okrNeQviYVw/sSTA1lsLm6mAGYHTtwhKvfHw80mCx/A+qvMCxZGcRbKFp/JHMalmJt9+kWQsZ8Y3FLH3QzbOJvUh3+7NaBqdTMcUfXj2hlkGF2c8zK4NLGWjm9BXcfxbLvCNjK4oL9VBg4+XhUcRqw2ghRTjwxDbtwCK0oBcgUqVktww9i+3nzR24qOqEFfmWZrgpQbRzww0AyjrW6Y9vwhS3v1JGFXtXScWKC3sfOEuXITx6S4EZ/b1scWTMziuE=;WXEprD7GtN+6wzKnp9VIXw=="
+secured: "XvExFWx0z5gRCGr2nTdISMW56q+VOagl6OaZlvVGO1tDrNWV0gUvaEXM9kbAxjOU6GrRxk5RuWVqNkUBnttP7t/t2kk+yssjUYP5nAbDQKxIA0rrdnaYpdib9Lc1abGjZIn2dg32ysCuu/ipQcGpwkoCLQfBu1JOOn/urRFkrAsT4zY5YOy2MJ/zE4x6/VnxkvvAX9CI9LGJlnkkWHXC08BceoU6KMeZIdcQezNoieUEYXK1rKszEOMPCbXRCCRIfQb855VkYdurPmD45+da9hfZ6GqFYeH343AnOl6l/pegpF3V6Q3HeCMGTD4cOs2NS/Dbpecnt8PdMv5VhLB29/JKSm17r9DD9E2HlD0s280=;l5F7jIKvkRYz3dIXMgBu7w=="
 ---
 

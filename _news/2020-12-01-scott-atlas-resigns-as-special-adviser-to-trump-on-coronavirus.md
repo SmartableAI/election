@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3AS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3AS"
 type: article
 quality: 125
-heat: 525
+heat: 545
 published: true
 
 provider:
@@ -222,6 +222,22 @@ related:
       - url: "https://i.insider.com/5fcfadfe240ebd00126bdafa?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Bipartisan lawmakers urge Trump to either sign or immediately veto coronavirus relief bill"
+    excerpt: "A bipartisan group of lawmakers from both chambers of Congress on Sunday reissued their call for President Trump to sign a nearly $1 trillion COVID-19 relief package – or to immediately veto it."
+    publishedDateTime: 2020-12-27T22:21:00Z
+    webUrl: "https://thehill.com/homenews/senate/531769-bipartisan-lawmakers-urge-trump-to-either-sign-or-immediately-veto"
+    ampWebUrl: "https://thehill.com/homenews/senate/531769-bipartisan-lawmakers-urge-trump-to-either-sign-or-immediately-veto?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/531769-bipartisan-lawmakers-urge-trump-to-either-sign-or-immediately-veto?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 115
+    images:
+      - url: "https://thehill.com/sites/default/files/manchinjoe_collinssusan_warnermark_121420gn_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Bowser pushes Trump administration to send more coronavirus vaccines for health-care workers"
     excerpt: "In a letter, D.C.’s mayor says the city will be able to inoculate only a small number of its health-care workers because of a population-based distribution formula."

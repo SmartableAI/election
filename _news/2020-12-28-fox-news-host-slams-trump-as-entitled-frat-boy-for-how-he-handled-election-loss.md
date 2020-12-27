@@ -1,27 +1,33 @@
 ---
 category: news
-title: "West Virginia’s electors cast votes for Trump, Pence"
-excerpt: "West Virginia’s members of the Electoral College met on Monday with each member voting for President Donald Trump and Vice President Mike Pence. Secretary of State Mac Warner oversaw the vote, which took place at the state Capitol."
-publishedDateTime: 2020-12-15T14:10:00Z
-originalUrl: "https://wvmetronews.com/2020/12/15/west-virginias-electors-cast-votes-for-trump-pence/"
-webUrl: "https://wvmetronews.com/2020/12/15/west-virginias-electors-cast-votes-for-trump-pence/"
+title: "Fox News Host Slams Trump As ‘Entitled Frat Boy’ For How He Handled Election Loss"
+excerpt: "Geraldo Rivera, a Trump-supporter, is fed up with how the president is handling the loss of the election and thinks it's time to give it up."
+publishedDateTime: 2020-12-27T22:19:00Z
+originalUrl: "https://www.ibtimes.com/fox-news-host-slams-trump-entitled-frat-boy-how-he-handled-election-loss-3110159"
+webUrl: "https://www.ibtimes.com/fox-news-host-slams-trump-entitled-frat-boy-how-he-handled-election-loss-3110159"
+ampWebUrl: "https://www.ibtimes.com/fox-news-host-slams-trump-entitled-frat-boy-how-he-handled-election-loss-3110159?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/fox-news-host-slams-trump-entitled-frat-boy-how-he-handled-election-loss-3110159?amp=1"
 type: article
-quality: 70
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: West Virginia MetroNews
-  domain: wvmetronews.com
+  name: International Business Times
+  domain: ibtimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
 
 images:
-  - url: "https://wvmetronews.com/wp-content/uploads/2018/10/Vote-1.jpg"
-    width: 542
-    height: 350
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/11/29/rivera.jpg"
+    width: 903
+    height: 1200
     isCached: true
 
 related:
@@ -1370,22 +1376,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Fox News Host Slams Trump As ‘Entitled Frat Boy’ For How He Handled Election Loss"
-    excerpt: "Geraldo Rivera, a Trump-supporter, is fed up with how the president is handling the loss of the election and thinks it's time to give it up."
-    publishedDateTime: 2020-12-27T22:19:00Z
-    webUrl: "https://www.ibtimes.com/fox-news-host-slams-trump-entitled-frat-boy-how-he-handled-election-loss-3110159"
-    ampWebUrl: "https://www.ibtimes.com/fox-news-host-slams-trump-entitled-frat-boy-how-he-handled-election-loss-3110159?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/fox-news-host-slams-trump-entitled-frat-boy-how-he-handled-election-loss-3110159?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 85
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/11/29/rivera.jpg"
-        width: 903
-        height: 1200
-        isCached: true
   - title: "A Lincoln Project ad reportedly turned Trump against Mike Pence. Pence is now bending."
     excerpt: "President Trump has turned against everyone he thinks isn't fighting to keep in office after he lost the Nov. 3 election, according to several reports and Trump tweets, and among those the president considers insufficiently loyal is Vice President Mike Pence,"
     publishedDateTime: 2020-12-23T08:30:00Z
@@ -1417,6 +1407,20 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/eee/568/bbb59b0e7ed8eb2b4df67f90db6baef20e-that-happened-boyscouts.1x.rsocial.w1200.jpg"
         width: 1200
         height: 632
+        isCached: true
+  - title: "West Virginia’s electors cast votes for Trump, Pence"
+    excerpt: "West Virginia’s members of the Electoral College met on Monday with each member voting for President Donald Trump and Vice President Mike Pence. Secretary of State Mac Warner oversaw the vote, which took place at the state Capitol."
+    publishedDateTime: 2020-12-15T14:10:00Z
+    webUrl: "https://wvmetronews.com/2020/12/15/west-virginias-electors-cast-votes-for-trump-pence/"
+    type: article
+    provider:
+      name: West Virginia MetroNews
+      domain: wvmetronews.com
+    quality: 70
+    images:
+      - url: "https://wvmetronews.com/wp-content/uploads/2018/10/Vote-1.jpg"
+        width: 542
+        height: 350
         isCached: true
   - title: "Idaho’s 4 electors cast votes for Trump and Pence"
     excerpt: "All four of Idaho’s Republican electors have cast their ballots for President Donald Trump and Vice President Mike Pence."
@@ -1474,6 +1478,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "4wJqWvIVHbUY2S7FSr1ChC2tR30yird4LuZ+S41hX2WsbexnmE0sg1H9c7JXJ3wRkq+3Oxc2oiCkDrB7ChG60WW23dzIK/fK7R9hDHSzlQKlRiWcTlOhAaARXnu7wajsiEM8jvBywttaU2ymFIYNIM0rE9kEcGejSVH8BipsWJkxIr6S49WB64oBOrIXyMhPaPmzZw2lxT7ctO71Gco7UG7zRvVPeiAnXfmMGmwwuNuV4hvRPDHrzaDCq1G26Fz7Chny5aiK6s0jjrh+Dkk+w/HFA4PtwKgU27WSjARPITGi3Uqi5GXu8iCuxMEE1IRQDwOLnegUXwdwSHEYw7h67K9mura1TcsGUPE+o4DR4M0=;pZkBSVr1WPCyZwJqdC25FQ=="
+secured: "44+7At7y674MO+SddZpj3Fst4SefFVvfBM8zS8waBF+ZFrV6hErKduMuWjdgepI5C26Uzy6iUr1KFnJn2+4T5BVKcylNt2pptUbnpExOGDZooPYxq8V249jxmSIOPnSoSSn3dUlhLnN43n4OJW+KhjfWEQrVOGGfXyR0tcFSgtbkbVQhqJkCXkfF7sxj+kznJYH2AlBg+PT2cVMBAdj5/SE7gXrPxwsYH/z0vtWKn1ivuLatixQtWZBFqGxQ7/GURAZDX3LtVXUJ36bU/iUtYg3SEjmM0cPjYBmNMSOloVJyING/A+rL8GVpsohlNGniWzDQAFkIqXTmp8eTa7pPh9JVES7Ilw5TQ7Jn2IcTooA=;uk62ntV4SsldSUs+JhjfPQ=="
 ---
 

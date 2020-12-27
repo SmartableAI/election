@@ -203,6 +203,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump was defeated, but the election brought no resolution to a long struggle for political power"
+    excerpt: "The Biden administration will come to office confronting two Americas with competing values and beliefs and mutual distrust of one another."
+    publishedDateTime: 2020-12-27T22:25:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-was-defeated-but-the-election-brought-no-resolution-to-a-long-struggle-for-political-power/2020/12/27/739346c0-40a1-11eb-8db8-395dedaaa036_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-was-defeated-but-the-election-brought-no-resolution-to-a-long-struggle-for-political-power/2020/12/27/739346c0-40a1-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-was-defeated-but-the-election-brought-no-resolution-to-a-long-struggle-for-political-power/2020/12/27/739346c0-40a1-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 127
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/37OLMGBAOEI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Donald Trump Retweets Leading Figure in QAnon Conspiracy Theory"
     excerpt: "The QAnon online community has recently helped to spread unfounded allegations about Dominion voting machines."
     publishedDateTime: 2020-12-15T10:01:00Z
@@ -1339,6 +1355,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/sjm-utbreak-Trump-Vaccine_79646317.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Fox News Host Slams Trump As ‘Entitled Frat Boy’ For How He Handled Election Loss"
+    excerpt: "Geraldo Rivera, a Trump-supporter, is fed up with how the president is handling the loss of the election and thinks it's time to give it up."
+    publishedDateTime: 2020-12-27T22:19:00Z
+    webUrl: "https://www.ibtimes.com/fox-news-host-slams-trump-entitled-frat-boy-how-he-handled-election-loss-3110159"
+    ampWebUrl: "https://www.ibtimes.com/fox-news-host-slams-trump-entitled-frat-boy-how-he-handled-election-loss-3110159?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/fox-news-host-slams-trump-entitled-frat-boy-how-he-handled-election-loss-3110159?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 85
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/11/29/rivera.jpg"
+        width: 903
+        height: 1200
         isCached: true
   - title: "A Lincoln Project ad reportedly turned Trump against Mike Pence. Pence is now bending."
     excerpt: "President Trump has turned against everyone he thinks isn't fighting to keep in office after he lost the Nov. 3 election, according to several reports and Trump tweets, and among those the president considers insufficiently loyal is Vice President Mike Pence,"

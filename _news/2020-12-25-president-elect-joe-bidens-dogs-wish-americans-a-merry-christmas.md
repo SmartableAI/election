@@ -2,13 +2,13 @@
 category: news
 title: "President-elect Joe Biden’s dogs wish Americans a Merry Christmas"
 excerpt: "President-elect Joe Biden’s dogs Champ and Major wished Americans a merry Christmas on Thursday — and gave the public a glimpse of what the White House is in for next month."
-publishedDateTime: 2020-12-25T03:03:25Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WOcKrvQGgVE/president-elect-joe-bidens-dogs-christmas"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WOcKrvQGgVE/president-elect-joe-bidens-dogs-christmas"
+publishedDateTime: 2020-12-25T03:17:00Z
+originalUrl: "https://www.foxnews.com/politics/president-elect-joe-bidens-dogs-christmas"
+webUrl: "https://www.foxnews.com/politics/president-elect-joe-bidens-dogs-christmas"
 ampWebUrl: "https://www.foxnews.com/politics/president-elect-joe-bidens-dogs-christmas.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-elect-joe-bidens-dogs-christmas.amp"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -112,6 +113,6 @@ related:
         height: 800
         isCached: true
 
-secured: "++qOssoGyZfeOekKcmnEscdmM3WE71XmEJjwuKVvGRWKJjYfDzSECNmIqKElNTapj/ss1Eld/C8BnB+i+hlhq1RB2PqP93Rsot+PbRKXLlMGtYwy3ZAnK31oj04bEqu9+1BJPh4uxEKTQZeSxnDtolsEanIaTZpmc9aO+Z8PnXySSTGxxvPIB2HWMoGwMcX/eZ6MFRlaGmpgsNyPZo0orUjTao//0H3cMR7mmWU6ppO2fPmbdV5niFpm4EabokBJ6rt6ve5pM3OOi7mI/9JRvBWOOPGAHjW1N3tKhVgmgRGD6VvESoE3U2a1aNTbs6SfXXgfI3QHeVkCF+mmfD2GkIy6p7nNGTZ3xFKJb0fLgCE=;RnUXuzIrhn66J4NrMg/odA=="
+secured: "EsVQreHAZ3dFSMBEIbL7XB4AaZRQ1GRxasXukVPeR6Ikg3uGe0MJsrKBR0sNFDzd7OY4Nd9/Uo8Ihm1HGnAcSoH0ZOPS4TaH7Mk0UrWkKiExKkcCDnHovfIIDq5qSYM+6fdrR2qOh1i8sjQPHF9mQfj0n+Gd+4Q6ITSdZPqY7vrwCoavrqgbRoKilGEf5pHVkXKh8vi5FWyWCueh6m+vDAmERIAW0EWjuZZyzgQ2Ow3tp+dGJzVP3zFOBENJze+7LPA0tWMGv1HgJyUJkb7+PMEZPXH58j3kBsIMaIE73CSiJDRcbkDfj4dD0vxzPeFjgo7GvavuDRk+05EaMMqGjD/rQKpw2zYV6G+aDfjyIXs=;tfCBj8uchjcT7dhQuWAuxw=="
 ---
 

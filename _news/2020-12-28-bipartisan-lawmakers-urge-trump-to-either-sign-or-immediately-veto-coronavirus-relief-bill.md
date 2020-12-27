@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Coronavirus aid at risk as U.S. lawmakers block Trump's changes"
-excerpt: "U.S. lawmakers on Thursday blocked attempts to alter a $2.3 trillion coronavirus aid and government spending package, rejecting President Donald Trump's demand for extensive changes and leaving benefits for millions of Americans at risk."
-publishedDateTime: 2020-12-25T06:55:00Z
-originalUrl: "https://www.reuters.com/article/usa-trump-idINKBN28Y1PO"
-webUrl: "https://www.reuters.com/article/usa-trump-idINKBN28Y1PO"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28Y1PO"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28Y1PO"
+title: "Bipartisan lawmakers urge Trump to either sign or immediately veto coronavirus relief bill"
+excerpt: "A bipartisan group of lawmakers from both chambers of Congress on Sunday reissued their call for President Trump to sign a nearly $1 trillion COVID-19 relief package – or to immediately veto it."
+publishedDateTime: 2020-12-27T22:21:00Z
+originalUrl: "https://thehill.com/homenews/senate/531769-bipartisan-lawmakers-urge-trump-to-either-sign-or-immediately-veto"
+webUrl: "https://thehill.com/homenews/senate/531769-bipartisan-lawmakers-urge-trump-to-either-sign-or-immediately-veto"
+ampWebUrl: "https://thehill.com/homenews/senate/531769-bipartisan-lawmakers-urge-trump-to-either-sign-or-immediately-veto?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/531769-bipartisan-lawmakers-urge-trump-to-either-sign-or-immediately-veto?amp"
 type: article
-quality: 125
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: The Hill
+  domain: thehill.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201225&t=2&i=1545752768&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN10C"
-    width: 757
-    height: 545
+  - url: "https://thehill.com/sites/default/files/manchinjoe_collinssusan_warnermark_121420gn_lead.jpg"
+    width: 980
+    height: 551
     isCached: true
 
 related:
@@ -92,6 +92,22 @@ related:
     quality: 125
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545681844&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN0TF"
+        width: 757
+        height: 545
+        isCached: true
+  - title: "Coronavirus aid at risk as U.S. lawmakers block Trump's changes"
+    excerpt: "U.S. lawmakers on Thursday blocked attempts to alter a $2.3 trillion coronavirus aid and government spending package, rejecting President Donald Trump's demand for extensive changes and leaving benefits for millions of Americans at risk."
+    publishedDateTime: 2020-12-25T06:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-idINKBN28Y1PO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28Y1PO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28Y1PO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201225&t=2&i=1545752768&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN10C"
         width: 757
         height: 545
         isCached: true
@@ -223,22 +239,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Bipartisan lawmakers urge Trump to either sign or immediately veto coronavirus relief bill"
-    excerpt: "A bipartisan group of lawmakers from both chambers of Congress on Sunday reissued their call for President Trump to sign a nearly $1 trillion COVID-19 relief package – or to immediately veto it."
-    publishedDateTime: 2020-12-27T22:21:00Z
-    webUrl: "https://thehill.com/homenews/senate/531769-bipartisan-lawmakers-urge-trump-to-either-sign-or-immediately-veto"
-    ampWebUrl: "https://thehill.com/homenews/senate/531769-bipartisan-lawmakers-urge-trump-to-either-sign-or-immediately-veto?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/531769-bipartisan-lawmakers-urge-trump-to-either-sign-or-immediately-veto?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 115
-    images:
-      - url: "https://thehill.com/sites/default/files/manchinjoe_collinssusan_warnermark_121420gn_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Bowser pushes Trump administration to send more coronavirus vaccines for health-care workers"
     excerpt: "In a letter, D.C.’s mayor says the city will be able to inoculate only a small number of its health-care workers because of a population-based distribution formula."
     publishedDateTime: 2020-12-03T22:53:00Z
@@ -351,6 +351,6 @@ related:
         height: 682
         isCached: true
 
-secured: "hRpFv8/Y74uZy/JajTO1G3uFtyfgyn2vNK7wLNacv2N+++iKHySZRF/+J695Dybn3SSEAL8j9o8c7f6njJfUqjyjPoltE7zMx2y9NLfjvrXoeLC/tP/G5SqcHZC8gzJPuUvKDSyj4+PuX8nhzl6L9c3HYOS4v0AH6KxR3Vx2z1/Sdn3P2PxIZRXnrmjVg+dWD/HxN9woneZmsWgNZnSyioJIrFmUdBuYrSS02PKK8lvqQKt1G22ZVK+negubxWdLhuOFB6NVMDkKE716+rVfqd39sqqObQEr+pd+pI19RpCT+n4YU5R4mfifvN5k0/FSFGWgN3pb6GCbJybpaeJYhRy8mcgXEm18WxBXwXbmOo67mm2p8EVGlclXmVDMKYCkbqtkjmRBjOxOuSAkf5DrMuKibwdqFTd51IblUt4XmRmBDRjP3mm+SCsG7T8bny8u5lMcicmw5EPGNAOnGD0T81siNvigCfmKUpl9D0APadvYLGQ//23qdU5Dcuz/7hEGVNtVYiW6mjXHcHwNu14rTg==;8setkmZwW9m2ufgwNjyThA=="
+secured: "WnK+fhq717rm/eiEiaWvpD2KzjWmewutHlpEOgBWvZCdp7FDbn+I5COLXVDo7Tz0tiUrChMfDFCMtr1DxYrRyZHYybpkshgbQ8qnjF0RULkCKx/t1WgQ+0EYhzO6K+0UUJnjwVE9mmzBJfe68AT9v5iUM9D9s8+S813GIFpyhp/B3nSMgcLDwZIJCSpn4tBGjjr/hiATix6D/22PO8C1BOHNRWxFJ36qlBSfWiFjTudEJg3jd0yZUdcnKajfD6Aa7MQhUhYTWvmQSqFKl8MqkX67a5Al0Q08QBwsJzc7HcUNj9fh838cSXuFzA8Zy/Avq9czhToyL4KF+8iAbxtBWCKf3KQH4h+QxbLNYDkRpCE=;NgvHor52FLEx77AGWT6bsw=="
 ---
 

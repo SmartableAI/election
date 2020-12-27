@@ -1,27 +1,33 @@
 ---
 category: news
-title: "West Virginia’s electors cast votes for Trump, Pence"
-excerpt: "West Virginia’s members of the Electoral College met on Monday with each member voting for President Donald Trump and Vice President Mike Pence. Secretary of State Mac Warner oversaw the vote, which took place at the state Capitol."
-publishedDateTime: 2020-12-15T14:10:00Z
-originalUrl: "https://wvmetronews.com/2020/12/15/west-virginias-electors-cast-votes-for-trump-pence/"
-webUrl: "https://wvmetronews.com/2020/12/15/west-virginias-electors-cast-votes-for-trump-pence/"
+title: "Trump was defeated, but the election brought no resolution to a long struggle for political power"
+excerpt: "The Biden administration will come to office confronting two Americas with competing values and beliefs and mutual distrust of one another."
+publishedDateTime: 2020-12-27T22:25:00Z
+originalUrl: "https://www.washingtonpost.com/politics/trump-was-defeated-but-the-election-brought-no-resolution-to-a-long-struggle-for-political-power/2020/12/27/739346c0-40a1-11eb-8db8-395dedaaa036_story.html"
+webUrl: "https://www.washingtonpost.com/politics/trump-was-defeated-but-the-election-brought-no-resolution-to-a-long-struggle-for-political-power/2020/12/27/739346c0-40a1-11eb-8db8-395dedaaa036_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/trump-was-defeated-but-the-election-brought-no-resolution-to-a-long-struggle-for-political-power/2020/12/27/739346c0-40a1-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-was-defeated-but-the-election-brought-no-resolution-to-a-long-struggle-for-political-power/2020/12/27/739346c0-40a1-11eb-8db8-395dedaaa036_story.html?outputType=amp"
 type: article
-quality: 70
+quality: 127
 heat: -1
 published: false
 
 provider:
-  name: West Virginia MetroNews
-  domain: wvmetronews.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
 
 images:
-  - url: "https://wvmetronews.com/wp-content/uploads/2018/10/Vote-1.jpg"
-    width: 542
-    height: 350
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/37OLMGBAOEI6XLKTJQP5USMQPU.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -200,22 +206,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/ron-johnson-rt-jt-201216_1608143370616_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Trump was defeated, but the election brought no resolution to a long struggle for political power"
-    excerpt: "The Biden administration will come to office confronting two Americas with competing values and beliefs and mutual distrust of one another."
-    publishedDateTime: 2020-12-27T22:25:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-was-defeated-but-the-election-brought-no-resolution-to-a-long-struggle-for-political-power/2020/12/27/739346c0-40a1-11eb-8db8-395dedaaa036_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-was-defeated-but-the-election-brought-no-resolution-to-a-long-struggle-for-political-power/2020/12/27/739346c0-40a1-11eb-8db8-395dedaaa036_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-was-defeated-but-the-election-brought-no-resolution-to-a-long-struggle-for-political-power/2020/12/27/739346c0-40a1-11eb-8db8-395dedaaa036_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 127
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/37OLMGBAOEI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Donald Trump Retweets Leading Figure in QAnon Conspiracy Theory"
     excerpt: "The QAnon online community has recently helped to spread unfounded allegations about Dominion voting machines."
@@ -1418,6 +1408,20 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "West Virginia’s electors cast votes for Trump, Pence"
+    excerpt: "West Virginia’s members of the Electoral College met on Monday with each member voting for President Donald Trump and Vice President Mike Pence. Secretary of State Mac Warner oversaw the vote, which took place at the state Capitol."
+    publishedDateTime: 2020-12-15T14:10:00Z
+    webUrl: "https://wvmetronews.com/2020/12/15/west-virginias-electors-cast-votes-for-trump-pence/"
+    type: article
+    provider:
+      name: West Virginia MetroNews
+      domain: wvmetronews.com
+    quality: 70
+    images:
+      - url: "https://wvmetronews.com/wp-content/uploads/2018/10/Vote-1.jpg"
+        width: 542
+        height: 350
+        isCached: true
   - title: "Idaho’s 4 electors cast votes for Trump and Pence"
     excerpt: "All four of Idaho’s Republican electors have cast their ballots for President Donald Trump and Vice President Mike Pence."
     publishedDateTime: 2020-12-16T14:43:00Z
@@ -1474,6 +1478,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "4wJqWvIVHbUY2S7FSr1ChC2tR30yird4LuZ+S41hX2WsbexnmE0sg1H9c7JXJ3wRkq+3Oxc2oiCkDrB7ChG60WW23dzIK/fK7R9hDHSzlQKlRiWcTlOhAaARXnu7wajsiEM8jvBywttaU2ymFIYNIM0rE9kEcGejSVH8BipsWJkxIr6S49WB64oBOrIXyMhPaPmzZw2lxT7ctO71Gco7UG7zRvVPeiAnXfmMGmwwuNuV4hvRPDHrzaDCq1G26Fz7Chny5aiK6s0jjrh+Dkk+w/HFA4PtwKgU27WSjARPITGi3Uqi5GXu8iCuxMEE1IRQDwOLnegUXwdwSHEYw7h67K9mura1TcsGUPE+o4DR4M0=;pZkBSVr1WPCyZwJqdC25FQ=="
+secured: "Ol5QS4iYxCjz0QlFkMm57dzvRDUHxT+nAA8GP4dOmrc0d8VAiN87LnNy68MRs7abzwkaLObVIv1di4lj5tFu0SrDwSDesb81o0FkMZfNULVUNtzf+6AZdi9VhY0PTzlphg3RNjZLe2wKr2KcwlEjVagshLBsE6P40a704M2khG36lUdcfZ4wn5kP31GMf5uE0In9psdap1BB/2RFdyJCYoqsvzQCGllAVT7ZYqyBoRZVr1SXWYizn7GIcy7FpVPcGYF+sqhpv7gC49qU8MEcg4JR/4m4QW3ypNkzkOfMlhzGOK+fm+VDDO18+noUSj6ItHmeb9lF/+Yeh3av32kJ5rvQtanxpWlc5LgaTk5D1oo=;11v95THqoEUVVHRFPB5CSw=="
 ---
 
