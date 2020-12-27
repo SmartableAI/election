@@ -2,11 +2,11 @@
 category: news
 title: "Biden calls for Trump to sign COVID-19 economic relief package"
 excerpt: "President-elect Joe Biden has called on President Trump to sign the bipartisan end-of-year spending bill that would provide $600 COVID relief checks to most Americans. The president has demanded the checks be increased to $2,"
-publishedDateTime: 2020-12-26T20:51:00Z
-originalUrl: "https://www.cbsnews.com/news/biden-calls-for-trump-to-sign-covid-19-economic-relief-package/"
-webUrl: "https://www.cbsnews.com/news/biden-calls-for-trump-to-sign-covid-19-economic-relief-package/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/biden-calls-for-trump-to-sign-covid-19-economic-relief-package/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-calls-for-trump-to-sign-covid-19-economic-relief-package/"
+publishedDateTime: 2020-12-27T13:29:00Z
+originalUrl: "https://www.cbsnews.com/news/biden-trump-sign-covid-relief-bill/"
+webUrl: "https://www.cbsnews.com/news/biden-trump-sign-covid-relief-bill/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/biden-trump-sign-covid-relief-bill/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-trump-sign-covid-relief-bill/"
 type: article
 quality: 140
 heat: -1
@@ -233,6 +233,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "VgvsLhEcTEEsr9Fh+BR728L55MD4h+UHkfAdCe/OY4zIDT8LgCDDp/FHZ8iNit6wWX1+0XTBpjHfvcM5DWp7PTDD1CUbMyke2BxZMct+H/byG0pzJHd9bQzpV5DhrBWa2n4ZWJQXr8Uu/SAWyl3vK7hChbJHVoeIEjjVeuVToFqB+2TLRieINd3/WlaO3pDb52etmHxsVV5nCLHPq8/b3cj7RV7ey/GaVKVc3SIO+4UkMF9xE+KQiC1baiWc+JN1wg1IqHYSHvnIlz7pLBtrtuYg2Gx1sTEavNWlLxYGVAQcbpBqTJXwHU2/XqFceR8ulPO114NylaMlMVbzRzK0bH+XlwDlYB2yKkH+2/OutpQ=;AEFoOeWCtoJyC0kVJHqMyw=="
+secured: "farCE8qzOsmSijn9sHuq66n4Hesj2RTEqQmndE//hIvMMLFHZOCIVyXcpXyYRHqCKWJ6c7zyUP20f1yG1ist/MxPLxhCY9QNb1dG4wQeQCHfEUhLls0O9AhrwMFXw0mu6SHzxICMe4ngfNZgkIQTsrO0lPvJE6XccDgsjmu06ASdkIwUTkF6HHR5lRI2Km6OxBfoGr+lSZ+Yw4ZTcbl056qRJxWUmrJD6b46cMJEWMlWhYPNIVPbw030msdcpaBeaCDRfS9CTPm70AOBmB7LyUIv12i76b8/GvlELdzNSdU49iZk+0zS+nBuGg/9cipM3PyrtyFCTZPWi0mXuv9j3UXN15c/TET172zuEu0S1OI=;8TAIu63JDmHx7T/dzUsLzg=="
 ---
 

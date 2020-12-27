@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/donald-trump-kelly-loeff
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/donald-trump-kelly-loeffler-david-perdue-coronavirus-election/index.html"
 type: article
 quality: 183
-heat: 363
+heat: 383
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180114192337-02-trump-perdue-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's inaction on stimulus bill leaves Georgia's GOP runoff candidates in awkward spot"
+    excerpt: "President Donald Trump's waffling over the $900 billion Covid relief package, which he has yet to sign, is leaving his fellow Republicans in Georgia in a tough spot as they fight to maintain control of the US Senate.\n    \n"
+    publishedDateTime: 2020-12-27T01:27:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iZJhCM5cTuc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/26/politics/georgia-senate-runoffs-trump-stimulus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/26/politics/georgia-senate-runoffs-trump-stimulus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130174736-kelly-loeffler-david-perdue-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -43,10 +43,10 @@ related:
         isCached: true
   - title: "Biden calls for Trump to sign COVID-19 economic relief package"
     excerpt: "President-elect Joe Biden has called on President Trump to sign the bipartisan end-of-year spending bill that would provide $600 COVID relief checks to most Americans. The president has demanded the checks be increased to $2,"
-    publishedDateTime: 2020-12-26T20:51:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-calls-for-trump-to-sign-covid-19-economic-relief-package/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-calls-for-trump-to-sign-covid-19-economic-relief-package/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-calls-for-trump-to-sign-covid-19-economic-relief-package/"
+    publishedDateTime: 2020-12-27T13:29:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-trump-sign-covid-relief-bill/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-trump-sign-covid-relief-bill/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-trump-sign-covid-relief-bill/"
     type: article
     provider:
       name: CBS News

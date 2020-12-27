@@ -63,22 +63,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Joe and Jill Biden receive the COVID-19 vaccine on camera"
-    excerpt: "So far, a limited number of healthcare workers and high-level government officials have received first doses of Pfizer's COVID-19 vaccine."
-    publishedDateTime: 2020-12-21T20:30:00Z
-    webUrl: "https://www.businessinsider.com/joe-and-jill-biden-receive-covid-19-vaccine-on-camera-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/joe-and-jill-biden-receive-covid-19-vaccine-on-camera-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-and-jill-biden-receive-covid-19-vaccine-on-camera-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fe10676c910a400192e8d13?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Joe Biden receives COVID-19 vaccine, says ‘nothing to worry about’"
     excerpt: "WASHINGTON — President-elect Joe Biden will receive his first dose of the coronavirus vaccine on live television as part of a growing effort to convince the American public the inoculations are safe."
     publishedDateTime: 2020-12-21T22:42:00Z
