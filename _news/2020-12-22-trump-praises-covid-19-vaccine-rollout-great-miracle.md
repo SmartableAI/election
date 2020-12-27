@@ -112,6 +112,22 @@ related:
         width: 1281
         height: 670
         isCached: true
+  - title: "Covid-19 Aid Bill Remains Uncertain as Trump Calls for Larger Payments"
+    excerpt: "The delay could result in a suspension of unemployment benefits for millions and a possible shutdown of the federal government."
+    publishedDateTime: 2020-12-26T23:30:00Z
+    webUrl: "https://www.wsj.com/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
+    ampWebUrl: "https://www.wsj.com/amp/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-278316/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "U.S. Families, Economy, Government in Limbo as Trump Remains Mum on Covid-19 Aid Bill"
     excerpt: "President has neither vetoed nor signed massive coronavirus relief package, a day before pandemic-related unemployment benefits expire."
     publishedDateTime: 2020-12-25T19:37:00Z

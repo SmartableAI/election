@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Trump continues attempts to overturn election..."
-excerpt: "Watch \"Trump continues attempts to overturn election results\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2020-12-21T12:22:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201221121207-trump-continues-attempts-to-overturn-election-results/"
-webUrl: "https://www.cbsnews.com/live/video/20201221121207-trump-continues-attempts-to-overturn-election-results/"
+title: "Trump continues to block pandemic relief package as shutdown looms"
+excerpt: "The president indicated he may veto the 5,000-page bill that he calls a ‘disgrace’ which would extend benefits to Americans"
+publishedDateTime: 2020-12-26T21:29:00Z
+originalUrl: "https://www.theguardian.com/world/2020/dec/26/tump-us-coronavirus-relief-package-shutdown"
+webUrl: "https://www.theguardian.com/world/2020/dec/26/tump-us-coronavirus-relief-package-shutdown"
+ampWebUrl: "https://amp.theguardian.com/world/2020/dec/26/tump-us-coronavirus-relief-package-shutdown"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/26/tump-us-coronavirus-relief-package-shutdown"
 type: article
-quality: 100
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://i.guim.co.uk/img/media/76f0c7aefa9910ba2d7f0a34790aceed4c6536b6/0_0_5018_3014/master/5018.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0095d98ee8382e0e3ef8ff51565a78be"
+    width: 600
+    height: 360
+    isCached: true
 
 related:
   - title: "Pence echoes Trump on election loss in West Palm speech to conservative youths"
@@ -711,22 +719,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump continues to block pandemic relief package as shutdown looms"
-    excerpt: "The president indicated he may veto the 5,000-page bill that he calls a ‘disgrace’ which would extend benefits to Americans"
-    publishedDateTime: 2020-12-26T21:29:00Z
-    webUrl: "https://www.theguardian.com/world/2020/dec/26/tump-us-coronavirus-relief-package-shutdown"
-    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/26/tump-us-coronavirus-relief-package-shutdown"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/26/tump-us-coronavirus-relief-package-shutdown"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/76f0c7aefa9910ba2d7f0a34790aceed4c6536b6/0_0_5018_3014/master/5018.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0095d98ee8382e0e3ef8ff51565a78be"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Unemployment benefits for millions in limbo as Trump rages"
     excerpt: "Unemployment benefits for millions of Americans are set to lapse at midnight unless President Donald Trump signs an end-of-year COVID relief and spending bill that had been considered a done deal befo"
     publishedDateTime: 2020-12-26T23:05:00Z
@@ -1247,6 +1239,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump continues attempts to overturn election..."
+    excerpt: "Watch \"Trump continues attempts to overturn election results\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-21T12:22:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201221121207-trump-continues-attempts-to-overturn-election-results/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 100
   - title: "Pence, Pelosi, McConnell receive COVID vaccine — but Trump still holding out"
     excerpt: "Trump's apparent reluctance to get the shot comes as some of his most ardent supporters are making unfounded claims about the dangers of the vaccine."
     publishedDateTime: 2020-12-18T20:09:00Z
@@ -1397,6 +1398,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "IqBEu1TzzW3Vc0dkgt9RiftCI7ccBKCPe+ZP3anebW8wsMhxOvUXxlyhDoOVhfLhoetMbZUdCMXm7ROnwcICyK0Y4ZlfGqAaW8aSQSlOZoMdlT4hWEF5o7i7polIUfJ1sTBehF0Y8vAvASSRVqMc1xscXkZVTW5o2PumbtEJInLJDPYYtqLO/lHV+kTr2pEfGOR7hivasoOScotKpl8i6MrCBILxBDJYK6CSqdy4lAb5Huw5SOrYib9srmSAShBz3coHOvzyYsHXSqG8aItVFfV2kjtZfCf64xM6v4/59TvaxF2BiT9gt0unQjSoWznmcvnfNoEDc0LqEglCaLD6b/6aOvNeeW1gfntnpiolE5w=;S4qIJ1W3O/U+5pXNemfodg=="
+secured: "ZjC+lE2WVbi7+RbNNU0B3kFGVsVidknQ2O6rECKSoIN+oDoF+HYYjMmmY81OrCDGNd2NL1I1ulOmWZOILXX9CZm0RFT19ICpTaVIbAM1m23zAaEOwjlvJFtobYIdZoxk9K2kApoeuU01cNE2qkUFhPyvpMWnkSeH3D4baZOW/8f4Avt+0gVAMCZaLyxYWL06XSzVIEcMCB/OL1c1QBQtYx2P0YQcxiYwuucib/hdSIq0YR66P9mUWR9a91bO4NoDC7KM7xTcxJAW9Px+f/nV7UUVGuAfelApJcjJaSC2n1wiTe7b6XBiwaWl3X6Vbn6DRPql+/zJNWhNWj2cRczM8VtfeKFz3sGoIKmE/j97Q30=;HF/YI92i9Qe8jHpFO2FW4Q=="
 ---
 

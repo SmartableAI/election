@@ -128,6 +128,22 @@ related:
         width: 1281
         height: 670
         isCached: true
+  - title: "Covid-19 Aid Bill Remains Uncertain as Trump Calls for Larger Payments"
+    excerpt: "The delay could result in a suspension of unemployment benefits for millions and a possible shutdown of the federal government."
+    publishedDateTime: 2020-12-26T23:30:00Z
+    webUrl: "https://www.wsj.com/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
+    ampWebUrl: "https://www.wsj.com/amp/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-278316/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
     excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature."
     publishedDateTime: 2020-12-25T05:23:00Z

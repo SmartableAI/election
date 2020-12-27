@@ -1,33 +1,34 @@
 ---
 category: news
-title: "De Blasio says Trump administration played 'valuable role' in getting COVID-19 vaccine quickly"
-excerpt: "New York City Mayor Bill de Blasio on Tuesday praised the Trump administration for its \"valuable role\" in getting a coronavirus vaccine out quickly -- after President-elect Joe Biden said the administration deserves credit."
-publishedDateTime: 2020-12-22T17:57:44Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n209tAs7mNM/de-blasio-trump-administration-valuable-role-coronavirus-vaccine"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n209tAs7mNM/de-blasio-trump-administration-valuable-role-coronavirus-vaccine"
-ampWebUrl: "https://www.foxnews.com/politics/de-blasio-trump-administration-valuable-role-coronavirus-vaccine.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-trump-administration-valuable-role-coronavirus-vaccine.amp"
+title: "Covid-19 Aid Bill Remains Uncertain as Trump Calls for Larger Payments"
+excerpt: "The delay could result in a suspension of unemployment benefits for millions and a possible shutdown of the federal government."
+publishedDateTime: 2020-12-26T23:30:00Z
+originalUrl: "https://www.wsj.com/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
+webUrl: "https://www.wsj.com/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
+ampWebUrl: "https://www.wsj.com/amp/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
 type: article
-quality: 163
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
+  name: Wall Street Journal
+  domain: wsj.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a609696-7a27-4713-89f3-eb466538688f/0202de8b-222e-4f3a-8a40-56bc57a240cc/1280x720/match/image.jpg"
+  - url: "https://images.wsj.net/im-278316/social"
     width: 1280
-    height: 720
+    height: 640
     isCached: true
 
 related:
@@ -46,6 +47,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "De Blasio says Trump administration played 'valuable role' in getting COVID-19 vaccine quickly"
+    excerpt: "New York City Mayor Bill de Blasio on Tuesday praised the Trump administration for its \"valuable role\" in getting a coronavirus vaccine out quickly -- after President-elect Joe Biden said the administration deserves credit."
+    publishedDateTime: 2020-12-22T17:57:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n209tAs7mNM/de-blasio-trump-administration-valuable-role-coronavirus-vaccine"
+    ampWebUrl: "https://www.foxnews.com/politics/de-blasio-trump-administration-valuable-role-coronavirus-vaccine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-trump-administration-valuable-role-coronavirus-vaccine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a609696-7a27-4713-89f3-eb466538688f/0202de8b-222e-4f3a-8a40-56bc57a240cc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
     excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature. "
@@ -111,22 +128,6 @@ related:
         width: 1281
         height: 670
         isCached: true
-  - title: "Covid-19 Aid Bill Remains Uncertain as Trump Calls for Larger Payments"
-    excerpt: "The delay could result in a suspension of unemployment benefits for millions and a possible shutdown of the federal government."
-    publishedDateTime: 2020-12-26T23:30:00Z
-    webUrl: "https://www.wsj.com/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
-    ampWebUrl: "https://www.wsj.com/amp/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-278316/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "U.S. Families, Economy, Government in Limbo as Trump Remains Mum on Covid-19 Aid Bill"
     excerpt: "President has neither vetoed nor signed massive coronavirus relief package, a day before pandemic-related unemployment benefits expire."
     publishedDateTime: 2020-12-25T19:37:00Z
@@ -190,6 +191,6 @@ related:
         height: 640
         isCached: true
 
-secured: "Jwyx67sbkeua8uITIOvDmbSMhE+1IfcGNU7xFeTkLrtKfXBsJidcgE69+8vmgxMiaWnBgUG6AmoEus1oI6D2ahtVmMknhMRe+iYodfK2R6qkNy+ABeDMDfoNy6sY5/VdYDo8ZCFfbWl4QJMtNq8R+foPX7Pw3Iu6jLnAJTjL4RPS6+NfmZEoQfV0Qhll1PvR3yAKmRMPdERX7es/uBldZ/RmE3paZCHf8YoA6Vi4VjmIu//aNoklzEm3a2NDeoRl3dlW+CudsbjqvidsoXvUBvJ1ymHptqK45TgCMUI07E128oipYjLQyRziRe8qnVqn/Hy07Ho/XSSm+lcVSHdZ4aeaH35JwcXxsZN16IdUd5c=;6KgjP2zW+dVyIQaBpnlDMg=="
+secured: "2JujOBlbe6KHoSRaP3H2dEYVNwoxESpIw7zvWSlNed4ivxyR2l+MQGOnMQp6RWAm2MyghJXjBHy+0sgOGjTyJzwYNJwR3hvxqD4ZBk04JNLEDv91hx5WoKOTl+/OP7mkz6//DvuQ/cF/ocdx7eCrqSvc7CMGhilv0KOc6rEZVWwF4Om1uqjvtoIULjH8MNjFHTmFslMaO3S5hM0VYQcj26VLaGV7Tn21RaCB+CNge0djCHo9+ehj7/X5of5F89I+TF/MTrFuTp86HD0C7EVpsAW36cctam29taximbYr6Augti3UKFdfHvtUZKCT7M0uOnXIHjSFE8QwyjiqblU7Hqt5FAJQiqt7hfeT0YJRN0k=;d1N5MoV8jJgdHAe1qMOZtg=="
 ---
 

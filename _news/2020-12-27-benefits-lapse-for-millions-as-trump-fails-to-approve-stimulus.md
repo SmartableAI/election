@@ -717,6 +717,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump continues to block pandemic relief package as shutdown looms"
+    excerpt: "The president indicated he may veto the 5,000-page bill that he calls a ‘disgrace’ which would extend benefits to Americans"
+    publishedDateTime: 2020-12-26T21:29:00Z
+    webUrl: "https://www.theguardian.com/world/2020/dec/26/tump-us-coronavirus-relief-package-shutdown"
+    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/26/tump-us-coronavirus-relief-package-shutdown"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/26/tump-us-coronavirus-relief-package-shutdown"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/76f0c7aefa9910ba2d7f0a34790aceed4c6536b6/0_0_5018_3014/master/5018.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0095d98ee8382e0e3ef8ff51565a78be"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Unemployment benefits for millions in limbo as Trump rages"
     excerpt: "Unemployment benefits for millions of Americans are set to lapse at midnight unless President Donald Trump signs an end-of-year COVID relief and spending bill that had been considered a done deal befo"
     publishedDateTime: 2020-12-26T23:05:00Z
@@ -1382,6 +1398,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "D0xQZnS+KHadVmT8rZ7caFa0FeHo3YAGH1gbG9l5h9U/sNic156QdJEPdBFhMreok1ITKjdCaIsaNCeqCZKBmCG/NBeMFM4E6X+xFdwpEjGMoER7ZlYiW0ScDU+suNAgOwn6ADeFB6WEhqCeTkPNukNCCAe5pE0C9W2JN9C1tBzlOWsuKVIxFAk4o7g/6RYyLXf7G5f36Dxd1DJ2aCLONZOApMo6WwapAoVswJFiq2ydPTI85RhPUl5YmqSeaXbqOyDRE5es9ZhUnuPHvVWIafTRM1CDdEAvf6SS4nTgOgG32/nz3qxQmMcortRGU+mbs1+1TO53MfE6rKpL7Jo5W6axDmjtylA9Or3Vtb9FsHc=;VC+k9ORmvFf/9BGXbjBzOQ=="
+secured: "CXAxpshJjwetSkJBudr/iulZ7HihOVM9s0Me2NNo+q+qF3FaR+GtfYIh6io8dGdl8L9TheXbch1wOrQZ2frJw5A9Zs0wL4KyxysuLPbwc0AbbpOtCwGeCfeMLnhXJhB3QmBh7OfXybT3jCPy3KnCdB/2mnexsGMDKP58Yb57nwadm7mGpXvU0+vMWv4Bsb3/raIylwrlMv0v0ClJyOmUU1hdn9zSrQpC/fXzwVLZ8NNhH/bDA1ZaRGOaCKwAMKeo4y2UDWSqW4oDi7Bhy9Dbxr81zqDIvqLKB9c11PGiKeyQwH7NyFRxsG2BM0pUAfkgx8bxcb00UxfUjQgg/b2tKd1BEsYcXZYmpRL7jfr08I6nyRLP8k8Zse1gkrxm1dxkDu8MQXBx3oxtITlmKTkStJ9wb4tCxxMs4OuiBtZIibImXAeUiOpt03adGNfUYJ7FJ1VX9TxfX2X4Sk2ro7qvhhAnOs5VLDzeP5gBJrveLlzbnVQN8tqI5QVn1nx2cTxn/J1c+XuFP9LPx53KTi1pOw==;OvqPjw84dDFIEVK9/9panw=="
 ---
 

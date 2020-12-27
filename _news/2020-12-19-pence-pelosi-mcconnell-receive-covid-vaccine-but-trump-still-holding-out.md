@@ -716,6 +716,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump continues to block pandemic relief package as shutdown looms"
+    excerpt: "The president indicated he may veto the 5,000-page bill that he calls a ‘disgrace’ which would extend benefits to Americans"
+    publishedDateTime: 2020-12-26T21:29:00Z
+    webUrl: "https://www.theguardian.com/world/2020/dec/26/tump-us-coronavirus-relief-package-shutdown"
+    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/26/tump-us-coronavirus-relief-package-shutdown"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/26/tump-us-coronavirus-relief-package-shutdown"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/76f0c7aefa9910ba2d7f0a34790aceed4c6536b6/0_0_5018_3014/master/5018.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0095d98ee8382e0e3ef8ff51565a78be"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Unemployment benefits for millions in limbo as Trump rages"
     excerpt: "Unemployment benefits for millions of Americans are set to lapse at midnight unless President Donald Trump signs an end-of-year COVID relief and spending bill that had been considered a done deal befo"
     publishedDateTime: 2020-12-26T23:05:00Z
