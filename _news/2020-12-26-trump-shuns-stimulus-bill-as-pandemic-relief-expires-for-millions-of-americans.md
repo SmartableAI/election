@@ -61,6 +61,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Countdown to shutdown: Here’s what happens if Trump doesn’t enact the stimulus law by midnight Monday"
+    excerpt: "Millions of Americans now face the prospect of weeks without unemployment payments, housing assistance and other critical coronavirus aid, as federal relief begins to evaporate amid Trump’s continued refusal to sign a $900 billion congressional stimulus deal into law."
+    publishedDateTime: 2020-12-28T00:52:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2020/12/27/trump-shutdown-stimulus/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2020/12/27/trump-shutdown-stimulus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/12/27/trump-shutdown-stimulus/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PLMCRVSISEI6XF5WJ247OL7UNM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "wITgHSL2cOelvvZSK0VM6Md8TmST4unZlN8NraAfMrIj9RRN4xderrP/Rq9wqh4Q1nFMBKoeTBc9d4BJSPY/YKF5zz3Z9ylxNsuu2k13aYc+esvrkgY4gG8bU5gFAT6rzaw8fmqx6dW2oIROnP1Bgzinj6i3UoSx96n7rBBAAlvQ8pheYAaRz+xg4aH7fPBgHQDmlqNc9gNHWd0pleLRnXr7jQ+LekYDRYcB1PC4llSTgxeJNVjOQtueZjsfSPNO7Hpyfdc8fcBCjhGR8EkvXpgUpZoie+ZgwUiKZY7rZxBaoDBvIE0JbpABN5Y45YlImyVYw4wV+jsDaLFvFP8M00pzjRUBy6xMabpx9895sj2p5zt+dnRakzPSrBMtyTymGG3wMBR98vn4YU3MT8GlPcK8noPc4fpEg+AG1D/6L5cIJFZw7ynWdg9qSYj11fHI7qzKMl+zLvFzmdpNVy45J5znX8JwTr65H3pO9b8qfjIEBK1ujKlhHGQXTt8xrkKlr+vvwxD/ttPXaTUn1aUbUA==;oRlihwg0JnlV7Ay2Xy++QA=="
 ---
