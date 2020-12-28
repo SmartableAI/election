@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump to Hold Rally in Georgia in Support of Senate Republicans"
+    excerpt: "The president will appear at rally in support of incumbent Republican Sens. David Perdue and Kelly Loeffler, one day before the runoff election that will determine control of the U.S. Senate."
+    publishedDateTime: 2020-12-28T04:57:00Z
+    webUrl: "https://www.wsj.com/articles/trump-to-hold-rally-in-georgia-in-support-of-senate-republicans-11609111921"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-to-hold-rally-in-georgia-in-support-of-senate-republicans-11609111921"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-to-hold-rally-in-georgia-in-support-of-senate-republicans-11609111921"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-278391/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "LN0i9lJ4De1jPgJlN5TwlQnmEBRUBDNJzZHPmbuNNeBepFphVLUOwWaTyg1A01cusaNio7K4SOq0O5HFPKumHNipYsurGg5RQBzHEnwQFXjrGfy0+mooDiAsC1KCVaBhTAVhZknuGJNb3at0cLWXTEXhRRGPWTnjJbKDuGUmJRaAZJ1HBXy61wzczP1dVbfbix1ZXYntdS8H1zQPpAF7+qKyHcT9R9GcV56a/avJKKkAN/J2JCeyl8K2flNAuSM2WuS792m4gZiTSj38LAgMutP30JSJNM+HzSS3FC8OksdQnE+uvDmnk8gi1VgF/9YyH2LCIlCc194Fj8IxwJgts3IE9OmEHTDR+/67Wa45DQ8=;BE2QYTRplqDFn+sAuzEtKA=="
 ---

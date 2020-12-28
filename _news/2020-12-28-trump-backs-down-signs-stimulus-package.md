@@ -2,9 +2,9 @@
 category: news
 title: "Trump backs down, signs stimulus package"
 excerpt: "A government shutdown was averted after the president approved the Covid relief package and annual spending bill."
-publishedDateTime: 2020-12-28T01:47:00Z
-originalUrl: "https://www.politico.com/news/2020/12/27/congress-stimulus-deal-450380"
-webUrl: "https://www.politico.com/news/2020/12/27/congress-stimulus-deal-450380"
+publishedDateTime: 2020-12-28T02:32:00Z
+originalUrl: "https://www.politico.com/states/new-jersey/story/2020/12/27/trump-backs-down-signs-stimulus-package-1351229"
+webUrl: "https://www.politico.com/states/new-jersey/story/2020/12/27/trump-backs-down-signs-stimulus-package-1351229"
 type: article
 quality: 115
 heat: -1
@@ -24,7 +24,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/59/f1/5ddcfde546d3a390ce77cd2a0f9d/ap20358774087431-1.jpg"
+  - url: "https://static.politico.com/ba/d7/2c534acb42dc9c97c9669bea5719/webp.net-resizeimage%20(6).jpg"
     width: 1160
     height: 773
     isCached: true
@@ -341,6 +341,6 @@ related:
         height: 773
         isCached: true
 
-secured: "l6dsgyl3TXZLZlTAxpuZjh5nos0vMGR8IXF2J1UQMGV6tQRvjh3+mxjiMeYu9XQ0wfrH6uHoRNBdo2g4cdE2X0HKiVDz+mvKTzf1l/w0hkMlY3dKvHYN8PyjwcHSuxFp77qkb93Jz6/geQLY3BuBUE0dcVTbN+LdoCS2m6v47vVC8iqcvtCy6oA7HHVC9Op4S6dUTY5ctprTNTcn8vMZmnwdxeWM2mZ3yQDkcQR8DTtkTNBgDkza2xM5DKpUWyK62V41cTpbhCLpjA/V0JaspKmArcoBVKJsWHCOrO5Wb5AgQFE4xqM4WF0et2PIjHy6ZuTvW6PEifunBKLjzIt8SB9TJjKYuE0F9T8UaQhzUXA=;xUTpkXfP55rWZ2/d2+dhpQ=="
+secured: "EXf9dzJCtZSyiiGSkAejPuIidgnvGss1e6tg538Fexr2t4pXFidX1GFMOnL2qfTye+v614t7JNoSLoC5LLIioIEgKB1cyRY8iMwNuys6l4x2I6NsQaAC3U113Bxmg+u9z+QzVroykFyMdG9iGyaBSv7KP4d2coTFuTwgwyLCvQbtum+vIZT+prVj5IMQnr+kHjQzvQ/5Ug5S+b6i8nbpWREZRHdM5CIGcMGEkcSb2BSj9a79knKsT2CUHCmXnGq0Scbyrb/Ab2CpSkJHN6evqUX1+zU+KQpoVFH43lFxev27ngO8FYp4mh1J7cLBvBmI+mZ7RlipdTnPBKdAqBohNH6YfH+0F80yoQPsGGLgH3c=;GHOeBABBziFcyxiMynt4HA=="
 ---
 

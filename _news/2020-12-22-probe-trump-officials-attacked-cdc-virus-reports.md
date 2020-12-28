@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/probe-trump-officials-at
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "METALS-Shanghai metals rise as Trump signs stimulus bill"
+    excerpt: "Prices of most industrial metals rose on Monday, after U.S. President Donald Trump signed a stimulus package that would support the world's biggest economy and boost demand for metals."
+    publishedDateTime: 2020-12-28T03:19:00Z
+    webUrl: "https://www.reuters.com/article/global-metals-idUSL1N2J802I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J802I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J802I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Florida’s Electoral College votes officially go to Trump and Pence"
     excerpt: "Florida’s 29 Electoral College votes officially were cast for President Donald Trump and Vice President Mike Pence on Monday during a brief ceremony in the Senate chambers of the Capitol."
     publishedDateTime: 2020-12-15T01:33:00Z

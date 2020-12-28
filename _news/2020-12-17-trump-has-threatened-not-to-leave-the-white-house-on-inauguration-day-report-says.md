@@ -847,6 +847,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump vetoes defense bill, setting up possible override vote"
+    excerpt: "President Donald Trump has vetoed the annual defense policy bill, following through on threats to veto a measure that has broad bipartisan support in Congress and potentially setting up the first over"
+    publishedDateTime: 2020-12-28T04:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-vetoes-defense-bill-setting-override-vote-74884908"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-vetoes-defense-bill-setting-override-vote-74884908"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-vetoes-defense-bill-setting-override-vote-74884908"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_02c80f0ffd974b349dce990e511214f3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump is still pinning his hopes on one last lawsuit in Michigan to overturn the presidential election"
     excerpt: "President Donald Trump said a report written by his allies in a lawsuit over a small Michigan county's Marijuana measure reveals \"massive fraud.\""
     publishedDateTime: 2020-12-17T00:08:00Z
@@ -1048,6 +1064,22 @@ related:
       name: Washington Post
       domain: washingtonpost.com
     quality: 120
+  - title: "UPDATE 1-U.S. government heads toward chaotic end to 2020 as Trump fights Congress"
+    excerpt: "The U.S. government headed toward a chaotic last few days of the year as President Donald Trump's refusal to approve a $2.3 trillion financial package caused millions of jobless Americans to lose benefits and threatened to shut down federal agencies due to lack of funding."
+    publishedDateTime: 2020-12-28T02:17:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-idUSL1N2J70G6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2910NA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2910NA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545924095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBQ0BZ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Mar-a-Lago neighbors say Trump forfeited right to live on estate once presidency ends"
     excerpt: "President Trump forfeited his right to live at the estate in 1993 when he turned it into a private club, a lawyer tells the town of Palm Beach."
     publishedDateTime: 2020-12-17T11:38:00Z

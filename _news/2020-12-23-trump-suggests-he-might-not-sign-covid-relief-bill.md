@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump signs massive measure funding government, COVID relief"
+    excerpt: "President Donald Trump has signed into law a $900 billion pandemic relief package, ending days of drama over his refusal to accept the bipartisan deal"
+    publishedDateTime: 2020-12-28T04:47:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929562"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929562"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929562"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_74bfe5e7bd964a5493fd4cda8451bdf1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump plays golf as Congress scrambles to salvage Covid relief bill"
     excerpt: "Nancy Pelosi in talks with treasury secretary Steven Mnuchin after president’s demand for $2,000 stimulus checks left deal in disarray"
     publishedDateTime: 2020-12-25T13:51:00Z

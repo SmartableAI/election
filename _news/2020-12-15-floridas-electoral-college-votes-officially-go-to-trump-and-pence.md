@@ -75,6 +75,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "METALS-Shanghai metals rise as Trump signs stimulus bill"
+    excerpt: "Prices of most industrial metals rose on Monday, after U.S. President Donald Trump signed a stimulus package that would support the world's biggest economy and boost demand for metals."
+    publishedDateTime: 2020-12-28T03:19:00Z
+    webUrl: "https://www.reuters.com/article/global-metals-idUSL1N2J802I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J802I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J802I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
 
 secured: "UbP7aQY+m/6zDfrw8rxCBXgfouH8evxn680Qfp/SiGNeMPlbcWBJAIblNg0YKjQbaRCuePyrurSZ49EyNHsEsCnLplIhmyCRWu23XBntKYTpSRWrRE3DLMA0DSNC5uQQwC855Tdu5BMOcnE9UyCr3O/KF2PaJrSRHVKa0o310UHYFT69r8DmwLSusBeGrSNV29HChCrRxw/w+NtLPl2w84HJ+ok+6X5mdUAvmtb7J4qgR7E6UmWG8aJQ3shdakOuldGC000pbVUX5coPNBcCmws7HrpUURG6K1julZuPU0U9fxsroLNhNeWp0IAeiNUJinn8ZoLzoTHvBaaufiN/n0wIQ+l6O3H71MqREkNTMr8=;RwvZ782APVlB/lAvfMeyYw=="
 ---

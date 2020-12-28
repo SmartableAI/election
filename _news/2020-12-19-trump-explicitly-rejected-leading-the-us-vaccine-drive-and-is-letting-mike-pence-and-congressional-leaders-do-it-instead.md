@@ -651,6 +651,22 @@ related:
         width: 829
         height: 545
         isCached: true
+  - title: "The Latest: Biden says months to fix Trump border policies"
+    excerpt: "President-elect Joe Biden says he won’t immediately roll back President Donald Trump’s immigration policies at the border despite some advocates pushing for action as soon as he takes office"
+    publishedDateTime: 2020-12-28T04:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-promises-coronavirus-relief-efforts-74866309"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-promises-coronavirus-relief-efforts-74866309"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-promises-coronavirus-relief-efforts-74866309"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_215abd9e1ec64f3d89a1a9f1d30e057d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to present new defense chief as Trump clings to failed effort to overturn election result – live"
     excerpt: "Trump calls to ‘overturn’ results as legal attempts to reverse Biden’s victory dwindle, while president-elect will nominate Lloyd Austin to lead US defense"
     publishedDateTime: 2020-12-09T18:13:00Z
