@@ -2,6 +2,62 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-11-23-rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team.md",
+      "title": "Rudy Giuliani: Sidney Powell not part of Trump’s legal team",
+      "excerpt": "President Donald Trump’s campaign on Sunday distanced itself from Sidney Powell, saying that the lawyer who has been alleging voter fraud in the November election is “not a member of the Trump Legal Team.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GGqgSrgNypg/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GGqgSrgNypg/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20324809203443.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team.amp",
+      "publishedDateTime": "2020-11-22T17:25:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-22-saudi-un-ambassador-nobody-naive-enough-to-rejoin-iran-nuclear-deal-including-biden-administration.md",
       "title": "Saudi UN ambassador: Nobody ‘naive enough’ to rejoin Iran nuclear deal – including Biden administration",
       "excerpt": "Saudi Arabia’s U.N. envoy on Sunday dismissed the idea that the United States would re-enter the Iran nuclear deal under a Joe Biden administration, saying nobody would be “naive enough” to go back to a deal that has “proven its failure to the entire world.”",
@@ -1295,58 +1351,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-call-his-bluff-edward-norton-lays-out-poker-style-trump-analysis-we-never-expected.md",
-      "title": "‘Call his bluff’: Edward Norton lays out poker-style Trump analysis we never expected",
-      "excerpt": "Actor Edward Norton spelled out Donald Trump's lame-duck actions in poker terms on Friday, laying out the president's \"desperate endgame.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/entertainment-arts/movies/story/2020-11-20/edward-norton-donald-trump-poker",
-      "originalUrl": "https://www.latimes.com/entertainment-arts/movies/story/2020-11-20/edward-norton-donald-trump-poker",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/9a49969/2147483647/strip/true/crop/5606x3661+0+38/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2a%2Fc0%2Fa44b6d7448beb7ccb29c4145503d%2Fap20173019976707.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/entertainment-arts/movies/story/2020-11-20/edward-norton-donald-trump-poker?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/movies/story/2020-11-20/edward-norton-donald-trump-poker?_amp=true",
-      "publishedDateTime": "2020-11-20T10:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

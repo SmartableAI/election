@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-28-live-updates-trump-turns-his-attention-to-georgia-announces-rally.md",
+      "title": "LIVE UPDATES: Trump turns his attention to Georgia, announces rally",
+      "excerpt": "With the Republican majority up in the air in the Senate, President Trump has scheduled a rally in Georgia in hopes to get Sens. Kelly Loeffler and David Perdue across the finish line.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n0o-kPavMnc/live-updates-georgia-senate-12-28-2020",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n0o-kPavMnc/live-updates-georgia-senate-12-28-2020",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1182fbea-3c20-4774-af81-d7823e80ea31/e9d4c6e8-6da9-4965-9be8-c3c3ebeebfb9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-georgia-senate-12-28-2020.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-senate-12-28-2020.amp",
+      "publishedDateTime": "2020-12-27T21:42:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-texas-woman-on-president-trump-commuting-her-remaining-term-of-supervised-release-from-prison.md",
       "title": "Texas woman on President Trump commuting her remaining term of supervised release from prison",
       "excerpt": "Crystal Munoz, who President Trump commuted the remaining term of supervised release from prison last week, told “Fox & Friends Weekend” on Sunday that she “was definitely over sentenced” for a marijuana offence.",
@@ -270,7 +326,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 608,
+      "heat": 628,
       "tags": null,
       "images": [
         {
@@ -538,7 +594,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 152,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -903,8 +959,8 @@
       "title": "Joe Biden’s niece Caroline gets no jail time after DUI guilty plea",
       "excerpt": "Joe Biden’s niece Caroline Biden pleaded guilty to DUI on Dec. 3 — and was sentenced to 20 days to six months of “confinement,” Pennsylvania court records said.",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea",
-      "originalUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea",
+      "webUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea?wp0",
+      "originalUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea?wp0",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
@@ -1277,62 +1333,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-roger-stone-vows-to-sue-lawmaker-for-claiming-he-covered-up-trump-misconduct-for-clemency.md",
-      "title": "Roger Stone vows to sue lawmaker for claiming he covered up Trump misconduct for clemency",
-      "excerpt": "Veteran political operative Roger Stone is vowing to sue a Democratic lawmaker, alleging that he falsely accused him of covering for President Trump in order to obtain clemency.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAbKf5U72vE/roger-stone-sue-hakeem-jeffries",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAbKf5U72vE/roger-stone-sue-hakeem-jeffries",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cccc97f7-4285-4736-a48d-39699d71d1dc/e1d53e3e-9a8b-4517-8baf-6b33c1b4535b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp",
-      "publishedDateTime": "2020-12-24T16:10:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

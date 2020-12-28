@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-21-biden-looks-to-susan-rice-to-elevate-low-profile-domestic-policy-council.md",
+      "title": "Biden looks to Susan Rice to elevate low-profile Domestic Policy Council",
+      "excerpt": "\"Susan will elevate and turbocharge a revitalized\" council, Joe Biden said when he nominated the former national security adviser.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/biden-looks-susan-rice-elevate-low-profile-domestic-policy-council-n1251851",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/biden-looks-susan-rice-elevate-low-profile-domestic-policy-council-n1251851",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_51/3437064/201220-susan-rice-jm-1136_d7e184dab91c148e4afe840a6b58ea05.jpg",
+          "width": 2500,
+          "height": 1670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1251851",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251851",
+      "publishedDateTime": "2020-12-21T03:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-trump-attempt-to-overturn-election-is-nutty-and-loopy-romney-says.md",
       "title": "Trump attempt to overturn election is 'nutty and loopy', Romney says",
       "excerpt": "Utah Republican decries flirtation with Flynn martial law plan and suggestion conspiracy theorist Powell could be special counsel",
@@ -1285,58 +1342,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-mr-biden-shouldnt-be-the-only-target-for-catholics.md",
-      "title": "Mr. Biden shouldn’t be the only target for Catholics",
-      "excerpt": "Are the religious leaders condemning President-elect Joe Biden for his abortion stance also condemning Attorney General William P. Barr, who is also Catholic, for his rabid haste to execute federal prisoners before Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html",
-      "originalUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L65E4PSZRAI6TBBNPU7NP2ZZK4.jpg&w=1440",
-          "width": 1440,
-          "height": 970,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-18T13:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

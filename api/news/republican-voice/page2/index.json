@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-21-trumps-conservative-agenda-at-hhs-stalled-by-departments-office-of-general-counsel-sources.md",
+      "title": "Trump's conservative agenda at HHS stalled by department's office of general counsel: sources",
+      "excerpt": "A struggle has developed within the Department of Health and Human Services (HHS) whereby President Trump's abortion and conscience-related agendas encountered roadblocks from the Office of General Counsel (OGC), multiple sources allege.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dVca-wg9Zro/trumps-agenda-hhs-stalled-general-counsel",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dVca-wg9Zro/trumps-agenda-hhs-stalled-general-counsel",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5ee41ee-7a33-4044-9c9c-7578485e8927/3f8064a5-40f2-4f3a-b03f-3113b2a1c471/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trumps-agenda-hhs-stalled-general-counsel.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-agenda-hhs-stalled-general-counsel.amp",
+      "publishedDateTime": "2020-12-21T15:26:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-rep-clyburn-on-trump-and-operation-warp-speed-im-glad-he-got-out-of-the-way.md",
       "title": "Rep. Clyburn on Trump and Operation Warp Speed: 'I'm glad he got out of the way'",
       "excerpt": "President Trump's greatest contribution to the success of Operation Warp Speed in developing a coronavirus vaccine was getting \"out of the way,\" House Majority Whip James Clyburn, D-S.C., told \"Your World\" Monday.",
@@ -1630,63 +1686,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-rep-ayanna-pressley-tells-gavin-newsom-to-appoint-a-black-woman-to-vp-elect-kamala-harris-senate-seat.md",
-      "title": "Rep. Ayanna Pressley tells Gavin Newsom to appoint a Black woman to VP-elect Kamala Harris' Senate seat",
-      "excerpt": "\"We absolutely cannot go backwards,\" Pressley tweeted Tuesday. \"With the election of @KamalaHarris to VP-elect, @CAgovernor must prioritize this leadership, perspective & representation in the vacated U.S. Senate seat & appoint a Black woman.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0GxkkNp08Q/ayanna-pressley-newsom-black-woman-harris-senate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0GxkkNp08Q/ayanna-pressley-newsom-black-woman-harris-senate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Karen-Bass-FOX.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ayanna-pressley-newsom-black-woman-harris-senate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ayanna-pressley-newsom-black-woman-harris-senate.amp",
-      "publishedDateTime": "2020-12-15T13:46:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

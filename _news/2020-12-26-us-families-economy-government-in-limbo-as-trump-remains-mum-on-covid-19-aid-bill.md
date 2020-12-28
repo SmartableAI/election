@@ -160,6 +160,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Signs Covid-19 Aid Bill Averting Government Shutdown"
+    excerpt: "President Trump signed a sweeping pandemic-aid bill on Sunday night, according to people with knowledge of the matter, ending a standoff with Congress and paving the way for millions of Americans to get economic relief as the coronavirus pandemic surges across the country."
+    publishedDateTime: 2020-12-28T06:10:00Z
+    webUrl: "https://www.wsj.com/articles/trump-signs-covid-19-aid-bill-averting-government-shutdown-11609117841?mod=hp_lead_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-signs-covid-19-aid-bill-averting-government-shutdown-11609117841"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-signs-covid-19-aid-bill-averting-government-shutdown-11609117841"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-278393/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
     excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature."
     publishedDateTime: 2020-12-25T05:23:00Z
@@ -189,20 +205,6 @@ related:
     quality: 120
     images:
       - url: "https://images.wsj.net/im-251063/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Covid-19 Live Updates: U.S. Hospitalizations Hit New Record; Trump to Tighten Rules on U.K. Air Arrivals"
-    excerpt: "The number of newly reported Covid-19 infections and deaths in the U.S. fell Thursday from the day earlier, but hospitalizations hit another record."
-    publishedDateTime: 2020-12-25T08:29:00Z
-    webUrl: "https://www.wsj.com/livecoverage/covid-2020-12-25"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 98
-    images:
-      - url: "https://images.wsj.net/im-278216/social"
         width: 1280
         height: 640
         isCached: true

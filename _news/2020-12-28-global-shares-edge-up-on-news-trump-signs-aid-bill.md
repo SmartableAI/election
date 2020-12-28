@@ -831,6 +831,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump signs pandemic aid and spending bill, source says"
+    excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a partial federal government shutdown,"
+    publishedDateTime: 2020-12-28T06:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-sign/trump-signs-pandemic-aid-and-spending-bill-source-says-idUSKBN29202U?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29202U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29202U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545920587&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR011"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump vetoes defense bill, setting up possible override vote"
     excerpt: "President Donald Trump has vetoed the annual defense policy bill, following through on threats to veto a measure that has broad bipartisan support in Congress and potentially setting up the first over"
     publishedDateTime: 2020-12-28T04:48:00Z
@@ -1558,6 +1574,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "cIA9u4GxdVFEReDmtIcLkSEGOaobauayHo24aS6DjUBcvaO9hawzBhTxPUelwWv6TmcAu2dC/94YXKJpXdA9G9pnpMtxp/ahb3tkYxk6aLW97fpCQIJ7q6Ih5cJb3g3RWs8roVwUVtkncoFksagZmR2KUdovVnqjDGcPwvKqOK3ATjuoSUA9QzRb82JfDIzZgafYGzoE2BSbR5xyOzdykOqLXxAavxCHWqjfvQ9LvDquE3q8y2PsHtdFDFjgENv+XTvN3G5x7FNN3mB8lJJr0Gmr6S72ADwS2NWchm8zcL+Xore1IWWBp733rM7C2HKFcMaJ+tsKb89vGlxZXahDaiKp3e8lS55xP1pWv40i2RY=;F+Na3r6IECdMkz3VaniY+A=="
+secured: "0j4UazJVuzUSFr6ihVdb0ohhVZT2VjmM3kRokLkztBIfMSnSxnR+TKa4WB2TiTlsWlZM+L6EIMhaje4bU9XPr9r+EOYssyQTX4r80nYMUR+FEFk13gwhFfYbLk/3oxHjKVZJFj8MCryi+Vh+Q6xdceOg2F7mIHYM6o3dsTIzpK02qv95rtpurLmyUAPk14KfCGCxBfZaQRvdVvlljUIkWTPuLF++XHmjAuuarkWUBO5GM9O4CPpbgRIFIVnRHlVDAU3BqN3dcbye3jeoQvyUxzPnTz/ufxn0PGpzimu1G83LdWheGm7lZi+4dc8TL7BkzrHmpRYKgaZ7HQWsr06uUX6XUEuC8NTZ44q98jkmPSPKb7G9hZeLH/ci+38RE906h9nb1MJ5JLYtOWx2cRw7l+7zSAcrzjJue+yOSAjqiQVXTFnvon6oj0QAZInZ5uvEA0nUxTGIVwvWF6zqh/KDBdh6ZGCD90wmfghFHYLQoq87mcACrk49eeuj3oPYj4qrQpKEMXuJETZfoXPgpKA+SA==;CaF5ZjDpvpvD7rDtwSjYCw=="
 ---
 

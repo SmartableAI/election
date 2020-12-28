@@ -128,6 +128,22 @@ related:
         width: 2212
         height: 1475
         isCached: true
+  - title: "Trump chooses chaos with delayed signature of Covid relief bill"
+    excerpt: "President Donald Trump is driving the country through chaos from behind the wheel of his golf cart. He reluctantly signed a Covid relief and government funding bill his own administration helped negotiate and that his own aides claimed he'd approved days ago."
+    publishedDateTime: 2020-12-28T05:01:00Z
+    webUrl: "https://www.cnn.com/2020/12/28/politics/donald-trump-covid-relief-bill/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/donald-trump-covid-relief-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/donald-trump-covid-relief-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222011052-donald-trump-1212-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Stanley Chera Was a Mogul Who Made Covid-19 Personal for Trump"
     excerpt: "The Lives They Lived The Lives They Lived By Jamie Lauren Keiles Shortly after his Covid diagnosis — fever spiking, hooked up to an oxygen tank — Donald Trump reportedly wondered aloud to an aide, “Am I going out like Stan Chera?” Like so many ..."
     publishedDateTime: 2020-12-23T10:33:00Z

@@ -175,6 +175,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump signs COVID-19 relief bill after nearly weeklong delay"
+    excerpt: "After its passage, Trump initially called for the bill to be revised to include $2,000 checks and refused to sign it until his call was answered. However, he didn't officially say he would veto it. In a Sunday night statement announcing he had signed the bill,"
+    publishedDateTime: 2020-12-28T06:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-signs-covid-19-relief-bill-weeklong-delay/story?id=74927738"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-signs-covid-19-relief-bill-weeklong-delay/story?id=74927738"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-signs-covid-19-relief-bill-weeklong-delay/story?id=74927738"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-trump-gty-jef-201209_1607554682850_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump plays golf as Congress scrambles to salvage Covid relief bill"
     excerpt: "Nancy Pelosi in talks with treasury secretary Steven Mnuchin after president’s demand for $2,000 stimulus checks left deal in disarray"
     publishedDateTime: 2020-12-25T13:51:00Z
@@ -396,6 +412,6 @@ related:
       domain: theguardian.com
     quality: 94
 
-secured: "x0baOMP/DXBC63qNobhKz24u1HpoGTLQQGnm17cetcPiXVQyywGTNWtJRZ7g6zONI2KgyDX3LmVi1wsBXtoPkEur/t1qZ0ukYSrchOKp2CyFLp380XdTUFPKE0sHQthKCxtCdRWs4tzEL9UxFNMxU0UGMWft9eo9lF1gUEsoHdvSusCwLmGWOeRGC6ep2hMgs5fsK5mpQnFPqv1m/KsxJuLd1hBOXYcap0nGAQAv/ImSk/V4kIkPTucfEDUOwR83RqLB+o9/6ft2Eh7G+DZU7m2vlFZg+GG3J0yMJbLDfPYXmYUofXCnC5IWHGNuanTdQ7VZ5yIaI4ynbputt50zNmJkzmJVcgvmbYxn7G9GIVA=;G/t7m5wG/oJGH2IkMozwdA=="
+secured: "mNpNqTSEpmdWNorX33fq2V6g4yetxDofPYUhz0pSxQlW96Eg8Wt2uOyF02DbP9JCDVqyzcKvjvp31SrUAAWJeOSR22d3Bdiuf1A63NyVU/GzgfkGHM00rzg4/TnLwOA+LWVLeJlmc+VzSiwFTwuKK5NxVUdQEujp+XhdYGubCKsGBf2vaAiCKZf3MPsZLV9dcdmER5AHa5NmABxBRGGoHObleUUwypYQgpE2vfrNwPMjDKz5ZRKyY6F0iMNRZRZJXw0xP9LGob1j8o7D7ZEfpBjpICGU6g2uhDBNnp/quez0Irqbl8J8rgEVj4eM9WxTZBrI7Hbj7c4F8+Zgu6KXMAx1dTgRBzn6U8wVS4hetBg5Gj7fyS9R9QRg2l0SLAe5ql+xw/5839EF8Y51K/lsT2fgIe76MFOwgsCJP7hqDvmtpS/F+jC3Cyf3i9vxoK6MYMEU8ofzn0aEpCT9xOWEpaHNGsT+mp6CGgLRyD5lyuyZxYEyXhZ4P2+ov8XymNTkLZ1AtTbiIfUkx9L6DOxKow==;qADUbicGf0NNIUptsvUTxA=="
 ---
 

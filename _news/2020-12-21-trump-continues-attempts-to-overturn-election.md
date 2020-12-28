@@ -839,6 +839,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump signs pandemic aid and spending bill, source says"
+    excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a partial federal government shutdown,"
+    publishedDateTime: 2020-12-28T06:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-sign/trump-signs-pandemic-aid-and-spending-bill-source-says-idUSKBN29202U?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29202U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29202U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545920587&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR011"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump vetoes defense bill, setting up possible override vote"
     excerpt: "President Donald Trump has vetoed the annual defense policy bill, following through on threats to veto a measure that has broad bipartisan support in Congress and potentially setting up the first over"
     publishedDateTime: 2020-12-28T04:48:00Z

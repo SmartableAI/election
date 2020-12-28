@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4052084001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052084001"
 type: article
 quality: 128
-heat: 608
+heat: 628
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/25/bce91f76-ba94-4a92-a5c7-37babe774881/thumbnail/1200x630/b296c2307f373634d121d20813368967/gettyimages-1230290576.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump signs COVID-19 relief bill after nearly weeklong delay"
+    excerpt: "After its passage, Trump initially called for the bill to be revised to include $2,000 checks and refused to sign it until his call was answered. However, he didn't officially say he would veto it. In a Sunday night statement announcing he had signed the bill,"
+    publishedDateTime: 2020-12-28T06:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-signs-covid-19-relief-bill-weeklong-delay/story?id=74927738"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-signs-covid-19-relief-bill-weeklong-delay/story?id=74927738"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-signs-covid-19-relief-bill-weeklong-delay/story?id=74927738"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-trump-gty-jef-201209_1607554682850_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump signs massive measure funding government, COVID relief"
     excerpt: "President Donald Trump has signed into law a $900 billion pandemic relief package, ending days of drama over his refusal to accept the bipartisan deal"

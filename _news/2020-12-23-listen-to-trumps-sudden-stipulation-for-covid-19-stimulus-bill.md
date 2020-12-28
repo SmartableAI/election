@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-cor
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_52/3437861/201223-donald-trump-se-300p_8736ae1ad0386e22977c4abc533af85f.jpg"
         width: 2212
         height: 1475
+        isCached: true
+  - title: "Trump chooses chaos with delayed signature of Covid relief bill"
+    excerpt: "President Donald Trump is driving the country through chaos from behind the wheel of his golf cart. He reluctantly signed a Covid relief and government funding bill his own administration helped negotiate and that his own aides claimed he'd approved days ago."
+    publishedDateTime: 2020-12-28T05:01:00Z
+    webUrl: "https://www.cnn.com/2020/12/28/politics/donald-trump-covid-relief-bill/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/donald-trump-covid-relief-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/donald-trump-covid-relief-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222011052-donald-trump-1212-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "In win for Trump, Supreme Court throws out challenge to his census plan to exclude undocumented immigrants"
     excerpt: "This case is riddled with contingencies and speculation,” the court said in a short, unsigned opinion, referring to the states' challenge."
