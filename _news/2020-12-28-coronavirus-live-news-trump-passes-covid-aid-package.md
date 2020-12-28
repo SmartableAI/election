@@ -111,6 +111,22 @@ related:
         width: 757
         height: 545
         isCached: true
+  - title: "McConnell thanks Trump for signing coronavirus relief bill"
+    excerpt: "Senate Majority Leader Mitch McConnell (R-Ky.) late on Sunday thanked President Trump for signing an omnibus bill that funds the government and provides an additional round of coronavirus relief after earlier suggesting he would veto it."
+    publishedDateTime: 2020-12-28T12:49:00Z
+    webUrl: "https://thehill.com/homenews/senate/531786-mcconnell-thanks-trump-for-signing-coronavirus-relief-bill"
+    ampWebUrl: "https://thehill.com/homenews/senate/531786-mcconnell-thanks-trump-for-signing-coronavirus-relief-bill?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/531786-mcconnell-thanks-trump-for-signing-coronavirus-relief-bill?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/mcconnellmitch_122120gn3_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "White House coronavirus adviser Fauci to meet with Biden transition team: CNN"
     excerpt: "White House coronavirus task force member Anthony Fauci will meet with members of President-elect Joe Biden's team on Thursday after President Donald Trump's administration delayed the transition process for weeks amid a coronavirus surge."
     publishedDateTime: 2020-12-03T15:24:00Z
@@ -367,6 +383,6 @@ related:
         height: 682
         isCached: true
 
-secured: "yl9Q5i04GUzUp8VHyBs86YENtGqeuwsz/yghRCEGjxSrFyfVXsIqanJLIR6Rttgd+GHIRvwWDDe/fuuADsRE23HOgRgQlY7zKvP8rUrgslLI09mzVKn6coiVANSuge6RQ1W1ALdKbrU7RaOliJkAc/ybkngiKHYI42BzHnoPnSz4M0RBCE1Ay64xxRvcpMPvFM67vb8ruspcdMv9KY+KlR7s62PKkjmQQ8HNUmNVSqK5++eumHPzNarLwPfeELgFSilcZiNnlb8Yiz1i+GfxdFSaEESY962lF6uovKPBOIysrgmtAVpC85J41H0zIXnvRprFZt3HuOmpja5JSlXb+Gnp1i270Eh1eBaoV0Ixwe8=;XvL0OECjizafYF6mRyYqww=="
+secured: "ioafCabm1g8MRDrwgHRML6mLi+WGkfHVx5nhLeCPnIAC5uZk/gSvYlTbD/PvfN9cxHQ9TzEkCFDFW+fH+dUDUdP1jK64yvfvXq4bdoaoQuvMxCsdblSgOGgHxt01pTzDhvu/h47WCQU6D9WgwZdSz1Bc2MyaF28ZsvZdeZ41537+P2ESel1X0BaM4e9fWT0gVlJOeBYMHiIUdcpiypVrFrK4Wd2F1Evrb+4dc5ZsKgCo4rBqZd5quf+uIVatzi8b/LaX+1qw3dTZ/Mw5XifS1K1tVL6ARV1ntWlxeVxo31I4ctwr/LYXuOBDMqWlqltbfCIi7u1H9jetR/6lCujFxygPGXxKkNjUeuHwfZqwImlgvbrlfMpnE//ESLrXDCMfn61falCD/v5yLxh5fVYpX2Kfjkr4HTmY0reoMzubt8uoN6HPeqRM9Q2XYUKy19T0k8P7kVXYjEr+YAzJpDcvs+QdNH8bSrZa8EpvG+rQiqPjNHyldK8penujEHLpXfoOWSvZs/JKoQKADLUqd7U7JA==;dPp+8w8y+ip1ou+HK2BVrw=="
 ---
 

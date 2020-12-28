@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3991548001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3991548001"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Memo: Left seeks leverage to move Biden"
+    excerpt: "The tug-of-war between President-elect Joe Biden and the left wing of the Democratic Party is shifting onto policy grounds now that nominees have been selected for key positions in the new administration."
+    publishedDateTime: 2020-12-28T11:00:00Z
+    webUrl: "https://thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden"
+    ampWebUrl: "https://thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_121920getty_memo-left-biden.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Barr says Russia likely behind hack, won't name special counsel in Hunter Biden probe"
     excerpt: "Outgoing Attorney General William Barr said Monday he does not see a reason to appoint a special counsel to lead the investigation into Hunter Biden, and split with President Trump over who is likely behind the massive cyberattack targeting several federal agencies,"
     publishedDateTime: 2020-12-22T00:16:00Z

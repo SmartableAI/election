@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump Signs Virus Relief Bill, China Trade, Japan Tax: Eco Day"
+    excerpt: "Here’s the latest news and analysis from Economics to help you start the day: President Donald Trump backed away from a crisis of his own making by signing a pandemic relief bill Take a look at our latest high-frequency dashboard to see how the U."
+    publishedDateTime: 2020-12-28T11:57:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-28/trump-signs-virus-relief-bill-china-trade-japan-tax-eco-day"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-28/trump-signs-virus-relief-bill-china-trade-japan-tax-eco-day"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-28/trump-signs-virus-relief-bill-china-trade-japan-tax-eco-day"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 125
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAJEuazcgWY0/v0/360x-1.jpg"
+        width: 360
+        height: 270
+        isCached: true
   - title: "The US declares Switzerland and Vietnam as currency manipulators in the final days of Trump's administration"
     excerpt: "Joe Biden's incoming administration, according to a chief emerging markets strategist."
     publishedDateTime: 2020-12-17T21:21:00Z

@@ -79,6 +79,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "US STOCKS-S&P, Nasdaq futures at record levels as Trump signs stimulus aid bill"
+    excerpt: "Futures tracking the S&P 500 and the Nasdaq were at record levels on Monday as President Donald Trump's move to sign into law a long-awaited $2.3 trillion pandemic aid bill bolstered bets on a vaccine-led economic recovery."
+    publishedDateTime: 2020-12-28T12:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks/us-stocks-sp-nasdaq-futures-at-record-levels-as-trump-signs-stimulus-aid-bill-idUSL4N2J81HR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN292101"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN292101"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545959094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0GQ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Countdown to shutdown: Here’s what happens if Trump doesn’t enact the stimulus law by midnight Monday"
     excerpt: "Millions of Americans now face the prospect of weeks without unemployment payments, housing assistance and other critical coronavirus aid, as federal relief begins to evaporate amid Trump’s continued refusal to sign a $900 billion congressional stimulus deal into law."
     publishedDateTime: 2020-12-28T00:52:00Z

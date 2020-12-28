@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4052084001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052084001"
 type: article
 quality: 128
-heat: 628
+heat: 648
 published: true
 
 provider:
@@ -388,6 +388,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump signs $900B COVID relief deal"
+    excerpt: "Watch \"Trump signs $900B COVID 19 relief deal; also signs bill to avert government shutdown\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-28T12:24:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201228123434-trump-signs-900b-covid-19-relief-deal-also-signs-bill-to-avert-government-shutdown/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/28/story_08292883_1609159323.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump's COVID bill delay leaves millions of desperate Americans in limbo"
     excerpt: "President Donald Trump's threat late Tuesday to veto the $892 billion coronavirus relief bill approved by Congress this week may delay aid for millions of families on the cusp of eviction and about to lose unemployment benefits."

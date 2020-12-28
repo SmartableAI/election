@@ -126,6 +126,22 @@ related:
         width: 2212
         height: 1475
         isCached: true
+  - title: "Relief is coming: Trump backtracks and signs Covid aid into law"
+    excerpt: "The president's last-minute decision will restore enhanced unemployment assistance that expired Sunday and avert a shutdown that would have begun Tuesday."
+    publishedDateTime: 2020-12-28T12:37:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/relief-coming-trump-backtracks-signs-covid-aid-law-n1252404"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252404"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252404"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438297/201228-trump-relief-mc-829_7c831580b729a43ac8a93b04080975e8.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Some Relief in Sight for Americans After Trump Signs Stimulus Bill"
     excerpt: "The measure will bring $600 checks for most Americans, and restore lapsed jobless benefits, in the face of what Dr. Anthony Fauci warns may be a further post-holiday surge in cases. Here’s the latest in pandemic news."
     publishedDateTime: 2020-12-28T10:03:00Z
@@ -141,22 +157,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/28/world/28virus-briefing-lead-sub/28virus-briefing-lead-sub-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Trump chooses chaos with delayed signature of Covid relief bill"
-    excerpt: "President Donald Trump is driving the country through chaos from behind the wheel of his golf cart. He reluctantly signed a Covid relief and government funding bill his own administration helped negotiate and that his own aides claimed he'd approved days ago."
-    publishedDateTime: 2020-12-28T05:01:00Z
-    webUrl: "https://www.cnn.com/2020/12/28/politics/donald-trump-covid-relief-bill/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/donald-trump-covid-relief-bill/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/donald-trump-covid-relief-bill/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222011052-donald-trump-1212-file-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
   - title: "Trump Signs Pandemic Relief Bill After Unemployment Aid Lapses"
     excerpt: "After calling the measure a “disgrace,” President Trump unexpectedly signed the bill, extending expanded unemployment benefits and an eviction moratorium, and keeping the government open."

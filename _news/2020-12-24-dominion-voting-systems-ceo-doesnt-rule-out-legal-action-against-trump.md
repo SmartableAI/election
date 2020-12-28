@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump chooses chaos with delayed signature of Covid relief bill "
+    excerpt: "President Donald Trump is driving the country through chaos from behind the wheel of his golf cart.\n    \n"
+    publishedDateTime: 2020-12-28T11:13:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pM84HEBJvE0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/donald-trump-covid-relief-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/donald-trump-covid-relief-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222011052-donald-trump-1212-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kinzinger: Trump's refusal to sign relief bill 'shows the chaos of the whole thing'"
     excerpt: "Republican Illinois Rep. Adam Kinzinger said Sunday that President Donald Trump's refusal to sign a $900 billion relief package Congress passed last week and allow critical benefits to lapse for millions of jobless Americans \"shows the chaos of the whole thing.\"\n    \n"
     publishedDateTime: 2020-12-27T19:24:07Z

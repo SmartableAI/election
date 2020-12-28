@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3AS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3AS"
 type: article
 quality: 125
-heat: 565
+heat: 585
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/eb377370afeca0dc7ef343922c89d6431653d400/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=db9160be62ba9dbf5e00db73259cab84"
         width: 600
         height: 360
+        isCached: true
+  - title: "McConnell thanks Trump for signing coronavirus relief bill"
+    excerpt: "Senate Majority Leader Mitch McConnell (R-Ky.) late on Sunday thanked President Trump for signing an omnibus bill that funds the government and provides an additional round of coronavirus relief after earlier suggesting he would veto it."
+    publishedDateTime: 2020-12-28T12:49:00Z
+    webUrl: "https://thehill.com/homenews/senate/531786-mcconnell-thanks-trump-for-signing-coronavirus-relief-bill"
+    ampWebUrl: "https://thehill.com/homenews/senate/531786-mcconnell-thanks-trump-for-signing-coronavirus-relief-bill?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/531786-mcconnell-thanks-trump-for-signing-coronavirus-relief-bill?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/mcconnellmitch_122120gn3_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "White House coronavirus adviser Fauci to meet with Biden transition team: CNN"
     excerpt: "White House coronavirus task force member Anthony Fauci will meet with members of President-elect Joe Biden's team on Thursday after President Donald Trump's administration delayed the transition process for weeks amid a coronavirus surge."

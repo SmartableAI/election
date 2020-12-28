@@ -127,6 +127,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "McConnell thanks Trump for signing coronavirus relief bill"
+    excerpt: "Senate Majority Leader Mitch McConnell (R-Ky.) late on Sunday thanked President Trump for signing an omnibus bill that funds the government and provides an additional round of coronavirus relief after earlier suggesting he would veto it."
+    publishedDateTime: 2020-12-28T12:49:00Z
+    webUrl: "https://thehill.com/homenews/senate/531786-mcconnell-thanks-trump-for-signing-coronavirus-relief-bill"
+    ampWebUrl: "https://thehill.com/homenews/senate/531786-mcconnell-thanks-trump-for-signing-coronavirus-relief-bill?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/531786-mcconnell-thanks-trump-for-signing-coronavirus-relief-bill?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/mcconnellmitch_122120gn3_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Donald Trump stays silent as US sees record 2,804 coronavirus deaths in a day"
     excerpt: "President fails to address national crisis, instead remaining focused on false voter fraud claims"
     publishedDateTime: 2020-12-03T23:14:00Z

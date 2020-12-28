@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Memo: Left seeks leverage to move Biden"
+    excerpt: "The tug-of-war between President-elect Joe Biden and the left wing of the Democratic Party is shifting onto policy grounds now that nominees have been selected for key positions in the new administration."
+    publishedDateTime: 2020-12-28T11:00:00Z
+    webUrl: "https://thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden"
+    ampWebUrl: "https://thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_121920getty_memo-left-biden.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Electoral College makes it official: Biden won"
     excerpt: "The Electoral College decisively confirmed Joe Biden on Monday as the nation’s next president, ratifying his November victory in an authoritative state-by-state repudiation of President Donald Trump’s refusal to concede he had lost."
     publishedDateTime: 2020-12-15T05:31:00Z

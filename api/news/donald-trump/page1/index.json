@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-28-new-york-post-editorial-board-tells-trump-its-time-to-accept-his-loss-and-secure-his-legacy-by-helping-republicans-maintain-control-of-the-senate.md",
+      "title": "New York Post editorial board tells Trump it's time to accept his loss and secure his legacy by helping Republicans maintain control of the Senate",
+      "excerpt": "Stop the Insanity,' said the Post headline. It had been among the president's most supportive media outlets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/new-york-post-editorial-board-tells-trump-to-accept-loss-2020-12",
+      "originalUrl": "https://www.businessinsider.com/new-york-post-editorial-board-tells-trump-to-accept-loss-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe9a07ca6448800181936d1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/new-york-post-editorial-board-tells-trump-to-accept-loss-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-york-post-editorial-board-tells-trump-to-accept-loss-2020-12?amp",
+      "publishedDateTime": "2020-12-28T02:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election.md",
       "title": "Geraldo Rivera: Trump acting like 'entitled frat boy' since losing election",
       "excerpt": "Fox News pundit Geraldo Rivera slammed President Trump, saying he has been acting like an \"entitled frat boy\" since losing a \"bitterly contested el",
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 628,
+      "heat": 648,
       "tags": null,
       "images": [
         {
@@ -1374,7 +1426,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1524,59 +1576,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-pence-echoes-trump-on-election-loss-in-west-palm-speech-to-conservative-youths.md",
-      "title": "Pence echoes Trump on election loss in West Palm speech to conservative youths",
-      "excerpt": "Vice President Mike Pence on Tuesday echoed his boss' defiance in the face of re-election defeat during a speech to young conservatives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/pence-echoes-trump-election-loss-west-palm-beach-speech/4009750001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/pence-echoes-trump-election-loss-west-palm-beach-speech/4009750001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/22/NPPP/c746838d-da64-48c7-b8d9-8e81b70c838b-20201222_wpb_pence_029.JPG?auto=webp&crop=2499,1406,x1,y40&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4009750001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4009750001",
-      "publishedDateTime": "2020-12-22T18:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
       ]
     }
   ],

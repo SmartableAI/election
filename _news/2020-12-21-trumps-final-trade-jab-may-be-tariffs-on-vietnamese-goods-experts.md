@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V18F"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V18F"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Signs Virus Relief Bill, China Trade, Japan Tax: Eco Day"
+    excerpt: "Here’s the latest news and analysis from Economics to help you start the day: President Donald Trump backed away from a crisis of his own making by signing a pandemic relief bill Take a look at our latest high-frequency dashboard to see how the U."
+    publishedDateTime: 2020-12-28T11:57:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-28/trump-signs-virus-relief-bill-china-trade-japan-tax-eco-day"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-28/trump-signs-virus-relief-bill-china-trade-japan-tax-eco-day"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-28/trump-signs-virus-relief-bill-china-trade-japan-tax-eco-day"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 125
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAJEuazcgWY0/v0/360x-1.jpg"
+        width: 360
+        height: 270
+        isCached: true
   - title: "US greenhouse gas emissions drop under Trump, but climate experts aren’t celebrating"
     excerpt: "As Donald Trump prepares to leave office, U.S. greenhouse gas emissions are plunging to levels not seen in decades. But experts say it isn’t happening fast enough."
     publishedDateTime: 2020-12-22T11:14:00Z

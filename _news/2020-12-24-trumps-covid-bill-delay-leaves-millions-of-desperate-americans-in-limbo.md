@@ -399,6 +399,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump signs $900B COVID relief deal"
+    excerpt: "Watch \"Trump signs $900B COVID 19 relief deal; also signs bill to avert government shutdown\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-28T12:24:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201228123434-trump-signs-900b-covid-19-relief-deal-also-signs-bill-to-avert-government-shutdown/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/28/story_08292883_1609159323.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Coronavirus live: Joe Biden receives Covid vaccine; UK warned to expect further restrictions"
     excerpt: "Joe Biden receives the coronavirus vaccine; Sir Patrick Vallance suggests more areas may need to enter tier 4; PM says border delays only affecting small amount of freight"
     publishedDateTime: 2020-12-21T22:06:00Z
