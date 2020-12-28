@@ -72,22 +72,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 98
-  - title: "Brother Of Joe Biden’s Closest Advisor Picks Up Amazon As New Client"
-    excerpt: "Amazon has hired Jeff Ricchetti, the brother of Joe Biden’s White House counselor Steve Ricchetti, to work for its cloud platform Amazon Web Services. A new lobbying disclosure report revealed Jeff Ricchetti landed a lobbying contract with the tech retail giant last month,"
-    publishedDateTime: 2020-12-27T17:18:00Z
-    webUrl: "https://www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130"
-    ampWebUrl: "https://www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/23/joe-biden-is-president-elect-despite-president-donald.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "LezBzsE5Bysqt3827Uh92aPKz56aEFd7UKMagewAfQg78aFw9LEvIfcjPK6xQE0uKKBckgVFDPTNOBowVlKVYAqI0a2P7d68WaHsJ2PU81mqrmMST6J0DaPQweGgwp+NwdNZ1hc26Ay+96mz5oPCiY2mz/Yijvdij4l3O20gQe06abiP/eB+vVVv1njF5+3UihhEFbxZ2N+4U7wGFRU9eLlvgVbnisUt3LwPqY9bsfMTOXATr7qKdA13YCMxAyTtcLmKsKhnsMvcw3Q3fJgp8kf4lMqbSnpDADxH/er1HJx8bdBUPhCMOJMS/1whwmVsd8vraVftzyfFh6bdFyQtKSE7pDzbt1LqhDfoWepWXxTXeU8+2Tq5577h1VbPbRa8bPLMJk1kScg/YKaOu9WZtWAY1SOXP9i0vys0gXFX+wAA/PIRE3w+d5fGUSAGFU+S90xqhEmPV8eJWP0eghDIYy8dz+nQHf5cQwvzJx0lYWTfRF+/DTAYWXCFeepXQMo25Dja9UMO97d+CoFtwCF1kQ==;bFp+yQcXCqP5m8cbhqVRpQ=="
 ---

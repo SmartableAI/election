@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "US STOCKS-Wall St at record levels after Trump signs fiscal aid bill"
+    excerpt: "Dec 28 (Reuters) - Wall Street’s main indexes were trading at record levels on Monday as President Donald Trump’s signing of a long-awaited $2.3 trillion pandemic aid bill bolstered bets on an economic recovery."
+    publishedDateTime: 2020-12-28T22:30:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks/us-stocks-wall-st-at-record-levels-after-trump-signs-fiscal-aid-bill-idUSL4N2J81ZR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN292101"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN292101"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545967675&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0KR"
+        width: 817
+        height: 545
+        isCached: true
   - title: "‘Like a hand grasping’: Trump appointees describe the crushing of the CDC"
     excerpt: "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, were installed in 2018 as two of the youngest political appointees in the history of the world’s premier public health agency,"
     publishedDateTime: 2020-12-16T17:28:00Z
@@ -121,6 +137,22 @@ related:
       - url: "https://www.sun-sentinel.com/resizer/i9kUSPHXjws601q_x2SvnMb1Tlw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2IXB2MNHUR5TZX5IUO53ZBUGBM.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Republicans Buck Trump, Reject Proposal for $2,000 Stimulus Checks"
+    excerpt: "Republicans on Thursday shut down an effort by Democratic leadership in the House to add $2,000 payments to the latest stimulus package, breaking with President Donald Trump’s demand for such checks,"
+    publishedDateTime: 2020-12-24T21:34:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/f74/39e/75805b07042d28264174aae959cff36626-GettyImages-1230254465.rsquare.w1200.jpg"
+        width: 1200
+        height: 1200
         isCached: true
 
 secured: "BIgFxB73k3SQ2gA2ooqLBgdWlDBE2mujZLb8i1fPfqnMQhsVXsS9gbtvXa+NOHafG+lAIjLGqfyNbuZfK57HsSXIqDb0Q1JNBWSSk/FUIvo+Xo7mByEXyzFxudHss6HNFvD8cxk+mjrH4ApmW/PL/BE/47UuIO4S86CY0CRXvLSRRu9lwW7cktab6Tqem1NjWwwmW/tPKW2oTBCPap0REVIzQAkHMCaiexEZCGeoo93XNoZbD1P7t7vUfhSYZ/kUuEX5dSuP2LSN/sy2ndgP12GiK4XEQqnYT++emHTBZHrVPAN88F1cuwDWOvAs7r8Xdiuzure6XHl+wCvWRQ+nUQl1lBBEQnML1IltZMABTS0=;g3VjyLClH485OYyPT0UscQ=="

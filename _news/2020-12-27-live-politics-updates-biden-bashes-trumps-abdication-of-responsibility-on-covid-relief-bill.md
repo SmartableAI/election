@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4052084001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052084001"
 type: article
 quality: 128
-heat: 648
+heat: 668
 published: true
 
 provider:
@@ -425,6 +425,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 94
+  - title: "Second stimulus check updates: Trump threatens to torpedo $900 billion COVID-19 relief bill with new demands that fellow Republicans have opposed"
+    excerpt: "President Trump is blasting the bipartisan $900 billion pandemic relief package that Congress just passed and is suggesting that he may not sign it."
+    publishedDateTime: 2020-12-23T06:58:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-coronavirus-stimulus-check-updates-20201223-7ybevw6uafhtlfcodpayz73m3y-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-coronavirus-stimulus-check-updates-20201223-7ybevw6uafhtlfcodpayz73m3y-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-second-coronavirus-stimulus-check-updates-20201223-7ybevw6uafhtlfcodpayz73m3y-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 88
+    images:
+      - url: "https://www.chicagotribune.com/resizer/fk0V3jTdM0znmmtIBR7USnL-RXg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KADLT5AIRFDM3OFMKUQLBT5LBU"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "la4HhMcwZDR6K/zFXpW8sokXsQLeImSi5lAYZ6hDD39qHlmhwFJnJLuEOkhHTa8iijR6Z1PXFF5Hq2Gr5+6hQoRWqyIrFHTqk/0C2EhOtYbEw7SAgnRgFLcteBZFWxYxYbvQ293+T8+29tr9lF1PnjyDCPKjCUu6Fh5BEjlCJKaH1qWvZz/suNh+G3UUb0vb5D5G44qED5PDysGPUaWqtfce+Whzdwx+nrmltE+DeRAvwqZBFZgnS7EVfO9hBB+PI4gcKHDKFefFtdGLpCELOe4zQ6pX0jGrStZAUl+MXZCoeO4muJ889Bnz4THK5GltcBrejZtfkr59P0mK3AmLLxOnMZQEv4xYNRleQZWHYEU=;Ge0qckNMeBHUlSaiKwGmNQ=="
 ---

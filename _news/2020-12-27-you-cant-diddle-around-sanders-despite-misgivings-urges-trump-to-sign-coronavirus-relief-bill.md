@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/diddle-sanders-misgivings-urges-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/diddle-sanders-misgivings-urges-trump-sign-coronavirus-relief/story?id=74915772"
 type: article
 quality: 111
-heat: 131
+heat: 151
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Republican Sen. Toomey to Trump: 'You don't get everything you want, even if you are the president'"
+    excerpt: "Republican Sen. Pat Toomey on Sunday urged President Donald Trump to sign the coronavirus relief bill as he pushes for $2,000 stimulus checks."
+    publishedDateTime: 2020-12-27T16:48:00Z
+    webUrl: "https://www.businessinsider.com/sen-toomey-trump-you-dont-always-get-what-you-want-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/sen-toomey-trump-you-dont-always-get-what-you-want-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sen-toomey-trump-you-dont-always-get-what-you-want-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5fe8b331a644880018193697?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Coronavirus live news: Trump passes Covid aid package; Indonesia to ban foreign travellers for two weeks"
     excerpt: "Trump has passed a $900bn aid bill to support the US economy; Jakarta cities concerns around the new strains of coronavirus for ban"
     publishedDateTime: 2020-12-28T10:26:00Z

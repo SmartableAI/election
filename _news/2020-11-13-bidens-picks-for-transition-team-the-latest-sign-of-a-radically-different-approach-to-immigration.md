@@ -191,6 +191,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden Says Trump Defense, Budget Officials Are Impeding Transition"
+    excerpt: "President-elect says his team has “encountered roadblocks” from political leaders at the Office of Management and Budget and the Pentagon."
+    publishedDateTime: 2020-12-28T22:10:00Z
+    webUrl: "https://www.wsj.com/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-278568/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump Criticizes Philadelphia GOP Election Official Over Ballots"
     excerpt: "A Republican election official in Philadelphia was a target of President Trump’s complaints about the voting process on Twitter on Wednesday. In a tweet, Mr. Trump singled out “a guy named Al Schmidt,"
     publishedDateTime: 2020-11-12T16:22:00Z

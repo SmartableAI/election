@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/biden-says-pentagon-stonewalls-his-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-pentagon-stonewalls-his-team-as-trump-threatens-iran-2020-12?amp"
 type: article
 quality: 107
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Joe Biden cometh, and he's bringing his czars to rule"
+    excerpt: "Make way for the czars. A Joe Biden White House, as media report is in the works, will bring more czars, more issuance of regulation, more Barack Obama-like pen and phone governance than any kind of duly passed laws and order."
+    publishedDateTime: 2020-12-28T14:01:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/south_carolina_end_of_year_33909_c0-228-5472-3420_s1200x700.jpg?f89739662670662341638fe34403095f75f3e118"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "pAr3E+GIYFAkBv6J3Xa89htBnNl3jBUAbnoJyu6X9bwwkLpkYb5iX6nrpdGK8eJUh3AkkxvDSlzOG9JRYjwj1nTZGqs7BoVgfKb8XQ3kQEys269CKpw3y0Mwgh/X+i5v1tR+aEpX6YD9hY6SQcLkjtLAuokGzS/5XVK0uE0gGfjgWY4py/X3sZACPN7pnV6CubM9vNPN/DFji7utjpfifQ/5gheh++onT5eYduLukuEeRpY5bkuDz8tJmDILuVbtzG480JQG+aJEFBcj6Hd7SRR/5wGUD9rJ6U3IIyEDIqLLMT8mEi9Xs2Kw2JXFV8c7eQSO+2IoZ8SHFWHbvMEFFMJ+rK0vIN8f+mh5GbfKMGy0ZmhBNJ0RiZe7Ey2XJk5oksvA98q59aRweBqQqbumrOyXSHKSgIxG4a7GGnXlnp6sRDk+B4DVDz91Hgm+V4pC5GBmqBFfaRBtcJWoLu9UFXwAn4W1b3z9dHjwTTbNoQDQdoBXckx2AAiAw34yWGyna+5vu9+HkK6MFwAnG4q42A==;dKMXtfdgSCf86PEtSlR1Cw=="
 ---

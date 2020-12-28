@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/12/28/gohmert-other-republicans-sue-pe
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html"
 type: article
 quality: 126
-heat: -1
-published: false
+heat: 466
+published: true
 
 provider:
   name: CNBC
@@ -31,266 +31,259 @@ images:
     isCached: true
 
 related:
-  - title: "Republicans’ loyalty to Trump means more doubt hovers over Biden’s hope of bipartisanship"
-    excerpt: "But some GOP lawmakers’ continued loyalty to President Trump weeks before Biden is inaugurated suggests that convincing members of the opposing party to work will not be an easy transition. The electoral college affirmed Biden’s victory over Trump more than a week ago,"
-    publishedDateTime: 2020-12-24T17:01:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 141
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4HJHLZCFJMI6XLBKHLAPFOGO5M.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden calls for Trump to sign COVID-19 economic relief package"
-    excerpt: "President-elect Joe Biden has called on President Trump to sign the bipartisan end-of-year spending bill that would provide $600 COVID relief checks to most Americans. The president has demanded the checks be increased to $2,"
-    publishedDateTime: 2020-12-27T13:29:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-trump-sign-covid-relief-bill/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-trump-sign-covid-relief-bill/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-trump-sign-covid-relief-bill/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 140
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/22/a20c9f88-aaab-4ae1-8d99-a4a205c60d1a/thumbnail/1200x630g2/423a5e0094b3b5fef22168cdd073de70/gettyimages-1230220167.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Covid: Biden urges Trump to sign coronavirus bill into law"
-    excerpt: "US President-elect Joe Biden has warned of \"devastating consequences\" if President Donald Trump continues to delay signing a Covid-19 economic relief bill into law. Unemployment benefits and a ban on evictions will be affected unless the bill is signed by the end of Saturday."
-    publishedDateTime: 2020-12-26T22:06:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55454720"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55454720"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55454720"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 140
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/696A/production/_116268962_gettyimages-1230097563.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Trump meets U.S. House Republican allies to push voter fraud claims"
-    excerpt: "U.S. President Donald Trump met a group of Republican lawmakers on Monday in his thus-far fruitless bid to gain momentum for claims that the Nov. 3 presidential election won by Democrat Joe Biden was rigged."
-    publishedDateTime: 2020-12-22T06:05:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28W02W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W02W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W02W"
+  - title: "Biden's Latino education secretary to add to diverse Cabinet"
+    excerpt: "President-elect Joe Biden will add to the diversity of his incoming administration on Wednesday when he introduces Miguel Cardona as his choice for U.S. Secretary of Education."
+    publishedDateTime: 2020-12-23T11:26:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-idINKBN28X0LG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28X0LG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28X0LG"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545385302&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL019"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545589631&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM19H"
+        width: 753
         height: 545
         isCached: true
-  - title: "Millions of Americans lose jobless benefits as Trump refuses to sign aid bill"
-    excerpt: "Millions of Americans saw their jobless benefits expire on Saturday after U.S. President Donald Trump refused to sign into law a $2.3 trillion pandemic aid and spending package, protesting that it did not do enough to help everyday people."
-    publishedDateTime: 2020-12-26T10:31:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29003U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29003U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29003U"
+  - title: "Biden's Latino education secretary adds to diverse Cabinet"
+    excerpt: "President-elect Joe Biden added to the diversity of his incoming administration on Wednesday when he introduced Miguel Cardona as his choice for U.S. Secretary of Education."
+    publishedDateTime: 2020-12-23T18:38:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-idUSKBN28X0JU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X0JU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X0JU"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 122
+    quality: 125
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201226&t=2&i=1545851654&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBP0A1"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545589631&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM19H"
+        width: 753
         height: 545
         isCached: true
-  - title: "As Trump pushes baseless fraud claims, Republicans pledge tougher voting rules"
-    excerpt: "Republican state lawmakers have begun to use President Donald Trump’s baseless charges of voter fraud to push for new restrictions on voting."
-    publishedDateTime: 2020-12-21T17:34:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-voting-rules-insight-idUSKBN28V1DN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V1DN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V1DN"
+  - title: "The Memo: Left seeks leverage to move Biden"
+    excerpt: "The tug-of-war between President-elect Joe Biden and the left wing of the Democratic Party is shifting onto policy grounds now that nominees have been selected for key positions in the new administration."
+    publishedDateTime: 2020-12-28T11:00:00Z
+    webUrl: "https://thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden"
+    ampWebUrl: "https://thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545334968&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK0QE"
-        width: 817
-        height: 545
+      - url: "https://thehill.com/sites/default/files/bidenjoe_121920getty_memo-left-biden.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Texas Baptist Minister, a Lifelong Republican, Loses License After Endorsing Biden"
-    excerpt: "\"Had I endorsed Donald Trump or kept my views to myself, I am sure I would still be a licensed Christian minister on the pathway to formal ordination,\" David Bumgardner said."
-    publishedDateTime: 2020-12-18T21:39:00Z
-    webUrl: "https://www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034"
-    ampWebUrl: "https://www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034?amp=1"
+  - title: "Pence sued by Texas GOP Congressman Louie Gohmert over competing electors"
+    excerpt: "A Republican congressman from Texas sued Vice President Mike Pence in the latest long-shot effort to reverse President-elect Joe Biden’s victory over Donald Trump. In the lawsuit, Representative Louie Gohmert seeks a court order forcing the vice president to acknowledge what Gohmert claims is Pence’s power to disregard states’ chosen Democratic electors and instead select competing slates of GOP electors on Jan."
+    publishedDateTime: 2020-12-28T20:31:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 119
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 124
     images:
-      - url: "https://d.newsweek.com/en/full/1661437/texas-voting.jpg"
-        width: 2500
-        height: 1669
+      - url: "https://s.hdnux.com/photos/01/11/12/57/19180496/19/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
-  - title: "Trump-Biden transition: Attorney Sidney Powell back at White House Sunday"
-    excerpt: "Attorney Sidney Powell was back at the White House Sunday to push President Donald Trump and his administration to issue an executive order to seize voting machines for examinatio"
-    publishedDateTime: 2020-12-21T11:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 119
-  - title: "Biden's incoming deputy chief of staff apologizes for calling Republicans 'a bunch of f---ers'"
-    excerpt: "\"I used some words that I probably could have chosen better,\" O'Malley Dillon said on Thursday, per a Politico report."
-    publishedDateTime: 2020-12-17T21:48:00Z
-    webUrl: "https://www.businessinsider.com/biden-staffer-jen-omalley-dillon-apologizes-gop-expletive-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-staffer-jen-omalley-dillon-apologizes-gop-expletive-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-staffer-jen-omalley-dillon-apologizes-gop-expletive-2020-12?amp"
+  - title: "Biden says he sees no evidence cyber attack is under control"
+    excerpt: "WILMINGTON, Del. (Reuters) -President-elect Joe Biden said on Tuesday he had seen no evidence that a massive cyber attack against the United States is under control and warned that the breach will not go unanswered once he takes office on Jan."
+    publishedDateTime: 2020-12-23T03:31:00Z
+    webUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 113
-    images:
-      - url: "https://i.insider.com/5fdbc16bc910a400192e82a5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Breaking down President Trump's final 23 days in office, upcoming Biden administration"
-    excerpt: "\"CBS This Morning\" is launching Looking Forward to 2021, a new series that explores what Americans can expect in the new year. CBS News contributors Robby Mook and Terry Sullivan join to discuss President Donald Trump's four years in office and what to expect from President-elect Joe Biden's administration."
-    publishedDateTime: 2020-12-28T14:12:00Z
-    webUrl: "https://www.cbsnews.com/video/breaking-down-president-trumps-final-23-days-in-office-upcoming-biden-administration/"
+    quality: 105
+  - title: "Biden taps Big Law partners for White House Counsel's office"
+    excerpt: "President-elect Joe Biden on Wednesday named four partners from three Big Law firms who will serve in senior roles in the Office of the White House Counsel."
+    publishedDateTime: 2020-12-24T02:56:00Z
+    webUrl: "https://www.reuters.com/article/whitehousecounsel-biglaw-biden/biden-taps-big-law-partners-for-white-house-counsels-office-idUSL1N2J32N1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J32N1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J32N1"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 112
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Amazon hires lobbyist with ties to President-elect Joe Biden's White House counsel"
+    excerpt: "CNBC.com reporter Brian Schwartz discusses whether Amazon's new hire in Washington, DC could present a conflict of interest with one of President-elect Joe Biden's closest advisors."
+    publishedDateTime: 2020-12-28T13:33:00Z
+    webUrl: "https://www.cnbc.com/video/2020/12/28/amazon-hires-lobbyist-with-ties-to-president-elect-joe-bidens-white-house-counsel.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 99
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/28/4b580f44-810a-4e0b-b69f-d0011f40e173/thumbnail/1200x630/ce2ac0d31c0b5b730ae179cb71ad5f3f/cbsn-fusion-breaking-down-president-trumps-final-23-days-in-office-upcoming-biden-administration-thumbnail-617100-640x360.jpg"
+      - url: "https://image.cnbcfm.com/api/v1/image/106816491-16091598732ED4-REQ-122820-wex-amazon.jpg?v=1609159872"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "GOP congressman sues Pence in effort to try and overturn Biden win"
+    excerpt: "The lawsuit, led by Rep. Louie Gohmert, focuses on the Jan. 6 ceremonial meeting of Congress to finalize Joe Biden's victory."
+    publishedDateTime: 2020-12-28T22:01:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 90
+    images:
+      - url: "https://media.khou.com/assets/CCT/images/bd9d89aa-cf5e-4c9d-8af5-d87c6aa2605f/bd9d89aa-cf5e-4c9d-8af5-d87c6aa2605f_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Louie Gohmert sues Mike Pence in bid to overturn election results"
+    excerpt: "A group of Republicans led by Rep. Louie Gohmert on Monday sued Vice President Mike Pence arguing that he is legally authorized to choose pro-Trump electors when Congress meets next month to certify the results of the presidential election."
+    publishedDateTime: 2020-12-28T18:42:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/07/29/congress_judiciary_96421_c0-0-3786-2208_s1200x700.jpg?962ee6637fa28f773de275bdd510053858c8f287"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Republicans sue Mike Pence in 'desperate' last-ditch effort to overturn election"
+    excerpt: "Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a \"desperate\" last-ditch effort to overturn the results of November's presidential election, The Hill reports. The goal of the lawsuit is to get a federal judge to rule that Pence has the exclusive authority to choose electors when he oversees the Electoral College vote certification on Jan."
+    publishedDateTime: 2020-12-28T17:37:00Z
+    webUrl: "https://theweek.com/speedreads/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 85
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229686198.jpg?itok=Xe-uSQS1"
+        width: 840
+        height: 560
+        isCached: true
+  - title: "Louie Gohmert sues Pence in far-fetched bid to overturn election results on Jan. 6"
+    excerpt: "Rep. Louie Gohmert of Tyler is suing Vice President Mike Pence in an improbable bid to overturn President-elect Joe Biden’s victory. Gohmert and"
+    publishedDateTime: 2020-12-28T20:36:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 84
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/JhGbxKDWa215V-r3Lg0FdsT-nDU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/AHD73RRQY3BMTNRG6DKQ45VLPI.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Republican Sen. Toomey to Trump: 'You don't get everything you want, even if you are the president'"
-    excerpt: "Republican Sen. Pat Toomey on Sunday urged President Donald Trump to sign the coronavirus relief bill as he pushes for $2,000 stimulus checks."
-    publishedDateTime: 2020-12-27T16:48:00Z
-    webUrl: "https://www.businessinsider.com/sen-toomey-trump-you-dont-always-get-what-you-want-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/sen-toomey-trump-you-dont-always-get-what-you-want-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sen-toomey-trump-you-dont-always-get-what-you-want-2020-12?amp"
+  - title: "Brother Of Joe Biden’s Closest Advisor Picks Up Amazon As New Client"
+    excerpt: "Amazon has hired Jeff Ricchetti, the brother of Joe Biden’s White House counselor Steve Ricchetti, to work for its cloud platform Amazon Web Services. A new lobbying disclosure report revealed Jeff Ricchetti landed a lobbying contract with the tech retail giant last month,"
+    publishedDateTime: 2020-12-27T17:18:00Z
+    webUrl: "https://www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130"
+    ampWebUrl: "https://www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5fe8b331a644880018193697?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Biden says Trump's 'abdication of responsibility has devastating consequences' as the president neglects to sign bipartisan stimulus"
-    excerpt: "Trump said he wants $2,000 direct payments to Americans, but House Republicans blocked Democrats' attempt this week to meet his demand."
-    publishedDateTime: 2020-12-26T18:28:00Z
-    webUrl: "https://www.businessinsider.com/biden-trumps-abdication-of-responsibility-has-devastating-consequences-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-trumps-abdication-of-responsibility-has-devastating-consequences-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-trumps-abdication-of-responsibility-has-devastating-consequences-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5fe77a26edf8920018093c66?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Here's the Democrats' plan for handling Donald Trump as Joe Biden's biggest critic and Twitter troll during the next 4 years"
-    excerpt: "Joe Biden and the White House will try to avoid talking about ex-President Donald Trump as much as possible. Good luck with that."
-    publishedDateTime: 2020-12-24T15:41:00Z
-    webUrl: "https://www.businessinsider.com/trump-troll-biden-twitter-white-house-democrats-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 103
-    images:
-      - url: "https://i.insider.com/5fe4b2d8edf8920018093a90?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Republican and Democratic lawmakers to Trump: ‘Sign the bill, Mr. President’"
-    excerpt: "Republican and Democratic lawmakers urged President Trump Dec. 27 to sign the bipartisan stimulus bill, which sits at his Mar-a-Lago resort, as the government shutdown deadline loomed."
-    publishedDateTime: 2020-12-27T22:07:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/republican-and-democratic-lawmakers-to-trump-sign-the-bill-mr-president/2020/12/27/47cb2fd7-2190-4875-a6a2-8aaf6b8822d4_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-27-2020/t_f044b9b2f3c84f10bc10a1c55a58cf04_name_01_SundayShow.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
-  - title: "In Christmas messages, Biden commiserates with COVID victims; Trump barely mentions virus"
-    excerpt: "In dueling Christmas messages to the nation Friday, Joe Biden commiserated with Americans who’ve lost loved ones or their livelihoods because of coronavirus — while President Trump barely made mention of the pandemic that‘s killed over 330,"
-    publishedDateTime: 2020-12-25T20:27:00Z
-    webUrl: "https://www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html"
-    ampWebUrl: "https://www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 91
-    images:
-      - url: "https://www.nydailynews.com/resizer/0ul6_DlUDSmHjuvUUVPjjaJwAQQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KTEZGCM3Z5F7VDNUIPZ3B4YYK4.jpg"
-        width: 1200
-        height: 838
-        isCached: true
-  - title: "Second stimulus check updates: Trump threatens to torpedo $900 billion COVID-19 relief bill with new demands that fellow Republicans have opposed"
-    excerpt: "President Trump is blasting the bipartisan $900 billion pandemic relief package that Congress just passed and is suggesting that he may not sign it."
-    publishedDateTime: 2020-12-23T06:58:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-coronavirus-stimulus-check-updates-20201223-7ybevw6uafhtlfcodpayz73m3y-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-coronavirus-stimulus-check-updates-20201223-7ybevw6uafhtlfcodpayz73m3y-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-second-coronavirus-stimulus-check-updates-20201223-7ybevw6uafhtlfcodpayz73m3y-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 88
-    images:
-      - url: "https://www.chicagotribune.com/resizer/fk0V3jTdM0znmmtIBR7USnL-RXg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KADLT5AIRFDM3OFMKUQLBT5LBU"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Republicans Buck Trump, Reject Proposal for $2,000 Stimulus Checks"
-    excerpt: "Republicans on Thursday shut down an effort by Democratic leadership in the House to add $2,000 payments to the latest stimulus package, breaking with President Donald Trump’s demand for such checks,"
-    publishedDateTime: 2020-12-24T21:34:00Z
-    webUrl: "https://nymag.com/intelligencer/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 75
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/f74/39e/75805b07042d28264174aae959cff36626-GettyImages-1230254465.rsquare.w1200.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/23/joe-biden-is-president-elect-despite-president-donald.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Joe Biden Presidency Will Drag Down Stock Markets, Investors Predict"
+    excerpt: "In general, some of Biden’s economic policies might not be as conducive to growth as the tax-friendly agenda of his predecessor."
+    publishedDateTime: 2020-12-28T16:36:00Z
+    webUrl: "https://www.ibtimes.com/joe-biden-presidency-will-drag-down-stock-markets-investors-predict-3110663"
+    ampWebUrl: "https://www.ibtimes.com/joe-biden-presidency-will-drag-down-stock-markets-investors-predict-3110663?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-presidency-will-drag-down-stock-markets-investors-predict-3110663?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/21/us-president-elect-joe-biden-said-the-latest.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Republicans sue Mike Pence in last-ditch effort to overturn election"
+    excerpt: "Several Republicans, including Rep. Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a last-ditch effort to overturn the results of November's presidential election."
+    publishedDateTime: 2020-12-28T18:26:00Z
+    webUrl: "https://theweek.com/5things/957540/republicans-sue-mike-pence-lastditch-effort-overturn-election"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 70
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229686198.jpg?itok=Xe-uSQS1&resize=400x267"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "Meet 14 Joe Biden family members who could be powerful surrogates — or potential headaches — for the new Democratic president's administration"
+    excerpt: "Biden's political campaigns have always been family affairs. Now his siblings, children, and grandchildren are primed to make headlines when he's president."
+    publishedDateTime: 2020-12-24T15:27:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-family-hunter-jill-ashley-frank-james-valerie-caroline-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/5fe20739d366e600180998fb?width=1200&format=jpeg"
         width: 1200
-        height: 1200
+        height: 600
+        isCached: true
+  - title: "‘We’ve had enough’ — Joe Biden outpaced President..."
+    excerpt: "GOP voters turned off by Trump went for Biden — but weren’t ready to risk a Democratic majority in the State House or in Congress."
+    publishedDateTime: 2020-12-22T11:41:00Z
+    webUrl: "https://www.sfchronicle.com/news/local/politics/article/We-ve-had-enough-Joe-Biden-outpaced-15822288.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/70/50/20417044/9/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Some Republicans plan to challenge Joe Biden’s Electoral College victory. Here’s what happened when Democrats challenged Bush"
+    excerpt: "Congress will count the Electoral College votes in a joint session of Congress on January 6, which represents Trump’s final chance to try to overturn the election result he lost to Biden."
+    publishedDateTime: 2020-12-28T09:47:00Z
+    webUrl: "https://www.mercurynews.com/2020/12/28/some-republicans-plan-to-challenge-bidens-electoral-college-victory-heres-what-happened-when-democrats-challenged-bush"
+    ampWebUrl: "https://www.mercurynews.com/2020/12/28/some-republicans-plan-to-challenge-bidens-electoral-college-victory-heres-what-happened-when-democrats-challenged-bush/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/28/some-republicans-plan-to-challenge-bidens-electoral-college-victory-heres-what-happened-when-democrats-challenged-bush/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 48
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/hypatia-h_fc9e91c267a54ba529f7e2f59370c929-h_91fcd3c81c0d0cb119b2f6ffdc0c4bc4.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "tuTxpXcnqkTqxMHLHtMYOcNOAx6FbZPn1WDvsS12qqVQJY2W7rTAs+VlUoXfA4Ytr4M8hyZU0MvxcBsHTKFF0e1R/PW/759ePRq4lyMY9B5BXrMYJZZscsdJPb6v1wXmcKAArppxthq2AWt+iAp4mtV64Tp/kDUthr3GM4+JzUP0uZDpBeEWi1o4Pep05GkP1GVvt8dR/4fcZ1bSP6nfR4V5ul/iIDGpUG1XgCnVvTW44zlxzozWwUP9FzUDUsP+Smn0OYGyblPca9IWDc+bvd14Gu2HAe/bdGFfmWGBG6D7V5IiMXG7vAljlJW/bK+7Ia91qQKSqvj48FmArVZWLpbnMtoxwNiLtqXDZeSRsx4=;5Wx3oNykKSDrebTsoKDCQg=="

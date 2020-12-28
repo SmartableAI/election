@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "US STOCKS-Wall St at record levels after Trump signs fiscal aid bill"
+    excerpt: "Dec 28 (Reuters) - Wall Street’s main indexes were trading at record levels on Monday as President Donald Trump’s signing of a long-awaited $2.3 trillion pandemic aid bill bolstered bets on an economic recovery."
+    publishedDateTime: 2020-12-28T22:30:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks/us-stocks-wall-st-at-record-levels-after-trump-signs-fiscal-aid-bill-idUSL4N2J81ZR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN292101"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN292101"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545967675&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0KR"
+        width: 817
+        height: 545
+        isCached: true
   - title: "After Trump backs down on stimulus bill, Democrats aim for higher relief checks"
     excerpt: "Democrats in the U.S. Congress on Monday will try to push through expanded $2,000 pandemic relief payments for Americans after President Donald Trump backed down from a fight with lawmakers that could have shut down the federal government."
     publishedDateTime: 2020-12-28T13:51:00Z
@@ -121,6 +137,22 @@ related:
       - url: "https://www.sun-sentinel.com/resizer/i9kUSPHXjws601q_x2SvnMb1Tlw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2IXB2MNHUR5TZX5IUO53ZBUGBM.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Republicans Buck Trump, Reject Proposal for $2,000 Stimulus Checks"
+    excerpt: "Republicans on Thursday shut down an effort by Democratic leadership in the House to add $2,000 payments to the latest stimulus package, breaking with President Donald Trump’s demand for such checks,"
+    publishedDateTime: 2020-12-24T21:34:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/f74/39e/75805b07042d28264174aae959cff36626-GettyImages-1230254465.rsquare.w1200.jpg"
+        width: 1200
+        height: 1200
         isCached: true
 
 secured: "INtb3NMNV48p4C8XqCzRsWAr2p+7DOGLp8ZdAQTfT95ch6MTj69+1tBOR77IJms9ufCdCnEBXn44JLDQ9jVI1VLcAWf4F+qampFipaKNvgvdm0W/8GmYmUzxYArxUQTpeKSAoUacYPoMEOJRedsPRw9pWRDT6usQQ17ucLrN2+iTAVWcnW2m6uCVunKow62HMfqKOIu8OYaWC7adD+olvs6KGvawLC7kLWOanRc8QuofCog6Q92B/9HjO0q1rl3hgm4N84lVwjHJWncs4ov0Q6g2SuHSJbx8kqAQdgnRpo9RdocX1QUeJOZOpqywBtdJxAQvPiEvEfqHRQFqPhwU30W1wvPxlSz0jDwgMzc0O2vV+4/024Bm00VWSqzph0/rStSTEvBDhfA4lR7ILMnCPfxMkMmmd84z42zRmerRufUimT9vdn5xdWXQaPvZylY0/iG4ZXy3qFcjcqAxcYQJ0IBH3DnqZ8oGTm2lXSkSOvT36BNz70CgorUO4HCmSs5buNc83tU4uyNP7TyZAKMqcw==;m8q2PNizHqe3ds/MSF8nUw=="

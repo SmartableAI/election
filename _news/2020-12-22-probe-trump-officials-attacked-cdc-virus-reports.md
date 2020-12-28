@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/probe-trump-officials-at
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473"
 type: article
 quality: 125
-heat: 245
+heat: 285
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "US STOCKS-Wall St at record levels after Trump signs fiscal aid bill"
+    excerpt: "Dec 28 (Reuters) - Wall Street’s main indexes were trading at record levels on Monday as President Donald Trump’s signing of a long-awaited $2.3 trillion pandemic aid bill bolstered bets on an economic recovery."
+    publishedDateTime: 2020-12-28T22:30:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks/us-stocks-wall-st-at-record-levels-after-trump-signs-fiscal-aid-bill-idUSL4N2J81ZR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN292101"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN292101"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545967675&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0KR"
+        width: 817
+        height: 545
         isCached: true
   - title: "‘Like a hand grasping’: Trump appointees describe the crushing of the CDC"
     excerpt: "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, were installed in 2018 as two of the youngest political appointees in the history of the world’s premier public health agency,"
@@ -121,6 +137,22 @@ related:
       - url: "https://www.sun-sentinel.com/resizer/i9kUSPHXjws601q_x2SvnMb1Tlw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2IXB2MNHUR5TZX5IUO53ZBUGBM.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Republicans Buck Trump, Reject Proposal for $2,000 Stimulus Checks"
+    excerpt: "Republicans on Thursday shut down an effort by Democratic leadership in the House to add $2,000 payments to the latest stimulus package, breaking with President Donald Trump’s demand for such checks,"
+    publishedDateTime: 2020-12-24T21:34:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/f74/39e/75805b07042d28264174aae959cff36626-GettyImages-1230254465.rsquare.w1200.jpg"
+        width: 1200
+        height: 1200
         isCached: true
 
 secured: "IzC6+dZfxFd1xlu2jFkrbHNnFuSzQk+nn4Gy+IZyP/1pslXvc8djeiMGJyJioI5Hpf+bUyEXHe/vBVfXO2qn0c752YvFzb1kmUWkWDr/jDW+jOb1xUiu4Bv1SMqB4D15VBvW3zrIUpTw9stkjD+KuDBVORdeu5YRrNSQzB23kiRK+SL0jGVDsjVyz7gj7APMf+tM1uFbzWoXInVXyR2KzHxM7WdUntszHT5tsPgeJO8v3t5KSM382qtWdoh1g4VIvP2EsxzbAWbIT2YbJtuaBwNGo/M2H/p/8Rwk4+lyD8YjV+ib9pGGeFhIDsaJg+TL1Yp8zWuxfcWnWDrEviootsfRz18E3A6IPVVVv4lKrGA=;JgOq8Pvkbhi194ANqZ1row=="

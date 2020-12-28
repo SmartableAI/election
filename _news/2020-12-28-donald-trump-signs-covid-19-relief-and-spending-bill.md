@@ -1488,6 +1488,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "New York Post Begs Trump To Stop Election 'Insanity,' Refocus On Georgia"
+    excerpt: "The New York Post, one of the few media outlets still in President Donald Trump’s corner, has run an editorial urging him to accept defeat and refocus his efforts on the Georgia"
+    publishedDateTime: 2020-12-28T17:01:00Z
+    webUrl: "https://www.ibtimes.com/new-york-post-begs-trump-stop-election-insanity-refocus-georgia-3110673"
+    ampWebUrl: "https://www.ibtimes.com/new-york-post-begs-trump-stop-election-insanity-refocus-georgia-3110673?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/new-york-post-begs-trump-stop-election-insanity-refocus-georgia-3110673?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 89
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Fox News Host Slams Trump As ‘Entitled Frat Boy’ For How He Handled Election Loss"
     excerpt: "Geraldo Rivera, a Trump-supporter, is fed up with how the president is handling the loss of the election and thinks it's time to give it up."
     publishedDateTime: 2020-12-27T22:19:00Z
@@ -1583,6 +1599,20 @@ related:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
     quality: 70
+  - title: "Gohmert sues Pence in East Texas U.S. District Court to keep Trump as president"
+    excerpt: "U.S. Congressman Louie Gohmert, who represents East Texas, has a plan to keep Donald Trump as the country's president another term — sue Vice President Mike Pence."
+    publishedDateTime: 2020-12-28T21:26:00Z
+    webUrl: "https://www.news-journal.com/news/local/gohmert-sues-pence-in-east-texas-u-s-district-court-to-keep-trump-as-president/article_0e1d09f4-494b-11eb-8c67-271c0e76c6b7.html"
+    type: article
+    provider:
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 66
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/a/3c/a3c1a186-4950-11eb-91f4-a75407953995/5f748b53a2ef5.image.jpg?resize=1062%2C630"
+        width: 1062
+        height: 630
+        isCached: true
   - title: "Erasing Trump's Legacy With the Stroke of a Pen"
     excerpt: "Joe Biden is hoping to lead in a manner that, unlike his recent predecessors, leans more on legislation and less on signing executive orders. But he may not have a choice."
     publishedDateTime: 2020-12-18T11:04:00Z
@@ -1616,6 +1646,31 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "House Set for Override Vote on Trump's Defense Bill Veto"
+    excerpt: "The Democratic-controlled House is set to vote on an override of President Donald Trump’s veto of a defense policy bill."
+    publishedDateTime: 2020-12-28T22:12:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-28/house-set-for-override-vote-on-trumps-defense-bill-veto"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-28/house-set-for-override-vote-on-trumps-defense-bill-veto?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-28/house-set-for-override-vote-on-trumps-defense-bill-veto?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "In Final Days, A Weakened Trump Faces First Veto Override"
+    excerpt: "Donald Trump, after caving to pressure and signing a $900 billion coronavirus relief package, faces another potential humiliation this week with Congress poised to deliver the first veto override of his waning presidency."
+    publishedDateTime: 2020-12-28T20:43:00Z
+    webUrl: "https://www.ibtimes.com/final-days-weakened-trump-faces-first-veto-override-3110691"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/28/us-president-donald-trump-is-facing-a-potential.jpg"
+        width: 1024
+        height: 661
+        isCached: true
 
 secured: "29pDbtlJgPYlSRsLJb38Ks9SiwXBGeWJWCxjOmCHTly2mOTyPOv0KjRchDkUEL5PsUTHv5le0XLQhgYjk11+8J39yx+44oLZ7BKmoDKpoFoa4gWH6AtFqgVZmhBX9nPbORc6TkVuDycz//x6H5PQrBCltcaEmO1tYWEqbMEfETBvi3Zz5uMQoPzyhLNk4li0tlMpPyCy05Fav5JcdZr6HEnq79fZf87NIhantm7B868X0egamEX6rjjjYxyXi9NvFEyxllMg9UtqvzIzzeLz+BbXK0OAyHZAYYtyJVA0Tm0QPkGGZ+IjP3WH0T8daQL8SQXApEGRSk2CPN8EELHTRlJLK1E7+HDACeqQwfX7NKQsSp9oqu/U9EPdgPCs0uRZJwYXpvjHbGuO/A1DF0clTaP8VHhKafnUb2fp3/sKruQ7ct2xR0DVXiXk1NPTmijaN+lE/7W+VLqflb1Tq65j4U8FrrYWQbwUCvlbyUUKFXC2guOgaJr2UhjpOkcJqLcugwxLDRHtuTqr+zUZLQmxTQ==;VSkCgMjpicGL/DKegSb+iw=="
 ---

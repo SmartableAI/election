@@ -206,6 +206,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden Says Trump Defense, Budget Officials Are Impeding Transition"
+    excerpt: "President-elect says his team has “encountered roadblocks” from political leaders at the Office of Management and Budget and the Pentagon."
+    publishedDateTime: 2020-12-28T22:10:00Z
+    webUrl: "https://www.wsj.com/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-278568/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "P5cl98mwxFXzYtbehaZpAb8WRnXN4/2+vhH8TTF9UEbU1opHf37/7vjEnWYzsFt75YPhSVfndFkX+Uwq3puw53oaFdRonM5XT+dPC3iwFrY1CKxtsC1/GPZHah2lYq/J3D+jfdZcs7j9DYrSxZO7sgyd3rt5rG3rp9/x71wdX+h5LN84pdsC6JAqSekAw+rdTfmHkwuoWvcVth/5LhL+bTq7J0bmqBVznwJJ5R2HHiqw9T4BUGtyt42veR+eU49uIBFuqgFWsrnLvFCTDQLAUftIO53Fc1NFDFvd3cUK5yriIpaHpFEH33EvV1HeHDsdLdKMMl3wV5TFSn5xhUOJawarUpiux+80zQZdS+qZUOk=;i1uhFcpUM7bjtOl0Kf3E4g=="
 ---
