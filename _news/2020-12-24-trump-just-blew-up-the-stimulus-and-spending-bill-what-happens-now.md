@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-2000-checks-stimulus-veto-spen
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12?amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 121
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545959094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0GQ"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "US STOCKS SNAPSHOT-Wall Street hits record high after Trump signs fiscal aid bill"
+    excerpt: "Wall Street's main indexes hit record highs in early trading on Monday as President Donald Trump's signing of a long-awaited $2.3 trillion pandemic aid bill bolstered bets on an economic recovery, helping financial and energy stocks."
+    publishedDateTime: 2020-12-28T14:49:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks/us-stocks-snapshot-wall-street-hits-record-high-after-trump-signs-fiscal-aid-bill-idUSL4N2J81TM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN292101"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN292101"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545967675&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0KR"
         width: 817
         height: 545
         isCached: true

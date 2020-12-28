@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/trump-calls-for-larger-stimulus-chec
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-calls-for-larger-stimulus-checks-for-americans-2020-12?amp"
 type: article
 quality: 92
-heat: -1
-published: false
+heat: 112
+published: true
 
 provider:
   name: Business Insider
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Congress passes $900 billion 'historic bipartisan rescue package' that now heads to Trump for approval"
-    excerpt: "After weeks of painstaking negotiation and months of partisan finger-pointing, the Senate resoundingly passed a sweeping COVID-19 relief package Monday, sending a bill to President Donald Trump to sign that will send millions of Americans direct payments and rescue thousands of small businesses nationwide struggling to stay open in the face of the pandemic's suffocating grip."
-    publishedDateTime: 2020-12-22T11:16:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/21/stimulus-checks-covid-relief-bill-ppp-loan/3990756001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3990756001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3990756001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/398cd292-4d0a-49c5-b3e1-dada011a0b40-GTY_1292304296.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Trump is holding up the COVID-19 stimulus package with demands for $2,000 checks — but there are enough votes in Congress to override a veto"
     excerpt: "President Trump called the $900 billion package — passed by Congress earlier this week after months of negotiations — a \"disgrace\" on Tuesday."
     publishedDateTime: 2020-12-23T12:16:00Z

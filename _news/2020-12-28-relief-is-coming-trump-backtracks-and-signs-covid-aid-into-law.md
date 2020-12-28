@@ -128,6 +128,22 @@ related:
         width: 2212
         height: 1475
         isCached: true
+  - title: "Live Updates: Trump Signs Stimulus Bill, but Unemployment Lapses"
+    excerpt: "The measure extends larger unemployment checks and an eviction moratorium, and it gives states billions of dollars to help distribute the coronavirus vaccine."
+    publishedDateTime: 2020-12-28T14:08:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/28/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/28/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/28/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/28/us/politics/28transition-briefing-trump-bill/28transition-briefing-trump-bill-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Some Relief in Sight for Americans After Trump Signs Stimulus Bill"
     excerpt: "The measure will bring $600 checks for most Americans, and restore lapsed jobless benefits, in the face of what Dr. Anthony Fauci warns may be a further post-holiday surge in cases. Here’s the latest in pandemic news."
     publishedDateTime: 2020-12-28T10:03:00Z

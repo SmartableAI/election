@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Congress passes $900 billion 'historic bipartisan rescue package' that now heads to Trump for approval"
-    excerpt: "After weeks of painstaking negotiation and months of partisan finger-pointing, the Senate resoundingly passed a sweeping COVID-19 relief package Monday, sending a bill to President Donald Trump to sign that will send millions of Americans direct payments and rescue thousands of small businesses nationwide struggling to stay open in the face of the pandemic's suffocating grip."
-    publishedDateTime: 2020-12-22T11:16:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/21/stimulus-checks-covid-relief-bill-ppp-loan/3990756001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3990756001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3990756001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/398cd292-4d0a-49c5-b3e1-dada011a0b40-GTY_1292304296.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Trump calls for Americans to receive 'more money in direct payments,' as Congress may pass a package with $600 stimulus checks on Sunday"
     excerpt: "The coronavirus relief package that could pass in Congress on Sunday is expected to include $600 stimulus checks."
     publishedDateTime: 2020-12-20T08:10:00Z

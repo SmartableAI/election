@@ -189,6 +189,20 @@ related:
         width: 910
         height: 682
         isCached: true
+  - title: "Left Seeks Leverage to Move Biden"
+    excerpt: "The tug-of-war between President-elect Joe Biden and the left wing of the Democratic Party is shifting onto policy grounds now that nominees have been selected for key positions in the new administration."
+    publishedDateTime: 2020-12-28T12:34:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/28/left_seeks_leverage_to_move_biden_532247.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/530848_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "rGXo5evALTJRWpAqTFVXfDvcXyKR+9RKzt/bjxL1QAuM7IgwGomIlH08fUzxwOesdwP6M4jWpHtqtOTmLHJTzV9+ll33yyHVViFDoCHn90/LTm6uEejpWfeVt5pBLhdkeP+wK15E5nEmmjmdnlf0uNSpUzNIJdykTNBDzs7IKzoyVRMEMWkI/JdaJFpSY0c1BpyFx2SxhuuU2OsijnTFsadjN+yjRlMrY4dn5gtVYiTbUmsMA1EwbyELkGaQdhNqux+XOMt3n4W9w+clzZyamggV3l1kbiK4DshRm6bzuVTwcBg/Paze5IQ2rJ3KR2cJML7BWTqzwdoPN8P3+YBjBPP2Ukhnvwgh8QMDD5xTXmM=;rnEFgqwb9Fdt/oAmMSc2nQ=="
 ---

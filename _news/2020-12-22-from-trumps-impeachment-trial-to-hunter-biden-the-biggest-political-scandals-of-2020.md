@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-biggest-political-scand
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
 type: article
 quality: 182
-heat: 382
+heat: 402
 published: true
 
 provider:
@@ -188,6 +188,20 @@ related:
       - url: "https://assets.realclear.com/images/53/530656.jpg"
         width: 910
         height: 682
+        isCached: true
+  - title: "Left Seeks Leverage to Move Biden"
+    excerpt: "The tug-of-war between President-elect Joe Biden and the left wing of the Democratic Party is shifting onto policy grounds now that nominees have been selected for key positions in the new administration."
+    publishedDateTime: 2020-12-28T12:34:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/28/left_seeks_leverage_to_move_biden_532247.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/530848_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "sNpHSgJOnBsL/v+O4SP2X17Ah42MThBWJNT+jAId2h2DJ4rNIj0HIeyIADBLSr2uXuqDdi8cP5F3AB2bDU4EffmPoxAUmNT4j4Qik+zYbgLDxqN2R3CA/gGHZX1I3O08zpe0+EOgckz7vMx4V/FseP2ci+ghX3+0GFhB1DNKsIR0yWrDV1LhDG/EwvqiMnFhEnm8vGeyFnheuiyMC6R61VDQVJPIC/RVmUv3VKeizXM5ZVz+PBoWJnynBfwo1Ap2+GfgO/Z65SgJ//03RJqGuTkgEAkSJ6X5nLTXMcp+I6itkry/5JHn2itqZLGzpigxOezNK1U7dUjLeAAnpF1HlmZjZmAyyM1a84/ShXMhktU=;aLdU3RWLUXoY5Xduk4BHYw=="

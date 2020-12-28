@@ -77,6 +77,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Amazon hires lobbyist with ties to President-elect Joe Biden's White House counsel"
+    excerpt: "CNBC.com reporter Brian Schwartz discusses whether Amazon's new hire in Washington, DC could present a conflict of interest with one of President-elect Joe Biden's closest advisors."
+    publishedDateTime: 2020-12-28T13:33:00Z
+    webUrl: "https://www.cnbc.com/video/2020/12/28/amazon-hires-lobbyist-with-ties-to-president-elect-joe-bidens-white-house-counsel.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 99
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106816491-16091598732ED4-REQ-122820-wex-amazon.jpg?v=1609159872"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "4xtijhzrDej0wf9p7i7uxQ6+Rgl8UTANwhX5sYcmavK02OIYnin8WwI+8qfcNMvnoTzJwcU2dOT+UK90HfdxBOaIFhoNuOm6iJBmMovZq99BHXoUFQ+iM9Nom98c1LTQAw9Sx+LGCbZRqgrvU8DCeZcxsPBxfpyyRwixvQ2+LMEr23cqtmcMqsbVFdVJBM3olgYhUXoitwhXSg+rsuhFAPrBE3QlFyaHI4B6rKB1Jf2kjV+W2s3kL793rBNnjWSA5xFPtFFZkpjBkux0+yNrYJmrf6ayrm31u7Djt6QICnvrAGK8vauBPi2ZvHnWU3ehhmfOF/ioSlIj9XpZ3243Gx4Vbc4V89ukw4yb05/+vac=;9KIkNitnyWlWx/g3oD+aLQ=="
 ---

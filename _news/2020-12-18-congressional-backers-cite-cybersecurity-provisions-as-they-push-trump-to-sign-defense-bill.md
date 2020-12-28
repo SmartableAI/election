@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Congress: A crisis averted and House votes Monday on overriding Trump's veto"
+    excerpt: "The President signed the massive spending and stimulus package Sunday night, bringing Washington back from brink of what may have been a weeks-long government shutdown and potentially months of more pain for millions of Americans who need expanded unemployment benefits, small business loans, a federal"
+    publishedDateTime: 2020-12-28T13:21:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tNxmHKjxec8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/congress-state-of-play-ndaa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/congress-state-of-play-ndaa/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218141833-pelosi-mcconnell-vaccine-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kinzinger: Trump's refusal to sign relief bill 'shows the chaos of the whole thing'"
     excerpt: "Republican Illinois Rep. Adam Kinzinger said Sunday that President Donald Trump's refusal to sign a $900 billion relief package Congress passed last week and allow critical benefits to lapse for millions of jobless Americans \"shows the chaos of the whole thing.\"\n    \n"
     publishedDateTime: 2020-12-27T19:24:07Z

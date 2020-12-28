@@ -2236,6 +2236,22 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Politics updates: Trump advocates for $2,000 stimulus checks after signing relief package"
+    excerpt: "President Donald Trump continued to argue for $2,000 stimulus checks after signing a coronavirus relief package with a provision for a lower amount."
+    publishedDateTime: 2020-12-28T14:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/28/politics-updates-presidential-transition-covid-relief/4057942001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4057942001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4057942001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/e44d7247-c30b-46ea-98e6-527cfd048984-VPC_COVID19_NEW_RELIEF_DEAL_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump tells Republicans they shouldn't protest the election results by not voting"
     excerpt: "President Trump spoke at a rally on Dec. 5 in Valdosta, Ga., to urge people to vote for Republican Sen. Kelly Loeffler and Sen. David Perdue ahead of the Georgia senate runoff election on Jan. 5."
     publishedDateTime: 2020-12-06T02:44:00Z

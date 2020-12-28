@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware?amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/d05d42e3e9b347488db3416c787e0484b7a50f47/0_0_640_716/master/640.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=78e6783bbbba423c2cd6a04bcd7519f7"
         width: 600
         height: 672
+        isCached: true
+  - title: "Watch Live: Joe Biden delivers remarks after briefing from national security teams"
+    excerpt: "Mr. Biden's comments will follow a briefing from members of his national security and foreign policy agency review teams \"on their findings and key challenges that the Biden-Harris administration will inherit,"
+    publishedDateTime: 2020-12-28T14:50:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-speech-watch-live-stream-today-2020-12-28/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-speech-watch-live-stream-today-2020-12-28/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-speech-watch-live-stream-today-2020-12-28/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/28/af11f1c6-2d69-40e3-bfd5-033879d99f30/thumbnail/1200x630/6cfef30a2d4d96a452691ce7ca18d8a6/gettyimages-1230276263.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Australian politics live: Scott Morrison officially congratulates US president-elect Joe Biden"
     excerpt: "Energy Minister Angus Taylor declared #watergate over, after the Australian National Audit Office reported earlier this year on the government’s $80m purchase of water entitlements from Eastern Australian Agriculture in 2017."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/congress-gop-trump-veto/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/congress-gop-trump-veto/index.html"
 type: article
 quality: 175
-heat: 595
+heat: 615
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217200015-dominion-voting-systems-ceo-john-poulos-ebof-intv-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Congress: A crisis averted and House votes Monday on overriding Trump's veto"
+    excerpt: "The President signed the massive spending and stimulus package Sunday night, bringing Washington back from brink of what may have been a weeks-long government shutdown and potentially months of more pain for millions of Americans who need expanded unemployment benefits, small business loans, a federal"
+    publishedDateTime: 2020-12-28T13:21:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tNxmHKjxec8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/congress-state-of-play-ndaa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/congress-state-of-play-ndaa/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218141833-pelosi-mcconnell-vaccine-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

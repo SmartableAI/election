@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-cor
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_52/3437861/201223-donald-trump-se-300p_8736ae1ad0386e22977c4abc533af85f.jpg"
         width: 2212
         height: 1475
+        isCached: true
+  - title: "Live Updates: Trump Signs Stimulus Bill, but Unemployment Lapses"
+    excerpt: "The measure extends larger unemployment checks and an eviction moratorium, and it gives states billions of dollars to help distribute the coronavirus vaccine."
+    publishedDateTime: 2020-12-28T14:08:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/28/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/28/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/28/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/28/us/politics/28transition-briefing-trump-bill/28transition-briefing-trump-bill-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Relief is coming: Trump backtracks and signs Covid aid into law"
     excerpt: "The president's last-minute decision will restore enhanced unemployment assistance that expired Sunday and avert a shutdown that would have begun Tuesday."
