@@ -2751,6 +2751,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump-Biden transition live updates: House to vote on $2,000 stimulus checks"
+    excerpt: "House Speaker Nancy Pelosi on Monday is bringing a vote on a stand-alone bill to increase economic impact payments to $2,000 to the House floor, and while it’s expected to pass the House, it’s unclear whether Senate Majority Leader Mitch McConnell will take up the measure in the Senate."
+    publishedDateTime: 2020-12-28T15:58:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74922408"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74922408"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74922408"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 137
+    images:
+      - url: "https://s.abcnews.com/images/Politics/pelosi-file-rt-ml-201228_1609168602754_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Police cordoned off Trump Tower in New York City after Biden won the presidency"
     excerpt: "After major US media news outlets called the presidential race for Biden, police secured a portion of Manhattan's Fifth Avenue near Trump Tower."
     publishedDateTime: 2020-11-07T19:09:00Z

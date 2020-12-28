@@ -223,6 +223,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Stocks open higher after President Trump signs $900B coronavirus relief aid package"
+    excerpt: "The Dow Jones Industrial Average, S&P 500 and Nasdaq began the week slightly higher after President Trump signed a $900 billion economic aid package."
+    publishedDateTime: 2020-12-28T16:27:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/12/28/dow-stocks-open-higher-after-president-trump-signs-900-b-aid-package/4059975001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4059975001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4059975001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/28/USAT/cece1a43-fb7c-4f81-a0f2-c2be0b331983-AP20363021962453.jpg?auto=webp&crop=4034,2269,x1,y143&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump campaign lawyer Jenna Ellis has reportedly told associates she has coronavirus"
     excerpt: "The news comes days after Trump announced that Rudy Giuliani, who is leading the campaign's legal team, had tested positive for COVID-19."
     publishedDateTime: 2020-12-08T16:54:00Z

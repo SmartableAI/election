@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump caves — but not before putting the GOP in an ugly spot"
+    excerpt: "Trump's failed gambit essentially cast a spotlight on his own party's refusal to provide more coronavirus relief."
+    publishedDateTime: 2020-12-28T16:18:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/28/trump-caves-not-before-putting-gop-an-ugly-spot/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/28/trump-caves-not-before-putting-gop-an-ugly-spot/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/28/trump-caves-not-before-putting-gop-an-ugly-spot/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-28-2020/t_1154f6e75c864b61b7c701643ce573dc_name_1___1920x1080___30p_00_00_08_29_Still015.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Trump signs pandemic aid and spending bill, averting government shutdown"
     excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a federal government shutdown in a crisis of his own making."
     publishedDateTime: 2020-12-28T08:47:00Z
@@ -78,6 +94,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545924095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBQ0BZ"
         width: 817
         height: 545
+        isCached: true
+  - title: "Alternative facts, witch-hunt, bigly: the Trump era in 32 words and phrases"
+    excerpt: "His rally speeches and manic Twitter feed conjured new slogans and insults or revived incendiary words"
+    publishedDateTime: 2020-12-28T13:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/28/alternative-facts-bigly-witch-hunt-trump-era-words-phrases"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/28/alternative-facts-bigly-witch-hunt-trump-era-words-phrases"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/28/alternative-facts-bigly-witch-hunt-trump-era-words-phrases"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/b2d8e7dc0e405cfb925af5374328936efcf5936d/0_0_2400_1727/master/2400.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c270148cedd87019b9cd203b1d308194"
+        width: 600
+        height: 432
         isCached: true
   - title: "US STOCKS SNAPSHOT-Wall Street hits record high after Trump signs fiscal aid bill"
     excerpt: "Wall Street's main indexes hit record highs in early trading on Monday as President Donald Trump's signing of a long-awaited $2.3 trillion pandemic aid bill bolstered bets on an economic recovery, helping financial and energy stocks."
