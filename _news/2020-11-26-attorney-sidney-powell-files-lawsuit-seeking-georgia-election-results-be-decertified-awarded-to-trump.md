@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump to headline Georgia rally next week ahead of crucial runoffs"
+    excerpt: "President Trump will hold a rally in Georgia on the eve of the crucial Senate run-off in support of the state's two Republican senators, David Perdue and Kelly Loeffler, he announced on Sunday."
+    publishedDateTime: 2020-12-28T01:14:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WCohIezaxYg/trump-georgia-rally-crucial-runoffs-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-rally-crucial-runoffs-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-rally-crucial-runoffs-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1182fbea-3c20-4774-af81-d7823e80ea31/e9d4c6e8-6da9-4965-9be8-c3c3ebeebfb9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump's Pennsylvania law firm pulls out of campaign case after online threats"
     excerpt: "Two attorneys representing the Trump campaign in Pennsylvania have withdrawn from a lawsuit filed on behalf of the campaign."
     publishedDateTime: 2020-11-13T21:37:11Z

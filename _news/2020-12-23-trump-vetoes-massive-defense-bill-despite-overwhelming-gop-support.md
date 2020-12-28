@@ -325,6 +325,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump backs down, signs stimulus package"
+    excerpt: "A government shutdown was averted after the president approved the Covid relief package and annual spending bill."
+    publishedDateTime: 2020-12-28T01:47:00Z
+    webUrl: "https://www.politico.com/news/2020/12/27/congress-stimulus-deal-450380"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/59/f1/5ddcfde546d3a390ce77cd2a0f9d/ap20358774087431-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "mJhgoNKrvRAVWuZilBhtzyyxRa8BMRsxmFp2A8PO0SSiPgehOGBYZ9pcNQtYBIPGJGfW4k8H5+7zF3tvtrVfFv5Df2zvf13NZJZXqFpECacG2KusODiCAls1hdJ9WcxQiFYr5hZJmPDsi9nAQBSrNUri8jqF7K9yCyGXJBs3HCui1h9lq6AN+4+HfBilYTOP0atZIsNLNRbphwz9qbjeGmgMoVgq5obw3XlPaCr/UXCgfapIurogy5HkKGWBpSa7DYJar9WNK8TeFg4VHhwmC+fCm/ioyCuVm9I7SvOHTgIwj47wRJqSX5rP6TRa3+VHOTXhNCuiV5fsyiqszB79h3hzrsJc9/2GrgcVogj32sA=;j9oKmBAmYZEzDRoEY6G6Mw=="
 ---

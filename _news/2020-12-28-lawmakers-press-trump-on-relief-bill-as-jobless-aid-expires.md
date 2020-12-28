@@ -2,21 +2,21 @@
 category: news
 title: "Lawmakers press Trump on relief bill as jobless aid expires"
 excerpt: "The fate of an end-of-year COVID-19 relief and spending bill remained in doubt Sunday as millions lost unemployment aid, the government barreled toward a mid-pandemic shutdown and lawmakers implored P"
-publishedDateTime: 2020-12-28T00:16:00Z
-originalUrl: "https://www.washingtonpost.com/politics/lawmakers-press-trump-on-relief-bill-as-jobless-aid-expires/2020/12/27/18ed8f2a-48a1-11eb-97b6-4eb9f72ff46b_story.html"
-webUrl: "https://www.washingtonpost.com/politics/lawmakers-press-trump-on-relief-bill-as-jobless-aid-expires/2020/12/27/18ed8f2a-48a1-11eb-97b6-4eb9f72ff46b_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/lawmakers-press-trump-on-relief-bill-as-jobless-aid-expires/2020/12/27/18ed8f2a-48a1-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/lawmakers-press-trump-on-relief-bill-as-jobless-aid-expires/2020/12/27/18ed8f2a-48a1-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+publishedDateTime: 2020-12-28T01:10:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/lawmakers-press-trump-relief-bill-jobless-aid-expires-74927667"
+webUrl: "https://abcnews.go.com/Business/wireStory/lawmakers-press-trump-relief-bill-jobless-aid-expires-74927667"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/lawmakers-press-trump-relief-bill-jobless-aid-expires-74927667"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/lawmakers-press-trump-relief-bill-jobless-aid-expires-74927667"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_72f9a4be68054c4dbd43e2a34c789769_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -799,6 +799,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump signs Covid-19 relief and spending bill"
+    excerpt: "Move comes after senior Republicans voiced anger over the delay, which resulted in millions of Americans losing unemployment aid"
+    publishedDateTime: 2020-12-28T01:34:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/28/donald-trump-signs-covid-19-relief-and-spending-bill"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/28/donald-trump-signs-covid-19-relief-and-spending-bill"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/28/donald-trump-signs-covid-19-relief-and-spending-bill"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a4a4540bb48c5ccd206aecd8fc5ef6999c5ec5a8/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c78ea1fa60e9f6981e0d5bf6fa8ff30b"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Global shares edge up on news Trump signs aid bill"
+    excerpt: "Global shares ticked up on Monday as a source said U.S. President Donald Trump signed into law a $2.3 trillion pandemic aid and spending package he had until now refused to sign."
+    publishedDateTime: 2020-12-28T02:10:00Z
+    webUrl: "https://www.reuters.com/article/global-markets/global-markets-global-shares-edge-up-on-news-trump-signs-aid-bill-idUKL1N2J800L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKL1N2J800L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL1N2J800L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545923094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR01G"
+        width: 811
+        height: 545
+        isCached: true
   - title: "Trump is still pinning his hopes on one last lawsuit in Michigan to overturn the presidential election"
     excerpt: "President Donald Trump said a report written by his allies in a lawsuit over a small Michigan county's Marijuana measure reveals \"massive fraud.\""
     publishedDateTime: 2020-12-17T00:08:00Z
@@ -1494,6 +1526,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "zc3JjlfVQ5Smowcrt4hP9slH/6q3gILf5mAN1BYewOElw/1fEB+6tL4LXNhpSZaocJVgBktlyNdqK/lzW1wHqPzAvqEJthUq1PNKsdckKBnQL06RVnbSDso/wS7hdXHcfqPJFSQTtBnFf6Mstjtup7vVLvcV49XLsvbBl2niCBXiFZNMVBqTzuIhW7kJB3HELOIxIVBBMiPxGVqOl1FDGfeI/WWKrkw8x8zsJ9r4hKpjE8DLDogEgfZ1FHVBtLz3UIHGSvJC1YteREw+NyGBiPcew0zubeAuLoqXLKbhSn9fdNIhvQ/cwoPCTaTxkr1dUfbMq3/YKRGa1N6al6LZHyC8oejDkqMc1aSj8UDGDIs=;HcMtCMEm5/SINCFv6NJDjA=="
+secured: "P+BjiONI1mS/MDCw+3QIzCnDt/R9UOKNgwg2M4tbZXBqOzeR5cHXy2mjSG4rZriNFelExrYYPBf9VXGLKUUofM00v+c3ksEbzAN9wJ1qr2sSpgZMLfY3yEFkgu6H3W0077qlJVlFXrTej/1w61I+1YpEZ6EQgQHhRQTq6sUTEzp0LCcAaMOLdKQdhhfECjgucSANKvliPwZVuVMDxteWiwwFEzQyxHILYcVGuMsrHUqIG6O+lJbiZIVwcb6DCNBRRVb+Vsux0DK1sAnpV/yC/m9KK51UlNaYHjxQdLgRA3o4x5W75Lgmg0uGbml7v+vWHOX5a1PxmBmqY9hGR5DYdhQjYtlf0LdPLRIWCh+Zwzs=;lAeDSbo5iqqtORxzxIpM0Q=="
 ---
 

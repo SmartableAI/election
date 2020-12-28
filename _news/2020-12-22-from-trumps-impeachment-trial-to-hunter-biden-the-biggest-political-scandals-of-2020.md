@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-biggest-political-scand
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
 type: article
 quality: 182
-heat: 362
+heat: 382
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 156
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b55e6af3-1933-400f-abde-4a5da8f2f4db/ea9eafcd-3cfb-4178-8bb1-6994cc6cf278/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "KT McFarland: Trump's Abraham Accords are so significant, even 'a Biden admin can't screw it up'"
+    excerpt: "The U.S. brokered Abraham Accords which have made great strides in normalizing relations in the Middle East and promoting a mentality of peace that will extend far beyond his presidency, KT McFarland said Sunday."
+    publishedDateTime: 2020-12-28T02:38:00Z
+    webUrl: "https://www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran"
+    ampWebUrl: "https://www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 137
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e200f42d-47e5-4e6b-8adc-02df3f0b10a8/66390a62-dbae-443b-b83b-a66c4beeb143/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

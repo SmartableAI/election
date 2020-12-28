@@ -160,6 +160,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "KT McFarland: Trump's Abraham Accords are so significant, even 'a Biden admin can't screw it up'"
+    excerpt: "The U.S. brokered Abraham Accords which have made great strides in normalizing relations in the Middle East and promoting a mentality of peace that will extend far beyond his presidency, KT McFarland said Sunday."
+    publishedDateTime: 2020-12-28T02:38:00Z
+    webUrl: "https://www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran"
+    ampWebUrl: "https://www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 137
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e200f42d-47e5-4e6b-8adc-02df3f0b10a8/66390a62-dbae-443b-b83b-a66c4beeb143/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump: Rigging Of 2020 Election Was Final Step In Media's Effort To Overthrow The Will Of The People"
     excerpt: "President Donald Trump released a video message on the 2020 election Tuesday night from the White House. PRESIDENT DONALD TRUMP: My fellow Americans, today I want to explain to you why I am so determined to pursue every legal and constitutional option available to stop the theft of the Presidential Election."
     publishedDateTime: 2020-12-26T10:19:00Z

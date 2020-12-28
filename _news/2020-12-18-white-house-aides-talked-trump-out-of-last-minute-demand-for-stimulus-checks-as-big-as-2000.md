@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump signs pandemic aid and spending bill, averting government shutdown"
+    excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, officials said, restoring unemployment benefits to millions of Americans and averting a partial federal government shutdown."
+    publishedDateTime: 2020-12-28T02:17:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-idAFKBN2910NL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2910NL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2910NL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545924095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBQ0BZ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Countdown to shutdown: Here’s what happens if Trump doesn’t enact the stimulus law by midnight Monday"
     excerpt: "Millions of Americans now face the prospect of weeks without unemployment payments, housing assistance and other critical coronavirus aid, as federal relief begins to evaporate amid Trump’s continued refusal to sign a $900 billion congressional stimulus deal into law."
     publishedDateTime: 2020-12-28T00:52:00Z
