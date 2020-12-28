@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "McConnell praises Trump for signing COVID-19, government funding bills"
+    excerpt: ""
+    publishedDateTime: 2020-12-28T09:55:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump’s 2014 tweet on government spending resurfaces amid COVID-19 bill deadlock"
     excerpt: ""
     publishedDateTime: 2020-12-24T09:48:17Z
@@ -47,6 +63,38 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump’s effort to 'rescind' spending in COVID/government funding bill faces hurdles"
+    excerpt: "Under the Budget Act of 1974, the President is required to submit a “budget request” to Congress in the winter."
+    publishedDateTime: 2020-12-28T09:32:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WBCmojqfCBM/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Roger Stone vows to sue lawmaker for claiming he covered up Trump misconduct for clemency"
+    excerpt: "Veteran political operative Roger Stone is vowing to sue a Democratic lawmaker, alleging that he falsely accused him of covering for President Trump in order to obtain clemency."
+    publishedDateTime: 2020-12-25T00:10:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAbKf5U72vE/roger-stone-sue-hakeem-jeffries"
+    ampWebUrl: "https://www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cccc97f7-4285-4736-a48d-39699d71d1dc/e1d53e3e-9a8b-4517-8baf-6b33c1b4535b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "De Blasio says Trump administration played 'valuable role' in getting COVID-19 vaccine quickly"
     excerpt: "New York City Mayor Bill de Blasio on Tuesday praised the Trump administration for its \"valuable role\" in getting a coronavirus vaccine out quickly -- after President-elect Joe Biden said the administration deserves credit."
@@ -79,22 +127,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump says Moderna COVID-19 vaccine distribution will start 'immediately,' signals to Europe vaccines to come"
-    excerpt: "President Trump on Friday said distribution of the Moderna vaccine will start \"immediately\" after it was \"overwhelmingly approved\" this week, while signaling to European nations that have been \"hit hard\" that coronavirus vaccines would be \"on their way\" to them, as well."
-    publishedDateTime: 2020-12-18T13:35:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mHqCzc-cOj0/trump-moderna-covid-19-vaccine-distribution-start-immediately-europe-to-come"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-moderna-covid-19-vaccine-distribution-start-immediately-europe-to-come.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-moderna-covid-19-vaccine-distribution-start-immediately-europe-to-come.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Trump praises COVID-19 vaccine rollout: 'Great miracle'"
     excerpt: "President Trump on Tuesday said the distribution of the Pfizer and Moderna coronavirus vaccines is going \"very smoothly,\" calling the efforts of his administration to complete vaccines against COVID-19 a \"great miracle."
@@ -189,22 +221,6 @@ related:
     quality: 128
     images:
       - url: "https://images.wsj.net/im-278258/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "High Court Rejects as Premature a Bid to Block Trump Plan to Bar Illegal Immigrants in Redistricting"
-    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
-    publishedDateTime: 2020-12-18T20:25:00Z
-    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
-    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 120
-    images:
-      - url: "https://images.wsj.net/im-251063/social"
         width: 1280
         height: 640
         isCached: true

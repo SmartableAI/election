@@ -3,8 +3,8 @@ category: news
 title: "'I think I had some effect': Cindy McCain pleased with Joe Biden's election victory, looks ahead"
 excerpt: "Cindy McCain played a big role in Joe Biden's narrow win in Arizona. Now she's trying to get Republicans named to his incoming administration."
 publishedDateTime: 2020-12-27T16:55:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/?scrolla=5eb6d68b7fedc32c19ef33b4"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/?scrolla=5eb6d68b7fedc32c19ef33b4"
+originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/"
+webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/"
 ampWebUrl: "https://amp.usatoday.com/amp/4052794001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052794001"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "9YSsmiW+OWmXn6/oZuC4LqIKs0LXvVDMIsnIB4oDu6U0COPZE5CVUJgnaqcBYABgYo5FB2no1+PPA0fn2ReQ3HaPsG6h+1yxFPG9aSTsTlUbCYAs3SSE8BR4bfy3OtyHavhXk2o/m3uYIE5hkEEYTPZbCSIGbRe71Yj9KZ1hl5H3VWkm5XYpCvGsG2qLNSWReid17aHMpK+Ewfx9diPXD7E8gtGElExABF+zplYrDHj4bR9XaOB85rlNa/Z6ov1v4BnGCBN4MMbpMIkW1wSx9CWvHbunvlTKgzS/fjZNyciM4uFoVyVPKzYr7liNj2o6vUi3EvBpETIWAy+Ic0+W7bsbes62EwxXOC7Q2rhLgXQ=;NhTUmY7gel/kWbbUarD35A=="
+secured: "PhFIPh5QQg3V7eQ0rikqcaGj+tA4ElLLOS79BM3gB8iI7pzDd4b8m6Q4jUIlzCgulG1bxh/8uKSSIxo/R/OIQVgJWIZW7hcYqWdYVdQHzEdXhLF87FttUjLNmJ85BHhyaNw0goqDlr7tNsPe/WtM5MMlE+AaKwmxzGcJtQj2zjSj584oaWockMlyMS5U/0rnC4g38LzTVR6z4MpeZI8XaKKV8mG1Nx5egUgH0KZICMrErCM41XHTeYxfaXszTTI1+7iOTBw3p9FECFXgQeaiq7YLwqT1AF39MB7XafNAg3R43fq2zfPF9qNI+XooON/gHPuyx11EZmewS3rS0gBZ4uYjl1/iVzmFChHjNDcLGXU=;g9FnWV2rBfwmsp++hA3uCQ=="
 ---
 

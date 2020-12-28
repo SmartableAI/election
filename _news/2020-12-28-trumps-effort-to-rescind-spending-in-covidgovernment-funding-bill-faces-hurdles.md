@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
-excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature. "
-publishedDateTime: 2020-12-24T19:55:31Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDUV8C4hI7Y/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDUV8C4hI7Y/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
-ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+title: "Trump’s effort to 'rescind' spending in COVID/government funding bill faces hurdles"
+excerpt: "Under the Budget Act of 1974, the President is required to submit a “budget request” to Congress in the winter."
+publishedDateTime: 2020-12-28T09:32:22Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WBCmojqfCBM/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WBCmojqfCBM/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill"
+ampWebUrl: "https://www.foxnews.com/politics/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill.amp"
 type: article
-quality: 163
+quality: 169
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -63,22 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump’s effort to 'rescind' spending in COVID/government funding bill faces hurdles"
-    excerpt: "Under the Budget Act of 1974, the President is required to submit a “budget request” to Congress in the winter."
-    publishedDateTime: 2020-12-28T09:32:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WBCmojqfCBM/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Roger Stone vows to sue lawmaker for claiming he covered up Trump misconduct for clemency"
     excerpt: "Veteran political operative Roger Stone is vowing to sue a Democratic lawmaker, alleging that he falsely accused him of covering for President Trump in order to obtain clemency."
     publishedDateTime: 2020-12-25T00:10:09Z
@@ -108,6 +92,22 @@ related:
     quality: 163
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a609696-7a27-4713-89f3-eb466538688f/0202de8b-222e-4f3a-8a40-56bc57a240cc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
+    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature. "
+    publishedDateTime: 2020-12-24T19:55:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDUV8C4hI7Y/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -224,6 +224,6 @@ related:
         height: 720
         isCached: true
 
-secured: "fwS8utGyszGczoM4l2yqNvZ3s9mfrRp4rFQBzmqjDVWJoidFA1/iVVYCteRtYRCJBMxOt1C0Wv9lAOu12k2Bwz4LCQaXlXpOpJlRAa8cslLA2q3/mQIbfygk7yuURTRua0RKokyczaJB6jPFd6RHWg9s2Mo0yD39sK+M7zTD5D4t5T52LhsKhBy+Xe3ztQ2SYCrBvfj+IU3kd9x2Nop5uPxDAeyzRO77M/ALN+eN5aBn/4sgSnzTAbHcyt64ozF+EaZ9oaRoqFmurvhg61TiwDBWPuUpxdsZjmm+OfJPRqvFArHr/3vrm93dQ454FmzrQ71PpG9GDVzQyldJ3f3H38gTkkubSQinKXulXWTnynk=;5nHRQBTXDGCqcobfjBF+dQ=="
+secured: "tH4txuqeuRdkCxIYW2waM2xJx7omrgQvx4JPWT7fXWnvoh1V8JOJO+Ur5RtTEFqhR0s3XkbBCsGoFaFlEh2j/Xxdu1ppBkMdI141pemDPnGPNM/G3o5h5jgDDkctOoPP2IYTfdgYqEoMKfLlwgWNnN+CNr7JjrOoitVD0WECzT1UEowyLiH2T2csNAdXKcbuC2JPdL9RYLlDN/NR9jVUCmQnFs3r9SBt1OotDcc7NjTzI/0+c5XT71yz2++eEIguk1hoXvvUMpujR0rYGQ2h3KC2V4S5rpMKT7cUlTfHoUuwE0igyhUog5oPGpRYzcQrrQHqHk9OZzVH717bmgpBWO4STiFjNW8cE4i4fiUCTSM=;A51COgFVhtwIcI/3Br155g=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp"
 type: article
 quality: 166
-heat: 206
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,37 +31,197 @@ images:
     isCached: true
 
 related:
-  - title: "Ivanka Trump champions working families, fights human trafficking during her father's presidency"
-    excerpt: "While President Donald Trump commanded the nation’s attention over the last four years, his daughter and senior adviser, Ivanka Trump, racked up a list of considerable achievements."
-    publishedDateTime: 2020-12-24T18:23:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency"
-    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp"
+  - title: "McConnell praises Trump for signing COVID-19, government funding bills"
+    excerpt: ""
+    publishedDateTime: 2020-12-28T09:55:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20356689491057.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump responds to Bolton's 'incompetence' claim, hints he could reveal 'stupid stories' about former adviser"
-    excerpt: "President Trump hit back after former national security adviser John Bolton blasted him for \"incompetence\" amid reports that Trump discussed invoking martial law with another former national security adviser, Michael Flynn."
-    publishedDateTime: 2020-12-20T16:07:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QaPj5M9iXz0/trump-bolton-election-martial-law-michael-flynn"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-bolton-election-martial-law-michael-flynn.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-bolton-election-martial-law-michael-flynn.amp"
+  - title: "Trump’s 2014 tweet on government spending resurfaces amid COVID-19 bill deadlock"
+    excerpt: ""
+    publishedDateTime: 2020-12-24T09:48:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zhm1dyA54i0/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/09/640/320/3b9234da-Bolton091919.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump’s effort to 'rescind' spending in COVID/government funding bill faces hurdles"
+    excerpt: "Under the Budget Act of 1974, the President is required to submit a “budget request” to Congress in the winter."
+    publishedDateTime: 2020-12-28T09:32:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WBCmojqfCBM/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "De Blasio says Trump administration played 'valuable role' in getting COVID-19 vaccine quickly"
+    excerpt: "New York City Mayor Bill de Blasio on Tuesday praised the Trump administration for its \"valuable role\" in getting a coronavirus vaccine out quickly -- after President-elect Joe Biden said the administration deserves credit."
+    publishedDateTime: 2020-12-22T17:57:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n209tAs7mNM/de-blasio-trump-administration-valuable-role-coronavirus-vaccine"
+    ampWebUrl: "https://www.foxnews.com/politics/de-blasio-trump-administration-valuable-role-coronavirus-vaccine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-trump-administration-valuable-role-coronavirus-vaccine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a609696-7a27-4713-89f3-eb466538688f/0202de8b-222e-4f3a-8a40-56bc57a240cc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
+    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature. "
+    publishedDateTime: 2020-12-24T19:55:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDUV8C4hI7Y/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump praises COVID-19 vaccine rollout: 'Great miracle'"
+    excerpt: "President Trump on Tuesday said the distribution of the Pfizer and Moderna coronavirus vaccines is going \"very smoothly,\" calling the efforts of his administration to complete vaccines against COVID-19 a \"great miracle."
+    publishedDateTime: 2020-12-22T15:53:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-praises-covid-19-vaccine-rollout-great-miracle"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-praises-covid-19-vaccine-rollout-great-miracle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-praises-covid-19-vaccine-rollout-great-miracle.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump Asks Congress to Amend Covid-19 Package, Boost Direct Payments"
+    excerpt: "President Trump tweeted a video criticizing the $900 billion coronavirus relief legislation passed by Congress, calling for lawmakers to increase direct payments to Americans to $2,000 from $600."
+    publishedDateTime: 2020-12-23T00:57:00Z
+    webUrl: "https://www.wsj.com/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-207060/social"
+        width: 1281
+        height: 670
+        isCached: true
+  - title: "Covid-19 Aid Bill Remains Uncertain as Trump Calls for Larger Payments"
+    excerpt: "The delay could result in a suspension of unemployment benefits for millions and a possible shutdown of the federal government."
+    publishedDateTime: 2020-12-26T23:30:00Z
+    webUrl: "https://www.wsj.com/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
+    ampWebUrl: "https://www.wsj.com/amp/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-278316/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump says ‘good news’ is coming on COVID-19 relief bill"
+    excerpt: "President Trump on Sunday said “good news” was forthcoming on the $900 billion coronavirus relief bill which he has been refusing to sign. “Good news on Covid Relief Bill."
+    publishedDateTime: 2020-12-28T00:06:00Z
+    webUrl: "https://nypost.com/2020/12/27/trump-says-good-news-is-coming-on-covid-19-relief-bill/"
+    ampWebUrl: "https://nypost.com/2020/12/27/trump-says-good-news-is-coming-on-covid-19-relief-bill/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/27/trump-says-good-news-is-coming-on-covid-19-relief-bill/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201227-trump-covid-bill.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump Signs Covid-19 Aid Bill Averting Government Shutdown"
+    excerpt: "President Trump signed a sweeping pandemic-aid bill on Sunday night, according to people with knowledge of the matter, ending a standoff with Congress and paving the way for millions of Americans to get economic relief as the coronavirus pandemic surges across the country."
+    publishedDateTime: 2020-12-28T06:10:00Z
+    webUrl: "https://www.wsj.com/articles/trump-signs-covid-19-aid-bill-averting-government-shutdown-11609117841?mod=hp_lead_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-signs-covid-19-aid-bill-averting-government-shutdown-11609117841"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-signs-covid-19-aid-bill-averting-government-shutdown-11609117841"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-278393/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "U.S. Families, Economy, Government in Limbo as Trump Remains Mum on Covid-19 Aid Bill"
+    excerpt: "President has neither vetoed nor signed massive coronavirus relief package, a day before pandemic-related unemployment benefits expire."
+    publishedDateTime: 2020-12-25T19:37:00Z
+    webUrl: "https://www.wsj.com/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
+    ampWebUrl: "https://www.wsj.com/amp/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
+    images:
+      - url: "https://images.wsj.net/im-278258/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
+    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature."
+    publishedDateTime: 2020-12-25T05:23:00Z
+    webUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "SqinoMrmWE31BBz0VA9HD3U0qSRknkiNMfUrqBooELjdFTjqO0GSrvXnpYXtvHuTAnoCPywd/hTPoAxmJIdEs6fFqgqc8t1wtTL2Xv+AlTl7rhUtXomBtTmQ/KATHelsS0M+q9nJGibxqPb6z4DCql+NC90icTrgyRtMdcrdc4OofjYVekPW1qKQ83rhYNRXIQvUcY5E52fJ318nZYvOlsg4rgjwoIJdpwgkp3WI7BSy38OM1hASV8oMpJjorbo/bl6U9Rw2sO3VFnTC2IFpEyQRfstQfgYtN9gm0+a67kXPCggfd8EWIqIkvVfLoQ337Tf9uedMzCqxYHgN3nD4BumfO7X/zUJCz7y/F1XaOxo=;BBAkfLnTkQALY2XxGRLwww=="

@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Trump campaign told to preserve all documents related to Sidney Powell and Dominion Voting Systems "
-excerpt: "President Donald Trump's campaign legal team sent a memo to dozens of staffers Saturday instructing them to preserve all documents related to Dominion Voting Systems and Sidney Powell in anticipation of potential litigation by the company against the pro-Trump attorney.\n    \n"
-publishedDateTime: 2020-12-19T19:44:34Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0UXIek4FBSs/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0UXIek4FBSs/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-campaign-sidney-powell-dominion-voting-systems/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-campaign-sidney-powell-dominion-voting-systems/index.html"
+title: "Some Relief in Sight for Americans After Trump Signs Stimulus Bill"
+excerpt: "The measure will bring $600 checks for most Americans, and restore lapsed jobless benefits, in the face of what Dr. Anthony Fauci warns may be a further post-holiday surge in cases. Here’s the latest in pandemic news."
+publishedDateTime: 2020-12-28T10:03:00Z
+originalUrl: "https://www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates"
+webUrl: "https://www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates"
+ampWebUrl: "https://www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates.amp.html"
 type: article
-quality: 161
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2020/12/28/world/28virus-briefing-lead-sub/28virus-briefing-lead-sub-facebookJumbo.jpg"
+    width: 1050
+    height: 549
     isCached: true
 
 related:
@@ -95,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump campaign told to preserve all documents related to Sidney Powell and Dominion Voting Systems "
+    excerpt: "President Donald Trump's campaign legal team sent a memo to dozens of staffers Saturday instructing them to preserve all documents related to Dominion Voting Systems and Sidney Powell in anticipation of potential litigation by the company against the pro-Trump attorney.\n    \n"
+    publishedDateTime: 2020-12-19T19:44:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0UXIek4FBSs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-campaign-sidney-powell-dominion-voting-systems/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-campaign-sidney-powell-dominion-voting-systems/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump threw a wrench into Covid relief. What could happen next?"
     excerpt: "President Donald Trump on Tuesday threw a wrench into the massive year-end spending and coronavirus relief bill, leaving the country on edge as the threat of a government shutdown and expiring Covid-19 protections loom over the holiday season."
     publishedDateTime: 2020-12-23T21:12:00Z
@@ -110,22 +127,6 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_52/3437861/201223-donald-trump-se-300p_8736ae1ad0386e22977c4abc533af85f.jpg"
         width: 2212
         height: 1475
-        isCached: true
-  - title: "Some Relief in Sight for Americans After Trump Signs Stimulus Bill"
-    excerpt: "The measure will bring $600 checks for most Americans, and restore lapsed jobless benefits, in the face of what Dr. Anthony Fauci warns may be a further post-holiday surge in cases. Here’s the latest in pandemic news."
-    publishedDateTime: 2020-12-28T10:03:00Z
-    webUrl: "https://www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates"
-    ampWebUrl: "https://www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/28/world/28virus-briefing-lead-sub/28virus-briefing-lead-sub-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "Trump chooses chaos with delayed signature of Covid relief bill"
     excerpt: "President Donald Trump is driving the country through chaos from behind the wheel of his golf cart. He reluctantly signed a Covid relief and government funding bill his own administration helped negotiate and that his own aides claimed he'd approved days ago."
@@ -236,6 +237,6 @@ related:
         height: 629
         isCached: true
 
-secured: "r7ZX4++6es/caIks/wa4JcrGPaEgfAekm4a4N8ZlcDrHM2RGzsczRFvdC00e5X6W3ppUik7q2tBoW0KEPxBhGThMqfWLjME6wv3DBI2ynEkAv2PoVn8TJ5Lci4Iot+dUiPnQhzAd7KOXi7oaBLmm1g86hAPiMOVbmXhEVmCeIcKAHYZMTY1MKflSyP2FXfaGSUnW8+zjQHpQrlIkuQVnIacglH/Er91yKkwn6NmHQYeemawDe5xAPbs/iwNVYo7UjtU6p3x4MvtL0p+iSOGrI4KDsQtzf4GYL69NH6mq0/eMCCK/pJ4ild7WdHAZOHrsP81R2AiqNy3LxfLprLD1ldTI1DYNW1t6eZ4Zp1/7mYI=;I84putJl9oC8t+FzrCYUxQ=="
+secured: "BKhYauF9AQMDfr332jAtvqjuUsAO2GhCBJGyLwqSSEHXaBUR2K/+sY83nV8C4cADT/8U6JC2QC/KOC7/GMUH7XvUVeDf39gb50LCGw1T+qOtR3M6Mm9cVRHzw+2zMQUJi3cDGUZPdSZqAoj1CpW2jYf68s1ah+Om0Czit0DQMXdLKYacLQMpc8gV1pj1XcNns6kHEcAlSM2xlYqJ0pn9IbYLCw3YBS4MVoviD/lazQDB+Wosi7itHfmxWsp5EhPuv6TaBUgvlQSEp1G7F92jqwbtD34IU07OtyQav/SVSo2hmy4pZJ7Jv56YSGdJXtoE0qAzdCtNDrh22w0YhOIEWMG2hoIoLVoh+qqo3RNzWl8=;TFYcuJr+R8HBYifeW5GfXA=="
 ---
 

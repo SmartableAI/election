@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-campaign-case-n
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-campaign-case-no-hurry.amp"
 type: article
 quality: 158
-heat: 178
+heat: 198
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-scotus-pa.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "High Court Rejects as Premature a Bid to Block Trump Plan to Bar Illegal Immigrants in Redistricting"
+    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
+    publishedDateTime: 2020-12-18T20:25:00Z
+    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 120
+    images:
+      - url: "https://images.wsj.net/im-251063/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "oajWVfJ9gqSuQwxZ0l0EM5Ko6e/tXFQBwJERy5zLgTqdhlKla6gE46Fj/ei1eWNYPxRSXDgTs1/ExEPUWS8nalw4Py7KNrqgRYx4ODcdhD3Kvi06POhR0Qg9dKXyEA1VUkQReeUvpCxOx4ZKehSGuzNgXWcfsld8xFlsr1WqEmSmsjb63v7Zgxxemz5QpYk9gl2YLkflIisUT7JEviXghWmAw0u8HIfJvS1UZXaF3IYIXfvcWXiwf4zbLzpj8u80+mrbtk5YURz29ihD47IK53+UL8N8H86DyVh9C+N/7f8X4YjBZalVFjW+VHfVE/aCFfOZ3pLn9wesQBU9TuHhQbjzyDo8l/v/gTIN+N5Lg7o=;h2ODjD3u1WAYW0XgsmvYpA=="

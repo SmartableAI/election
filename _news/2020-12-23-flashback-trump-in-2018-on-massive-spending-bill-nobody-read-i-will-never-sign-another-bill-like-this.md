@@ -159,6 +159,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Shutdown averted as Trump signs Covid bill, vows to push for $2G checks from Congress"
+    excerpt: "Trump signs Covid bill, averts shutdown, will continue to push for $2G checks from Congress Five days after calling the coronavirus bill a \"disgrace,\" President Trump signed the massive $900 billion COVID-19 relief and $1."
+    publishedDateTime: 2020-12-28T10:19:00Z
+    webUrl: "https://www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress"
+    ampWebUrl: "https://www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20361775825326.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "n8UNP93bqyZo+BrUbiWHRNUjWM5FvbZ6m9lBGTzhr7k4qHcz1DRi9aSCehEbhINVDs4lQ/XHcj+1KvIhy108RMieiP7eWaAP8r2mEJepfSAaDjbVUIthgAaKQKkb0w2BpR54hh5c9+09S0UhyBT1AwfWAK68gHT9juNLK/jB6qclZLMUcUY5y17toNKnjP9M2Koac5w9Ym5ukc5dQlBf2u3WVwK5qWW4gjNNgMl0tFjxpiPxleFVE4oOdsVpNq/TcYTB6xoIcrj/7YVCHjTnivgBMiN8WceFP45esU8GsM3CAO0ND0xoMwPR4jzD+GcNrKaCThWw8baqCjFVBOF4Idb2s1O+pawjEVBlAD76QVc=;rI5F5Lk5fPzNaeM66fGQkQ=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Oil rises towards $52 after Trump signs aid bill"
+    excerpt: "Oil rose towards $52 a barrel on Monday as U.S. President Donald Trump's signing of a coronavirus aid package and the start of a European vaccination campaign outweighed concern about weak near-term demand."
+    publishedDateTime: 2020-12-28T10:37:00Z
+    webUrl: "https://www.reuters.com/article/global-oil-int-idUSKBN2920G3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920G3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920G3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545938712&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR07D"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump signs pandemic aid and spending bill, averting government shutdown"
     excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a federal government shutdown in a crisis of his own making."
     publishedDateTime: 2020-12-28T08:47:00Z

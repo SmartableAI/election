@@ -1,16 +1,16 @@
 ---
 category: news
-title: "'Squad' introduces bill for $2,000 stimulus checks backed by Trump"
-excerpt: "Members of the progressive \"Squad\" in the House on Thursday introduced their own bill to send $2,000 stimulus checks to Americans after President Trump this week demanded the $600 checks included in Congress' stimulus deal be increased to that number. "
-publishedDateTime: 2020-12-25T17:38:22Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9LZqQjUCns/squad-stimulus-checks-bill-trump-funding-bill-on-hold"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9LZqQjUCns/squad-stimulus-checks-bill-trump-funding-bill-on-hold"
-ampWebUrl: "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
+title: "Shutdown averted as Trump signs Covid bill, vows to push for $2G checks from Congress"
+excerpt: "Trump signs Covid bill, averts shutdown, will continue to push for $2G checks from Congress Five days after calling the coronavirus bill a \"disgrace,\" President Trump signed the massive $900 billion COVID-19 relief and $1."
+publishedDateTime: 2020-12-28T10:19:00Z
+originalUrl: "https://www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress"
+webUrl: "https://www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress"
+ampWebUrl: "https://www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress.amp"
 type: article
-quality: 175
-heat: 355
-published: true
+quality: 128
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,15 +22,32 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20361775825326.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
+  - title: "'Squad' introduces bill for $2,000 stimulus checks backed by Trump"
+    excerpt: "Members of the progressive \"Squad\" in the House on Thursday introduced their own bill to send $2,000 stimulus checks to Americans after President Trump this week demanded the $600 checks included in Congress' stimulus deal be increased to that number. "
+    publishedDateTime: 2020-12-25T17:38:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9LZqQjUCns/squad-stimulus-checks-bill-trump-funding-bill-on-hold"
+    ampWebUrl: "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump threatens to veto massive COVID bill, demands Congress make this big change"
     excerpt: "President Trump slammed the recently passed $900 billion COVID-19 relief package as a \"disgrace\" on Tuesday evening, urging Congress amend the bill to increase the direct payments given to Americans."
     publishedDateTime: 2020-12-23T00:29:47Z
@@ -159,23 +176,7 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Shutdown averted as Trump signs Covid bill, vows to push for $2G checks from Congress"
-    excerpt: "Trump signs Covid bill, averts shutdown, will continue to push for $2G checks from Congress Five days after calling the coronavirus bill a \"disgrace,\" President Trump signed the massive $900 billion COVID-19 relief and $1."
-    publishedDateTime: 2020-12-28T10:19:00Z
-    webUrl: "https://www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress"
-    ampWebUrl: "https://www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20361775825326.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
-secured: "PiVd9hHFs13c9sVjchrJwVPsRxEWLwTL0r/c1a3kB2Z+rkSCIBF9zoaqL5i1aWl6FlW+cEaRLfAyu97CtX7cpPBzwl4wotGi3jJgynWHe9slG38tS7gQLKJj9LYvksqoaUPOqdIOIHIQZjNeY2D8Syj+0hs03j7ji6DXFGoV7+gLtb6+yEQIVwrjJ4wdQAhSXJZtvKp/5rzozn1pFPGWwCcZ0lI0hNmBkgAHLfc+pf9uSc1W6xyP+on5CVDVZtQIyLJMX2czmqm1c/qWndIOztju2ZIHyk/ImzlMIF3mMdJGt+FGjGRdtcCsGo1bFZThKiV4g/5ttsUC1rCja0Bfza8bjx/ZAIzXHiDiFg3rBUE=;8LEe7mYOoOs9tp8VmnWheg=="
+secured: "zdGNeDhW6gf+cdJ9BZBv5imfKRoixsA8hNs6CCAQQUTH7sDVG0yr0E+K53fSQzu5G+p71+BtbGIxn+QqjUn3IXURHajXypUi3occxcWIh5u+1Xl8mzUMc5nHlkpC9UWuyDSj/YA1okbaq0keXBVJnr3de8T2I5wdMjfYgYkXdatdGGGRCo5ShBKJjgQwxDL6uvfhIlJ5QOEXVPBWhQ/b8C9NcRvkLSEb1zErU7MbgChjOITQ3tTbCniAwKR7nm7hLK4cLAOtz8W+jnAiq2g+EN8dH49Yjj3OGlXe9R9zxAJM5AGpAHimFkQRq9StuusBzQEyYS/6UBG3Okha+v5Od4JAujJdsVgZr7GjGx0GwjI=;fdOrNmwgpGP8Xp6FAhEm/A=="
 ---
 

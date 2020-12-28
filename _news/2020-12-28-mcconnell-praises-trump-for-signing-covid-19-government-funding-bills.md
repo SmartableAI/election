@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
-excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature. "
-publishedDateTime: 2020-12-24T19:55:31Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDUV8C4hI7Y/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDUV8C4hI7Y/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
-ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+title: "McConnell praises Trump for signing COVID-19, government funding bills"
+excerpt: ""
+publishedDateTime: 2020-12-28T09:55:05Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills"
+ampWebUrl: "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
 type: article
-quality: 163
-heat: -1
-published: false
+quality: 175
+heat: 415
+published: true
 
 provider:
   name: Fox News
@@ -25,28 +25,12 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
-  - title: "McConnell praises Trump for signing COVID-19, government funding bills"
-    excerpt: ""
-    publishedDateTime: 2020-12-28T09:55:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump’s 2014 tweet on government spending resurfaces amid COVID-19 bill deadlock"
     excerpt: ""
     publishedDateTime: 2020-12-24T09:48:17Z
@@ -108,6 +92,22 @@ related:
     quality: 163
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a609696-7a27-4713-89f3-eb466538688f/0202de8b-222e-4f3a-8a40-56bc57a240cc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
+    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature. "
+    publishedDateTime: 2020-12-24T19:55:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDUV8C4hI7Y/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -224,6 +224,6 @@ related:
         height: 720
         isCached: true
 
-secured: "fwS8utGyszGczoM4l2yqNvZ3s9mfrRp4rFQBzmqjDVWJoidFA1/iVVYCteRtYRCJBMxOt1C0Wv9lAOu12k2Bwz4LCQaXlXpOpJlRAa8cslLA2q3/mQIbfygk7yuURTRua0RKokyczaJB6jPFd6RHWg9s2Mo0yD39sK+M7zTD5D4t5T52LhsKhBy+Xe3ztQ2SYCrBvfj+IU3kd9x2Nop5uPxDAeyzRO77M/ALN+eN5aBn/4sgSnzTAbHcyt64ozF+EaZ9oaRoqFmurvhg61TiwDBWPuUpxdsZjmm+OfJPRqvFArHr/3vrm93dQ454FmzrQ71PpG9GDVzQyldJ3f3H38gTkkubSQinKXulXWTnynk=;5nHRQBTXDGCqcobfjBF+dQ=="
+secured: "eRtGaNjqMhhdOTgPUCwk8wbRM9Ya6XzvSgUKoah6AXlA0R+TMmeVxxo9Rmq0kfHZjSiRyyiUcHKX+QA0Z2xfkqMz8vXuNnVwKpQfJ5Ma2DXFnCbJkLBYEKEJr/pke+OzH8vXyJPdC9We9gOj3llOKlXw4mW6UBk7zn8p0kUx/3aHpg+HeJz/jbbTFOPsBIIKbhuoIGuzbzq1+QtxedqtBT4E32M6V3vv+ryxLmCjOf3kH87DcnxJmUTWfBEl2GyYOT9v0UHB9zEmInq6918nDt9u8EBSud/YByOLsGt2++47fMYgXOrK1AYwJyZGOS7t4yPaAA2EssoFWIHhYNuu8/tiiS4cPUozi5D5FFI3RWA=;veMrhfllaukOqB9FP9M87A=="
 ---
 

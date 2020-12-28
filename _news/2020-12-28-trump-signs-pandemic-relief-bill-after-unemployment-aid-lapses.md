@@ -128,6 +128,22 @@ related:
         width: 2212
         height: 1475
         isCached: true
+  - title: "Some Relief in Sight for Americans After Trump Signs Stimulus Bill"
+    excerpt: "The measure will bring $600 checks for most Americans, and restore lapsed jobless benefits, in the face of what Dr. Anthony Fauci warns may be a further post-holiday surge in cases. Here’s the latest in pandemic news."
+    publishedDateTime: 2020-12-28T10:03:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/28/world/28virus-briefing-lead-sub/28virus-briefing-lead-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump chooses chaos with delayed signature of Covid relief bill"
     excerpt: "President Donald Trump is driving the country through chaos from behind the wheel of his golf cart. He reluctantly signed a Covid relief and government funding bill his own administration helped negotiate and that his own aides claimed he'd approved days ago."
     publishedDateTime: 2020-12-28T05:01:00Z
@@ -221,6 +237,6 @@ related:
         height: 629
         isCached: true
 
-secured: "vVqm9yjWJRHnHM50kFq32RG7PdOAS/tjOWg7MhduE6mYOJFt4BPikrR2m16oYuRyBlGVOgAcJu+yJn/nDHmCbcN3t7CmE8Joq81+sY2da4eitiPYlPDy819zMJPafiKwLIR2X0YGbHxN6he+rL7jvI0jhs8r2xZxOqZbrOmFL/B+70pCyOhqlAarACYfKdZDx2tUh1VPV3dqboU5UanwuBiF7huR/l63Bte4dmyUjdNNR5h8hkn02/f7HSThesoVV2yAsX4RnySGvVis7v6+5HewNsDVPHv3YcWw35FUZWAHF9EuXL3nwRepM/CdFNH8uwDnY3i/qMuxbMpnWw9wD1yHwIvHEDdB92gxE7EeaxY=;SzQVcc3HnNcneTDS5c9k4g=="
+secured: "lXlyM9pRhNqUteuMkgvY+ETQan19Ik5M8gbkbdA+DV5L+qJ9Izf7pkOKgPZXmYgbPwudAgQvbSRbPCQeh+fWkR4M3+IsvfRkL6o9naNN+gCOIlRNF7YGhrWdkDhDX1lzvv/eqW+ibdviv/gf3s62UA3SbbWdlofGaJWFidYLhD4tmh0Y2aclRZcJ0dnILu1IuvuB9JRaQzG2SClNlP7SXd24AZHjCfY3EvlI3OMtyw6xanrkGMnX3IiQUCGU2de9/fTx2JsRg47FEaejsSDnK7EcYZ6ZqJduHy/0ZRrbpJSbaVNLmFETW6xVGIKoOpTLMiFay5x42ZhmR1KOMr4G5u9zIODpyRvUpCjj6kaqH8pO93MSQfqcGiHfcMPFY+CfMhAA/gPP0wsxGQi73Odb/cjiTSF0SV7Az3N+I1R7J4vICW4sf/Vh/UdQwYEBN9UaBweapdqG9p6n/i3hjx0b9S+TtiUbGZzmqkGj9Nb78WGMJ2SQOnREDhHRKkWUi0j6ASd5kCQZwVV3yljUiASAaA==;ieT/ACrtOYCpoe5eWBLwIQ=="
 ---
 

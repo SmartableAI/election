@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump signs pandemic aid and spending bill, averting government shutdown"
-excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a federal government shutdown in a crisis of his own making."
-publishedDateTime: 2020-12-28T08:47:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2910NA"
-webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2910NA"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2910NA"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2910NA"
+title: "Oil rises towards $52 after Trump signs aid bill"
+excerpt: "Oil rose towards $52 a barrel on Monday as U.S. President Donald Trump's signing of a coronavirus aid package and the start of a European vaccination campaign outweighed concern about weak near-term demand."
+publishedDateTime: 2020-12-28T10:37:00Z
+originalUrl: "https://www.reuters.com/article/global-oil-int-idUSKBN2920G3"
+webUrl: "https://www.reuters.com/article/global-oil-int-idUSKBN2920G3"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920G3"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920G3"
 type: article
-quality: 124
+quality: 125
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545924095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBQ0BZ"
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545938712&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR07D"
     width: 817
     height: 545
     isCached: true
@@ -47,19 +47,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Oil rises towards $52 after Trump signs aid bill"
-    excerpt: "Oil rose towards $52 a barrel on Monday as U.S. President Donald Trump's signing of a coronavirus aid package and the start of a European vaccination campaign outweighed concern about weak near-term demand."
-    publishedDateTime: 2020-12-28T10:37:00Z
-    webUrl: "https://www.reuters.com/article/global-oil-int-idUSKBN2920G3"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920G3"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920G3"
+  - title: "Trump signs pandemic aid and spending bill, averting government shutdown"
+    excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a federal government shutdown in a crisis of his own making."
+    publishedDateTime: 2020-12-28T08:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2910NA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2910NA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2910NA"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 124
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545938712&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR07D"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545924095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBQ0BZ"
         width: 817
         height: 545
         isCached: true
@@ -110,6 +110,6 @@ related:
         height: 630
         isCached: true
 
-secured: "nVwPEaGqqDqA1cwE5eGpcIZp78tGGkouG/7V3cpyhuIKQEpqwWHPB7LTDgOKUkPX3kLqmIiwF9GFOHdQI8ZbhIePQe/xop5Lv5uYVl4CdYIaAYtm1C/ZXNSseLS19eT5oSHiNDM/msfVoV0PG4xY1R72g6CL0gROiWsx4AASlgFfNo7TNbTpjxYQGm3yQpAmc3vpfrq0POOx4EtqbmKNk0kG8nPw1DavH2ZZZxTttTD/Q74hedKVupVo0qXT9iHsGOo6nmn18aoPe2uCNgXIIkq9F75XGUvZYoq7B8nKHD13HTS6AXs3YDufdQ91pOXJKFChLpqAzOGhdgG7JeKv7iovCGFi0Urzz1CHP6q0j0PG8U0p6CxgbUAu6O6L+yr7LEWmBhBZEJHh3Ps/mE8piknho5d6Z+lIUveJYPuG2qr42VOWS+fCOXUyK/vF44Kix0PL+tMWL1M+qcZIzuE6s+PLYUBQnvgp5IUbwcwOkMNYytmsTqbi9fn5+Yu/++hvbxVUHF/jk4yEhcdlRfW8Tg==;LNpeSEFIPXA7//0o3gKGZQ=="
+secured: "CXtVaVx1bUqcZoFG1guJNnbzpZ7tRKf4enk7OT5h4NZRUOwTXRpZAmB0DkFtiqiw+X0QzMqZ38iXSLKnF1W4Wkn9wtraKcEmjZH+7FGlanNJ0ztP00w7jFLobobVbkEIfbz4DwoRJY0HCFjMJk8iNK01eYPrSZH9/+q5Zz1oqv3aG++m8kTCW38ZqiPNWXFNQgfyLtKNy9P6SMdujORL6hShA+MOUiDp8ADeOfBCQTZiAMHeW65DtsMOWXSqgIwHafWX4Gd+MaFyqsJ3a1MqLPmUfz+WTI8W8CGCVFNsPH188fVFnV6g65jRUq6OVF+MKfLD6UPJQxu9Rvps50e/Krpqb0WEs64zmgkeMd67FbA=;qimn6+J4i4ZfKWqVEi92WQ=="
 ---
 

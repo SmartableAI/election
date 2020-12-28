@@ -128,6 +128,22 @@ related:
         width: 2212
         height: 1475
         isCached: true
+  - title: "Some Relief in Sight for Americans After Trump Signs Stimulus Bill"
+    excerpt: "The measure will bring $600 checks for most Americans, and restore lapsed jobless benefits, in the face of what Dr. Anthony Fauci warns may be a further post-holiday surge in cases. Here’s the latest in pandemic news."
+    publishedDateTime: 2020-12-28T10:03:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/28/world/28virus-briefing-lead-sub/28virus-briefing-lead-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump Signs Pandemic Relief Bill After Unemployment Aid Lapses"
     excerpt: "After calling the measure a “disgrace,” President Trump unexpectedly signed the bill, extending expanded unemployment benefits and an eviction moratorium, and keeping the government open."
     publishedDateTime: 2020-12-28T08:35:00Z

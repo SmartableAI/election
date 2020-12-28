@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-cor
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_52/3437861/201223-donald-trump-se-300p_8736ae1ad0386e22977c4abc533af85f.jpg"
         width: 2212
         height: 1475
+        isCached: true
+  - title: "Some Relief in Sight for Americans After Trump Signs Stimulus Bill"
+    excerpt: "The measure will bring $600 checks for most Americans, and restore lapsed jobless benefits, in the face of what Dr. Anthony Fauci warns may be a further post-holiday surge in cases. Here’s the latest in pandemic news."
+    publishedDateTime: 2020-12-28T10:03:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/28/world/28virus-briefing-lead-sub/28virus-briefing-lead-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Trump chooses chaos with delayed signature of Covid relief bill"
     excerpt: "President Donald Trump is driving the country through chaos from behind the wheel of his golf cart. He reluctantly signed a Covid relief and government funding bill his own administration helped negotiate and that his own aides claimed he'd approved days ago."
