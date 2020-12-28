@@ -885,6 +885,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump's hesitation on relief bill will delay aid payments"
+    excerpt: "The $900 billion economic relief package that President Donald Trump signed over the weekend will deliver vital aid to millions of struggling households and businesses"
+    publishedDateTime: 2020-12-28T19:51:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trumps-hesitation-relief-bill-delay-aid-payments-74938238"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trumps-hesitation-relief-bill-delay-aid-payments-74938238"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trumps-hesitation-relief-bill-delay-aid-payments-74938238"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ed98b12d65af484c908f5cbfefd34f4a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump is still pinning his hopes on one last lawsuit in Michigan to overturn the presidential election"
     excerpt: "President Donald Trump said a report written by his allies in a lawsuit over a small Michigan county's Marijuana measure reveals \"massive fraud.\""
     publishedDateTime: 2020-12-17T00:08:00Z
@@ -1526,6 +1542,17 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Pence is sued by Republican congressman in long-short effort to reverse Biden’s victory over Trump"
+    excerpt: "Representative Louie Gohmert of Texas is seeking a court order that would force the vice president to acknowledge what Gohmert claims is Pence’s power to disregard states’ chosen Democratic electors and instead select competing slates of GOP electors on Jan."
+    publishedDateTime: 2020-12-28T19:53:00Z
+    webUrl: "https://www.bostonglobe.com/2020/12/28/business/pence-is-sued-by-republican-congressman-long-short-effort-reverse-bidens-victory-over-trump/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/12/28/business/pence-is-sued-by-republican-congressman-long-short-effort-reverse-bidens-victory-over-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/12/28/business/pence-is-sued-by-republican-congressman-long-short-effort-reverse-bidens-victory-over-trump/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 71
   - title: "West Virginia’s electors cast votes for Trump, Pence"
     excerpt: "West Virginia’s members of the Electoral College met on Monday with each member voting for President Donald Trump and Vice President Mike Pence. Secretary of State Mac Warner oversaw the vote, which took place at the state Capitol."
     publishedDateTime: 2020-12-15T14:10:00Z

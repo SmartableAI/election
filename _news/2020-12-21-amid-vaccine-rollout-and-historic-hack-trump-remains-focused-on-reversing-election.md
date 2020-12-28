@@ -112,6 +112,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "'Morning Joe' mainstay Donny Deutsch blames media for continuing to obsess over Trump: 'We are guilty'"
+    excerpt: "Joe\" regular Donny Deutsch slammed the mainstream media on Monday for continuing to obsess over President Trump with non-stop coverage and said the press is \"guilty\" of focusing extensive coverage on him rather than President-elect Joe Biden."
+    publishedDateTime: 2020-12-28T19:44:00Z
+    webUrl: "https://www.foxnews.com/media/morning-joe-donny-deutsch-trump-coverage-msnbc-guilty"
+    ampWebUrl: "https://www.foxnews.com/media/morning-joe-donny-deutsch-trump-coverage-msnbc-guilty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/morning-joe-donny-deutsch-trump-coverage-msnbc-guilty.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/Donny-Deutsch-donald-trump-MSNBC-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "wNxWX6jebyMu2nlNUP0AflEPeExZhI/x2aqyGhhkz1OrTQ9PC/J1dMJBt9JAVrdPeXOD1igKQjwrG6sT0xfZu1XbhNcw51aye0nkcnFjlowRLb37nKhddZSP+3RKwXTrWWtNA/lQMzoR0xpzAnYc7tkWp4B4nK+tngztO/4035R910S0Qs63oKTgxEr8LkDjceAfOm61mL71ODeOwQwgslAJHZVQGk7l6gkfqxET9+BV3udV4r90A26EzvJxav5ArwkW/HmIK/N31tfejjHwuHr2T3B64kvmFJWRpjbAJasgO89HkhodvcKQagYn3HQLlLl4HzEWsyuZsOtTEy4d0LkjCcdOyG43cRmVHka48WWWx3T3k260+XOv9jyPZrcdW1HHvROPNkOXwd0KPv2ZTbPfJvVyub9VlS1a5UbMLLOwCnzF0rwI4QauTkTG4vFMve/Lo5KfcGIO+h5mE0E/SmwXLdHxI6RziGdC8pjrVzpCwpzFHTdn9j5xCMAXjpFIkjyTceajCpO8qVaIuBk7fw==;9l56sDi+7icbWN40BGdB4g=="
 ---

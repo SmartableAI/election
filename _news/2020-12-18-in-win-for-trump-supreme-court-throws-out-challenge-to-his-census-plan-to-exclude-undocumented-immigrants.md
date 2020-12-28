@@ -192,6 +192,38 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "House to vote on overriding Trump's veto of $740 billion defense bill"
+    excerpt: "Both chambers of Congress passed the bill with veto-proof margins, but several lawmakers have signaled the override vote could be close."
+    publishedDateTime: 2020-12-28T19:12:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/house-set-override-trump-s-veto-740-billion-defense-bill-n1252433"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252433"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252433"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_53/3438370/201228-us-capitol-ew-1153a_e72322ef6738ab07b1f48e1abe844d98.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Wall Street hits record levels after Trump signs fiscal aid bill"
+    excerpt: "\"The passage of the stimulus bill is erasing some fears, and investors are relieved that there is help out there,\" said one economist."
+    publishedDateTime: 2020-12-28T19:26:00Z
+    webUrl: "https://www.nbcnews.com/business/markets/wall-street-hits-record-levels-after-trump-signs-fiscal-aid-n1252438"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252438"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252438"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438387/201228-new-york-stock-exchange-jm-1356_9ab6522bdf53895963efa350fdd587e2.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "In reversal, Trump signs spending bill, unlocking Covid aid and averting shutdown"
     excerpt: "Pandemic unemployment benefits expired Sunday after the president delayed approving the bill and confusion reigned in Washington."
     publishedDateTime: 2020-12-28T07:30:00Z

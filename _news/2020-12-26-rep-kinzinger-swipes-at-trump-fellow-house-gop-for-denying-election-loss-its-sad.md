@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/rep-kinzinger-swipes-trump-fellow-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss.amp"
 type: article
 quality: 182
-heat: 282
+heat: 302
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 142
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Kinzinger.png?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "'Morning Joe' mainstay Donny Deutsch blames media for continuing to obsess over Trump: 'We are guilty'"
+    excerpt: "Joe\" regular Donny Deutsch slammed the mainstream media on Monday for continuing to obsess over President Trump with non-stop coverage and said the press is \"guilty\" of focusing extensive coverage on him rather than President-elect Joe Biden."
+    publishedDateTime: 2020-12-28T19:44:00Z
+    webUrl: "https://www.foxnews.com/media/morning-joe-donny-deutsch-trump-coverage-msnbc-guilty"
+    ampWebUrl: "https://www.foxnews.com/media/morning-joe-donny-deutsch-trump-coverage-msnbc-guilty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/morning-joe-donny-deutsch-trump-coverage-msnbc-guilty.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/Donny-Deutsch-donald-trump-MSNBC-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

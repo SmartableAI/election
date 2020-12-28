@@ -9,8 +9,8 @@ ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-m
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
 type: article
 quality: 90
-heat: 110
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Times
@@ -27,23 +27,39 @@ images:
     isCached: true
 
 related:
-  - title: "Republicans sue Mike Pence in 'desperate' last-ditch effort to overturn election"
-    excerpt: "Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a \"desperate\" last-ditch effort to overturn the results of November's presidential election, The Hill reports. The goal of the lawsuit is to get a federal judge to rule that Pence has the exclusive authority to choose electors when he oversees the Electoral College vote certification on Jan."
-    publishedDateTime: 2020-12-28T17:37:00Z
-    webUrl: "https://theweek.com/speedreads/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
-    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
-    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
+  - title: "Pence sued by Texas GOP Congressman Louie Gohmert over competing electors"
+    excerpt: "A Republican congressman from Texas sued Vice President Mike Pence in the latest long-shot effort to reverse President-elect Joe Biden’s victory over Donald Trump. In the lawsuit, Representative Louie Gohmert seeks a court order forcing the vice president to acknowledge what Gohmert claims is Pence’s power to disregard states’ chosen Democratic electors and instead select competing slates of GOP electors on Jan."
+    publishedDateTime: 2020-12-28T20:31:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
     type: article
     provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 85
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 124
     images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229686198.jpg?itok=Xe-uSQS1"
-        width: 840
-        height: 560
+      - url: "https://s.hdnux.com/photos/01/11/12/57/19180496/19/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Louie Gohmert sues Pence in far-fetched bid to overturn election results on Jan. 6"
+    excerpt: "Rep. Louie Gohmert of Tyler is suing Vice President Mike Pence in an improbable bid to overturn President-elect Joe Biden’s victory. Gohmert and"
+    publishedDateTime: 2020-12-28T20:36:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 84
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/JhGbxKDWa215V-r3Lg0FdsT-nDU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/AHD73RRQY3BMTNRG6DKQ45VLPI.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "yGmjKBkDJc8vSkC8H1+GtNFgI/qb1GaQr2iEFAcTwDmbqKJuRuBKlkx2c53U6zDeNONIa2CU0XhO9Hee8AUXT0s69tHq8x+CkejQfTqfKYjt9V/J9G+IOMIitoPa9iDtWfII/cZzjztHdQkP5irHaBVvjz6WzyttWZQmYH/AMhp/0HrMLBSSfbwTlbNsJt9eEL26uw+5sUwsi+SPt6UIiH5s5CsnHgQQvHfP+A0Z11/1W/FfELfgQrbW5EpnFRArf4sd8IJbtHj0xVDrZK4ChJoa/v0vD1gZdpL+Xoj3rNMFr1zygkiVubrK3KfMktR8dDnvFII2vMJd8W9HbtgqqJJHPyooWDgKWghB9IBlxsc=;M3o5kAPtSFdVVicQzhn5/w=="
+secured: "nbaplEyfUED5PHmudEkC5mHGGTpiZUHyGeHU03w9X/KqJ+34LkzMi9WJqi1R5ENAp/EhQpYoQQx3d+qASfTKb6b6sNgCAbZ3XW65XJt8ZFHdvpC7EuCgntOcTMqfoe7PTVBlIcsMTxuE2PCvJt8Am/Fezg5KFmyEMPZb2PHojzcWKD9tdnistYqjLsLse2pHZZv+fQXy7Mwd5RxurDAC+Z2g57gmrNBTZYJxKn+SoUoRzq/U8m17SobG1KgN0ToyN2jpiHoiwfFXZYbgLtJbQBUTR48gWlXqFrOKj3ZUTzgY/Fug0zqyJtY9Wo4UJJTvCGUF5ZJIKKUlAWOK9frLnQ/ghRKrBQMeoQdq/CkKKiMNvPTAnv+sMn6ON3roxgD3cAwA2yQu1+4nC0ggBKHpKYDyPObbCMASwfe5jTt14weJVGg/o/XCqNXXjVOHqxCyFj231jJZpPGO9A2YWyOhru8pBbXUnOpXodpSc/IFe8XeOWvIerC/PYtRdGjqk5tP1p7LjiAflsRWRGJrditIaA==;WG5CUnUDg6slRsP+6XGyRA=="
 ---
 

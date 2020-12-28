@@ -782,6 +782,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Gohmert suit may force Pence's hand in effort to overturn Trump's defeat"
+    excerpt: "Louie Gohmert (R-Texas) and President Donald Trump's defeated electors from Arizona may force Vice President Mike Pence to publicly pick a side in Trump’s bid to overturn his 2020 election loss. Gohmert and a handful of the would-be electors sued Pence in federal court on Monday in a longshot bid to throw out the rules that govern Congress' counting of electoral votes next week."
+    publishedDateTime: 2020-12-28T19:26:00Z
+    webUrl: "https://www.politico.com/news/2020/12/28/gohmert-suit-pence-overturn-trumps-defeat-451485"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 139
+    images:
+      - url: "https://static.politico.com/ad/3b/546ed86548848f8fb9b9b297c38e/ap20357680390901-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Congress braces for painful veto clash with Trump on defense bill"
     excerpt: "Congressional leaders are scrambling to avoid an unusual scenario in which lawmakers are summoned back to Washington in the days between Christmas and New Year’s for a dramatic, eleventh-hour vote to overturn Trump's promised veto of a massive national defense bill."
     publishedDateTime: 2020-12-17T21:20:00Z

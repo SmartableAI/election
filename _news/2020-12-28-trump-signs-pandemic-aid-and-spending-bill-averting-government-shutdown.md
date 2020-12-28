@@ -173,6 +173,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Second stimulus check updates: Trump signs pandemic relief and government-funding measure, averting government shutdown"
+    excerpt: "President Donald Trump signed a $900 billion pandemic relief package Sunday, ending days of drama over his refusal to accept the bipartisan deal that will deliver long-sought aid."
+    publishedDateTime: 2020-12-28T19:39:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201227-lcuwnmemifapxht4f7jcltmjmi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201227-lcuwnmemifapxht4f7jcltmjmi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201227-lcuwnmemifapxht4f7jcltmjmi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
+    images:
+      - url: "https://www.chicagotribune.com/resizer/oRuLojso2KpX0I8a4AdC32hB5I0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IN2A2UTIVJBTNM6LN4XPPWDKFY.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "US STOCKS-S&P, Nasdaq futures at record levels as Trump signs stimulus aid bill"
     excerpt: "Futures tracking the S&P 500 and the Nasdaq were at record levels on Monday as President Donald Trump's move to sign into law a long-awaited $2.3 trillion pandemic aid bill bolstered bets on a vaccine-led economic recovery."
     publishedDateTime: 2020-12-28T17:30:00Z
