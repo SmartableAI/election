@@ -447,6 +447,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House to attempt to override Trump's veto on defense bill"
+    excerpt: "The House of Representatives will vote Monday in an effort to override President Donald Trump's veto of the sweeping defense bill known as the National Defense Authorization Act, forcing GOP lawmakers to choose between loyalty to the President and legislation that sets defense policy for the country.\n"
+    publishedDateTime: 2020-12-28T18:25:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RywnXmgfcSk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/veto-override-vote-ndaa-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/veto-override-vote-ndaa-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227182837-02-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Immigrant advocates urge Biden to quickly rectify the trauma of family separation"
     excerpt: "Immigrant advocacy groups, who for years scrambled to identify and reunite families separated at the US-Mexico border, are now preparing for the incoming administration and steps to rectify the trauma experienced by parents and children.\n    \n"
     publishedDateTime: 2020-12-16T10:11:32Z

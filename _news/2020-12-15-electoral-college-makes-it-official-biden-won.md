@@ -61,6 +61,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Saudi court jails women's rights activist, posing challenge for Biden"
+    excerpt: "A Saudi court on Monday sentenced prominent women's rights activist Loujain al-Hathloul to nearly six years in prison, her family said, after her conviction in a trial that has drawn international condemnation."
+    publishedDateTime: 2020-12-28T17:10:00Z
+    webUrl: "https://www.reuters.com/article/saudi-rights-women-int/saudi-court-jails-womens-rights-activist-posing-challenge-for-biden-idUSKBN2920RW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920RW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920RW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545968497&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0MO"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Barr says Russia likely behind hack, won't name special counsel in Hunter Biden probe"
     excerpt: "Outgoing Attorney General William Barr said Monday he does not see a reason to appoint a special counsel to lead the investigation into Hunter Biden, and split with President Trump over who is likely behind the massive cyberattack targeting several federal agencies,"
     publishedDateTime: 2020-12-22T00:16:00Z

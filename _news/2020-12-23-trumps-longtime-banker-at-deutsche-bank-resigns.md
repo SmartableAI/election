@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "After Trump backs down on stimulus bill, lawmakers set to vote on higher relief checks"
+    excerpt: "Democrats in the U.S. Congress on Monday will try to push through higher pandemic relief payments of $2,000 for Americans after President Donald Trump backed down from a fight with lawmakers that could have shut down the federal government."
+    publishedDateTime: 2020-12-28T18:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-idUSKBN2920MG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920MG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920MG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545964758&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR07Z"
+        width: 817
+        height: 545
+        isCached: true
 
 secured: "97eGi24Q0muNVTuZISvkLntdDkAOkQqjYPPG6YqO/LyqVK++Uk+ydfzhg2fwh7h4lZuQYiiUF7b5bheErv4v7QziR7hLMCg8g5CMIngy3TqCXPvlHcMF8Y50PibKn4kaT61NjrzFWoZWTx+R+Rax5XRiyySxLbSm2kX6OJX/NMskLbniPJjVMp89AbYO9HI/JsEcH+JV+JT5kacAl30FqIHaQWWzjpvai6hY1j+bf7t98CqTSrhD9PL4304Nd8I1CUkljc8HWKTKOqJAuiFeLA0gH6MNofmOMqZZVBMOdwPQaEACXRzom4iWDSGHAxC37PFLKa1Zu+7Uuu9jFhaIbM4mQYB65QNOeYCzH77aRV0=;L+DQcYfKqgAzZyqCgpNpMw=="
 ---

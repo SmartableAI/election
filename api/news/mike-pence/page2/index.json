@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-08-vp-pence-mike-pompeo-will-go-to-georgia-ahead-of-senate-run-off-elections.md",
+      "title": "VP Pence, Mike Pompeo will go to Georgia ahead of Senate run-off elections",
+      "excerpt": "Vice President Pence and Secretary of State Mike Pompeo will both head to Georgia this week ahead of the two Senate run-offs that will decide which party controls the body. Pompeo will appear",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/12/08/pence-pompeo-heading-to-georgia-ahead-of-senate-run-offs/",
+      "originalUrl": "https://nypost.com/2020/12/08/pence-pompeo-heading-to-georgia-ahead-of-senate-run-offs/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/pompeo-pence-georgia-senate.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/12/08/pence-pompeo-heading-to-georgia-ahead-of-senate-run-offs/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/08/pence-pompeo-heading-to-georgia-ahead-of-senate-run-offs/amp/",
+      "publishedDateTime": "2020-12-08T06:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-vice-president-mike-pence-schedules-stop-in-south-carolina.md",
       "title": "Vice President Mike Pence schedules stop in South Carolina",
       "excerpt": "Pence is scheduled to hold a round table discussion on Operation Warp Speed, the administrations effort to promote the development of the coronavirus vaccine as quickly as possible.",
@@ -1463,54 +1511,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-pence-dumps-florida-vacation-to-stay-in-washington-amid-election-challenge.md",
-      "title": "Pence dumps Florida vacation to stay in Washington amid election challenge",
-      "excerpt": "Vice President Mike Pence canceled plans for a Florida getaway this week to stay in Washington as President Trump continues to challenge election results, according to a report. Pence, who",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/11/11/pence-dumps-vacation-to-stay-in-dc-amid-election-challenge/",
-      "originalUrl": "https://nypost.com/2020/11/11/pence-dumps-vacation-to-stay-in-dc-amid-election-challenge/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/201111-pence-cancels-florida-vacation.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/11/11/pence-dumps-vacation-to-stay-in-dc-amid-election-challenge/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/11/pence-dumps-vacation-to-stay-in-dc-amid-election-challenge/amp/",
-      "publishedDateTime": "2020-11-11T06:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
       ]
     }
   ],

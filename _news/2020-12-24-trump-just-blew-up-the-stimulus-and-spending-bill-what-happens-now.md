@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-2000-checks-stimulus-veto-spen
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12?amp"
 type: article
 quality: 125
-heat: 305
+heat: 345
 published: true
 
 provider:
@@ -172,6 +172,33 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/26/46879155-3db9-441d-b0b1-0dccbf130565/thumbnail/1200x630/5c3a56fc69894b2e9efd44ed85946b73/1226-satmo-trumpfriday-616319-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "US STOCKS-S&P, Nasdaq futures at record levels as Trump signs stimulus aid bill"
+    excerpt: "Futures tracking the S&P 500 and the Nasdaq were at record levels on Monday as President Donald Trump's move to sign into law a long-awaited $2.3 trillion pandemic aid bill bolstered bets on a vaccine-led economic recovery."
+    publishedDateTime: 2020-12-28T17:30:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks-idUSL4N2J81HR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2J81HR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2J81HR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+  - title: "Trump lost his battle with Congress over the stimulus bill and cost 14 million Americans unemployment aid in the process"
+    excerpt: "But Trump has cost about 14 million Americans a week of federal unemployment aid because he waited to sign the bill after that aid expired."
+    publishedDateTime: 2020-12-28T18:40:00Z
+    webUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5fe9fce6edf8920018093d62?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "jcmh4CZ5yAkI/RGfHBeFdrlyEd0EwNektxqBHL1y6+dgCqzkSZHfMZRLbNSNR4YKDi5lOGJC5nyGV2YAB/0cuOE2AxOV/KMEEwrMRE1TofjtM8jR9EmAvirpMBdILMtVhtyZt0M3ME5JMnVOSGiOmUIcMMOqQ1/wvyJdXK54sT6RVPOYgmqyDJzjWeAocdszhdwxVnuP2tDg44Jkh9FMXygbPVQaGz9rnkMwYKp8QVb+dOFx33m89PcgjyNyRl31FWqE6w9VD7Ocg6G8CZqNgoaU9+VhSopX+RNri8Zrw+vc/QUjvvKlEnKxtFnrdsk5CEkqqoYFlYvk33bcF7Qw1fN1/H7JFjvG+OwhwWGiwLI=;DE7UGPdt6vcglayT+vMT1w=="

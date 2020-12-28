@@ -448,6 +448,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House to attempt to override Trump's veto on defense bill"
+    excerpt: "The House of Representatives will vote Monday in an effort to override President Donald Trump's veto of the sweeping defense bill known as the National Defense Authorization Act, forcing GOP lawmakers to choose between loyalty to the President and legislation that sets defense policy for the country.\n"
+    publishedDateTime: 2020-12-28T18:25:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RywnXmgfcSk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/veto-override-vote-ndaa-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/veto-override-vote-ndaa-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227182837-02-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Dozens of members of Congress call on Biden to end the federal death penalty"
     excerpt: "More than three dozen members of Congress are calling on Joe Biden's incoming administration to prioritize abolishing the death penalty in all jurisdictions, according to a letter sent Tuesday to the transition team for the President-elect and Vice President-elect Kamala Harris.\n    \n"
     publishedDateTime: 2020-12-15T22:07:41Z

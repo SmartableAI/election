@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
 type: article
 quality: 124
-heat: 204
+heat: 224
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2018/11/19/PNJM/40d0121c-485b-403d-ad49-75577bd538b4-YE_New_Jersey_2016.jpg?auto=webp&crop=1999,1142,x0,y54&format=pjpg&width=1200"
         width: 1200
         height: 686
+        isCached: true
+  - title: "Second stimulus check updates: House Democrats to vote on $2,000 relief checks that Trump demanded"
+    excerpt: "The Democratic-led House Monday is set to vote to boost the $600 payments to $2,000, sending a new bill to the Senate. There, Republicans have the majority and are likely to defeat the effort."
+    publishedDateTime: 2020-12-28T17:31:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201228-7bufls7fzfdrnludxd63lsk6xi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201228-7bufls7fzfdrnludxd63lsk6xi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201228-7bufls7fzfdrnludxd63lsk6xi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 111
+    images:
+      - url: "https://www.chicagotribune.com/resizer/BbKlJhyreDVCeAQ-IrynOg50Xhs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KBGH3YHVYRAJNPZQ7NVOHRGOXA"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "aQi8CSSoxbRV9LUnjh1FAzvDHvfo0LPIyjhrAURBR/vLF3t3QifJz223lGy1BLxe8rR1eXhlTbvVZUi7jpIE6yI1LDZkkbMXpF1jnR8U5CmXcNdEFMC863XvFp/1DSYu/lC3zN03c3oJlyEH1gAq8xblnS0TXI8nqTcZ7MowCzvmd0W30gKYmUW4oQUfQZDgPjZRkVobdqy0J55Xkemjgrl0On7zJpTrZmQYXUGzLBPnoo3b6eyp7hssq8vF30vVaiPx2zUo81MAntHSiLkoFasI017TUyBgbzLo8btFojoq2qtT+elX4erNQ6cXdDaF1ek1TCPUL4VsGjyINN+2qz7yqfMKdF8+s+JcEM1bkUU=;8WMbTokugI0vnBhTmXGHdg=="

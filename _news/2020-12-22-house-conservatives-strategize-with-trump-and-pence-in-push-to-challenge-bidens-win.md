@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trum
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trump-meeting/index.html"
 type: article
 quality: 208
-heat: 1588
+heat: 1608
 published: true
 
 provider:
@@ -429,6 +429,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201224041533-01-joe-biden-1223-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House to attempt to override Trump's veto on defense bill"
+    excerpt: "The House of Representatives will vote Monday in an effort to override President Donald Trump's veto of the sweeping defense bill known as the National Defense Authorization Act, forcing GOP lawmakers to choose between loyalty to the President and legislation that sets defense policy for the country.\n"
+    publishedDateTime: 2020-12-28T18:25:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RywnXmgfcSk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/veto-override-vote-ndaa-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/veto-override-vote-ndaa-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227182837-02-trump-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

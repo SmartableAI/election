@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Saudi court jails women's rights activist, posing challenge for Biden"
+    excerpt: "A Saudi court on Monday sentenced prominent women's rights activist Loujain al-Hathloul to nearly six years in prison, her family said, after her conviction in a trial that has drawn international condemnation."
+    publishedDateTime: 2020-12-28T17:10:00Z
+    webUrl: "https://www.reuters.com/article/saudi-rights-women-int/saudi-court-jails-womens-rights-activist-posing-challenge-for-biden-idUSKBN2920RW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920RW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920RW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545968497&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0MO"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Barr says Russia likely behind hack, won't name special counsel in Hunter Biden probe"
     excerpt: "Outgoing Attorney General William Barr said Monday he does not see a reason to appoint a special counsel to lead the investigation into Hunter Biden, and split with President Trump over who is likely behind the massive cyberattack targeting several federal agencies,"
     publishedDateTime: 2020-12-22T00:16:00Z
@@ -92,6 +108,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "4xtijhzrDej0wf9p7i7uxQ6+Rgl8UTANwhX5sYcmavK02OIYnin8WwI+8qfcNMvnoTzJwcU2dOT+UK90HfdxBOaIFhoNuOm6iJBmMovZq99BHXoUFQ+iM9Nom98c1LTQAw9Sx+LGCbZRqgrvU8DCeZcxsPBxfpyyRwixvQ2+LMEr23cqtmcMqsbVFdVJBM3olgYhUXoitwhXSg+rsuhFAPrBE3QlFyaHI4B6rKB1Jf2kjV+W2s3kL793rBNnjWSA5xFPtFFZkpjBkux0+yNrYJmrf6ayrm31u7Djt6QICnvrAGK8vauBPi2ZvHnWU3ehhmfOF/ioSlIj9XpZ3243Gx4Vbc4V89ukw4yb05/+vac=;9KIkNitnyWlWx/g3oD+aLQ=="
+secured: "f1hMCCo7Tkpi0B3B+g5IU/2x7XTBRKHxi4Q9zN4VL7B5otuRch0yhKO8RRQoCB3srryMQiidI2Kk6nANocJ/MTwZJAJoEv9wYE0qZXpMlOGEfkrlmA6SkcADK4rqn06XE9+F60Z7LOxxyyGMc3He9gH3LFW2+ksZc+71ljAhza0UcvFDfiVv8nokSpo6HngdJuE64b5TKMyBQqdXQ1pa4tcCh8GD8k2wCs96iJS+D6F7HHbv7n1s149di4Nt31vr7HtOU6Ryl+CS2mpBX9RdpLnCwtcQsKboGu2NnJf/+1WgINFuq3KEBozHqQfsqGn2/JBAt+9H8JJd6TTnt44EJVOapdje9k5qe4LCpXv/Wlyn2hJgW6A7Prf/HP+Mer1qfkG8Vjm1adX2CCTHEfY2p9nTyI1MQbW3Ac5yuKdPEjFFvUgvOyqBpjls7Q6BRh67nD6QAZBMKLiPlmRjcvWCbJFZj/D01NDWCSur4mDtxSUKRb8qCdv55YXqBkefrLZpcdiDQSc+m7zT/bJOp2Aoew==;fYP7tbcqU70Z4QGxelCu9w=="
 ---
 

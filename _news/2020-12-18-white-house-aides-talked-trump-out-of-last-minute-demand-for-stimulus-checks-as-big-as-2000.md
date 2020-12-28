@@ -173,6 +173,33 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US STOCKS-S&P, Nasdaq futures at record levels as Trump signs stimulus aid bill"
+    excerpt: "Futures tracking the S&P 500 and the Nasdaq were at record levels on Monday as President Donald Trump's move to sign into law a long-awaited $2.3 trillion pandemic aid bill bolstered bets on a vaccine-led economic recovery."
+    publishedDateTime: 2020-12-28T17:30:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks-idUSL4N2J81HR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2J81HR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2J81HR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+  - title: "Trump lost his battle with Congress over the stimulus bill and cost 14 million Americans unemployment aid in the process"
+    excerpt: "But Trump has cost about 14 million Americans a week of federal unemployment aid because he waited to sign the bill after that aid expired."
+    publishedDateTime: 2020-12-28T18:40:00Z
+    webUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5fe9fce6edf8920018093d62?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "wVY6ix5p0UyYGj0BK7CJA4MZIxz6Y9StzzhbLe5ox3TshSMBI2NZ4iht1XCa+XC4gBqncKHL0Iwdx3QqXXrqHjcw3uQwOQB9Fqs8JDquRiXfnqloaByC5LGe53BiE+H7BBwGvlftRJUMBtdaehMa935fT8K9ZjlHAZvZvjLqzXnnpSyFmVx1xyFsx0EIGZgthT8COTib32j/QSStv1h0VRsItmG6lKS3z2J1jSC1IpClCqVbb/xT6o4z5hnuci4WDE9EpoJLdD4D9CL43rJboeSVFPoY6MfYp1yE6bp3vRZN4agV4UZfBDYTxCt9hYl9W8d4fV5vIVnQ+HLxvceHE4P6ZbvW+FvuRo7VBFFsVn0vNA88Im7yYGw5+3WLqFKkZZ5yEJ075FUW0wn26fgmhnt1/J69BTOTNuIl3kw/dEw02/tPJWEfJrIm548s201L63/cOGuODfN+TUdm+4DmNeTFEQ6ludpOVCj78m//ohoHDAy0pZpfmTMmQnDuy54DLYBuZB96d6z03VlMGVWdAw==;dQi9xuLhzeBFrv6l3xzEgA=="
 ---

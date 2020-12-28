@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/biden-twitter-white-hous
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/biden-twitter-white-house-accounts/index.html"
 type: article
 quality: 171
-heat: 211
+heat: 191
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://static.politico.com/d6/1f/d14f15944a349a63f3aea61c185a/gettyimages-1276530953-c.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Leading a divided country: Joe Biden's approach to unity"
-    excerpt: "Over years of interviews, President-elect Joe Biden explains his views on how to work with Republicans and Democrats during a time of divided government."
-    publishedDateTime: 2020-12-27T13:07:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/leading-a-divided-country-joe-biden-s-approach-to-unity-98438725756"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98438725756"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98438725756"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenkindofprez_2012270.jpg"
-        width: 1920
-        height: 1090
         isCached: true
 
 secured: "134RbPm4TOpUmQg9PGRiJKlDHiJUMbz+8wJdALT1ZYKfY+Hc7i3mtsHw7d0KN32BbxfSpo6hgIeZKksBzgPiM9LNW7GP0WY4CUwayI8kDyNf2xAZL8lb7O9boBQ4CGZcC/M7ECRtBrJxiWHb1bxsMf8Eu6gDgRvXzfE2CzXpXn5iJCzeqb22KUfGn8KN0YUaPxo+R9cNFu5VyjO1H1rcdf+eI6kfYEvznLGY7Pqf6vGUlvTqyUidnkr7Y1QVtVrb1cHEF7+gNipRvMBljDhL00H7rRb3EclkkZLi3ciKHUVaHMbfLT+ZvKQg+beK5Dq6AkXd9V1K0P1eXbEbzQ0UbBVyFKWQumAkF3U26tfRGqM=;sVIoM5qQDh3xDFncKdnipQ=="

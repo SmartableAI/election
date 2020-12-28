@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Saudi court jails women's rights activist, posing challenge for Biden"
+    excerpt: "A Saudi court on Monday sentenced prominent women's rights activist Loujain al-Hathloul to nearly six years in prison, her family said, after her conviction in a trial that has drawn international condemnation."
+    publishedDateTime: 2020-12-28T17:10:00Z
+    webUrl: "https://www.reuters.com/article/saudi-rights-women-int/saudi-court-jails-womens-rights-activist-posing-challenge-for-biden-idUSKBN2920RW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920RW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920RW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545968497&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0MO"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Electoral College makes it official: Biden won"
     excerpt: "The Electoral College decisively confirmed Joe Biden on Monday as the nation’s next president, ratifying his November victory in an authoritative state-by-state repudiation of President Donald Trump’s refusal to concede he had lost."
     publishedDateTime: 2020-12-15T05:31:00Z

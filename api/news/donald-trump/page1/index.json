@@ -418,54 +418,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-27-tennessee-governor-asks-trump-for-emergency-declaration-after-nashville-blast.md",
-      "title": "Tennessee governor asks Trump for emergency declaration after Nashville blast",
-      "excerpt": "Tennessee Gov. Bill Lee formally asked President Trump to declare a state of emergency in the wake of the Christmas Day bombing in downtown Nashville. “This morning I toured the site of the",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/12/26/tn-governor-asks-trump-for-emergency-declaration-amid-nashville-blast/",
-      "originalUrl": "https://nypost.com/2020/12/26/tn-governor-asks-trump-for-emergency-declaration-amid-nashville-blast/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/bill-lee-tenn-er-declaration.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/12/26/tn-governor-asks-trump-for-emergency-declaration-amid-nashville-blast/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/26/tn-governor-asks-trump-for-emergency-declaration-amid-nashville-blast/amp/",
-      "publishedDateTime": "2020-12-26T11:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-27-tennessee-governor-requests-emergency-declaration-from-president-donald-trump.md",
       "title": "Tennessee governor requests emergency declaration from President Donald Trump",
       "excerpt": "The \"severity and magnitude\" of the blast are more than state and local governments can handle, said Lee in a statement.",
@@ -635,7 +587,7 @@
       "originalUrl": "https://www.newsweek.com/trump-tweet-stimulus-china-1557359",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -947,7 +899,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 461,
+      "heat": 481,
       "tags": null,
       "images": [
         {
@@ -1478,7 +1430,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1576,6 +1528,58 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-milwaukee-county-spent-nearly-17-million-on-trump-recount.md",
+      "title": "Milwaukee County spent nearly $1.7 million on Trump recount",
+      "excerpt": "Newly released figures show that the presidential recount in Wisconsin’s Milwaukee County came in slightly under budget, at nearly $1.7 million",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/milwaukee-county-spent-17-million-trump-recount-74881211",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/milwaukee-county-spent-17-million-trump-recount-74881211",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/WNT/201220_wn_abubey_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/milwaukee-county-spent-17-million-trump-recount-74881211",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/milwaukee-county-spent-17-million-trump-recount-74881211",
+      "publishedDateTime": "2020-12-23T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

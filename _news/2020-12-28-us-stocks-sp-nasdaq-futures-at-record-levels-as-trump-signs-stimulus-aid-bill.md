@@ -173,6 +173,33 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US STOCKS-S&P, Nasdaq futures at record levels as Trump signs stimulus aid bill"
+    excerpt: "Futures tracking the S&P 500 and the Nasdaq were at record levels on Monday as President Donald Trump's move to sign into law a long-awaited $2.3 trillion pandemic aid bill bolstered bets on a vaccine-led economic recovery."
+    publishedDateTime: 2020-12-28T17:30:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks-idUSL4N2J81HR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2J81HR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2J81HR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+  - title: "Trump lost his battle with Congress over the stimulus bill and cost 14 million Americans unemployment aid in the process"
+    excerpt: "But Trump has cost about 14 million Americans a week of federal unemployment aid because he waited to sign the bill after that aid expired."
+    publishedDateTime: 2020-12-28T18:40:00Z
+    webUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5fe9fce6edf8920018093d62?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "jQBf94k6nS3H7gOnnujm3M//IA06sXkjOfysWR2dpM6Li/Cv1/8c9/KdX7mnbmgTNdC76bv955HVSmgv5Kk5oD8Rt7u4CywmwMP4c99mZDSWPICI0LzMCUf9vmz4fEDSTHRUCrINSaK6nz9jhkznhTtOeLiFElJEH71ccFHTlMc0XmqhedNVyVHW337Yy7QJ5vEU5MnKgNUHJ9UxgAMjc8AW5VFTHF1NUbUVfe/7+/6Ffaqs8hEaNjyTcoOOFmuchb1zQKHXzE3T6eoC9yE/3C8CCdg+QBgu/xxLZFur1o6Q4uuElCuRTLjTahu1Uswfrz6MIJp5mjwaEyhW+6iusdLz44w/orC4FkIoFosKVXc=;qtwNLKIIiwNYeJi+2GlS3g=="
 ---

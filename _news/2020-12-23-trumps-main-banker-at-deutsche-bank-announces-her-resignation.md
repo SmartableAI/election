@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trumps-main-banker-at-deutsche-bank-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-main-banker-at-deutsche-bank-announces-her-resignation-2020-12?amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "After Trump backs down on stimulus bill, lawmakers set to vote on higher relief checks"
+    excerpt: "Democrats in the U.S. Congress on Monday will try to push through higher pandemic relief payments of $2,000 for Americans after President Donald Trump backed down from a fight with lawmakers that could have shut down the federal government."
+    publishedDateTime: 2020-12-28T18:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-idUSKBN2920MG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920MG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920MG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545964758&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR07Z"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump's longtime banker at Deutsche Bank resigns"
     excerpt: "U.S. President Donald Trump's longtime banker at Deutsche Bank AG will be stepping down from the German lender."
     publishedDateTime: 2020-12-23T00:54:00Z

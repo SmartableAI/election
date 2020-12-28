@@ -173,6 +173,33 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US STOCKS-S&P, Nasdaq futures at record levels as Trump signs stimulus aid bill"
+    excerpt: "Futures tracking the S&P 500 and the Nasdaq were at record levels on Monday as President Donald Trump's move to sign into law a long-awaited $2.3 trillion pandemic aid bill bolstered bets on a vaccine-led economic recovery."
+    publishedDateTime: 2020-12-28T17:30:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks-idUSL4N2J81HR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2J81HR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2J81HR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+  - title: "Trump lost his battle with Congress over the stimulus bill and cost 14 million Americans unemployment aid in the process"
+    excerpt: "But Trump has cost about 14 million Americans a week of federal unemployment aid because he waited to sign the bill after that aid expired."
+    publishedDateTime: 2020-12-28T18:40:00Z
+    webUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5fe9fce6edf8920018093d62?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "r/vAavybMcMSH6dduVlmxElFPC2umkwkZYIQeQr1iKQ6b8QaWzSvwHmb9pZeMv16ODCDI5wq7hTdu1UErS5ROWgLXKXzbtWAGFKJ/2lm07zhVnWwlB23CPUWLsCe35NE/gv3zebaW/LAKR/7no7TNBdbeolHXUc9ByKlpWwvsPcTO7qVBTzP7ePnY292oi3z4O+SsOCxq7FX3Lx5iDaVankZ8F8tmV9GVYqMvUTZ3OtQSnOzbCaH5vFxDITYl9sEu14pXDTnKbBh9MzBo9VYLuKt1cCyrcfHlX4GENbDwoRB1IviLo6YIUDnlpRIIRV28NhMmVnZRezR3ivrJ82cRXRpl0txfY8xob14DwXGajU=;c+rkyNUxc3IkFAXoaCC2Ow=="
 ---

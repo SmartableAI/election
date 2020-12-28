@@ -79,6 +79,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Congressman, other Republicans sue Vice President Pence in last-ditch effort to overturn Biden win"
+    excerpt: "Rep. Louie Gohmert and other Republicans' lawsuit is effectively attempting to reverse President-elect Joe Biden's victory over President Donald Trump."
+    publishedDateTime: 2020-12-28T18:55:00Z
+    webUrl: "https://www.cnbc.com/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 126
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106816660-1609177703757-gettyimages-1230000337-house_freedom468_120320.jpeg?v=1609177793"
+        width: 4829
+        height: 3220
+        isCached: true
   - title: "Millions of Americans lose jobless benefits as Trump refuses to sign aid bill"
     excerpt: "Millions of Americans saw their jobless benefits expire on Saturday after U.S. President Donald Trump refused to sign into law a $2.3 trillion pandemic aid and spending package, protesting that it did not do enough to help everyday people."
     publishedDateTime: 2020-12-26T10:31:00Z

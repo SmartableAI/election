@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyal
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/?outputType=amp"
 type: article
 quality: 141
-heat: 461
+heat: 481
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/696A/production/_116268962_gettyimages-1230097563.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Congressman, other Republicans sue Vice President Pence in last-ditch effort to overturn Biden win"
+    excerpt: "Rep. Louie Gohmert and other Republicans' lawsuit is effectively attempting to reverse President-elect Joe Biden's victory over President Donald Trump."
+    publishedDateTime: 2020-12-28T18:55:00Z
+    webUrl: "https://www.cnbc.com/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 126
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106816660-1609177703757-gettyimages-1230000337-house_freedom468_120320.jpeg?v=1609177793"
+        width: 4829
+        height: 3220
         isCached: true
   - title: "Trump meets U.S. House Republican allies to push voter fraud claims"
     excerpt: "U.S. President Donald Trump met a group of Republican lawmakers on Monday in his thus-far fruitless bid to gain momentum for claims that the Nov. 3 presidential election won by Democrat Joe Biden was rigged."
