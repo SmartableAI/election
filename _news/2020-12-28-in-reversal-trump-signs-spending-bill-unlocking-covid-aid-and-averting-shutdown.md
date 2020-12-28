@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Pentagon under pressure from Trump administration to split NSA and Cyber Command"
-excerpt: "The Trump administration is pushing to make major adjustments to the Pentagon organizations charged with cybersecurity and signals intelligence, according to a US defense official.\n    \n"
-publishedDateTime: 2020-12-20T01:59:37Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAgg3jyefCs/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAgg3jyefCs/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
+title: "In reversal, Trump signs spending bill, unlocking Covid aid and averting shutdown"
+excerpt: "Pandemic unemployment benefits expired Sunday after the president delayed approving the bill and confusion reigned in Washington."
+publishedDateTime: 2020-12-28T07:30:00Z
+originalUrl: "https://www.nbcnews.com/politics/donald-trump/covid-unemployment-benefits-expire-after-trump-refuses-sign-aid-bill-n1252392"
+webUrl: "https://www.nbcnews.com/politics/donald-trump/covid-unemployment-benefits-expire-after-trump-refuses-sign-aid-bill-n1252392"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252392"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252392"
 type: article
-quality: 170
+quality: 130
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/130128052250-pentagon-aerial-shot-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media4.s-nbcnews.com/i/newscms/2020_52/3438232/201227-donald-trump-jm-1144_83f666683aa031d9a8bf2016f8fe7607.jpg"
+    width: 2500
+    height: 1666
     isCached: true
 
 related:
@@ -76,6 +77,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201226140818-01-trump-south-lawn-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pentagon under pressure from Trump administration to split NSA and Cyber Command"
+    excerpt: "The Trump administration is pushing to make major adjustments to the Pentagon organizations charged with cybersecurity and signals intelligence, according to a US defense official.\n    \n"
+    publishedDateTime: 2020-12-20T01:59:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAgg3jyefCs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130128052250-pentagon-aerial-shot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -143,22 +160,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "In reversal, Trump signs spending bill, unlocking Covid aid and averting shutdown"
-    excerpt: "Pandemic unemployment benefits expired Sunday after the president delayed approving the bill and confusion reigned in Washington."
-    publishedDateTime: 2020-12-28T07:30:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/covid-unemployment-benefits-expire-after-trump-refuses-sign-aid-bill-n1252392"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252392"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252392"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_52/3438232/201227-donald-trump-jm-1144_83f666683aa031d9a8bf2016f8fe7607.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
   - title: "In win for Trump, Supreme Court throws out challenge to his census plan to exclude undocumented immigrants"
     excerpt: "This case is riddled with contingencies and speculation,” the court said in a short, unsigned opinion, referring to the states' challenge."
     publishedDateTime: 2020-12-18T15:49:00Z
@@ -220,6 +221,6 @@ related:
         height: 629
         isCached: true
 
-secured: "tG4qxamL/9YlPGO/0mURDXfSJn2g+7YCUR4EufltGXE08qyIOcz5XIaejMAkg54UsN9ZRBOJZKggy/MMxDteLhXx3Lj4med+EkviqZpL7iJkQlnqJeFs0ctS0v+czPUTScYFfIL7ZFgYFFJikyVIoClyJQU7SMZUb70zMgx+9uN4JKm8wB8Qp5S7Xf/Z/XcMza8/WZQHvfmIOL3XDqG5yOcjsqV+aBSRaXOwa1Ol0Sqlex2y0HzQWK7NbnC/M+949l4O32UwX1WGrKlLH4CvAF4fWegA/HKZ+Ir1P5vFZTT+nSKhpysbrU19kOIHTID0C3HyukHjy1MHhTt5fD1VGlABhtTSp3zBR9lB3PtDPTA=;UDS1uswW5uPUKhIChTWx8w=="
+secured: "GnfSmtNVkgvNuwElOGkgw2Vi1DnKya1pGKLX/fWDd1AZLcwn9975MX0ReG5hKLEYY10LvUSI+9jZjLWxJ4Sco19oAjxvhr46HJ/uamv7cNCKfV/199WOsz6dEwL5ix05YMy7XovmJfj1Ig2Qp//PcKU8vBEAR/9Q/y6ySa1LRA5z+zpG3CPGWbza9+EXgZvOKzndz7p77fuvidwIUHR5HzurOeSG3tr8R0ALqdJcxMXEr2EfArl1RKlP+/onNKmjzQRAvPPXudYmZRZUHhNswwBeRNS/x8fM8wpr2ta00LWzAxbsWaFhopv50CxYds+TeBJXWN0DskoJjICTJZ3VYP6spz/Ju3T3VHzS30qhWVg=;gwzM9eyEAEPXBddPA3Tmdg=="
 ---
 

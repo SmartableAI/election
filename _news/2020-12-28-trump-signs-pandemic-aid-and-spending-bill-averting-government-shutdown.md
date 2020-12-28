@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Trump signs pandemic aid and spending bill, averting government shutdown"
-excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, officials said, restoring unemployment benefits to millions of Americans and averting a partial federal government shutdown."
-publishedDateTime: 2020-12-28T02:17:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump-idAFKBN2910NL"
-webUrl: "https://www.reuters.com/article/uk-usa-trump-idAFKBN2910NL"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2910NL"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2910NL"
+excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a federal government shutdown in a crisis of his own making."
+publishedDateTime: 2020-12-28T08:47:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2910NA"
+webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2910NA"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2910NA"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2910NA"
 type: article
 quality: 124
 heat: -1
@@ -94,6 +94,6 @@ related:
         height: 630
         isCached: true
 
-secured: "9telSFzBuCShoXhfA1hCE2s7kmlW4mIgqnTMpmIVAVAEcCWT/LSnyy4KOgk5a9+iBS8lItasO4dmp2WXDNX0hZv3+FGqUiI7vQppUDNzFu5QmGYyfhBsCkssVFRuvS8PnHGwWDZernCeFH2IqhsaRBwFUxlH3xbsHfww+23YDH+XKwnZtid6+xHrM1bT8JNF/ClDh+aSYNuNPE+0YmqWIE+EOfQGyE2LZt03ddU4jMh7SVgmEQ8mHLcoky1+DVeUGK/T1gm9xeyp5rN9p7cN3RbUsng3XFa77JJZocDV+ZgnOGZMDWPXjzs1QErAjKIz6Ve1UtjJn3/NBcCiWEvUh1NvDE82WBX/Gv5LDmzBbBI=;04EmbVjHB18uLSlgxN/tEQ=="
+secured: "Mt3jP7A829jryPnp9/6P4YZqdUulXCdm0ZSFB6BkQ/8k4IvJnvE0a4CArsMVyvZNZfhsn1dNn4bgVBh6MzZdLLmDcYWCOd5ZLixlfmpJvs2V/ZkEQ7mFdRdYoElAJz3qN7c2/4DoxQ4LsA+XHFg49u/A0DTYSd3rcqqVvAAxRSa4HV+MYTfBmohN0NQG1tUZyMWBH/NPwPSLJEPvdVk/ArsC15CwnNKB+9rrnNEE2rfPyHz7MX/qqe1VAURnqC3zpBDQ0aEcGgMXzyd/Lm0ZZwHmmfMNgEOOVYl/Zr6o07nCjTg3dPXr8e1atkkGPm1zoNRSQZKhNPrKh6a+58e4awiUR8DEsqOj1Yq5kIuk8/g=;5+R0QeiTTc9YpS8WEnlQeg=="
 ---
 

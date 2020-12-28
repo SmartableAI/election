@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Bowser pushes Trump administration to send more coronavirus vaccines for health-care workers"
-excerpt: "In a letter, D.C.’s mayor says the city will be able to inoculate only a small number of its health-care workers because of a population-based distribution formula."
-publishedDateTime: 2020-12-03T22:53:00Z
-originalUrl: "https://www.washingtonpost.com/local/coronavirus-dc-vaccines/2020/12/03/ad5d1d10-3569-11eb-8d38-6aea1adb3839_story.html"
-webUrl: "https://www.washingtonpost.com/local/coronavirus-dc-vaccines/2020/12/03/ad5d1d10-3569-11eb-8d38-6aea1adb3839_story.html"
-ampWebUrl: "https://www.washingtonpost.com/local/coronavirus-dc-vaccines/2020/12/03/ad5d1d10-3569-11eb-8d38-6aea1adb3839_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/coronavirus-dc-vaccines/2020/12/03/ad5d1d10-3569-11eb-8d38-6aea1adb3839_story.html?outputType=amp"
+title: "Coronavirus live news: Trump passes Covid aid package"
+excerpt: "Trump has passed a $900bn aid bill to support the US economy; diseases expert says herd immunity through the vaccine won’t be achieved until summer"
+publishedDateTime: 2020-12-28T08:27:00Z
+originalUrl: "https://www.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
+webUrl: "https://www.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
+ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
 type: article
-quality: 114
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LIOFX4RVUAI6XDJYNLVBVWZYHE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://i.guim.co.uk/img/media/eb377370afeca0dc7ef343922c89d6431653d400/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=db9160be62ba9dbf5e00db73259cab84"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -110,22 +110,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201225&t=2&i=1545752768&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN10C"
         width: 757
         height: 545
-        isCached: true
-  - title: "Coronavirus live news: Trump passes Covid aid package"
-    excerpt: "Trump has passed a $900bn aid bill to support the US economy; diseases expert says herd immunity through the vaccine won’t be achieved until summer"
-    publishedDateTime: 2020-12-28T08:27:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/eb377370afeca0dc7ef343922c89d6431653d400/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=db9160be62ba9dbf5e00db73259cab84"
-        width: 600
-        height: 360
         isCached: true
   - title: "White House coronavirus adviser Fauci to meet with Biden transition team: CNN"
     excerpt: "White House coronavirus task force member Anthony Fauci will meet with members of President-elect Joe Biden's team on Thursday after President Donald Trump's administration delayed the transition process for weeks amid a coronavirus surge."
@@ -271,6 +255,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Bowser pushes Trump administration to send more coronavirus vaccines for health-care workers"
+    excerpt: "In a letter, D.C.’s mayor says the city will be able to inoculate only a small number of its health-care workers because of a population-based distribution formula."
+    publishedDateTime: 2020-12-03T22:53:00Z
+    webUrl: "https://www.washingtonpost.com/local/coronavirus-dc-vaccines/2020/12/03/ad5d1d10-3569-11eb-8d38-6aea1adb3839_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/coronavirus-dc-vaccines/2020/12/03/ad5d1d10-3569-11eb-8d38-6aea1adb3839_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/coronavirus-dc-vaccines/2020/12/03/ad5d1d10-3569-11eb-8d38-6aea1adb3839_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LIOFX4RVUAI6XDJYNLVBVWZYHE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump campaign official reportedly tests positive for coronavirus days after staff party – live"
     excerpt: "White House staffers were reportedly very angry when they learned of Jenna Ellis’ coronavirus diagnosis days after she attended a staff party"
     publishedDateTime: 2020-12-08T18:23:00Z
@@ -367,6 +367,6 @@ related:
         height: 682
         isCached: true
 
-secured: "wRjDzrGLifE3Hapt6Zwle0Z4/CtSr328c2XmyYF7TQHfwNw0PIQfNzcTUX/I6DnsWeBrEl9ATwvjXNuS4enV40ycVP3t6B6EEkcNJU3x49JQSpH3ozF9NrGPx5M26csajUYQBncoOBKbDQk9Xgnm6lhcHX+D5ql8fAUyYpUYcOcXyEG0SVYjSfoQvjUzXj1cXXP6fO8+ApHj3+jojNXvb8eveUTMIiUNt/34ZlLui4L58IMPfAlpJsUvE0i152+U/4UMMzr8JqQdu3vXo89lGny/jyhbl6/sD8tIdI+QNi/o9DOB7vUJb5FTH6eoRBlvMdzHaloo8ZS8XEah1R7PHRjvBebdM2chW70cQwXXZWw=;fdtT2XFxcssj8+2R9kHcHg=="
+secured: "yl9Q5i04GUzUp8VHyBs86YENtGqeuwsz/yghRCEGjxSrFyfVXsIqanJLIR6Rttgd+GHIRvwWDDe/fuuADsRE23HOgRgQlY7zKvP8rUrgslLI09mzVKn6coiVANSuge6RQ1W1ALdKbrU7RaOliJkAc/ybkngiKHYI42BzHnoPnSz4M0RBCE1Ay64xxRvcpMPvFM67vb8ruspcdMv9KY+KlR7s62PKkjmQQ8HNUmNVSqK5++eumHPzNarLwPfeELgFSilcZiNnlb8Yiz1i+GfxdFSaEESY962lF6uovKPBOIysrgmtAVpC85J41H0zIXnvRprFZt3HuOmpja5JSlXb+Gnp1i270Eh1eBaoV0Ixwe8=;XvL0OECjizafYF6mRyYqww=="
 ---
 

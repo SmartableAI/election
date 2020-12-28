@@ -32,11 +32,11 @@ images:
 
 related:
   - title: "Trump signs pandemic aid and spending bill, averting government shutdown"
-    excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, officials said, restoring unemployment benefits to millions of Americans and averting a partial federal government shutdown."
-    publishedDateTime: 2020-12-28T02:17:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-idAFKBN2910NL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2910NL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2910NL"
+    excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a federal government shutdown in a crisis of his own making."
+    publishedDateTime: 2020-12-28T08:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2910NA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2910NA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2910NA"
     type: article
     provider:
       name: Reuters

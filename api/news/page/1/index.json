@@ -227,11 +227,11 @@
       "title": "'I think I had some effect': Cindy McCain pleased with Joe Biden's election victory, looks ahead",
       "excerpt": "Cindy McCain played a big role in Joe Biden's narrow win in Arizona. Now she's trying to get Republicans named to his incoming administration.",
       "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/",
-      "originalUrl": "https://www.freep.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/",
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/?scrolla=5eb6d68b7fedc32c19ef33b4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -245,14 +245,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/4052794001",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4052794001",
-      "publishedDateTime": "2020-12-27T08:46:00-08:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4052794001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052794001",
+      "publishedDateTime": "2020-12-27T08:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -959,8 +968,8 @@
       "title": "Joe Biden’s niece Caroline gets no jail time after DUI guilty plea",
       "excerpt": "Joe Biden’s niece Caroline Biden pleaded guilty to DUI on Dec. 3 — and was sentenced to 20 days to six months of “confinement,” Pennsylvania court records said.",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea?wp0",
-      "originalUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea?wp0",
+      "webUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea",
+      "originalUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",

@@ -144,6 +144,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Signs Pandemic Relief Bill After Unemployment Aid Lapses"
+    excerpt: "After calling the measure a “disgrace,” President Trump unexpectedly signed the bill, extending expanded unemployment benefits and an eviction moratorium, and keeping the government open."
+    publishedDateTime: 2020-12-28T08:35:00Z
+    webUrl: "https://www.nytimes.com/2020/12/27/us/politics/trump-signs-pandemic-relief.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/27/us/politics/trump-signs-pandemic-relief.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/27/us/politics/trump-signs-pandemic-relief.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/25/us/politics/25dc-stimulus-signed-hfo/25dc-stimulus-signed-hfo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "In reversal, Trump signs spending bill, unlocking Covid aid and averting shutdown"
+    excerpt: "Pandemic unemployment benefits expired Sunday after the president delayed approving the bill and confusion reigned in Washington."
+    publishedDateTime: 2020-12-28T07:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/covid-unemployment-benefits-expire-after-trump-refuses-sign-aid-bill-n1252392"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252392"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252392"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_52/3438232/201227-donald-trump-jm-1144_83f666683aa031d9a8bf2016f8fe7607.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Stanley Chera Was a Mogul Who Made Covid-19 Personal for Trump"
     excerpt: "The Lives They Lived The Lives They Lived By Jamie Lauren Keiles Shortly after his Covid diagnosis — fever spiking, hooked up to an oxygen tank — Donald Trump reportedly wondered aloud to an aide, “Am I going out like Stan Chera?” Like so many ..."
     publishedDateTime: 2020-12-23T10:33:00Z

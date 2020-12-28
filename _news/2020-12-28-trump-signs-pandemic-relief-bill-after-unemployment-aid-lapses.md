@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Pentagon under pressure from Trump administration to split NSA and Cyber Command"
-excerpt: "The Trump administration is pushing to make major adjustments to the Pentagon organizations charged with cybersecurity and signals intelligence, according to a US defense official.\n    \n"
-publishedDateTime: 2020-12-20T01:59:37Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAgg3jyefCs/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAgg3jyefCs/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
+title: "Trump Signs Pandemic Relief Bill After Unemployment Aid Lapses"
+excerpt: "After calling the measure a “disgrace,” President Trump unexpectedly signed the bill, extending expanded unemployment benefits and an eviction moratorium, and keeping the government open."
+publishedDateTime: 2020-12-28T08:35:00Z
+originalUrl: "https://www.nytimes.com/2020/12/27/us/politics/trump-signs-pandemic-relief.html"
+webUrl: "https://www.nytimes.com/2020/12/27/us/politics/trump-signs-pandemic-relief.html"
+ampWebUrl: "https://www.nytimes.com/2020/12/27/us/politics/trump-signs-pandemic-relief.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/27/us/politics/trump-signs-pandemic-relief.amp.html"
 type: article
-quality: 170
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/130128052250-pentagon-aerial-shot-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2020/12/25/us/politics/25dc-stimulus-signed-hfo/25dc-stimulus-signed-hfo-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -79,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pentagon under pressure from Trump administration to split NSA and Cyber Command"
+    excerpt: "The Trump administration is pushing to make major adjustments to the Pentagon organizations charged with cybersecurity and signals intelligence, according to a US defense official.\n    \n"
+    publishedDateTime: 2020-12-20T01:59:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAgg3jyefCs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130128052250-pentagon-aerial-shot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump campaign told to preserve all documents related to Sidney Powell and Dominion Voting Systems "
     excerpt: "President Donald Trump's campaign legal team sent a memo to dozens of staffers Saturday instructing them to preserve all documents related to Dominion Voting Systems and Sidney Powell in anticipation of potential litigation by the company against the pro-Trump attorney.\n    \n"
     publishedDateTime: 2020-12-19T19:44:34Z
@@ -126,22 +143,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222011052-donald-trump-1212-file-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Trump Signs Pandemic Relief Bill After Unemployment Aid Lapses"
-    excerpt: "After calling the measure a “disgrace,” President Trump unexpectedly signed the bill, extending expanded unemployment benefits and an eviction moratorium, and keeping the government open."
-    publishedDateTime: 2020-12-28T08:35:00Z
-    webUrl: "https://www.nytimes.com/2020/12/27/us/politics/trump-signs-pandemic-relief.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/27/us/politics/trump-signs-pandemic-relief.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/27/us/politics/trump-signs-pandemic-relief.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/25/us/politics/25dc-stimulus-signed-hfo/25dc-stimulus-signed-hfo-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "In reversal, Trump signs spending bill, unlocking Covid aid and averting shutdown"
     excerpt: "Pandemic unemployment benefits expired Sunday after the president delayed approving the bill and confusion reigned in Washington."
@@ -220,6 +221,6 @@ related:
         height: 629
         isCached: true
 
-secured: "tG4qxamL/9YlPGO/0mURDXfSJn2g+7YCUR4EufltGXE08qyIOcz5XIaejMAkg54UsN9ZRBOJZKggy/MMxDteLhXx3Lj4med+EkviqZpL7iJkQlnqJeFs0ctS0v+czPUTScYFfIL7ZFgYFFJikyVIoClyJQU7SMZUb70zMgx+9uN4JKm8wB8Qp5S7Xf/Z/XcMza8/WZQHvfmIOL3XDqG5yOcjsqV+aBSRaXOwa1Ol0Sqlex2y0HzQWK7NbnC/M+949l4O32UwX1WGrKlLH4CvAF4fWegA/HKZ+Ir1P5vFZTT+nSKhpysbrU19kOIHTID0C3HyukHjy1MHhTt5fD1VGlABhtTSp3zBR9lB3PtDPTA=;UDS1uswW5uPUKhIChTWx8w=="
+secured: "vVqm9yjWJRHnHM50kFq32RG7PdOAS/tjOWg7MhduE6mYOJFt4BPikrR2m16oYuRyBlGVOgAcJu+yJn/nDHmCbcN3t7CmE8Joq81+sY2da4eitiPYlPDy819zMJPafiKwLIR2X0YGbHxN6he+rL7jvI0jhs8r2xZxOqZbrOmFL/B+70pCyOhqlAarACYfKdZDx2tUh1VPV3dqboU5UanwuBiF7huR/l63Bte4dmyUjdNNR5h8hkn02/f7HSThesoVV2yAsX4RnySGvVis7v6+5HewNsDVPHv3YcWw35FUZWAHF9EuXL3nwRepM/CdFNH8uwDnY3i/qMuxbMpnWw9wD1yHwIvHEDdB92gxE7EeaxY=;SzQVcc3HnNcneTDS5c9k4g=="
 ---
 

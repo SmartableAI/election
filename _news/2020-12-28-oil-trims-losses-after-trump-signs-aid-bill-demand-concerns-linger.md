@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump's company ordered to give evidence to NY investigators"
-excerpt: "A New York judge has ordered President Donald Trump’s company to give state investigators documents related to a suburban estate that’s the subject of a civil investigation into the family’s business"
-publishedDateTime: 2020-12-15T23:50:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/trumps-company-ordered-give-evidence-ny-investigators-74748226"
-webUrl: "https://abcnews.go.com/US/wireStory/trumps-company-ordered-give-evidence-ny-investigators-74748226"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trumps-company-ordered-give-evidence-ny-investigators-74748226"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trumps-company-ordered-give-evidence-ny-investigators-74748226"
+title: "Oil trims losses after Trump signs aid bill; demand concerns linger"
+excerpt: "Oil pared some of its losses from earlier on Monday after U.S. President Donald Trump signed a $2.3 trillion coronavirus aid and spending package but lingering worries about near-term demand weighed on market sentiment."
+publishedDateTime: 2020-12-28T07:29:00Z
+originalUrl: "https://www.reuters.com/article/us-global-oil-idUSKBN2920FZ"
+webUrl: "https://www.reuters.com/article/us-global-oil-idUSKBN2920FZ"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920FZ"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920FZ"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545938712&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR07D"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -286,6 +286,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/4nWU8fP8O9AuOEh9lRNgeFgQCms=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FTBYZYMTSXLIVZWLIVGG6NXO4E.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump's company ordered to give evidence to NY investigators"
+    excerpt: "A New York judge has ordered President Donald Trump’s company to give state investigators documents related to a suburban estate that’s the subject of a civil investigation into the family’s business"
+    publishedDateTime: 2020-12-15T23:50:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/trumps-company-ordered-give-evidence-ny-investigators-74748226"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trumps-company-ordered-give-evidence-ny-investigators-74748226"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trumps-company-ordered-give-evidence-ny-investigators-74748226"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "City to auction spot to push demolish button on Trump casino"
     excerpt: "One of President Donald Trump’s former Atlantic City casinos will be blown up next month, and for the right amount of money, you could be the one to press the button that brings it down"
@@ -830,22 +846,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_72f9a4be68054c4dbd43e2a34c789769_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Oil trims losses after Trump signs aid bill; demand concerns linger"
-    excerpt: "Oil pared some of its losses from earlier on Monday after U.S. President Donald Trump signed a $2.3 trillion coronavirus aid and spending package but lingering worries about near-term demand weighed on market sentiment."
-    publishedDateTime: 2020-12-28T07:29:00Z
-    webUrl: "https://www.reuters.com/article/us-global-oil-idUSKBN2920FZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920FZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920FZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545938712&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR07D"
-        width: 817
-        height: 545
         isCached: true
   - title: "Trump signs pandemic aid and spending bill, source says"
     excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a partial federal government shutdown,"
@@ -1590,6 +1590,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "NvcElzpJSqpbw0NFv0/bBh5Jh1OeY9BTDLppoPENW/g+38G0/0Ea1WrnRSNAKRqj5TRG2mZT8dnAgr13TzkduDxzaVs6ZZZrZAAJ8VifiLeUx/+Ra/tKI+gRSKhV7HVk653tmnJjbZ9zNxOrib3M0MH2wEACiEtD8iYCIcx72zx4id/Olsnl3PzXCul4sdFS5wCstr/nd5llJ5pTPWFPFyWzH4kEBq080QhR2S1vkP3yDGw7uc43u9mo9xw8drqbth17sGC38o/1HqKPCdWB4pfXK1pJJ2LPMWZ2s6kHjh6KkcURkSayX+lxJ2VU2SCEV5GoC42D0ge+pTxEHHrqkKFjzuw91Z2NqcgKj2kfFc4=;PiNXvmLq3dtpfP2VhL8ANA=="
+secured: "SGFcEAqVymiHB8WQUDLoVM/i6ZbS44udGmdwbMizABmizthVmillFPH8u7V5wwW5QguMdCxbkaVbx30zJbc2kEfFMRRyt2hjlGJklxTnc1CMh9lyMPWpT3Q306YNIZ++fqeNSqx6RkZAheOfJMIHRNkww3SJbYhzREH9Qd3Dq8WsHhIBBuYgpF7pdZJmuHC08kJYkYsgBygU9zO1GLTaS7n2MHuORK47ikcS/gj6EE4so0iuU5wl+3remkypRVxMOZv/ENy8jx30dyJSJKPZ1y2WBot4B3iK7s8wDnbomeAmrgzpQ4y8U8gYaz2dWRLWVnnmG2Cvi/h6cG6vMllpGQIDjjiUWF/ET3NYM4SLzYU=;y6N4Nsy4d0sGWZhsD6HgPQ=="
 ---
 

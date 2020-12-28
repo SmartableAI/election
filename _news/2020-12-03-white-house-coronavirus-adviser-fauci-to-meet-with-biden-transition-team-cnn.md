@@ -111,6 +111,22 @@ related:
         width: 757
         height: 545
         isCached: true
+  - title: "Coronavirus live news: Trump passes Covid aid package"
+    excerpt: "Trump has passed a $900bn aid bill to support the US economy; diseases expert says herd immunity through the vaccine won’t be achieved until summer"
+    publishedDateTime: 2020-12-28T08:27:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/eb377370afeca0dc7ef343922c89d6431653d400/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=db9160be62ba9dbf5e00db73259cab84"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Donald Trump stays silent as US sees record 2,804 coronavirus deaths in a day"
     excerpt: "President fails to address national crisis, instead remaining focused on false voter fraud claims"
     publishedDateTime: 2020-12-03T23:14:00Z

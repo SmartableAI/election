@@ -2,19 +2,23 @@
 category: news
 title: "'I think I had some effect': Cindy McCain pleased with Joe Biden's election victory, looks ahead"
 excerpt: "Cindy McCain played a big role in Joe Biden's narrow win in Arizona. Now she's trying to get Republicans named to his incoming administration."
-publishedDateTime: 2020-12-27T16:46:00Z
-originalUrl: "https://www.freep.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/"
-webUrl: "https://www.freep.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/"
-ampWebUrl: "https://amp.freep.com/amp/4052794001"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4052794001"
+publishedDateTime: 2020-12-27T16:55:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/?scrolla=5eb6d68b7fedc32c19ef33b4"
+webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/?scrolla=5eb6d68b7fedc32c19ef33b4"
+ampWebUrl: "https://amp.usatoday.com/amp/4052794001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052794001"
 type: article
-quality: 77
-heat: 77
+quality: 127
+heat: 127
 published: true
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -26,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "jysWtsltVKJw+Cg1zvKVS+YgWNXDvaDYEiRtAIzmCbfq0NKgdXcroJLKDD2LS9v9dcwKRvu7WwI9FuEHxKURfFxSUORs9oY1h8m6d4Jp8evpVE9yeHRvqBv/MeOFpLF+e2ovskSE8jdRI/Jelj9tosVZ1/izO5EYWfHPrAdMRnaW4IPCRNy4yoCn+Tk1vUvY2aSqHWwRFlXt8abujgCQagKuQrCZgzGUymAfye/02SkpOf06u4p8opu6q3Q/AjgRf4j/IkaydpdNpcre3CPEaWzwX+lCR/QDhhFSagbRsOtziJejar8pxIPp30iia5MJLbS2JAGQ3/+tUTMfgw66bzRr9r4VeZTxaMSIIGG09tg=;H8TDwf57TclxaLal6/QSOQ=="
+secured: "9YSsmiW+OWmXn6/oZuC4LqIKs0LXvVDMIsnIB4oDu6U0COPZE5CVUJgnaqcBYABgYo5FB2no1+PPA0fn2ReQ3HaPsG6h+1yxFPG9aSTsTlUbCYAs3SSE8BR4bfy3OtyHavhXk2o/m3uYIE5hkEEYTPZbCSIGbRe71Yj9KZ1hl5H3VWkm5XYpCvGsG2qLNSWReid17aHMpK+Ewfx9diPXD7E8gtGElExABF+zplYrDHj4bR9XaOB85rlNa/Z6ov1v4BnGCBN4MMbpMIkW1wSx9CWvHbunvlTKgzS/fjZNyciM4uFoVyVPKzYr7liNj2o6vUi3EvBpETIWAy+Ic0+W7bsbes62EwxXOC7Q2rhLgXQ=;NhTUmY7gel/kWbbUarD35A=="
 ---
 
