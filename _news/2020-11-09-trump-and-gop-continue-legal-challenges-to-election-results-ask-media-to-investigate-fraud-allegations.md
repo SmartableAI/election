@@ -159,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McConnell blocks quick vote on Trump’s $2K checks"
+    excerpt: "McConnell said Tuesday that the Senate will address President Trump's request."
+    publishedDateTime: 2020-12-29T20:25:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_nNoN0VTe7A/mcconnell-blocks-quick-vote-on-trumps-2k-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-blocks-quick-vote-on-trumps-2k-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-blocks-quick-vote-on-trumps-2k-checks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Starr on Trump legal challenges: 'Allow this litigation to run its course'"
     excerpt: "Kenneth Starr, former Whitewater independent counsel, and Laurence Tribe, constitutional law professor at Harvard, sparred on Sunday over President Trump's legal challenges in several battleground states, with Starr wanting to allow the \"litigation to run its course\" and Tribe arguing that \"it's time"
     publishedDateTime: 2020-11-15T18:47:51Z

@@ -3,8 +3,8 @@ category: news
 title: "Why Joe Biden Is Headed for Failure"
 excerpt: "We're back in the game, says Joe Biden, a president who cannot take his dog for a walk without falling over it and twisting his ankle. He will lose his footing in the first foreign-policy crisis that comes along."
 publishedDateTime: 2020-12-29T12:30:00Z
-originalUrl: "https://www.realclearpolitics.com/2020/12/29/why_joe_biden_is_headed_for_failure_532188.html"
-webUrl: "https://www.realclearpolitics.com/2020/12/29/why_joe_biden_is_headed_for_failure_532188.html"
+originalUrl: "https://www.realclearpolitics.com/2020/12/29/why_joe_biden_is_headed_for_failure_532188.html#!"
+webUrl: "https://www.realclearpolitics.com/2020/12/29/why_joe_biden_is_headed_for_failure_532188.html#!"
 type: article
 quality: 65
 heat: -1
@@ -43,6 +43,6 @@ related:
         height: 720
         isCached: true
 
-secured: "dJOXQEF9I9kBxyWxnep22fT+kcQtmlrAHtAi/92e0s8h6x4jfwcW6KtbWI7ZIi/6CZbBA/Ozqjp/ik8AUnUrcwnjuZTDd3oq2RhwDbnov3JxiSQNdV+J4HC3W40YZxK8okfHu9ctx86EGW7txNREUy1qxb47xAPKV9itQ0QI/AadnBmBHCo6vtgpFsUgV04AI39sRWaeXQRvacdIUVKjqguBdnN91O8zGs74ZhSV6HtOTHJt2zjpspAyVWbd2xJS9t9r9aeeikw+5qxrivEl8xQsZP3YK6RJSyIrAjq4E1zf7lYubbO0CkixUBL58WS+WDJkkcINFhTkMY+F/isTgvfBV8yRhWOT2f+o1EWAOKA=;LEPFtIfgpEISNqxOLUmH5g=="
+secured: "1VFb+l7CJ67xpu1h5Jgj2U+V4aVitIKexer3cUyemmEK6K999c8rzpGgoFiZny8auYXHBkapLVAbCY/jk3uiXhxwdiClrbzJnU5NBHpNIuYUFE7ZqVSkJl1Ia0x/8STsHoXdanCKSMfKPp69/jIY4pfr9lp2MVL1tlaJkHJIxNp4PJLiz1W3MPV0uJ1jw6jO/oMRh+ZlaIGzppxZqxK3+RcHwf4t7uYPN7/c0Sm3qSbHnVTh2QWSUOpc1Mt7y2Iis0ktK66oWQiVDE7Do8JtnYTSwXRfXsL0OmXFY42t2OhI/5zgSatQLoEaJyK34bxjc+ipK+pTAJgedu+uz7rTWkwgrDnuLIZ9AOSbV+tG+0Y=;H29VpLdFdrfw7mq0tDC7Ew=="
 ---
 

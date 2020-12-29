@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-mcconnell-backs-trump-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-mcconnell-backs-trump-legal-fight-in-election-results.amp"
 type: article
 quality: 190
-heat: 510
+heat: 530
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/124ffac8-ca25-4803-bc95-b57a6754174c/45640ca8-73b0-4813-915b-5189d0c9bf46/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "McConnell blocks quick vote on Trump’s $2K checks"
+    excerpt: "McConnell said Tuesday that the Senate will address President Trump's request."
+    publishedDateTime: 2020-12-29T20:25:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_nNoN0VTe7A/mcconnell-blocks-quick-vote-on-trumps-2k-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-blocks-quick-vote-on-trumps-2k-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-blocks-quick-vote-on-trumps-2k-checks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump and GOP continue legal challenges to election results, ask media to investigate fraud allegations"
     excerpt: "The Trump campaign and GOP leadership on Monday continued to raise allegations of voter fraud and misconduct at the polls last week as it marches forward with its legal challenges despite facing long odds given the Electoral College tally and recent court rulings that found no evidence of widespread"

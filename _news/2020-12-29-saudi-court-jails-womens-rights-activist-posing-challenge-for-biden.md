@@ -3,10 +3,10 @@ category: news
 title: "Saudi court jails women's rights activist, posing challenge for Biden"
 excerpt: "A Saudi court on Monday sentenced prominent women's rights activist Loujain al-Hathloul to nearly six years in prison, her family said, after her conviction in a trial that has drawn international condemnation."
 publishedDateTime: 2020-12-29T06:15:00Z
-originalUrl: "https://www.reuters.com/article/us-saudi-rights-women/saudi-court-hands-prison-sentence-to-womens-rights-activist-local-media-idUSKBN2920T7"
-webUrl: "https://www.reuters.com/article/us-saudi-rights-women/saudi-court-hands-prison-sentence-to-womens-rights-activist-local-media-idUSKBN2920T7"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920T7"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920T7"
+originalUrl: "https://www.reuters.com/article/uk-saudi-rights-women-idUKKBN2920RK"
+webUrl: "https://www.reuters.com/article/uk-saudi-rights-women-idUKKBN2920RK"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2920RK"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2920RK"
 type: article
 quality: 125
 heat: -1
@@ -124,6 +124,6 @@ related:
         height: 682
         isCached: true
 
-secured: "QHZRK+mJLi+avo6/pK3yT2gHp/zwY/A7Nt42DYa/vqat0AQb2HC5BjOX7Bh/TfjWqEnkKj79Lc814DgImg6mtp6G/V3pwh7D4MhdXG2hr0DbNiOEJ9xV8LpIj7qDNVhjOsQrXj0+Iof/offms+RBEH9jB0ucxvC6wDcPLTuiiwxN47kTqXh2Ri7A76PNzscypDnPUhbehbWr/XUPEgRQWOmXD9HPDf8qndqkPAeD1n605NAghMbjPS8gVtmDrDfT+UKTK4co2AeCfC/LXxepKyD1IDvjBH+PxNeyrtqxTgxINV73o5tQpGqKkJO/zGIvAyj6v1d8D3Qke/FLDHRjY9/wSuSCJ0Z/MejFjy7bKrmF8dXiFoLeqtprtYEvZ08QqonL1e/W1R2n7kLbPLq/oXOAU8d+dtcmZ+zrSHms12/gUktVjB13j6SieFoZetTdLv5b9OuR+TZnMBOu42DQvst5uWB47h53hx/y+HkqLC8WkrYFsztS6rGbFgGVVGcMBXNqX9hEbsely0cTK6m5tw==;7r9Ah81d71/OxiPptn3hKw=="
+secured: "FPRAma//jRIEU3GDzJwtjdsE+/0RZcy4h4NGL1J3aEVPCiyzipLflSVu1t3DP4tSpHN90dMGQLQUDVdRdQG5wuxmSb198xKqo9oPcj3GlstfiRTbryfZ0i4Y5shgN3oUtQFVRKBVuOER9vBQtL2SVTXdeTWPN/O33xw0VVJBIogoXIOgbk7KpuI8FbI1/fhdEMacG74BW9KilQr5k17tszZsVroahVPB8qMrNoW0svv3Gpphj8ec52D7hhGJN1XRAmdup6H2dP6C3qV8xF3I2bUGaKwa2xhOiI3w77Lnh8VX3hXb15SLupAM9qEbBOElKZFQAMj89lloDU8HwM/w1u+tw+N97O/JoCb0MABn0W8=;E0KgVs0M/lNG0tGSo0Ug1g=="
 ---
 

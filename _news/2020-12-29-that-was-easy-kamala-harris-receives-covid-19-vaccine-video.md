@@ -3,8 +3,8 @@ category: news
 title: "'That was easy': Kamala Harris receives Covid-19 vaccine – video"
 excerpt: "Describing the process as 'relatively painless', Harris urged all Americans to get vaccinated"
 publishedDateTime: 2020-12-29T15:53:00Z
-originalUrl: "https://www.theguardian.com/us-news/video/2020/dec/29/kamala-harris-receives-covid-19-vaccine-video"
-webUrl: "https://www.theguardian.com/us-news/video/2020/dec/29/kamala-harris-receives-covid-19-vaccine-video"
+originalUrl: "https://www.theguardian.com/us-news/video/2020/dec/29/kamala-harris-receives-covid-19-vaccine-video?share=facebook"
+webUrl: "https://www.theguardian.com/us-news/video/2020/dec/29/kamala-harris-receives-covid-19-vaccine-video?share=facebook"
 type: article
 quality: 105
 heat: -1
@@ -44,6 +44,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/29/8cbf2e07-8d58-471e-8572-0e4176b0db22/thumbnail/1200x630/9fc15131cf2b1c1379915144a2afbcdb/ap-20364578711714.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "WATCH: Vice President-elect Kamala Harris gets Moderna COVID-19 vaccine"
+    excerpt: "US Vice President-elect Kamala Harris on Tuesday received her first dose of the Moderna COVID -19 vaccine before live television cameras as part of a growing effort to convince the US public the inoculations are safe."
+    publishedDateTime: 2020-12-29T18:50:00Z
+    webUrl: "https://www.pbs.org/newshour/health/watch-vice-president-elect-kamala-harris-gets-moderna-covid-19-vaccine"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/health/watch-vice-president-elect-kamala-harris-gets-moderna-covid-19-vaccine"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/health/watch-vice-president-elect-kamala-harris-gets-moderna-covid-19-vaccine"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/12/2020-12-29T162118Z_844895509_RC24XK94EYDR_RTRMADP_3_USA-BIDEN-HARRIS-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Kamala Harris And Doug Emhoff Have Received The Moderna COVID-19 Vaccine"
     excerpt: "\"It's about saving your life, the life of your family members, and the life of your community,\" said the vice president–elect."
@@ -156,6 +172,6 @@ related:
         height: 675
         isCached: true
 
-secured: "N8KwTEYSoNDp9477RPYyFN7py171TaueqrVoChf3G71r/imyGk/eMvYpmRfYe2UanuMhb5msczG33LhX0R/pfzCwiNTgo5S0t20aezdIcZB8NUlnpVYmSrkbYTUOh6aMhL3TBtmlFJxjQRnQiFF6g7HtrQmoFi+2GO72iRvlv+56NXvj/fqVDb2c7/cDBhMtaZlMnPvPqKY33cMC2Gkb4YJu+Aa1dsf/W1J/cwlfrpbuNnwgA2ugWERnCqJ+HP8IYWP0lRSIOXXOnr8D2Nn1vdMNPMW+M/F4ADcBKGx4ZYqy31M7F/a1/B5qd/qczW0ku1Jc+1h95K5fKu3dq1vONZENXpkOeePhQnPVW7N9SoY=;pXAt8rK982peXWObHCDrGA=="
+secured: "YnkixyTj3HW46WSW27cH514Dj56QwtgA3Xbmydm1fPXw/R2sFkDgYmNT8oC4wjfDVA+0G3VP53QPeX3PxtbSkMyFVRLL3Q5SAjSoOZQMh73aWNMOvCeNCTz74PZFlL7/9U03h4skyQQzPEKgta8b1ZttDoTa9usH3G/v+6DnzuwXm4HaZ13mzxul4dhcz0i+DC4d8DaBXii/vyhnVUnNoNigZ0pJEfexwDe/JVdXeIYtbsPm6Du4wBm95zSVyTWys6cEm256GeUElQUT74+9xS8gp8eGg/l4EItcfyeQg9uMAUoonFtAGi5xQ/Nx7Pmxgx8JctRrEAIDuGSP7BTLSgrVTZ7ERqgC+OBgr9pqnN8=;hrINbu5J4wyRshXU88lFnw=="
 ---
 

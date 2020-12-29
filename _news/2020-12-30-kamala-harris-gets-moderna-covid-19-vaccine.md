@@ -2,17 +2,17 @@
 category: news
 title: "Kamala Harris gets Moderna COVID-19 vaccine"
 excerpt: "US Vice President-elect Kamala Harris on Tuesday received her first dose of the Moderna COVID-19 vaccine before live television cameras as part of a growing effort to convince the US public the inoculations are safe."
-publishedDateTime: 2020-12-29T18:44:00Z
-originalUrl: "https://www.azcentral.com/videos/news/nation/2020/12/29/kamala-harris-gets-moderna-covid-19-vaccine/4075783001/"
-webUrl: "https://www.azcentral.com/videos/news/nation/2020/12/29/kamala-harris-gets-moderna-covid-19-vaccine/4075783001/"
+publishedDateTime: 2020-12-29T19:07:00Z
+originalUrl: "https://www.desmoinesregister.com/videos/news/nation/2020/12/29/kamala-harris-gets-moderna-covid-19-vaccine/4075783001/"
+webUrl: "https://www.desmoinesregister.com/videos/news/nation/2020/12/29/kamala-harris-gets-moderna-covid-19-vaccine/4075783001/"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -485,6 +485,6 @@ related:
       domain: usnews.com
     quality: 25
 
-secured: "XPPE/hAJqqr+Mm6+LY7e4byqgQ8K9LqP9GZPK65/ogFhA5Q96L5dXW8yFH3NnnfguxnzM7TI5BGFK5o7UMYXqCWr8FneZexutq/PSGbuwEuz7g2RNgds60AQE9R1jOc4Dpgbr6iNuYv4FFbGCBsxI5UWS9Xg+3PWN+5XlVu+7PZlGYSsAtXb1Y2lgL8u6YMaA/lbbw0H3W+QeE1NPmo1pPlxB2jvx9Fly02q172XfNYUqGqlX16y/6kUnEY0Dq5bv6h+s7H0O1Hkowzefj4bf7du9hvlgUrKzeV4z7LzVSP5eMapMlQkRs6ed8D9gDoXJS/VZx08W8Gu2TZ9qq1E20KYpM1zoCoyeyT67fZq8Qs=;coqNnew6XrLtYvn8bA5pUQ=="
+secured: "0Ta7VJzhJvvwfvoBK69dr8lxz7LLKcUgSCsCPsyGCgUl6l2IFzVdzujJsgXfqSTv7OpjPPFLYk0JXyJTdj3Tx6rliCdGf8V9f9UrCcX8waUeTtIrwgSjzR0MLI+t1qDfx1TvG7std5W6IupIXU0Erg9rxohQEoD+KsWr70nn1BCNyKhMUYCznI6M9Xznnog+4CM3txHfy1hUEyhbMoEjIbVtDc43zCOzQ6ZauVeBEALheLoKisZ7IoQX/OxV9DXy/OECeZrTbOvVZYdKWaTXossU62gJbsVvxqa446f8bULpoitDtA7gXIxD6pWlecw7Oe02kpsWdntrNR/dWmbjocgrEQXpIovVSCILiYq1kBI=;/Dshk15xcYyQ4unjPRt5hA=="
 ---
 

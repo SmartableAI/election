@@ -34,7 +34,7 @@ related:
   - title: "Why Joe Biden Is Headed for Failure"
     excerpt: "We're back in the game, says Joe Biden, a president who cannot take his dog for a walk without falling over it and twisting his ankle. He will lose his footing in the first foreign-policy crisis that comes along."
     publishedDateTime: 2020-12-29T12:30:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/29/why_joe_biden_is_headed_for_failure_532188.html"
+    webUrl: "https://www.realclearpolitics.com/2020/12/29/why_joe_biden_is_headed_for_failure_532188.html#!"
     type: article
     provider:
       name: RealClearPolitics

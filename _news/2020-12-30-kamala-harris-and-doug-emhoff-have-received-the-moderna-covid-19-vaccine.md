@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "WATCH: Vice President-elect Kamala Harris gets Moderna COVID-19 vaccine"
+    excerpt: "US Vice President-elect Kamala Harris on Tuesday received her first dose of the Moderna COVID -19 vaccine before live television cameras as part of a growing effort to convince the US public the inoculations are safe."
+    publishedDateTime: 2020-12-29T18:50:00Z
+    webUrl: "https://www.pbs.org/newshour/health/watch-vice-president-elect-kamala-harris-gets-moderna-covid-19-vaccine"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/health/watch-vice-president-elect-kamala-harris-gets-moderna-covid-19-vaccine"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/health/watch-vice-president-elect-kamala-harris-gets-moderna-covid-19-vaccine"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/12/2020-12-29T162118Z_844895509_RC24XK94EYDR_RTRMADP_3_USA-BIDEN-HARRIS-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "For interracial couples, Kamala Harris and Doug Emhoff are a ‘monumental’ symbol"
     excerpt: "The vice president elect is Black and her husband is White, making them the first interracial couple at the highest reaches of the U.S. government"
     publishedDateTime: 2020-11-23T12:09:00Z
@@ -98,7 +114,7 @@ related:
   - title: "'That was easy': Kamala Harris receives Covid-19 vaccine – video"
     excerpt: "Describing the process as 'relatively painless', Harris urged all Americans to get vaccinated"
     publishedDateTime: 2020-12-29T15:53:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2020/dec/29/kamala-harris-receives-covid-19-vaccine-video"
+    webUrl: "https://www.theguardian.com/us-news/video/2020/dec/29/kamala-harris-receives-covid-19-vaccine-video?share=facebook"
     type: article
     provider:
       name: The Guardian
@@ -156,6 +172,6 @@ related:
         height: 675
         isCached: true
 
-secured: "jE9+Nbob1pR3EXLGBo7L8/pigeRhtqZrbZbj0FwwXwvnh9lq/C2ngxPHv/9kvmKtpErGNhWgwGknZcnrd8leAiolQu2UYYY1eR7h14pyL4WhsEPEPRAcig8X48hrJMmtnXs7r3a+UtzKdDPyeTXhnAyNMOx+6hSZVZWiIzGD9QhQ1h+Nozsi9peXLWYE58gMRAzpRwqKMerifDEL+IXBieArXeDc4wg5S2ocq/3kfl7PmjgmSTqW/D1lbKtYHbd3vV8SaX9eMk4+2fDZ/N+HE/jALJ1jh9vYz1eREKa+Q+cCDQRcRGFRjDJ1b1W/AcrgRQTGD7iwdGOZmkbqsNCDUWLCVhOU+3EJy8aoyVQZzHU=;xz3AVEQr9623r2nWLv2HRg=="
+secured: "2hVRr51Fv1i5iyEwewoTjvFMuoz4b1+OemywdANoGbvH70NHlSN9eSLH4KLoVahk5MO4y+tggYZvSy0uDjDLzS6LviBjgH5oUv6LEtcooF/LGTVDZFv2T3ZPjHyjFFYCjAGIFF2oeJlAU56rXxAT6Dr3DrZVD5+Ln2YaG8yk70sIQpD/NYJ/7iMJITFN0oO/08YPg5Z7MD7Imc2okVltnhYTCG0EainKppWlh+JSLfSRqPMGiJYYQlvoAKGQFoeY8dN2I+k+hG9D2Dj1iZYpKTLub5U6lbO2c/jiiobMwVH4PrQfUjki7vHlnKGHKM7e26+KskgderGG2zgxpz7kihBStKdwz9C1tnmoGsJtfBE0mahj9TblyVoAvXTz+OCoTu0F65DjV7K28LfUnoj+Jcgp4jILVe7sRLV8ypgQHKk/0IkDrZlT8uPT4TcRBXuHXZB8eL60d+KmgfNabTl6x7gE6KYSP3jlOWkjJFCEdzC41n/DM2QhS1jJanKf7qJN7ubTknQeTqXsU2ZeQ47U9g==;4T6AqaxSOPpyJAEJuplW2w=="
 ---
 

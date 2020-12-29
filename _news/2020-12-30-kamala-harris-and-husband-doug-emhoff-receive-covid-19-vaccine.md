@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-doug-emhoff-covid-vac
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-doug-emhoff-covid-vaccine/"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "WATCH: Vice President-elect Kamala Harris gets Moderna COVID-19 vaccine"
+    excerpt: "US Vice President-elect Kamala Harris on Tuesday received her first dose of the Moderna COVID -19 vaccine before live television cameras as part of a growing effort to convince the US public the inoculations are safe."
+    publishedDateTime: 2020-12-29T18:50:00Z
+    webUrl: "https://www.pbs.org/newshour/health/watch-vice-president-elect-kamala-harris-gets-moderna-covid-19-vaccine"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/health/watch-vice-president-elect-kamala-harris-gets-moderna-covid-19-vaccine"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/health/watch-vice-president-elect-kamala-harris-gets-moderna-covid-19-vaccine"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/12/2020-12-29T162118Z_844895509_RC24XK94EYDR_RTRMADP_3_USA-BIDEN-HARRIS-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Kamala Harris And Doug Emhoff Have Received The Moderna COVID-19 Vaccine"
     excerpt: "\"It's about saving your life, the life of your family members, and the life of your community,\" said the vice president–elect."
     publishedDateTime: 2020-12-29T17:41:00Z
@@ -98,7 +114,7 @@ related:
   - title: "'That was easy': Kamala Harris receives Covid-19 vaccine – video"
     excerpt: "Describing the process as 'relatively painless', Harris urged all Americans to get vaccinated"
     publishedDateTime: 2020-12-29T15:53:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2020/dec/29/kamala-harris-receives-covid-19-vaccine-video"
+    webUrl: "https://www.theguardian.com/us-news/video/2020/dec/29/kamala-harris-receives-covid-19-vaccine-video?share=facebook"
     type: article
     provider:
       name: The Guardian
@@ -156,6 +172,6 @@ related:
         height: 675
         isCached: true
 
-secured: "X1A/EKFrqVwJ6J35nmWCz3NqiirOnBtKVgGE0jRFGrsORwzcftZIIw4PbUYgFPqoARBHXxfpCg/CFOb+UXEUz6eBS5t1pDaXbxc5JB11URtzuJG9JH7TFuryZq9d9qtn4ttTVp8MOZ/PDNrFzdoaRF6p+aU7Ycg52HKW55XVu+gP5STpyMjJ3IDtbZZfaD8winAbVGPwlGewflPnxwUCmuoE60RR81dr4yCrb0qZ3Z8tRgWexr9UwVdcmIOPaHJJ3N8ntqCvlayPREnt4iXXRf/neLSjmt9SeeVBDQa9v4eQklxuu8opIzqpD8yEol2DMMXaFLtTDkJcoK6nZ5dx72gfH8i6j8uWmOinLZZh970=;SAJYtSXjWNyP1P9mw3+ugw=="
+secured: "0w42qER0WnCNNMFMxbq5AI45YnbMlU16H7uVX/vpiUBOl2KjuJ/k31QdmqzEHvjoZb96T9wFYhIUg5eILuEU6KfP0D9Z0YVdokMzOrDMVFV4o0tStxKhAEMQ8MPVFAacP+5QMCfWDzaj3vGMRHa2cvvpkd6WkwOvkO+IKMM82PRXlFuQUKkdy0ceLemqWjdnKjLHsDNx6M1mNPfG901fpXBLSfvASQKf7UnwNtkZACUqSj+6TH43gssCBIu8n1vjZWvfANzSKNIguiutVGc7EK537Fd18t/1+oY4Fvt5vKf8pyGDE/8q1hJfhc0+TV7mODabzR/sGMG0Oeb03c/0BrAP/KGIaSaFI84BY19N3U2VkqB1aGIflCkYnJ/CI1yzpQa8u42X8XLpb2smikIislmBLLxMMGqJgCcMrj0E9pwfBuOWofNk4ym5s9tyWsyFhVDS37/utRC9a8SOXh73ZQUGFxr2AbHNCzobvFA/Wye1qJDGZ6/vNET7RIX2JcnHeT6qhxgXyju+l09xu1POtg==;mXXmkthmrfME8plSmmizRQ=="
 ---
 

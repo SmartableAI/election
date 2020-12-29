@@ -8,7 +8,7 @@ webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-20
 ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-29-2020.amp"
 type: article
-quality: 134
+quality: 144
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
+  - Donald Trump
 
 images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b63ad575-3944-454f-86e0-b31ad0fc3adf/ff7faca5-f527-4d40-a802-63ce1b379890/1280x720/match/image.jpg"

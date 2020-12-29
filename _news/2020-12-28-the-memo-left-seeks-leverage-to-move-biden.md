@@ -50,9 +50,9 @@ related:
   - title: "Saudi court jails women's rights activist, posing challenge for Biden"
     excerpt: "A Saudi court on Monday sentenced prominent women's rights activist Loujain al-Hathloul to nearly six years in prison, her family said, after her conviction in a trial that has drawn international condemnation."
     publishedDateTime: 2020-12-29T06:15:00Z
-    webUrl: "https://www.reuters.com/article/us-saudi-rights-women/saudi-court-hands-prison-sentence-to-womens-rights-activist-local-media-idUSKBN2920T7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920T7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920T7"
+    webUrl: "https://www.reuters.com/article/uk-saudi-rights-women-idUKKBN2920RK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2920RK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2920RK"
     type: article
     provider:
       name: Reuters

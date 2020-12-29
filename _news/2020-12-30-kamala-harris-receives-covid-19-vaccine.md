@@ -425,12 +425,12 @@ related:
         isCached: true
   - title: "Kamala Harris gets Moderna COVID-19 vaccine"
     excerpt: "US Vice President-elect Kamala Harris on Tuesday received her first dose of the Moderna COVID-19 vaccine before live television cameras as part of a growing effort to convince the US public the inoculations are safe."
-    publishedDateTime: 2020-12-29T18:44:00Z
-    webUrl: "https://www.azcentral.com/videos/news/nation/2020/12/29/kamala-harris-gets-moderna-covid-19-vaccine/4075783001/"
+    publishedDateTime: 2020-12-29T19:07:00Z
+    webUrl: "https://www.desmoinesregister.com/videos/news/nation/2020/12/29/kamala-harris-gets-moderna-covid-19-vaccine/4075783001/"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 55
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4684f623-a8fd-4fd2-8ad1-743c69ffbcc7_poster.jpg?quality=10"
@@ -489,6 +489,6 @@ related:
       domain: usnews.com
     quality: 25
 
-secured: "2opGcuHqlULPzJFGk2RX/ESOD2A2Tv1dLnUxoJegoJBSbkS2TLVNZlVIoVVvMvOk9RTx+mXk0Hb5PnjTt2FY9rswEfnJ6KzHPv5jzmSL/Y9clK+K0kNfqLNE1O70qMgNBCVi+hImTGPoDNj7T8Z9oma/T9RGjniSXs3MDE+39wGyTcBZcKtYgdUFLCIh26bIU/BbGxDVjwpo/JgITojBCp2PZijZ/ggBOX3NPQ95qY2LUKa10wJAP+mpFl39sf4/oHRIZLDq9kpBdKsfFqyvjQfVvQSZXsKy/icMvTTr9JhwB/69Pwvsh/YpqJKyzGpEpxmw4vOCfpiILNpKjIQeTHoP4KUnZ5kYcvcycg7UygE=;kU0mAIN8rJSrq5L3t2z7Ng=="
+secured: "i9KxwJmn/1ospy/BaS/dj7in3FMCf8pP/l01O9bEFsn+p5zx0+50v/sv/Cv0VRv20cZ2bapm25rUeEyPY7o1uwy50tb6MotzfbFw+3+6xdLz238phTw2ZbYTie2Y2PKKW2vzxdneCfhog2ldyMcdkVoyVTiFa9QTJSlEvY8F6Xr12V0e/3IlU6+D8cJXCTGNxbdIO48SbQrXdstP6BCW/Du7NNxBF9PIs6Pz6b1DBOYxk1fjeDXtj2PSe8i9yhmzwMgrQ5Gbs0mIkrod28SEbeFUwVatkHTbkkifuquh/FS6K60tMiDeYK+c3ythguIALsEM1OnlrNCmvZD8jH+0x0hO9U8gujEX2pUI53dDB3yCKtwLLAZRoH3v8JIVbzBHdewRf0V2z0/QoGS6bx6hLESf1kFneCYfmb8mzH2fatboqG77GMT7NAbnQaZeVSW2vjl8xWzgrXcDMhCGHktCmcbXbRbspiH59hk6lMMEammMfWiSU8iYSqPc152HYE/KJpUH5g0RuBkIeEet8H84SQ==;hEbdqpQPuJa8W3yTGR90CA=="
 ---
 
