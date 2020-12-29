@@ -32,51 +32,133 @@ images:
     isCached: true
 
 related:
-  - title: "Biden eyes cuts to Trump nuclear program as critical arms control deadline with Russia looms"
-    excerpt: "President-elect Joe Biden will explore making cuts to the country's nuclear modernization program, potentially reversing Trump administration efforts to enhance America's nuclear arsenal by developing new weapons. Instead, Biden intends to place greater emphasis on arms control, according to two transition"
-    publishedDateTime: 2020-12-29T14:41:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a3hJpGsV9tA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/biden-nuclear-cuts-arms-control-russia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/biden-nuclear-cuts-arms-control-russia/index.html"
+  - title: "Romney: Trump has a 'blind spot' when it comes to Russia"
+    excerpt: "Republican Sen. Mitt Romney said Sunday that President Donald Trump has a \"blind spot\" when it comes to dealing with Russia after the President downplayed a massive cyberattack on US federal agencies linked to the country, warning that the aggression \"is a big wake up call for us.\"\n    \n"
+    publishedDateTime: 2020-12-20T16:33:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N3E5wS-d15Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/20/politics/mitt-romney-chris-krebs-trump-russia-cyberattack-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/20/politics/mitt-romney-chris-krebs-trump-russia-cyberattack-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 179
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228141238-03-biden-nat-sec-briefing-1228-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Leading a divided country: Joe Biden's approach to unity"
-    excerpt: "Over years of interviews, President-elect Joe Biden explains his views on how to work with Republicans and Democrats during a time of divided government."
-    publishedDateTime: 2020-12-27T13:07:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/leading-a-divided-country-joe-biden-s-approach-to-unity-98438725756"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98438725756"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98438725756"
+  - title: "Barr contradicts Trump by saying it 'certainly appears' Russia behind cyberattack"
+    excerpt: "Outgoing Attorney General William Barr on Monday said it \"certainly appears\" Russia is behind a massive cyberattack on US federal government agencies, an accusation that is in contrast with President Donald Trump, who has avoided condemning Moscow for the incident.\n    \n"
+    publishedDateTime: 2020-12-21T18:18:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lIp6KADNGew/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/william-barr-russia-cyberattack/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/william-barr-russia-cyberattack/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214174838-bill-bar-file-0728-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump downplays massive cyber hack on government after Pompeo links attack to Russia"
+    excerpt: "Secretary of State Mike Pompeo on Friday said it's pretty clear Russia was behind the massive cyberattack on US federal government agencies, publicly linking Russia to the data breach as the President has remained silent on the matter.\n    \n"
+    publishedDateTime: 2020-12-19T18:47:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NHj7jFBg1V0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/pompeo-us-government-hack-russia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/pompeo-us-government-hack-russia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201219133818-donald-trump-mike-pompeo-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Ex-DHS adviser under Trump calls for urgent action to address suspected Russian cyberattack"
+    excerpt: "President Donald Trump's former homeland security adviser described the massive data breach of multiple US federal agencies, which US officials suspect is the work of Russian-linked hackers, in urgent terms Wednesday night, calling for immediate and decisive action by the President.\n    \n"
+    publishedDateTime: 2020-12-17T14:58:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dP0p92E0wec/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/tom-bossert-trump-us-agencies-hack-russia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/tom-bossert-trump-us-agencies-hack-russia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180410111157-03-tom-bossert-2017-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump Contradicts Pompeo Over Russia’s Role in Hack"
+    excerpt: "Hours after the secretary of state acknowledged that Moscow was behind the vast cybersecurity breach, the president suggested it might have been China and downplayed the severity of the attack."
+    publishedDateTime: 2020-12-19T20:47:00Z
+    webUrl: "https://www.nytimes.com/2020/12/19/us/trump-contradicts-pompeo-over-russias-role-in-hack.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/19/us/trump-contradicts-pompeo-over-russias-role-in-hack.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/19/us/trump-contradicts-pompeo-over-russias-role-in-hack.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/20/us/20pompeo-print-sub/19pompeo-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump downplays cyberattack on federal agencies"
+    excerpt: "There's a rare split between President Trump and his loyal secretary of state on Russian involvement in a massive hack. While Mike Pompeo blamed Russia for the cyberattack, the president dismissed Kremlin responsibility on Twitter."
+    publishedDateTime: 2020-12-20T00:41:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/trump-downplays-cyberattack-on-federal-agencies-98086469687"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98086469687"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98086469687"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenkindofprez_2012270.jpg"
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kod_trump_downplays_cyberattack_201219_1920x1080.jpg"
         width: 1920
-        height: 1090
+        height: 1080
         isCached: true
-  - title: "Trump's unplanned gift to Biden: Clean energy on the rise"
-    excerpt: "Oil and gas producers are struggling amid weak prices and growing pressure to address climate change — a trend that could help Biden make a U-turn in energy policy."
-    publishedDateTime: 2020-12-29T09:37:00Z
-    webUrl: "https://www.politico.com/news/2020/12/29/trump-biden-clean-energy-451546"
+  - title: "Trump downplays cyberattack on U.S., breaks with Pompeo on Russia's role"
+    excerpt: "The president ended his public silence hours after his secretary of State pinned the blame on the U.S. adversary."
+    publishedDateTime: 2020-12-19T21:18:00Z
+    webUrl: "https://www.politico.com/news/2020/12/19/pompeo-russia-behind-cyberhack-of-us-agencies-448625"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/19/pompeo-russia-behind-cyberhack-of-us-agencies-448625"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/19/pompeo-russia-behind-cyberhack-of-us-agencies-448625"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 130
+    quality: 134
     images:
-      - url: "https://static.politico.com/03/fc/9e99086b4ff19262800af9f1489d/20201224-gasplant-gty-773.jpg"
+      - url: "https://static.politico.com/a9/e6/18c534a7496c9fc73ebfbf8c2c1c/201216-mike-pompeo-gty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump downplays Russia hack in first comments on massive breach, implicates China"
+    excerpt: "Trump's comments contradict members of his own Cabinet and government and are the latest example of his reluctance to criticize Russia."
+    publishedDateTime: 2020-12-19T17:43:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/trump-downplays-russia-hack-first-comments-massive-breach-implicates-china-n1251813"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251813"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251813"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436956/201219-donald-trump-al-1201_cc2bfed051cfd5e2b83221935e1ccf78.jpg"
+        width: 3500
+        height: 2333
         isCached: true
 
 secured: "5CmD5toxwvRt1dE2K0YYpzYsJfB1U+4JVRMy5wbMRT3/9BJp7t7HJSCoXYy8HXX7WkBQvOqeNnOXX6e6JmJesIfY+4CvUZQwYDhK4HeEviPExCwCEL2KStfsv3jootue1swuVPSPkOTlPhGcmHTUpJBrwiTYSHnwLEbp7hT11yV4A+noC+mXUEEr8j1U/Wj9N+0lDdYdQN4eqFftrO4220zZimyt5UUHb8Jot03f2F0dtF0kHlS/hTRUqVs78hdpS69wr+f0iSeF8H6I99kbOP9KfJaILfZr4Tekg0GLMGtCNx0W84XAXUYvuhMth/kyaMWFG+5aYvZ57O4mKIEg6KkQRNYyH9ZSYa/zZDeFM/4=;PZ9Pob3L0DMEzU00kHQK8Q=="

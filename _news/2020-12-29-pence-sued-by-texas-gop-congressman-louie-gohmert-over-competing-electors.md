@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Pence-Sued-by-GO
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
 type: article
 quality: 124
-heat: 264
+heat: 284
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/18/PPHX/90e78252-af14-4f24-b779-430b38fed1e5-DW1_5247.JPG?auto=webp&crop=3522,1982,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "In another effort to challenge Electoral College votes, Rep. Gohmert sues Vice President Mike Pence"
+    excerpt: "Texas, sued Vice President Mike Pence in an attempt to challenge the results of some states’ Electoral College votes."
+    publishedDateTime: 2020-12-29T15:16:00Z
+    webUrl: "https://www.djournal.com/news/national/in-another-effort-to-challenge-electoral-college-votes-rep-gohmert-sues-vice-president-mike-pence/article_91089e35-5534-5e51-9995-3b8cf178cf92.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 41
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/d/ca/dca3aefb-1333-575e-8396-a718d1d12be2/5feb5315afded.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "E47ic/KNJnNeNt5aiY9CVJe4NhUD7IrI/B/Kv3sH1dtCvyFvDj1z1Pr3UCz7flski6zTFPnr4MwxNwJWA8fjoZMWeiSXml12W0XnBuKEnjQjRcfyXDoDrBiA/WD6iMHqEoHe/VaxtxEemJjsz0SgU342i1Lq0wtQc9RINui7b1OuHHVAYMhoiZ+cIJrbDqsK/TEO0tJn6e1P1jdpTvrthonYn6Nbwt151mUYXawplMzfi8OhiYFWVEm8SR5efznhhW2s7q80s9IbjLUQQLC9SPw/Aevkshura7MP/fa/0teUiJ69gPaYMuJp+V0NKchWX8t/zv/MEE9We9bVlGEquKrjJvTb8Y8Hj+f768LZjkU=;B5tuQy9m6zqhvXA53nNSFw=="

@@ -7,8 +7,8 @@ originalUrl: "https://www.politico.com/news/2020/12/22/biden-connecticut-schools
 webUrl: "https://www.politico.com/news/2020/12/22/biden-connecticut-schools-chief-education-secretary-449808"
 type: article
 quality: 115
-heat: -1
-published: false
+heat: 115
+published: true
 
 provider:
   name: Politico
@@ -28,88 +28,6 @@ images:
     width: 7360
     height: 4904
     isCached: true
-
-related:
-  - title: "Biden to deliver remarks on foreign policy and national security Monday"
-    excerpt: "President-elect Joe Biden is expected to deliver remarks on Monday afternoon after receiving a briefing from members of his national security and foreign policy agency review teams.\n    \n"
-    publishedDateTime: 2020-12-28T17:04:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/McBw0pKGjeE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/biden-foreign-policy-national-security-remarks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/biden-foreign-policy-national-security-remarks/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201224041533-01-joe-biden-1223-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden, Calling Stimulus Bill a ‘Down Payment,’ Urges More Relief"
-    excerpt: "The president-elect said he would ask Congress soon after his inauguration to pass an additional coronavirus aid package with more money for firefighters, police officers and nurses."
-    publishedDateTime: 2020-12-22T23:55:00Z
-    webUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/22/us/politics/22dc-biden/22dc-biden-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden looks to Susan Rice to elevate low-profile Domestic Policy Council"
-    excerpt: "\"Susan will elevate and turbocharge a revitalized\" council, Joe Biden said when he nominated the former national security adviser."
-    publishedDateTime: 2020-12-21T11:03:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/biden-looks-susan-rice-elevate-low-profile-domestic-policy-council-n1251851"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251851"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251851"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_51/3437064/201220-susan-rice-jm-1136_d7e184dab91c148e4afe840a6b58ea05.jpg"
-        width: 2500
-        height: 1670
-        isCached: true
-  - title: "Health care, policing and same-sex marriage: Joe Biden's domestic policy answers"
-    excerpt: "In one of his most consequential interviews, former Vice President Joe Biden told Meet the Press that his views on marriage come down to \"who do you love.\""
-    publishedDateTime: 2020-12-27T12:56:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/health-care-policing-and-same-sex-marriage-joe-biden-s-domestic-policy-answers-98420293932"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98420293932"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98420293932"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidendomestic_20122700__738195.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Russia, Afghanistan, Iraq: Joe Biden's foreign policy answers, through the years"
-    excerpt: "As a senator and vice president, Joe Biden spent his career developing relationships with foreign leaders. Meet the Press looks back at his answers to foreign policy questions over his decades-long career."
-    publishedDateTime: 2020-12-29T01:27:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/russia-afghanistan-iraq-joe-biden-s-foreign-policy-answers-through-the-years-98421829808"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98421829808"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98421829808"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenforeign_20122700__107131.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "4sb/En+3NdI9jpSYAtjSxN4e3v87wvlH8VrVDM9V0XBRTCV5S+RCcNblWsjm/jNU8ermcf+QcNsu9J1kS+lEPVh4KoOo7mXlULdXIrHaCoF1v3red3te9wGaZOt5s5u74l6giQE6qKu0GcPsxE0mI5PkbVUcnvqJaiIqThyOADuN0F5oBc/iCDYyDMgltdlWP+/5XkAeFEqvoYsUmjiIx1QeRL8GUssoq4Be6Bg5jHgXMhgr/4HvcMwYld0xVDN0J2RezO2JPZRLCQg951uzk6Er0r19S9kJ4IJAbL1BdeEtBcB9JyZXPtwmQyeLTwi1T1DOsUF/xrNRXIUo3hn34xdL4yC/xpae0uU0Qi+Vc8lHNfWtC7cQxSAfyYJCd5X6pqbq3kz3EZbg1Lqmo7FHLiyR0vTdvCyq4WPK2vqHLvi6DRNjAyxGGZVf5RbTRozcsGtpmHVp29Zkt296RInTaqpm9QahW0zcVBI3Q9mic/PjXCdIJ06WrQ1UbfsmkaluZEfMwlfc5QK89J/2MTeNbw==;mWXnYwe061m2NZzqMX02NQ=="
 ---

@@ -325,6 +325,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "54% of Americans disapprove of how Trump has handled his presidential transition, a new Insider poll shows"
+    excerpt: "Even 14% of respondents who voted for outgoing President Donald Trump said they disapproved of his presidential transition."
+    publishedDateTime: 2020-12-29T15:59:00Z
+    webUrl: "https://www.businessinsider.com/most-americans-disapprove-of-trump-transition-insider-poll-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/most-americans-disapprove-of-trump-transition-insider-poll-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/most-americans-disapprove-of-trump-transition-insider-poll-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5feb4b1eedf8920018094022?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Republican and Democratic lawmakers to Trump: ‘Sign the bill, Mr. President’"
     excerpt: "Republican and Democratic lawmakers urged President Trump Dec. 27 to sign the bipartisan stimulus bill, which sits at his Mar-a-Lago resort, as the government shutdown deadline loomed."
     publishedDateTime: 2020-12-27T22:07:00Z

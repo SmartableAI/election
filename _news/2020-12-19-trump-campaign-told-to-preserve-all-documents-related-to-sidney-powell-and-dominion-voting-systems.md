@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Four key ways Barr broke with Trump at the attorney general's news conference"
-    excerpt: "Two days before he leaves the Justice Department, Attorney General William Barr offered his sharpest rebuke to date of President Donald Trump's baseless allegations surrounding the election result, rejecting Trump's efforts to act on the conspiracy theories the President has embraced to explain his loss"
-    publishedDateTime: 2020-12-21T22:13:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5F0DS3L1D0g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/barr-news-conference-break-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/barr-news-conference-break-trump/index.html"
+  - title: "Lev Parnas files motion to dismiss, says he was selectively prosecuted to protect Trump"
+    excerpt: "Lev Parnas, the indicted associate of Rudy Giuliani, has filed a motion to dismiss the campaign finance charges against him, arguing he has been selectively prosecuted and blocked from providing information to lawmakers seeking to impeach President Trump.\n    \n"
+    publishedDateTime: 2020-12-22T22:53:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cAGtCoMlCPc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/lev-parnas-motion-dismiss/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/lev-parnas-motion-dismiss/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221144127-bill-barr-presser-1221-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200117002642-lev-parnas-ucrania-juicio-politico-trump-giuliani-pkg-ione-molinares-dusa-00014113-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

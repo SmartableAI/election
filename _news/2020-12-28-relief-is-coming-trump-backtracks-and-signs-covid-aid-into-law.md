@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252404"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252404"
 type: article
 quality: 135
-heat: -1
-published: false
+heat: 155
+published: true
 
 provider:
   name: NBC News
@@ -32,35 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Congress: A crisis averted and House votes Monday on overriding Trump's veto"
-    excerpt: "The President signed the massive spending and stimulus package Sunday night, bringing Washington back from brink of what may have been a weeks-long government shutdown and potentially months of more pain for millions of Americans who need expanded unemployment benefits, small business loans, a federal"
-    publishedDateTime: 2020-12-28T13:21:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tNxmHKjxec8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/congress-state-of-play-ndaa/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/congress-state-of-play-ndaa/index.html"
+  - title: "Stanley Chera Was a Mogul Who Made Covid-19 Personal for Trump"
+    excerpt: "The Lives They Lived The Lives They Lived By Jamie Lauren Keiles Shortly after his Covid diagnosis — fever spiking, hooked up to an oxygen tank — Donald Trump reportedly wondered aloud to an aide, “Am I going out like Stan Chera?” Like so many ..."
+    publishedDateTime: 2020-12-23T10:33:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/12/23/magazine/stanley-chera-death.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218141833-pelosi-mcconnell-vaccine-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump White House staffers receive conflicting messages about their departure"
-    excerpt: "Staffers were first told that they “will start departing” on the week of Jan. 4. They were later told to disregard the memo."
-    publishedDateTime: 2020-12-23T15:53:00Z
-    webUrl: "https://www.politico.com/news/2020/12/23/trump-administration-departure-instructions-450224"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 112
-    images:
-      - url: "https://static.politico.com/3a/3e/15b2eb6a411c9a5bc9b5c85aa4f0/ap20352044803772-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2020/12/27/magazine/27mag-chera/27mag-chera-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "SJY0Xise1MRWmBU9F2/02KcrSzHxNijiJjUT4E670oDwl+MQBZasZgOq9RgCvIvNUAdmNJkykN+9uSkb+sF7N5+5aQupTXv9TVKYq0rhVYPkGM7IraUcZze0h6+kLRJEefSQg2EJXnU8NM0d3V2a8ghLb4QQkgduOZeojjQlDHH55LqomP/BgkQEpQlXKIwpVox9bUaYfqf3hu+R1vRhBmIOdC6MJm789/uVCzgVJQ/2kselYK16S/7foNt9Hw1+ls3KUc2aD9ZmlOhJjhWwlaczzG7XXSK/00+ELQ79rbHSluyKqzpsyeGeoUqr/wy6RcSoEJwNkRAdjvWrycUa4VOZDkTqxAFu9NeGZzwryBw=;hz/xsY/mM9UeSx1V5Q63bQ=="

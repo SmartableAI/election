@@ -30,37 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump opens up federal dollars for private school vouchers amid pandemic"
-    excerpt: "The White House said that the order would give states new flexibility in how they use federal block grant programs that provide money for a wide range of community services."
-    publishedDateTime: 2020-12-29T01:24:00Z
-    webUrl: "https://www.politico.com/news/2020/12/28/trump-private-schools-pandemic-451757"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757"
+  - title: "Relief is coming: Trump backtracks and signs Covid aid into law"
+    excerpt: "The president's last-minute decision will restore enhanced unemployment assistance that expired Sunday and avert a shutdown that would have begun Tuesday."
+    publishedDateTime: 2020-12-28T12:37:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/relief-coming-trump-backtracks-signs-covid-aid-law-n1252404"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252404"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252404"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 134
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://static.politico.com/d2/36/af02c71045b48e9bd5687ed719b2/ap20066831578298-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Quotation of the Day: Thousands Await Word in Prison as Trump Frees a Privileged Few"
-    excerpt: "President Trump has pardoned friends and fellow Republicans while thousands without connections, like Mr. Knock, have largely been left out. Advertisement"
-    publishedDateTime: 2020-12-29T06:05:00Z
-    webUrl: "https://www.nytimes.com/2020/12/29/todayspaper/quotation-of-the-day-thousands-await-word-in-prison-as-trump-frees-a-privileged-few.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/29/todayspaper/quotation-of-the-day-thousands-await-word-in-prison-as-trump-frees-a-privileged-few.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/todayspaper/quotation-of-the-day-thousands-await-word-in-prison-as-trump-frees-a-privileged-few.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 128
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438297/201228-trump-relief-mc-829_7c831580b729a43ac8a93b04080975e8.JPG"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "HzS8oWGTm9s48nkRjvwNhxRuhYnGHs5kxgWvAW4O1f/V9t3n8+rouQuoi0wXv8Yaxz36ojzcS84AwSWo/lHbaqwpD/xOs3VnKsPAGfU6BVIRyo0N4TxucA08AkMYLGQdBXVt+mkW5sbr+zL3awDgbIrLztU1YAOrpVuXa5zrKCQcDX+xe1+Jmu1LfBhrDonxYLzbcbiclNfX6hZIoItlXjZ+wJGA6ny2u8++9EHosnVwd/utvS8UUpsrH4jDYTPQVZr1eUTcdXeK9Qfh4wjV1uFr2cWZERHPyw/rJY83QEKxgkULFR5JZ83AlzJq2bOf9vXNOehmJTyL+E7zuv7ToaOx9EM33WG+7uPx6fJh/DKGhJL5r9IKnTibNP7Y5JYObppRcPoUv/7tQ5vTaAERW80eHLOLvh9rx/v9AAYvE2dxc1ufuPIZjfTjBSoqrBa1GXV0Uy48h3iP21FOgXIlim7r6fBs0TvCmbjtQ5/LK3KkmpuZvV4i4Qqfywt+Dp6X6XYGhdJGxl/sbL9ZVYn6pQ==;C1eWLun6BMUfCBBw+hO62w=="

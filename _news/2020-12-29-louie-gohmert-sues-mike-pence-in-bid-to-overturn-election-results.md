@@ -135,6 +135,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "In another effort to challenge Electoral College votes, Rep. Gohmert sues Vice President Mike Pence"
+    excerpt: "Texas, sued Vice President Mike Pence in an attempt to challenge the results of some states’ Electoral College votes."
+    publishedDateTime: 2020-12-29T15:16:00Z
+    webUrl: "https://www.djournal.com/news/national/in-another-effort-to-challenge-electoral-college-votes-rep-gohmert-sues-vice-president-mike-pence/article_91089e35-5534-5e51-9995-3b8cf178cf92.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 41
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/d/ca/dca3aefb-1333-575e-8396-a718d1d12be2/5feb5315afded.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "nbaplEyfUED5PHmudEkC5mHGGTpiZUHyGeHU03w9X/KqJ+34LkzMi9WJqi1R5ENAp/EhQpYoQQx3d+qASfTKb6b6sNgCAbZ3XW65XJt8ZFHdvpC7EuCgntOcTMqfoe7PTVBlIcsMTxuE2PCvJt8Am/Fezg5KFmyEMPZb2PHojzcWKD9tdnistYqjLsLse2pHZZv+fQXy7Mwd5RxurDAC+Z2g57gmrNBTZYJxKn+SoUoRzq/U8m17SobG1KgN0ToyN2jpiHoiwfFXZYbgLtJbQBUTR48gWlXqFrOKj3ZUTzgY/Fug0zqyJtY9Wo4UJJTvCGUF5ZJIKKUlAWOK9frLnQ/ghRKrBQMeoQdq/CkKKiMNvPTAnv+sMn6ON3roxgD3cAwA2yQu1+4nC0ggBKHpKYDyPObbCMASwfe5jTt14weJVGg/o/XCqNXXjVOHqxCyFj231jJZpPGO9A2YWyOhru8pBbXUnOpXodpSc/IFe8XeOWvIerC/PYtRdGjqk5tP1p7LjiAflsRWRGJrditIaA==;WG5CUnUDg6slRsP+6XGyRA=="
 ---

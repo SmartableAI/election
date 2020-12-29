@@ -112,6 +112,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump Pardons Two Russia Inquiry Figures and Blackwater Guards"
+    excerpt: "Christmas wave of 20 pardons and commutations are not likely to be the last before Mr. Trump leaves office on Jan. 20."
+    publishedDateTime: 2020-12-23T00:08:00Z
+    webUrl: "https://www.nytimes.com/2020/12/22/us/politics/trump-pardons.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/politics/trump-pardons.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/politics/trump-pardons.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/22/us/politics/22dc-trump-pardons/22dc-trump-pardons-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump downplays cyberattack on U.S., breaks with Pompeo on Russia's role"
     excerpt: "The president ended his public silence hours after his secretary of State pinned the blame on the U.S. adversary."
     publishedDateTime: 2020-12-19T21:18:00Z

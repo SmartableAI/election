@@ -2,11 +2,11 @@
 category: news
 title: "Fate of Trump's $2,000 checks now rests with GOP-led Senate"
 excerpt: "President Donald Trump ’s push for $2,000 COVID-19 relief checks now rests with the Senate after the House voted overwhelmingly to meet the president's demand to increase the $600 stipends, but Republicans have shown little interest in boosting spending."
-publishedDateTime: 2020-12-29T05:34:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943951"
-webUrl: "https://abcnews.go.com/Health/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943951"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943951"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943951"
+publishedDateTime: 2020-12-29T09:23:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
+webUrl: "https://abcnews.go.com/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
 type: article
 quality: 125
 heat: 265
@@ -144,6 +144,6 @@ related:
         height: 600
         isCached: true
 
-secured: "zhyCBufU6ZROEFp5NoF0AWUEXcJ81kPLJ/LAg+ptkSMMoHgS+z/c+I6q45GreCt/TtQolR+oIeSfYd/+RxdReRaH9sJaU9oLbD1BTYLyufBxLCVXofMzNTtJqIhsAnRVowv3UUSaE16A+joWpW1/G6/m+RO8O+GSoaeKj0sNbZAYvUmTnoff3Qsc/UXT1h2NDJbvw2hprScVHVEgR5Jbj/+v+TiCWBrCVnXSHBUl2x+9h7OUgrjPlnXQ+//lFDJKyAXNp8K3NKWwhskcg1hI+u5XaVZnlS43NhMgoc1nGzrV+XmRQ8xf2xBsQ1qkTQkMWNy6LVeZE08NagTTOmhch3yE0belVfizg5hXswLelmM=;BPN9S4Es1sSPROlJM5mHqw=="
+secured: "Xdr8fZONaj61TmpDI0/tW7lSiy4j1tPjhwk0Qh8Rv5k93te3T0nw/a/uxBeZTpTGuk/+hp7XQb+amOqV/vp+zogIQwZTDx7zwwFe1Cu9pCjNPquJNQOIQ/D5aaepdtAsnuTh6l2e2purN16eQt0A4FppQC0/iTz5UT8IdA+EOuHR1/zI8E0o5ka//qciy2E+hSgKVb7oTvNBDuKb2cix/SOh/1xWmoU8QuZr1+fnexGu6MDON25sB7uG0rrILUeCAMgKzxqGewOkNQssNwiHG4Bhkcx2yBpqZxlAM//0SQESaGyYrZwXhe1KhdK4i8J91G/GospagUmucGc79JtDtSmYb4MunFl+srlLe9mMreM=;OsMmq/s2wv0DM/lcDAcO+A=="
 ---
 

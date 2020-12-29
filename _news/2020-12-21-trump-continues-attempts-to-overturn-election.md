@@ -935,6 +935,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Just how much of a rebuke to Trump is Congress’s veto override?"
+    excerpt: "Republicans in Congress are about to hand President Trump the biggest legislative loss of his presidency by helping Democrats override a Trump veto for the first time. On Monday, the House of Representatives overwhelmingly voted to override his veto of what is normally a broad bipartisan defense bill."
+    publishedDateTime: 2020-12-29T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/29/just-how-much-rebuke-trump-is-congresss-veto-override/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/29/just-how-much-rebuke-trump-is-congresss-veto-override/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/29/just-how-much-rebuke-trump-is-congresss-veto-override/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5MS2EGCJLAI6XF5WJ247OL7UNM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump is still pinning his hopes on one last lawsuit in Michigan to overturn the presidential election"
     excerpt: "President Donald Trump said a report written by his allies in a lawsuit over a small Michigan county's Marijuana measure reveals \"massive fraud.\""
     publishedDateTime: 2020-12-17T00:08:00Z

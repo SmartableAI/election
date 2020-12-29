@@ -32,53 +32,133 @@ images:
     isCached: true
 
 related:
-  - title: "Supreme Court throws out challenge to Trump's plan to exclude undocumented immigrants from census count"
-    excerpt: "The Supreme Court on Friday threw out a challenge to President Donald Trump's bid to exclude undocumented immigrants from being counted when seats in Congress are divvied up between the states next year.\n    \n"
-    publishedDateTime: 2020-12-18T16:23:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N5wnCqzRAuA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/supreme-court-census-undocumented-immigrants/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/supreme-court-census-undocumented-immigrants/index.html"
+  - title: "Here's what happens if Trump doesn't sign the $900 billion relief package"
+    excerpt: "Though Congress has passed a $900 billion Covid relief package, millions of Americans are in danger of losing important benefits just after the holidays if President Donald Trump continues to refuse to sign the bill.\n    \n"
+    publishedDateTime: 2020-12-24T18:34:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8ibSlxj5Qo8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/covid-relief-bill-programs-expiring/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/covid-relief-bill-programs-expiring/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 159
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217193803-supreme-court-201212-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201224113207-01-eviction-order-phoenix-oct2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Supreme Court throws out challenge to Trump census plan to exclude undocumented immigrants"
-    excerpt: "This case is riddled with contingencies and speculation,” the court said in a short, unsigned opinion, referring to the states' challenge."
-    publishedDateTime: 2020-12-20T00:59:00Z
-    webUrl: "https://www.nbcnews.com/politics/supreme-court/win-trump-supreme-court-throws-out-challenge-his-census-plan-n1251698"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251698"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251698"
+  - title: "Four key ways Barr broke with Trump at the attorney general's news conference"
+    excerpt: "Two days before he leaves the Justice Department, Attorney General William Barr offered his sharpest rebuke to date of President Donald Trump's baseless allegations surrounding the election result, rejecting Trump's efforts to act on the conspiracy theories the President has embraced to explain his loss"
+    publishedDateTime: 2020-12-21T22:13:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5F0DS3L1D0g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/barr-news-conference-break-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/barr-news-conference-break-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221144127-bill-barr-presser-1221-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Full Panel: Trump downplays widespread U.S. security breach"
+    excerpt: "Hallie Jackson, Yamiche Alcindor and Rich Lowry join the Meet the Press roundtable to discuss President Trump's response to a massive hack of government agencies and businesses reportedly tied to Russia."
+    publishedDateTime: 2020-12-20T14:55:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-panel-trump-downplays-widespread-u-s-security-breach-98115141679"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98115141679"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98115141679"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 125
+    quality: 135
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_36/3306571/200413-census-poster-coronavirus-ac-505p_ae7532cbbf8350ffcd49b8f899c75c2a.jpg"
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/1608475557148_mtp_full_panel_201220_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Live Updates: Trump Signs Stimulus Bill, but Unemployment Lapses"
+    excerpt: "The measure extends larger unemployment checks and an eviction moratorium, and it gives states billions of dollars to help distribute the coronavirus vaccine."
+    publishedDateTime: 2020-12-28T14:08:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/28/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/28/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/28/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/28/us/politics/28transition-briefing-trump-bill/28transition-briefing-trump-bill-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Trump Signs Pandemic Relief Bill After Unemployment Aid Lapses"
+    excerpt: "After calling the measure a “disgrace,” President Trump unexpectedly signed the bill, extending expanded unemployment benefits and an eviction moratorium, and keeping the government open."
+    publishedDateTime: 2020-12-28T08:35:00Z
+    webUrl: "https://www.nytimes.com/2020/12/27/us/politics/trump-signs-pandemic-relief.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/27/us/politics/trump-signs-pandemic-relief.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/27/us/politics/trump-signs-pandemic-relief.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/25/us/politics/25dc-stimulus-signed-hfo/25dc-stimulus-signed-hfo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Wall Street hits record levels after Trump signs fiscal aid bill"
+    excerpt: "\"The passage of the stimulus bill is erasing some fears, and investors are relieved that there is help out there,\" said one economist."
+    publishedDateTime: 2020-12-28T19:26:00Z
+    webUrl: "https://www.nbcnews.com/business/markets/wall-street-hits-record-levels-after-trump-signs-fiscal-aid-n1252438"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252438"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252438"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438387/201228-new-york-stock-exchange-jm-1356_9ab6522bdf53895963efa350fdd587e2.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "In win for Trump, Supreme Court throws out challenge to his census plan to exclude undocumented immigrants"
-    excerpt: "This case is riddled with contingencies and speculation,” the court said in a short, unsigned opinion, referring to the states' challenge."
-    publishedDateTime: 2020-12-18T15:49:00Z
-    webUrl: "https://www.nbcnews.com/politics/supreme-court/win-trump-supreme-court-throws-out-challenge-his-census-plan-n1251698"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251698"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251698"
+  - title: "Trump opens up federal dollars for private school vouchers amid pandemic"
+    excerpt: "The White House said that the order would give states new flexibility in how they use federal block grant programs that provide money for a wide range of community services."
+    publishedDateTime: 2020-12-29T01:24:00Z
+    webUrl: "https://www.politico.com/news/2020/12/28/trump-private-schools-pandemic-451757"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 134
+    images:
+      - url: "https://static.politico.com/d2/36/af02c71045b48e9bd5687ed719b2/ap20066831578298-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "In reversal, Trump signs spending bill, unlocking Covid aid and averting shutdown"
+    excerpt: "Pandemic unemployment benefits expired Sunday after the president delayed approving the bill and confusion reigned in Washington."
+    publishedDateTime: 2020-12-28T07:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/covid-unemployment-benefits-expire-after-trump-refuses-sign-aid-bill-n1252392"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252392"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252392"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 117
+    quality: 130
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_36/3306571/200413-census-poster-coronavirus-ac-505p_ae7532cbbf8350ffcd49b8f899c75c2a.jpg"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_52/3438232/201227-donald-trump-jm-1144_83f666683aa031d9a8bf2016f8fe7607.jpg"
         width: 2500
-        height: 1667
+        height: 1666
         isCached: true
 
 secured: "K6Lhjv3N3SNNdlYCASMrYaJI047Ufs00gyA2RZRYVUDHXkpXCw1/rLNcQw/2/olm0FG8TZ/U0yI5pV/8W/PVhCjdbPz1ayMawsQjMXVVFwEEb0zv/Q7ZwYHgUS0Gf8+/eKAfdQmgtGZ9jG6/VmVhtQNScmGn6KpLtWKtauJCdsKfIDb8s5sPB09DcbpgmAOI08yyIaFiQYpQ8QfeQuMW5i5gqzA48pa4bFeMJWuwhzDRi5ekL4RYvaFhiut4TSYoMkq3kVF1Y8LNiokvlC//bdIr/Qo67uul7h8Cth8hV4efTdSQYK5TEuxRC5tNrsSBjzUQ84pypWFW5h/EfGXQWHwrKTl5j6utuEU1SDpJc/TU/hD3vJvz1kqKnLbqg30geV00j2qOHv4TBBMSVCcjkWAGey/6E7dkEUJMrtUg5tL2VYCo8l0GJYzrpXB+jkJQRStjwKl2QXoUoZf7za70Dyc6WW7evDriP6dHt/G3kRah3aZS2lp28xoEVVJ7A1o11cgDtYt/2THASstQXSe91A==;ccocli2MmwK9fBiWblcm/g=="

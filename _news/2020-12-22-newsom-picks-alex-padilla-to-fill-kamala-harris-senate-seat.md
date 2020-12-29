@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris to receive Covid-19 vaccine Tuesday "
-    excerpt: "Vice President-elect Kamala Harris is expected to receive the first dose of a Covid-19 vaccine on Tuesday, according to the Biden transition team.\n    \n"
-    publishedDateTime: 2020-12-29T10:00:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ERdQBFizyAA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/kamala-harris-covid-vaccine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/kamala-harris-covid-vaccine/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 185
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203235547-kamala-biden-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Alex Padilla to fill Kamala Harris' Senate seat, first Latino to represent the state"
     excerpt: "Padilla was considered by many Democrats in the state a shoe-in for the job, given that he and Gov. Gavin Newsom have known each other for decades."
     publishedDateTime: 2020-12-22T18:33:00Z
@@ -63,6 +47,20 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_52/3429311/201118-alex-padilla-al-1302_db4e7b1cb765202eebe4ffb127a9ec09.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Kamala Harris receives coronavirus vaccination"
+    excerpt: "Vice President-elect Kamala Harris received a coronavirus vaccination on Tuesday in Washington, joining President-elect Joe Biden, Vice President Mike Pence and other leaders who have been inoculated."
+    publishedDateTime: 2020-12-29T16:51:00Z
+    webUrl: "https://www.politico.com/news/2020/12/29/harris-receives-coronavirus-vaccination-451886"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/60/e0/d835fb834c99bdf5803f3ef2acfd/harris-vaccine-773-ap.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "mZwvCTOdPJ0IoiBy+WzOMEyPLMsX8UuCbHYvAgYQfo1Y59n7vx+SgfjRC0bETpqcoDM5aWdsQ01yBMrNYKa4ci0HvLmdJINO9oQ2KQoZUe66/dAixLBVlfhXmg7xR876q69fhXDw7OyM8ogl1aUQoffd7XOTX/mHPALkaSX20GssCmIlza2VaXVtJf9BDP/61BJGc6P2mX3k2h7ItGgXfL5owfzbeez+0Jz6lUoPPO4lwOxBxKUYRntBJi2VFXDXjOdyZKKxD2PTQFxGcLA5utDaKeE154Z1DDNy6Kghfr1Uat2cPirxYnGUkO+m2roZd4bTPx9k+LS4FLdtkKaEL4Gp+khYTyCHgQNRgx+Wljw=;wTP9Uu1jP/dz6pwoCvmYSg=="

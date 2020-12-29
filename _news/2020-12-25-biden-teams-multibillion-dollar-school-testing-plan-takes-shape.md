@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Leading a divided country: Joe Biden's approach to unity"
+    excerpt: "Over years of interviews, President-elect Joe Biden explains his views on how to work with Republicans and Democrats during a time of divided government."
+    publishedDateTime: 2020-12-27T13:07:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/leading-a-divided-country-joe-biden-s-approach-to-unity-98438725756"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98438725756"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98438725756"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenkindofprez_2012270.jpg"
+        width: 1920
+        height: 1090
+        isCached: true
 
 secured: "5UU/+vXeFpdhnkenKN80b8+DIy54E656mdIaKoI6GpdwvXYvhuZVFOV1u4a0maClpVnltRo0O0IhOL42tLQjaY9+ACDNP4gzv/O1tuzMTvJYd0kf4b8R9G7CAmLqn//RHPwCxKIgleBhrvg/Do8Ij3KyVhiJ8LhnRK8aWGNsG99AOLnABlvE5C5JN6M7OJNAOhOzDoBqrDpMJjdlvDAgcNdMcNZnMra0r/v91CMYeaCYGRFreJUzcrDQHB7Dv7UhqxPEL7vHd7uN43nk37bKvPMlmrL7t6wUUEolZxIloO8NrkveWpRVyvGOo4HMUOVyCUSEUlRBGfPcddhmlU06J7wqulHgBKki+WGV4YdliEYJu+1hWMrX6lnak/oyfpInzRCqH+gX5lNiiLktJi4Sxdhqo6DcRE54XsLMIV8FcV+mu+px1bQGGFsELG32HlZhlqK+mI16BmBiuJbjzzjKAJlIEn3BDUqG3mkqZ9NrHNHkcrYfmETikYVav1oUpHk4hw3NLurnQiG5lPG8HVwglg==;RJ0gnkOPoiQWMSvknn+IlQ=="
 ---

@@ -96,6 +96,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump is more erratic than ever with final days in sight"
+    excerpt: "It turns out there are no silent nights in the Trump era.\n    \n"
+    publishedDateTime: 2020-12-24T06:21:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bfFST-oCT-k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/donald-trump-pardons-veto-final-days/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/donald-trump-pardons-veto-final-days/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223152853-01-trump-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pentagon anxiety rises as officers wait for Trump's next unpredictable move"
+    excerpt: "It's like a low murmur just below the surface. \"We don't know what he might do,\" says one officer in the Pentagon. \"We are in strange times,\" says another officer. Some senior military officers are trying to steer clear of the White House for the next month, rather than be in the President Donald Trump's"
+    publishedDateTime: 2020-12-22T10:00:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NF06xO7e4Dw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/pentagon-anxiety-trump-final-days/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/pentagon-anxiety-trump-final-days/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215172845-02-pentagon-building-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump lauded, then derided Barr. A look in inside the attorney general's tumultuous term. "
     excerpt: "At his confirmation hearing nearly two years ago, Attorney General William Barr boasted that there was an advantage to putting him in charge of the Justice Department -- he could afford not to care about the consequences of his decisions.\n    \n"
     publishedDateTime: 2020-12-23T20:48:56Z
@@ -143,6 +175,36 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209084134-alex-azar-hhs-vaccine-distribution-newday-camerota-vpx-00000412-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "How Trump Has Jeopardized Stimulus Relief"
+    excerpt: "The president’s demand that Congress amend a giant coronavirus relief and government spending bill has raised the unexpected prospect that help may no longer be days away."
+    publishedDateTime: 2020-12-23T20:30:00Z
+    webUrl: "https://www.nytimes.com/2020/12/23/us/politics/trump-covid-stimulus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/23/us/politics/trump-covid-stimulus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/23/us/politics/trump-covid-stimulus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/23/us/politics/23dc-stimulus-explainer-sub/23dc-stimulus-explainer-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Time winds down for Trump to veto NDAA"
+    excerpt: "The deadline has arrived for President Donald Trump to veto the defense bill and call Congress’ bluff to override him. — The president pardons private contractors convicted in the massacre of Iraqi civilians."
+    publishedDateTime: 2020-12-23T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2020/12/23/time-winds-down-for-trump-to-veto-ndaa-792486"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "9GtoJft6gCHoOG8X6zT04n599noklPFto1W9SevISH0kBT2OIpS3Ny40GxeMpUVB6W5lskg4zsPz0Kf/AIH538nN6RiureFHnWZTFeCVbcdhdQcSQfftNZnSfGxr2icneYPqltKwSOK2wZioxXRKf21O0LsgHG8aD1xhP9+cHtAYHFM+wigF/Hl3/nbUU0xJBydXkW1A107npahmFcwEcluJaQzs0QVCZCpYzlMprhzLITW96uEQKPreyUuiSyGJy0rCYmYHgtaDkDTfv32sWh4U5SuHoqYojPqqnZWJeYGWQ3aXSAPNkPgJifIfXWlbmwvpgbYMqOiKTweBRyVPKPK9FJqes4V8gECnGGRgP7acGDLtPWFhnaMgGlaZj0ebZsm9TWPUxurQex74gCEokDAvACYVRW02CY4a0yqHfm+mhE3y4wMOuH1HrkguUFtzNWiFV+ccOzs4lTt2sNLkZorsQZDd2z45LDR+cRX9dQRy5IIcX9GD+3nLnsw5nHVzX9mCB6g9chc+JFYdOjIt+g==;58bEaEHqgZkh2ByrirAgUA=="

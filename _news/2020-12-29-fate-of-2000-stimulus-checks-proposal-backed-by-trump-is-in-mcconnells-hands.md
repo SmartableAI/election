@@ -33,10 +33,10 @@ images:
 related:
   - title: "Fate of Trump's $2,000 checks now rests with GOP-led Senate"
     excerpt: "President Donald Trump ’s push for $2,000 COVID-19 relief checks now rests with the Senate after the House voted overwhelmingly to meet the president's demand to increase the $600 stipends, but Republicans have shown little interest in boosting spending."
-    publishedDateTime: 2020-12-29T05:34:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943951"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943951"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943951"
+    publishedDateTime: 2020-12-29T09:23:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
     type: article
     provider:
       name: ABC
