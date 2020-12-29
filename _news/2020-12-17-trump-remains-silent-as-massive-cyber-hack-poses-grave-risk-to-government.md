@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/trump-silence-cyber-hack
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/trump-silence-cyber-hack/index.html"
 type: article
 quality: 173
-heat: 193
+heat: 213
 published: true
 
 provider:
@@ -31,19 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's veto of massive defense bill sets up possible override vote next week"
-    excerpt: "President Donald Trump on Wednesday vetoed the sweeping defense bill recently passed by Congress. He had previously threatened to do so because it doesn't include a repeal of Section 230, a law that shields internet companies from being liable for what is posted on their websites by them or third parties.\n"
-    publishedDateTime: 2020-12-24T03:13:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ydo-xVf8rFk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/trump-ndaa-veto/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/trump-ndaa-veto/index.html"
+  - title: "Pentagon under pressure from Trump administration to split NSA and Cyber Command"
+    excerpt: "The Trump administration is pushing to make major adjustments to the Pentagon organizations charged with cybersecurity and signals intelligence, according to a US defense official.\n    \n"
+    publishedDateTime: 2020-12-20T01:59:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAgg3jyefCs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222011052-donald-trump-1212-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130128052250-pentagon-aerial-shot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Congressional backers cite cybersecurity provisions as they push Trump to sign defense bill"
+    excerpt: "The massive defense bill that President Donald Trump is threatening to veto contains provisions for increased cybersecurity, which has taken on significantly more importance in the wake of a massive cyberattack on federal agencies at the hands of suspected Russian hackers.\n    \n"
+    publishedDateTime: 2020-12-18T20:32:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RZrYuDIW11A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170513225821-cyberattacks-ransomware-latest-sebastian-lklv-00002816-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

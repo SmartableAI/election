@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4052084001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052084001"
 type: article
 quality: 128
-heat: 668
+heat: 688
 published: true
 
 provider:
@@ -286,6 +286,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/78fb4e3d-b8ac-49b6-96f6-feb144f2bde4-AP_Biden.jpg?auto=webp&crop=5111,2875,x122,y196&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Congressional Dems move forward on $2,000 checks after Trump signs COVID relief bill"
+    excerpt: "Trump caved his on demands and signed the COVID relief bill, but it's unclear if efforts by Democrats to approve increased relief payments will make it out of the Senate."
+    publishedDateTime: 2020-12-29T01:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/congressional-dems-move-forward-2000-checks-trump-signs/story?id=74934167"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/congressional-dems-move-forward-2000-checks-trump-signs/story?id=74934167"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/congressional-dems-move-forward-2000-checks-trump-signs/story?id=74934167"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/washington-gty-jc-201228_1609176677117_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump signs stopgap funding bill; Congress awaits his approval of $892 billion COVID aid"
     excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week while Congress passed a massive COVID-19 aid and government funding package overnight aimed at bolstering the nation's pandemic response and its battered economy."

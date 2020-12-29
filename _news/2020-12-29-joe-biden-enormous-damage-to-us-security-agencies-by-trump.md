@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden: 'Enormous damage' to US security agencies by Trump"
-excerpt: "Video caption Agencies critical to US security have suffered \"enormous damage\" at the hands of the Trump administration, US President-elect Joe Biden has said. Mr Biden said his team was not getting the information it needed,"
+excerpt: "Agencies critical to US security have suffered \"enormous damage\" at the hands of the Trump administration, US President-elect Joe Biden has said. Mr Biden said his team was not getting the information it needed,"
 publishedDateTime: 2020-12-28T22:23:00Z
-originalUrl: "https://www.bbc.com/news/amp/world-us-canada-55470625"
-webUrl: "https://www.bbc.com/news/amp/world-us-canada-55470625"
+originalUrl: "https://www.bbc.com/news/world-us-canada-55470625"
+webUrl: "https://www.bbc.com/news/world-us-canada-55470625"
 ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55470625"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55470625"
 type: article
@@ -385,6 +385,6 @@ related:
         height: 683
         isCached: true
 
-secured: "a7W5K/XZ4c7whcV2qUV2qddkm/ZrrrDdjN4lUOzZE6IKTBj0a8NEWRhkPIH7U/V3fkdAe+5DxeaBC2rJttcBjurM5723YGJ/0K759RSex3cNh50ZtUjUQTaEyOyQzA3Nw5nLG0LbSYTTdoRjDkzNPeyZUkTiTkE2IPXooolZDUG40gjI5Fke4+PE7rYwuD6K+bLy19aIA7ZPVe9krMjqGe5XXAZhDl6VA01KqOqBgaB3FJU5TVarUy5jx9iYcJXIX083RTfeEpnjJrbH48QVjuM76uJQVyfC+R/8ONSDtyOOEeOoL4/IS0G2xztNJwPrOO1ZwZR74kdXm8/KWCumVn3Pc8JCfhdQh0ZFurMStrw=;h20nNxq87aoI4BpcLng95w=="
+secured: "wTkLgu1TKaunGx7uIwJfw6nuqihm/fNYVgMTqlKWXI74AxGO7GBBNAeDtbxL/UdsApTrl6/HfRrFzkBS0PZ8oRDYXgj00MhNuT59KT8dNq1ipkGvDGI8yXwocufrs9AMbmVF+FNGl2ScRzqf+N1tDUk02gMycomq/SDoZk/tAZMW9k/k3Kh6AlAAgkD4NusO8ulG64KBaA1pslltKL0SDsohzB2ufvbaCBTmqBXRlfJtNHh07fnGj5usLcsTgjaIbfC/yt3AjcyiRE0H17muDL6FRoyPhAfk4ikZxlXKtevBW1PCGwSwNqV5s86RRQXjKHtM8Spi93JaybMocub9NB6N6jlHc6Gryy7wfa/BdkQ=;cJRMLGo4SgfmPSmDogXlug=="
 ---
 

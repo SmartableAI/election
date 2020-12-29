@@ -364,10 +364,10 @@ related:
     quality: 105
   - title: "U.S. House approves $2,000 coronavirus aid checks sought by Trump"
     excerpt: "The Democratic-led U.S. House of Representatives voted 275-134 to meet President Donald Trump's demand for $2,000 COVID-19 relief checks on Monday, sending the measure on to an uncertain future in the Republican-controlled Senate."
-    publishedDateTime: 2020-12-28T23:25:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-checks-idINW1N2IO05X"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINW1N2IO05X"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINW1N2IO05X"
+    publishedDateTime: 2020-12-29T04:00:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-checks-idUSW1N2IO05X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2IO05X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2IO05X"
     type: article
     provider:
       name: Reuters

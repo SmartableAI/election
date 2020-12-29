@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-17-north-carolina-gop-lawmaker-urges-trump-to-suspend-civil-liberties-to-keep-power-invoke-the-insurrection-act.md",
+      "title": "North Carolina GOP lawmaker urges Trump to suspend civil liberties to keep power: ‘Invoke the Insurrection Act’",
+      "excerpt": "Republican North Carolina state Sen. Bob Steinburg said President Trump should declare a national emergency, suspend civil rights, and remain in power over his baseless claims of electoral fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HUCAGLB7IAI6XNMLCYR7MJTZMA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/?outputType=amp",
+      "publishedDateTime": "2020-12-16T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-trump-names-usps-board-nominee-potentially-solidifying-gop-control-of-mail-service.md",
+      "title": "Trump names USPS board nominee, potentially solidifying GOP control of mail service",
+      "excerpt": "Roy A. Bernardi, a former HUD official, would become the fifth Republican on the nine-member board of governors if he wins Senate confirmation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/2020/12/16/usps-trump-board-governor-nominee/",
+      "originalUrl": "https://www.washingtonpost.com/business/2020/12/16/usps-trump-board-governor-nominee/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QIGBL5X6QQI6VMHEGUHE4YGMSE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/2020/12/16/usps-trump-board-governor-nominee/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/12/16/usps-trump-board-governor-nominee/?outputType=amp",
+      "publishedDateTime": "2020-12-16T10:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-how-far-did-ron-desantiss-loyalty-to-trump-go.md",
       "title": "How far did Ron DeSantis’s loyalty to Trump go?",
       "excerpt": "When Ron DeSantis ran for governor of Florida in 2018, he made a politically savvy decision: He would be the most pro-President-Trump candidate possible. He popped up on Fox News repeatedly, understanding that it would be an effective way to get Trump’s attention.",
@@ -155,6 +259,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-like-a-hand-grasping-trump-appointees-describe-the-crushing-of-the-cdc.md",
+      "title": "‘Like a Hand Grasping’: Trump Appointees Describe the Crushing of the C.D.C.",
+      "excerpt": "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, go public on the Trump administration’s manipulation of the agency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/09/us/politics/00dc-virus-cdc-2/00dc-virus-cdc-2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/16/us/politics/cdc-trump.amp.html",
+      "publishedDateTime": "2020-12-16T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -1402,162 +1563,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-it-is-roiling-him-nyts-maggie-haberman-unpacks-trumps-refusal-to-admit-he-lost.md",
-      "title": "'It Is Roiling Him': NYT's Maggie Haberman Unpacks Trump's Refusal To Admit He Lost",
-      "excerpt": "\"[Trump] can't handle the concept of the label 'loser,' \" Haberman says. \"He has never before encountered a problem that he couldn't sue away through the court system or spin away.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2020/12/10/944935318/it-is-roiling-him-nyts-maggie-haberman-unpacks-trumps-refusal-to-admit-he-lost",
-      "originalUrl": "https://www.npr.org/2020/12/10/944935318/it-is-roiling-him-nyts-maggie-haberman-unpacks-trumps-refusal-to-admit-he-lost",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/12/10/gettyimages-1229417416_wide-58c5c8501c163ef4b28e8eee25d110b7095f3a01.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T11:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-trump-announces-that-israel-and-morocco-will-normalize-relations.md",
-      "title": "Trump announces that Israel and Morocco will normalize relations",
-      "excerpt": "Morocco, with centuries of Jewish history, has long been rumored to be ready to establish ties with Israel after years of informal relations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/dd3c953/2147483647/strip/true/crop/5915x3863+0+40/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9d%2F58%2Fea95e0cf45a680c7a05fea261530%2Fgettyimages-1229950087.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations?_amp=true",
-      "publishedDateTime": "2020-12-10T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-trevor-noah-on-trumps-supreme-court-dismissal-his-bar-fight-with-reality-may-be-over.md",
-      "title": "Trevor Noah on Trump's supreme court dismissal: his 'bar fight with reality' may be over",
-      "excerpt": "Late-night hosts recap the supreme court’s rebuke of a Hail Mary lawsuit to overturn the election in Pennsylvania, and discuss Trump’s pardon-palooza",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/culture/2020/dec/10/trump-supreme-court-dismissal-trevor-noah-late-night-tv",
-      "originalUrl": "https://www.theguardian.com/culture/2020/dec/10/trump-supreme-court-dismissal-trevor-noah-late-night-tv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/3a427f87e530696c1c244d8a4793ec558e73402a/144_110_2529_1518/master/2529.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e0c95c972eb9fee625310a1b5219b6ef",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/culture/2020/dec/10/trump-supreme-court-dismissal-trevor-noah-late-night-tv",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2020/dec/10/trump-supreme-court-dismissal-trevor-noah-late-night-tv",
-      "publishedDateTime": "2020-12-10T10:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

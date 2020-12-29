@@ -30,19 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump discussed naming Sidney Powell special counsel during White House meeting"
-    excerpt: "President Donald Trump held a meeting at the White House on Friday evening in which he discussed the idea of naming appellate attorney Sidney Powell as a special counsel to investigate voter fraud in the election,"
-    publishedDateTime: 2020-12-20T19:50:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-discussed-naming-sidney-powell-special-counsel-during-white-house-n1251859"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251859"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251859"
+  - title: "Congress: A crisis averted and House votes Monday on overriding Trump's veto"
+    excerpt: "The President signed the massive spending and stimulus package Sunday night, bringing Washington back from brink of what may have been a weeks-long government shutdown and potentially months of more pain for millions of Americans who need expanded unemployment benefits, small business loans, a federal"
+    publishedDateTime: 2020-12-28T13:21:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tNxmHKjxec8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/congress-state-of-play-ndaa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/congress-state-of-play-ndaa/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218141833-pelosi-mcconnell-vaccine-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Relief is coming: Trump backtracks and signs Covid aid into law"
+    excerpt: "The president's last-minute decision will restore enhanced unemployment assistance that expired Sunday and avert a shutdown that would have begun Tuesday."
+    publishedDateTime: 2020-12-28T12:37:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/relief-coming-trump-backtracks-signs-covid-aid-law-n1252404"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252404"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252404"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 131
+    quality: 135
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_51/3437071/201220-sidney-powell-jm-1221_29a0459573741a5e73006aa10e4229bc.jpg"
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438297/201228-trump-relief-mc-829_7c831580b729a43ac8a93b04080975e8.JPG"
         width: 2500
         height: 1667
         isCached: true

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-23-trump-grants-slew-of-pardons-including-george-papadopoulos-and-duncan-hunter.md",
+      "title": "Trump Grants Slew Of Pardons, Including George Papadopoulos And Duncan Hunter",
+      "excerpt": "Clemency advocates have pressed President Trump to intervene in the cases of people hit with mandatory minimum sentences for drug offenses who have filled prisons in the past few decades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2020/12/22/947972044/trump-grants-slew-of-pardons-including-george-papadopoulos-and-duncan-hunter",
+      "originalUrl": "https://www.npr.org/2020/12/22/947972044/trump-grants-slew-of-pardons-including-george-papadopoulos-and-duncan-hunter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2020/12/18/ap_20351771171034_wide-a1d0787ca4b6ff4d60a877fc34a43008e8f5a91a.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-22T16:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-trumps-main-banker-at-deutsche-bank-announces-her-resignation.md",
       "title": "Trump's main banker at Deutsche Bank announces her resignation",
       "excerpt": "The president's longstanding contact at the bank, Rosemary Vrablic, will step down on Dec. 31, though the reasons for her departure are unclear.",
@@ -378,7 +430,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 151,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -685,6 +737,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-20-with-trump-fading-ukraines-president-looks-to-a-reset-with-the-us.md",
+      "title": "With Trump Fading, Ukraine’s President Looks to a Reset With the U.S.",
+      "excerpt": "They roped us in, but I think we behaved with dignity,” Volodymyr Zelensky said of his encounter with American politics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/18/world/18ZELENSKY1/18ZELENSKY1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.amp.html",
+      "publishedDateTime": "2020-12-19T09:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -1463,110 +1572,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-north-carolina-gop-lawmaker-urges-trump-to-suspend-civil-liberties-to-keep-power-invoke-the-insurrection-act.md",
-      "title": "North Carolina GOP lawmaker urges Trump to suspend civil liberties to keep power: ‘Invoke the Insurrection Act’",
-      "excerpt": "Republican North Carolina state Sen. Bob Steinburg said President Trump should declare a national emergency, suspend civil rights, and remain in power over his baseless claims of electoral fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HUCAGLB7IAI6XNMLCYR7MJTZMA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/?outputType=amp",
-      "publishedDateTime": "2020-12-16T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-trump-names-usps-board-nominee-potentially-solidifying-gop-control-of-mail-service.md",
-      "title": "Trump names USPS board nominee, potentially solidifying GOP control of mail service",
-      "excerpt": "Roy A. Bernardi, a former HUD official, would become the fifth Republican on the nine-member board of governors if he wins Senate confirmation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/2020/12/16/usps-trump-board-governor-nominee/",
-      "originalUrl": "https://www.washingtonpost.com/business/2020/12/16/usps-trump-board-governor-nominee/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QIGBL5X6QQI6VMHEGUHE4YGMSE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/2020/12/16/usps-trump-board-governor-nominee/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/12/16/usps-trump-board-governor-nominee/?outputType=amp",
-      "publishedDateTime": "2020-12-16T10:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

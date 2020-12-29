@@ -2,11 +2,11 @@
 category: news
 title: "U.S. House approves $2,000 coronavirus aid checks sought by Trump"
 excerpt: "The Democratic-led U.S. House of Representatives voted 275-134 to meet President Donald Trump's demand for $2,000 COVID-19 relief checks on Monday, sending the measure on to an uncertain future in the Republican-controlled Senate."
-publishedDateTime: 2020-12-28T23:25:00Z
-originalUrl: "https://www.reuters.com/article/usa-trump-checks-idINW1N2IO05X"
-webUrl: "https://www.reuters.com/article/usa-trump-checks-idINW1N2IO05X"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINW1N2IO05X"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINW1N2IO05X"
+publishedDateTime: 2020-12-29T04:00:00Z
+originalUrl: "https://www.reuters.com/article/usa-trump-checks-idUSW1N2IO05X"
+webUrl: "https://www.reuters.com/article/usa-trump-checks-idUSW1N2IO05X"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2IO05X"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2IO05X"
 type: article
 quality: 105
 heat: -1
@@ -409,6 +409,6 @@ related:
         height: 682
         isCached: true
 
-secured: "Y/DLEy8L9bqHEz/5jxkWCpSQyAoYhLtLBpLpYxHqD5kBba3fpD6OCc/+RWV1sjHh1SC2R6E3mhLohOeCuDWFy4vqt/NQHdVUkJWLAMmlm3PrYopmV+yaPwNha+fv4jvyxZlfBxtlR8G0Akai1gRWY4vLmjLNK9mkA1TOlklMZEBopcDUnIopsZxGkBwb0/alfMZRITK1sbAIXTpDGZn186nGxbNyCdKDBBr5MwnUa5Dw85yhEtzr/qRtJfB3UatL7YSlk0xTnSObPeAhV4PITGFbVTMFXC2KAefsiMAcvAsEyKSfIUA+le0T1W63FcpOKuuWKMJsatwyUFOcH9nw61X5/lfeM9oVPnMQ1m1fzqI=;KGph+xYDnW1g/2MKfQjREQ=="
+secured: "E/9AulNUXBL6YRfc4tnvi5r4f6M/kiH91Pp7QuRzM2g8nJnYxGtRJMiKNN/Achcj3uULD0N10KZkGK5Eb28mxFcdeBBmOLNAODBHpDDzkmGKRoy3ChsfwWodXZG+KzMIPzNjQTNp/jP8veCebwCGx4xgxDwNYYm/XrVq2jFeud6JTZmpuArNRU4BLke+GN+h+l9ELEvKX6Hf3UapVPAZ1ZJ1WvAoEmO2Zrx0i+SRVCZTRG52VTSrw2ibeIylouHQcxxDC/aqA92D/DJXjRdeOrw8jg4vFJUA0QVfxREhRWYXBGOUhjrFOtbfPf7E6bRALxZQ+ILqwMMX7ELlffJxe4TxOILTAguIC1uQyL218zI=;Lv5/Q8poMbupyg/DC7kObA=="
 ---
 

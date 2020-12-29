@@ -30,6 +30,38 @@ images:
     isCached: true
 
 related:
+  - title: "Georgia senator fighting for reelection personally lobbied Trump to sign spending bill"
+    excerpt: "Republican Sen. David Perdue of Georgia spoke to President Donald Trump this week to personally lobby him to sign into law the omnibus spending bill that includes $900 billion in coronavirus relief, a person familiar with their conversation told CNN.\n    \n"
+    publishedDateTime: 2020-12-29T03:24:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BPeFbhZrQbs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/trump-signed-spending-bill-david-perdue/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/trump-signed-spending-bill-david-perdue/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180114192337-02-trump-perdue-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump threatens 30-day reign of destruction on the way out of office"
+    excerpt: "Joe Biden will be president in 30 days. Until then, the question is how much damage can be done by a vengeful, delusional soon-to-be ex-President swilling conspiracy theories, whose wild anti-democratic instincts are being encouraged by fringe political opportunists.\n    \n"
+    publishedDateTime: 2020-12-22T09:43:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SHYIsFDfIRI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/donald-trump-white-house-countdown/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/donald-trump-white-house-countdown/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209192032-trump-medal-of-freedom-dan-gable-oval-office-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Congressional GOP grapples with 'unhinged' Trump"
     excerpt: "Even in his waning days in power, President Donald Trump is still finding ways to inflict his signature loyalty tests on the Republican Party.\n    \n"
     publishedDateTime: 2020-12-23T20:44:09Z
@@ -43,6 +75,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223055901-02-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Listen to Trump's sudden stipulation for Covid-19 stimulus bill"
+    excerpt: "President Trump issued a sudden pre-Christmas demand for changes to a desperately needed $900 billion pandemic relief bill that could potentially risk shattering the bipartisan compromise reached by Democrats and Republicans. CNN's Joe Johns reports.\n    \n"
+    publishedDateTime: 2020-12-23T12:57:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4SS99xZY5qk/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222230738-trump-media-final-days-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -78,6 +126,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump is more erratic than ever with final days in sight"
+    excerpt: "It turns out there are no silent nights in the Trump era.\n    \n"
+    publishedDateTime: 2020-12-24T06:21:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bfFST-oCT-k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/donald-trump-pardons-veto-final-days/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/donald-trump-pardons-veto-final-days/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223152853-01-trump-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's been playing the pardon long game his entire presidency "
     excerpt: "More than a year and a half ago, special counsel Robert Mueller had caught on to what President Donald Trump might do with his pardon power.\n    \n"
     publishedDateTime: 2020-12-24T14:54:05Z
@@ -91,22 +155,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191118113014-trump-mueller-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Why Donald Trump is already the 2024 GOP frontrunner"
-    excerpt: "Poll of the week: A new Gallup poll finds that 87% of self-identified Republican voters approve of President Donald Trump's job performance.\n    \n"
-    publishedDateTime: 2020-12-27T13:30:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Kmk8N2CSQRA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/27/politics/trump-2024-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/27/politics/trump-2024-analysis/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216111257-trump-1212-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -142,19 +190,67 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Congress: A crisis averted and House votes Monday on overriding Trump's veto"
-    excerpt: "The President signed the massive spending and stimulus package Sunday night, bringing Washington back from brink of what may have been a weeks-long government shutdown and potentially months of more pain for millions of Americans who need expanded unemployment benefits, small business loans, a federal"
-    publishedDateTime: 2020-12-28T13:21:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tNxmHKjxec8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/congress-state-of-play-ndaa/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/congress-state-of-play-ndaa/index.html"
+  - title: "Here's what happens if Trump doesn't sign the $900 billion relief package"
+    excerpt: "Though Congress has passed a $900 billion Covid relief package, millions of Americans are in danger of losing important benefits just after the holidays if President Donald Trump continues to refuse to sign the bill.\n    \n"
+    publishedDateTime: 2020-12-24T18:34:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8ibSlxj5Qo8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/covid-relief-bill-programs-expiring/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/covid-relief-bill-programs-expiring/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201224113207-01-eviction-order-phoenix-oct2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pentagon anxiety rises as officers wait for Trump's next unpredictable move"
+    excerpt: "It's like a low murmur just below the surface. \"We don't know what he might do,\" says one officer in the Pentagon. \"We are in strange times,\" says another officer. Some senior military officers are trying to steer clear of the White House for the next month, rather than be in the President Donald Trump's"
+    publishedDateTime: 2020-12-22T10:00:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NF06xO7e4Dw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/pentagon-anxiety-trump-final-days/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/pentagon-anxiety-trump-final-days/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215172845-02-pentagon-building-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's veto of massive defense bill sets up possible override vote next week"
+    excerpt: "President Donald Trump on Wednesday vetoed the sweeping defense bill recently passed by Congress. He had previously threatened to do so because it doesn't include a repeal of Section 230, a law that shields internet companies from being liable for what is posted on their websites by them or third parties.\n"
+    publishedDateTime: 2020-12-24T03:13:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ydo-xVf8rFk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/trump-ndaa-veto/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/trump-ndaa-veto/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218141833-pelosi-mcconnell-vaccine-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222011052-donald-trump-1212-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's plans to sign relief bill on Christmas Eve were scrapped last minute"
+    excerpt: "On Christmas Eve, staff at Mar-a-Lago made preparations for President Donald Trump to sign the Covid-19 relief package and government funding bill, a holiday gift of relief to millions of Americans suffering in the wake of the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2020-12-28T00:17:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sinCd2eQgZM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/27/politics/trump-relief-bill-christmas-eve/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/27/politics/trump-relief-bill-christmas-eve/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201226140818-01-trump-south-lawn-1212-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -174,37 +270,37 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Congressional backers cite cybersecurity provisions as they push Trump to sign defense bill"
-    excerpt: "The massive defense bill that President Donald Trump is threatening to veto contains provisions for increased cybersecurity, which has taken on significantly more importance in the wake of a massive cyberattack on federal agencies at the hands of suspected Russian hackers.\n    \n"
-    publishedDateTime: 2020-12-18T20:32:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RZrYuDIW11A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html"
+  - title: "Unemployment benefits lapse for jobless Americans as Trump holds out on signing relief bill"
+    excerpt: "Millions of jobless gig-workers and independent contractors, as well as long-term unemployed Americans, will lose their unemployment benefits after this weekend if President Donald Trump doesn't sign the $900 billion relief package Congress passed earlier this week.\n    \n"
+    publishedDateTime: 2020-12-27T05:21:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CRIg-uz3TQo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/26/politics/unemployment-benefits-stimulus-relief-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/26/politics/unemployment-benefits-stimulus-relief-bill/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170513225821-cyberattacks-ransomware-latest-sebastian-lklv-00002816-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201226140818-01-trump-south-lawn-1212-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "With Trump Fading, Ukraine’s President Looks to a Reset With the U.S."
-    excerpt: "They roped us in, but I think we behaved with dignity,” Volodymyr Zelensky said of his encounter with American politics."
-    publishedDateTime: 2020-12-19T17:59:00Z
-    webUrl: "https://www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.amp.html"
+  - title: "Trump administration considering granting Saudi prince legal immunity for alleged assassination plot, sources say  "
+    excerpt: "The Trump administration is considering granting Saudi Crown Prince Mohammed bin Salman legal immunity from a federal lawsuit alleging that he ordered an assassination squad to kill a former top Saudi intelligence official who shared information with the US, according to sources familiar with the situation.\n"
+    publishedDateTime: 2020-12-22T23:54:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bzVJjrn7QrM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/trump-mbs-legal-immunity/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/trump-mbs-legal-immunity/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 153
     images:
-      - url: "https://static01.nyt.com/images/2020/12/18/world/18ZELENSKY1/18ZELENSKY1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190930014101-mohammed-bin-salman-denies-involvement-in-khashoggi-killing-sot-vpx-00000204-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Congress passes coronavirus relief bill, but Trump criticizes deal"
     excerpt: "President Donald Trump had been expected to sign the bill in days, but he then called for bigger payments. He didn't directly say he would veto it."
@@ -222,21 +318,37 @@ related:
         width: 2500
         height: 1250
         isCached: true
-  - title: "Christmas comes early for Trump allies with more pardons"
-    excerpt: "Christmas came early for some of President Donald Trump's friends and associates as he issued a second wave of pardons and commutations late Wednesday. Here is what we're watching this Christmas Eve."
-    publishedDateTime: 2020-12-24T13:59:00Z
-    webUrl: "https://www.nbcnews.com/news/morning-briefing/christmas-comes-early-trump-allies-more-pardons-n1252332"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252332"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252332"
+  - title: "George Clooney on ‘The Midnight Sky’ and Donald Trump"
+    excerpt: "His new movie is on Netflix, but the actor-director says theaters won’t go away and Hollywood will be fine. He’s not so sure about Washington."
+    publishedDateTime: 2020-12-23T18:42:00Z
+    webUrl: "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: New York Times
+      domain: nytimes.com
     quality: 135
     images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/1608811741191_tdy_news_haake_trump_vetoes_defense_bill_201224_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static01.nyt.com/images/2020/12/24/arts/23george-clooney2/23george-clooney2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "How Trump Has Jeopardized Stimulus Relief"
+    excerpt: "The president’s demand that Congress amend a giant coronavirus relief and government spending bill has raised the unexpected prospect that help may no longer be days away."
+    publishedDateTime: 2020-12-23T20:30:00Z
+    webUrl: "https://www.nytimes.com/2020/12/23/us/politics/trump-covid-stimulus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/23/us/politics/trump-covid-stimulus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/23/us/politics/trump-covid-stimulus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/23/us/politics/23dc-stimulus-explainer-sub/23dc-stimulus-explainer-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Jobless Benefits Are Set to Expire as Trump Resists Signing Relief Bill"
     excerpt: "Millions of Americans were set to lose crucial jobless aid, as the president continued to criticize the bill that would keep the programs from lapsing."
@@ -270,6 +382,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Georgia returns to spotlight after Trump ends coronavirus standoff"
+    excerpt: "The president will hold a rally for the state’s Republican senators one day before the Jan. 5 runoff elections."
+    publishedDateTime: 2020-12-28T15:53:00Z
+    webUrl: "https://www.politico.com/news/2020/12/28/georgia-senate-runoff-back-in-spotlight-451418"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/28/georgia-senate-runoff-back-in-spotlight-451418"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/28/georgia-senate-runoff-back-in-spotlight-451418"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c2/b1/45795baf42ecbac2e1a9157a60f1/201228-kelly-loeffler-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Jobless benefits run out as Trump resists signing the relief bill."
     excerpt: "Two critical federal unemployment programs expired on Saturday as President Trump resisted signing a sweeping $900 billion aid package into law until lawmakers more than tripled the size of relief checks."
     publishedDateTime: 2020-12-27T16:57:00Z
@@ -286,37 +414,113 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Barr Leaves a Legacy Defined by Trump"
-    excerpt: "Though he sometimes departed from the president, the outgoing attorney general’s term was dominated by how he navigated the Russia investigation and other fraught issues."
-    publishedDateTime: 2020-12-28T23:11:00Z
-    webUrl: "https://www.nytimes.com/2020/12/28/us/politics/william-barr-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/28/us/politics/william-barr-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/28/us/politics/william-barr-trump.amp.html"
+  - title: "Some Relief in Sight for Americans After Trump Signs Stimulus Bill"
+    excerpt: "The measure will bring $600 checks for most Americans, and restore lapsed jobless benefits, in the face of what Dr. Anthony Fauci warns may be a further post-holiday surge in cases. Here’s the latest in pandemic news."
+    publishedDateTime: 2020-12-28T10:03:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/12/27/us/politics/27DC-BARR1/merlin_175304568_65cdad1a-d5c5-48bb-93ba-e0d6f88c3dc7-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/28/world/28virus-briefing-lead-sub/28virus-briefing-lead-sub-facebookJumbo.jpg"
         width: 1050
-        height: 550
+        height: 549
         isCached: true
-  - title: "‘Like a Hand Grasping’: Trump Appointees Describe the Crushing of the C.D.C."
-    excerpt: "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, go public on the Trump administration’s manipulation of the agency."
-    publishedDateTime: 2020-12-16T10:00:00Z
-    webUrl: "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/16/us/politics/cdc-trump.amp.html"
+  - title: "Trump Signs Pandemic Relief Bill After Unemployment Aid Lapses"
+    excerpt: "After calling the measure a “disgrace,” President Trump unexpectedly signed the bill, extending expanded unemployment benefits and an eviction moratorium, and keeping the government open."
+    publishedDateTime: 2020-12-28T08:35:00Z
+    webUrl: "https://www.nytimes.com/2020/12/27/us/politics/trump-signs-pandemic-relief.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/27/us/politics/trump-signs-pandemic-relief.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/27/us/politics/trump-signs-pandemic-relief.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 132
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/12/09/us/politics/00dc-virus-cdc-2/00dc-virus-cdc-2-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/25/us/politics/25dc-stimulus-signed-hfo/25dc-stimulus-signed-hfo-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "House to vote on overriding Trump's veto of $740 billion defense bill"
+    excerpt: "Both chambers of Congress passed the bill with veto-proof margins, but several lawmakers have signaled the override vote could be close."
+    publishedDateTime: 2020-12-28T19:12:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/house-set-override-trump-s-veto-740-billion-defense-bill-n1252433"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252433"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252433"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_53/3438370/201228-us-capitol-ew-1153a_e72322ef6738ab07b1f48e1abe844d98.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Wall Street hits record levels after Trump signs fiscal aid bill"
+    excerpt: "\"The passage of the stimulus bill is erasing some fears, and investors are relieved that there is help out there,\" said one economist."
+    publishedDateTime: 2020-12-28T19:26:00Z
+    webUrl: "https://www.nbcnews.com/business/markets/wall-street-hits-record-levels-after-trump-signs-fiscal-aid-n1252438"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252438"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252438"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438387/201228-new-york-stock-exchange-jm-1356_9ab6522bdf53895963efa350fdd587e2.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump leans on QAnon figures in flailing effort to overturn election"
+    excerpt: "Trump has recently hosted three QAnon heroes at the White House, surged his QAnon-boosting activity on Twitter and toyed with ideas circulating in the QAnon community."
+    publishedDateTime: 2020-12-23T23:25:00Z
+    webUrl: "https://www.politico.com/news/2020/12/23/trump-qanon-effort-overturn-election-450301"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/59/e4/38a776e34d0fa30664633153f04f/static.politico%20(29).jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "In reversal, Trump signs spending bill, unlocking Covid aid and averting shutdown"
+    excerpt: "Pandemic unemployment benefits expired Sunday after the president delayed approving the bill and confusion reigned in Washington."
+    publishedDateTime: 2020-12-28T07:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/covid-unemployment-benefits-expire-after-trump-refuses-sign-aid-bill-n1252392"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252392"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252392"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_52/3438232/201227-donald-trump-jm-1144_83f666683aa031d9a8bf2016f8fe7607.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
+  - title: "Time winds down for Trump to veto NDAA"
+    excerpt: "The deadline has arrived for President Donald Trump to veto the defense bill and call Congress’ bluff to override him. — The president pardons private contractors convicted in the massacre of Iraqi civilians."
+    publishedDateTime: 2020-12-23T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2020/12/23/time-winds-down-for-trump-to-veto-ndaa-792486"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "Congress sends Covid package and spending measure to Trump"
     excerpt: "Congress sent the massive coronavirus stimulus package and annual budget measure to President Donald Trump Thursday afternoon, though the president has signaled that he doesn’t support the bill as written."
@@ -346,20 +550,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump squeezes Republicans with eye on 2022 primaries"
-    excerpt: "The president is lashing out at Republicans he sees as disloyal — and the GOP is seeing how Trump's interests can diverge from the party's."
-    publishedDateTime: 2020-12-24T21:35:00Z
-    webUrl: "https://www.politico.com/news/2020/12/24/trump-republicans-2022-primaries-450381"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/d5/e6/10028d3d45e5b1a55db4eb16a90f/201224-kemp-trump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Members of Congress to Trump: Sign stimulus bill"
     excerpt: "\"The danger is he’ll be remembered for chaos and misery and erratic behavior if he allows this to expire,” one Republican senator says."
     publishedDateTime: 2020-12-27T16:18:00Z
@@ -373,6 +563,22 @@ related:
       - url: "https://static.politico.com/ce/73/9bc48fe949378f87eef55cc895e7/190910-pat-toomey-gty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Presidential Transition Live Updates: After Refusing to Sign the Relief Bill, Trump Suggests He May Take Action"
+    excerpt: "President Trump tweeted, “Good news on Covid Relief Bill. Information to follow!” Democrats’ House losses in California signal the steep obstacles they will face in 2022. President Trump’s fraud claims died in court,"
+    publishedDateTime: 2020-12-28T00:27:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/27/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/27/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/27/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/27/us/politics/27transition-briefing-stimulus-promo1/27transition-briefing-stimulus-explainer2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump backs down, signs stimulus package"
     excerpt: "A government shutdown was averted after the president approved the Covid relief package and annual spending bill."

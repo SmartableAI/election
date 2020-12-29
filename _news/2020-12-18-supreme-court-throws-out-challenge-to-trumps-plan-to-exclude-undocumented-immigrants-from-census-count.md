@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/supreme-court-census-und
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/supreme-court-census-undocumented-immigrants/index.html"
 type: article
 quality: 159
-heat: 179
+heat: 219
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump threw a wrench into Covid relief. What could happen next?"
+    excerpt: "President Donald Trump on Tuesday threw a wrench into the massive year-end spending and coronavirus relief bill, leaving the country on edge as the threat of a government shutdown and expiring Covid-19 protections loom over the holiday season."
+    publishedDateTime: 2020-12-23T21:12:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/trump-threw-wrench-covid-relief-what-could-happen-next-n1252284"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252284"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252284"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_52/3437861/201223-donald-trump-se-300p_8736ae1ad0386e22977c4abc533af85f.jpg"
+        width: 2212
+        height: 1475
+        isCached: true
   - title: "Supreme Court throws out challenge to Trump census plan to exclude undocumented immigrants"
     excerpt: "This case is riddled with contingencies and speculation,” the court said in a short, unsigned opinion, referring to the states' challenge."
     publishedDateTime: 2020-12-20T00:59:00Z
@@ -42,6 +58,22 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 125
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_36/3306571/200413-census-poster-coronavirus-ac-505p_ae7532cbbf8350ffcd49b8f899c75c2a.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "In win for Trump, Supreme Court throws out challenge to his census plan to exclude undocumented immigrants"
+    excerpt: "This case is riddled with contingencies and speculation,” the court said in a short, unsigned opinion, referring to the states' challenge."
+    publishedDateTime: 2020-12-18T15:49:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/win-trump-supreme-court-throws-out-challenge-his-census-plan-n1251698"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251698"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251698"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 117
     images:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_36/3306571/200413-census-poster-coronavirus-ac-505p_ae7532cbbf8350ffcd49b8f899c75c2a.jpg"
         width: 2500

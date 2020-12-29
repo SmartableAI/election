@@ -73,6 +73,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Trump signs federal stimulus package: Another waiting game for Guam"
+    excerpt: "Those currently benefiting from PUA will receive another 11 weeks of assistance, and it will be possible to file new claims."
+    publishedDateTime: 2020-12-29T04:45:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/12/28/trump-signs-federal-stimulus-package-another-waiting-game-guam/4056532001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4056532001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4056532001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/f5e585fb-71ca-4949-bb65-85ceecf55c4e-AP_Virus_Outbreak_Trump_Congress.jpg?auto=webp&crop=2101,1182,x0,y107&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump signs pandemic aid and spending bill, averting government shutdown"
     excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a federal government shutdown in a crisis of his own making."
     publishedDateTime: 2020-12-28T08:47:00Z

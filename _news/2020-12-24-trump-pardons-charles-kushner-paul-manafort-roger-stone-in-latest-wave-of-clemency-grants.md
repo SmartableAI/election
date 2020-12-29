@@ -79,6 +79,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "U.S. SEC says Trump has designated Roisman acting chairman"
+    excerpt: "President Donald Trump has designated Elad Roisman as the acting chairman of the Securities and Exchange Commission, the top U.S. securities regulator said on Monday."
+    publishedDateTime: 2020-12-29T04:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-sec-roisman-appointment/u-s-sec-says-trump-has-designated-roisman-acting-chairman-idUSKBN29220P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29220P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29220P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545999245&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR109"
+        width: 819
+        height: 545
+        isCached: true
   - title: "Trump pardons Blackwater contractors convicted in deaths of 14 Iraqi civilians"
     excerpt: "President Trump on Tuesday pardoned four U.S. security contractors convicted in the 2007 killing of 14 unarmed Iraqi civilians in Baghdad, abruptly ending a long legal saga and right-wing cause celebre."
     publishedDateTime: 2020-12-23T10:41:00Z

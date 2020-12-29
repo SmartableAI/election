@@ -3,8 +3,8 @@ category: news
 title: "Frank Luntz: January 6 Will Be A Make Or Break Moment For Mike Pence's Career, Future Of GOP"
 excerpt: "Sunday on ABC's \"This Week\" roundtable, pollster Frank Luntz said that January 6 will be the climax of the post-election drama when Vice President Mike Pence will be responsible for certifying the election results,"
 publishedDateTime: 2020-12-27T17:47:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/12/27/frank_luntz_january_6_will_be_a_make_or_break_moment_for_mike_pences_career.html"
-webUrl: "https://www.realclearpolitics.com/video/2020/12/27/frank_luntz_january_6_will_be_a_make_or_break_moment_for_mike_pences_career.html"
+originalUrl: "https://www.realclearpolitics.com/video/2020/12/27/frank_luntz_january_6_will_be_a_make_or_break_moment_for_mike_pences_career.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2020/12/27/frank_luntz_january_6_will_be_a_make_or_break_moment_for_mike_pences_career.html#!"
 type: article
 quality: 54
 heat: 54
@@ -25,6 +25,6 @@ images:
     height: 698
     isCached: true
 
-secured: "V1xGKoQLFdZmGo9PuFbs41Hl4g1/5UdSgoOHEtOkOsPefRVmnrMWe7M2Ec6VJ7uwH4SuzkS4KK9aeCD3XNxuf29zwQ676QZIs3Y7hRzzyY1jb2Rmi1aQplZvoWzONH/SwkPX/aGpOxRSVwjHzpHkbB4LWEwPIlDkulE3RyF0FOBh1xYcEQ2JSqbe89oYr+0LPf1g41voyk3pDj2zmAkG5ZdlQ5NUGsj2NXqfQr22XzqfLePaHrfbTJZx3desoYXOaZIMX1AFsTp7v5Ul0TTD26O7AI7at23q3M+fu/7Kf1TFYqSNqS2/W1gE58BkpMb50OETxvqpfnlw2rdwCQz9j3WBsZ0W/r6JgAWHxB0cMnkrhfOfh4C1fCGLDZ5vYWyowQnq5BghejhHAejZd6aFbNdQz1iGbhPpVikkwOfXWM2Z36higvN4pRCA+a8o0tt5vb0gpZzROkOMGSBb0TSrsOh4m4nwte+YxdA4tQBL/3YuJWtumAa4N8D24XbrAm+N1WX7ze+XM2EB+0Ittx6Kxw==;li8mShNSytSgs1ck2NYFgw=="
+secured: "peg0DhW7M4PqkC72QGvE2W72F4wQOFCNGfSMqkSqhqk8Py9Q5scFMGEkCzPG317wTazVXWov1Pw+eFU19f1zvC7+azj+YZZeKU2dLWOEDDQT5ALwgJw0WIpi2pK8K9qH1HTT7PR55yjxytN00vGrkj4nuxANlPCAyxJKcMTOVn3ex3LnCwIDEiv/5vYmvv2+SV6o0RU4YVDZMcKKUpMFOkDWrkm13AHt4YvIcFy2XiIc/c+r0/M2ROVBEIaLa7Jyl+ENz553I/7/lXz7YpJ9ADA0buvK7Q4niSJtF2crJqspcSNMh+UPN9p5FhFxPrWilgWIRVy+cBpu7Kr+L2/WF3H/uko3P/0QfV7PyN4WwvE=;gv9hKZ/ynL0fcLBHtlIzAQ=="
 ---
 

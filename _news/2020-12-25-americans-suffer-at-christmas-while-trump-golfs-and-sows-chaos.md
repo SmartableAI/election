@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/25/politics/donald-trump-christmas-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/25/politics/donald-trump-christmas-election/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 315
 published: true
 
 provider:
@@ -95,21 +95,49 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Unemployment benefits lapse for jobless Americans as Trump holds out on signing relief bill"
-    excerpt: "Millions of jobless gig-workers and independent contractors, as well as long-term unemployed Americans, will lose their unemployment benefits after this weekend if President Donald Trump doesn't sign the $900 billion relief package Congress passed earlier this week.\n    \n"
-    publishedDateTime: 2020-12-27T05:21:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CRIg-uz3TQo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/26/politics/unemployment-benefits-stimulus-relief-bill/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/26/politics/unemployment-benefits-stimulus-relief-bill/index.html"
+  - title: "Christmas comes early for Trump allies with more pardons"
+    excerpt: "Christmas came early for some of President Donald Trump's friends and associates as he issued a second wave of pardons and commutations late Wednesday. Here is what we're watching this Christmas Eve."
+    publishedDateTime: 2020-12-24T13:59:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/christmas-comes-early-trump-allies-more-pardons-n1252332"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252332"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252332"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201226140818-01-trump-south-lawn-1212-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/1608811741191_tdy_news_haake_trump_vetoes_defense_bill_201224_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump squeezes Republicans with eye on 2022 primaries"
+    excerpt: "The president is lashing out at Republicans he sees as disloyal — and the GOP is seeing how Trump's interests can diverge from the party's."
+    publishedDateTime: 2020-12-24T21:35:00Z
+    webUrl: "https://www.politico.com/news/2020/12/24/trump-republicans-2022-primaries-450381"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d5/e6/10028d3d45e5b1a55db4eb16a90f/201224-kemp-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Pandemic complicates street vendor reform — Trump pardons Chris Collins — City pushes for expanded use of speed cameras"
+    excerpt: "Subscribe for Season Two, available now. — President Donald Trump blasted the $900 billion coronavirus relief package passed by Congress, calling it a “disgrace” and asking for amendments to the bill to increase stimulus payments to Americans."
+    publishedDateTime: 2020-12-23T12:11:00Z
+    webUrl: "https://www.politico.com/newsletters/new-york-playbook/2020/12/23/pandemic-complicates-street-vendor-reform-trump-pardons-chris-collins-city-pushes-for-expanded-use-of-speed-cameras-491239"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 91
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "DqpXEuGOsEkI+Ak/LrH7OLiZWnHbfDvNBQVyM1heeKuGe0r7qs7GsLurqC7hWqtKc+iTxZuNVAk8H6iApbXZTmuzZMjqvIsZih258AN/9LogHicpzHul5sFrdu8AJwTK8LyV9HQqtRhE87VjLhd83wmV6dDcQPhPgWFEivpeHX8vFPeAoY33RDb3WL0IEUm8ieT509jdxzYK3Zgu9EmyoEcgcOxxJZBkC1GmthmNz1TP5ecspFuf0CfOX5Bjo16znvy4LCw3+whKR43gsW+f9W/cZIZbHEoKnizpRcxE/ncNgTG964bF503LrsVJPYQiZkb5lFBoQobz3TqR2eD6THrQ6TEDrSbu7MVPeNAlY+I=;dfK18/j9KG+Q7dcB7tfbRQ=="

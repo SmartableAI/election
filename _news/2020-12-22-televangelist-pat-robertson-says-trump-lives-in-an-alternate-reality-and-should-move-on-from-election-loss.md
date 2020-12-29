@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/pat-robertson-trump-2020
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/pat-robertson-trump-2020-election/index.html"
 type: article
 quality: 171
-heat: 211
+heat: 191
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump leans on QAnon figures in flailing effort to overturn election"
-    excerpt: "Trump has recently hosted three QAnon heroes at the White House, surged his QAnon-boosting activity on Twitter and toyed with ideas circulating in the QAnon community."
-    publishedDateTime: 2020-12-23T23:25:00Z
-    webUrl: "https://www.politico.com/news/2020/12/23/trump-qanon-effort-overturn-election-450301"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
-    images:
-      - url: "https://static.politico.com/59/e4/38a776e34d0fa30664633153f04f/static.politico%20(29).jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Ron Johnson gambles his political future on Trump"
     excerpt: "The Wisconsin Republican is holding a hearing on alleged election “irregularities” even after Biden secured an Electoral College victory."
     publishedDateTime: 2020-12-16T02:19:00Z
