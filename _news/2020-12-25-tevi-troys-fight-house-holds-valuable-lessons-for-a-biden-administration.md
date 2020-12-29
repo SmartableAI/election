@@ -44,6 +44,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden calls transition ‘obstruction’ by Defense Department irresponsible"
+    excerpt: "Taking aim at what he calls President Trump’s “go-it-alone” approach to international affairs, President-elect Joe Biden says he’ll restore “American leadership” across the globe."
+    publishedDateTime: 2020-12-29T01:00:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20363689916730.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden education secretary nominee pushed ‘microaggression’ resources in response to riots"
     excerpt: "Elect Joe Biden nominated Connecticut Education Commissioner Miguel Cardona to serve as head of the Department of Education in his administration, a public school advocate who sent around resources on \"microaggressions\" as he took action to help parents and educators navigate difficult race-related discussions earlier this year."
     publishedDateTime: 2020-12-23T03:21:00Z

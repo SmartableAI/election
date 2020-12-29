@@ -63,22 +63,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Millions of Americans lose jobless benefits as Trump refuses to sign aid bill"
-    excerpt: "Millions of Americans saw their jobless benefits expire on Saturday after U.S. President Donald Trump refused to sign into law a $2.3 trillion pandemic aid and spending package, protesting that it did not do enough to help everyday people."
-    publishedDateTime: 2020-12-26T10:31:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29003U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29003U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29003U"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201226&t=2&i=1545851654&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBP0A1"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Stock market live updates: Stocks rise, Trump knocks stimulus, personal income falls"
     excerpt: "This is a markets live blog for CNBC PRO subscribers that will be updated throughout the day. The major indexes rose on Wednesday morning as the S&P 500 looked to snap a three-day losing streak. The move came despite President Donald Trump calling the new stimulus deal reached by Congress a \"disgrace\" and called for the amount of direct checks to Americans to be increased."
     publishedDateTime: 2020-12-23T15:31:00Z

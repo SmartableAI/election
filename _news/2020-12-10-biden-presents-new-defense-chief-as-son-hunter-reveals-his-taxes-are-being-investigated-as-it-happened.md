@@ -73,22 +73,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Texas Baptist Minister, a Lifelong Republican, Loses License After Endorsing Biden"
-    excerpt: "\"Had I endorsed Donald Trump or kept my views to myself, I am sure I would still be a licensed Christian minister on the pathway to formal ordination,\" David Bumgardner said."
-    publishedDateTime: 2020-12-18T21:39:00Z
-    webUrl: "https://www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034"
-    ampWebUrl: "https://www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 119
-    images:
-      - url: "https://d.newsweek.com/en/full/1661437/texas-voting.jpg"
-        width: 2500
-        height: 1669
-        isCached: true
   - title: "Nearly 50 years after death of wife and daughter, empathy remains at Joe Biden's core"
     excerpt: "Joe Biden made headlines as the 29-year-old lawyer who pulled off an upset win against Sen. Caleb Boggs to represent Delaware in the Senate -- one of the youngest people ever elected to the body. But it was a different headline a month after the election that would forever change his life: \"Biden's wife,"
     publishedDateTime: 2020-12-19T11:18:00Z
@@ -151,6 +135,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden says he sees no evidence cyber attack is under control"
+    excerpt: "WILMINGTON, Del. (Reuters) -President-elect Joe Biden said on Tuesday he had seen no evidence that a massive cyber attack against the United States is under control and warned that the breach will not go unanswered once he takes office on Jan."
+    publishedDateTime: 2020-12-23T03:31:00Z
+    webUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Hunter Biden reveals he is under federal investigation for \"tax affairs\""
     excerpt: "Hunter Biden, the son of President-elect Joe Biden, says he is under investigation over his tax affairs by the U.S. Attorney's Office in Delaware in a probe that dates back to 2018. CBS News political correspondent Ed O'Keefe joins \"CBSN AM\" to discuss the latest."
     publishedDateTime: 2020-12-10T13:43:00Z

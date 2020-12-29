@@ -3240,6 +3240,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Biden accuses Trump appointees of obstructing transition on national security issues"
+    excerpt: "President-elect Joe Biden on Monday accused President Trump and his political appointees of obstructing the transition of power to his incoming administration, particularly in the national security sphere,"
+    publishedDateTime: 2020-12-29T02:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-trump-obstruction/2020/12/28/d4dd6e7e-4925-11eb-839a-cf4ba7b7c48c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-obstruction/2020/12/28/d4dd6e7e-4925-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-obstruction/2020/12/28/d4dd6e7e-4925-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 133
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7CAKJLSJJUI6XA42Z5F2PN6ERQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump keeps making arguments about the election on Twitter that he won't make in court"
     excerpt: "While President Donald Trump claims massive fraud led to his electoral loss, his lawyers are saying something else entirely."
     publishedDateTime: 2020-11-13T18:14:00Z

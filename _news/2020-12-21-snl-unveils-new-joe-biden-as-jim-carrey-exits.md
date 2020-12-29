@@ -43,6 +43,38 @@ related:
         width: 1440
         height: 970
         isCached: true
+  - title: "Biden's Latino education secretary to add to diverse Cabinet"
+    excerpt: "President-elect Joe Biden will add to the diversity of his incoming administration on Wednesday when he introduces Miguel Cardona as his choice for U.S. Secretary of Education."
+    publishedDateTime: 2020-12-23T11:26:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-idINKBN28X0LG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28X0LG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28X0LG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545589631&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM19H"
+        width: 753
+        height: 545
+        isCached: true
+  - title: "Biden's Latino education secretary adds to diverse Cabinet"
+    excerpt: "President-elect Joe Biden added to the diversity of his incoming administration on Wednesday when he introduced Miguel Cardona as his choice for U.S. Secretary of Education."
+    publishedDateTime: 2020-12-23T18:38:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-idUSKBN28X0JU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X0JU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X0JU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545589631&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM19H"
+        width: 753
+        height: 545
+        isCached: true
   - title: "Chris Ruddy: Newsmax calls the election for Joe Biden"
     excerpt: "Chris Ruddy, the CEO of Newsmax Media, has defended his US channel's post election coverage when President Donald Trump challenged the result. He told Hardtalk's Stephen Sackur: \"There is a media-spin that somehow we are trying to deny the election or as you say out-Trump,"
     publishedDateTime: 2020-12-16T16:11:00Z
@@ -79,6 +111,31 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden taps Big Law partners for White House Counsel's office"
+    excerpt: "President-elect Joe Biden on Wednesday named four partners from three Big Law firms who will serve in senior roles in the Office of the White House Counsel."
+    publishedDateTime: 2020-12-24T02:56:00Z
+    webUrl: "https://www.reuters.com/article/whitehousecounsel-biglaw-biden/biden-taps-big-law-partners-for-white-house-counsels-office-idUSL1N2J32N1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J32N1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J32N1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Meet 14 Joe Biden family members who could be powerful surrogates — or potential headaches — for the new Democratic president's administration"
+    excerpt: "Biden's political campaigns have always been family affairs. Now his siblings, children, and grandchildren are primed to make headlines when he's president."
+    publishedDateTime: 2020-12-24T15:27:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-family-hunter-jill-ashley-frank-james-valerie-caroline-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/5fe20739d366e600180998fb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "KibW8F+4YaoIW9jhOvcOa+YSjmB4sZKl8AoiDNWYMhaJ2lPlWQWKOcqLmKcf74WIaIBbMmnuJBzoe4I83CQ6JsK4otaQT9K6jPqflS/SqRQZf5yLhyCoG6219+h/IKEXXGss0q194N+VPzdouvHdqOwoCuj/7F97ntROsBd0XX/YXyWj69/tLX55ceVHEDrwQd62nd6MIZwVXC7j5uEgRY8R4cxveUxRFJDSmKAhR+2h8eQTv4FqvakIoVXfTQ/2AHVzsa2jpd74h5nWO9tguozrwyKGu22sKmjV8WeH9cxGGSXXeeK2OTMboQ+mVZt4tDZu2zuRzotah2J/Lua/z8WizbBSTqUQwGaFFMgrTH/QSLNoJ313gY0va902lXdTqT5QZSlRsq95pJY5/xxY34UxvY5zYDSacn55XrrK+6wT45thJKEZdEYh6aUhAH20NKlr9nr4DFmu7HxP1LK2SIA5eEymObsffh8LiKhj90hkYh+ryIAvYw7kKX+F+yI25ngyGZrLQbHod2Z5iv9wIw==;vcQsznlLZXHibjaCmaSczQ=="
 ---

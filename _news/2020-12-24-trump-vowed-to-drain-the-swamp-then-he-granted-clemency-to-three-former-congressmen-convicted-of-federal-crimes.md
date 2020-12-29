@@ -74,20 +74,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Republican and Democratic lawmakers to Trump: ‘Sign the bill, Mr. President’"
-    excerpt: "Republican and Democratic lawmakers urged President Trump Dec. 27 to sign the bipartisan stimulus bill, which sits at his Mar-a-Lago resort, as the government shutdown deadline loomed."
-    publishedDateTime: 2020-12-27T22:07:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/republican-and-democratic-lawmakers-to-trump-sign-the-bill-mr-president/2020/12/27/47cb2fd7-2190-4875-a6a2-8aaf6b8822d4_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-27-2020/t_f044b9b2f3c84f10bc10a1c55a58cf04_name_01_SundayShow.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
   - title: "The US government changed the rules to allow more powerful showers after Trump complained about not getting enough water to wash his hair"
     excerpt: "At a White House event in July, President Trump complained that showers weren't providing enough water for him to properly wash his hair."
     publishedDateTime: 2020-12-16T12:52:00Z

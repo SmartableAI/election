@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/24/donald-trump-covid-r
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden"
 type: article
 quality: 120
-heat: 140
+heat: 120
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 600
     height: 360
     isCached: true
-
-related:
-  - title: "Lindsey Graham says Trump is 'more determined than ever' to secure $2,000 checks as COVID-19 relief bill lingers in limbo"
-    excerpt: "Sen. Lindsey Graham tweeted that President Donald \"more determined than ever to increase stimulus payments to $2000 per person.\""
-    publishedDateTime: 2020-12-26T15:00:00Z
-    webUrl: "https://www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 100
-    images:
-      - url: "https://i.insider.com/5fe69a46edf8920018093c24?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "xG7F+SOIYdL2uGoI/IhVvcpKDuZwMP88klYNLE2c+28aAc/25tH0jYS6pDAWcQuFLL6Nm5IY0DY5b+6C40GzOOi+BQqAcw5HvPLv2L1nFmBcx8K4xpwpVnyZ1VBPa30gHWVsG0pEOn/CZyVDpDDbMWOqTrlSK1D13B6y8ByWo6i2A3wqi9jfQGz4jyQzkDOClumRyglHDkwutFezeDIjrrtiJlopPYpXqyL8HfsXKH4Ghke00xiTGzTd7oC4LCA46TqKIN/ZoN9ybGcPyRi4weudQjAJsSHvVOlyPJpCEJ7N5CrrmsAt+bQiKmf1s/kv4eKR6/d6g12WuMJo8Xf6wMSOOialYz47HNOsFX9ZX+Xbtuj3QEzVba1BM8O/7M+8m8eVfzb8kkv4piXlrB/0FhfWVc0wxOGHeVwixIz+/bEnGQyVO4P2VWClBp0NaNrehaZExMkN3EEv8geWT586rTUHgqNj/4IgSRx7C1pAkJRxw93PE4nXPb8kMZsvEHef8wcan/cNSdG5VyoeHNdEBw==;GZL2xzD8sbKJ+9HvSnMT5w=="
 ---

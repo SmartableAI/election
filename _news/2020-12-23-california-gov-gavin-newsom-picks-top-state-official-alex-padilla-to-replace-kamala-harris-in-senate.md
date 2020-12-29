@@ -181,6 +181,22 @@ related:
         width: 1024
         height: 711
         isCached: true
+  - title: "Kamala Harris to receive COVID-19 vaccine on Tuesday"
+    excerpt: "Vice President-elect Sen. Kamala D. Harris is scheduled to receive a first dose of the COVID-19 vaccine on Tuesday in an on-camera event, according to President-elect Joseph R. Biden’s transition team."
+    publishedDateTime: 2020-12-28T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/28/kamala-harris-receive-covid-19-vaccine-tuesday/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/28/kamala-harris-receive-covid-19-vaccine-tuesday/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/28/kamala-harris-receive-covid-19-vaccine-tuesday/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/Biden_35785.jpg-7f72e_c0-237-5674-3546_s1200x700.jpg?edee63d40b7dc7470f1843331bce2e6e435b776e"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "California Governor Gavin Newsom Appoints Secretary of State Alex Padilla to Replace Vice President-elect Kamala Harris in US Senate"
     excerpt: "Voto Latino celebrates California Secretary of State Alex Padilla becoming the first Latinx person to represent California in the United States Senate after Governor Gavin Newsom announced his appointment to the seat being vacated by Vice President-elect Kamala Harris."
     publishedDateTime: 2020-12-23T16:11:00Z

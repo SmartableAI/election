@@ -286,6 +286,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Barr Leaves a Legacy Defined by Trump"
+    excerpt: "Though he sometimes departed from the president, the outgoing attorney general’s term was dominated by how he navigated the Russia investigation and other fraught issues."
+    publishedDateTime: 2020-12-28T23:11:00Z
+    webUrl: "https://www.nytimes.com/2020/12/28/us/politics/william-barr-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/28/us/politics/william-barr-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/28/us/politics/william-barr-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/27/us/politics/27DC-BARR1/merlin_175304568_65cdad1a-d5c5-48bb-93ba-e0d6f88c3dc7-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "‘Like a Hand Grasping’: Trump Appointees Describe the Crushing of the C.D.C."
     excerpt: "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, go public on the Trump administration’s manipulation of the agency."
     publishedDateTime: 2020-12-16T10:00:00Z

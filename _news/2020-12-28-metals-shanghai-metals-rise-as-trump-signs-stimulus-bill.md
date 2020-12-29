@@ -137,22 +137,17 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Republicans Buck Trump, Reject Proposal for $2,000 Stimulus Checks"
-    excerpt: "Republicans on Thursday shut down an effort by Democratic leadership in the House to add $2,000 payments to the latest stimulus package, breaking with President Donald Trump’s demand for such checks,"
-    publishedDateTime: 2020-12-24T21:34:00Z
-    webUrl: "https://nymag.com/intelligencer/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+  - title: "US Stocks Hit Records After Trump Signs $900B Aid Package"
+    excerpt: "Stocks were moderately higher Monday, Dec. 28 in the final week of 2020 after President Donald Trump signed a $900 billion economic aid package that helps reduce uncertainty amid the re-imposition of travel and business curbs in response to a new coronavirus variant."
+    publishedDateTime: 2020-12-29T02:02:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2020-12-28/asian-stocks-advance-after-trump-signs-900b-aid-package"
+    ampWebUrl: "https://www.usnews.com/news/business/articles/2020-12-28/asian-stocks-advance-after-trump-signs-900b-aid-package?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-12-28/asian-stocks-advance-after-trump-signs-900b-aid-package?context=amp"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/f74/39e/75805b07042d28264174aae959cff36626-GettyImages-1230254465.rsquare.w1200.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "dyxeon19V2+m9oibW//l220Wi2AOae8C0iwmZOU2djb+rPg9SR+AQOEmfAD8r9wIRkTQ2xq8u4+Uc2kMRhPDRb85xPNvMox7W1ITcZzTktNZ3Pv0U1O3Onsyoc86u3liWvgV9z6ZO/gTdzpaSz2M622RqH42mK/kT57SkIZPr/1Uaxro7rxev9Kf7oo/nYZVIB9flsx4n5QdMYpbeTvbnTQiWhFLOhUfyq0GasXuz8KpcYmd8Lg1sS6+4m2eQSwfxqTTL3UculOdcdzXJXZszPnMGjovanAt0ldeowXZFL4atAueZl/pA/90PX17jKbizwmqParTpQ6mBHt0tVLu+K7v/N8jKvOQrHZPl9dfhrk=;KvFRrelYuxzf53VBVSUyrg=="
 ---

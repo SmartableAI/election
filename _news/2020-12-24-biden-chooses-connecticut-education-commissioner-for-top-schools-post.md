@@ -110,6 +110,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Russia, Afghanistan, Iraq: Joe Biden's foreign policy answers, through the years"
+    excerpt: "As a senator and vice president, Joe Biden spent his career developing relationships with foreign leaders. Meet the Press looks back at his answers to foreign policy questions over his decades-long career."
+    publishedDateTime: 2020-12-29T01:27:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/russia-afghanistan-iraq-joe-biden-s-foreign-policy-answers-through-the-years-98421829808"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98421829808"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98421829808"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenforeign_20122700__107131.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "4sb/En+3NdI9jpSYAtjSxN4e3v87wvlH8VrVDM9V0XBRTCV5S+RCcNblWsjm/jNU8ermcf+QcNsu9J1kS+lEPVh4KoOo7mXlULdXIrHaCoF1v3red3te9wGaZOt5s5u74l6giQE6qKu0GcPsxE0mI5PkbVUcnvqJaiIqThyOADuN0F5oBc/iCDYyDMgltdlWP+/5XkAeFEqvoYsUmjiIx1QeRL8GUssoq4Be6Bg5jHgXMhgr/4HvcMwYld0xVDN0J2RezO2JPZRLCQg951uzk6Er0r19S9kJ4IJAbL1BdeEtBcB9JyZXPtwmQyeLTwi1T1DOsUF/xrNRXIUo3hn34xdL4yC/xpae0uU0Qi+Vc8lHNfWtC7cQxSAfyYJCd5X6pqbq3kz3EZbg1Lqmo7FHLiyR0vTdvCyq4WPK2vqHLvi6DRNjAyxGGZVf5RbTRozcsGtpmHVp29Zkt296RInTaqpm9QahW0zcVBI3Q9mic/PjXCdIJ06WrQ1UbfsmkaluZEfMwlfc5QK89J/2MTeNbw==;mWXnYwe061m2NZzqMX02NQ=="
 ---

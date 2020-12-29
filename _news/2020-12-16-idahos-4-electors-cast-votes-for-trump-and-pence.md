@@ -1682,6 +1682,20 @@ related:
         width: 1024
         height: 661
         isCached: true
+  - title: "Trump Backers Look To Last-stand Protest On January 6"
+    excerpt: "President Donald Trump is urging supporters to amass in Washington on January 6 for a last-ditch rally to pressure Congress to not certify Joe Biden's election victory. Thousands of supporters from around the country,"
+    publishedDateTime: 2020-12-29T01:15:00Z
+    webUrl: "https://www.ibtimes.com/trump-backers-look-last-stand-protest-january-6-3110834"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/28/members-of-the-violent-proud-boys-group-are.jpg"
+        width: 1024
+        height: 660
+        isCached: true
 
 secured: "V7lbxoBQ+zgUUOep51oBFF142Tv5wq3RJmYvItpLx6ApI/iQyKGm+ZRIRi6gCe2HHe1L4NLJxnAf8ghRRiw2O6b8T+yfIscO79dZ67+BlHK6rkgbKyScDbeuW8Yxue0uiNzfy1RLFH09B6lsX04VyVQn9mfg4nQic/QcTzv/Apq9TaDwVpKgh6KaQNa46zZGjObCJ8e0DzdoKUBf/gcAro0JztpBYIfAFc/Nnn7TZMydbpqslXVdQtFkEAt8aVXv1j5zaopirshkfzWlM3BJ7ER3eR6zdtw1m63L4TQECgPXYogp2xtwnZfVclzGaIdt1bIWmLmP8jU3NeKZmi7CWrpcOLOerQrmhD6hDihtMEU=;oFZNdOeWcMbHIxcxDlEqZg=="
 ---

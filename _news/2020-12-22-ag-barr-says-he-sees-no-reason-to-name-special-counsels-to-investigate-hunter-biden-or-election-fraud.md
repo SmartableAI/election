@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3991548001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3991548001"
 type: article
 quality: 125
-heat: 185
+heat: 245
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Memo: Left seeks leverage to move Biden"
+    excerpt: "The tug-of-war between President-elect Joe Biden and the left wing of the Democratic Party is shifting onto policy grounds now that nominees have been selected for key positions in the new administration."
+    publishedDateTime: 2020-12-28T11:00:00Z
+    webUrl: "https://thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden"
+    ampWebUrl: "https://thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_121920getty_memo-left-biden.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Saudi court jails women's rights activist, posing challenge for Biden"
     excerpt: "A Saudi court on Monday sentenced prominent women's rights activist Loujain al-Hathloul to nearly six years in prison, her family said, after her conviction in a trial that has drawn international condemnation."
     publishedDateTime: 2020-12-28T23:43:00Z
@@ -76,6 +92,36 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/815449b8-6497-4ef2-bafa-450265f6c1b5_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Amazon hires lobbyist with ties to President-elect Joe Biden's White House counsel"
+    excerpt: "CNBC.com reporter Brian Schwartz discusses whether Amazon's new hire in Washington, DC could present a conflict of interest with one of President-elect Joe Biden's closest advisors."
+    publishedDateTime: 2020-12-28T13:33:00Z
+    webUrl: "https://www.cnbc.com/video/2020/12/28/amazon-hires-lobbyist-with-ties-to-president-elect-joe-bidens-white-house-counsel.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 99
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106816491-16091598732ED4-REQ-122820-wex-amazon.jpg?v=1609159872"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Joe Biden Presidency Will Drag Down Stock Markets, Investors Predict"
+    excerpt: "In general, some of Biden’s economic policies might not be as conducive to growth as the tax-friendly agenda of his predecessor."
+    publishedDateTime: 2020-12-28T16:36:00Z
+    webUrl: "https://www.ibtimes.com/joe-biden-presidency-will-drag-down-stock-markets-investors-predict-3110663"
+    ampWebUrl: "https://www.ibtimes.com/joe-biden-presidency-will-drag-down-stock-markets-investors-predict-3110663?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-presidency-will-drag-down-stock-markets-investors-predict-3110663?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/21/us-president-elect-joe-biden-said-the-latest.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "vWiDphD3rWVJK/RccRYq5/Q6dZkqEBSh2Fmz5py+zbcVAv3lxC+uMvUR5Gpfds8J6IahUDXggQViHwAL6D48SDDdFYsmdApaqII04F5gDGjDEPa50/sJQKwhEAU6EiyqypSwyBaYXOGQRfh9mT62Jwg04arb5DmTHOWbx2rraykwEw2aU1WJh3GXeLIH9hETpkDFM1EsgseD+W4/2e9QtdcyXRbhmHRK1/OzhKKcxy0BuVloBCyC3QS4jl8CZggqREM+hXp6sy5qOyNcdGqWNkf9RxELe05Me7Hgt0NYYGbL31Kv16xW3kccRSkJ348E1v19lbwUJob6thbhhRe8APiHffQqLE/aXHEYsI478OA=;m2Lk6d8wZyi9MgwffS9LCQ=="

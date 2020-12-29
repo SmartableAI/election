@@ -63,6 +63,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Arizona congresswoman backs calls for Hunter Biden special counsel"
+    excerpt: "Rep. Debbie Lesko says she has sent a letter to the Attorney General."
+    publishedDateTime: 2020-12-29T02:52:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mPgrJiiKwBw/congresswoman-special-counsel-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/congresswoman-special-counsel-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congresswoman-special-counsel-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f1ca1b6-a9e5-400b-aa09-7baf7124297c/05de37e4-1964-41ef-8cc1-be2d61cf6203/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "House lawmakers override Trump’s defense bill veto"
+    excerpt: "More than two-thirds of the chamber voted against Trump."
+    publishedDateTime: 2020-12-29T02:16:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FqAlg__bfy4/house-override-trump-defense-bill-veto"
+    ampWebUrl: "https://www.foxnews.com/politics/house-override-trump-defense-bill-veto.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-override-trump-defense-bill-veto.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9e66164-478a-4e5f-9843-bc51b5bad88a/642df305-5164-4cc9-9c6f-8fd33be24851/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Trump vetoes National Defense Authorization Act for Fiscal Year 2021"
     excerpt: "President Trump vetoed the National Defense Authorization Act for Fiscal Year 2021 Wednesday, calling it a “gift” to U.S. adversaries China and Russia, making good on a promise to veto it if it did not repeal a law that shields certain Big Tech companies from liabilities."
     publishedDateTime: 2020-12-23T20:42:44Z

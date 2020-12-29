@@ -96,6 +96,22 @@ related:
         width: 2500
         height: 1670
         isCached: true
+  - title: "Russia, Afghanistan, Iraq: Joe Biden's foreign policy answers, through the years"
+    excerpt: "As a senator and vice president, Joe Biden spent his career developing relationships with foreign leaders. Meet the Press looks back at his answers to foreign policy questions over his decades-long career."
+    publishedDateTime: 2020-12-29T01:27:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/russia-afghanistan-iraq-joe-biden-s-foreign-policy-answers-through-the-years-98421829808"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98421829808"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98421829808"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenforeign_20122700__107131.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden chooses Connecticut education commissioner for top schools post"
     excerpt: "President-elect Joe Biden selected Connecticut Education Commissioner Miguel Cardona to be his Education secretary on Tuesday, adding another Latino to his roster of Cabinet appointees and choosing a leader who has pressed schools to remain open for in-person classes during the pandemic."
     publishedDateTime: 2020-12-23T16:59:00Z

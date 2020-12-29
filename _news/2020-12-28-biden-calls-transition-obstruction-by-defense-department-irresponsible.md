@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-vows-to-restore-americas-glob
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
 type: article
 quality: 174
-heat: 214
+heat: 234
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden calls transition ‘obstruction’ by Defense Department irresponsible"
+    excerpt: "Taking aim at what he calls President Trump’s “go-it-alone” approach to international affairs, President-elect Joe Biden says he’ll restore “American leadership” across the globe."
+    publishedDateTime: 2020-12-29T01:00:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20363689916730.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden education secretary nominee pushed ‘microaggression’ resources in response to riots"
     excerpt: "Elect Joe Biden nominated Connecticut Education Commissioner Miguel Cardona to serve as head of the Department of Education in his administration, a public school advocate who sent around resources on \"microaggressions\" as he took action to help parents and educators navigate difficult race-related discussions earlier this year."
     publishedDateTime: 2020-12-23T03:21:00Z
@@ -64,6 +80,6 @@ related:
         height: 500
         isCached: true
 
-secured: "RPmqLpCmUn8Pm/9tDLsMP++cY/39xYtE0r3rU13NZxk1cQcGJyxYWHRhiS4Tgd4YX3ck0XK4Qqw0B7x95t6KBd/CF5nKUCQKiZC3wllmniqusaj3BNFpAcPPi/c+a5yRrejYe0zY4l3ILIrrFLs6+wvLIEte9/CiU62e02eYdOFmBBfBjSKDmC8NhgMOd+aJ7NREuH628LOg6g2hFw2EKknThz4yfE01ng/gP2B0r3dEAPGTUL1gf5OxJNceDOqrZ79S65HFICNzpdhx9sgTyK7UGvzylcx/4vL005QtWi8PKjyZZpt2PoHRD6o4JA4gndPSPjSOXiDscA5u/QQuJ6e0IAqPKNRM1/bDUn9QGvA=;YovGy7+HUPzJfGc6uu+3cg=="
+secured: "ayNo4egrXGRGl3oBpa+lS02TgalIpvOQyUn8rjxX2JhDXz2iYJvPMEJsvCJ2v/yTZntaAlZTwpOt8XcbB1HV/K3gGWheMNwbIqEAtFa/keWRlhJnLpmtAVoH3rL/5N81kH+tCPhwDMf8Ndz6RO9UifFgN6VU1duCN0qhPJ0eRLfD1gJbevLcHGTkOY4pvT8SSUSGVBblULLEONu1/rUwuIBoEBgUQ8X7EtasjRliO0pafHU8BGuIgRGHbuOb0dD/jq0ebo0GIlZgIdvf5vVl0tvXF8RkNpM20o2mM9HMZ1vganIGrSv6SHvk6u0OUMf9Frjnik+SttGgAPiOkgAuYTocG7r5PYjggy9SxAHRR/k=;CaykJUlbEymg5JNy5FEL5g=="
 ---
 

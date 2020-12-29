@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-miguel-cardona-education-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-miguel-cardona-education-department-watch-live-stream-today-2020-12-23/"
 type: article
 quality: 124
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -72,6 +72,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 98
+  - title: "Brother Of Joe Biden’s Closest Advisor Picks Up Amazon As New Client"
+    excerpt: "Amazon has hired Jeff Ricchetti, the brother of Joe Biden’s White House counselor Steve Ricchetti, to work for its cloud platform Amazon Web Services. A new lobbying disclosure report revealed Jeff Ricchetti landed a lobbying contract with the tech retail giant last month,"
+    publishedDateTime: 2020-12-27T17:18:00Z
+    webUrl: "https://www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130"
+    ampWebUrl: "https://www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/23/joe-biden-is-president-elect-despite-president-donald.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "HLTdRLpR0i7ZaprlZtwNC+eMCdHcAIFHF4aQmFwlgC26HbtPO0tMhSqRhYI3JoQcAne2yaauHCfNul7WrimR4V7J4PPRQQwq8/dsDVLDXcxRWW70+UpdhpPuEK8Djvjibkj7BjbHvcTYQO6H6knVakm7EhkUY0IDPUtdzADbUC6lrkWRLVhKg4cvPdS8PDgAHv+fsnRMtBgT9mREpqFXa8FO5siITbjbHU4BrYUAsAR0G6MgTIFenJ+z4wDPZiKEoIM+eHDDWMZJ7HlCz6hOb/qWSeCadxUhyQzVMxNE6oGiERLXMS5GmFLhg8Sxr0UFejrh4GVmn2MYONl7QmoO1Hy0DSUoxUmMffjx8lK6TwwwZmQenITgiLxuztjlDx8hdzeLI2RURymv1o4kScJUweW03LWBcbOh2UK0AURiDx3kL7+J0Or2H8sZCqPmrWFXxF0YEQISdM3LzLJ6EIdICOGIbnEyB4cCr+ArzWPmrW+AzF9qWT+7Xh4k0WPViQF9PJPY9NG4w1imIyhkPpkEoA==;v3icptcuj0kMd0hL4sJeuQ=="
 ---
