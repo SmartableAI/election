@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Florida’s Electoral College votes officially go to Trump and Pence"
-excerpt: "Florida’s 29 Electoral College votes officially were cast for President Donald Trump and Vice President Mike Pence on Monday during a brief ceremony in the Senate chambers of the Capitol."
-publishedDateTime: 2020-12-15T01:33:00Z
-originalUrl: "https://www.sun-sentinel.com/news/politics/os-ne-florida-senate-president-covid-20201214-mizjrtvgjvaobf7sbfgvdagxj4-story.html"
-webUrl: "https://www.sun-sentinel.com/news/politics/os-ne-florida-senate-president-covid-20201214-mizjrtvgjvaobf7sbfgvdagxj4-story.html"
-ampWebUrl: "https://www.sun-sentinel.com/news/politics/os-ne-florida-senate-president-covid-20201214-mizjrtvgjvaobf7sbfgvdagxj4-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/politics/os-ne-florida-senate-president-covid-20201214-mizjrtvgjvaobf7sbfgvdagxj4-story.html?outputType=amp"
+title: "Trump Is Still Pretending He Won the Nobel Peace Prize"
+excerpt: "The superimposition of the Nobel Prize over a clip of Trump with Arab and Israeli leaders implied that he won the humanitarian award. He has not."
+publishedDateTime: 2020-12-29T07:40:00Z
+originalUrl: "https://nymag.com/intelligencer/2020/12/trump-is-still-pretending-he-won-the-nobel-peace-prize.html"
+webUrl: "https://nymag.com/intelligencer/2020/12/trump-is-still-pretending-he-won-the-nobel-peace-prize.html"
+ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/trump-is-still-pretending-he-won-the-nobel-peace-prize.html"
+cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/trump-is-still-pretending-he-won-the-nobel-peace-prize.html"
 type: article
-quality: 90
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Sun Sentinel
-  domain: sun-sentinel.com
+  name: New York Magazine
+  domain: nymag.com
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
 
 images:
-  - url: "https://www.sun-sentinel.com/resizer/i9kUSPHXjws601q_x2SvnMb1Tlw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2IXB2MNHUR5TZX5IUO53ZBUGBM.jpg"
+  - url: "https://pyxis.nymag.com/v1/imgs/cf6/f8e/80bd4a5a0f31b5f082f65c64260c6f9aa5-abraham-accords.1x.rsocial.w1200.png"
     width: 1200
-    height: 800
+    height: 630
     isCached: true
 
 related:
@@ -134,21 +134,21 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Trump Is Still Pretending He Won the Nobel Peace Prize"
-    excerpt: "The superimposition of the Nobel Prize over a clip of Trump with Arab and Israeli leaders implied that he won the humanitarian award. He has not."
-    publishedDateTime: 2020-12-29T07:40:00Z
-    webUrl: "https://nymag.com/intelligencer/2020/12/trump-is-still-pretending-he-won-the-nobel-peace-prize.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/trump-is-still-pretending-he-won-the-nobel-peace-prize.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/trump-is-still-pretending-he-won-the-nobel-peace-prize.html"
+  - title: "Florida’s Electoral College votes officially go to Trump and Pence"
+    excerpt: "Florida’s 29 Electoral College votes officially were cast for President Donald Trump and Vice President Mike Pence on Monday during a brief ceremony in the Senate chambers of the Capitol."
+    publishedDateTime: 2020-12-15T01:33:00Z
+    webUrl: "https://www.sun-sentinel.com/news/politics/os-ne-florida-senate-president-covid-20201214-mizjrtvgjvaobf7sbfgvdagxj4-story.html"
+    ampWebUrl: "https://www.sun-sentinel.com/news/politics/os-ne-florida-senate-president-covid-20201214-mizjrtvgjvaobf7sbfgvdagxj4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/politics/os-ne-florida-senate-president-covid-20201214-mizjrtvgjvaobf7sbfgvdagxj4-story.html?outputType=amp"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 90
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/cf6/f8e/80bd4a5a0f31b5f082f65c64260c6f9aa5-abraham-accords.1x.rsocial.w1200.png"
+      - url: "https://www.sun-sentinel.com/resizer/i9kUSPHXjws601q_x2SvnMb1Tlw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2IXB2MNHUR5TZX5IUO53ZBUGBM.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
   - title: "US Stocks Hit Records After Trump Signs $900B Aid Package"
     excerpt: "Stocks were moderately higher Monday, Dec. 28 in the final week of 2020 after President Donald Trump signed a $900 billion economic aid package that helps reduce uncertainty amid the re-imposition of travel and business curbs in response to a new coronavirus variant."
@@ -162,6 +162,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "UbP7aQY+m/6zDfrw8rxCBXgfouH8evxn680Qfp/SiGNeMPlbcWBJAIblNg0YKjQbaRCuePyrurSZ49EyNHsEsCnLplIhmyCRWu23XBntKYTpSRWrRE3DLMA0DSNC5uQQwC855Tdu5BMOcnE9UyCr3O/KF2PaJrSRHVKa0o310UHYFT69r8DmwLSusBeGrSNV29HChCrRxw/w+NtLPl2w84HJ+ok+6X5mdUAvmtb7J4qgR7E6UmWG8aJQ3shdakOuldGC000pbVUX5coPNBcCmws7HrpUURG6K1julZuPU0U9fxsroLNhNeWp0IAeiNUJinn8ZoLzoTHvBaaufiN/n0wIQ+l6O3H71MqREkNTMr8=;RwvZ782APVlB/lAvfMeyYw=="
+secured: "t4F6AB/lqCCUp5SNXL9h+cy0/dDbqDP6fQYZVs+5+hCWBt8LEFnEktTZz5HQEP1wejpi6Te5Nq6//BJ/2giIN8s655Kzc33g7LxQXvxttQMuZlsP1WCZCBjhDnuHaQh08dWl8PXqX9i1QvRagx9X2yGubmt7f6+/Afk/S/LklPq5AVhGJKDSQgbDhBQOXpupX/3x/qztdL+9V1YmfxVpGL2BGAPSuy75UOCP0NdTFQi2/qYFxo0IDWgnKMxbHkJa0CrSO+CvziBiEph0g8KP5IBrIk/6xKLlOwCECFFxj5Kia9sBujjZjiIPAambGTdjKEW/engl/Umlv65/9wnJhwvDWPdosfiIztrcPeB0RNg=;bbnOEMqxw0hvK5o8Kzwtfw=="
 ---
 

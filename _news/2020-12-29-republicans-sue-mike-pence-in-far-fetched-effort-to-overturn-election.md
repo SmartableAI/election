@@ -1,36 +1,46 @@
 ---
 category: news
-title: "Pence sued by Texas GOP Congressman Louie Gohmert over competing electors"
-excerpt: "A Republican congressman from Texas sued Vice President Mike Pence in the latest long-shot effort to reverse President-elect Joe Biden’s victory over Donald Trump. In the lawsuit, Representative Louie Gohmert seeks a court order forcing the vice president to acknowledge what Gohmert claims is Pence’s power to disregard states’ chosen Democratic electors and instead select competing slates of GOP electors on Jan."
-publishedDateTime: 2020-12-28T20:31:00Z
-originalUrl: "https://www.houstonchronicle.com/politics/texas/article/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
-webUrl: "https://www.houstonchronicle.com/politics/texas/article/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
-ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
+title: "Republicans sue Mike Pence in far-fetched effort to overturn election"
+excerpt: "Several Republicans, including Rep. Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a last-ditch effort to overturn the results of November's presidential election."
+publishedDateTime: 2020-12-29T04:09:00Z
+originalUrl: "https://theweek.com/5things/957540/republicans-sue-mike-pence-farfetched-effort-overturn-election"
+webUrl: "https://theweek.com/5things/957540/republicans-sue-mike-pence-farfetched-effort-overturn-election"
 type: article
-quality: 124
-heat: 224
-published: true
+quality: 70
+heat: -1
+published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: THE WEEK
+  domain: theweek.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://s.hdnux.com/photos/01/11/12/57/19180496/19/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1291466155.jpg?itok=0jqkkpDy&resize=400x267"
+    width: 400
+    height: 267
     isCached: true
 
 related:
+  - title: "Pence sued by Texas GOP Congressman Louie Gohmert over competing electors"
+    excerpt: "A Republican congressman from Texas sued Vice President Mike Pence in the latest long-shot effort to reverse President-elect Joe Biden’s victory over Donald Trump. In the lawsuit, Representative Louie Gohmert seeks a court order forcing the vice president to acknowledge what Gohmert claims is Pence’s power to disregard states’ chosen Democratic electors and instead select competing slates of GOP electors on Jan."
+    publishedDateTime: 2020-12-28T20:31:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 124
+    images:
+      - url: "https://s.hdnux.com/photos/01/11/12/57/19180496/19/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Louie Gohmert sues Mike Pence in bid to overturn election results"
     excerpt: "A group of Republicans led by Rep. Louie Gohmert on Monday sued Vice President Mike Pence arguing that he is legally authorized to choose pro-Trump electors when Congress meets next month to certify the results of the presidential election."
     publishedDateTime: 2020-12-28T18:42:00Z
@@ -63,20 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Republicans sue Mike Pence in far-fetched effort to overturn election"
-    excerpt: "Several Republicans, including Rep. Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a last-ditch effort to overturn the results of November's presidential election."
-    publishedDateTime: 2020-12-29T04:09:00Z
-    webUrl: "https://theweek.com/5things/957540/republicans-sue-mike-pence-farfetched-effort-overturn-election"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 70
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1291466155.jpg?itok=0jqkkpDy&resize=400x267"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Republicans sue Mike Pence in last-ditch effort to overturn election"
     excerpt: "Several Republicans, including Rep. Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a last-ditch effort to overturn the results of November's presidential election."
     publishedDateTime: 2020-12-28T18:26:00Z
@@ -108,6 +104,6 @@ related:
         height: 675
         isCached: true
 
-secured: "E47ic/KNJnNeNt5aiY9CVJe4NhUD7IrI/B/Kv3sH1dtCvyFvDj1z1Pr3UCz7flski6zTFPnr4MwxNwJWA8fjoZMWeiSXml12W0XnBuKEnjQjRcfyXDoDrBiA/WD6iMHqEoHe/VaxtxEemJjsz0SgU342i1Lq0wtQc9RINui7b1OuHHVAYMhoiZ+cIJrbDqsK/TEO0tJn6e1P1jdpTvrthonYn6Nbwt151mUYXawplMzfi8OhiYFWVEm8SR5efznhhW2s7q80s9IbjLUQQLC9SPw/Aevkshura7MP/fa/0teUiJ69gPaYMuJp+V0NKchWX8t/zv/MEE9We9bVlGEquKrjJvTb8Y8Hj+f768LZjkU=;B5tuQy9m6zqhvXA53nNSFw=="
+secured: "yAmGLP9DQ99qUhAwLsfvLdLw84Z/7R5eaXJIr1H6+xUTbPfdc1ULR/Q62lM9T5EdbuLBluSRsJXQ8cdWP/H2vzEynG0mSvrjgEfLLUY/AsCoatR0H477AnZoAe5EMTfmspQqov733jRaQmQD44wT3ASymHlW2W2ZIK1WLpRj6hlQpKaAU87B3tcb4/9RU0vH5k/+bN2EQcWR8YiI7bfKks9ln1jKDezWjQEo/Cel3z90sPacwDt2NLICw03d5l9XD0+H2MoS0dZWtv1lnhqWRkyum7vWJQsJo8wPM3/M7s+22KoBNxeKXPl+Y6SQlLxpcNF3UxXs6RQMQb2/j2zqpAnHo1UjZW7cnAzW5Z7dieo=;c2BWmz5zG0NCA3lO2TPQjg=="
 ---
 

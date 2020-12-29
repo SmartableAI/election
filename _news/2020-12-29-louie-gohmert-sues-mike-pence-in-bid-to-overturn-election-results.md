@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Republicans sue Mike Pence in far-fetched effort to overturn election"
+    excerpt: "Several Republicans, including Rep. Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a last-ditch effort to overturn the results of November's presidential election."
+    publishedDateTime: 2020-12-29T04:09:00Z
+    webUrl: "https://theweek.com/5things/957540/republicans-sue-mike-pence-farfetched-effort-overturn-election"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 70
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1291466155.jpg?itok=0jqkkpDy&resize=400x267"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Republicans sue Mike Pence in last-ditch effort to overturn election"
     excerpt: "Several Republicans, including Rep. Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a last-ditch effort to overturn the results of November's presidential election."
     publishedDateTime: 2020-12-28T18:26:00Z

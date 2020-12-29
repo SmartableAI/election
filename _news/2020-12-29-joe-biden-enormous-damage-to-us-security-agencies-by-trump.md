@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden: 'Enormous damage' to US security agencies by Trump"
-excerpt: "Agencies critical to US security have suffered \"enormous damage\" at the hands of the Trump administration, US President-elect Joe Biden has said. Mr Biden said his team was not getting the information it needed,"
+excerpt: "Video caption Agencies critical to US security have suffered \"enormous damage\" at the hands of the Trump administration, US President-elect Joe Biden has said. Mr Biden said his team was not getting the information it needed,"
 publishedDateTime: 2020-12-28T22:23:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-55470625"
-webUrl: "https://www.bbc.com/news/world-us-canada-55470625"
+originalUrl: "https://www.bbc.com/news/amp/world-us-canada-55470625"
+webUrl: "https://www.bbc.com/news/amp/world-us-canada-55470625"
 ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55470625"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55470625"
 type: article
@@ -401,6 +401,6 @@ related:
         height: 683
         isCached: true
 
-secured: "001rzoAk5zkOYDq6ecGkiGARQ221v/eG8LRN/TIz/nTb0FEmhSw90tJdPoTOSSGWur60m1jEWerfTXbO5bR5gsjS/JG5JzXuL8Sk080vjfGmiQ5PrzkEg2vIiTOZqvRQV+FTWzRz7LWLtdDhUeQXWDKED8FqRy4+OfTQiAV5Dw/3Kl++5SsDRD1QzksP5rkRUPV8MqlyhqBbBkJBCzCGDdcQTpbAyb1BhHKS2XGovEP0jcos5IPxStrHzIwjMpPH6KQYBzfHZ4v534t2YG3ZgHXmaCS9AJlkVstgVKAGTcoqCUvn7XsHFqHm1c3HlhjqWLtoRNIWdJq4dVjW1WjOQaxeqIQbz/EiPcugA6sIUD4GBz6lyfyam7Kig5sTUf4b3zyqx41AWVQfL6RH/csBzabrFyUHCS8fQ7xzKAICCuPpDOENf/VAPGsKLSMS6wD8WMsDoFxYiftgKBqUJ/33rN+wsX0vSPT19xFvfw5MMN/UwrpMhfSMhmUL+ppShY3ssp+85264Q1FUZ2p+1Oa4Wg==;r9tkF/9/PViJuaAJo2C1CQ=="
+secured: "cMm5v7U3Ef1ZOrWNmzvEjZjmrHcWqlFi+EiwKcKL16B1YFGWxSzhM2aWqGYUPkxHFB0huV3+55KHBR5Dwlvp+0DktdBFDM1S/JBSatkQm8mViLJ55Hc+2bqWYDK0DYbYFD8FAl/XR1OSgQADvxxVZ4iZ1VKQ/KoIXyoJEPVE31FH09mh5aMfX/b1+7T+y7kAG+hxgm+u/p1anMVi2yIioJ3NdRmcyZIaRMWZrZChmb5dpYQvVuOv5v/LM2R+s+aKyeKajO4HsyOcgElqwqcLdlpGjQVA7SHT1g2MjQXlycDwDXy9mDUCdlwcN1NxuYbht9nox7u0+kS4DotE0ywq7leGQhw6lh0zF9Jex/+TYTM=;OSsVIffYWW1JzHLfS3qyOw=="
 ---
 

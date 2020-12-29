@@ -96,9 +96,9 @@ related:
         height: 545
         isCached: true
   - title: "Joe Biden: 'Enormous damage' to US security agencies by Trump"
-    excerpt: "Agencies critical to US security have suffered \"enormous damage\" at the hands of the Trump administration, US President-elect Joe Biden has said. Mr Biden said his team was not getting the information it needed,"
+    excerpt: "Video caption Agencies critical to US security have suffered \"enormous damage\" at the hands of the Trump administration, US President-elect Joe Biden has said. Mr Biden said his team was not getting the information it needed,"
     publishedDateTime: 2020-12-28T22:23:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55470625"
+    webUrl: "https://www.bbc.com/news/amp/world-us-canada-55470625"
     ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55470625"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55470625"
     type: article
