@@ -2,11 +2,11 @@
 category: news
 title: "Biden: Trump aides setting 'roadblocks' for his transition team"
 excerpt: "President-elect Joe Biden said on Monday many of America's security agencies had been \"hollowed out\" under President Donald Trump and the lack of information being provided to his transition team by the outgoing administration was an \"irresponsibility."
-publishedDateTime: 2020-12-29T05:41:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-nationalsecurity-idUSKBN2921U4"
-webUrl: "https://www.reuters.com/article/us-usa-biden-nationalsecurity-idUSKBN2921U4"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2921U4"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2921U4"
+publishedDateTime: 2020-12-29T08:43:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-nationalsecurity-idINKBN293075"
+webUrl: "https://www.reuters.com/article/usa-biden-nationalsecurity-idINKBN293075"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN293075"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN293075"
 type: article
 quality: 140
 heat: -1
@@ -22,7 +22,7 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545991901&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0X6"
@@ -80,9 +80,9 @@ related:
         height: 576
         isCached: true
   - title: "Joe Biden: 'Enormous damage' to US security agencies by Trump"
-    excerpt: "Video caption Agencies critical to US security have suffered \"enormous damage\" at the hands of the Trump administration, US President-elect Joe Biden has said. Mr Biden said his team was not getting the information it needed,"
+    excerpt: "Agencies critical to US security have suffered \"enormous damage\" at the hands of the Trump administration, US President-elect Joe Biden has said. Mr Biden said his team was not getting the information it needed,"
     publishedDateTime: 2020-12-28T22:23:00Z
-    webUrl: "https://www.bbc.com/news/amp/world-us-canada-55470625"
+    webUrl: "https://www.bbc.com/news/world-us-canada-55470625"
     ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55470625"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55470625"
     type: article
@@ -401,6 +401,6 @@ related:
         height: 683
         isCached: true
 
-secured: "CCzERCBG83b8cMsfK5vo57KQ2kZ2OOIpZ5VpgnjSYMh4Y1PGzeWL8x07rM7RhoGwxF3kj89Eji3+CLTbE5UO2rPXoqu2c7x7TI1n+RG/3fg/qCzkDQq7YfiZ4nRS+3x1O5D0zqtOUvNFe7cLcUNmnhXOLIqIrzswepwyzN8p79Z7gx9A2+8pVD1iNngvS165f6cu/n9jD2GpHhj1VoQ6QlwT8Prn9jh5+rmNBiAU47HyCZ+Dv3VyDjoWbxfNVb4xJlOBG9P4h5blyqC8txATY2BZyNG565Ldr2twSxi/tg12wWYSm1LvZQxx2G2aUDDaq6S2lScvpHfpHpxYzAwNa+NxfZIL31CSlZ+qbN19lt0=;LfAQrqxgvMR+/UjaipI69Q=="
+secured: "hbAa4C0w8Ol8FLazZMQPEA30h5SWjDALnocHgJc8sdOpgzcQMVmMUseks9Sdclk+TU8DiOdpwT924z7TxjJbb1AS1c6YDkKCaMvAj9P9lDwymDhFM/PSqBYozIwmNr6LbNoXAKFUMAFyrXxtCjWp41Pn88QQaxXR9hTgU1SJHLZrfJazynqE/Lr6KlFYpnzhLSTY6/fXEDBwyuN4fkgC25DUvbr1j39mLWPNcuX0wpoTd3BQBq4I620a5yFV+IK5xtVyZNBiWSvuvTk4v8/PryuWk+JwIXF/UsZMHBfdLb85psqutc9rYHcXWwCJeb2O443yyLDFy5qbwh+KUH98tAUq9nt/IktNvXYnEJuzHjU=;FVbUAuHoduxlq0aJmTzI1g=="
 ---
 

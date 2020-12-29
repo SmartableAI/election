@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-29-trumps-unplanned-gift-to-biden-clean-energy-on-the-rise.md",
+      "title": "Trump's unplanned gift to Biden: Clean energy on the rise",
+      "excerpt": "Oil and gas producers are struggling amid weak prices and growing pressure to address climate change — a trend that could help Biden make a U-turn in energy policy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/29/trump-biden-clean-energy-451546",
+      "originalUrl": "https://www.politico.com/news/2020/12/29/trump-biden-clean-energy-451546",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/03/fc/9e99086b4ff19262800af9f1489d/20201224-gasplant-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-29T01:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-georgia-senator-fighting-for-reelection-personally-lobbied-trump-to-sign-spending-bill.md",
       "title": "Georgia senator fighting for reelection personally lobbied Trump to sign spending bill",
       "excerpt": "Republican Sen. David Perdue of Georgia spoke to President Donald Trump this week to personally lobby him to sign into law the omnibus spending bill that includes $900 billion in coronavirus relief, a person familiar with their conversation told CNN.\n    \n",
@@ -14,7 +71,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 902,
+      "heat": 922,
       "tags": null,
       "images": [
         {
@@ -973,7 +1030,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1634,63 +1691,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-covid-19-live-updates-pence-mcconnell-and-other-us-officials-receive-vaccines.md",
-      "title": "Covid-19 Live Updates: Pence, McConnell and Other U.S. Officials Receive Vaccines",
-      "excerpt": "Experts fear the country’s deep partisan divide may limit the vaccine's reach to Republicans. France’s president details his symptoms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2020/12/18/world/covid-19-coronavirus",
-      "originalUrl": "https://www.nytimes.com/live/2020/12/18/world/covid-19-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/18/us/18virus-briefing-covax/18virus-briefing-covax-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2020/12/18/world/covid-19-coronavirus.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/18/world/covid-19-coronavirus.amp.html",
-      "publishedDateTime": "2020-12-18T11:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Democratic Voice"
       ]
     }

@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House veto override may show Trump's grip on GOP slipping"
+    excerpt: "President Donald Trump's ability to scramble American political lines continues even from the golf course, with House votes Monday showing that his feverish hold over the GOP -- and US government -- is hurtling toward a humbling end.\n    \n"
+    publishedDateTime: 2020-12-29T05:02:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DV6Cff8dZmc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/donald-trump-house-votes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/donald-trump-house-votes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227185708-03-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Here's what happens if Trump doesn't sign the $900 billion relief package"
     excerpt: "Though Congress has passed a $900 billion Covid relief package, millions of Americans are in danger of losing important benefits just after the holidays if President Donald Trump continues to refuse to sign the bill.\n    \n"
     publishedDateTime: 2020-12-24T18:34:08Z

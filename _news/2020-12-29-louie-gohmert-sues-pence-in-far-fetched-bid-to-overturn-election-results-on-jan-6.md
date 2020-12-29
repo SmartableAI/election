@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "GOP legislators sue Mike Pence in latest effort to undo election results"
+    excerpt: "The lawsuit, led by Texas Rep. Louie Gohmert, aims to have a judge allow Vice President Mike Pence to choose which electoral votes to count in key states that President Trump lost."
+    publishedDateTime: 2020-12-29T10:29:00Z
+    webUrl: "https://www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html"
+    ampWebUrl: "https://www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 89
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JWTMB2TV3RDGFEJHU4SWWC5A34.jpg"
+        width: 3052
+        height: 2034
+        isCached: true
   - title: "Republicans sue Mike Pence in far-fetched effort to overturn election"
     excerpt: "Several Republicans, including Rep. Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a last-ditch effort to overturn the results of November's presidential election."
     publishedDateTime: 2020-12-29T04:09:00Z

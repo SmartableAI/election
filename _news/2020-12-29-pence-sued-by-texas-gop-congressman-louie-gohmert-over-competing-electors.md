@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Pence-Sued-by-GO
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
 type: article
 quality: 124
-heat: 224
+heat: 244
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/07/29/congress_judiciary_96421_c0-0-3786-2208_s1200x700.jpg?962ee6637fa28f773de275bdd510053858c8f287"
         width: 1200
         height: 700
+        isCached: true
+  - title: "GOP legislators sue Mike Pence in latest effort to undo election results"
+    excerpt: "The lawsuit, led by Texas Rep. Louie Gohmert, aims to have a judge allow Vice President Mike Pence to choose which electoral votes to count in key states that President Trump lost."
+    publishedDateTime: 2020-12-29T10:29:00Z
+    webUrl: "https://www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html"
+    ampWebUrl: "https://www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 89
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JWTMB2TV3RDGFEJHU4SWWC5A34.jpg"
+        width: 3052
+        height: 2034
         isCached: true
   - title: "Louie Gohmert sues Pence in far-fetched bid to overturn election results on Jan. 6"
     excerpt: "Rep. Louie Gohmert of Tyler is suing Vice President Mike Pence in an improbable bid to overturn President-elect Joe Biden’s victory. Gohmert and"

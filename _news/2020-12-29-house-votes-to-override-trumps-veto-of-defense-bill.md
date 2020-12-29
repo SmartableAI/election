@@ -2,7 +2,7 @@
 category: news
 title: "House votes to override Trump's veto of defense bill"
 excerpt: "The House of Representatives on Monday voted to override President Donald Trump's veto of the sweeping defense bill known as the National Defense Authorization Act, delivering a bipartisan rebuke to the President.\n    \n"
-publishedDateTime: 2020-12-29T00:09:18Z
+publishedDateTime: 2020-12-29T01:45:43Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RywnXmgfcSk/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RywnXmgfcSk/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/veto-override-vote-ndaa-congress/index.html"
@@ -1210,6 +1210,6 @@ related:
         height: 773
         isCached: true
 
-secured: "ZKywLdvesq/k6bjF0ajdajGYrCTXVB5juOBiV+hLNYloSyLLLcoEL0vvFd0UFxVnEVGKCiPEPop9bADJu+Rwc+bVk1bIWwyLisLGVjn1TiYAB3LUlJ+12RYXUg5x9Sv3CSTD2yqh3jhSk/ubZ7GPmHhNOzhyqkVwa6MVUC4Df1RubukczILKv5QZ+X8JSchUyDJKdkjtrqsKl5+b63ivKI+pv4T9d/2Jkt+lAY0BbRH6J9IYjjrzjb2EBv+EdLehEV2sFVGj+jhOd5rEKFnK+rZ5Gwn2gNb77iwSa/Lk8p3+QhVMGNs5A3V0n9V6pTxwu0uNZHQ2RcEsIVnIrtza2gqb5EIO5mEp4NX2z/bAkug=;uedl6ySYK6rJPPmW4cJSqg=="
+secured: "0Zu1McpqMbMGL5NaYPeWzIchLbJoFxCjwymPkFrtar1Veoq2s4F8Om7dA4ImXfJXuGGh2OC+RmobEGbCUg4tAlCaHGctogi57UJYkx9Yco687sa39NFdZps5NJOAWbKrxTlE0bFDHWE/Q6D7tn7Q8tJpDCa/ujkt8Qr20EAWP5hnoecHvPHNmgsAN+WArIuAJz8Vi2gd2CvO483qH+6/VWT/uVhw5hlOn2/5h4l2zrTFyWrj+huQtJYp7fW08jtwkD57huJCRLug7LKPXAjjOpox8A28VNuZWzovkBUiXpKuJX1IIXI/797VFcx+ytpy93Nrdtpekh3895EgX97llRtMMdI2UyLHkiVB6ZO18v0=;DK2Q21n86McZNLpaB5EjCQ=="
 ---
 

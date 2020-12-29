@@ -2,6 +2,58 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-11-12-a-biden-covid-19-advisor-called-for-a-national-lockdown-lasting-up-to-6-weeks-the-us-had-a-big-pool-of-money-to-pay-for-any-lost-wages-he.md",
+      "title": "A Biden COVID-19 advisor called for a national lockdown lasting up to 6 weeks. The US had a 'big pool of money' to pay for any lost wages, he said.",
+      "excerpt": "Dr. Michael Osterholm said the US had a \"big pool of money\" that could get the economy back on track during lockdown while a vaccine rolls out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11",
+      "originalUrl": "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fad008a7f8f4200182a671c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp",
+      "publishedDateTime": "2020-11-12T03:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win.md",
       "title": "Mississippi lawmaker apologizes after calling for state to leave US over Biden win",
       "excerpt": "The prospect of a Joe Biden presidency was a deal breaker, one Republican state lawmaker in Mississippi appeared to say last week.",
@@ -1315,58 +1367,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-keep-the-tough-approach-or-seek-cooperation-china-looms-large-for-biden.md",
-      "title": "Keep the tough approach or seek cooperation? China looms large for Biden.",
-      "excerpt": "How the United States fashions its most consequential foreign relationship will depend a lot on which view of Xi Jinping the president-elect embraces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I4U264BCD4I6XHCKBXDCILCICQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp",
-      "publishedDateTime": "2020-11-10T16:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

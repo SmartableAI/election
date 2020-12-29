@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-29-trumps-unplanned-gift-to-biden-clean-energy-on-the-rise.md",
+      "title": "Trump's unplanned gift to Biden: Clean energy on the rise",
+      "excerpt": "Oil and gas producers are struggling amid weak prices and growing pressure to address climate change — a trend that could help Biden make a U-turn in energy policy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/29/trump-biden-clean-energy-451546",
+      "originalUrl": "https://www.politico.com/news/2020/12/29/trump-biden-clean-energy-451546",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/03/fc/9e99086b4ff19262800af9f1489d/20201224-gasplant-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-29T01:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-fate-of-trumps-2000-checks-now-rests-with-gop-led-senate.md",
       "title": "Fate of Trump's $2,000 checks now rests with GOP-led Senate",
       "excerpt": "President Donald Trump ’s push for $2,000 COVID-19 relief checks now rests with the Senate after the House voted overwhelmingly to meet the president's demand to increase the $600 stipends, but Republicans have shown little interest in boosting spending.",
@@ -592,7 +649,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -1511,58 +1568,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-trump-just-blew-up-the-stimulus-and-spending-bill-what-happens-now.md",
-      "title": "Trump just blew up the stimulus and spending bill. What happens now?",
-      "excerpt": "It's crunch time. Here's a breakdown of where things stand on the stimulus agreement, the $2,000 direct payment proposal and what could happen next.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12",
-      "originalUrl": "https://www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 405,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe36dc3a644880018193234?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12?amp",
-      "publishedDateTime": "2020-12-23T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

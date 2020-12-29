@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-12-13-pro-trump-demonstrators-gather-saturday-in-washington.md",
+      "title": "Pro-Trump demonstrators gather Saturday in Washington",
+      "excerpt": "Protesters who refuse to accept that President-elect Joe Biden won the election have begun arriving in Washington for what organizers have called a “March for Trump.” They are expected to fan out across the city Saturday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZH6EKZR4SEI6XKWZRFMSE4UAYQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-12T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-12-analysis-trump-deal-with-morocco-is-yet-another-headache-for-biden-team.md",
       "title": "Analysis: Trump deal with Morocco is yet another headache for Biden team",
       "excerpt": "On Thursday, Morocco became the fourth Arab state this year to announce it would establish relations with Israel. It was another diplomatic win for the Trump administration, with US President Donald Trump tweeting that it was \"a massive breakthrough for peace in the Middle East!\"\n    \n",
@@ -1273,58 +1325,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-biden-facing-pressure-to-pick-congresswoman-deb-haaland-as-interior-secretary.md",
-      "title": "Biden facing pressure to pick Congresswoman Deb Haaland as Interior Secretary",
-      "excerpt": "Tribal leaders, progressives and prominent women have called for Biden to pick Haaland as his interior secretary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "originalUrl": "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/b2eecec4-b9a3-4c93-86db-a3f95fb27228/thumbnail/1200x630/90609bf67298dd0107ed148f9f4142a1/gettyimages-1044568894.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "publishedDateTime": "2020-12-10T17:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -479,7 +479,7 @@ related:
         isCached: true
   - title: "House votes to override Trump's veto of defense bill"
     excerpt: "The House of Representatives on Monday voted to override President Donald Trump's veto of the sweeping defense bill known as the National Defense Authorization Act, delivering a bipartisan rebuke to the President.\n    \n"
-    publishedDateTime: 2020-12-29T00:09:18Z
+    publishedDateTime: 2020-12-29T01:45:43Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RywnXmgfcSk/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/veto-override-vote-ndaa-congress/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/veto-override-vote-ndaa-congress/index.html"

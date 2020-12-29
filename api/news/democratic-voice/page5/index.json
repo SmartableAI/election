@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-26-flournoy-gets-progressive-boost-in-bidens-search-for-pentagon-chief.md",
+      "title": "Flournoy gets progressive boost in Biden's search for Pentagon chief",
+      "excerpt": "\"We believe Michèle Flournoy is the best candidate for the job,\" a group of arms control veterans write in an open letter to Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/11/25/michele-flournoy-biden-defense-secretary-440803",
+      "originalUrl": "https://www.politico.com/news/2020/11/25/michele-flournoy-biden-defense-secretary-440803",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d1/b8/2ffd1b81423daf4161ba1ad258a2/201125-michele-flournoy-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/11/25/michele-flournoy-biden-defense-secretary-440803",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/25/michele-flournoy-biden-defense-secretary-440803",
+      "publishedDateTime": "2020-11-25T18:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-chinese-leader-xi-jinping-congratulates-biden-on-winning-election.md",
       "title": "Chinese leader Xi Jinping congratulates Biden on winning election",
       "excerpt": "Chinese President Xi Jinping on Wednesday sent a congratulatory message to President-elect Joe Biden, more than two weeks after the Democratic candidate was projected the winner of the US presidential election.\n    \n",
@@ -1607,62 +1664,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/11/17/anthony-scaramucci-lists-three-pieces-trumps-endgame-ctn-vpx.cnn",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/17/anthony-scaramucci-lists-three-pieces-trumps-endgame-ctn-vpx.cnn",
       "publishedDateTime": "2020-11-16T21:41:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-new-york-times-trump-asked-advisers-about-possible-strike-on-iranian-nuclear-site.md",
-      "title": "New York Times: Trump asked advisers about possible strike on Iranian nuclear site",
-      "excerpt": "President Donald Trump last week asked senior aides what possibilities he had for an offensive strike on Iran's primary nuclear site, The New York Times reported Monday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DWHlTSLyJ34/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DWHlTSLyJ34/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201114102305-01-trump-rose-garden-1113-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/16/politics/trump-possible-offensive-iran-nuclear-site/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/trump-possible-offensive-iran-nuclear-site/index.html",
-      "publishedDateTime": "2020-11-16T19:31:23-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-17-new-york-times-trump-asked-advisers-about-possible-strike-on-iranian-nuclear-site.md",
+      "title": "New York Times: Trump asked advisers about possible strike on Iranian nuclear site",
+      "excerpt": "President Donald Trump last week asked senior aides what possibilities he had for an offensive strike on Iran's primary nuclear site, The New York Times reported Monday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DWHlTSLyJ34/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DWHlTSLyJ34/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201114102305-01-trump-rose-garden-1113-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/16/politics/trump-possible-offensive-iran-nuclear-site/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/trump-possible-offensive-iran-nuclear-site/index.html",
+      "publishedDateTime": "2020-11-16T19:31:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-15-largely-out-of-sight-in-washington-kamala-harris-preps-for-white-house.md",
       "title": "Largely Out of Sight in Washington, Kamala Harris Preps for White House",
       "excerpt": "Ms. Harris has barely appeared on the public radar since her acceptance speech last Saturday in Wilmington, Del., where she declared “a new day for America.”",
@@ -1635,63 +1691,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-home-vandalized-after-california-man-hangs-effigy-of-biden.md",
-      "title": "Home vandalized after California man hangs effigy of Biden",
-      "excerpt": "The Northern California home of a supporter of President Donald Trump was vandalized Friday after an effigy of Joe Biden accompanied by the word \"cheater\" was hung from its second-story roof with a rope,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/us-news/home-vandalized-after-california-man-hangs-effigy-biden-n1246876",
-      "originalUrl": "https://www.nbcnews.com/news/us-news/home-vandalized-after-california-man-hangs-effigy-biden-n1246876",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_45/3426637/201106-brentwood-home-damage-cover-inline-jm-1949_4010630804b95605f983e1db6345adb2.jpg",
-          "width": 1245,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1246876",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1246876",
-      "publishedDateTime": "2020-11-06T17:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

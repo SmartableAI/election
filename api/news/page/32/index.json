@@ -2,6 +2,54 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-11-09-wonder-woman-star-lynda-carter-celebrates-kamala-harris-win-on-45th-anniversary-of-the-show.md",
+      "title": "'Wonder Woman' star Lynda Carter celebrates Kamala Harris' win on 45th anniversary of the show",
+      "excerpt": "Wonder Woman” actress Lynda Carter shared a congratulatory note to Vice President-elect Kamala Harris on a special day for fans of the superhero TV series.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/wonder-woman-lynda-carter-kamala-harris-45-anniversary",
+      "originalUrl": "https://www.foxnews.com/entertainment/wonder-woman-lynda-carter-kamala-harris-45-anniversary",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-08T12:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-inside-the-dems-florida-flop-turnout-rural-success-propelled-trump-in-the-sunshine-state.md",
       "title": "Inside the Dems' Florida flop: Turnout, rural success propelled Trump in the Sunshine State",
       "excerpt": "But that alone does not explain why Biden lost the state by about 375,000 votes, a substantial gap in a state known for paper-thin margins. An analysis of post-election data shows that several factors played into the Democrats' bad day.",
@@ -1290,58 +1338,6 @@
         "Election",
         "Joe Biden",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-breakingviews-biden-win-sets-scene-for-storm-before-the-calm.md",
-      "title": "Breakingviews - Biden win sets scene for storm before the calm",
-      "excerpt": "Americans chose Joe Biden as their 46th president. That should usher in a more predictable period for policymaking, and decisive action on containing Covid-19. But he faces three major challenges: voters’ effective rejection of his party’s punchier ideas,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-biden-win-sets-scene-for-storm-before-the-calm-idUSKBN27N0NT",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-biden-win-sets-scene-for-storm-before-the-calm-idUSKBN27N0NT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540367165&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60HN",
-          "width": 990,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27N0NT",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0NT",
-      "publishedDateTime": "2020-11-07T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

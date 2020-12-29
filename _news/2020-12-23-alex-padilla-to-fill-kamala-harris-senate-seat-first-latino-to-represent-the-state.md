@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris to receive Covid-19 vaccine Tuesday "
+    excerpt: "Vice President-elect Kamala Harris is expected to receive the first dose of a Covid-19 vaccine on Tuesday, according to the Biden transition team.\n    \n"
+    publishedDateTime: 2020-12-29T10:00:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ERdQBFizyAA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/kamala-harris-covid-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/kamala-harris-covid-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203235547-kamala-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "etFdBQ4uDWkE7zI6a7MCZootwFUXn9zZsTOPsHapEevW/xWiEX/lEgZkULxQbdCf9pSPOYmQ9ab0M/umssLxavJe8mdm6Gdlg3hmsvjcE1GixOOxy4AuLePqP5d9CiRnvcBbWxfmqRgM6l4EbNvN9zxt6wXRCCSr4/wheFz+eu1yabp5lJOaKGF125HX4wE9c0s8sZWMb8yDNlDfwUDx1FBO8unj90woculDXjiLcDssm3FJKHGRHAKH7Iz4g/LmGmdpsyCrlwyI2OllWLlMl2eEWRSrK9DI03AxbpNZghhRYdoC0leZG2XMLo3NRvdMgaKArjqaLFjPV6jupFgaF1My7nj6+DBLcxaEPdnCv3/ZNmRXI4lBMy4pi7PpU0Rv1N/hcjx7Ts2zTBe9oZs5y0OxuZVuaODD9UTXWh+0ppDV1k0dVIvY926W9sTQIp3OBlFx6bidp6mbxyufUI7+mZ7iLY4gy2gl5Bo6WDxQc2fWhcGlhKjBJjFELpCCH/OqQc0iVU/AOxBZL182/POVpw==;kAKksHsPZCywAIfVLv82xg=="
 ---

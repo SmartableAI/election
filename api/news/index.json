@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-29-trumps-unplanned-gift-to-biden-clean-energy-on-the-rise.md",
+      "title": "Trump's unplanned gift to Biden: Clean energy on the rise",
+      "excerpt": "Oil and gas producers are struggling amid weak prices and growing pressure to address climate change — a trend that could help Biden make a U-turn in energy policy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/29/trump-biden-clean-energy-451546",
+      "originalUrl": "https://www.politico.com/news/2020/12/29/trump-biden-clean-energy-451546",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/03/fc/9e99086b4ff19262800af9f1489d/20201224-gasplant-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-29T01:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-fate-of-trumps-2000-checks-now-rests-with-gop-led-senate.md",
       "title": "Fate of Trump's $2,000 checks now rests with GOP-led Senate",
       "excerpt": "President Donald Trump ’s push for $2,000 COVID-19 relief checks now rests with the Senate after the House voted overwhelmingly to meet the president's demand to increase the $600 stipends, but Republicans have shown little interest in boosting spending.",
@@ -118,7 +175,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 902,
+      "heat": 922,
       "tags": null,
       "images": [
         {
@@ -430,7 +487,7 @@
       "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -1263,58 +1320,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-live-politics-updates-biden-bashes-trumps-abdication-of-responsibility-on-covid-relief-bill.md",
-      "title": "Live politics updates: Biden bashes Trump's 'abdication of responsibility' on COVID relief bill",
-      "excerpt": "\"This abdication of responsibility has devastating consequences,\" Biden said, warning Trump put unemployment aid and other vital services at risk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 708,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/27/USAT/ebfb5d0f-d98f-40ee-a919-a3b84dd66128-AP_Biden_1.jpg?auto=webp&crop=3689,2075,x0,y385&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4052084001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052084001",
-      "publishedDateTime": "2020-12-27T05:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

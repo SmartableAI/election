@@ -3048,6 +3048,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The ways Donald Trump and Republicans have tried to overturn Joe Biden's 2020 win"
+    excerpt: "Rep. Louie Gohmert's lawsuit is the latest in a series of attempts by Trump's allies to overturn the results of the 2020 general election."
+    publishedDateTime: 2020-12-29T10:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/29/how-trump-and-republicans-have-tried-overturn-2020-election/4064558001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4064558001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4064558001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 135
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/f5e585fb-71ca-4949-bb65-85ceecf55c4e-AP_Virus_Outbreak_Trump_Congress.jpg?auto=webp&crop=2101,1182,x0,y107&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Health 202: Biden is expected to unwind dozens of Trump-era health-care changes"
     excerpt: "Hitting rewind will be President-elect Joe Biden’s chief way of acting on health-care policy — at least for the next two years. Biden appointees in the White House and federal health agencies are expected to unwind dozens of Trump administration regulations on Obamacare,"
     publishedDateTime: 2020-11-09T12:42:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/alex-padilla-senate-gavi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/alex-padilla-senate-gavin-newsom/index.html"
 type: article
 quality: 185
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris to receive Covid-19 vaccine Tuesday "
+    excerpt: "Vice President-elect Kamala Harris is expected to receive the first dose of a Covid-19 vaccine on Tuesday, according to the Biden transition team.\n    \n"
+    publishedDateTime: 2020-12-29T10:00:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ERdQBFizyAA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/kamala-harris-covid-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/kamala-harris-covid-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203235547-kamala-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Alex Padilla to fill Kamala Harris' Senate seat, first Latino to represent the state"
     excerpt: "Padilla was considered by many Democrats in the state a shoe-in for the job, given that he and Gov. Gavin Newsom have known each other for decades."
     publishedDateTime: 2020-12-22T18:33:00Z

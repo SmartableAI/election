@@ -2,6 +2,62 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-12-02-william-barr-breaks-with-trumps-election-fantasy.md",
+      "title": "William Barr breaks with Trump's election fantasy",
+      "excerpt": "Attorney General William Barr just dealt the most credible blow to Donald Trump's lies about a stolen election, precisely because he previously often came across more as the President's personal lawyer than a neutral arbiter of justice.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3LaWOvHAMK4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3LaWOvHAMK4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 390,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200902162801-bill-barr-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/02/politics/william-barr-donald-trump-election/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/william-barr-donald-trump-election/index.html",
+      "publishedDateTime": "2020-12-01T23:27:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-trump-allies-barr-giuliani-at-odds-on-discredited-election-fraud-claims.md",
       "title": "Trump allies Barr, Giuliani at odds on discredited election fraud claims",
       "excerpt": "Cracks emerged between two of President Donald Trump's key legal allies on Tuesday as Attorney General William Barr said his department had found no evidence of the widespread voter fraud Trump alleges,",
@@ -1312,58 +1368,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-vice-president-mike-pence-will-visit-memphis-thursday-heres-why.md",
-      "title": "Vice President Mike Pence will visit Memphis Thursday. Here's why.",
-      "excerpt": "Vice President Mike Pence is planning to travel to Memphis Thursday to discuss Operation Warp Speed, the nation's COVID-19 pandemic response.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2020/12/01/vice-president-mike-pence-visit-memphis-operation-warp-speed/3786333001/",
-      "originalUrl": "https://www.usatoday.com/story/news/2020/12/01/vice-president-mike-pence-visit-memphis-operation-warp-speed/3786333001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/19/USAT/a9990e0f-1d48-4a88-8453-d7b48ac0ff46-GTY_1285534426.jpg?auto=webp&crop=3672,2066,x0,y186&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3786333001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3786333001",
-      "publishedDateTime": "2020-11-30T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

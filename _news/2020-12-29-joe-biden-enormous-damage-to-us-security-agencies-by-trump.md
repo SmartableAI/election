@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden: 'Enormous damage' to US security agencies by Trump"
-excerpt: "Video caption Agencies critical to US security have suffered \"enormous damage\" at the hands of the Trump administration, US President-elect Joe Biden has said. Mr Biden said his team was not getting the information it needed,"
+excerpt: "Agencies critical to US security have suffered \"enormous damage\" at the hands of the Trump administration, US President-elect Joe Biden has said. Mr Biden said his team was not getting the information it needed,"
 publishedDateTime: 2020-12-28T22:23:00Z
-originalUrl: "https://www.bbc.com/news/amp/world-us-canada-55470625"
-webUrl: "https://www.bbc.com/news/amp/world-us-canada-55470625"
+originalUrl: "https://www.bbc.com/news/world-us-canada-55470625"
+webUrl: "https://www.bbc.com/news/world-us-canada-55470625"
 ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55470625"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55470625"
 type: article
@@ -81,10 +81,10 @@ related:
         isCached: true
   - title: "Biden: Trump aides setting 'roadblocks' for his transition team"
     excerpt: "President-elect Joe Biden said on Monday many of America's security agencies had been \"hollowed out\" under President Donald Trump and the lack of information being provided to his transition team by the outgoing administration was an \"irresponsibility."
-    publishedDateTime: 2020-12-29T05:41:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-nationalsecurity-idUSKBN2921U4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2921U4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2921U4"
+    publishedDateTime: 2020-12-29T08:43:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-nationalsecurity-idINKBN293075"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN293075"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN293075"
     type: article
     provider:
       name: Reuters
@@ -401,6 +401,6 @@ related:
         height: 683
         isCached: true
 
-secured: "cMm5v7U3Ef1ZOrWNmzvEjZjmrHcWqlFi+EiwKcKL16B1YFGWxSzhM2aWqGYUPkxHFB0huV3+55KHBR5Dwlvp+0DktdBFDM1S/JBSatkQm8mViLJ55Hc+2bqWYDK0DYbYFD8FAl/XR1OSgQADvxxVZ4iZ1VKQ/KoIXyoJEPVE31FH09mh5aMfX/b1+7T+y7kAG+hxgm+u/p1anMVi2yIioJ3NdRmcyZIaRMWZrZChmb5dpYQvVuOv5v/LM2R+s+aKyeKajO4HsyOcgElqwqcLdlpGjQVA7SHT1g2MjQXlycDwDXy9mDUCdlwcN1NxuYbht9nox7u0+kS4DotE0ywq7leGQhw6lh0zF9Jex/+TYTM=;OSsVIffYWW1JzHLfS3qyOw=="
+secured: "LvMNrr/fxuYrjDaiR6D1m7swtPcAKmzOyxUMqXV6yDhLbbCNdDEG4Hc3FTx0ERf3OgelchcPaIMp5gdo7CZ9s9IG4Hl6bqxbvFQZyl6YXWiJ0PbwCqwzCQrYCFnfbQ8nikuHM+Ma2IP45k/55BTgNFj+xB4+kf2h/KFNM9rSykeZ15QWGTRlDIOoA6EkpCrPbWKzP2TqqSf9QDXo47uu4YXS+DYCsYG45UeqB8d6+bVORVo6FXFYJcdJtxOCMjnXiT52bTMxxn3aYVGiDA1qAv76QcNdod2B4HUXJzUma9RGJWvoFhMyxtlD8agy3ZWt1Yv9hrwXXw5PndLtZO7+drDaatTLRL91T+2KHBr5E/g=;WXJvVBdVhR/bYaaeXaFwbQ=="
 ---
 

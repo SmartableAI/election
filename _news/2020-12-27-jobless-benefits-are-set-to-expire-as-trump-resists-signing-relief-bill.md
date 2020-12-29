@@ -176,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House veto override may show Trump's grip on GOP slipping"
+    excerpt: "President Donald Trump's ability to scramble American political lines continues even from the golf course, with House votes Monday showing that his feverish hold over the GOP -- and US government -- is hurtling toward a humbling end.\n    \n"
+    publishedDateTime: 2020-12-29T05:02:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DV6Cff8dZmc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/donald-trump-house-votes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/donald-trump-house-votes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227185708-03-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Dominion Voting Systems CEO doesn't rule out legal action against Trump "
     excerpt: "The chief executive officer of Dominion Voting Systems on Thursday did not rule out taking legal action against President Donald Trump as the election technology company has been the target of conspiracy theories about voter fraud after Trump's election loss to President-elect Joe Biden.\n    \n"
     publishedDateTime: 2020-12-24T15:32:17Z

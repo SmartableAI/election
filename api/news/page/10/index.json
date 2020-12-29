@@ -2,6 +2,62 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-12-14-hunter-biden-email-shows-400g-unreported-income-from-burisma-states-he-needs-to-amend-tax-returns.md",
+      "title": "Hunter Biden email shows $400G unreported income from Burisma, states he needs to 'amend' tax returns",
+      "excerpt": "Hunter Biden did not report “approximately $400,000” in income he collected from his position on the board of Ukrainian natural gas firm Burisma Holdings when he joined in 2014, according to an attorney for his firm who noted that his tax returns needed to be amended, a new email obtained by Fox News",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vI_7pnpmcEk/hunter-biden-email-tax-returns-unreported-burisma-income",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vI_7pnpmcEk/hunter-biden-email-tax-returns-unreported-burisma-income",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-email-tax-returns-unreported-burisma-income.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-email-tax-returns-unreported-burisma-income.amp",
+      "publishedDateTime": "2020-12-14T07:54:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-intel-officials-who-called-hunter-biden-story-russian-disinformation-should-face-consequences-domenech.md",
       "title": "Intel officials who called Hunter Biden story Russian disinformation should face consequences: Domenech",
       "excerpt": "There should be consequences for former intelligence officials who called the Hunter Biden story Russian disinformation, Federalist publisher Ben Domenech said on Monday.",
@@ -1287,58 +1343,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-pro-trump-demonstrators-gather-saturday-in-washington.md",
-      "title": "Pro-Trump demonstrators gather Saturday in Washington",
-      "excerpt": "Protesters who refuse to accept that President-elect Joe Biden won the election have begun arriving in Washington for what organizers have called a “March for Trump.” They are expected to fan out across the city Saturday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZH6EKZR4SEI6XKWZRFMSE4UAYQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-12T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

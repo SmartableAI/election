@@ -65,10 +65,10 @@ related:
         isCached: true
   - title: "Biden: Trump aides setting 'roadblocks' for his transition team"
     excerpt: "President-elect Joe Biden said on Monday many of America's security agencies had been \"hollowed out\" under President Donald Trump and the lack of information being provided to his transition team by the outgoing administration was an \"irresponsibility."
-    publishedDateTime: 2020-12-29T05:41:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-nationalsecurity-idUSKBN2921U4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2921U4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2921U4"
+    publishedDateTime: 2020-12-29T08:43:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-nationalsecurity-idINKBN293075"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN293075"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN293075"
     type: article
     provider:
       name: Reuters
@@ -80,9 +80,9 @@ related:
         height: 545
         isCached: true
   - title: "Joe Biden: 'Enormous damage' to US security agencies by Trump"
-    excerpt: "Video caption Agencies critical to US security have suffered \"enormous damage\" at the hands of the Trump administration, US President-elect Joe Biden has said. Mr Biden said his team was not getting the information it needed,"
+    excerpt: "Agencies critical to US security have suffered \"enormous damage\" at the hands of the Trump administration, US President-elect Joe Biden has said. Mr Biden said his team was not getting the information it needed,"
     publishedDateTime: 2020-12-28T22:23:00Z
-    webUrl: "https://www.bbc.com/news/amp/world-us-canada-55470625"
+    webUrl: "https://www.bbc.com/news/world-us-canada-55470625"
     ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55470625"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55470625"
     type: article

@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-18-jill-biden-says-her-doctorate-is-among-her-proudest-achievements-i-worked-so-hard-for-it.md",
+      "title": "Jill Biden says her doctorate is among her proudest achievements: 'I worked so hard for it'",
+      "excerpt": "Jill Biden was surprised by a recent newspaper op-ed piece suggesting she stop using the \"Dr.\" title before her name, she told TV host Stephen Colbert on Thursday evening.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xkoYXLbWwYM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xkoYXLbWwYM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201218030711-joe-and-jill-biden-on-late-night-with-stephen-colbert-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/jill-biden-responds-wsj-doctor-colbert-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/jill-biden-responds-wsj-doctor-colbert-trnd/index.html",
+      "publishedDateTime": "2020-12-18T05:21:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-trump-has-discussed-rebooting-the-apprentice-as-he-prepares-to-leave-the-white-house-according-to-a-report.md",
       "title": "Trump has discussed rebooting 'The Apprentice' as he prepares to leave the White House, according to a report",
       "excerpt": "The president has reportedly talked to aides about the prospect of reviving the reality TV show in which he starred.",
@@ -1281,58 +1337,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-trump-administration-cuts-200m-in-health-care-funds-to-california-over-abortion-regulations.md",
-      "title": "Trump administration cuts $200M in health care funds to California over abortion regulations",
-      "excerpt": "The office of California Gov. Gavin Newsom criticized the Department of Health and Human Services' move as an ploy “to score cheap political points.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/12/16/trump-hhs-california-abortions-health-care-funds/3936091001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/12/16/trump-hhs-california-abortions-health-care-funds/3936091001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/17/USAT/c0d4457f-287a-47de-8e20-c14e47642a61-AP19180773998983.jpg?auto=webp&crop=2819,1586,x0,y412&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3936091001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3936091001",
-      "publishedDateTime": "2020-12-16T20:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

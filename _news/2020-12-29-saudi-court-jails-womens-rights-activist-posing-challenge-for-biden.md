@@ -2,9 +2,9 @@
 category: news
 title: "Saudi court jails women's rights activist, posing challenge for Biden"
 excerpt: "A Saudi court on Monday sentenced prominent women's rights activist Loujain al-Hathloul to nearly six years in prison, her family said, after her conviction in a trial that has drawn international condemnation."
-publishedDateTime: 2020-12-28T23:43:00Z
-originalUrl: "https://www.reuters.com/article/saudi-rights-women-int-idUSKBN2920RW"
-webUrl: "https://www.reuters.com/article/saudi-rights-women-int-idUSKBN2920RW"
+publishedDateTime: 2020-12-29T06:15:00Z
+originalUrl: "https://www.reuters.com/article/BigStory12/idUSKBN2920T7"
+webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN2920T7"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920RW"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920RW"
 type: article
@@ -124,6 +124,6 @@ related:
         height: 682
         isCached: true
 
-secured: "3dAK7zeFkPnTOOdwdV56OloD62LmRTU+WZVx8+zETe5dIBtAVcpdn0I0DWCAUiIjioTUYve494oHYwRthVunq3xs31CFQ6kpbnCPx8aynvfpcFclp7kgyY4UkdtVcJrALRPjPSoV7cBS8GXmxmA88SSYYYzYtiXLByLGUbFIN/WA3AxlATQu7JSZXDlP4Cdk7VaqrgOyVlEflFLbu+Crf4x/wE4pu1MOymjaLPYUQcLpXeum7TJR+08RIPFO+7cDEUTuwOwF5noR51tikeQR8uTwRuyhZcyGqM7D8tSwKYJPwViIRPFL5xOez88L2xwE67iRfY3T2XM4+GCZMZy8o1rjbpFgFDuLymHUbSxHp0QTpnf4DoOxYuUR7tArDuK0rPMk8GIo6DE/Et/Rk/AsO/u2tw8PMHQSW9/ZBmcpAB+a2iaIHj6xESJJIKSbFZLyuvVuq9DCAg0n7fmZGEwxQMgVVikc1j4rzhzd/7zal+3NjVAO6wMW3XjluWQg9VvPnMgBnOYA1lkNF9JgBTTcVA==;0/ww5BduTVIYF8oX1d4yDA=="
+secured: "JHg56UdivBfo6e0aA/VtKI9vggyHNUa9NR6zmOnjXlOWM00PbEPWhgsDEI4d1+m5zUzfKqb8gASZhktd1e5gzX0fMp2V+0KWv8ib+CHiLaEXtTZoyo33u5NiX/osai6bXCpOLtAfOs+jAL9gRGYcEwI274Y+aBQ4/bTcc2wRYjO9xi2J3zWjzost7FTL4k56I/POHji9KVcJcejhZzPPsNE+88m66el+3BIhkwZIQ+TUiT7/YlMtGOiwNOzAUQlQWOyKGrMtxhfozNt3kqjKjyuhUe2paAb4/4Die4fo9dRuuT4Te0NQjk1o2uvIk5/WZV6EnRK586k3jI5oS92rJnvrBWrSiKSyIxgyiYVHJlc=;Guj+Gj+ZK2WvnDxRppCL/g=="
 ---
 
