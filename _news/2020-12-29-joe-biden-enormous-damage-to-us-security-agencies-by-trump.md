@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55470625"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55470625"
 type: article
 quality: 150
-heat: 350
+heat: 370
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/696A/production/_116268962_gettyimages-1230097563.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Trump-Biden transition live updates: House approves boosting stimulus checks to $2K"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 23 days. The House narrowly passed a bill that would increase the amount of money Americans receive in a second round of pandemic relief stimulus payments to $2,"
+    publishedDateTime: 2020-12-29T00:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74922408"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74922408"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74922408"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/Politics/nancy-pelosi-01-gty-jc-201228_1609197270590_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 901
         isCached: true
   - title: "Biden warns of Trump officials' 'roadblock'"
     excerpt: "President-elect Joe Biden is warning of massive damage done to the national security apparatus by the Trump administration and roadblocks in communication. (Dec. 28)"
@@ -180,6 +196,6 @@ related:
         height: 630
         isCached: true
 
-secured: "J1nVkeB7ncwsjo4bNztVs0QjcYB1zWYSLjTZ3vFX1EsFH23uIeWDpBRaJnrIoWP//DmNxaoaxI0aXGHD4OQNnjiSPHaq6/uDdyNJdEasJilOPJgDNRyW0ZGqvNafmCmVBOhXFQ8t9B4xWWoOMyUFVUbU/gitHT2pcvQJK9UD2qaUeYCI655jSSztdk4ae0rVhTYcd/9aWluk40lMWj6TCR80kStNdLUXkIhw6CYm+ArTstjqEQ7r1gAgalSVVXukc4VnufFsjnAQ/x3eOtnKeY/8MWf7JlPwvt9R2A7JlB2+7GT9JaT4GAIBBF+/YhbdA9rnzxWYuW6JIPwQ03ggGlXB6EMbbg0wIEwJT3Tnf+I=;M01JanFTSt6UXdB8I4XwTw=="
+secured: "wJVy3cnWd6RXwuFl45p7CuKPDKPfyR1jC3mgvGE9gGcSvAiJh0r75VcIHzi5StJBVbFl4HwCDTzI/4eOyUMXNuA41vJEAhyYx+hyxvDLJ1UJahIuGu75DxItdmS8ItsSRPn/GM70+SzRSMaJRVVcQzhqc2DZbAK30Ux1bWeXqzC77w5jWTaF1cAN/suyqconXcYwF3O/9fc8UkiXtIlF3GKugUFUVGZTPMKIp3A7gyUT+Y0xcmQ9emcnoXkZjleBqgXYOfBCvfZ8W3I64Ft25ApD/WK78qz5+Jlk1GXM7GCWe8Qgr3IiqvqEFJOZ5DIDdRWVRunsnpJX14uKGDK13m+oa37wiJ+dER1E6SdGkzkYDVNoInFeqtCzzmIsQeH6DANdGcv5a4ZiXxqTm8h85+pUiXi/KAPJ2lQXWU+vdGeAIFHSm+4fQ55ZxCEYXsCGRd9X7CvEe7hxSxqp6s1kiptEFOeEn/FN2qg1rnHmlmoSN73YFidEGJAtVNY874NKE1RZt3X8LL9MXF5yXJv+7g==;kd/D3oc9IhryFtVp+E9sWA=="
 ---
 

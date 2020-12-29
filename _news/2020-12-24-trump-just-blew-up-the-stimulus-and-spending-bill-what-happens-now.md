@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-2000-checks-stimulus-veto-spen
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12?amp"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545938712&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR07D"
         width: 817
         height: 545
+        isCached: true
+  - title: "House overrides Trump's veto of $740 billion defense funding bill"
+    excerpt: "The House of Representatives on Monday overrode President Trump's veto of an annual must-pass defense policy bill, teeing up what could be the first time Congress overrides a veto from Mr. Trump only weeks before he leaves office."
+    publishedDateTime: 2020-12-29T00:25:00Z
+    webUrl: "https://www.cbsnews.com/news/defense-bill-house-prepare-override-trump-veto/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/defense-bill-house-prepare-override-trump-veto/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/defense-bill-house-prepare-override-trump-veto/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/28/76d8423f-8f35-455b-8ca3-709ab2e4e12a/thumbnail/1200x630g8/aae3459c19b7f076e1a4dce0bf41fb3f/gettyimages-1230310748.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump caves — but not before putting the GOP in an ugly spot"
     excerpt: "Trump's failed gambit essentially cast a spotlight on his own party's refusal to provide more coronavirus relief."

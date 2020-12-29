@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "House overrides Trump's veto of $740 billion defense funding bill"
+    excerpt: "The House of Representatives on Monday overrode President Trump's veto of an annual must-pass defense policy bill, teeing up what could be the first time Congress overrides a veto from Mr. Trump only weeks before he leaves office."
+    publishedDateTime: 2020-12-29T00:25:00Z
+    webUrl: "https://www.cbsnews.com/news/defense-bill-house-prepare-override-trump-veto/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/defense-bill-house-prepare-override-trump-veto/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/defense-bill-house-prepare-override-trump-veto/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/28/76d8423f-8f35-455b-8ca3-709ab2e4e12a/thumbnail/1200x630g8/aae3459c19b7f076e1a4dce0bf41fb3f/gettyimages-1230310748.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump signs pandemic aid and spending bill, averting government shutdown"
     excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a federal government shutdown in a crisis of his own making."
     publishedDateTime: 2020-12-28T08:47:00Z
@@ -217,6 +233,6 @@ related:
         height: 600
         isCached: true
 
-secured: "r/vAavybMcMSH6dduVlmxElFPC2umkwkZYIQeQr1iKQ6b8QaWzSvwHmb9pZeMv16ODCDI5wq7hTdu1UErS5ROWgLXKXzbtWAGFKJ/2lm07zhVnWwlB23CPUWLsCe35NE/gv3zebaW/LAKR/7no7TNBdbeolHXUc9ByKlpWwvsPcTO7qVBTzP7ePnY292oi3z4O+SsOCxq7FX3Lx5iDaVankZ8F8tmV9GVYqMvUTZ3OtQSnOzbCaH5vFxDITYl9sEu14pXDTnKbBh9MzBo9VYLuKt1cCyrcfHlX4GENbDwoRB1IviLo6YIUDnlpRIIRV28NhMmVnZRezR3ivrJ82cRXRpl0txfY8xob14DwXGajU=;c+rkyNUxc3IkFAXoaCC2Ow=="
+secured: "hNmtfzq6RNp4gmUb9Ucy9h8/Ojfz13IpZb/A6jRFiHyhrTCMlATCjGQz0zZ25PM2n2Gh5NMJG70BAgL2kblfizRkF1Uz/LI0hfEeet+oxDQblVB302SmSG/Xk0wuS9JR007GWPsIHxFrGGjF+fPhsuxXyrhQGFLnO/RK5HVGO8jGF6zPoeIp93s5PkDl516VUNBljro3VoFZQHca0+5KtwTChsYKCXDlTxIpAXLpOqQaX2xMSuGgBs7dYvAYbZiPSl3w1VG0c+VZWcj+NnFrLGvkc8V1LMN5GnQ5RFd6plRkNRS3B6motGcilhHvTQSObQ+UyTZGLycuqzHEjXnYlkP4ymspV9XPkrkvEiRilKDuMtWJtwhIzrFEErTq5bmLwOx3N3fJV2zc4M81iFnD270NE+SiKRxlAGpNJgjbkslYAR3LBxhUEcU6CTYfoRtFFXAzZO/6LPtJR6YYohR/SMA4jo/zt1b20h3S0RvnKJFBAVUyJ/rnOHSJJK8qhmxtSKC+xcXL5buNkRnuYAsLqw==;sWLZopfEsNYx4cgvabRoTQ=="
 ---
 

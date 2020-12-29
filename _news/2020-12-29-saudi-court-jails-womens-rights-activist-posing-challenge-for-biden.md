@@ -2,9 +2,9 @@
 category: news
 title: "Saudi court jails women's rights activist, posing challenge for Biden"
 excerpt: "A Saudi court on Monday sentenced prominent women's rights activist Loujain al-Hathloul to nearly six years in prison, her family said, after her conviction in a trial that has drawn international condemnation."
-publishedDateTime: 2020-12-28T17:10:00Z
-originalUrl: "https://www.reuters.com/article/saudi-rights-women-int/saudi-court-jails-womens-rights-activist-posing-challenge-for-biden-idUSKBN2920RW"
-webUrl: "https://www.reuters.com/article/saudi-rights-women-int/saudi-court-jails-womens-rights-activist-posing-challenge-for-biden-idUSKBN2920RW"
+publishedDateTime: 2020-12-28T23:43:00Z
+originalUrl: "https://www.reuters.com/article/saudi-rights-women-int-idUSKBN2920RW"
+webUrl: "https://www.reuters.com/article/saudi-rights-women-int-idUSKBN2920RW"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920RW"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920RW"
 type: article
@@ -78,6 +78,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "UumsmZoIb08qKSG/7Yx1tOFU5FNCgf9QLH2YksuddLX7wTVyJhrJLTrTXFyol2DlXyjeZyjRT5XbZQcMMifEoBAXdoDRNessbhXttKWBgeuHyQcrc7hkkzbiEPCjpClQoSB4FU1nDoqVDiIF+ckNnsT113XI7SkrBIwnM5cOAECkz0dtPWCSDacwwMaYepre8bYOatslz3iQ8Ov1s+dtCO1o7KkhVkbVrWIkCcO1znX4xQzQYzuekI6S3M/OvAszLztnUO7lY4lMe/f5l5igGVHxuaRHqLtNuOnoY78FPZcx6TeTf+/rn2BewpjkeiyOsHa3mXLya4E4cfRlVuR9Xe48OynALoWJG/XGRe/vpRlzIhXl89fqJkb6FzY17opoIJQP+A2vNw9dJJBTT6honKBeuagPFrl1TyRBOx5/QVzC79/HheKKGjKBlIAIAAKp2NGj5L1Y0TvJVi2OLZI261fdZDc05FP9ME6HfkXqq9AfCrIzeI41ewMnA55FND8dv+xu0M5+Bp1CzkMnYnWQBQ==;nHCq9BCfJf+MQT6YtW/GBQ=="
+secured: "bADq65lIILW3qFsnVv3UGs8z6r2vdaoFj1hQTCYp65euilZc/eyna4FMNS1vcjvqsn664On6vzh63eoXWqesDaez3bWEB0DM2VyaADSAWUwSA0Y9O8JESk+rXqthR1xKVkbhvgjvqKvk66nqxZwCIcX365mSWs0J/1vKHHUtTGJy31cvMabXXGSsg6SRIttana0QGcoNxmEixJvouRleLfD447uu6HJHgo6A4/DagyRA25x4U8zvE5VvPrHxpj7k80gBUpj4fWP3TnYyIQxAburvlHFyUu/B7eIkwidMVHyZV83d6v4B1Pcz3nqS8nHJtm8hmLUhiXdt/wc75Qx+BjB2800euPv0CETsnO8EuDo=;VzCfS9dUBN4lTBvJed5a9A=="
 ---
 

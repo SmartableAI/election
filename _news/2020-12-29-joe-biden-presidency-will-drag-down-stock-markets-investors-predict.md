@@ -149,17 +149,17 @@ related:
         isCached: true
   - title: "GOP congressman sues Pence in effort to try and overturn Biden win"
     excerpt: "The lawsuit, led by Rep. Louie Gohmert, focuses on the Jan. 6 ceremonial meeting of Congress to finalize Joe Biden's victory."
-    publishedDateTime: 2020-12-28T22:01:00Z
-    webUrl: "https://www.khou.com/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
-    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
+    publishedDateTime: 2020-12-29T00:15:00Z
+    webUrl: "https://www.11alive.com/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
+      name: 11Alive
+      domain: 11alive.com
     quality: 90
     images:
-      - url: "https://media.khou.com/assets/CCT/images/bd9d89aa-cf5e-4c9d-8af5-d87c6aa2605f/bd9d89aa-cf5e-4c9d-8af5-d87c6aa2605f_1140x641.jpg"
+      - url: "https://media.11alive.com/assets/CCT/images/bd9d89aa-cf5e-4c9d-8af5-d87c6aa2605f/bd9d89aa-cf5e-4c9d-8af5-d87c6aa2605f_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -255,6 +255,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Arizona Republicans join Texas lawsuit against VP Mike Pence to upend electoral college"
+    excerpt: "Vice President Mike Pence should wield sole discretion in counting the electoral college votes, the suit contends."
+    publishedDateTime: 2020-12-28T23:26:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/12/28/kelli-ward-and-other-arizona-republicans-join-texas-suit-election/4066675001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/4066675001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4066675001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/18/PPHX/90e78252-af14-4f24-b779-430b38fed1e5-DW1_5247.JPG?auto=webp&crop=3522,1982,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "‘We’ve had enough’ — Joe Biden outpaced President..."
     excerpt: "GOP voters turned off by Trump went for Biden — but weren’t ready to risk a Democratic majority in the State House or in Congress."
     publishedDateTime: 2020-12-22T11:41:00Z
@@ -286,6 +302,6 @@ related:
         height: 683
         isCached: true
 
-secured: "82ru0iGJmUnDo1XhaDBP7mEStQV6C/ztX5rI8CRqj20u36b5j2MxnONcbS4oTCdJ0vXznsHcNfejL9e6ErYcGvIyjpcNZwbnJX8uZgwt33k9PLBNCZJTGBj1XYgFgsnnDD5ZS86zYXb6T2hOHdt+qCwSohFcF6hwZk74fE2qi49/7JAM+Sf6zbqIxLtWJbdQpYsulKYHNy5few1VpSgCORyKxzSnTgSm6DGL311qiz6y159nb2RK0QZAywA5lC6X19pJa44BGqmQcIyQPO9oMfHfmrQdIYKZDhF5ZlGpcyOBZHML14Ma8mQOA1mkd1YAGOK8ctKO4wMUmq+MBB7Ol+aFGtI6SIigjGWn4BLtKGs=;+E06pdZdiVN3j983ehbA5w=="
+secured: "vVjfO1g7g2m/yMdbJdmm/YAVctAYDRGzyWTerKOr3RAPhGbP8ZJbj+eARsdurETbo2PLRRo2D6ahE1H6j4OQv/kehjeKbCFxeZdT2IxwBD85a1jrc1pBGZcmqbjY+Gp8FKYI8ejfzfaZO9QQQKiLPQ+GRXsmm8+vSFztncXAIbWqCucZc8HSAGd746FeMScwT5dpcEi62XGALbHA2NhOL4ZS8TRwUo6xjagHItDgl+i1UFsIYTGMTlDJKZ+kLR/+zLNnd/rOCPwUXVRRuKJLITkjSK6uIJICtXwI6LSRtChvjgFDDvg0NhpOugnebJIItiom6wr+0gGuBqbW27RxlG2SOeFcasTf6onb8Xo+PLgFWPNUXvSnHXQbc4CFltvPcT1P7lrfQNzuoqOmzAHrCezGN2nR2vVTJJhIRYpQSvnNiZnqHOu1m2ooBt+CbqCaIWCk3y+gGsJb/eGkcetw2WZnRPThnGlg5nYmclBV6xxxdB+UxPk47NoseLvt0sOgrSITyTs3drHi1WJei02vwQ==;9j2Cm1rg8F1om9UW7QL4SQ=="
 ---
 

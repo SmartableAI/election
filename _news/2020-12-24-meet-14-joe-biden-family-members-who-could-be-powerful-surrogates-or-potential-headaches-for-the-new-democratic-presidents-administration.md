@@ -147,17 +147,17 @@ related:
         isCached: true
   - title: "GOP congressman sues Pence in effort to try and overturn Biden win"
     excerpt: "The lawsuit, led by Rep. Louie Gohmert, focuses on the Jan. 6 ceremonial meeting of Congress to finalize Joe Biden's victory."
-    publishedDateTime: 2020-12-28T22:01:00Z
-    webUrl: "https://www.khou.com/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
-    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
+    publishedDateTime: 2020-12-29T00:15:00Z
+    webUrl: "https://www.11alive.com/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
+      name: 11Alive
+      domain: 11alive.com
     quality: 90
     images:
-      - url: "https://media.khou.com/assets/CCT/images/bd9d89aa-cf5e-4c9d-8af5-d87c6aa2605f/bd9d89aa-cf5e-4c9d-8af5-d87c6aa2605f_1140x641.jpg"
+      - url: "https://media.11alive.com/assets/CCT/images/bd9d89aa-cf5e-4c9d-8af5-d87c6aa2605f/bd9d89aa-cf5e-4c9d-8af5-d87c6aa2605f_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -254,6 +254,22 @@ related:
       - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229686198.jpg?itok=Xe-uSQS1&resize=400x267"
         width: 400
         height: 267
+        isCached: true
+  - title: "Arizona Republicans join Texas lawsuit against VP Mike Pence to upend electoral college"
+    excerpt: "Vice President Mike Pence should wield sole discretion in counting the electoral college votes, the suit contends."
+    publishedDateTime: 2020-12-28T23:26:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/12/28/kelli-ward-and-other-arizona-republicans-join-texas-suit-election/4066675001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/4066675001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4066675001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/18/PPHX/90e78252-af14-4f24-b779-430b38fed1e5-DW1_5247.JPG?auto=webp&crop=3522,1982,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "‘We’ve had enough’ — Joe Biden outpaced President..."
     excerpt: "GOP voters turned off by Trump went for Biden — but weren’t ready to risk a Democratic majority in the State House or in Congress."

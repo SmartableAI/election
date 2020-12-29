@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Computer shop owner sues Twitter over Hunter Biden laptop story"
+    excerpt: "A Delaware computer repairman who went public with the sordid contents of Hunter Biden’s hard drive is now suing Twitter for defamation — claiming its content moderation unfairly branded him a “hacker."
+    publishedDateTime: 2020-12-29T00:46:00Z
+    webUrl: "https://www.foxnews.com/us/computer-shop-owner-sues-twitter-over-hunter-biden-laptop-story"
+    ampWebUrl: "https://www.foxnews.com/us/computer-shop-owner-sues-twitter-over-hunter-biden-laptop-story.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/computer-shop-owner-sues-twitter-over-hunter-biden-laptop-story.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7811808a-a932-464a-94d8-abfa159aabc0/2697d88e-6885-498c-824e-1f2a0a01f986/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "sPEpwSJvnZay4IMAnVG8eP+2woZDPzrLh4uTeyzdYcuHLX0roF6qEnsKNEm84RCU2y37mBABiAtOPKg1AJwT/oXHuvl3u9utYqQrbBQTAQSwV+eG+u9UrgXMpu23uVa4iTk5mQy7+MoAJ+W9suwv6wclAIJlse5OhMj1BvuUx/WvHEdqalWi+WtG7jHxx/ZVgq9UUjWUwnif4rvlH3HhW04gNgfrJMYrW/i5h/fw4JooPOyThR3g5qhBZ9t4U82OepuO3usybDSCDRdpVDpy3E0GYfSsI5O22ebEIQu10RJoSAmOd5mVqUbrSI+Xv40sDsAz7rA13cI0MHyhRq2klslg3NRBizZoDviI8vgMZ5Q=;645qrVOFxJHMzWWSZMf4EA=="
 ---

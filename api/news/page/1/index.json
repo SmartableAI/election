@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-28-biden-calls-transition-obstruction-by-defense-department-irresponsible.md",
+      "title": "Biden calls transition ‘obstruction’ by Defense Department irresponsible",
+      "excerpt": "Taking aim at what he calls President Trump’s “go-it-alone” approach to international affairs, President-elect Joe Biden says he’ll restore “American leadership” across the globe.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WmQUDxl-Nnc/biden-vows-to-restore-americas-global-leadership",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WmQUDxl-Nnc/biden-vows-to-restore-americas-global-leadership",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp",
+      "publishedDateTime": "2020-12-28T14:57:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-joe-biden-enormous-damage-to-us-security-agencies-by-trump.md",
       "title": "Joe Biden: 'Enormous damage' to US security agencies by Trump",
       "excerpt": "Agencies critical to US security have suffered \"enormous damage\" at the hands of the Trump administration, US President-elect Joe Biden has said. Mr Biden said his team was not getting the information it needed,",
@@ -10,7 +66,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-55470625",
       "featuredContent": null,
       "highlight": null,
-      "heat": 350,
+      "heat": 370,
       "tags": null,
       "images": [
         {
@@ -158,7 +214,7 @@
       "originalUrl": "https://www.cnbc.com/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 466,
+      "heat": 486,
       "tags": null,
       "images": [
         {
@@ -863,7 +919,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 668,
+      "heat": 688,
       "tags": null,
       "images": [
         {
@@ -1264,58 +1320,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-as-trump-leaves-office-south-florida-is-poised-to-become-his-new-maga-capital.md",
-      "title": "As Trump leaves office, South Florida is poised to become his new ‘MAGA’ capital",
-      "excerpt": "Everyone’s leaving. They’re moving to Florida,\" President Donald Trump says. South Florida is poised to become Trump's new MAGA capital after he leaves the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/qsZjaLIu7GiP_fWOhE-QZSmIC4o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GHKY7KVXTJ4O6LZG5SZMZL2AL4.jpg",
-          "width": 1200,
-          "height": 832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-26T08:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

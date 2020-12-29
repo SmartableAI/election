@@ -2,62 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-12-03-ratcliffe-urges-biden-to-let-durham-probe-run-its-course-says-more-docs-should-be-declassified.md",
-      "title": "Ratcliffe urges Biden to let Durham probe run its course, says more docs 'should be' declassified",
-      "excerpt": "EXCLUSIVE: Director of National Intelligence John Ratcliffe on Thursday urged President-elect Joe Biden to allow Special Counsel John Durham's investigation into the origins of the Russia probe to run its course, while saying he hopes there will be \"folks held accountable that should be.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FHxcYbJH5lk/ratcliffe-biden-durham-special-counsel-probe-declassified-documents",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FHxcYbJH5lk/ratcliffe-biden-durham-special-counsel-probe-declassified-documents",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ratcliffe-biden-durham-special-counsel-probe-declassified-documents.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ratcliffe-biden-durham-special-counsel-probe-declassified-documents.amp",
-      "publishedDateTime": "2020-12-03T12:23:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-04-trump-administration-claims-facebook-improperly-reserved-jobs-for-h-1b-workers.md",
       "title": "Trump Administration Claims Facebook Improperly Reserved Jobs for H-1B Workers",
       "excerpt": "A Justice Department lawsuit accuses the social-media company of illegally reserving high-paying jobs for immigrant workers it was sponsoring for permanent residence and failing to adequately search for U.",
@@ -1650,6 +1594,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-cabinet-pick-hyped-dossier-promoted-conspiracy-russian.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-pick-hyped-dossier-promoted-conspiracy-russian.amp",
       "publishedDateTime": "2020-11-30T14:03:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-biden-will-try-to-revitalize-smoke-and-mirrors-iran-deal-kt-mcfarland.md",
+      "title": "Biden will try to revitalize 'smoke and mirrors' Iran deal: KT McFarland",
+      "excerpt": "The Biden administration will \"try to revitalize\" the 2015 Iran nuclear deal, former Deputy National Security Adviser K.T. McFarland predicted Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sk7kP4n7r70/biden-will-try-to-revitalize-smoke-and-mirrors-iran-deal-kt-mcfarland",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sk7kP4n7r70/biden-will-try-to-revitalize-smoke-and-mirrors-iran-deal-kt-mcfarland",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-will-try-to-revitalize-smoke-and-mirrors-iran-deal-kt-mcfarland.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-try-to-revitalize-smoke-and-mirrors-iran-deal-kt-mcfarland.amp",
+      "publishedDateTime": "2020-11-30T13:58:42-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

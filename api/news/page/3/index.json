@@ -603,7 +603,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -972,63 +972,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-23-biden-education-secretary-nominee-pushed-microaggression-resources-in-response-to-riots.md",
-      "title": "Biden education secretary nominee pushed ‘microaggression’ resources in response to riots",
-      "excerpt": "Elect Joe Biden nominated Connecticut Education Commissioner Miguel Cardona to serve as head of the Department of Education in his administration, a public school advocate who sent around resources on \"microaggressions\" as he took action to help parents and educators navigate difficult race-related discussions earlier this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots",
-      "originalUrl": "https://www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d35de097-8c5a-4e70-8247-09107ab6329c/068d8bec-02c6-4123-942d-2551920bbfe1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots.amp",
-      "publishedDateTime": "2020-12-22T19:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-23-cair-demands-biden-defund-counterterror-program.md",
       "title": "CAIR demands Biden 'defund' counterterror program",
       "excerpt": "The Council on American-Islamic Relations is urging President-elect Joe Biden to soften up on Islamic extremism in a new document on issues it hopes the new administration will address during its first 100 days.",
@@ -1041,7 +984,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1149,7 +1092,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/pence-echoes-trump-election-loss-west-palm-beach-speech/4009750001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2321,
+      "heat": 2341,
       "tags": null,
       "images": [
         {
@@ -1355,6 +1298,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat.md",
+      "title": "News Wrap: Alex Padilla is tapped to fill Kamala Harris’ Senate seat",
+      "excerpt": "In our news wrap Tuesday, California Secretary of State Alex Padilla is tapped to fill the U.S. Senate seat vacated by Vice President-elect Kamala Harris, the E.U.'s executive body calls for an end to travel bans aimed at confining a new COVID-19 strain in Britain,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat",
+      "originalUrl": "https://www.pbs.org/newshour/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 525,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2020/12/newswrap15-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat",
+      "publishedDateTime": "2020-12-22T15:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/pbs.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     }
   ],

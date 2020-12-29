@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4052084001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052084001"
 type: article
 quality: 128
-heat: 668
+heat: 688
 published: true
 
 provider:
@@ -318,6 +318,22 @@ related:
       - url: "https://i.insider.com/5fe478a7edf8920018093a15?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Live politics updates: Rubio goes after Fauci on Twitter; Trump signs COVID relief amid criticism for delay"
+    excerpt: "Trump signs coronavirus stimulus bill amid bipartisan criticism; Rubio says Fauci \"lied\" and distorted; George Conway calls on Mnuchin to quit."
+    publishedDateTime: 2020-12-28T23:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4052084001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052084001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/c7e5be1a-e67d-42ed-a51f-f22c064e92fe-GTY_1230070219.jpg?auto=webp&crop=3999,2249,x0,y165&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "$900B COVID relief bill passed by Congress, sent to Trump"
     excerpt: "Congress passed a $900 billion pandemic relief package that would finally deliver long-sought cash to businesses and individuals and resources to vaccinate a nation confronting a frightening surge in COVID-19 cases and deaths."

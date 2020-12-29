@@ -895,6 +895,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Roger Stone thanks President Trump for pardon in person"
+    excerpt: "Roger Stone saw President Donald Trump Sunday night and thanked the president in person for pardoning him last week. \"Yes, I did see the president last night in passing at the Tru"
+    publishedDateTime: 2020-12-29T00:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/roger-stone-president-trump-pardon-person/story?id=74940512"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/roger-stone-president-trump-pardon-person/story?id=74940512"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/roger-stone-president-trump-pardon-person/story?id=74940512"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/roger-stone-rt-jt-201228_1609196931771_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump is still pinning his hopes on one last lawsuit in Michigan to overturn the presidential election"
     excerpt: "President Donald Trump said a report written by his allies in a lawsuit over a small Michigan county's Marijuana measure reveals \"massive fraud.\""
     publishedDateTime: 2020-12-17T00:08:00Z

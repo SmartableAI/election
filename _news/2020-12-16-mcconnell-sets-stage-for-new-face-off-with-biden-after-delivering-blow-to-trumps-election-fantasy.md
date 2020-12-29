@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says his transition team has 'encountered roadblocks' from Trump appointees"
+    excerpt: "President-elect Joe Biden is expected to deliver remarks on Monday afternoon after receiving a briefing from members of his national security and foreign policy agency review teams.\n    \n"
+    publishedDateTime: 2020-12-29T00:09:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/McBw0pKGjeE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/biden-foreign-policy-national-security-remarks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/biden-foreign-policy-national-security-remarks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201224041533-01-joe-biden-1223-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's health secretary: 'Of course, we would' vaccinate Biden publicly if he asks"
     excerpt: "Health and Human Services Secretary Alex Azar said Monday that if President-elect Joe Biden wants the newly released Covid-19 vaccine, the agency will ensure that he receives it.\n    \n"
     publishedDateTime: 2020-12-14T22:29:04Z
@@ -434,6 +450,22 @@ related:
   - title: "House to attempt to override Trump's veto on defense bill"
     excerpt: "The House of Representatives will vote Monday in an effort to override President Donald Trump's veto of the sweeping defense bill known as the National Defense Authorization Act, forcing GOP lawmakers to choose between loyalty to the President and legislation that sets defense policy for the country.\n"
     publishedDateTime: 2020-12-28T18:25:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RywnXmgfcSk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/veto-override-vote-ndaa-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/veto-override-vote-ndaa-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227182837-02-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House votes to override Trump's veto of defense bill"
+    excerpt: "The House of Representatives on Monday voted to override President Donald Trump's veto of the sweeping defense bill known as the National Defense Authorization Act, delivering a bipartisan rebuke to the President.\n    \n"
+    publishedDateTime: 2020-12-29T00:09:18Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RywnXmgfcSk/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/veto-override-vote-ndaa-congress/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/veto-override-vote-ndaa-congress/index.html"
@@ -987,6 +1019,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden Calls Trump Administration’s Blocking the Transition Irresponsible"
+    excerpt: "President-elect Joseph R. Biden Jr. said on Monday that his transition team faced “obstruction” from the political leadership at the Defense Department, after participating in a briefing with national security experts."
+    publishedDateTime: 2020-12-29T00:55:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007524123/biden-trump-national-security-transition.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/28/us/politics/28transition-briefing-biden-natsec/28transition-briefing-biden-natsec-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump sees special counsel investigations of Hunter Biden and election claims as payback for Russia probe"
     excerpt: "President Donald Trump is pushing extensively for the appointment of special counsels to separately investigate his baseless allegations of voter fraud and allegations surrounding Hunter Biden, the son of the President-elect,"
     publishedDateTime: 2020-12-16T19:44:00Z
@@ -1146,6 +1192,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/11/d7/374a97584b5c915219ab1e1d23ee/gettyimages-1230067454-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "House votes to override Trump veto of defense bill"
+    excerpt: "The House on Monday voted 322-87 to override President Donald Trump's veto of the National Defense Authorization Act, delivering a rare bipartisan rebuke in his final days in office. The Senate returns Tuesday,"
+    publishedDateTime: 2020-12-29T00:28:00Z
+    webUrl: "https://www.politico.com/news/2020/12/28/defense-veto-override-trump-451696"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/51/ff/431be3604af5bb244ecc518ca34e/20201111-capitol-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

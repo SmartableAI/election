@@ -2,62 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_news/2020-12-04-does-biden-think-its-important-trump-attend-inauguration-hear-his-answer.md",
-      "title": "Does Biden think it's important Trump attend inauguration? Hear his answer",
-      "excerpt": "In an interview with CNN's Jake Tapper, President-elect Joe Biden explains the importance of a demonstration of a peaceful transfer of power at his inauguration.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OKxfE8n0UJk/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OKxfE8n0UJk/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 528,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203220123-joe-biden-tapper-intv-inauguration-12032020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/12/04/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/04/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn",
-      "publishedDateTime": "2020-12-03T19:14:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-04-biden-on-nominating-diverse-cabinet-im-going-to-keep-my-commitment.md",
       "title": "Biden on nominating diverse Cabinet: 'I'm going to keep my commitment'",
       "excerpt": "Joe Biden said Thursday he would keep his commitment to nominate a Cabinet that reflects America's diversity, as the President-elect faces increasing pressure to appoint Black and Latino nominees to remaining high-level Cabinet positions.\n    \n",
@@ -1364,6 +1308,63 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-dianne-feinstein-says-she-backs-padilla-to-replace-harris-in-senate.md",
+      "title": "Dianne Feinstein says she backs Padilla to replace Harris in Senate",
+      "excerpt": "Democratic Sen. Diane Feinstein said she backs California Secretary of State Alex Padilla to fill Kamala Harris' US Senate seat when she is sworn in as vice president in January.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X3bwZh3Omkc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X3bwZh3Omkc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201202164958-dianne-feinstein-alex-padilla-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/02/politics/dianne-feinstein-alex-padilla-kamala-harris-california-senator/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/dianne-feinstein-alex-padilla-kamala-harris-california-senator/index.html",
+      "publishedDateTime": "2020-12-02T14:08:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
       ]
     }
   ],

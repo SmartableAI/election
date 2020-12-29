@@ -356,6 +356,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "U.S. House approves $2,000 coronavirus aid checks sought by Trump"
+    excerpt: "The Democratic-led U.S. House of Representatives voted 275-134 to meet President Donald Trump's demand for $2,000 COVID-19 relief checks on Monday, sending the measure on to an uncertain future in the Republican-controlled Senate."
+    publishedDateTime: 2020-12-28T23:25:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-checks-idINW1N2IO05X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINW1N2IO05X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINW1N2IO05X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "U.S. Senate passes $892 bln coronavirus aid bill, sends to Trump to sign"
     excerpt: "The U.S. Senate on Monday passed an $892 billion coronavirus aid package, throwing a lifeline to the nation's pandemic-battered economy, while also funding federal government activities through September 2021."
     publishedDateTime: 2020-12-22T05:08:00Z

@@ -889,6 +889,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Roger Stone thanks President Trump for pardon in person"
+    excerpt: "Roger Stone saw President Donald Trump Sunday night and thanked the president in person for pardoning him last week. \"Yes, I did see the president last night in passing at the Tru"
+    publishedDateTime: 2020-12-29T00:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/roger-stone-president-trump-pardon-person/story?id=74940512"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/roger-stone-president-trump-pardon-person/story?id=74940512"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/roger-stone-president-trump-pardon-person/story?id=74940512"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/roger-stone-rt-jt-201228_1609196931771_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump's hesitation on relief bill will delay aid payments"
     excerpt: "The $900 billion economic relief package that President Donald Trump signed over the weekend will deliver vital aid to millions of struggling households and businesses"
     publishedDateTime: 2020-12-28T19:51:00Z
