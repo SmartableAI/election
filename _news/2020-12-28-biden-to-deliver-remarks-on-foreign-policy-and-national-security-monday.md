@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/biden-foreign-policy-nat
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/biden-foreign-policy-national-security-remarks/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 275
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/22/us/politics/22dc-biden/22dc-biden-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Leading a divided country: Joe Biden's approach to unity"
-    excerpt: "Over years of interviews, President-elect Joe Biden explains his views on how to work with Republicans and Democrats during a time of divided government."
-    publishedDateTime: 2020-12-27T13:07:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/leading-a-divided-country-joe-biden-s-approach-to-unity-98438725756"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98438725756"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98438725756"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenkindofprez_2012270.jpg"
-        width: 1920
-        height: 1090
         isCached: true
   - title: "Biden looks to Susan Rice to elevate low-profile Domestic Policy Council"
     excerpt: "\"Susan will elevate and turbocharge a revitalized\" council, Joe Biden said when he nominated the former national security adviser."

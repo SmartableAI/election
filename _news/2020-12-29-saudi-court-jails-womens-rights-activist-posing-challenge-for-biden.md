@@ -3,10 +3,10 @@ category: news
 title: "Saudi court jails women's rights activist, posing challenge for Biden"
 excerpt: "A Saudi court on Monday sentenced prominent women's rights activist Loujain al-Hathloul to nearly six years in prison, her family said, after her conviction in a trial that has drawn international condemnation."
 publishedDateTime: 2020-12-29T06:15:00Z
-originalUrl: "https://www.reuters.com/article/BigStory12/idUSKBN2920T7"
-webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN2920T7"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920RW"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920RW"
+originalUrl: "https://www.reuters.com/article/us-saudi-rights-women/saudi-court-hands-prison-sentence-to-womens-rights-activist-local-media-idUSKBN2920T7"
+webUrl: "https://www.reuters.com/article/us-saudi-rights-women/saudi-court-hands-prison-sentence-to-womens-rights-activist-local-media-idUSKBN2920T7"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920T7"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920T7"
 type: article
 quality: 125
 heat: -1
@@ -124,6 +124,6 @@ related:
         height: 682
         isCached: true
 
-secured: "LwvXPQqa5bxz9fw4MsaNsZlUx0qbC2Tx0j/ciyYEpJMHckvlvqsMY/+dI1gUPot7TUzwrB4YaezOMPxYsLMvKj8SHwgFIpnRt+ahK7ZnNdp+m5yGfV6Lh+LjjSd/jtbevLr3qPHLzBzrr9l+ZVFFLoNsw8RxnShU+IfaAwbRABH+1QwOu3o2XT80KED2nr/30z1dQeXyXeqxAtoEzrvIyzSKADKCni1RvjK8jEO6ZSfxyjtyZvKoRmzowPe/wgbznM/Ppt1JuZGpzc4zJZ4DyqTgU2uhc3sfeCAsPV9IrNIQfGUAhxq/ESDBtGg0AbBHAAEdvCBHDt6KyGHMpTFX6rNoUCQ37RCkUUUkPyhjfjTGJKbhA/K4OY88oMnLjvKrrOGelMJwNJJuGOqwdxCWxCBPQsB5Dlv4SUA1EszCxoPtNYW6D6W+E6NoqQcWaEoaruYlETcvHIC7m6afcYDUHB0rGDvUFeh62mNjCuTSToI17cvdb5jP9y6KbwmTFbo+Eu2bknl2O6N9AcTSljVxew==;ZzR4WJl8LnMBwmTqnVNnnw=="
+secured: "RSYXU9HD4wr/DWmC9IviMJJlcASimnSGXiF4Zc17htxBHth2+490lUbJUGKjA8gsk8eRi/vt8bKq/T5BMrnxoJXreAzmhF96W9KaRzC7+Tm2AErilw7GU0bLAILMXIWKV+qG99lbAco5Qh/P9YwDm0AWmQDzh7MsAbLfGMe5wGJSsK637Pj9CoMq3hs3OnnD5q4eWvB8f86HT3Jz2I8qh+QNluqo39M+rJSXqVxWywkyjQc6/YdxbK93X0hB7Z5YeqvpIuNWZhaORyI8BkB0LUNkhwNwcpfH2vDq5PS/o9uULEbpwzvi4EuNrRzfX5y8EYrKRf1c02kleB3/UH74Usx0PAuxdv4nYvQv9UfoAaA=;7xjXhmo2ebTNL0ix3Q8hKQ=="
 ---
 

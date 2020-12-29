@@ -2,15 +2,15 @@
 category: news
 title: "Live Updates: Biden blasts transition ‘obstruction’ by Defense Department"
 excerpt: "President-elect Joe Biden says his transition teams have \"encountered obstruction\" from President Trump’s political leadership at the Defense Department and the Office of Management and Budget."
-publishedDateTime: 2020-12-29T05:50:49Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g9nZY06oaGw/live-updates-biden-transition-12-29-2020"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g9nZY06oaGw/live-updates-biden-transition-12-29-2020"
+publishedDateTime: 2020-12-29T05:54:00Z
+originalUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020"
+webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020"
 ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-29-2020.amp"
 type: article
-quality: 174
-heat: -1
-published: false
+quality: 134
+heat: 154
+published: true
 
 provider:
   name: Fox News
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -31,54 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden calls transition ‘obstruction’ by Defense Department irresponsible"
-    excerpt: "Taking aim at what he calls President Trump’s “go-it-alone” approach to international affairs, President-elect Joe Biden says he’ll restore “American leadership” across the globe."
-    publishedDateTime: 2020-12-28T22:57:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WmQUDxl-Nnc/biden-vows-to-restore-americas-global-leadership"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden calls transition ‘obstruction’ by Defense Department irresponsible"
-    excerpt: "Taking aim at what he calls President Trump’s “go-it-alone” approach to international affairs, President-elect Joe Biden says he’ll restore “American leadership” across the globe."
-    publishedDateTime: 2020-12-29T01:00:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20363689916730.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden education secretary nominee pushed ‘microaggression’ resources in response to riots"
-    excerpt: "Elect Joe Biden nominated Connecticut Education Commissioner Miguel Cardona to serve as head of the Department of Education in his administration, a public school advocate who sent around resources on \"microaggressions\" as he took action to help parents and educators navigate difficult race-related discussions earlier this year."
-    publishedDateTime: 2020-12-23T03:21:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d35de097-8c5a-4e70-8247-09107ab6329c/068d8bec-02c6-4123-942d-2551920bbfe1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Tevi Troy's 'Fight House' Holds Valuable Lessons for a Biden Administration"
     excerpt: "President Donald Trump and President-elect Joe Biden are quite different from each other. It is obvious in their personalities and in their policy"
     publishedDateTime: 2020-12-25T00:00:00Z
@@ -96,6 +49,6 @@ related:
         height: 500
         isCached: true
 
-secured: "fzuVVx5QpL/Cb7yeeF2ms332Seywuj2XGkQ7eP0dgFrjwO9eoy6rRje9hu0NeBh9cHUxfVHOTjJ7ilOqZR3OvwMhgV3k7XNUHptcHM/lQDJhJAd8T0wtSwK0idF24L91sxJstCufzVnJvQlpb3CWtXiUwcHnWkWotHdxLo9oN1pRS4/qK3PqjikeVCZ9wSWAMbGgby51RkryUq+P3E3a3CZ7A3vQT7aK3pMr0+7EyTu5IVc4BFEjEAZOSWcoU8c8LB8MieZJzquP6J+o9q6/fnlVmMiozVpC5VQRoqhzZnu+RKt+iGEPaeKsvZ73omO7O5xHkCKAsvRI7/nWL0GovbTZAqwkPaoRjb9rxgsq3bM=;LhnqsyhFlf6KX9TQikPMJw=="
+secured: "jXQLM7W/QamkbjMqHq2aH8FoOnYcyt7Lh9DP8Gn7MNpEuWAUNdDEhB2bWZfXfRB6cPQVi7KRCPVCCVAZ/Dtqru+YdiP0RuPSMlvoCC8qioBGyawMUxnsRB04rItaXocFTvoT3ZvyEQUlH7XVrL1ImVqixkPZ+N2WQ/nUqNpt2eIXvb6oB4SQUeqP2UMecIN0c0APXtAYn5pT7H2zqK5GeDIxz3YFMWa2ECoyZVKC4w35PK2bFBxEaiJE99o/yCj/oqUfe8kkRJKh4Nx3tj2xiJKkhdefNs840+6WZwX40Q77yLA26aqhG3zYF9QZrArbgHRUj1EeaPhstNT76dSb0Xpirz4IG1nTbwsc8u1oNQQ=;LerZmIMHcn2ibYsuE7FUhA=="
 ---
 

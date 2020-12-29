@@ -550,6 +550,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Watch live: Vice President-elect Kamala Harris receives COVID-19 vaccine"
+    excerpt: "Vice President-elect Kamala Harris will receive a COVID-19 vaccine on Tuesday, becoming the latest high-profile figure to be inoculated."
+    publishedDateTime: 2020-12-29T13:21:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/12/29/Watch-live-Vice-President-elect-Kamala-Harris-receives-COVID-19-vaccine/2881609243978/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/29/Watch-live-Vice-President-elect-Kamala-Harris-receives-COVID-19-vaccine/2881609243978/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/29/Watch-live-Vice-President-elect-Kamala-Harris-receives-COVID-19-vaccine/2881609243978/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2881609243978/2020/1/1bfe3c5e9bb35e252fec55997937551d/v1.5/Watch-live-Vice-President-elect-Kamala-Harris-receives-COVID-19-vaccine.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Kamala Harris has so far picked an all-women staff to aid her in the White House"
     excerpt: "Harris transition team announced Thursday that Vice President-elect Kamala Harris will name Tina Flournoy to be her chief of staff, and add Rohini Kosoglu as domestic policy adviser and Nancy McEldowney as national security adviser."
     publishedDateTime: 2020-12-03T16:31:00Z

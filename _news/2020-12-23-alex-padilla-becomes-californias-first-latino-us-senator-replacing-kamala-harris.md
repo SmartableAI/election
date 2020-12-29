@@ -332,6 +332,20 @@ related:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
     quality: 55
+  - title: "LIVE: Kamala Harris to receive COVID-19 vaccine"
+    excerpt: "Vice President-elect Kamala Harris and her husband Doug Emhoff will host an event Tuesday in Washington, D.C., where they are expected to receive their first dose of the COVID-19 vaccine."
+    publishedDateTime: 2020-12-29T14:47:00Z
+    webUrl: "https://www.hawaiinewsnow.com/video/2020/12/29/live-kamala-harris-receive-covid-vaccine/"
+    type: article
+    provider:
+      name: KHNL
+      domain: hawaiinewsnow.com
+    quality: 55
+    images:
+      - url: "https://www.hawaiinewsnow.com/resizer/WdiSq0jzp3nb2DTzmjp_lgHp9Sc=/1200x0/d1acid63ghtydj.cloudfront.net/12-29-2020/t_9795ac8777dd46e4812a563edc310437_name_1229_Harris.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "California Gov. Gavin Newsom Names State Elections Chief Alex Padilla to Fill Remainder of Kamala Harris' US Senate Term"
     excerpt: "California Gov. Gavin Newsom names state elections chief Alex Padilla to fill remainder of Kamala Harris' US Senate term."
     publishedDateTime: 2020-12-23T00:27:00Z

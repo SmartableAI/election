@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump's crackdown on the US-Mexico border has been a moneymaker for border agents working with traffickers"
+    excerpt: "Under Trump, corruption among US Border Patrol agents has increased dramatically, experts, former officials, and cartel operatives tell Insider."
+    publishedDateTime: 2020-12-29T14:43:00Z
+    webUrl: "https://www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5fea5533a644880018193917?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Donald, Melania Trump Looking At Palm Beach Properties, Report Says"
     excerpt: "Donald and Melania Trump are reportedly eyeing properties in Florida amid rumors that they will live in Mar-a-Lago after he leaves office."
     publishedDateTime: 2020-12-29T10:30:00Z

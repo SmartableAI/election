@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-education-secretary-microaggr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots.amp"
 type: article
 quality: 126
-heat: -1
-published: false
+heat: 126
+published: true
 
 provider:
   name: Fox News
@@ -30,72 +30,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Biden calls transition ‘obstruction’ by Defense Department irresponsible"
-    excerpt: "Taking aim at what he calls President Trump’s “go-it-alone” approach to international affairs, President-elect Joe Biden says he’ll restore “American leadership” across the globe."
-    publishedDateTime: 2020-12-28T22:57:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WmQUDxl-Nnc/biden-vows-to-restore-americas-global-leadership"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Live Updates: Biden blasts transition ‘obstruction’ by Defense Department"
-    excerpt: "President-elect Joe Biden says his transition teams have \"encountered obstruction\" from President Trump’s political leadership at the Defense Department and the Office of Management and Budget."
-    publishedDateTime: 2020-12-29T05:50:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g9nZY06oaGw/live-updates-biden-transition-12-29-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-29-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b63ad575-3944-454f-86e0-b31ad0fc3adf/ff7faca5-f527-4d40-a802-63ce1b379890/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden calls transition ‘obstruction’ by Defense Department irresponsible"
-    excerpt: "Taking aim at what he calls President Trump’s “go-it-alone” approach to international affairs, President-elect Joe Biden says he’ll restore “American leadership” across the globe."
-    publishedDateTime: 2020-12-29T01:00:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20363689916730.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Tevi Troy's 'Fight House' Holds Valuable Lessons for a Biden Administration"
-    excerpt: "President Donald Trump and President-elect Joe Biden are quite different from each other. It is obvious in their personalities and in their policy"
-    publishedDateTime: 2020-12-25T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/12/25/tevi_troys_fight_house_holds_valuable_lessons_for_a_biden_administration_144922.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/12/25/tevi_troys_fight_house_holds_valuable_lessons_for_a_biden_administration_144922.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/12/25/tevi_troys_fight_house_holds_valuable_lessons_for_a_biden_administration_144922.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 83
-    images:
-      - url: "https://assets.realclear.com/images/52/529822_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "LVq+rFw/Jk6+jpnLrUThsXcnrGj1gQLRTkt8f+5ZpO70qqK9M6A84pLMwKcgi5tXkNpx5mMDeCd2reMfIIXn22Luw203epeF5oD63K0VZ/JtfM2vfLza6IjVIDJhVAnw6SZqiD6OnMMQm8Vi4EphjlcjqL41XuOqaH/njQRDMqxhyxnC6Nj+vw4/mKjxNTWxOET4Ne6CfmdhZYI7AY8I4CJiz7LrugQIEwDh074BdV/+TnrXCQi0v9vdIwHHRpRNAnugPbSr4CUBBQ0+GsYyKNNuM0eCQuBYxp6gETS8Rp/QivMPlNSez9cfLv35VptD8jfJ7ZLejQoC7KiLrvednHeJkO87vbwcP2dRcatuAUM=;qycdq8zpISUHoaIK2XrozQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-says-our-darkest-days-with-co
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-our-darkest-days-with-covid-are-ahead-of-us-not-behind-us.amp"
 type: article
 quality: 175
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Why Joe Biden Is Headed for Failure"
-    excerpt: "We're back in the game, says Joe Biden, a president who cannot take his dog for a walk without falling over it and twisting his ankle. He will lose his footing in the first foreign-policy crisis that comes along."
-    publishedDateTime: 2020-12-29T12:30:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/26/why_joe_biden_is_headed_for_failure_532188.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "DNhXKSVb6uWd+M+ml9yahcElnBAx5ZndqXOFVVSBMCrYNJRZVPF4FISl5zGaRNmr3WiHuG8oK3pa+jP8ZFpiC8cXgFmJCg756xfc3C2qODVTm+zgh7dblXSe9BiL5Uzvp1/pulg9bLEBRaxBg0HQqqL/BixxwEoqp7ISBFfGyono/68s6c6eJq9PQC2o2aFnJQ5OMslTiZfud3GeQy9Q3zJobu+rWN7amxa4z3Q+fLvCmRpQHuZxXof3dQwC+OEcz9YD9adBhcngA42xlfg2yDaJjx7Qqddrq54dYpV7j80CzCFCKW69TogfQztQUA/a2Vqi5ewW7/eYfXW84lbeKMwl65HEXmXe1GD/mZnw0Cw=;+xoUpON4zm9mWg6tDxburw=="
 ---

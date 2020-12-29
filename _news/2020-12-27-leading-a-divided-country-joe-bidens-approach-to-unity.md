@@ -32,99 +32,51 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to deliver remarks on foreign policy and national security Monday"
-    excerpt: "President-elect Joe Biden is expected to deliver remarks on Monday afternoon after receiving a briefing from members of his national security and foreign policy agency review teams.\n    \n"
-    publishedDateTime: 2020-12-28T17:04:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/McBw0pKGjeE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/biden-foreign-policy-national-security-remarks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/biden-foreign-policy-national-security-remarks/index.html"
+  - title: "Biden eyes cuts to Trump nuclear program as critical arms control deadline with Russia looms"
+    excerpt: "President-elect Joe Biden will explore making cuts to the country's nuclear modernization program, potentially reversing Trump administration efforts to enhance America's nuclear arsenal by developing new weapons. Instead, Biden intends to place greater emphasis on arms control, according to two transition"
+    publishedDateTime: 2020-12-29T14:41:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a3hJpGsV9tA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/biden-nuclear-cuts-arms-control-russia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/biden-nuclear-cuts-arms-control-russia/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 179
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201224041533-01-joe-biden-1223-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228141238-03-biden-nat-sec-briefing-1228-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden, Calling Stimulus Bill a ‘Down Payment,’ Urges More Relief"
-    excerpt: "The president-elect said he would ask Congress soon after his inauguration to pass an additional coronavirus aid package with more money for firefighters, police officers and nurses."
-    publishedDateTime: 2020-12-22T23:55:00Z
-    webUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.amp.html"
+  - title: "Trump Pardons Two Russia Inquiry Figures and Blackwater Guards"
+    excerpt: "Christmas wave of 20 pardons and commutations are not likely to be the last before Mr. Trump leaves office on Jan. 20."
+    publishedDateTime: 2020-12-23T00:08:00Z
+    webUrl: "https://www.nytimes.com/2020/12/22/us/politics/trump-pardons.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/politics/trump-pardons.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/politics/trump-pardons.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/12/22/us/politics/22dc-biden/22dc-biden-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/22/us/politics/22dc-trump-pardons/22dc-trump-pardons-facebookJumbo-v2.jpg"
         width: 1050
-        height: 550
+        height: 549
         isCached: true
-  - title: "Biden looks to Susan Rice to elevate low-profile Domestic Policy Council"
-    excerpt: "\"Susan will elevate and turbocharge a revitalized\" council, Joe Biden said when he nominated the former national security adviser."
-    publishedDateTime: 2020-12-21T11:03:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/biden-looks-susan-rice-elevate-low-profile-domestic-policy-council-n1251851"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251851"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251851"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_51/3437064/201220-susan-rice-jm-1136_d7e184dab91c148e4afe840a6b58ea05.jpg"
-        width: 2500
-        height: 1670
-        isCached: true
-  - title: "Health care, policing and same-sex marriage: Joe Biden's domestic policy answers"
-    excerpt: "In one of his most consequential interviews, former Vice President Joe Biden told Meet the Press that his views on marriage come down to \"who do you love.\""
-    publishedDateTime: 2020-12-27T12:56:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/health-care-policing-and-same-sex-marriage-joe-biden-s-domestic-policy-answers-98420293932"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98420293932"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98420293932"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidendomestic_20122700__738195.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Russia, Afghanistan, Iraq: Joe Biden's foreign policy answers, through the years"
-    excerpt: "As a senator and vice president, Joe Biden spent his career developing relationships with foreign leaders. Meet the Press looks back at his answers to foreign policy questions over his decades-long career."
-    publishedDateTime: 2020-12-29T01:27:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/russia-afghanistan-iraq-joe-biden-s-foreign-policy-answers-through-the-years-98421829808"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98421829808"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98421829808"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenforeign_20122700__107131.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden chooses Connecticut education commissioner for top schools post"
-    excerpt: "President-elect Joe Biden selected Connecticut Education Commissioner Miguel Cardona to be his Education secretary on Tuesday, adding another Latino to his roster of Cabinet appointees and choosing a leader who has pressed schools to remain open for in-person classes during the pandemic."
-    publishedDateTime: 2020-12-23T16:59:00Z
-    webUrl: "https://www.politico.com/news/2020/12/22/biden-connecticut-schools-chief-education-secretary-449808"
+  - title: "Trump's unplanned gift to Biden: Clean energy on the rise"
+    excerpt: "Oil and gas producers are struggling amid weak prices and growing pressure to address climate change — a trend that could help Biden make a U-turn in energy policy."
+    publishedDateTime: 2020-12-29T09:37:00Z
+    webUrl: "https://www.politico.com/news/2020/12/29/trump-biden-clean-energy-451546"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 115
+    quality: 130
     images:
-      - url: "https://static.politico.com/13/4c/2009dbb5418cbef6541aa1e3066d/dsc-8614-copy.JPG"
-        width: 7360
-        height: 4904
+      - url: "https://static.politico.com/03/fc/9e99086b4ff19262800af9f1489d/20201224-gasplant-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "nl7+mkpt1vAnrqUvt/BZXwFQ0cE1bse8EqjhQWV+jFNC6RLRPPNEWLNTYZa/n5c5h1UMb8pZZ7VoeI18P8sbWA/oKsj52M8tPR0WpnIYupqvykqvhxAGWadfQuRz6OjCn4wzDFy5wRdIfj0kDfPHO+r6IGRQDPSjVlDcjwz/VQEcski+XYIyVHYmu3W9wF/q7hS1qI52NuJslYR0O8j76O8I/lW8xDgFRzNgaGqzntnBWMXcj7vPtaf9BhpjKuSMVIWDv+8xXrA4Z9Io4/Jm9UUX6zf+hsxjbQgYxG1hpwfSkkUvhlQ2asYoabxXpLM5oXR3RkREVjJJOqx18xMAZaB1126tirzdDksDRgjGn3IfQIQsFSRzSdeW2xt3n7u0cvPelHT6xvx1RcNeYnWEfunL7/i+FfkMEse+Dai/6HuPqXjTqb+SMqYhRTxPTnHN3vaisI5UitB8gyyX+Eh6k3xOTtWpSWqKUU7/vbsr3JnFRLKw2c3epLNfOaIbRvzMnJIKyS7wZEju4l/lakaprQ==;DGjzZPmR37brm5uaPY8CQw=="

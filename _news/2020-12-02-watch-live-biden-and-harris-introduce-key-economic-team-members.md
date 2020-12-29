@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-intr
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html"
 type: article
 quality: 140
-heat: 1040
+heat: 1060
 published: true
 
 provider:
@@ -537,6 +537,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4c6d4136-3be9-4ac5-ba4d-f657c9446bb8/bf001b16-f05c-4ae7-a555-6fecd2967b93/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Watch live: Vice President-elect Kamala Harris receives COVID-19 vaccine"
+    excerpt: "Vice President-elect Kamala Harris will receive a COVID-19 vaccine on Tuesday, becoming the latest high-profile figure to be inoculated."
+    publishedDateTime: 2020-12-29T13:21:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/12/29/Watch-live-Vice-President-elect-Kamala-Harris-receives-COVID-19-vaccine/2881609243978/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/29/Watch-live-Vice-President-elect-Kamala-Harris-receives-COVID-19-vaccine/2881609243978/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/29/Watch-live-Vice-President-elect-Kamala-Harris-receives-COVID-19-vaccine/2881609243978/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2881609243978/2020/1/1bfe3c5e9bb35e252fec55997937551d/v1.5/Watch-live-Vice-President-elect-Kamala-Harris-receives-COVID-19-vaccine.jpg"
+        width: 800
+        height: 532
         isCached: true
   - title: "Berkeley proposes Kamala Harris Elementary, but will school district agree?"
     excerpt: "The Berkeley City Council passed a resolution asking the school district to rename an elementary school as Kamala Harris Elementary School."

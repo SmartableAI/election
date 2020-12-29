@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trumps-main-banker-at-deutsche-bank-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-main-banker-at-deutsche-bank-announces-her-resignation-2020-12?amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545964758&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR07Z"
         width: 817
         height: 545
+        isCached: true
+  - title: "Post-presidency at Mar-a-Lago; What Donald Trump can expect when he leaves the White House"
+    excerpt: "Living at Mar-a-Lago as a former president who lost his re-election bid will not be the same as visiting Mar-a-Lago. Here's what he can expect."
+    publishedDateTime: 2020-12-29T13:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/29/life-mar-lago-wont-like-trumps-visits-here-what-expect/4070938001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4070938001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4070938001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/20/NPPP/904061d6-1a69-47a0-b1b7-54759c8102e2-USATSI_13867755.jpg?auto=webp&crop=4615,2596,x0,y220&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump's longtime banker at Deutsche Bank resigns"
     excerpt: "U.S. President Donald Trump's longtime banker at Deutsche Bank AG will be stepping down from the German lender."

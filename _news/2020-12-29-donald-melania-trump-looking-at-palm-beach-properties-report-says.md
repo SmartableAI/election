@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump's crackdown on the US-Mexico border has been a moneymaker for border agents working with traffickers"
+    excerpt: "Under Trump, corruption among US Border Patrol agents has increased dramatically, experts, former officials, and cartel operatives tell Insider."
+    publishedDateTime: 2020-12-29T14:43:00Z
+    webUrl: "https://www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5fea5533a644880018193917?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Melania Trump Allegedly Betrayed Stephanie Winston Wolkoff, FLOTUS Compared To Husband Donald"
     excerpt: "Stephanie Winston Wolkoff felt Melania Trump betrayed her when the FLOTUS did not support her during the inaugural overspending controversy."
     publishedDateTime: 2020-12-23T05:05:00Z
