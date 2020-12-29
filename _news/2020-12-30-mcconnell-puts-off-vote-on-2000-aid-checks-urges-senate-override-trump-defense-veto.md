@@ -2,11 +2,11 @@
 category: news
 title: "McConnell puts off vote on $2,000 aid checks, urges Senate override Trump defense veto"
 excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday put off a vote on President Donald Trump's call to boost COVID-19 relief checks and urged the Senate to override his veto of a defense bill, in a rare challenge to his fellow Republican three weeks before Trump"
-publishedDateTime: 2020-12-29T20:23:00Z
-originalUrl: "https://www.reuters.com/article/usa-trump-idINKBN2930TP"
-webUrl: "https://www.reuters.com/article/usa-trump-idINKBN2930TP"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2930TP"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2930TP"
+publishedDateTime: 2020-12-29T22:04:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2930SO"
+webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2930SO"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2930SO"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2930SO"
 type: article
 quality: 117
 heat: -1
@@ -175,6 +175,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump's $2,000 stimulus checks demand could cost the GOP its Senate majority, but reveals his enduring influence within the party"
+    excerpt: "McConnell's obstinance on the $2,000 checks has offered Democrats an ideal messaging opportunity ahead of Georgia's Senate runoff election."
+    publishedDateTime: 2020-12-29T21:07:00Z
+    webUrl: "https://www.businessinsider.com/trump-demand-2000-checks-cost-gop-but-shows-his-power-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-demand-2000-checks-cost-gop-but-shows-his-power-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-demand-2000-checks-cost-gop-but-shows-his-power-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5feb6279edf89200180940ba?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump is holding up the COVID-19 stimulus package with demands for $2,000 checks — but there are enough votes in Congress to override a veto"
     excerpt: "President Trump called the $900 billion package — passed by Congress earlier this week after months of negotiations — a \"disgrace\" on Tuesday."
     publishedDateTime: 2020-12-23T12:16:00Z
@@ -192,6 +208,6 @@ related:
         height: 600
         isCached: true
 
-secured: "mudZFDUdKK56lyUtIDwSgMUK6H4HU7XVgA68bG5V+R1S2Vik74IG/g6qb27Zt9XadOfL/tdX1vKiCSMp+9hEDKhXhedUNK1wBznrP3EyEj+W4mHbOn5cLKfUpgNxYqZJ2vwckcTsNbcebYhSEEAfI26CAk9oHYpuypH1N/l3JZ+5PoHd/zDtTMpOYl4V1LADnnEx56v0GQlnwYNer3lyj2O+0VVOyMauLe+X1ZS4/IB+D+nFpobB560KTNvSVuebgSdD1q3AtpjmhYmXwj2ueQ59TuA+a3SzNYzW4Bj1Bd16EBk6opSg33UrWgMLHBIXGdEwevBqR67Iqr2s41csSO3FtdrlrqMc5pkkStzJ2DA=;oA5QDhrPDYpEb7ivgrgeLg=="
+secured: "8eKSqmhm0ef3o1np/LMLNvYwRw9ROcml7L5lxIma0TI47hCXz0RjW80X8N8H03TQtMkto7E5+u83OCD3hUF1bv64RZfFKEDcLRhoG3DLMonJeqWvJiX90MiKzoknmG0Uqj6sJftyeQG55Ks4v2QuQIXAxnGzjg+ffznMKd/48lpwtOZnaqzGdA1wMGipN41U6Lyi0250O8+Ife4vDYOXkc5UFHt2xZOdP11NoNMWZQI0fgJD3Hz5UDd9BW+zGfmXwI+Qr27VWoJw7nuv4kJ9vsZusBrXnreuPhAgUT05C1cmDy499kDSRw7qMtup1xFH4PkiXZOv2D/76FdyWcdlFgdv1QReQUDlChxhMr63jvU=;RAQwKlahml37fw4Nb6sEvw=="
 ---
 

@@ -126,7 +126,7 @@ related:
   - title: "'That was easy': Kamala Harris receives Covid-19 vaccine – video"
     excerpt: "Describing the process as 'relatively painless', Harris urged all Americans to get vaccinated"
     publishedDateTime: 2020-12-29T15:53:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2020/dec/29/kamala-harris-receives-covid-19-vaccine-video?share=facebook"
+    webUrl: "https://www.theguardian.com/us-news/video/2020/dec/29/kamala-harris-receives-covid-19-vaccine-video"
     type: article
     provider:
       name: The Guardian

@@ -470,6 +470,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 104
+  - title: "Joe Biden on his 100-day COVID response plan and speeding up vaccine distribution"
+    excerpt: "President-elect Joe Biden spoke Tuesday about his 100-day plan to turn the tide against the coronavirus pandemic. He said he would focus federal resources on speeding up vaccine distribution, which is falling behind the Trump administration's promised schedule."
+    publishedDateTime: 2020-12-29T21:26:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-covid-19-response-plan-vaccine-distribution/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 100
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/29/c0ee9fa5-cfc9-486e-97d6-fb0f7d792ca7/thumbnail/1200x630/3a6397e7cee8d7040b8a6e789e15cbe6/cbsn-fusion-joe-biden-covid-19-response-plan-vaccine-distribution-thumbnail-617751-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "9ZRbMCZ4DROJJh5oWPxyHBD+kWQsMpktJ1MwuYkZmMQ2e5Yba6x3wacK3GswTxIHnREOBmq8Xb48Q42/Hednizc36hEFylIMrZWTTOu3D8ObW+gGoPm5GQwIcn3rTgmaYI0EbEN/DEeuYRN/FO3YOKxtaGrKe+TD+rdwiAWD63bBqPPJ2bd3pIszKzGLoFJrnOTmPjP4ZFrZKujptu2wRQrxhZe4z6oykKz+06hKstutjs46z3OQdVMVOrUW2/oID9XkJXaUUqkTRZ3K6Wlf2dUKfLkxU6IY4znC1Aqt8feWI6eRnNCjCcpEGcIiVqaOXr/PvA/8/tgSpT4VZo8o/ZrKwhM2FUls6s7imVhL0lCda/CrfE+180KfoY2i9pFOYuPeF5yow2BjPNMqEroFz3ETeJGnqcn0w4w8NTL3JkagURNq7T8AG7yvJtVx398HyFocebvpWqAfWJLVfAtXgkCsqfYcgqC7woTAI4cf6X8tdlZAr6pB3MRKdLrSn15Yu7R0pnOoq6qh95YUwGwIbA==;k9Twd+FRvBchQ9cNwkNcVQ=="
 ---

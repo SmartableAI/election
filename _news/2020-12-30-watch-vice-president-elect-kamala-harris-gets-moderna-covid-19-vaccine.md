@@ -114,7 +114,7 @@ related:
   - title: "'That was easy': Kamala Harris receives Covid-19 vaccine – video"
     excerpt: "Describing the process as 'relatively painless', Harris urged all Americans to get vaccinated"
     publishedDateTime: 2020-12-29T15:53:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2020/dec/29/kamala-harris-receives-covid-19-vaccine-video?share=facebook"
+    webUrl: "https://www.theguardian.com/us-news/video/2020/dec/29/kamala-harris-receives-covid-19-vaccine-video"
     type: article
     provider:
       name: The Guardian
@@ -172,6 +172,6 @@ related:
         height: 675
         isCached: true
 
-secured: "uVlgQ5rUghn0Q3OntIakWZ1+HyjN3yTztHl12zCKhHZYicDwIT18ONn0ajfAwHPvIATtbEwbnz2yiDOT2LvJ+801wSzNwGAEpQ8VSBchEpUYt3d71tsN3/2ZCbEO0wJTzSNdDHzJMzx7d9awnN6dtzz2aAiU7DhGTQScSHMalUNmPVxNET7G0Kml4Up1Ep4S8ACRoU9Jkem53WgRvBAiGo78++yafjCLidwwCkyWAsrIzfmOBs/HIziDadArQ2cu1hkcMlrh8wM+p45ACOK1Brl3/RWepTiejX9nu7sjwf4q32+D5YyZeebV6X69/WJ6xnLA2Dj8siuMjTF8txy6obO77wLreBJ2neYhHWW+Vus=;EpDWyp2f2DZC93BzJ0cMqQ=="
+secured: "C0SRZX0KxOAviJLbrVWbXi6Y35tb5Fp9h2F5NskKnX7s/l+K9vcdU1rIZUAtVZek6u0/QUw/KkequdlYyJo3hInwSHQLYTT9Gs63wlQo4VUwAM0MHTLL66aP8dmfnGaBRrBcSyetOwzyi1nyDRXkntqr/cnL6wWuXvnA269dDCJ4dalk2C9rdzXugmeRryNU9j9gp7T3WvBMFvPAYojCyKq9FW/uRS5g9gOFfykFduk/YXgSjcCfVq0iavjrf3ROZ6ojROxopovBGfco80wpFe0uXNk0H92pqC3SFxr/NAqwDeNRNL0/PlEBushDbwLr3NfDAMRuh9oASYp4Gx21vnMTAgG99RWfauB3VaNYtjrGZenur5x5LyhXJ5BdOkFBobU3uEKrsJZ7OHzOaSVun2nSSghwDmuhxud7ZqFEkqmub98Zuk9opIeF549cixKrHo3YpWWM7NgKCkZRtgwGteeBHM92jZnm1M8+LcMXWuhkGtKXoW1qi0o02eA513a3DBbf3yEPI2NUXxX7J80Aow==;lH8FZSLD5Zehh4sDtvyEMg=="
 ---
 
