@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-24-egregious-and-disgusting-trumps-pardon-of-blackwater-contractors-sparks-outrage-warnings.md",
+      "title": "'Egregious and disgusting': Trump's pardon of Blackwater contractors sparks outrage, warnings",
+      "excerpt": "Blackwater contractors convicted of killing 14 Iraqi civilians could jeopardize the safety of American military personnel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/world/2020/12/23/trumps-blackwater-pardons-spark-outrage-fear-backlash-troops/4023126001/",
+      "originalUrl": "https://www.usatoday.com/story/news/world/2020/12/23/trumps-blackwater-pardons-spark-outrage-fear-backlash-troops/4023126001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/6fc81074669057475a44043318ad93911be424c2/c=0-192-3200-1997/local/-/media/USATODAY/USATODAY/2014/06/29/1404096296000-AP-Blackwater-Trial.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4023126001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4023126001",
+      "publishedDateTime": "2020-12-23T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-trump-just-blew-up-the-stimulus-and-spending-bill-what-happens-now.md",
       "title": "Trump just blew up the stimulus and spending bill. What happens now?",
       "excerpt": "It's crunch time. Here's a breakdown of where things stand on the stimulus agreement, the $2,000 direct payment proposal and what could happen next.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -51,63 +103,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-george-clooney-on-the-midnight-sky-and-donald-trump.md",
-      "title": "George Clooney on ‘The Midnight Sky’ and Donald Trump",
-      "excerpt": "His new movie is on Netflix, but the actor-director says theaters won’t go away and Hollywood will be fine. He’s not so sure about Washington.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/24/arts/23george-clooney2/23george-clooney2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html",
-      "publishedDateTime": "2020-12-23T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -171,7 +166,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/pence-echoes-trump-election-loss-west-palm-beach-speech/4009750001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2421,
+      "heat": 2481,
       "tags": null,
       "images": [
         {

@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Environmental groups sue Trump administration over rule allowing for faster dishwashers"
+    excerpt: "A coalition of environmental groups sued the Energy Department on Tuesday in an effort to block a new federal rule that would allow for faster dishwashers, arguing it could possibly lead to \"higher household utility bills and more pollution.\"\n    \n"
+    publishedDateTime: 2020-12-29T18:48:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGcfz7wFK-w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/department-of-energy-dishwasher-rule-challenge/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/department-of-energy-dishwasher-rule-challenge/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016121521-us-department-of-energy-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration considering granting Saudi prince legal immunity for alleged assassination plot, sources say  "
     excerpt: "The Trump administration is considering granting Saudi Crown Prince Mohammed bin Salman legal immunity from a federal lawsuit alleging that he ordered an assassination squad to kill a former top Saudi intelligence official who shared information with the US, according to sources familiar with the situation.\n"
     publishedDateTime: 2020-12-22T23:54:21Z

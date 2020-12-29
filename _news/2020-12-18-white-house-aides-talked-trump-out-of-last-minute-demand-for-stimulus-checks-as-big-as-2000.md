@@ -159,6 +159,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Mitch McConnell says the Senate will consider Trump's demand for $2,000 stimulus checks"
+    excerpt: "Trump refused to sign Congress' $900 COVID-19 relief bill for nearly a week while demanding that the legislation include $2,000 checks."
+    publishedDateTime: 2020-12-29T18:41:00Z
+    webUrl: "https://www.businessinsider.com/mcconnell-senate-2000-stimulus-checks-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/mcconnell-senate-2000-stimulus-checks-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcconnell-senate-2000-stimulus-checks-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5feb414cedf8920018093ffc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Countdown to shutdown: Here’s what happens if Trump doesn’t enact the stimulus law by midnight Monday"
     excerpt: "Millions of Americans now face the prospect of weeks without unemployment payments, housing assistance and other critical coronavirus aid, as federal relief begins to evaporate amid Trump’s continued refusal to sign a $900 billion congressional stimulus deal into law."
     publishedDateTime: 2020-12-28T00:52:00Z

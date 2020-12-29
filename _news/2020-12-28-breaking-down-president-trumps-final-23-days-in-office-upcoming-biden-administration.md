@@ -278,6 +278,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump lashes out at ‘weak and tired’ Republican leaders after House votes to override his veto"
+    excerpt: "President Donald Trump is lashing out at congressional Republicans after the House easily voted to override his veto."
+    publishedDateTime: 2020-12-29T17:31:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 113
+    images:
+      - url: "https://www.chicagotribune.com/resizer/ErIEyMj5FnfbO54lqyCIIZcV0yk=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/FA5WMDJ3UZDNLK6CF66LMW4YYU.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Republican Sen. Toomey to Trump: 'You don't get everything you want, even if you are the president'"
     excerpt: "Republican Sen. Pat Toomey on Sunday urged President Donald Trump to sign the coronavirus relief bill as he pushes for $2,000 stimulus checks."
     publishedDateTime: 2020-12-27T16:48:00Z

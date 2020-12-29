@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Georgia Sens. Loeffler, Perdue back Trump on $2K coronavirus stimulus checks"
+    excerpt: "Georgia GOP incumbent Sens. Kelley Loeffler and David Perdue, who are fighting to keep their seats in special runoff elections next week, voiced support for $2,000 stimulus checks on Tuesday."
+    publishedDateTime: 2020-12-29T17:24:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eIFJAGR7Vsk/sens-loeffler-perdue-support-2k-coronavirus-stimulus-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/sens-loeffler-perdue-support-2k-coronavirus-stimulus-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sens-loeffler-perdue-support-2k-coronavirus-stimulus-checks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump’s call for $2,000 stimulus checks hailed – by critics Pelosi, AOC, Sanders"
     excerpt: "As if 2020 hasn’t delivered enough unexpected news, consider this: President Trump’s call Tuesday night for Congress to raise coronavirus stimulus payments to Americans to $2,000 won raves from at least three of his harshest critics."
     publishedDateTime: 2020-12-23T04:15:19Z
@@ -110,6 +126,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68f2e7ff-9ac5-45dd-ace4-2e5288b5f724/b4a74886-bfc2-4b11-a57f-9eedc083859b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "McConnell blocks quick vote on $2,000 stimulus checks, says Senate to bring Trump requests 'into focus'"
+    excerpt: "Senate Majority Leader Mitch McConnell said Tuesday that the Senate will address President Trump's request to increase stimulus checks sent to Americans to $2,000 but did not commit to pushing the issue -- as Sen. Bernie Sanders and Senate Minority Leader Chuck Schumer each urged the body to put the"
+    publishedDateTime: 2020-12-29T18:08:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rsJIdswnJwk/mcconnell-blocks-2000-stimulus-checks-quick-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-blocks-2000-stimulus-checks-quick-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-blocks-2000-stimulus-checks-quick-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Flashback: Trump in 2018 on massive spending bill 'nobody read': 'I will never sign another bill like this'"
     excerpt: "President Trump on Tuesday blasted the bipartisan omnibus spending bill passed by Congress that wrapped up COVID relief in it, calling for larger stimulus checks and arguing no one in Congress had read the bill."
@@ -190,6 +222,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20361775825326.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "McConnell blocks quick vote on $2,000 stimulus checks, says Senate to bring Trump requests 'into focus'"
+    excerpt: "Senate Majority Leader Mitch McConnell said on Tuesday that the Senate will address President Trump's request to increase stimulus checks sent to Americans to $2,000 but did not commit to pushing the issue -- as Sen."
+    publishedDateTime: 2020-12-29T18:21:00Z
+    webUrl: "https://www.foxnews.com/politics/mcconnell-blocks-2000-stimulus-checks-quick-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-blocks-2000-stimulus-checks-quick-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-blocks-2000-stimulus-checks-quick-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "rHafeCNrnkAkHKvDktQVBfaZLfnNyNizAq3pN5SHZT8Zs2Qk4jLWVP3SrnLKcvSNhVCLjYP58Ei36DyPzdE48lyBgCi+8OFxPQTmZnAOTxYBhMZo/efaJlVsAPQfMdby4MCQZJ3QDQuAeTUPThV3nAQkundHycDZE0dpdZlXqieEGVKGmkCqBVp8kxKSTyiFjlynCyjwTp3f/ljTzOA3FIyFRaDq2SEA1QA76Er+RZYgKSkAN2yPVca2tlEZcIzF+vyrEcPkjEyJ1i1bEr6xxqfQOmStOQ48VcD53RanL9+N/TQSh6TUUB0KBEXYgVccatznFDSWRXyDcpz92jhIWtOzSrgoguEDll3ob8sHneo=;LUC8U/BU3gzWI2SPgJWvXw=="

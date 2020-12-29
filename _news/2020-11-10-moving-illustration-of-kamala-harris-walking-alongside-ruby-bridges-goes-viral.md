@@ -95,22 +95,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "For interracial couples, Kamala Harris and Doug Emhoff are a ‘monumental’ symbol"
-    excerpt: "The vice president elect is Black and her husband is White, making them the first interracial couple at the highest reaches of the U.S. government"
-    publishedDateTime: 2020-11-23T12:09:00Z
-    webUrl: "https://www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/"
-    ampWebUrl: "https://www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KJVQRVQ5RMI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 963
-        isCached: true
   - title: "Kamala Harris victory sparks celebration in south India for 'daughter of our village'"
     excerpt: "Residents took to the streets in the vice president-elect’s ancestral village after hearing news of her victory."
     publishedDateTime: 2020-11-09T16:18:00Z

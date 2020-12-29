@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Under Biden, the Justice Department will again police the police"
+    excerpt: "The restructuring of the East Haven, Conn., police department followed the kind of court-mandated change that the Trump administration largely abandoned."
+    publishedDateTime: 2020-12-29T18:10:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-plans-police-reform/2020/12/22/d4812c9c-3bcc-11eb-98c4-25dc9f4987e8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-plans-police-reform/2020/12/22/d4812c9c-3bcc-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-plans-police-reform/2020/12/22/d4812c9c-3bcc-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BF5H7OSBV4I6XNMLCYR7MJTZMA.jpg&w=1440"
+        width: 1440
+        height: 1000
+        isCached: true
   - title: "GOP congressman sues Pence in effort to try and overturn Biden win"
     excerpt: "The lawsuit, led by Rep. Louie Gohmert, focuses on the Jan. 6 ceremonial meeting of Congress to finalize Joe Biden's victory."
     publishedDateTime: 2020-12-29T00:15:00Z

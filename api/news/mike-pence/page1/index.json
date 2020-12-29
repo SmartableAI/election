@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-29-gohmerts-pence-lawsuit-seeks-to-declare-electoral-counting-act-unconstitutional-in-bid-to-overturn-biden-win.md",
-      "title": "Gohmert's Pence lawsuit seeks to declare Electoral Counting Act unconstitutional in bid to overturn Biden win",
-      "excerpt": "Rep. Louie Gohmert, R-Texas, is making a last-ditch effort to change the result of the 2020 presidential election by suing Vice President Mike Pence with the aim of having him declare President Trump the victor when he announces the winner of the electoral college vote on Jan. 6.",
+      "path": "_news/2020-12-29-how-suing-mike-pence-is-the-last-gasp-of-the-election-fraud-crowd.md",
+      "title": "How suing Mike Pence is the last gasp of the 'election fraud' crowd",
+      "excerpt": "And rather than just playing the ceremonial role of president of the Senate on January 6, Pence was empowered to choose which electors are \"legal,\" which, I suppose, would exclude the electors from states where President-elect Joe Biden won but Trump has falsely suggested there was fraud,",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u7T7FRn4zbw/gohmert-sues-pence-overturn-biden-win",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u7T7FRn4zbw/gohmert-sues-pence-overturn-biden-win",
+      "webUrl": "https://www.cnn.com/2020/12/29/politics/louie-gohmert-mike-pence-lawsuit/index.html",
+      "originalUrl": "https://www.cnn.com/2020/12/29/politics/louie-gohmert-mike-pence-lawsuit/index.html",
       "featuredContent": null,
       "highlight": {
-        "text": "Republican Voice",
+        "text": "Democratic Voice",
         "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
+        "backgroundColor": "#0015BC"
       },
-      "heat": 241,
+      "heat": 150,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f8daa921-8009-4260-80a6-e2bd33f611bc/bc19624d-2c91-4762-8a1b-d09bc9c7f7ac/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120140130-trump-pence-1113-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,16 +28,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gohmert-sues-pence-overturn-biden-win.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gohmert-sues-pence-overturn-biden-win.amp",
-      "publishedDateTime": "2020-12-29T06:21:50-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/29/politics/louie-gohmert-mike-pence-lawsuit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/louie-gohmert-mike-pence-lawsuit/index.html",
+      "publishedDateTime": "2020-12-29T02:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,8 +54,8 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice",
-        "Mike Pence"
+        "Mike Pence",
+        "Democratic Voice"
       ]
     },
     {
@@ -409,7 +409,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/pence-echoes-trump-election-loss-west-palm-beach-speech/4009750001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2421,
+      "heat": 2481,
       "tags": null,
       "images": [
         {

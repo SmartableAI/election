@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-29-harris-emphasizes-covid-19-vaccine-is-painless-and-safe.md",
+      "title": "Harris emphasizes COVID-19 vaccine is 'painless' and 'safe'",
+      "excerpt": "Vice President-elect Kamala Harris on Tuesday publicly took the recently approved coronavirus vaccine.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VVmG2hJUoCg/harris-covid-19-vaccine-painless-safe",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VVmG2hJUoCg/harris-covid-19-vaccine-painless-safe",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-covid-19-vaccine-painless-safe.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-covid-19-vaccine-painless-safe.amp",
+      "publishedDateTime": "2020-12-29T09:26:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-kamala-harris-receives-first-dose-of-moderna-covid-19-vaccine-on-camera.md",
       "title": "Kamala Harris receives first dose of Moderna Covid-19 vaccine on camera",
       "excerpt": "Vice President-elect Kamala Harris is expected to receive the first dose of a Covid-19 vaccine on Tuesday, according to the Biden transition team.\n    \n",
@@ -55,6 +112,58 @@
       "topics": [
         "Election",
         "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-kamala-harris-and-husband-doug-emhoff-receive-covid-19-vaccine.md",
+      "title": "Kamala Harris and husband Doug Emhoff receive COVID-19 vaccine",
+      "excerpt": "The vice president-elect received her shot on camera as part of efforts to build public trust in the coronavirus vaccine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/kamala-harris-doug-emhoff-covid-vaccine/",
+      "originalUrl": "https://www.cbsnews.com/news/kamala-harris-doug-emhoff-covid-vaccine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/29/8cbf2e07-8d58-471e-8572-0e4176b0db22/thumbnail/1200x630/9fc15131cf2b1c1379915144a2afbcdb/ap-20364578711714.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/kamala-harris-doug-emhoff-covid-vaccine/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-doug-emhoff-covid-vaccine/",
+      "publishedDateTime": "2020-12-29T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Kamala Harris"
       ]
     },
@@ -116,63 +225,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-23-socialists-blast-kamala-harris-in-covid-19-relief-battle-saying-she-has-been-nowhere-to-be-found.md",
-      "title": "Socialists blast Kamala Harris in COVID-19 relief battle saying she has been 'nowhere to be found'",
-      "excerpt": "Socialists are evidently displeased with Vice President-elect Kamala Harris’ curious silence on much-needed economic relief to Americans during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G10L81gPnyo/socialists-blast-kamala-harris-as-nowhere-to-be-found-in-coronavirus-relief-fight",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G10L81gPnyo/socialists-blast-kamala-harris-as-nowhere-to-be-found-in-coronavirus-relief-fight",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20358720594343.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/socialists-blast-kamala-harris-as-nowhere-to-be-found-in-coronavirus-relief-fight.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/socialists-blast-kamala-harris-as-nowhere-to-be-found-in-coronavirus-relief-fight.amp",
-      "publishedDateTime": "2020-12-23T15:35:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-12-23-news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat.md",
       "title": "News Wrap: Alex Padilla is tapped to fill Kamala Harris’ Senate seat",
       "excerpt": "In our news wrap Tuesday, California Secretary of State Alex Padilla is tapped to fill the U.S. Senate seat vacated by Vice President-elect Kamala Harris, the E.U.'s executive body calls for an end to travel bans aimed at confining a new COVID-19 strain in Britain,",
@@ -181,7 +233,7 @@
       "originalUrl": "https://www.pbs.org/newshour/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat",
       "featuredContent": null,
       "highlight": null,
-      "heat": 705,
+      "heat": 745,
       "tags": null,
       "images": [
         {
@@ -759,58 +811,6 @@
         "Election",
         "Kamala Harris",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-kamala-harris-husband-lawyer-doug-emhoff-to-teach-next-semester-at-georgetown.md",
-      "title": "Kamala Harris’ husband, lawyer Doug Emhoff, to teach next semester at Georgetown",
-      "excerpt": "The incoming second gentleman has landed a new job at the Georgetown University Law Center, school officials announced. Doug Emhoff, husband to Vice President-elect Kamala D. Harris, announced last month he would leave his Los Angeles law firm by Inauguration Day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2YNFSAR37YI6XETWVYGKOJZJXY.jpg&w=1440",
-          "width": 1440,
-          "height": 958,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-12T23:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {

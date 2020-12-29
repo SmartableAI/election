@@ -121,6 +121,20 @@ related:
         width: 2048
         height: 1377
         isCached: true
+  - title: "Kamala Harris receives COVID-19 vaccine"
+    excerpt: "Vice President-elect Kamala Harris received her first dose of the COVID-19 vaccine Tuesday in Washington, D.C. She got the shot on camera in hopes of encouraging Americans to get vaccinated when it's their turn."
+    publishedDateTime: 2020-12-29T17:09:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-receives-covid-19-vaccine/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/29/229b2034-c8f3-46bf-aae1-ce6af52f38dc/thumbnail/1200x630/46f208de17f32695d3cbcebe5deb5628/cbsn-fusion-kamala-harris-receives-covid-19-vaccine-thumbnail-617698-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris Receives First Dose of Covid-19 Vaccine"
     excerpt: "Vice President-elect Kamala Harris receives her first dose of Moderna's Covid-19 vaccine at United Medical Center in Southeast Washington, D.C. (Source: Bloomberg)"
     publishedDateTime: 2020-12-29T16:39:00Z
@@ -405,6 +419,20 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Kamala Harris gets Moderna COVID-19 vaccine"
+    excerpt: "US Vice President-elect Kamala Harris on Tuesday received her first dose of the Moderna COVID-19 vaccine before live television cameras as part of a growing effort to convince the US public the inoculations are safe."
+    publishedDateTime: 2020-12-29T18:44:00Z
+    webUrl: "https://www.azcentral.com/videos/news/nation/2020/12/29/kamala-harris-gets-moderna-covid-19-vaccine/4075783001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4684f623-a8fd-4fd2-8ad1-743c69ffbcc7_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Kamala Harris receives 1st dose of COVID-19 vaccine"
     excerpt: "Vice President-elect Kamala Harris on Tuesday received her first dose of Moderna's COVID-19 vaccine. Harris joins President-elect Joe Biden, Dr. Anthony Fauci, Vice President Mike Pence, several White House officials,"
     publishedDateTime: 2020-12-29T16:29:00Z
@@ -457,6 +485,6 @@ related:
       domain: usnews.com
     quality: 25
 
-secured: "3a2PtUfTqYF4cTdJID4OWy1K80Nxp3y4UOp8TuLTocWdjyjZmE/wBtW15vHN9NfkP16ERN4aHPLt+E+u1job+3atP2WDcGiFdaJ8sWONQqIF/8MZgyAtIgK7Rgd6OTuGNMbAnIT7AFdq0mzXCPtWJCbsqIHAGgZtgXpEXW7fea+F2QTD8VLBK014/suR6fyHLO2srhXBmdvbr5MYfSJtciaJ9mqKBHKxkk5RG+WbHL6ZxILGm3gdRrZoUe+izcDTIb7MOp4eR4dyct02Jm+SWaWT4Ts/JefooCUzlPj1OdhSAWr4BLL2yRJhA4uQX8zDIPGnP/fTXA38YUhG6PdWBzskIw3qM6kqt3gVH3mwemY=;EoCHgaAFkhc2sBdKDnm03w=="
+secured: "QkB98Mo2SVh1TFafN48a14qmEx1eOTeNMDoUF7Yas7fzaNlZZnhH4zTtwiwVjo2ElArH5Bb5ljDz3+5Tyt5NDMDiWmDsmLl0314pKOn0ZT4HMaKAKRHVcPon08IcXUzbLcsJzscH53Nh5w8glXqQhPEotg5EZP4BiesvbRjoA8dexhi3DW67ZtYoOyqhgcIdlS6Jf3aioR5jEicEBNdJ9udD8BSNEzUydWflcNJOHM2se6rqQGrx6fgf8JRcBGQ09ENC80t/vAjusXLgspa2Gce3dE4JVSpQR3rjDYxdASlvlrbbxz51l7nCgV9mgiOEgXe5yJ2FT3tp9STrmf/eRiFLnsKl7oIsBsaKrehXWv4tEy8n8lz3J4XmoJKtI92U4Jz8zmNILq05dVR0KyBmoXqpYehm3PwJQdf1hjalh4Y1dOjC9AFucAjypNoZPTqKu7hhCpmJcYH4cZWQLfyAQMSmCRWibn7heABotIcNfCB3s6yaYPvhuvOgI8ZoczEA8wFEB6E3q/7g2+6sYEhSEw==;8jn7tK/gky4EVsZddRSL1A=="
 ---
 

@@ -2,63 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-29-live-updates-biden-blasts-transition-obstruction-by-defense-department.md",
-      "title": "Live Updates: Biden blasts transition ‘obstruction’ by Defense Department",
-      "excerpt": "President-elect Joe Biden says his transition teams have \"encountered obstruction\" from President Trump’s political leadership at the Defense Department and the Office of Management and Budget.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020",
-      "originalUrl": "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b63ad575-3944-454f-86e0-b31ad0fc3adf/ff7faca5-f527-4d40-a802-63ce1b379890/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-29-2020.amp",
-      "publishedDateTime": "2020-12-28T21:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-29-how-joe-bidens-cold-war-experience-will-shape-his-approach-to-russia.md",
       "title": "How Joe Biden’s cold war experience will shape his approach to Russia",
       "excerpt": "President-elect’s formative years of going toe-to-toe with the USSR on arms control hint at how he may deal with Putin",
@@ -67,7 +10,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2020/dec/29/how-joe-biden-cold-war-experience-will-shape-approach-to-russia",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -342,7 +285,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 661,
+      "heat": 681,
       "tags": null,
       "images": [
         {
@@ -545,63 +488,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-biden-education-secretary-nominee-pushed-microaggression-resources-in-response-to-riots.md",
-      "title": "Biden education secretary nominee pushed ‘microaggression’ resources in response to riots",
-      "excerpt": "Elect Joe Biden nominated Connecticut Education Commissioner Miguel Cardona to serve as head of the Department of Education in his administration, a public school advocate who sent around resources on \"microaggressions\" as he took action to help parents and educators navigate difficult race-related discussions earlier this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots",
-      "originalUrl": "https://www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d35de097-8c5a-4e70-8247-09107ab6329c/068d8bec-02c6-4123-942d-2551920bbfe1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots.amp",
-      "publishedDateTime": "2020-12-22T19:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     },
     {
@@ -1608,6 +1494,115 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-macklem-bidens-arrival-could-eliminate-canadas-competitive-edge-on-immigration.md",
+      "title": "Macklem: Biden's arrival could eliminate Canada's competitive edge on immigration",
+      "excerpt": "The Trudeau government has talked up the importance of attracting top global talent as part of its pursuit of stronger economic growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/16/biden-canada-immigration-445784",
+      "originalUrl": "https://www.politico.com/news/2020/12/16/biden-canada-immigration-445784",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/5c/35/04980ac8420aac0a80f72f5c5e79/201209-krotoszynski-biden-ap.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-fact-check-laptop-repairman-at-center-of-hunter-biden-saga-is-alive.md",
+      "title": "Fact check: Laptop repairman at center of Hunter Biden saga is alive",
+      "excerpt": "Some users on Facebook have falsely claimed John Paul Mac Isaac — the laptop repairman at the center of the Hunter Biden laptop saga — was found dead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-laptop-repairman-center-hunter-biden-saga-alive/3905393001/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-laptop-repairman-center-hunter-biden-saga-alive/3905393001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/10/USAT/dd7975a8-d63a-4e8b-b306-739763b38569-VPC_HUNTER_BIDEN_TAXES_DESK.00_00_32_05.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3905393001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3905393001",
+      "publishedDateTime": "2020-12-15T17:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

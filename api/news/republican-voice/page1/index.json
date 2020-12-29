@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-29-trump-joins-michelle-obama-at-top-of-gallups-most-admired-lists.md",
+      "title": "Trump joins Michelle Obama at top of Gallup's 'Most Admired' lists",
+      "excerpt": "President Trump dethroned former President Barack Obama as the most admired man in 2020, while Obama's wife, Michelle Obama, was named most admired woman for the third year in a row.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/j82DsfKToNY/trump-michelle-obama-most-admired-man-and-woman-2020-poll",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/j82DsfKToNY/trump-michelle-obama-most-admired-man-and-woman-2020-poll",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f8daa921-8009-4260-80a6-e2bd33f611bc/bc19624d-2c91-4762-8a1b-d09bc9c7f7ac/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-michelle-obama-most-admired-man-and-woman-2020-poll.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-michelle-obama-most-admired-man-and-woman-2020-poll.amp",
+      "publishedDateTime": "2020-12-29T10:48:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-harris-emphasizes-covid-19-vaccine-is-painless-and-safe.md",
+      "title": "Harris emphasizes COVID-19 vaccine is 'painless' and 'safe'",
+      "excerpt": "Vice President-elect Kamala Harris on Tuesday publicly took the recently approved coronavirus vaccine.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VVmG2hJUoCg/harris-covid-19-vaccine-painless-safe",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VVmG2hJUoCg/harris-covid-19-vaccine-painless-safe",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-covid-19-vaccine-painless-safe.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-covid-19-vaccine-painless-safe.amp",
+      "publishedDateTime": "2020-12-29T09:26:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-trump-slams-weak-and-tired-senate-gop-leaders-amid-defense-veto-override-fight.md",
       "title": "Trump slams 'weak and tired' Senate GOP leaders amid defense veto override fight",
       "excerpt": "President Trump on Tuesday condemned \"weak and tired\" Senate Republican leadership as the upper chamber faces a vote to override his veto of the 2021 defense budget.",
@@ -58,25 +171,25 @@
       ]
     },
     {
-      "path": "_news/2020-12-29-gohmerts-pence-lawsuit-seeks-to-declare-electoral-counting-act-unconstitutional-in-bid-to-overturn-biden-win.md",
-      "title": "Gohmert's Pence lawsuit seeks to declare Electoral Counting Act unconstitutional in bid to overturn Biden win",
-      "excerpt": "Rep. Louie Gohmert, R-Texas, is making a last-ditch effort to change the result of the 2020 presidential election by suing Vice President Mike Pence with the aim of having him declare President Trump the victor when he announces the winner of the electoral college vote on Jan. 6.",
+      "path": "_news/2020-12-28-biden-calls-transition-obstruction-by-defense-department-irresponsible.md",
+      "title": "Biden calls transition ‘obstruction’ by Defense Department irresponsible",
+      "excerpt": "Taking aim at what he calls President Trump’s “go-it-alone” approach to international affairs, President-elect Joe Biden says he’ll restore “American leadership” across the globe.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u7T7FRn4zbw/gohmert-sues-pence-overturn-biden-win",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u7T7FRn4zbw/gohmert-sues-pence-overturn-biden-win",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WmQUDxl-Nnc/biden-vows-to-restore-americas-global-leadership",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WmQUDxl-Nnc/biden-vows-to-restore-americas-global-leadership",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 241,
+      "heat": 274,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f8daa921-8009-4260-80a6-e2bd33f611bc/bc19624d-2c91-4762-8a1b-d09bc9c7f7ac/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -84,9 +197,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gohmert-sues-pence-overturn-biden-win.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gohmert-sues-pence-overturn-biden-win.amp",
-      "publishedDateTime": "2020-12-29T06:21:50-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp",
+      "publishedDateTime": "2020-12-28T14:57:03-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -110,64 +223,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-live-updates-biden-blasts-transition-obstruction-by-defense-department.md",
-      "title": "Live Updates: Biden blasts transition ‘obstruction’ by Defense Department",
-      "excerpt": "President-elect Joe Biden says his transition teams have \"encountered obstruction\" from President Trump’s political leadership at the Defense Department and the Office of Management and Budget.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020",
-      "originalUrl": "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b63ad575-3944-454f-86e0-b31ad0fc3adf/ff7faca5-f527-4d40-a802-63ce1b379890/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-29-2020.amp",
-      "publishedDateTime": "2020-12-28T21:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -689,7 +744,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 375,
+      "heat": 435,
       "tags": null,
       "images": [
         {
@@ -1238,63 +1293,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-23-socialists-blast-kamala-harris-in-covid-19-relief-battle-saying-she-has-been-nowhere-to-be-found.md",
-      "title": "Socialists blast Kamala Harris in COVID-19 relief battle saying she has been 'nowhere to be found'",
-      "excerpt": "Socialists are evidently displeased with Vice President-elect Kamala Harris’ curious silence on much-needed economic relief to Americans during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G10L81gPnyo/socialists-blast-kamala-harris-as-nowhere-to-be-found-in-coronavirus-relief-fight",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G10L81gPnyo/socialists-blast-kamala-harris-as-nowhere-to-be-found-in-coronavirus-relief-fight",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20358720594343.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/socialists-blast-kamala-harris-as-nowhere-to-be-found-in-coronavirus-relief-fight.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/socialists-blast-kamala-harris-as-nowhere-to-be-found-in-coronavirus-relief-fight.amp",
-      "publishedDateTime": "2020-12-23T15:35:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-12-23-george-papadopoulos-ecstatic-over-trump-pardon-hints-at-possible-lawsuit.md",
       "title": "George Papadopoulos 'ecstatic' over Trump pardon, hints at possible lawsuit",
       "excerpt": "Former Trump 2016 campaign adviser George Papadopoulos celebrated the pardon President Trump granted to him while noting that he may not be done with his accusers.",
@@ -1347,63 +1345,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-biden-education-secretary-nominee-pushed-microaggression-resources-in-response-to-riots.md",
-      "title": "Biden education secretary nominee pushed ‘microaggression’ resources in response to riots",
-      "excerpt": "Elect Joe Biden nominated Connecticut Education Commissioner Miguel Cardona to serve as head of the Department of Education in his administration, a public school advocate who sent around resources on \"microaggressions\" as he took action to help parents and educators navigate difficult race-related discussions earlier this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots",
-      "originalUrl": "https://www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d35de097-8c5a-4e70-8247-09107ab6329c/068d8bec-02c6-4123-942d-2551920bbfe1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots.amp",
-      "publishedDateTime": "2020-12-22T19:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -1476,7 +1417,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1686,6 +1627,62 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-from-trumps-impeachment-trial-to-hunter-biden-the-biggest-political-scandals-of-2020.md",
+      "title": "From Trump's impeachment trial to Hunter Biden: The biggest political scandals of 2020",
+      "excerpt": "As 2020 comes to a close, the news has been dominated by a global pandemic, statewide lockdowns and a presidential election. Amid all that, it’s easy to forget about political events, including scandals and controversies, that otherwise would have been more in the spotlight.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/U99P66zzip0/trump-biden-biggest-political-scandals-of-2020",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/U99P66zzip0/trump-biden-biggest-political-scandals-of-2020",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 462,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6735719-5880-4721-98a4-9f6162f992d6/7744e53b-a550-4780-9b27-5228d2ea0d54/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp",
+      "publishedDateTime": "2020-12-22T11:27:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

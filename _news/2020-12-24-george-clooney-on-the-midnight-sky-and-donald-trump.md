@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sk
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html"
 type: article
 quality: 135
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -32,6 +32,38 @@ images:
     isCached: true
 
 related:
+  - title: "Georgia Republicans stick with Trump and support increased direct payments"
+    excerpt: "Republican Sens. David Perdue and Kelly Loeffler both announced Tuesday that they support an effort to amend the recently passed omnibus spending bill to increase direct payments for Americans under a certain income level from $600 to $2,000.\n    \n"
+    publishedDateTime: 2020-12-29T17:03:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UggjTfRrxss/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senators-support-2000-checks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senators-support-2000-checks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130174736-kelly-loeffler-david-perdue-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump antagonizes Republicans with Georgia fundraising ploy"
+    excerpt: "Emails and texts raising cash for Trump's PAC have rankled Republicans, who want cash to flow directly to Georgia's endangered GOP senators."
+    publishedDateTime: 2020-12-15T01:25:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/da/1f/59b5d43848958d4f1d12f634434c/gettyimages-1230110704-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Georgia returns to spotlight after Trump ends coronavirus standoff"
     excerpt: "The president will hold a rally for the state’s Republican senators one day before the Jan. 5 runoff elections."
     publishedDateTime: 2020-12-28T15:53:00Z

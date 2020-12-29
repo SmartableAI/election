@@ -959,6 +959,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "President Trump's pardons and commutations"
+    excerpt: "President Trump's pardons have included service members charged with murder and a former national security adviser accused of lying to the FBI."
+    publishedDateTime: 2020-12-29T18:10:00Z
+    webUrl: "https://www.usatoday.com/web-stories/president-trumps-pardons-and-commutations/"
+    ampWebUrl: "https://www.usatoday.com/web-stories/president-trumps-pardons-and-commutations/"
+    cdnAmpWebUrl: "https://www-usatoday-com.cdn.ampproject.org/c/s/www.usatoday.com/web-stories/president-trumps-pardons-and-commutations/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://transform.nws.ai/https%3A%2F%2Fcdn.thenewsroom.io%2Fplatform%2Fstory_media%2F1288797393%2Fa6b890e7-d0a9-4435-934f-e1343b744dfb-XXX__JG_138559_Roger_Stone_Sent_02_2_jmg_39237.jpeg/fill/300/300/"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "U.S. appeals court upholds Trump health care price disclosure rule"
+    excerpt: "A federal appeals court on Tuesday upheld a White House-backed rule to require hospitals to disclose the prices they negotiate with insurers for an array of tests and procedures."
+    publishedDateTime: 2020-12-29T17:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-hospitals-lawsuit/u-s-appeals-court-upholds-trump-health-care-price-disclosure-rule-idUSKBN2931OS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2931OS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2931OS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546076116&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0XH"
+        width: 757
+        height: 545
+        isCached: true
   - title: "Trump is still pinning his hopes on one last lawsuit in Michigan to overturn the presidential election"
     excerpt: "President Donald Trump said a report written by his allies in a lawsuit over a small Michigan county's Marijuana measure reveals \"massive fraud.\""
     publishedDateTime: 2020-12-17T00:08:00Z
@@ -1509,6 +1541,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "U.S. Senate to address Trump's request on stimulus checks - McConnell"
+    excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday said senators this week will address President Donald Trump's request that $2,000 stimulus checks be sent to Americans struggling during the COVID-19 pandemic."
+    publishedDateTime: 2020-12-29T17:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-checks-idUSW1N2II00R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2II00R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2II00R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Trump continues attempts to overturn election..."
     excerpt: "Watch \"Trump continues attempts to overturn election results\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-12-21T12:22:00Z

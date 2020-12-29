@@ -26,53 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Gohmert's Pence lawsuit seeks to declare Electoral Counting Act unconstitutional in bid to overturn Biden win"
-    excerpt: "Rep. Louie Gohmert, R-Texas, is making a last-ditch effort to change the result of the 2020 presidential election by suing Vice President Mike Pence with the aim of having him declare President Trump the victor when he announces the winner of the electoral college vote on Jan. 6."
-    publishedDateTime: 2020-12-29T14:21:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u7T7FRn4zbw/gohmert-sues-pence-overturn-biden-win"
-    ampWebUrl: "https://www.foxnews.com/politics/gohmert-sues-pence-overturn-biden-win.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gohmert-sues-pence-overturn-biden-win.amp"
+  - title: "Biden says 'our darkest days with COVID are ahead of us, not behind us'"
+    excerpt: "President-elect Joe Biden spoke frankly in a rare address on the bleak reality of COVID-19 in the U.S., telling Americans \"Our darkest days…are ahead of us, not behind us,\" during remarks on Tuesday. "
+    publishedDateTime: 2020-12-23T02:26:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OBsPqq72k8A/biden-says-our-darkest-days-with-covid-are-ahead-of-us-not-behind-us"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-our-darkest-days-with-covid-are-ahead-of-us-not-behind-us.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-our-darkest-days-with-covid-are-ahead-of-us-not-behind-us.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 181
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f8daa921-8009-4260-80a6-e2bd33f611bc/bc19624d-2c91-4762-8a1b-d09bc9c7f7ac/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/814418a1-08c9-4bed-b7c7-fdab0625619e/0c6fe622-1cb6-4599-a598-7e8010fec20a/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden calls transition ‘obstruction’ by Defense Department irresponsible"
-    excerpt: "Taking aim at what he calls President Trump’s “go-it-alone” approach to international affairs, President-elect Joe Biden says he’ll restore “American leadership” across the globe."
-    publishedDateTime: 2020-12-28T22:57:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WmQUDxl-Nnc/biden-vows-to-restore-americas-global-leadership"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden calls transition ‘obstruction’ by Defense Department irresponsible"
-    excerpt: "Taking aim at what he calls President Trump’s “go-it-alone” approach to international affairs, President-elect Joe Biden says he’ll restore “American leadership” across the globe."
-    publishedDateTime: 2020-12-29T01:00:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20363689916730.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "dJOXQEF9I9kBxyWxnep22fT+kcQtmlrAHtAi/92e0s8h6x4jfwcW6KtbWI7ZIi/6CZbBA/Ozqjp/ik8AUnUrcwnjuZTDd3oq2RhwDbnov3JxiSQNdV+J4HC3W40YZxK8okfHu9ctx86EGW7txNREUy1qxb47xAPKV9itQ0QI/AadnBmBHCo6vtgpFsUgV04AI39sRWaeXQRvacdIUVKjqguBdnN91O8zGs74ZhSV6HtOTHJt2zjpspAyVWbd2xJS9t9r9aeeikw+5qxrivEl8xQsZP3YK6RJSyIrAjq4E1zf7lYubbO0CkixUBL58WS+WDJkkcINFhTkMY+F/isTgvfBV8yRhWOT2f+o1EWAOKA=;LEPFtIfgpEISNqxOLUmH5g=="

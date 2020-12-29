@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Harris emphasizes COVID-19 vaccine is 'painless' and 'safe'"
+    excerpt: "Vice President-elect Kamala Harris on Tuesday publicly took the recently approved coronavirus vaccine."
+    publishedDateTime: 2020-12-29T17:26:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VVmG2hJUoCg/harris-covid-19-vaccine-painless-safe"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-covid-19-vaccine-painless-safe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-covid-19-vaccine-painless-safe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Socialists blast Kamala Harris in COVID-19 relief battle saying she has been 'nowhere to be found'"
     excerpt: "Socialists are evidently displeased with Vice President-elect Kamala Harris’ curious silence on much-needed economic relief to Americans during the pandemic."
     publishedDateTime: 2020-12-23T23:35:37Z
@@ -63,6 +79,20 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/kamala-harris-husband-covid-vaccine.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Kamala Harris: \"Democrats Certainly Wanted To Get More Relief Than $600\""
+    excerpt: "Vice President-elect Kamala Harris called on Republicans to support President Donald Trump's proposal for $2,000 stimulus checks at a Toys For Toys event on Wednesday. \"I think that we definitely need to get relief,"
+    publishedDateTime: 2020-12-23T23:27:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/12/23/kamala_harris_democrats_certainly_wanted_to_get_more_relief_than_600.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 64
+    images:
+      - url: "https://assets.realclear.com/images/53/530657.jpg"
+        width: 984
+        height: 738
         isCached: true
 
 secured: "kpbsKX3Zp5ZQCL9fnuGzEfQ+1OKEHJqiJk0EYjNh0Pe6TAelA8CPg5kQPEcnozTQQEYuAEykQDhTbr5RMbH5HVE+ySK6MK09y1U2+vQijmpOkDslTj/CthnYb3paQu0O/DzO7qy9EArZrgacwJhJLi2KlnpIClsIWk8iruCqCZ7tcyJ27Pr1CMvhEe7H9WEsx9BwOvdH1+/OSOSUyu78TDSbAshsw4n7/MBRICIXp3nrrWpNHznX8fuwMmyHoHDrvo2H7r7OLcxmjQUK/76/yH6uyGoJNaBKtVeV2FNiAgueRRzkKWdF8M2XHbozWQcVQvvv27e+HbhnM1UOwtf+zRSGy9w681UTViZelmqCygnN8e57+sKp+AjLnyJGVjdxTbOhhVcD6OD+HgwwfnE5l2PIztZtsNBnpR+zN+ukgdqF8UtBwMyRD6ymg2zyC5fBqMlputvdBFwWVkTh5anfGD1e7rPd/EmI0Dq9RPLrPGfiSL2am9qHUh0Uc2PtUoEqD+WPZa86paSSD1sfnZAlUQ==;3wD7rJneZLqhVYN2czQr2g=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-54941571"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54941571"
 type: article
 quality: 123
-heat: 763
+heat: 743
 published: true
 
 provider:
@@ -94,22 +94,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/0b181b21095bc3a796911dd26901369361851cd7/0_34_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=be3e6c728f6dd90cfe4eeee23cba9186"
         width: 600
         height: 360
-        isCached: true
-  - title: "For interracial couples, Kamala Harris and Doug Emhoff are a ‘monumental’ symbol"
-    excerpt: "The vice president elect is Black and her husband is White, making them the first interracial couple at the highest reaches of the U.S. government"
-    publishedDateTime: 2020-11-23T12:09:00Z
-    webUrl: "https://www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/"
-    ampWebUrl: "https://www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KJVQRVQ5RMI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 963
         isCached: true
   - title: "Kamala Harris victory sparks celebration in south India for 'daughter of our village'"
     excerpt: "Residents took to the streets in the vice president-elect’s ancestral village after hearing news of her victory."
