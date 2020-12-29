@@ -79,6 +79,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden: Trump aides setting 'roadblocks' for his transition team"
+    excerpt: "President-elect Joe Biden said on Monday many of America's security agencies had been \"hollowed out\" under President Donald Trump and the lack of information being provided to his transition team by the outgoing administration was an \"irresponsibility."
+    publishedDateTime: 2020-12-29T05:41:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-nationalsecurity-idUSKBN2921U4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2921U4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2921U4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545991901&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0X6"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump-Biden transition live updates: House approves boosting stimulus checks to $2K"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 23 days. The House narrowly passed a bill that would increase the amount of money Americans receive in a second round of pandemic relief stimulus payments to $2,"
     publishedDateTime: 2020-12-29T00:34:00Z
@@ -385,6 +401,6 @@ related:
         height: 683
         isCached: true
 
-secured: "wTkLgu1TKaunGx7uIwJfw6nuqihm/fNYVgMTqlKWXI74AxGO7GBBNAeDtbxL/UdsApTrl6/HfRrFzkBS0PZ8oRDYXgj00MhNuT59KT8dNq1ipkGvDGI8yXwocufrs9AMbmVF+FNGl2ScRzqf+N1tDUk02gMycomq/SDoZk/tAZMW9k/k3Kh6AlAAgkD4NusO8ulG64KBaA1pslltKL0SDsohzB2ufvbaCBTmqBXRlfJtNHh07fnGj5usLcsTgjaIbfC/yt3AjcyiRE0H17muDL6FRoyPhAfk4ikZxlXKtevBW1PCGwSwNqV5s86RRQXjKHtM8Spi93JaybMocub9NB6N6jlHc6Gryy7wfa/BdkQ=;cJRMLGo4SgfmPSmDogXlug=="
+secured: "001rzoAk5zkOYDq6ecGkiGARQ221v/eG8LRN/TIz/nTb0FEmhSw90tJdPoTOSSGWur60m1jEWerfTXbO5bR5gsjS/JG5JzXuL8Sk080vjfGmiQ5PrzkEg2vIiTOZqvRQV+FTWzRz7LWLtdDhUeQXWDKED8FqRy4+OfTQiAV5Dw/3Kl++5SsDRD1QzksP5rkRUPV8MqlyhqBbBkJBCzCGDdcQTpbAyb1BhHKS2XGovEP0jcos5IPxStrHzIwjMpPH6KQYBzfHZ4v534t2YG3ZgHXmaCS9AJlkVstgVKAGTcoqCUvn7XsHFqHm1c3HlhjqWLtoRNIWdJq4dVjW1WjOQaxeqIQbz/EiPcugA6sIUD4GBz6lyfyam7Kig5sTUf4b3zyqx41AWVQfL6RH/csBzabrFyUHCS8fQ7xzKAICCuPpDOENf/VAPGsKLSMS6wD8WMsDoFxYiftgKBqUJ/33rN+wsX0vSPT19xFvfw5MMN/UwrpMhfSMhmUL+ppShY3ssp+85264Q1FUZ2p+1Oa4Wg==;r9tkF/9/PViJuaAJo2C1CQ=="
 ---
 

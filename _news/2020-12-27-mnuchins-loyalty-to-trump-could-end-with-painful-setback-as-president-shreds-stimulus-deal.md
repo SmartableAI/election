@@ -31,69 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Attacks China in Christmas Tweet as Millions Await Stimulus Update"
-    excerpt: "President tells lawmakers who blocked attempts to increase coronavirus relief package to $2,000 per qualified individual \"it wasn't their fault, it was China.\""
-    publishedDateTime: 2020-12-26T12:35:00Z
-    webUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359"
-    ampWebUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
+  - title: "Fate of Trump's $2,000 checks now rests with GOP-led Senate"
+    excerpt: "President Donald Trump ’s push for $2,000 COVID-19 relief checks now rests with the Senate after the House voted overwhelmingly to meet the president's demand to increase the $600 stipends, but Republicans have shown little interest in boosting spending."
+    publishedDateTime: 2020-12-29T05:34:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943951"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943951"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943951"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_b0df8d10c7f84679b2d85479bc4b367d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "House approves Trump's $2K checks, sending to GOP-led Senate"
+    excerpt: "The House has voted overwhelmingly to increase COVID-19 relief checks to $2,000, meeting President Donald Trump’s demand for bigger payments"
+    publishedDateTime: 2020-12-29T02:30:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929699"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929699"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929699"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_29f4b4f27e864d9d8618ef344062ef9a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "GOP Lawmaker Asks Trump to Pardon Ex-Congressman, Calls DOJ 'Corrupt and Inept'"
+    excerpt: "Arizona Representative Paul Gosar said Rick Renzi was \"convicted by corrupt DOJ prosecutors who fabricated evidence.\""
+    publishedDateTime: 2020-12-26T22:39:00Z
+    webUrl: "https://www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400"
+    ampWebUrl: "https://www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 124
+    quality: 121
     images:
-      - url: "https://d.newsweek.com/en/full/1693329/donald-trump.jpg"
+      - url: "https://d.newsweek.com/en/full/1675257/rep-paul-gosar.jpg"
         width: 2500
-        height: 1667
+        height: 1663
         isCached: true
-  - title: "Three Christmases: Highlights of Trump's previous Mar-a-Lago holiday stays"
-    excerpt: "Lago will have in store this year, but his previous holidays at the Southern White House have been notable and memorable. Trump arrived on Dec. 16 and departed on Jan. 1. On his way to Palm Beach, the president-elect first stopped in Orlando for a \"thank you\" rally for supporters."
-    publishedDateTime: 2020-12-23T02:30:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/22/president-donald-trumps-prior-mar-lago-holiday-vacations/3855759001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3855759001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3855759001"
+  - title: "Second stimulus check updates: House Democrats to vote on $2,000 relief checks that Trump demanded"
+    excerpt: "The Democratic-led House Monday is set to vote to boost the $600 payments to $2,000, sending a new bill to the Senate. There, Republicans have the majority and are likely to defeat the effort."
+    publishedDateTime: 2020-12-28T17:31:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201228-7bufls7fzfdrnludxd63lsk6xi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201228-7bufls7fzfdrnludxd63lsk6xi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201228-7bufls7fzfdrnludxd63lsk6xi-story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 111
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/22/NPPP/74095b5e-ff54-474c-871d-7364dab22c13-123116_NYE_lago_20.JPG?auto=webp&crop=2099,1181,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.chicagotribune.com/resizer/BbKlJhyreDVCeAQ-IrynOg50Xhs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KBGH3YHVYRAJNPZQ7NVOHRGOXA"
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald and Melania Trump wear matching tuxedos in their final White House Christmas picture"
-    excerpt: "The picture shows the Trumps smiling as they stand together on the Grand staircase in the White House, beneath festive Christmas decorations."
-    publishedDateTime: 2020-12-19T12:28:00Z
-    webUrl: "https://www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12?amp"
+  - title: "Lindsey Graham says Trump is 'more determined than ever' to secure $2,000 checks as COVID-19 relief bill lingers in limbo"
+    excerpt: "Sen. Lindsey Graham tweeted that President Donald \"more determined than ever to increase stimulus payments to $2000 per person.\""
+    publishedDateTime: 2020-12-26T15:00:00Z
+    webUrl: "https://www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 115
+    quality: 100
     images:
-      - url: "https://i.insider.com/5fdddc03c910a400192e8870?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fe69a46edf8920018093c24?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Former New Jersey Gov. Chris Christie says he 'would not' rule out challenging Trump in 2024"
-    excerpt: "In a radio interview, former Gov. Chris Christie kept open the possibility that a 2016 rematch against Donald Trump could happen"
-    publishedDateTime: 2020-12-22T18:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/22/chris-christie-would-not-rule-out-challenging-trump-2024/4011122001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4011122001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4011122001"
+  - title: "Trump is holding up the COVID-19 stimulus package with demands for $2,000 checks — but there are enough votes in Congress to override a veto"
+    excerpt: "President Trump called the $900 billion package — passed by Congress earlier this week after months of negotiations — a \"disgrace\" on Tuesday."
+    publishedDateTime: 2020-12-23T12:16:00Z
+    webUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
     images:
-      - url: "https://www.gannett-cdn.com/presto/2018/11/19/PNJM/40d0121c-485b-403d-ad49-75577bd538b4-YE_New_Jersey_2016.jpg?auto=webp&crop=1999,1142,x0,y54&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5fe32894a64488001819315e?width=1200&format=jpeg"
         width: 1200
-        height: 686
+        height: 600
         isCached: true
 
 secured: "XaV9nzmr6dEpJ9yu+elT0XjJAQTkDRtw+TfbMOOtEtq4N2iFskpZAZO1iI3QS/2paSpzcF5ghNU9VtJdWp6crSZfkomBcrOmjmCmz0hh9YHnebhH+2daA1nwK6+9ZKuG9i9WFrvYyEVJSxe4Wj+Evnx3l/YPqcyW0t5L3UUV/BEwHvI73zdQPaJL4u9cZEuVSFU4uLS/y8qs3+4HEoGAPy34HMHMUrklXEhZo5Eu3JTJR1FmNtvxPQDcXzpxraLT4fuqIyYnQXKAO1PmfoDkhhtGPyCncb5UKcaUnCTmE/yDH0tfl1/8LGBekAlaERCh7bbnm80xMtTr802uo8obe+L9lhfBRKx6KuCwX3Q0XtORYZepp7kf5OsRuwQgBNnTCWV4hl25y86cxassNJ6QOniNQ+whiOTTOS7u6P8rgea2OG+kGFkW7Q6xEM99xjAYec1tBcUnoC8mP5GOGWrvjuMCv+JvHjHg/nVAo7L5tf9KCPbJeKxccD8JJ0oKxkuB5MiLqAvmT99+nE+CqtUF2w==;6mZNVrAX4YWWf6mjWnYOLA=="

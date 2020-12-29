@@ -232,6 +232,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Japan's Nikkei at 30-Year High After Trump OKs Stimulus"
+    excerpt: "Stocks have climbed in Asia, with Japan's Nikkei 225 index surging 2.7% to its highest close in more than 30 years on Tuesday."
+    publishedDateTime: 2020-12-29T06:52:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2020-12-29/japans-nikkei-at-30-year-high-after-trump-oks-stimulus"
+    ampWebUrl: "https://www.usnews.com/news/business/articles/2020-12-29/japans-nikkei-at-30-year-high-after-trump-oks-stimulus?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-12-29/japans-nikkei-at-30-year-high-after-trump-oks-stimulus?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "JWdonD67rmk5ACtmR+wrqsdd3pLWrWG8A9CWQC7uedLx6plpG+fIBdTqkfX9dqVsp2vWPu88fntke8bVwSgAcK0h0SojNzAQvqeR+q9KaXw8gZA4g1GAUCmtMCpb4DxRTtulumDXSGDH81AVnPj1saBfr5FQL3Ks8lN8DdlCGOXkht2HC0Yf/aYUsYm6yrN9LkzDjogtVbCWsvbDqVn//Y6DJWbZKneuRN53Zsg5zMx0PHUdwQ5e8iw4IjPDgkpzQ+6lZdCY7stdHp/2fxjp8rvatvYylndRqta59rGRpxwPTKwsbnTfSGE9VjrUi9kuoRHlxnUMes2lwhz7FE/+QDEfRkLYR1W80pj470C0MTU=;w2yH+5lUBB1kS5X2AENCtA=="
 ---

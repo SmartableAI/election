@@ -927,6 +927,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "U.S. House overrides Trump's veto of key defense bill"
+    excerpt: "The Democratic-led U.S. House of Representatives voted on Monday to override President Donald Trump's veto of a $740 billion defense policy bill, a rebuke that underscored divisions in the Republican Party during Trump's final weeks in office."
+    publishedDateTime: 2020-12-29T06:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-defense-idUSKBN29300I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29300I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29300I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546002808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS005"
+        width: 819
+        height: 545
+        isCached: true
   - title: "Trump is still pinning his hopes on one last lawsuit in Michigan to overturn the presidential election"
     excerpt: "President Donald Trump said a report written by his allies in a lawsuit over a small Michigan county's Marijuana measure reveals \"massive fraud.\""
     publishedDateTime: 2020-12-17T00:08:00Z
@@ -1462,6 +1478,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EGDDPXSHVEI6XLBKHLAPFOGO5M.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "U.S. House votes to override Trump veto"
+    excerpt: "News Agency U.S. House votes to override Trump veto. Posted . In a rare rebuke, the Democratic-led U.S. House of Representatives voted on Monday to override President Donald Trump"
+    publishedDateTime: 2020-12-29T06:21:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDB2EX27"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201229&i=OVDB2EX27&r=OVDB2EX27&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Trump continues attempts to overturn election..."
     excerpt: "Watch \"Trump continues attempts to overturn election results\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."

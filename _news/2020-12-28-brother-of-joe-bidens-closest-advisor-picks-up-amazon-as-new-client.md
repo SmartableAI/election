@@ -31,63 +31,54 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden introduces Miguel Cardona as pick to lead Education Department"
-    excerpt: "Washington — President-elect Joe Biden on Wednesday will formally introduce Miguel Cardona, the Connecticut commissioner of education, as his nominee to lead the Department of Education. The president-elect revealed Tuesday he tapped Cardona to serve as his secretary of education,"
-    publishedDateTime: 2020-12-23T17:28:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-miguel-cardona-education-department-watch-live-stream-today-2020-12-23/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-miguel-cardona-education-department-watch-live-stream-today-2020-12-23/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-miguel-cardona-education-department-watch-live-stream-today-2020-12-23/"
+  - title: "How Joe Biden’s cold war experience will shape his approach to Russia"
+    excerpt: "President-elect’s formative years of going toe-to-toe with the USSR on arms control hint at how he may deal with Putin"
+    publishedDateTime: 2020-12-29T03:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/29/how-joe-biden-cold-war-experience-will-shape-approach-to-russia"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/29/how-joe-biden-cold-war-experience-will-shape-approach-to-russia"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/29/how-joe-biden-cold-war-experience-will-shape-approach-to-russia"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 124
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/23/1ec5a37e-cf5e-44b9-b321-e3caf7efdbdf/thumbnail/1200x630/a5f8c12ebc252faa3cad0bbada1d4850/gettyimages-1230275863.jpg"
+      - url: "https://i.guim.co.uk/img/media/874f7bf1c2a60b5e92d5ba0b61e5c77539550373/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=168c42250400e9089455a630c0cb98d5"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "GOP congressman sues Pence in effort to try and overturn Biden win"
+    excerpt: "The lawsuit, led by Rep. Louie Gohmert, focuses on the Jan. 6 ceremonial meeting of Congress to finalize Joe Biden's victory."
+    publishedDateTime: 2020-12-29T00:15:00Z
+    webUrl: "https://www.11alive.com/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 90
+    images:
+      - url: "https://media.11alive.com/assets/CCT/images/bd9d89aa-cf5e-4c9d-8af5-d87c6aa2605f/bd9d89aa-cf5e-4c9d-8af5-d87c6aa2605f_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Joe Biden cometh, and he's bringing his czars to rule"
+    excerpt: "Make way for the czars. A Joe Biden White House, as media report is in the works, will bring more czars, more issuance of regulation, more Barack Obama-like pen and phone governance than any kind of duly passed laws and order."
+    publishedDateTime: 2020-12-28T14:01:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/south_carolina_end_of_year_33909_c0-228-5472-3420_s1200x700.jpg?f89739662670662341638fe34403095f75f3e118"
         width: 1200
-        height: 630
+        height: 700
         isCached: true
-  - title: "Betsy DeVos tells Education Department employees to 'resist' Biden administration, report says"
-    excerpt: "The education secretary under President Trump reportedly told agency workers to “be the resistance\" against changes they believe could hurt students."
-    publishedDateTime: 2020-12-17T21:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/education/2020/12/16/betsy-devos-education-department-resist/3921340001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3921340001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3921340001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/07/PDTF/b9c1ab22-05fd-4a78-8850-47d04f2cbf3b-AP20133643287574.jpg?auto=webp&crop=5109,2874,x0,y259&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden taps Brenda Mallory to lead White House Council on Environmental Quality"
-    excerpt: "In Wilmington, Del., on Dec. 19, President-elect Joe Biden introduced Obama administration veteran Brenda Mallory as his pick to serve as the first Black chair of the White House Council on Environmental Quality."
-    publishedDateTime: 2020-12-19T22:30:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/biden-taps-brenda-mallory-to-lead-white-house-council-on-environmental-quality/2020/12/19/388f9b95-4659-4807-b0d1-2b0b577c601d_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 101
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-19-2020/t_268efdbded95415b901ce57088758844_name_20201219_bidenclimateintro_mallory__EDITED_pool_thumb2.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
-  - title: "Biden picks U.S. Representative Deb Haaland to be Interior Secretary: Washington Post"
-    excerpt: "Elect Joe Biden will nominate Representative Deb Haaland to serve as his Interior Secretary, the Washington Post reported Thursday."
-    publishedDateTime: 2020-12-17T20:05:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-interior-idUSW1N2HV025"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HV025"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HV025"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
 
 secured: "Sv7vVz1RVI+lR34YFUiq/evNV46GjIwd8dLkXflmj1nt35uQ/FBgB9qf6yqh3bjqg0i363zwhYe4fBc7ufHlrduFo3ZX4Ez7iF0/8C2fZ5CdbKv4HnK4gSbiaH9EhTFYc17QoXLOpJ5CCY7IeWtEsO4lDLH6nzwgffYFF098Sp0wIMytbSYaaELBufbV3539qdWkl1muHdyIoqCauYyEpwVACRq64wx58/6q98t0a5PGUdc9eeAS7QVz0/Y1zyZ9HMAqWEvFGHbq2Wp1xE7pHiytWsyKjNey1eXSrLWC00tJv4CH60d/Ll51yded9EKakIQt8VaFc/rMlt8eNPTsu+tdrq6fEMi25PGzyi6OJPVj/AI4zMcc8rMoWYFtnA4BHgFPkVwLiiCGerAKKYdc0MfZ4BNMLkhBJV4+x8awf6qX0+zm7baRSawf/1AYZfJMFtY0GiE0D///ZbrYlAO9OhABxTrh/iqX4v0MmEmBujZoxQPaD/52rVu8XMvc5/vFw9Sx3+5aysGIaXNO+vrlpg==;Xxc8TDof0cRTtXciUWJvHQ=="
 ---

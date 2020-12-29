@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-2000-checks-stimulus-veto-spen
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12?amp"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -232,6 +232,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Japan's Nikkei at 30-Year High After Trump OKs Stimulus"
+    excerpt: "Stocks have climbed in Asia, with Japan's Nikkei 225 index surging 2.7% to its highest close in more than 30 years on Tuesday."
+    publishedDateTime: 2020-12-29T06:52:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2020-12-29/japans-nikkei-at-30-year-high-after-trump-oks-stimulus"
+    ampWebUrl: "https://www.usnews.com/news/business/articles/2020-12-29/japans-nikkei-at-30-year-high-after-trump-oks-stimulus?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-12-29/japans-nikkei-at-30-year-high-after-trump-oks-stimulus?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "jcmh4CZ5yAkI/RGfHBeFdrlyEd0EwNektxqBHL1y6+dgCqzkSZHfMZRLbNSNR4YKDi5lOGJC5nyGV2YAB/0cuOE2AxOV/KMEEwrMRE1TofjtM8jR9EmAvirpMBdILMtVhtyZt0M3ME5JMnVOSGiOmUIcMMOqQ1/wvyJdXK54sT6RVPOYgmqyDJzjWeAocdszhdwxVnuP2tDg44Jkh9FMXygbPVQaGz9rnkMwYKp8QVb+dOFx33m89PcgjyNyRl31FWqE6w9VD7Ocg6G8CZqNgoaU9+VhSopX+RNri8Zrw+vc/QUjvvKlEnKxtFnrdsk5CEkqqoYFlYvk33bcF7Qw1fN1/H7JFjvG+OwhwWGiwLI=;DE7UGPdt6vcglayT+vMT1w=="
 ---
