@@ -2,11 +2,11 @@
 category: news
 title: "Biden: Trump aides setting 'roadblocks' for his transition team"
 excerpt: "President-elect Joe Biden said on Monday many of America's security agencies had been \"hollowed out\" under President Donald Trump and the lack of information being provided to his transition team by the outgoing administration was an \"irresponsibility."
-publishedDateTime: 2020-12-29T08:43:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-nationalsecurity-idINKBN293075"
-webUrl: "https://www.reuters.com/article/usa-biden-nationalsecurity-idINKBN293075"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN293075"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN293075"
+publishedDateTime: 2020-12-29T05:41:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-nationalsecurity-idUSKBN2921U4"
+webUrl: "https://www.reuters.com/article/us-usa-biden-nationalsecurity-idUSKBN2921U4"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2921U4"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2921U4"
 type: article
 quality: 140
 heat: -1
@@ -22,7 +22,7 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545991901&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0X6"
@@ -190,6 +190,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545334968&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK0QE"
         width: 817
         height: 545
+        isCached: true
+  - title: "House Republicans join with Democrats to override Trump's veto of defence bill"
+    excerpt: "If, as expected, the Senate follows suit later this week, it will be Congress’s first such rebuke of his presidency"
+    publishedDateTime: 2020-12-29T06:36:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/f5683752a5a505c0492063d2d1dd1d7e1f59b149/0_135_4043_2425/master/4043.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=744285010e354a8f4bb804c744576b66"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden warns of Trump officials' 'roadblock'"
     excerpt: "President-elect Joe Biden is warning of massive damage done to the national security apparatus by the Trump administration and roadblocks in communication. (Dec. 28)"
@@ -401,6 +417,6 @@ related:
         height: 683
         isCached: true
 
-secured: "hbAa4C0w8Ol8FLazZMQPEA30h5SWjDALnocHgJc8sdOpgzcQMVmMUseks9Sdclk+TU8DiOdpwT924z7TxjJbb1AS1c6YDkKCaMvAj9P9lDwymDhFM/PSqBYozIwmNr6LbNoXAKFUMAFyrXxtCjWp41Pn88QQaxXR9hTgU1SJHLZrfJazynqE/Lr6KlFYpnzhLSTY6/fXEDBwyuN4fkgC25DUvbr1j39mLWPNcuX0wpoTd3BQBq4I620a5yFV+IK5xtVyZNBiWSvuvTk4v8/PryuWk+JwIXF/UsZMHBfdLb85psqutc9rYHcXWwCJeb2O443yyLDFy5qbwh+KUH98tAUq9nt/IktNvXYnEJuzHjU=;FVbUAuHoduxlq0aJmTzI1g=="
+secured: "cHSItCjhGYXgMTesleweaWZG+T4r0HJS+pnJQ2LFJluFbcij7KX5sViJxToxsQ3VkRAfhI+IPxA3bX2BsZ42Gjbt6F5xs1Fv7bOuaaDmb5fur8z0wKHhKaTvo6uaiM8xAIzKreWWBlEH5Ht9/QD5w0+5Hs39TwoUzF9Z2zhXeRwon4nCcLvtRkNvq7BAT5xsGATKDV0WNXIKMNJ1f3cS53aDyjyM/Y4O30+apVoIhKPGfTa2nTI8VnNHPkcV+EhiT7w0phvmmoIJBgRt5+zDIhD1xU9BEdeaHgh6R7JIUVPpxozOdNp1zltfI/dp7bRsZlnBUOcf4bYwaU4xaxVUH4t8bdBan5A95je/bGTW+50=;SKUbqcLfgvwxDz/dIro6OQ=="
 ---
 

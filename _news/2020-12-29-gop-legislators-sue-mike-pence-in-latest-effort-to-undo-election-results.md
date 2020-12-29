@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Republican legislators sue Mike Pence to try to undo election results"
+    excerpt: "A group of Republican legislators led by U.S.  (R-Texas) is suing Vice President Mike Pence, hoping that it will end up allowing Pence to choose which electoral votes should count from states in which President Donald Trump lost."
+    publishedDateTime: 2020-12-29T11:41:00Z
+    webUrl: "https://www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html"
+    ampWebUrl: "https://www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JWTMB2TV3RDGFEJHU4SWWC5A34.jpg"
+        width: 3052
+        height: 2034
+        isCached: true
   - title: "Louie Gohmert sues Pence in far-fetched bid to overturn election results on Jan. 6"
     excerpt: "Rep. Louie Gohmert of Tyler is suing Vice President Mike Pence in an improbable bid to overturn President-elect Joe Biden’s victory. Gohmert and"
     publishedDateTime: 2020-12-28T20:36:00Z
@@ -120,6 +136,6 @@ related:
         height: 675
         isCached: true
 
-secured: "UzYx330n0Q/ZAs+S/4+T38O/y76Bbn0DJX/ldC1kBIIo/y/gAf8heNAk8ovi6FWOxs6CuwKiKftGLwDMugeq6FTkbEc6kFXfiTKwEAU4upp//rKy4BXpmYpIUSMARS4eaTeKVAfF+Jxud8Qjv2B2mfKbDYE7RciSiq9mObK1uiGnVADJyC3TW+iK0gjzV1jIh9MD8ibOyCpQuIycoAtFqhx2W3kRxbTooEQ/eIq0xh6m1PHS88H2KZzRhcez1uuT+TVAzl8EpicGAKpqMRofrSIPoJ3VsMSgMGH0a0awA6awVpwJVH2RVnh+duUiBHqOaHqR+m9PQzWCJL1RP1pz0kZZCfnI/UhgHuCiC39JUek=;Q61j8ZfxR0xsilii/p7D5A=="
+secured: "a8y8lmbUH77D6dXY31vS4yovpGD/+e5OTqX3tYcwb8IfBvv3ndz2nMVitK0SagbVrACVdKcQpj9oiXS4uGVKai13/laZtCqO0pEVFW2966ezIYT/89we+GtqX8r+GMX/C+6SXGmXhjmxaIwKbPPKyIMciyCqbS1zqJTDtjAf8PtVvKtvzuo3jl4X2++u3IgS+wSs+ZR6yqKElqh/rrGioGfBKJnovtUygRAPsPrRsMFplAnUvgKW/dc3DKk/LOPvFL5fOLGNHTZIJKcjXEP0/oD9NykGajy35NSl08wXIIYGfPkAukAxtHnBai5CshntZYXl15gCjpD9OMmn0i2+nmnmOjvyHmveCi5U3mXIz7+YKISam32ksLOkhO2Uo+1p7cFPw5YetGOpgvFV5T46KQtxZYeuEuDtHADZMB+cUxxE9EeILxdBPf7nQJ9sPpWu6lJhTpJcsQ4DlTnutJ92NHyA4iYMrxN1btuafmPyBvJm73RIDoaa9MFpyZhl5VtnKr0PdSq8BubqrvSvYNjyug==;RSYj5WZ07qHx5413UxxFmw=="
 ---
 
