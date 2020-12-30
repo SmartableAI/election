@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-special-counsel-justic
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-special-counsel-justice-department.amp"
 type: article
 quality: 156
-heat: 196
+heat: 176
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b72c5183-ca3c-4d70-a458-7e198c681306/48a80fe5-8ebd-4c65-85fa-6a2e7a648706/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Special counsel for Hunter Biden case may be 'warranted,' some at DOJ say: sources"
-    excerpt: "Justice Department officials in ‘ongoing discussions’ on Hunter Biden special counsel, sources say High-level officials within the Justice Department are in \"ongoing discussions\" on whether to appoint a special counsel to take over the investigation into Hunter Biden,"
-    publishedDateTime: 2020-12-24T10:11:00Z
-    webUrl: "https://www.foxnews.com/us/special-counsel-for-hunter-biden-case-may-be-warranted-some-at-doj-say-sources"
-    ampWebUrl: "https://www.foxnews.com/us/special-counsel-for-hunter-biden-case-may-be-warranted-some-at-doj-say-sources.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/special-counsel-for-hunter-biden-case-may-be-warranted-some-at-doj-say-sources.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 129
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Hunter-Biden-THUMB-1-copy.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "TWKtOCs3/HhH78Ts5TnaVDZ7pBUaEqLO1bhgxt2yGRVhvzWsH5BnOUx1YhPrl0GqHF3tmyWgCoSmzfKxWT289C7p56ecRNtK+dYy6jpJlNPx9AiABO7DBCp3VXUTmWgP2SYw4I116WeOjW2q6VGPfGwHC3kwiliPRx51nAMUlLCDUXMvBm2AYcfuaeZtbCAqYYzD0pEWE9nr13+qYO9hm2FN7btRbMAkN1CiD0S048xnymKJSeBfeSV4O+IzASkpDwklvHWseRrMNYf0Xp2JOr15jhWodvzx1DgmByKZh0ioNRL/bIbizLXfcaDoTU8C3R27z2oaotS6cWeQv45LU6NfYurEOy5+U3e5nif2ZUI=;xItpOmUIGjm+hBw2xPdIGw=="

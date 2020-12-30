@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump Gets Mad At Mar-A-Lago Staff Over Renovations Made By Melania: Report"
+    excerpt: "First Lady Melania Trump worked with interior designer Tham Kannalikham to renovate and update President Trump's 3,000-square-foot private residence at the members-only golf club in Florida."
+    publishedDateTime: 2020-12-30T01:42:00Z
+    webUrl: "https://www.ibtimes.com/trump-gets-mad-mar-lago-staff-over-renovations-made-melania-report-3111435"
+    ampWebUrl: "https://www.ibtimes.com/trump-gets-mad-mar-lago-staff-over-renovations-made-melania-report-3111435?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-gets-mad-mar-lago-staff-over-renovations-made-melania-report-3111435?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Melania Trump Allegedly Betrayed Stephanie Winston Wolkoff, FLOTUS Compared To Husband Donald"
     excerpt: "Stephanie Winston Wolkoff felt Melania Trump betrayed her when the FLOTUS did not support her during the inaugural overspending controversy."
     publishedDateTime: 2020-12-23T05:05:00Z

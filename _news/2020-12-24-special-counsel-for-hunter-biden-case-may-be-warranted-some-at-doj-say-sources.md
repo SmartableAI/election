@@ -32,35 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "DOJ officials in 'ongoing discussions' about Hunter Biden special counsel, some say it's 'warranted': sources"
-    excerpt: "High level officials within the Justice Department are in \"onging discussions\" on whether to appoint a special counsel to take over the investigation into Hunter Biden, with some believing it is \"warranted,\" two sources familiar told Fox News Wednesday. "
-    publishedDateTime: 2020-12-24T00:47:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fN1knlTB8Lw/hunter-biden-special-counsel-justice-department"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-special-counsel-justice-department.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-special-counsel-justice-department.amp"
+  - title: "Appeals court upholds bribery conviction for Chinese think tank official with ties to Hunter Biden"
+    excerpt: "Despite Ho's claim of insufficient evidence, a three judge panel said evidence introduced at trial was \"more than sufficient\" to prove that Ho acted on behalf of a U.S. non-governmental organization to \"assist it in obtaining business for CEFC Energy\""
+    publishedDateTime: 2020-12-30T02:31:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KMITtBB6F2M/bribery-conviction-for-chinese-think-tank-official-linked-to-hunter-biden-upheld-by-appeals-court"
+    ampWebUrl: "https://www.foxnews.com/politics/bribery-conviction-for-chinese-think-tank-official-linked-to-hunter-biden-upheld-by-appeals-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bribery-conviction-for-chinese-think-tank-official-linked-to-hunter-biden-upheld-by-appeals-court.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 161
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Rep. Buck: Mueller set 'precedent' that demands Hunter Biden special counsel"
-    excerpt: "Colo., said Thursday that he is disappointed outgoing Attorney General Bill Barr refused to name a special counsel to investigate Hunter Biden, the 50-year-old son of Joe Biden."
-    publishedDateTime: 2020-12-25T00:30:00Z
-    webUrl: "https://www.foxnews.com/politics/rep-buck-mueller-set-precedent-that-demands-hunter-biden-special-counsel"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-buck-mueller-set-precedent-that-demands-hunter-biden-special-counsel.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-buck-mueller-set-precedent-that-demands-hunter-biden-special-counsel.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 132
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b72c5183-ca3c-4d70-a458-7e198c681306/48a80fe5-8ebd-4c65-85fa-6a2e7a648706/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d90667df-9a09-4955-8806-c48fe612bb47/823ee515-1a59-4a1f-b49e-7f388dbbadd6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -109,6 +109,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden says Trump's vaccine roll out has 'fallen behind'"
+    excerpt: "President-elect Joe Biden criticized President Donald Trump's promised swift coronavirus vaccine rollout, saying it has fallen behind expectations."
+    publishedDateTime: 2020-12-30T02:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-coronavirus-idUSKBN2931ZC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2931ZC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2931ZC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546089972&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS12W"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump-Biden transition live updates: House approves boosting stimulus checks to $2K"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 23 days. The House narrowly passed a bill that would increase the amount of money Americans receive in a second round of pandemic relief stimulus payments to $2,"
     publishedDateTime: 2020-12-29T00:34:00Z
@@ -539,6 +555,6 @@ related:
         height: 683
         isCached: true
 
-secured: "J9F3HAkC1bt3/ghBLLXGIcArauoeQA75qRuMsV53nqJeVwYgFc7PDmhQyyGIgiE7dNz9f3AZ7UaCOikgfcGJWJxMuMUAHN01VU1z1u7jozpbg9lT1QuoohK/u0THDHTC1m4Jaqpw3ME07dNHVp266Y57XBhglKRoqir577cT05NRb1rJ8Jax1rWdBAEcRKNi7weBiP1/muzzl5otkpBZB2lwWErNu1i74LH7xK7qAljtUHLRMkupaAVPiTK+VxZFOmAU/QDDuWNzxGJZwY/XrWj1k8JsKwlPOq8COooJkfH/BQupeg/85hEj1JbDq9VjAkH1ZxBsla67fcarixeRZuktcOQyT22hpW7HKw/LOyU=;0+lzbzVxwh9y7WdFtPcfmQ=="
+secured: "rfJQGFB/mH31hSW7iQxj4WtELkcFSzjg/ezAq09cytnYfYz2HhAHVSWQP8vc3BJi+18wl0cz17bCoqXNBUMqgkve1+It1H6x3pMTrERJPt0l2/ukMmeAx2m6oct5FOfI6S+G+J1MNW85v7FK0wJapibjZBGaFAL6y7bltjyoD2bXnfu6nEDWXfTMwS8u5X4kip1C5TLW5x/2/R+pOWVcsKmrQyx2eg6uXeHUSQq63xO1IXyMf5HjcJ7P32+EyxQ5iiwuqhDU8OO8gcd/Jxsh+z9DdjK8Sasi1UDnFOgIH2TXrfn08l3WSITIIeMWxH408kn6UakikQir42cdznlG5V5ljzYx7yet4/rZ8CsYxCqbGH2OiGncUD0evCrNM8FVARKA528zyjHqNz0MUSFAAX6TEGsvaQ9voa8OmQj+QyBIJ/vynWsyHtHl5b0O+MIUJ/4DBjysJS8XJO+GIQYSzAh/54Rt2SFUV1ViZgwI+psLHajXgWqH3/0scEFCHkqSwdrGwXaA/tgGsNJ/nO1Nwg==;2taAkytQ1hLn33+dgmUVyQ=="
 ---
 
