@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-2000-checks-stimulus-veto-spen
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12?amp"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -204,6 +204,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/29/24674bf1-4fc2-44f0-8a58-0bbfddb31c0c/thumbnail/1200x630/f7d1f3d35b14d98a4eb75800290d5b49/preid-617839-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Senate continues debate on Trump veto override and stimulus check increase"
+    excerpt: "The U.S. Senate is expected to meet to continue debate on overriding President Trump's veto of the National Defense Authorization Act as well as considering increasing stimulus checks from $600 to $2,"
+    publishedDateTime: 2020-12-30T20:17:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/senate-continues-debate-on-trump-veto-override-and-stimulus-check-increase/2020/12/30/5f8e8c71-4173-4eae-a0fe-a1e7a32daba2_live.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 103
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-30-2020/t_c810a8a84f124061bcb888aba817acd5_name_mcconnell_1229_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
         isCached: true
   - title: "Trump shuns stimulus bill as pandemic relief expires for millions of Americans"
     excerpt: "President Trump is still not saying whether he will sign the latest $900 billion coronavirus stimulus plan, as federal unemployment benefits and an eviction protection program are expiring for millions of Americans."

@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden national security adviser criticizes Obama's foreign policy for not focusing on middle-class Americans"
+    excerpt: "Incoming national security adviser Jake Sullivan, former staffer in the Obama administration, admitted that the previous president’s foreign policy did not “elevate and center middle-class concerns.” "
+    publishedDateTime: 2020-12-30T18:53:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BUVxUYSrW3w/biden-national-security-adviser-criticizes-obamas-foreign-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-adviser-criticizes-obamas-foreign-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-adviser-criticizes-obamas-foreign-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62d6e468-7882-4bb8-bd63-c41757e7ccb6/934ce14e-94ac-4953-99de-1187623a1df8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Nikki Haley says Americans should be worried about ‘woke left’ when Biden is president"
     excerpt: "Former U.N. Ambassador Nikki Haley on Tuesday issued a tweet that said Americans should be worried about the \"woke left\" under President-elect Joe Biden -- warning that the group wants to use the \"full force\" of government to achieve its radical goals."
     publishedDateTime: 2020-12-29T23:33:00Z

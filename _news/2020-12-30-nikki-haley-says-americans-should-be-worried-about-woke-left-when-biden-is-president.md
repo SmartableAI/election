@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden national security adviser criticizes Obama's foreign policy for not focusing on middle-class Americans"
+    excerpt: "Incoming national security adviser Jake Sullivan, former staffer in the Obama administration, admitted that the previous president’s foreign policy did not “elevate and center middle-class concerns.” "
+    publishedDateTime: 2020-12-30T18:53:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BUVxUYSrW3w/biden-national-security-adviser-criticizes-obamas-foreign-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-adviser-criticizes-obamas-foreign-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-adviser-criticizes-obamas-foreign-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62d6e468-7882-4bb8-bd63-c41757e7ccb6/934ce14e-94ac-4953-99de-1187623a1df8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "INk9O/UPQBMfQixcY/WfqyalkyGyUNDe8bMOdsdM4lQDcvPj9XFU1aSKST9unL+cF94v/d6sOI5/A8wcHICDXeFUwuxwsz6MchNOgEJqcXXPUYfqspt+JmsBHWFlTMshlnZtlTHZEUvYwzqYq3VJd31n9HEDECecgYhQcJkBEzYptshdcuNw6h4bcInyhZvPZMH7ttyrTb8o3mrDCgKpekBnNyjpgKxgdoGX1Tkmy8izmj18nWBolp+HV/EWGrs6gbEcof3lJ1enobd1bsmTKuBNw52XedVlilZj41KM8PViT1jFeKjLlAzu2LD3/kYQnFKzjG39+pYUm6JxcjGwX1MKZKDD0ywEqCIucxqJ6Cm4ulCNe5tXb6d+phVav4fao6a9a/OGvIKLgSs8MMO78b7RjJbS4THE9YUO9vIC7D4X/RNZMzQUrdhhCT2eLkzKk8fkqryZfo+RXMthr5TXcIkS913Zlibx9FZfsckFgWzOoUbKc7RB91TiER1w5+si6JbN4jh6n45Cvp65TghtfQ==;4Gz/IKN+gjtiPrqEtzu1cQ=="
 ---

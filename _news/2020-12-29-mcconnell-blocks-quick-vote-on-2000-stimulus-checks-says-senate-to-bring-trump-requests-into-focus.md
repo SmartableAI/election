@@ -221,6 +221,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump's Stunning Achievement in Middle East"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-12-30T20:53:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/30/trumps_stunning_achievement_in_middle_east_532387.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/525444_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "mCk+QQLnCItJzDhfobCd5dExyJrnIOF775trUrnh6J8eBAqqx5Z8X+t823mLKPTW7MWSdj9FmgaHhdiYo2TmLOuUdNGKLZSe9sF2JiaH6Pn3cTenvFI0InoXUocvkHRhLUs56Fk9C1uzV/wVHKCDEKW0Sxsg+xfUSWU3fr5Q95YIJnXPDXhcPKZRZWzj40q5jTQoKIVXjS7IDjhZOJKjpOFcZm6iqWomKo29bIgZrM+S9dkZzZ/vvZlED5ZhM1Rf9JOAF7rRgVEZYXW0bUI9OY0jabAMABo21dUaOxX8rK551vsqwXuxBZq+2qkaYTk1jWfSHZIwnc0gj1YSzCEd286nv/fLUT1VJdhF0NqXLGo=;gh2ZBR2EBSy319zCL9Eafw=="
 ---

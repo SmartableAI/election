@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/asian-stocks-advance-t
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/asian-stocks-advance-trump-signs-900b-aid-package-74929903"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -157,6 +157,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump's $2,000 Checks All but Dead as GOP Senate Refuses Aid"
+    excerpt: "President Donald Trump's push for $2,000 COVID-19 relief checks was all but dead Wednesday as Senate Majority Leader Mitch McConnell proposed an alternative approach of loading up the bill with other White House priorities that appeared destined to fail."
+    publishedDateTime: 2020-12-30T20:19:00Z
+    webUrl: "https://www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote"
+    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "uSFO865ODqxCp1D8RuBr7mntpQom4pPfnras1BwiGf4v7YKfVx/ysM3vplQxbpfxoPLKcHztGt5sN0UCZlueffPxwjQq+7RpHOSE4TGn1JGBEjX94z8HDE0vbJWxzaA4meGTDbNuS1FrqY1zaUFvHK45TViWvl6j5HLetOJQ+LA+URb8QyLJ/Q2WZaiASTltTDvwtQ9QWL3bBGHXnd8/odSutIeHksbbHtfZOrGCg+c5xvHxs93qt0S6TJLg+XYUDwAzvg+dzjDtijWbLAnl8iKZ9W+GORoeKRaOrDlVo1CxtSiaMgvuXE+4AoktbU4Dut7EYPEVICQwp6DCfk0dfBElfb1Ht0N21o2tAY0c4BcyleDi5vkXfjGrblkibHf17+fg8dlBF3Xldk4E6JFXq9nC1zQDR76tmJQFZX0nlvmpTxMLUAGMJheHu+4qIywgMZStPmuEK2jJzgL+/FP4Q5RP+DjLORa6DB9jdBVzXIA0jF6ciX87mHxxJyOvNi3S8xggeJ3gjMbo1yg/yKTbKQ==;y13/jv+aK25Ky2N2rqqXjg=="
 ---

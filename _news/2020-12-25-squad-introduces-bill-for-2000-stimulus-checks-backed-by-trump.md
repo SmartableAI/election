@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-fu
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -220,6 +220,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump's Stunning Achievement in Middle East"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-12-30T20:53:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/30/trumps_stunning_achievement_in_middle_east_532387.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/525444_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "PiVd9hHFs13c9sVjchrJwVPsRxEWLwTL0r/c1a3kB2Z+rkSCIBF9zoaqL5i1aWl6FlW+cEaRLfAyu97CtX7cpPBzwl4wotGi3jJgynWHe9slG38tS7gQLKJj9LYvksqoaUPOqdIOIHIQZjNeY2D8Syj+0hs03j7ji6DXFGoV7+gLtb6+yEQIVwrjJ4wdQAhSXJZtvKp/5rzozn1pFPGWwCcZ0lI0hNmBkgAHLfc+pf9uSc1W6xyP+on5CVDVZtQIyLJMX2czmqm1c/qWndIOztju2ZIHyk/ImzlMIF3mMdJGt+FGjGRdtcCsGo1bFZThKiV4g/5ttsUC1rCja0Bfza8bjx/ZAIzXHiDiFg3rBUE=;8LEe7mYOoOs9tp8VmnWheg=="

@@ -154,6 +154,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Acosta's admission he'll go easier on Biden shows 'personal vendetta' against Trump: Kurtz"
+    excerpt: "Fox News media analyst Howard Kurtz told \"America’s Newsroom\" Wednesday that CNN White House correspondent Jim Acosta’s admission he will approach a Biden White House in less adversarial fashion shows he's brought a \"personal vendetta\" to his reporting on the Trump administration."
+    publishedDateTime: 2020-12-30T19:53:00Z
+    webUrl: "https://www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz"
+    ampWebUrl: "https://www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1e622b6-6e10-4621-a6e1-1afd6135d900/51a5d55e-4bf6-42a7-96f7-16d475e23c5e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Covid-19 Aid Bill Remains Uncertain as Trump Calls for Larger Payments"
     excerpt: "The delay could result in a suspension of unemployment benefits for millions and a possible shutdown of the federal government."
     publishedDateTime: 2020-12-26T23:30:00Z

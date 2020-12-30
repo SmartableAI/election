@@ -169,6 +169,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Defying Trump, McConnell puts off vote on $2,000 checks, urges override of defense bill veto"
+    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday put off a vote on increasing COVID-19 relief checks from $600 to $2,000 and urged senators to override President Donald Trump’s veto of a defense bill,"
+    publishedDateTime: 2020-12-30T18:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/u-s-congress-inches-closer-to-trump-veto-override-as-republican-tensions-grow-idUSKBN29411A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29411A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29411A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 114
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546194815&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT170"
+        width: 817
+        height: 545
+        isCached: true
   - title: "McConnell rejects standalone $2,000 checks, links increase to other Trump requests in new bill"
     excerpt: "Senate Majority Leader Mitch McConnell blocked an attempt to vote on the $2,000 stimulus checks, but reintroduced the $1,400 increase — with a catch."
     publishedDateTime: 2020-12-30T00:03:00Z

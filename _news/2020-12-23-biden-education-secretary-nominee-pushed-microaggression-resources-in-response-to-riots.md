@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden to use DOJ to crack down on police departments engaged in 'systemic misconduct'"
+    excerpt: "President-elect Joe Biden will use the Justice Department to crack down on police departments allegedly engaged in “systemic misconduct” in part by the use of consent decrees -- a tool used regularly by the Obama administration but largely scrapped under President Trump."
+    publishedDateTime: 2020-12-30T19:01:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3HD-74r657k/biden-doj-police-departments-systemic-misconduct"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-police-departments-systemic-misconduct.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-police-departments-systemic-misconduct.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91f6904a-45f1-4c75-a0bd-f0e17bf08b92/1e9bea95-acbe-45f6-83e2-f5184ccf2596/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Biden blasts transition ‘obstruction’ by Defense Department"
     excerpt: "President-elect Joe Biden says his transition teams have \"encountered obstruction\" from President Trump’s political leadership at the Defense Department and the Office of Management and Budget."
     publishedDateTime: 2020-12-29T05:54:00Z
@@ -79,6 +95,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20363689916730.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden to use DOJ to crack down on police departments engaged in 'systemic misconduct'"
+    excerpt: "President-elect Joe Biden will use the Justice Department to crack down on police departments allegedly engaged in “systemic misconduct” in part by the use of consent decrees -- a tool used regularly by the Obama administration but largely scrapped under President Trump."
+    publishedDateTime: 2020-12-30T19:06:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-doj-police-departments-systemic-misconduct"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-police-departments-systemic-misconduct.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-police-departments-systemic-misconduct.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91f6904a-45f1-4c75-a0bd-f0e17bf08b92/1e9bea95-acbe-45f6-83e2-f5184ccf2596/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Tevi Troy's 'Fight House' Holds Valuable Lessons for a Biden Administration"
     excerpt: "President Donald Trump and President-elect Joe Biden are quite different from each other. It is obvious in their personalities and in their policy"

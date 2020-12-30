@@ -219,6 +219,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Senate continues debate on Trump veto override and stimulus check increase"
+    excerpt: "The U.S. Senate is expected to meet to continue debate on overriding President Trump's veto of the National Defense Authorization Act as well as considering increasing stimulus checks from $600 to $2,"
+    publishedDateTime: 2020-12-30T20:17:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/senate-continues-debate-on-trump-veto-override-and-stimulus-check-increase/2020/12/30/5f8e8c71-4173-4eae-a0fe-a1e7a32daba2_live.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 103
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-30-2020/t_c810a8a84f124061bcb888aba817acd5_name_mcconnell_1229_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
   - title: "Second stimulus check updates: Trump signs pandemic relief and government-funding measure, averting government shutdown"
     excerpt: "President Donald Trump signed a $900 billion pandemic relief package Sunday, ending days of drama over his refusal to accept the bipartisan deal that will deliver long-sought aid."
     publishedDateTime: 2020-12-28T19:39:00Z

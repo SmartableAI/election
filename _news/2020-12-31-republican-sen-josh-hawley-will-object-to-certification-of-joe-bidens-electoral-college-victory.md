@@ -251,6 +251,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Republican senator says he will challenge Biden victory in Congress"
+    excerpt: "Republican Senator Josh Hawley on Wednesday pledged to challenge Democrat President-elect Joe Biden's victory when Congress convenes to officially tally the electoral votes, which could trigger a lengthy debate in the Senate but has virtually no chance of overturning"
+    publishedDateTime: 2020-12-30T19:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-senate-idUSKBN29424P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29424P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29424P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546198775&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT18H"
+        width: 703
+        height: 545
+        isCached: true
   - title: "Trump lashes out at ‘weak and tired’ Republican congressional leadership"
     excerpt: "The president took aim at senior members of his own party for not supporting his baseless claims of election fraud and allowing an override of his veto of a defense bill to advance."
     publishedDateTime: 2020-12-30T00:28:00Z
@@ -629,6 +645,6 @@ related:
         height: 683
         isCached: true
 
-secured: "/BRlkPYRVU826ZXPXcwjJGrZndKI8VYBaKaPNL+PRTnKl+WCyb88LHXc5SqD8+R1ZIiK5SB7tcxs8MWh3wiRoTXnOxUyfHCXRwcYYdkWqZeymo/xfOqGq4qQt2eVE0bHRfK2jC5AnMyij848E1/8uPNMTNo1+kT0sxWQauS52est9a0druOL2EuApoy1NYSaJsRaVgL2CzjYknWldmfHq+wchElrYmzUDfuJD3hDxzM6Wp5EUEP5no4JrRaZi140QPHcf9VGF/JT05VFzEsc+HMQso4voITw0ULmn3Rqf1ZT8B7RsFZQesBh50OkO6C4K9JXwJM4ntDt3ZXVLDpM4+zywaS3sHDzlfsZ4rnlv0s=;JrJn9fNPTR59fRUl/v8ZMQ=="
+secured: "MKQTbOvAmbX/vQYUorh/t7YBk4SdJqDco3tjwFnpZEywOuMdoNd7X3w6npSM4oZDapNPH090Ckl5mAVYvzrEMFojl/Rqsd5vtkT0gjpglp8/HFwiyOdRLaeIB45r4402oX5wDW7aVL8ueVWOiUBmVvS8mmvU5kMIcbGyaIY3LSUJ/g4Ssp4kaCRavtefH5TEivpx0wtUcJ0wpih4vydrqteMGESyuYW/HUmoFu+Fu5bv4kqS1Rcvd+YYyZAh7UM8fFwRzYwEAr047uZHyV4WNufBcmCblbyeE6YM8vOo7zlGQ9VqNGaNYoVynRmVSpV+gQOsTBdy+8Sk1D72LLiZvIfZMKvxkzn0Fk2gyoX37FwZq28jbg/jcKuzmct7EpYvMRTywOdehRoxBHLccwhRwlMzFodbsPiYd3Lhgq7WtL8eT2l3yhNdr/RXYMrztrUJ6qrcuXcPndT7snYoqJ6yTW0Lsl1GT5mGKMT7bJi+72Jp/UGlqycqnc+j72Uyo3WbFv5u3Y662M9emwuHbAS1AA==;ejJdPFXjqauP3ND2Ggu15w=="
 ---
 

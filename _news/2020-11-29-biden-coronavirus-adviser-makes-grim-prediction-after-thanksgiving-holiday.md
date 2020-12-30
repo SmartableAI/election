@@ -223,6 +223,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "On coronavirus masks, Biden and Christie see eye to eye"
+    excerpt: "It’s pretty obvious that former New Jersey Gov. Chris Christie and President-elect Joe Biden probably don’t agree on many political issues, but when it comes to wearing masks to help prevent the spread of the coronavirus pandemic, they’re in sync."
+    publishedDateTime: 2020-12-30T19:11:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J4wWBtNQ9KM/biden-christie-coronavirus-masks"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-christie-coronavirus-masks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-christie-coronavirus-masks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden urges Americans to sit out inauguration to stop spread of coronavirus"
     excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the festivities will be heavily pared down and urged supporters not to come to the White House to prevent the spread of COVID-19. "
     publishedDateTime: 2020-12-15T22:08:56Z

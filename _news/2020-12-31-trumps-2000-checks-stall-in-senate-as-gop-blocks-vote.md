@@ -157,7 +157,18 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump's $2,000 Checks All but Dead as GOP Senate Refuses Aid"
+    excerpt: "President Donald Trump's push for $2,000 COVID-19 relief checks was all but dead Wednesday as Senate Majority Leader Mitch McConnell proposed an alternative approach of loading up the bill with other White House priorities that appeared destined to fail."
+    publishedDateTime: 2020-12-30T20:19:00Z
+    webUrl: "https://www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote"
+    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
-secured: "jgvWMhMnOo5EKMJlwqE3AeCAImxWHCFBaqpGeCV6zMzzWCDRaNBnp591XJPvKZQxMr3sH9qK9tUrBUlu48r9NCNatTx/TeZ6NfUwbLs5ZF434KPsZ8U48MAKP1zGogKEKfJnF7+mzGsLMbRJZJH2dncFX7JrMnykeWNCWuyLR5DPC2AdhLH3ygls65DMXZQ7ySCg5wNetPY18w3nKtmrPvYTSxF8PbYlZVYZyAJ46YqGZsTfPk3/bMleqnAma1K6PumsElm0O6qAm6ShrE3MuuAgNOo8iWVLnfh11izzMS9kQZsDWDDoOcXppiWyoHpLqaiHhKhsDRAso2HInZb25UliHpO3mUSu6VCqgmned0Y=;RNRbKJNAYBOVuc4ZoUK8Eg=="
+secured: "PX8gTcgxb5rrib60xjU7oIG017ION+XhWmF3SeSf5S6SKkjNkH6U3qpfnBRSOlxA+QW6mHul2hDVs1t5qm79KgEgPyL7GEMOAdyj7UtO/1wXjVq0iKYEihuq5wawu7NZEYY/NAcFK6glG3kIDJ7hMoCX9KNe+63rnmwCN8QVzyG4vJpeAcQPqrsJ+H4A/yM6tAWZ2qLHt6brNSV9E/oq2Jpo9c08S0RO/D5acNTDhIjVuqqKBcQopgjqcH8vXeB47vAlhN6SuCOBVE52d0zr4VVZSYsOCEKbga8e9H1D7Mo1NbhdSpbGKU9OxzcqZ6tWw7d+Gt1STcv5J7vez+0PPfiQ+lr5aeC/KlZp9Vrc3CTB+5Gn2JG+TH5PPqYnsn9g+NZxo6M4OkOhaQBD1jxJy+xVYA+MslOLD9yR8VGBa0ajFbs14Ks8OQUacERaPXE8zXLy7YWAAEYr3ATZBk+O1lSKRSEQFhseKnmQuNfHgZO+P9x9b/nD91LNO4ULLueu9KngQ8hSi0133OrRyxmgsg==;es7jDFV3+7PA3PkvL7wpxw=="
 ---
 

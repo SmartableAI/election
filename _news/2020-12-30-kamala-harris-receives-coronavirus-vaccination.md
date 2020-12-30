@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's tweets and actions put Georgia GOP senators on defense"
+    excerpt: "Republican Sens. Kelly Loeffler and David Perdue are on defense just under one week from a crucial Senate runoff election that will determine who holds Senate power, as the President's public statements and actions in the final days of his administration are looming over close runoff elections in Georgia.\n"
+    publishedDateTime: 2020-12-30T18:52:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JnzVU9bpYZI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/georgia-senate-runoff-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/georgia-senate-runoff-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228130647-ga-senate-race-gop-perdue-loeffler-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "5onDBEsPkiqE5uCRPaLqLPjSd5Tl1O7HKIXIiM0Rn7sEJJVm59PtwALz7xKR8DkDSw/9f9JTbrPIL4AvjBoJBwyHvjgWqBlFweZEaKQVdpXp04GV1g8mQ6RxDYHML5dTIcX3JCTepfXQXPiqmP8JH+gME1h/9bzeehiin2qlLm1LxUiPde2TX0wmU/7mbC2Jon1/F21AzuaeZkhkSpwMmC+UBpzM7I8fkqOv4YPwhoh7zqxprkJXlf6S3wQ7bezmdMVKV+eJXPi/z3P1uBNvQmy4IbWhG8HU4fj96xF/UhvoaqDRduBT1b2qHdV3JvDOu7UmWR8ytAw3F4beQAUZ5ZrOTWT3ENFG66ZCDG0b1dQWea8MmBrL+ssbKmW8UsFByu5VHOqJNN6TrL46NF/dwpoVOp57r09VKb//PfKk6ptQMeaK7oILjBMd4iidRhbYImJmH/3/rLNUygp0xT6f1vGdo38HOO3O8yN+K1EuB5hFxtueVbPfDN37OKghS94BZsasEp5+KvJ3XoLozem0Kg==;IRDBWm3JMYGV6DjMwP6qnA=="
 ---
