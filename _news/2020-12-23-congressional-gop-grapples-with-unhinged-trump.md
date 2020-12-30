@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/congress-gop-trump-veto/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/congress-gop-trump-veto/index.html"
 type: article
 quality: 175
-heat: 595
+heat: 615
 published: true
 
 provider:
@@ -356,6 +356,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/59/f1/5ddcfde546d3a390ce77cd2a0f9d/ap20358774087431-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump leans on McConnell for $2,000 checks amid GOP resistance"
+    excerpt: "The Senate majority leader blocked a Democratic proposal to boost payments and has said little about his plans."
+    publishedDateTime: 2020-12-30T04:30:00Z
+    webUrl: "https://www.politico.com/news/2020/12/29/2-000-checks-sputter-mcconnell-blocks-dems-451918"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/c9/4d/d6b42f1b489980efa797ba0d3eac/ap20350765074225.png"
         width: 1160
         height: 773
         isCached: true

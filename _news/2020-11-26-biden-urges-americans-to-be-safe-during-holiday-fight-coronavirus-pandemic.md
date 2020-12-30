@@ -251,6 +251,22 @@ related:
         width: 720
         height: 432
         isCached: true
+  - title: "Trump Is America's Most Admired Man In 2020"
+    excerpt: "The Gallup survey, which has been conducted annually since 1946, asks random respondents to name a man and woman they admire most."
+    publishedDateTime: 2020-12-30T04:38:00Z
+    webUrl: "https://www.ibtimes.com/trump-americas-most-admired-man-2020-3111597"
+    ampWebUrl: "https://www.ibtimes.com/trump-americas-most-admired-man-2020-3111597?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-americas-most-admired-man-2020-3111597?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/07/time-is-running-out-on-us-president-donald.jpg"
+        width: 1024
+        height: 625
+        isCached: true
 
 secured: "1F0zCdf9CupszREpQeXyKFqydCMuERhO0peHv1lDfiep2QmP4YEjjH1sjmGtfZKZsi+CQ84F1r/yJuaArdtFT9LuCH18B+72X+quSclqYCqk+4xuuI9M9EWuh26l6VM+O2C2JUSYIsR6uV+Vegq1FcvbYrT5qrW9JffOOD10zRHVaUo4HrGI7wlKAVtGagFz4uJb9KU/mFKrdsxXw6imfSYE5yCxCLoZ4qbdZiV9S9HloKuj5SGq/UkPan3GTt1DhIZ7mLQTM57u/C4GZj1KfIVzXasZK19NfSDGNE5D7XWL6wGMjtX2GJ54C+uWVu4Eog2Pt+P0UDiAEbwf63o0s4RMA0/zNztQDHqDNPx7sBs=;p6FkrlqH0+kHsY+Aa7qWkQ=="
 ---

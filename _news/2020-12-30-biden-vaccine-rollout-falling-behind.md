@@ -45,6 +45,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden criticizes pace of vaccine rollout, vows to accelerate"
+    excerpt: "President-elect Joe Biden is criticizing the Trump administration for the pace of distributing COVID-19 vaccines and predicting that “things will get worse before they get better” when it comes to the"
+    publishedDateTime: 2020-12-29T21:19:00Z
+    webUrl: "https://www.washingtonpost.com/health/biden-criticizes-pace-of-vaccine-rollout-vows-to-accelerate/2020/12/29/8f1af018-4a4d-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/biden-criticizes-pace-of-vaccine-rollout-vows-to-accelerate/2020/12/29/8f1af018-4a4d-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-criticizes-pace-of-vaccine-rollout-vows-to-accelerate/2020/12/29/8f1af018-4a4d-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Under Biden, the Justice Department will again police the police"
     excerpt: "The restructuring of the East Haven, Conn., police department followed the kind of court-mandated change that the Trump administration largely abandoned."
     publishedDateTime: 2020-12-29T18:10:00Z
@@ -108,6 +124,6 @@ related:
         height: 700
         isCached: true
 
-secured: "Y1rN7luguziGuhBMxcOFL0muyw/fIdCHqd58YaOyU3f9DwrA30SUQPLvBHNF4dOr+AAywdB7mbzVwzf6WErHiagxxbbrdOrDIA1LAeKYSb72uVh+0InUCbYQ1tTBf1VXx4Q07E9JWzMMpZLi2HgbUlyDr03HtJ/611PyunSm5jMf/pZkxfycPpHfr51UTkrayKTqqLdIcGGk2GM5j87QgL4YYTcGwa74HC+yIcBKjwlgpU6qkzqo/+Suno2Nb/YGrVNMoAAN+HKr2/LBxbYXs+NgxX4YHGrd/N3TKKWweyoZWvegp09HyZLbvu9gAJTzGszLELQD6N2/CTxK4JjBams207H7HqIJVArJLdIgWc4=;gj/Glaw+6tk8HitFHiAOtg=="
+secured: "Ttx7DwBLJgyCFPGx6ye24o3IZnY+Vc0olYBywhX1CpTDVI5UI3lqeypesqtFkvbTkRgXsZ4IZunU4w0558XW0lBtZFwYBJiTZK3Wz6u9GnuxALPDIUlFsar0tcaI87rBOQtQLxFKfg9VQKqz/Q1Ls51lV1XDWrqn00lKoeArWlTorqgoxikz0XaYW/dB3fLarXoPmjWAT1Kv5Cr2GJKuwsE7+gc7At0Sbh4R8r9AKQvwpU8A/DnkDNgMjONJUgX56cMTi7L8rf/6YWUpWlQZAHP4YcNQwqIYXHS0cSPcPJLvm03WwXOtKkb+dXNP9l3aTjJeSiUe2uqAUFFFfr6eLaXV5l1MowsyZy9Zh+UAEU4Ca9MwYReGyjD2qbOwIdMdvhXaZK9vNkMCgVD4Uuo8yUPyAwsXICZ/CAGmGgKsZH+razejcpwBFfI/BbgARFe1mU8e/fhMaiDnyUaDITfr2hTPqwzPJT3IQ+SzEyqsrmEpMt59UAZkzLumumvlaSKRePS+31lPOkeAFmFNVREqKA==;aq1sINbaWvYg2CG6Z7fQzw=="
 ---
 

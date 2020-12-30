@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-12-03-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy.md",
+      "title": "Wisconsin governor: Trump election lawsuit an 'assault on democracy'",
+      "excerpt": "Wisconsin Gov. Tony Evers (D) criticized President Trump’s latest lawsuit seeking to overturn the state's election results as an “assault on democracy.”",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy",
+      "originalUrl": "https://thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 280,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/everstony_102618getty_wisconsin.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy?amp",
+      "publishedDateTime": "2020-12-02T10:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-obama-suggests-trumps-stereotypical-macho-style-appealed-to-some-young-black-voters.md",
       "title": "Obama suggests Trump's 'stereotypical macho style' appealed to some young Black voters",
       "excerpt": "Former President Obama said President Trump’s “stereotypical macho style” was to blame for his increase in Black male voters this election cycle.",
@@ -1315,62 +1367,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-biden-pick-for-omb-director-will-push-globalist-policies-that-cost-us-jobs-huckabee.md",
-      "title": "Biden pick for OMB director will push globalist policies that cost US jobs: Huckabee",
-      "excerpt": "President-elect Joe Biden’s pick for director of the Office of Management and Budget (OMB) will push globalist policies that will lead to the loss of U.S. jobs, former Arkansas Gov. Mike Huckabee warned Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H8utG7MR7YU/neera-tanden-omb-director-globalist-policies-mike-huckabee",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H8utG7MR7YU/neera-tanden-omb-director-globalist-policies-mike-huckabee",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/huckabee-12-01.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T12:56:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

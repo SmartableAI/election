@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.com/us-news/video/2020/nov/25/trumps-ameri
 webUrl: "https://www.theguardian.com/us-news/video/2020/nov/25/trumps-america-first-approach-meant-america-alone-says-joe-biden-video"
 type: article
 quality: 127
-heat: 407
+heat: 427
 published: true
 
 provider:
@@ -251,6 +251,22 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2020/11/Barbara-Zeman.jpg?w=720"
         width: 720
         height: 432
+        isCached: true
+  - title: "Trump Is America's Most Admired Man In 2020"
+    excerpt: "The Gallup survey, which has been conducted annually since 1946, asks random respondents to name a man and woman they admire most."
+    publishedDateTime: 2020-12-30T04:38:00Z
+    webUrl: "https://www.ibtimes.com/trump-americas-most-admired-man-2020-3111597"
+    ampWebUrl: "https://www.ibtimes.com/trump-americas-most-admired-man-2020-3111597?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-americas-most-admired-man-2020-3111597?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/07/time-is-running-out-on-us-president-donald.jpg"
+        width: 1024
+        height: 625
         isCached: true
 
 secured: "JoFHDKnaLKDkarHygW7fNNqO/aMQC4UaH4aqjVwcc/2KbPjqN4WJ+DRxvAEPdbGWv04WNkVruZTXg+Hp+BBzXBPlDflfOBqSujzKOU98OOo7M7BohJBf7TsqqNnU9RRrIjC3TC0bzTOLDEIRxwSk3XOQd46N5RBySFBr2nJJp1E8PE78b/6+vCsM5awWvGjORekdAQ7R6cIyU2NWoUJODgJTd1XEdCsLp5MyDVL2BOx2T7vpW5RqBBAlywvvRqM8t5UgT/ysxtSJE0fKz0FXrqhvt6BOYj2qb6HORrQxUI3x2b9JI+qxmU2R/H31wYZRRuVRWNbb1jXVLC51i7GkHTFXzqR5eZXmNOqj0yor6PZgeH8WpewQs6utXJqqyffQmcf3XvKiwS24Bn+QngL+BIkRAMWqXsUpS4RK6ICMuPkJRzmHCr/FiP6tv4p/4fsD2zU3HyEFpaGTI6phYhBqM/gB8MKSqc5wS4g/yEiWv/nojCZ+JE/BIg4pF+runov+b4d2CwUeYtridlst2iWTsg==;YKmA/x+ik7mpTscYa1YhpQ=="

@@ -90,6 +90,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kamala Harris Gets Moderna COVID-19 Vaccine: \"That Was Easy\""
+    excerpt: "Los Angeles Times: Vice President-elect Kamala Harris on Tuesday received her first dose of the Moderna COVID -19 vaccine in front of the media as part of a growing effort to convince the American public the inoculations are safe."
+    publishedDateTime: 2020-12-29T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/12/29/kamala_harris_gets_moderna_covid-19_vaccine_that_was_easy.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/531028.jpg"
+        width: 1300
+        height: 974
+        isCached: true
 
 secured: "XBURV+tNx2HZV1Lp7YxF4iRn8n+3gzlmiGGqtlUsHzokxmDJ7WX39iKCZPF1P+L4ZHLvEtKfyEaM6fHiKUzb0Y0sh/h3U96ZufMqhLcteMuGEGCshb+OQpkIIRDYwxS9N8aWu1yn0mvA8InCHqiMxIZ8FFfpGe8H/uL0iX4hlHvfY7N772rl+nRK4jHdjSVxfXOmcQUEYRCKSqlRFv+n4OgpWfz8Ef47Zr2b1yL4yr6h6Lkai29ryQyELpOV8kKR3d3psdW/Lj62WttcNC2TT/OrC0BlHhYZW8yv30TOSmXonGMjR3q5IBK5UTqjKQz18agQL3nmATojw+V1HdeIji3K44EwwkYLHu+NfCziz6MtObFRoqzBoY/2Yji35cyrfESmJRyWJ4+QRjrI9hKWN66cVjsLuFkYsq4pjWP0lx68LpbFMWVpja4O1h21nbrzf9YOv55m5IXB88sRMfkaks6fIiKOWC7w8ckYsN+H5E3c6OfB18+sB0NZxZBvdlseqL/ou9BvII8lor44SkF4wg==;qhi9Dvc8/w1ZnG4uC58QTw=="
 ---

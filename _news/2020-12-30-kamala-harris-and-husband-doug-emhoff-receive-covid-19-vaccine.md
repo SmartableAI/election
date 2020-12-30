@@ -50,7 +50,7 @@ related:
   - title: "Kamala Harris And Doug Emhoff Have Received The Moderna COVID-19 Vaccine"
     excerpt: "\"It's about saving your life, the life of your family members, and the life of your community,\" said the vice president–elect."
     publishedDateTime: 2020-12-29T17:41:00Z
-    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/kamala-harris-covid-19-vaccine-moderna"
+    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/kamala-harris-covid-19-vaccine-moderna?origin=web-hf"
     ampWebUrl: "https://www.buzzfeednews.com/amphtml/clarissajanlim/kamala-harris-covid-19-vaccine-moderna"
     cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/clarissajanlim/kamala-harris-covid-19-vaccine-moderna"
     type: article

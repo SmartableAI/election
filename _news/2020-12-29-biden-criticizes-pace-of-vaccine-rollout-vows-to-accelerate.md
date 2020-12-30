@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-warns-o
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-warns-of-trump-officials-roadblocks-to-transition/2020/12/28/afa90a48-4969-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden criticizes pace of vaccine rollout, vows to accelerate"
+    excerpt: "President-elect Joe Biden is criticizing the Trump administration for the pace of distributing COVID-19 vaccines and predicting that “things will get worse before they get better” when it comes to the"
+    publishedDateTime: 2020-12-29T21:19:00Z
+    webUrl: "https://www.washingtonpost.com/health/biden-criticizes-pace-of-vaccine-rollout-vows-to-accelerate/2020/12/29/8f1af018-4a4d-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/biden-criticizes-pace-of-vaccine-rollout-vows-to-accelerate/2020/12/29/8f1af018-4a4d-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-criticizes-pace-of-vaccine-rollout-vows-to-accelerate/2020/12/29/8f1af018-4a4d-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Under Biden, the Justice Department will again police the police"
     excerpt: "The restructuring of the East Haven, Conn., police department followed the kind of court-mandated change that the Trump administration largely abandoned."
     publishedDateTime: 2020-12-29T18:10:00Z

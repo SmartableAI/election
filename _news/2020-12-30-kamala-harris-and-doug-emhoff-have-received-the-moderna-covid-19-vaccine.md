@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris And Doug Emhoff Have Received The Moderna COVID-19 Vaccine"
 excerpt: "\"It's about saving your life, the life of your family members, and the life of your community,\" said the vice president–elect."
 publishedDateTime: 2020-12-29T17:41:00Z
-originalUrl: "https://www.buzzfeednews.com/article/clarissajanlim/kamala-harris-covid-19-vaccine-moderna"
-webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/kamala-harris-covid-19-vaccine-moderna"
+originalUrl: "https://www.buzzfeednews.com/article/clarissajanlim/kamala-harris-covid-19-vaccine-moderna?origin=web-hf"
+webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/kamala-harris-covid-19-vaccine-moderna?origin=web-hf"
 ampWebUrl: "https://www.buzzfeednews.com/amphtml/clarissajanlim/kamala-harris-covid-19-vaccine-moderna"
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/clarissajanlim/kamala-harris-covid-19-vaccine-moderna"
 type: article
@@ -172,6 +172,6 @@ related:
         height: 675
         isCached: true
 
-secured: "2hVRr51Fv1i5iyEwewoTjvFMuoz4b1+OemywdANoGbvH70NHlSN9eSLH4KLoVahk5MO4y+tggYZvSy0uDjDLzS6LviBjgH5oUv6LEtcooF/LGTVDZFv2T3ZPjHyjFFYCjAGIFF2oeJlAU56rXxAT6Dr3DrZVD5+Ln2YaG8yk70sIQpD/NYJ/7iMJITFN0oO/08YPg5Z7MD7Imc2okVltnhYTCG0EainKppWlh+JSLfSRqPMGiJYYQlvoAKGQFoeY8dN2I+k+hG9D2Dj1iZYpKTLub5U6lbO2c/jiiobMwVH4PrQfUjki7vHlnKGHKM7e26+KskgderGG2zgxpz7kihBStKdwz9C1tnmoGsJtfBE0mahj9TblyVoAvXTz+OCoTu0F65DjV7K28LfUnoj+Jcgp4jILVe7sRLV8ypgQHKk/0IkDrZlT8uPT4TcRBXuHXZB8eL60d+KmgfNabTl6x7gE6KYSP3jlOWkjJFCEdzC41n/DM2QhS1jJanKf7qJN7ubTknQeTqXsU2ZeQ47U9g==;4T6AqaxSOPpyJAEJuplW2w=="
+secured: "4ZFDpH0pF7pxF34VicXezo0eN2f9AnrKsQSa5FGdoxCsbxUF6JLxW/Mq3cXdX36HkbChUV2PX8xOJY5/MnH2V9fZDryYCW7y+kjdEHvlFoD5RXR/Afc4tugY5lKgGVcJGu1CzquVhzRCXwPPHetXSdfNH7Cx/qSyCSmU8uWbJGhTYirfd5HeDwhfwCrd0kD6f/MrJ9QfKMWD28dhi3ZRYu592+eM8yh6N1gARGQWyqtOSFaitpOJIymFUeEZor67j9Jh3mV5SvLU0lIyY8XLMCXQBRkDV2uKO2v6UajJ0tDCzFylbL9ndayxF9YUja8586YO/K354m+kM9kAOSX9MRXxMnHVKt1vCKuRU45arJk=;t1xtmqftFzbIW4ywIeAWMg=="
 ---
 

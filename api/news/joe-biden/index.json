@@ -37,6 +37,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-29-domestic-terrorism-and-hate-exploded-in-2020-heres-what-the-biden-administration-must-do.md",
+      "title": "Domestic terrorism and hate exploded in 2020. Here's what the Biden administration must do.",
+      "excerpt": "Members of Joe Biden’s transition team set up a meeting with senior members of the Anti-Defamation League to discuss fighting domestic terrorism and right-wing extremism.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589",
+      "originalUrl": "https://abcnews.go.com/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/charlottesville-protest-gty-jt-201005_1601922791769_hpMain_3_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589",
+      "publishedDateTime": "2020-12-29T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-biden-criticizes-pace-of-vaccine-rollout-vows-to-accelerate.md",
       "title": "Biden criticizes pace of vaccine rollout, vows to accelerate",
       "excerpt": "President-elect Joe Biden is criticizing the Trump administration for the pace of distributing COVID-19 vaccines, saying it is “falling far behind.”",
@@ -45,7 +97,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/national-security/biden-warns-of-trump-officials-roadblocks-to-transition/2020/12/28/afa90a48-4969-11eb-97b6-4eb9f72ff46b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1546,63 +1598,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-macklem-bidens-arrival-could-eliminate-canadas-competitive-edge-on-immigration.md",
-      "title": "Macklem: Biden's arrival could eliminate Canada's competitive edge on immigration",
-      "excerpt": "The Trudeau government has talked up the importance of attracting top global talent as part of its pursuit of stronger economic growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/16/biden-canada-immigration-445784",
-      "originalUrl": "https://www.politico.com/news/2020/12/16/biden-canada-immigration-445784",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/5c/35/04980ac8420aac0a80f72f5c5e79/201209-krotoszynski-biden-ap.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

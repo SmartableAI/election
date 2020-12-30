@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden criticizes pace of vaccine rollout, vows to accelerate"
+    excerpt: "President-elect Joe Biden is criticizing the Trump administration for the pace of distributing COVID-19 vaccines and predicting that “things will get worse before they get better” when it comes to the"
+    publishedDateTime: 2020-12-29T21:19:00Z
+    webUrl: "https://www.washingtonpost.com/health/biden-criticizes-pace-of-vaccine-rollout-vows-to-accelerate/2020/12/29/8f1af018-4a4d-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/biden-criticizes-pace-of-vaccine-rollout-vows-to-accelerate/2020/12/29/8f1af018-4a4d-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-criticizes-pace-of-vaccine-rollout-vows-to-accelerate/2020/12/29/8f1af018-4a4d-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden gets vaccine, says 'nothing to worry about'"
     excerpt: "President-elect Joe Biden on Monday received his first dose of the coronavirus vaccine on live television as part of a growing effort to convince the American public the inoculations are safe. (Dec. 2"
     publishedDateTime: 2020-12-21T22:26:00Z

@@ -143,6 +143,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Defying Trump, McConnell delays vote on $2,000 checks, urges Senate to override defense veto"
+    excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday put off a vote on President Donald Trump's call to boost COVID-19 relief checks and urged the Senate to override his veto of a defense bill, in a rare challenge to his fellow Republican three weeks before he"
+    publishedDateTime: 2020-12-30T04:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idINKBN2930SO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2930SO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2930SO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 114
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Defying Trump, McConnell puts off vote on $2,000 checks, urges override of defense bill veto"
+    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday put off a vote on increasing COVID-19 relief checks from $600 to $2,000 and urged senators to override President Donald Trump's veto of a defense bill,"
+    publishedDateTime: 2020-12-30T04:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUKKBN2930SO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2930SO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2930SO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 114
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
+        width: 817
+        height: 545
+        isCached: true
   - title: "McConnell rejects standalone $2,000 checks, links increase to other Trump requests in new bill"
     excerpt: "Senate Majority Leader Mitch McConnell blocked an attempt to vote on the $2,000 stimulus checks, but reintroduced the $1,400 increase — with a catch."
     publishedDateTime: 2020-12-30T00:03:00Z
@@ -191,6 +223,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Fate of Trump's $2,000 checks now rests with GOP-led Senate"
+    excerpt: "President Donald Trump’s push for $2,000 COVID-19 relief checks now rests with the Senate after the House voted overwhelmingly to meet the president's demand to increase the $600 stipends, but Republicans have shown little interest in boosting spending."
+    publishedDateTime: 2020-12-30T04:04:00Z
+    webUrl: "https://www.businessinsider.com/fate-of-trumps-2000-checks-now-rests-with-gop-led-senate-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/fate-of-trumps-2000-checks-now-rests-with-gop-led-senate-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fate-of-trumps-2000-checks-now-rests-with-gop-led-senate-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Lindsey Graham says Trump is 'more determined than ever' to secure $2,000 checks as COVID-19 relief bill lingers in limbo"
     excerpt: "Sen. Lindsey Graham tweeted that President Donald \"more determined than ever to increase stimulus payments to $2000 per person.\""
     publishedDateTime: 2020-12-26T15:00:00Z

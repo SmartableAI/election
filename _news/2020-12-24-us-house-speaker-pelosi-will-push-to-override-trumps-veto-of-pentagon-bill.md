@@ -175,6 +175,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump allies launch desperate final efforts ahead of congressional confirmation of Biden win"
+    excerpt: "President Trump and his allies are growing increasingly desperate as Congress prepares to formally receive the votes that will confirm his election loss next week, filing lawsuits against nonexistent entities and even Trump’s own vice president as they try to come up with new ways to overturn the vote."
+    publishedDateTime: 2020-12-30T04:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-contest-election-congress/2020/12/29/425fb512-4a05-11eb-839a-cf4ba7b7c48c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-contest-election-congress/2020/12/29/425fb512-4a05-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-contest-election-congress/2020/12/29/425fb512-4a05-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 129
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q7XCJCKFEI6XA42Z5F2PN6ERQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump ally Geraldo Rivera: The president acting 'like an entitled frat boy' since election loss"
     excerpt: "I’ve supported @realDonaldTrump who was assailed by leftist creeps,\" Rivera said. \"Sadly he lost a bitterly contested election.\""
     publishedDateTime: 2020-12-27T18:12:00Z
@@ -974,6 +990,22 @@ related:
       - url: "https://transform.nws.ai/https%3A%2F%2Fcdn.thenewsroom.io%2Fplatform%2Fstory_media%2F1288797393%2Fa6b890e7-d0a9-4435-934f-e1343b744dfb-XXX__JG_138559_Roger_Stone_Sent_02_2_jmg_39237.jpeg/fill/300/300/"
         width: 300
         height: 300
+        isCached: true
+  - title: "Trump asks U.S. Supreme Court to take Wisconsin case"
+    excerpt: "President Donald Trump’s campaign has asked the U.S. Supreme Court to take a lawsuit challenging election results in swing state Wisconsin"
+    publishedDateTime: 2020-12-30T04:49:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-asks-us-supreme-court-to-take-wisconsin-case/2020/12/29/73986144-4a30-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-asks-us-supreme-court-to-take-wisconsin-case/2020/12/29/73986144-4a30-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-asks-us-supreme-court-to-take-wisconsin-case/2020/12/29/73986144-4a30-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "U.S. appeals court upholds Trump health care price disclosure rule"
     excerpt: "A federal appeals court on Tuesday upheld a White House-backed rule to require hospitals to disclose the prices they negotiate with insurers for an array of common tests and procedures."

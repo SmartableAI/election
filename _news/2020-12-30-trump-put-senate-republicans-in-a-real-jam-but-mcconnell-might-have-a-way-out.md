@@ -1,0 +1,118 @@
+---
+category: news
+title: "Trump put Senate Republicans in a real jam. But McConnell might have a way out."
+excerpt: "Trump put Senate Republicans in a real jam. But McConnell hints at a way out. WASHINGTON — Donald Trump is leaving office the same way he spent much of his presidency: by putting his party leaders in a vice between their ideological instincts and personal loyalty to him."
+publishedDateTime: 2020-12-30T04:29:00Z
+originalUrl: "https://www.nbcnews.com/politics/2020-election/trump-put-senate-republicans-real-jam-mcconnell-hints-way-out-n1252485"
+webUrl: "https://www.nbcnews.com/politics/2020-election/trump-put-senate-republicans-real-jam-mcconnell-hints-way-out-n1252485"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252485"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252485"
+type: article
+quality: 131
+heat: -1
+published: false
+
+provider:
+  name: NBC News
+  domain: nbcnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+  - Democratic Voice
+
+images:
+  - url: "https://media1.s-nbcnews.com/i/newscms/2020_53/3438567/201229-donald-trump-1401_f626b008bb93154f6fd1f57f6610b06c.jpg"
+    width: 2500
+    height: 1666
+    isCached: true
+
+related:
+  - title: "Georgia Republicans stick with Trump and support increased direct payments"
+    excerpt: "Republican Sens. David Perdue and Kelly Loeffler both announced Tuesday that they support an effort to amend the recently passed omnibus spending bill to increase direct payments for Americans under a certain income level from $600 to $2,000.\n    \n"
+    publishedDateTime: 2020-12-29T17:03:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UggjTfRrxss/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senators-support-2000-checks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senators-support-2000-checks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130174736-kelly-loeffler-david-perdue-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump antagonizes Republicans with Georgia fundraising ploy"
+    excerpt: "Emails and texts raising cash for Trump's PAC have rankled Republicans, who want cash to flow directly to Georgia's endangered GOP senators."
+    publishedDateTime: 2020-12-15T01:25:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/da/1f/59b5d43848958d4f1d12f634434c/gettyimages-1230110704-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "George Clooney on ‘The Midnight Sky’ and Donald Trump"
+    excerpt: "His new movie is on Netflix, but the actor-director says theaters won’t go away and Hollywood will be fine. He’s not so sure about Washington."
+    publishedDateTime: 2020-12-23T18:42:00Z
+    webUrl: "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/24/arts/23george-clooney2/23george-clooney2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Georgia returns to spotlight after Trump ends coronavirus standoff"
+    excerpt: "The president will hold a rally for the state’s Republican senators one day before the Jan. 5 runoff elections."
+    publishedDateTime: 2020-12-28T15:53:00Z
+    webUrl: "https://www.politico.com/news/2020/12/28/georgia-senate-runoff-back-in-spotlight-451418"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/28/georgia-senate-runoff-back-in-spotlight-451418"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/28/georgia-senate-runoff-back-in-spotlight-451418"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c2/b1/45795baf42ecbac2e1a9157a60f1/201228-kelly-loeffler-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Loeffler, Perdue side with Trump on $2,000 stimulus payments"
+    excerpt: "The Georgia senators, in close runoff races, wouldn’t say whether they’d vote to override the president’s veto of the defense bill."
+    publishedDateTime: 2020-12-30T00:08:00Z
+    webUrl: "https://www.politico.com/news/2020/12/29/loeffler-trump-stimulus-payments-451860"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/29/loeffler-trump-stimulus-payments-451860"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/29/loeffler-trump-stimulus-payments-451860"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/55/3b/4bdd329d492b8912eb8cb39d61c8/gettyimages-1230123259-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+
+secured: "nDvOPkDwlNnE7t26iQN/c6q3GpFrNUXNHgxSjpx5FrgNpsx6wHVxAUi7tBbKixt+/O4svpEs1Gm6G0CZ1KrCCiLMQoZpE+TKqPZ9Dvqfw/nqZmyqVYYRhyMP1JGxWe4DghdDJvLxrac8hpXxIVeftjmaTX+qthe3hbvsekOBK1z4l0NAjf6rm03YiDCmHCE/Hhd/TyJaTPozq6Z/OCQ+wdo383XNUo5ePs2Eveo+btYcYgFwk979uIhLDcU5p/Wy6c913P6KT84yNlx+4HSGEhDuuJCyG8UMqp6VpMl+4sTPu1OX/I2AnBrJMtn/IBkRBkwTINEdxWneBlJKADWriyn4ftiEBwXJKIykXKPH1Hg=;43ZvZi7FKvMQVctCkqt63A=="
+---
+

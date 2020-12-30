@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senat
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senators-support-2000-checks/index.html"
 type: article
 quality: 173
-heat: 253
+heat: 273
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://static.politico.com/55/3b/4bdd329d492b8912eb8cb39d61c8/gettyimages-1230123259-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump put Senate Republicans in a real jam. But McConnell might have a way out."
+    excerpt: "Trump put Senate Republicans in a real jam. But McConnell hints at a way out. WASHINGTON — Donald Trump is leaving office the same way he spent much of his presidency: by putting his party leaders in a vice between their ideological instincts and personal loyalty to him."
+    publishedDateTime: 2020-12-30T04:29:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-put-senate-republicans-real-jam-mcconnell-hints-way-out-n1252485"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252485"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252485"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_53/3438567/201229-donald-trump-1401_f626b008bb93154f6fd1f57f6610b06c.jpg"
+        width: 2500
+        height: 1666
         isCached: true
 
 secured: "nsi1xr+PlQ005nC7wMxkEplsFQgWTs0cP11SnuF8VxSsd+lexs5wLDyT48uLngdHHKwdJGajIWCZu9fiY6StEzX5IGRninLK4KWVhZ3lLCv5v7gFOSC4l+mWCyR3tNRFqbQzZmBgtSVfa5hQ+psgpLobPFt/A4MROfa1Z2s51174oMHjyJLIwNsVadq2Sp3Nj87+/Jd9E2tn3mXZStNSdd2hxZmAisiD4fbTb3rb+/qoKYnUVm2yIFFWjk7VG9fDO7l3e8bElCYcNR9I/u3MAYLfCyDsGnnv/DBL7bJbHwbBTEz0W+NYSkxTjwDavDWnuTkzJ9t/jRcvcql7jTK/zaX0TBGcagy/NBpel+h0yw0=;R+UcHFXZLueH5dCMRXsUVQ=="

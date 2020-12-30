@@ -359,6 +359,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump leans on McConnell for $2,000 checks amid GOP resistance"
+    excerpt: "The Senate majority leader blocked a Democratic proposal to boost payments and has said little about his plans."
+    publishedDateTime: 2020-12-30T04:30:00Z
+    webUrl: "https://www.politico.com/news/2020/12/29/2-000-checks-sputter-mcconnell-blocks-dems-451918"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/c9/4d/d6b42f1b489980efa797ba0d3eac/ap20350765074225.png"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "mJhgoNKrvRAVWuZilBhtzyyxRa8BMRsxmFp2A8PO0SSiPgehOGBYZ9pcNQtYBIPGJGfW4k8H5+7zF3tvtrVfFv5Df2zvf13NZJZXqFpECacG2KusODiCAls1hdJ9WcxQiFYr5hZJmPDsi9nAQBSrNUri8jqF7K9yCyGXJBs3HCui1h9lq6AN+4+HfBilYTOP0atZIsNLNRbphwz9qbjeGmgMoVgq5obw3XlPaCr/UXCgfapIurogy5HkKGWBpSa7DYJar9WNK8TeFg4VHhwmC+fCm/ioyCuVm9I7SvOHTgIwj47wRJqSX5rP6TRa3+VHOTXhNCuiV5fsyiqszB79h3hzrsJc9/2GrgcVogj32sA=;j9oKmBAmYZEzDRoEY6G6Mw=="
 ---

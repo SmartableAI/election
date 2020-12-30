@@ -76,6 +76,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kamala Harris Gets Moderna COVID-19 Vaccine: \"That Was Easy\""
+    excerpt: "Los Angeles Times: Vice President-elect Kamala Harris on Tuesday received her first dose of the Moderna COVID -19 vaccine in front of the media as part of a growing effort to convince the American public the inoculations are safe."
+    publishedDateTime: 2020-12-29T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/12/29/kamala_harris_gets_moderna_covid-19_vaccine_that_was_easy.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/531028.jpg"
+        width: 1300
+        height: 974
+        isCached: true
   - title: "Kamala Harris: \"Democrats Certainly Wanted To Get More Relief Than $600\""
     excerpt: "Vice President-elect Kamala Harris called on Republicans to support President Donald Trump's proposal for $2,000 stimulus checks at a Toys For Toys event on Wednesday. \"I think that we definitely need to get relief,"
     publishedDateTime: 2020-12-23T23:27:00Z
