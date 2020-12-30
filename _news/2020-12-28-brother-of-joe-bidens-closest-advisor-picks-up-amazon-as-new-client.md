@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Biden: Vaccine rollout has ‘fallen behind’"
+    excerpt: "Vaccine rollout has ‘fallen behind’ Posted . President-elect Joe Biden on Tuesday criticized the Trump Administration’s vaccine rollout, saying it has fallen"
+    publishedDateTime: 2020-12-30T01:54:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDB2FLJZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201230&i=OVDB2FLJZ&r=OVDB2FLJZ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Joe Biden cometh, and he's bringing his czars to rule"
     excerpt: "Make way for the czars. A Joe Biden White House, as media report is in the works, will bring more czars, more issuance of regulation, more Barack Obama-like pen and phone governance than any kind of duly passed laws and order."
     publishedDateTime: 2020-12-28T14:01:00Z

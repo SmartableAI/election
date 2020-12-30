@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Biden: Vaccine rollout has ‘fallen behind’"
+    excerpt: "Vaccine rollout has ‘fallen behind’ Posted . President-elect Joe Biden on Tuesday criticized the Trump Administration’s vaccine rollout, saying it has fallen"
+    publishedDateTime: 2020-12-30T01:54:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDB2FLJZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201230&i=OVDB2FLJZ&r=OVDB2FLJZ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Brother Of Joe Biden’s Closest Advisor Picks Up Amazon As New Client"
     excerpt: "Amazon has hired Jeff Ricchetti, the brother of Joe Biden’s White House counselor Steve Ricchetti, to work for its cloud platform Amazon Web Services. A new lobbying disclosure report revealed Jeff Ricchetti landed a lobbying contract with the tech retail giant last month,"
     publishedDateTime: 2020-12-27T17:18:00Z

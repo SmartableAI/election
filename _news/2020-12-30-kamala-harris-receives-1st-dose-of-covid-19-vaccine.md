@@ -447,6 +447,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Kamala Harris goes to Black community in D.C. for vaccine"
+    excerpt: "Harris said she deliberately chose the city’s only public hospital, United Medical Center, because it serves neighborhoods in the city’s Southeast quadrant that are predominantly Black. WASHINGTON — Vice President-elect Kamala Harris said she “barely felt” the COVID-19 vaccine shot in her left arm on Tuesday after she was inoculated with the first of two Moderna doses at a Washington hospital in the heart of the city’s Black community."
+    publishedDateTime: 2020-12-30T05:26:00Z
+    webUrl: "https://www.pressherald.com/2020/12/29/kamala-harris-goes-to-a-black-community-in-dc-for-her-covid-19-vaccine/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 55
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/12/APTOPIX_Virus_Outbreak_Harris_11063.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Kamala Harris to receive shot in bid to boost U.S. confidence in vaccines"
     excerpt: "American, will become the second high-profile person from an ethnic minority background to receive the vaccine after Surgeon General Jerome Adams on Dec. 18."
     publishedDateTime: 2020-12-29T16:22:00Z

@@ -2,11 +2,11 @@
 category: news
 title: "Defying Trump, McConnell delays vote on $2,000 checks, urges Senate to override defense veto"
 excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday put off a vote on President Donald Trump's call to boost COVID-19 relief checks and urged the Senate to override his veto of a defense bill, in a rare challenge to his fellow Republican three weeks before he"
-publishedDateTime: 2020-12-30T04:50:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-idINKBN2930SO"
-webUrl: "https://www.reuters.com/article/us-usa-trump-idINKBN2930SO"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2930SO"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2930SO"
+publishedDateTime: 2020-12-30T06:14:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-trump/senate-to-address-defense-veto-stimulus-checks-this-week-mcconnell-idUKKBN2930ST"
+webUrl: "https://www.reuters.com/article/uk-usa-trump/senate-to-address-defense-veto-stimulus-checks-this-week-mcconnell-idUKKBN2930ST"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2930SO"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2930SO"
 type: article
 quality: 114
 heat: -1
@@ -267,6 +267,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Ow8zdQtiy+7RsovbgRrPyxyCgInqL7Ppp16ma9MHGmSX1K5iVboVhAtuSoEAIRodRE4VwHlYxgHQzH7qh/XLFp5Ig0pg6zAkpSnMwrknw62HL46r7M5EYxZaFMjfQuxRUxHak9L+LCsUYprnbI4IrDis/9RCio4Q0Y/RcUwo+ZD9zUsVLxVHTAQeopWASXBoc3J5RqmIrkSmNe8579Xp6FF+kjjpgaWgVyqSfum1K7YU30+bfM4lYurhstT8vne9s6ZgAy7UsQvvw3vVZvIj3W9c7FnAtOzw8I9Xhz2abRhJWbl4cY5i1NYaw8YJhDChpNvd0QZ+WHFo1nTg21LKdZ+OXUZgGFzCLphmBbKlx1Y=;kC8pwApi2eTGDW/MazO6Aw=="
+secured: "vH31KeV87d65lK6d4lDpn9N3FRKFCSEzqZEp1s/fgKi/NUIzP+jOQnigQl9NWFysJooSmkKQtaN8k31MYeLBaaHTDbeVJndsh+lKK1oxjy2kWaCmsx4UQQ5Qxra/YtTw7xzjEXkOqnjENlRKl9L1+H0N2t2+PqThWuBKEG6/YdfwM/udUZYAxFI9bG9p1vLduoIH1bMYSmXcNOJRCm2L46QuALTiH/QgCO40CLaILcURAHftPyIQ5hDlZmfLbQaIkZmHNjj/aGMFyw4jFMS6P1G1hSq2laizOVAD51RzNlaFaKmiLkMlc/KN8vQNCBWAMQIzFdl60ZXUEQ/waYoVuDBNMJyF1bKFJdsYFBXbY4A=;Gc0xw72PgITFSFN+Q1rHKg=="
 ---
 

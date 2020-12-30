@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-warns-o
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-warns-of-trump-officials-roadblocks-to-transition/2020/12/28/afa90a48-4969-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/5febd443e4b04d4457632ac3-1609290819689?location=LANDSCAPE"
         width: 1200
         height: 674
+        isCached: true
+  - title: "Biden: Vaccine rollout has ‘fallen behind’"
+    excerpt: "Vaccine rollout has ‘fallen behind’ Posted . President-elect Joe Biden on Tuesday criticized the Trump Administration’s vaccine rollout, saying it has fallen"
+    publishedDateTime: 2020-12-30T01:54:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDB2FLJZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201230&i=OVDB2FLJZ&r=OVDB2FLJZ&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Brother Of Joe Biden’s Closest Advisor Picks Up Amazon As New Client"
     excerpt: "Amazon has hired Jeff Ricchetti, the brother of Joe Biden’s White House counselor Steve Ricchetti, to work for its cloud platform Amazon Web Services. A new lobbying disclosure report revealed Jeff Ricchetti landed a lobbying contract with the tech retail giant last month,"

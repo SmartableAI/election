@@ -145,10 +145,10 @@ related:
         isCached: true
   - title: "Defying Trump, McConnell delays vote on $2,000 checks, urges Senate to override defense veto"
     excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday put off a vote on President Donald Trump's call to boost COVID-19 relief checks and urged the Senate to override his veto of a defense bill, in a rare challenge to his fellow Republican three weeks before he"
-    publishedDateTime: 2020-12-30T04:50:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idINKBN2930SO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2930SO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2930SO"
+    publishedDateTime: 2020-12-30T06:14:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump/senate-to-address-defense-veto-stimulus-checks-this-week-mcconnell-idUKKBN2930ST"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2930SO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2930SO"
     type: article
     provider:
       name: Reuters
@@ -267,6 +267,6 @@ related:
         height: 600
         isCached: true
 
-secured: "yUXS+/WqS8dfgtCiIuoIdpDX3JuH+Wh5Fj/eW8uYUaqhd5UvD6IBqVaEdFtD7eLWarfZjT9A40fuc0IZL/ZYGy4lc+kgev8Fpsgwtk+4sa+X2SgJtZeRjFpR4MrEJOt+oRHi182c/EiAVkV2ZppwnF0EQLwFpKW1tESlfuqtgQCD5GtyDuyuo9K9qKl1ZiouBMTocf0Iuc3rPasQWfZzbcxko22in4SsU+H8k6y+NS1OL8dbaSL88I4ykeMmBeUcQsaLYM4OTjEAH66DZOUvsuvrAU5pCfRwlPd/nAOLskIo22rafZ6QjL8r4pwC8cxVd/KBloBIP62qO6dK1WiK2RzbeOtERShf6yBOgungyhc=;DOI1+ujGx+nayqgi558kqA=="
+secured: "4joYNsNy3tsEU4ft8GcyUSJJKp+eRC9PZN1H3pwJ2NfWmzzBnFfO3fKCTg20Qlx2hxTcjWLyZP9nbRLRTB7DobN2V+7XkCCHulQYPOZFwEmSvVyIZxupKEFG5VIRTda208DIhwriaCUFn0qWZqN7YhF53WO6hqBizjIzryDty5+yOewbD9bhhFV4O4W/LfY1qyQVPZoy81t/MJ9YmkzjCMhV0UOiZ7Di5V+cMzUKjMkBosf3tdbFrloYs0ciuGq6eeWgWhdyzI/Y2tPqwoJryykYioC4GRTMdvHJYTpz4T4HwWBoaP4NDHalfmXUH2GbXzyvvv/w2+DACqXbSd4NOFxJQHWLdnzIBIVt5xU+s77jcBotfWcS2oVFGyxTXeFMEHQNyX6zjh+9Y7SDJwVlEk6E93eCQ23KH0tLNhbphwmkjkIjy2j+Wwgl6oTLjxEWkNYahOxPz4Wq9KoyrtgIJ0IHK9PGcns4A5TXxZtNLozV7i9LKKlE5Hz+v5I5q6y9PWGoAFS+0gpxcjndy5TtMw==;Zj1YX9KX+m6IXmVENA0b6g=="
 ---
 
