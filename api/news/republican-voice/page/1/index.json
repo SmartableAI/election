@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-30-trump-immigration-order-restricting-guest-worker-visas-set-to-expire.md",
+      "title": "Trump immigration order restricting guest worker visas set to expire",
+      "excerpt": "An executive order signed by President Trump over the summer, which expanded immigration restrictions in an effort to protect the labor market for American workers amid the coronavirus pandemic, is due to expire by the end of the week -- and immigration hawks are urging him to extend it.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PcHDdmhv0Yw/trump-immigration-order-visas-expire",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PcHDdmhv0Yw/trump-immigration-order-visas-expire",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f0f9774-6462-421e-bd32-a0f3b77bc88b/36f8d087-4aef-458a-b58a-ffcc8022c85e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-immigration-order-visas-expire.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-immigration-order-visas-expire.amp",
+      "publishedDateTime": "2020-12-30T13:41:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-joe-and-jill-biden-to-appear-on-ryan-seacrests-new-years-rockin-eve.md",
       "title": "Joe and Jill Biden to appear on Ryan Seacrest's 'New Year's Rockin' Eve'",
       "excerpt": "President-elect Joe Biden and his wife, Dr. Jill Biden, will join Ryan Seacrest on Thursday night's \"Dick Clark's New Year's Rockin' Eve.\"",
@@ -509,62 +565,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-28-tennessee-governor-expects-trump-to-sign-emergency-declaration-request-were-very-grateful.md",
-      "title": "Tennessee governor expects Trump to sign emergency declaration request: 'We're very grateful'",
-      "excerpt": "After speaking with President Trump Sunday, Tennessee Gov. Bill Lee said it \"appears\" Trump will agree to an emergency declaration request after a Christmas Day bombing destroyed buildings and businesses in downtown Nashville.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4iezUUky3o/tennessee-governor-trump-emergency-declaration-request",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4iezUUky3o/tennessee-governor-trump-emergency-declaration-request",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/e19b8d1d-AP20362658350296-e1609170004261.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tennessee-governor-trump-emergency-declaration-request.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tennessee-governor-trump-emergency-declaration-request.amp",
-      "publishedDateTime": "2020-12-28T10:20:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-28-trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill-faces-hurdles.md",
       "title": "Trump’s effort to 'rescind' spending in COVID/government funding bill faces hurdles",
       "excerpt": "Under the Budget Act of 1974, the President is required to submit a “budget request” to Congress in the winter.",
@@ -577,7 +577,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 209,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -673,63 +673,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-texas-woman-on-president-trump-commuting-her-remaining-term-of-supervised-release-from-prison.md",
-      "title": "Texas woman on President Trump commuting her remaining term of supervised release from prison",
-      "excerpt": "Crystal Munoz, who President Trump commuted the remaining term of supervised release from prison last week, told “Fox & Friends Weekend” on Sunday that she “was definitely over sentenced” for a marijuana offence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years",
-      "originalUrl": "https://www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years.amp",
-      "publishedDateTime": "2020-12-27T18:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -842,6 +785,54 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-tennessee-governor-asks-trump-for-emergency-declaration-after-nashville-blast.md",
+      "title": "Tennessee governor asks Trump for emergency declaration after Nashville blast",
+      "excerpt": "Tennessee Gov. Bill Lee formally asked President Trump to declare a state of emergency in the wake of the Christmas Day bombing in downtown Nashville. “This morning I toured the site of the",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/12/26/tn-governor-asks-trump-for-emergency-declaration-amid-nashville-blast/",
+      "originalUrl": "https://nypost.com/2020/12/26/tn-governor-asks-trump-for-emergency-declaration-amid-nashville-blast/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/bill-lee-tenn-er-declaration.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/12/26/tn-governor-asks-trump-for-emergency-declaration-amid-nashville-blast/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/26/tn-governor-asks-trump-for-emergency-declaration-amid-nashville-blast/amp/",
+      "publishedDateTime": "2020-12-26T11:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -1127,62 +1118,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-25-roger-stone-vows-to-sue-lawmaker-for-claiming-he-covered-up-trump-misconduct-for-clemency.md",
-      "title": "Roger Stone vows to sue lawmaker for claiming he covered up Trump misconduct for clemency",
-      "excerpt": "Veteran political operative Roger Stone is vowing to sue a Democratic lawmaker, alleging that he falsely accused him of covering for President Trump in order to obtain clemency.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAbKf5U72vE/roger-stone-sue-hakeem-jeffries",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAbKf5U72vE/roger-stone-sue-hakeem-jeffries",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cccc97f7-4285-4736-a48d-39699d71d1dc/e1d53e3e-9a8b-4517-8baf-6b33c1b4535b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp",
-      "publishedDateTime": "2020-12-24T16:10:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-24-trump-campaign-persists-with-election-challenges-less-than-2-weeks-from-key-jan-6-date.md",
       "title": "Trump campaign persists with election challenges less than 2 weeks from key Jan. 6 date",
       "excerpt": "President Trump and his campaign are continuing to challenge the result of November's presidential election, with a number of cases still ongoing less than two weeks before electoral votes are officially counted by Congress on Jan. 6.",
@@ -1212,62 +1147,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-election-challenges-ongoing-jan-6-date.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-election-challenges-ongoing-jan-6-date.amp",
       "publishedDateTime": "2020-12-24T11:47:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-supreme-court-in-no-hurry-to-hear-trump-campaign-case-sets-response-deadline-two-days-after-inauguration.md",
-      "title": "Supreme Court in no hurry to hear Trump campaign case, sets response deadline two days after inauguration",
-      "excerpt": "The latest Trump campaign appeal to the Supreme Court won't see any action from the justices until after the inauguration. The justices this week set a reply deadline for Pennsylvania Secretary of State Kathy Boockvar and the other respondents named in the case of Jan. 22.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5ZVVfp56SBI/supreme-court-trump-campaign-case-no-hurry",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5ZVVfp56SBI/supreme-court-trump-campaign-case-no-hurry",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/supreme-court-trump-campaign-case-no-hurry.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-campaign-case-no-hurry.amp",
-      "publishedDateTime": "2020-12-24T10:13:04-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1661,6 +1540,118 @@
       "ampWebUrl": "https://www.foxnews.com/politics/george-papadopoulos-trump-pardon-reaction-possible-lawsuit.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-papadopoulos-trump-pardon-reaction-possible-lawsuit.amp",
       "publishedDateTime": "2020-12-23T07:27:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-cair-demands-biden-defund-counterterror-program.md",
+      "title": "CAIR demands Biden 'defund' counterterror program",
+      "excerpt": "The Council on American-Islamic Relations is urging President-elect Joe Biden to soften up on Islamic extremism in a new document on issues it hopes the new administration will address during its first 100 days.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4VuXYaqQRJc/cair-demands-biden-defund-counterterror-program",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4VuXYaqQRJc/cair-demands-biden-defund-counterterror-program",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20357781210201-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cair-demands-biden-defund-counterterror-program.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cair-demands-biden-defund-counterterror-program.amp",
+      "publishedDateTime": "2020-12-22T19:16:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-biden-says-our-darkest-days-with-covid-are-ahead-of-us-not-behind-us.md",
+      "title": "Biden says 'our darkest days with COVID are ahead of us, not behind us'",
+      "excerpt": "President-elect Joe Biden spoke frankly in a rare address on the bleak reality of COVID-19 in the U.S., telling Americans \"Our darkest days…are ahead of us, not behind us,\" during remarks on Tuesday. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OBsPqq72k8A/biden-says-our-darkest-days-with-covid-are-ahead-of-us-not-behind-us",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OBsPqq72k8A/biden-says-our-darkest-days-with-covid-are-ahead-of-us-not-behind-us",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/814418a1-08c9-4bed-b7c7-fdab0625619e/0c6fe622-1cb6-4599-a598-7e8010fec20a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-our-darkest-days-with-covid-are-ahead-of-us-not-behind-us.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-our-darkest-days-with-covid-are-ahead-of-us-not-behind-us.amp",
+      "publishedDateTime": "2020-12-22T18:26:44-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

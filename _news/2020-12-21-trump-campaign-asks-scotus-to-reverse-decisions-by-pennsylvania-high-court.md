@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/amp/"
 type: article
 quality: 133
-heat: -1
-published: false
+heat: 133
+published: true
 
 provider:
   name: New York Post
@@ -26,40 +26,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Supreme Court in no hurry to hear Trump campaign case, sets response deadline two days after inauguration"
-    excerpt: "The latest Trump campaign appeal to the Supreme Court won't see any action from the justices until after the inauguration. The justices this week set a reply deadline for Pennsylvania Secretary of State Kathy Boockvar and the other respondents named in the case of Jan. 22."
-    publishedDateTime: 2020-12-24T18:13:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5ZVVfp56SBI/supreme-court-trump-campaign-case-no-hurry"
-    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-campaign-case-no-hurry.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-campaign-case-no-hurry.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "High Court Rejects as Premature a Bid to Block Trump Plan to Bar Illegal Immigrants in Redistricting"
-    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
-    publishedDateTime: 2020-12-18T20:25:00Z
-    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
-    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 120
-    images:
-      - url: "https://images.wsj.net/im-251063/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "18PbipfbWwQi70c4yBXRTbWtS7MZM9hGDVzHZVwuugf+aqgIo67Tt83d6hEzAIDD8rvZvMsFqMMVnJblSeFrJQVbKtSiuvXQWxnwh5Yna9+OBoLPzuJ9zYJ8RVMvIzY3jhN+eiKx17q0i8uFp5XNdzW7fr2j8K4YBOFYi5m5rWOpUFJGUUS8ef85qoqRxGwGWw0c06JSk2qieFujnqaQdxMVqv0jAN1P9+JrufP+C4PhRxWn+kF2zH1jWk0KRKRX8x9Qb/zos53l+TycUNGzIzM5yr5p9+3+D60LRMrN7AFeJgn+NNvjmR2i4l3Bb4LQvDxbbDYdEdSxLIuZZCYvMI0IqRg68I1WF4hYeA10skboITolXnkZwyf5sxn0fKLkVmMoDy1VYhCXYeTqstwC3btxJFCOJopoYTrxSQb5MDuNwIx+jLMHR53chv+OflJJ+Ex5C7RZpGRhiIBXR5/WgNqSMLk+KQRP0ikOjadpFeBTMiT5f4bY7ASSsXA2kLzEHFLHUmxSj8I0OoKMHTC99Q==;6vqNkR9M+uMrA/TV91oeRQ=="
 ---

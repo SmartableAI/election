@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trumps-effort-to-rescind-spending-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill.amp"
 type: article
 quality: 169
-heat: 209
+heat: 189
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1281
         height: 670
         isCached: true
-  - title: "Trump's Stuning Achievement in Middle East"
-    excerpt: "Donald Trump's legacy, like the man himself, will be complicated, but the one certainty will be his record of achieving what conventional wisdom said couldn't be done. His world-shocking victory"
-    publishedDateTime: 2020-12-30T12:45:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/30/trumps_stuning_achievement_in_middle_east_532387.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "tH4txuqeuRdkCxIYW2waM2xJx7omrgQvx4JPWT7fXWnvoh1V8JOJO+Ur5RtTEFqhR0s3XkbBCsGoFaFlEh2j/Xxdu1ppBkMdI141pemDPnGPNM/G3o5h5jgDDkctOoPP2IYTfdgYqEoMKfLlwgWNnN+CNr7JjrOoitVD0WECzT1UEowyLiH2T2csNAdXKcbuC2JPdL9RYLlDN/NR9jVUCmQnFs3r9SBt1OotDcc7NjTzI/0+c5XT71yz2++eEIguk1hoXvvUMpujR0rYGQ2h3KC2V4S5rpMKT7cUlTfHoUuwE0igyhUog5oPGpRYzcQrrQHqHk9OZzVH717bmgpBWO4STiFjNW8cE4i4fiUCTSM=;A51COgFVhtwIcI/3Br155g=="
 ---

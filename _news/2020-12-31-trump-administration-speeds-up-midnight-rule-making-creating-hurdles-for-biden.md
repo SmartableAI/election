@@ -8,7 +8,7 @@ webUrl: "https://www.nbcnews.com/politics/white-house/trump-administration-speed
 ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252548"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252548"
 type: article
-quality: 145
+quality: 155
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Joe Biden
   - Democratic Voice
+  - Donald Trump
 
 images:
   - url: "https://media1.s-nbcnews.com/i/newscms/2020_52/3437281/201221-donald-trump-jm-1552_f80396144228909ae975473c07ed3e33.jpg"
@@ -409,6 +410,6 @@ related:
         height: 550
         isCached: true
 
-secured: "I863i5ty/1dmXm9rr8xLiTT2uzqY1eimwRyxa68PcnzofSe1Gd2Utlt5VoDt0a+GqSftM6lDNaA699mHvwwH2jnds1uX6fOc6sMIDkU6L/QTUPA2HHXlcE+8UwMCD9Z9xI4M1Fxa2D5D6AYJpmHPBXkaLW4KEuq15UJszbn+87Cfz6P3GBhTeyKYz4PzvE73GGV22KTjM1Z3A5YJN5Q84UPAtg39KOGHZxzGXLSuChaE5wLzSjUXlr4exJiuoXRwxY6LJw56LacytTdiPvKV8CmDyr/Rkwlw9lF32jfvNUUKEdXcH74n1CZ5S7ndy7MQTHRT7x3XRc51WBtXHJQCfSMJyN9dXeqgJwetJdR+b+s=;njb/Urr89aXID/14rDCgog=="
+secured: "zb69nb8Q/scqdbIoDta9lKqNP+AJZeS50ce5HF89QtlxuPtF5eH5HjCuECcZcJZ0CRLAlvfavGxL6MEep++aI/U26bGa1haaghmEzpJGqTd0VJJVOtIrPr/9DVLo3L2xGUFDRKdOdUsAzyn6fhaU69vI1HskC6GM57dZ49VSFtYPKQva/lIeROQBgc4dzvsXn/TnwDVmXWM4+BCTeWyNJ2vj5A1t3wusiN+uuGAZTw9FMT/EhLmOIPIrdrqjDM6LDHNtXNPidAN28WcQ/utSPlErMNzqKAwUL0lMCrLc8dCgsIOZxRRKEeRKD1iHqu81bZqpcLGCb0NEYjoiDd0q3frYb7huaWmhfww9KrRGjAeqtAemX0LfDxCUXGDCIA8vOpfuWwCvW695Ns6rxmQU09WMx8Ygyv2/rX9rKDGShOdT5ydEH6s3HpmSn0ZisdKDHNXWVNnTPkd+o40WDpwPOg6A+YITqywDRrJBzk/E2PUEiiXDsWrZv8a1/zo6tk0dkLrGdSTtabqDs4f9PvwQzA==;QTsJoWIX8NINYiYG2XRQFA=="
 ---
 

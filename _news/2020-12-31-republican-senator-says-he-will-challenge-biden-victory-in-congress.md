@@ -450,6 +450,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
+    excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
+    publishedDateTime: 2020-12-30T20:32:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 112
+    images:
+      - url: "https://www.chicagotribune.com/resizer/85Xf4PTOdf76QQecBE6bXOrleHs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7MEZB6KZLEGBLDVQGQMT47SUSY.jpg"
+        width: 1200
+        height: 741
+        isCached: true
   - title: "Republican Sen. Toomey to Trump: 'You don't get everything you want, even if you are the president'"
     excerpt: "Republican Sen. Pat Toomey on Sunday urged President Donald Trump to sign the coronavirus relief bill as he pushes for $2,000 stimulus checks."
     publishedDateTime: 2020-12-27T16:48:00Z
@@ -602,22 +618,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
-    excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
-    publishedDateTime: 2020-12-30T17:16:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 62
-    images:
-      - url: "https://www.baltimoresun.com/resizer/85Xf4PTOdf76QQecBE6bXOrleHs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7MEZB6KZLEGBLDVQGQMT47SUSY.jpg"
-        width: 1200
-        height: 741
-        isCached: true
   - title: "Trump Lashes Out At Republican Leaders Over Looming Veto Override"
     excerpt: "Donald Trump, facing a humiliating first veto override of his presidency, lashed out at Republican leaders in Congress on Tuesday as relations soured ahead of a crucial pair of runoff elections in Georgia that could determine control of the Senate."
     publishedDateTime: 2020-12-29T22:47:00Z
@@ -649,6 +649,6 @@ related:
         height: 683
         isCached: true
 
-secured: "aTdl/wdgi2MvGR4Cb2mwPqj8pZ7qEnCLu1ud2pouS6imZsyzLKjMpcckgT3wZMNlFQJpL8DeRp7vIm/d2YPbzMadW7Uf5ykwnMh4XCIEQwW8+8AaEY04pvSHZk01yZe3JbDseoQlOBf/ccbcvdqLMQx4OO6KZCEKWswNOO/XwQbICQ9tuMfs2sEAK+j4Zl0ji2i4bHnRZvmPVachYLk2FcONBl3VpY9tjNvZAWNfRJW/2Dux7yW7l3lantq2C4DsHJ9HjP3IS0iLk/GM/n0EemVID36j3gy79MkNR2X4lfurH9ztVB30f4CIjX9bvUaXBgeWCKVUHzCFTmsFbHkG+hkD35iQQO0WR8RDoX5WoO8=;2uEc2LiySedbstp9B3T52A=="
+secured: "fjNTyDZyXbSCTZvtcel3GYuaf6jnYIMUGUPK/4Su/IU0cgp6xtnryFxjWsx+SQAOXPFa0bbQaD6kQS5myEpuZdCRQ6nvz6zSKLvdPSTkHVQ4AhshBj8l7pEd3E4aKcNC6VcRa25FJe7CPzvc7v2W02/Zvwmfw09vx60UDKdqnWi4xM6rOpaBLwyRJrz5ZETk2EuXdKz+/26umk+gwD2KW8qLZ371td6/kvL9n54+XCoLbgLTdLH9hIGWfxivVNllZ97JdGYoeTuaEl0B/Iyr6eLqHQZPdRp1y3scOGxRHkYCxdcFPgS2zXZdmRp6pwqo2DqXyPSqbWhXo+/qJu/7oqTLQ+P2VIafrLsnzEuXtdYC/JC77U+fvAWjnIXTbQiEGDVkk3p+2a6zzppuKP6owpR9zqpRD3dmPAtOLsNNiyBlJUcDXWJQaG/c7VmCHltIduXIKJAhkPpGRFbFFdZdmiFORyMGHbOYvXRBqKXDLm6FYMQtcsOClkRjyCchTsdKg6L6VYYrrt+GtxtgHe8mTQ==;wkCc/M9g5YFik9U5Sf+mwQ=="
 ---
 

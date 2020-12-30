@@ -466,6 +466,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
+    excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
+    publishedDateTime: 2020-12-30T20:32:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 112
+    images:
+      - url: "https://www.chicagotribune.com/resizer/85Xf4PTOdf76QQecBE6bXOrleHs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7MEZB6KZLEGBLDVQGQMT47SUSY.jpg"
+        width: 1200
+        height: 741
+        isCached: true
   - title: "Biden says Trump's 'abdication of responsibility has devastating consequences' as the president neglects to sign bipartisan stimulus"
     excerpt: "Trump said he wants $2,000 direct payments to Americans, but House Republicans blocked Democrats' attempt this week to meet his demand."
     publishedDateTime: 2020-12-26T18:28:00Z
@@ -601,22 +617,6 @@ related:
       - url: "https://www.ajc.com/resizer/zEKCcn-DiEMFCBmQ1NJ6n0VY7WU=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/FL7YP6OTPIEXYVGZABEULRYNEU.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
-    excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
-    publishedDateTime: 2020-12-30T17:16:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 62
-    images:
-      - url: "https://www.baltimoresun.com/resizer/85Xf4PTOdf76QQecBE6bXOrleHs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7MEZB6KZLEGBLDVQGQMT47SUSY.jpg"
-        width: 1200
-        height: 741
         isCached: true
   - title: "Trump Lashes Out At Republican Leaders Over Looming Veto Override"
     excerpt: "Donald Trump, facing a humiliating first veto override of his presidency, lashed out at Republican leaders in Congress on Tuesday as relations soured ahead of a crucial pair of runoff elections in Georgia that could determine control of the Senate."

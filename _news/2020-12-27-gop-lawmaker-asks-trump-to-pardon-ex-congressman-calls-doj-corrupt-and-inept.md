@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "McConnell rules out $2,000 checks as Republican tensions with Trump rise"
+    excerpt: "U.S. Senate Republican leader Mitch McConnell on Wednesday ruled out a vote on a bill to raise coronavirus relief checks to $2,000 from $600, likely killing the effort pushed by President Donald Trump."
+    publishedDateTime: 2020-12-30T22:38:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29411A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29411A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29411A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546213033&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT1DT"
+        width: 790
+        height: 545
+        isCached: true
   - title: "McConnell urges Senate to override Trump defense veto, vague on stimulus checks"
     excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday urged the Senate to override President Donald Trump's veto of a $740 billion defense policy bill, saying the funding plan for the U.S. military could not be allowed to fail."
     publishedDateTime: 2020-12-29T19:51:00Z

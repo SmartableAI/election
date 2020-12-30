@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-29-georgia-republicans-stick-with-trump-and-support-increased-direct-payments.md",
+      "title": "Georgia Republicans stick with Trump and support increased direct payments",
+      "excerpt": "Republican Sens. David Perdue and Kelly Loeffler both announced Tuesday that they support an effort to amend the recently passed omnibus spending bill to increase direct payments for Americans under a certain income level from $600 to $2,000.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UggjTfRrxss/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UggjTfRrxss/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 273,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201130174736-kelly-loeffler-david-perdue-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senators-support-2000-checks/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senators-support-2000-checks/index.html",
+      "publishedDateTime": "2020-12-29T09:03:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-trump-slams-weak-and-tired-senate-gop-leaders-amid-defense-veto-override-fight.md",
       "title": "Trump slams 'weak and tired' Senate GOP leaders amid defense veto override fight",
       "excerpt": "President Trump on Tuesday condemned \"weak and tired\" Senate Republican leadership as the upper chamber faces a vote to override his veto of the 2021 defense budget.",
@@ -387,7 +443,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -846,62 +902,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-28-tennessee-governor-expects-trump-to-sign-emergency-declaration-request-were-very-grateful.md",
-      "title": "Tennessee governor expects Trump to sign emergency declaration request: 'We're very grateful'",
-      "excerpt": "After speaking with President Trump Sunday, Tennessee Gov. Bill Lee said it \"appears\" Trump will agree to an emergency declaration request after a Christmas Day bombing destroyed buildings and businesses in downtown Nashville.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4iezUUky3o/tennessee-governor-trump-emergency-declaration-request",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4iezUUky3o/tennessee-governor-trump-emergency-declaration-request",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/e19b8d1d-AP20362658350296-e1609170004261.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tennessee-governor-trump-emergency-declaration-request.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tennessee-governor-trump-emergency-declaration-request.amp",
-      "publishedDateTime": "2020-12-28T10:20:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-29-republicans-sue-mike-pence-in-desperate-last-ditch-effort-to-overturn-election.md",
       "title": "Republicans sue Mike Pence in 'desperate' last-ditch effort to overturn election",
       "excerpt": "Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a \"desperate\" last-ditch effort to overturn the results of November's presidential election, The Hill reports. The goal of the lawsuit is to get a federal judge to rule that Pence has the exclusive authority to choose electors when he oversees the Electoral College vote certification on Jan.",
@@ -1175,7 +1175,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 209,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1275,25 +1275,25 @@
       ]
     },
     {
-      "path": "_news/2020-12-28-texas-woman-on-president-trump-commuting-her-remaining-term-of-supervised-release-from-prison.md",
-      "title": "Texas woman on President Trump commuting her remaining term of supervised release from prison",
-      "excerpt": "Crystal Munoz, who President Trump commuted the remaining term of supervised release from prison last week, told “Fox & Friends Weekend” on Sunday that she “was definitely over sentenced” for a marijuana offence.",
+      "path": "_news/2020-12-27-908-coalition-of-bipartisan-bicameral-lawmakers-tell-trump-to-sign-relief-package-or-veto-it-immediately.md",
+      "title": "'908 Coalition' of bipartisan, bicameral lawmakers tell Trump to 'sign relief package or veto it immediately'",
+      "excerpt": "A group of bipartisan and bicameral lawmakers, dubbing themselves the “908 Coalition,” signed a public letter on Sunday, urging President Donald Trump to sign a much-needed COVID-19 emergency relief package or “veto it immediately.”",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years",
-      "originalUrl": "https://www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZNoC8azubcE/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZNoC8azubcE/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 124,
+      "heat": 156,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20361775825326.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1301,9 +1301,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years.amp",
-      "publishedDateTime": "2020-12-27T18:41:00-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto.amp",
+      "publishedDateTime": "2020-12-27T15:56:47-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1327,7 +1327,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

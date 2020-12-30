@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senat
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senators-support-2000-checks/index.html"
 type: article
 quality: 173
-heat: 253
+heat: 273
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fact-checking Trump's conspiracy theory connecting Georgia's secretary of state to China"
+    excerpt: "In the waning days of his presidency, Donald Trump continues to spread nonsense conspiracies over the 2020 election and the officials who oversaw it, attacking Georgia's governor and secretary of state on Twitter Tuesday.\n    \n"
+    publishedDateTime: 2020-12-30T22:21:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fVUz1KEo3pY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/ga-sos-brother-trump-tweet-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/ga-sos-brother-trump-tweet-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130161114-raffensperger-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump antagonizes Republicans with Georgia fundraising ploy"
     excerpt: "Emails and texts raising cash for Trump's PAC have rankled Republicans, who want cash to flow directly to Georgia's endangered GOP senators."
     publishedDateTime: 2020-12-15T01:25:00Z

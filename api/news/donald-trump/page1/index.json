@@ -114,7 +114,7 @@
       "originalUrl": "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 371,
+      "heat": 391,
       "tags": null,
       "images": [
         {
@@ -688,7 +688,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -945,63 +945,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-28-texas-woman-on-president-trump-commuting-her-remaining-term-of-supervised-release-from-prison.md",
-      "title": "Texas woman on President Trump commuting her remaining term of supervised release from prison",
-      "excerpt": "Crystal Munoz, who President Trump commuted the remaining term of supervised release from prison last week, told “Fox & Friends Weekend” on Sunday that she “was definitely over sentenced” for a marijuana offence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years",
-      "originalUrl": "https://www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years.amp",
-      "publishedDateTime": "2020-12-27T18:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-28-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election.md",
       "title": "Geraldo Rivera: Trump acting like 'entitled frat boy' since losing election",
       "excerpt": "Fox News pundit Geraldo Rivera slammed President Trump, saying he has been acting like an \"entitled frat boy\" since losing a \"bitterly contested el",
@@ -1114,7 +1057,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 748,
+      "heat": 768,
       "tags": null,
       "images": [
         {
@@ -1259,6 +1202,54 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-tennessee-governor-asks-trump-for-emergency-declaration-after-nashville-blast.md",
+      "title": "Tennessee governor asks Trump for emergency declaration after Nashville blast",
+      "excerpt": "Tennessee Gov. Bill Lee formally asked President Trump to declare a state of emergency in the wake of the Christmas Day bombing in downtown Nashville. “This morning I toured the site of the",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/12/26/tn-governor-asks-trump-for-emergency-declaration-amid-nashville-blast/",
+      "originalUrl": "https://nypost.com/2020/12/26/tn-governor-asks-trump-for-emergency-declaration-amid-nashville-blast/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/bill-lee-tenn-er-declaration.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/12/26/tn-governor-asks-trump-for-emergency-declaration-amid-nashville-blast/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/26/tn-governor-asks-trump-for-emergency-declaration-amid-nashville-blast/amp/",
+      "publishedDateTime": "2020-12-26T11:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {

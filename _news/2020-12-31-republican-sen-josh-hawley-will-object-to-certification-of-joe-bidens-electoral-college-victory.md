@@ -2,26 +2,30 @@
 category: news
 title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
 excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
-publishedDateTime: 2020-12-30T17:16:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+publishedDateTime: 2020-12-30T20:32:00Z
+originalUrl: "https://www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
+webUrl: "https://www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
+ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
 type: article
-quality: 62
+quality: 112
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/85Xf4PTOdf76QQecBE6bXOrleHs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7MEZB6KZLEGBLDVQGQMT47SUSY.jpg"
+  - url: "https://www.chicagotribune.com/resizer/85Xf4PTOdf76QQecBE6bXOrleHs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7MEZB6KZLEGBLDVQGQMT47SUSY.jpg"
     width: 1200
     height: 741
     isCached: true
@@ -645,6 +649,6 @@ related:
         height: 683
         isCached: true
 
-secured: "MKQTbOvAmbX/vQYUorh/t7YBk4SdJqDco3tjwFnpZEywOuMdoNd7X3w6npSM4oZDapNPH090Ckl5mAVYvzrEMFojl/Rqsd5vtkT0gjpglp8/HFwiyOdRLaeIB45r4402oX5wDW7aVL8ueVWOiUBmVvS8mmvU5kMIcbGyaIY3LSUJ/g4Ssp4kaCRavtefH5TEivpx0wtUcJ0wpih4vydrqteMGESyuYW/HUmoFu+Fu5bv4kqS1Rcvd+YYyZAh7UM8fFwRzYwEAr047uZHyV4WNufBcmCblbyeE6YM8vOo7zlGQ9VqNGaNYoVynRmVSpV+gQOsTBdy+8Sk1D72LLiZvIfZMKvxkzn0Fk2gyoX37FwZq28jbg/jcKuzmct7EpYvMRTywOdehRoxBHLccwhRwlMzFodbsPiYd3Lhgq7WtL8eT2l3yhNdr/RXYMrztrUJ6qrcuXcPndT7snYoqJ6yTW0Lsl1GT5mGKMT7bJi+72Jp/UGlqycqnc+j72Uyo3WbFv5u3Y662M9emwuHbAS1AA==;ejJdPFXjqauP3ND2Ggu15w=="
+secured: "IlC71MQdSbJgBHKHfrFV/upy52hh6WIO9O2+KDqVpLibemw1ta5x/bo1/ddHOLnNc4VH5hPaHVvQxHEua8pmDnZV5L7+lIFuDoCktW+W62ceatqP+NT2LZuknwZbSdaBgkZFtNqRCNgMfpbD+037TOlA9ZnXWDYhfGzPCszGci6m9dmpPTWSWgRGD7AL8ysuSYfxdC2McjAQ8lB9mHqAHN35ReyGEiNvl2wKUIQrpXZYAHXM1iKvaQ6crYlecpaYaE6CX61Jnwa6GzhHptINngYXDbjqRA7qSLdejiRYJXPdKnyFX0+Z3r2eYBp/li3DpZDFU7TwiB76YF6+WLgN9Lznl8rLk7vxkOX4KH5BACc=;0fabDOEc7JxLaQeEt/KtrQ=="
 ---
 

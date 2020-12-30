@@ -2,62 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-12-24-heres-what-happens-if-trump-doesnt-sign-the-900-billion-relief-package.md",
-      "title": "Here's what happens if Trump doesn't sign the $900 billion relief package",
-      "excerpt": "Though Congress has passed a $900 billion Covid relief package, millions of Americans are in danger of losing important benefits just after the holidays if President Donald Trump continues to refuse to sign the bill.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8ibSlxj5Qo8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8ibSlxj5Qo8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 314,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201224113207-01-eviction-order-phoenix-oct2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/24/politics/covid-relief-bill-programs-expiring/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/covid-relief-bill-programs-expiring/index.html",
-      "publishedDateTime": "2020-12-24T10:34:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-25-exclusive-dominion-sends-letters-threatening-defamation-lawsuits-to-sean-hannity-maria-bartiromo-lou-dobbs-and-other-pro-trump-media-figures.md",
       "title": "EXCLUSIVE: Dominion sends letters threatening defamation lawsuits to Sean Hannity, Maria Bartiromo, Lou Dobbs, and other pro-Trump media figures",
       "excerpt": "The company at the center of a false election conspiracy theory told right-wing media organizations and individual hosts to \"preserve all documents.\"",
@@ -107,62 +51,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-supreme-court-in-no-hurry-to-hear-trump-campaign-case-sets-response-deadline-two-days-after-inauguration.md",
-      "title": "Supreme Court in no hurry to hear Trump campaign case, sets response deadline two days after inauguration",
-      "excerpt": "The latest Trump campaign appeal to the Supreme Court won't see any action from the justices until after the inauguration. The justices this week set a reply deadline for Pennsylvania Secretary of State Kathy Boockvar and the other respondents named in the case of Jan. 22.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5ZVVfp56SBI/supreme-court-trump-campaign-case-no-hurry",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5ZVVfp56SBI/supreme-court-trump-campaign-case-no-hurry",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/supreme-court-trump-campaign-case-no-hurry.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-campaign-case-no-hurry.amp",
-      "publishedDateTime": "2020-12-24T10:13:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -998,7 +886,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 655,
+      "heat": 675,
       "tags": null,
       "images": [
         {
@@ -1318,6 +1206,114 @@
       "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-biden-miguel-cardona-education-department-watch-live-stream-today-2020-12-23/",
       "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-miguel-cardona-education-department-watch-live-stream-today-2020-12-23/",
       "publishedDateTime": "2020-12-23T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-george-papadopoulos-ecstatic-over-trump-pardon-hints-at-possible-lawsuit.md",
+      "title": "George Papadopoulos 'ecstatic' over Trump pardon, hints at possible lawsuit",
+      "excerpt": "Former Trump 2016 campaign adviser George Papadopoulos celebrated the pardon President Trump granted to him while noting that he may not be done with his accusers.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dUmlp3-7NnU/george-papadopoulos-trump-pardon-reaction-possible-lawsuit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dUmlp3-7NnU/george-papadopoulos-trump-pardon-reaction-possible-lawsuit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.foxbusiness.com/BrightCove/854081161001/202012/1278/854081161001_6218023626001_6218023729001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/george-papadopoulos-trump-pardon-reaction-possible-lawsuit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-papadopoulos-trump-pardon-reaction-possible-lawsuit.amp",
+      "publishedDateTime": "2020-12-23T07:27:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-biden-warns-darkest-days-are-ahead-for-us.md",
+      "title": "Biden warns 'darkest days' are ahead for U.S....",
+      "excerpt": "Watch \"President-elect Joe Biden warns of 'darkest days' are ahead for U.S.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live/video/20201223163005-president-elect-joe-biden-warns-of-darkest-days-are-ahead-for-u-s/",
+      "originalUrl": "https://www.cbsnews.com/live/video/20201223163005-president-elect-joe-biden-warns-of-darkest-days-are-ahead-for-u-s/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08244329_1608741244.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T06:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CBS News",

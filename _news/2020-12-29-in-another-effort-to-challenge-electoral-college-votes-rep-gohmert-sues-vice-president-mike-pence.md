@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mitch McConnell has pitted himself against Trump during the president's final days in office"
+    excerpt: "The lame duck battle between McConnell and Trump on stimulus checks has baffled Democrats, but they've welcomed the president's support."
+    publishedDateTime: 2020-12-30T22:32:00Z
+    webUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fecf9b1a18a450018cb6543?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump golfs in Florida, rails against House GOP and election results on first day of his winter vacation as COVID relief hangs in the balance"
     excerpt: "Trump had no events on his public schedule on the first day of his winter vacation Thursday, but traveled to his Palm Beach golf club, where he was spotted by CNN cameras on the links. Reporters were given no details of his schedule for the day,"
     publishedDateTime: 2020-12-24T23:52:00Z

@@ -57,6 +57,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "McConnell rules out $2,000 checks as Republican tensions with Trump rise"
+    excerpt: "U.S. Senate Republican leader Mitch McConnell on Wednesday ruled out a vote on a bill to raise coronavirus relief checks to $2,000 from $600, likely killing the effort pushed by President Donald Trump."
+    publishedDateTime: 2020-12-30T22:38:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29411A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29411A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29411A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546213033&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT1DT"
+        width: 790
+        height: 545
+        isCached: true
   - title: "GOP Lawmaker Asks Trump to Pardon Ex-Congressman, Calls DOJ 'Corrupt and Inept'"
     excerpt: "Arizona Representative Paul Gosar said Rick Renzi was \"convicted by corrupt DOJ prosecutors who fabricated evidence.\""
     publishedDateTime: 2020-12-26T22:39:00Z

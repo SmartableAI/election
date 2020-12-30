@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4052084001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052084001"
 type: article
 quality: 128
-heat: 748
+heat: 768
 published: true
 
 provider:
@@ -350,6 +350,22 @@ related:
       - url: "https://i.insider.com/5fe478a7edf8920018093a15?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Coronavirus updates: Trump blames states, tells them to ‘get moving’ amid delay in vaccinations"
+    excerpt: "Gustave Perna, chief operating officer of Operation Warp Speed, said Wednesday that 14 million vaccine doses have been distributed in the U.S. to date and more than 2 million doses have been administered."
+    publishedDateTime: 2020-12-30T22:39:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-30-2020/t_2f357c715d614abc9bda01408b0e6122_name_539dc5d6_3fff_11eb_b58b_1623f6267960_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Live politics updates: Rubio goes after Fauci on Twitter; Trump signs COVID relief amid criticism for delay"
     excerpt: "Trump signs coronavirus stimulus bill amid bipartisan criticism; Rubio says Fauci \"lied\" and distorted; George Conway calls on Mnuchin to quit."

@@ -20,37 +20,117 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Trump’s effort to 'rescind' spending in COVID/government funding bill faces hurdles"
-    excerpt: "Under the Budget Act of 1974, the President is required to submit a “budget request” to Congress in the winter."
-    publishedDateTime: 2020-12-28T09:32:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WBCmojqfCBM/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill.amp"
+  - title: "Trump immigration order restricting guest worker visas set to expire"
+    excerpt: "An executive order signed by President Trump over the summer, which expanded immigration restrictions in an effort to protect the labor market for American workers amid the coronavirus pandemic, is due to expire by the end of the week -- and immigration hawks are urging him to extend it."
+    publishedDateTime: 2020-12-30T21:41:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PcHDdmhv0Yw/trump-immigration-order-visas-expire"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-immigration-order-visas-expire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-immigration-order-visas-expire.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f0f9774-6462-421e-bd32-a0f3b77bc88b/36f8d087-4aef-458a-b58a-ffcc8022c85e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Roger Stone vows to sue lawmaker for claiming he covered up Trump misconduct for clemency"
+    excerpt: "Veteran political operative Roger Stone is vowing to sue a Democratic lawmaker, alleging that he falsely accused him of covering for President Trump in order to obtain clemency."
+    publishedDateTime: 2020-12-25T00:10:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAbKf5U72vE/roger-stone-sue-hakeem-jeffries"
+    ampWebUrl: "https://www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cccc97f7-4285-4736-a48d-39699d71d1dc/e1d53e3e-9a8b-4517-8baf-6b33c1b4535b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Tennessee governor expects Trump to sign emergency declaration request: 'We're very grateful'"
+    excerpt: "After speaking with President Trump Sunday, Tennessee Gov. Bill Lee said it \"appears\" Trump will agree to an emergency declaration request after a Christmas Day bombing destroyed buildings and businesses in downtown Nashville."
+    publishedDateTime: 2020-12-28T18:20:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4iezUUky3o/tennessee-governor-trump-emergency-declaration-request"
+    ampWebUrl: "https://www.foxnews.com/politics/tennessee-governor-trump-emergency-declaration-request.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tennessee-governor-trump-emergency-declaration-request.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/e19b8d1d-AP20362658350296-e1609170004261.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Ivanka Trump champions working families, fights human trafficking during her father's presidency"
+    excerpt: "While President Donald Trump commanded the nation’s attention over the last four years, his daughter and senior adviser, Ivanka Trump, racked up a list of considerable achievements."
+    publishedDateTime: 2020-12-24T18:23:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency"
+    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20356689491057.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Supreme Court in no hurry to hear Trump campaign case, sets response deadline two days after inauguration"
+    excerpt: "The latest Trump campaign appeal to the Supreme Court won't see any action from the justices until after the inauguration. The justices this week set a reply deadline for Pennsylvania Secretary of State Kathy Boockvar and the other respondents named in the case of Jan. 22."
+    publishedDateTime: 2020-12-24T18:13:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5ZVVfp56SBI/supreme-court-trump-campaign-case-no-hurry"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-campaign-case-no-hurry.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-campaign-case-no-hurry.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump Asks Congress to Amend Covid-19 Package, Boost Direct Payments"
-    excerpt: "President Trump tweeted a video criticizing the $900 billion coronavirus relief legislation passed by Congress, calling for lawmakers to increase direct payments to Americans to $2,000 from $600."
-    publishedDateTime: 2020-12-23T00:57:00Z
-    webUrl: "https://www.wsj.com/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
+  - title: "Texas woman on President Trump commuting her remaining term of supervised release from prison"
+    excerpt: "Crystal Munoz, who President Trump commuted the remaining term of supervised release from prison last week, told “Fox & Friends Weekend” on Sunday that she “was definitely over sentenced” for a marijuana offence."
+    publishedDateTime: 2020-12-28T02:41:00Z
+    webUrl: "https://www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years"
+    ampWebUrl: "https://www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
     images:
-      - url: "https://images.wsj.net/im-207060/social"
-        width: 1281
-        height: 670
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Tennessee governor expects Trump to sign emergency declaration request: 'We're very grateful'"
+    excerpt: "After speaking with President Trump Sunday, Tennessee Gov. Bill Lee said it \"appears\" Trump will agree to an emergency declaration request after a Christmas Day bombing destroyed buildings and businesses in downtown Nashville."
+    publishedDateTime: 2020-12-28T18:24:00Z
+    webUrl: "https://www.foxnews.com/politics/tennessee-governor-trump-emergency-declaration-request"
+    ampWebUrl: "https://www.foxnews.com/politics/tennessee-governor-trump-emergency-declaration-request.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tennessee-governor-trump-emergency-declaration-request.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/e19b8d1d-AP20362658350296-e1609170004261.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "OhAKRlxbe5ZW/Nkcb4GLCJaZh7eWIWXjp/g2QaXeo4cITD42YZxFc/qJk3m2hTs2onprOCCQpcv+KptW/DrVCvvFqs5wAAi4VO2FzUXUUXMXBnzsaRj4eqrkkVKJZF7bub+u++Fgq7Sro5Q7cY0uggTtxnuq0ygc4Nn+nLOtROUHQk3lpRwtqRjXjASfxU675001ukB5MIvowtTo50KYy059asjmFZ+QJPlJYECSid32psqmBXB0fgtI2GTKDuKd9QDeIHJzpajEFZAohOdwtQgb5c5jHqFnXfGCEztnYEfYGkCRgs3gvPnls5f2Fj3jnh/fRg92FWeYVKB6p4pi8ZQbqF8FVfM9VZWw9caMVug=;dSi0PCgqpVC+EVWNWRkSLg=="

@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mitch McConnell has pitted himself against Trump during the president's final days in office"
+    excerpt: "The lame duck battle between McConnell and Trump on stimulus checks has baffled Democrats, but they've welcomed the president's support."
+    publishedDateTime: 2020-12-30T22:32:00Z
+    webUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fecf9b1a18a450018cb6543?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump lashes out at GOP after override vote on defense bill"
     excerpt: "President Donald Trump lashed out at congressional Republicans a day after the House easily voted to override his veto of a defense policy bill."
     publishedDateTime: 2020-12-30T19:17:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2020/12/13/trump-threatens-to-veto-defense-spendi
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/amp/"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
     quality: 131
     images:
       - url: "https://images.wsj.net/im-274212/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "High Court Rejects as Premature a Bid to Block Trump Plan to Bar Illegal Immigrants in Redistricting"
+    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
+    publishedDateTime: 2020-12-18T20:25:00Z
+    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 120
+    images:
+      - url: "https://images.wsj.net/im-251063/social"
         width: 1280
         height: 640
         isCached: true

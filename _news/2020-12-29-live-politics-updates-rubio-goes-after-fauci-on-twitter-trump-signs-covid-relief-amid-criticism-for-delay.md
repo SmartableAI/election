@@ -367,6 +367,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Coronavirus updates: Trump blames states, tells them to ‘get moving’ amid delay in vaccinations"
+    excerpt: "Gustave Perna, chief operating officer of Operation Warp Speed, said Wednesday that 14 million vaccine doses have been distributed in the U.S. to date and more than 2 million doses have been administered."
+    publishedDateTime: 2020-12-30T22:39:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-30-2020/t_2f357c715d614abc9bda01408b0e6122_name_539dc5d6_3fff_11eb_b58b_1623f6267960_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "$900B COVID relief bill passed by Congress, sent to Trump"
     excerpt: "Congress passed a $900 billion pandemic relief package that would finally deliver long-sought cash to businesses and individuals and resources to vaccinate a nation confronting a frightening surge in COVID-19 cases and deaths."
     publishedDateTime: 2020-12-22T18:14:00Z
