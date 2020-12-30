@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-30-biden-and-harris-to-campaign-in-georgia-in-final-days-before-senate-run-offs.md",
+      "title": "Biden and Harris to campaign in Georgia in final days before Senate run-offs",
+      "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris are poised to make a final push in Georgia ahead of the state's high stakes Senate run-off elections next week.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7XqGpjacjBo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7XqGpjacjBo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 257,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201204050014-biden-harris-split-1204-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/30/politics/biden-harris-campaign-georgia/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-harris-campaign-georgia/index.html",
+      "publishedDateTime": "2020-12-30T02:30:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-user-clip-joe-biden-calls-kamala-harris-president-elect.md",
       "title": "User Clip: Joe Biden calls Kamala Harris 'president-elect'",
       "excerpt": "President-elect Joe Biden makes a verbal gaffe during remarks in Wilmington, Del.",
@@ -324,7 +381,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 225,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -438,7 +495,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 892,
+      "heat": 872,
       "tags": null,
       "images": [
         {
@@ -1544,54 +1601,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-obama-to-kamala-harris-follow-your-instincts-and-follow-your-values.md",
-      "title": "Obama to Kamala Harris: \"Follow Your Instincts And Follow Your Values\"",
-      "excerpt": "Former President Obama tells 'Washington Post' writer and MSNBC contributor Jonathan Capehart his advice for Vice President-elect Kamala Harris is the same he offered to President-elect Joe Biden: \"When you go to bed at night be confident that you're doing everything you can to try to unify the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/11/20/obama_to_kamala_harris_follow_your_instincts_and_follow_your_values.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/11/20/obama_to_kamala_harris_follow_your_instincts_and_follow_your_values.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/527628.jpg",
-          "width": 1192,
-          "height": 894,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-20T06:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

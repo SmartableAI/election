@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/27/trump-voter-fraud-la
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/27/trump-voter-fraud-lawsuit-rejected-pennsylvania-court"
 type: article
 quality: 140
-heat: 1080
+heat: 1100
 published: true
 
 provider:
@@ -730,6 +730,20 @@ related:
       - url: "https://i.insider.com/5fc48f9f50e71a0011557e18?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "GOP seeks to roll back mail-in voting in states like Georgia and Pennsylvania that Trump lost"
+    excerpt: "Americans cast 101 million mail-in ballots in the 2020 election, accounting for 63% of the vote, with Biden leading in mail-in voting by 2 to 1."
+    publishedDateTime: 2020-12-30T10:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/30/gop-seeks-roll-back-mail-voting-states-trump-lost-2020/3958391001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 94
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/f13dc297-7c60-4ff3-8b4a-82540b8a0f43-AP_APTOPIX_Election_2020_Pennsylvania_Voting.jpg?crop=5999,3375,x0,y305&width=3200&height=1680&fit=bounds"
+        width: 2986
+        height: 1680
         isCached: true
   - title: "Appeals Court Rejects Trump Challenge of Pennsylvania Race"
     excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results in a case expected to reach the U.S. Supreme Court if Trump appeals."

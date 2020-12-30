@@ -32,85 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "Georgia Republicans stick with Trump and support increased direct payments"
-    excerpt: "Republican Sens. David Perdue and Kelly Loeffler both announced Tuesday that they support an effort to amend the recently passed omnibus spending bill to increase direct payments for Americans under a certain income level from $600 to $2,000.\n    \n"
-    publishedDateTime: 2020-12-29T17:03:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UggjTfRrxss/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senators-support-2000-checks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senators-support-2000-checks/index.html"
+  - title: "Here's how Mitch McConnell is planning to kill Trump's $2,000 checks"
+    excerpt: "Less than 48 hours after President Donald Trump claimed that \"the Senate will start the process for a vote that increases checks to $2,000, repeals Section 230, and starts an investigation into voter fraud,\" the actual boss of the Senate had his say.\n    \n"
+    publishedDateTime: 2020-12-30T00:48:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4U1Pttbp4fo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/mcconnell-trump-senate-covid-stimulus-checks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/mcconnell-trump-senate-covid-stimulus-checks/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130174736-kelly-loeffler-david-perdue-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208224009-mitch-mcconnell-ctn-open-1208-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump antagonizes Republicans with Georgia fundraising ploy"
-    excerpt: "Emails and texts raising cash for Trump's PAC have rankled Republicans, who want cash to flow directly to Georgia's endangered GOP senators."
-    publishedDateTime: 2020-12-15T01:25:00Z
-    webUrl: "https://www.politico.com/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
+  - title: "Trump's demands run into McConnell's maneuvers"
+    excerpt: "In the weirdest of twists at the end of his presidency, President Donald Trump is now in league with Nancy Pelosi, Chuck Schumer and Bernie Sanders over $2,000 Covid-19 relief checks, doing battle with Republican leaders over Pentagon policy and warning the political party he overtook and remade in his"
+    publishedDateTime: 2020-12-30T05:00:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_OY6qMSlvqo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/trump-republicans-choice/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/trump-republicans-choice/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://static.politico.com/da/1f/59b5d43848958d4f1d12f634434c/gettyimages-1230110704-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216122059-03-mcconnell-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "George Clooney on ‘The Midnight Sky’ and Donald Trump"
-    excerpt: "His new movie is on Netflix, but the actor-director says theaters won’t go away and Hollywood will be fine. He’s not so sure about Washington."
-    publishedDateTime: 2020-12-23T18:42:00Z
-    webUrl: "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html"
+  - title: "Wall Street hits record levels after Trump signs fiscal aid bill"
+    excerpt: "\"The passage of the stimulus bill is erasing some fears, and investors are relieved that there is help out there,\" said one economist."
+    publishedDateTime: 2020-12-28T19:26:00Z
+    webUrl: "https://www.nbcnews.com/business/markets/wall-street-hits-record-levels-after-trump-signs-fiscal-aid-n1252438"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252438"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252438"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/12/24/arts/23george-clooney2/23george-clooney2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Georgia returns to spotlight after Trump ends coronavirus standoff"
-    excerpt: "The president will hold a rally for the state’s Republican senators one day before the Jan. 5 runoff elections."
-    publishedDateTime: 2020-12-28T15:53:00Z
-    webUrl: "https://www.politico.com/news/2020/12/28/georgia-senate-runoff-back-in-spotlight-451418"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/28/georgia-senate-runoff-back-in-spotlight-451418"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/28/georgia-senate-runoff-back-in-spotlight-451418"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/c2/b1/45795baf42ecbac2e1a9157a60f1/201228-kelly-loeffler-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Loeffler, Perdue side with Trump on $2,000 stimulus payments"
-    excerpt: "The Georgia senators, in close runoff races, wouldn’t say whether they’d vote to override the president’s veto of the defense bill."
-    publishedDateTime: 2020-12-30T00:08:00Z
-    webUrl: "https://www.politico.com/news/2020/12/29/loeffler-trump-stimulus-payments-451860"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/29/loeffler-trump-stimulus-payments-451860"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/29/loeffler-trump-stimulus-payments-451860"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/55/3b/4bdd329d492b8912eb8cb39d61c8/gettyimages-1230123259-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438387/201228-new-york-stock-exchange-jm-1356_9ab6522bdf53895963efa350fdd587e2.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "n//zmn/mkEWfWV6rhFrvF9Z8jnsQgVHDquPR6irVtWuYgLymo+dvkbJ4GABzcNti4AHFW2uaH6PUnm5bXbvF2x7BzipV8BP0Pa8Ya0ZbUPt/+2RBDEQPI1z9FNGNV9HGR8CWE+LQp6MPYGsZmavR8QHGLjfAP9tUS0RHNCmfySUhhT3K5K/Ai7a6lyGC6ekI3jYg3ZpJDD/CpkLCmAGre7GLNXdhrVcIoVECVAPwZVT1DNBnPPtJGgDkFUi/KGeojeX6p8rtSS/Dd4Ks/CohmUodPxPxHDq5SOeNbrDbTyE3+AoWPTz5btr5kJ+hZmQ7VWzT0/Z1viQ9AJNE5xBHWe0M0u7o0iYV9gPUxWz7PZsl6A2IBHHvbc6TCSODidGVsc3EZv4+o2ZCcs6/ZZh3wZIhftgDv+gTqwXDBCZoJOulPEO0WyonoitdBVY2lCeJtmrNfNNIOpChIPmMKiQXzW8SJ7vebtahr7RQ1Hwegk5M21RR4k7sNbXGGbR9/9Oe90gPimsWLmR+65vwtV2VYQ==;hcIaEbUWYOoJfDsfIyeTag=="

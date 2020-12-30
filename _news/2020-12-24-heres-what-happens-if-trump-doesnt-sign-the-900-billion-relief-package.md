@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/covid-relief-bill-progra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/covid-relief-bill-programs-expiring/index.html"
 type: article
 quality: 174
-heat: 334
+heat: 314
 published: true
 
 provider:
@@ -110,22 +110,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/25/us/politics/25dc-stimulus-signed-hfo/25dc-stimulus-signed-hfo-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Wall Street hits record levels after Trump signs fiscal aid bill"
-    excerpt: "\"The passage of the stimulus bill is erasing some fears, and investors are relieved that there is help out there,\" said one economist."
-    publishedDateTime: 2020-12-28T19:26:00Z
-    webUrl: "https://www.nbcnews.com/business/markets/wall-street-hits-record-levels-after-trump-signs-fiscal-aid-n1252438"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252438"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252438"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438387/201228-new-york-stock-exchange-jm-1356_9ab6522bdf53895963efa350fdd587e2.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Trump opens up federal dollars for private school vouchers amid pandemic"
     excerpt: "The White House said that the order would give states new flexibility in how they use federal block grant programs that provide money for a wide range of community services."

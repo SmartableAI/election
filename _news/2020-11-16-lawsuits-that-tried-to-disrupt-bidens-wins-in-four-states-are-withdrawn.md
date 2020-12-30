@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Joe Biden is betting his presidency on this"
-    excerpt: "At the root of President-elect Joe Biden's 2020 campaign -- and the statements he has made since winning the White House -- is this idea: Republicans are more open to compromise than they have demonstrated over these past four years.\n    \n"
-    publishedDateTime: 2020-12-28T23:30:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VcMFSY7wCLE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/joe-biden-gop-normalcy-politics/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/joe-biden-gop-normalcy-politics/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223105619-01-joe-biden-1222-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Bernie Sanders seeks support from allies in push to lead Biden's Labor Department"
     excerpt: "Sen. Bernie Sanders is seeking the support of top labor leaders as he ramps up a campaign for the Labor secretary post in President-elect Joe Biden's administration.\n    \n"
     publishedDateTime: 2020-11-11T02:08:06Z

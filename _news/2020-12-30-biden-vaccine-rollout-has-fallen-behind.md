@@ -3,8 +3,8 @@ category: news
 title: "Biden: Vaccine rollout has ‘fallen behind’"
 excerpt: "Vaccine rollout has ‘fallen behind’ Posted . President-elect Joe Biden on Tuesday criticized the Trump Administration’s vaccine rollout, saying it has fallen"
 publishedDateTime: 2020-12-30T01:54:00Z
-originalUrl: "https://www.reuters.com/video/watch/biden-vaccine-rollout-has-fallen-behind-id723564702?chan=6g5ka85"
-webUrl: "https://www.reuters.com/video/watch/biden-vaccine-rollout-has-fallen-behind-id723564702?chan=6g5ka85"
+originalUrl: "https://www.reuters.com/video/watch/idOVDB2FLJZ"
+webUrl: "https://www.reuters.com/video/watch/idOVDB2FLJZ"
 type: article
 quality: 105
 heat: -1
@@ -138,6 +138,6 @@ related:
         height: 700
         isCached: true
 
-secured: "ZRDpyxl6zqnpv68OU7GozGgeHML/zXqXb9TWHcvMDLdwRT2TdoDh7zSc1bgBYTIKgGV8M2EheLtbrFjTL2aqN9f+k1OLqnDiRs5HPYDBXH86GaOeMeMaaUoj5sgwibd8TTeI282oopeFlFffJGg/tgGq8qLeQxuvivMR7jENokKdVc8NkxFre6AIpU5PH15kV8yyN9TjTVUVDq4vBkIRg82JJrTyozbQD1ebjS6WEOy5v95yivzuz+q64zkNqSU2DnI5fCUZ3YhoHsZb/GWyLL2PSL2lvG+AxQIWJTdAm2YUldwRJj6W9QVSiAp1FU/uPhD8540YTMBARh1IIo+wmIdJEpFUwO33cgn3hMvKZ1I=;oaW1JOqnUkJPWeDhKlAiLg=="
+secured: "bOzQ/bK7dJJygD9msfhLcPt2A5MyE+h26aVczjUuIfrXRzIhFDyH5xVjPTx52MGrhdHOqnrdgAQKdevYnMCET7eCG+M+IQDnTSh3riem7j4Kf4sbJ14QYaJzM8bUJeYMPlkjW1mgCRGlFh9YOfuOe94iMVGb1OH+rzQFEAwutlP4yBvVyv24C1vGD9Nj3Y6GshCDIS79FJK9JzANMzra++V/KfFayiAibMylNu6hcUc983O1t9z/GEYfdPAQotGYX5360t4/l52JOIpABm3vt9uOq9iI9X+byBd3J3QB2AsDe+a6L+iD6ylHs89tadi3KnkEbdhLeRP4dvQ6rmQwu+9UQyksYab2S+qp0QQ1UaQ=;5IK85nif75laxXXlhQloAw=="
 ---
 

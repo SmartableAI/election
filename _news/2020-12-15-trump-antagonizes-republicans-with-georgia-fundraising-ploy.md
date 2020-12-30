@@ -96,22 +96,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump put Senate Republicans in a real jam. But McConnell might have a way out."
-    excerpt: "Trump put Senate Republicans in a real jam. But McConnell hints at a way out. WASHINGTON — Donald Trump is leaving office the same way he spent much of his presidency: by putting his party leaders in a vice between their ideological instincts and personal loyalty to him."
-    publishedDateTime: 2020-12-30T04:29:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-put-senate-republicans-real-jam-mcconnell-hints-way-out-n1252485"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252485"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252485"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_53/3438567/201229-donald-trump-1401_f626b008bb93154f6fd1f57f6610b06c.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
 
 secured: "rQb6nlUBARWWQDJiOJGs4bVtu4F6zhkNz8WVb4YIfoT9A5eMx7Snn6nHYtcdFqTMboMrqfSv1wSo1djAiTvtNKXGZsMryqG74lvyj9wrCOenLIrETbJ9hvqSNPShKDZOrCI45Iz5YSSS3KvFXp+aFArs9ibhh5apKnrXiA4dtJFWOh+kaqn2SM8jpvEJ/rCuDQV5QGtUMxMNvQe6+NuJDPv6hjeX7S28LM6gbO/cREXe6LNz5OVR+YrCC+6GoUR5NKasBvZXAdw/Ti25UjB2T4hy1Jv+vMLAfUvUddHtGzsQXpefHjHszqMMG2zwgh4tJQDKXsJMPnWZ+7v/aE0jY7iIw/QxSOaQex7IJKCap0A=;Vbg9xsEVTpDq22TE3kyJ1g=="
 ---

@@ -2,27 +2,23 @@
 category: news
 title: "The ways Donald Trump and Republicans have tried to overturn Joe Biden's 2020 win"
 excerpt: "Rep. Louie Gohmert's lawsuit is the latest in a series of attempts by Trump's allies to overturn the results of the 2020 general election."
-publishedDateTime: 2020-12-29T10:09:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2020/12/29/how-trump-and-republicans-have-tried-overturn-2020-election/4064558001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2020/12/29/how-trump-and-republicans-have-tried-overturn-2020-election/4064558001/"
-ampWebUrl: "https://amp.usatoday.com/amp/4064558001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4064558001"
+publishedDateTime: 2020-12-29T12:27:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/2020/12/29/how-trump-and-republicans-have-tried-overturn-2020-election/4064558001/"
+webUrl: "https://www.azcentral.com/story/news/politics/2020/12/29/how-trump-and-republicans-have-tried-overturn-2020-election/4064558001/"
+ampWebUrl: "https://amp.azcentral.com/amp/4064558001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4064558001"
 type: article
-quality: 135
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/f5e585fb-71ca-4949-bb65-85ceecf55c4e-AP_Virus_Outbreak_Trump_Congress.jpg?auto=webp&crop=2101,1182,x0,y107&format=pjpg&width=1200"
@@ -8208,6 +8204,6 @@ related:
       domain: indystar.com
     quality: 43
 
-secured: "+z9om91ePb9xd4c+58Lc8fAA/a9URNSPI8sFlUmRyAtyUaIT3fra0zp//0tXw0ggBVom8sSpn81tu/hIeoEL//kDFGq/cvfL/J2RyO5PDFbnB8PnlS+Y7uKwB0v/o8WPh/xz8L2e/2xiKC2JLskXRc6zYyEMnhNOGgtHUYNw3DDX65H9gbcB1VPMNTe2kYflYflo6iZWChm44YF7SI6YMCqf/Vx9v5vAFoT5eUX/YARhy+fUUB/e4cwxgIAR52YMnCylNkhDi8IHxBEssTeq+G8NZs9jiHE+brGategMZSOJXxLSsiQDX9lyt+U85IwQtylJ1Vx8iYydDbuPHvpQJ4fFpSqZ6+0fhlN88QDdBeF2ykSw1vztjr1Wh2ZQJ4c5sflfE1Mv5r+WRU8E5bTQ8TRBZN+8ul9/psA/HcwKhISuo2Tr4Op4tyVbFSuSaqEl0AaYlcjgC+GjkKgE+ZR6haWWRQWUDgHsvwFngCCmjjmGrYep83eMmnS6thJ6smEyEwx+V2kq8uGo9YrpMGAZdg==;J8XXd0ZOC65z+TTizmA7pw=="
+secured: "bGquDGk/NtFCRlH4GGWxCsW74UdbMssU6VENx/LZHSs0zCaAMETN0uwCHd4vkxseuEV4ENNIpNf/HUtzYU0dOpxcUGlEsQCYU1sPouYWQRu92ZUmnZxsFHTGv0lb0ezm0NURLXiz5+yPPpLOUvoLA1uw+iGVx1dBd/qskxN3gx47waqyaVgi5JOzmMd2zash4p2CoPb/w6SrmFiqEcbVS4V9vH8k60g4Eizczzk2k4A0y6X3FFfHlCaisoJ/T5CEH/xC6S7ATqg/D8g1+7zM3heHkdtBh50tVYd4KTDo4stkaNdy948mYXBTuJFlZi0qEKBH6DQRW6p77yHIJtSgBzOxUxkdrTSZi1kCPZtwFIE=;SS3aTz4ugELX5QXdfFMjkQ=="
 ---
 

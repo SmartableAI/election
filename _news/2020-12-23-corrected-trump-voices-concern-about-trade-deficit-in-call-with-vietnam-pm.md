@@ -25,70 +25,76 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Trump's final trade jab may be tariffs on Vietnamese goods - experts"
-    excerpt: "President Donald Trump is likely to unveil proposed tariffs on Vietnamese goods before he leaves office in January, currency and trade experts say, after the U.S. Treasury branded the growing U.S. trade partner a \"currency manipulator\" last week."
-    publishedDateTime: 2020-12-21T11:28:00Z
-    webUrl: "https://www.reuters.com/article/usa-trade-vietnam-analysis-idUSKBN28V18F"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V18F"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V18F"
+  - title: "US election: Pro-Trump rallies see scuffles in US cities"
+    excerpt: "Thousands of Donald Trump supporters alleging electoral fraud converged on several US cities and towns on Saturday and there were isolated scuffles with counter-demonstrators. In Washington DC, more than 20 people were arrested and four people were stabbed,"
+    publishedDateTime: 2020-12-30T10:28:00Z
+    webUrl: "https://www.bbc.com/news/election-us-2020-55292610"
+    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55292610"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55292610"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1323A/production/_116049387_gettyimages-1290928785.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Trump veto threat raises the prospect of year-end government shutdown"
+    excerpt: "Washington on Wednesday faced the prospect of a year-end U.S. government shutdown during a raging pandemic after outgoing President Donald Trump threatened not to sign a $2.3 trillion package funding the government for another year."
+    publishedDateTime: 2020-12-23T20:03:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump/trump-veto-threat-raises-the-prospect-of-year-end-government-shutdown-idUSKBN28X1UD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X1UD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X1UD"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545288910&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK0NB"
-        width: 817
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545570453&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM10K"
+        width: 738
         height: 545
         isCached: true
-  - title: "Trump Signs Virus Relief Bill, China Trade, Japan Tax: Eco Day"
-    excerpt: "Here’s the latest news and analysis from Economics to help you start the day: President Donald Trump backed away from a crisis of his own making by signing a pandemic relief bill Take a look at our latest high-frequency dashboard to see how the U."
-    publishedDateTime: 2020-12-28T11:57:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-28/trump-signs-virus-relief-bill-china-trade-japan-tax-eco-day"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-28/trump-signs-virus-relief-bill-china-trade-japan-tax-eco-day"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-28/trump-signs-virus-relief-bill-china-trade-japan-tax-eco-day"
+  - title: "N.Y. prosecutor hires forensic accounting experts as Trump criminal probe escalates"
+    excerpt: "Manhattan District Attorney Cyrus Vance has retained FTI Consulting as prosecutors scrutinize Trump’s business activities and real estate deals."
+    publishedDateTime: 2020-12-29T22:06:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html?outputType=amp"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 125
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAJEuazcgWY0/v0/360x-1.jpg"
-        width: 360
-        height: 270
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TPZNH4SIOUI6XA42Z5F2PN6ERQ.jpg&w=1440"
+        width: 1440
+        height: 880
         isCached: true
-  - title: "US greenhouse gas emissions drop under Trump, but climate experts aren’t celebrating"
-    excerpt: "As Donald Trump prepares to leave office, U.S. greenhouse gas emissions are plunging to levels not seen in decades. But experts say it isn’t happening fast enough."
-    publishedDateTime: 2020-12-22T11:14:00Z
-    webUrl: "https://abcnews.go.com/Politics/us-greenhouse-gas-emissions-drop-trump-climate-experts/story?id=74848440"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/us-greenhouse-gas-emissions-drop-trump-climate-experts/story?id=74848440"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/us-greenhouse-gas-emissions-drop-trump-climate-experts/story?id=74848440"
+  - title: "Trump veto threat raises the prospect of year-end government shutdown"
+    excerpt: "Washington on Wednesday faced the prospect of a year-end U.S. government shutdown during a raging pandemic after outgoing President Donald Trump threatened not to sign a $2.3 trillion package funding the government for another year."
+    publishedDateTime: 2020-12-23T15:10:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-idUSL1N2J314S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J314S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J314S"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 118
-    images:
-      - url: "https://s.abcnews.com/images/Politics/global_carbon_emissions-01-ap-iwb-201221_1608581335568_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "The US declares Switzerland and Vietnam as currency manipulators in the final days of Trump's administration"
-    excerpt: "Joe Biden's incoming administration, according to a chief emerging markets strategist."
-    publishedDateTime: 2020-12-17T21:21:00Z
-    webUrl: "https://www.businessinsider.com/us-calls-switzerland-vietnam-manipulators-in-trump-trade-shot-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/us-calls-switzerland-vietnam-manipulators-in-trump-trade-shot-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-calls-switzerland-vietnam-manipulators-in-trump-trade-shot-2020-12?amp"
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "New Round of Trump Clemency Benefits Manafort, Other Allies"
+    excerpt: "President Donald Trump pardoned more than two dozen people Wednesday, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law."
+    publishedDateTime: 2020-12-26T17:24:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies?context=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
-    images:
-      - url: "https://i.insider.com/5fdb492dc910a400192e8017?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "umzdYj+j7lm4LamSpn4KZ7fNpOu+b2yzpZXnpaao4TtcYgy9E3+iqrKVbrcMsmn9C0Rp3tHt8AgIdDlSyP0JCKn4UQrVrwm+xn+i916wQBwb15X5N1o+OS1wlIgPAwZ97EwVxvOs7aT6eYu+K7Bpvd2YCYYrsBNFhwSAo3XMf0dFbZ+WMnChlhpwweygngD+4t+jHB52swHmQEkX5DNAKL2Z5sxK2HiwZ70SQDa/YEpVTvhbIwWT13IOodzCsK9E2OI26qLontAdqInsH4AzT2wJD/p0yUp5uacvb1h0yD3FEk/Gtd8b7uPwgmsmSd6ziIm8Af5fXXIs+EXTeY71f+u082pjPQl2G1fEltI4W2U=;ZTnl6PL4qVqp65QXCyrRHA=="
 ---

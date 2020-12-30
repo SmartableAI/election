@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Joe Biden is betting his presidency on this"
-    excerpt: "At the root of President-elect Joe Biden's 2020 campaign -- and the statements he has made since winning the White House -- is this idea: Republicans are more open to compromise than they have demonstrated over these past four years.\n    \n"
-    publishedDateTime: 2020-12-28T23:30:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VcMFSY7wCLE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/joe-biden-gop-normalcy-politics/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/joe-biden-gop-normalcy-politics/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223105619-01-joe-biden-1222-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Lawsuits that tried to disrupt Biden's wins in four states are withdrawn"
     excerpt: "Voters in four states who had brought longshot lawsuits to disrupt President-elect Joe Biden's win and went nowhere in court have dropped their cases Monday morning.\n    \n"
     publishedDateTime: 2020-11-16T16:43:41Z

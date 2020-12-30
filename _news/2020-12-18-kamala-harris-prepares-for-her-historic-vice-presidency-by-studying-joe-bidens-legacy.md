@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/kamala-harris-prepares-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/kamala-harris-prepares-biden-legacy/index.html"
 type: article
 quality: 192
-heat: 892
+heat: 872
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
     quality: 186
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221160137-01-barr-presser-pan-am-1221-grab-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Congress will have 0 Black women senators after Kamala Harris becomes VP"
-    excerpt: "Sen. Kamala Harris broke barriers as America's first female, first Black and first South Asian vice president-elect. But after her exit in January to join the Biden administration, there will be no Black women in the Senate.\n    \n"
-    publishedDateTime: 2020-12-23T19:35:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pi8x4KeNUHU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/black-women-senators-harris-trnd/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/black-women-senators-harris-trnd/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 184
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015095117-01-kamala-harris-lead-image-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

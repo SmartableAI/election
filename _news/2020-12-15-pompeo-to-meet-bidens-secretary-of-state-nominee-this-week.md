@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Congress will have 0 Black women senators after Kamala Harris becomes VP"
-    excerpt: "Sen. Kamala Harris broke barriers as America's first female, first Black and first South Asian vice president-elect. But after her exit in January to join the Biden administration, there will be no Black women in the Senate.\n    \n"
-    publishedDateTime: 2020-12-23T19:35:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pi8x4KeNUHU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/black-women-senators-harris-trnd/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/black-women-senators-harris-trnd/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 184
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015095117-01-kamala-harris-lead-image-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to tap New Mexico Rep. Deb Haaland as interior secretary"
     excerpt: "President-elect Joe Biden has selected New Mexico Rep. Deb Haaland to serve as interior secretary, three people familiar with the matter tell CNN, marking another historic choice by nominating the first Native American to lead the department.\n    \n"
     publishedDateTime: 2020-12-17T20:51:56Z

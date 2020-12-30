@@ -31,22 +31,71 @@ images:
     isCached: true
 
 related:
-  - title: "Prosecutors have \"mounting amount of evidence\" against Trump, Michael Cohen says"
-    excerpt: "\"What he is right now is very, very nervous and he is very scared,\" the president's former personal attorney told CBSN."
-    publishedDateTime: 2020-12-24T18:44:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-michael-cohen-prosecutors-evidence/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-michael-cohen-prosecutors-evidence/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-michael-cohen-prosecutors-evidence/"
+  - title: "US election: Pro-Trump rallies see scuffles in US cities"
+    excerpt: "Thousands of Donald Trump supporters alleging electoral fraud converged on several US cities and towns on Saturday and there were isolated scuffles with counter-demonstrators. In Washington DC, more than 20 people were arrested and four people were stabbed,"
+    publishedDateTime: 2020-12-30T10:28:00Z
+    webUrl: "https://www.bbc.com/news/election-us-2020-55292610"
+    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55292610"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55292610"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
+      name: BBC
+      domain: bbc.com
+    quality: 140
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/24/914512ec-439b-42dd-a227-685aaa671d68/thumbnail/1200x630/081f1dacbf03b1eaddf486ed306c8c8b/cbsn-fusion-michael-cohen-trump-lawyer-on-pardons-thumbnail-615721-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1323A/production/_116049387_gettyimages-1290928785.jpg"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "Trump veto threat raises the prospect of year-end government shutdown"
+    excerpt: "Washington on Wednesday faced the prospect of a year-end U.S. government shutdown during a raging pandemic after outgoing President Donald Trump threatened not to sign a $2.3 trillion package funding the government for another year."
+    publishedDateTime: 2020-12-23T20:03:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump/trump-veto-threat-raises-the-prospect-of-year-end-government-shutdown-idUSKBN28X1UD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X1UD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X1UD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545570453&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM10K"
+        width: 738
+        height: 545
+        isCached: true
+  - title: "Trump veto threat raises the prospect of year-end government shutdown"
+    excerpt: "Washington on Wednesday faced the prospect of a year-end U.S. government shutdown during a raging pandemic after outgoing President Donald Trump threatened not to sign a $2.3 trillion package funding the government for another year."
+    publishedDateTime: 2020-12-23T15:10:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-idUSL1N2J314S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J314S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J314S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "CORRECTED-Trump voices concern about trade deficit in call with Vietnam PM"
+    excerpt: "U.S. President Donald Trump raised concern about his country's trade deficit with Vietnam in a phone call on Tuesday with its Prime Minister Nguyen Xuan Phuc, the White House said."
+    publishedDateTime: 2020-12-23T10:03:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-vietnam-idUSL1N2J30A1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J30A1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J30A1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+  - title: "New Round of Trump Clemency Benefits Manafort, Other Allies"
+    excerpt: "President Donald Trump pardoned more than two dozen people Wednesday, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law."
+    publishedDateTime: 2020-12-26T17:24:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "XOpsznf5YCzCIcrEK219VGuN4E6C7DnD3ioGyDg+qJHLjMxoyNchR1ys+huWydiwkBW8rWa3p7rEL5dvwEMP+NhtIK2bm/Rzac1FdqTMu2XMjRWV1SoGLYhYNGCQBNr2n58pGPBH64PZTkxxGfByEgBHGUeBtb6BZPpvnJHklCOyYQzsPTYP6AFWSz/dC4nL0IYHC3MAa9cSx6iaMIW0AC5U5gIfsMMil2Nz7jPfQmQyDw84V/qgajhm4FljOKlzdMPEWsIN+7R7bhIJx+tjwRMxFVr1s6cvuufXkvPIzOKhh+4kwfmBKOAya0MOh/16RrBGO+VWI2N6YKgKRorxchRwNUB53do314EJWYR3EnEppVYn1jNwCTAcxxx/9WqVeecWi+UScFV5rrRPu8pQl7ssv3jeIHkxqNu+ySdkS0DfqTMyITE6GFs1m5WGNLoTiVhU+JvAE9Ip0fr5dFts7iat92uLs8hRd3M64kg9ax5x6nc2cLP18VF4zkeaycFyQHzLkv9W0G+Z5bzD/uK/GQ==;5r2VFl2tSvByUGqQdhaJDQ=="
 ---

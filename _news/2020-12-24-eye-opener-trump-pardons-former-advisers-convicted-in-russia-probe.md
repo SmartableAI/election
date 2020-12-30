@@ -61,22 +61,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump veto threat raises the prospect of year-end government shutdown"
-    excerpt: "Washington on Wednesday faced the prospect of a year-end U.S. government shutdown during a raging pandemic after outgoing President Donald Trump threatened not to sign a $2.3 trillion package funding the government for another year."
-    publishedDateTime: 2020-12-23T20:03:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump/trump-veto-threat-raises-the-prospect-of-year-end-government-shutdown-idUSKBN28X1UD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X1UD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X1UD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545570453&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM10K"
-        width: 738
-        height: 545
-        isCached: true
   - title: "Trump finds himself isolated in refusal to blame Russia for big cyberattack"
     excerpt: "President Trump’s dismissive characterization of a massive cyberattack targeting multiple U.S. agencies drew pushback Sunday from lawmakers, cybersecurity experts and the incoming Biden administration amid growing questions over the president’s refusal to acknowledge that Russia was likely behind the intrusions."
     publishedDateTime: 2020-12-21T02:04:00Z
@@ -123,17 +107,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump veto threat raises the prospect of year-end government shutdown"
-    excerpt: "Washington on Wednesday faced the prospect of a year-end U.S. government shutdown during a raging pandemic after outgoing President Donald Trump threatened not to sign a $2.3 trillion package funding the government for another year."
-    publishedDateTime: 2020-12-23T15:10:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-idUSL1N2J314S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J314S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J314S"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "Secretary of state says Russia ‘pretty clearly’ behind major cyberattack on US government, industry; Trump silent"
     excerpt: "Mike Pompeo says Russia was “pretty clearly” behind the gravest cyberattack against the United States on record."
     publishedDateTime: 2020-12-19T16:53:00Z

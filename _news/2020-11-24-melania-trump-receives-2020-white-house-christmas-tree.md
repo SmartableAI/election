@@ -731,6 +731,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "GOP seeks to roll back mail-in voting in states like Georgia and Pennsylvania that Trump lost"
+    excerpt: "Americans cast 101 million mail-in ballots in the 2020 election, accounting for 63% of the vote, with Biden leading in mail-in voting by 2 to 1."
+    publishedDateTime: 2020-12-30T10:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/30/gop-seeks-roll-back-mail-voting-states-trump-lost-2020/3958391001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 94
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/f13dc297-7c60-4ff3-8b4a-82540b8a0f43-AP_APTOPIX_Election_2020_Pennsylvania_Voting.jpg?crop=5999,3375,x0,y305&width=3200&height=1680&fit=bounds"
+        width: 2986
+        height: 1680
+        isCached: true
   - title: "Appeals Court Rejects Trump Challenge of Pennsylvania Race"
     excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results in a case expected to reach the U.S. Supreme Court if Trump appeals."
     publishedDateTime: 2020-11-28T02:18:00Z

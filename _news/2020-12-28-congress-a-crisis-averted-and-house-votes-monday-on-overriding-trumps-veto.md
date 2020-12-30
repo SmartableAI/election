@@ -373,6 +373,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "How Congress and coronavirus could quash Trump's Electoral College gambit"
+    excerpt: "Leadership has a potent arsenal to combat efforts to turn the electoral vote counting session on Jan. 6 into a spectacle — if they deploy it."
+    publishedDateTime: 2020-12-30T09:33:00Z
+    webUrl: "https://www.politico.com/news/2020/12/30/electoral-college-biden-trump-452081"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 114
+    images:
+      - url: "https://static.politico.com/30/2b/c8c343124e928702b15201fd09eb/201229-capitol-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "q1exGE4hPv4I4Cn/U6gXUYq2WIXsgTfgnHu6kkf7w+S7XdpcdfN1hcCagHdETEJCojN7panNf3QD6viopbEhuEu00v0moHGsSpjjKUNbOMDnPg5IiD6G4eI6bRRkd9BJC9srMvr5i7f+iRaYxP3QrgomxWK870H/vd/Kpp2cViCd5zg03fAcmUyC+n35eFM7A9YjUPYChgk06GZmWR8JrOjRwIUBVx9F2ovCBiqpidAMgvXWdGp9H3hUHxqDwAZhGQw0EFoeBh94s0jyBvTAFaxqn+WiaMgUa1gRkJfuMN3A7LW5yMoQQo8bMDWD4CrCkNI1idsHQXpUEE88exO9N/+kflFCCW4nbIz0T+4CnIY=;5/127nLssDNGbx5k8eHRDQ=="
 ---
