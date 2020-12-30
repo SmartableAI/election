@@ -80,22 +80,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Gohmert's Pence lawsuit seeks to declare Electoral Counting Act unconstitutional in bid to overturn Biden win"
-    excerpt: "Rep. Louie Gohmert, R-Texas, is making a last-ditch effort to change the result of the 2020 presidential election by suing Vice President Mike Pence with the aim of having him declare President Trump the victor when he announces the winner of the electoral college vote on Jan."
-    publishedDateTime: 2020-12-29T14:36:00Z
-    webUrl: "https://www.foxnews.com/politics/gohmert-sues-pence-overturn-biden-win"
-    ampWebUrl: "https://www.foxnews.com/politics/gohmert-sues-pence-overturn-biden-win.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gohmert-sues-pence-overturn-biden-win.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f8daa921-8009-4260-80a6-e2bd33f611bc/bc19624d-2c91-4762-8a1b-d09bc9c7f7ac/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Tevi Troy's 'Fight House' Holds Valuable Lessons for a Biden Administration"
     excerpt: "President Donald Trump and President-elect Joe Biden are quite different from each other. It is obvious in their personalities and in their policy"
     publishedDateTime: 2020-12-25T00:00:00Z

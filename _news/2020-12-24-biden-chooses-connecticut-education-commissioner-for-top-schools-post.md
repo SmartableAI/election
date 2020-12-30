@@ -7,8 +7,8 @@ originalUrl: "https://www.politico.com/news/2020/12/22/biden-connecticut-schools
 webUrl: "https://www.politico.com/news/2020/12/22/biden-connecticut-schools-chief-education-secretary-449808"
 type: article
 quality: 115
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: Politico
@@ -28,6 +28,70 @@ images:
     width: 7360
     height: 4904
     isCached: true
+
+related:
+  - title: "A congressional waiver is the biggest hurdle for Biden's defense pick"
+    excerpt: "The biggest obstacle to retired Army Gen. Lloyd Austin's nomination for secretary of defense is his retirement date from the military just four years ago -- too recent under American law and for the tastes of several members of Congress.\n    \n"
+    publishedDateTime: 2020-12-30T14:46:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ho78h0hm9xw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-lloyd-austin-waiver/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-lloyd-austin-waiver/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209141022-02-lloyd-austin-secretary-of-defense-announcement-1209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Leading a divided country: Joe Biden's approach to unity"
+    excerpt: "Over years of interviews, President-elect Joe Biden explains his views on how to work with Republicans and Democrats during a time of divided government."
+    publishedDateTime: 2020-12-27T13:07:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/leading-a-divided-country-joe-biden-s-approach-to-unity-98438725756"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98438725756"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98438725756"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenkindofprez_2012270.jpg"
+        width: 1920
+        height: 1090
+        isCached: true
+  - title: "Russia, Afghanistan, Iraq: Joe Biden's foreign policy answers, through the years"
+    excerpt: "As a senator and vice president, Joe Biden spent his career developing relationships with foreign leaders. Meet the Press looks back at his answers to foreign policy questions over his decades-long career."
+    publishedDateTime: 2020-12-29T01:27:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/russia-afghanistan-iraq-joe-biden-s-foreign-policy-answers-through-the-years-98421829808"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98421829808"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98421829808"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenforeign_20122700__107131.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Transition 2020: Biden allies push back on sweeping plan to promote fair housing"
+    excerpt: "Donald Trump scrapped an Obama-era rule on housing. Some local officials hope Joe Biden doesn’t simply restore it as is."
+    publishedDateTime: 2020-12-24T22:44:00Z
+    webUrl: "https://www.politico.com/states/new-york/albany/story/2020/12/24/transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing-1351109"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 110
+    images:
+      - url: "https://static.politico.com/7f/7a/b541c1b94503bd85ea99a82800e1/ap18057784915598-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "4sb/En+3NdI9jpSYAtjSxN4e3v87wvlH8VrVDM9V0XBRTCV5S+RCcNblWsjm/jNU8ermcf+QcNsu9J1kS+lEPVh4KoOo7mXlULdXIrHaCoF1v3red3te9wGaZOt5s5u74l6giQE6qKu0GcPsxE0mI5PkbVUcnvqJaiIqThyOADuN0F5oBc/iCDYyDMgltdlWP+/5XkAeFEqvoYsUmjiIx1QeRL8GUssoq4Be6Bg5jHgXMhgr/4HvcMwYld0xVDN0J2RezO2JPZRLCQg951uzk6Er0r19S9kJ4IJAbL1BdeEtBcB9JyZXPtwmQyeLTwi1T1DOsUF/xrNRXIUo3hn34xdL4yC/xpae0uU0Qi+Vc8lHNfWtC7cQxSAfyYJCd5X6pqbq3kz3EZbg1Lqmo7FHLiyR0vTdvCyq4WPK2vqHLvi6DRNjAyxGGZVf5RbTRozcsGtpmHVp29Zkt296RInTaqpm9QahW0zcVBI3Q9mic/PjXCdIJ06WrQ1UbfsmkaluZEfMwlfc5QK89J/2MTeNbw==;mWXnYwe061m2NZzqMX02NQ=="
 ---

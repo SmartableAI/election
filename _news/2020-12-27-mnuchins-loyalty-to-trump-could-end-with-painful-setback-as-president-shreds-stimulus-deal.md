@@ -250,22 +250,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump is holding up the COVID-19 stimulus package with demands for $2,000 checks — but there are enough votes in Congress to override a veto"
-    excerpt: "President Trump called the $900 billion package — passed by Congress earlier this week after months of negotiations — a \"disgrace\" on Tuesday."
-    publishedDateTime: 2020-12-23T12:16:00Z
-    webUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 90
-    images:
-      - url: "https://i.insider.com/5fe32894a64488001819315e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "XaV9nzmr6dEpJ9yu+elT0XjJAQTkDRtw+TfbMOOtEtq4N2iFskpZAZO1iI3QS/2paSpzcF5ghNU9VtJdWp6crSZfkomBcrOmjmCmz0hh9YHnebhH+2daA1nwK6+9ZKuG9i9WFrvYyEVJSxe4Wj+Evnx3l/YPqcyW0t5L3UUV/BEwHvI73zdQPaJL4u9cZEuVSFU4uLS/y8qs3+4HEoGAPy34HMHMUrklXEhZo5Eu3JTJR1FmNtvxPQDcXzpxraLT4fuqIyYnQXKAO1PmfoDkhhtGPyCncb5UKcaUnCTmE/yDH0tfl1/8LGBekAlaERCh7bbnm80xMtTr802uo8obe+L9lhfBRKx6KuCwX3Q0XtORYZepp7kf5OsRuwQgBNnTCWV4hl25y86cxassNJ6QOniNQ+whiOTTOS7u6P8rgea2OG+kGFkW7Q6xEM99xjAYec1tBcUnoC8mP5GOGWrvjuMCv+JvHjHg/nVAo7L5tf9KCPbJeKxccD8JJ0oKxkuB5MiLqAvmT99+nE+CqtUF2w==;6mZNVrAX4YWWf6mjWnYOLA=="
 ---

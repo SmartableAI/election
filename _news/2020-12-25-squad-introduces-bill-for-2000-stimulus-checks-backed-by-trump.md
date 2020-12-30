@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-fu
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -156,6 +156,20 @@ related:
     quality: 157
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/441afbd8-3b5d-49bb-94e3-b15cc9c0ea76/37ad5e6f-62a0-407d-b794-e5e541d30bae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "McConnell introduces his own bill on $2,000 stimulus checks, other Trump priorities"
+    excerpt: "Senate Majority Leader Mitch McConnell on Wednesday introduced his own version of a bill to increase the $600 stimulus checks from the coronavirus relief package to $2,000, but also included two other major priorities for President Trump."
+    publishedDateTime: 2020-12-30T14:13:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W3UbenYSOCU/mcconnell-introduces-his-own-bill-on-2000-stimulus-checks-other-trump-priorities"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://secure.media.foxnews.com/BrightCove/990505083001/990505083001/2020/12/29/990505083001_6219051691001_6219049610001-vs.jpg"
         width: 1280
         height: 720
         isCached: true

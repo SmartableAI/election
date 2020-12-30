@@ -95,6 +95,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 103
+  - title: "Donald Trump leaves mark on immigration policy, some of it lasting"
+    excerpt: "When President Donald Trump was running for reelection, foreign-born U.S. residents were rushing to get their American citizenship before it might be too late. “I didn’t know what would happen if Trump got a second term,"
+    publishedDateTime: 2020-12-30T11:40:00Z
+    webUrl: "https://www.cleveland.com/nation/2020/12/donald-trump-leaves-mark-on-immigration-policy-some-of-it-lasting.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2020/12/donald-trump-leaves-mark-on-immigration-policy-some-of-it-lasting.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2020/12/donald-trump-leaves-mark-on-immigration-policy-some-of-it-lasting.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NJPOVSCIKBC25CJQ4T6HU27WNE.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "WVM8fVgd4pR33A9dQ6W8FSNtTXDHEwhtXwXJ0xz34lqUanwuZtsbiXaDT2yJq3CUjyMbFurRoCvf8xRi5X4DXzg4OMrKrgXSptq+odss+NcAmJXm2y8EjYfw48XS8rLbFtsvYwLi/eYReJn3Yu76jXfWQNa83SreC61J1ZWEAMAdI9xzT7JgewqBhWSo/y8ZQIUZvGJPQOb/GLNSx8UoE9I/dpfZUs8Bq0M8+UlTM4Dmy5n2p/zB33cmn86YHfGdurBGUQT7GwEicRGu5l7maqq+JTpAVtWislihfcnxkIoJEJzlnsTIJoSSzZBqMtYAPHEE4jHod070kMq9mOjmZhxWbtHN2SuZoSFZCatxHHE5EE858JUt7eetklOPxxyZ8cHRo21pB7C+C5PR5842pz1AVemsVOMvlyb40MELw+MVxPI63XBaCV19gNIFukn5VTGwgfXbHsNvbHCMjwoFGCbq1aUhbX3BuBh/g4gfBjHidDbSOAOs60DwWAgR83mIx4D9iFRLGcOscOzw+XPcgg==;BGt1EDAWKHRDqGRwSZopQQ=="
 ---

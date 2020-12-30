@@ -176,6 +176,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McConnell introduces his own bill on $2,000 stimulus checks, other Trump priorities"
+    excerpt: "Senate Majority Leader Mitch McConnell on Wednesday introduced his own version of a bill to increase the $600 stimulus checks from the coronavirus relief package to $2,000, but also included two other major priorities for President Trump."
+    publishedDateTime: 2020-12-30T14:13:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W3UbenYSOCU/mcconnell-introduces-his-own-bill-on-2000-stimulus-checks-other-trump-priorities"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://secure.media.foxnews.com/BrightCove/990505083001/990505083001/2020/12/29/990505083001_6219051691001_6219049610001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Covid-19 Aid Bill Remains in Doubt as Congress Braces for Showdown With Trump"
     excerpt: "Unemployment benefits used by millions of Americans lapsed overnight and the government was at risk of shutting down, as lawmakers were poised to face off with President Trump over his objections to sweeping pandemic-aid legislation and a defense-policy bill."
     publishedDateTime: 2020-12-27T17:18:00Z
