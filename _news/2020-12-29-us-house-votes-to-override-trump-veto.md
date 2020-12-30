@@ -1836,6 +1836,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump Leaves Mark on Immigration Policy, Some of It Lasting"
+    excerpt: "When President Donald Trump was running for reelection, foreign-born U.S. residents were rushing to get their American citizenship before it might be too late. “I didn’t know what would happen if Trump got a second term,"
+    publishedDateTime: 2020-12-30T05:34:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-12-30/trump-leaves-mark-on-immigration-policy-some-of-it-lasting"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-12-30/trump-leaves-mark-on-immigration-policy-some-of-it-lasting?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-12-30/trump-leaves-mark-on-immigration-policy-some-of-it-lasting?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "DPtVUF7sNCohfdTLE6lTKVW7y16wogYago6JLOG8nbPaAe8M/ZDgWebqTT262vwobZV9jsj+ecWfKptDLiUzC/n/MXjt08/MOC0jtOswNrLjkY9l1I3X1bOO1z18wawSP4kN8/HVx1EggpVI50UfXlc/OvtNSSLPDCYdKQgmcZJF0gYqUwfiPjpWgOjbx+FoJPxhqq0q6EKP9joQ4QoYrF5Y+p9/n1A+Li1uWY3I/hPHFDCG6l+dWC+lxpAQPlv/0rZJQkdjBkaFK65Efbzul2bxpI+lrbeic0Zc0ULyuQ43boEckdDVzkqStqeTf8byyoi+dtIzEX/xuvSp70d/nvBEGhKKnEh3qz4/nTeECq0=;+mPmMDKVAI1FQSNEdda1Zg=="
 ---

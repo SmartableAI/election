@@ -221,6 +221,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump lashes out at GOP after override vote on defense bill"
+    excerpt: "President Donald Trump is lashing out at congressional Republicans after the House easily voted to override his veto of a defense policy bill"
+    publishedDateTime: 2020-12-30T08:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_74464e91b5bb4d5aab0e0dd45aa51e0b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump lashes out at ‘weak and tired’ Republican congressional leadership"
     excerpt: "The president took aim at senior members of his own party for not supporting his baseless claims of election fraud and allowing an override of his veto of a defense bill to advance."
     publishedDateTime: 2020-12-30T00:28:00Z
@@ -569,6 +585,6 @@ related:
         height: 683
         isCached: true
 
-secured: "otoQmsCEszJfpdOiLTJ2AqTIvb7u15naI3TGthLLHSisINN3tEbHrO3nh4izoK2Fiyr2+HHaPby1sBJ7Fgu8noO5aPgReTmrGftTGddv/uZe1NO4ARubMMGR0J9BXRhJNN19hWYQD9Xa1w1RuwagV+lZ0YWMmuAAjoIXrjXELuFFTH6R2+eWEVka7dMJ8cQlnzyasKWpy1JBb3pUoVB/gdCdxQbOSE/LzGQAyi674iwmPvRolr72mKgnzgGewBuT9JADAd0uaWCVysAnYwFnzkompEVY7oe4ViYx3M+JaX55j5XKBR4IbQ/yAdVSfSiFX9hD4rAQby4Fi4LWLhyjxZHlhcv+7ckmB0gtiAu1+5E=;+e20wuXswbYfyGTuxjuSbw=="
+secured: "v4nuFxXUuG13hpoUa7iJlZol7yNYbgrZAqESrcIcpphuLYCBFvBYaKJLVQkPgPAYhfoY/3Acwnx/HFRMGXm4S+kl8dKwaxOTIFrYSNHdkmP4FV1O5yV/5guocWxEgeYBjN1OVUJwSVLDVZu89XOPhq2AAPBVA0L/xvk/1qT5/jFU1uVV5MMypo0VCDQHKTIPB02jNrvlS2JSk8HtrTpeCAHYhYNt2sjJRNjopP1fDXDwFPBOBgNwMYwO8okAh56GWOr4/ZYJ4Vl4ZeuAqjdgfS+RG3bMt7rUATqYPYsiMp3Hs2lG+L2ji5OZurvemABVVhGvWkl1LBY9AOFhN64CJgt0fZw80iRuU4EqK7YRv3dNcfkmXQJieCrrOBq+/p6k5hxolFW2QVJyvyex2EORcQQ8j/DmfXZ4N3WA/hrZt5kkWLnIydAnGkQjK+GRVPCQG9C3XV5AJcd93QgxZexF+YuccHMERRnBAJlAa/802cgPeNUkGLovBFj5BZmQ81dy4E0zTkn2+UD7CkI/hE75yg==;fWMqlNdhC/0NKSdZK71SRQ=="
 ---
 
