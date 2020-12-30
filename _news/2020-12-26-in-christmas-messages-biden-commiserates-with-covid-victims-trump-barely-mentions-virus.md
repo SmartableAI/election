@@ -124,6 +124,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "GOP’s Hawley joins Trump-fueled push to object to Biden electors"
+    excerpt: "Republican Senator Josh Hawley said he will object to the certification of the Electoral College votes for Joe Biden as president when Congress convenes on Jan. 6."
+    publishedDateTime: 2020-12-30T16:39:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-30/hawley-trump-electoral-college-biden-win-object"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-30/hawley-trump-electoral-college-biden-win-object?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-30/hawley-trump-electoral-college-biden-win-object?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 140
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/297ec54/2147483647/strip/true/crop/3666x2394+0+235/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4d%2F1e%2F7457d0074fccb5d94d4db8604eae%2Fgettyimages-530730748.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Trump-Biden transition live updates: House approves boosting stimulus checks to $2K"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 23 days. The House narrowly passed a bill that would increase the amount of money Americans receive in a second round of pandemic relief stimulus payments to $2,"
     publishedDateTime: 2020-12-29T00:34:00Z

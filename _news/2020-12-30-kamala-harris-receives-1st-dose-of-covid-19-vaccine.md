@@ -3,10 +3,12 @@ category: news
 title: "Kamala Harris receives 1st dose of COVID-19 vaccine"
 excerpt: "Vice President-elect Kamala Harris on Tuesday received her first dose of Moderna's COVID-19 vaccine. Harris joins President-elect Joe Biden, Dr. Anthony Fauci, Vice President Mike Pence, several White House officials,"
 publishedDateTime: 2020-12-29T16:29:00Z
-originalUrl: "https://theweek.com/5things/957690/kamala-harris-receives-1st-dose-covid19-vaccine"
-webUrl: "https://theweek.com/5things/957690/kamala-harris-receives-1st-dose-covid19-vaccine"
+originalUrl: "https://theweek.com/speedreads/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
+webUrl: "https://theweek.com/speedreads/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
+ampWebUrl: "https://bypass.theweek.com/speedreads-amp/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
+cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
@@ -19,9 +21,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/trumplearnednothing.jpg?itok=zXxX97yt&resize=400x267"
-    width: 400
-    height: 267
+  - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1230345925.jpg?itok=9kpTgTT4"
+    width: 840
+    height: 560
     isCached: true
 
 related:
@@ -499,6 +501,6 @@ related:
       domain: usnews.com
     quality: 25
 
-secured: "9OsUTop3rWpiYAPqY4DHt8pa4J0efN7sOIQTjNGOegRKOpqkpbbNN3K/0V3p71c3iiDW3E1prW7NCXjWXlGed8eFaW0HHYLQ9zvBCrHHtir/g6RFo1rka26vfMqg7nTiUV3mkvlKNDv1IfyCepAAJMLLQcgaXIpFI17ywqXfdMF4V0YGPxEbcMUh2a15/EfOKExLILWtn1sskBQEx7qc8TNCV7GQiLyoWssa87VLYf9t7TXo3JY9qzjdilDCUUYCgq5jt4re5lfbzehMR4+Ha8rao5Y0WaYP0fRxSQeDbAiB3nN1UQyq+pUMafwPb/mVWjSVQApGtUPOjcvOhLZk+0oOyTkUQh9Ly44JRO/6Lck=;t31UAYOSx6oZPYJkYw5SwA=="
+secured: "0c813Y+oxmRhXsmxQgoJ2a5et/drOGtpqGm5OmCPdC4TRPY5yTX/buRiqcoSMYJiDSGuEFbgqq9EnBNfmynajN8AsfUEZE9y/WdDo48pK5xK6DGxwnVyBA0hZQcz541dRt3oXDEvj1793m7J71aLYa9OzLy4RmkL2Q9wF5if2rl1gwqG0YA/bdQLTLH2Mhl7woIsPTWniU9T1nW+q7UAOW6TDua9NRbrkZxcOt3Ghbzwbch6ASjNsy7CUCQd+HzFcc9Bv/UfXHVWob4wOv+oUR37myXyawGq6fBLj6m6LSttKfBQMqeNQ5thd3w191uGVR7Vkh9NXr2e7zngBsnrCMR/+2eRcPRsyfI2hVAMzDg=;1SPtWAGm/CZBCOfI4IsYrw=="
 ---
 

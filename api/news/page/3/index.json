@@ -2,6 +2,166 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-27-908-coalition-of-bipartisan-bicameral-lawmakers-tell-trump-to-sign-relief-package-or-veto-it-immediately.md",
+      "title": "'908 Coalition' of bipartisan, bicameral lawmakers tell Trump to 'sign relief package or veto it immediately'",
+      "excerpt": "A group of bipartisan and bicameral lawmakers, dubbing themselves the “908 Coalition,” signed a public letter on Sunday, urging President Donald Trump to sign a much-needed COVID-19 emergency relief package or “veto it immediately.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZNoC8azubcE/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZNoC8azubcE/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20361775825326.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto.amp",
+      "publishedDateTime": "2020-12-27T15:56:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election.md",
+      "title": "Geraldo Rivera: Trump acting like 'entitled frat boy' since losing election",
+      "excerpt": "Fox News pundit Geraldo Rivera slammed President Trump, saying he has been acting like an \"entitled frat boy\" since losing a \"bitterly contested el",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/media/531750-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election",
+      "originalUrl": "https://thehill.com/homenews/media/531750-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/blogs/geraldotrump_081016getty.jpg",
+          "width": 645,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/media/531750-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/531750-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election?amp",
+      "publishedDateTime": "2020-12-27T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-i-think-i-had-some-effect-cindy-mccain-pleased-with-joe-bidens-election-victory-looks-ahead.md",
+      "title": "'I think I had some effect': Cindy McCain pleased with Joe Biden's election victory, looks ahead",
+      "excerpt": "Cindy McCain played a big role in Joe Biden's narrow win in Arizona. Now she's trying to get Republicans named to his incoming administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/?soc_src=social-sh&soc_trk=tw&tsrc=twtr",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/?soc_src=social-sh&soc_trk=tw&tsrc=twtr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/23/PPHX/3feaa328-d9d2-4409-8443-7cf3424528d6-Cindy_McCain_2.jpg?auto=webp&crop=3399,1912,x1,y524&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4052794001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052794001",
+      "publishedDateTime": "2020-12-27T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-27-you-cant-diddle-around-sanders-despite-misgivings-urges-trump-to-sign-coronavirus-relief-bill.md",
       "title": "'You can't diddle around:' Sanders, despite misgivings, urges Trump to sign coronavirus relief bill",
       "excerpt": "Bernie Sanders, one of the leading advocates for government-issued direct payments to Americans amid the COVID-19 pandemic, argued Sunday that despite his -- and President Donald Trump's -- reservations about the size of the checks within the currently stalled relief bill,",
@@ -62,7 +222,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 728,
+      "heat": 748,
       "tags": null,
       "images": [
         {
@@ -768,7 +928,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 455,
+      "heat": 415,
       "tags": null,
       "images": [
         {
@@ -972,6 +1132,62 @@
       ]
     },
     {
+      "path": "_news/2020-12-25-roger-stone-vows-to-sue-lawmaker-for-claiming-he-covered-up-trump-misconduct-for-clemency.md",
+      "title": "Roger Stone vows to sue lawmaker for claiming he covered up Trump misconduct for clemency",
+      "excerpt": "Veteran political operative Roger Stone is vowing to sue a Democratic lawmaker, alleging that he falsely accused him of covering for President Trump in order to obtain clemency.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAbKf5U72vE/roger-stone-sue-hakeem-jeffries",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAbKf5U72vE/roger-stone-sue-hakeem-jeffries",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cccc97f7-4285-4736-a48d-39699d71d1dc/e1d53e3e-9a8b-4517-8baf-6b33c1b4535b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp",
+      "publishedDateTime": "2020-12-24T16:10:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-for-gods-sakes-get-out-of-the-way-trumps-former-national-security-adviser-urges-him-to-fund-the-us-military.md",
       "title": "'For God's sakes, get out of the way': Trump's former national security adviser urges him to fund the US military",
       "excerpt": "Former national security adviser John Bolton told Trump to \"get out of the way\" and said he was \"not a conservative.\"",
@@ -1129,226 +1345,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-heres-what-happens-if-trump-doesnt-sign-the-900-billion-relief-package.md",
-      "title": "Here's what happens if Trump doesn't sign the $900 billion relief package",
-      "excerpt": "Though Congress has passed a $900 billion Covid relief package, millions of Americans are in danger of losing important benefits just after the holidays if President Donald Trump continues to refuse to sign the bill.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8ibSlxj5Qo8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8ibSlxj5Qo8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 314,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201224113207-01-eviction-order-phoenix-oct2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/24/politics/covid-relief-bill-programs-expiring/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/covid-relief-bill-programs-expiring/index.html",
-      "publishedDateTime": "2020-12-24T10:34:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-exclusive-dominion-sends-letters-threatening-defamation-lawsuits-to-sean-hannity-maria-bartiromo-lou-dobbs-and-other-pro-trump-media-figures.md",
-      "title": "EXCLUSIVE: Dominion sends letters threatening defamation lawsuits to Sean Hannity, Maria Bartiromo, Lou Dobbs, and other pro-Trump media figures",
-      "excerpt": "The company at the center of a false election conspiracy theory told right-wing media organizations and individual hosts to \"preserve all documents.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/dominion-defamation-letters-fox-news-sean-hannity-lou-dobbs-newsmax-oan-2020-12",
-      "originalUrl": "https://www.businessinsider.com/dominion-defamation-letters-fox-news-sean-hannity-lou-dobbs-newsmax-oan-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe4d115edf8920018093b21?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/dominion-defamation-letters-fox-news-sean-hannity-lou-dobbs-newsmax-oan-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dominion-defamation-letters-fox-news-sean-hannity-lou-dobbs-newsmax-oan-2020-12?amp",
-      "publishedDateTime": "2020-12-24T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.md",
-      "title": "Ivanka Trump champions working families, fights human trafficking during her father's presidency",
-      "excerpt": "While President Donald Trump commanded the nation’s attention over the last four years, his daughter and senior adviser, Ivanka Trump, racked up a list of considerable achievements.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20356689491057.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp",
-      "publishedDateTime": "2020-12-24T10:23:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-supreme-court-in-no-hurry-to-hear-trump-campaign-case-sets-response-deadline-two-days-after-inauguration.md",
-      "title": "Supreme Court in no hurry to hear Trump campaign case, sets response deadline two days after inauguration",
-      "excerpt": "The latest Trump campaign appeal to the Supreme Court won't see any action from the justices until after the inauguration. The justices this week set a reply deadline for Pennsylvania Secretary of State Kathy Boockvar and the other respondents named in the case of Jan. 22.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5ZVVfp56SBI/supreme-court-trump-campaign-case-no-hurry",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5ZVVfp56SBI/supreme-court-trump-campaign-case-no-hurry",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 218,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/supreme-court-trump-campaign-case-no-hurry.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-campaign-case-no-hurry.amp",
-      "publishedDateTime": "2020-12-24T10:13:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

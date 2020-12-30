@@ -3,8 +3,8 @@ category: news
 title: "Joe and Jill Biden to appear on ‘New Year’s Rockin’ Eve’"
 excerpt: "Ryan Seacrest will have a special pair of guests alongside the music stars at this year's New Year's Eve celebration on ABC — the president-elect and the future"
 publishedDateTime: 2020-12-30T13:40:00Z
-originalUrl: "https://apnews.com/article/joe-biden-new-york-julia-michaels-lewis-capaldi-dick-clark-582a11fe48bccec094633ca0e4e9521c"
-webUrl: "https://apnews.com/article/joe-biden-new-york-julia-michaels-lewis-capaldi-dick-clark-582a11fe48bccec094633ca0e4e9521c"
+originalUrl: "https://apnews.com/article/joe-biden-new-york-julia-michaels-lewis-capaldi-dick-clark-582a11fe48bccec094633ca0e4e9521c?ICID=ref_fark"
+webUrl: "https://apnews.com/article/joe-biden-new-york-julia-michaels-lewis-capaldi-dick-clark-582a11fe48bccec094633ca0e4e9521c?ICID=ref_fark"
 type: article
 quality: 105
 heat: 105
@@ -24,6 +24,6 @@ images:
     height: 2056
     isCached: true
 
-secured: "cEgAjIgcwz67b7hOBdJkTNvFC0DQAFFXAJUzz61AnGB0TY5G8va3Ap9cqniiWqr1jsKbnx/P2YAM047srWs6A4CFzTCtEK5S8mU2X9h+8K9D42RE1G6aB0uBWI8t5sVKXJOtbH6/FfSLh0Pml4iZ4SwjUzH8pjZqlFZ9D0VLe4OMzD+Ry4thhJFnYuCBXObk1H3os20doM9yriRkQo2BzG3o3hUVcitfEA9jS33EnWGsMiOJHLipAPjlZ2LRzoDazACNlr05fq18zrzHapPaSNoa2vWyq8rZB3NWWvE5u20y37YwfTyscRL4pEs5PU9HwRup3DODLLETjkx7Rrj6Is397M5aQs6guZ9FPaBHCxo=;3+m2ipajHl5uiS1wleuXxw=="
+secured: "cKAquvtpcO/CzmuZGcWib/bsMurggJEBjkxu8c4DTqsPjpG6YjkoBaubPLzkbuSzJcA3mOYwhR5EeEnbidPdMxkv7dteloNC1e7pEXPeIY2RFuGtH7D4mCASEirakN1O2u3uTQldlfJJtKuPjpidq+7ZIybKxha/HkInZKFJ+GHO7FzI1PY5YcdzEYNrP3ib633c3ztT/UnZh/KHktga12vj4ztrkt9xJwgq1uKbSD1Dlhep9lHq3aPwgkUuSqGriCw867z2HQsNzFlhq6TnYROIZ3cGMrtHnF3KUAEszbLbncA+3qujeQeVFrOdsASaB9QFc9b9BQGK3ePCk8d7LpKi/sOx9l3lWBlLeyKbi/Q=;LPpQvKKTgWijBGpMxFE7yA=="
 ---
 

@@ -864,6 +864,22 @@ related:
         width: 4896
         height: 2754
         isCached: true
+  - title: "Biden, Trump to Campaign in Georgia Senate Runoffs"
+    excerpt: "President-elect Joe Biden will travel to Georgia to campaign for the two Democrats in runoff elections that will decide the control of the Senate, as he and President Trump hold competing rallies in the state."
+    publishedDateTime: 2020-12-30T16:37:00Z
+    webUrl: "https://www.wsj.com/articles/biden-trump-to-campaign-in-georgia-senate-runoffs-11609345078"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-trump-to-campaign-in-georgia-senate-runoffs-11609345078"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-trump-to-campaign-in-georgia-senate-runoffs-11609345078"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-279214/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Liberal media ‘snuffed out' Hunter Biden coverage until after election to help defeat Trump, critics say"
     excerpt: "The liberal mainstream media largely ignored the ongoing Hunter Biden scandal until after his father won the presidential election and media watchdogs feel it was a strategic move by the liberal media to help Joe Biden defeat President Trump."
     publishedDateTime: 2020-12-10T16:27:00Z

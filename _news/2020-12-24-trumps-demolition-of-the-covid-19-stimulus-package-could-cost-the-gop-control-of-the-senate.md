@@ -335,6 +335,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Coronavirus updates: Trump points to states to ‘get moving’ amid a delay in vaccinations"
+    excerpt: "Officials had suggested the United States would be able to put shots in the arms of 20 million people by year's end, though just a fraction of that have received vaccines thus far."
+    publishedDateTime: 2020-12-30T16:09:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/APTK7KCKT4I6XF5WJ247OL7UNM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Live politics updates: Rubio goes after Fauci on Twitter; Trump signs COVID relief amid criticism for delay"
     excerpt: "Trump signs coronavirus stimulus bill amid bipartisan criticism; Rubio says Fauci \"lied\" and distorted; George Conway calls on Mnuchin to quit."
     publishedDateTime: 2020-12-28T23:32:00Z

@@ -333,6 +333,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Coronavirus updates: Trump points to states to ‘get moving’ amid a delay in vaccinations"
+    excerpt: "Officials had suggested the United States would be able to put shots in the arms of 20 million people by year's end, though just a fraction of that have received vaccines thus far."
+    publishedDateTime: 2020-12-30T16:09:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/APTK7KCKT4I6XF5WJ247OL7UNM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump's demolition of the COVID-19 stimulus package could cost the GOP control of the Senate"
     excerpt: "GOP Sens. Kelly Loeffler and David Perdue had put the passage of a stimulus bill at the front of their campaigns — until the president torpedoed it."
     publishedDateTime: 2020-12-24T12:40:00Z

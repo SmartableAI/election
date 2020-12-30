@@ -257,6 +257,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Kamala Harris receives 1st dose of COVID-19 vaccine"
+    excerpt: "Vice President-elect Kamala Harris on Tuesday received her first dose of Moderna's COVID-19 vaccine. Harris joins President-elect Joe Biden, Dr. Anthony Fauci, Vice President Mike Pence, several White House officials,"
+    publishedDateTime: 2020-12-29T16:29:00Z
+    webUrl: "https://theweek.com/speedreads/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 75
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1230345925.jpg?itok=9kpTgTT4"
+        width: 840
+        height: 560
+        isCached: true
   - title: "California Governor Gavin Newsom Appoints Secretary of State Alex Padilla to Replace Vice President-elect Kamala Harris in US Senate"
     excerpt: "Voto Latino celebrates California Secretary of State Alex Padilla becoming the first Latinx person to represent California in the United States Senate after Governor Gavin Newsom announced his appointment to the seat being vacated by Vice President-elect Kamala Harris."
     publishedDateTime: 2020-12-23T16:11:00Z
@@ -446,20 +462,6 @@ related:
       - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/12/APTOPIX_Virus_Outbreak_Harris_11063.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Kamala Harris receives 1st dose of COVID-19 vaccine"
-    excerpt: "Vice President-elect Kamala Harris on Tuesday received her first dose of Moderna's COVID-19 vaccine. Harris joins President-elect Joe Biden, Dr. Anthony Fauci, Vice President Mike Pence, several White House officials,"
-    publishedDateTime: 2020-12-29T16:29:00Z
-    webUrl: "https://theweek.com/5things/957690/kamala-harris-receives-1st-dose-covid19-vaccine"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 55
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/trumplearnednothing.jpg?itok=zXxX97yt&resize=400x267"
-        width: 400
-        height: 267
         isCached: true
   - title: "Kamala Harris to receive shot in bid to boost U.S. confidence in vaccines"
     excerpt: "American, will become the second high-profile person from an ethnic minority background to receive the vaccine after Surgeon General Jerome Adams on Dec. 18."

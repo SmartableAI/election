@@ -2,6 +2,118 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-24-pennsylvania-certifies-election-results-for-biden-despite-trump-legal-challenges.md",
+      "title": "Pennsylvania certifies election results for Biden despite Trump legal challenges",
+      "excerpt": "The Pennsylvania State Department certified the results of the presidential election in favor of President-elect Joe Biden and Vice President-elect Kamala Harris, Gov. Tom Wolf said Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vgaEb92DpEg/pennsylvania-certifies-election-results-biden-trump-legal-challenges",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vgaEb92DpEg/pennsylvania-certifies-election-results-biden-trump-legal-challenges",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1840,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp",
+      "publishedDateTime": "2020-11-24T08:21:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-biden-dhs-pick-mayorkas-intervened-to-help-democrat-connected-foreign-investors-ig.md",
+      "title": "Biden DHS pick Mayorkas intervened to help Democrat-connected foreign investors: IG",
+      "excerpt": "President-elect Joe Biden's pick for Homeland Security secretary, Alejandro Mayorkas, faced criticism during the Obama administration after a scathing inspector general report found that he intervened to help foreign investors in the EB-5 visa program who were connected to top Democrats.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/789WRB_4Lf4/biden-dhs-pick-mayorkas-intervened-democratic-connected-eb5-investors",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/789WRB_4Lf4/biden-dhs-pick-mayorkas-intervened-democratic-connected-eb5-investors",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/alejandro-Mayorkas-2-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-dhs-pick-mayorkas-intervened-democratic-connected-eb5-investors.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-pick-mayorkas-intervened-democratic-connected-eb5-investors.amp",
+      "publishedDateTime": "2020-11-24T08:13:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-joe-concha-media-coverage-of-biden-transition-has-been-just-like-the-campaign-no-scrutiny.md",
       "title": "Joe Concha: Media coverage of Biden transition has been just like the campaign, 'no scrutiny'",
       "excerpt": "President-elect Joe Biden’s transition period will be fawned over by the media compared with President Trump, Fox News contributor Joe Concha said on Tuesday.",
@@ -1554,118 +1666,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-trump-faces-economic-redline.md",
-      "title": "Trump faces economic redline",
-      "excerpt": "When it comes to who’s-telling-whom, economic interests usually dictate political actions.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HW6LqRkl98I/trump-faces-economic-redline",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HW6LqRkl98I/trump-faces-economic-redline",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-faces-economic-redline.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-faces-economic-redline.amp",
-      "publishedDateTime": "2020-11-19T13:53:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-trump-campaign-drops-lawsuit-challenging-michigan-voting-results.md",
-      "title": "Trump campaign drops lawsuit challenging Michigan voting results",
-      "excerpt": "President Trump's reelection campaign said Thursday that it is dropping a lawsuit challenging voting results in Michigan, which show Democrat Joe Biden narrowly carrying the battleground state.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PYLhurJy8ZU/trump-campaign-drops-lawsuit-challenging-michigan-voting-results",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PYLhurJy8ZU/trump-campaign-drops-lawsuit-challenging-michigan-voting-results",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 395,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a98bd85-8cb6-40db-a341-bed123126296/b14b578b-9eab-4265-bd71-466ccf3a8c4c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp",
-      "publishedDateTime": "2020-11-19T08:20:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

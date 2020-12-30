@@ -63,22 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Live Updates: Biden warns Trump administration’s efforts to vaccinate Americans 'falling behind'"
-    excerpt: "The president-elect also criticized the outgoing administration's lack of COVID testing for Americans, calling it \"a travesty.\" "
-    publishedDateTime: 2020-12-30T05:03:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qr4xzxxbuRs/live-updates-biden-12-30-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 177
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/646cbeae-51c0-4075-9a62-fbdd79191c70/fd810d22-270c-4029-af92-2b4285d17cfe/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Arizona congresswoman backs calls for Hunter Biden special counsel"
     excerpt: "Rep. Debbie Lesko says she has sent a letter to the Attorney General."
     publishedDateTime: 2020-12-29T02:52:29Z
@@ -159,22 +143,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "President Trump Spends Christmas at Mar-a-Lago, and Joe Biden in Delaware"
-    excerpt: "The president"
-    publishedDateTime: 2020-12-25T13:16:00Z
-    webUrl: "https://www.wsj.com/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768?mod=hp_listb_pos1"
-    ampWebUrl: "https://www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 159
-    images:
-      - url: "https://images.wsj.net/im-278203/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Graham vows to hold Dems, media accountable over Hunter Biden: 'We're not going to sweep this under the rug'"
     excerpt: "Senate Judiciary Committee Chairman Lindsey Graham doubled down Thursday on his calls for President Trump to appoint a special counsel to investigate Hunter Biden’s business dealings in China."
     publishedDateTime: 2020-12-18T01:19:36Z
@@ -252,20 +220,6 @@ related:
       - url: "https://assets.realclear.com/images/53/530656.jpg"
         width: 910
         height: 682
-        isCached: true
-  - title: "Left Seeks Leverage to Move Biden"
-    excerpt: "The tug-of-war between President-elect Joe Biden and the left wing of the Democratic Party is shifting onto policy grounds now that nominees have been selected for key positions in the new administration."
-    publishedDateTime: 2020-12-28T12:34:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/28/left_seeks_leverage_to_move_biden_532247.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/530848_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "rGXo5evALTJRWpAqTFVXfDvcXyKR+9RKzt/bjxL1QAuM7IgwGomIlH08fUzxwOesdwP6M4jWpHtqtOTmLHJTzV9+ll33yyHVViFDoCHn90/LTm6uEejpWfeVt5pBLhdkeP+wK15E5nEmmjmdnlf0uNSpUzNIJdykTNBDzs7IKzoyVRMEMWkI/JdaJFpSY0c1BpyFx2SxhuuU2OsijnTFsadjN+yjRlMrY4dn5gtVYiTbUmsMA1EwbyELkGaQdhNqux+XOMt3n4W9w+clzZyamggV3l1kbiK4DshRm6bzuVTwcBg/Paze5IQ2rJ3KR2cJML7BWTqzwdoPN8P3+YBjBPP2Ukhnvwgh8QMDD5xTXmM=;rnEFgqwb9Fdt/oAmMSc2nQ=="

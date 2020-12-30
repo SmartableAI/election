@@ -58,22 +58,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Live Updates: Biden warns Trump administration’s efforts to vaccinate Americans 'falling behind'"
-    excerpt: "The president-elect also criticized the outgoing administration's lack of COVID testing for Americans, calling it \"a travesty.\" "
-    publishedDateTime: 2020-12-30T05:03:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qr4xzxxbuRs/live-updates-biden-12-30-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 177
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/646cbeae-51c0-4075-9a62-fbdd79191c70/fd810d22-270c-4029-af92-2b4285d17cfe/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Jenna Ellis, Trump campaign legal adviser, pans calls for martial law"
     excerpt: "As Trump continues to make baseless claims that he won the presidential election in a \"magnificent landslide,\" Ellis' tweet is a high-profile indication from someone who's been publicly aligned with the president every step of the way that martial law is off the table. "
     publishedDateTime: 2020-12-24T14:07:29Z
@@ -170,22 +154,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "President Trump Spends Christmas at Mar-a-Lago, and Joe Biden in Delaware"
-    excerpt: "The president"
-    publishedDateTime: 2020-12-25T13:16:00Z
-    webUrl: "https://www.wsj.com/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768?mod=hp_listb_pos1"
-    ampWebUrl: "https://www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 159
-    images:
-      - url: "https://images.wsj.net/im-278203/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Graham vows to hold Dems, media accountable over Hunter Biden: 'We're not going to sweep this under the rug'"
     excerpt: "Senate Judiciary Committee Chairman Lindsey Graham doubled down Thursday on his calls for President Trump to appoint a special counsel to investigate Hunter Biden’s business dealings in China."
     publishedDateTime: 2020-12-18T01:19:36Z
@@ -249,20 +217,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-admired-2020.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Left Seeks Leverage to Move Biden"
-    excerpt: "The tug-of-war between President-elect Joe Biden and the left wing of the Democratic Party is shifting onto policy grounds now that nominees have been selected for key positions in the new administration."
-    publishedDateTime: 2020-12-28T12:34:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/28/left_seeks_leverage_to_move_biden_532247.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/530848_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "mGK2jIeFdRy+Q2U8F8sd/8gOUFWuWtnHNeNOtcCA+vtJDPKy5EW9v23Iu+ujiYVnuZtWcO7w70vOCE57Kr/Ns3bwP4tonP7JHMgSRn1ic0rEn0d2noKJHDiIAupH3CzgNUldyFRd7Y+WiQAk3nVpayT0QGLijR2A4XMGqytQCc/YypgQ+h2KVSuZxQQLdxq9tUPBkJS0+R6PIPv4pAtKC5jXaksPCOoU9zVUXJmkLpcfRwHk8yJFnd5WYOoixSosdJ8arCbM0FF/HPkGd2fcBfgvbzvjkepNJWkIKafJaV748hSQ6qz0LBKfyTX6VEJYbzkmx8agju3CaQwX2H3oO6TuzJqMi701TeEnLJ1vo4zhbQ88U6T7BSaRtqN+51CoZjMrvJjW1klqmqYNzJ0cH2AySf6ZZF9jYqSb1JpDEyERxFiD4V/y5Z4HZNTyZOV2aps8buheDvAopDd1KnLTo0azpnSa3e16b1tWy37awNycKVmuJ0odDgKXtevWIW0zcp64akh0QMEb8KtaWf8bJA==;1bs5L524Yp31fsW5XgUhgg=="

@@ -255,6 +255,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Kamala Harris receives 1st dose of COVID-19 vaccine"
+    excerpt: "Vice President-elect Kamala Harris on Tuesday received her first dose of Moderna's COVID-19 vaccine. Harris joins President-elect Joe Biden, Dr. Anthony Fauci, Vice President Mike Pence, several White House officials,"
+    publishedDateTime: 2020-12-29T16:29:00Z
+    webUrl: "https://theweek.com/speedreads/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 75
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1230345925.jpg?itok=9kpTgTT4"
+        width: 840
+        height: 560
+        isCached: true
   - title: "Kamala Harris receives COVID-19 vaccine shot"
     excerpt: "Vice President-elect Kamala D. Harris received the first dose of Moderna’s COVID-19 vaccine Tuesday in Washington."
     publishedDateTime: 2020-12-29T16:57:00Z
@@ -460,20 +476,6 @@ related:
       - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/12/APTOPIX_Virus_Outbreak_Harris_11063.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Kamala Harris receives 1st dose of COVID-19 vaccine"
-    excerpt: "Vice President-elect Kamala Harris on Tuesday received her first dose of Moderna's COVID-19 vaccine. Harris joins President-elect Joe Biden, Dr. Anthony Fauci, Vice President Mike Pence, several White House officials,"
-    publishedDateTime: 2020-12-29T16:29:00Z
-    webUrl: "https://theweek.com/5things/957690/kamala-harris-receives-1st-dose-covid19-vaccine"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 55
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/trumplearnednothing.jpg?itok=zXxX97yt&resize=400x267"
-        width: 400
-        height: 267
         isCached: true
   - title: "Alex Padilla becomes California’s first Latino US senator, replacing Kamala Harris"
     excerpt: "Alex Padilla, a Los Angeles Democrat who once developed software for satellites but later rose through local and state political office to become California secretary of state, was chosen Tuesday by Gov."

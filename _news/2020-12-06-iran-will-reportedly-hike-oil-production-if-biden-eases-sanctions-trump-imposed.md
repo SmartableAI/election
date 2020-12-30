@@ -860,6 +860,22 @@ related:
         width: 4896
         height: 2754
         isCached: true
+  - title: "Biden, Trump to Campaign in Georgia Senate Runoffs"
+    excerpt: "President-elect Joe Biden will travel to Georgia to campaign for the two Democrats in runoff elections that will decide the control of the Senate, as he and President Trump hold competing rallies in the state."
+    publishedDateTime: 2020-12-30T16:37:00Z
+    webUrl: "https://www.wsj.com/articles/biden-trump-to-campaign-in-georgia-senate-runoffs-11609345078"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-trump-to-campaign-in-georgia-senate-runoffs-11609345078"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-trump-to-campaign-in-georgia-senate-runoffs-11609345078"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-279214/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Georgia Official Urges Trump to Condemn Threats Against Election Workers"
     excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."
     publishedDateTime: 2020-12-02T02:08:00Z

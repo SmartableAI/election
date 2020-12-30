@@ -46,6 +46,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden names Kathleen Hicks as first woman deputy defense secretary"
+    excerpt: "Joe Biden's transition team announced Wednesday that former Obama Pentagon official Kathleen Hicks is the President-elect's pick to serve as deputy secretary of defense, and she would be the first woman to serve in the role if confirmed by the Senate.\n    \n"
+    publishedDateTime: 2020-12-30T16:14:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WSyk20utpn4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-defense-department-hicks-kahl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-defense-department-hicks-kahl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230105634-kathleen-hicks-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP senator to delay affirming Biden victory by forcing votes on Electoral College results"
+    excerpt: "Missouri Republican Sen. Josh Hawley said Wednesday he will object when Congress counts the Electoral College votes next week, which will force lawmakers in both the House and Senate to vote on whether to accept the results of President-elect Joe Biden's victory.\n    \n"
+    publishedDateTime: 2020-12-30T16:50:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_V2-E4UXvoI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/josh-hawley-force-votes-electoral-college-results/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/josh-hawley-force-votes-electoral-college-results/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518124535-02-sen-josh-hawley-0512-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Leading a divided country: Joe Biden's approach to unity"
     excerpt: "Over years of interviews, President-elect Joe Biden explains his views on how to work with Republicans and Democrats during a time of divided government."
     publishedDateTime: 2020-12-27T13:07:00Z

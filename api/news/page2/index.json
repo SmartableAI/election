@@ -2,6 +2,115 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-29-kamala-harris-receives-first-dose-of-moderna-covid-19-vaccine-on-camera.md",
+      "title": "Kamala Harris receives first dose of Moderna Covid-19 vaccine on camera",
+      "excerpt": "Vice President-elect Kamala Harris is expected to receive the first dose of a Covid-19 vaccine on Tuesday, according to the Biden transition team.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ERdQBFizyAA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ERdQBFizyAA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203235547-kamala-biden-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/29/politics/kamala-harris-covid-vaccine/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/kamala-harris-covid-vaccine/index.html",
+      "publishedDateTime": "2020-12-29T08:25:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-kamala-harris-and-husband-doug-emhoff-receive-covid-19-vaccine.md",
+      "title": "Kamala Harris and husband Doug Emhoff receive COVID-19 vaccine",
+      "excerpt": "The vice president-elect received her shot on camera as part of efforts to build public trust in the coronavirus vaccine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/kamala-harris-doug-emhoff-covid-vaccine/",
+      "originalUrl": "https://www.cbsnews.com/news/kamala-harris-doug-emhoff-covid-vaccine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/29/8cbf2e07-8d58-471e-8572-0e4176b0db22/thumbnail/1200x630/9fc15131cf2b1c1379915144a2afbcdb/ap-20364578711714.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/kamala-harris-doug-emhoff-covid-vaccine/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-doug-emhoff-covid-vaccine/",
+      "publishedDateTime": "2020-12-29T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-biden-expected-to-call-out-trump-administration-on-pace-of-vaccine-distribution.md",
       "title": "Biden expected to call out Trump administration on pace of vaccine distribution",
       "excerpt": "President-elect Joe Biden is set to confront the slower-than-expected pace at which the Trump administration is administering coronavirus vaccines in remarks Tuesday afternoon, a transition official tells CNN.\n    \n",
@@ -1050,23 +1159,23 @@
       ]
     },
     {
-      "path": "_news/2020-12-28-mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.md",
-      "title": "McConnell praises Trump for signing COVID-19, government funding bills",
-      "excerpt": "",
+      "path": "_news/2020-12-28-trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill-faces-hurdles.md",
+      "title": "Trump’s effort to 'rescind' spending in COVID/government funding bill faces hurdles",
+      "excerpt": "Under the Budget Act of 1974, the President is required to submit a “budget request” to Congress in the winter.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WBCmojqfCBM/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WBCmojqfCBM/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 435,
+      "heat": 209,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
           "width": 340,
           "height": 340,
           "title": null,
@@ -1076,9 +1185,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp",
-      "publishedDateTime": "2020-12-28T01:55:05-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill.amp",
+      "publishedDateTime": "2020-12-28T01:32:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1118,7 +1227,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1162,25 +1271,25 @@
       ]
     },
     {
-      "path": "_news/2020-12-27-908-coalition-of-bipartisan-bicameral-lawmakers-tell-trump-to-sign-relief-package-or-veto-it-immediately.md",
-      "title": "'908 Coalition' of bipartisan, bicameral lawmakers tell Trump to 'sign relief package or veto it immediately'",
-      "excerpt": "A group of bipartisan and bicameral lawmakers, dubbing themselves the “908 Coalition,” signed a public letter on Sunday, urging President Donald Trump to sign a much-needed COVID-19 emergency relief package or “veto it immediately.”",
+      "path": "_news/2020-12-28-texas-woman-on-president-trump-commuting-her-remaining-term-of-supervised-release-from-prison.md",
+      "title": "Texas woman on President Trump commuting her remaining term of supervised release from prison",
+      "excerpt": "Crystal Munoz, who President Trump commuted the remaining term of supervised release from prison last week, told “Fox & Friends Weekend” on Sunday that she “was definitely over sentenced” for a marijuana offence.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZNoC8azubcE/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZNoC8azubcE/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto",
+      "webUrl": "https://www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years",
+      "originalUrl": "https://www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 156,
+      "heat": 124,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20361775825326.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1188,9 +1297,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto.amp",
-      "publishedDateTime": "2020-12-27T15:56:47-08:00",
+      "ampWebUrl": "https://www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years.amp",
+      "publishedDateTime": "2020-12-27T18:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1214,111 +1323,8 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election.md",
-      "title": "Geraldo Rivera: Trump acting like 'entitled frat boy' since losing election",
-      "excerpt": "Fox News pundit Geraldo Rivera slammed President Trump, saying he has been acting like an \"entitled frat boy\" since losing a \"bitterly contested el",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/531750-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election",
-      "originalUrl": "https://thehill.com/homenews/media/531750-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/blogs/geraldotrump_081016getty.jpg",
-          "width": 645,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/531750-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/531750-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election?amp",
-      "publishedDateTime": "2020-12-27T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-i-think-i-had-some-effect-cindy-mccain-pleased-with-joe-bidens-election-victory-looks-ahead.md",
-      "title": "'I think I had some effect': Cindy McCain pleased with Joe Biden's election victory, looks ahead",
-      "excerpt": "Cindy McCain played a big role in Joe Biden's narrow win in Arizona. Now she's trying to get Republicans named to his incoming administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/?soc_src=social-sh&soc_trk=tw&tsrc=twtr",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/?soc_src=social-sh&soc_trk=tw&tsrc=twtr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/23/PPHX/3feaa328-d9d2-4409-8443-7cf3424528d6-Cindy_McCain_2.jpg?auto=webp&crop=3399,1912,x1,y524&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4052794001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052794001",
-      "publishedDateTime": "2020-12-27T08:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump pardon of Blackwater Iraq contractors violates international law - U.N."
+title: "Trump pardon of Blackwater Iraq contractors violates international law - UN"
 excerpt: "U.S. President Donald Trump's pardon of four American men convicted of killing Iraqi civilians while working as contractors in 2007 violated U.S. obligations under international law, U.N. human rights experts said on Wednesday."
-publishedDateTime: 2020-12-30T11:36:00Z
-originalUrl: "https://www.reuters.com/article/iraq-blackwater-un-int-idUSKBN294102"
-webUrl: "https://www.reuters.com/article/iraq-blackwater-un-int-idUSKBN294102"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN294102"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN294102"
+publishedDateTime: 2020-12-30T15:54:00Z
+originalUrl: "https://www.reuters.com/article/us-iraq-blackwater-un/trump-pardon-of-blackwater-iraq-contractors-violates-international-law-un-idUSKBN294108"
+webUrl: "https://www.reuters.com/article/us-iraq-blackwater-un/trump-pardon-of-blackwater-iraq-contractors-violates-international-law-un-idUSKBN294108"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN294108"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN294108"
 type: article
-quality: 122
+quality: 123
 heat: -1
 published: false
 
@@ -245,6 +245,6 @@ related:
       domain: npr.org
     quality: 85
 
-secured: "it7pWRIp3fvgcs4jVEdo1jMf50MeEXA61mD+p/hfOwFLkXwPnsw2xiMUONvY/T2IvBWyd+jYnDZhVVRs8lozVvloYytCRi1fx0OB9kQcCFIYFHh6R06RAN+v5krm8+Ebrrw0cG7COlWXnIq5bgXt83upCyMzAoR8JR0VK/YSPnAGBSQJofols11rGjmVnVoXUiILm1PiaO0Hw/+0gvrSbEPmFscXUeEzmTLOl8nLpwRITwT+1ZOb2Q6zzCdX4y4y+ntqSlFKZvAS4Vc6CMCwdSuT6RtWBDw5VxPAS3U2V59w2LCFO2nzJFLksZTrnEpJkcqODfk5an3IwcaJvHxpMsUI/FdKJZoRUXzYKjO87xk=;h5dswbuFUjVPXWvlTRxGRw=="
+secured: "l53xT/pvJXNRpTijXvrwzLrVTsqhvO1LA/yK4mP3ld9bRugX4QU5m01ZXYevnSoLBjk1/ZKHWyWguRM0b50diP6/LUux81iO6AHQdYuHDChvQjPvlM5dNVWwJy8M5bR1EzwPA9C10Ux95/dzBZPM6P68uVtgSC8kV4EsX8sPz9jgIJRMthK4M0TwpvQ2IoAvkWLEn/O6AAUpSTtaKMJbreucbWgrufHPKtuJ5aMXgjDrjo9A7EziKXoaM8751EGmb544oL3eUjsGF/FiUx3N6NlantnSXFzlJLUvXy0dr7EN1ZhcSsbTcc5sdXkk4RxS5QjuJ1bLny8y5vnCECk1pdWWmVZ0kmy/sH7Hf3YD1yI=;FTj6R6rxt1S17ano8SQDyg=="
 ---
 

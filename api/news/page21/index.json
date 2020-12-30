@@ -2,6 +2,114 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-11-28-former-top-cybersecurity-official-says-trump-firing-by-tweet-was-not-how-i-wanted-to-go-out.md",
+      "title": "Former top cybersecurity official says Trump firing by tweet was 'not how I wanted to go out'",
+      "excerpt": "Christopher Krebs, the former top cybersecurity official, said President Donald Trump's decision to unceremoniously fire him via tweet last week was \"not how I wanted to go out.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Bj_tstiA2pI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Bj_tstiA2pI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201117192237-chris-krebs-2019-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/28/politics/chris-krebs-trump-election-security-60-minutes-interview/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/28/politics/chris-krebs-trump-election-security-60-minutes-interview/index.html",
+      "publishedDateTime": "2020-11-28T12:17:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-29-musician-john-fogerty-on-the-irony-of-playing-fortunate-son-at-a-trump-rally.md",
+      "title": "Musician John Fogerty on the irony of playing 'Fortunate Son' at a Trump rally",
+      "excerpt": "National arts reporter interviews former Creedence Clearwater Revival singer John Fogerty on Instagram Live on Nov. 28.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/entertainment/musician-john-fogerty-on-the-irony-of-playing-fortunate-son-at-a-trump-rally/2020/11/28/a1e56c7a-9bdb-48d6-a60f-6e7647ebeb07_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/entertainment/musician-john-fogerty-on-the-irony-of-playing-fortunate-son-at-a-trump-rally/2020/11/28/a1e56c7a-9bdb-48d6-a60f-6e7647ebeb07_video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-28-2020/t_a0ae02a7069c4b1791015469192742dd_name_JohnFogertyThumb_copy.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+          "width": 1484,
+          "height": 834,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-28T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-29-not-a-hearing-arizona-legislators-trump-lawyers-plan-public-meeting-on-election-at-phoenix-hotel-monday.md",
       "title": "Not a hearing: Arizona legislators, Trump lawyers plan public meeting on election at Phoenix hotel Monday",
       "excerpt": "The meeting at the Hyatt Regency in downtown Phoenix is not a hearing of the Legislature as Finchem and Trump campaign's legal team have cast it.",
@@ -1248,106 +1356,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-flournoy-gets-progressive-boost-in-bidens-search-for-pentagon-chief.md",
-      "title": "Flournoy gets progressive boost in Biden's search for Pentagon chief",
-      "excerpt": "\"We believe Michèle Flournoy is the best candidate for the job,\" a group of arms control veterans write in an open letter to Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/11/25/michele-flournoy-biden-defense-secretary-440803",
-      "originalUrl": "https://www.politico.com/news/2020/11/25/michele-flournoy-biden-defense-secretary-440803",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d1/b8/2ffd1b81423daf4161ba1ad258a2/201125-michele-flournoy-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/11/25/michele-flournoy-biden-defense-secretary-440803",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/25/michele-flournoy-biden-defense-secretary-440803",
-      "publishedDateTime": "2020-11-25T18:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-joe-biden-says-this-is-not-a-third-obama-term-in-first-sit-down-interview.md",
-      "title": "Joe Biden says ‘this is not a third Obama term’ in first sit-down interview",
-      "excerpt": "Although his list of cabinet nominees included many Obama-era alumni, Joe Biden said the challenges facing him were unique",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency",
-      "publishedDateTime": "2020-11-25T16:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
