@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-08-trump-reportedly-limited-us-purchases-of-pfizer-vaccine-when-offered-live.md",
+      "title": "Trump reportedly limited US purchases of Pfizer vaccine when offered - live",
+      "excerpt": "New York Times reports Trump passed on the offer in late summer and the company may not be able to provide more doses until next June",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fcec0e68f0861e6ffe1e6e4",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fcec0e68f0861e6ffe1e6e4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/730b1899663f9fe8321baaaff43b7fe1efd95b53/0_210_6016_3610/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a89c32dae22553d9c97145e7fb9681bb",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates",
+      "publishedDateTime": "2020-12-07T16:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-why-is-he-planning-a-rally-when-he-won-the-election-mixed-reception-to-talk-of-trump-inaugural-rally-in-florida.md",
       "title": "'Why is he planning a rally when he won the election?': Mixed reception to talk of Trump inaugural rally in Florida",
       "excerpt": "Reports that President Trump is mulling a rival rally in Florida to split screen Joe Biden’s inauguration on Jan. 20 drew a mixed reaction.",
@@ -1512,63 +1564,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-in-new-interview-mueller-talks-about-vietnam-but-not-trump-and-russia.md",
-      "title": "In new interview, Mueller talks about Vietnam, but not Trump and Russia",
-      "excerpt": "Mueller spoke to Chuck Rosenberg for the NBC News podcast The Oath. In the interview, Mueller seems more in command than when he spoke to Congress in 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/new-interview-mueller-talks-about-vietnam-not-trump-russia-n1249714",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/new-interview-mueller-talks-about-vietnam-not-trump-russia-n1249714",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2018_18/2416666/180430-robert-mueller-2013-ac-1008p_a40d0ee92c3445b1c48a4a9f30613111.jpg",
-          "width": 2500,
-          "height": 1698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249714",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249714",
-      "publishedDateTime": "2020-12-02T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

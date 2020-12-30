@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-31-thomas-l-friedman-column-will-trump-force-principled-conservatives-to-start-their-own-party-i-hope-so.md",
+      "title": "Thomas L. Friedman column: Will Trump force principled conservatives to start their own party? I hope so.",
+      "excerpt": "As the Trump presidency heads into the sunset, kicking and screaming, one of the most important questions that will shape American politics at the local, state and national levels is this: Can Donald Trump maintain his iron grip over the Republican Party when he is out of office?",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-republicans-principles-thomas-friedman-column-20201230-xk57ext4k5f23nvlwbrnrch3ga-story.html",
+      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-republicans-principles-thomas-friedman-column-20201230-xk57ext4k5f23nvlwbrnrch3ga-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/YYU9TfU1m8pAK_U8lmVrbM3G5UA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A2A2DS3MISN6JSRITNRSEGF2CQ.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-republicans-principles-thomas-friedman-column-20201230-xk57ext4k5f23nvlwbrnrch3ga-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-republicans-principles-thomas-friedman-column-20201230-xk57ext4k5f23nvlwbrnrch3ga-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-30T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign.md",
       "title": "Trump calls for Georgia Gov. Brian Kemp, a fellow Republican, to resign",
       "excerpt": "The president’s demand stems from the governor’s refusal to embrace Trump’s baseless claims of widespread election fraud.",
@@ -740,7 +792,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/asian-stocks-advance-trump-signs-900b-aid-package-74929903",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1507,58 +1559,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-for-gods-sakes-get-out-of-the-way-trumps-former-national-security-adviser-urges-him-to-fund-the-us-military.md",
-      "title": "'For God's sakes, get out of the way': Trump's former national security adviser urges him to fund the US military",
-      "excerpt": "Former national security adviser John Bolton told Trump to \"get out of the way\" and said he was \"not a conservative.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/john-bolton-trump-get-out-of-the-way-ndaa-2020-12",
-      "originalUrl": "https://www.businessinsider.com/john-bolton-trump-get-out-of-the-way-ndaa-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe4e2caa644880018193562?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/john-bolton-trump-get-out-of-the-way-ndaa-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-bolton-trump-get-out-of-the-way-ndaa-2020-12?amp",
-      "publishedDateTime": "2020-12-24T13:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

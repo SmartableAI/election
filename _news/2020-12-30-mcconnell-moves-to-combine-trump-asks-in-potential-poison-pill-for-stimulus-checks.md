@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration taking steps to designate Cuba as state sponsor of terrorism in coming days"
+    excerpt: "The Trump administration will soon take steps toward designating Cuba as a state sponsor of terrorism as an 11th hour effort to create hurdles for the incoming Biden administration, which is likely to pursue warmer ties with Havana.\n    \n"
+    publishedDateTime: 2020-12-30T18:02:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3hDYDPb56hM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/cuba-state-sponsor-of-terrorism-designation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/cuba-state-sponsor-of-terrorism-designation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130617204230-cuba-flag-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration to block palm oil from second company in Malaysia over forced labor findings"
     excerpt: "The Trump administration will halt imports of palm oil from Malaysia over findings of forced labor abuses at the plantations of one of the country's top producers of the product, which is found in many everyday items.\n    \n"
     publishedDateTime: 2020-12-30T12:30:16Z

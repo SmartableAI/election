@@ -303,6 +303,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "U.S. Congress inches closer to Trump veto override as Republican tensions grow"
+    excerpt: "The U.S. Senate was due on Wednesday to hold a procedural vote that could pave the way for Congress to override President Donald Trump's veto of a key defense bill, as tension between the outgoing Republican president and party leaders grows."
+    publishedDateTime: 2020-12-30T16:28:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN29411U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29411U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29411U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546194815&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT170"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden warns of Trump officials' 'roadblock'"
     excerpt: "President-elect Joe Biden is warning of massive damage done to the national security apparatus by the Trump administration and roadblocks in communication. (Dec. 28)"
     publishedDateTime: 2020-12-28T22:24:00Z
@@ -569,6 +585,22 @@ related:
       - url: "https://www.ajc.com/resizer/zEKCcn-DiEMFCBmQ1NJ6n0VY7WU=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/FL7YP6OTPIEXYVGZABEULRYNEU.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
+    excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
+    publishedDateTime: 2020-12-30T17:16:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 62
+    images:
+      - url: "https://www.baltimoresun.com/resizer/85Xf4PTOdf76QQecBE6bXOrleHs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7MEZB6KZLEGBLDVQGQMT47SUSY.jpg"
+        width: 1200
+        height: 741
         isCached: true
   - title: "Trump Lashes Out At Republican Leaders Over Looming Veto Override"
     excerpt: "Donald Trump, facing a humiliating first veto override of his presidency, lashed out at Republican leaders in Congress on Tuesday as relations soured ahead of a crucial pair of runoff elections in Georgia that could determine control of the Senate."

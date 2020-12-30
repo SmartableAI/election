@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump's $2,000 checks stall in Senate as GOP blocks vote"
+    excerpt: "President Donald Trump’s push for bigger $2,000 COVID-19 relief checks stalled out Tuesday in the Republican-led Senate"
+    publishedDateTime: 2020-12-30T17:31:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943951"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943951"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943951"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_74bfe5e7bd964a5493fd4cda8451bdf1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Stocks extend gains after Trump signs COVID-19 stimulus, House raises hopes for bigger checks to households"
     excerpt: "The stock market extended Monday's gains that came after Trump signed COVID-19 relief. The House on Monday passed a measure to boost stimulus checks."
     publishedDateTime: 2020-12-29T15:27:00Z

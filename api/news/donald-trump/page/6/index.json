@@ -2,6 +2,63 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-03-in-new-interview-mueller-talks-about-vietnam-but-not-trump-and-russia.md",
+      "title": "In new interview, Mueller talks about Vietnam, but not Trump and Russia",
+      "excerpt": "Mueller spoke to Chuck Rosenberg for the NBC News podcast The Oath. In the interview, Mueller seems more in command than when he spoke to Congress in 2019.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/new-interview-mueller-talks-about-vietnam-not-trump-russia-n1249714",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/new-interview-mueller-talks-about-vietnam-not-trump-russia-n1249714",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2018_18/2416666/180430-robert-mueller-2013-ac-1008p_a40d0ee92c3445b1c48a4a9f30613111.jpg",
+          "width": 2500,
+          "height": 1698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249714",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249714",
+      "publishedDateTime": "2020-12-02T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-a-trump-fund-raiser-for-maya-wiley-yes-but-its-mary-trump.md",
       "title": "A Trump Fund-Raiser for Maya Wiley? Yes, but It’s Mary Trump",
       "excerpt": "Ms. Trump, the president’s niece, has written a tell-all book and opposed his re-election. Now she’s holding an online event for Ms. Wiley, who’s running for mayor of New York.",
@@ -1510,58 +1567,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-corn-vs-cob-trump-pardons-lucky-thanksgiving-turkey-but-avoids-political-jokes.md",
-      "title": "Corn vs. Cob: Trump pardons 'lucky' Thanksgiving turkey but avoids political jokes",
-      "excerpt": "President Donald Trump partook in an annual holiday tradition – the pardoning of the National Thanksgiving Turkey, a turkey named Corn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/11/24/president-donald-trump-pardons-thanksgiving-turkey-skips-political-jokes/6406179002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/24/president-donald-trump-pardons-thanksgiving-turkey-skips-political-jokes/6406179002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/24/USAT/446ebf97-c3da-4737-a944-cc6c6e2b5dfb-turkey-pic.jpg?auto=webp&crop=3382,1902,x1,y161&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6406179002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6406179002",
-      "publishedDateTime": "2020-11-24T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Donald Trump"
       ]
     }

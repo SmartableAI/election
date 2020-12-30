@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Trump lashes out at ‘weak and tired’ Republican leaders after House votes to override his veto"
-excerpt: "President Donald Trump is lashing out at congressional Republicans after the House easily voted to override his veto."
-publishedDateTime: 2020-12-29T17:31:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp"
+title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
+excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
+publishedDateTime: 2020-12-30T17:16:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
 type: article
-quality: 113
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/ErIEyMj5FnfbO54lqyCIIZcV0yk=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/FA5WMDJ3UZDNLK6CF66LMW4YYU.jpg"
+  - url: "https://www.baltimoresun.com/resizer/85Xf4PTOdf76QQecBE6bXOrleHs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7MEZB6KZLEGBLDVQGQMT47SUSY.jpg"
     width: 1200
-    height: 675
+    height: 741
     isCached: true
 
 related:
@@ -420,6 +416,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump lashes out at ‘weak and tired’ Republican leaders after House votes to override his veto"
+    excerpt: "President Donald Trump is lashing out at congressional Republicans after the House easily voted to override his veto."
+    publishedDateTime: 2020-12-29T17:31:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 113
+    images:
+      - url: "https://www.chicagotribune.com/resizer/ErIEyMj5FnfbO54lqyCIIZcV0yk=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/FA5WMDJ3UZDNLK6CF66LMW4YYU.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Breaking down President Trump's final 23 days in office, upcoming Biden administration"
     excerpt: "\"CBS This Morning\" is launching Looking Forward to 2021, a new series that explores what Americans can expect in the new year. CBS News contributors Robby Mook and Terry Sullivan join to discuss President Donald Trump's four years in office and what to expect from President-elect Joe Biden's administration."
     publishedDateTime: 2020-12-28T14:12:00Z
@@ -586,22 +598,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
-    excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
-    publishedDateTime: 2020-12-30T17:16:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 62
-    images:
-      - url: "https://www.baltimoresun.com/resizer/85Xf4PTOdf76QQecBE6bXOrleHs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7MEZB6KZLEGBLDVQGQMT47SUSY.jpg"
-        width: 1200
-        height: 741
-        isCached: true
   - title: "Trump Lashes Out At Republican Leaders Over Looming Veto Override"
     excerpt: "Donald Trump, facing a humiliating first veto override of his presidency, lashed out at Republican leaders in Congress on Tuesday as relations soured ahead of a crucial pair of runoff elections in Georgia that could determine control of the Senate."
     publishedDateTime: 2020-12-29T22:47:00Z
@@ -633,6 +629,6 @@ related:
         height: 683
         isCached: true
 
-secured: "0UTuf9ivyi2COC935TrxzaAEvo41gv0xqtAKIc9KQYoO/lGuL2xCtXywG8p30ow4UEAy8TbZyhfVN1PqvCfdmZSN3hbNFEYvtXwrCfwSr9XOM34jd0igAVo1ueSwU7/6M3h2x9Z6J7+rIFHrGS+btNvNztGMxJuaiVmGNcRAMSUNJvYhkT4CC90OpIMn5ePMI8EhF8+YYE7E73zxI/zjj8RbTdbLQLhrWcINpj1qs8tJBSu0Y+hrQjWt6w9Qrqwv9CDStRrEVp7u3Lww12tw8psikm4eQyUB6H1eXzMTlXo0ZOoMGPGsTmESiBpkWhZsCSJ0itrAIupfqRPSAo1JlI8xdMONLrR9BuyBPJGyEHg=;v62w1DV1eJKb9vu0F7uQrQ=="
+secured: "/BRlkPYRVU826ZXPXcwjJGrZndKI8VYBaKaPNL+PRTnKl+WCyb88LHXc5SqD8+R1ZIiK5SB7tcxs8MWh3wiRoTXnOxUyfHCXRwcYYdkWqZeymo/xfOqGq4qQt2eVE0bHRfK2jC5AnMyij848E1/8uPNMTNo1+kT0sxWQauS52est9a0druOL2EuApoy1NYSaJsRaVgL2CzjYknWldmfHq+wchElrYmzUDfuJD3hDxzM6Wp5EUEP5no4JrRaZi140QPHcf9VGF/JT05VFzEsc+HMQso4voITw0ULmn3Rqf1ZT8B7RsFZQesBh50OkO6C4K9JXwJM4ntDt3ZXVLDpM4+zywaS3sHDzlfsZ4rnlv0s=;JrJn9fNPTR59fRUl/v8ZMQ=="
 ---
 

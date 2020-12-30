@@ -7,7 +7,7 @@ originalUrl: "https://www.sfchronicle.com/news/local/politics/article/We-ve-had-
 webUrl: "https://www.sfchronicle.com/news/local/politics/article/We-ve-had-enough-Joe-Biden-outpaced-15822288.php"
 type: article
 quality: 55
-heat: -1
+heat: 55
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 2048
     height: 1365
     isCached: true
-
-related:
-  - title: "User Clip: Joe Biden calls Kamala Harris 'president-elect'"
-    excerpt: "President-elect Joe Biden makes a verbal gaffe during remarks in Wilmington, Del."
-    publishedDateTime: 2020-12-29T22:29:00Z
-    webUrl: "https://www.c-span.org/video/?c4932320/user-clip-joe-biden-calls-kamala-harris-president-elect"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 60
 
 secured: "nMxasvHGNyKTAiLCwp3myicPMHXa4M9MRsDWPoJPvV1pyaHxyg7cHsHKsjp9TfPIxbPsj5jBWRgBD16aPpGeXH8edo9njhvlfsmne7zj22wuSnEityDsnqeD5IGQSnY6vEGGWQX1qhJchzWZSFXyGnVprhVOTcjMkaAoJrWud5wyrsIZpPQa2a7WY7ZozJeEUYmK34Y3pV7hgY10TJmIgxqafb6IpIs1lQH0lSwY0U1SQzUgXeX6784bre1zUui3e3W64zCMHIrAMLdsPjhhvYWfUt7DmaoJjrU5dt9ELNAmJcHUM749pH+k25NzGHmWd9ADH7YxIBpEiQTOaytga9PiUCj05E9SQcd2BPcTvkj6+DOmdJxBFDsd5HDtmWeQPsARBjO1IMKoPt8kf/tmK4BAS8yriATMBHLygJgWZQHq3Cv0jv4G7zRcqwBM2Ffs8D4ZhFr9On+i5ZLYyt1Z6/6HWs3egojm9J6B0p8LGa4hhohHIKlePsxlJ87fi6OPotdLQIEJcSsEHP8G0O0hyQ==;JsmMeIikZrqwHK50lWz+Ug=="
 ---
