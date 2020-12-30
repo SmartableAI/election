@@ -224,6 +224,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump's Stuning Achievement in Middle East"
+    excerpt: "Donald Trump's legacy, like the man himself, will be complicated, but the one certainty will be his record of achieving what conventional wisdom said couldn't be done. His world-shocking victory"
+    publishedDateTime: 2020-12-30T12:45:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/30/trumps_stuning_achievement_in_middle_east_532387.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "NjoHpIBvlNJa8IloVFZxC9ACQQ0ztNWZeLjh5K714bNhnVH/0+b3SN40i/f9lVwr7P/p5cX1JdCDMJkQrBzYCGDOMmNHrPO8HbE9tFTQq5+Q1HJvC2V50tI53qB3/6Ph7JJE/9VkYTcE8wcpKQHXFyUiOb2DGvOu3ysl8t2HgDVLpcSj7J5WPAX9R4LCo9Qohd5ZEutIQFvR5+PtOfRrH40rd+OQSph4kAIqo6UrPuSHr6tKOixUGKgdsy7cGnYlqE56qmOUFeLMDZnQQSPWOxT/RqQ6DOflSv3GrZcWgbAcjvNSAtjHG9KAa6fXi2sFbS6zohf7V5+to9JnwpgUgVQNHhPTqbqoZzpdSeT1BAlsTto6Jy+AQxLNQMhzVHFksEi3iwnI/68PBZYhUedYTV2YH1/fMTWY+C20WeR7rr4346r/Od1OBD9UmF5Xv+gpHuYGf8c20tswd6WVxB/KJoc7VctkBMZh6RxaltdECjC/CgQQNAdudoZRgOggkGH6pHPPTfeAxbryV6it/syyXw==;qXYWuoJaa8gMxbTzmWSOQw=="
 ---

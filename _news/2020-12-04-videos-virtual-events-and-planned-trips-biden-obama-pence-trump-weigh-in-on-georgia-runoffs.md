@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-run
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
 type: article
 quality: 202
-heat: 1542
+heat: 1562
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to campaign in Georgia on same day as Trump ahead of pivotal Senate elections"
+    excerpt: "President-elect Joe Biden will campaign in Georgia the day before the Jan. 5 Senate runoff races there, the same day President Trump is scheduled to hold a rally for Sens. David Perdue and Kelly Loeffler."
+    publishedDateTime: 2020-12-30T12:29:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dKAc7ftm5kY/biden-dueling-georgia-rally-trump-senate-races"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dueling-georgia-rally-trump-senate-races.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dueling-georgia-rally-trump-senate-races.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 199
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump, Biden camps inspect Nevada election office ahead of Thursday hearing on lawsuit"
     excerpt: "Attorneys for the Trump 2020 Campaign and representatives of Joe Biden’s six Nevada Electoral College delegates inspected a vote-counting location in Carson City on Tuesday in connection with a voter fraud lawsuit filed by the Trump team."
     publishedDateTime: 2020-12-02T06:57:48Z

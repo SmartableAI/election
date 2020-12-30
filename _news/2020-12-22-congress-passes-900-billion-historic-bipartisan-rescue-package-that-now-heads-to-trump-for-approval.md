@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump's $2,000 checks stall in Senate as GOP blocks vote"
+    excerpt: "President Donald Trump’s push for bigger $2,000 COVID-19 relief checks has stalled out in the Republican-led Senate"
+    publishedDateTime: 2020-12-30T05:40:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_3cd216cd1023408db0da90287b3279b1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Stocks extend gains after Trump signs COVID-19 stimulus, House raises hopes for bigger checks to households"
     excerpt: "The stock market extended Monday's gains that came after Trump signed COVID-19 relief. The House on Monday passed a measure to boost stimulus checks."
     publishedDateTime: 2020-12-29T15:27:00Z
@@ -125,17 +141,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump's $2,000 Checks Stall in Senate as GOP Blocks Vote"
-    excerpt: "President Donald Trump’s push for bigger $2,000 COVID-19 relief checks has stalled out in the Republican-led Senate."
-    publishedDateTime: 2020-12-30T05:34:00Z
-    webUrl: "https://www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote"
-    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "ouR53de63D2UjYL9VMOpLPbgX2LQi9ctAGipjnauv/g3G/g1ahmqOyExObmn3OvNWm3LUQA5Rl5jjX6i88Vjt11YH5Nf4Bh7Y4rAXiPh9TN4wOGTifqkh0k6H7eWaXXFpc2AgRr9fkfvG6JG47KaLltIwVaL/RMtS3u4dn4BrlqFMBLHieIO/PwFKac98GybV+uc7aRbrkLq5V3pLaTJl//JA4RAp71T3uzEsozpUiweDeyN20i7SFd/+O+iWajq5lsa/QyHZmRMmqpskj6VqhqZ89vRiKUmHWSXwB/2Ns0/itaVcQ1tSEVORUQ8r5LaMkT9NmVWSvU8rGmJG42RN88uFd7wAWioJWj14P+CXYNyQ0RWwDPK1Ll2w3zCuxW297nst6m3MXsI7+AykVPuVVcgLXs7pIfNbc7wlZ/wTzfx9ihBMwa7uXYDRg8Hvt+ktiwlA0rcdhXFVvI9YUKn18lwjvY6aP5OBfwZpIfXcXShFBqp1rXnCQ6qXn+nYRcO97SK9b1Nbx+eb0RQOJV1kQ==;fjMQ8brdOQo9NdTBkpRZJg=="
 ---

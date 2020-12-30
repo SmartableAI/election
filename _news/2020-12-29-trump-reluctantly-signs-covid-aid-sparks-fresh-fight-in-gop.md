@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump's $2,000 checks stall in Senate as GOP blocks vote"
+    excerpt: "President Donald Trump’s push for bigger $2,000 COVID-19 relief checks has stalled out in the Republican-led Senate"
+    publishedDateTime: 2020-12-30T05:40:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_3cd216cd1023408db0da90287b3279b1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Congress passes $900 billion 'historic bipartisan rescue package' that now heads to Trump for approval"
     excerpt: "After weeks of painstaking negotiation and months of partisan finger-pointing, the Senate resoundingly passed a sweeping COVID-19 relief package Monday, sending a bill to President Donald Trump to sign that will send millions of Americans direct payments and rescue thousands of small businesses nationwide struggling to stay open in the face of the pandemic's suffocating grip."
     publishedDateTime: 2020-12-22T11:16:00Z
@@ -125,17 +141,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump's $2,000 Checks Stall in Senate as GOP Blocks Vote"
-    excerpt: "President Donald Trump’s push for bigger $2,000 COVID-19 relief checks has stalled out in the Republican-led Senate."
-    publishedDateTime: 2020-12-30T05:34:00Z
-    webUrl: "https://www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote"
-    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "z9klD0K1icvzaNFX4FxLug43+Y+baobLg3D//KO2DM/jL1s+ciGmnODfMtiAdTSM210ZptTsm8T15jsgzpBKuRJZ0pZ3sLKhyJgkKOOrdh2+3Uk8mg0IKZq3wseQ9kNQA1TY3tMYSdaML/Jp92AZHTf+B5dGEidWyVcONyKEi5o2l4a0FudAMhsYWDuNq9BDYqeis5Zq56YKpxLBMA2Um87hwob3+oUBRXRYnUMYBGcgu/8dfkWv1ePQmQ57HUkU8M4jxATkUw1QU5TxeJOdr2Ra3g8jBmanJissFh63qnsGz7DtJE96dhTXtuJBe68vzWi/ce/7yK/8m6fNfu/4l9Xt3wAI75DUmFDQojvdbF0=;Zvv4d5QPyP+Nballfs/M6w=="
 ---

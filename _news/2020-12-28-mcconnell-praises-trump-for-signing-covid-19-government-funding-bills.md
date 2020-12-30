@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -223,6 +223,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump's Stuning Achievement in Middle East"
+    excerpt: "Donald Trump's legacy, like the man himself, will be complicated, but the one certainty will be his record of achieving what conventional wisdom said couldn't be done. His world-shocking victory"
+    publishedDateTime: 2020-12-30T12:45:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/30/trumps_stuning_achievement_in_middle_east_532387.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "XCQzpJFi0JN1po6eNiaov7rNvBM51RdEbIYYEMFCEVoy2JVSHMLg4SCjJCXgh2tolSuZ0jTHAjR4yD1ZSR2S62PSBjYHrVB7NGhD6xkYLYdT4RQ7DidgsX0Gzwa+7sjdgE6YpYDGwC9czg4KD50tYOe2XuZz1k/Vyir9F77akpUCg7ziyzPaGWi78A+4fao/ZLQ0fm37kq7usAM8RRfkAUPiALQVrakL26uvktJpJGMZ9ZST4Cq+jsybcXDB6B8B234k7CwS4h4pvuIqWU+X30nQdIDM8jfDVM8ZpiM5DlJD/knarGoNI2GuiVW5cQvk1Cx/fYYS0qIz+UfpWrkh0SS245f+SmcttrjdZJfhFRA=;onrOEZJnor++R/Ac81A3Ww=="
 ---

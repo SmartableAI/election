@@ -3,8 +3,8 @@ category: news
 title: "Frank Luntz: January 6 Will Be A Make Or Break Moment For Mike Pence's Career, Future Of GOP"
 excerpt: "Sunday on ABC's \"This Week\" roundtable, pollster Frank Luntz said that January 6 will be the climax of the post-election drama when Vice President Mike Pence will be responsible for certifying the election results,"
 publishedDateTime: 2020-12-27T17:47:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/12/27/frank_luntz_january_6_will_be_a_make_or_break_moment_for_mike_pences_career.html"
-webUrl: "https://www.realclearpolitics.com/video/2020/12/27/frank_luntz_january_6_will_be_a_make_or_break_moment_for_mike_pences_career.html"
+originalUrl: "https://www.realclearpolitics.com/video/2020/12/27/frank_luntz_january_6_will_be_a_make_or_break_moment_for_mike_pences_career.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2020/12/27/frank_luntz_january_6_will_be_a_make_or_break_moment_for_mike_pences_career.html#!"
 type: article
 quality: 54
 heat: 54
@@ -25,6 +25,6 @@ images:
     height: 698
     isCached: true
 
-secured: "eZ3afsJqw4DlQ/bdeGYO+AoawB7Zpti469GNIfPGw3pmjUI+TBUc/hUPkoXPunRKz1mTqwmxceo1eaafPboo1ICLQaMXCihW4VGk0kYJL4pQet0oljo88hkR9vkO3p16BMCp8AxQbviHPpPUsoQpYFyd2y0if+4LXKYkU2nkto/1LD+iBhLwoiHEnTGi64OT5AC0mo+v2ZiKAXOKeOiBOhnrtvDJtnYXm85tYJyWDtV1SUqhDrJXLu2bYG2tZadKhXN6Iv7qiah6AYQkZ12YS413710sSRblWJsNcRuyxnAnpZ22nXCd9WDMtUBae8KUTLu8ORIyULzSrFP37QdV51zlJ1CSZRFr6zutmx3g9BQ=;3TsOwo7bQOAjMnKJKuZqkQ=="
+secured: "6zLo5xRIx68bwM+18DxWoUf+rXMtczqE5VrP1hZlTIKlHSrS75YWctSGj3StRCz4ih2aFP17joiAFBCBfMw+90pc67FdXyqqU2OjbVLQS47j9j/7Ltg3jVp9OR88Gj5z7mbErScM8u/iqMkp5OQte9wq3+JI3pOMrLx0vKyZvoq98LFHUSgy9E2tqeGwP5LO88q+HRk8abz10D0OWB9Phg1j1/oFMN/A/5ieKVjpJJ9MFtDxsu4jWrTFFiYTlHsXzIDfIvCXBFiWKJfjwG6xxaHgkx8BSfAkdV9boQLkvEsxmUALgwDnKCnSx3ehHkoRNc38kfiOmZsK+5HgyicDnSIaJubnjEboFTmm4CtcVkc=;0uuyxH+K4OyG43bWLQJn3A=="
 ---
 
