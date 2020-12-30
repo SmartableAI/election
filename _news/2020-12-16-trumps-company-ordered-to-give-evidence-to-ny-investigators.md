@@ -960,11 +960,11 @@ related:
         height: 300
         isCached: true
   - title: "U.S. appeals court upholds Trump health care price disclosure rule"
-    excerpt: "A federal appeals court on Tuesday upheld a White House-backed rule to require hospitals to disclose the prices they negotiate with insurers for an array of tests and procedures."
-    publishedDateTime: 2020-12-29T17:45:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-hospitals-lawsuit/u-s-appeals-court-upholds-trump-health-care-price-disclosure-rule-idUSKBN2931OS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2931OS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2931OS"
+    excerpt: "A federal appeals court on Tuesday upheld a White House-backed rule to require hospitals to disclose the prices they negotiate with insurers for an array of common tests and procedures."
+    publishedDateTime: 2020-12-30T00:46:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-hospitals-lawsuit-idINKBN2931OS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2931OS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2931OS"
     type: article
     provider:
       name: Reuters
@@ -1789,6 +1789,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/28/members-of-the-violent-proud-boys-group-are.jpg"
         width: 1024
         height: 660
+        isCached: true
+  - title: "Jobless To Get Weekly Aid Despite Trump's Last-minute Approval, US Says"
+    excerpt: "Jobless Americans who risked not receiving unemployment aid this week due to President Donald Trump's delay in signing off on it will indeed receive the money, the Labor Department said on Tuesday. Congress in March expanded the US unemployment safety net as the coronavirus pandemic struck,"
+    publishedDateTime: 2020-12-29T23:40:00Z
+    webUrl: "https://www.ibtimes.com/jobless-get-weekly-aid-despite-trumps-last-minute-approval-us-says-3111426"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/the-los-angeles-regional-food-bank-has-distributed.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "NvcElzpJSqpbw0NFv0/bBh5Jh1OeY9BTDLppoPENW/g+38G0/0Ea1WrnRSNAKRqj5TRG2mZT8dnAgr13TzkduDxzaVs6ZZZrZAAJ8VifiLeUx/+Ra/tKI+gRSKhV7HVk653tmnJjbZ9zNxOrib3M0MH2wEACiEtD8iYCIcx72zx4id/Olsnl3PzXCul4sdFS5wCstr/nd5llJ5pTPWFPFyWzH4kEBq080QhR2S1vkP3yDGw7uc43u9mo9xw8drqbth17sGC38o/1HqKPCdWB4pfXK1pJJ2LPMWZ2s6kHjh6KkcURkSayX+lxJ2VU2SCEV5GoC42D0ge+pTxEHHrqkKFjzuw91Z2NqcgKj2kfFc4=;PiNXvmLq3dtpfP2VhL8ANA=="

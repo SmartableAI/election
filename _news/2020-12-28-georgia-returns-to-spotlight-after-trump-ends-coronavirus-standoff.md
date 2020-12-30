@@ -80,6 +80,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Loeffler, Perdue side with Trump on $2,000 stimulus payments"
+    excerpt: "The Georgia senators, in close runoff races, wouldn’t say whether they’d vote to override the president’s veto of the defense bill."
+    publishedDateTime: 2020-12-30T00:08:00Z
+    webUrl: "https://www.politico.com/news/2020/12/29/loeffler-trump-stimulus-payments-451860"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/29/loeffler-trump-stimulus-payments-451860"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/29/loeffler-trump-stimulus-payments-451860"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/55/3b/4bdd329d492b8912eb8cb39d61c8/gettyimages-1230123259-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "H47AYpnDpQC9XKNerq2guBzJj7qZY/c718tseA6qDrllu+nybc8TCZA1hiOJAI1rT7XJZAVy2ch5IDTHbpPoVjWXBg3W+f7yekAqtYgKU3OtgFHm74kmf5DuvMP5xoHkCPJ81IrovkuWAgYeJ//m680TfrGzPbgoekFwrj8Eof221/srfhN7fAHKstPDX5UiCXLv5GqdQafL3IqWGHPI6InVKVJ1OylcjsivEXL64zDJn1lbl2HAMzvIz/k+bCrDY33H0Dx2ooLJSF6KcVpI2O5jVsJxO7ArphxD5wFDluR1Envui+TetxhRHex5FjOg/sf9ONbGjAvge0kve/KCNx5W48M7xt6e2jZVeA0UKsJdmmR8Jp5iigyYXBvxcMONkJvaZvgdu/iF0qT8dxxKPhw/9fUxYwgck9xtpZDWURe7X1jEyNRUQc03jG7za+VhtxWyLRBUvjBiSnmbKMdEQUfivw+vdIfcfJbuU0SL1+1MoB/3+0wcK7pgQcrbxFh/HoK9gTgJe5VuN0sGGH5Dqw==;Lj4n5BD9tKkhVrNSb1bVqA=="
 ---

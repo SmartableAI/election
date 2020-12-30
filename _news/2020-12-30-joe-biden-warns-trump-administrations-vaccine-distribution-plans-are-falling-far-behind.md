@@ -191,6 +191,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump lashes out at ‘weak and tired’ Republican congressional leadership"
+    excerpt: "The president took aim at senior members of his own party for not supporting his baseless claims of election fraud and allowing an override of his veto of a defense bill to advance."
+    publishedDateTime: 2020-12-30T00:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2I6A53BZSMI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Millions of Americans lose jobless benefits as Trump refuses to sign aid bill"
     excerpt: "Millions of Americans saw their jobless benefits expire on Saturday after U.S. President Donald Trump refused to sign into law a $2.3 trillion pandemic aid and spending package, protesting that it did not do enough to help everyday people."
     publishedDateTime: 2020-12-26T10:31:00Z
@@ -252,6 +268,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/ea7a4d10-4c40-4c15-a28c-e36ec0cb2ce2_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden criticises Trump over slow Covid-19 vaccine rollout – video"
+    excerpt: "Ramping up vaccine rollout will be the 'greatest operational challenges we've ever faced as a nation'  Biden says"
+    publishedDateTime: 2020-12-29T16:58:00Z
+    webUrl: "https://www.theguardian.com/global/video/2020/dec/29/biden-criticises-trump-over-slow-covid-19-vaccine-rollout-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/46662180b955305cb03c9a68b6d93b89eaf71fe6/0_177_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ce9a44a189c76abd7d573b52d811573c"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Texas Baptist Minister, a Lifelong Republican, Loses License After Endorsing Biden"
     excerpt: "\"Had I endorsed Donald Trump or kept my views to myself, I am sure I would still be a licensed Christian minister on the pathway to formal ordination,\" David Bumgardner said."
@@ -478,6 +508,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Lashes Out At Republican Leaders Over Looming Veto Override"
+    excerpt: "Donald Trump, facing a humiliating first veto override of his presidency, lashed out at Republican leaders in Congress on Tuesday as relations soured ahead of a crucial pair of runoff elections in Georgia that could determine control of the Senate."
+    publishedDateTime: 2020-12-29T22:47:00Z
+    webUrl: "https://www.ibtimes.com/trump-lashes-out-republican-leaders-over-looming-veto-override-3111419"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/president-donald-trump-lashed-out-at-the-republican.jpg"
+        width: 1024
+        height: 642
+        isCached: true
   - title: "Some Republicans plan to challenge Joe Biden’s Electoral College victory. Here’s what happened when Democrats challenged Bush"
     excerpt: "Congress will count the Electoral College votes in a joint session of Congress on January 6, which represents Trump’s final chance to try to overturn the election result he lost to Biden."
     publishedDateTime: 2020-12-28T09:47:00Z
@@ -495,6 +539,6 @@ related:
         height: 683
         isCached: true
 
-secured: "GnylChWr9gCpQja8OyKCKisru4zmcgwNcq3tGmsxRlqAaDzChCOyiVdV2ONp3w22T0KToXSeESFWwWYnCVozb2m4J5ZrRCSY/bhm5oOOv75IxvNxDxUva/WG111rz12FDE4FPzE8XXVzCpzPa/3HIhDPM98o+tWIWtsFR4OZO8s8TM+zoYzXKT3OfOQi2AX/Lha6MLDwtGxXGBxWaE06yCcGEW8FyneqDJZpZbav+OHTFfJoITrlr/q3g4TrV1AZDsfgwW7ayMVQFhTU493jO2A3m3B5TuWYpRM9zh+/ExcejOSA+vUn+j0SOIR/slc8O6aRS3M46ve+BhRCuHlNCneIqsaa6fg1hd9e85KCTHk=;lZIIuKitnigEpdxrSdZWPA=="
+secured: "9nb5gCTQV29qIoFtqlR+ztQxGdB1p4B4hNwqwj6ca6M1u7r8h7DC6QceH6ZJIJAMXgyg1EkwIDx3Il32wXI+7SeAfZQvIRQCGnsFoYfw/fY7jDKwatb8W6Kx4Xur4hgNVeC1AtIdZie2MyLwvbsvFMP0QAKj76UL0dRrNNbgTPUjnCaN8qvAZfe7siL/eEH5L6BPcGtxGmYDi4IIAXVWrmV//dkSqbxNQvxnvs5g/P3tghyQiDabGvnT4j+VkWKrxF+tPeNOARW0MMDBP076Drd8pl/aETi839xji4HwChX/MMXr4nHtqak4OwCVdSjppcoypbXkcTDpa8zV9upT8Q5p5HFcbo01Tx8GDFuwknbObD5kycNCmwVIomghxXJa0fSr/jtPPQjLeK3axbQXShawuhe94TdKoIliGy4cMO6C0jJUPFIxZmzNYZZYAV55DKC0H4tSZ3OOuJHqjxZO0yfjDYEwCYb3LnVN+PQ6vZ+hmhQwZqUUZ9998WdaO99uc7ZzXUThtiEbzkKw+7e9Yg==;s6MUJVHd2/b6w4f9mJdL/A=="
 ---
 

@@ -96,6 +96,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden says Trump administration’s plan to distribute vaccines falling ‘far behind’"
+    excerpt: "President-elect Joe Biden is warning that the Trump administration’s effort to vaccinate Americans against the coronavirus “is falling behind, far behind.”"
+    publishedDateTime: 2020-12-29T23:03:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7r-kq0svWU0/biden-trump-administrations-plan-distribute-vaccines-behind"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-administrations-plan-distribute-vaccines-behind.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-administrations-plan-distribute-vaccines-behind.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "McConnell says he'll treat Biden 'a hell of a lot better than Chuck Schumer ever treated Donald Trump'"
     excerpt: "Sen. Majority Leader Mitch McConnell promised to treat President-elect Biden better than his minority-leading counterpart ever treated President Trump. "
     publishedDateTime: 2020-12-22T18:50:24Z
@@ -175,6 +191,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden says Trump administration’s plan to distribute vaccines falling ‘far behind’"
+    excerpt: "President-elect Joe Biden is warning that the Trump administration’s effort to vaccinate Americans against the coronavirus “is falling behind, far behind.”"
+    publishedDateTime: 2020-12-29T23:07:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-trump-administrations-plan-distribute-vaccines-behind"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-administrations-plan-distribute-vaccines-behind.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-administrations-plan-distribute-vaccines-behind.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20364769831212.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump claims China 'may' have been behind cyberattack after Pompeo says it was ‘pretty clearly’ Russia"
     excerpt: "President Trump on Saturday claimed China \"may\" have been behind a massive cyberattack on U.S. government systems -- a day after Secretary of State Mike Pompeo said the attack was \"pretty clearly\" perpetrated by Russians."
