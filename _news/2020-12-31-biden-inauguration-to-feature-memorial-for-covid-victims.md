@@ -2,21 +2,21 @@
 category: news
 title: "Biden inauguration to feature memorial for COVID victims"
 excerpt: "President-elect Joe Biden is planning a lighting ceremony at the Lincoln Memorial Reflecting Pool to honor those killed by the coronavirus the day before he is sworn into office on Jan. 20"
-publishedDateTime: 2020-12-31T13:59:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-inauguration-to-feature-memorial-for-covid-victims/2020/12/31/d18b74fe-4b6f-11eb-97b6-4eb9f72ff46b_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-inauguration-to-feature-memorial-for-covid-victims/2020/12/31/d18b74fe-4b6f-11eb-97b6-4eb9f72ff46b_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-inauguration-to-feature-memorial-for-covid-victims/2020/12/31/d18b74fe-4b6f-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-inauguration-to-feature-memorial-for-covid-victims/2020/12/31/d18b74fe-4b6f-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+publishedDateTime: 2020-12-31T15:37:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_467ec2758fd24427a99beb711a78f8a0_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -44,6 +44,22 @@ related:
     quality: 128
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/ebfb5d0f-d98f-40ee-a919-a3b84dd66128-AP_Biden_1.jpg?auto=webp&crop=3689,2075,x0,y385&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Live politics updates: Trump to return to DC early, GOP senator says he's 'playing with fire' in contesting election"
+    excerpt: "Sasse said the effort by Trump and his allies to overturn Biden's win amounted to pointing a \"loaded gun at the heart of legitimate self-government.\""
+    publishedDateTime: 2020-12-31T14:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/31/politics-updates-presidential-transition-congress/4094103001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4094103001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4094103001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/2c7e25e6-de7a-4a91-a9bd-c1acd79338db-AP_Trump.jpg?auto=webp&crop=2923,1644,x1,y201&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -207,6 +223,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden inauguration events to include memorial for COVID-19 victims"
+    excerpt: "President-elect Joe Biden plans a lighting ceremony at the Lincoln Memorial Reflecting Pool to honor COVID-19 victims the day before his swearing-in."
+    publishedDateTime: 2020-12-31T16:33:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/0aaa9dc/2147483647/strip/true/crop/840x549+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F7a%2F5217b0d3442c8a0e32ee818e8562%2Fvaccine.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Donald Trump plays golf as Congress scrambles to salvage Covid relief bill"
     excerpt: "Nancy Pelosi in talks with treasury secretary Steven Mnuchin after president’s demand for $2,000 stimulus checks left deal in disarray"
     publishedDateTime: 2020-12-25T13:51:00Z
@@ -318,22 +350,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/washington-gty-jc-201228_1609176677117_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Live politics updates: Trump to return to DC early, GOP senator says he's 'playing with fire' in contesting election"
-    excerpt: "Sasse said the effort by Trump and his allies to overturn Biden's win amounted to pointing a \"loaded gun at the heart of legitimate self-government.\""
-    publishedDateTime: 2020-12-31T14:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/31/politics-updates-presidential-transition-congress/4094103001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4094103001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4094103001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/2c7e25e6-de7a-4a91-a9bd-c1acd79338db-AP_Trump.jpg?auto=webp&crop=2923,1644,x1,y201&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Trump signs stopgap funding bill; Congress awaits his approval of $892 billion COVID aid"
     excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week while Congress passed a massive COVID-19 aid and government funding package overnight aimed at bolstering the nation's pandemic response and its battered economy."
@@ -566,6 +582,6 @@ related:
         height: 675
         isCached: true
 
-secured: "diBSfTYfce+nWI+pqr3xNsWX7CPFeh+gDWoLAIGYiVN/roVfZ8EYumi9aeeg2edLOpFXtRqkCJSc08/mJyD9ssfro90EndhY/cQ621uVWRWABwc46qjUcLDedXSlVscOTJv//W9WkYV8DveIZp1LgPyaMT9zZpmmtr9jVa+RRk+9fXp99RSDT0uRAyIYMG/lvb5bN5zIgT1ydeQxocCEX104kWdkE2KcZyjXkxW9QeqLMnd3Ljt/Y6752Zy9nBiY7yei6AexVZDd1wfRtrlXxJhC/BN2pcJN1y5xzvDYpVjLIk5dBn+UFFcXc0XrYvkDAIeRjrE5ILyFUDt9bW0XXmmc1dI/6VZskI0enrwot/k=;cVhSYdyS37rRCboDsI0N4A=="
+secured: "6BR/DgEMnTCbr/X7voBwiUDSRJkCYinj3vCnl36N6m3bGsGmBY7KCnRqJi2HGVLdZQHRbWuu1hGSXnzOXhzJNnkyS4WeOPyfez9WVYn8LzBfGYJQiro9emosM6Yc7VlXWf9n3XXkDVSkmOTh42459YvY+bCip9CJ5VQ4Dg/oUHNVY0IHnet8FCn/KEongD5SWZqiR2SCYOiPQtxZMwDwYeMTAryBbXs3Lg4JH5RPZwcRIj8nMioLU3kWsur+oCB1M2D2Hm1k1M5GvuSJnTkepGhL7an+3i7v9sQZngxksuhWrR2ek2ty/HidobErCAxXPrVpVthCij9Tgd900lKwByWhYZb/VMNPvme3CGdIZbg=;odzBzMZ1xXPCT5MHnJZSew=="
 ---
 

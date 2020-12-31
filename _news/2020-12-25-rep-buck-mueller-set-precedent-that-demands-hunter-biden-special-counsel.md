@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "DOJ officials in 'ongoing discussions' about Hunter Biden special counsel, some say it's 'warranted': sources"
-    excerpt: "High level officials within the Justice Department are in \"onging discussions\" on whether to appoint a special counsel to take over the investigation into Hunter Biden, with some believing it is \"warranted,\" two sources familiar told Fox News Wednesday. "
-    publishedDateTime: 2020-12-24T00:47:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fN1knlTB8Lw/hunter-biden-special-counsel-justice-department"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-special-counsel-justice-department.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-special-counsel-justice-department.amp"
+  - title: "Computer repairman: Twitter calling me hacker in Hunter Biden laptop case was 'death sentence'"
+    excerpt: "The computer repairman at the center of the Hunter Biden laptop story said Thursday that Twitter destroyed his business by labeling him a \"hacker\" and legal action was his only recourse."
+    publishedDateTime: 2020-12-31T16:27:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SeGHAEF1WmY/repairman-twitter-hacker-hunter-biden-death-sentence"
+    ampWebUrl: "https://www.foxnews.com/politics/repairman-twitter-hacker-hunter-biden-death-sentence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/repairman-twitter-hacker-hunter-biden-death-sentence.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 163
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60113ed3-0ac2-471b-811f-c14b7f5dc24e/fa32c636-a6f1-43d4-82ba-80c74820accf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "aESBts1rGDz0jMmMu84uTCMpz9zriFwlTnjU1jCaRC2KOa3WUyCBmOoV6knrmW5ywYNc5HS1YvAUqY3dShB/X+/Mm6PZcKWp3tXLvSHBJ0rXGv6bMyfWT1bkiKwwPZo3c8dkcqW5NxhqWro4wh8lWVtxlpTZPbhNTV+Sz0KYqkGJ7m69bv3aicxtu9/TpHjAVFeNlYJVuFpazjGKjCvcZyFERAq6EVommid/8cQwUNMHO0Ly+lJuk9O1yLCz8jHsMOCVL5NMrZTB5y+jqQB1qvK3hAI4XPNBO5YYKlBBswGyoPme7k48zot1EcuViLKgsrj4grugNcy6Xum8KYnZKxqfMuVB9TykX2dC4Bn686c=;9rwtg7kyWUzoSoEEo6w4BA=="

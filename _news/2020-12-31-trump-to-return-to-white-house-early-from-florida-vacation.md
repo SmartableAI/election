@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-return-white-hou
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74982038"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 821
         height: 545
         isCached: true
+  - title: "UPDATE 1-Trump to skip New Year's Eve in Florida for early return to Washington"
+    excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
+    publishedDateTime: 2020-12-31T16:21:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-idUSL1N2JB0X2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JB0X2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JB0X2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546284574&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0QE"
+        width: 818
+        height: 545
+        isCached: true
   - title: "As Trump leaves office, South Florida is poised to become his new ‘MAGA’ capital"
     excerpt: "Everyone’s leaving. They’re moving to Florida,\" President Donald Trump says. South Florida is poised to become Trump's new MAGA capital after he leaves the White House."
     publishedDateTime: 2020-12-26T16:28:00Z
@@ -78,6 +94,6 @@ related:
         height: 360
         isCached: true
 
-secured: "72rIHZdR4vshF0oH4aNIny5gO07D2nxvVPBnv2ywB/HeM+V2csObX8li/irUCZAf+bP5I1xK8bo7rCvaebrguuoFj3aNDHV7zbLNb18HHOxlrMQ9WsmlX6twIEQWxn1hYyShSxzfMK+EktOZ8ryt1QGOg4iAbPIHOQU5ZrNy6lCFlN/+a6BX5d90PLbEonU2yW348M/iXb22fv7WipU5NYDg1Ne5qnhU4pK8XXxN0ZZnGu0GdP5v+Mhbcz5gkqEYMuwhrn4iQ7KYeSftH54Ah2aGQoUtKEIDPu/soF89F8j2HNWDA4obF6Xb3PJd7a+mCnJGoMOld2LbsdOH64uOudM9HGf5vzZzxzEhwVSQfRc=;77h4uryZp4nZFh1m4qfv0g=="
+secured: "ZMZ6InQEa5oAiwOn9iX9HFeZh3M3wweq42/p7keibFytOp1bY8b8AGsbz4D50leaR/5qMOws6UvAFYt/WiwxpRmaO/+HxGE9jrGNXEmuvQzDrxQCfe68qEpsqlzlf7SMwYKowObBwh4qHRAX22wdsjxu3rE/Kj4tWHAO5xbvF9lZrumaolDaLsbaVA1jbMzXqpMGSR/zhaenRhL+IUoLYxrngmoVcTRmGCy9anpITpu6/yYSjq8tlRb3x4k8aWST+O+aadR/HWZ9tjHyBpRmJKzObMWh2zps/weVkjJLjQERL274BuYIv7pEVGW4HP16WoTNUSqpO2JqE3e+1D6g1+fp3K1bHudLD5Aia5bhDu8=;RtQO+zzMIlyrlB6NO2HwOQ=="
 ---
 

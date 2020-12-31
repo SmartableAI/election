@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to take swift action to roll back harmful 'midnight regulations' -transition team"
-    excerpt: "The Biden administration will take swift action when it assumes office on Jan. 20 to rollback harmful Trump administration policies that will not have taken effect by inauguration day, a spokeswoman for President-elect Joe Biden's transition team said on Wednesday."
-    publishedDateTime: 2020-12-30T19:44:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-transition-idUSKBN29422E"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29422E"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29422E"
+  - title: "Biden inaugural activities to include memorial service for covid victims"
+    excerpt: "The committee planning events announced a lighting ceremony at the Lincoln Memorial to coincide with remembrances around the country."
+    publishedDateTime: 2020-12-31T12:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546198325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT17D"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Domestic terrorism and hate exploded in 2020. Here's what the Biden administration must do."
-    excerpt: "Members of Joe Biden’s transition team set up a meeting with senior members of the Anti-Defamation League to discuss fighting domestic terrorism and right-wing extremism."
-    publishedDateTime: 2020-12-29T11:00:00Z
-    webUrl: "https://abcnews.go.com/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
-    ampWebUrl: "https://abcnews.go.com/amp/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 115
-    images:
-      - url: "https://s.abcnews.com/images/US/charlottesville-protest-gty-jt-201005_1601922791769_hpMain_3_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5G7GCCLMMI6XKOZDY7MJKJIXE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "R4PFFXrmmk9R9XXezRYvfKvdxRd4XxqlgiTcbugY1yA5hhCypL97VaSuNVknT7J/eWUPnLgkK4rwpU88burIRoKJPdePJn8wVtAXzTr8Y0DHddxKjflsDCHAT/svISUaUHaZNNv3TvoCALKUSOJW05gV1wWRSDsSNk3UEnJW6+lQeejrs475yoRA6pOUy4FVnm2xUVojFpy/lotU79D6IjCmFIOnyUgydpu3ugTG3+3Iae6i8o9FZsV2rxIiuW5ttduvXAbVDWe/nFl/Tp2ch1ABfNCPPAVicYcg4Sc9T4AmggbSxjVbN7npD3+3dxf55BxqwEkbq/DDr+OAXFgaowLT70+zlaCZTbHYfi9M8RrfI8hVbwdnsZTXa42Kx7+E9jTYD2zvYL2QB85SUdOlasvBroyjXfNSY6lEjtp6TVv3eEHG3Xa5e0DUYmOX8amAAWwXVgGAMlSSmh2GFaNXQOZXNp1dO0JLLdgWMTXZdY/9NixorZejUdvPvv0Kn8/vBkfyaEDn7RNadjGSmSbvVw==;pKq9X9hU1pbriMGfIXHLwg=="

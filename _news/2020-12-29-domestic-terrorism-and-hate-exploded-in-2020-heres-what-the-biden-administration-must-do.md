@@ -47,22 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Parade viewing stands dismantled near White House as Biden team seeks to discourage inauguration crowds"
-    excerpt: "Workers on Tuesday broke down the inaugural parade reviewing stand in front of the White House ahead of what President-elect Joe Biden's transition team plans for a mostly virtual inauguration. Aides to the president-elect say that such infrastructure will not be necessary for the \"reimagined\" event."
-    publishedDateTime: 2020-12-31T00:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/30/biden-inauguration-parade-viewing-stands-near-white-house-dismantled/4085710001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4085710001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4085710001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/157e1de6-e356-48e3-bdb9-aef9342d0131-AFP_AFP_8UW7FD.jpg?auto=webp&crop=3698,2081,x0,y248&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "ENbFM6BUVSJesTjcnfjwZvFDIpzmBJcsZbVidHr0nvgZH0QuVopAYLtdWi0NCkzRWlVbWZhDCA860BxKmavj7Pj/K0GAJ4hT6PNhwkmWrfu0wvdD/3X5542rzXFhEURm7cqsDVC5VXqkYLWL0UTa5zYu04LFA6F5h3CkgdZe6QX9yKxxwVXwIMYLC/52xmncwy0uIAE2aJ9kTc/QoyGZpchXaISuu8tjSEe3OhB94/28C+zsyPsLcIIzLU8awnUDSzGcrHt/3rjMXzvxAZ8VB4NcyU0WMmlOMpNHNsnH7TTSAC3E3Y8eU9ZVrXNVMoLUxNvxB8dDG6OYrqzK8WIEhXB1p0mXmDeewJkdkT1IlGs=;BTuurgMyz3CvgWB7BtPpKQ=="
 ---

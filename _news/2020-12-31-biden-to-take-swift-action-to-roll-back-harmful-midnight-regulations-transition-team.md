@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29422E"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29422E"
 type: article
 quality: 117
-heat: 157
+heat: 137
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://s.abcnews.com/images/US/charlottesville-protest-gty-jt-201005_1601922791769_hpMain_3_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Parade viewing stands dismantled near White House as Biden team seeks to discourage inauguration crowds"
-    excerpt: "Workers on Tuesday broke down the inaugural parade reviewing stand in front of the White House ahead of what President-elect Joe Biden's transition team plans for a mostly virtual inauguration. Aides to the president-elect say that such infrastructure will not be necessary for the \"reimagined\" event."
-    publishedDateTime: 2020-12-31T00:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/30/biden-inauguration-parade-viewing-stands-near-white-house-dismantled/4085710001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4085710001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4085710001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/157e1de6-e356-48e3-bdb9-aef9342d0131-AFP_AFP_8UW7FD.jpg?auto=webp&crop=3698,2081,x0,y248&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "fZVBnW8cOPjNCkDYjjYPoSNbfGSi3kA9WEYpL5cANj6ihYInTWQnjzq3wnpZiqk2eQQQj5tNXUhUNTniHlNeXpSzZxPqN9NrEv4joCM4K1ey3xY8TyDZfPBgBRM6UMpioZuT9HcWYtoUc4EPav1EAob+Z5RP4F2V8RO9vORkwWU0lM4yY9SzoMgOi9g+vAKEXaZ8sBM1RB5/0M+ueqWV+nsT6ksKEbwCgpcR325bo+YOqULjNZvMDzq6NVEI+u2VNMuM0RJ2Sfrawas/t2v7oeuVuCUKQbOvwobYr0ehaGyD6NO133pdqpOwNRJyL9rcfxjXuYdkRhRFuVLG/ajfYdwJfcyRQkn+xvmRLKfWxFQ=;kPpELWpyKWevnuv1SYzByw=="

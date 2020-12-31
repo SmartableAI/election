@@ -414,6 +414,22 @@ related:
         width: 2500
         height: 1591
         isCached: true
+  - title: "Trump cuts vacation short without explanation"
+    excerpt: "The change in plans came just hours after Sen. Josh Hawley announced he would take up Trump's demand for Republicans to challenge the election results."
+    publishedDateTime: 2020-12-31T16:52:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/trump-cuts-vacation-short-without-explanation-n1252606"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252606"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252606"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438954/201231-donald-melania-trump-se-1132a_bf0eb5979032a59e74990a7d9aca7aa6.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump's unplanned gift to Biden: Clean energy on the rise"
     excerpt: "Oil and gas producers are struggling amid weak prices and growing pressure to address climate change — a trend that could help Biden make a U-turn in energy policy."
     publishedDateTime: 2020-12-29T09:37:00Z

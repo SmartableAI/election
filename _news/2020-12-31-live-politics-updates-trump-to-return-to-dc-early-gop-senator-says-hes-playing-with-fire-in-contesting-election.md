@@ -8,7 +8,7 @@ webUrl: "https://www.usatoday.com/story/news/politics/2020/12/31/politics-update
 ampWebUrl: "https://amp.usatoday.com/amp/4094103001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4094103001"
 type: article
-quality: 117
+quality: 127
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/2c7e25e6-de7a-4a91-a9bd-c1acd79338db-AP_Trump.jpg?auto=webp&crop=2923,1644,x1,y201&format=pjpg&width=1200"
@@ -209,19 +210,35 @@ related:
         isCached: true
   - title: "Biden inauguration to feature memorial for COVID victims"
     excerpt: "President-elect Joe Biden is planning a lighting ceremony at the Lincoln Memorial Reflecting Pool to honor those killed by the coronavirus the day before he is sworn into office on Jan. 20"
-    publishedDateTime: 2020-12-31T13:59:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-inauguration-to-feature-memorial-for-covid-victims/2020/12/31/d18b74fe-4b6f-11eb-97b6-4eb9f72ff46b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-inauguration-to-feature-memorial-for-covid-victims/2020/12/31/d18b74fe-4b6f-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-inauguration-to-feature-memorial-for-covid-victims/2020/12/31/d18b74fe-4b6f-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    publishedDateTime: 2020-12-31T15:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_467ec2758fd24427a99beb711a78f8a0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden inauguration events to include memorial for COVID-19 victims"
+    excerpt: "President-elect Joe Biden plans a lighting ceremony at the Lincoln Memorial Reflecting Pool to honor COVID-19 victims the day before his swearing-in."
+    publishedDateTime: 2020-12-31T16:33:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/0aaa9dc/2147483647/strip/true/crop/840x549+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F7a%2F5217b0d3442c8a0e32ee818e8562%2Fvaccine.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Donald Trump plays golf as Congress scrambles to salvage Covid relief bill"
     excerpt: "Nancy Pelosi in talks with treasury secretary Steven Mnuchin after president’s demand for $2,000 stimulus checks left deal in disarray"
@@ -566,6 +583,6 @@ related:
         height: 675
         isCached: true
 
-secured: "kwFFYm+BUaT/IRkZk0luzNRbbKSi9C8JzV4VEYetmu0gge4Y7NtFEsJROGfgTbnUrdj1vFbNNW0Nkl/eDQNDUGSTMMpvkLRcEdIRA7Y2apU8K4uytnb9wJ2ueS9lnmPMSv7vQSqqCDcNn6UUNDLQMVuUIUL85OODscWq8VC0beIY02QWnRwOwjF+PkcgwCxHJLmdkXgPdUr+Njldiwubrxy9ctYM73Cd+84a5S2L5YxGzwhsQsmXaXhLeOq/lQfxqjqdNRe3guvErtJqW2keIYRxyWfC2cIxA0hh95Ty8W3g4t5FanOXPu6ZHyBSKWQp6Tsz5HFz463Sim1QUHdi547MYh04xdAjmJvItL6jkz8=;elM8NMSMcqmjLZ5MGdKe9Q=="
+secured: "HAfWllveH+NzdXjvd1LIkfUKoOw3pGCHp5fp7BblQ6RBZLPcpq35tWEZns6kgBtZ8WbyLdRdi3Nc24omZ8ZE0de6plFxWMMk81fY9BZfRmyxDc53UqOpkTBguoYXJcs8MsxJVge4KritysQaZG9rVYAHF4ivBnxbdkM7dZpogdVp5Pe5buC7AKT8XUzYGlUtZBYCK7ltS256tSqk9mpvBD2FIPq/4vYQNkv7jWx1IGYQWdtma6nXydj0oAUQVEFYKLW2jXAnpxC73RxbdvElOaERcmGNgvLwehxDXPX7zowwle79KN0GcHaEX+huaaeyVOC9S8kaV6g8y4rMIryCvCG3Lk516UuL40NqdMqWTIKQJwGjpAsOsMReRlN4nZEp9b/felAm2dtZhEwkF0NDACk9nB8izm+UOqPp+ecvmLWHgsBpwhyxcxNLhatrecp9aZbya/4rpRQVZGYwOb3P7hxmYaFauUH7X7+xlUj2AaGieTy/XeyW9OwyZsadRJvcObKRNx1FvnIFwyKq4qJHPQ==;nrEls3hzQo/AJvHZZHBXqQ=="
 ---
 
