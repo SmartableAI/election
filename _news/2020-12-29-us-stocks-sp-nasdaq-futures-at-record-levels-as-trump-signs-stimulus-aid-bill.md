@@ -275,6 +275,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump signed off on $600 stimulus checks, and they'll start arriving by direct deposit this week"
+    excerpt: "A second round of stimulus checks will be coming to qualifying Americans via direct deposit, paper check, or debit card by January 15."
+    publishedDateTime: 2020-12-31T04:24:00Z
+    webUrl: "https://www.businessinsider.com/personal-finance/wheres-my-second-stimulus-check-when-payments-coming-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5f21fa0d5af6cc41b3074033?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Japan's Nikkei at 30-Year High After Trump OKs Stimulus"
     excerpt: "Stocks have climbed in Asia, with Japan's Nikkei 225 index surging 2.7% to its highest close in more than 30 years on Tuesday."
     publishedDateTime: 2020-12-29T06:52:00Z

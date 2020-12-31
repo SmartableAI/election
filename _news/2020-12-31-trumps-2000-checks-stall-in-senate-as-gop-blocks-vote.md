@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Trump's $2,000 checks stall in Senate as GOP blocks vote"
-excerpt: "President Donald Trump’s push for bigger $2,000 COVID-19 relief checks stalled out Tuesday in the Republican-led Senate"
-publishedDateTime: 2020-12-30T17:31:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943951"
-webUrl: "https://abcnews.go.com/Health/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943951"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943951"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943951"
+title: "Trump's $2,000 Checks Stall in Senate as GOP Blocks Vote"
+excerpt: "President Donald Trump’s push for bigger $2,000 COVID-19 relief checks stalled out Tuesday in the Republican-led Senate."
+publishedDateTime: 2020-12-31T04:07:00Z
+originalUrl: "https://www.usnews.com/news/business/articles/2020-12-29/fate-of-trumps-2-000-checks-now-rests-with-gop-led-senate"
+webUrl: "https://www.usnews.com/news/business/articles/2020-12-29/fate-of-trumps-2-000-checks-now-rests-with-gop-led-senate"
+ampWebUrl: "https://www.usnews.com/news/business/articles/2020-12-29/fate-of-trumps-2-000-checks-now-rests-with-gop-led-senate?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-12-29/fate-of-trumps-2-000-checks-now-rests-with-gop-led-senate?context=amp"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_74bfe5e7bd964a5493fd4cda8451bdf1_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Global stocks advance after Trump signs $900B aid package"
@@ -169,6 +163,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "PX8gTcgxb5rrib60xjU7oIG017ION+XhWmF3SeSf5S6SKkjNkH6U3qpfnBRSOlxA+QW6mHul2hDVs1t5qm79KgEgPyL7GEMOAdyj7UtO/1wXjVq0iKYEihuq5wawu7NZEYY/NAcFK6glG3kIDJ7hMoCX9KNe+63rnmwCN8QVzyG4vJpeAcQPqrsJ+H4A/yM6tAWZ2qLHt6brNSV9E/oq2Jpo9c08S0RO/D5acNTDhIjVuqqKBcQopgjqcH8vXeB47vAlhN6SuCOBVE52d0zr4VVZSYsOCEKbga8e9H1D7Mo1NbhdSpbGKU9OxzcqZ6tWw7d+Gt1STcv5J7vez+0PPfiQ+lr5aeC/KlZp9Vrc3CTB+5Gn2JG+TH5PPqYnsn9g+NZxo6M4OkOhaQBD1jxJy+xVYA+MslOLD9yR8VGBa0ajFbs14Ks8OQUacERaPXE8zXLy7YWAAEYr3ATZBk+O1lSKRSEQFhseKnmQuNfHgZO+P9x9b/nD91LNO4ULLueu9KngQ8hSi0133OrRyxmgsg==;es7jDFV3+7PA3PkvL7wpxw=="
+secured: "JC2frlhOKVKivdFTiFHNMP5UFSqsZNLcEsxpxMrNowUFm78I7yHhIz4Y9MVGb469/ZxBayFp54kKXq5+34cA3AzpIpydw6iNE6m6DHcVh1xJe/j0mf0iJvrZeP6Oz4CAQfg6kumgdMLzq1xKZ0FxB5RsZdVrElZl/g4YBE/XX2uWYzxdg61Ae9SWWu4nAxMRPy2EBZjAIFoxF+1D5+sbCPYHSsEy0eZmUPjKnQxL9AnvAhuJW+fsJAmZUxaEx45IW9MEe/kn2VPS3ChuCfnD3z0kfEez/vD1GiFPXAGf7QOh5ko21MLRhLivbdkimaMVpI/OmdF8ot0diJ9XlTi4SQMHpAw1zrYajfMiLCrZ3J/J9bDvxxJZtBI++/9qLNo5GyDB6vtqUHaVtFhGL34vIwBPKd+ZraMrZmF6HZGl7Arxp4m1vtig2jwT6q/cCEtUTJ2nnQSphPIdDn4gthaCKf6vYTFxtwPosDtrZ1VsiNZDftvDnMIuFbBNoAvxhzL3SOyEKRN1vd4ZsitJEzdxQQ==;4SAeRszjQrqe+ieFDB8b+g=="
 ---
 

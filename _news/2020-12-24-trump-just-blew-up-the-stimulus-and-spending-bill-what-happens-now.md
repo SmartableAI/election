@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-2000-checks-stimulus-veto-spen
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12?amp"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -273,6 +273,20 @@ related:
     quality: 100
     images:
       - url: "https://i.insider.com/5fe9fce6edf8920018093d62?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump signed off on $600 stimulus checks, and they'll start arriving by direct deposit this week"
+    excerpt: "A second round of stimulus checks will be coming to qualifying Americans via direct deposit, paper check, or debit card by January 15."
+    publishedDateTime: 2020-12-31T04:24:00Z
+    webUrl: "https://www.businessinsider.com/personal-finance/wheres-my-second-stimulus-check-when-payments-coming-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5f21fa0d5af6cc41b3074033?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

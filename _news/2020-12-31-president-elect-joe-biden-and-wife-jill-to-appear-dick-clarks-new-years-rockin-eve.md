@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-interview-with-jill-dick-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/"
 type: article
 quality: 117
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://storage.googleapis.com/afs-prod/media/dd400ca012f046a0aa2c2305203acdf5/3000.jpeg"
         width: 3000
         height: 2056
+        isCached: true
+  - title: "Joe and Jill Biden to appear on 'Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2021'"
+    excerpt: "President-elect Joe Biden and soon-to-be First Lady Jill Biden will appear on “Dick Clark’s New Year’s Rockin’ Eve\" for their final interview of 2020."
+    publishedDateTime: 2020-12-31T04:07:00Z
+    webUrl: "https://www.azcentral.com/story/entertainment/tv/2020/12/30/new-years-eve-joe-biden-jill-biden-dick-clark-show/4084783001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/4084783001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4084783001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/e9d74e13-8c86-4335-b776-d7a1cf32a954-bidens.jpg?auto=webp&crop=4304,2421,x0,y218&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "User Clip: Joe Biden calls Kamala Harris 'president-elect'"
     excerpt: "President-elect Joe Biden makes a verbal gaffe during remarks in Wilmington, Del."

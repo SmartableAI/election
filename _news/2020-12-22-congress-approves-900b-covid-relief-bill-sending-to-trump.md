@@ -517,6 +517,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 94
+  - title: "Live politics updates: Donald Trump to cut short Florida holiday, return to Washington; Fate of $2,000 stimulus checks remains uncertain"
+    excerpt: "A proposal from Senate Majority Leader Mitch McConnell to raise stimulus checks to $2,000 includes demands that Democrats are not likely to support."
+    publishedDateTime: 2020-12-31T04:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/30/politics-updates-presidential-transition-congress/4081382001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4081382001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4081382001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 92
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/28/USAT/2a9a7016-ec61-42b0-9a1f-1b80e7c29194-AP_Virus_Outbreak_Congress.JPG?auto=webp&crop=5102,2870,x0,y259&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "wX+oIgN9RRj+6cGlxNfLdnaB9hGe+Gxbjbd29MoR6UZCHfEbLUDA7hKylgIFg4RtjXUR7eIgDK5z70uPd8TMUr0ONlc0UZ3w4+CYDrFc92wKEvvKuxckAsuFpD7jd9cSlIy8sD91vom12SfDhRk3le033R7qGuQPYqb2KEbFqAkxsY5sfl6fqQemEHsk3ZcqGIEs2sOXVFOSEh2PyT7FNC4FPfhVIv1yWWzeb4sAoZyEel5MvWGeyo7EPaKkXdPwEgO+o64H0L+euJ019h2GKaV0dip+BYyQhBh5emAP1eWHWyvyAuhcBE2Lh0J1GPL3h5VLlAcRzSVN3FRMWmaU/5Tjeh9/f/EjUchGaebvU4YlR0m4qh1IvOwgERuLzt3ePFiA8S3nOhmrd/zGcLK+8W4ibbrUJ4n5uxlP3YQTe1OZjrhs9PKzS5J4wR1mFEOuNu9MJNbyqLNrr1fb2+oJ0zAGB2Df89JERH48I/BI5+EAWME62ICQMNcUArEZ7ZYmBHtY5NX0gYogh9ZROqzo2Q==;iIQOeABfklBzVVBpea1Qsg=="
 ---

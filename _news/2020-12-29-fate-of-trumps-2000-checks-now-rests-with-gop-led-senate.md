@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-check
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -69,6 +69,22 @@ related:
     webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29411A"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29411A"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29411A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546213033&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT1DT"
+        width: 790
+        height: 545
+        isCached: true
+  - title: "McConnell thwarts Trump bid for $2,000 coronavirus economic relief checks"
+    excerpt: "U.S. Senate leader Mitch McConnell dealt a likely death blow on Wednesday to President Donald Trump's bid to boost coronavirus aid to Americans, declining to schedule a swift Senate vote on a bill to raise relief checks to $2,"
+    publishedDateTime: 2020-12-31T03:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idTRNIKBN29411A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idTRNIKBN29411A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idTRNIKBN29411A"
     type: article
     provider:
       name: Reuters
