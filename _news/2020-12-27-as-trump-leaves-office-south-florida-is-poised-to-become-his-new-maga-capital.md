@@ -47,6 +47,36 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump to forego New Year's Eve in Florida for early return to Washington"
+    excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
+    publishedDateTime: 2020-12-31T14:56:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/trump-to-forego-new-years-eve-in-florida-for-early-return-to-washington-idUSKBN2951B0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2951B0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2951B0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546274095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0N7"
+        width: 821
+        height: 545
+        isCached: true
+  - title: "Donald Trump House Hunts in a Surprising Place-Which Home Will He Pick?"
+    excerpt: "Donald and Melania Trump may be moving to sunny Florida in 2021. Which one of these over-the-top mansions should they select? Is the 45th president house hunting in Florida? Once his term in the White House ends in January,"
+    publishedDateTime: 2020-12-30T19:38:00Z
+    webUrl: "https://www.chron.com/realestate/article/Donald-Trump-House-Hunts-in-a-Surprising-15836601.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/76/62/20442269/3/rawImage.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "R1APWGm1pUW3FVSVigiDrINXw/XlK4/Uk4Jc1HB+KbTCW/4DCvNHWWKx8EhUlP1P0MJXkzEKtuq2afejM0rr8Pr6InP5baUUkuaHegFxmQakkWotU1KZwMi40g8X3iksWflh1oolEv/YIuv2kGybAuzxG8GKN+FZT8LrBKl5Ps1cL70cond69glTANXAgHbMSRcp5E1fIPNcf8w9Gp1FAN1kVSPZfWuJa0vkEBvIMD9tk2Lb1imH/SpB1DUeT9gyK5AFP+NXayzlO05lDQJhJjN+NBmtVx9nnCTIdJtJGP4iJ1gkOA0K7RJ+lyhBAhZJx8nx6dWf4mfnE6rW3eqe1TeDeQRip/+vBGBaUbRQpKLUAB6cPzyvDqzzKyxFpVvmcdA4EVt5qygNgQiFZJ62Lo/+PdpwT1QPYpiCIYf+PSpv/lOnr7XODMENTav3037+C2mkRF7QqGFEnOT3L1efOvCOQri7/a1sQ47/sMNrrtFIZ9G9xU4ZmH9RmzXSOdqGqVt9rlOF/owy2c0raCSNeg==;GYdOh0ouN8NOQNWotlN+mw=="
 ---

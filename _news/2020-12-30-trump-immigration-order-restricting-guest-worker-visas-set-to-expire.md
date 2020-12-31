@@ -319,6 +319,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Hawley's Delusional Objection to Biden's Victory"
+    excerpt: "Election's expert Joshua Douglas writes, don't be too nervous about Republican Senator Josh Hawley's announcement that he will object to the certification of Joe Biden as president when Congress meets Jan."
+    publishedDateTime: 2020-12-31T13:10:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/31/hawleys_delusional_objection_to_bidens_victory_532477.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/531150_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "R7DvnmijTsoHZLHlYTPpCJolX0yelh21UQyYXpLp9L9RSGK26j2mgPodtiF2WntVtUBk/HcwGoBUUkF6yX7wbvX8btRHsDmM3CVMjvnmGgn4L9MNnEby1ABvsd3XlUlLzQYk9WNf12/FFIsF1Rr1yVRCN9ZCwefIiw3n19gd5ab0ZCSztxhVZWgAlsE/AvaPRk0/7p1uxK9c4PWFpBPbcIvVYGW4NbVM6Bv2s/yjaBDDUrnC2XblfdYchHKWC11ty5EoL0uZpAj9cDckJmLFiAnsLNgyzGvRqmJ3bq9IZdK6Gt9G5Yn06P/ncVpsuo4mYhg91p41x6s0ZNN7bpzfrB0UuynklOkZis+bfCtkMWA=;XDS75ZOaZ1H+5EnVk//13Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-issue-executive-order-midnigh
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-issue-executive-order-midnight-regulations.amp"
 type: article
 quality: 190
-heat: 550
+heat: 570
 published: true
 
 provider:
@@ -316,6 +316,20 @@ related:
     quality: 83
     images:
       - url: "https://assets.realclear.com/images/52/529822_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Hawley's Delusional Objection to Biden's Victory"
+    excerpt: "Election's expert Joshua Douglas writes, don't be too nervous about Republican Senator Josh Hawley's announcement that he will object to the certification of Joe Biden as president when Congress meets Jan."
+    publishedDateTime: 2020-12-31T13:10:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/31/hawleys_delusional_objection_to_bidens_victory_532477.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/531150_5_.jpg"
         width: 750
         height: 500
         isCached: true
