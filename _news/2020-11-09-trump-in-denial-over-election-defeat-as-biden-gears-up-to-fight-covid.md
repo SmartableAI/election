@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-trump-joe-biden-coronavirus/index.html"
 type: article
 quality: 205
-heat: 3665
+heat: 3685
 published: true
 
 provider:
@@ -1998,6 +1998,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_53/3438481/201229-joe-biden-kamala-harris-jm-0714_27a62254dfa9e7114e055c1b65c53e0e.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump hotel looks to cash in on Biden inauguration"
+    excerpt: "As Trump allies plot a last-ditch effort on Jan. 6 to try to prevent Joe Biden from being formally selected as the next president, at least one part of Trump-world is tacitly acknowledging that there won’t be a second Trump term,"
+    publishedDateTime: 2020-12-31T22:05:00Z
+    webUrl: "https://www.politico.com/news/2020/12/31/trump-hotel-biden-inauguration-453168"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/31/trump-hotel-biden-inauguration-453168"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/31/trump-hotel-biden-inauguration-453168"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/fd/ae/ad27dd274fedbf0fc6d0e48dc1a4/180912-trump-international-hotel-getty-773.jpg"
+        width: 5282
+        height: 3523
         isCached: true
   - title: "Buffeted by Trump, China Has Little Hope for Warmer Relations With Biden"
     excerpt: "Many in Beijing believe that the United States will remain hostile to the country’s rise, regardless of who is president."

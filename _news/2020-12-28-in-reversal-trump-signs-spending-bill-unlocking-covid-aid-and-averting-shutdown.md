@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: What's happening with the latest Trump appeals to the Supreme Court"
+    excerpt: "The Supreme Court will enter a new year Friday but there's still election drama from 2020 on its plate.\n    \n"
+    publishedDateTime: 2020-12-31T21:22:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FXNdSCFVT8U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/supreme-court-trump-challenges-explainer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/supreme-court-trump-challenges-explainer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203135654-20201203-scotus-group-shot-illustration-updated-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Full Panel: Trump downplays widespread U.S. security breach"
     excerpt: "Hallie Jackson, Yamiche Alcindor and Rich Lowry join the Meet the Press roundtable to discuss President Trump's response to a massive hack of government agencies and businesses reportedly tied to Russia."
     publishedDateTime: 2020-12-20T14:55:00Z

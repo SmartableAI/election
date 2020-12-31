@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: What's happening with the latest Trump appeals to the Supreme Court"
+    excerpt: "The Supreme Court will enter a new year Friday but there's still election drama from 2020 on its plate.\n    \n"
+    publishedDateTime: 2020-12-31T21:22:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FXNdSCFVT8U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/supreme-court-trump-challenges-explainer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/supreme-court-trump-challenges-explainer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203135654-20201203-scotus-group-shot-illustration-updated-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump threw a wrench into Covid relief. What could happen next?"
     excerpt: "President Donald Trump on Tuesday threw a wrench into the massive year-end spending and coronavirus relief bill, leaving the country on edge as the threat of a government shutdown and expiring Covid-19 protections loom over the holiday season."
     publishedDateTime: 2020-12-23T21:12:00Z

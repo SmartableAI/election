@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-slams-fashion-magazines-melani
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12?amp"
 type: article
 quality: 108
-heat: 188
+heat: 168
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       name: International Business Times
       domain: ibtimes.com
     quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Trump Gets Mad At Mar-A-Lago Staff Over Renovations Made By Melania: Report"
-    excerpt: "First Lady Melania Trump worked with interior designer Tham Kannalikham to renovate and update President Trump's 3,000-square-foot private residence at the members-only golf club in Florida."
-    publishedDateTime: 2020-12-30T01:42:00Z
-    webUrl: "https://www.ibtimes.com/trump-gets-mad-mar-lago-staff-over-renovations-made-melania-report-3111435"
-    ampWebUrl: "https://www.ibtimes.com/trump-gets-mad-mar-lago-staff-over-renovations-made-melania-report-3111435?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-gets-mad-mar-lago-staff-over-renovations-made-melania-report-3111435?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
         width: 1024

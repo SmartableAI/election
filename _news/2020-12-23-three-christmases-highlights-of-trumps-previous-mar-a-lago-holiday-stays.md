@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/3855759001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3855759001"
 type: article
 quality: 123
-heat: -1
-published: false
+heat: 203
+published: true
 
 provider:
   name: USA Today
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Attacks China in Christmas Tweet as Millions Await Stimulus Update"
-    excerpt: "President tells lawmakers who blocked attempts to increase coronavirus relief package to $2,000 per qualified individual \"it wasn't their fault, it was China.\""
-    publishedDateTime: 2020-12-26T12:35:00Z
-    webUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359"
-    ampWebUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
-    images:
-      - url: "https://d.newsweek.com/en/full/1693329/donald-trump.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Fate of $2,000 stimulus checks proposal, backed by Trump, is in McConnell’s hands"
-    excerpt: "Sen. Bernie Sanders (I-Vt.) says he will scramble the Senate’s holiday week plans if the Kentucky Republican does not hold a vote on the larger checks."
-    publishedDateTime: 2020-12-29T14:48:00Z
-    webUrl: "https://www.washingtonpost.com/powerpost/stimulus-checks-senate/2020/12/29/344fa850-49d9-11eb-839a-cf4ba7b7c48c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/powerpost/stimulus-checks-senate/2020/12/29/344fa850-49d9-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/stimulus-checks-senate/2020/12/29/344fa850-49d9-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OD27ZASEU4I6XMHEB4MCSI5AEU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Donald and Melania Trump wear matching tuxedos in their final White House Christmas picture"
     excerpt: "The picture shows the Trumps smiling as they stand together on the Grand staircase in the White House, beneath festive Christmas decorations."
     publishedDateTime: 2020-12-19T12:28:00Z
@@ -79,22 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Mnuchin’s loyalty to Trump could end with painful setback as president shreds stimulus deal"
-    excerpt: "Democrats and Republicans had thought Mnuchin was speaking for the president in negotiating the $908 billion pact, but Trump quickly called it a “disgrace.”"
-    publishedDateTime: 2020-12-26T19:21:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GIKNNXUS4QI6VB5DELJSII2WGY.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Former New Jersey Gov. Chris Christie says he 'would not' rule out challenging Trump in 2024"
     excerpt: "In a radio interview, former Gov. Chris Christie kept open the possibility that a 2016 rematch against Donald Trump could happen"
     publishedDateTime: 2020-12-22T18:13:00Z
@@ -110,6 +62,38 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2018/11/19/PNJM/40d0121c-485b-403d-ad49-75577bd538b4-YE_New_Jersey_2016.jpg?auto=webp&crop=1999,1142,x0,y54&format=pjpg&width=1200"
         width: 1200
         height: 686
+        isCached: true
+  - title: "President Trump, Melania Trump don matching tuxedos in final Christmas portrait: See the photo"
+    excerpt: "President Donald Trump and first lady Melania Trump donned matching looks and smiles for their final White House Christmas portrait."
+    publishedDateTime: 2020-12-19T04:26:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/12/18/president-trump-melania-don-matching-tuxedos-final-christmas-photo/3969324001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3969324001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3969324001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/06/USAT/ae8ce7ee-93a3-4011-9aa0-3a5f6632cb8f-AP_Trump.JPG?auto=webp&crop=4130,2324,x0,y210&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump Gets Mad At Mar-A-Lago Staff Over Renovations Made By Melania: Report"
+    excerpt: "First Lady Melania Trump worked with interior designer Tham Kannalikham to renovate and update President Trump's 3,000-square-foot private residence at the members-only golf club in Florida."
+    publishedDateTime: 2020-12-30T01:42:00Z
+    webUrl: "https://www.ibtimes.com/trump-gets-mad-mar-lago-staff-over-renovations-made-melania-report-3111435"
+    ampWebUrl: "https://www.ibtimes.com/trump-gets-mad-mar-lago-staff-over-renovations-made-melania-report-3111435?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-gets-mad-mar-lago-staff-over-renovations-made-melania-report-3111435?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "20OY+RfUjPVwAoYXRtK19LnqD+z4jEU6KTJZqUZOiZghDa+KA4zecIXwZD7nadyA1YT7Wy/7w2jVYxQNkACUtTojWb9BUkrHZ5pLdj2enQ8bCOh4mDvzhWoAktQYSsGD9ODCky8OoZDPOJLuVQbI65c9DuZkLSqTegCrq5cMlAs4/fm8E1aC1DJ8mFjE+AA314n1FJd1BWFPeMLvNAEjrUiWbthZq482nxGfR1+qUJz8rNEHPeBab19ivfVCNjy3t8YGEUTTLGQhfnMRuKyjx5Fm+9S6Uk4EDkL9M7LvcQ7F+5y23uS7+FMpo1z8qwZTMSY2lzE7mbcF//jUXlF9D7xWjx38MmuLQReRLLBYGww=;cNvpSJs/cG/hvbLZ7JdjPg=="

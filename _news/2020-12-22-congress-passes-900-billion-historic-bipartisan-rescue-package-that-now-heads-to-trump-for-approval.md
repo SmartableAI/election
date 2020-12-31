@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump returns to White House early, offers year-end message"
+    excerpt: "President Donald Trump has delivered a year-end video message after returning early from vacation, highlighting his administration’s work to rapidly develop a vaccine against COVID-19 and rebuild the"
+    publishedDateTime: 2020-12-31T21:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-returns-white-house-early-offers-year-end-74995134"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-returns-white-house-early-offers-year-end-74995134"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-returns-white-house-early-offers-year-end-74995134"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4073d224c3744c128d16d0fbafee82cc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Stock market live updates: Stocks rise, Trump knocks stimulus, personal income falls"
     excerpt: "This is a markets live blog for CNBC PRO subscribers that will be updated throughout the day. The major indexes rose on Wednesday morning as the S&P 500 looked to snap a three-day losing streak. The move came despite President Donald Trump calling the new stimulus deal reached by Congress a \"disgrace\" and called for the amount of direct checks to Americans to be increased."
     publishedDateTime: 2020-12-23T15:31:00Z

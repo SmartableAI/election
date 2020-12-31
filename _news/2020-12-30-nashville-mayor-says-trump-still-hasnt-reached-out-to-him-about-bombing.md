@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/nashville-mayor-says-trump-hasnt-rea
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nashville-mayor-says-trump-hasnt-reached-out-about-bombing-2020-12?amp"
 type: article
 quality: 124
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Trump to skip New Year's Eve party at Mar-a-Lago, but gala's still going on as planned"
+    excerpt: "Trump has hosted lavish New Year's Eve galas, complete with celebrities and a red carpet, at Mar-a-Lago for years. He'll miss his 2020 party, however"
+    publishedDateTime: 2020-12-31T21:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/12/31/trump-new-years-eve-party-mar-lago-florida-president-missing-gala/4097391001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4097391001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4097391001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/28/NPPP/3104438f-af30-44e1-ace2-4d387d7f4c75-18.jpg?auto=webp&crop=2255,1268,x0,y103&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "lKGEkBz+Tkl10wZYnlWMItEwo+52c5Jz2sVXpvqNiDd/srIdlIEJcECUNpgk2HmpPs0eL6GkvHpBcdCliRZmRZt2gow2qh7XG2bFdg4XlvPQw3wVPIQ6XNC7TCSuFLZWuB/glJXL6fR0giQGbW/tF2SeREomXi+cr5+wrvjXgiSAXPoiQfIV+EZCD6nhhAPKEXQUnNe/L5+XgUskfObySJuwN4qOg2yL/+XSDZQxvaimyHi0VyDyqOH0TcNf+DtHlSBy7e5xYX8J8KpjINPUYs85vSgUZLR9rV4rW8L/ms3Jp766EFNGZVH+F7nxURUzMlGRxsF4f0XDxpTKyd0AKWaHtEsWc25Xsy6cWn36a0E=;PcfBqOfvSYl4ZDb4CqtscA=="
 ---

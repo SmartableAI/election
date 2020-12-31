@@ -3,8 +3,8 @@ category: news
 title: "Hawley's Delusional Objection to Biden's Victory"
 excerpt: "Election's expert Joshua Douglas writes, don't be too nervous about Republican Senator Josh Hawley's announcement that he will object to the certification of Joe Biden as president when Congress meets Jan."
 publishedDateTime: 2020-12-31T13:10:00Z
-originalUrl: "https://www.realclearpolitics.com/2020/12/31/hawleys_delusional_objection_to_bidens_victory_532477.html#!"
-webUrl: "https://www.realclearpolitics.com/2020/12/31/hawleys_delusional_objection_to_bidens_victory_532477.html#!"
+originalUrl: "https://www.realclearpolitics.com/2020/12/31/hawleys_delusional_objection_to_bidens_victory_532477.html"
+webUrl: "https://www.realclearpolitics.com/2020/12/31/hawleys_delusional_objection_to_bidens_victory_532477.html"
 type: article
 quality: 65
 heat: -1
@@ -89,6 +89,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden pick for top Pentagon position hyped Steele dossier, Trump-Russia collusion claims"
+    excerpt: "President-elect Joe Biden's pick for a high-level Pentagon position hyped the since-discredited Steele dossier and Trump-Russian collusion narrative."
+    publishedDateTime: 2020-12-31T21:19:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kcwu449zpKU/biden-pick-colin-kahl-steele-dossier-trump-russia-collusion"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pick-colin-kahl-steele-dossier-trump-russia-collusion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-colin-kahl-steele-dossier-trump-russia-collusion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c902c9c-970c-4aac-a10b-0344f3d11e29/c7d224fe-4b73-4162-b05b-2cc9077bcf19/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Live Updates: Biden warns Trump administration’s efforts to vaccinate Americans 'falling behind'"
     excerpt: "The president-elect also criticized the outgoing administration's lack of COVID testing for Americans, calling it \"a travesty.\" "
@@ -298,6 +314,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden pick for top Pentagon position hyped Steele dossier, Trump-Russia collusion claims"
+    excerpt: "President-elect Joe Biden's pick for a high-level Pentagon position hyped the since-discredited Steele dossier and Trump-Russian collusion narrative."
+    publishedDateTime: 2020-12-31T21:36:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-pick-colin-kahl-steele-dossier-trump-russia-collusion"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pick-colin-kahl-steele-dossier-trump-russia-collusion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-colin-kahl-steele-dossier-trump-russia-collusion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c902c9c-970c-4aac-a10b-0344f3d11e29/c7d224fe-4b73-4162-b05b-2cc9077bcf19/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Biden introduces education pick Cardona"
     excerpt: "President-elect Joe Biden introduced his pick for education secretary, Miguel Cardona, on Wednesday and promised an \"ambitious agenda\" to re-open most schools within the first 100 days of his presidency."
     publishedDateTime: 2020-12-23T19:11:00Z
@@ -363,6 +395,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Gd+Bczd6obLzh0TLt0IQjAG8IYM/tnhCEdIMHXHMUFi4zjRdUUVAFaYYqsf5OOIsINUBcqf/AinViVOod8cghZ6H9K/kjrLCo+YupptvGj14ZK9yM3TWWYOSiGLCgdniFQ8D6uK9SXDbGMFWMC+0zkN4AQON7btedR+yxKuDbmC+VP5fZwKUeYCuN10pjgdY2d6j1hEZk6KWZPVTxRlYLwbVUu3PBMhIsXW3GGl6X5U8mWumsVNIMkNqJ2uSxtl4+COJWNPJLc3jT9omiWJBR5CUNJmMG7/AjnrE4Jn55ySL2RKXo2B/DLpiqO8AN3tUvWt6EtrTFhjKlHP2uRZOB3+T60ldRfQY80JhNNuFkEY=;h42y4yEcE+mncvIZgwrsxQ=="
+secured: "3u0egqwq80j3ETE3gyDjzjNOLiV9uZrJGbVlx1d327n9tghtIzAQda/wsX2Okdi3w16UX8nxiVCuiA/m9OSZ6sgncT67aYbtsoF3UOsark7WuUuwaWuxZyOi1saEoxc0GzFXOcuV5G0LmQf2aLEBlaVCprQQeUaXRvpKEK4L7s8nG8jSD2MHl97eutRcrAbXoBdko5VWI8aBrUGz3RxuLMgnj4UkfFkl62mY5qxqeqwlKPENxVXDhdinAA5vbIUJmdbZeB9/zUUr6tlb8eFxbP+7Fzw3n3BdQ/S9yqiIPulNs4zJG3JfevmzkajoGv8+vx85ZHCgsnKBraygDWdI/nMFhqdKrgOsqNlfzZr8pEM=;5HMv11IaZVLTknMe2NQ/+A=="
 ---
 

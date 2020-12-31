@@ -81,18 +81,18 @@ related:
         isCached: true
   - title: "Trump heads back to Washington early amid showdown with Congress"
     excerpt: "U.S. President Donald Trump headed back to Washington from his Florida resort on Thursday, a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
-    publishedDateTime: 2020-12-31T17:42:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-idUSL1N2JB0X2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JB0X2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JB0X2"
+    publishedDateTime: 2020-12-31T21:58:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump/update-1-trump-to-skip-new-years-eve-in-florida-for-early-return-to-washington-idUSL1N2JB0X2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2951B0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2951B0"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546284574&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0QE"
-        width: 818
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546297277&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0TV"
+        width: 813
         height: 545
         isCached: true
   - title: "Street closures planned Saturday in downtown Washington for pro-Trump rallies"

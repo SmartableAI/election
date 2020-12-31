@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking Trump campaign ad implying fraud in Georgia"
+    excerpt: "A week before Congress is set to certify former Vice President Joe Biden's victory in the 2020 presidential election, President Donald Trump and his allies are continuing to cry fraud.\n    \n"
+    publishedDateTime: 2020-12-31T22:43:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PrH1N_c6o64/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/trump-campaign-ga-ad-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/trump-campaign-ga-ad-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107222839-fulton-county-ballot-counting-1106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris receives coronavirus vaccination"
     excerpt: "Vice President-elect Kamala Harris received a coronavirus vaccination on Tuesday in Washington, joining President-elect Joe Biden, Vice President Mike Pence and other leaders who have been inoculated."
     publishedDateTime: 2020-12-29T16:51:00Z

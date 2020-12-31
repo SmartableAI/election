@@ -3048,6 +3048,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden, Trump to campaign in Georgia runoff elections"
+    excerpt: "Posted [NFA] President-elect Joe Biden and President Donald Trump will campaign next week in Georgia, holding due"
+    publishedDateTime: 2020-12-31T22:12:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPMu5?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fee39bde4b04d4457632bc2-1609447869483?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'We're going to win this race': Biden predicts victory as his lead over Trump grows"
     excerpt: "Democrat Joe Biden said he was going to win the U.S. presidency as his lead grew over President Donald Trump in battleground states, although television networks held off from declaring him the victor as officials continued to count votes."
     publishedDateTime: 2020-11-07T11:31:00Z
@@ -5993,6 +6007,22 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "'Wild Protests:' Police brace for pro-Trump demonstrations when Congress meets Jan. 6 to formalize Biden's win"
+    excerpt: "Die-hard supporters are planning to protest Jan. 6, seeking to pressure congressional Republicans into reversing Joe Biden's electoral victory."
+    publishedDateTime: 2020-12-31T21:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/31/elections-protest-dc-police-brace-donald-trump-demonstrators/4097472001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4097472001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4097472001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/12/USAT/1ad3f7c5-deff-4acb-848e-c40cb8fbb92b-AP_Trump_Rallies_1.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."
     publishedDateTime: 2020-11-07T22:51:00Z
@@ -8224,6 +8254,6 @@ related:
       domain: indystar.com
     quality: 43
 
-secured: "p6wQeVPUOpxazBnrdO2on0Fe+/CwLr86EhQOQV9//JA7M95eXakQUIFt3oyDoyZidzHKwosMqe3zANPGwgmoAC0c+aN2bbbPtP8DV214b95TP5aqO15gc+bnXer+9yB/PTLFvvqD6Oq/M759EFbk2Clm0BnJdbaTJyRxHkTmQ9/gLHlwshUn019DDy7q6QYYHOgZJMzSJrjlb9iNMmaRuIRHuffPiUXbqEtNR42jiK79/RUuzbSZqMs8C+h/a7rWo8F0+HX928FZuSds/ynydLsjXpbFG/HQiCvTswesnU0w17htxHsAMUI67QwagHaPqFwYMSIw3+dcAgihxy21clLTO/OpNnwvJdPh9ZsQPTw=;9Du41xgCUP9MLoYjVpJj0g=="
+secured: "/k9TefLifRi9QjcbcxFSbXquvAvcPedHfa4c61Prpbc3jwuPLqYAZydTxZ5KZTShNtvyOtNbJWZTpiv8E/97QtYN2PGgd6xtgQH8BPDrl4SKU7CK4ktxzaKgn/BIbM61AB1N8naVC5dsB9332AESOuCBBTf0B8j8nTvhtG95k64JNj7XLRQTTpVTNjI5AN+ntes21KyGKmQRkNGUDnVuZ6DLPi/gwYJBnsnAS6EaHlPrORCZ32iFvhspaIatLjAYR8Ur2T/Vj4oI9qWw3ZtVZ2x7wIqHI5jLbDqev15iJjUykSU4X5/fEAjnFLiaSZmDaJIHltxpqHk765+uk18kICzuUG9OFXiVEdMfPeRGBrJxTZK8Z8Vbcnb+zXDhrpX7s+pYUxvctuJ0TbHmvOfj/c5P5yYE+dJmTD72fWu9QSHJ7kBkCIjgfwIG65+qkoXNYEcdRHGkYYwtPEtUt3QDN42qEurB7eU+E5DlLxCkXjpq2i2qeiRCkqhb3zOQauh6f7WAQjCy4UvkdRBK+SQdaw==;9wvEn42GNE3oBg/vs+F8Ag=="
 ---
 

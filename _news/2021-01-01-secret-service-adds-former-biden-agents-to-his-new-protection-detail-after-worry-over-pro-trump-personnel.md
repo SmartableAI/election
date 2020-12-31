@@ -96,6 +96,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden pick for top Pentagon position hyped Steele dossier, Trump-Russia collusion claims"
+    excerpt: "President-elect Joe Biden's pick for a high-level Pentagon position hyped the since-discredited Steele dossier and Trump-Russian collusion narrative."
+    publishedDateTime: 2020-12-31T21:19:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kcwu449zpKU/biden-pick-colin-kahl-steele-dossier-trump-russia-collusion"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pick-colin-kahl-steele-dossier-trump-russia-collusion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-colin-kahl-steele-dossier-trump-russia-collusion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c902c9c-970c-4aac-a10b-0344f3d11e29/c7d224fe-4b73-4162-b05b-2cc9077bcf19/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Biden warns Trump administration’s efforts to vaccinate Americans 'falling behind'"
     excerpt: "The president-elect also criticized the outgoing administration's lack of COVID testing for Americans, calling it \"a travesty.\" "
     publishedDateTime: 2020-12-30T05:03:24Z
@@ -304,6 +320,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden pick for top Pentagon position hyped Steele dossier, Trump-Russia collusion claims"
+    excerpt: "President-elect Joe Biden's pick for a high-level Pentagon position hyped the since-discredited Steele dossier and Trump-Russian collusion narrative."
+    publishedDateTime: 2020-12-31T21:36:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-pick-colin-kahl-steele-dossier-trump-russia-collusion"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pick-colin-kahl-steele-dossier-trump-russia-collusion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-colin-kahl-steele-dossier-trump-russia-collusion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c902c9c-970c-4aac-a10b-0344f3d11e29/c7d224fe-4b73-4162-b05b-2cc9077bcf19/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Biden introduces education pick Cardona"
     excerpt: "President-elect Joe Biden introduced his pick for education secretary, Miguel Cardona, on Wednesday and promised an \"ambitious agenda\" to re-open most schools within the first 100 days of his presidency."
     publishedDateTime: 2020-12-23T19:11:00Z
@@ -355,7 +387,7 @@ related:
   - title: "Hawley's Delusional Objection to Biden's Victory"
     excerpt: "Election's expert Joshua Douglas writes, don't be too nervous about Republican Senator Josh Hawley's announcement that he will object to the certification of Joe Biden as president when Congress meets Jan."
     publishedDateTime: 2020-12-31T13:10:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/31/hawleys_delusional_objection_to_bidens_victory_532477.html#!"
+    webUrl: "https://www.realclearpolitics.com/2020/12/31/hawleys_delusional_objection_to_bidens_victory_532477.html"
     type: article
     provider:
       name: RealClearPolitics

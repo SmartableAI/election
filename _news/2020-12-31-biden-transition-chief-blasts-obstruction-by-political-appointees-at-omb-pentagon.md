@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump budget director accuses Biden team of 'false statements' in latest transition spat"
+    excerpt: "President Donald Trump's budget director is accusing President-elect Joe Biden's team of issuing \"false statements\" regarding his office's cooperation during the ongoing transition, insisting the office has been fully transparent over the course of 45 meetings.\n    \n"
+    publishedDateTime: 2020-12-31T21:00:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zzvernCG60E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/trump-biden-transition-budget-director/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/trump-biden-transition-budget-director/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190411200659-omb-acting-director-vought-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden eyes cuts to Trump nuclear program as critical arms control deadline with Russia looms"
     excerpt: "President-elect Joe Biden will explore making cuts to the country's nuclear modernization program, potentially reversing Trump administration efforts to enhance America's nuclear arsenal by developing new weapons. Instead, Biden intends to place greater emphasis on arms control, according to two transition"
     publishedDateTime: 2020-12-29T14:41:18Z
@@ -521,6 +537,6 @@ related:
         height: 550
         isCached: true
 
-secured: "hKoNwsfidw2zDlcGzs8+Kwwfsq7hw0lbuFqCo2mmizScKlxedrientaBg88hDNLANGNLtSzCNtiA8bXx5x4csIMFtVx4hjJ/Wi0A38ZluIQMTscSK9PCgSSycgCrNF1tU872QuzAWvmYdbAS94Jsy+26epldLixZkkeE4Jv+4EAQ1KLNh2o1q1z7c1KIVatohznXT2PO7fOBiy3wU1BKz1ohybLM7AhKnbSXcaOqNYD7wDT5196R1Qqb65w8cZDYO7ux34Pecka2As/HewjAKueo9zunbUl/rOOBeNEUro2C4Sma9Kb8EI7jafnJ+s2q13ncLxwqO/jorKWa6KG0ONP2t0ity+7Wgk580nmQEJc=;dU+NUqXnaNbvZjchuvFeYw=="
+secured: "jVk3JP2YmC266MKjlxMAriwepCPsWvtbOGgFBkfY7VVG2nMspREqboCBbAIlA3Oxh9Gx3cGHA0Z8zJ+pzWVjR8UaPt6B0K4BMjNA208fLN/KrMgFT+Q/AlL32hq054MrvRX4jHVRZyigOe4pFBOrwk+REeZS4hIlcmbbcWZLWGywfOX3iAy8d2f/oRYWIY+R4Jd9b9Xk1pigAJGV+xXBPGsIIn85ZCHeHB56a3m6woVXWZAt7uada/GmkIbE7ONWVuOYlbVoiSLpHPpHRCEse+ZUNY3xrIp1M7eZZa0OvKkYNu2Vm1BaqJ6Ig68IhOGqIQBrg9n/npf01rBENId3AJa5qtjVsHVYJX7zSeK3DHOZEkQYCJaXifYY4xgT2JlxSFEH/dGia4AnMa9b6Ww5hAN6TFg0T1OPM7LhmKPv2sI6ixiENdjtlzg1BWSBBiKSKKXfyDwByaQp6Yyv3HNfza+NsAtoPZhVDoyUYqQp8jYjpRV43DHO7zISr34Kf2zwQxgYDwBuwbZntAE397supA==;QA164MMe4Qg6lQO3/FBUoA=="
 ---
 
