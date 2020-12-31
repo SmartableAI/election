@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4052794001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052794001"
 type: article
 quality: 127
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
+    excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
+    publishedDateTime: 2020-12-30T20:32:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 112
+    images:
+      - url: "https://www.chicagotribune.com/resizer/85Xf4PTOdf76QQecBE6bXOrleHs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7MEZB6KZLEGBLDVQGQMT47SUSY.jpg"
+        width: 1200
+        height: 741
+        isCached: true
 
 secured: "nVGDXa6kqB72q0uHvnrhjWw7INiiIvkvb3pa7l7z4CvBNHEVROp4cuE4DHhuk+ixMi3NSrjLly3RfPSMIvka8wILijoFaJgdUaiq1IEZDjmt2oieEgQk8HUjWVY7PdeJVWFLWX0l99B9eSngV75bYP6byFlUOm25o6p7Jpn635ZiZH5fy4cTy8SsXIVut88qgf7Ypw37BbsvKZqGh1SkwPKuTRN9DRMhtz5AccaJCnmzdBGqniF5UaIFxw/xEnb5vhoW8Ck0vNw7hC13K3pkX6EihapdfMV93OkWQGiXgRZ86P/L9hX3pWdJTCbUfGLC588Ct6JNOizfiaDbwsIInkSvKKAqN0gncYxfz63jMiA=;RpI4aNAwNnOa6XUuSsR8tg=="
 ---

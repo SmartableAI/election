@@ -173,6 +173,17 @@ related:
         width: 881
         height: 545
         isCached: true
+  - title: "Trump-Biden transition: Attorney Sidney Powell back at White House Sunday"
+    excerpt: "Attorney Sidney Powell was back at the White House Sunday to push President Donald Trump and his administration to issue an executive order to seize voting machines for examinatio"
+    publishedDateTime: 2020-12-21T11:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
   - title: "McConnell congratulates Joe Biden as presidential winner, but McEnany says Electoral College picking Biden is just ‘one step’"
     excerpt: "Senate Majority Leader Mitch McConnell congratulated Democrat Joe Biden as president-elect on Tuesday, saying the Electoral College “has spoken.” The Republican leader’s statement, delivered in a speech on the Senate floor,"
     publishedDateTime: 2020-12-18T15:44:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-interview-with-jill-dick-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/"
 type: article
 quality: 117
-heat: 177
+heat: 157
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "User Clip: Joe Biden calls Kamala Harris 'president-elect'"
-    excerpt: "President-elect Joe Biden makes a verbal gaffe during remarks in Wilmington, Del."
-    publishedDateTime: 2020-12-29T22:29:00Z
-    webUrl: "https://www.c-span.org/video/?c4932320/user-clip-joe-biden-calls-kamala-harris-president-elect"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 60
 
 secured: "+HCS5/5w7dUvC7Qdi3YBcdba/JQt7gsGd7cJgFTRDon9+24EXMscS8YPi6xDayXUHuH9PEwSQ4r+oTS8L2ujl5PpTeYyKSN0ebAMHjLblmmM2eNvVReR+atCEPZDjCT96jcwe3rEbUim45UNQJPfK83oMXpcC7rr/x1xmn8ZZL7v9GsC8wQSRdKyBPC7778EKbKlOgUMo2MkH02trRqJWDHShkU3PdF6RIhqotfsuL5LLDi0z1Lwn2uIyUBnNvrhAq/yZHE+BPthUi2T9vsyGThdV5U68Cvl93aA/lLarkm38Izj+g97cvV5j2UN2/9AX0/gJRbVz0Q+lKfkspa14oLg6GivyuCv11zQZSaJcYZAN4wh99PxjUgpCZfBqPubF8el+PV4pXhgkoTPDPivZj/Z/rgu7NgSWb2kcd3eVbxZVSdmxD1efq5IEoq+BMqFpduIUfrTbRdz48dKHIcCMMmuOqhFA0I/GNsUacRxk5KrAnt2j3QTN6bZVFrk4ZTna10AEjBUjg7UYUD9+KDKJA==;6ksv9wOyKlj6wNJ96vGyHQ=="
 ---

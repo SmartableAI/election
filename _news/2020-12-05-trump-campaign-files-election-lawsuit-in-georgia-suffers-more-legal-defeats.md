@@ -63,22 +63,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Biden, Trump to campaign in Georgia on eve of Senate runoffs"
-    excerpt: "President-elect Joe Biden and President Donald Trump will campaign next week in Georgia, holding dueling events on the eve of runoff elections that will determine who controls the U.S. Senate and the fate of Biden's legislative agenda."
-    publishedDateTime: 2020-12-31T04:38:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-idUSKBN2941HE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2941HE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2941HE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546167820&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT0W1"
-        width: 817
-        height: 545
-        isCached: true
   - title: "At Georgia rally, Trump spouts election falsehoods, amplifies old grievances"
     excerpt: "Trump falsely proclaimed himself the victor of the presidential race at Saturday's rally, his first since losing the election to Joe Biden."
     publishedDateTime: 2020-12-06T02:34:00Z

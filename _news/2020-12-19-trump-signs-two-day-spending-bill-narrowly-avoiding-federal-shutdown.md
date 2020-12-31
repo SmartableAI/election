@@ -77,6 +77,54 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Congress approves $900B COVID relief bill, sending to Trump"
+    excerpt: "After months of Washington gridlock, Congress is set to act on a $900 billion pandemic relief package, finally delivering long-sought cash to businesses and individuals as well as resources to vaccinate a nation confronting a frightening surge in COVID-19 cases and deaths."
+    publishedDateTime: 2020-12-22T15:09:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/congress-seals-agreement-900-billion-covid-relief-bill-74837831"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/congress-seals-agreement-900-billion-covid-relief-bill-74837831"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/congress-seals-agreement-900-billion-covid-relief-bill-74837831"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_ed98b12d65af484c908f5cbfefd34f4a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Covid relief: Trump demands changes to sign $900bn bill"
+    excerpt: "Outgoing president says $600 stimulus payout to most Americans should increase to $2,000, or $4,000 for a couple"
+    publishedDateTime: 2020-12-23T03:51:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/22/covid-relief-trump-demands-changes-to-sign-900bn-bill"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/22/covid-relief-trump-demands-changes-to-sign-900bn-bill"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/22/covid-relief-trump-demands-changes-to-sign-900bn-bill"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7028196812fbe9486628434e6239f4854962ec9f/0_363_5442_3265/master/5442.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93941f4b1bb96141d79e029b0ec09467"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump threatens to not sign COVID-19 bill, wants bigger stimulus checks"
+    excerpt: "U.S. President Donald Trump threatened on Tuesday not to sign a $892-billion coronavirus relief bill that includes desperately needed money for individual Americans, saying it should be amended to increase the amount in the stimulus checks."
+    publishedDateTime: 2020-12-23T02:06:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa-trump-idUKKBN28X04N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28X04N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28X04N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545504122&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM00V"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump faces Dec. 23 deadline to veto - or sign - massive NDAA defense bill"
     excerpt: "U.S. President Donald Trump has until Dec. 23 to decide whether to veto the $740 billion National Defense Authorization Act or allow the annual measure setting policy for the Department of Defense to become law,"
     publishedDateTime: 2020-12-14T16:32:00Z
@@ -92,6 +140,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544521382&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD175"
         width: 817
         height: 545
+        isCached: true
+  - title: "President Trump throws wrench into COVID-19 relief by saying he won't sign bill"
+    excerpt: "President Donald Trump is giving both Democrats and Republicans a headache on Tuesday after the shocking announcement on Twitter that he will not sign the COVID-19 relief bill negotiated in the Senate and House for months."
+    publishedDateTime: 2020-12-23T07:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/president-trump-throws-wrench-covid-19-relief-sign/story?id=74871815"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/president-trump-throws-wrench-covid-19-relief-sign/story?id=74871815"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/president-trump-throws-wrench-covid-19-relief-sign/story?id=74871815"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-trump-gty-jef-201209_1607554682850_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "George Pell: Trump is a barbarian, but 'in some important ways' he's our barbarian"
     excerpt: "Cardinal praises president’s ‘splendid’ supreme court appointments at the launch of his prison journal"

@@ -2557,6 +2557,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump returns to Washington early as allies plot challenge to Biden victory"
+    excerpt: "Lago trip as Republican senator says he will formally object to electoral college result next Wednesday"
+    publishedDateTime: 2020-12-31T19:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/31/trump-washington-republicans-challenge-biden-victory"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/31/trump-washington-republicans-challenge-biden-victory"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/31/trump-washington-republicans-challenge-biden-victory"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 138
+    images:
+      - url: "https://i.guim.co.uk/img/media/8106f9de72c2a4fa38c4d66ea9613aaa58ab559a/0_89_2745_1648/master/2745.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ccd3affb019996dd22c0312766f540ec"
+        width: 600
+        height: 360
+        isCached: true
   - title: "YouTube won't take down video falsely claiming Donald Trump won the election"
     excerpt: "Not removing videos with false information could sow doubts about the election and even incite violence, critics say."
     publishedDateTime: 2020-11-07T19:40:00Z

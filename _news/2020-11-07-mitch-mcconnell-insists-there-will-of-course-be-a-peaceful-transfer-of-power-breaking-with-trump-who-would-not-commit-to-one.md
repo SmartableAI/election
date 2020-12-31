@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Mary Trump says her uncle, President Trump, will spend the transition period 'breaking stuff' with 'vengeance'"
-    excerpt: "Trump's niece wrote, in an opinion article for The Observer, that she fears the defeated president will \"lash out\" after losing the US election."
-    publishedDateTime: 2020-11-08T11:43:00Z
-    webUrl: "https://www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11?amp"
+  - title: "Mitch McConnell is reportedly taking the lead on stimulus negotiations as the Trump administration sits out"
+    excerpt: "Joe Biden may also leap into the talks on a coronavirus relief plan. Democrats and Republicans are far apart on measures like unemployment benefits."
+    publishedDateTime: 2020-11-09T15:56:00Z
+    webUrl: "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
+    quality: 107
     images:
-      - url: "https://i.insider.com/5f5391ff7ed0ee001e25db60?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f984f3c861cb70019936b04?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

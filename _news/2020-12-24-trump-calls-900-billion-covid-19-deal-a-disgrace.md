@@ -61,6 +61,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump threatens to not sign COVID-19 bill, wants bigger stimulus checks"
+    excerpt: "President Donald Trump threatened on Tuesday to not sign an $892 billion coronavirus relief bill that includes desperately needed money for individual Americans, saying it should be amended to increase the amount in the stimulus checks."
+    publishedDateTime: 2020-12-23T18:00:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUKKBN28X01V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28X01V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28X01V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545558317&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM00V"
+        width: 817
+        height: 545
+        isCached: true
   - title: "GOP blocks $2,000 checks as Trump leaves COVID aid in chaos"
     excerpt: "President Donald Trump’s last-minute demand for $2,000 checks for most Americans has thrown the year-end COVID relief effort into chaos"
     publishedDateTime: 2020-12-25T08:39:00Z
@@ -125,6 +141,22 @@ related:
         width: 877
         height: 545
         isCached: true
+  - title: "Donald Trump plays golf as Congress scrambles to salvage Covid relief bill"
+    excerpt: "Nancy Pelosi in talks with treasury secretary Steven Mnuchin after president’s demand for $2,000 stimulus checks left deal in disarray"
+    publishedDateTime: 2020-12-25T13:51:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/25/donald-trump-plays-golf-covid-relief-congress"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/25/donald-trump-plays-golf-covid-relief-congress"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/25/donald-trump-plays-golf-covid-relief-congress"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/2e010efc9cce70ab747b89e817abb0ba63678e43/0_103_3094_1857/master/3094.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a6c7cedeaa4b2498d5bc815bb052ad2b"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Refuting Trump, FDA commissioner says vaccine could not have been authorized sooner"
     excerpt: "In an interview with Fox News Saturday, Trump, after seeming to take credit for the speed of the vaccine's development, said that the Food and Drug Administration could have authorized the shot for emergency use \"last week."
     publishedDateTime: 2020-12-13T14:25:00Z
@@ -140,6 +172,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/this-week-stephen-hahn-02-ap-llr-201212_1607807457019_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump signs stopgap funding bill; Congress awaits his approval of $892 billion COVID aid"
+    excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week while Congress passed a massive COVID-19 aid and government funding package overnight aimed at bolstering the nation's pandemic response and its battered economy."
+    publishedDateTime: 2020-12-23T04:13:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-idUSKBN28W1RV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W1RV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W1RV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545494509&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL0XQ"
+        width: 817
+        height: 545
         isCached: true
   - title: "American manufacturers pine for home as COVID disruptions, Trump tariffs shake up supplies"
     excerpt: "President Trump's trade war was supposed to encourage American manufacturers to pack up their international operations and move home. Did it happen?"
@@ -173,6 +221,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Trump threatens COVID relief, Pelosi urges 'sign the bill'"
+    excerpt: "President Donald Trump is threatening to torpedo Congress’ massive pandemic relief package in the midst of a raging pandemic and deep economic uncertainty"
+    publishedDateTime: 2020-12-23T16:57:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-threatens-covid-relief-pelosi-urges-sign-bill-74879887"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "GOP blocks $2,000 checks as Trump leaves COVID aid in chaos"
     excerpt: "President Donald Trump’s sudden demand for $2,000 checks for most Americans was swiftly rejected by House Republicans as his haphazard actions have thrown a massive relief and government funding bill into chaos."
     publishedDateTime: 2020-12-25T20:22:00Z
@@ -184,6 +246,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trump's COVID bill delay leaves millions of desperate Americans in limbo"
+    excerpt: "President Donald Trump's threat late Tuesday to veto the $892 billion coronavirus relief bill approved by Congress this week may delay aid for millions of families on the cusp of eviction and about to lose unemployment benefits."
+    publishedDateTime: 2020-12-24T05:42:00Z
+    webUrl: "https://www.businessinsider.com/trumps-covid-bill-delay-leaves-millions-of-desperate-americans-in-limbo-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trumps-covid-bill-delay-leaves-millions-of-desperate-americans-in-limbo-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-covid-bill-delay-leaves-millions-of-desperate-americans-in-limbo-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
   - title: "Trump administration threatened to oust the head of the FDA if the Pfizer vaccine isn't cleared by the end of Friday, a new report says"
     excerpt: "Dr. Stephen Hahn denied the report, telling Business Insider that \"this is an untrue representation of the phone call with the Chief of Staff.\""
     publishedDateTime: 2020-12-11T21:45:00Z

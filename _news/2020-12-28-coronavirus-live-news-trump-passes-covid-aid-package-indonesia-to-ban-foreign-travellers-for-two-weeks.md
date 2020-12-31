@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/28/coronavirus-live-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
 type: article
 quality: 108
-heat: -1
-published: false
+heat: 128
+published: true
 
 provider:
   name: The Guardian
@@ -31,22 +31,17 @@ images:
     isCached: true
 
 related:
-  - title: "'You can't diddle around:' Sanders, despite misgivings, urges Trump to sign coronavirus relief bill"
-    excerpt: "Bernie Sanders, one of the leading advocates for government-issued direct payments to Americans amid the COVID-19 pandemic, argued Sunday that despite his -- and President Donald Trump's -- reservations about the size of the checks within the currently stalled relief bill,"
-    publishedDateTime: 2020-12-27T14:29:00Z
-    webUrl: "https://abcnews.go.com/Politics/diddle-sanders-misgivings-urges-trump-sign-coronavirus-relief/story?id=74915772"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/diddle-sanders-misgivings-urges-trump-sign-coronavirus-relief/story?id=74915772"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/diddle-sanders-misgivings-urges-trump-sign-coronavirus-relief/story?id=74915772"
+  - title: "Coronavirus live: Joe Biden receives Covid vaccine; UK warned to expect further restrictions"
+    excerpt: "Joe Biden receives the coronavirus vaccine; Sir Patrick Vallance suggests more areas may need to enter tier 4; PM says border delays only affecting small amount of freight"
+    publishedDateTime: 2020-12-21T22:06:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal?page=with:block-5fe110038f08dd27861ceee3"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 111
-    images:
-      - url: "https://s.abcnews.com/images/Politics/this-week-bernie-sanders-02-gty-llr-201226_1609009598745_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
+      name: The Guardian
+      domain: theguardian.com
+    quality: 94
 
 secured: "FHl4fpypoiGKYUE9vZrOHHmY51tCkACBY8kAHVr/YAiDGmlwaPCcOvqD6BFA9JJcriBz9xru4/PKgmEuy4RwhyHRUF6+3uLVqfZoBwRHdD8qYxLTLVPwHGEq0nTrNujOToOaxEq8JfM8mQO4TnxXml8U1+9DBn40WWmwC/K0FwmpnXsGVz+/DeC4l0qJKQhxD67mckHNEu9boDo5r8awkLRilySjKib0pqf0eUR2J/nk5MjQ2JV69yvzsP7pXt+zrp6zxuNhEHzPP85e0IZt8zO56PKm0F77xiPgDxt/OvJeqJFUwWjuTTM9kYx1iernn71V4+QplToBWiWmyX/eWWcVow4oVCPRxmmiuqJ4uQw=;MA53Tp6wmyFAjtL4speZUA=="
 ---

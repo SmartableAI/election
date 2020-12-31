@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-bide
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/d2b8b03/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2F9b%2Ff2f5489a4db4a2d9343b35db7727%2Fla-photos-1staff-545331-me-0522-unusual-getaway-day-005.IK.JPG"
         width: 320
         height: 209
+        isCached: true
+  - title: "In Thanksgiving message, Joe Biden reminds Americans \"we're at war with a virus, not with each other\""
+    excerpt: "Washington — President-elect Joe Biden urged Americans to resist surrendering to the \"fatigue\" of the coronavirus pandemic and come together with the shared goal of defeating the virus, echoing calls of public health officials who are calling for the nation to scale down their Thanksgiving celebrations amid the surge in COVID-19 cases nationwide."
+    publishedDateTime: 2020-11-25T20:44:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 110
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/25/8e3e3b24-051d-4285-a0a2-de21efdfe8a4/thumbnail/1200x630g8/58eaece4ff4e082cf8a78dcf603888e3/gettyimages-1229785663.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden weighs Rahm Emanuel for transportation secretary"
     excerpt: "CHICAGO (AP) — President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel, a substantial and somewhat divisive figure in Democratic Party politics, to serve as his transportation secretary."

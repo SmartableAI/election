@@ -31,21 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden inaugural activities to include memorial service for covid victims"
-    excerpt: "The committee planning events announced a lighting ceremony at the Lincoln Memorial to coincide with remembrances around the country."
-    publishedDateTime: 2020-12-31T12:49:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
+  - title: "Biden to take swift action to roll back harmful 'midnight regulations' -transition team"
+    excerpt: "The Biden administration will take swift action when it assumes office on Jan. 20 to rollback harmful Trump administration policies that will not have taken effect by inauguration day, a spokeswoman for President-elect Joe Biden's transition team said on Wednesday."
+    publishedDateTime: 2020-12-30T19:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-transition-idUSKBN29422E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29422E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29422E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546198325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT17D"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden repeats call for 'full visibility' during transition"
+    excerpt: "President-elect Joe Biden said Dec. 28 that his transition team has encountered political roadblocks from the Trump administration and called it irresponsible."
+    publishedDateTime: 2020-12-28T21:35:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/biden-repeats-call-for-full-visibility-during-transition/2020/12/28/7d8fe81e-2fc6-49d0-bb07-314b2e830f59_video.html"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 124
+    quality: 105
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5G7GCCLMMI6XKOZDY7MJKJIXE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-28-2020/t_6f8155c986d04d3d84a230db9667a68f_name_20201228_Biden_thumb1.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 833
         isCached: true
 
 secured: "R4PFFXrmmk9R9XXezRYvfKvdxRd4XxqlgiTcbugY1yA5hhCypL97VaSuNVknT7J/eWUPnLgkK4rwpU88burIRoKJPdePJn8wVtAXzTr8Y0DHddxKjflsDCHAT/svISUaUHaZNNv3TvoCALKUSOJW05gV1wWRSDsSNk3UEnJW6+lQeejrs475yoRA6pOUy4FVnm2xUVojFpy/lotU79D6IjCmFIOnyUgydpu3ugTG3+3Iae6i8o9FZsV2rxIiuW5ttduvXAbVDWe/nFl/Tp2ch1ABfNCPPAVicYcg4Sc9T4AmggbSxjVbN7npD3+3dxf55BxqwEkbq/DDr+OAXFgaowLT70+zlaCZTbHYfi9M8RrfI8hVbwdnsZTXa42Kx7+E9jTYD2zvYL2QB85SUdOlasvBroyjXfNSY6lEjtp6TVv3eEHG3Xa5e0DUYmOX8amAAWwXVgGAMlSSmh2GFaNXQOZXNp1dO0JLLdgWMTXZdY/9NixorZejUdvPvv0Kn8/vBkfyaEDn7RNadjGSmSbvVw==;pKq9X9hU1pbriMGfIXHLwg=="

@@ -57,6 +57,38 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Though Biden Urged To Choose Black AG, All Current Contenders Are White: Report"
+    excerpt: "New York Governor Andrew Cuomo and Judge Merrick Garland, whose 2016 nomination to the Supreme Court was blocked by Republicans, are said to be among President-elect Joe Biden's choices to serve as Attorney General."
+    publishedDateTime: 2020-12-12T04:49:00Z
+    webUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298"
+    ampWebUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1685378/biden-considering-four-ag-picks-report.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Joe Biden says he will push for more stimulus checks in next Covid relief bill"
+    excerpt: "President-elect Joe Biden will push for a third round of stimulus checks in the next Covid-19 relief bill, he said on Tuesday. The former vice president said at an event in Wilmington, Del. that his plan will call for direct payments to Americans but declined to specify how large they would be,"
+    publishedDateTime: 2020-12-22T20:43:00Z
+    webUrl: "https://www.cnbc.com/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 121
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106815272-1608668494791-gettyimages-1230264204-AFP_8XM4VF.jpeg?v=1608668541"
+        width: 3873
+        height: 2664
+        isCached: true
   - title: "Fact check: Fake ‘Prague newspaper’ article repurposed to attack Biden supporters"
     excerpt: "Users on social media are sharing a text, allegedly an extract of an editorial piece by a Czech newspaper translated into English, which claims the United States is endangered by the people who have elected Joe Biden as president."
     publishedDateTime: 2020-12-22T15:52:00Z
@@ -73,6 +105,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Texas Baptist Minister, a Lifelong Republican, Loses License After Endorsing Biden"
+    excerpt: "\"Had I endorsed Donald Trump or kept my views to myself, I am sure I would still be a licensed Christian minister on the pathway to formal ordination,\" David Bumgardner said."
+    publishedDateTime: 2020-12-18T21:39:00Z
+    webUrl: "https://www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034"
+    ampWebUrl: "https://www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1661437/texas-voting.jpg"
+        width: 2500
+        height: 1669
+        isCached: true
   - title: "Nearly 50 years after death of wife and daughter, empathy remains at Joe Biden's core"
     excerpt: "Joe Biden made headlines as the 29-year-old lawyer who pulled off an upset win against Sen. Caleb Boggs to represent Delaware in the Senate -- one of the youngest people ever elected to the body. But it was a different headline a month after the election that would forever change his life: \"Biden's wife,"
     publishedDateTime: 2020-12-19T11:18:00Z
@@ -88,6 +136,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/biden-jill-grave_hpMain_20201218-183145_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden's pledges could spur more migration. But in a pandemic, the border is unprepared"
+    excerpt: "After spending eight months of 2019 in a makeshift tent camp in the dangerous Mexican border city of Matamoros, Israel Martinez abandoned his hopes of seeking asylum in the United States."
+    publishedDateTime: 2020-12-15T11:26:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-immigration-border-insight-idUKKBN28P1A1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28P1A1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28P1A1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544612554&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE0OH"
+        width: 817
+        height: 545
         isCached: true
   - title: "Iran rejects IAEA chief's call that new agreement needed after Biden takes office -tweet"
     excerpt: "Iran's ambassador to the International Atomic Energy Agency on Friday rejected the UN atomic watchdog chief's suggestion that reviving Iran's nuclear deal after a new U.S. administration comes to power would require striking a new agreement."
@@ -135,17 +199,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Biden says he sees no evidence cyber attack is under control"
-    excerpt: "WILMINGTON, Del. (Reuters) -President-elect Joe Biden said on Tuesday he had seen no evidence that a massive cyber attack against the United States is under control and warned that the breach will not go unanswered once he takes office on Jan."
-    publishedDateTime: 2020-12-23T03:31:00Z
-    webUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Hunter Biden reveals he is under federal investigation for \"tax affairs\""
     excerpt: "Hunter Biden, the son of President-elect Joe Biden, says he is under investigation over his tax affairs by the U.S. Attorney's Office in Delaware in a probe that dates back to 2018. CBS News political correspondent Ed O'Keefe joins \"CBSN AM\" to discuss the latest."
     publishedDateTime: 2020-12-10T13:43:00Z

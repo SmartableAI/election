@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/biden-trump-vaccine-dist
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/biden-trump-vaccine-distribution/index.html"
 type: article
 quality: 186
-heat: 786
+heat: 806
 published: true
 
 provider:
@@ -458,6 +458,22 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden transition chief blasts ‘obstruction’ by political appointees at OMB, Pentagon"
+    excerpt: "Yohannes Abraham said a lack of cooperation was limiting the president-elect’s ability to mount an effective economic response to the pandemic."
+    publishedDateTime: 2020-12-31T03:13:00Z
+    webUrl: "https://www.politico.com/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 128
+    images:
+      - url: "https://static.politico.com/10/f9/7727e4b44563a4b410842415eb81/20201230-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Snowden allies see opening amid Trump clemency blitz"
     excerpt: "Republican members of Congress who have spoken with the president recently view him as increasingly malleable to their suggestions in his closing days."

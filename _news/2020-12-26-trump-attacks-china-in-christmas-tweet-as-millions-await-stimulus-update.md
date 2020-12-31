@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
 type: article
 quality: 124
-heat: 184
+heat: 224
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fate of $2,000 stimulus checks proposal, backed by Trump, is in McConnell’s hands"
+    excerpt: "Sen. Bernie Sanders (I-Vt.) says he will scramble the Senate’s holiday week plans if the Kentucky Republican does not hold a vote on the larger checks."
+    publishedDateTime: 2020-12-29T14:48:00Z
+    webUrl: "https://www.washingtonpost.com/powerpost/stimulus-checks-senate/2020/12/29/344fa850-49d9-11eb-839a-cf4ba7b7c48c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/powerpost/stimulus-checks-senate/2020/12/29/344fa850-49d9-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/stimulus-checks-senate/2020/12/29/344fa850-49d9-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OD27ZASEU4I6XMHEB4MCSI5AEU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Donald and Melania Trump wear matching tuxedos in their final White House Christmas picture"
     excerpt: "The picture shows the Trumps smiling as they stand together on the Grand staircase in the White House, beneath festive Christmas decorations."
     publishedDateTime: 2020-12-19T12:28:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://i.insider.com/5fdddc03c910a400192e8870?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Mnuchin’s loyalty to Trump could end with painful setback as president shreds stimulus deal"
+    excerpt: "Democrats and Republicans had thought Mnuchin was speaking for the president in negotiating the $908 billion pact, but Trump quickly called it a “disgrace.”"
+    publishedDateTime: 2020-12-26T19:21:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GIKNNXUS4QI6VB5DELJSII2WGY.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Former New Jersey Gov. Chris Christie says he 'would not' rule out challenging Trump in 2024"
     excerpt: "In a radio interview, former Gov. Chris Christie kept open the possibility that a 2016 rematch against Donald Trump could happen"

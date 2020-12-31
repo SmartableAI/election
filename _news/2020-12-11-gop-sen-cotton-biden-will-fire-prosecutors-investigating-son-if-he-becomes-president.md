@@ -63,6 +63,33 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Biden's trade nominee has family roots in both Taiwan and China"
+    excerpt: "Katherine Tai, nominated to become President-elect Joe Biden's top trade negotiator, has family roots in both China and Taiwan, she told reporters on Friday, answering questions bubbling in Asia since her nomination first surfaced earlier this week."
+    publishedDateTime: 2020-12-12T00:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-tai-idUSL1N2IR2OY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IR2OY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IR2OY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Biden to select Deb Haaland as Interior Secretary, the first Native American to hold that position, if confirmed"
+    excerpt: "If confirmed, Haaland would be the first Indigenous person to not only serve in as Interior Secretary but hold any presidential Cabinet position."
+    publishedDateTime: 2020-12-17T19:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/17/joe-biden-selects-deb-haaland-lead-interior-first-native-american-role/3778041001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3778041001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3778041001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/413ee057-bb7c-4259-b38e-1684dc19d948-NAFirst.jpg?auto=webp&crop=5615,3159,x0,y285&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "aVAsxtYWDrH2opPQYJbbxnbF6imhRDtr+JYHPTJmop0ZgffqdM/mmsdfDxP6is9kCcH+knZ4wXFxUe/A908ZJtHcqX72jsMHva2382zgjvFoXW/cvM8A5ZPk+DkaLjG5yGdXHgvzckNhZL3qpPR6x59VEboZZS+BdtJkhjvUoY2ge/Cpf7GhpeZcYtKKPi+e31uD+nsl2nfXNUWPtatGjcgdfebAhu0bACBAQcEsQo4KHZbtosh0aYwecxSUz62Zub1Ecf3/edOzJqcTkC3OzkX8epOc77hVn+ezhwcgBV5KpQhyaIr2WKeVnwOry7+1jFiL3LFwz/TudpFMXRGC1owNL6b5hlx1T5vFDa2iKxc=;mTmPe5xdZ5P/VeMwKQBDUw=="
 ---

@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-01-joe-bidens-approach-to-latin-america-will-be-major-departure-from-donald-trump.md",
+      "title": "Joe Biden's Approach to Latin America Will Be Major Departure from Donald Trump",
+      "excerpt": "Joe Biden believes, and he has for years, that conditions must be improved in Latin America if the United States wants to slow immigration. A less antagonistic U.S. approach is coming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345",
+      "originalUrl": "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 846,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1696572/joe-biden-latin-america.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345?amp=1",
+      "publishedDateTime": "2020-12-31T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-trumps-kids-wont-lose-their-5th-amendment-rights-and-be-forced-to-testify-against-him-if-theyre-pardoned-experts-say.md",
+      "title": "Trump's kids won't lose their 5th Amendment rights and be forced to testify against him if they're pardoned, experts say",
+      "excerpt": "A presidential pardon isn't enough to mean that someone can't plead the Fifth Amendment and refuse to testify, according to criminal law experts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-pardons-dont-mean-5th-amendment-privilege-lost-experts-say-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trump-pardons-dont-mean-5th-amendment-privilege-lost-experts-say-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fee20ee9ff41f001883f9bc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-pardons-dont-mean-5th-amendment-privilege-lost-experts-say-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pardons-dont-mean-5th-amendment-privilege-lost-experts-say-2020-12?amp",
+      "publishedDateTime": "2020-12-31T12:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-one-of-trumps-biggest-services-to-america-was-exposing-liberal-media-jeffrey-lord.md",
       "title": "One of Trump's 'biggest services to America' was exposing liberal media: Jeffrey Lord",
       "excerpt": "One of President Trump's top accomplishments came not on the domestic policy or foreign policy front, but in simply exposing left-wing media figures for their biases, columnist and political analyst Jeffrey Lord said Wednesday on \"The Ingraham Angle.\"",
@@ -110,58 +215,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-01-in-stimulus-battle-donald-trump-was-no-match-for-mitch-mcconnell-who-shaped-his-presidency.md",
-      "title": "In Stimulus Battle, Donald Trump Was No Match For Mitch McConnell, Who Shaped His Presidency",
-      "excerpt": "Is McConnell's legacy more transformative than Trump's? The Senate Majority Leader took Trump under his wing, got his judges appointed and tax cuts passed, but clashed with him in the president's final days.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/stimulus-battle-donald-trump-was-no-match-mitch-mcconnell-who-shaped-his-presidency-1558272",
-      "originalUrl": "https://www.newsweek.com/stimulus-battle-donald-trump-was-no-match-mitch-mcconnell-who-shaped-his-presidency-1558272",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1696506/trump-mcconnell-republican.jpg",
-          "width": 2500,
-          "height": 1738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/stimulus-battle-donald-trump-was-no-match-mitch-mcconnell-who-shaped-his-presidency-1558272?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/stimulus-battle-donald-trump-was-no-match-mitch-mcconnell-who-shaped-his-presidency-1558272?amp=1",
-      "publishedDateTime": "2020-12-31T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-31-computer-repairman-twitter-calling-me-hacker-in-hunter-biden-laptop-case-was-death-sentence.md",
       "title": "Computer repairman: Twitter calling me hacker in Hunter Biden laptop case was 'death sentence'",
       "excerpt": "The computer repairman at the center of the Hunter Biden laptop story said Thursday that Twitter destroyed his business by labeling him a \"hacker\" and legal action was his only recourse.",
@@ -174,7 +227,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 183,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -218,21 +271,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-31-no-reason-given-for-trump-cutting-short-his-florida-vacation.md",
-      "title": "No reason given for Trump cutting short his Florida vacation",
-      "excerpt": "President Donald Trump is cutting short his Florida vacation and will be returning to Washington on Thursday, a day earlier than originally expected",
+      "path": "_news/2020-12-31-live-politics-updates-trump-to-return-to-dc-early-gop-senator-says-hes-playing-with-fire-in-contesting-election.md",
+      "title": "Live politics updates: Trump to return to DC early, GOP senator says he's 'playing with fire' in contesting election",
+      "excerpt": "Sasse said the effort by Trump and his allies to overturn Biden's win amounted to pointing a \"loaded gun at the heart of legitimate self-government.\"",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852",
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/31/politics-updates-presidential-transition-congress/4094103001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/31/politics-updates-presidential-transition-congress/4094103001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 427,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_dc315ba7d2624c7ca7304b930d2c920f_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://www.gannett-cdn.com/presto/2020/12/24/USAT/2c7e25e6-de7a-4a91-a9bd-c1acd79338db-AP_Trump.jpg?auto=webp&crop=2923,1644,x1,y201&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -240,16 +293,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852",
-      "publishedDateTime": "2020-12-31T07:37:00-08:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4094103001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4094103001",
+      "publishedDateTime": "2020-12-31T06:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -266,58 +319,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-biden-inaugural-activities-to-include-memorial-service-for-covid-victims.md",
-      "title": "Biden inaugural activities to include memorial service for covid victims",
-      "excerpt": "The committee planning events announced a lighting ceremony at the Lincoln Memorial to coincide with remembrances around the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5G7GCCLMMI6XKOZDY7MJKJIXE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-31T04:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
+        "Donald Trump",
         "Joe Biden"
       ]
     },
@@ -764,6 +766,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-31-mcconnell-rules-out-2000-checks-as-republican-tensions-with-trump-rise.md",
+      "title": "McConnell rules out $2,000 checks as Republican tensions with Trump rise",
+      "excerpt": "U.S. Senate Republican leader Mitch McConnell on Wednesday ruled out a vote on a bill to raise coronavirus relief checks to $2,000 from $600, likely killing the effort pushed by President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-idUSKBN29411A",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-idUSKBN29411A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546213033&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT1DT",
+          "width": 790,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29411A",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29411A",
+      "publishedDateTime": "2020-12-30T14:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-acostas-admission-hell-go-easier-on-biden-shows-personal-vendetta-against-trump-kurtz.md",
       "title": "Acosta's admission he'll go easier on Biden shows 'personal vendetta' against Trump: Kurtz",
       "excerpt": "Fox News media analyst Howard Kurtz told \"America’s Newsroom\" Wednesday that CNN White House correspondent Jim Acosta’s admission he will approach a Biden White House in less adversarial fashion shows he's brought a \"personal vendetta\" to his reporting on the Trump administration.",
@@ -829,7 +883,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-transition-idUSKBN29422E",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -933,7 +987,7 @@
       "originalUrl": "https://www.cbsnews.com/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1034,6 +1088,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-30-trump-is-reportedly-planning-to-host-hundreds-of-guests-at-a-lavish-new-years-eve-bash-at-mar-a-lago-as-covid-19-cases-continue-to-soar.md",
+      "title": "Trump is reportedly planning to host hundreds of guests at a lavish New Year's Eve bash at Mar-a-Lago as COVID-19 cases continue to soar",
+      "excerpt": "President Donald Trump has been busy preparing for a New Year's Eve gala as many areas of the country continue to report surges in coronavirus cases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trumps-new-years-eve-party-mar-a-lago-go-ahead-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trumps-new-years-eve-party-mar-a-lago-go-ahead-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fec4931a644880018193c8b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trumps-new-years-eve-party-mar-a-lago-go-ahead-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-new-years-eve-party-mar-a-lago-go-ahead-2020-12?amp",
+      "publishedDateTime": "2020-12-30T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign.md",
       "title": "Trump calls for Georgia Gov. Brian Kemp, a fellow Republican, to resign",
       "excerpt": "The president’s demand stems from the governor’s refusal to embrace Trump’s baseless claims of widespread election fraud.",
@@ -1042,7 +1148,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign/2020/12/30/bc297d28-4aab-11eb-839a-cf4ba7b7c48c_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1094,7 +1200,7 @@
       "originalUrl": "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 431,
+      "heat": 471,
       "tags": null,
       "images": [
         {
@@ -1249,115 +1355,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-biden-and-harris-to-campaign-in-georgia-in-final-days-before-senate-run-offs.md",
-      "title": "Biden and Harris to campaign in Georgia in final days before Senate run-offs",
-      "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris are poised to make a final push in Georgia ahead of the state's high stakes Senate run-off elections next week.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7XqGpjacjBo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7XqGpjacjBo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 277,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201204050014-biden-harris-split-1204-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/30/politics/biden-harris-campaign-georgia/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-harris-campaign-georgia/index.html",
-      "publishedDateTime": "2020-12-30T02:30:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-us-election-pro-trump-rallies-see-scuffles-in-us-cities.md",
-      "title": "US election: Pro-Trump rallies see scuffles in US cities",
-      "excerpt": "Thousands of Donald Trump supporters alleging electoral fraud converged on several US cities and towns on Saturday and there were isolated scuffles with counter-demonstrators. In Washington DC, more than 20 people were arrested and four people were stabbed,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/election-us-2020-55292610",
-      "originalUrl": "https://www.bbc.com/news/election-us-2020-55292610",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 320,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1323A/production/_116049387_gettyimages-1290928785.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/election-us-2020-55292610",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55292610",
-      "publishedDateTime": "2020-12-30T02:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

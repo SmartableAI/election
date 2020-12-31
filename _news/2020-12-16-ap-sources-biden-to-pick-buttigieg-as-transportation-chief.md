@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-butti
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-biden-picks-buttigieg-as-transportation-chief/2020/12/15/87c1e442-3f09-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 285
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Exclusive-Biden taps former EPA chief for White House climate coordinator role -sources"
+    excerpt: "President-elect Joe Biden will name Gina McCarthy, former administrator of the Environmental Protection Agency under the Obama administration to a new role leading domestic climate policy coordination at the White House,"
+    publishedDateTime: 2020-12-16T04:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-mccarthy-exclusive/exclusive-biden-taps-former-epa-chief-for-white-house-climate-coordinator-role-sources-idUSKBN28P35Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P35Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P35Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544686850&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1SS"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden introduces Buttigieg as transportation secretary nominee, meets virtually with governors"
     excerpt: "As President-elect Joe Biden continues to build his administration, President Trump still insists that he won the election."
     publishedDateTime: 2020-12-16T17:02:00Z
@@ -111,6 +127,17 @@ related:
         width: 1440
         height: 895
         isCached: true
+  - title: "AP sources: Biden picks Rep. Marcia Fudge as housing chief"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary, according to three people familiar with the decision."
+    publishedDateTime: 2020-12-09T02:23:00Z
+    webUrl: "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "AP sources: Biden picks Buttigieg as transportation chief"
     excerpt: "President-elect Joe Biden is expected to pick former South Bend, Indiana, mayor Pete Buttigieg to head the transportation department, according to three people familiar with the plans."
     publishedDateTime: 2020-12-15T23:04:00Z

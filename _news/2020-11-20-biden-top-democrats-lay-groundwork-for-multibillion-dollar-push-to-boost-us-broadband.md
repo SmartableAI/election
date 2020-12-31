@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden urges Americans to be safe during holiday, fight coronavirus pandemic"
+    excerpt: "U.S. President-elect Joe Biden on Wednesday pleaded with Americans to take steps to remain safe as COVID-19 cases surge on the eve of the Thanksgiving holiday and pledged again to make combating the pandemic a top priority when he takes office in January."
+    publishedDateTime: 2020-11-25T22:29:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN2851FD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2851FD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2851FD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542482301&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1SJ"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Joe Biden says 'Let's be thankful for democracy' in message of unity – live"
     excerpt: "Biden will speak in Wilmington as US records highest daily Covid deaths since May and 172,935 new cases"
     publishedDateTime: 2020-11-25T20:19:00Z

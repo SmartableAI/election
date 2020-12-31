@@ -61,21 +61,21 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump caves — but not before putting the GOP in an ugly spot"
-    excerpt: "Trump's failed gambit essentially cast a spotlight on his own party's refusal to provide more coronavirus relief."
-    publishedDateTime: 2020-12-28T16:18:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/28/trump-caves-not-before-putting-gop-an-ugly-spot/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/28/trump-caves-not-before-putting-gop-an-ugly-spot/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/28/trump-caves-not-before-putting-gop-an-ugly-spot/?outputType=amp"
+  - title: "House overrides Trump's veto of $740 billion defense funding bill"
+    excerpt: "The House of Representatives on Monday overrode President Trump's veto of an annual must-pass defense policy bill, teeing up what could be the first time Congress overrides a veto from Mr. Trump only weeks before he leaves office."
+    publishedDateTime: 2020-12-29T00:25:00Z
+    webUrl: "https://www.cbsnews.com/news/defense-bill-house-prepare-override-trump-veto/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/defense-bill-house-prepare-override-trump-veto/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/defense-bill-house-prepare-override-trump-veto/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-28-2020/t_1154f6e75c864b61b7c701643ce573dc_name_1___1920x1080___30p_00_00_08_29_Still015.jpg&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/28/76d8423f-8f35-455b-8ca3-709ab2e4e12a/thumbnail/1200x630g8/aae3459c19b7f076e1a4dce0bf41fb3f/gettyimages-1230310748.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump signs federal stimulus package: Another waiting game for Guam"
     excerpt: "Those currently benefiting from PUA will receive another 11 weeks of assistance, and it will be possible to file new claims."
@@ -233,36 +233,6 @@ related:
         width: 1484
         height: 834
         isCached: true
-  - title: "Trump shuns stimulus bill as pandemic relief expires for millions of Americans"
-    excerpt: "President Trump is still not saying whether he will sign the latest $900 billion coronavirus stimulus plan, as federal unemployment benefits and an eviction protection program are expiring for millions of Americans."
-    publishedDateTime: 2020-12-26T13:31:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-shuns-stimulus-bill-as-pandemic-relief-expires-for-millions-of-americans/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 101
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/26/46879155-3db9-441d-b0b1-0dccbf130565/thumbnail/1200x630/5c3a56fc69894b2e9efd44ed85946b73/1226-satmo-trumpfriday-616319-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Second stimulus check updates: Trump signs pandemic relief and government-funding measure, averting government shutdown"
-    excerpt: "President Donald Trump signed a $900 billion pandemic relief package Sunday, ending days of drama over his refusal to accept the bipartisan deal that will deliver long-sought aid."
-    publishedDateTime: 2020-12-28T19:39:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201227-lcuwnmemifapxht4f7jcltmjmi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201227-lcuwnmemifapxht4f7jcltmjmi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201227-lcuwnmemifapxht4f7jcltmjmi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 101
-    images:
-      - url: "https://www.chicagotribune.com/resizer/oRuLojso2KpX0I8a4AdC32hB5I0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IN2A2UTIVJBTNM6LN4XPPWDKFY.aspx"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "US STOCKS-S&P, Nasdaq futures at record levels as Trump signs stimulus aid bill"
     excerpt: "Futures tracking the S&P 500 and the Nasdaq were at record levels on Monday as President Donald Trump's move to sign into law a long-awaited $2.3 trillion pandemic aid bill bolstered bets on a vaccine-led economic recovery."
     publishedDateTime: 2020-12-28T17:30:00Z
@@ -274,21 +244,21 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 101
-  - title: "Trump lost his battle with Congress over the stimulus bill and cost 14 million Americans unemployment aid in the process"
-    excerpt: "But Trump has cost about 14 million Americans a week of federal unemployment aid because he waited to sign the bill after that aid expired."
-    publishedDateTime: 2020-12-28T18:40:00Z
-    webUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
+  - title: "Second stimulus check updates: Trump threatens to torpedo $900 billion COVID-19 relief bill with new demands that fellow Republicans have opposed"
+    excerpt: "President Trump is blasting the bipartisan $900 billion pandemic relief package that Congress just passed and is suggesting that he may not sign it."
+    publishedDateTime: 2020-12-23T06:58:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-coronavirus-stimulus-check-updates-20201223-7ybevw6uafhtlfcodpayz73m3y-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-coronavirus-stimulus-check-updates-20201223-7ybevw6uafhtlfcodpayz73m3y-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-second-coronavirus-stimulus-check-updates-20201223-7ybevw6uafhtlfcodpayz73m3y-story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 100
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 88
     images:
-      - url: "https://i.insider.com/5fe9fce6edf8920018093d62?width=1200&format=jpeg"
+      - url: "https://www.chicagotribune.com/resizer/fk0V3jTdM0znmmtIBR7USnL-RXg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KADLT5AIRFDM3OFMKUQLBT5LBU"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
   - title: "Japan's Nikkei at 30-Year High After Trump OKs Stimulus"
     excerpt: "Stocks have climbed in Asia, with Japan's Nikkei 225 index surging 2.7% to its highest close in more than 30 years on Tuesday."

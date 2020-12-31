@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/video/joe-biden-covid-19-advisory-board-tr
 webUrl: "https://www.cbsnews.com/video/joe-biden-covid-19-advisory-board-transition-amid-pandemic/"
 type: article
 quality: 105
-heat: 105
+heat: 125
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Biden's challenge: Creating a COVID-19-free White House"
+    excerpt: "Three blocks from the White House, office space for more than 500 Biden transition staffers sits mostly idle. The government is shipping out laptops so staffers can work from home. President-elect Joe Biden,"
+    publishedDateTime: 2020-12-16T05:39:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/bidens-challenge-creating-covid-19-free-white-house-74753046"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_10cae1e803da4b8c8f885e994a6b31f1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "sOvif3Bro3aBbc27YwoFZAh5P6/J7CoZbrOfBT6e4eInzAqSnG5hhyQ6b0/9dzXgpEQUKdBnnIdRz+XPYuvFvaI1kpOpwWPFiaclpEuO8IzOU2XfPfOk6Gl4GldO2ScAPr2IfiNHe5lrY/xcITFW5KnvOSq3GsXLDZ91HQiI6dYYajlE7lYUBIjcUchd0Tpu0n1KZ7lFW7G0sK85tBxZKzZVkn6/N00UzrP5LFDDW0k18hBbq2J4xAT1nr6pwrzFiZcQhraPriHnoCjectuEEMyBBu3WshUxjHCj1ga0ml2B0qYB78/nE9RqmytEue/HoedC8w61g0h/CJGKIJhTu5tsBk9mXRCJUZMk0v3FbarEsX6eMxjL4lz2X4yD7agRUKKOiF85TNijUPBgeZdz+3CR901C5NXRSUbxEeTstyro0ZzqFKcV2FIcmAfhg4P40TNK9g53FvZ1odUYtUUaiqiep6M+dQySu/LMMfpj6HJMs478trkYuh4j2qnvjlFAjnvvj4lohFAw5OjUG03WpQ==;eXDJzYTV+QxPEBEbpMTA6g=="
 ---

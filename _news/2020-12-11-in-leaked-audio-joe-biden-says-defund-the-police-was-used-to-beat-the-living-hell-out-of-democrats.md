@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3887911001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3887911001"
 type: article
 quality: 109
-heat: 149
+heat: 129
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "McDonough says Biden administration will 'fight like hell' for veterans"
-    excerpt: "President-elect Joe Biden introduced Denis McDouough as his Veterans Affairs Secretary nominee at an event in Wilmington, Del. on Dec. 11."
-    publishedDateTime: 2020-12-11T23:50:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/mcdonough-says-biden-administration-will-fight-like-hell-for-veterans/2020/12/11/d0a8254f-d813-4de6-9323-7e7a4b63faa4_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-11-2020/t_6a931d6c5e944923980408fa241c2a43_name_bad8873a_3bf0_11eb_aad9_8959227280c4_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
   - title: "Biden tells civil rights leaders that Republicans weaponized the 'defund the police' slogan to 'beat the hell' out of Democrats"
     excerpt: "\"That's how they beat the living hell out of us across the country, saying that we're talking about defunding the police,\" Biden said of Republicans."
     publishedDateTime: 2020-12-10T22:44:00Z

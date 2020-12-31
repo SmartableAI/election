@@ -31,37 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump just blew up the stimulus and spending bill. What happens now?"
-    excerpt: "It's crunch time. Here's a breakdown of where things stand on the stimulus agreement, the $2,000 direct payment proposal and what could happen next."
-    publishedDateTime: 2020-12-23T18:49:00Z
-    webUrl: "https://www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12?amp"
+  - title: "Live politics updates: Trump to return to DC early, GOP senator says he's 'playing with fire' in contesting election"
+    excerpt: "Sasse said the effort by Trump and his allies to overturn Biden's win amounted to pointing a \"loaded gun at the heart of legitimate self-government.\""
+    publishedDateTime: 2020-12-31T14:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/31/politics-updates-presidential-transition-congress/4094103001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4094103001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4094103001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
     images:
-      - url: "https://i.insider.com/5fe36dc3a644880018193234?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/2c7e25e6-de7a-4a91-a9bd-c1acd79338db-AP_Trump.jpg?auto=webp&crop=2923,1644,x1,y201&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Oil rises towards $52 after Trump signs aid bill"
-    excerpt: "Oil rose towards $52 a barrel on Monday as U.S. President Donald Trump's signing of a coronavirus aid package and the start of a European vaccination campaign outweighed concern about weak near-term demand."
-    publishedDateTime: 2020-12-28T10:37:00Z
-    webUrl: "https://www.reuters.com/article/global-oil-int-idUSKBN2920G3"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920G3"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920G3"
+  - title: "Fate of Trump's $2,000 checks now rests with GOP-led Senate"
+    excerpt: "President Donald Trump ’s push for $2,000 COVID-19 relief checks now rests with the Senate after the House voted overwhelmingly to meet the president's demand to increase the $600 stipends, but Republicans have shown little interest in boosting spending."
+    publishedDateTime: 2020-12-29T09:23:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545938712&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR07D"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/Health/WireAP_b0df8d10c7f84679b2d85479bc4b367d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "House approves Trump's $2K checks, sending to GOP-led Senate"
+    excerpt: "The House has voted overwhelmingly to increase COVID-19 relief checks to $2,000, meeting President Donald Trump’s demand for bigger payments"
+    publishedDateTime: 2020-12-29T02:30:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929699"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929699"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929699"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_29f4b4f27e864d9d8618ef344062ef9a_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump caves — but not before putting the GOP in an ugly spot"
     excerpt: "Trump's failed gambit essentially cast a spotlight on his own party's refusal to provide more coronavirus relief."
@@ -79,228 +95,177 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Trump signs federal stimulus package: Another waiting game for Guam"
-    excerpt: "Those currently benefiting from PUA will receive another 11 weeks of assistance, and it will be possible to file new claims."
-    publishedDateTime: 2020-12-29T04:45:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/12/28/trump-signs-federal-stimulus-package-another-waiting-game-guam/4056532001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4056532001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4056532001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/f5e585fb-71ca-4949-bb65-85ceecf55c4e-AP_Virus_Outbreak_Trump_Congress.jpg?auto=webp&crop=2101,1182,x0,y107&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump signs pandemic aid and spending bill, averting government shutdown"
-    excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a federal government shutdown in a crisis of his own making."
-    publishedDateTime: 2020-12-28T08:47:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2910NA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2910NA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2910NA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545924095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBQ0BZ"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Alternative facts, witch-hunt, bigly: the Trump era in 32 words and phrases"
-    excerpt: "His rally speeches and manic Twitter feed conjured new slogans and insults or revived incendiary words"
-    publishedDateTime: 2020-12-28T13:53:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/28/alternative-facts-bigly-witch-hunt-trump-era-words-phrases"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/28/alternative-facts-bigly-witch-hunt-trump-era-words-phrases"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/28/alternative-facts-bigly-witch-hunt-trump-era-words-phrases"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/b2d8e7dc0e405cfb925af5374328936efcf5936d/0_0_2400_1727/master/2400.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c270148cedd87019b9cd203b1d308194"
-        width: 600
-        height: 432
-        isCached: true
-  - title: "US STOCKS-S&P, Nasdaq futures at record levels as Trump signs stimulus aid bill"
-    excerpt: "Futures tracking the S&P 500 and the Nasdaq were at record levels on Monday as President Donald Trump's move to sign into law a long-awaited $2.3 trillion pandemic aid bill bolstered bets on a vaccine-led economic recovery."
-    publishedDateTime: 2020-12-28T12:44:00Z
-    webUrl: "https://www.reuters.com/article/usa-stocks/us-stocks-sp-nasdaq-futures-at-record-levels-as-trump-signs-stimulus-aid-bill-idUSL4N2J81HR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN292101"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN292101"
+  - title: "UPDATE 1-Trump to skip New Year's Eve in Florida for early return to Washington"
+    excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
+    publishedDateTime: 2020-12-31T16:21:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-idUSL1N2JB0X2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JB0X2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JB0X2"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 121
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545959094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0GQ"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546284574&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0QE"
+        width: 818
         height: 545
         isCached: true
-  - title: "US STOCKS SNAPSHOT-Wall Street hits record high after Trump signs fiscal aid bill"
-    excerpt: "Wall Street's main indexes hit record highs in early trading on Monday as President Donald Trump's signing of a long-awaited $2.3 trillion pandemic aid bill bolstered bets on an economic recovery, helping financial and energy stocks."
-    publishedDateTime: 2020-12-28T14:49:00Z
-    webUrl: "https://www.reuters.com/article/usa-stocks/us-stocks-snapshot-wall-street-hits-record-high-after-trump-signs-fiscal-aid-bill-idUSL4N2J81TM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN292101"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN292101"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545967675&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0KR"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Mitch McConnell says the Senate will consider Trump's demand for $2,000 stimulus checks"
-    excerpt: "Trump refused to sign Congress' $900 COVID-19 relief bill for nearly a week while demanding that the legislation include $2,000 checks."
-    publishedDateTime: 2020-12-29T18:41:00Z
-    webUrl: "https://www.businessinsider.com/mcconnell-senate-2000-stimulus-checks-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/mcconnell-senate-2000-stimulus-checks-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcconnell-senate-2000-stimulus-checks-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
-    images:
-      - url: "https://i.insider.com/5feb414cedf8920018093ffc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "White House aides talked Trump out of last-minute demand for stimulus checks as big as $2,000"
-    excerpt: "Advisers persuaded the president on Thursday not to announce support for significantly bigger stimulus payments."
-    publishedDateTime: 2020-12-18T08:41:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2020/12/17/trump-2000-stimulus-checks/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2020/12/17/trump-2000-stimulus-checks/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/12/17/trump-2000-stimulus-checks/?outputType=amp"
+  - title: "Coronavirus updates: Trump points to states to ‘get moving’ amid a delay in vaccinations"
+    excerpt: "Officials had suggested the United States would be able to put shots in the arms of 20 million people by year's end, though just a fraction of that have received vaccines thus far."
+    publishedDateTime: 2020-12-30T16:09:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/APTK7KCKT4I6XF5WJ247OL7UNM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "'We have to be remembered for what's been done,' Trump says on early return to Washington"
+    excerpt: "U.S. President Donald Trump returned to Washington early from his Florida resort on Thursday, keeping up his fight with Congress over a defense bill and coronavirus aid checks while chronicling the \"historic victories\" of his outgoing administration on Twitter."
+    publishedDateTime: 2020-12-31T20:46:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump/trump-to-forgo-new-years-eve-in-florida-for-early-return-to-washington-idUKKBN2951BB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2951BB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2951BB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546297277&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0TV"
+        width: 813
+        height: 545
+        isCached: true
+  - title: "Trump's demolition of the COVID-19 stimulus package could cost the GOP control of the Senate"
+    excerpt: "GOP Sens. Kelly Loeffler and David Perdue had put the passage of a stimulus bill at the front of their campaigns — until the president torpedoed it."
+    publishedDateTime: 2020-12-24T12:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-coronavirus-stimulus-attacks-could-cost-gop-georgia-senate-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-stimulus-attacks-could-cost-gop-georgia-senate-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-stimulus-attacks-could-cost-gop-georgia-senate-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 114
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TUGCMYSAL4I6XNMLCYR7MJTZMA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Countdown to shutdown: Here’s what happens if Trump doesn’t enact the stimulus law by midnight Monday"
-    excerpt: "Millions of Americans now face the prospect of weeks without unemployment payments, housing assistance and other critical coronavirus aid, as federal relief begins to evaporate amid Trump’s continued refusal to sign a $900 billion congressional stimulus deal into law."
-    publishedDateTime: 2020-12-28T00:52:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2020/12/27/trump-shutdown-stimulus/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2020/12/27/trump-shutdown-stimulus/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/12/27/trump-shutdown-stimulus/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PLMCRVSISEI6XF5WJ247OL7UNM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "McConnell blocks $2,000 stimulus checks as Trump demands support"
-    excerpt: "Mitch McConnell on Tuesday blocked Senate Democrats’ attempt to approve $2,000 stimulus checks, a measure President Trump has called for. Mr. Trump lashed out at Republicans for not supporting the checks or his baseless claims of widespread voter fraud."
-    publishedDateTime: 2020-12-30T00:03:00Z
-    webUrl: "https://www.cbsnews.com/video/mcconnell-blocks-2000-stimulus-checks-as-trump-demands-support/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/29/24674bf1-4fc2-44f0-8a58-0bbfddb31c0c/thumbnail/1200x630/f7d1f3d35b14d98a4eb75800290d5b49/preid-617839-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Senate continues debate on Trump veto override and stimulus check increase"
-    excerpt: "The U.S. Senate is expected to meet to continue debate on overriding President Trump's veto of the National Defense Authorization Act as well as considering increasing stimulus checks from $600 to $2,"
-    publishedDateTime: 2020-12-30T20:17:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/senate-continues-debate-on-trump-veto-override-and-stimulus-check-increase/2020/12/30/5f8e8c71-4173-4eae-a0fe-a1e7a32daba2_live.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 103
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-30-2020/t_c810a8a84f124061bcb888aba817acd5_name_mcconnell_1229_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
-  - title: "Trump shuns stimulus bill as pandemic relief expires for millions of Americans"
-    excerpt: "President Trump is still not saying whether he will sign the latest $900 billion coronavirus stimulus plan, as federal unemployment benefits and an eviction protection program are expiring for millions of Americans."
-    publishedDateTime: 2020-12-26T13:31:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-shuns-stimulus-bill-as-pandemic-relief-expires-for-millions-of-americans/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 101
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/26/46879155-3db9-441d-b0b1-0dccbf130565/thumbnail/1200x630/5c3a56fc69894b2e9efd44ed85946b73/1226-satmo-trumpfriday-616319-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "US STOCKS-S&P, Nasdaq futures at record levels as Trump signs stimulus aid bill"
-    excerpt: "Futures tracking the S&P 500 and the Nasdaq were at record levels on Monday as President Donald Trump's move to sign into law a long-awaited $2.3 trillion pandemic aid bill bolstered bets on a vaccine-led economic recovery."
-    publishedDateTime: 2020-12-28T17:30:00Z
-    webUrl: "https://www.reuters.com/article/usa-stocks-idUSL4N2J81HR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2J81HR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2J81HR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 101
-  - title: "Trump lost his battle with Congress over the stimulus bill and cost 14 million Americans unemployment aid in the process"
-    excerpt: "But Trump has cost about 14 million Americans a week of federal unemployment aid because he waited to sign the bill after that aid expired."
-    publishedDateTime: 2020-12-28T18:40:00Z
-    webUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 100
-    images:
-      - url: "https://i.insider.com/5fe9fce6edf8920018093d62?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fe478a7edf8920018093a15?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump signed off on $600 stimulus checks, and they'll start arriving by direct deposit this week"
-    excerpt: "A second round of stimulus checks will be coming to qualifying Americans via direct deposit, paper check, or debit card by January 15."
-    publishedDateTime: 2020-12-31T04:24:00Z
-    webUrl: "https://www.businessinsider.com/personal-finance/wheres-my-second-stimulus-check-when-payments-coming-2020-12"
+  - title: "Second stimulus check updates: Trump push on $2,000 checks flops as GOP-led Senate won’t vote"
+    excerpt: "Trump’s push for $2,000 COVID-19 relief checks was all but dead Wednesday after McConnell got through with it."
+    publishedDateTime: 2020-12-31T03:36:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201230-k7hsbwtxinesdmdnuzoegs3oxe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201230-k7hsbwtxinesdmdnuzoegs3oxe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201230-k7hsbwtxinesdmdnuzoegs3oxe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 114
+    images:
+      - url: "https://www.chicagotribune.com/resizer/HF1EqsHWjRw8p8WqnW49_OAtTFw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AJ6MVS5QHVCIRJ7FWJBLSSUHLU.jpg"
+        width: 1200
+        height: 841
+        isCached: true
+  - title: "Coronavirus updates: Trump blames states, tells them to ‘get moving’ amid delay in vaccinations"
+    excerpt: "Gustave Perna, chief operating officer of Operation Warp Speed, said Wednesday that 14 million vaccine doses have been distributed in the U.S. to date and more than 2 million doses have been administered."
+    publishedDateTime: 2020-12-30T22:39:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-30-2020/t_2f357c715d614abc9bda01408b0e6122_name_539dc5d6_3fff_11eb_b58b_1623f6267960_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Second stimulus check updates: House Democrats to vote on $2,000 relief checks that Trump demanded"
+    excerpt: "The Democratic-led House Monday is set to vote to boost the $600 payments to $2,000, sending a new bill to the Senate. There, Republicans have the majority and are likely to defeat the effort."
+    publishedDateTime: 2020-12-28T17:31:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201228-7bufls7fzfdrnludxd63lsk6xi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201228-7bufls7fzfdrnludxd63lsk6xi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201228-7bufls7fzfdrnludxd63lsk6xi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 111
+    images:
+      - url: "https://www.chicagotribune.com/resizer/BbKlJhyreDVCeAQ-IrynOg50Xhs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KBGH3YHVYRAJNPZQ7NVOHRGOXA"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Coronavirus updates: Trump administration falls far short of vaccination goals as new virus variant looms"
+    excerpt: "Logistical problems at the heart of the federal government’s faltering rollout of coronavirus vaccines came into sharper view Thursday as the Trump administration fell vastly short of its goal of delivering an initial shot to 20 million people by the end of December."
+    publishedDateTime: 2020-12-31T18:51:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/31/coronavirus-covid-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/31/coronavirus-covid-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/31/coronavirus-covid-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CYVJC4SLRUI6XF5WJ247OL7UNM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Live politics updates: Rubio goes after Fauci on Twitter; Trump signs COVID relief amid criticism for delay"
+    excerpt: "Trump signs coronavirus stimulus bill amid bipartisan criticism; Rubio says Fauci \"lied\" and distorted; George Conway calls on Mnuchin to quit."
+    publishedDateTime: 2020-12-28T23:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4052084001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052084001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/c7e5be1a-e67d-42ed-a51f-f22c064e92fe-GTY_1230070219.jpg?auto=webp&crop=3999,2249,x0,y165&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fate of Trump's $2,000 checks now rests with GOP-led Senate"
+    excerpt: "President Donald Trump’s push for $2,000 COVID-19 relief checks now rests with the Senate after the House voted overwhelmingly to meet the president's demand to increase the $600 stipends, but Republicans have shown little interest in boosting spending."
+    publishedDateTime: 2020-12-30T04:04:00Z
+    webUrl: "https://www.businessinsider.com/fate-of-trumps-2000-checks-now-rests-with-gop-led-senate-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/fate-of-trumps-2000-checks-now-rests-with-gop-led-senate-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fate-of-trumps-2000-checks-now-rests-with-gop-led-senate-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 105
+  - title: "Live politics updates: Donald Trump to cut short Florida holiday, return to Washington; Fate of $2,000 stimulus checks remains uncertain"
+    excerpt: "A proposal from Senate Majority Leader Mitch McConnell to raise stimulus checks to $2,000 includes demands that Democrats are not likely to support."
+    publishedDateTime: 2020-12-31T04:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/30/politics-updates-presidential-transition-congress/4081382001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4081382001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4081382001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
     quality: 92
     images:
-      - url: "https://i.insider.com/5f21fa0d5af6cc41b3074033?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/04/28/USAT/2a9a7016-ec61-42b0-9a1f-1b80e7c29194-AP_Virus_Outbreak_Congress.JPG?auto=webp&crop=5102,2870,x0,y259&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Japan's Nikkei at 30-Year High After Trump OKs Stimulus"
-    excerpt: "Stocks have climbed in Asia, with Japan's Nikkei 225 index surging 2.7% to its highest close in more than 30 years on Tuesday."
-    publishedDateTime: 2020-12-29T06:52:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2020-12-29/japans-nikkei-at-30-year-high-after-trump-oks-stimulus"
-    ampWebUrl: "https://www.usnews.com/news/business/articles/2020-12-29/japans-nikkei-at-30-year-high-after-trump-oks-stimulus?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-12-29/japans-nikkei-at-30-year-high-after-trump-oks-stimulus?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "3kMJzs+9l9cdKphQRkfSimnx0REaMmWLlvLjlaZRCKScSBkVE638dQ2aGEDqPh8Anry2lU6MRT3QFRWMy7wuj7j62I6gX40yWFeTwWnu99c/x3XVQTABfvr8tKHXZtUBwYGoYS7ZT08RqZOybO5X+Piub+lr5l3SPPwaErQpXP3m4R6uQIyXkJQMdewdro9mA058V1abHIUR1OlWgjSYXoQMbZKSPOB5gDYm3UJPTbWpcYTez5GFFinYKK2TJRr/mKogqziUuQL7bhIQBsxs96UlpKQ8+CSeE/vCJ/Z1kW3kUT4TWahBGMRTADtcQVKuysOewMKHcF6r9jeQDmqefNPb4THbHkp1Txzg7cDW2QM=;oBW9oaC2MR2vaFpWhZ0Iug=="
 ---

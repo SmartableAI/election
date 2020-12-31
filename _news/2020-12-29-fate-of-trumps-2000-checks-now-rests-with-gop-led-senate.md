@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-check
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
 type: article
 quality: 125
-heat: 505
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Live politics updates: Trump to return to DC early, GOP senator says he's 'playing with fire' in contesting election"
+    excerpt: "Sasse said the effort by Trump and his allies to overturn Biden's win amounted to pointing a \"loaded gun at the heart of legitimate self-government.\""
+    publishedDateTime: 2020-12-31T14:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/31/politics-updates-presidential-transition-congress/4094103001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4094103001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4094103001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/2c7e25e6-de7a-4a91-a9bd-c1acd79338db-AP_Trump.jpg?auto=webp&crop=2923,1644,x1,y201&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "House approves Trump's $2K checks, sending to GOP-led Senate"
     excerpt: "The House has voted overwhelmingly to increase COVID-19 relief checks to $2,000, meeting President Donald Trump’s demand for bigger payments"
     publishedDateTime: 2020-12-29T02:30:00Z
@@ -47,181 +63,85 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump push on $2K checks flops as GOP-led Senate won't vote"
-    excerpt: "Senate Majority Leader Mitch McConnell has all but shut the door on President Donald Trump’s push for $2,000 COVID-19 relief checks"
-    publishedDateTime: 2020-12-31T05:41:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/trump-push-2k-checks-flops-gop-led-senate-74983912"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-push-2k-checks-flops-gop-led-senate-74983912"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-push-2k-checks-flops-gop-led-senate-74983912"
+  - title: "Trump caves — but not before putting the GOP in an ugly spot"
+    excerpt: "Trump's failed gambit essentially cast a spotlight on his own party's refusal to provide more coronavirus relief."
+    publishedDateTime: 2020-12-28T16:18:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/28/trump-caves-not-before-putting-gop-an-ugly-spot/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/28/trump-caves-not-before-putting-gop-an-ugly-spot/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/28/trump-caves-not-before-putting-gop-an-ugly-spot/?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_0d69e273b4dd492ab458f9815fb49f2b_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-28-2020/t_1154f6e75c864b61b7c701643ce573dc_name_1___1920x1080___30p_00_00_08_29_Still015.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "McConnell rules out $2,000 checks as Republican tensions with Trump rise"
-    excerpt: "U.S. Senate Republican leader Mitch McConnell on Wednesday ruled out a vote on a bill to raise coronavirus relief checks to $2,000 from $600, likely killing the effort pushed by President Donald Trump."
-    publishedDateTime: 2020-12-30T22:38:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29411A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29411A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29411A"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546213033&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT1DT"
-        width: 790
-        height: 545
-        isCached: true
-  - title: "McConnell thwarts Trump bid for $2,000 coronavirus economic relief checks"
-    excerpt: "U.S. Senate leader Mitch McConnell dealt a likely death blow on Wednesday to President Donald Trump's bid to boost coronavirus aid to Americans, declining to schedule a swift Senate vote on a bill to raise relief checks to $2,"
-    publishedDateTime: 2020-12-31T03:11:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idTRNIKBN29411A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idTRNIKBN29411A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idTRNIKBN29411A"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546213033&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT1DT"
-        width: 790
-        height: 545
-        isCached: true
-  - title: "GOP Lawmaker Asks Trump to Pardon Ex-Congressman, Calls DOJ 'Corrupt and Inept'"
-    excerpt: "Arizona Representative Paul Gosar said Rick Renzi was \"convicted by corrupt DOJ prosecutors who fabricated evidence.\""
-    publishedDateTime: 2020-12-26T22:39:00Z
-    webUrl: "https://www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400"
-    ampWebUrl: "https://www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
-    images:
-      - url: "https://d.newsweek.com/en/full/1675257/rep-paul-gosar.jpg"
-        width: 2500
-        height: 1663
-        isCached: true
-  - title: "McConnell urges Senate to override Trump defense veto, vague on stimulus checks"
-    excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday urged the Senate to override President Donald Trump's veto of a $740 billion defense policy bill, saying the funding plan for the U.S. military could not be allowed to fail."
-    publishedDateTime: 2020-12-29T19:51:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN2930ST"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2930ST"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2930ST"
+  - title: "UPDATE 1-Trump to skip New Year's Eve in Florida for early return to Washington"
+    excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
+    publishedDateTime: 2020-12-31T16:21:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-idUSL1N2JB0X2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JB0X2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JB0X2"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 121
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546284574&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0QE"
+        width: 818
         height: 545
         isCached: true
-  - title: "Fate of $2,000 stimulus checks proposal, backed by Trump, is in McConnell’s hands"
-    excerpt: "Sen. Bernie Sanders (I-Vt.) says he will scramble the Senate’s holiday week plans if the Kentucky Republican does not hold a vote on the larger checks."
-    publishedDateTime: 2020-12-29T14:48:00Z
-    webUrl: "https://www.washingtonpost.com/powerpost/stimulus-checks-senate/2020/12/29/344fa850-49d9-11eb-839a-cf4ba7b7c48c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/powerpost/stimulus-checks-senate/2020/12/29/344fa850-49d9-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/stimulus-checks-senate/2020/12/29/344fa850-49d9-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+  - title: "Coronavirus updates: Trump points to states to ‘get moving’ amid a delay in vaccinations"
+    excerpt: "Officials had suggested the United States would be able to put shots in the arms of 20 million people by year's end, though just a fraction of that have received vaccines thus far."
+    publishedDateTime: 2020-12-30T16:09:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 120
+    quality: 116
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OD27ZASEU4I6XMHEB4MCSI5AEU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/APTK7KCKT4I6XF5WJ247OL7UNM.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "McConnell puts off vote on $2,000 aid checks, urges Senate override Trump defense veto"
-    excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday put off a vote on President Donald Trump's call to boost COVID-19 relief checks and urged the Senate to override his veto of a defense bill, in a rare challenge to his fellow Republican three weeks before Trump"
-    publishedDateTime: 2020-12-29T22:04:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2930SO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2930SO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2930SO"
+  - title: "'We have to be remembered for what's been done,' Trump says on early return to Washington"
+    excerpt: "U.S. President Donald Trump returned to Washington early from his Florida resort on Thursday, keeping up his fight with Congress over a defense bill and coronavirus aid checks while chronicling the \"historic victories\" of his outgoing administration on Twitter."
+    publishedDateTime: 2020-12-31T20:46:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump/trump-to-forgo-new-years-eve-in-florida-for-early-return-to-washington-idUKKBN2951BB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2951BB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2951BB"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 117
+    quality: 116
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
-        width: 817
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546297277&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0TV"
+        width: 813
         height: 545
         isCached: true
-  - title: "Mnuchin’s loyalty to Trump could end with painful setback as president shreds stimulus deal"
-    excerpt: "Democrats and Republicans had thought Mnuchin was speaking for the president in negotiating the $908 billion pact, but Trump quickly called it a “disgrace.”"
-    publishedDateTime: 2020-12-26T19:21:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/?outputType=amp"
+  - title: "Trump's demolition of the COVID-19 stimulus package could cost the GOP control of the Senate"
+    excerpt: "GOP Sens. Kelly Loeffler and David Perdue had put the passage of a stimulus bill at the front of their campaigns — until the president torpedoed it."
+    publishedDateTime: 2020-12-24T12:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-coronavirus-stimulus-attacks-could-cost-gop-georgia-senate-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-stimulus-attacks-could-cost-gop-georgia-senate-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-stimulus-attacks-could-cost-gop-georgia-senate-2020-12?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GIKNNXUS4QI6VB5DELJSII2WGY.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Defying Trump, McConnell delays vote on $2,000 checks, urges Senate to override defense veto"
-    excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday put off a vote on President Donald Trump's call to boost COVID-19 relief checks and urged the Senate to override his veto of a defense bill, in a rare challenge to his fellow Republican three weeks before he"
-    publishedDateTime: 2020-12-30T04:50:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idINKBN2930SO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2930SO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2930SO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 114
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Defying Trump, McConnell puts off vote on $2,000 checks, urges override of defense bill veto"
-    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday put off a vote on increasing COVID-19 relief checks from $600 to $2,000 and urged senators to override President Donald Trump's veto of a defense bill,"
-    publishedDateTime: 2020-12-30T04:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUKKBN2930SO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2930SO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2930SO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 114
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Defying Trump, McConnell puts off vote on $2,000 checks, urges override of defense bill veto"
-    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday put off a vote on increasing COVID-19 relief checks from $600 to $2,000 and urged senators to override President Donald Trump’s veto of a defense bill,"
-    publishedDateTime: 2020-12-30T18:08:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/u-s-congress-inches-closer-to-trump-veto-override-as-republican-tensions-grow-idUSKBN29411A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29411A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29411A"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 114
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546194815&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT170"
-        width: 817
-        height: 545
+      - url: "https://i.insider.com/5fe478a7edf8920018093a15?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Second stimulus check updates: Trump push on $2,000 checks flops as GOP-led Senate won’t vote"
     excerpt: "Trump’s push for $2,000 COVID-19 relief checks was all but dead Wednesday after McConnell got through with it."
@@ -239,21 +159,21 @@ related:
         width: 1200
         height: 841
         isCached: true
-  - title: "McConnell rejects standalone $2,000 checks, links increase to other Trump requests in new bill"
-    excerpt: "Senate Majority Leader Mitch McConnell blocked an attempt to vote on the $2,000 stimulus checks, but reintroduced the $1,400 increase — with a catch."
-    publishedDateTime: 2020-12-30T00:03:00Z
-    webUrl: "https://www.cbsnews.com/news/stimulus-check-2000-trump-senate/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/stimulus-check-2000-trump-senate/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/stimulus-check-2000-trump-senate/"
+  - title: "Coronavirus updates: Trump blames states, tells them to ‘get moving’ amid delay in vaccinations"
+    excerpt: "Gustave Perna, chief operating officer of Operation Warp Speed, said Wednesday that 14 million vaccine doses have been distributed in the U.S. to date and more than 2 million doses have been administered."
+    publishedDateTime: 2020-12-30T22:39:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 113
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/29/817d52a3-b354-4ddb-aa99-f0c7e223577d/thumbnail/1200x630/b1ca0c4dcef5d3f04548483e3a45c84c/gettyimages-1230255025.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-30-2020/t_2f357c715d614abc9bda01408b0e6122_name_539dc5d6_3fff_11eb_b58b_1623f6267960_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Second stimulus check updates: House Democrats to vote on $2,000 relief checks that Trump demanded"
     excerpt: "The Democratic-led House Monday is set to vote to boost the $600 payments to $2,000, sending a new bill to the Senate. There, Republicans have the majority and are likely to defeat the effort."
@@ -271,21 +191,37 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "At odds with fiscal conservatism, Georgia's GOP candidates support Trump's demand for $2,000 stimulus checks"
-    excerpt: "Sens. Loeffler and Perdue said they support President Trump's call for bigger stimulus checks going to the American people, putting them at odds with fiscal conservatism."
-    publishedDateTime: 2020-12-29T20:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/odds-fiscal-conservatism-georgias-gop-candidates-support-trumps/story?id=74948837"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/odds-fiscal-conservatism-georgias-gop-candidates-support-trumps/story?id=74948837"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/odds-fiscal-conservatism-georgias-gop-candidates-support-trumps/story?id=74948837"
+  - title: "Coronavirus updates: Trump administration falls far short of vaccination goals as new virus variant looms"
+    excerpt: "Logistical problems at the heart of the federal government’s faltering rollout of coronavirus vaccines came into sharper view Thursday as the Trump administration fell vastly short of its goal of delivering an initial shot to 20 million people by the end of December."
+    publishedDateTime: 2020-12-31T18:51:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/31/coronavirus-covid-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/31/coronavirus-covid-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/31/coronavirus-covid-updates/?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 106
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
     images:
-      - url: "https://s.abcnews.com/images/Politics/stimulis-checks-covid-kelly-loeffler-david-perdue-04-gty-llr-201229_1609264424598_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CYVJC4SLRUI6XF5WJ247OL7UNM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Live politics updates: Rubio goes after Fauci on Twitter; Trump signs COVID relief amid criticism for delay"
+    excerpt: "Trump signs coronavirus stimulus bill amid bipartisan criticism; Rubio says Fauci \"lied\" and distorted; George Conway calls on Mnuchin to quit."
+    publishedDateTime: 2020-12-28T23:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4052084001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052084001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/c7e5be1a-e67d-42ed-a51f-f22c064e92fe-GTY_1230070219.jpg?auto=webp&crop=3999,2249,x0,y165&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Fate of Trump's $2,000 checks now rests with GOP-led Senate"
     excerpt: "President Donald Trump’s push for $2,000 COVID-19 relief checks now rests with the Senate after the House voted overwhelmingly to meet the president's demand to increase the $600 stipends, but Republicans have shown little interest in boosting spending."
@@ -298,37 +234,37 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Lindsey Graham says Trump is 'more determined than ever' to secure $2,000 checks as COVID-19 relief bill lingers in limbo"
-    excerpt: "Sen. Lindsey Graham tweeted that President Donald \"more determined than ever to increase stimulus payments to $2000 per person.\""
-    publishedDateTime: 2020-12-26T15:00:00Z
-    webUrl: "https://www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12?amp"
+  - title: "Second stimulus check updates: Trump signs pandemic relief and government-funding measure, averting government shutdown"
+    excerpt: "President Donald Trump signed a $900 billion pandemic relief package Sunday, ending days of drama over his refusal to accept the bipartisan deal that will deliver long-sought aid."
+    publishedDateTime: 2020-12-28T19:39:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201227-lcuwnmemifapxht4f7jcltmjmi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201227-lcuwnmemifapxht4f7jcltmjmi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201227-lcuwnmemifapxht4f7jcltmjmi-story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 100
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
     images:
-      - url: "https://i.insider.com/5fe69a46edf8920018093c24?width=1200&format=jpeg"
+      - url: "https://www.chicagotribune.com/resizer/oRuLojso2KpX0I8a4AdC32hB5I0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IN2A2UTIVJBTNM6LN4XPPWDKFY.aspx"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Trump's $2,000 stimulus checks demand could cost the GOP its Senate majority, but reveals his enduring influence within the party"
-    excerpt: "McConnell's obstinance on the $2,000 checks has offered Democrats an ideal messaging opportunity ahead of Georgia's Senate runoff election."
-    publishedDateTime: 2020-12-29T21:07:00Z
-    webUrl: "https://www.businessinsider.com/trump-demand-2000-checks-cost-gop-but-shows-his-power-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-demand-2000-checks-cost-gop-but-shows-his-power-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-demand-2000-checks-cost-gop-but-shows-his-power-2020-12?amp"
+  - title: "Live politics updates: Donald Trump to cut short Florida holiday, return to Washington; Fate of $2,000 stimulus checks remains uncertain"
+    excerpt: "A proposal from Senate Majority Leader Mitch McConnell to raise stimulus checks to $2,000 includes demands that Democrats are not likely to support."
+    publishedDateTime: 2020-12-31T04:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/30/politics-updates-presidential-transition-congress/4081382001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4081382001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4081382001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
+      name: USA Today
+      domain: usatoday.com
+    quality: 92
     images:
-      - url: "https://i.insider.com/5feb6279edf89200180940ba?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/04/28/USAT/2a9a7016-ec61-42b0-9a1f-1b80e7c29194-AP_Virus_Outbreak_Congress.JPG?auto=webp&crop=5102,2870,x0,y259&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
 
 secured: "Xdr8fZONaj61TmpDI0/tW7lSiy4j1tPjhwk0Qh8Rv5k93te3T0nw/a/uxBeZTpTGuk/+hp7XQb+amOqV/vp+zogIQwZTDx7zwwFe1Cu9pCjNPquJNQOIQ/D5aaepdtAsnuTh6l2e2purN16eQt0A4FppQC0/iTz5UT8IdA+EOuHR1/zI8E0o5ka//qciy2E+hSgKVb7oTvNBDuKb2cix/SOh/1xWmoU8QuZr1+fnexGu6MDON25sB7uG0rrILUeCAMgKzxqGewOkNQssNwiHG4Bhkcx2yBpqZxlAM//0SQESaGyYrZwXhe1KhdK4i8J91G/GospagUmucGc79JtDtSmYb4MunFl+srlLe9mMreM=;OsMmq/s2wv0DM/lcDAcO+A=="

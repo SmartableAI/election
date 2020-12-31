@@ -9,7 +9,7 @@ ampWebUrl: "https://www.orlandosentinel.com/coronavirus/fl-ne-turning-point-usa-
 cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/coronavirus/fl-ne-turning-point-usa-conference-20201223-imqanbdptfd7bb622xnix5v6vi-story.html?outputType=amp"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Even as he urges caution on COVID-19, Pence flies to Florida to speak at large event"
-    excerpt: "Vice President Mike Pence has urged Americans to step up precautions, but he flew to Florida to speak to thousands at an indoor summit held by a conservative youth group."
-    publishedDateTime: 2020-12-22T22:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/urges-caution-covid-19-pence-flies-florida-speak/story?id=74858979"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 98
-    images:
-      - url: "https://s.abcnews.com/images/Politics/pence-turningpt-abc-rc-201222_1608662483585_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "cwdiltiQZybXLvvxz3H0nvWimA5a/aX68YqFsY+a5qa33/uWtQSd7hTLbPTTy2eYhg/YHxM649xNAP7Uxcuu06KI5gUhAy4fC3xRK/by9IsQ4z0/buyJcGL0vWZoMCZla0yKdiddY2pPt7ZiSdAD3GdeLeJQJOCBi/LpzwvpfGqXQudlCgxYMxl1f+oiv6OWPpv7vrtQhHzM+pGMYjK9HV9SeAacbAeqmW1Hclnmo1ChfhqChlgmXpemaD4XbOk7pemioCjfdI6QYihhocCrpw8DZ/ZapVTcKImvVgE9GidU1L3RAY3rdTno/QEkBFPjfikh4zdF+wQUBiGeelZJSJIj0/EaOv9gTKF7k0Xl1jM=;kF3FkvZv15Ybn3UQQMNXew=="
 ---

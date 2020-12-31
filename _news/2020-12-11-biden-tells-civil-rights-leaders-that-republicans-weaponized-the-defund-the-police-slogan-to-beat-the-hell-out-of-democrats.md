@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "McDonough says Biden administration will 'fight like hell' for veterans"
-    excerpt: "President-elect Joe Biden introduced Denis McDouough as his Veterans Affairs Secretary nominee at an event in Wilmington, Del. on Dec. 11."
-    publishedDateTime: 2020-12-11T23:50:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/mcdonough-says-biden-administration-will-fight-like-hell-for-veterans/2020/12/11/d0a8254f-d813-4de6-9323-7e7a4b63faa4_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-11-2020/t_6a931d6c5e944923980408fa241c2a43_name_bad8873a_3bf0_11eb_aad9_8959227280c4_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
 
 secured: "u7h/8NVSRy5AyOcVLqafF39oQqD5ZGQeTPuHYwSFTexYf+yE+v2hO2d62l0DpLt4VG8DmteoD0uyKsGVVBtXjFMxVw6fpeeTjdhFk95tZQvJ+++UYG83HfYgpIqAdkoytC3e7nHz8VFGCT4rZs9Cg2LwI/9jlKSsYn543UR6+7Z/cvOrlEivprTai9bgjB0sup78ajJC5CDKEcDU71LL2eZhu3zh6RdQG/F/Hjwfwjg1VbxVyqB+OmaQr/4hn7oxfw/sy/r9DWwBhFfnTCmhzZkW8qTV7mEdtAadLwDajp4N4AVKOMNvWSH30ZuEOGcSMTKUIX1HOqxAUMeDNJfB9EdIE1PdRb7PHvJWkjlWg63oUo2sdy8XabbI1eFDKkRvK6j5eeMtBVoaXTQ+cTHlX49EqLyw//ZB0Trfc1p5GL4Z8o3PtI/S+zPfzYialA09VGLYB5Piaxz6ar2X2EVsKJk9NhiSkePL3oWExBTEbaMzMlN8tGs9XVxVFfwxplQP2fx1oiDgy6KjMbFkbSuZuQ==;ygQQVxpAk3OFJmznp8xugQ=="
 ---

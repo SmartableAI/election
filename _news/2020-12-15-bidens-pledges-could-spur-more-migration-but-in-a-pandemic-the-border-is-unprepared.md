@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "In Latin America, a Biden White House faces a rising China"
-    excerpt: "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home."
-    publishedDateTime: 2020-12-14T11:40:00Z
-    webUrl: "https://www.reuters.com/article/us-latam-usa-china-insight-idUSKBN28O18R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O18R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R"
+  - title: "Fact check: Laptop repairman at center of Hunter Biden saga is alive"
+    excerpt: "Some users on Facebook have falsely claimed John Paul Mac Isaac — the laptop repairman at the center of the Hunter Biden laptop saga — was found dead."
+    publishedDateTime: 2020-12-16T01:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-laptop-repairman-center-hunter-biden-saga-alive/3905393001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3905393001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3905393001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: USA Today
+      domain: usatoday.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544488578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0NX"
-        width: 817
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/dd7975a8-d63a-4e8b-b306-739763b38569-VPC_HUNTER_BIDEN_TAXES_DESK.00_00_32_05.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "In Latin America, a Biden White House faces a rising China"
-    excerpt: "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home."
-    publishedDateTime: 2020-12-14T16:15:00Z
-    webUrl: "https://www.reuters.com/article/us-latam-usa-china-insight/in-latin-america-a-biden-white-house-faces-a-rising-china-idUSKBN28O18R?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O18R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R"
+  - title: "Cyber-attack is brutal reminder of the Russia problem facing Joe Biden"
+    excerpt: "Analysis: new president must find a way to contain such hyper-aggressive behaviour from Moscow"
+    publishedDateTime: 2020-12-18T19:19:00Z
+    webUrl: "https://www.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
+    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544488578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0NX"
-        width: 817
-        height: 545
+      - url: "https://i.guim.co.uk/img/media/82d7591e13d4ea38cfee97a656251541e36d2a3f/0_313_6254_3752/master/6254.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ffb77ff25ea0bc984ac90dd5576d762e"
+        width: 600
+        height: 360
         isCached: true
   - title: "Though Biden Urged To Choose Black AG, All Current Contenders Are White: Report"
     excerpt: "New York Governor Andrew Cuomo and Judge Merrick Garland, whose 2016 nomination to the Supreme Court was blocked by Republicans, are said to be among President-elect Joe Biden's choices to serve as Attorney General."
@@ -79,152 +79,141 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "China's Wang vows to uphold trade deal during Biden administration: U.S. business group"
-    excerpt: "Chinese Foreign Minister Wang Yi assured U.S. executives during a videoconference on Sunday that Beijing remained committed to the Phase 1 trade deal with the United States, the head of the US-China Business Council said."
-    publishedDateTime: 2020-12-08T13:25:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trade-china/china-foreign-minister-pledges-to-uphold-trade-deal-during-biden-administration-us-china-business-council-idUSKBN28H30Y"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H30Y"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H30Y"
+  - title: "Joe Biden says he will push for more stimulus checks in next Covid relief bill"
+    excerpt: "President-elect Joe Biden will push for a third round of stimulus checks in the next Covid-19 relief bill, he said on Tuesday. The former vice president said at an event in Wilmington, Del. that his plan will call for direct payments to Americans but declined to specify how large they would be,"
+    publishedDateTime: 2020-12-22T20:43:00Z
+    webUrl: "https://www.cnbc.com/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 121
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106815272-1608668494791-gettyimages-1230264204-AFP_8XM4VF.jpeg?v=1608668541"
+        width: 3873
+        height: 2664
+        isCached: true
+  - title: "Fact check: Fake ‘Prague newspaper’ article repurposed to attack Biden supporters"
+    excerpt: "Users on social media are sharing a text, allegedly an extract of an editorial piece by a Czech newspaper translated into English, which claims the United States is endangered by the people who have elected Joe Biden as president."
+    publishedDateTime: 2020-12-22T15:52:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-prague-newspaper-idUSKBN28W1SO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W1SO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W1SO"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 117
+    quality: 120
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543785941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61OL"
-        width: 788
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545448292&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL12O"
+        width: 818
         height: 545
         isCached: true
-  - title: "Exclusive-Biden taps former EPA chief for White House climate coordinator role -sources"
-    excerpt: "President-elect Joe Biden will name Gina McCarthy, former administrator of the Environmental Protection Agency under the Obama administration to a new role leading domestic climate policy coordination at the White House,"
-    publishedDateTime: 2020-12-16T04:52:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-mccarthy-exclusive/exclusive-biden-taps-former-epa-chief-for-white-house-climate-coordinator-role-sources-idUSKBN28P35Y"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P35Y"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P35Y"
+  - title: "Texas Baptist Minister, a Lifelong Republican, Loses License After Endorsing Biden"
+    excerpt: "\"Had I endorsed Donald Trump or kept my views to myself, I am sure I would still be a licensed Christian minister on the pathway to formal ordination,\" David Bumgardner said."
+    publishedDateTime: 2020-12-18T21:39:00Z
+    webUrl: "https://www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034"
+    ampWebUrl: "https://www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544686850&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1SS"
-        width: 817
-        height: 545
+      - url: "https://d.newsweek.com/en/full/1661437/texas-voting.jpg"
+        width: 2500
+        height: 1669
         isCached: true
-  - title: "Biden plans to be sworn in as president with a massive family heirloom Bible dating back to 1893"
-    excerpt: "The huge Bible is five inches thick and has a Celtic cross on the cover. Biden says it comes from his father's side of the family."
-    publishedDateTime: 2020-12-19T15:47:00Z
-    webUrl: "https://www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
-    images:
-      - url: "https://i.insider.com/5fdca89dc910a400192e8433?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "'Need a miracle': Permanent resident facing deportation hoping he can last until Biden administration"
-    excerpt: "Kelvin Silva faces deportation from ICE, even though he's been a legal permanent resident of the United States since the 1980s."
-    publishedDateTime: 2020-12-11T11:45:00Z
-    webUrl: "https://abcnews.go.com/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
+  - title: "Nearly 50 years after death of wife and daughter, empathy remains at Joe Biden's core"
+    excerpt: "Joe Biden made headlines as the 29-year-old lawyer who pulled off an upset win against Sen. Caleb Boggs to represent Delaware in the Senate -- one of the youngest people ever elected to the body. But it was a different headline a month after the election that would forever change his life: \"Biden's wife,"
+    publishedDateTime: 2020-12-19T11:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/50-years-death-wife-daughter-empathy-remains-joe/story?id=74814251"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/50-years-death-wife-daughter-empathy-remains-joe/story?id=74814251"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/50-years-death-wife-daughter-empathy-remains-joe/story?id=74814251"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 110
+    quality: 118
     images:
-      - url: "https://s.abcnews.com/images/Politics/kelvin-silva-ice-01-ht-llr-201209_1607557670725_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/biden-jill-grave_hpMain_20201218-183145_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "AP sources: Biden picks Rep. Marcia Fudge as housing chief"
-    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary, according to three people familiar with the decision."
-    publishedDateTime: 2020-12-09T02:23:00Z
-    webUrl: "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12?amp"
+  - title: "Iran rejects IAEA chief's call that new agreement needed after Biden takes office -tweet"
+    excerpt: "Iran's ambassador to the International Atomic Energy Agency on Friday rejected the UN atomic watchdog chief's suggestion that reviving Iran's nuclear deal after a new U.S. administration comes to power would require striking a new agreement."
+    publishedDateTime: 2020-12-18T11:57:00Z
+    webUrl: "https://www.reuters.com/article/iran-nuclear-iaea-int/iran-rejects-iaea-chiefs-call-that-new-agreement-needed-after-biden-takes-office-tweet-idUSKBN28S0OK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S0OW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S0OW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544999702&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH0DB"
+        width: 852
+        height: 545
+        isCached: true
+  - title: "Biden won't ask his attorney general candidates about potential investigations into his son, Hunter"
+    excerpt: "Incoming White House Press Secretary Jen Psaki said Biden would not be addressing an investigation with his candidates for Attorney General."
+    publishedDateTime: 2020-12-20T17:16:00Z
+    webUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
-  - title: "Biden's trade nominee has family roots in both Taiwan and China"
-    excerpt: "Katherine Tai, nominated to become President-elect Joe Biden's top trade negotiator, has family roots in both China and Taiwan, she told reporters on Friday, answering questions bubbling in Asia since her nomination first surfaced earlier this week."
-    publishedDateTime: 2020-12-12T00:08:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-tai-idUSL1N2IR2OY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IR2OY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IR2OY"
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5fdbcfa4d366e60018098c5f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "'No plans' for special counsel in Hunter Biden probe -Barr"
+    excerpt: "Politics 'No plans' for special counsel in Hunter Biden probe -Barr. Posted . U.S. Attorney General William Barr said on Monday he has no plans to appoint a special counsel to inv"
+    publishedDateTime: 2020-12-21T18:56:00Z
+    webUrl: "https://www.reuters.com/video/watch/no-plans-for-special-counsel-in-hunter-b-idOVD9YH5NJ?chan=6g5ka85"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Biden's challenge: Creating a COVID-19-free White House"
-    excerpt: "Three blocks from the White House, office space for more than 500 Biden transition staffers sits mostly idle. The government is shipping out laptops so staffers can work from home. President-elect Joe Biden,"
-    publishedDateTime: 2020-12-16T05:39:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/bidens-challenge-creating-covid-19-free-white-house-74753046"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_10cae1e803da4b8c8f885e994a6b31f1_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://static.reuters.com/resources/r/?d=20201221&i=OVD9YH5NJ&r=OVD9YH5NJ&t=2"
+        width: 960
+        height: 540
         isCached: true
-  - title: "Biden to select Deb Haaland as Interior Secretary, the first Native American to hold that position, if confirmed"
-    excerpt: "If confirmed, Haaland would be the first Indigenous person to not only serve in as Interior Secretary but hold any presidential Cabinet position."
-    publishedDateTime: 2020-12-17T19:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/17/joe-biden-selects-deb-haaland-lead-interior-first-native-american-role/3778041001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3778041001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3778041001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/413ee057-bb7c-4259-b38e-1684dc19d948-NAFirst.jpg?auto=webp&crop=5615,3159,x0,y285&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden's inaugural committee is urging Americans to stay home instead of traveling to Washington, DC, for the festivities"
-    excerpt: "While Biden will give a speech on Jan. 20, attendance will be restricted and most of the traditional inauguration celebrations will be virtual."
-    publishedDateTime: 2020-12-15T17:53:00Z
-    webUrl: "https://www.businessinsider.com/biden-inaugural-committee-urges-americans-stay-home-coronavirus-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-inaugural-committee-urges-americans-stay-home-coronavirus-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-inaugural-committee-urges-americans-stay-home-coronavirus-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 100
-    images:
-      - url: "https://i.insider.com/5fd8e617dc030c001aab6b6f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "What we know about retired General Lloyd Austin, Biden's choice for defense secretary"
-    excerpt: "President-elect Joe Biden has chosen retired General Lloyd Austin to be his defense secretary. CBS News correspondent Nikole Killion joins CBSN to discuss what makes the pick so historic."
-    publishedDateTime: 2020-12-10T03:16:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-defense-secretary-lloyd-austin-defense-secretary/"
+  - title: "Hunter Biden reveals he is under federal investigation for \"tax affairs\""
+    excerpt: "Hunter Biden, the son of President-elect Joe Biden, says he is under investigation over his tax affairs by the U.S. Attorney's Office in Delaware in a probe that dates back to 2018. CBS News political correspondent Ed O'Keefe joins \"CBSN AM\" to discuss the latest."
+    publishedDateTime: 2020-12-10T13:43:00Z
+    webUrl: "https://www.cbsnews.com/video/hunter-biden-reveals-he-is-under-federal-investigation-taxes/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 98
+    quality: 104
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/39b77f61-0070-42f7-98ea-c83f8e7abbaf/thumbnail/1200x630/d78b2ab96f243284d5134b31a3a484f9/cbsn-fusion-pres-elect-to-tap-retired-gen-lloyd-austin-as-defense-secretary-thumbnail-603805-640x360.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/10/f8b5dd6d-118b-4e25-870c-9e3ef0372c62/thumbnail/1200x630/f6d2af7d44e206e3e4bfb55a6302d452/cbsn-fusion-hunter-biden-reveals-he-is-under-federal-investigation-thumbnail-605300-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden presents new defense chief as son Hunter reveals his taxes are being investigated – as it happened"
+    excerpt: "President-elect introduces Lloyd Austin to lead US defense as news that Hunter Biden’s tax affairs are under review surfaces"
+    publishedDateTime: 2020-12-10T01:11:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd16d6d8f0892e7c1ad2d5c"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 88
 
 secured: "Hxxd+zTAohLNwYmGk9RjkSMGuzNVW63PedvnaOlOXEecwe4tlhk+Ks2xTFsrIK2ywGber3S04bnjvYTI3L7ylFQ49CZ61Qn/pGRlJh0jZmFJXXom4S2IqG47gCsYBmRSS+JB2el2MKDa7hjWceiMgz+ll2OyMqcsbntXQTtg7wBtlt7o9OVpmj8tSgquOXdD3SFyvyHtd1QuWJ6dHogREJmMqtlI8AQELYnKymC1cSQ7+jBEPTWd241ZVHb8/M+3uMlOHp7/ueepVF25EkS4Kr0PltKC6lyGxUXtHVegLNguh5F0zsAUQLQOXdLmFoHx+dC4a/AJ44ZR8CsRVk3CPGQxj99EmSCYsR7LDk7ya4U3vzLlY70C18pcwpjbBRDZJzwI/S5nFbzewSXYy9+61875m4DfG7BE/JVVn++dl5bbJ9wHK9ZVZ2xZwoRUI1xyf7Lezpl4wLAyTBwy2CPZseVlvx7nDGqaWGhNd8gKo7kSZaa/sV1pnXJ0w/OUt3hSNYnVuwif40bC8J1x5Z7/0g==;4b3jwYb+j/yiuzyzVlX7rA=="
 ---

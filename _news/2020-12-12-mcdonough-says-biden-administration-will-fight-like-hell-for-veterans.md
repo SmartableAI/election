@@ -29,37 +29,69 @@ images:
     isCached: true
 
 related:
-  - title: "In leaked audio, Joe Biden says 'defund the police' was used to 'beat the living hell' out of Democrats"
-    excerpt: "WASHINGTON — President-elect Joe Biden told civil rights leaders in a meeting on Tuesday he thought Republicans used the \"defund the police\" movement to defeat Democrats in down"
-    publishedDateTime: 2020-12-11T01:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/10/biden-said-gop-used-defund-police-against-dems-leaked-audio/3887911001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3887911001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3887911001"
+  - title: "China's Wang vows to uphold trade deal during Biden administration: U.S. business group"
+    excerpt: "Chinese Foreign Minister Wang Yi assured U.S. executives during a videoconference on Sunday that Beijing remained committed to the Phase 1 trade deal with the United States, the head of the US-China Business Council said."
+    publishedDateTime: 2020-12-08T13:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-china/china-foreign-minister-pledges-to-uphold-trade-deal-during-biden-administration-us-china-business-council-idUSKBN28H30Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H30Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H30Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543785941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61OL"
+        width: 788
+        height: 545
+        isCached: true
+  - title: "Judith Heumann: 'Biden is committed to involving disabled people in his administration'"
+    excerpt: "The US activist on Covid’s impact and her starring role in Crip Camp, the documentary charting the birth of the disability rights movement"
+    publishedDateTime: 2020-12-15T10:00:00Z
+    webUrl: "https://www.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp"
+    ampWebUrl: "https://amp.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/3d90cbafa017f6722f77179c47ff994b5abfc67a/120_0_1800_1080/master/1800.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e8585343d59071aee5cb9e05a5d0ad88"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "'Need a miracle': Permanent resident facing deportation hoping he can last until Biden administration"
+    excerpt: "Kelvin Silva faces deportation from ICE, even though he's been a legal permanent resident of the United States since the 1980s."
+    publishedDateTime: 2020-12-11T11:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 110
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kelvin-silva-ice-01-ht-llr-201209_1607557670725_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Health officials lay out wish list for Biden Administration: Restore the CDC, prioritize health across the globe"
+    excerpt: "A who's who of health officials published a commentary Wednesday outlining their wish list for the incoming Biden-Harris Administration, starting with their desire for the U.S. to rejoin the global public health community."
+    publishedDateTime: 2020-12-03T18:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/12/03/health-experts-call-biden-restore-cdc-prioritize-global-health/3792331001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3792331001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3792331001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 109
+    quality: 104
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/04/USAT/9fac5866-b3ae-48b6-a692-862b958b0386-AP20339752338738.jpg?auto=webp&crop=5626,3165,x0,y318&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/-mm-/505fe506013ba96c4ebd6d67660c8f64967f96f8/c=949-779-4680-2887/local/-/media/2018/02/20/USATODAY/USATODAY/636547234970675887-IMG-0406.JPG?auto=webp&format=pjpg&width=1200"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden tells civil rights leaders that Republicans weaponized the 'defund the police' slogan to 'beat the hell' out of Democrats"
-    excerpt: "\"That's how they beat the living hell out of us across the country, saying that we're talking about defunding the police,\" Biden said of Republicans."
-    publishedDateTime: 2020-12-10T22:44:00Z
-    webUrl: "https://www.businessinsider.com/biden-told-civil-rights-leaders-avoid-defund-the-police-slogan-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-told-civil-rights-leaders-avoid-defund-the-police-slogan-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-told-civil-rights-leaders-avoid-defund-the-police-slogan-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
-    images:
-      - url: "https://i.insider.com/5fd286912dc42e0018f0e471?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+        height: 678
         isCached: true
 
 secured: "XlHPMHbSxFRNam75vKD60jo4v1OycheokAJABpXDhLXfqHXKwSR90RjT+9eTdGEiyOR0ILKm9YSrrlOBusNfeOcegRnK/6wsoOY/G2skIcuIbhf3JuopJ+dbqPPvdmbGubeuDpv5w+brZRbg8JRn6M0WZ+QYOg5pI+vYK8BtKhAkGY0M1Ws7JTocDUcOifVsP3pm/ly58Q7hSU9ybOdnK7TZukSaGgGclL7R/TV8JO/FTpaWgLjUn2EQ9YbCUg5Xdd52IIHShMljmXyg/E8Kibm9uryqcvAR6j7JhnY0qMuf6qUOn1z9tQpXFXSMIX4Tnete3z7zA2RpuIbA9Inc7vXWK0OIYPSTypcplQXeu7x8ets4msuNHz5rSzZ4OaWzamhMqsiLUQ8UG5Kcd/UwREbK7gEgCAMiQshnzC8rk3qc1a9+zKH8mLZSlD8koh4MX9rP9qnpUYJTZ7vPjb03LDXdvw44PZBm7+tNAm93gibbwshwN4bFjgygg80gNkEbcXa8ttjDi8Zi7nfaSvHkCw==;VQK/IaJdeOjxsVeQxaUJwg=="

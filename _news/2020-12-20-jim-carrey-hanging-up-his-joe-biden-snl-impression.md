@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-c
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-carrey-joe-biden-snl?_amp=true"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/UkLbxDjGvt8pLVxbxRoUCNBK4DQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BBAXPUIPSNAK5EWGS4BONBHYKM.JPG"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden plans to be sworn in as president with a massive family heirloom Bible dating back to 1893"
+    excerpt: "The huge Bible is five inches thick and has a Celtic cross on the cover. Biden says it comes from his father's side of the family."
+    publishedDateTime: 2020-12-19T15:47:00Z
+    webUrl: "https://www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5fdca89dc910a400192e8433?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "'SNL': Alex Moffat takes over Joe Biden role from Jim Carrey, tumbles into Mike Pence's vaccination"
     excerpt: "Alex Moffat took over as Joe Biden in style on \"SNL,\" somersaulting onto the stage the same day Jim Carrey announced his exit from the role."
