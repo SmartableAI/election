@@ -2,6 +2,105 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-28-biden-calls-transition-obstruction-by-defense-department-irresponsible.md",
+      "title": "Biden calls transition ‘obstruction’ by Defense Department irresponsible",
+      "excerpt": "Taking aim at what he calls President Trump’s “go-it-alone” approach to international affairs, President-elect Joe Biden says he’ll restore “American leadership” across the globe.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WmQUDxl-Nnc/biden-vows-to-restore-americas-global-leadership",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WmQUDxl-Nnc/biden-vows-to-restore-americas-global-leadership",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 294,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp",
+      "publishedDateTime": "2020-12-28T14:57:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-uss-nimitz-reaches-africa-takes-call-from-pence.md",
+      "title": "USS Nimitz reaches Africa; takes call from Pence",
+      "excerpt": "The Bremerton-based aircraft carrier departed Sinclair Inlet in April and there's been no announcement as to when it might come home.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kitsapsun.com/story/news/2020/12/28/uss-nimitz-reaches-africa-takes-call-pence/4063674001/",
+      "originalUrl": "https://www.kitsapsun.com/story/news/2020/12/28/uss-nimitz-reaches-africa-takes-call-pence/4063674001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/28/PBKS/c7ca05f9-2f68-4df2-b0b2-aa5f450be227-nimitz_carrier_strike_group_supports_operation_octave_quartz_2.jpg?auto=webp&crop=985,555,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.kitsapsun.com/amp/4063674001",
+      "cdnAmpWebUrl": "https://amp-kitsapsun-com.cdn.ampproject.org/c/s/amp.kitsapsun.com/amp/4063674001",
+      "publishedDateTime": "2020-12-28T14:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kitsap Sun",
+        "domain": "kitsapsun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-give-mike-pence-exclusive-authority-on-which-electoral-college-votes-to-count-lawsuit.md",
       "title": "Give Mike Pence 'Exclusive Authority' on Which Electoral College Votes to Count: Lawsuit",
       "excerpt": "A group of Republican Trump supporters, including one Texas congressman, have filed a new lawsuit in a last-ditch attempt to overturn the election results.",
@@ -811,7 +910,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 848,
+      "heat": 868,
       "tags": null,
       "images": [
         {
@@ -1228,119 +1327,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-26-joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea.md",
-      "title": "Joe Biden’s niece Caroline gets no jail time after DUI guilty plea",
-      "excerpt": "Joe Biden’s niece Caroline Biden pleaded guilty to DUI on Dec. 3 — and was sentenced to 20 days to six months of “confinement,” Pennsylvania court records said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea?wp0",
-      "originalUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea?wp0",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/caro222.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea.amp",
-      "publishedDateTime": "2020-12-25T19:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-26-michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp.md",
-      "title": "Michigan Gov. Gretchen Whitmer relieved at not being picked as Biden’s VP",
-      "excerpt": "Michigan Gov. Gretchen Whitmer said she would have accepted an offer to serve as Joe Biden’s running mate — but admitted to relief at not being picked.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwrFyuvQlw8/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwrFyuvQlw8/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/740928e4-8afe-4600-b734-c8316a13683a/8baa9bb1-9877-471f-9823-992340eebdf4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp.amp",
-      "publishedDateTime": "2020-12-25T16:26:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

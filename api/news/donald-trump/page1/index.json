@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-01-trump-administration-declassifying-unconfirmed-intel-that-indicates-china-offered-bounties-to-attack-americans-in-afghanistan-official-says.md",
+      "title": "Trump administration declassifying unconfirmed intel that indicates China offered bounties to attack Americans in Afghanistan, official says",
+      "excerpt": "The Trump administration is declassifying intelligence, so far unconfirmed, that indicates China offered bounties to non-state actors to attack American soldiers in Afghanistan, according to a senior administration official.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-administration-declassifying-unconfirmed-intel-china-offered-bounties/story?id=74988333",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-administration-declassifying-unconfirmed-intel-china-offered-bounties/story?id=74988333",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/afghanistan-01-ht-iwb-201231_1609429730546_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-administration-declassifying-unconfirmed-intel-china-offered-bounties/story?id=74988333",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-administration-declassifying-unconfirmed-intel-china-offered-bounties/story?id=74988333",
+      "publishedDateTime": "2020-12-31T10:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-in-stimulus-battle-donald-trump-was-no-match-for-mitch-mcconnell-who-shaped-his-presidency.md",
       "title": "In Stimulus Battle, Donald Trump Was No Match For Mitch McConnell, Who Shaped His Presidency",
       "excerpt": "Is McConnell's legacy more transformative than Trump's? The Senate Majority Leader took Trump under his wing, got his judges appointed and tax cuts passed, but clashed with him in the president's final days.",
@@ -34,6 +86,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-no-reason-given-for-trump-cutting-short-his-florida-vacation.md",
+      "title": "No reason given for Trump cutting short his Florida vacation",
+      "excerpt": "President Donald Trump is cutting short his Florida vacation and will be returning to Washington on Thursday, a day earlier than originally expected",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_dc315ba7d2624c7ca7304b930d2c920f_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852",
+      "publishedDateTime": "2020-12-31T07:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -99,58 +203,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-trump-to-return-to-white-house-early-from-florida-vacation.md",
-      "title": "Trump to return to White House early from Florida vacation",
-      "excerpt": "President Donald Trump is cutting short his Florida holiday vacation and will be returning to Washington on Thursday, a day earlier than originally expected",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/trump-return-white-house-early-florida-vacation-74982038",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-return-white-house-early-florida-vacation-74982038",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_dc315ba7d2624c7ca7304b930d2c920f_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74982038",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74982038",
-      "publishedDateTime": "2020-12-31T03:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -490,7 +542,7 @@
       "originalUrl": "https://www.bbc.com/news/election-us-2020-55292610",
       "featuredContent": null,
       "highlight": null,
-      "heat": 280,
+      "heat": 320,
       "tags": null,
       "images": [
         {
@@ -1380,7 +1432,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 848,
+      "heat": 868,
       "tags": null,
       "images": [
         {
@@ -1501,58 +1553,6 @@
       "ampWebUrl": "https://www.businessinsider.com/biden-says-pentagon-stonewalls-his-team-as-trump-threatens-iran-2020-12?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-pentagon-stonewalls-his-team-as-trump-threatens-iran-2020-12?amp",
       "publishedDateTime": "2020-12-26T15:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-trump-slams-us-fashion-magazines-for-not-giving-melania-a-single-cover-shoot-while-he-has-been-in-office.md",
-      "title": "Trump slams US fashion magazines for not giving Melania a single cover shoot while he has been in office",
-      "excerpt": "Trump supporters have long taken issue with US magazines for granting Michelle Obama 12 cover shoots, but giving Melania Trump none.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12",
-      "originalUrl": "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe722f1a644880018193614?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12?amp",
-      "publishedDateTime": "2020-12-26T08:54:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-18-virginia-gubernatorial-candidate-says-trump-should-declare-martial-law.md",
+      "title": "Virginia gubernatorial candidate says ‘Trump should declare martial law’",
+      "excerpt": "Virginia Republican state Sen. Amanda Chase, an outspoken Trump supporter, former small business owner and gubernatorial hopeful, doubled down on disputed voter fraud claims and said Thursday that her state needs an election audit – through martial law, if necessary.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Wcpmpy9uPg/virginia-amanda-chase-trump-martial-law",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Wcpmpy9uPg/virginia-amanda-chase-trump-martial-law",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Amanda-Chase-GETTY.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/virginia-amanda-chase-trump-martial-law.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-amanda-chase-trump-martial-law.amp",
+      "publishedDateTime": "2020-12-17T17:53:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-omar-says-her-father-died-of-coronavirus-because-of-trumps-criminal-neglect.md",
       "title": "Omar says her father died of coronavirus because of Trump's 'criminal neglect'",
       "excerpt": "Rep. Ilhan Omar said Friday that her father died of Covid-19 in June because of “criminal neglect” by the Trump administration. ",
@@ -1621,62 +1677,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-hunter-biden-requested-keys-for-new-office-mates-joe-biden-chinese-emissary-to-cefc-chairman-emails-show.md",
-      "title": "Hunter Biden requested keys for new 'office mates' Joe Biden, Chinese 'emissary' to CEFC chairman, emails show",
-      "excerpt": "Hunter Biden requested in 2017 that keys be made for his new \"office mates,\" listing his father, President-elect Joe Biden, Jill Biden and his uncle, Jim Biden, for space he planned to share with an \"emissary\" for a chairman of a Chinese energy company, according to an email obtained by Fox News. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/azy4ZwN7zyM/hunter-biden-requested-keys-new-office-mates-joe-biden-chinese-emissary-cefc-chairman",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/azy4ZwN7zyM/hunter-biden-requested-keys-new-office-mates-joe-biden-chinese-emissary-cefc-chairman",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-requested-keys-new-office-mates-joe-biden-chinese-emissary-cefc-chairman.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-requested-keys-new-office-mates-joe-biden-chinese-emissary-cefc-chairman.amp",
-      "publishedDateTime": "2020-12-12T07:34:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

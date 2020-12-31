@@ -2,6 +2,54 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-07-trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19.md",
+      "title": "Trump tweets Rudy Giuliani has tested positive for COVID-19",
+      "excerpt": "President Trump’s lawyer and former New York City mayor Rudy Giuliani, who has been pressing the case that the 2020 election was rife with fraud, has the coronavirus, Trump tweeted on",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/",
+      "originalUrl": "https://nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/rudy-covid.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/amp/",
+      "publishedDateTime": "2020-12-06T12:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-06-karen-bass-wants-african-american-woman-to-replace-kamala-harris-in-the-senate.md",
       "title": "Karen Bass wants African American woman to replace Kamala Harris in the Senate",
       "excerpt": "Rep. Karen Bass, D-Calif., pointed to the fact that there will be no Black women in the Senate after the departure of Vice President-elect Kamala Harris during an interview last week.",
@@ -1598,62 +1646,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/cnn-has-been-overwhelmingly-biased-against-trump-joe-concha.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cnn-has-been-overwhelmingly-biased-against-trump-joe-concha.amp",
       "publishedDateTime": "2020-12-02T10:21:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-biden-admits-dems-forgot-rural-america-says-he-did-something-good-for-the-country-by-beating-trump.md",
-      "title": "Biden admits Dems 'forgot' rural America, says he did 'something good for the country' by beating Trump",
-      "excerpt": "President-elect Joe Biden said Democrats \"forgot\" rural America in an interview with New York Times opinion columnist Thomas L. Friedman published Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R9EK1Jh2h3k/biden-democrats-forgot-rural-america",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R9EK1Jh2h3k/biden-democrats-forgot-rural-america",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20274669148826.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-democrats-forgot-rural-america.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-democrats-forgot-rural-america.amp",
-      "publishedDateTime": "2020-12-02T05:55:58-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

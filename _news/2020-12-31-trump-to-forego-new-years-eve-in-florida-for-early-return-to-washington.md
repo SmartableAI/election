@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "No reason given for Trump cutting short his Florida vacation"
+    excerpt: "President Donald Trump is cutting short his Florida vacation and will be returning to Washington on Thursday, a day earlier than originally expected"
+    publishedDateTime: 2020-12-31T15:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dc315ba7d2624c7ca7304b930d2c920f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump to forgo New Year's Eve in Florida for early return to Washington"
+    excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
+    publishedDateTime: 2020-12-31T15:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idCAKBN2951B0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2951B0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2951B0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546284574&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0QE"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Trump to return to White House early from Florida vacation"
     excerpt: "President Donald Trump is cutting short his Florida holiday vacation and will be returning to Washington on Thursday, a day earlier than originally expected"
     publishedDateTime: 2020-12-31T11:19:00Z
@@ -78,20 +110,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/qsZjaLIu7GiP_fWOhE-QZSmIC4o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GHKY7KVXTJ4O6LZG5SZMZL2AL4.jpg"
         width: 1200
         height: 832
-        isCached: true
-  - title: "Donald Trump House Hunts in a Surprising Place-Which Home Will He Pick?"
-    excerpt: "Donald and Melania Trump may be moving to sunny Florida in 2021. Which one of these over-the-top mansions should they select? Is the 45th president house hunting in Florida? Once his term in the White House ends in January,"
-    publishedDateTime: 2020-12-30T19:38:00Z
-    webUrl: "https://www.chron.com/realestate/article/Donald-Trump-House-Hunts-in-a-Surprising-15836601.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/76/62/20442269/3/rawImage.jpg"
-        width: 640
-        height: 360
         isCached: true
 
 secured: "F0IVDr25YNXXF9+eX3wd+y3GUl6kHRRkIXReuu8NIobLhz65sX02uUkq1hRqrpIk4whG4QwsId87wApsD+GKXjKw9N7hIsdpWnYAVXCuuOOiOh9oxjeK7oiar23SwEDSFHQiQ5i9kpFanoC3Ge3E1CydX8i2iT+wGcUMXE6i08Vp56HSI7tnpoF7MMisBATg892f2H/HlVGYPgSnU6MiUo8p1EfmRce3Ee5XiK1pIhdRNjm9CutD+MD2HLwgW4sCpvgDEY03C8S0c85eSUKEwvzscArMMF7WhEqQeYnGrApc36TTT76WXgGBmHt3KTknEuB4uLSRxsutAkZUGp+ZEPPxPnFUEA6rDD5yob/7Yc4=;L+4FWBSlpgxi7fHDqAVJdA=="

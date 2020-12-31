@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-issue-executive-order-midnigh
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-issue-executive-order-midnight-regulations.amp"
 type: article
 quality: 190
-heat: 570
+heat: 610
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f0f9774-6462-421e-bd32-a0f3b77bc88b/36f8d087-4aef-458a-b58a-ffcc8022c85e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Secret Service adds former Biden agents to his new protection detail after worry over pro-Trump personnel"
+    excerpt: "The U.S. Secret Service is bringing back agents who served on Joe Biden's protection detail when he was vice president after his campaign raised concerns that certain agents already in place were politically aligned with President Trump. "
+    publishedDateTime: 2020-12-31T18:32:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BgPA_sTlTHg/secret-service-former-biden-agents-new-detail-worry-agents-loyalty-trump-rep"
+    ampWebUrl: "https://www.foxnews.com/politics/secret-service-former-biden-agents-new-detail-worry-agents-loyalty-trump-rep.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/secret-service-former-biden-agents-new-detail-worry-agents-loyalty-trump-rep.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72a43f23-ee3e-41e0-9f05-479513300976/dba3373d-3d9d-43da-89c1-ee81d2e9fdcc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -284,6 +300,22 @@ related:
     quality: 135
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17982449-b85a-4a77-a6be-96d8701ff3b2/70bb5fd8-6315-4a9d-bdfb-644b243e64ec/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Secret Service adds former Biden agents to his new protection detail after worry over pro-Trump personnel"
+    excerpt: "The U.S. Secret Service is bringing back agents who served on Joe Biden's protection detail when he was vice president after his campaign raised concerns that certain agents already in place were politically aligned with President Trump."
+    publishedDateTime: 2020-12-31T18:55:00Z
+    webUrl: "https://www.foxnews.com/politics/secret-service-former-biden-agents-new-detail-worry-agents-loyalty-trump-rep"
+    ampWebUrl: "https://www.foxnews.com/politics/secret-service-former-biden-agents-new-detail-worry-agents-loyalty-trump-rep.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/secret-service-former-biden-agents-new-detail-worry-agents-loyalty-trump-rep.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72a43f23-ee3e-41e0-9f05-479513300976/dba3373d-3d9d-43da-89c1-ee81d2e9fdcc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

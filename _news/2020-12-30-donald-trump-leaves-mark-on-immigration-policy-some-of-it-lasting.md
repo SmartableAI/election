@@ -102,6 +102,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "No reason given for Trump cutting vacation short"
+    excerpt: "President Donald Trump departs Florida as he cuts short his Florida vacation and returns to Washington on Thursday, one day earlier than expected for reasons the White House didn't explain. (Dec. 31)"
+    publishedDateTime: 2020-12-31T17:51:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/31/no-reason-given-trump-cutting-vacation-short/4100892001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9c79e657-516f-43c9-91cc-9af1a5c64a59_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "CORRECTED-Trump voices concern about trade deficit in call with Vietnam PM"
     excerpt: "U.S. President Donald Trump raised concern about his country's trade deficit with Vietnam in a phone call on Tuesday with its Prime Minister Nguyen Xuan Phuc, the White House said."
     publishedDateTime: 2020-12-23T10:03:00Z
@@ -113,6 +127,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 103
+  - title: "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election results, accuses Trump of bilking supporters"
+    excerpt: "Trump, the first president to lose a reelection bid in almost 30 years, has attributed his defeat to widespread voter fraud, despite nonpartisan election officials saying there wa"
+    publishedDateTime: 2020-12-31T18:57:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 103
+    images:
+      - url: "https://www.chicagotribune.com/resizer/-aAP2b_YTj9TpE7ZkcH1cDiQXF4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/46OMDMS7IBDPFFTOUKLLQRFOV4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "New Round of Trump Clemency Benefits Manafort, Other Allies"
     excerpt: "President Donald Trump pardoned more than two dozen people Wednesday, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law."
     publishedDateTime: 2020-12-26T17:24:00Z

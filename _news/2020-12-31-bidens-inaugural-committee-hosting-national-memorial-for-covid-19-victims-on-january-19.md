@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP Sen. Ben Sasse slams Republicans who plan to delay certification of Joe Biden's win"
+    excerpt: "GOP Sen. Ben Sasse wrote on Facebook Wednesday night that he has been urging his Republican colleagues to \"reject\" objecting the certification process of the Electoral College and President-elect Joe Biden's victory, adding that talk of objecting the process is a \"dangerous ploy.\"\n    \n"
+    publishedDateTime: 2020-12-31T16:16:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oYjPBrVurOw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/sasse-gop-certification-objections-dangerous/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/sasse-gop-certification-objections-dangerous/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518181852-senator-ben-sasse-1-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP senator to delay affirming Biden victory by forcing votes on Electoral College results"
     excerpt: "Missouri Republican Sen. Josh Hawley said Wednesday he will object when Congress counts the Electoral College votes next week, which will force lawmakers in both the House and Senate to vote on whether to accept the results of President-elect Joe Biden's victory.\n    \n"
     publishedDateTime: 2020-12-30T16:50:34Z
@@ -156,6 +172,6 @@ related:
         height: 773
         isCached: true
 
-secured: "TaSudbp47Rzp9kRmeOX0SfzZYdpYZQqoWRswFp26ECt3yRS5Urjc78OCXqZd0VAEUgBNFnZBCJwAI5g7OkykwyObSNt/jYonM+iuLw2/16Dsi5UyJKhTzYo7Oc5J5TICFIL1aBJvzQNDr9fYO6cjhFAur0ybOQpRdo+7RGIvObeqKb4kce/HRghrYBhp3Md461hNBJCMxeJFt3zxs8M6HTFm1ZmSzJJpx9HhAYLd+Re48rOM3svRaZfivcztDhcmEe0WOHkTqYYb9PYr5ljwLqIy1D8YvTiVOdP/6A+U54QR8PnNt1pHj4A2NH7EQc32ZSrRjS20h/Ead2idhKkYEJdVZ3hBJH9Tpjoh6FlIO88=;iZmRfLCg0mrS2lgosfMcWg=="
+secured: "NptiEkd5a5QEAEtrWq8e7GOfkzMvtSaHvP0dTD4g6XyVlxTE1CmqKY5I8vGdEPNVTNtPFv43wghgVd5tbffzBSbNI8feT0Fs+mf9b72FQI+LgQoSibOww8pIicnLrcPK4pOj1duguRgcFzMXvwSFQsqgDQBi3YRX5lub3FPvu4+5zB/LIn8pedOjwmcQgliXY3gRmAJjTvBv9QC5ePQ88RRYy1ArwyCumCh0dZie6CjkHNTsJAGbtTJmHtc14x5KxRm6kwoMw91wR/rzNBOCPpxAWGaFCX7P3j/O6hCi3wSGHGA61v8ZVMdLiAhbcG2FlO0xlETioH779Zd4v1P6B/jKF1GQbRoRLOqfTFq6Rsg=;xhSozAkRM2n0NRregwoXMw=="
 ---
 

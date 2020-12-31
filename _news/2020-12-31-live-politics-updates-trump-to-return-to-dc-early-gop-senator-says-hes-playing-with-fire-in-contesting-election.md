@@ -416,6 +416,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Coronavirus updates: Trump administration falls far short of vaccination goals as new virus variant looms"
+    excerpt: "Logistical problems at the heart of the federal government’s faltering rollout of coronavirus vaccines came into sharper view Thursday as the Trump administration fell vastly short of its goal of delivering an initial shot to 20 million people by the end of December."
+    publishedDateTime: 2020-12-31T18:51:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/31/coronavirus-covid-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/31/coronavirus-covid-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/31/coronavirus-covid-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CYVJC4SLRUI6XF5WJ247OL7UNM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Live politics updates: Rubio goes after Fauci on Twitter; Trump signs COVID relief amid criticism for delay"
     excerpt: "Trump signs coronavirus stimulus bill amid bipartisan criticism; Rubio says Fauci \"lied\" and distorted; George Conway calls on Mnuchin to quit."
     publishedDateTime: 2020-12-28T23:32:00Z

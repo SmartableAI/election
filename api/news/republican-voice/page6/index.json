@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-02-biden-admits-dems-forgot-rural-america-says-he-did-something-good-for-the-country-by-beating-trump.md",
+      "title": "Biden admits Dems 'forgot' rural America, says he did 'something good for the country' by beating Trump",
+      "excerpt": "President-elect Joe Biden said Democrats \"forgot\" rural America in an interview with New York Times opinion columnist Thomas L. Friedman published Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R9EK1Jh2h3k/biden-democrats-forgot-rural-america",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R9EK1Jh2h3k/biden-democrats-forgot-rural-america",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20274669148826.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-democrats-forgot-rural-america.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-democrats-forgot-rural-america.amp",
+      "publishedDateTime": "2020-12-02T05:55:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-top-ga-voting-official-slams-threats-on-election-officers-tells-trump-senators-to-condemn-it-has-to-stop.md",
       "title": "Top Ga. voting official slams threats on election officers, tells Trump, senators to condemn it: 'Has to stop'",
       "excerpt": "A top Georgia voting official on Tuesday in a fiery press conference decried threats against Secretary of State Brad Raffensperger, the secretary's wife, and other elections officials and workers as the Trump campaign continues to fight the result of the presidential election in court.",
@@ -1584,62 +1640,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/defund-police-supporters-biden-going-away.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/defund-police-supporters-biden-going-away.amp",
       "publishedDateTime": "2020-11-26T14:14:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-biden-says-family-will-have-small-group-around-thanksgiving-table-urges-americans-to-sacrifice-gatherings.md",
-      "title": "Biden says family will have 'small group' around Thanksgiving table, urges Americans to sacrifice gatherings",
-      "excerpt": "President-elect Joe Biden called on Americans to make a sacrifice this Thanksgiving by foregoing large gatherings and noted that his own family is giving up their tradition to comply with coronavirus guidelines. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G3E6Q2S_bMw/biden-family-small-group-thanksgiving-urges-americans-sacrifice-gatherings",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G3E6Q2S_bMw/biden-family-small-group-thanksgiving-urges-americans-sacrifice-gatherings",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20330726010055.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-family-small-group-thanksgiving-urges-americans-sacrifice-gatherings.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-family-small-group-thanksgiving-urges-americans-sacrifice-gatherings.amp",
-      "publishedDateTime": "2020-11-26T10:18:19-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
