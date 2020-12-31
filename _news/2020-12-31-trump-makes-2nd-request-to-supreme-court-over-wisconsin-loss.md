@@ -2,21 +2,21 @@
 category: news
 title: "Trump makes 2nd request to Supreme Court over Wisconsin loss"
 excerpt: "President Donald Trump on Wednesday asked the U.S. Supreme Court to overturn his election loss in Wisconsin, his second appeal in as many days to the high court over the result in the key battleground state."
-publishedDateTime: 2020-12-31T03:27:00Z
-originalUrl: "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html"
-webUrl: "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+publishedDateTime: 2020-12-31T10:40:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-makes-2nd-request-supreme-court-wisconsin-loss-74981829"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-makes-2nd-request-supreme-court-wisconsin-loss-74981829"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-makes-2nd-request-supreme-court-wisconsin-loss-74981829"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-makes-2nd-request-supreme-court-wisconsin-loss-74981829"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -1115,6 +1115,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "8km/Fhg6U3Bcl1qGudCTOzJODrji6hd7MLVoEkFfjvzAZsi6G9RIfmCIqYv2rzQXzyytJBkVgIlmoIFCQA6nOoeYT/5frOSDLlkeM+zeJJpj5TmCjdynHshxsF4gaIE1TgADJEbKYP+kwUoC6rm3aM/a51GRtoFEoB9wrXU/88lsEVvQV3BNDq7xnmhUlCzNFmaj4VMlnC/2Wnc8XZSUUUXQd7MhgkgejtH+IrXFC67MeaTNCqp5RYUFmHsmt2EDwqkHZEuHrMoP2z/iWvKwMUGe07ELaV6Ho+keF82xwWy+yRTNMui2j1vo4E4VkHvNhdFUDaqIkS3LAm3QYtcxlKv0MIN7cpIpllSzbO329hI=;iHxWWA4zxHGTOhFWL8nrRA=="
+secured: "fXESH+HTDz8rUUUzXbsnQpcm6RCWdIPTdohqSXghHCCp4XVs21yiutwTugP+DkaQ3fpoZLD44BLmbrMtwwZSRNl8uM9dz8udko+0dLXAVq+rLNXtLg3L3P4fdDIqPn5pLcBBwD7uMLcOJbAa3XGbApuiZ6RjzJ2KvHnSiHhTrRfwl+cfWva+QMdY06gQMDfNUrTt3DFmoyOc0fiv6sK+Czo8AHgsNiYK+PHeFeISd2dsyrWbaT/BvdqarO4RZYJubO+UVS02Tnks6AuVpyLwoWRVJocHfKdR3qhsgmaq8lO1RHn8/c0tNum2K7J9f4BHbd/6F9uIwPkK8HiuE9+dlcD4nFylGb9gpNArODmWC3k=;lTdDGM0Y2yjDcQj/gUJjgg=="
 ---
 

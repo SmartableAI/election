@@ -436,19 +436,16 @@ related:
       domain: usnews.com
     quality: 55
   - title: "Kamala Harris gets Moderna COVID-19 vaccine"
-    excerpt: "US Vice President-elect Kamala Harris on Tuesday received her first dose of the Moderna COVID-19 vaccine before live television cameras as part of a growing effort to convince the US public the inoculations are safe."
-    publishedDateTime: 2020-12-29T19:07:00Z
-    webUrl: "https://www.desmoinesregister.com/videos/news/nation/2020/12/29/kamala-harris-gets-moderna-covid-19-vaccine/4075783001/"
+    excerpt: "U.S. Vice President-elect Kamala Harris on Tuesday received her first dose of the Moderna COVID -19 vaccine before live television cameras as part of a growing effort to convince the"
+    publishedDateTime: 2020-12-29T19:59:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harris-gets-moderna-covid-19-vaccine/video_0fe994e6-9484-5ca0-923e-f2fb8da1d508.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-gets-moderna-covid-19-vaccine/video_0fe994e6-9484-5ca0-923e-f2fb8da1d508.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-gets-moderna-covid-19-vaccine/video_0fe994e6-9484-5ca0-923e-f2fb8da1d508.amp.html"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4684f623-a8fd-4fd2-8ad1-743c69ffbcc7_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Kamala Harris goes to Black community in D.C. for vaccine"
     excerpt: "Harris said she deliberately chose the city’s only public hospital, United Medical Center, because it serves neighborhoods in the city’s Southeast quadrant that are predominantly Black. WASHINGTON — Vice President-elect Kamala Harris said she “barely felt” the COVID-19 vaccine shot in her left arm on Tuesday after she was inoculated with the first of two Moderna doses at a Washington hospital in the heart of the city’s Black community."
     publishedDateTime: 2020-12-30T05:26:00Z

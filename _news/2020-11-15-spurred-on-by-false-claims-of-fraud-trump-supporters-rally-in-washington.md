@@ -625,19 +625,19 @@ related:
         isCached: true
   - title: "Trump makes 2nd request to Supreme Court over Wisconsin loss"
     excerpt: "President Donald Trump on Wednesday asked the U.S. Supreme Court to overturn his election loss in Wisconsin, his second appeal in as many days to the high court over the result in the key battleground state."
-    publishedDateTime: 2020-12-31T03:27:00Z
-    webUrl: "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    publishedDateTime: 2020-12-31T10:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-makes-2nd-request-supreme-court-wisconsin-loss-74981829"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-makes-2nd-request-supreme-court-wisconsin-loss-74981829"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-makes-2nd-request-supreme-court-wisconsin-loss-74981829"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Trump campaign would have to pay nearly $8 million for Wisconsin recount"
     excerpt: "President Donald Trump's campaign would have to pay nearly $8 million to start a recount in Wisconsin, a state he narrowly lost two weeks ago."

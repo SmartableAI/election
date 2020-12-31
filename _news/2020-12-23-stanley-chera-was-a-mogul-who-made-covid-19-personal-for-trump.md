@@ -46,6 +46,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "How Trump warped HHS long before Covid-19"
+    excerpt: "President Donald Trump arrives in the press briefing room with members of the White House Coronavirus Task Force on April 4, 2020 in Washington, DC. | Sarah Silbiger/ They called it the \"End of Science and Medicine\" party — a hastily organized,"
+    publishedDateTime: 2020-12-31T09:36:00Z
+    webUrl: "https://www.politico.com/news/2020/12/31/how-trump-warped-hhs-452964"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/31/how-trump-warped-hhs-452964"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/31/how-trump-warped-hhs-452964"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/42/4c/8b9f84b04a42af0fe89bc2879207/1230trump2-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "HzS8oWGTm9s48nkRjvwNhxRuhYnGHs5kxgWvAW4O1f/V9t3n8+rouQuoi0wXv8Yaxz36ojzcS84AwSWo/lHbaqwpD/xOs3VnKsPAGfU6BVIRyo0N4TxucA08AkMYLGQdBXVt+mkW5sbr+zL3awDgbIrLztU1YAOrpVuXa5zrKCQcDX+xe1+Jmu1LfBhrDonxYLzbcbiclNfX6hZIoItlXjZ+wJGA6ny2u8++9EHosnVwd/utvS8UUpsrH4jDYTPQVZr1eUTcdXeK9Qfh4wjV1uFr2cWZERHPyw/rJY83QEKxgkULFR5JZ83AlzJq2bOf9vXNOehmJTyL+E7zuv7ToaOx9EM33WG+7uPx6fJh/DKGhJL5r9IKnTibNP7Y5JYObppRcPoUv/7tQ5vTaAERW80eHLOLvh9rx/v9AAYvE2dxc1ufuPIZjfTjBSoqrBa1GXV0Uy48h3iP21FOgXIlim7r6fBs0TvCmbjtQ5/LK3KkmpuZvV4i4Qqfywt+Dp6X6XYGhdJGxl/sbL9ZVYn6pQ==;C1eWLun6BMUfCBBw+hO62w=="
 ---

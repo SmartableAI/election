@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Kamala Harris gets Moderna COVID-19 vaccine"
-excerpt: "US Vice President-elect Kamala Harris on Tuesday received her first dose of the Moderna COVID-19 vaccine before live television cameras as part of a growing effort to convince the US public the inoculations are safe."
-publishedDateTime: 2020-12-29T19:07:00Z
-originalUrl: "https://www.desmoinesregister.com/videos/news/nation/2020/12/29/kamala-harris-gets-moderna-covid-19-vaccine/4075783001/"
-webUrl: "https://www.desmoinesregister.com/videos/news/nation/2020/12/29/kamala-harris-gets-moderna-covid-19-vaccine/4075783001/"
+excerpt: "U.S. Vice President-elect Kamala Harris on Tuesday received her first dose of the Moderna COVID -19 vaccine before live television cameras as part of a growing effort to convince the"
+publishedDateTime: 2020-12-29T19:59:00Z
+originalUrl: "https://www.stltoday.com/news/national/kamala-harris-gets-moderna-covid-19-vaccine/video_0fe994e6-9484-5ca0-923e-f2fb8da1d508.html"
+webUrl: "https://www.stltoday.com/news/national/kamala-harris-gets-moderna-covid-19-vaccine/video_0fe994e6-9484-5ca0-923e-f2fb8da1d508.html"
+ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-gets-moderna-covid-19-vaccine/video_0fe994e6-9484-5ca0-923e-f2fb8da1d508.amp.html"
+cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-gets-moderna-covid-19-vaccine/video_0fe994e6-9484-5ca0-923e-f2fb8da1d508.amp.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4684f623-a8fd-4fd2-8ad1-743c69ffbcc7_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "News Wrap: Alex Padilla is tapped to fill Kamala Harris’ Senate seat"
@@ -501,6 +497,6 @@ related:
       domain: usnews.com
     quality: 25
 
-secured: "Xz2o8L6IZj3pBObzUDEsQUukhEO8CmKjltrr6q79ossXEFzEDH4kEaHIbsshBBS+B6OOpGBn1RRQrG4OT5NSmJ0YqLEPmot4AqOsFMwnzbGUuhgQRfrYiRRO02F4u9gKqFxIDBKNOsjSw/5UX8LFFGOXPiWKWN+E8dnzHFWxbQIGxf/+8PmnugXMIfClzbohuQYMLpsB0MG1XsfrGyySQUjwjvgcQBYY4ZZ/Pa9UEpVW4aXC26gpzmyaIMNyYeG3pB0Vb5BkCptTkXtTgdRImj1oaD1VDjh2xO02IHg+R8NTcDb/DFfcQcImhICgCddfRWdJHO4NZ1doAijKnAmZIu7FRyzrBwEngBL11kDfnowMmemCrUKSAUvw1tFsP+Wkaq1QY1jBbu88inFSBFsOj0bYdopwp4VIii9GfTgxoyPklzcoD31uBQc9E5Ku0nHPdC+jxv0RHWvXwsYhSJVcMxpQCAIIN0q8Wct1qGUJYBNAy1xpLnAQ/8PAnl+mH9oK6At1uq+xAfz4vg3kH6M4OQ==;xhaq3LmCixBFm8vphOpqGw=="
+secured: "JQYSJV4YzVb08YpqKjk5TBzLLWPCii8UAbDMJz1DPKzj6K1GuyItPAdkUJ/MVeEoosSR0hSgFQWA/KTPWRY3L6JdlrKq78BOT9EEJObvooOGcfWjDsB2IeQUhoavsklPr8i3rMExcAGfgaAR7E3cj1FpEY2CpWoww+2WJISpl19/koR7rc/wzAY7uJmLOSkVotZLBl5REocvct4E5J8/UVpyLPNv4yYq2lkdb8ycvfv10JAIrqSdFS0ACvs/HE3mFEEBGx2vCv3CNGBfODE/Nz+OePBLP3UC1rCGGBJ12O5wJ5vN4ieoPYd4vThoKoBVXFLT23oZs4zTXAcfVwSRlM73YYeylVQxHS9pwIDkz4+WGe07UPwryTDzMkHnazFgGxFqFfm6gvXTOShP/jJiPu64YaC/pqO9KjHwRkYwLwk8FdrAZWaQdkrlLZ+BLo9LPWj9TWiTc/0FRCgoslyglzOoGKxyXmAGUM2ryx2SS043TtTYPHF2PuF+C97KlKUZWAzqquXIynLUtjV8CcnT3w==;LVdjQahUvLbMTGXOGwU0HA=="
 ---
 
