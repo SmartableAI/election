@@ -93,6 +93,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Biden announces new Cabinet, White House appointments"
+    excerpt: "President-elect Joe Biden today announced a number of new Cabinet and White House appointments and nominations."
+    publishedDateTime: 2020-12-30T20:36:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-12-30-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/646cbeae-51c0-4075-9a62-fbdd79191c70/fd810d22-270c-4029-af92-2b4285d17cfe/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "X/+FXzX5MfNa3qeX6pCSxrT3is6r3+QwMUo5kUkg5nDmXFMhfv8XfSBj/1UbAE+ubmCLxRGm7lHz/Damw8Ft1xjoj71G3KpPVTOl6bwFzx0L92A3w9R8P/X43qoyHcfHGrV9mIQhbeK0OuZVkEU819Vpza2/PQ1yiL/U0joM/NX2d4Wv3c8Goah5J7m8y2vUkL0q+LORqFpn3oS6ilS4/9mxJ1YbyMLIsOwAmZXcohlZiARJYquElI+LCCNmT+4RFnu1K2S8sE4/uRSwRr/MQaboAavnnTmV8V7UYN9ekh1qACEUi8fJTsa1/9DgL56xq/byP2sGNBgfEKLQduAGL8mdcok7uppoJ5vmr4TcPsM=;jRxSrBEggO05+gir0EXdYw=="
 ---

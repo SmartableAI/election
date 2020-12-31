@@ -239,6 +239,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden trails Trump, Obama and Bush in dragging feet to name attorney general pick"
+    excerpt: "President-elect Joe Biden has parted ways with years of presidential precedent by not yet having picked an attorney general as the election year comes to a close."
+    publishedDateTime: 2020-12-31T00:42:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0T4Qj91WVD0/biden-trump-obama-bush-attorney-general"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-obama-bush-attorney-general.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-obama-bush-attorney-general.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20363751241700.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "LIVE UPDATES: Trump claims Biden must prove his votes were legal to become president"
     excerpt: "President Trump on Friday claimed that Democrat Joe Biden must prove his win in Pennsylvania wasn't \"fraudulently or illegally obtained\" to become president. "
     publishedDateTime: 2020-11-28T07:28:31Z

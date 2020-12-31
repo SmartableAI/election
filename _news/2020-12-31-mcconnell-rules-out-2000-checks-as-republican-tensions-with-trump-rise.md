@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump push on $2K checks flops as GOP-led Senate won’t vote"
+    excerpt: "Senate Majority Leader Mitch McConnell has all but shut the door on President Donald Trump’s push for $2,000 COVID-19 relief checks"
+    publishedDateTime: 2020-12-31T00:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-push-on-2k-checks-flops-as-gop-led-senate-wont-vote/2020/12/30/05f3904e-4aff-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-push-on-2k-checks-flops-as-gop-led-senate-wont-vote/2020/12/30/05f3904e-4aff-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-push-on-2k-checks-flops-as-gop-led-senate-wont-vote/2020/12/30/05f3904e-4aff-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "GOP Lawmaker Asks Trump to Pardon Ex-Congressman, Calls DOJ 'Corrupt and Inept'"
     excerpt: "Arizona Representative Paul Gosar said Rick Renzi was \"convicted by corrupt DOJ prosecutors who fabricated evidence.\""
     publishedDateTime: 2020-12-26T22:39:00Z
