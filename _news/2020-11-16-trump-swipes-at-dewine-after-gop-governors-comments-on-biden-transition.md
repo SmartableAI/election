@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-swipes-at-dewine-after-ohio-g
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-swipes-at-dewine-after-ohio-gov-biden.amp"
 type: article
 quality: 189
-heat: 429
+heat: 409
 published: true
 
 provider:
@@ -190,22 +190,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f1a58812-b41d-4c39-bcef-2828868c34c3/c9ceab52-cd99-40d5-be00-da7d49c3f2ed/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden Says Trump Defense, Budget Officials Are Impeding Transition"
-    excerpt: "President-elect says his team has “encountered roadblocks” from political leaders at the Office of Management and Budget and the Pentagon."
-    publishedDateTime: 2020-12-28T22:10:00Z
-    webUrl: "https://www.wsj.com/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-278568/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Trump Criticizes Philadelphia GOP Election Official Over Ballots"
     excerpt: "A Republican election official in Philadelphia was a target of President Trump’s complaints about the voting process on Twitter on Wednesday. In a tweet, Mr. Trump singled out “a guy named Al Schmidt,"

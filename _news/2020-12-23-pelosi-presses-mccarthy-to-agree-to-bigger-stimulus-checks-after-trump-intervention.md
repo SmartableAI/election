@@ -205,6 +205,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Shutdown averted as Trump signs Covid bill, vows to push for $2G checks from Congress"
+    excerpt: "Trump signs Covid bill, averts shutdown, will continue to push for $2G checks from Congress Five days after calling the coronavirus bill a \"disgrace,\" President Trump signed the massive $900 billion COVID-19 relief and $1."
+    publishedDateTime: 2020-12-28T10:19:00Z
+    webUrl: "https://www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress"
+    ampWebUrl: "https://www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20361775825326.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "McConnell blocks quick vote on $2,000 stimulus checks, says Senate to bring Trump requests 'into focus'"
     excerpt: "Senate Majority Leader Mitch McConnell said on Tuesday that the Senate will address President Trump's request to increase stimulus checks sent to Americans to $2,000 but did not commit to pushing the issue -- as Sen."
     publishedDateTime: 2020-12-29T18:21:00Z
@@ -220,20 +236,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Trump's Stunning Achievement in Middle East"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2020-12-30T20:53:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/30/trumps_stunning_achievement_in_middle_east_532387.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/525444_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "R/jXZvvvfXfilp1+TIjdWwzCsXesg6Qm9JROSO3XeEJStXDvkpFMfrTv17n98Aa3O/+LQT6QEArLpTgTlSKzM9OuFl0KbdtOJZLjPYYAPNOLBRmE/LMXT+A1spErDUOWiHEcMExaB9Od5wj9ztl0Im25usbVi7XFuUxhnuxR5lLpDJ2ZCGcHg72UTEJyQ74V5kbyI5bObBlSQswIzEGinpTM7j2bZClKHjGblS8Nfs0O6f+f1Dc8wTf8vdP/t+YxVEN33GJAV0IQwPkKnOL9kVZlB12RTnaktYb+SBIjTgVaIAtGj0qIDGLO66hOBK9ndlKm1Z7rSgrotgpyfFjpInGfCXJLYrcbPEV4c+1plZ4=;UOsQL239uZ3uOWVQ8OAUvw=="

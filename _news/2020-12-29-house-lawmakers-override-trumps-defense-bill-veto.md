@@ -95,22 +95,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "President Trump vetoes National Defense Authorization Act for Fiscal Year 2021"
-    excerpt: "President Trump vetoed the National Defense Authorization Act for Fiscal Year 2021 Wednesday, calling it a “gift” to U.S. adversaries China and Russia, making good on a promise to veto it if it did not repeal a law that shields certain Big Tech companies from liabilities."
-    publishedDateTime: 2020-12-23T20:42:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DlsSY3OwP2Y/trump-veto-national-defense-authorization-act"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-veto-national-defense-authorization-act.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-veto-national-defense-authorization-act.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20357806053798-1.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Omar blasts Biden team 'bait and switch' after officials say undoing Trump immigration policy will 'take time'"
     excerpt: "Rep. Ilhan Omar accused the Biden team of already breaking a “core campaign promise” after officials picked to serve in the president-elect’s administration admitted that they would not roll back Trump’s immigration policies all at once. "
     publishedDateTime: 2020-12-22T19:20:41Z
@@ -207,19 +191,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump: Rigging Of 2020 Election Was Final Step In Media's Effort To Overthrow The Will Of The People"
-    excerpt: "President Donald Trump released a video message on the 2020 election Tuesday night from the White House. PRESIDENT DONALD TRUMP: My fellow Americans, today I want to explain to you why I am so determined to pursue every legal and constitutional option available to stop the theft of the Presidential Election."
-    publishedDateTime: 2020-12-26T10:19:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/12/23/trump_rigging_of_2020_election_was_the_final_step_in_the_medias_effort_to_overthrow_the_will_of_the_people.html#!"
+  - title: "Left Seeks Leverage to Move Biden"
+    excerpt: "The tug-of-war between President-elect Joe Biden and the left wing of the Democratic Party is shifting onto policy grounds now that nominees have been selected for key positions in the new administration."
+    publishedDateTime: 2020-12-28T12:34:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/28/left_seeks_leverage_to_move_biden_532247.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 65
     images:
-      - url: "https://assets.realclear.com/images/53/530656.jpg"
-        width: 910
-        height: 682
+      - url: "https://assets.realclear.com/images/53/530848_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "s8FtJKx23jecWXREGJZrn1XL6fCyijl3Q4gCISU8GZdKjpcftSrfQ5RvWAzJ3B24M/y26bZ4pceDly7yLvbjH94El+40AS5LXVsrEPyUmv8LtBfIahwjHKYb+uMjerEdV0MnlR6EYTAdhApAF/uifUSQzzyoXYTEFliLYPR9jc2YEE4e+56yBmUxFLB35avZVEu4pUv5JJ5Rl2SMzPI1tXB93YorJYsFXD/m5O1MvBSqRxAMLK59935z0uVYhWdx2nUQ1nfkimTepSgpC56hcLV/wenjx0sXKzCz3nXTQFX5vr2id9W6u8C/UGqJAIWnSvWj9/paz3GWHFoHvRidE+fVMjGzG91Y8Ztm5aHBDc4=;MXxU/Y8QpIAzxb3ULe8gzw=="

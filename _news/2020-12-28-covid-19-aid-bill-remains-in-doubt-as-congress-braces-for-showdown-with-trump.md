@@ -32,197 +32,101 @@ images:
     isCached: true
 
 related:
-  - title: "After Biden criticism, Trump tells states to 'get moving' on COVID-19 vaccinations"
-    excerpt: "President Trump is taking aim at the states for the slow rollout so far of COVID-19 vaccinations across the country."
-    publishedDateTime: 2020-12-30T16:07:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sx3xN9hfZTo/biden-criticism-trump-states-covid-19-vaccinations"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-criticism-trump-states-covid-19-vaccinations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-criticism-trump-states-covid-19-vaccinations.amp"
+  - title: "Trump asks Supreme Court to void Wisconsin election results"
+    excerpt: "Trump’s attorneys filed a motion asking the Supreme Court to consider his case in an expedited manner."
+    publishedDateTime: 2020-12-31T02:54:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lz5c83sLdP8/trump-asks-supreme-court-to-void-wisconsin-election-results-in-latest-filing"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-asks-supreme-court-to-void-wisconsin-election-results-in-latest-filing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-asks-supreme-court-to-void-wisconsin-election-results-in-latest-filing.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 184
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Live Updates: Biden warns Trump administration’s efforts to vaccinate Americans 'falling behind'"
-    excerpt: "The president-elect also criticized the outgoing administration's lack of COVID testing for Americans, calling it \"a travesty.\" "
-    publishedDateTime: 2020-12-30T05:03:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qr4xzxxbuRs/live-updates-biden-12-30-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 177
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/646cbeae-51c0-4075-9a62-fbdd79191c70/fd810d22-270c-4029-af92-2b4285d17cfe/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24fa9f1d-5516-4ebc-9cc2-6620e729de66/42668e91-b504-45d1-bde0-3625a49f8b0e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "McConnell praises Trump for signing COVID-19, government funding bills"
-    excerpt: ""
-    publishedDateTime: 2020-12-28T09:55:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
+  - title: "Trump campaign asks Supreme Court to review Wisconsin voter fraud case"
+    excerpt: "The Trump campaign asked for a review before Congress meets to certify the Electoral College's vote on Jan. 6."
+    publishedDateTime: 2020-12-30T00:56:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lBOvhoqDy5g/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump’s 2014 tweet on government spending resurfaces amid COVID-19 bill deadlock"
-    excerpt: ""
-    publishedDateTime: 2020-12-24T09:48:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zhm1dyA54i0/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock"
-    ampWebUrl: "https://www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
-    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature. "
-    publishedDateTime: 2020-12-24T19:55:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDUV8C4hI7Y/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e914d2fa-637f-4dcf-97ef-13291a923fdf/0bd28bcb-b691-4ace-9b8b-7284f1c04ac1/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "President Trump Spends Christmas at Mar-a-Lago, and Joe Biden in Delaware"
-    excerpt: "The president"
-    publishedDateTime: 2020-12-25T13:16:00Z
-    webUrl: "https://www.wsj.com/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768?mod=hp_listb_pos1"
-    ampWebUrl: "https://www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 159
-    images:
-      - url: "https://images.wsj.net/im-278203/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump Campaign Asks Supreme Court to Overturn Biden’s Wisconsin Win"
-    excerpt: "Unless the high court expedites the case, the Trump campaign’s appeal likely will be moot before it comes up for consideration by the justices."
-    publishedDateTime: 2020-12-30T08:26:00Z
-    webUrl: "https://www.wsj.com/articles/trump-campaign-asks-supreme-court-to-overturn-bidens-wisconsin-win-11609298811"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-asks-supreme-court-to-overturn-bidens-wisconsin-win-11609298811"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-asks-supreme-court-to-overturn-bidens-wisconsin-win-11609298811"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-279136/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "After Biden criticism, Trump tells states to 'get moving' on COVID-19 vaccinations"
-    excerpt: "President Trump is taking aim at the states for the slow rollout so far of COVID-19 vaccinations across the country."
-    publishedDateTime: 2020-12-30T16:22:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-criticism-trump-states-covid-19-vaccinations"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-criticism-trump-states-covid-19-vaccinations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-criticism-trump-states-covid-19-vaccinations.amp"
+  - title: "Trump campaign spends $3M to file for recounts in two Wisconsin counties"
+    excerpt: "The Trump campaign said Wednesday it is spending $3 million in Wisconsin to file for a partial recount in the state, claiming illegally-altered absentee ballots and illegal advice given by government officials allowing Wisconsin’s voter ID laws to be circumvented."
+    publishedDateTime: 2020-11-18T16:58:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3bKTLRwMnFo/trump-campaign-partial-recount-two-wisconsin-counties"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-partial-recount-two-wisconsin-counties.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-partial-recount-two-wisconsin-counties.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 144
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Acosta's admission he'll go easier on Biden shows 'personal vendetta' against Trump: Kurtz"
-    excerpt: "Fox News media analyst Howard Kurtz told \"America’s Newsroom\" Wednesday that CNN White House correspondent Jim Acosta’s admission he will approach a Biden White House in less adversarial fashion shows he's brought a \"personal vendetta\" to his reporting on the Trump administration."
-    publishedDateTime: 2020-12-30T19:53:00Z
-    webUrl: "https://www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz"
-    ampWebUrl: "https://www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz.amp"
+  - title: "President Trump vetoes National Defense Authorization Act for Fiscal Year 2021"
+    excerpt: "President Trump vetoed the National Defense Authorization Act for Fiscal Year 2021 Wednesday, calling it a “gift” to U.S. adversaries China and Russia, making good on a promise to veto it if it did not repeal a law that shields certain Big Tech companies from liabilities."
+    publishedDateTime: 2020-12-23T20:42:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DlsSY3OwP2Y/trump-veto-national-defense-authorization-act"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-veto-national-defense-authorization-act.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-veto-national-defense-authorization-act.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 140
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1e622b6-6e10-4621-a6e1-1afd6135d900/51a5d55e-4bf6-42a7-96f7-16d475e23c5e/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20357806053798-1.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Roger Stone vows to sue lawmaker for claiming he covered up Trump misconduct for clemency"
+    excerpt: "Veteran political operative Roger Stone is vowing to sue a Democratic lawmaker, alleging that he falsely accused him of covering for President Trump in order to obtain clemency."
+    publishedDateTime: 2020-12-25T00:10:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAbKf5U72vE/roger-stone-sue-hakeem-jeffries"
+    ampWebUrl: "https://www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cccc97f7-4285-4736-a48d-39699d71d1dc/e1d53e3e-9a8b-4517-8baf-6b33c1b4535b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Covid-19 Aid Bill Remains Uncertain as Trump Calls for Larger Payments"
-    excerpt: "The delay could result in a suspension of unemployment benefits for millions and a possible shutdown of the federal government."
-    publishedDateTime: 2020-12-26T23:30:00Z
-    webUrl: "https://www.wsj.com/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
-    ampWebUrl: "https://www.wsj.com/amp/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
+  - title: "Supreme Court in no hurry to hear Trump campaign case, sets response deadline two days after inauguration"
+    excerpt: "The latest Trump campaign appeal to the Supreme Court won't see any action from the justices until after the inauguration. The justices this week set a reply deadline for Pennsylvania Secretary of State Kathy Boockvar and the other respondents named in the case of Jan. 22."
+    publishedDateTime: 2020-12-24T18:13:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5ZVVfp56SBI/supreme-court-trump-campaign-case-no-hurry"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-campaign-case-no-hurry.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-campaign-case-no-hurry.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
     images:
-      - url: "https://images.wsj.net/im-278316/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump says ‘good news’ is coming on COVID-19 relief bill"
-    excerpt: "President Trump on Sunday said “good news” was forthcoming on the $900 billion coronavirus relief bill which he has been refusing to sign. “Good news on Covid Relief Bill."
-    publishedDateTime: 2020-12-28T00:06:00Z
-    webUrl: "https://nypost.com/2020/12/27/trump-says-good-news-is-coming-on-covid-19-relief-bill/"
-    ampWebUrl: "https://nypost.com/2020/12/27/trump-says-good-news-is-coming-on-covid-19-relief-bill/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/27/trump-says-good-news-is-coming-on-covid-19-relief-bill/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201227-trump-covid-bill.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump Signs Covid-19 Aid Bill Averting Government Shutdown"
-    excerpt: "President Trump signed a sweeping pandemic-aid bill on Sunday night, according to people with knowledge of the matter, ending a standoff with Congress and paving the way for millions of Americans to get economic relief as the coronavirus pandemic surges across the country."
-    publishedDateTime: 2020-12-28T06:10:00Z
-    webUrl: "https://www.wsj.com/articles/trump-signs-covid-19-aid-bill-averting-government-shutdown-11609117841?mod=hp_lead_pos1"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-signs-covid-19-aid-bill-averting-government-shutdown-11609117841"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-signs-covid-19-aid-bill-averting-government-shutdown-11609117841"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-278393/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "U.S. Families, Economy, Government in Limbo as Trump Remains Mum on Covid-19 Aid Bill"
     excerpt: "President has neither vetoed nor signed massive coronavirus relief package, a day before pandemic-related unemployment benefits expire."
@@ -240,63 +144,31 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Shutdown averted as Trump signs Covid bill, vows to push for $2G checks from Congress"
-    excerpt: "Trump signs Covid bill, averts shutdown, will continue to push for $2G checks from Congress Five days after calling the coronavirus bill a \"disgrace,\" President Trump signed the massive $900 billion COVID-19 relief and $1."
-    publishedDateTime: 2020-12-28T10:19:00Z
-    webUrl: "https://www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress"
-    ampWebUrl: "https://www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20361775825326.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
-    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature."
-    publishedDateTime: 2020-12-25T05:23:00Z
-    webUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Covid-19 Live Updates: U.S. Hospitalizations Hit New Record; Trump to Tighten Rules on U.K. Air Arrivals"
-    excerpt: "The number of newly reported Covid-19 infections and deaths in the U.S. fell Thursday from the day earlier, but hospitalizations hit another record."
-    publishedDateTime: 2020-12-25T08:29:00Z
-    webUrl: "https://www.wsj.com/livecoverage/covid-2020-12-25"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 98
-    images:
-      - url: "https://images.wsj.net/im-278216/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Left Seeks Leverage to Move Biden"
-    excerpt: "The tug-of-war between President-elect Joe Biden and the left wing of the Democratic Party is shifting onto policy grounds now that nominees have been selected for key positions in the new administration."
-    publishedDateTime: 2020-12-28T12:34:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/28/left_seeks_leverage_to_move_biden_532247.html"
+  - title: "Trump: Rigging Of 2020 Election Was Final Step In Media's Effort To Overthrow The Will Of The People"
+    excerpt: "President Donald Trump released a video message on the 2020 election Tuesday night from the White House. PRESIDENT DONALD TRUMP: My fellow Americans, today I want to explain to you why I am so determined to pursue every legal and constitutional option available to stop the theft of the Presidential Election."
+    publishedDateTime: 2020-12-26T10:19:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/12/23/trump_rigging_of_2020_election_was_the_final_step_in_the_medias_effort_to_overthrow_the_will_of_the_people.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 65
     images:
-      - url: "https://assets.realclear.com/images/53/530848_5_.jpg"
+      - url: "https://assets.realclear.com/images/53/530656.jpg"
+        width: 910
+        height: 682
+        isCached: true
+  - title: "Trump's Stunning Achievement in Middle East"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-12-30T20:53:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/30/trumps_stunning_achievement_in_middle_east_532387.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/525444_5_.jpg"
         width: 750
         height: 500
         isCached: true

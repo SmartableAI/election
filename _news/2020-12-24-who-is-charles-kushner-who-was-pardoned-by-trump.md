@@ -111,22 +111,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump campaign asks Supreme Court to review Wisconsin voter fraud case"
-    excerpt: "The Trump campaign asked for a review before Congress meets to certify the Electoral College's vote on Jan. 6."
-    publishedDateTime: 2020-12-30T00:56:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lBOvhoqDy5g/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e914d2fa-637f-4dcf-97ef-13291a923fdf/0bd28bcb-b691-4ace-9b8b-7284f1c04ac1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump meets with members of Congress plotting Electoral College objections on Jan. 6"
     excerpt: "President Trump Monday huddled with members of Congress to discuss plans to object to President-elect Joe Biden's Electoral College win and to force a debate on allegations of voter fraud."
     publishedDateTime: 2020-12-22T03:09:12Z

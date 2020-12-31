@@ -31,69 +31,145 @@ images:
     isCached: true
 
 related:
-  - title: "Senate moves toward override of Trump's NDAA veto"
-    excerpt: "A final Senate vote on whether to override Trump’s veto is expected to take place by Saturday before Congress adjourns its current session."
-    publishedDateTime: 2020-12-30T23:54:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OooZKJf0iL0/senate-override-trumps-ndaa-bill-veto"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-override-trumps-ndaa-bill-veto.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-override-trumps-ndaa-bill-veto.amp"
+  - title: "Trump asks Supreme Court to void Wisconsin election results"
+    excerpt: "Trump’s attorneys filed a motion asking the Supreme Court to consider his case in an expedited manner."
+    publishedDateTime: 2020-12-31T02:54:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lz5c83sLdP8/trump-asks-supreme-court-to-void-wisconsin-election-results-in-latest-filing"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-asks-supreme-court-to-void-wisconsin-election-results-in-latest-filing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-asks-supreme-court-to-void-wisconsin-election-results-in-latest-filing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24fa9f1d-5516-4ebc-9cc2-6620e729de66/42668e91-b504-45d1-bde0-3625a49f8b0e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump campaign asks Supreme Court to review Wisconsin voter fraud case"
+    excerpt: "The Trump campaign asked for a review before Congress meets to certify the Electoral College's vote on Jan. 6."
+    publishedDateTime: 2020-12-30T00:56:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lBOvhoqDy5g/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17b137e3-5326-458c-8dac-2b17a4b1df85/6b0d5c98-c000-475d-8802-ecec566d7d77/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e914d2fa-637f-4dcf-97ef-13291a923fdf/0bd28bcb-b691-4ace-9b8b-7284f1c04ac1/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump slams 'weak and tired' Senate GOP leaders amid defense veto override fight"
-    excerpt: "President Trump on Tuesday condemned \"weak and tired\" Senate Republican leadership as the upper chamber faces a vote to override his veto of the 2021 defense budget."
-    publishedDateTime: 2020-12-29T16:40:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/owOMsiaR5FI/trump-weak-senate-leaders-defense-budget"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp"
+  - title: "Trump campaign spends $3M to file for recounts in two Wisconsin counties"
+    excerpt: "The Trump campaign said Wednesday it is spending $3 million in Wisconsin to file for a partial recount in the state, claiming illegally-altered absentee ballots and illegal advice given by government officials allowing Wisconsin’s voter ID laws to be circumvented."
+    publishedDateTime: 2020-11-18T16:58:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3bKTLRwMnFo/trump-campaign-partial-recount-two-wisconsin-counties"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-partial-recount-two-wisconsin-counties.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-partial-recount-two-wisconsin-counties.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/986da2d7-f8ad-4ef2-bfbf-76e0321a0afa/3dcfc7ce-c935-4968-a3b3-788592547a51/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Senate moves toward override of Trump's NDAA veto"
-    excerpt: "A final Senate vote on whether to override Trump’s veto is expected to take place by Saturday before Congress adjourns its current session."
-    publishedDateTime: 2020-12-31T00:09:00Z
-    webUrl: "https://www.foxnews.com/politics/senate-override-trumps-ndaa-bill-veto"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-override-trumps-ndaa-bill-veto.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-override-trumps-ndaa-bill-veto.amp"
+  - title: "President Trump vetoes National Defense Authorization Act for Fiscal Year 2021"
+    excerpt: "President Trump vetoed the National Defense Authorization Act for Fiscal Year 2021 Wednesday, calling it a “gift” to U.S. adversaries China and Russia, making good on a promise to veto it if it did not repeal a law that shields certain Big Tech companies from liabilities."
+    publishedDateTime: 2020-12-23T20:42:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DlsSY3OwP2Y/trump-veto-national-defense-authorization-act"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-veto-national-defense-authorization-act.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-veto-national-defense-authorization-act.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17b137e3-5326-458c-8dac-2b17a4b1df85/6b0d5c98-c000-475d-8802-ecec566d7d77/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20357806053798-1.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Trump slams 'weak and tired' Senate GOP leaders amid defense veto override fight"
-    excerpt: "President Trump on Tuesday condemned \"weak and tired\" Senate Republican leadership as the upper chamber faces a vote to override his veto of the 2021 defense budget."
-    publishedDateTime: 2020-12-29T16:54:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp"
+  - title: "Supreme Court in no hurry to hear Trump campaign case, sets response deadline two days after inauguration"
+    excerpt: "The latest Trump campaign appeal to the Supreme Court won't see any action from the justices until after the inauguration. The justices this week set a reply deadline for Pennsylvania Secretary of State Kathy Boockvar and the other respondents named in the case of Jan. 22."
+    publishedDateTime: 2020-12-24T18:13:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5ZVVfp56SBI/supreme-court-trump-campaign-case-no-hurry"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-campaign-case-no-hurry.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-campaign-case-no-hurry.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 130
+    quality: 158
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/986da2d7-f8ad-4ef2-bfbf-76e0321a0afa/3dcfc7ce-c935-4968-a3b3-788592547a51/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Covid-19 Aid Bill Remains in Doubt as Congress Braces for Showdown With Trump"
+    excerpt: "Unemployment benefits used by millions of Americans lapsed overnight and the government was at risk of shutting down, as lawmakers were poised to face off with President Trump over his objections to sweeping pandemic-aid legislation and a defense-policy bill."
+    publishedDateTime: 2020-12-27T17:18:00Z
+    webUrl: "https://www.wsj.com/articles/covid-19-aid-bill-remains-in-doubt-as-congress-braces-for-showdown-with-trump-11609089335"
+    ampWebUrl: "https://www.wsj.com/amp/articles/covid-19-aid-bill-remains-in-doubt-as-congress-braces-for-showdown-with-trump-11609089335"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/covid-19-aid-bill-remains-in-doubt-as-congress-braces-for-showdown-with-trump-11609089335"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 132
+    images:
+      - url: "https://images.wsj.net/im-278361/social"
         width: 1280
-        height: 720
+        height: 640
+        isCached: true
+  - title: "U.S. Families, Economy, Government in Limbo as Trump Remains Mum on Covid-19 Aid Bill"
+    excerpt: "President has neither vetoed nor signed massive coronavirus relief package, a day before pandemic-related unemployment benefits expire."
+    publishedDateTime: 2020-12-25T19:37:00Z
+    webUrl: "https://www.wsj.com/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
+    ampWebUrl: "https://www.wsj.com/amp/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
+    images:
+      - url: "https://images.wsj.net/im-278258/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump: Rigging Of 2020 Election Was Final Step In Media's Effort To Overthrow The Will Of The People"
+    excerpt: "President Donald Trump released a video message on the 2020 election Tuesday night from the White House. PRESIDENT DONALD TRUMP: My fellow Americans, today I want to explain to you why I am so determined to pursue every legal and constitutional option available to stop the theft of the Presidential Election."
+    publishedDateTime: 2020-12-26T10:19:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/12/23/trump_rigging_of_2020_election_was_the_final_step_in_the_medias_effort_to_overthrow_the_will_of_the_people.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/530656.jpg"
+        width: 910
+        height: 682
+        isCached: true
+  - title: "Trump's Stunning Achievement in Middle East"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-12-30T20:53:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/30/trumps_stunning_achievement_in_middle_east_532387.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/525444_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "SqinoMrmWE31BBz0VA9HD3U0qSRknkiNMfUrqBooELjdFTjqO0GSrvXnpYXtvHuTAnoCPywd/hTPoAxmJIdEs6fFqgqc8t1wtTL2Xv+AlTl7rhUtXomBtTmQ/KATHelsS0M+q9nJGibxqPb6z4DCql+NC90icTrgyRtMdcrdc4OofjYVekPW1qKQ83rhYNRXIQvUcY5E52fJ318nZYvOlsg4rgjwoIJdpwgkp3WI7BSy38OM1hASV8oMpJjorbo/bl6U9Rw2sO3VFnTC2IFpEyQRfstQfgYtN9gm0+a67kXPCggfd8EWIqIkvVfLoQ337Tf9uedMzCqxYHgN3nD4BumfO7X/zUJCz7y/F1XaOxo=;BBAkfLnTkQALY2XxGRLwww=="

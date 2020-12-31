@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump issues new wave of pardons, commutations"
-    excerpt: "Just before heading to his private club in Palm, Beach, Florida for the Christmas holiday on Wednesday, President Trump issued a new wave of 26 pardons and three commutations."
-    publishedDateTime: 2020-12-24T00:52:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XMYUpP66rx8/trump-pardons-paul-manafort-roger-stone"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-pardons-paul-manafort-roger-stone.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pardons-paul-manafort-roger-stone.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202012/1278/854081161001_6218023626001_6218023729001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Rand Paul calls for Trump veto of coronavirus relief, mocks GOP colleagues for 'socialist spending'"
     excerpt: "Sen. Rand Paul, R-Ky., continued to assail the new coronavirus relief package on Wednesday, blasting \"jokers\" in Washington who never agree to replace wasteful spending and calling former President Obama comparatively conservative to some of his Republican colleagues."
     publishedDateTime: 2020-12-23T15:10:09Z

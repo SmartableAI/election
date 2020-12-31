@@ -31,53 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says cyberattack happened on ‘Trump’s watch when he wasn’t watching’"
-    excerpt: "President-elect Joe Biden is placing blame for the serious cyber hack of numerous federal government agencies and major companies on President Trump and pledged that “we will respond” when it’s determined which county is behind the damage."
-    publishedDateTime: 2020-12-22T22:07:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9bt43KxK9EA/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching.amp"
+  - title: "Biden to issue executive order halting any Trump 'midnight regulations'"
+    excerpt: "President-elect Joe Biden will issue an executive order halting \"midnight regulations\" on day one of his presidency, incoming White House press secretary Jen Psaki said Wednesday. "
+    publishedDateTime: 2020-12-31T02:40:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_3HQztwB9KU/biden-issue-executive-order-midnight-regulations"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-issue-executive-order-midnight-regulations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-issue-executive-order-midnight-regulations.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 188
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump says he has 'nothing to do' with 'potential prosecution' of Hunter Biden"
-    excerpt: "President Trump on Thursday said he has \"NOTHING to do\" with the \"potential prosecution\" of President-elect Joe Biden’s son, calling the fallout surrounding Hunter Biden’s confirmation that he is under federal investigation \"very sad to watch.\""
-    publishedDateTime: 2020-12-17T15:56:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-PCiaPqoNA/trump-hunter-biden-special-prosecutor"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 186
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden now says it will take ‘six months’ to reverse Trump’s immigration policies"
-    excerpt: "President-elect Joe Biden says he won’t roll back President Trump’s immigration restrictions “on day one,” but rather would take approximately six months to implement immigration reform policies in order to prevent triggering a surge of “2 million people on our border.”"
-    publishedDateTime: 2020-12-22T23:34:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lxmwS93CtLU/biden-says-it-will-take-six-months-to-reverse-trumps-immigration-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-it-will-take-six-months-to-reverse-trumps-immigration-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-it-will-take-six-months-to-reverse-trumps-immigration-policies.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20363751241700.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden says Trump administration’s plan to distribute vaccines falling ‘far behind’"
     excerpt: "President-elect Joe Biden is warning that the Trump administration’s effort to vaccinate Americans against the coronavirus “is falling behind, far behind.”"
@@ -95,21 +63,85 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "McConnell says he'll treat Biden 'a hell of a lot better than Chuck Schumer ever treated Donald Trump'"
-    excerpt: "Sen. Majority Leader Mitch McConnell promised to treat President-elect Biden better than his minority-leading counterpart ever treated President Trump. "
-    publishedDateTime: 2020-12-22T18:50:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sl58Ai9kmIk/mcconnell-biden-better-chuck-schumer-treated-donald-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-better-chuck-schumer-treated-donald-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-better-chuck-schumer-treated-donald-trump.amp"
+  - title: "After Biden criticism, Trump tells states to 'get moving' on COVID-19 vaccinations"
+    excerpt: "President Trump is taking aim at the states for the slow rollout so far of COVID-19 vaccinations across the country."
+    publishedDateTime: 2020-12-30T16:07:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sx3xN9hfZTo/biden-criticism-trump-states-covid-19-vaccinations"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-criticism-trump-states-covid-19-vaccinations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-criticism-trump-states-covid-19-vaccinations.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 184
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/McConnell-Schumer-Split.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Live Updates: Biden warns Trump administration’s efforts to vaccinate Americans 'falling behind'"
+    excerpt: "The president-elect also criticized the outgoing administration's lack of COVID testing for Americans, calling it \"a travesty.\" "
+    publishedDateTime: 2020-12-30T05:03:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qr4xzxxbuRs/live-updates-biden-12-30-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/646cbeae-51c0-4075-9a62-fbdd79191c70/fd810d22-270c-4029-af92-2b4285d17cfe/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump issues new wave of pardons, commutations"
+    excerpt: "Just before heading to his private club in Palm, Beach, Florida for the Christmas holiday on Wednesday, President Trump issued a new wave of 26 pardons and three commutations."
+    publishedDateTime: 2020-12-24T00:52:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XMYUpP66rx8/trump-pardons-paul-manafort-roger-stone"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-pardons-paul-manafort-roger-stone.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pardons-paul-manafort-roger-stone.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202012/1278/854081161001_6218023626001_6218023729001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump immigration order restricting guest worker visas set to expire"
+    excerpt: "An executive order signed by President Trump over the summer, which expanded immigration restrictions in an effort to protect the labor market for American workers amid the coronavirus pandemic, is due to expire by the end of the week -- and immigration hawks are urging him to extend it."
+    publishedDateTime: 2020-12-30T21:41:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PcHDdmhv0Yw/trump-immigration-order-visas-expire"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-immigration-order-visas-expire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-immigration-order-visas-expire.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f0f9774-6462-421e-bd32-a0f3b77bc88b/36f8d087-4aef-458a-b58a-ffcc8022c85e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "President Trump Spends Christmas at Mar-a-Lago, and Joe Biden in Delaware"
+    excerpt: "The president"
+    publishedDateTime: 2020-12-25T13:16:00Z
+    webUrl: "https://www.wsj.com/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768?mod=hp_listb_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 159
+    images:
+      - url: "https://images.wsj.net/im-278203/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "How Trump and Biden are spending Christmas Day"
     excerpt: "Oh Christmas tee, oh Christmas tee. President Trump spent Christmas Day doing what he does best, hitting the links at his Trump International Golf Course in Palm Beach, Florida where he will"
@@ -143,6 +175,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden Says Trump Defense, Budget Officials Are Impeding Transition"
+    excerpt: "President-elect says his team has “encountered roadblocks” from political leaders at the Office of Management and Budget and the Pentagon."
+    publishedDateTime: 2020-12-28T22:10:00Z
+    webUrl: "https://www.wsj.com/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-278568/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Campaign Asks Supreme Court to Overturn Biden’s Wisconsin Win"
+    excerpt: "Unless the high court expedites the case, the Trump campaign’s appeal likely will be moot before it comes up for consideration by the justices."
+    publishedDateTime: 2020-12-30T08:26:00Z
+    webUrl: "https://www.wsj.com/articles/trump-campaign-asks-supreme-court-to-overturn-bidens-wisconsin-win-11609298811"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-asks-supreme-court-to-overturn-bidens-wisconsin-win-11609298811"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-asks-supreme-court-to-overturn-bidens-wisconsin-win-11609298811"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-279136/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "President Trump Spends Christmas at Mar-a-Lago, and Joe Biden in Delaware"
     excerpt: "The president is spending Christmas at his private Florida club and President-elect Joe Biden will remain in Delaware, the unofficial headquarters of his transition to the White House."
     publishedDateTime: 2020-12-26T01:10:00Z
@@ -158,22 +222,6 @@ related:
       - url: "https://images.wsj.net/im-278203/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Trump says he has 'nothing to do' with 'potential prosecution' of Hunter Biden"
-    excerpt: "President Trump on Thursday said he has \"NOTHING to do\" with the \"potential prosecution\" of President-elect Joe Biden’s son, calling the fallout surrounding Hunter Biden’s confirmation that he is under federal investigation \"very sad to watch."
-    publishedDateTime: 2020-12-17T16:10:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-hunter-biden-special-prosecutor"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 146
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Biden calls on Trump to sign COVID relief bill amid battle over direct payments"
     excerpt: "President-elect Joe Biden on Saturday called on President Trump to sign the coronavirus stimulus bill -- warning that failing to do so would have \"devastating consequences\" for millions of Americans."
@@ -207,21 +255,69 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump claims China 'may' have been behind cyberattack after Pompeo says it was ‘pretty clearly’ Russia"
-    excerpt: "President Trump on Saturday claimed China \"may\" have been behind a massive cyberattack on U.S. government systems -- a day after Secretary of State Mike Pompeo said the attack was \"pretty clearly\" perpetrated by Russians."
-    publishedDateTime: 2020-12-20T02:46:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-china-cyber-attack-pompeo-russia"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-china-cyber-attack-pompeo-russia.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-cyber-attack-pompeo-russia.amp"
+  - title: "After Biden criticism, Trump tells states to 'get moving' on COVID-19 vaccinations"
+    excerpt: "President Trump is taking aim at the states for the slow rollout so far of COVID-19 vaccinations across the country."
+    publishedDateTime: 2020-12-30T16:22:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-criticism-trump-states-covid-19-vaccinations"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-criticism-trump-states-covid-19-vaccinations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-criticism-trump-states-covid-19-vaccinations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Live Updates: Biden introduces education pick Cardona"
+    excerpt: "President-elect Joe Biden introduced his pick for education secretary, Miguel Cardona, on Wednesday and promised an \"ambitious agenda\" to re-open most schools within the first 100 days of his presidency."
+    publishedDateTime: 2020-12-23T19:11:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-23-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-23-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-23-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17982449-b85a-4a77-a6be-96d8701ff3b2/70bb5fd8-6315-4a9d-bdfb-644b243e64ec/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "'Morning Joe' mainstay Donny Deutsch blames media for continuing to obsess over Trump: 'We are guilty'"
+    excerpt: "Joe\" regular Donny Deutsch slammed the mainstream media on Monday for continuing to obsess over President Trump with non-stop coverage and said the press is \"guilty\" of focusing extensive coverage on him rather than President-elect Joe Biden."
+    publishedDateTime: 2020-12-28T19:44:00Z
+    webUrl: "https://www.foxnews.com/media/morning-joe-donny-deutsch-trump-coverage-msnbc-guilty"
+    ampWebUrl: "https://www.foxnews.com/media/morning-joe-donny-deutsch-trump-coverage-msnbc-guilty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/morning-joe-donny-deutsch-trump-coverage-msnbc-guilty.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 119
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/16510a01-9950-4ec7-9359-dc658807fa0e/1c3995eb-70c7-40b8-ab18-1f83cdd06758/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/Donny-Deutsch-donald-trump-MSNBC-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Tevi Troy's 'Fight House' Holds Valuable Lessons for a Biden Administration"
+    excerpt: "President Donald Trump and President-elect Joe Biden are quite different from each other. It is obvious in their personalities and in their policy"
+    publishedDateTime: 2020-12-25T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/12/25/tevi_troys_fight_house_holds_valuable_lessons_for_a_biden_administration_144922.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/12/25/tevi_troys_fight_house_holds_valuable_lessons_for_a_biden_administration_144922.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/12/25/tevi_troys_fight_house_holds_valuable_lessons_for_a_biden_administration_144922.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 83
+    images:
+      - url: "https://assets.realclear.com/images/52/529822_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "NTYcMQ6ifbJXpLQvJkRJydZsDqkAcqHafwfM3am0zP1li8LH7+lioh/pd7MjHCl24m/+pNnuP+2xU4kY73yOuzIcUHv00c62q6gqHy3jjen47demz2i8L2/Ek3y/DNIzd4hNg4xv37EgO/gLWqgal0fnyG1a0JlrIBC4AadU9hIgzIqsQ9Dl4+ITjW5VRFS823VP8vB3HuLmKKWa6oJ1OEOmWf5ab9pSMFMO0OTsgVVPpFVuRQZeNbh4Gq/G0snszHnI4bRCuZd2/ifBnfTp62T40kUBn64sjjr7chMeHyYY2XOPqN1gr+6ZbBMgikwThWxOxv0MXdelIvzuTShWDvkkWj1G41IC6jsKKTWFpac=;9X3csCQhD0CnHmnO5FF3TA=="

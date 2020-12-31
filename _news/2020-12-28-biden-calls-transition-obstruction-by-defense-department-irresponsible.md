@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-vows-to-restore-americas-glob
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
 type: article
 quality: 174
-heat: 294
+heat: 274
 published: true
 
 provider:
@@ -110,22 +110,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d35de097-8c5a-4e70-8247-09107ab6329c/068d8bec-02c6-4123-942d-2551920bbfe1/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Tevi Troy's 'Fight House' Holds Valuable Lessons for a Biden Administration"
-    excerpt: "President Donald Trump and President-elect Joe Biden are quite different from each other. It is obvious in their personalities and in their policy"
-    publishedDateTime: 2020-12-25T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/12/25/tevi_troys_fight_house_holds_valuable_lessons_for_a_biden_administration_144922.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/12/25/tevi_troys_fight_house_holds_valuable_lessons_for_a_biden_administration_144922.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/12/25/tevi_troys_fight_house_holds_valuable_lessons_for_a_biden_administration_144922.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 83
-    images:
-      - url: "https://assets.realclear.com/images/52/529822_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "ayNo4egrXGRGl3oBpa+lS02TgalIpvOQyUn8rjxX2JhDXz2iYJvPMEJsvCJ2v/yTZntaAlZTwpOt8XcbB1HV/K3gGWheMNwbIqEAtFa/keWRlhJnLpmtAVoH3rL/5N81kH+tCPhwDMf8Ndz6RO9UifFgN6VU1duCN0qhPJ0eRLfD1gJbevLcHGTkOY4pvT8SSUSGVBblULLEONu1/rUwuIBoEBgUQ8X7EtasjRliO0pafHU8BGuIgRGHbuOb0dD/jq0ebo0GIlZgIdvf5vVl0tvXF8RkNpM20o2mM9HMZ1vganIGrSv6SHvk6u0OUMf9Frjnik+SttGgAPiOkgAuYTocG7r5PYjggy9SxAHRR/k=;CaykJUlbEymg5JNy5FEL5g=="

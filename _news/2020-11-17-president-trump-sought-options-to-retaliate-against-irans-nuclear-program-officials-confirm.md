@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump campaign spends $3M to file for recounts in two Wisconsin counties"
-    excerpt: "The Trump campaign said Wednesday it is spending $3 million in Wisconsin to file for a partial recount in the state, claiming illegally-altered absentee ballots and illegal advice given by government officials allowing Wisconsin’s voter ID laws to be circumvented."
-    publishedDateTime: 2020-11-18T16:58:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3bKTLRwMnFo/trump-campaign-partial-recount-two-wisconsin-counties"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-partial-recount-two-wisconsin-counties.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-partial-recount-two-wisconsin-counties.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "KN/OHxvZaFyYlHdsRzyle6pP1C6EvHfk6BZYPPhXNispEEBd816wsK5aNEj9MaKQNuH4Yac/d3kIAo2M1AidRoDUaa5lGbRkHwlPrIu/W6ssd1PzscDtA6bKk5Z33ny26lIzqE5yG5T5G9gUqQdCJrO+hEG7M3slwzVFzPBg3ifd5nfaCIJCjvqEMm29jsAmjQPpvQzW6sYs3mgQi4pPBSM0+GB14hU4HtIZrFvhy+t7Z8KQg2MuMHcfwe/hCMVIpNsM33JXZO8IFJD61HegWC3eQTJVQe58tRhJ4gLpiMMVRQhJRmjkKARvG6z/p46W88lSOEYyF9ACj5fCgormb1Og4gOCJp8R2C8AhmZ97s4=;KHZFx2fkxnraBgrzkTP2lA=="
 ---
