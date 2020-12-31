@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Global shares rise, buoyed by relief after UK travel rules were eased, while Trump signals he may not sign off on $900 billion stimulus bill"
-excerpt: "Shares increase after France relaxes rules on arrivals from UK, where a new strain of COVID-19 has millions in lockdown; Trump bashes stimulus bill"
-publishedDateTime: 2020-12-23T10:56:00Z
-originalUrl: "https://www.businessinsider.com/stock-markets-equities-up-uk-travel-rules-ease-trump-focus-2020-12"
-webUrl: "https://www.businessinsider.com/stock-markets-equities-up-uk-travel-rules-ease-trump-focus-2020-12"
-ampWebUrl: "https://www.businessinsider.com/stock-markets-equities-up-uk-travel-rules-ease-trump-focus-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-markets-equities-up-uk-travel-rules-ease-trump-focus-2020-12?amp"
+title: "Senate GOP blocks Democratic push for Trump's $2K checks"
+excerpt: "Senate Majority Leader Mitch McConnell has blocked Democrats’ push to immediately bring President Donald Trump’s demand for bigger $2,000 COVID-19 relief checks up for a vote"
+publishedDateTime: 2020-12-31T07:21:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
+webUrl: "https://abcnews.go.com/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
 type: article
-quality: 90
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://images2.markets.businessinsider.com/5fe315efa644880018193148?format=jpeg"
-    width: 789
-    height: 526
+  - url: "https://s.abcnews.com/images/Health/WireAP_b0df8d10c7f84679b2d85479bc4b367d_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -79,22 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Senate GOP blocks Democratic push for Trump's $2K checks"
-    excerpt: "Senate Majority Leader Mitch McConnell has blocked Democrats’ push to immediately bring President Donald Trump’s demand for bigger $2,000 COVID-19 relief checks up for a vote"
-    publishedDateTime: 2020-12-31T07:21:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_b0df8d10c7f84679b2d85479bc4b367d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Congress passes $900 billion 'historic bipartisan rescue package' that now heads to Trump for approval"
     excerpt: "After weeks of painstaking negotiation and months of partisan finger-pointing, the Senate resoundingly passed a sweeping COVID-19 relief package Monday, sending a bill to President Donald Trump to sign that will send millions of Americans direct payments and rescue thousands of small businesses nationwide struggling to stay open in the face of the pandemic's suffocating grip."
     publishedDateTime: 2020-12-22T11:16:00Z
@@ -141,6 +125,22 @@ related:
         width: 6385
         height: 4257
         isCached: true
+  - title: "Global shares rise, buoyed by relief after UK travel rules were eased, while Trump signals he may not sign off on $900 billion stimulus bill"
+    excerpt: "Shares increase after France relaxes rules on arrivals from UK, where a new strain of COVID-19 has millions in lockdown; Trump bashes stimulus bill"
+    publishedDateTime: 2020-12-23T10:56:00Z
+    webUrl: "https://www.businessinsider.com/stock-markets-equities-up-uk-travel-rules-ease-trump-focus-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/stock-markets-equities-up-uk-travel-rules-ease-trump-focus-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-markets-equities-up-uk-travel-rules-ease-trump-focus-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://images2.markets.businessinsider.com/5fe315efa644880018193148?format=jpeg"
+        width: 789
+        height: 526
+        isCached: true
   - title: "Jobless benefits for about 14 million Americans expire, as Trump still refuses to sign the pandemic aid package containing $600 stimulus checks"
     excerpt: "President Donald Trump has refused to sign a $2.3 trillion stimulus package, in part because he says $600 checks for Americans aren't large enough."
     publishedDateTime: 2020-12-26T08:19:00Z
@@ -180,6 +180,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "no7rk5I9Nx+NvQCN5r/dH4SToIkHEjraRZKfVKQ0RvgDvLwO5gALvhFkc8CS0O6aa3f8lH4AT52uiZZFKHPUxmiPz7qQZUfsndYwqkibMs00oyaWSLWuce2NYxasUs/NHKOFUQ5TfaAPPkSnQWhSC3BAFXufA67EAEfIfyC9BjfnCZU9+o3zlGin/Q6C588+77+WwWFz8HxfRZT7SlC9WX/VbcfufWV7f6QKQJIc6XnRFeOqWdQWkB3sIX1zLiKoZKt3eMHZVqZeeO/uqRESpxeLX8JwsGIEg95zaz1SPgfbcHBPC11VsW30HyDzihQ/O3cqkWIn81frioEQILGGR+ywfueyMjWI1BaOGkaV3EI=;70LCTspPHgef8RvB1aHgtg=="
+secured: "Rw6R5LYc86r5kMRJ8x2pOXhY7btD/sLBwzjO3WTXmdxq1nMqXrDLH6nNDG0n/Swz0kU97H9MvV5nLQh8w2vk8oVo7IOgWXLhqOILp1IjH3gQ9Y59Dz7BO6+FzEPruPoE9d5rqQV6kzUjW4Gfw9A1SXclT3ifJ6KvVkiPOrBTC7s37p5kkG3jCUPNSs+pwMRIpzMsPA1vLOjaHlNsk0xT5bFeArITwHvAGL4rZKhPcrlbxHSSk6UEgWim3TNViZ0kpyXuultE+bDMT7JEpYx9UfwyCpcQZrzk4BSLjN7xnWmhZjlkdhg4HT/DcyBu/ieVoQkk/iVPTsKqwvAYHuHkH86NHetoW4ae4GwolEbBB10=;fiqg7X7ct7rOClZp6kWe0w=="
 ---
 

@@ -34,9 +34,9 @@ related:
   - title: "Trump to Return to White House Early From Florida Vacation"
     excerpt: "President Donald Trump is cutting short his Florida holiday vacation and will be returning to Washington on Thursday, a day earlier than originally expected."
     publishedDateTime: 2020-12-31T03:53:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation?context=amp"
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-30/trump-to-return-to-white-house-early-from-florida-vacation"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-30/trump-to-return-to-white-house-early-from-florida-vacation?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-30/trump-to-return-to-white-house-early-from-florida-vacation?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
