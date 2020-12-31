@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Trump absent as vaccine distribution lags and thousands continue to die"
-excerpt: "A closing indignity on the final day of this horrendous year is that nobody actually seems to expect Donald Trump, who is still the President, to be paying much or any attention to the actual nightmare underway in the country he still leads."
-publishedDateTime: 2020-12-31T05:00:00Z
-originalUrl: "https://www.cnn.com/2020/12/31/politics/donald-trump-covid-georgia/index.html"
-webUrl: "https://www.cnn.com/2020/12/31/politics/donald-trump-covid-georgia/index.html"
+excerpt: "A closing indignity on the final day of this horrendous year is that nobody actually seems to expect Donald Trump, who is still the President, to be paying much or any attention to the actual nightmare underway in the country he still leads.\n    \n"
+publishedDateTime: 2020-12-31T11:00:48Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AD9G4wCpAuE/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AD9G4wCpAuE/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/donald-trump-covid-georgia/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/donald-trump-covid-georgia/index.html"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
@@ -384,6 +383,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Nationwide Covid memorial announced as part of Biden inauguration"
+    excerpt: "Cities and towns around the country will light up their buildings and ring church bells in honor of those who have died."
+    publishedDateTime: 2020-12-31T12:57:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/nationwide-covid-memorial-announced-part-biden-inauguration-n1252591"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252591"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252591"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438901/201231-biden-covid-mc-1226_a43e7aacf97da08b35550aea5f0a6e59.JPG"
+        width: 2500
+        height: 1591
+        isCached: true
   - title: "Trump leans on QAnon figures in flailing effort to overturn election"
     excerpt: "Trump has recently hosted three QAnon heroes at the White House, surged his QAnon-boosting activity on Twitter and toyed with ideas circulating in the QAnon community."
     publishedDateTime: 2020-12-23T23:25:00Z
@@ -473,6 +488,6 @@ related:
         height: 550
         isCached: true
 
-secured: "8AcdYG5RFdMRw79Oh9nr2lwtB4JJRRfEfSVmCBWzxlSNn5jCF0AArMB1O+PLXMdugLvQR1dPvppakqnROYQuIESxzusO4xdMTB0BYC5xZGlnl5lCicEFojCBhwrnyFCd1mvIQWmdOdyNdiAbD0kQKu8uSozsCNgmv3r/aqBT+N9TBRiBT1aedBKCryJ/BD1+LNjHAUJ3CYs4kFVrn2SCjEIAcgRvZpzw6vwCAapZTOVglBFMvcrD19XRJjcgmsSyvZHhuVnajHvUzcu+ONKLbWqsOwjMrWAzRz8stc0WQv3XBrQR+nvRxcdThD9btoyp6p9ExeLP8GOtreU5dg6Mhd34PaR5Qakf2vtEjopkzpk=;WoCfr59V1HDymT+T1QrDwQ=="
+secured: "jr9fYaE7UFQjSY0fKhrUJMEUFtR7W0EeoQS+Cz0lhcjFu3gjF/o6RiIeMg0SgcH+5kvPXNAgP0nz+VCvJwXA/OTPcaUFv3M8HPZnGh5COfoRbzMGWf+rMgK0nS5cIk8HBGl0VtD+QFKRFB/nBQ3RCJg5JgQTqAw8y9c77xt6N6U299vw2UvDYAuNdFGD1YgjgB4AxPFI5nFVhSd7kvGJDNDLFNVICY3Lew/Zy7TEVI5OZMX10LMy5qFQeVcM87nl2ZxDXrj0w3Kx9AFYihGKXxfcrVUwd4uGL3MDjDv17dT8SPdOABhMbN+Mog6mQIEo9HSPhWG1+Uqw3+hhYwAolT8H1VkJrhQzYYB/S7aJTDw=;MF0NVTSHBXPcjT8sQTAh+g=="
 ---
 

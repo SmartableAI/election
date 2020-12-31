@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Russia, Afghanistan, Iraq: Joe Biden's foreign policy answers, through the years"
-excerpt: "As a senator and vice president, Joe Biden spent his career developing relationships with foreign leaders. Meet the Press looks back at his answers to foreign policy questions over his decades-long career."
-publishedDateTime: 2020-12-29T01:27:00Z
-originalUrl: "https://www.nbcnews.com/meet-the-press/video/russia-afghanistan-iraq-joe-biden-s-foreign-policy-answers-through-the-years-98421829808"
-webUrl: "https://www.nbcnews.com/meet-the-press/video/russia-afghanistan-iraq-joe-biden-s-foreign-policy-answers-through-the-years-98421829808"
-ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98421829808"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98421829808"
+title: "Secret Service adding former Biden agents to new presidential detail "
+excerpt: "The US Secret Service has been planning to bring back to the White House a group of agents that previously worked with President-elect Joe Biden when he was vice president to fill out his security detail, a law enforcement source confirmed to CNN.\n    \n"
+publishedDateTime: 2020-12-31T04:42:56Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lLs7Ofd25Yo/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lLs7Ofd25Yo/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/joe-biden-secret-service/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/joe-biden-secret-service/index.html"
 type: article
-quality: 130
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenforeign_20122700__107131.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201229161053-joe-biden-december-29-2020-01-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -64,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Secret Service adding former Biden agents to new presidential detail "
-    excerpt: "The US Secret Service has been planning to bring back to the White House a group of agents that previously worked with President-elect Joe Biden when he was vice president to fill out his security detail, a law enforcement source confirmed to CNN.\n    \n"
-    publishedDateTime: 2020-12-31T04:42:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lLs7Ofd25Yo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/joe-biden-secret-service/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/joe-biden-secret-service/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201229161053-joe-biden-december-29-2020-01-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "GOP senator to delay affirming Biden victory by forcing votes on Electoral College results"
     excerpt: "Missouri Republican Sen. Josh Hawley said Wednesday he will object when Congress counts the Electoral College votes next week, which will force lawmakers in both the House and Senate to vote on whether to accept the results of President-elect Joe Biden's victory.\n    \n"
     publishedDateTime: 2020-12-30T16:50:34Z
@@ -112,6 +95,22 @@ related:
         width: 1920
         height: 1090
         isCached: true
+  - title: "Russia, Afghanistan, Iraq: Joe Biden's foreign policy answers, through the years"
+    excerpt: "As a senator and vice president, Joe Biden spent his career developing relationships with foreign leaders. Meet the Press looks back at his answers to foreign policy questions over his decades-long career."
+    publishedDateTime: 2020-12-29T01:27:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/russia-afghanistan-iraq-joe-biden-s-foreign-policy-answers-through-the-years-98421829808"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98421829808"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98421829808"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenforeign_20122700__107131.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden chooses Connecticut education commissioner for top schools post"
     excerpt: "President-elect Joe Biden selected Connecticut Education Commissioner Miguel Cardona to be his Education secretary on Tuesday, adding another Latino to his roster of Cabinet appointees and choosing a leader who has pressed schools to remain open for in-person classes during the pandemic."
     publishedDateTime: 2020-12-23T16:59:00Z
@@ -141,6 +140,6 @@ related:
         height: 773
         isCached: true
 
-secured: "PGluRVjkv6X4ZcSG1tNJ0dqv09QSTinfCNFGIBhydKQ9GtH8tUGimLYeKZS7Rc+RIWAEMg53lfFOKnf84Y0GazGLQGwnA3Ayr5ADCnHSM75JRmO/z2JM+b3cKlKc1kUk1jYDYwdd3CX2sIevOoEYyzqHTAZn2hYZ8Qioj2yU6UPMeKg4Ib6kn2b+Xc6AlClfCXzoCJ38sMXSApOZycn3mY0LI6+udN4e3g2U+KTqnFg9aDrXFO7nSk85EGnOJs+1bhUWVYwE9FCdMS75IMIY4ojcd38aA2MelIcyUffNP0lo76N5bUJTDaVrR3wT1fr7vqfJ2PfFmBDYBhz8SRiEK7sqRxhXi6jJ1CqWi/wlS4HmaONJYt6g8ajKn2s9KMhpQCDZ3K266VRbP2RlODHlwpNdIVrvmvhvtzmo4+YLybXDJyt88iDPJ6xqHPCLydCxQbL+zAZMCmJqmjsrUuSTB35rA37FDkP4vMM8pfTYzyS87l3/H/GN78uRuaR7nDKQZXul0WxbLygwdWFPrcxINQ==;6pJUqEz8zELnC6daTJbNmw=="
+secured: "3XxPdhGOiuzHG9EddJyd/UdvIDjVn4G8AuUYZrQ+Y9uvpHaNlQhXs7BlBWFRE7Sf09KsX6D9ipLFK03tCyhwsW2otd0ngHMPOM8jLMT4NkxtiifQtpJPmI410MCJYfLQSrSIQniWBVJ6/FE01grialUEEhGweF3clA+vyjSS3n5CBVz+OA26wh/7E0VtxSqmPQq+0fwXdcei25BrkBKW/kSwm0mTwYntrpmPyVx4MYjEXHGIFUfdipnOkOgu25Szs8VuWwnSC1p2ZXOKWOxCBmVY1dv/kPUNk2dv0eH2bZxui00Lj5Iz1uKgv8kQertywoCeCkebkyCKOAELf1z6LusqJgg0aDqSf7n9CV99FcE=;tVIvRK9VPt7mmE0cfThbaQ=="
 ---
 

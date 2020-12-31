@@ -402,20 +402,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Census Bureau to miss deadline, jeopardizing Trump plan"
-    excerpt: "It will be the first time that the Dec. 31 target date is missed since the deadline was implemented more than four decades ago by Congress."
-    publishedDateTime: 2020-12-30T21:42:00Z
-    webUrl: "https://www.politico.com/news/2020/12/30/census-bureau-deadline-missed-452584"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/95/1c/08e4ed3f4900bcf72edba0bd9177/gettyimages-1213593964-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "7ytOuNCDGGugRoLVXR3dMr9FKXWfaxIujVKjPpyHD0BDDemSHuwecKGDc0YHhi3BSmTvhDMNKADdoaXuCQVOjZZusSiRjLLtRjpTbuaXPKAkYbwe4v5PeYfGARWDT2D0JKpf3Ziu7+Y00k6X6ngPOt1PnJ8ZUBZxeoJsG4PntrQagqZ3IyEQK3OurS1F7GGWeSlPnzTczbFyxattwqNsyMDVDxl6Pb4sam+0BQXGR+XjmexFFYMToXnnfQaJQbo2Z31P1WPCfyFynupXcz3lt8gct2i9etoVx3qIXWpJ81yx7gsj2j1wU1T6HSX/W25QGSSHAEhp9iSETW8EpgqKuW6KveWR9Uvtmvy98bH0+dqJ4s9LyZVtxxKSp0iW0+MpVJzAI7tVMNyhag8+XnAzmF05wUjanPDj9fW0s6cXC1AYs6jEPmGxWS9YlspIfhJn0BZGIRDKbhGy7slwQHlbgD2sYOnptyC+309iUnCcNqJlWi4KZM7suwDXW2Dfpuzsl1dbByB3tT3mac4bLpB6dQ==;VTmE5Mc3IQUDRo6cOmoA2w=="
 ---

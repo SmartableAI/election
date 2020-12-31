@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/congress-gop-trump-veto/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/congress-gop-trump-veto/index.html"
 type: article
 quality: 175
-heat: 675
+heat: 655
 published: true
 
 provider:
@@ -384,20 +384,6 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/c9/4d/d6b42f1b489980efa797ba0d3eac/ap20350765074225.png"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Census Bureau to miss deadline, jeopardizing Trump plan"
-    excerpt: "It will be the first time that the Dec. 31 target date is missed since the deadline was implemented more than four decades ago by Congress."
-    publishedDateTime: 2020-12-30T21:42:00Z
-    webUrl: "https://www.politico.com/news/2020/12/30/census-bureau-deadline-missed-452584"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/95/1c/08e4ed3f4900bcf72edba0bd9177/gettyimages-1213593964-1.jpg"
         width: 1160
         height: 773
         isCached: true

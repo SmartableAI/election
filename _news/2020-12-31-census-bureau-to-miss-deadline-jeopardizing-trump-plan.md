@@ -1,422 +1,264 @@
 ---
 category: news
 title: "Census Bureau to miss deadline, jeopardizing Trump plan"
-excerpt: "It will be the first time that the Dec. 31 target date is missed since the deadline was implemented more than four decades ago by Congress."
-publishedDateTime: 2020-12-30T21:42:00Z
-originalUrl: "https://www.politico.com/news/2020/12/30/census-bureau-deadline-missed-452584"
-webUrl: "https://www.politico.com/news/2020/12/30/census-bureau-deadline-missed-452584"
+excerpt: "The Census Bureau plans to announce it will miss a year-end deadline for handing in numbers used for divvying up congressional seats. That delay could undermine President Donald Trump’s efforts to exclude people in the country illegally from the count if the figures aren’t turned in before President-elect Joe Biden takes office."
+publishedDateTime: 2020-12-31T11:16:00Z
+originalUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12"
+webUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12"
+ampWebUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
 type: article
-quality: 115
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-  - Democratic Voice
-
-images:
-  - url: "https://static.politico.com/95/1c/08e4ed3f4900bcf72edba0bd9177/gettyimages-1213593964-1.jpg"
-    width: 1160
-    height: 773
-    isCached: true
 
 related:
-  - title: "Congressional GOP grapples with 'unhinged' Trump"
-    excerpt: "Even in his waning days in power, President Donald Trump is still finding ways to inflict his signature loyalty tests on the Republican Party.\n    \n"
-    publishedDateTime: 2020-12-23T20:44:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gQBM4HKE9Mo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/congress-gop-trump-veto/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/congress-gop-trump-veto/index.html"
+  - title: "Pence's former top aide said that Trump is 'encouraging' violence on the day Congress votes to seal the 2020 presidential election results"
+    excerpt: "President Trump has promised his supporters there would be a \"wild\" rally in the capital on the day of Congress votes to approve the election result."
+    publishedDateTime: 2020-12-30T14:52:00Z
+    webUrl: "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12?amp"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 131
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223055901-02-donald-trump-1212-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://i.insider.com/5fec7314b7ab82001943e8ed?width=1200&format=jpeg"
+        width: 1200
+        height: 599
         isCached: true
-  - title: "Trump vetoes massive defense bill despite overwhelming GOP support"
-    excerpt: "President Donald Trump on Wednesday vetoed the sweeping defense bill recently passed by Congress. He had previously threatened to do so because it doesn't include a repeal of Section 230, a law that shields internet companies from being liable for what is posted on their websites by them or third parties.\n"
-    publishedDateTime: 2020-12-23T20:41:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ydo-xVf8rFk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/trump-ndaa-veto/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/trump-ndaa-veto/index.html"
+  - title: "Trump's legacy: He changed the presidency, but will it last?"
+    excerpt: "His legacy: a tumultuous four years that were marked by his impeachment, failures during the worst pandemic in a century and his refusal to accept defeat. He smashed conceptions about how presidents behave and communicate,"
+    publishedDateTime: 2020-12-24T06:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-legacy-changed-presidency-74889255"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74889255"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74889255"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222011052-donald-trump-1212-file-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "GOP lawmaker says Trump blindsided them on Covid-19 relief bill"
-    excerpt: "Rep. Tom Reed (R-NY) says President Trump's unexpected pushback on the bipartisan coronavirus relief bill passed by the US Congress \"blindsided\" GOP lawmakers.\n    \n"
-    publishedDateTime: 2020-12-24T03:08:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UYW50IPnMxA/trump-coronavirus-relief-bill-tom-reed-cpt-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/24/trump-coronavirus-relief-bill-tom-reed-cpt-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/24/trump-coronavirus-relief-bill-tom-reed-cpt-vpx.cnn"
+  - title: "Trump presidential museum will have 'unconventional' story to tell"
+    excerpt: "An impeachment. A once-in-a-century pandemic and unprecedented post-election challenge. And that's just one year of the Trump presidency."
+    publishedDateTime: 2020-12-30T12:42:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/30/trump-presidential-museum-have-unconventional-story-tell/4084730001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4084730001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4084730001"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223215641-tom-reed-screengrab-for-vpx-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://www.gannett-cdn.com/presto/2020/12/22/NPPP/dd2d1f29-0dd9-4988-9dcd-de1126fa28d9-2019123_Trump_Tuesday_13.JPG?auto=webp&crop=4295,2416,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Analysis: Why Donald Trump is already the 2024 GOP frontrunner"
-    excerpt: "Poll of the week: A new Gallup poll finds that 87% of self-identified Republican voters approve of President Donald Trump's job performance.\n    \n"
-    publishedDateTime: 2020-12-27T13:30:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Kmk8N2CSQRA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/27/politics/trump-2024-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/27/politics/trump-2024-analysis/index.html"
+  - title: "Paleologos on the Poll: A 'cult president'? Breaking down Trump's support"
+    excerpt: "Donald Trump could at the very least be characterized as one of the few U.S. presidents with a cult of personality and a cult-like following."
+    publishedDateTime: 2020-12-24T13:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/24/paleologos-on-poll-breaking-down-donald-trump-cult-like-following/4037335001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4037335001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4037335001"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216111257-trump-1212-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://www.gannett-cdn.com/presto/2020/11/13/USAT/73dbd8f7-f11e-4518-ad46-4d2a8121b775-Trump_AF1.jpg?auto=webp&crop=3737,2103,x0,y190&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Trump chooses chaos with delayed signature of Covid relief bill "
-    excerpt: "President Donald Trump is driving the country through chaos from behind the wheel of his golf cart.\n    \n"
-    publishedDateTime: 2020-12-28T11:13:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pM84HEBJvE0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/donald-trump-covid-relief-bill/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/donald-trump-covid-relief-bill/index.html"
+  - title: "Post-presidency at Mar-a-Lago; What Donald Trump can expect when he leaves the White House"
+    excerpt: "Living at Mar-a-Lago as a former president who lost his re-election bid will not be the same as visiting Mar-a-Lago. Here's what he can expect."
+    publishedDateTime: 2020-12-29T13:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/29/life-mar-lago-wont-like-trumps-visits-here-what-expect/4070938001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4070938001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4070938001"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222011052-donald-trump-1212-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "House veto override may show Trump's grip on GOP slipping"
-    excerpt: "President Donald Trump's ability to scramble American political lines continues even from the golf course, with House votes Monday showing that his feverish hold over the GOP -- and US government -- is hurtling toward a humbling end.\n    \n"
-    publishedDateTime: 2020-12-29T05:02:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DV6Cff8dZmc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/donald-trump-house-votes/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/donald-trump-house-votes/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227185708-03-trump-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump angered by Mar-a-Lago renovations, sources say"
-    excerpt: "His mood darkened as soon as he walked into his members-only club Mar-a-Lago, three days before Christmas, according to multiple sources. The changes to his private quarters, many of which were overseen by his wife, first lady Melania Trump, were not to President Donald Trump's liking, and he was mad"
-    publishedDateTime: 2020-12-29T19:45:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E8Ru4myzdL8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/donald-trump-mar-a-lago-renovations/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/donald-trump-mar-a-lago-renovations/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209101030-mar-a-lago-resort-2018-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Congress: A crisis averted and House votes Monday on overriding Trump's veto"
-    excerpt: "The President signed the massive spending and stimulus package Sunday night, bringing Washington back from brink of what may have been a weeks-long government shutdown and potentially months of more pain for millions of Americans who need expanded unemployment benefits, small business loans, a federal"
-    publishedDateTime: 2020-12-28T13:21:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tNxmHKjxec8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/congress-state-of-play-ndaa/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/congress-state-of-play-ndaa/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218141833-pelosi-mcconnell-vaccine-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Kinzinger: Trump's refusal to sign relief bill 'shows the chaos of the whole thing'"
-    excerpt: "Republican Illinois Rep. Adam Kinzinger said Sunday that President Donald Trump's refusal to sign a $900 billion relief package Congress passed last week and allow critical benefits to lapse for millions of jobless Americans \"shows the chaos of the whole thing.\"\n    \n"
-    publishedDateTime: 2020-12-27T19:24:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BQGOYF0DCzM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/27/politics/republicans-trump-relief-bill-adam-kinzinger-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/27/politics/republicans-trump-relief-bill-adam-kinzinger-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227132733-01-adam-kinzinger-sept2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Congressional backers cite cybersecurity provisions as they push Trump to sign defense bill"
-    excerpt: "The massive defense bill that President Donald Trump is threatening to veto contains provisions for increased cybersecurity, which has taken on significantly more importance in the wake of a massive cyberattack on federal agencies at the hands of suspected Russian hackers.\n    \n"
-    publishedDateTime: 2020-12-18T20:32:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RZrYuDIW11A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170513225821-cyberattacks-ransomware-latest-sebastian-lklv-00002816-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "With Trump Fading, Ukraine’s President Looks to a Reset With the U.S."
-    excerpt: "They roped us in, but I think we behaved with dignity,” Volodymyr Zelensky said of his encounter with American politics."
-    publishedDateTime: 2020-12-19T17:59:00Z
-    webUrl: "https://www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/19/world/europe/trump-zelensky-biden-ukraine.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/18/world/18ZELENSKY1/18ZELENSKY1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Congress passes coronavirus relief bill, but Trump criticizes deal"
-    excerpt: "President Donald Trump had been expected to sign the bill in days, but he then called for bigger payments. He didn't directly say he would veto it."
-    publishedDateTime: 2020-12-23T11:50:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-12-22-covid-live-updates-vaccine-news-n1252058"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1252058"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1252058"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436937/201220-covid-live-blog-social-only_430f30c4e08497ebcf945e5d49426121.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
-  - title: "Christmas comes early for Trump allies with more pardons"
-    excerpt: "Christmas came early for some of President Donald Trump's friends and associates as he issued a second wave of pardons and commutations late Wednesday. Here is what we're watching this Christmas Eve."
-    publishedDateTime: 2020-12-24T13:59:00Z
-    webUrl: "https://www.nbcnews.com/news/morning-briefing/christmas-comes-early-trump-allies-more-pardons-n1252332"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252332"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252332"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/1608811741191_tdy_news_haake_trump_vetoes_defense_bill_201224_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Jobless Benefits Are Set to Expire as Trump Resists Signing Relief Bill"
-    excerpt: "Millions of Americans were set to lose crucial jobless aid, as the president continued to criticize the bill that would keep the programs from lapsing."
-    publishedDateTime: 2020-12-26T23:55:00Z
-    webUrl: "https://www.nytimes.com/2020/12/26/us/politics/trump-unemployment-coronavirus-aid.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/26/us/politics/trump-unemployment-coronavirus-aid.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/26/us/politics/trump-unemployment-coronavirus-aid.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/27/lens/26dc-stimulus-sub/27weekend-briefing-stimulus-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "From Reagan to Trump, Denying Facts"
-    excerpt: "The line from Ronald Reagan to Donald Trump and our current situation may be even straighter and darker than Paul Krugman paints it. Consider the following core Reagan messages: Government is your enemy."
-    publishedDateTime: 2020-12-27T19:37:00Z
-    webUrl: "https://www.nytimes.com/2020/12/27/opinion/letters/republicans-facts.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/27/opinion/letters/republicans-facts.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/27/opinion/letters/republicans-facts.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/15/opinion/15KRUGMAN_PRINT/14krugmanWeb-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Jobless benefits run out as Trump resists signing the relief bill."
-    excerpt: "Two critical federal unemployment programs expired on Saturday as President Trump resisted signing a sweeping $900 billion aid package into law until lawmakers more than tripled the size of relief checks."
-    publishedDateTime: 2020-12-27T16:57:00Z
-    webUrl: "https://www.nytimes.com/2020/12/27/us/jobless-benefits-run-out-as-trump-resists-signing-the-relief-bill.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/27/us/jobless-benefits-run-out-as-trump-resists-signing-the-relief-bill.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/27/us/jobless-benefits-run-out-as-trump-resists-signing-the-relief-bill.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/26/realestate/26virus-briefing-stimulus/26virus-briefing-stimulus-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Barr Leaves a Legacy Defined by Trump"
-    excerpt: "Though he sometimes departed from the president, the outgoing attorney general’s term was dominated by how he navigated the Russia investigation and other fraught issues."
-    publishedDateTime: 2020-12-28T23:11:00Z
-    webUrl: "https://www.nytimes.com/2020/12/28/us/politics/william-barr-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/28/us/politics/william-barr-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/28/us/politics/william-barr-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/27/us/politics/27DC-BARR1/merlin_175304568_65cdad1a-d5c5-48bb-93ba-e0d6f88c3dc7-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "‘Like a Hand Grasping’: Trump Appointees Describe the Crushing of the C.D.C."
-    excerpt: "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, go public on the Trump administration’s manipulation of the agency."
-    publishedDateTime: 2020-12-16T10:00:00Z
-    webUrl: "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/16/us/politics/cdc-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 132
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/09/us/politics/00dc-virus-cdc-2/00dc-virus-cdc-2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Congress sends Covid package and spending measure to Trump"
-    excerpt: "Congress sent the massive coronavirus stimulus package and annual budget measure to President Donald Trump Thursday afternoon, though the president has signaled that he doesn’t support the bill as written."
-    publishedDateTime: 2020-12-24T20:00:00Z
-    webUrl: "https://www.politico.com/news/2020/12/24/congress-covid-stimulus-trump-450370"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
+      name: USA Today
+      domain: usatoday.com
     quality: 115
     images:
-      - url: "https://static.politico.com/f3/2a/4c4082b441c49c24c9c67ff08473/ap20358774087431-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://www.gannett-cdn.com/presto/2020/11/20/NPPP/904061d6-1a69-47a0-b1b7-54759c8102e2-USATSI_13867755.jpg?auto=webp&crop=4615,2596,x0,y220&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Trump squeezes Republicans with eye on 2022 primaries"
-    excerpt: "The president is lashing out at Republicans he sees as disloyal — and the GOP is seeing how Trump's interests can diverge from the party's."
-    publishedDateTime: 2020-12-24T21:35:00Z
-    webUrl: "https://www.politico.com/news/2020/12/24/trump-republicans-2022-primaries-450381"
+  - title: "Mitch McConnell has pitted himself against Trump during the president's final days in office"
+    excerpt: "The lame duck battle between McConnell and Trump on stimulus checks has baffled Democrats, but they've welcomed the president's support."
+    publishedDateTime: 2020-12-30T22:32:00Z
+    webUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/d5/e6/10028d3d45e5b1a55db4eb16a90f/201224-kemp-trump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Edging closer to shutdown with Trump showing no signs of caving"
-    excerpt: "He is showing no signs whatsoever that he is going to sign it. NYT’s Emily Cochrane with more on the state of play TRUMP at 12:38 a.m.: “Increase payments to the people, get rid of the ‘pork’.” … at 12:36 a."
-    publishedDateTime: 2020-12-27T15:37:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2020/12/27/edging-closer-to-shutdown-with-trump-showing-no-signs-of-caving-491249"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/ae/19/03a2d02343e693c6b8c46efc3b1e/201227-trump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump backs down, signs stimulus package"
-    excerpt: "A government shutdown was averted after the president approved the Covid relief package and annual spending bill."
-    publishedDateTime: 2020-12-28T01:47:00Z
-    webUrl: "https://www.politico.com/news/2020/12/27/congress-stimulus-deal-450380"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/59/f1/5ddcfde546d3a390ce77cd2a0f9d/ap20358774087431-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "McConnell to Trump: No thanks"
-    excerpt: "AT THE MOMENT — which means as of before dawn this Wednesday morning — it doesn’t look like Senate Majority Leader MITCH MCCONNELL is eager to help President DONALD TRUMP get $2,000 direct payments into law."
-    publishedDateTime: 2020-12-30T11:02:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2020/12/30/mcconnell-to-trump-no-thanks-491256"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/d1/d6/40f543904493880ca85ea2461cd8/gettyimages-1230254665.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump leans on McConnell for $2,000 checks amid GOP resistance"
-    excerpt: "The Senate majority leader blocked a Democratic proposal to boost payments and has said little about his plans."
-    publishedDateTime: 2020-12-30T04:30:00Z
-    webUrl: "https://www.politico.com/news/2020/12/29/2-000-checks-sputter-mcconnell-blocks-dems-451918"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/c9/4d/d6b42f1b489980efa797ba0d3eac/ap20350765074225.png"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "How Congress and coronavirus could quash Trump's Electoral College gambit"
-    excerpt: "Leadership has a potent arsenal to combat efforts to turn the electoral vote counting session on Jan. 6 into a spectacle — if they deploy it."
-    publishedDateTime: 2020-12-30T09:33:00Z
-    webUrl: "https://www.politico.com/news/2020/12/30/electoral-college-biden-trump-452081"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 114
     images:
-      - url: "https://static.politico.com/30/2b/c8c343124e928702b15201fd09eb/201229-capitol-getty-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://i.insider.com/5fecf9b1a18a450018cb6543?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Secret Service to make changes to presidential detail to bring on agents who worked with Biden"
+    excerpt: "The Secret Service is making some staff changes in the presidential detail that will guard President-elect Joe Biden, amid concerns from Biden allies that some current members were politically aligned with President Trump,"
+    publishedDateTime: 2020-12-31T00:37:00Z
+    webUrl: "https://www.washingtonpost.com/politics/secret-service-to-make-changes-to-presidential-detail-to-bring-on-agents-who-worked-with-biden/2020/12/30/d6fb8fe8-49ce-11eb-a9d9-1e3ec4a928b9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/secret-service-to-make-changes-to-presidential-detail-to-bring-on-agents-who-worked-with-biden/2020/12/30/d6fb8fe8-49ce-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/secret-service-to-make-changes-to-presidential-detail-to-bring-on-agents-who-worked-with-biden/2020/12/30/d6fb8fe8-49ce-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3MOMNUCK6II6XA42Z5F2PN6ERQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump golfs in Florida, rails against House GOP and election results on first day of his winter vacation as COVID relief hangs in the balance"
+    excerpt: "Trump had no events on his public schedule on the first day of his winter vacation Thursday, but traveled to his Palm Beach golf club, where he was spotted by CNN cameras on the links. Reporters were given no details of his schedule for the day,"
+    publishedDateTime: 2020-12-24T23:52:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 105
+    images:
+      - url: "https://www.chicagotribune.com/resizer/TVprj6I_MiixMX6j-AmfkAs6eYc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PAVSBWTRPDKJZNXABFXCVNHI6Q.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump lashes out at GOP after override vote on defense bill"
+    excerpt: "President Donald Trump lashed out at congressional Republicans a day after the House easily voted to override his veto of a defense policy bill."
+    publishedDateTime: 2020-12-30T19:17:00Z
+    webUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump vowed to drain the swamp. Then he granted clemency to three former congressmen convicted of federal crimes."
+    excerpt: "Pardons and commutations went to “cronies” while thousands of applications at the Justice Department are pending."
+    publishedDateTime: 2020-12-24T01:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/45Z646SFOII6XMHEB4MCSI5AEU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump is holding up the COVID-19 stimulus package with demands for $2,000 checks — but there are enough votes in Congress to override a veto"
+    excerpt: "President Trump called the $900 billion package — passed by Congress earlier this week after months of negotiations — a \"disgrace\" on Tuesday."
+    publishedDateTime: 2020-12-23T12:16:00Z
+    webUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://i.insider.com/5fe32894a64488001819315e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Louie Gohmert sues Mike Pence in bid to overturn election results"
+    excerpt: "A group of Republicans led by Rep. Louie Gohmert on Monday sued Vice President Mike Pence arguing that he is legally authorized to choose pro-Trump electors when Congress meets next month to certify the results of the presidential election."
+    publishedDateTime: 2020-12-28T18:42:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/07/29/congress_judiciary_96421_c0-0-3786-2208_s1200x700.jpg?962ee6637fa28f773de275bdd510053858c8f287"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Republican legislators sue Mike Pence to try to undo election results"
+    excerpt: "A group of Republican legislators led by U.S.  (R-Texas) is suing Vice President Mike Pence, hoping that it will end up allowing Pence to choose which electoral votes should count from states in which President Donald Trump lost."
+    publishedDateTime: 2020-12-29T11:41:00Z
+    webUrl: "https://www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html"
+    ampWebUrl: "https://www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JWTMB2TV3RDGFEJHU4SWWC5A34.jpg"
+        width: 3052
+        height: 2034
+        isCached: true
+  - title: "GOP legislators sue Mike Pence in latest effort to undo election results"
+    excerpt: "The lawsuit, led by Texas Rep. Louie Gohmert, aims to have a judge allow Vice President Mike Pence to choose which electoral votes to count in key states that President Trump lost."
+    publishedDateTime: 2020-12-29T10:29:00Z
+    webUrl: "https://www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html"
+    ampWebUrl: "https://www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 89
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JWTMB2TV3RDGFEJHU4SWWC5A34.jpg"
+        width: 3052
+        height: 2034
+        isCached: true
+  - title: "In another effort to challenge Electoral College votes, Rep. Gohmert sues Vice President Mike Pence"
+    excerpt: "Texas, sued Vice President Mike Pence in an attempt to challenge the results of some states’ Electoral College votes."
+    publishedDateTime: 2020-12-29T15:16:00Z
+    webUrl: "https://www.djournal.com/news/national/in-another-effort-to-challenge-electoral-college-votes-rep-gohmert-sues-vice-president-mike-pence/article_91089e35-5534-5e51-9995-3b8cf178cf92.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 41
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/d/ca/dca3aefb-1333-575e-8396-a718d1d12be2/5feb5315afded.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
         isCached: true
 
-secured: "fdmrHYgcHnetkF541VtFmeeegV1afstXmdHhY1BFbLIrOzLGStw2Jhkwe6FXMEKkHaonVK0GU+yNNIsHHiOPtdvyFT3yk57iQb3Y6AHSRBnfMhrTjqlUIpFNCfA9U62KsVjS5Pu1Hbw9m6DyGOEnnnqH3S1PjLnXu7gY/PUMWB+lbQYP/yRwCA0ep7wOeoYM6qTZ/FLzf5LBMG0j40j3Bb1xUnl8nIwAKfBv0fgobKJRO7btshC+fZKFbwOUilvN3bu6DckvGJpiggXTM0HmT0a+5G0H+rlCSetBE4D8rgQkuqZho359T0un5QZ92FRczfFj4gKeL0Qwi9r0OOwXO/6s9dhc24R5WXOkKA7MHD/h3mLUj9HycLbEjJieq6EJc6HacULXg9LSj+OsGF9MSsQrYkAMZpZ9kPgy0WxyCOlI2aHy3wSFo7rz9xiUVm+i5NxwX0KFLaNC4/yW4rKjvmKDHeRdENWZrwR1oV8gYH8DwZG/+TCUq61T9j+3hCcgCuNslylmKiD9tm/ENdAezA==;m4endb26L0ibz33tLsdPjQ=="
+secured: "aC7UoWxo4jaJ6OWTqQhZ8XDGP1wWWirnrxx2LnrzAlOe72KtSEBXx8G5c+ZDMWj31bX0J3pqcP6/eVEZJ+7GqakDlrT1V8eXZUjo59BaxaE18V5PudUE4JbRf9Mx2xzZB/fWAsn7YFaFKuhwGuIY5L2pL0NuwbhxOTyvxzh+kLNEHI4/zg62IVS9x8T8+Hm9PEXS7dsnUJhLpCu6Ws40Vb02jMPSefl5fTGZ6q7Hl/ifnepQW805MwIO+cnHDRVK7W/4Q8WKxJsXxT+2qiGVSFBVUjqLQUvm7tnltO6igkTNZKaBZCHPIWTBvP8G+3X4SWOYxi9oBF1/ES9Ohh/XX+CDUPkCIrufYUGznDi63y4=;7e+UqLFFKEHS4suwrvp73w=="
 ---
 

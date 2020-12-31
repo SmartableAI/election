@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Environmental groups sue Trump administration over rule allowing for faster dishwashers"
-excerpt: "A coalition of environmental groups sued the Energy Department on Tuesday in an effort to block a new federal rule that would allow for faster dishwashers, arguing it could possibly lead to \"higher household utility bills and more pollution.\"\n    \n"
-publishedDateTime: 2020-12-29T18:48:27Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGcfz7wFK-w/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGcfz7wFK-w/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/department-of-energy-dishwasher-rule-challenge/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/department-of-energy-dishwasher-rule-challenge/index.html"
+title: "Nationwide Covid memorial announced as part of Biden inauguration"
+excerpt: "Cities and towns around the country will light up their buildings and ring church bells in honor of those who have died."
+publishedDateTime: 2020-12-31T12:57:00Z
+originalUrl: "https://www.nbcnews.com/politics/2020-election/nationwide-covid-memorial-announced-part-biden-inauguration-n1252591"
+webUrl: "https://www.nbcnews.com/politics/2020-election/nationwide-covid-memorial-announced-part-biden-inauguration-n1252591"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252591"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252591"
 type: article
-quality: 167
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016121521-us-department-of-energy-file-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438901/201231-biden-covid-mc-1226_a43e7aacf97da08b35550aea5f0a6e59.JPG"
+    width: 2500
+    height: 1591
     isCached: true
 
 related:
@@ -255,6 +256,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Environmental groups sue Trump administration over rule allowing for faster dishwashers"
+    excerpt: "A coalition of environmental groups sued the Energy Department on Tuesday in an effort to block a new federal rule that would allow for faster dishwashers, arguing it could possibly lead to \"higher household utility bills and more pollution.\"\n    \n"
+    publishedDateTime: 2020-12-29T18:48:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGcfz7wFK-w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/department-of-energy-dishwasher-rule-challenge/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/department-of-energy-dishwasher-rule-challenge/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016121521-us-department-of-energy-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump was briefed that China sought to pay non-state actors to attack US forces in Afghanistan"
     excerpt: "President Donald Trump received information earlier this month that China sought to pay non-state actors to attack American forces in Afghanistan, a senior administration official said.\n    \n"
     publishedDateTime: 2020-12-31T00:17:08Z
@@ -383,22 +400,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Nationwide Covid memorial announced as part of Biden inauguration"
-    excerpt: "Cities and towns around the country will light up their buildings and ring church bells in honor of those who have died."
-    publishedDateTime: 2020-12-31T12:57:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/nationwide-covid-memorial-announced-part-biden-inauguration-n1252591"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252591"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252591"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438901/201231-biden-covid-mc-1226_a43e7aacf97da08b35550aea5f0a6e59.JPG"
-        width: 2500
-        height: 1591
-        isCached: true
   - title: "Trump leans on QAnon figures in flailing effort to overturn election"
     excerpt: "Trump has recently hosted three QAnon heroes at the White House, surged his QAnon-boosting activity on Twitter and toyed with ideas circulating in the QAnon community."
     publishedDateTime: 2020-12-23T23:25:00Z
@@ -488,6 +489,6 @@ related:
         height: 550
         isCached: true
 
-secured: "mrEoakhBcNyH9p5/imobexNV9b/fEHsG1z2ojJJPWLwXGnpifuS6m6TfSq0sb8I1eldqJnQMLEZB8wOeCbMzjFslX3XdwLot3mk9LNnRN3eSPC/4VO5UYOw3wIDDuSs42Sy7YLhiSRplnv0tB0+CM2EvgVq8DZs/+qwoYRnTlWBIEN2pMXnY3nWvBuhRGmGT1WlqYBsVBFL0uFSSJ+5GJ5fa7wtMav7EBcOXCB58c8+9CwPErCcH9GAyL9SSrwGyODirf06TTcBwIeGDfE2ma6E+ETXSK1CL8iKaPhy/+aaNBLG1M9p3kxHAsRRrAXQghEidmm2W+rxyoDyF3NXM7IRTOGjskVPKlEHntmVSTKM=;Wa3FTxePhD96pjT29g2Txg=="
+secured: "48a0mVNTzEYTKcNawPZaRdAE+4KHKNCEnKzo896PmEcb9pzeqfGA9nSZQRNqwrRDcbuzYu5p9AWYKQFO2i0OLljkAtZdIwdw0ikjB4B4T99vRjcQITZ0FGQfkw413Ab66Kv4yGLOBx9Mr3AGAgdU+3he0MQsPGTNXiaYXSOVt4AmXmCWtPgHW3CHsd2dC/of9++9Cjih22QdCxOQSSqA05LVr3Bce5+DmQStB3k+ZLKtQM+S7ffpHm8vb+PQNi3aEKT45HL3zbKbdrb/Enzpp5rnPwUmYNWA7zv3EL54DqUrmM7kK22oob1Z8CKx2/iNfgW9dWtZX+sbr4h85UXv2gwNhZ/deSWYAHmZQ+fhsgA=;VxykVcTTbvUqApASMKQ6DQ=="
 ---
 
