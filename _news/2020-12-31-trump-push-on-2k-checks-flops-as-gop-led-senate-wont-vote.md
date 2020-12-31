@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump push on $2K checks flops as GOP-led Senate won’t vote"
+title: "Trump push on $2K checks flops as GOP-led Senate won't vote"
 excerpt: "Senate Majority Leader Mitch McConnell has all but shut the door on President Donald Trump’s push for $2,000 COVID-19 relief checks"
-publishedDateTime: 2020-12-31T00:31:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-push-on-2k-checks-flops-as-gop-led-senate-wont-vote/2020/12/30/05f3904e-4aff-11eb-97b6-4eb9f72ff46b_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-push-on-2k-checks-flops-as-gop-led-senate-wont-vote/2020/12/30/05f3904e-4aff-11eb-97b6-4eb9f72ff46b_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-push-on-2k-checks-flops-as-gop-led-senate-wont-vote/2020/12/30/05f3904e-4aff-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-push-on-2k-checks-flops-as-gop-led-senate-wont-vote/2020/12/30/05f3904e-4aff-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+publishedDateTime: 2020-12-31T05:41:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/trump-push-2k-checks-flops-gop-led-senate-74983912"
+webUrl: "https://abcnews.go.com/Health/wireStory/trump-push-2k-checks-flops-gop-led-senate-74983912"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-push-2k-checks-flops-gop-led-senate-74983912"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-push-2k-checks-flops-gop-led-senate-74983912"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Health/WireAP_0d69e273b4dd492ab458f9815fb49f2b_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -315,6 +315,6 @@ related:
         height: 600
         isCached: true
 
-secured: "3TwQtDKLS4ipFcjpnuoEFTp0AXzU+UfT1mL30CjvtmWj2uu+O17M3rP0Z9nbYcJF07aOZvK+OlX5Ks7H2ee0Qc/K+OJ9mou3OGQY9Mh1SJEbNcmfujmnI7zWrPFqduMWN4pWsg5Ve98Qx51aiNvNa1555DMbXTpXN7uNru1F0nFZwmIHBTCfhWjLMfXSBPt87JmeXo9ewv3EYI05iVEPKkG+WPtKD5/yr4Dh7tz6Uwk/7XfZuJBZlVfnSHx7nKP0t+IRRcmL5Ao1ODPLodKs7/jAWorUI+E/guYeC4q65A3Mlr578/1ozYjb3Bak95V/F31DcCwBiFx9GesZfcjxJDo38EG/Ql/x5kyD+xINepc=;q2xnTKq3jObndpxLDp1RwQ=="
+secured: "ZpI7gh1AZA3UwNoEAs6YCH/KXD4Ec/4qzFeoYz3hrKNfa6L086Q/KJIylL4V/2SnhLszFque1BcmWzEmuP/JmW0JCpvVmjrjyoVRfrB5x2dUgXSOfx4L8jKlXE5cN+hMg/kP1KpKfwIFetix/qetNODLn/Z67JkqVYe9ZL4ejtw3cmAm9LJR5VX4tlRswdJtIcd01JO/EN98ENFUx4uAxqXrbBb+wJF9YfRvzVOJZx4ahczrnEIeEgD9qftjKR/jLpMl5PmDsJR72zSTB7EN5QWqvO7zCEEcPu8bB8AZrMzjsx0SO4x+TluYSo4OSJz6KRAEgRRHbVV1o6A7j9tW98zgIEgJnpMexj7B7sXqvAw=;h7JJ5MEQyZMHYKgcXJEWhA=="
 ---
 

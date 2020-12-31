@@ -382,6 +382,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump absent as vaccine distribution lags and thousands continue to die"
+    excerpt: "A closing indignity on the final day of this horrendous year is that nobody actually seems to expect Donald Trump, who is still the President, to be paying much or any attention to the actual nightmare underway in the country he still leads."
+    publishedDateTime: 2020-12-31T05:00:00Z
+    webUrl: "https://www.cnn.com/2020/12/31/politics/donald-trump-covid-georgia/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/donald-trump-covid-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/donald-trump-covid-georgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227182835-01-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's unplanned gift to Biden: Clean energy on the rise"
     excerpt: "Oil and gas producers are struggling amid weak prices and growing pressure to address climate change — a trend that could help Biden make a U-turn in energy policy."
     publishedDateTime: 2020-12-29T09:37:00Z

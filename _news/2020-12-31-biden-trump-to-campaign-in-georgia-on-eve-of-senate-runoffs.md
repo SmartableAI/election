@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Trump heading to Georgia ahead of Senate runoffs"
-excerpt: "President Trump is set to visit Georgia this weekend to rally for Republican Senators David Perdue and Kelly Loeffler, who are both facing strong Democratic challengers in the January 5 runoff races."
-publishedDateTime: 2020-12-02T02:26:00Z
-originalUrl: "https://www.cbsnews.com/video/trump-georgia-saturday-ahead-of-senate-runoffs/"
-webUrl: "https://www.cbsnews.com/video/trump-georgia-saturday-ahead-of-senate-runoffs/"
+title: "Biden, Trump to campaign in Georgia on eve of Senate runoffs"
+excerpt: "President-elect Joe Biden and President Donald Trump will campaign next week in Georgia, holding dueling events on the eve of runoff elections that will determine who controls the U.S. Senate and the fate of Biden's legislative agenda."
+publishedDateTime: 2020-12-31T04:38:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-georgia-idUSKBN2941HE"
+webUrl: "https://www.reuters.com/article/us-usa-election-georgia-idUSKBN2941HE"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2941HE"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2941HE"
 type: article
-quality: 105
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/01/4529d887-b72c-4c1c-bb29-b00f91f286ba/thumbnail/1200x630/20642c43ecc51cd897574a2b1d49ca9f/cbsn-fusion-trump-georgia-saturday-ahead-of-senate-runoffs-thumbnail-599055-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546167820&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT0W1"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -60,22 +62,6 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
-        isCached: true
-  - title: "Biden, Trump to campaign in Georgia on eve of Senate runoffs"
-    excerpt: "President-elect Joe Biden and President Donald Trump will campaign next week in Georgia, holding dueling events on the eve of runoff elections that will determine who controls the U.S. Senate and the fate of Biden's legislative agenda."
-    publishedDateTime: 2020-12-31T04:38:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-idUSKBN2941HE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2941HE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2941HE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546167820&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT0W1"
-        width: 817
-        height: 545
         isCached: true
   - title: "Trump campaign files election lawsuit in Georgia, suffers more legal defeats"
     excerpt: "Donald Trump's campaign said it filed a lawsuit in Georgia state court on Friday seeking to invalidate the presidential election results there, the latest in a series of legal challenges aimed at reversing his loss that have so far gone nowhere."
@@ -763,6 +749,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump heading to Georgia ahead of Senate runoffs"
+    excerpt: "President Trump is set to visit Georgia this weekend to rally for Republican Senators David Perdue and Kelly Loeffler, who are both facing strong Democratic challengers in the January 5 runoff races."
+    publishedDateTime: 2020-12-02T02:26:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-georgia-saturday-ahead-of-senate-runoffs/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/01/4529d887-b72c-4c1c-bb29-b00f91f286ba/thumbnail/1200x630/20642c43ecc51cd897574a2b1d49ca9f/cbsn-fusion-trump-georgia-saturday-ahead-of-senate-runoffs-thumbnail-599055-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mnuchin: Trump backs GOP virus relief plan"
     excerpt: "Treasury Secretary Steven Mnuchin says President Donald Trump would sign a proposal for COVID-19 relief funding backed by Senate Majority Leader Mitch McConnell, a scaled-back GOP bill that has already failed twice this fall."
     publishedDateTime: 2020-12-02T18:53:00Z
@@ -1034,6 +1034,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ozsbxVaMHgOop/lIYhv7P+p7J2I9cF/B2CpeO2cfuhG+xNQYSaQUDjDkp1yuZFXtS3pL2ZVFL7t0sLBaaSFyCVwm+laR0NPE1IcDsd+8ed5BXovb/f2mUxVIRHsLqq2ZRlo2z0693AOc+yQqgOpPwxaW4nwCHsVlcMWRYFJyPg9HBXvvYpgWWPGpOsr42V/AF3zVhkjCY95EPnwaA+KkrSh0vnuluvTi1CIGHlfu6OpGFzgP04kYubgk892db635++UfuvX2ilz35iMAK4hyZ/O1q7qsn+7/4z6/oCLwJSZdubB70aB5AGMcocGaMH3rIZZjaynJ10KbDyoG3onUNiLixVT3Hdh54ZfKPfXcZvM=;xf0ENlfs9aN5vbD2we0KVQ=="
+secured: "sUPR5817EOJ9k44gPGUzHEzFc9erNkTYgv5T1GNDh2hbmnN1SfA3K0f/1i/LfJbCx7Qm1Xb50U394BWcLgCU3OA0dgmEH0qR873Exv2oYUswiDhQNzlhevUCKZaxI2Vms96VMZJ05w+u064bd46CGyq+bdsuFyaoFtqUbG++ShwGUw66LvR35KzJx6TAOkBz0AcVAnY4DiPYlX/a7v/gdWCJcwqWKZ/MAr82PAl7Jo/ggEA3q1JJ8nj3q+BGGrZbo+AkbQ9/E6Whe6zfyJckPSnHhOQT0elK4WhJ946ZnWE2hNYbfaesYr5cmGuYWCkktP8VEFuYNZxbpylRAsbM1RPVlfHFO/DaFwASUP1xZIU=;EUs5jx54G99Vr81Gtm4rQQ=="
 ---
 

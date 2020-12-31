@@ -63,21 +63,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump push on $2K checks flops as GOP-led Senate won’t vote"
+  - title: "Trump push on $2K checks flops as GOP-led Senate won't vote"
     excerpt: "Senate Majority Leader Mitch McConnell has all but shut the door on President Donald Trump’s push for $2,000 COVID-19 relief checks"
-    publishedDateTime: 2020-12-31T00:31:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-push-on-2k-checks-flops-as-gop-led-senate-wont-vote/2020/12/30/05f3904e-4aff-11eb-97b6-4eb9f72ff46b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-push-on-2k-checks-flops-as-gop-led-senate-wont-vote/2020/12/30/05f3904e-4aff-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-push-on-2k-checks-flops-as-gop-led-senate-wont-vote/2020/12/30/05f3904e-4aff-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    publishedDateTime: 2020-12-31T05:41:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-push-2k-checks-flops-gop-led-senate-74983912"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-push-2k-checks-flops-gop-led-senate-74983912"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-push-2k-checks-flops-gop-led-senate-74983912"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Health/WireAP_0d69e273b4dd492ab458f9815fb49f2b_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "McConnell rules out $2,000 checks as Republican tensions with Trump rise"
     excerpt: "U.S. Senate Republican leader Mitch McConnell on Wednesday ruled out a vote on a bill to raise coronavirus relief checks to $2,000 from $600, likely killing the effort pushed by President Donald Trump."
@@ -315,6 +315,6 @@ related:
         height: 600
         isCached: true
 
-secured: "oHmBZqpJ1JbIyLa+GxuT4sFbJL7m5PW7XAzKqHWT6lJjBSccc+w14K0NlQBbqR6/RcKg2gq6Hb46VoYCeR3JMvWjeeBZblP0CiBP1rkQxgRY5TRMUro2VKzRY2WcQQV1eFy2vmYfms1VxRYIgrolH3IDM+Fq5vsyZMd2gay5duK2UXVKFkAbDEHskGdgA5IuR7G1/fRs0a7YKwM3b/tjFplGV7t29pegAPUghBQVds53YZ2HU6I30FPHY/ES0DcFfopAheUOl/HMnDRTher4vh6GgPOk0bZhFIkjKH5lgTqluoKvC3i/XFpf6wE9ZXW7ngxowx4hrbQ2yldzGZ8gsMqsCMEZNH3kVgN6AVIJa9Q=;vff2tAsH4wwOHwPGhmt24Q=="
+secured: "Ic+pNU/2E/RXqPBH0YzfHH8jniEqxKQjW8FHkuOIsZc5eoQg7kBDDowbV9cfugZUKCvKVN+E41TSN46A0iOrJO0iHzPDj73jJ6K15IWQYVyrQydJ7GWCZ5qMGf2O5DETLyj4JgQ1qVqt737hR0U5xY4FEpQ0bL7sjdhBBpF0hZS2SuLtGKBshVP5z+iWhJoMvEGkp7fzf8VaDqOFs71V9HjSG7NmEGcIdJJPke0ZXNphMAlgkjWHxP3OZalTXLHUiX+XPehHST5ExmusDyUHGBJ+vay11MKj6UGt1NZm36dCE13Xt8OGGu8FSgg69/0kfWLfYh777ENnFGBBpBALcD2rO6LgfBPQMFDhdIc/cp+dZWE8KOcD3kWNfiiwKp8hlYN+Xt1dkdp5oPUyQemwgXyOLIM4DfvLG9qsGGfSIuO49m294O98+DLkBQACxpSB+H8uz40uFb1CjrktW+E5R0LqZtOYoBVZuhL3YyXXzjZpftFmIr1f447WBj201irKWej3b84H5xBcfHZEMG67uA==;wZPVTRRoqcAbsqN6afj5KQ=="
 ---
 

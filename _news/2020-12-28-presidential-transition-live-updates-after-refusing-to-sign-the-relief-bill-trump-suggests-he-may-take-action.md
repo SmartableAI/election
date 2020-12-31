@@ -384,6 +384,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump absent as vaccine distribution lags and thousands continue to die"
+    excerpt: "A closing indignity on the final day of this horrendous year is that nobody actually seems to expect Donald Trump, who is still the President, to be paying much or any attention to the actual nightmare underway in the country he still leads."
+    publishedDateTime: 2020-12-31T05:00:00Z
+    webUrl: "https://www.cnn.com/2020/12/31/politics/donald-trump-covid-georgia/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/donald-trump-covid-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/donald-trump-covid-georgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227182835-01-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump leans on QAnon figures in flailing effort to overturn election"
     excerpt: "Trump has recently hosted three QAnon heroes at the White House, surged his QAnon-boosting activity on Twitter and toyed with ideas circulating in the QAnon community."
     publishedDateTime: 2020-12-23T23:25:00Z

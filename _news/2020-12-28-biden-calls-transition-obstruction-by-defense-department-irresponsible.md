@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-vows-to-restore-americas-glob
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
 type: article
 quality: 174
-heat: 274
+heat: 294
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 168
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91f6904a-45f1-4c75-a0bd-f0e17bf08b92/1e9bea95-acbe-45f6-83e2-f5184ccf2596/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Biden's transition team disabled chat function for reporters on conference Zoom calls"
+    excerpt: "Reporters on the call had to use a \"raise hand\" function to register they wanted to ask a question."
+    publishedDateTime: 2020-12-31T05:03:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Ofymmkaz2A/live-updates-biden-transition-12-31-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-31-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-31-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/780aec92-7f87-43bc-b273-cb57accada7f/b08b1601-e71a-4dd7-b041-ce78525d5cd4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

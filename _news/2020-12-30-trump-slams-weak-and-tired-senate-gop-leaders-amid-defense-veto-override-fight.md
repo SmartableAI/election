@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump returning to White House ahead of Mar-a-Lago New Year's Eve party"
+    excerpt: "President Trump plans to return to the White House from Florida on Friday -- earlier than originally planned, according to a schedule released late Wednesday night."
+    publishedDateTime: 2020-12-31T06:35:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xJORGa9nbBc/trump-returning-to-white-house-ahead-of-mar-a-lago-new-years-eve-party"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-returning-to-white-house-ahead-of-mar-a-lago-new-years-eve-party.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-returning-to-white-house-ahead-of-mar-a-lago-new-years-eve-party.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26d64889-2702-446b-b0b0-cf5d9e1f6c03/a6320754-c749-4dfd-87f3-050362c82218/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump slams 'weak and tired' Senate GOP leaders amid defense veto override fight"
     excerpt: "President Trump on Tuesday condemned \"weak and tired\" Senate Republican leadership as the upper chamber faces a vote to override his veto of the 2021 defense budget."
     publishedDateTime: 2020-12-29T16:40:10Z

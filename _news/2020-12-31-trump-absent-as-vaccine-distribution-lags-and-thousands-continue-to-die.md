@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden legal team asks senators for judicial nomination recommendations "
-excerpt: "President-elect Joe Biden's transition team has sent a letter to Democratic senators seeking their recommendations for district court vacancies, a transition official confirmed to CNN.\n    \n"
-publishedDateTime: 2020-12-31T00:39:05Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iEKoM2kANoA/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iEKoM2kANoA/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-judicial-nominees-senate/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-judicial-nominees-senate/index.html"
+title: "Trump absent as vaccine distribution lags and thousands continue to die"
+excerpt: "A closing indignity on the final day of this horrendous year is that nobody actually seems to expect Donald Trump, who is still the President, to be paying much or any attention to the actual nightmare underway in the country he still leads."
+publishedDateTime: 2020-12-31T05:00:00Z
+originalUrl: "https://www.cnn.com/2020/12/31/politics/donald-trump-covid-georgia/index.html"
+webUrl: "https://www.cnn.com/2020/12/31/politics/donald-trump-covid-georgia/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/donald-trump-covid-georgia/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/donald-trump-covid-georgia/index.html"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,10 +22,11 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227182835-01-trump-file-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -156,6 +157,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201224041533-01-joe-biden-1223-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden legal team asks senators for judicial nomination recommendations "
+    excerpt: "President-elect Joe Biden's transition team has sent a letter to Democratic senators seeking their recommendations for district court vacancies, a transition official confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-12-31T00:39:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iEKoM2kANoA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-judicial-nominees-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-judicial-nominees-senate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -367,22 +384,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump absent as vaccine distribution lags and thousands continue to die"
-    excerpt: "A closing indignity on the final day of this horrendous year is that nobody actually seems to expect Donald Trump, who is still the President, to be paying much or any attention to the actual nightmare underway in the country he still leads."
-    publishedDateTime: 2020-12-31T05:00:00Z
-    webUrl: "https://www.cnn.com/2020/12/31/politics/donald-trump-covid-georgia/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/donald-trump-covid-georgia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/donald-trump-covid-georgia/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227182835-01-trump-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump leans on QAnon figures in flailing effort to overturn election"
     excerpt: "Trump has recently hosted three QAnon heroes at the White House, surged his QAnon-boosting activity on Twitter and toyed with ideas circulating in the QAnon community."
     publishedDateTime: 2020-12-23T23:25:00Z
@@ -472,6 +473,6 @@ related:
         height: 550
         isCached: true
 
-secured: "odKzyR2M+5A7PDeO7nC2LQ7/ftAkqL0o5z1zLRQ/ddsQDACW0adOw2CYMhPjknoJaK4bWci4NK22wp9TMHVuegVLAoPoXmWzuNqXOmLozWK6LsBrMD35sbhnGzaAttnMxdykaCGSXoF/Ov0eWRXTkzvk9IubLgpqAWrswWsHHVcl0Nwm0ZwrSCvKCNOwAPHtgZ0wDYJaaSqs8RP1tmCYVsxLwsmf8UbgAzsJBtbr2b2pmP2Nr+zVBJkO6BCMj1h3q8Y/q4IIBHKlXeLlIMNkl+Wxj8KBpfEsrVPaFSyg4Y+c/4KoR8E/MB4UoDOfSldKAs9vPi5dflPcXiKFm0dp9ukFWv1KD3JD/sXFRV83N+g=;damUTtnv09vB+qR2COwg5A=="
+secured: "8AcdYG5RFdMRw79Oh9nr2lwtB4JJRRfEfSVmCBWzxlSNn5jCF0AArMB1O+PLXMdugLvQR1dPvppakqnROYQuIESxzusO4xdMTB0BYC5xZGlnl5lCicEFojCBhwrnyFCd1mvIQWmdOdyNdiAbD0kQKu8uSozsCNgmv3r/aqBT+N9TBRiBT1aedBKCryJ/BD1+LNjHAUJ3CYs4kFVrn2SCjEIAcgRvZpzw6vwCAapZTOVglBFMvcrD19XRJjcgmsSyvZHhuVnajHvUzcu+ONKLbWqsOwjMrWAzRz8stc0WQv3XBrQR+nvRxcdThD9btoyp6p9ExeLP8GOtreU5dg6Mhd34PaR5Qakf2vtEjopkzpk=;WoCfr59V1HDymT+T1QrDwQ=="
 ---
 

@@ -3,10 +3,10 @@ category: news
 title: "Trump to Return to White House Early From Florida Vacation"
 excerpt: "President Donald Trump is cutting short his Florida holiday vacation and will be returning to Washington on Thursday, a day earlier than originally expected."
 publishedDateTime: 2020-12-31T03:53:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-12-30/trump-to-return-to-white-house-early-from-florida-vacation"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-12-30/trump-to-return-to-white-house-early-from-florida-vacation"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-30/trump-to-return-to-white-house-early-from-florida-vacation?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-30/trump-to-return-to-white-house-early-from-florida-vacation?context=amp"
+originalUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation"
+webUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation?context=amp"
 type: article
 quality: 55
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 832
         isCached: true
 
-secured: "mamfHLv3khyfYN4QA8g3MAjJWmzzcTBgWJ0z1/yt/RMbcpUdQaU1FjmRbJRKySQfadtTSTnUGjGKkOhItxwt3fk3Lrvn1F7covAif72pRjeyb0r/SlSmkQbBEcQg8QZHyBlAFSO1iYZ8xNk3R88+0Yuaii87ECvazFawRQI0QvV4DKz3IE60Z5MFrLaMDV7BllSaC23H5CTra2DfRR+29nk54OYDz2Hpx0sd9fxEN29IgR9JICxyJShdtM83lhTHjSlOvXbN8lnTWyyed/nJJ29WucdqJzxtMiiCx+0AGNMshI3wBY1nj9jD5SFBsRSGrKtFCAuIsF6VtQo+NcSzEapa2DG5tTUPTrzybOVyfm0pQ37x9VfzTHY9pinvu59UR1beOWwiwjkqvn5ABqhf5jZibuvltL7M68/OG2qpVDdd2UPCkBWBaerh0pe6m+QpydSIFIb60ADyBvmUc6wg3vHVknWU8KGYBPlkLzspouxbswi4gpFRINXpfISl874AyEvDT/qStLWHBGjNS/ISOQ==;IRb+t/h1Of74YX8rs9L8EA=="
+secured: "sSqPz1RtxpGe3gZkuJd7TccR85t8qZUT0KqFAKMIawEsnhZffBQAme0Vrmci0PvzdSHXd4o5OpEv4S+/72HLU/7HIj64oFoRwdDNsp9KjqYL55IQuWQhtRIIEmGPsA5QbN1RoPCAPcDgsmruh9nzdi7MYynYUkRwMlFaZhiHs+5FaOiuoEHlV/4xYUCpCRSiAQPLDY2DbTINa3sBThdVHsYifOeHPP0Ce8LBNtBJ2fv84mX5Gut4PB2YXoOHihSqoFLeIBlSAxQEo++k9y+1u1zV8WCoqPeBUGqvTH6SoIFLxtLGNEOhWJbVmf81A5jMB3LOx+E/k3VXEUiem1bMCbvFtNZyOcpr26GPV/KuAR3gaQud7ma8iivkBg2+CyLPmnRunB5+01WY1a6jYsDzBLg7EcmMQCGcqK2Re0XJbsUIktFx+pOWWELzYULcdfXpoYVBB1fLyQwq6frX8Txl+DlBSRf5YerAbZkntxKJWnhHPTUHacloCaM2vgBMohZy1tsrfyhepyZ4rJMA1/7bRQ==;fGKuqaAbroNU4wtlVJFVNw=="
 ---
 
