@@ -2128,6 +2128,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "In dueling New Year messages, Trump reflects while Biden looks ahead"
+    excerpt: "President Donald Trump in a New Year's Eve message reflected on his accomplishments in office, calling them \"historic victories,\" while his successor, President-elect Joe Biden, struck an upbeat tone in looking ahead to 2021."
+    publishedDateTime: 2021-01-01T08:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-idINKBN2951B6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2951B6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2951B6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546297277&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0TV"
+        width: 813
+        height: 545
+        isCached: true
   - title: "A large majority of Brits wanted Biden to defeat Trump in the US election, a new opinion poll has found"
     excerpt: "An opinion poll showed that 57% of Brits wanted Biden to triumph in the US election, while only 16% supported Trump."
     publishedDateTime: 2020-11-08T12:20:00Z

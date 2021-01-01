@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/asian-stocks-advance-t
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/asian-stocks-advance-trump-signs-900b-aid-package-74929903"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -153,6 +153,17 @@ related:
     webUrl: "https://www.usnews.com/news/business/articles/2020-12-29/fate-of-trumps-2-000-checks-now-rests-with-gop-led-senate"
     ampWebUrl: "https://www.usnews.com/news/business/articles/2020-12-29/fate-of-trumps-2-000-checks-now-rests-with-gop-led-senate?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-12-29/fate-of-trumps-2-000-checks-now-rests-with-gop-led-senate?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Extends Visa Ban; Court Clears Health Insurance Rule"
+    excerpt: "President Donald Trump has extended pandemic-related bans on green cards and work visas to large groups of applicants through March 31."
+    publishedDateTime: 2021-01-01T08:14:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-extends-pandemic-related-visa-ban-through-march-31"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-extends-pandemic-related-visa-ban-through-march-31?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-31/trump-extends-pandemic-related-visa-ban-through-march-31?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

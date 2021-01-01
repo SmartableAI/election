@@ -157,6 +157,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Extends Visa Ban; Court Clears Health Insurance Rule"
+    excerpt: "President Donald Trump has extended pandemic-related bans on green cards and work visas to large groups of applicants through March 31."
+    publishedDateTime: 2021-01-01T08:14:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-extends-pandemic-related-visa-ban-through-march-31"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-extends-pandemic-related-visa-ban-through-march-31?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-31/trump-extends-pandemic-related-visa-ban-through-march-31?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "q2I7lctfRVJNktG8lYuaUt9tHJlCzn03C0fn2gJEjLGmakvvJ6A1oqJH9pYEAy20nYTxPALHdidXn+tXxeLzZ89606JF8/QwXtc/opqBIgL+mT5176aRspNxIWSZRhOHFuEkZtujP6iiHeB9Re9awSXf3qsjLIZm0mn82ERIQ/K2Wz6Har5ctbQ3dOuA+89iT3P8/Z7HAUXplEy0ioTS3bIrJSbRY9BuNnNjTljWAYOKk7MkAILR0yt2I2OX7jewb3qKIAJlNxXiE4aibUrcuDqiRl4FWeL0P8P3i+2iIHoQ5CqMmuPDplwYhV1pZZONkVXtbmflB2riuo+Kn0i5cAm3resFv/WftCoy+wP+/eDSRlPtlpJ/V/CLEVdwN3mrRaTidAWFCOU/Z2R3idgrghpT2wlmGuZ7cYy3PAdvkf6a4HbDuD3lM2UbL4RKYjhpRB6QLMwXOqacW9MWATkxkqwxsJslEs2cmhpszuzK1MGm4Q2QBlOKG4um3wsO+uD66I7lmVZFDMjqgH1T0SO/IQ==;bZnX87dRpy5UOGo823C82w=="
 ---

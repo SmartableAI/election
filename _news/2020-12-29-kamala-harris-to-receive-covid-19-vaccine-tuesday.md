@@ -2,26 +2,26 @@
 category: news
 title: "Kamala Harris to receive Covid-19 vaccine Tuesday"
 excerpt: "Vice President-elect Kamala Harris is expected to receive the first dose of a Covid-19 vaccine on Tuesday, according to the Biden transition team."
-publishedDateTime: 2020-12-29T15:52:00Z
-originalUrl: "https://www.stltoday.com/news/national/kamala-harris-to-receive-covid-19-vaccine-tuesday/article_6edc6e00-d085-5e12-bc2d-3b99f6a0efe1.html"
-webUrl: "https://www.stltoday.com/news/national/kamala-harris-to-receive-covid-19-vaccine-tuesday/article_6edc6e00-d085-5e12-bc2d-3b99f6a0efe1.html"
-ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-to-receive-covid-19-vaccine-tuesday/article_6edc6e00-d085-5e12-bc2d-3b99f6a0efe1.amp.html"
-cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-to-receive-covid-19-vaccine-tuesday/article_6edc6e00-d085-5e12-bc2d-3b99f6a0efe1.amp.html"
+publishedDateTime: 2020-12-29T10:00:00Z
+originalUrl: "https://tulsaworld.com/news/national/kamala-harris-to-receive-covid-19-vaccine-tuesday/article_34d696e9-e70b-5a74-8b33-499d4e3dcae5.html"
+webUrl: "https://tulsaworld.com/news/national/kamala-harris-to-receive-covid-19-vaccine-tuesday/article_34d696e9-e70b-5a74-8b33-499d4e3dcae5.html"
+ampWebUrl: "https://tulsaworld.com/news/national/kamala-harris-to-receive-covid-19-vaccine-tuesday/article_34d696e9-e70b-5a74-8b33-499d4e3dcae5.amp.html"
+cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/kamala-harris-to-receive-covid-19-vaccine-tuesday/article_34d696e9-e70b-5a74-8b33-499d4e3dcae5.amp.html"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/a3/3a31e4fb-18fa-52c0-9520-bf9fed01a224/5feb4b79edf9d.image.jpg?resize=1024%2C689"
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/8/da/8da14ea2-aae7-529c-a3c4-08b47e5caead/5feb4b7a21973.image.jpg?resize=1024%2C689"
     width: 1024
     height: 689
     isCached: true
@@ -498,6 +498,6 @@ related:
       domain: usnews.com
     quality: 25
 
-secured: "P10X17Vv7PPGW5Ilk3UVd/V8JDJv/pYplNx/o84f7bSJov/Pnc2y3PRvCsZUKEa0vf4Er7ggGBKExY5EHgVt4j1idFmnKvjsdAU4l1WbjGnreeNVijPMRF32xus7qDTwe22CAABEAjQEe9+N/U/kUY8MDQ3HywXq6xoP5iGLTFPum+y3vJRAyVtEmRnrCAZzhaR2MGyLEpqSmmHRHH/dvrImPfcYpBZdl1LnCeF3VaCR7g/Fsstw0qNzcBoc4hptpgBrH9a9u4F/34c6G8E+MbrXD5K0qZcL8stOO+a8IRj0Ymkz6uHPkOUu5P7bsfu7OShtDhP15vluhTbc9/A8JemSVgf5UyqzGJAwNWMKO/GscED2NSC7hIX9HO/DcX+5WUpO4dpWYIg5hVeUxDjGAimNPgnH4X1KUf5hHE1P1ILNQAtK1Nv2l5J6wZjfEsuKGSChRNW9qDjA9aISu5T6BwT79lLysI+u0TCGIABLkabYZWb3iIcnwMUcKONMSTz5vuGWF3PdK9Mk32LyVCzlGg==;LctGhe0qro2KyL5+TIuMAQ=="
+secured: "/2BMWYsZV19/prvRaVyUQ9PWSp3LEow/RT6N4jMyvsvDYVceOGjXi8OG+EPcVBNmqKU7r59Ko3aZZeLh/YUGO831D+kB7qMnObaA0eW1Fcj+4avSI9uGII592goUPTvgdPaRgb0sgyUPQyBrDobtZzrJ7eD+3pBdmDohfAi3jbLkya05x7hn+EmYy0qNTe6dUn12bDhjWIEvKJa0kFPTZV4/P+Ebe3dKHpzLTUtLdKEitOCGBOf0aC1PJT8ifxMTB2R7H6O/fTQ4ruZ0X70DuSn086mEfd8zacTW/zEreb/NCYh8n9SxNeD2gOfUTnOb2kVzsyAuXkXSEBuJCk7fzJO6aqsUURnnVWCjAW2cGhI=;jd+Aitp68d7AvshRGxVUBA=="
 ---
 
