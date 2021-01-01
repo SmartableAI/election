@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump extends pandemic-related visa ban through March 31"
+    excerpt: "President Donald Trump has extended pandemic-related bans on issuing green cards and work visas to large groups of applicants outside the United States through March 31"
+    publishedDateTime: 2021-01-01T04:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-extends-pandemic-related-visa-ban-through-march-31/2020/12/31/1548236c-4bbc-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-extends-pandemic-related-visa-ban-through-march-31/2020/12/31/1548236c-4bbc-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-extends-pandemic-related-visa-ban-through-march-31/2020/12/31/1548236c-4bbc-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "After Trump backs down on stimulus bill, Democrats aim for higher relief checks"
     excerpt: "Democrats in the U.S. Congress on Monday will try to push through expanded $2,000 pandemic relief payments for Americans after President Donald Trump backed down from a fight with lawmakers that could have shut down the federal government."
     publishedDateTime: 2020-12-28T19:06:00Z

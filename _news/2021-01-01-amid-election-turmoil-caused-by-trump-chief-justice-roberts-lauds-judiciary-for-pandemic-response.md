@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4101264001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4101264001"
 type: article
 quality: 126
-heat: 206
+heat: 226
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/0d45d7111e7e0eb9024b993a4d17130bd79a2799/0_189_2500_1499/master/2500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2810732c0011a5fdc437e3c8818a5a17"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump extends pandemic-related visa ban through March 31"
+    excerpt: "President Donald Trump has extended pandemic-related bans on issuing green cards and work visas to large groups of applicants outside the United States through March 31"
+    publishedDateTime: 2021-01-01T04:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-extends-pandemic-related-visa-ban-through-march-31/2020/12/31/1548236c-4bbc-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-extends-pandemic-related-visa-ban-through-march-31/2020/12/31/1548236c-4bbc-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-extends-pandemic-related-visa-ban-through-march-31/2020/12/31/1548236c-4bbc-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "After Trump backs down on stimulus bill, Democrats aim for higher relief checks"
     excerpt: "Democrats in the U.S. Congress on Monday will try to push through expanded $2,000 pandemic relief payments for Americans after President Donald Trump backed down from a fight with lawmakers that could have shut down the federal government."

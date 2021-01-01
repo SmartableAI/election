@@ -143,6 +143,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "How Trump Tried, but Largely Failed, to Derail America’s Top Climate Report"
+    excerpt: "The White House repeatedly attempted to thwart the country’s premier climate science document, one meant to steer policy for years. Scientists got in the way."
+    publishedDateTime: 2021-01-01T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/01/climate/trump-national-climate-assessment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/01/climate/trump-national-climate-assessment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/01/climate/trump-national-climate-assessment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/31/climate/31CLI-ASSESSMENT2/merlin_160191879_1db5bea5-8dfe-4c3e-8d88-f3fcff2187ca-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Pandemic complicates street vendor reform — Trump pardons Chris Collins — City pushes for expanded use of speed cameras"
     excerpt: "Subscribe for Season Two, available now. — President Donald Trump blasted the $900 billion coronavirus relief package passed by Congress, calling it a “disgrace” and asking for amendments to the bill to increase stimulus payments to Americans."
     publishedDateTime: 2020-12-23T12:11:00Z

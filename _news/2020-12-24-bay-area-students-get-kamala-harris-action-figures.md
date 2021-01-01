@@ -211,17 +211,17 @@ related:
         isCached: true
   - title: "Kamala Harris to receive Covid-19 vaccine Tuesday"
     excerpt: "Vice President-elect Kamala Harris is expected to receive the first dose of a Covid-19 vaccine on Tuesday, according to the Biden transition team."
-    publishedDateTime: 2020-12-29T10:00:00Z
-    webUrl: "https://tulsaworld.com/news/national/kamala-harris-to-receive-covid-19-vaccine-tuesday/article_34d696e9-e70b-5a74-8b33-499d4e3dcae5.html"
-    ampWebUrl: "https://tulsaworld.com/news/national/kamala-harris-to-receive-covid-19-vaccine-tuesday/article_34d696e9-e70b-5a74-8b33-499d4e3dcae5.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/kamala-harris-to-receive-covid-19-vaccine-tuesday/article_34d696e9-e70b-5a74-8b33-499d4e3dcae5.amp.html"
+    publishedDateTime: 2020-12-29T15:52:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harris-to-receive-covid-19-vaccine-tuesday/article_6edc6e00-d085-5e12-bc2d-3b99f6a0efe1.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-to-receive-covid-19-vaccine-tuesday/article_6edc6e00-d085-5e12-bc2d-3b99f6a0efe1.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-to-receive-covid-19-vaccine-tuesday/article_6edc6e00-d085-5e12-bc2d-3b99f6a0efe1.amp.html"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 75
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/8/da/8da14ea2-aae7-529c-a3c4-08b47e5caead/5feb4b7a21973.image.jpg?resize=1024%2C689"
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/a3/3a31e4fb-18fa-52c0-9520-bf9fed01a224/5feb4b79edf9d.image.jpg?resize=1024%2C689"
         width: 1024
         height: 689
         isCached: true

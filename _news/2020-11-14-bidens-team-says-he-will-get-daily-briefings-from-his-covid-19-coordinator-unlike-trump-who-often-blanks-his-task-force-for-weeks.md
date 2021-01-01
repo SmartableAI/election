@@ -2147,9 +2147,9 @@ related:
   - title: "In dueling New Year messages, Trump reflects while Biden looks ahead"
     excerpt: "President Donald Trump in a New Year's Eve message reflected on his accomplishments in office, calling them \"historic victories,\" while his successor, President-elect Joe Biden, struck an upbeat tone in looking ahead to 2021."
     publishedDateTime: 2021-01-01T08:15:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-idINKBN2951B6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2951B6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2951B6"
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-idAFKBN2951BB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2951BB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2951BB"
     type: article
     provider:
       name: Reuters

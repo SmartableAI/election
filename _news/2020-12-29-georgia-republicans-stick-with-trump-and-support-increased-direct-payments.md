@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senat
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senators-support-2000-checks/index.html"
 type: article
 quality: 173
-heat: 273
+heat: 293
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://static.politico.com/55/3b/4bdd329d492b8912eb8cb39d61c8/gettyimages-1230123259-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump blasts Covid relief bill just passed by Congress, demands changes"
+    excerpt: "\"I am asking Congress to amend this bill and increase the ridiculously low $600 (direct payment) to $2,000 or $4,000 for a couple,\" Trump said in a video posted to Twitter of him speaking from. \"I'm also asking Congress to immediately get rid of the wasteful and unnecessary items from this legislation and to send me a suitable bill,"
+    publishedDateTime: 2021-01-01T09:57:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/congress-vote-second-covid-19-relief-package-n1251966"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251966"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251966"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434982/201210-donald-trump-telephone-ac-813p_370e985b16a24befd8c3f4964ffccbf4.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "nsi1xr+PlQ005nC7wMxkEplsFQgWTs0cP11SnuF8VxSsd+lexs5wLDyT48uLngdHHKwdJGajIWCZu9fiY6StEzX5IGRninLK4KWVhZ3lLCv5v7gFOSC4l+mWCyR3tNRFqbQzZmBgtSVfa5hQ+psgpLobPFt/A4MROfa1Z2s51174oMHjyJLIwNsVadq2Sp3Nj87+/Jd9E2tn3mXZStNSdd2hxZmAisiD4fbTb3rb+/qoKYnUVm2yIFFWjk7VG9fDO7l3e8bElCYcNR9I/u3MAYLfCyDsGnnv/DBL7bJbHwbBTEz0W+NYSkxTjwDavDWnuTkzJ9t/jRcvcql7jTK/zaX0TBGcagy/NBpel+h0yw0=;R+UcHFXZLueH5dCMRXsUVQ=="

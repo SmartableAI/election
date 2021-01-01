@@ -112,6 +112,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump blasts Covid relief bill just passed by Congress, demands changes"
+    excerpt: "\"I am asking Congress to amend this bill and increase the ridiculously low $600 (direct payment) to $2,000 or $4,000 for a couple,\" Trump said in a video posted to Twitter of him speaking from. \"I'm also asking Congress to immediately get rid of the wasteful and unnecessary items from this legislation and to send me a suitable bill,"
+    publishedDateTime: 2021-01-01T09:57:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/congress-vote-second-covid-19-relief-package-n1251966"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251966"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251966"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434982/201210-donald-trump-telephone-ac-813p_370e985b16a24befd8c3f4964ffccbf4.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "jBwN+N6rWRlW4UxqEmLYXp8D61Ue+IByo/F1W9BXM75hiejmEwuT659vk+N72IkR+pIn3/yGfhEyP2DtVpLO5rFAyChB/ZTTK76eUij8rIqA+reSronL1yPHqdzY7H8BHcangA3IG44PUiPpWPiwQFANgnjzd5kAxQYmVjIJ1bby6Rt2bcLgUD54yzW/v+7t0iW+eDCDTzefcN2wg8H9URwf8sy5KLvL8vAfZRt/+UB5WjZhdGvsMtHgkXzHHKL4Mu/Xy+Gnfz2FxoLvfC8KT3/r4DGsQgMYQllA2Du0wZrSVOWxwuQlPb6ZIXyMG2B1NTdIFb6ub8SrQz/8Cg8XrBAUMWG1C/8DTK91Z1t27Io=;fLYyLGJKTgr3eB0GK3Tx0A=="
 ---
