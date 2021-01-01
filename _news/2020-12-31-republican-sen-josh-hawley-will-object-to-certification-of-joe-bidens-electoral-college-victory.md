@@ -49,14 +49,14 @@ related:
         isCached: true
   - title: "Fact check: These 5 election statistics do not discredit Joe Biden's victory"
     excerpt: "Social media users have shared a meme with statistics about Barack Obama, Donald Trump and Joe Biden that they claim discredit election results."
-    publishedDateTime: 2020-12-31T23:37:00Z
-    webUrl: "https://www.indystar.com/story/news/factcheck/2020/12/31/fact-check-5-election-statistics-do-not-discredit-joe-bidens-victory/4086497001/"
-    ampWebUrl: "https://amp.indystar.com/amp/4086497001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4086497001"
+    publishedDateTime: 2020-12-31T21:03:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/factcheck/2020/12/31/fact-check-5-election-statistics-do-not-discredit-joe-bidens-victory/4086497001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4086497001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4086497001"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 87
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/9f70ffd8-a8b4-4497-b1de-018d10ca07fe-2020-elections-topper-02.png?auto=webp&crop=7967,4481,x16,y0&format=pjpg&width=1200"

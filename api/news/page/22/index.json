@@ -2,6 +2,62 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-11-27-trumps-continued-rhetoric-over-election-hampers-recovery-as-americans-face-heightened-economic-and-health-fears.md",
+      "title": "Trump's continued rhetoric over election hampers recovery as Americans face heightened economic and health fears",
+      "excerpt": "President Donald Trump finally confirmed Thursday that he will vacate the White House in January after weeks of plunging America into a dark period of uncertainty—where the fate of democracy sometimes seemed to be hanging by a thread—but he largely ignored the mounting challenges his successor is facing",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Kxu1a0apCTM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Kxu1a0apCTM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201126210210-trump-white-house-point-thanksgiving-1126-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/27/politics/trump-biden-coronavirus-economy/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/trump-biden-coronavirus-economy/index.html",
+      "publishedDateTime": "2020-11-26T21:03:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-angry-trump-promises-rally-in-battleground-state-of-georgia.md",
       "title": "Angry Trump promises rally in battleground state of Georgia",
       "excerpt": "President Donald Trump on Thursday renewed baseless claims that “massive fraud” and crooked local officials in battleground states led to his election defeat, and said he’ll go to Georgia for a rally",
@@ -1281,62 +1337,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp",
       "publishedDateTime": "2020-11-24T08:21:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-biden-dhs-pick-mayorkas-intervened-to-help-democrat-connected-foreign-investors-ig.md",
-      "title": "Biden DHS pick Mayorkas intervened to help Democrat-connected foreign investors: IG",
-      "excerpt": "President-elect Joe Biden's pick for Homeland Security secretary, Alejandro Mayorkas, faced criticism during the Obama administration after a scathing inspector general report found that he intervened to help foreign investors in the EB-5 visa program who were connected to top Democrats.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/789WRB_4Lf4/biden-dhs-pick-mayorkas-intervened-democratic-connected-eb5-investors",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/789WRB_4Lf4/biden-dhs-pick-mayorkas-intervened-democratic-connected-eb5-investors",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/alejandro-Mayorkas-2-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-dhs-pick-mayorkas-intervened-democratic-connected-eb5-investors.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-pick-mayorkas-intervened-democratic-connected-eb5-investors.amp",
-      "publishedDateTime": "2020-11-24T08:13:41-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

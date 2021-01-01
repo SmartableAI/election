@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-29-how-suing-mike-pence-is-the-last-gasp-of-the-election-fraud-crowd.md",
+      "title": "How suing Mike Pence is the last gasp of the 'election fraud' crowd",
+      "excerpt": "And rather than just playing the ceremonial role of president of the Senate on January 6, Pence was empowered to choose which electors are \"legal,\" which, I suppose, would exclude the electors from states where President-elect Joe Biden won but Trump has falsely suggested there was fraud,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2020/12/29/politics/louie-gohmert-mike-pence-lawsuit/index.html",
+      "originalUrl": "https://www.cnn.com/2020/12/29/politics/louie-gohmert-mike-pence-lawsuit/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120140130-trump-pence-1113-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/29/politics/louie-gohmert-mike-pence-lawsuit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/louie-gohmert-mike-pence-lawsuit/index.html",
+      "publishedDateTime": "2020-12-29T02:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-biden-criticizes-pace-of-vaccine-rollout-vows-to-accelerate.md",
       "title": "Biden criticizes pace of vaccine rollout, vows to accelerate",
       "excerpt": "President-elect Joe Biden is criticizing the Trump administration for the pace of distributing COVID-19 vaccines, saying it is “falling far behind.”",
@@ -265,7 +322,7 @@
       "originalUrl": "https://www.cnbc.com/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 546,
+      "heat": 566,
       "tags": null,
       "images": [
         {
@@ -1280,62 +1337,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-26-trump-doubles-down-on-defense-bill-veto-calls-it-a-gift-to-china-russia-big-tech.md",
-      "title": "Trump doubles down on defense bill veto, calls it a 'gift to China, Russia & Big Tech'",
-      "excerpt": "President Trump on Saturday defended his veto of the National Defense Authorization Act, calling it a \"travesty\" and again claiming it is a \"gift\" to China, Russia and Big Tech companies.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3jft50dEGhc/trump-defends-vetoing-ndaa-china-russia-big-tech",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3jft50dEGhc/trump-defends-vetoing-ndaa-china-russia-big-tech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66f8d279-7265-46be-957f-0f4ae613b93f/5c98a9f4-bc2d-417f-9635-dda4351da6f9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-defends-vetoing-ndaa-china-russia-big-tech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-defends-vetoing-ndaa-china-russia-big-tech.amp",
-      "publishedDateTime": "2020-12-26T07:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

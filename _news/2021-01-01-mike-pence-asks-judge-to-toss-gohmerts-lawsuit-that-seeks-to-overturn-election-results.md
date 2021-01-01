@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4100416001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4100416001"
 type: article
 quality: 132
-heat: 392
+heat: 412
 published: true
 
 provider:
@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mike Pence wants Louie Gohmert's lawsuit against him over election dismissed: DOJ lawyers say"
+    excerpt: "Vice President Mike Pence, through the Justice Department, asked a federal court on Thursday to turn aside a lawsuit a Texas congressman filed against him seeking to empower Mr. Pence to overturn President-elect Joseph R."
+    publishedDateTime: 2020-12-31T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/31/mike-pence-wants-louie-gohmert-lawsuit-over-electi/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/31/mike-pence-wants-louie-gohmert-lawsuit-over-electi/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/31/mike-pence-wants-louie-gohmert-lawsuit-over-electi/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 79
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/22/Pence_40093.jpg-4ac9c_c0-152-3641-2275_s1200x700.jpg?415063eec54c2c7f34e92d9db04c815812bc28b2"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Pence asks judge to dismiss Rep. Gohmert’s lawsuit"
     excerpt: "Gohmert’s lawsuit is a last-gasp attempt by Republicans to persuade Pence to interfere in the declaration of President-elect Joe Biden’s victory and flip the election for President"
     publishedDateTime: 2021-01-01T00:44:00Z
@@ -234,6 +250,6 @@ related:
         height: 630
         isCached: true
 
-secured: "wBeGCE0fo6oX+IAbDV4j1l2WDKQeC17IN/VcBo3p+acNAInukbZJ4/rpgK9+W32GiMrkT6ftuDme/n7iLEDKytMOuGdqOfsD+8P6z6c4WHKQPiZD4zZL+rMuiddX9HjwTZZxf4IywJ4qmmpFnbJWYbVaSR9tktKMwrwYzjSKAEABNUhBrpFIzFvS24kkdOf6EVO8xq7SQphVbsujr0MvHNUCn4Zz4wGYZCedlfdtRfqnNns4blAOmfPa68LDrRBaduybsOggzWblc03EAZ6ombQgQOEBbROkfetv2Z8iwldFdF7PxfwZWE52/Vh9JTvwFaqWVZUWuD4D8ytjDWUErSLeQapdCxKU/cX9a1s5R4w=;DJRe6CgQ+k06/lMfKBpb2w=="
+secured: "qpROWjmJZLcyPqEfgcHL9uGwyzRF9CmduPCYLbW7HrjySuwLuz1bz9C499TjbE1fC18FeuaigUW96Hh2PGc1Kxf5w3XXSspZQVGolqYAqtjG2kEfK21aMHBN4Wq/G8nv/K8B+54/J+yj+eIJAqrGQzIFEEm4i70UUKtEESnY/zMxngnWyt3uEKK/8p2mipSJCVqLgJ3Ezm6jaIy+MhxmjleLFaGB0vxSYuT61plNFI2lyJvm1H8/MddKUasnaEpKXb4IBynC4/wmyK/yVe8Gh67iP/b4U7lPhcvPmKWvBw3Hl2seFWRxZnVCFRJQD4IIzpCekgjqyJ/NpzOQXgUeKy36XCGGavxpm64c8N3nlU2rNW2blMEe2P4dgjWgt/UO0yUsZ1BHzXEYOP96Daz04d7QNotW4bj4EFoNL4VbPh5cTNTyeSBXkuz0kSmTtvudqUvjvZvCScXTC/41eMbh4Ubi3VtbtsMPfrCn9oN+kpZlAR8B0SeHGaKdxLYq9Vd1mj393bVRMowmbNCJhEkTUA==;E7hJv4O14VwXCJUv0Bdj4w=="
 ---
 

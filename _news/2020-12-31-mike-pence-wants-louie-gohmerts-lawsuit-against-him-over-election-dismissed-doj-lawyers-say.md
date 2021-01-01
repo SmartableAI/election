@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Louie Gohmert sues Pence in far-fetched bid to overturn election results on Jan. 6"
-excerpt: "Rep. Louie Gohmert of Tyler is suing Vice President Mike Pence in an improbable bid to overturn President-elect Joe Biden’s victory. Gohmert and"
-publishedDateTime: 2020-12-28T20:36:00Z
-originalUrl: "https://www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/"
-webUrl: "https://www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/"
-ampWebUrl: "https://www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/?outputType=amp"
-cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/?outputType=amp"
+title: "Mike Pence wants Louie Gohmert's lawsuit against him over election dismissed: DOJ lawyers say"
+excerpt: "Vice President Mike Pence, through the Justice Department, asked a federal court on Thursday to turn aside a lawsuit a Texas congressman filed against him seeking to empower Mr. Pence to overturn President-elect Joseph R."
+publishedDateTime: 2020-12-31T00:00:00Z
+originalUrl: "https://www.washingtontimes.com/news/2020/dec/31/mike-pence-wants-louie-gohmert-lawsuit-over-electi/"
+webUrl: "https://www.washingtontimes.com/news/2020/dec/31/mike-pence-wants-louie-gohmert-lawsuit-over-electi/"
+ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/31/mike-pence-wants-louie-gohmert-lawsuit-over-electi/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/31/mike-pence-wants-louie-gohmert-lawsuit-over-electi/"
 type: article
-quality: 84
+quality: 79
 heat: -1
 published: false
 
 provider:
-  name: Dallas Morning News
-  domain: dallasnews.com
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/JhGbxKDWa215V-r3Lg0FdsT-nDU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/AHD73RRQY3BMTNRG6DKQ45VLPI.jpg"
+  - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/22/Pence_40093.jpg-4ac9c_c0-152-3641-2275_s1200x700.jpg?415063eec54c2c7f34e92d9db04c815812bc28b2"
     width: 1200
-    height: 630
+    height: 700
     isCached: true
 
 related:
@@ -155,21 +155,21 @@ related:
         width: 840
         height: 560
         isCached: true
-  - title: "Mike Pence wants Louie Gohmert's lawsuit against him over election dismissed: DOJ lawyers say"
-    excerpt: "Vice President Mike Pence, through the Justice Department, asked a federal court on Thursday to turn aside a lawsuit a Texas congressman filed against him seeking to empower Mr. Pence to overturn President-elect Joseph R."
-    publishedDateTime: 2020-12-31T00:00:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/31/mike-pence-wants-louie-gohmert-lawsuit-over-electi/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/31/mike-pence-wants-louie-gohmert-lawsuit-over-electi/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/31/mike-pence-wants-louie-gohmert-lawsuit-over-electi/"
+  - title: "Louie Gohmert sues Pence in far-fetched bid to overturn election results on Jan. 6"
+    excerpt: "Rep. Louie Gohmert of Tyler is suing Vice President Mike Pence in an improbable bid to overturn President-elect Joe Biden’s victory. Gohmert and"
+    publishedDateTime: 2020-12-28T20:36:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/?outputType=amp"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 79
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 84
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/22/Pence_40093.jpg-4ac9c_c0-152-3641-2275_s1200x700.jpg?415063eec54c2c7f34e92d9db04c815812bc28b2"
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/JhGbxKDWa215V-r3Lg0FdsT-nDU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/AHD73RRQY3BMTNRG6DKQ45VLPI.jpg"
         width: 1200
-        height: 700
+        height: 630
         isCached: true
   - title: "Pence asks judge to dismiss Rep. Gohmert’s lawsuit"
     excerpt: "Gohmert’s lawsuit is a last-gasp attempt by Republicans to persuade Pence to interfere in the declaration of President-elect Joe Biden’s victory and flip the election for President"
@@ -246,6 +246,6 @@ related:
         height: 630
         isCached: true
 
-secured: "mx/Tb7jluj0cgkF9LxjchFcXTwDSqnlEfUDLoLeexKaa8viedlUC9V7SyRrX6jqP4HgYql4hfie7GxaNv+eB05j/G6b6RmIlYeWm/l8wPvLr1AVYLtWvriyrpmv1Qorz50K2QF+s8SjhGNi/cBtEpCPW1g+8G6XYqYvNumewc204zgYhvbiV1g09JUDRUktPuQbRo6UyXQgUi6F/rF01CHs81AqHW5kgSM3yTi908Mb0sh/f90eoo/ih3wrZe3SKxfUMfNcrv3SewUvJTHmnpnrIblM3623bp0UhlvFQLC9qZ82aX/FihKBpAgaYU0vg6m+KgS4G9dJRycrejo08yY793if52CwVAbBXP1Q7kKMU1s4FJKz8jyZzu4A29Nuh0pKmezZA8HsYTrA7mSB3Tp2OmSa6fl+eFQZmUK1hw5pRcTpdD2Bak2d6veKsMxe1V/flpouxxHcljoBS2A5Ht/JqN20HM3X1McLAXslcMrpKbSA0WGv+rQ4gz4NxZxdS5rrJVq/4Zq5N2WfyAnbbEw==;mcJtCr1h0qZtZBRVmrGonw=="
+secured: "NC3ONg03rgYXiT4jybwBMKM1MSjpCKTgth8+DFBHX6l/FaBldppSVdYHL7HRdwuNtsPP7c6MBNJKbjtHi220iJQxKygxS/4k12Myht318g+GoiTsaZ/5z97uiRaGyl3wX0LBzHBmAONjYanEKMlObTDHq5FJY71gl0iTrNxpzCsSNSOYtW3LN99Iqxxbuj6fJd2JiT2AqHbWJJmK+aHTZmATFIRuE85QTymr4Tzwp8fAtzpfkb4k5H3Dn047DkFhx6RTOmdJtjY/DFOLzmAGVah4QA2YbDF+zF72S62lhqvTgiCV3Fz5zqvCko6Ppfa/MQRMTmNExblfuBe4wIfcaZ6oeIZNIJNNTorHRHnEsiA=;2b4TWd/UueroS45Kc65Xvg=="
 ---
 

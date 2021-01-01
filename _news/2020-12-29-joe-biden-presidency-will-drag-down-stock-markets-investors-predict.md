@@ -303,6 +303,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "President-Elect Joe Biden Hoping For A Better 2021: 'Let Us Unite, Rebuild In 2021'"
+    excerpt: "On the last day of 2020, President-elect Joe Biden shared an important message with the people of America on social media, saying that he is hoping for 2021 to be a better year fo"
+    publishedDateTime: 2021-01-01T01:13:00Z
+    webUrl: "https://www.ibtimes.com/president-elect-joe-biden-hoping-better-2021-let-us-unite-rebuild-2021-3112829"
+    ampWebUrl: "https://www.ibtimes.com/president-elect-joe-biden-hoping-better-2021-let-us-unite-rebuild-2021-3112829?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/president-elect-joe-biden-hoping-better-2021-let-us-unite-rebuild-2021-3112829?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 69
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/23/joe-biden-is-president-elect-despite-president-donald.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "User Clip: Joe Biden calls Kamala Harris 'president-elect'"
     excerpt: "President-elect Joe Biden makes a verbal gaffe during remarks in Wilmington, Del."
     publishedDateTime: 2020-12-29T22:29:00Z

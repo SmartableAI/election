@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Trump opens up federal dollars for private school vouchers amid pandemic"
-excerpt: "The White House said that the order would give states new flexibility in how they use federal block grant programs that provide money for a wide range of community services."
-publishedDateTime: 2020-12-29T01:24:00Z
-originalUrl: "https://www.politico.com/news/2020/12/28/trump-private-schools-pandemic-451757"
-webUrl: "https://www.politico.com/news/2020/12/28/trump-private-schools-pandemic-451757"
-ampWebUrl: "https://www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757"
+title: "The new center of Trump's political world: Palm Beach"
+excerpt: "The center of gravity for the MAGA universe is moving zip codes with President Donald Trump. In anticipation of Trump setting up permanent residence at his Mar-a-Lago resort in Palm Beach after leaving the White House in January,"
+publishedDateTime: 2021-01-01T01:13:00Z
+originalUrl: "https://www.politico.com/news/2020/12/31/trump-palm-beach-florida-453216"
+webUrl: "https://www.politico.com/news/2020/12/31/trump-palm-beach-florida-453216"
 type: article
-quality: 134
+quality: 115
 heat: -1
 published: false
 
@@ -26,7 +24,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/d2/36/af02c71045b48e9bd5687ed719b2/ap20066831578298-1.jpg"
+  - url: "https://static.politico.com/f9/d5/13463f924a329ab0342b54bbce08/201231-mar-a-lago-ap-773.jpg"
     width: 1160
     height: 773
     isCached: true
@@ -144,6 +142,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump opens up federal dollars for private school vouchers amid pandemic"
+    excerpt: "The White House said that the order would give states new flexibility in how they use federal block grant programs that provide money for a wide range of community services."
+    publishedDateTime: 2020-12-29T01:24:00Z
+    webUrl: "https://www.politico.com/news/2020/12/28/trump-private-schools-pandemic-451757"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 134
+    images:
+      - url: "https://static.politico.com/d2/36/af02c71045b48e9bd5687ed719b2/ap20066831578298-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "In reversal, Trump signs spending bill, unlocking Covid aid and averting shutdown"
     excerpt: "Pandemic unemployment benefits expired Sunday after the president delayed approving the bill and confusion reigned in Washington."
     publishedDateTime: 2020-12-28T07:30:00Z
@@ -160,21 +174,7 @@ related:
         width: 2500
         height: 1666
         isCached: true
-  - title: "The new center of Trump's political world: Palm Beach"
-    excerpt: "The center of gravity for the MAGA universe is moving zip codes with President Donald Trump. In anticipation of Trump setting up permanent residence at his Mar-a-Lago resort in Palm Beach after leaving the White House in January,"
-    publishedDateTime: 2021-01-01T01:13:00Z
-    webUrl: "https://www.politico.com/news/2020/12/31/trump-palm-beach-florida-453216"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/f9/d5/13463f924a329ab0342b54bbce08/201231-mar-a-lago-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
-secured: "ADdRDBctKlaT5YsNvQglnnaGgMbclsvSVjyg3QV6PF33wNcRP4PIZuypvvmi5BTpF6nPf3ttjwUsbrZN0Pp4m6c1KfTsFSi6B0RP1pQEPTwPYQQ32xQMAtaf2irs0CXdW2PSapZw9wiC05vsn2fZ0iZnzR+14avC1QOpTG81lvE7tTvPbBBH8qVEJI3iKYTSK4yjW1N6JQBFAXAH72RPSgVT1noBaI5evY1XXV55K980mxSAwP2i4YeDrK+9OCSWfQGkLqE6zuM6Mq+SG1L0PLmaU1549m10xTyhbE2xIZAr/cAZjfjUwiXPUgdjqDzXZKs9r06xGLWQsWZDyeHw2ANpZI1N0vGu0DrL17xx99c=;qTDR9y0hGuNGp7h9YaTMjw=="
+secured: "PKS6GjoYGHLD4utUnUeKah8ir530rnU855krGf+N0WPqXe8cU72j60kZet7vFHyNQVNjIzZk9mssUvKmwmRmGixAn1c6SxkaDPJ9qPTAZjK23OHAVbmvASN70S2tvWIi5XIy+99ymf5SLwP22cv1FLV2yIlUATCBqQFPCezTJwBZ8t0Wzvbd3rcDm8DQhlcg2j9WNkttNK5ciDsNmNIWz25VNlEhgPphTO9oZ0MkGb+KAJk433Q3lFehGyNUD/J/t2Fi6QouoCQahct5DcZn1ATRUSIdjsdvPMffmSUOWS6Rn+TKS9BWIhN4yuFr6l7Kt9Ltlq8BKfnvyYYUKfBpId7Lnq0LSUazVjY/RaGpMjE=;962mph3EdEMN4Gnt10qlxw=="
 ---
 

@@ -160,6 +160,20 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "The new center of Trump's political world: Palm Beach"
+    excerpt: "The center of gravity for the MAGA universe is moving zip codes with President Donald Trump. In anticipation of Trump setting up permanent residence at his Mar-a-Lago resort in Palm Beach after leaving the White House in January,"
+    publishedDateTime: 2021-01-01T01:13:00Z
+    webUrl: "https://www.politico.com/news/2020/12/31/trump-palm-beach-florida-453216"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/f9/d5/13463f924a329ab0342b54bbce08/201231-mar-a-lago-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "K6Lhjv3N3SNNdlYCASMrYaJI047Ufs00gyA2RZRYVUDHXkpXCw1/rLNcQw/2/olm0FG8TZ/U0yI5pV/8W/PVhCjdbPz1ayMawsQjMXVVFwEEb0zv/Q7ZwYHgUS0Gf8+/eKAfdQmgtGZ9jG6/VmVhtQNScmGn6KpLtWKtauJCdsKfIDb8s5sPB09DcbpgmAOI08yyIaFiQYpQ8QfeQuMW5i5gqzA48pa4bFeMJWuwhzDRi5ekL4RYvaFhiut4TSYoMkq3kVF1Y8LNiokvlC//bdIr/Qo67uul7h8Cth8hV4efTdSQYK5TEuxRC5tNrsSBjzUQ84pypWFW5h/EfGXQWHwrKTl5j6utuEU1SDpJc/TU/hD3vJvz1kqKnLbqg30geV00j2qOHv4TBBMSVCcjkWAGey/6E7dkEUJMrtUg5tL2VYCo8l0GJYzrpXB+jkJQRStjwKl2QXoUoZf7za70Dyc6WW7evDriP6dHt/G3kRah3aZS2lp28xoEVVJ7A1o11cgDtYt/2THASstQXSe91A==;ccocli2MmwK9fBiWblcm/g=="
 ---

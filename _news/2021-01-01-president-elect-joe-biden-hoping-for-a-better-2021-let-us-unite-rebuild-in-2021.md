@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Joe Biden's top foreign policy challenges in 2021"
-excerpt: "The top foreign policy challenges for President-elect Joe Biden's incoming team include China's assertiveness and rebuilding U.S. alliances."
-publishedDateTime: 2020-12-30T15:04:00Z
-originalUrl: "https://abcnews.go.com/International/joe-bidens-top-foreign-policy-challenges-2021/story?id=74607315"
-webUrl: "https://abcnews.go.com/International/joe-bidens-top-foreign-policy-challenges-2021/story?id=74607315"
-ampWebUrl: "https://abcnews.go.com/amp/International/joe-bidens-top-foreign-policy-challenges-2021/story?id=74607315"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/joe-bidens-top-foreign-policy-challenges-2021/story?id=74607315"
+title: "President-Elect Joe Biden Hoping For A Better 2021: 'Let Us Unite, Rebuild In 2021'"
+excerpt: "On the last day of 2020, President-elect Joe Biden shared an important message with the people of America on social media, saying that he is hoping for 2021 to be a better year fo"
+publishedDateTime: 2021-01-01T01:13:00Z
+originalUrl: "https://www.ibtimes.com/president-elect-joe-biden-hoping-better-2021-let-us-unite-rebuild-2021-3112829"
+webUrl: "https://www.ibtimes.com/president-elect-joe-biden-hoping-better-2021-let-us-unite-rebuild-2021-3112829"
+ampWebUrl: "https://www.ibtimes.com/president-elect-joe-biden-hoping-better-2021-let-us-unite-rebuild-2021-3112829?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/president-elect-joe-biden-hoping-better-2021-let-us-unite-rebuild-2021-3112829?amp=1"
 type: article
-quality: 125
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/biden-1-gty-er-201229_1609264991445_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/23/joe-biden-is-president-elect-despite-president-donald.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -94,6 +94,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe_121920getty_memo-left-biden.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Joe Biden's top foreign policy challenges in 2021"
+    excerpt: "The top foreign policy challenges for President-elect Joe Biden's incoming team include China's assertiveness and rebuilding U.S. alliances."
+    publishedDateTime: 2020-12-30T15:04:00Z
+    webUrl: "https://abcnews.go.com/International/joe-bidens-top-foreign-policy-challenges-2021/story?id=74607315"
+    ampWebUrl: "https://abcnews.go.com/amp/International/joe-bidens-top-foreign-policy-challenges-2021/story?id=74607315"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/joe-bidens-top-foreign-policy-challenges-2021/story?id=74607315"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-1-gty-er-201229_1609264991445_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden inauguration to feature memorial for COVID victims"
     excerpt: "President-elect Joe Biden is planning a lighting ceremony at the Lincoln Memorial Reflecting Pool to honor those killed by the coronavirus the day before he is sworn into office on Jan. 20"
@@ -303,22 +319,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "President-Elect Joe Biden Hoping For A Better 2021: 'Let Us Unite, Rebuild In 2021'"
-    excerpt: "On the last day of 2020, President-elect Joe Biden shared an important message with the people of America on social media, saying that he is hoping for 2021 to be a better year fo"
-    publishedDateTime: 2021-01-01T01:13:00Z
-    webUrl: "https://www.ibtimes.com/president-elect-joe-biden-hoping-better-2021-let-us-unite-rebuild-2021-3112829"
-    ampWebUrl: "https://www.ibtimes.com/president-elect-joe-biden-hoping-better-2021-let-us-unite-rebuild-2021-3112829?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/president-elect-joe-biden-hoping-better-2021-let-us-unite-rebuild-2021-3112829?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 69
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/23/joe-biden-is-president-elect-despite-president-donald.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "User Clip: Joe Biden calls Kamala Harris 'president-elect'"
     excerpt: "President-elect Joe Biden makes a verbal gaffe during remarks in Wilmington, Del."
     publishedDateTime: 2020-12-29T22:29:00Z
@@ -359,6 +359,6 @@ related:
         height: 683
         isCached: true
 
-secured: "jtxs6AB8Yq5VEegAdMceFuYP59PVEHaBS0IVrsCxMj3X8OsRwSEJpNgejgzrGrruc6mdWUJu/qbNL8fmFMglZ6459P360nbtWRJe7BpjgdalH06cv7PJOOfB352fdHLZM+FR6H6kCuqCLNHG56VI5hhHk5GKgu3oxMahmROLYJ7phjFsilemaCSZ3+Hv7KYoYtw58edwLLYBCnP46cW8wY3+NT+Kj9uxXDgNrbvl3Pr/lsolcqES/z3Asopu3yUi9WiD2B2bTnAxEKrXC6G+wKe3ClUswv4rVe72JrZnpVXil1/hzYqCX/j2hgXUzgU1D1IRtKiVVbkMFgWcydRoDSWBkXItilRf+xIGnnud1jI=;RJW6NmW5ppPyJ7VG5SgPgQ=="
+secured: "zAYo/5DMf3BzxhNoKpipGFhvNoIS7gwVFiPXT+GTnce82J6j58zIDd6bLm2nDDEhSn0Y1FbPwPIVSGuWCtwz1tI0GJU7QOOJVSW4cnL5WALdwMqIy7q4VaV/i+JNhGKG6p++DDEzjH/CBTBDUbDuM5bPJVms2AtN2tsDle+apinNMNnh8nzYKECB4w85LqGT7qyaii+WUoFZwABsPa2+4gCYj3nFsLYVuH4mBh5uEXm9C79uC8a1RV4fHWtJwAgSpLKwRFyM8jgSHffFj6NTWYt0mAnfxryV41omRnF/gL5snvwL+wNqh3RxvUbZ4gz6z9FsTf7cC9hW0Wwm2K4Vst+0ypSCfmLhKUaQTeWC5+I=;Rs09NvG6wnpb3Fuglw7ggA=="
 ---
 

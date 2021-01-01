@@ -155,6 +155,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mike Pence wants Louie Gohmert's lawsuit against him over election dismissed: DOJ lawyers say"
+    excerpt: "Vice President Mike Pence, through the Justice Department, asked a federal court on Thursday to turn aside a lawsuit a Texas congressman filed against him seeking to empower Mr. Pence to overturn President-elect Joseph R."
+    publishedDateTime: 2020-12-31T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/31/mike-pence-wants-louie-gohmert-lawsuit-over-electi/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/31/mike-pence-wants-louie-gohmert-lawsuit-over-electi/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/31/mike-pence-wants-louie-gohmert-lawsuit-over-electi/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 79
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/22/Pence_40093.jpg-4ac9c_c0-152-3641-2275_s1200x700.jpg?415063eec54c2c7f34e92d9db04c815812bc28b2"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Pence asks judge to dismiss Rep. Gohmert’s lawsuit"
     excerpt: "Gohmert’s lawsuit is a last-gasp attempt by Republicans to persuade Pence to interfere in the declaration of President-elect Joe Biden’s victory and flip the election for President"
     publishedDateTime: 2021-01-01T00:44:00Z
