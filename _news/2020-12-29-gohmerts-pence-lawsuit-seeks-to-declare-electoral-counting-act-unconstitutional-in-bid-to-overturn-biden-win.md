@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pence, House seek to dismiss Gohmert-GOP suit aimed at letting him overturn election"
+    excerpt: "The House of Representatives asked a federal judge in Texas on Thursday to dismiss a Republican congressman’s lawsuit seeking to give Vice President Mike Pence the power to decide which electoral votes to count when Congress meets on Jan. 6 to finalize November’s presidential election."
+    publishedDateTime: 2021-01-01T06:34:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWn1CHK2OLE/pence-house-seek-to-dismiss-gohmert-gop-suit-aimed-at-letting-him-overturn-election"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-house-seek-to-dismiss-gohmert-gop-suit-aimed-at-letting-him-overturn-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-house-seek-to-dismiss-gohmert-gop-suit-aimed-at-letting-him-overturn-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 193
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Gohmert-Pence-Split-.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Pence Seeks to Dismiss GOP Lawsuit Aiming to Let Him Overturn Election"
     excerpt: "Opposition to the lawsuit by the vice president and Justice Department deal another blow to weekslong Republican efforts to install President Trump for a second term."
     publishedDateTime: 2021-01-01T04:51:00Z
