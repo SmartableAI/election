@@ -2,14 +2,14 @@
 category: news
 title: "Biden inauguration events to include coronavirus victims vigil at Lincoln Memorial"
 excerpt: "President-elect Joe Biden’s plans to include a lighting ceremony honoring the more than 341,000 Americans who have died from the coronavirus as part of the events leading up to his inauguration."
-publishedDateTime: 2021-01-01T10:07:15Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h0R7RrDri-E/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h0R7RrDri-E/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial"
+publishedDateTime: 2021-01-01T10:21:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial"
+webUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial"
 ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp"
 type: article
-quality: 169
-heat: 169
+quality: 129
+heat: 129
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -30,6 +31,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1GwEK+800INGBcePi5UdNJEUZDsNw+1BphTYZ0WH2wksxnv4gJA1GVAn0NURoeX0dVfhNTHUc4I9luipSLv78IQbrXs2vNWj7NG/MuMfC1ST3FSk3n4NhkOuiFI/YXy+AWtByueZQnPmSlanpexAE9VlQHaYYoNr8oC1cgoIm8M7hyv0ZDricfho1j7Ipx+l9Je51PkyVL9YzWWB9WAe9+uBIeCsmmj7XrQD251+SawzFh/5nSn2JlWFFl5pl7P/4E9m409i6CjdW2K1KLbLzAxmcYyYt9/QTRLCiXdx+MAt/MZtZ+oAj3AzvFwPRpq+8D1KnL2Fziw3yOnmblWjEe0lolMNCvT7mOiXr8dCbcM=;+UYedsIdD7p5Cru556gVJg=="
+secured: "93BPEOf2yw/QLAFfFgH/l33f+4qBf3Mibilh9Et9gDlaO0OWhrtoP9mUs4gOlR1B/Y3PF7pPWvV/N4tl0sXZuTCzlDahE4HemPVBakA1ytUF157Nl8UFv7WemOHNVUzS/xptdcPgUWu0YXEwhLW5opkvhhuUMghMy/SxcC7YnEekMi7fHnk15o7ydOdWNgYiSRcAvhT6K+TvlLcSO6aicJqGKM1UH77uIgvitvgQmHP5ztXaTGVT3NURipu57YUsAJI5YkASslsMpKwBdADYvAxDaaK/4rSbB6vep2s90wBMm3Q9UXjTxrD7zA3NZP3Pw29YSGW/KdROq8XKBBLfPKB/iMkv673QHeWcbzN6Lzg=;IrcfcC0ggD72hRZZcoCAGA=="
 ---
 

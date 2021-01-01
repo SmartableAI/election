@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/29/house-republicans-jo
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
 type: article
 quality: 121
-heat: 161
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -31,38 +31,33 @@ images:
     isCached: true
 
 related:
-  - title: "Mnuchin’s loyalty to Trump could end with painful setback as president shreds stimulus deal"
-    excerpt: "Democrats and Republicans had thought Mnuchin was speaking for the president in negotiating the $908 billion pact, but Trump quickly called it a “disgrace.”"
-    publishedDateTime: 2020-12-26T19:21:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/?outputType=amp"
+  - title: "Trump vetoes Calif. fishing bill over seafood trade deficit"
+    excerpt: "President Donald Trump has vetoed a bill that would have gradually ended the use of large-mesh drift gillnets used exclusively in federal waters off the coast of California"
+    publishedDateTime: 2021-01-01T22:54:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/trump-vetoes-calif-fishing-bill-over-seafood-trade-deficit/2021/01/01/7506b35a-4c83-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/trump-vetoes-calif-fishing-bill-over-seafood-trade-deficit/2021/01/01/7506b35a-4c83-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/trump-vetoes-calif-fishing-bill-over-seafood-trade-deficit/2021/01/01/7506b35a-4c83-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 115
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GIKNNXUS4QI6VB5DELJSII2WGY.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Trump lashes out at ‘weak and tired’ Republican leaders after House votes to override his veto: ‘A disgraceful act of cowardice’"
-    excerpt: "President Donald Trump is lashing out at congressional Republicans after the House easily voted to override his veto."
-    publishedDateTime: 2020-12-29T20:33:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp"
+  - title: "U.S. Senate overcomes first hurdle to overriding Trump defense veto"
+    excerpt: "The U.S. Senate on Friday moved toward an override of President Donald Trump's veto of a $740 billion defense policy bill in a rare New Year's Day procedural vote."
+    publishedDateTime: 2021-01-01T18:56:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-senate-idUSL1N2JC0B3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JC0B3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JC0B3"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 96
-    images:
-      - url: "https://www.chicagotribune.com/resizer/ErIEyMj5FnfbO54lqyCIIZcV0yk=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/FA5WMDJ3UZDNLK6CF66LMW4YYU.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 105
 
 secured: "L9N6Tqll+7EjKH0K9Kq/zbZmLHinKTXaAlOzOL2SNKvdFeHE944VMxlsXMDrKVVJjzzJufO8rw4gZpfh6VVusiJof4rpsrdazzZj1GfJBSEvNGVznBwMpmBEWzEmQD8RsGit41wpvxefXima2kPj0TlSOQ/5JXHMXettVy1TQcWec7C3cdDsU0ZZMwf4ShBriMJBwS8XbxogbbKmn8+WI3Ha/rWAKEtSPw+lP745yQANPTuEfd9npebYrJhdAqXPFeo+QQDaMXJoraMyL3FTddGuVDVCGF2o/JfP4VuHsp78NQ+gJj2DnaRxAyVUprhbbADUPByFaGh/kvub5ou3qEwzrqhvbkhfcAqHImaIV9LlueqLQlr4+dntFGTOz2oJOyxIDsURD0l30gnsbQKp8zpXffOxNHPULuMTfdQlFonKyoqoszWdyOorWXyFlzCNBq6KN1UvyaNEZKliyxN0epMm3TxBbLrxuZmb/Zvw1uljDw34k9tFXirXdwjtlgSckpV102T8q9CfHbXBGH5E3g==;dNjv6F3w8xYZEGF7tNxepg=="
 ---

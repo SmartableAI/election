@@ -427,6 +427,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "No Reason Given for Trump Cutting Short His Florida Vacation"
+    excerpt: "President Donald Trump is cutting short his Florida vacation and will be returning to Washington on Thursday, a day earlier than originally expected."
+    publishedDateTime: 2021-01-01T22:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "5HWdngIDD1yahI1TuQnI+PSnJhrCRs4JsPKiVCNDCKWRi2tihzAH0/8ZZEBXEDtCdbL2DmZhLE5ozRjUnDRDCq52ptjxUvz2BiD12G7/X7itz1XLv1nMko5oPwJalLIorQtfIhoX0yhPJJn+ewTE+RruwIW2DhlUfqMu4/ikB2BZx4g04KnZn6yvVWSRRurfaFITepwckXMxtivbRD/rhOzU2oUloMe8E899vhvcLxLvlXqV/69flNeU8QHbr0752zQzUuHumka+fD3qK7yLNmCYFmuHYcstthGujM1qDoxsz9E/HNGBiFKNtfOzfr+RvM6UD+CTf7q4uTK6ZhDRrAi40zYsUkkqVvt8jc76GBo=;bbh0eDSbophWD8QpAnEZpA=="
 ---

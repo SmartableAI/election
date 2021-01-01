@@ -25,35 +25,37 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Convicted spy Jonathan Pollard arrives in Israel in latest Trump parting gift"
-    excerpt: "Israeli Prime Minister Benjamin Netanyahu welcomed the former U.S. Navy analyst and his wife, Esther, with a celebratory Jewish prayer."
-    publishedDateTime: 2020-12-30T06:21:00Z
-    webUrl: "https://www.washingtonpost.com/world/middle_east/pollard-israel-spy-trump-netanyahu/2020/12/30/76a52f38-4a59-11eb-97b6-4eb9f72ff46b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/middle_east/pollard-israel-spy-trump-netanyahu/2020/12/30/76a52f38-4a59-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/middle_east/pollard-israel-spy-trump-netanyahu/2020/12/30/76a52f38-4a59-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+  - title: "Trump vetoes Calif. fishing bill over seafood trade deficit"
+    excerpt: "President Donald Trump has vetoed a bill that would have gradually ended the use of large-mesh drift gillnets used exclusively in federal waters off the coast of California"
+    publishedDateTime: 2021-01-01T22:54:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/trump-vetoes-calif-fishing-bill-over-seafood-trade-deficit/2021/01/01/7506b35a-4c83-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/trump-vetoes-calif-fishing-bill-over-seafood-trade-deficit/2021/01/01/7506b35a-4c83-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/trump-vetoes-calif-fishing-bill-over-seafood-trade-deficit/2021/01/01/7506b35a-4c83-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 122
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ORA2GDSKMYI6XKPUBZTIXF3SXI.jpg&w=1440"
-        width: 1440
-        height: 1119
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "In Late Trump Salvo, US Rejects UN Budget Over Israel, Iran"
-    excerpt: "President Donald Trump's outgoing administration on Thursday fired a late salvo against the United Nations by voting against its budget, citing disagreements on Israel and Iran, but it found virtually no international support."
-    publishedDateTime: 2020-12-31T19:33:00Z
-    webUrl: "https://www.ibtimes.com/late-trump-salvo-us-rejects-un-budget-over-israel-iran-3112727"
+  - title: "House Republicans join with Democrats to override Trump's veto of defence bill"
+    excerpt: "If, as expected, the Senate follows suit later this week, it will be Congress’s first such rebuke of his presidency"
+    publishedDateTime: 2020-12-29T06:36:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/31/kelly-craft-seen-here-in-september-has-voted.jpg"
-        width: 1024
-        height: 682
+      - url: "https://i.guim.co.uk/img/media/f5683752a5a505c0492063d2d1dd1d7e1f59b149/0_135_4043_2425/master/4043.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=744285010e354a8f4bb804c744576b66"
+        width: 600
+        height: 360
         isCached: true
 
 secured: "MQ/UHo4W1guDuiCnZEqPGR8fh3Ik1q01jIQfRMQVSIuXSUYkGJ8D1cGEFTg+p4FeBWltMoqDRO6qW2nsr/7KGWIQ2Tg9z22y3rTgXvGESW5DkbzqNcbLTWpxtOqpvo7HYWDFHY/O6Dl6Kc2TBj5re6poIwfNB/KV6eLIJNn4TSbaUF0K788w25ZFQz6kzo9llQMRJrLG+AZAxsEd0EDabpZRgqKFBpoD+mc4+Cot/+patkA4bhVFG3Y7oO57hov+PltvEzElr4+72zWTRmUCPYkIWl2Tbo1N1ahNW+MNy4hOLoofagLr695CNoBQfGtDnDLds886UzFFdZSTjYSGBYEFW/hFOLkyv+X+UeCgoSI=;9+VCtBVsTMh9cPf7iD1JPA=="

@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Alert: Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency"
+    excerpt: "Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency."
+    publishedDateTime: 2021-01-01T13:36:00Z
+    webUrl: "https://www.chron.com/news/article/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 54
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "2WxHNW1m70ylq36JHVw6KOMYoMyNQ3oWCZl/HHn0lnLfgjSDuhNVpvUCj1ssOFkhW57JkpQAGm7BQ2K5jZZMbPrh9ax3n8l1Z4soxyAjGxG1MV+UKBiFChwWl0c5fa9oT/1w2l3bE8VluzBqf8u6Xb08alLunxjpCgAYvvdEHKH4aQH8S566AribMU2b+i2HsRn9LEydtGjoRCKhfUNagvN2zBXrKjznCFYY+fY78dDjbXWshCE3M3khihTzWE0oP0A2FFxnIhCI/yl43U9Dy+sK16vyzxXDkUNuu4pFheWnWZWUnW8VaVf+48HcbhxQph/IVQ4J8lBKuqHMgVl1YAFoIIN1IjuVadarpUvukuw=;bxhtUXExGP7wwYEYo4c8fw=="
 ---

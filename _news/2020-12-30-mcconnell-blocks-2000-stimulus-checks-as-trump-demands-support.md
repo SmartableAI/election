@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The stimulus bill holdup was just another Trump show"
+    excerpt: "Trump signs stimulus bill to avert shutdown”: In the end, it was just another Trump show. Millions lost a week of unemployment benefits. Many more felt the anxiety of unpaid bills and facing eviction from their homes."
+    publishedDateTime: 2021-01-01T22:07:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/the-stimulus-bill-holdup-was-just-another-trump-show/2020/12/30/724e1eac-4948-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/the-stimulus-bill-holdup-was-just-another-trump-show/2020/12/30/724e1eac-4948-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/the-stimulus-bill-holdup-was-just-another-trump-show/2020/12/30/724e1eac-4948-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JBIWBCCFNEI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 1009
+        isCached: true
   - title: "Trump signs pandemic aid and spending bill, averting government shutdown"
     excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a federal government shutdown in a crisis of his own making."
     publishedDateTime: 2020-12-28T08:47:00Z

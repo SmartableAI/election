@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/01/donald-trump-preside
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "Alert: Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency"
+    excerpt: "Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency."
+    publishedDateTime: 2021-01-01T13:36:00Z
+    webUrl: "https://www.chron.com/news/article/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 54
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "TYWZlvn4TtTgUaN3N1Et0RCJ4WYQ0wQe+jUKqBkb9XXi5dB5YC55EuqRisJIUsEAaXR532Kol6dFWbG59F5vcVizQ6BT/CnUWGEAAVC14ct6rdxLksinBHZUnkm5HsJ4+MdruWajIHn46IdIQPy0zHRvCWomGNVUOIoCotx0El5Nq7POL4zVD0HjPpbEvx/nWAwQ2JrRxNPlIAucVooWssKTMmu2HtjkgkOAJ9vz3C/umzlPtrYLwGFpkFhqZzkqc+R3HUUsHNCioQTo8ZFPulY5Hxuhv1/86FuhnwAa//Q9BarSXaOM1XbYgxuFXoJ2Xd0i4b33zP0OdJKOAfqoycou+QKIdww+ea1+j3sTINA=;6pG7rZgj3Ydh0yL6l4pCnA=="

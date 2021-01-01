@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-flori
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
 type: article
 quality: 125
-heat: 625
+heat: 645
 published: true
 
 provider:
@@ -427,6 +427,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "No Reason Given for Trump Cutting Short His Florida Vacation"
+    excerpt: "President Donald Trump is cutting short his Florida vacation and will be returning to Washington on Thursday, a day earlier than originally expected."
+    publishedDateTime: 2021-01-01T22:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "ys8vC60x2HB+hgM6MmBOC8d1Tb9PaRKaeQZcrULEfYzpvgqdpBvljsJ2zZXhJ7H3czp3jySKa/68NE1FOKY9irDRSI5L8lph+OfXH26YUSv0IvEAzxkmxi/N1ZDZ64hmoPwj1GxG/BTYcmRsEnZfv0NoqyhVg+/xUZfW1ViJaZgnsOKlFGPjGHxX/kdYJ+vkOtSKhysdi84Du17yOHjpHMNsgofdMng0D2D1U8YPiVBm8SO8by0X2xq8OffgjRs81X5lpotx1RIzi4URW/cBiLOoBDVVxItvNZm8SyVjKiksXXhFJD32kNXI5sgxB4DOenamc4+tsSKvrE3+EdqhY2sHejlfUXCrMa8+AwhTbpYZ4OuJaxjVf459jt7+jC0wvBR1VyEdb9S74nOUQIHhnV0BTxXCLHlpV4XrhToWhCH5e6iQgBQVIbbjkWqZLYrJtkgj7bDyifuCdikhe2qsYFUeB5CS6KZeJA11XYwlvSj2a5wVR5622GCih+T3liO9sb/qPtKqM8ZyKcjU6T4Zgg==;mFsaUYOH063XdCKxx19oXA=="
 ---

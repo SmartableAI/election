@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The stimulus bill holdup was just another Trump show"
+    excerpt: "Trump signs stimulus bill to avert shutdown”: In the end, it was just another Trump show. Millions lost a week of unemployment benefits. Many more felt the anxiety of unpaid bills and facing eviction from their homes."
+    publishedDateTime: 2021-01-01T22:07:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/the-stimulus-bill-holdup-was-just-another-trump-show/2020/12/30/724e1eac-4948-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/the-stimulus-bill-holdup-was-just-another-trump-show/2020/12/30/724e1eac-4948-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/the-stimulus-bill-holdup-was-just-another-trump-show/2020/12/30/724e1eac-4948-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JBIWBCCFNEI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 1009
+        isCached: true
   - title: "Alternative facts, witch-hunt, bigly: the Trump era in 32 words and phrases"
     excerpt: "His rally speeches and manic Twitter feed conjured new slogans and insults or revived incendiary words"
     publishedDateTime: 2020-12-28T13:53:00Z

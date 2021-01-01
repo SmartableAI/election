@@ -50,6 +50,22 @@ related:
         width: 3000
         height: 2056
         isCached: true
+  - title: "Joe Biden, Jill Biden to give interview on 'New Year's Rockin' Eve'"
+    excerpt: "President-elect Joe Biden and Jill Biden will appear Thursday on the \"Dick Clark's New Year's Rockin' Eve\" special."
+    publishedDateTime: 2020-12-30T14:19:00Z
+    webUrl: "https://www.upi.com/Entertainment_News/TV/2020/12/30/Joe-Biden-Jill-Biden-to-give-interview-on-New-Years-Rockin-Eve/9381609336417/"
+    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2020/12/30/Joe-Biden-Jill-Biden-to-give-interview-on-New-Years-Rockin-Eve/9381609336417/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2020/12/30/Joe-Biden-Jill-Biden-to-give-interview-on-New-Years-Rockin-Eve/9381609336417/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/9381609336417/2020/upi/35ba2dea73fadc3b6f0429ce1e19ecdd/v1.5/Joe-Biden-Jill-Biden-to-give-interview-on-New-Years-Rockin-Eve.jpg?lg=2"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Joe and Jill Biden to appear on 'Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2021'"
     excerpt: "President-elect Joe Biden and soon-to-be First Lady Jill Biden will appear on “Dick Clark’s New Year’s Rockin’ Eve\" for their final interview of 2020."
     publishedDateTime: 2020-12-31T04:07:00Z

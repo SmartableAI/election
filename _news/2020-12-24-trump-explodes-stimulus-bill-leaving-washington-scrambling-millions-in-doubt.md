@@ -222,6 +222,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump rips ‘Pathetic!!!’ Senate GOP for blocking $2,000 checks"
+    excerpt: "Our Republican Senate just missed the opportunity to get rid of Section 230, which gives unlimited power to Big Tech companies. Pathetic!!!” Trump tweeted."
+    publishedDateTime: 2021-01-01T22:10:00Z
+    webUrl: "https://nypost.com/2021/01/01/trump-rips-pathetic-senate-gop-for-blocking-2k-checks/"
+    ampWebUrl: "https://nypost.com/2021/01/01/trump-rips-pathetic-senate-gop-for-blocking-2k-checks/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/01/trump-rips-pathetic-senate-gop-for-blocking-2k-checks/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/trump-senate.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Shutdown averted as Trump signs Covid bill, vows to push for $2G checks from Congress"
     excerpt: "Trump signs Covid bill, averts shutdown, will continue to push for $2G checks from Congress Five days after calling the coronavirus bill a \"disgrace,\" President Trump signed the massive $900 billion COVID-19 relief and $1."
     publishedDateTime: 2020-12-28T10:19:00Z

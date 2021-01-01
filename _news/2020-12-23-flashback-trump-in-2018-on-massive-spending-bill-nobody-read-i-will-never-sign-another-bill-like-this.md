@@ -205,6 +205,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump rips ‘Pathetic!!!’ Senate GOP for blocking $2,000 checks"
+    excerpt: "Our Republican Senate just missed the opportunity to get rid of Section 230, which gives unlimited power to Big Tech companies. Pathetic!!!” Trump tweeted."
+    publishedDateTime: 2021-01-01T22:10:00Z
+    webUrl: "https://nypost.com/2021/01/01/trump-rips-pathetic-senate-gop-for-blocking-2k-checks/"
+    ampWebUrl: "https://nypost.com/2021/01/01/trump-rips-pathetic-senate-gop-for-blocking-2k-checks/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/01/trump-rips-pathetic-senate-gop-for-blocking-2k-checks/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/trump-senate.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Trump explodes stimulus bill, leaving Washington scrambling, millions in doubt"
     excerpt: "President Trump sat out the first four quarters and then dropped a bomb in overtime, threatening to blow up the Christmas package that Congress had finally cobbled together to ease the pain of the pandemic."
     publishedDateTime: 2020-12-24T08:12:00Z
