@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pence Seeks to Dismiss GOP Lawsuit Aiming to Let Him Overturn Election"
+    excerpt: "Opposition to the lawsuit by the vice president and Justice Department deal another blow to weekslong Republican efforts to install President Trump for a second term."
+    publishedDateTime: 2021-01-01T04:51:00Z
+    webUrl: "https://www.wsj.com/articles/pence-seeks-to-dismiss-gop-lawsuit-aiming-to-lethim-overturn-election-11609458671?mod=hp_listb_pos2"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pence-seeks-to-dismiss-gop-lawsuit-aiming-to-lethim-overturn-election-11609458671"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pence-seeks-to-dismiss-gop-lawsuit-aiming-to-lethim-overturn-election-11609458671"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-279934/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "5//0cLXITf9f/FP/6BMdzW9ufWQymynISFZEuFwzgSsRutrGroRM1iFzM3galE/9cOUJGOjWJNhct/jV5ZNikS3e5V2tUIFbC6oXHdK4pmoFLTXQn04IoIN8fTvPEglFhTQzo3S85MOyTcdbsUlAehSIT7dhbmJZVubdIebxLwN8B4l7DBAg2hI9q7LatgmB5kyAIZdzStnLJURMtJj4agsC7M1pwz5zrFT/Hyr3pr4fsA2/AbeIvV9T5ThAjfQdUfdPcK2MEGW4sqa5p27GvVENt3vyanGSqeW3/J9ddfeWWZiser1zLujOHuMMcKN0Jk17K4zAQTPtSfLqYOU3ezM92EoBPQUaQ4FaS7SzFLATo8yrr2Gljv6L1RdrrizX7l0fRiRKGOSoYjRjCJLk3GbboJrZ4vE/eXj7yj9guTeAEKyYRzktsjnfSrfGnP/gTqwFn7T3LvUdgnk7aUYbiMv7regsLBwI40jHA0fm2HsZjpvLkpOlDluinNyVUSZvbBFUis5qtZoRCNPZqUc3Dw==;CKxkoOBVqpEMmYvqsHNyCA=="
 ---

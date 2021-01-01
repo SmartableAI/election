@@ -1,0 +1,70 @@
+---
+category: news
+title: "Pence Seeks to Dismiss GOP Lawsuit Aiming to Let Him Overturn Election"
+excerpt: "Opposition to the lawsuit by the vice president and Justice Department deal another blow to weekslong Republican efforts to install President Trump for a second term."
+publishedDateTime: 2021-01-01T04:51:00Z
+originalUrl: "https://www.wsj.com/articles/pence-seeks-to-dismiss-gop-lawsuit-aiming-to-lethim-overturn-election-11609458671?mod=hp_listb_pos2"
+webUrl: "https://www.wsj.com/articles/pence-seeks-to-dismiss-gop-lawsuit-aiming-to-lethim-overturn-election-11609458671?mod=hp_listb_pos2"
+ampWebUrl: "https://www.wsj.com/amp/articles/pence-seeks-to-dismiss-gop-lawsuit-aiming-to-lethim-overturn-election-11609458671"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pence-seeks-to-dismiss-gop-lawsuit-aiming-to-lethim-overturn-election-11609458671"
+type: article
+quality: 150
+heat: -1
+published: false
+
+provider:
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Mike Pence
+  - Republican Voice
+
+images:
+  - url: "https://images.wsj.net/im-279934/social"
+    width: 1280
+    height: 640
+    isCached: true
+
+related:
+  - title: "Pence did not back lawmaker plan to overturn election results: lawyers"
+    excerpt: "Attorneys representing Rep. Louie Gohmert, R-Texas, and the slate of Republican electors from Arizona indicated in a court filing that Vice President Mike Pence did not agree with their position that Pence could choose between counting the electoral votes of Democrats or Republicans from states where"
+    publishedDateTime: 2020-12-30T13:13:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x1TOc836deA/pence-refusal-gohmert-overturn-election-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-refusal-gohmert-overturn-election-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-refusal-gohmert-overturn-election-lawsuit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd218746-666b-499a-9bdc-4477e8ecc43e/83ac662e-0ac7-4e5a-a4d4-fb5c95f17081/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Gohmert's Pence lawsuit seeks to declare Electoral Counting Act unconstitutional in bid to overturn Biden win"
+    excerpt: "Rep. Louie Gohmert, R-Texas, is making a last-ditch effort to change the result of the 2020 presidential election by suing Vice President Mike Pence with the aim of having him declare President Trump the victor when he announces the winner of the electoral college vote on Jan."
+    publishedDateTime: 2020-12-29T14:36:00Z
+    webUrl: "https://www.foxnews.com/politics/gohmert-sues-pence-overturn-biden-win"
+    ampWebUrl: "https://www.foxnews.com/politics/gohmert-sues-pence-overturn-biden-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gohmert-sues-pence-overturn-biden-win.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f8daa921-8009-4260-80a6-e2bd33f611bc/bc19624d-2c91-4762-8a1b-d09bc9c7f7ac/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "AheCrv/UhTe7z5im21lM0Fg+kco7JvPgkAOw/YkvdHp+X0EHiBOqcDngfYldGUl9HrF4ltG8fVryA+DkOcuN4xQZLYW9W0OjY8RsvzMqJkdU7IikAx0X6iEnZwW+pYewKyewPFv4smbgxa3Q0Ois6OHfj00eZ9Zwh4SgrqK+Z/JWsgyOHmgF3f7rVD95mQZQpwCskkdjY8oyrJXMbCAZBaXQ+svtXeUeHLJsPFsOWo8J6n8TxRrXSeaE0goeP2zD41/mdG3yFRfNEfBDRjNZglBHTnTcG/DpYqW/EMa9yi54M0YPqWtExeMe9UvAVwPRT80GCc5iE++MtK7r7h8zlF2OPH8HkiPaFF9qkhdiKPo=;6dZK2ErUrL6F8EMltBdvPQ=="
+---
+
