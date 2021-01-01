@@ -95,28 +95,23 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump returns to White House early, offers year-end message"
-    excerpt: "President Donald Trump has delivered a year-end video message after returning early from vacation, highlighting his administration’s work to rapidly develop a vaccine against COVID-19 and rebuild the"
-    publishedDateTime: 2020-12-31T21:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-returns-white-house-early-offers-year-end-74995134"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-returns-white-house-early-offers-year-end-74995134"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-returns-white-house-early-offers-year-end-74995134"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4073d224c3744c128d16d0fbafee82cc_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Census Bureau to miss deadline, jeopardizing Trump plan"
     excerpt: "The Census Bureau plans to announce it will miss a year-end deadline for handing in numbers used for divvying up congressional seats. That delay could undermine President Donald Trump’s efforts to exclude people in the country illegally from the count if the figures aren’t turned in before President-elect Joe Biden takes office."
     publishedDateTime: 2020-12-31T11:16:00Z
     webUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12"
     ampWebUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump returns to White House early, offers year-end message"
+    excerpt: "WASHINGTON (AP) — President Donald Trump delivered a year-end video message Thursday after returning early from vacation, highlighting his administration’s work to rapidly develop a vaccine against COVID-19 and rebuild the economy."
+    publishedDateTime: 2021-01-01T12:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-returns-to-white-house-early-offers-year-end-message-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-returns-to-white-house-early-offers-year-end-message-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-returns-to-white-house-early-offers-year-end-message-2020-12?amp"
     type: article
     provider:
       name: Business Insider

@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Trump returns to White House early, offers year-end message"
-excerpt: "President Donald Trump has delivered a year-end video message after returning early from vacation, highlighting his administration’s work to rapidly develop a vaccine against COVID-19 and rebuild the"
-publishedDateTime: 2020-12-31T21:20:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-returns-white-house-early-offers-year-end-74995134"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-returns-white-house-early-offers-year-end-74995134"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-returns-white-house-early-offers-year-end-74995134"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-returns-white-house-early-offers-year-end-74995134"
+excerpt: "WASHINGTON (AP) — President Donald Trump delivered a year-end video message Thursday after returning early from vacation, highlighting his administration’s work to rapidly develop a vaccine against COVID-19 and rebuild the economy."
+publishedDateTime: 2021-01-01T12:23:00Z
+originalUrl: "https://www.businessinsider.com/trump-returns-to-white-house-early-offers-year-end-message-2020-12"
+webUrl: "https://www.businessinsider.com/trump-returns-to-white-house-early-offers-year-end-message-2020-12"
+ampWebUrl: "https://www.businessinsider.com/trump-returns-to-white-house-early-offers-year-end-message-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-returns-to-white-house-early-offers-year-end-message-2020-12?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_4073d224c3744c128d16d0fbafee82cc_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Global stocks advance after Trump signs $900B aid package"
@@ -186,6 +180,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "6jN3PbL2G3H5fDY6qf3lNvGujLAry78i7dZWhHDRQv+1/w89wFhFYmn9cABc0WJh+/9zm40Skx7kSAaBJxDN9QGf6hWPtsxBtsIDzhG5hZJnsu5z9yawhMNZlCXyHMIfLNAdZDRv0ouzjePd0uj1FuR6hyGcyhM7O6Z/KbqAQw0H5MdRlMNqYmvTVIvtQ1N07u9O+ToYgOh+XgokOHI7eUKhSPDU09gyDnT92QW0iehEtrGx8xKPfgANm1SoNcCRTVLPuxPo3coDFttGP7ASbQ8jkQ6PaujVIrrP+eWWYs43G3A71E9TyZ6dr4heCEf5A+TX4pCIHbrX1HXTWHQNdo7QsP/fdbuZqNoivvXmpyrxSqzBjmuHIVMzQW40XGL7C3JtARiClEbFLBnphHsKYi41z6ehS8ZBEZDT9ftKCToyOkxlzf23r7uQXS5RfpfWJWZEzodzq3KZW8AafZ9AF6LhDRd0HxXlLWbIJ3WQBJIk3c7SQkUT0AyJwXUwqMFo6PYIccnuWy3mQi3QXqa+XQ==;cp1oxZH+NZy5PBNwgXA/aA=="
+secured: "JMaqHJGxNIcoDdE72JhdpfVOvWzSTxJ3G/SigWHmBBJBUnJSqvh+Ca4LurthA/Ak2HL0SZnEeQFCFuapWRuSMIr8//iIQrTz/UINETyPXHh0BESaoZkMq+GiouQ5sqgOwPUQJpWyAnnc3DYWxEXaHfgjJtlFHuB3VnKVQgzxrzREOLaqB59GzlP4VO8oZJOkk7lOGBf/fFueGZuQhUOtUVtozIg9oY1VmqkzuQtZgKMIyFFHAqjhhiNrRM3EfbpI9c+ZlzDTWAm2flDNwg16nXcH1Mz+NQhmZQ5MQbHTIRpVJmTuhdjx4FzPueOxoXyp8BgdKDz5rYi8xAdEO1CvOC0rXUJX07i+/GHFOGWFhc8=;jhdqGrXpXMEWItbywNsVhA=="
 ---
 

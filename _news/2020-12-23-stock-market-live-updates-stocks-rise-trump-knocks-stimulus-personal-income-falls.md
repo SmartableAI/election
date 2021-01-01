@@ -93,22 +93,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump returns to White House early, offers year-end message"
-    excerpt: "President Donald Trump has delivered a year-end video message after returning early from vacation, highlighting his administration’s work to rapidly develop a vaccine against COVID-19 and rebuild the"
-    publishedDateTime: 2020-12-31T21:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-returns-white-house-early-offers-year-end-74995134"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-returns-white-house-early-offers-year-end-74995134"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-returns-white-house-early-offers-year-end-74995134"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4073d224c3744c128d16d0fbafee82cc_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Congress passes $900 billion 'historic bipartisan rescue package' that now heads to Trump for approval"
     excerpt: "After weeks of painstaking negotiation and months of partisan finger-pointing, the Senate resoundingly passed a sweeping COVID-19 relief package Monday, sending a bill to President Donald Trump to sign that will send millions of Americans direct payments and rescue thousands of small businesses nationwide struggling to stay open in the face of the pandemic's suffocating grip."
     publishedDateTime: 2020-12-22T11:16:00Z
@@ -131,6 +115,17 @@ related:
     webUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12"
     ampWebUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump returns to White House early, offers year-end message"
+    excerpt: "WASHINGTON (AP) — President Donald Trump delivered a year-end video message Thursday after returning early from vacation, highlighting his administration’s work to rapidly develop a vaccine against COVID-19 and rebuild the economy."
+    publishedDateTime: 2021-01-01T12:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-returns-to-white-house-early-offers-year-end-message-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-returns-to-white-house-early-offers-year-end-message-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-returns-to-white-house-early-offers-year-end-message-2020-12?amp"
     type: article
     provider:
       name: Business Insider

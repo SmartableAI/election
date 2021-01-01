@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Covid: Biden urges Trump to sign coronavirus bill into law"
-excerpt: "US President-elect Joe Biden has warned of \"devastating consequences\" if President Donald Trump continues to delay signing a Covid-19 economic relief bill into law. Unemployment benefits and a ban on evictions will be affected unless the bill is signed by the end of Saturday."
-publishedDateTime: 2020-12-26T22:06:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-55454720"
-webUrl: "https://www.bbc.com/news/world-us-canada-55454720"
-ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55454720"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55454720"
+title: "Trump-Biden transition live updates: Trump back at WH, Biden plans COVID memorial"
+excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 20 days. Russ Vought, the current director of the Office of Management and Budget, struck back at President-elect Joe Biden's transition team one day after it leveled allegations that Trump's OMB was hindering the incoming team."
+publishedDateTime: 2021-01-01T02:29:00Z
+originalUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74922408"
+webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74922408"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74922408"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74922408"
 type: article
-quality: 140
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/696A/production/_116268962_gettyimages-1230097563.jpg"
-    width: 1024
-    height: 576
+  - url: "https://s.abcnews.com/images/Politics/trump2-01-gty-iwb-201231_1609441395060_hpMain_16x9_1600.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -78,6 +78,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/22/a20c9f88-aaab-4ae1-8d99-a4a205c60d1a/thumbnail/1200x630g2/423a5e0094b3b5fef22168cdd073de70/gettyimages-1230220167.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Covid: Biden urges Trump to sign coronavirus bill into law"
+    excerpt: "US President-elect Joe Biden has warned of \"devastating consequences\" if President Donald Trump continues to delay signing a Covid-19 economic relief bill into law. Unemployment benefits and a ban on evictions will be affected unless the bill is signed by the end of Saturday."
+    publishedDateTime: 2020-12-26T22:06:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55454720"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55454720"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55454720"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/696A/production/_116268962_gettyimages-1230097563.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Biden: Trump aides setting 'roadblocks' for his transition team"
     excerpt: "President-elect Joe Biden said on Monday many of America's security agencies had been \"hollowed out\" under President Donald Trump and the lack of information being provided to his transition team by the outgoing administration was an \"irresponsibility."
@@ -158,22 +174,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/297ec54/2147483647/strip/true/crop/3666x2394+0+235/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4d%2F1e%2F7457d0074fccb5d94d4db8604eae%2Fgettyimages-530730748.jpg"
         width: 320
         height: 209
-        isCached: true
-  - title: "Trump-Biden transition live updates: Trump back at WH, Biden plans COVID memorial"
-    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 20 days. Russ Vought, the current director of the Office of Management and Budget, struck back at President-elect Joe Biden's transition team one day after it leveled allegations that Trump's OMB was hindering the incoming team."
-    publishedDateTime: 2021-01-01T02:29:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74922408"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74922408"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74922408"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 135
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump2-01-gty-iwb-201231_1609441395060_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Trump-Biden transition live updates: House approves boosting stimulus checks to $2K"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 23 days. The House narrowly passed a bill that would increase the amount of money Americans receive in a second round of pandemic relief stimulus payments to $2,"
@@ -586,6 +586,6 @@ related:
         height: 630
         isCached: true
 
-secured: "RMba7wdYKj27oPn/wlJujop/FcsejaBBaq640mRYE7RIth4fdf+Mi5pbElWlHH+Fzxt5GYaeG6ygBXvHEjjSWO2hmYuLb1aWK36gjdt5SzlX363I2kv9Vfk5yC5j8NhwLhOIVrAXp5EzbUHv1pCNcSNv8MxUSWkuiqBogHjgQnqa9KizlQttog0a0u24VK3ssn6qYReBWncKUSc2ecpbTjMAxvsxIHCWXI+57WvHzt8Meitv2nYCXgy2rkWpCJaG/ELUxLKbT6lnhDOwXd2JLD3jOeo3D59Zi7nCkcKYxSrH4TqXMbyAfj3JRoiAi9XzZRNfMt/ozilPZ23xKh98dYATEC75qopQvK7t8fcaVr/ThuernvijE+QQG10rzh5RFwQfLh7s2pmDBOoBxOfVgo3YWRFCyqbPghwqtQabhHavTGAB+5aPz0GkhokZTuxBdwmw4PB6UaxegRZE6pfiRKnSJgxPrp+MFTZX+WChlLudG/XtjT1nP6TCluqIkz8r994wZ0p5ekJBnYfS4Vpymg==;7nhLEJytNlcAAjXp/mvomA=="
+secured: "Gs+TSQpgjpmg0egee6v60Rn31XoFzG/TzKFLSiHeK1hYeuPD05LXjxoq5xgowF3w7H2RBdSebtUlXHgiYmdPY3ffx/gAy3wzOs4BSpddlnvgkxRpF+5p5hds870e8wL/BvZsW4dkYy0uQJpw+lz82pmFfoMrbNo5GlleCjoU2kLU6ZsXfhseNfm1HHpMPKKKuUITFBggMFzybimVJ5V5Atgur7NkzjkVxSrdXzIExPXhUuFuITqmBwER9HfSvuynpsPUeKwCsMX7lOPRq0kolq2YWq3cIjNvpYqzGC5Bjh8z9UmRcs0GzSd4vvbEj7FYOgbuNnuGfgbgiOwUpy5XeVdPOKAs8x5y/kU82IOhsQk=;KqxXBWcuKEveH+kNDrpLlA=="
 ---
 
