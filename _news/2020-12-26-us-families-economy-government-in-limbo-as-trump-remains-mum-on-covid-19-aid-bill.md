@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Senate votes to override Trump's NDAA veto"
+    excerpt: "Trump refused to approve the military spending bill because it did not include a repeal of Section 230."
+    publishedDateTime: 2021-01-01T19:43:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CPZPla9qI7M/senate-votes-override-trump-ndaa-veto"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-votes-override-trump-ndaa-veto.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-votes-override-trump-ndaa-veto.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d32a56b-88d2-4b0b-a24c-2732599508e1/c5834e63-6f8d-4cad-9246-e1f5ed9cdc47/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign spends $3M to file for recounts in two Wisconsin counties"
     excerpt: "The Trump campaign said Wednesday it is spending $3 million in Wisconsin to file for a partial recount in the state, claiming illegally-altered absentee ballots and illegal advice given by government officials allowing Wisconsin’s voter ID laws to be circumvented."
     publishedDateTime: 2020-11-18T16:58:09Z

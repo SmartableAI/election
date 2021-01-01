@@ -335,6 +335,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Congress overrides Trump defence spending bill veto"
+    excerpt: "US Congress overturns President Donald Trump's veto of a defence spending bill, for the first time in his presidency."
+    publishedDateTime: 2021-01-01T20:40:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55509883"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p092w75k.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "The Walter Reed doctor who lost his ER job after condemning Trump's COVID-19 hospital joyride says he regrets nothing"
     excerpt: "Dr. James Phillips rebuked President Donald Trump's decision to greet supporters from inside a sealed car while he had COVID-19."
     publishedDateTime: 2020-12-29T23:20:00Z

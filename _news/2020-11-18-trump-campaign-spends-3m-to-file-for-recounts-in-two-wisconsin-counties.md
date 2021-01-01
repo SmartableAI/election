@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Senate votes to override Trump's NDAA veto"
+    excerpt: "Trump refused to approve the military spending bill because it did not include a repeal of Section 230."
+    publishedDateTime: 2021-01-01T19:43:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CPZPla9qI7M/senate-votes-override-trump-ndaa-veto"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-votes-override-trump-ndaa-veto.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-votes-override-trump-ndaa-veto.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d32a56b-88d2-4b0b-a24c-2732599508e1/c5834e63-6f8d-4cad-9246-e1f5ed9cdc47/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Trump vetoes National Defense Authorization Act for Fiscal Year 2021"
     excerpt: "President Trump vetoed the National Defense Authorization Act for Fiscal Year 2021 Wednesday, calling it a “gift” to U.S. adversaries China and Russia, making good on a promise to veto it if it did not repeal a law that shields certain Big Tech companies from liabilities."
     publishedDateTime: 2020-12-23T20:42:44Z

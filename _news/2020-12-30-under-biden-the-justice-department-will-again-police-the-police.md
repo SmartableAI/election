@@ -349,6 +349,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "In a first, Congress overrides Trump veto of defense bill"
+    excerpt: "Congress has overridden President Donald Trump's veto of a defense policy bill, a first by lawmakers since he took office nearly four years ago"
+    publishedDateTime: 2021-01-01T20:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/congress-overrides-trump-veto-defense-bill-75006725"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/congress-overrides-trump-veto-defense-bill-75006725"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/congress-overrides-trump-veto-defense-bill-75006725"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f021caf1b95c4d83abdf0e384febf9c2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Millions of Americans lose jobless benefits as Trump refuses to sign aid bill"
     excerpt: "Millions of Americans saw their jobless benefits expire on Saturday after U.S. President Donald Trump refused to sign into law a $2.3 trillion pandemic aid and spending package, protesting that it did not do enough to help everyday people."
     publishedDateTime: 2020-12-26T10:31:00Z
@@ -483,6 +499,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Senate overrides first Trump veto to uphold defense policy bill"
+    excerpt: "The Republican-controlled U.S. Senate overturned President Donald Trump's veto of a $740 billion defense bill on Friday, handing the Republican president the first veto defeat of his presidency weeks before he leaves office."
+    publishedDateTime: 2021-01-01T20:07:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-senate-override/senate-overrides-first-trump-veto-to-uphold-defense-policy-bill-idUSL1N2JC0CA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JC0CA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JC0CA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Here's the Democrats' plan for handling Donald Trump as Joe Biden's biggest critic and Twitter troll during the next 4 years"
     excerpt: "Joe Biden and the White House will try to avoid talking about ex-President Donald Trump as much as possible. Good luck with that."
     publishedDateTime: 2020-12-24T15:41:00Z

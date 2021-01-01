@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/biden-trump-vaccine-dist
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/biden-trump-vaccine-distribution/index.html"
 type: article
 quality: 186
-heat: 846
+heat: 866
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201226140818-01-trump-south-lawn-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Senate votes to override Trump's veto on defense bill"
+    excerpt: "The Senate voted on Friday to override President Donald Trump's veto of the sweeping defense bill known as the National Defense Authorization Act, delivering a bipartisan rebuke to the President in his final days in office.\n    \n"
+    publishedDateTime: 2021-01-01T19:42:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2su8o9hsaBM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/01/politics/senate-votes-to-override-trump-veto-ndaa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/senate-votes-to-override-trump-veto-ndaa/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222195207-capitol-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

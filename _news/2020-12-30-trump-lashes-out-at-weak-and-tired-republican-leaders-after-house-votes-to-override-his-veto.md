@@ -47,6 +47,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Donald Trump Attacks GOP South Dakota Senator in One of His First Tweets of 2021"
+    excerpt: "President Donald Trump 's first tweet of 2021 came Friday morning in the form of a a simple \"HAPPY NEW YEAR!\" A few hours later, however, he attacked fellow Republican John Thune, the senior U.S. senator from South Dakota."
+    publishedDateTime: 2021-01-01T20:28:00Z
+    webUrl: "https://www.newsweek.com/trump-first-tweet-year-1558443"
+    ampWebUrl: "https://www.newsweek.com/trump-first-tweet-year-1558443?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-first-tweet-year-1558443?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1696729/thune-trump.jpg"
+        width: 3000
+        height: 2460
+        isCached: true
   - title: "Trump's kids won't lose their 5th Amendment rights and be forced to testify against him if they're pardoned, experts say"
     excerpt: "A presidential pardon isn't enough to mean that someone can't plead the Fifth Amendment and refuse to testify, according to criminal law experts."
     publishedDateTime: 2020-12-31T20:20:00Z

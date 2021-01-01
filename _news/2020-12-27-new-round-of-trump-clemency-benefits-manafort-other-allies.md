@@ -207,6 +207,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "In rare Jan. 1 session, Congress overrides Donald Trump’s veto of defense bill"
+    excerpt: "The 81-13 vote in the Senate followed an earlier 322-87 override vote in the House of the widely popular defense measure. The override was the first since Trump took office four years ago."
+    publishedDateTime: 2021-01-01T20:13:00Z
+    webUrl: "https://www.oregonlive.com/politics/2021/01/in-rare-jan-1-session-congress-overrides-donald-trumps-veto-of-defense-bill.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2021/01/in-rare-jan-1-session-congress-overrides-donald-trumps-veto-of-defense-bill.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/in-rare-jan-1-session-congress-overrides-donald-trumps-veto-of-defense-bill.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 71
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WMESNELVLJCGBIYTR4ZUTLLMWM.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "WVM8fVgd4pR33A9dQ6W8FSNtTXDHEwhtXwXJ0xz34lqUanwuZtsbiXaDT2yJq3CUjyMbFurRoCvf8xRi5X4DXzg4OMrKrgXSptq+odss+NcAmJXm2y8EjYfw48XS8rLbFtsvYwLi/eYReJn3Yu76jXfWQNa83SreC61J1ZWEAMAdI9xzT7JgewqBhWSo/y8ZQIUZvGJPQOb/GLNSx8UoE9I/dpfZUs8Bq0M8+UlTM4Dmy5n2p/zB33cmn86YHfGdurBGUQT7GwEicRGu5l7maqq+JTpAVtWislihfcnxkIoJEJzlnsTIJoSSzZBqMtYAPHEE4jHod070kMq9mOjmZhxWbtHN2SuZoSFZCatxHHE5EE858JUt7eetklOPxxyZ8cHRo21pB7C+C5PR5842pz1AVemsVOMvlyb40MELw+MVxPI63XBaCV19gNIFukn5VTGwgfXbHsNvbHCMjwoFGCbq1aUhbX3BuBh/g4gfBjHidDbSOAOs60DwWAgR83mIx4D9iFRLGcOscOzw+XPcgg==;BGt1EDAWKHRDqGRwSZopQQ=="
 ---

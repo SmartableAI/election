@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate votes to override Trump's veto on defense bill"
+    excerpt: "The Senate voted on Friday to override President Donald Trump's veto of the sweeping defense bill known as the National Defense Authorization Act, delivering a bipartisan rebuke to the President in his final days in office.\n    \n"
+    publishedDateTime: 2021-01-01T19:42:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2su8o9hsaBM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/01/politics/senate-votes-to-override-trump-veto-ndaa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/senate-votes-to-override-trump-veto-ndaa/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222195207-capitol-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump extends immigration restrictions, citing pandemic's impact on labor market "
     excerpt: "President Donald Trump extended certain restrictions on legal immigration and on visas that allow immigrants to temporarily work in the United States on Thursday, just hours before those restrictions were set to lapse. Trump extended the restrictions through March 31, two months after he will leave office.\n"
     publishedDateTime: 2021-01-01T00:38:08Z

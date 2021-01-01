@@ -2,30 +2,26 @@
 category: news
 title: "Mike Pence seeks dismissal of lawsuit aiming to give him the power to overturn election loss"
 excerpt: "The Justice Department has asked to dismiss a lawsuit led by a House Republican that seeks to give Mike Pence power to overturn the election."
-publishedDateTime: 2021-01-01T17:21:00Z
-originalUrl: "https://www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
-webUrl: "https://www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
-ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+publishedDateTime: 2021-01-01T20:16:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
 type: article
-quality: 129
+quality: 79
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/iARlxazmNR8X1fSIfihORnQNHP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PY662SKRXJBAMWDRX5CNP3SDXU.jpg"
+  - url: "https://www.baltimoresun.com/resizer/iARlxazmNR8X1fSIfihORnQNHP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PY662SKRXJBAMWDRX5CNP3SDXU.jpg"
     width: 1200
     height: 877
     isCached: true
@@ -252,6 +248,6 @@ related:
         height: 267
         isCached: true
 
-secured: "W7ZRQOTDPwn6qagEUp7dT8wQkhOvkCmiqOR8myMtOVIexdN195boWk3jGCJfw8r0bbZVMvHE3LF6chLwFTGVKvD9RvGzm4fBl/sVsouSpdPKYvuIu7qqDWqXw3GqZuwcATr77zyS2yHGTHJrqC2Aqfmrq/jA22cmhVQmEcNaXq73VlE3fU7ktI+oIvTIokoeJXXyiBx0roZCpqPnh1tKsl7tyrAOP5MHQ5PDbueL3Q1GitSkhSA6WOL6wYmFYer0FQpv+gpWQOYSv9nv363KgytkiDptzESMtGPcf/OZJe9wMDy4cyURH4UhMchqf3JCCN7p8/cUYQcGQsdYC+btUZ+USqxydf1QffBXyxY+5fs=;BTWqq0rcMVtUfVhZrNxmHw=="
+secured: "UpbiC1mmtZVBBVO3/Vk3n4z10941CixjSnPgeslYgSaPCKdCADc/wUiABedQmjVSG/nDmhok96UqTpEe577AGbNn6rL3d17jF9oBzHpLRlhFzusZiQwxTITPuXt3EHcWYyRciW7K7RlNM2XaUx0FyERzw93JiV8bVqSLATSaxerF1+6fnsYAvi5qpmFXwtAx3KTJ1th6aPlF3293wfI1TvJUkRJB6v76wxb51RyN95Op9f+8nGd7okwrO8Pf/jVZm5h6Tx3Uo9V27PzCMDCdWTtoaOW2DGoe9NReW94RWZb5XNTCXR/IFgWVMJ9pVcLshSfmv7ZxG7EG8AbvF95xjNv9yLGc+mvHoMe+bzR3t1I=;4qnqrXOeeitSIdm65MBc2w=="
 ---
 

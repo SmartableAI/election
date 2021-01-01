@@ -2,6 +2,154 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-02-trump-urges-south-dakota-governor-to-challenge-rino-sen-thune.md",
+      "title": "Trump urges South Dakota governor to challenge ‘RINO’ Sen. Thune",
+      "excerpt": "Thune, the Senate majority whip, outraged Trump last month when he said a challenge to the Electoral College results would “go down like a shot dog.”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/",
+      "originalUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/Election-2020-RNC-Noem.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/amp/",
+      "publishedDateTime": "2021-01-01T12:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-02-what-will-pence-do-when-congress-counts-the-votes.md",
+      "title": "What Will Pence Do When Congress Counts the Votes?",
+      "excerpt": "Readers are shocked that the question is being asked and speculate that the vice president may find an excuse not to be present. They also criticize Senator Josh Hawley.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/01/01/opinion/letters/pence-congress-vote.html",
+      "originalUrl": "https://www.nytimes.com/2021/01/01/opinion/letters/pence-congress-vote.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/30/opinion/29katyal-monsky-01/29katyal-monsky-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/01/01/opinion/letters/pence-congress-vote.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/01/opinion/letters/pence-congress-vote.amp.html",
+      "publishedDateTime": "2021-01-01T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-02-mike-pence-heading-to-georgia-on-monday-ahead-of-runoff-elections.md",
+      "title": "Mike Pence heading to Georgia on Monday ahead of runoff elections",
+      "excerpt": "Vice President Mike Pence is heading to Georgia on Monday to campaign ahead of Tuesday’s critical U.S. Senate runoff elections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/jan/1/mike-pence-heading-georgia-monday-ahead-runoff-ele/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/jan/1/mike-pence-heading-georgia-monday-ahead-runoff-ele/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/12/10/election_2020_senate_georgia_13230_c0-112-2713-1694_s1200x700.jpg?7a3e3017dc17f18b353cad2448243ba861d13e5e",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/jan/1/mike-pence-heading-georgia-monday-ahead-runoff-ele/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/1/mike-pence-heading-georgia-monday-ahead-runoff-ele/",
+      "publishedDateTime": "2021-01-01T11:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-with-trump-a-no-show-mar-a-lago-guests-left-to-party-maskless-with-rudy-giuliani-and-vanilla-ice.md",
       "title": "With Trump a no-show, Mar-a-Lago guests left to party maskless with Rudy Giuliani and Vanilla Ice",
       "excerpt": "Guests who paid four-figures for tickets to President Donald Trump's annual New Year's Eve party were left to party with his personal attorney Rudy Giuliani, his two adult sons and various figures from the conservative media — none of whom wore masks — after the President made a last-minute decision",
@@ -279,7 +427,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -439,7 +587,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -817,7 +965,7 @@
       "originalUrl": "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345",
       "featuredContent": null,
       "highlight": null,
-      "heat": 906,
+      "heat": 946,
       "tags": null,
       "images": [
         {
@@ -1181,175 +1329,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-alec-baldwin-should-play-himself-in-snl-sketch-about-wifes-heritage-controversy-trump-jr.md",
-      "title": "Alec Baldwin should play himself in 'SNL' sketch about wife's heritage controversy: Trump Jr.",
-      "excerpt": "Donald Trump Jr Wednesday suggested actor Alec Baldwin should play himself in a \"Saturday Night Live\" sketch about his wife Hilaria’s scandal over her heritage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/donald-trump-jr-wants-alec-baldwin-to-play-himself-in-snl-sketch-about-wifes-heritage-controversy",
-      "originalUrl": "https://www.foxnews.com/entertainment/donald-trump-jr-wants-alec-baldwin-to-play-himself-in-snl-sketch-about-wifes-heritage-controversy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/203cf16f-1115-42d3-a829-bfd0e89d9286/1fd3ba14-3347-4fe2-be90-0c1bd15856f1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/donald-trump-jr-wants-alec-baldwin-to-play-himself-in-snl-sketch-about-wifes-heritage-controversy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/donald-trump-jr-wants-alec-baldwin-to-play-himself-in-snl-sketch-about-wifes-heritage-controversy.amp",
-      "publishedDateTime": "2020-12-31T00:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-biden-campaign-promises-included-decriminalizing-hiv-exposure.md",
-      "title": "Biden campaign promises included decriminalizing HIV exposure",
-      "excerpt": "President-elect Joe Biden has promised to \"advance LGBTQ equality\" by reversing decades-old criminalization of HIV exposure and transmission laws that have no \"scientific basis\" and contribute to stigmas.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/c6zQ0wyEW-k/biden-campaign-promises-included-decriminalizing-hiv-exposure",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/c6zQ0wyEW-k/biden-campaign-promises-included-decriminalizing-hiv-exposure",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20357736550164.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-campaign-promises-included-decriminalizing-hiv-exposure.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-promises-included-decriminalizing-hiv-exposure.amp",
-      "publishedDateTime": "2020-12-30T20:10:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-trump-asks-supreme-court-to-void-wisconsin-election-results.md",
-      "title": "Trump asks Supreme Court to void Wisconsin election results",
-      "excerpt": "Trump’s attorneys filed a motion asking the Supreme Court to consider his case in an expedited manner.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lz5c83sLdP8/trump-asks-supreme-court-to-void-wisconsin-election-results-in-latest-filing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lz5c83sLdP8/trump-asks-supreme-court-to-void-wisconsin-election-results-in-latest-filing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 370,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24fa9f1d-5516-4ebc-9cc2-6620e729de66/42668e91-b504-45d1-bde0-3625a49f8b0e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-asks-supreme-court-to-void-wisconsin-election-results-in-latest-filing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-asks-supreme-court-to-void-wisconsin-election-results-in-latest-filing.amp",
-      "publishedDateTime": "2020-12-30T18:54:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

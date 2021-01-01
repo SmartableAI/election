@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency"
+    excerpt: "Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency."
+    publishedDateTime: 2021-01-01T20:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/congress-overrides-donald-trumps-veto-defense-policy-bill-75006657"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/congress-overrides-donald-trumps-veto-defense-policy-bill-75006657"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/congress-overrides-donald-trumps-veto-defense-policy-bill-75006657"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 107
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
 
 secured: "Hm3df6fyr7cUt9ZvxErzi7mTvuqSrhaBE7zLhpl/KvhIp7pGczUVhYDiCGy1QWkZG2amtNRgROdNKZUc62/ujjBUxV3RYsHIbU51pPWRjuleiVTVY8c4vlW8eJgjnrxfmNQOJt2b+/n/Orc/ftUSlYL7iRYXBxYhNP19WhbX0WFnxbtMEbmiV0jiYV/Y06j9omzJi8R4slfi0AfngzRxnVutP45yYDIQsTvTQLLSC8oZp5OUJ5xAqORYaUXfHWmAGg9w8TSSEus+jBEOWlk6ZL8i6nFRxWIntPjD1PInAYEWI47amPLUDH0+QSuKLYUiAoj4aoFdwWxrg4fgB6cm+LtOj1dTP7nXUXJ6IsHtpiaaJigfPMoZtBEvJxMUCnhBRJ5eO8ESmUXsD3okQ2JQGbNwPKldcHJr2fPhNyjZQiw4i7xu1/9n0+qplP3lJ2JGd9OssId+KZasJh7P7h+zdOG52k3GYMokdN4VuaSSzdJH+CBMitKW6BZShMuSAIpMILwY7iT9zmdAm0q2dAQDeA==;PY3ESUoOA+zu4tTINC248g=="
 ---

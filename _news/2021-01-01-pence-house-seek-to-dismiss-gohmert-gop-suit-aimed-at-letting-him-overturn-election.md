@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Pence, House seek to dismiss Gohmert-GOP suit aimed at letting him overturn election"
-excerpt: "The House of Representatives asked a federal judge in Texas on Thursday to dismiss a Republican congressman’s lawsuit seeking to give Vice President Mike Pence the power to decide which electoral votes to count when Congress meets on Jan. 6 to finalize November’s presidential election."
-publishedDateTime: 2021-01-01T06:34:10Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWn1CHK2OLE/pence-house-seek-to-dismiss-gohmert-gop-suit-aimed-at-letting-him-overturn-election"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWn1CHK2OLE/pence-house-seek-to-dismiss-gohmert-gop-suit-aimed-at-letting-him-overturn-election"
+excerpt: "The House of Representatives asked a federal judge in Texas on Thursday to dismiss a Republican congressman’s lawsuit seeking to give Vice President Mike Pence the power to decide which electoral votes to count when Congress meets on Jan."
+publishedDateTime: 2021-01-01T06:37:00Z
+originalUrl: "https://www.foxnews.com/politics/pence-house-seek-to-dismiss-gohmert-gop-suit-aimed-at-letting-him-overturn-election"
+webUrl: "https://www.foxnews.com/politics/pence-house-seek-to-dismiss-gohmert-gop-suit-aimed-at-letting-him-overturn-election"
 ampWebUrl: "https://www.foxnews.com/politics/pence-house-seek-to-dismiss-gohmert-gop-suit-aimed-at-letting-him-overturn-election.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-house-seek-to-dismiss-gohmert-gop-suit-aimed-at-letting-him-overturn-election.amp"
 type: article
-quality: 193
+quality: 143
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Mike Pence
+  - Republican Voice
 
 images:
   - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Gohmert-Pence-Split-.jpg?ve=1&tl=1"
@@ -97,6 +97,6 @@ related:
         height: 720
         isCached: true
 
-secured: "cqR3/Y7ss/r4RMpVH5K7HH83PWVvSkZ5b8n93vHIBueoLdw1bABGsLIccZCT4rW+iM3BTpMDrLpjqQcHRLZdLTlcYa61STWYFvVb6nS8SvxCQCOBd33i3ZUOngZWKAZwQnthCvjl4/XNXa6M/CQ3KmzIdSmRh6imEVhnv0s8ZKM2kg97fq394K2QaNJqDWY39ccRn9tMs8KLd/5qQlAwF4r49HA3qH/Dey8Do7g/mK7mIsZXjPX6p9Xu3/VwGS8cuuYm22+ta0TXCUlAZIokMxT2YiSyeVb0L2vbBxdpI+7iFV5hLxlK8ard1L7d3D1LvQDu4/4jeIIgk7+fdLOjNFwOpbsEZmVT+NnQXRGCXT4=;Qete8OTZb2BGXbcsNOYrPw=="
+secured: "o3t8+R2lthjpHog5IXg6h79N4y/vvlNDoqPWMIrGDJJw/Te3y69vETcjQ+mLKpTGXYIz6kfmUcE7uPtlUNUZLZVcKnIFf4P14n0cjjD8M2FYBNs7e9y5idNHdB9SaZ2wPQX6rQdhOpFoytXZZD3Da52VPSrhjI3ZDcyORmuvg4ry1TfqoJYAL+jevrlbxS5HWECXRedKb4qmrabfL4EAHdmti+TliAXSqNQEv0wbAgKMtaxOE/d76C8hNjSjwVzvR+a0oglsKy28oUV9/JnoNKD52k6LpIj1c6dLVqPhF1Q7CTQ2mIFGGW2k9y/LgTDb8vb8IfvaY5y/joCUaNaDbH22GisU5YdWQDJNr3UN3/o=;ai7tFgS5Bb9ldEOOZgxp6A=="
 ---
 

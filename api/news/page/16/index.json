@@ -2,6 +2,110 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-12-07-the-people-have-spoken-federal-judge-rejects-ex-trump-attorney-sidney-powells-michigan-election-lawsuit.md",
+      "title": "'The people have spoken': Federal judge rejects ex-Trump attorney Sidney Powell's Michigan election lawsuit",
+      "excerpt": "The judge said the court was being asked \"to ignore the will of millions of voters. This the Court cannot, and will not, do. The people have spoken.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/07/michigan-judge-rejects-lawsuit-from-disavowed-trump-attorney/3856164001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/07/michigan-judge-rejects-lawsuit-from-disavowed-trump-attorney/3856164001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/07/USAT/72557c05-b263-4f9a-9e57-cb4d7cfb6e73-AP_Election_2020_Georgia_2.jpg?auto=webp&crop=4324,2432,x1,y419&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3856164001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3856164001",
+      "publishedDateTime": "2020-12-07T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-the-rnc-paid-300000-for-autographed-copies-of-donald-trump-jrs-new-book-to-use-as-gifts-to-donors-report-says.md",
+      "title": "The RNC paid $300,000 for autographed copies of Donald Trump Jr.'s new book to use as gifts to donors, report says",
+      "excerpt": "The money spent on Trump Jr.'s new book, \"Liberal Privilege,\" was the largest sum ever spent by the RNC on gift giveaways, The Daily Beast reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/rnc-paid-300k-trump-jr-book-autographed-donors-gift-report-2020-12",
+      "originalUrl": "https://www.businessinsider.com/rnc-paid-300k-trump-jr-book-autographed-donors-gift-report-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fce25bf037cbd0018614280?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/rnc-paid-300k-trump-jr-book-autographed-donors-gift-report-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rnc-paid-300k-trump-jr-book-autographed-donors-gift-report-2020-12?amp",
+      "publishedDateTime": "2020-12-07T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-biden-picks-california-attorney-general-xavier-becerra-to-lead-health-and-human-services.md",
       "title": "Biden picks California Attorney General Xavier Becerra to lead Health and Human Services",
       "excerpt": "As the nation’s next top health official, Becerra will arguably hold the most consequential Cabinet role at the outset of Biden’s new administration.",
@@ -1241,115 +1345,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-biden-talks-inauguration-plans-obama-pence-seek-to-boost-ga-senate-candidates.md",
-      "title": "Biden talks inauguration plans; Obama, Pence seek to boost Ga. Senate candidates",
-      "excerpt": "The president-elect plans to deliver remarks from Wilmington, Del., hours after the Labor Department releases a report expected to show slowed job growth amid the rise in coronavirus cases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/12/04/joe-biden-trump-transition-live-updates/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/04/joe-biden-trump-transition-live-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 835,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D32W6NRWRQI6XFUZADJRD4J5FU.jpg&w=1440",
-          "width": 1440,
-          "height": 906,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/04/joe-biden-trump-transition-live-updates/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/joe-biden-trump-transition-live-updates/?outputType=amp",
-      "publishedDateTime": "2020-12-04T17:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-msnbcs-kasie-hunt-panned-for-saying-shes-struck-how-biden-as-a-rule-doesnt-lie.md",
-      "title": "MSNBC's Kasie Hunt panned for saying she's 'struck' how Biden 'as a rule, doesn’t lie'",
-      "excerpt": "MSNBC anchor Kasie Hunt was widely mocked on social media Friday for being excessively trusting of President-elect Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/msnbc-kasie-hunt-biden-as-a-rule-doesnt-lie",
-      "originalUrl": "https://www.foxnews.com/media/msnbc-kasie-hunt-biden-as-a-rule-doesnt-lie",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2834c4a-59cb-4100-b7d6-b7ee683d190e/49ce0484-dc44-47bf-b266-f43b8449cacb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/msnbc-kasie-hunt-biden-as-a-rule-doesnt-lie.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-kasie-hunt-biden-as-a-rule-doesnt-lie.amp",
-      "publishedDateTime": "2020-12-04T17:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],
