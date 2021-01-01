@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
 type: article
 quality: 114
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "In Stimulus Battle, Donald Trump Was No Match For Mitch McConnell, Who Shaped His Presidency"
+    excerpt: "Is McConnell's legacy more transformative than Trump's? The Senate Majority Leader took Trump under his wing, got his judges appointed and tax cuts passed, but clashed with him in the president's final days."
+    publishedDateTime: 2020-12-31T16:45:00Z
+    webUrl: "https://www.newsweek.com/stimulus-battle-donald-trump-was-no-match-mitch-mcconnell-who-shaped-his-presidency-1558272"
+    ampWebUrl: "https://www.newsweek.com/stimulus-battle-donald-trump-was-no-match-mitch-mcconnell-who-shaped-his-presidency-1558272?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/stimulus-battle-donald-trump-was-no-match-mitch-mcconnell-who-shaped-his-presidency-1558272?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1696506/trump-mcconnell-republican.jpg"
+        width: 2500
+        height: 1738
+        isCached: true
   - title: "Mitch McConnell is reportedly taking the lead on stimulus negotiations as the Trump administration sits out"
     excerpt: "Joe Biden may also leap into the talks on a coronavirus relief plan. Democrats and Republicans are far apart on measures like unemployment benefits."
     publishedDateTime: 2020-11-09T15:56:00Z

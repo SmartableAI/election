@@ -59,58 +59,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-12-bidens-covid-19-advisory-board-prepares-for-transition-amid-pandemic.md",
-      "title": "Biden's COVID-19 advisory board prepares for transition amid pandemic",
-      "excerpt": "President-elect Joe Biden and his transition team will be taking responsibility for the nation's coronavirus response and the rollout of vaccines in the midst of an unprecedented health crisis. Dr. Celine Gounder,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/joe-biden-covid-19-advisory-board-transition-amid-pandemic/",
-      "originalUrl": "https://www.cbsnews.com/video/joe-biden-covid-19-advisory-board-transition-amid-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/11/e85bb149-95e7-4131-aabe-a8becbf9ef46/thumbnail/1200x630/8bd37a9a1b6735d713a5268207d8403b/cbsn-fusion-president-elect-biden-thumbnail-606376-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T11:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-12-11-bobulinski-tells-tucker-carlson-that-joe-biden-lied-about-son-hunters-business-dealings.md",
       "title": "Bobulinski tells Tucker Carlson that Joe Biden lied about son Hunter's business dealings",
       "excerpt": "Former Hunter Biden business partner Tony Bobulinski claimed now-President-elect Joe Biden lied about having no knowledge of his son's foreign business dealings.",
@@ -1351,6 +1299,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-grassley-claims-media-chose-to-dismiss-hunter-biden-probe-i-think-its-outrageous.md",
+      "title": "Grassley claims media 'chose to dismiss' Hunter Biden probe: 'I think it's outrageous'",
+      "excerpt": "Sen. Chuck Grassley, R-Iowa, accused the \"liberal media\" of ignoring his investigation of the Biden family's finances in order to protect the Democratic Party while speaking on the Senate floor on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4B0wjEvP9uw/chuck-grassley-media-hunter-biden-investigation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4B0wjEvP9uw/chuck-grassley-media-hunter-biden-investigation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Grassley-GETTY.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/chuck-grassley-media-hunter-biden-investigation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chuck-grassley-media-hunter-biden-investigation.amp",
+      "publishedDateTime": "2020-12-10T09:31:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

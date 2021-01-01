@@ -93,6 +93,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump's call for $2,000 cheques blocked by Senate leader"
+    excerpt: "US Senate Republican leader Mitch McConnell has rejected calls from an unlikely alliance of President Donald Trump, congressional Democrats and some Republicans to boost coronavirus aid. The House of Representatives,"
+    publishedDateTime: 2021-01-01T18:54:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55484625"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/8EA8/production/_116302563_gettyimages-1292136820.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "4OacDyjShTXLzQ6SfGERWoQJYAkM7CK8J4nOR05UkS+jZqZEm4cSzJ8BkLHa76ooR7QDlOnHqhSTJxNYHRnz6kDdM32ieYONyvP+o+O44quO+a1jd2FSVUCnueBR0GZUN1NxkEa2oI/LDwk4MXm05hyg9nPZHeGyEBZ4Qts9Q0FOJNFvm3SXlCAc9qHXnDscLZEey6AXRggBO0ZDQN+3lO3Uer3IQGXHR904PEzns+NzNFGsodk9OpqXe40UjuZzhxWdxE6sakDuzscxlEIyNcbNm5q8CpZ7xxb5IXsNw8Qz/IyHwef/NMfo2vvwhXnqAXxxnImku6omN1R3+Cg9BO45mDKeAbW38icZcU7E2htsfSJG5PvEmwQZYde9l+J+dhq8EJKA9Tp+s/7qZ6HuZ0FpY2vfrbwbgqiKZV/pP06a+D/8RFB2BXOdfZCwe8QlOR+ysT+0trxgg7ZbW4+889Izsu6BYIQmHXYQe8pNRgPnkiMLJ3/QCJVh7p9dniqB1b9v+okhcggpjM/6NUmuhQ==;jTk6bMhm7rvfOonvasSiRQ=="
 ---

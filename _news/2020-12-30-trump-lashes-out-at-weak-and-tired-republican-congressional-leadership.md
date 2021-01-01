@@ -79,6 +79,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump's call for $2,000 cheques blocked by Senate leader"
+    excerpt: "US Senate Republican leader Mitch McConnell has rejected calls from an unlikely alliance of President Donald Trump, congressional Democrats and some Republicans to boost coronavirus aid. The House of Representatives,"
+    publishedDateTime: 2021-01-01T18:54:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55484625"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/8EA8/production/_116302563_gettyimages-1292136820.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Trump Lashes Out At Republican Leaders Over Looming Veto Override"
     excerpt: "Donald Trump, facing a humiliating first veto override of his presidency, lashed out at Republican leaders in Congress on Tuesday as relations soured ahead of a crucial pair of runoff elections in Georgia that could determine control of the Senate."
     publishedDateTime: 2020-12-29T22:47:00Z

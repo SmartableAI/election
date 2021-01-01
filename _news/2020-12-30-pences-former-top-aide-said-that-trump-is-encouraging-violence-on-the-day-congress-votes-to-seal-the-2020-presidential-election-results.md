@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pence seeks dismissal of suit aiming to overturn election"
+    excerpt: "The Justice Department has asked a federal judge to dismiss a last-gasp lawsuit led by a House Republican that seeks to give Vice President Mike Pence the power to overturn the results of the presiden"
+    publishedDateTime: 2021-01-01T14:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Mike Pence asks judge to toss Gohmert's lawsuit that seeks to overturn election results"
     excerpt: "Vice President Mike Pence is set to oversee Congress when it officially counts the votes cast by the Electoral College on Jan. 6."
     publishedDateTime: 2020-12-31T23:38:00Z
@@ -48,6 +64,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence seeks dismissal of lawsuit aiming to give him the power to overturn election loss"
+    excerpt: "The Justice Department has asked to dismiss a lawsuit led by a House Republican that seeks to give Mike Pence power to overturn the election."
+    publishedDateTime: 2021-01-01T17:21:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 129
+    images:
+      - url: "https://www.chicagotribune.com/resizer/iARlxazmNR8X1fSIfihORnQNHP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PY662SKRXJBAMWDRX5CNP3SDXU.jpg"
+        width: 1200
+        height: 877
+        isCached: true
+  - title: "Congressman, other Republicans sue Vice President Pence in last-ditch effort to overturn Biden win"
+    excerpt: "Rep. Louie Gohmert and other Republicans' lawsuit is effectively attempting to reverse President-elect Joe Biden's victory over President Donald Trump."
+    publishedDateTime: 2020-12-28T18:55:00Z
+    webUrl: "https://www.cnbc.com/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 126
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106816660-1609177703757-gettyimages-1230000337-house_freedom468_120320.jpeg?v=1609177793"
+        width: 4829
+        height: 3220
+        isCached: true
   - title: "Pence sued by Texas GOP Congressman Louie Gohmert over competing electors"
     excerpt: "A Republican congressman from Texas sued Vice President Mike Pence in the latest long-shot effort to reverse President-elect Joe Biden’s victory over Donald Trump. In the lawsuit, Representative Louie Gohmert seeks a court order forcing the vice president to acknowledge what Gohmert claims is Pence’s power to disregard states’ chosen Democratic electors and instead select competing slates of GOP electors on Jan."
     publishedDateTime: 2020-12-28T20:31:00Z
@@ -63,22 +111,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/11/12/57/19180496/19/rawImage.jpg"
         width: 2048
         height: 1365
-        isCached: true
-  - title: "GOP congressman sues Pence in effort to try and overturn Biden win"
-    excerpt: "The lawsuit, led by Rep. Louie Gohmert, focuses on the Jan. 6 ceremonial meeting of Congress to finalize Joe Biden's victory."
-    publishedDateTime: 2020-12-29T00:15:00Z
-    webUrl: "https://www.11alive.com/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 90
-    images:
-      - url: "https://media.11alive.com/assets/CCT/images/bd9d89aa-cf5e-4c9d-8af5-d87c6aa2605f/bd9d89aa-cf5e-4c9d-8af5-d87c6aa2605f_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "Louie Gohmert sues Mike Pence in bid to overturn election results"
     excerpt: "A group of Republicans led by Rep. Louie Gohmert on Monday sued Vice President Mike Pence arguing that he is legally authorized to choose pro-Trump electors when Congress meets next month to certify the results of the presidential election."
@@ -219,36 +251,6 @@ related:
       - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229686198.jpg?itok=Xe-uSQS1&resize=400x267"
         width: 400
         height: 267
-        isCached: true
-  - title: "Arizona Republicans join Texas lawsuit against VP Mike Pence to upend electoral college"
-    excerpt: "Vice President Mike Pence should wield sole discretion in counting the electoral college votes, the suit contends."
-    publishedDateTime: 2020-12-28T23:26:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/12/28/kelli-ward-and-other-arizona-republicans-join-texas-suit-election/4066675001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/4066675001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4066675001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 67
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/18/PPHX/90e78252-af14-4f24-b779-430b38fed1e5-DW1_5247.JPG?auto=webp&crop=3522,1982,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "In another effort to challenge Electoral College votes, Rep. Gohmert sues Vice President Mike Pence"
-    excerpt: "Texas, sued Vice President Mike Pence in an attempt to challenge the results of some states’ Electoral College votes."
-    publishedDateTime: 2020-12-29T15:16:00Z
-    webUrl: "https://www.djournal.com/news/national/in-another-effort-to-challenge-electoral-college-votes-rep-gohmert-sues-vice-president-mike-pence/article_91089e35-5534-5e51-9995-3b8cf178cf92.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 41
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/d/ca/dca3aefb-1333-575e-8396-a718d1d12be2/5feb5315afded.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
         isCached: true
 
 secured: "TjhLY3xq2pFwi4RLzaUMyZmv0K2sKXE/QTL8st1mIsItirKdiEp+knJhJEmjHeOwR/JUkmUt2FOueJs1h1f7pLH1Bo5MCW6hKU9LmCqDpvBOfQqSfPM9GJLRPVSIHyMYXhmePnm47pnLV8rPilWrcSj8O5o7oCnCUVPAM2I4rizZFgDWPmVRbaupGQ42E6/IPwqpAQ9sPdyzVMTNtMC/aVKFWJaKl0VOx28NXMG2JOvrUcuZqt9FeM8bAY5Jz+wWVSfgHk+iPMk7XznANS7pVUKL9P/GKbavr9BUJsDcJBA0veVcJ42jOa0Irng8V9XnfwIkSkD1qhHQWL731qjILj3qvam7cg3Z5NNOTXxcAjQ=;8Vld4Je+j4eQvMSbFsFPmw=="

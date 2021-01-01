@@ -27,223 +27,161 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Pence asks judge to toss Gohmert's lawsuit that seeks to overturn election results"
-    excerpt: "Vice President Mike Pence is set to oversee Congress when it officially counts the votes cast by the Electoral College on Jan. 6."
-    publishedDateTime: 2020-12-31T23:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/31/mike-pence-asks-judge-toss-lawsuit-seeks-upend-election/4100416001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4100416001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4100416001"
+  - title: "Biden inauguration to feature memorial for COVID victims"
+    excerpt: "President-elect Joe Biden is planning a lighting ceremony at the Lincoln Memorial Reflecting Pool to honor those killed by the coronavirus the day before he is sworn into office on Jan. 20"
+    publishedDateTime: 2020-12-31T15:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_467ec2758fd24427a99beb711a78f8a0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Republican senator says he will challenge Biden victory in Congress"
+    excerpt: "Republican Senator Josh Hawley on Wednesday pledged to challenge Democrat President-elect Joe Biden's victory when Congress convenes to officially tally the electoral votes, which could trigger a lengthy debate in the Senate but has virtually no chance of overturning"
+    publishedDateTime: 2020-12-30T19:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-senate-idUSKBN29424P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29424P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29424P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546198775&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT18H"
+        width: 703
+        height: 545
+        isCached: true
+  - title: "Biden inauguration events to include memorial for COVID-19 victims"
+    excerpt: "President-elect Joe Biden plans a lighting ceremony at the Lincoln Memorial Reflecting Pool to honor COVID-19 victims the day before his swearing-in."
+    publishedDateTime: 2020-12-31T16:33:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/0aaa9dc/2147483647/strip/true/crop/840x549+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F7a%2F5217b0d3442c8a0e32ee818e8562%2Fvaccine.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Biden inaugural activities to include memorial service for covid victims"
+    excerpt: "The committee planning events announced a lighting ceremony at the Lincoln Memorial to coincide with remembrances around the country."
+    publishedDateTime: 2020-12-31T12:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5G7GCCLMMI6XKOZDY7MJKJIXE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden to take swift action to roll back harmful 'midnight regulations' -transition team"
+    excerpt: "The Biden administration will take swift action when it assumes office on Jan. 20 to rollback harmful Trump administration policies that will not have taken effect by inauguration day, a spokeswoman for President-elect Joe Biden's transition team said on Wednesday."
+    publishedDateTime: 2020-12-30T19:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-transition-idUSKBN29422E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29422E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29422E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546198325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT17D"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Domestic terrorism and hate exploded in 2020. Here's what the Biden administration must do."
+    excerpt: "Members of Joe Biden’s transition team set up a meeting with senior members of the Anti-Defamation League to discuss fighting domestic terrorism and right-wing extremism."
+    publishedDateTime: 2020-12-29T11:00:00Z
+    webUrl: "https://abcnews.go.com/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
+    ampWebUrl: "https://abcnews.go.com/amp/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 115
+    images:
+      - url: "https://s.abcnews.com/images/US/charlottesville-protest-gty-jt-201005_1601922791769_hpMain_3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Parade viewing stands dismantled near White House as Biden team seeks to discourage inauguration crowds"
+    excerpt: "Workers on Tuesday broke down the inaugural parade reviewing stand in front of the White House ahead of what President-elect Joe Biden's transition team plans for a mostly virtual inauguration. Aides to the president-elect say that such infrastructure will not be necessary for the \"reimagined\" event."
+    publishedDateTime: 2020-12-31T00:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/30/biden-inauguration-parade-viewing-stands-near-white-house-dismantled/4085710001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4085710001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4085710001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 132
+    quality: 109
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/125b8ab8-da13-4bc9-94a2-60d6d4fc8e3d-AP_Election_2020_Pence.jpg?auto=webp&crop=5099,2869,x0,y259&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/157e1de6-e356-48e3-bdb9-aef9342d0131-AFP_AFP_8UW7FD.jpg?auto=webp&crop=3698,2081,x0,y248&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Pence's former top aide said that Trump is 'encouraging' violence on the day Congress votes to seal the 2020 presidential election results"
-    excerpt: "President Trump has promised his supporters there would be a \"wild\" rally in the capital on the day of Congress votes to approve the election result."
-    publishedDateTime: 2020-12-30T14:52:00Z
-    webUrl: "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12?amp"
+  - title: "Biden's COVID-19 advisory board prepares for transition amid pandemic"
+    excerpt: "President-elect Joe Biden and his transition team will be taking responsibility for the nation's coronavirus response and the rollout of vaccines in the midst of an unprecedented health crisis. Dr. Celine Gounder,"
+    publishedDateTime: 2020-12-11T19:55:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-covid-19-advisory-board-transition-amid-pandemic/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 131
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/5fec7314b7ab82001943e8ed?width=1200&format=jpeg"
-        width: 1200
-        height: 599
-        isCached: true
-  - title: "Pence sued by Texas GOP Congressman Louie Gohmert over competing electors"
-    excerpt: "A Republican congressman from Texas sued Vice President Mike Pence in the latest long-shot effort to reverse President-elect Joe Biden’s victory over Donald Trump. In the lawsuit, Representative Louie Gohmert seeks a court order forcing the vice president to acknowledge what Gohmert claims is Pence’s power to disregard states’ chosen Democratic electors and instead select competing slates of GOP electors on Jan."
-    publishedDateTime: 2020-12-28T20:31:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
-    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 124
-    images:
-      - url: "https://s.hdnux.com/photos/01/11/12/57/19180496/19/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Louie Gohmert sues Mike Pence in bid to overturn election results"
-    excerpt: "A group of Republicans led by Rep. Louie Gohmert on Monday sued Vice President Mike Pence arguing that he is legally authorized to choose pro-Trump electors when Congress meets next month to certify the results of the presidential election."
-    publishedDateTime: 2020-12-28T18:42:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 90
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/07/29/congress_judiciary_96421_c0-0-3786-2208_s1200x700.jpg?962ee6637fa28f773de275bdd510053858c8f287"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Republican legislators sue Mike Pence to try to undo election results"
-    excerpt: "A group of Republican legislators led by U.S.  (R-Texas) is suing Vice President Mike Pence, hoping that it will end up allowing Pence to choose which electoral votes should count from states in which President Donald Trump lost."
-    publishedDateTime: 2020-12-29T11:41:00Z
-    webUrl: "https://www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html"
-    ampWebUrl: "https://www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JWTMB2TV3RDGFEJHU4SWWC5A34.jpg"
-        width: 3052
-        height: 2034
-        isCached: true
-  - title: "GOP legislators sue Mike Pence in latest effort to undo election results"
-    excerpt: "The lawsuit, led by Texas Rep. Louie Gohmert, aims to have a judge allow Vice President Mike Pence to choose which electoral votes to count in key states that President Trump lost."
-    publishedDateTime: 2020-12-29T10:29:00Z
-    webUrl: "https://www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html"
-    ampWebUrl: "https://www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 89
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JWTMB2TV3RDGFEJHU4SWWC5A34.jpg"
-        width: 3052
-        height: 2034
-        isCached: true
-  - title: "Republicans sue Mike Pence in 'desperate' last-ditch effort to overturn election"
-    excerpt: "Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a \"desperate\" last-ditch effort to overturn the results of November's presidential election, The Hill reports. The goal of the lawsuit is to get a federal judge to rule that Pence has the exclusive authority to choose electors when he oversees the Electoral College vote certification on Jan."
-    publishedDateTime: 2020-12-28T17:37:00Z
-    webUrl: "https://theweek.com/speedreads/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
-    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
-    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 85
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229686198.jpg?itok=Xe-uSQS1"
-        width: 840
-        height: 560
-        isCached: true
-  - title: "Louie Gohmert sues Pence in far-fetched bid to overturn election results on Jan. 6"
-    excerpt: "Rep. Louie Gohmert of Tyler is suing Vice President Mike Pence in an improbable bid to overturn President-elect Joe Biden’s victory. Gohmert and"
-    publishedDateTime: 2020-12-28T20:36:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 84
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/JhGbxKDWa215V-r3Lg0FdsT-nDU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/AHD73RRQY3BMTNRG6DKQ45VLPI.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/11/e85bb149-95e7-4131-aabe-a8becbf9ef46/thumbnail/1200x630/8bd37a9a1b6735d713a5268207d8403b/cbsn-fusion-president-elect-biden-thumbnail-606376-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Mike Pence wants Louie Gohmert's lawsuit against him over election dismissed: DOJ lawyers say"
-    excerpt: "Vice President Mike Pence, through the Justice Department, asked a federal court on Thursday to turn aside a lawsuit a Texas congressman filed against him seeking to empower Mr. Pence to overturn President-elect Joseph R."
-    publishedDateTime: 2020-12-31T00:00:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/31/mike-pence-wants-louie-gohmert-lawsuit-over-electi/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/31/mike-pence-wants-louie-gohmert-lawsuit-over-electi/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/31/mike-pence-wants-louie-gohmert-lawsuit-over-electi/"
+  - title: "Biden repeats call for 'full visibility' during transition"
+    excerpt: "President-elect Joe Biden said Dec. 28 that his transition team has encountered political roadblocks from the Trump administration and called it irresponsible."
+    publishedDateTime: 2020-12-28T21:35:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/biden-repeats-call-for-full-visibility-during-transition/2020/12/28/7d8fe81e-2fc6-49d0-bb07-314b2e830f59_video.html"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 79
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/22/Pence_40093.jpg-4ac9c_c0-152-3641-2275_s1200x700.jpg?415063eec54c2c7f34e92d9db04c815812bc28b2"
-        width: 1200
-        height: 700
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-28-2020/t_6f8155c986d04d3d84a230db9667a68f_name_20201228_Biden_thumb1.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 833
         isCached: true
-  - title: "Pence asks judge to dismiss Rep. Gohmert’s lawsuit"
-    excerpt: "Gohmert’s lawsuit is a last-gasp attempt by Republicans to persuade Pence to interfere in the declaration of President-elect Joe Biden’s victory and flip the election for President"
-    publishedDateTime: 2021-01-01T00:44:00Z
-    webUrl: "https://www.mercurynews.com/2020/12/31/pence-asks-judge-to-dismiss-rep-gohmerts-lawsuit/"
-    ampWebUrl: "https://www.mercurynews.com/2020/12/31/pence-asks-judge-to-dismiss-rep-gohmerts-lawsuit/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/31/pence-asks-judge-to-dismiss-rep-gohmerts-lawsuit/amp/"
+  - title: "Some Republicans plan to challenge Joe Biden’s Electoral College victory. Here’s what happened when Democrats challenged Bush"
+    excerpt: "Congress will count the Electoral College votes in a joint session of Congress on January 6, which represents Trump’s final chance to try to overturn the election result he lost to Biden."
+    publishedDateTime: 2020-12-28T09:47:00Z
+    webUrl: "https://www.mercurynews.com/2020/12/28/some-republicans-plan-to-challenge-bidens-electoral-college-victory-heres-what-happened-when-democrats-challenged-bush"
+    ampWebUrl: "https://www.mercurynews.com/2020/12/28/some-republicans-plan-to-challenge-bidens-electoral-college-victory-heres-what-happened-when-democrats-challenged-bush/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/28/some-republicans-plan-to-challenge-bidens-electoral-college-victory-heres-what-happened-when-democrats-challenged-bush/amp/"
     type: article
     provider:
       name: Mercury News
       domain: mercurynews.com
-    quality: 75
+    quality: 48
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/sjm-91070.jpg?w=1024&h=683"
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/hypatia-h_fc9e91c267a54ba529f7e2f59370c929-h_91fcd3c81c0d0cb119b2f6ffdc0c4bc4.jpg?w=1024&h=683"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Republicans sue Mike Pence in far-fetched effort to overturn election"
-    excerpt: "Several Republicans, including Rep. Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a last-ditch effort to overturn the results of November's presidential election."
-    publishedDateTime: 2020-12-29T04:09:00Z
-    webUrl: "https://theweek.com/5things/957540/republicans-sue-mike-pence-farfetched-effort-overturn-election"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 70
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1291466155.jpg?itok=0jqkkpDy&resize=400x267"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "Republicans sue Mike Pence in last-ditch effort to overturn election"
-    excerpt: "Several Republicans, including Rep. Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a last-ditch effort to overturn the results of November's presidential election."
-    publishedDateTime: 2020-12-28T18:26:00Z
-    webUrl: "https://theweek.com/5things/957540/republicans-sue-mike-pence-lastditch-effort-overturn-election"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 70
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229686198.jpg?itok=Xe-uSQS1&resize=400x267"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "Arizona Republicans join Texas lawsuit against VP Mike Pence to upend electoral college"
-    excerpt: "Vice President Mike Pence should wield sole discretion in counting the electoral college votes, the suit contends."
-    publishedDateTime: 2020-12-28T23:26:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/12/28/kelli-ward-and-other-arizona-republicans-join-texas-suit-election/4066675001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/4066675001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4066675001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 67
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/18/PPHX/90e78252-af14-4f24-b779-430b38fed1e5-DW1_5247.JPG?auto=webp&crop=3522,1982,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "In another effort to challenge Electoral College votes, Rep. Gohmert sues Vice President Mike Pence"
-    excerpt: "Texas, sued Vice President Mike Pence in an attempt to challenge the results of some states’ Electoral College votes."
-    publishedDateTime: 2020-12-29T15:16:00Z
-    webUrl: "https://www.djournal.com/news/national/in-another-effort-to-challenge-electoral-college-votes-rep-gohmert-sues-vice-president-mike-pence/article_91089e35-5534-5e51-9995-3b8cf178cf92.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 41
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/d/ca/dca3aefb-1333-575e-8396-a718d1d12be2/5feb5315afded.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
         isCached: true
 
 secured: "mXBlDEGz9jkePD8XC5lc2JgAbkZJ1bJLX1LE07VmiKC7dkbJbYdoYzOyimi1wpjGOTsNHctyoD7EfOigUEFHfqSEY9ddG5VaPftCTYMfYuB7T+0oO9bVfxdZCwHvtHsoOQq1o1FO0tZzXJ/D4DI918pGBbdcRvPuje0em6u2MaoqPkk7KcjVa5fTtNoFa/Hr37PT9DNsouT77XDB0c1rMDaanOZmpaeIrbj/Z+ky50qKU1ZlhAsF46sbzoAnNbdQkvs63U6mrCYsDAK+QCQu9Pbn1TFdf5wdYi42sZS7q+INYmgnsL9jtgh9hT7HQ2goQLlSrfDrv1iGnakGn6lvtPMZ0R0lOcOdho4lAnR/ACI=;H7KmHxI2OLBxZsYngtrK1w=="

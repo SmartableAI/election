@@ -61,6 +61,38 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Joe Biden's top foreign policy challenges in 2021"
+    excerpt: "The top foreign policy challenges for President-elect Joe Biden's incoming team include China's assertiveness and rebuilding U.S. alliances."
+    publishedDateTime: 2020-12-30T15:04:00Z
+    webUrl: "https://abcnews.go.com/International/joe-bidens-top-foreign-policy-challenges-2021/story?id=74607315"
+    ampWebUrl: "https://abcnews.go.com/amp/International/joe-bidens-top-foreign-policy-challenges-2021/story?id=74607315"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/joe-bidens-top-foreign-policy-challenges-2021/story?id=74607315"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-1-gty-er-201229_1609264991445_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Secret Service to make changes to presidential detail to bring on agents who worked with Biden"
+    excerpt: "The Secret Service is making some staff changes in the presidential detail that will guard President-elect Joe Biden, amid concerns from Biden allies that some current members were politically aligned with President Trump,"
+    publishedDateTime: 2020-12-31T00:37:00Z
+    webUrl: "https://www.washingtonpost.com/politics/secret-service-to-make-changes-to-presidential-detail-to-bring-on-agents-who-worked-with-biden/2020/12/30/d6fb8fe8-49ce-11eb-a9d9-1e3ec4a928b9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/secret-service-to-make-changes-to-presidential-detail-to-bring-on-agents-who-worked-with-biden/2020/12/30/d6fb8fe8-49ce-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/secret-service-to-make-changes-to-presidential-detail-to-bring-on-agents-who-worked-with-biden/2020/12/30/d6fb8fe8-49ce-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3MOMNUCK6II6XA42Z5F2PN6ERQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden gets vaccine, says 'nothing to worry about'"
     excerpt: "President-elect Joe Biden on Monday received his first dose of the coronavirus vaccine on live television as part of a growing effort to convince the American public the inoculations are safe. (Dec. 2"
     publishedDateTime: 2020-12-21T22:26:00Z
@@ -102,6 +134,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/29/c0ee9fa5-cfc9-486e-97d6-fb0f7d792ca7/thumbnail/1200x630/3a6397e7cee8d7040b8a6e789e15cbe6/cbsn-fusion-joe-biden-covid-19-response-plan-vaccine-distribution-thumbnail-617751-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Brother Of Joe Biden’s Closest Advisor Picks Up Amazon As New Client"
+    excerpt: "Amazon has hired Jeff Ricchetti, the brother of Joe Biden’s White House counselor Steve Ricchetti, to work for its cloud platform Amazon Web Services. A new lobbying disclosure report revealed Jeff Ricchetti landed a lobbying contract with the tech retail giant last month,"
+    publishedDateTime: 2020-12-27T17:18:00Z
+    webUrl: "https://www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130"
+    ampWebUrl: "https://www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/23/joe-biden-is-president-elect-despite-president-donald.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Joe Biden cometh, and he's bringing his czars to rule"
     excerpt: "Make way for the czars. A Joe Biden White House, as media report is in the works, will bring more czars, more issuance of regulation, more Barack Obama-like pen and phone governance than any kind of duly passed laws and order."

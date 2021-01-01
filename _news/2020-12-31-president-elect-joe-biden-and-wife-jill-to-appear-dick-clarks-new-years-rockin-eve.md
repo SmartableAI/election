@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-interview-with-jill-dick-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/"
 type: article
 quality: 117
-heat: 177
+heat: 197
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "User Clip: Joe Biden calls Kamala Harris 'president-elect'"
+    excerpt: "President-elect Joe Biden makes a verbal gaffe during remarks in Wilmington, Del."
+    publishedDateTime: 2020-12-29T22:29:00Z
+    webUrl: "https://www.c-span.org/video/?c4932320/user-clip-joe-biden-calls-kamala-harris-president-elect"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 60
   - title: "Joe and Jill Biden to appear on ‘New Year’s Rockin’ Eve’"
     excerpt: "Ryan Seacrest will have a special pair of guests alongside the music stars at this year's New Year's Eve celebration on ABC — the president-elect and the future first lady. President-elect Joe Biden and Dr."
     publishedDateTime: 2020-12-31T15:36:00Z

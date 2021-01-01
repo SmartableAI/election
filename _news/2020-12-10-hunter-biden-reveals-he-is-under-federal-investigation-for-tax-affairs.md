@@ -203,6 +203,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden says he sees no evidence cyber attack is under control"
+    excerpt: "WILMINGTON, Del. (Reuters) -President-elect Joe Biden said on Tuesday he had seen no evidence that a massive cyber attack against the United States is under control and warned that the breach will not go unanswered once he takes office on Jan."
+    publishedDateTime: 2020-12-23T03:31:00Z
+    webUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden presents new defense chief as son Hunter reveals his taxes are being investigated – as it happened"
     excerpt: "President-elect introduces Lloyd Austin to lead US defense as news that Hunter Biden’s tax affairs are under review surfaces"
     publishedDateTime: 2020-12-10T01:11:00Z

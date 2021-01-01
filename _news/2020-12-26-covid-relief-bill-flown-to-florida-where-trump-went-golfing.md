@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-flori
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
 type: article
 quality: 125
-heat: 585
+heat: 605
 published: true
 
 provider:
@@ -318,6 +318,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/TVprj6I_MiixMX6j-AmfkAs6eYc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PAVSBWTRPDKJZNXABFXCVNHI6Q.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump extends COVID-related bans on visas, green cards; court clears health insurance requirement for immigrants"
+    excerpt: "Trump said the measures would protect American jobs in a pandemic-wracked economy, while business groups said they would hamper a recovery."
+    publishedDateTime: 2021-01-01T16:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/01/trump-extends-visa-bans/4107279001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4107279001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4107279001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/01/USAT/0dcd5997-f196-4431-9c6d-6e62903b6e6b-AP_Trump_1.jpg?auto=webp&crop=3593,2021,x508,y109&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The Walter Reed doctor who lost his ER job after condemning Trump's COVID-19 hospital joyride says he regrets nothing"
     excerpt: "Dr. James Phillips rebuked President Donald Trump's decision to greet supporters from inside a sealed car while he had COVID-19."

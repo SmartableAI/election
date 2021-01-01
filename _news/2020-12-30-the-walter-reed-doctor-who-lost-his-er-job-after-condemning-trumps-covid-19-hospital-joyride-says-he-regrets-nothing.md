@@ -335,6 +335,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump extends COVID-related bans on visas, green cards; court clears health insurance requirement for immigrants"
+    excerpt: "Trump said the measures would protect American jobs in a pandemic-wracked economy, while business groups said they would hamper a recovery."
+    publishedDateTime: 2021-01-01T16:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/01/trump-extends-visa-bans/4107279001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4107279001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4107279001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/01/USAT/0dcd5997-f196-4431-9c6d-6e62903b6e6b-AP_Trump_1.jpg?auto=webp&crop=3593,2021,x508,y109&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Lindsey Graham says Trump is 'more determined than ever' to secure $2,000 checks as COVID-19 relief bill lingers in limbo"
     excerpt: "Sen. Lindsey Graham tweeted that President Donald \"more determined than ever to increase stimulus payments to $2000 per person.\""
     publishedDateTime: 2020-12-26T15:00:00Z
