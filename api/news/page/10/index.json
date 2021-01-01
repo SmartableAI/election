@@ -2,6 +2,162 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-12-17-kamala-harris-to-robin-roberts-i-feel-a-very-big-sense-of-responsibility-as-historic-vp.md",
+      "title": "Kamala Harris to Robin Roberts: 'I feel a very big sense of responsibility' as historic VP",
+      "excerpt": "The people are suffering,” Harris told \"Good Morning America\" anchor Robin Roberts in an exclusive interview. “The moratoriums on evictions and foreclosures are about to end. The extension that people need of benefits is very real.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/kamala-harris-robin-roberts-feel-big-sense-responsibility/story?id=74735663",
+      "originalUrl": "https://abcnews.go.com/Politics/kamala-harris-robin-roberts-feel-big-sense-responsibility/story?id=74735663",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/kamala-harris-robin-roberts-interview-01-abc-jc-201215_1608074713857_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/kamala-harris-robin-roberts-feel-big-sense-responsibility/story?id=74735663",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-robin-roberts-feel-big-sense-responsibility/story?id=74735663",
+      "publishedDateTime": "2020-12-16T09:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-betsy-devos-asked-her-department-of-education-staff-to-become-the-resistance-when-biden-takes-office.md",
+      "title": "Betsy DeVos asked her Department of Education staff to become 'the resistance' when Biden takes office",
+      "excerpt": "Education Secretary Betsy DeVos was recorded telling Department of Education staff to become \"the resistance\" during a virtual meeting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/betsy-devos-told-doe-staff-become-resistance-biden-administration-2020-12",
+      "originalUrl": "https://www.businessinsider.com/betsy-devos-told-doe-staff-become-resistance-biden-administration-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fda26b81803a80018adfc0e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/betsy-devos-told-doe-staff-become-resistance-biden-administration-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/betsy-devos-told-doe-staff-become-resistance-biden-administration-2020-12?amp",
+      "publishedDateTime": "2020-12-16T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-how-far-did-ron-desantiss-loyalty-to-trump-go.md",
+      "title": "How far did Ron DeSantis’s loyalty to Trump go?",
+      "excerpt": "When Ron DeSantis ran for governor of Florida in 2018, he made a politically savvy decision: He would be the most pro-President-Trump candidate possible. He popped up on Fox News repeatedly, understanding that it would be an effective way to get Trump’s attention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/12/16/how-far-did-ron-desantiss-loyalty-trump-go/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/16/how-far-did-ron-desantiss-loyalty-trump-go/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JLU34TR7FEI6XNMLCYR7MJTZMA.jpg&w=1440",
+          "width": 1440,
+          "height": 1011,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/16/how-far-did-ron-desantiss-loyalty-trump-go/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/16/how-far-did-ron-desantiss-loyalty-trump-go/?outputType=amp",
+      "publishedDateTime": "2020-12-16T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-kamala-harris-i-dont-understand-the-hesitation-on-covid-19-relief.md",
       "title": "Kamala Harris: 'I don't understand the hesitation' on COVID-19 relief",
       "excerpt": "Vice President-elect Sen. Kamala D. Harris said in an interview that aired Wednesday that she doesn’t understand what’s taking so long to pass another round of COVID-19 relief.",
@@ -1175,166 +1331,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-a-talk-with-frances-ambassador-on-biden-climate-accord-and-restoring-allies-trust.md",
-      "title": "A talk with France’s ambassador: On Biden, climate accord and restoring allies’ trust",
-      "excerpt": "The Times speaks with Philippe Etienne, France's envoy to the U.S., on Biden's promise to rejoin the five-year-old Paris Accord that Trump disavowed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/story/2020-12-14/a-talk-with-frances-ambassador-on-biden-climate-accord-and-restoring-allies-trust",
-      "originalUrl": "https://www.latimes.com/politics/story/2020-12-14/a-talk-with-frances-ambassador-on-biden-climate-accord-and-restoring-allies-trust",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/a08b3ce/2147483647/strip/true/crop/4336x2832+180+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdb%2F59%2F4a9965f21e1457f290a5206c1d43%2F865883e16a53418e8cf38fa7726ded7d",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/politics/story/2020-12-14/a-talk-with-frances-ambassador-on-biden-climate-accord-and-restoring-allies-trust?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-14/a-talk-with-frances-ambassador-on-biden-climate-accord-and-restoring-allies-trust?_amp=true",
-      "publishedDateTime": "2020-12-14T18:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-under-attack-from-trump-americas-democratic-institutions-bend-but-dont-break.md",
-      "title": "Under attack from Trump, America’s democratic institutions bend but don’t break",
-      "excerpt": "Historians and democracy experts said they feared that the tumultuous post-election period had exposed the fragility of the instruments of democracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/hI1Y5FYhOzQSxPk_372qNQCsw4I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XBBB32DW26JFTNJSF6TAYX7P2A.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-election-democratic-institutions-20201215-jes4bt3wmjgedlyktzibuoihvy-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-14T18:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-internet-fact-checker-at-firm-that-works-with-facebook-reveals-distrust-of-trump-wh.md",
-      "title": "Internet fact-checker at firm that works with Facebook reveals distrust of Trump WH",
-      "excerpt": "Companies like Facebook work with groups licensed by individuals at the International Fact-Checking Network.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eMCBfLQZb4k/fact-checker-anti-trump-bias",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eMCBfLQZb4k/fact-checker-anti-trump-bias",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/578c0eab-8f63-4387-a70b-27ada2627f0c/6830dc2d-7b97-4f0d-a32f-ba7913410cf0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fact-checker-anti-trump-bias.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fact-checker-anti-trump-bias.amp",
-      "publishedDateTime": "2020-12-14T16:36:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

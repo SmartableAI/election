@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-28-trumps-furniture-fail-thats-not-a-desk-donald-its-a-table-for-tv-dinners.md",
+      "title": "Trump's furniture fail: that's not a desk, Donald – it's a table for TV dinners",
+      "excerpt": "The Resolute desk at the White House is made of timbers taken from a Royal Navy ship. It projects pure power. Is that why the defeated US president has switched to an occasional table he can barely squeeze his legs under?",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/artanddesign/2020/nov/27/trumps-furniture-fail-desk-donald-table-tv-dinners",
+      "originalUrl": "https://www.theguardian.com/artanddesign/2020/nov/27/trumps-furniture-fail-desk-donald-table-tv-dinners",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/16cb7b7093d8a5252e82b5c01d2d72c758b0c441/0_0_5916_3944/master/5916.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f35b785ba07815a5d778c7bd2f281979",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/artanddesign/2020/nov/27/trumps-furniture-fail-desk-donald-table-tv-dinners",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2020/nov/27/trumps-furniture-fail-desk-donald-table-tv-dinners",
+      "publishedDateTime": "2020-11-27T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-angry-trump-promises-rally-in-battleground-state-of-georgia.md",
       "title": "Angry Trump promises rally in battleground state of Georgia",
       "excerpt": "President Donald Trump on Thursday renewed baseless claims that “massive fraud” and crooked local officials in battleground states led to his election defeat, and said he’ll go to Georgia for a rally",
@@ -1500,58 +1552,6 @@
       "ampWebUrl": "https://amp.usatoday.com/amp/3767048001",
       "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3767048001",
       "publishedDateTime": "2020-11-19T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-judge-orders-trump-administration-to-stop-expelling-unaccompanied-migrant-children-at-us-mexico-border.md",
-      "title": "Judge orders Trump administration to stop expelling unaccompanied migrant children at US-Mexico border",
-      "excerpt": "A U.S. judge has barred the Trump administration from expelling unaccompanied migrant children detained at the border under an emergency health order.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/11/18/judge-orders-us-stop-expelling-unaccompanied-migrant-children/3771858001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/11/18/judge-orders-us-stop-expelling-unaccompanied-migrant-children/3771858001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/11/USAT/b6ca927b-2395-4a79-96c7-871c3f9b002d-AP_Immigration_Separated_Families.jpg?auto=webp&crop=2999,1687,x1,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3771858001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3771858001",
-      "publishedDateTime": "2020-11-19T01:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",

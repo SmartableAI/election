@@ -89,6 +89,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Iran says Trump is trying to fabricate pretext for war"
+    excerpt: "Tehran says it will defend itself forcefully as tensions rise ahead of anniversary of Suleimani killing"
+    publishedDateTime: 2020-12-31T23:26:00Z
+    webUrl: "https://www.theguardian.com/world/2020/dec/31/iran-says-trump-is-trying-to-fabricate-pretext-for-war"
+    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/31/iran-says-trump-is-trying-to-fabricate-pretext-for-war"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/31/iran-says-trump-is-trying-to-fabricate-pretext-for-war"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/3ccbc88064d062146765d0963a503be4ff308eaa/0_0_4240_2545/master/4240.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a9ecb355a5aed50a9e8e7cdbe5b75841"
+        width: 600
+        height: 360
+        isCached: true
   - title: "UPDATE 1-Trump to skip New Year's Eve in Florida for early return to Washington"
     excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
     publishedDateTime: 2020-12-31T16:21:00Z

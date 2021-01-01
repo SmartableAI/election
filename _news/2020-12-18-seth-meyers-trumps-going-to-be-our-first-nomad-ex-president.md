@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/culture/2020/dec/17/seth-meyers-trump-no
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2020/dec/17/seth-meyers-trump-nomad-ex-president-late-night-recap"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Paleologos on the Poll: A 'cult president'? Breaking down Trump's support"
+    excerpt: "Donald Trump could at the very least be characterized as one of the few U.S. presidents with a cult of personality and a cult-like following."
+    publishedDateTime: 2020-12-24T13:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/24/paleologos-on-poll-breaking-down-donald-trump-cult-like-following/4037335001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4037335001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4037335001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/13/USAT/73dbd8f7-f11e-4518-ad46-4d2a8121b775-Trump_AF1.jpg?auto=webp&crop=3737,2103,x0,y190&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump expected to arrive on Dec. 23 for last presidential Christmas at Mar-a-Lago"
     excerpt: "Trump is expected to arrive in Palm Beach on Dec. 23 and return to Washington Jan. 3 for his last Christmas and New Years  at Mar-a-Lago as president"
     publishedDateTime: 2020-12-18T00:34:00Z

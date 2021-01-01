@@ -3,10 +3,10 @@ category: news
 title: "Trump heads back to Washington early amid showdown with Congress"
 excerpt: "U.S. President Donald Trump headed back to Washington from his Florida resort on Thursday, a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
 publishedDateTime: 2020-12-31T21:58:00Z
-originalUrl: "https://www.reuters.com/article/usa-trump/update-1-trump-to-skip-new-years-eve-in-florida-for-early-return-to-washington-idUSL1N2JB0X2"
-webUrl: "https://www.reuters.com/article/usa-trump/update-1-trump-to-skip-new-years-eve-in-florida-for-early-return-to-washington-idUSL1N2JB0X2"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2951B0"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2951B0"
+originalUrl: "https://www.reuters.com/article/usa-trump-idUSL1N2JB0X2"
+webUrl: "https://www.reuters.com/article/usa-trump-idUSL1N2JB0X2"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JB0X2"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JB0X2"
 type: article
 quality: 125
 heat: -1
@@ -176,6 +176,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Y/5W9EkcgtHqKJtTZVHIuaxz5i0rTsvor/yDy7iZCKXXnz+XJ0T8xouX7tljkixf5MaaHjFEh2651a3pCMlqrfd1+akv15FhJ5KUrIG3PIqquIb5TvPCXKCrRvOpoYzI5umOMLRlj/o7y531MZLbY83FY3G+r6m1Wrg3hXWJCZMtTkeKoDT9iXL5EcOo5PKRgn+mHer8YxdiSppt4Aor+akS2c5GBTHqJINBVyXyQ2KbUXfAqx88hoTn9fvCYa0KSKqctFCAEW9KjoogGDt+a9toYj2QuoIUPcgiASzQq6WIN153WaVBbU0vuJt75xwIgzOigSO1rNzJsyCXIq/4MCPvAO/pBdJt2vHOleajvr0=;tuk2RHy0llPBMVEV60CXvg=="
+secured: "DaGZq8xCS6FHwe5dVXeiPRD5Zx64AQA2BdZ+H0gOw8XT9euC4ZuEfJDdX1BB//L5/CF3WO62Rj1FaTqcYOGXf/3bYHUf7iWpd+AE/nm9Nzh6VzVcDu9YUTjgqWyH+HoqIi4PVc7l2AVmRVjn3LnS5VDGvq5XE10MBAvS7BX2rkhHxrKhXPO6WL1fAPzScqm0wf0hoh70aO88HRjMiInDmhdUAaarItVOr8ACMsfl4TOzferpq/+kfsQsavrai3Chq/8w5hRB5RSxC1zzZ5R66B/HdB4G2NeZ+OAR0JzaB4ICNz4VLtvK1Dt21FNbQfrwHYTOBFR3BHIivUABzvsXradyfoi5e0XX+B+lbizhHRk=;k9yBqU7ZDXWj4no4kMyVcw=="
 ---
 

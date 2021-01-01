@@ -95,6 +95,17 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Census Bureau to miss deadline, jeopardizing Trump plan"
+    excerpt: "The Census Bureau plans to announce it will miss a year-end deadline for handing in numbers used for divvying up congressional seats. That delay could undermine President Donald Trump’s efforts to exclude people in the country illegally from the count if the figures aren’t turned in before President-elect Joe Biden takes office."
+    publishedDateTime: 2020-12-31T11:16:00Z
+    webUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Stock market live updates: Stocks rise, Trump knocks stimulus, personal income falls"
     excerpt: "This is a markets live blog for CNBC PRO subscribers that will be updated throughout the day. The major indexes rose on Wednesday morning as the S&P 500 looked to snap a three-day losing streak. The move came despite President Donald Trump calling the new stimulus deal reached by Congress a \"disgrace\" and called for the amount of direct checks to Americans to be increased."
     publishedDateTime: 2020-12-23T15:31:00Z
@@ -148,6 +159,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "NO3arSvrXzZ2NUjWoo0l37n6MuoOIWToFMd05bKRQ2dVOqJgHXVxw2529363+5vkH8h9I89Ay/rVQnDK7qWAX+II75lAWmeELm7p7KGoYbYo/3IOZdnNmU1hFWDD2BM1HMityLeiqsHcuJmg5YlGKmo/gYpDK3yr3D6C55H7tbmmRBgVUPRMakMSJdjCMTMe0FE9XU+c3cMaXtdYM0wIqfiAaFd5yI3l3nx97cEo0ZZM5otzG5pjpXrYzbE4eLPypCMM0x24ZjOXVESXLjOwLlknLDablAmSHsfGNk8DHpdFOvJZvQN4kTxiBOVt02xY2DMcPwqKNeY9TFoSuIBBodut5BDfbCeVqviSY9BPiqA=;Gsd+9Q8KNIcjcDETAzlkJA=="
+secured: "6jN3PbL2G3H5fDY6qf3lNvGujLAry78i7dZWhHDRQv+1/w89wFhFYmn9cABc0WJh+/9zm40Skx7kSAaBJxDN9QGf6hWPtsxBtsIDzhG5hZJnsu5z9yawhMNZlCXyHMIfLNAdZDRv0ouzjePd0uj1FuR6hyGcyhM7O6Z/KbqAQw0H5MdRlMNqYmvTVIvtQ1N07u9O+ToYgOh+XgokOHI7eUKhSPDU09gyDnT92QW0iehEtrGx8xKPfgANm1SoNcCRTVLPuxPo3coDFttGP7ASbQ8jkQ6PaujVIrrP+eWWYs43G3A71E9TyZ6dr4heCEf5A+TX4pCIHbrX1HXTWHQNdo7QsP/fdbuZqNoivvXmpyrxSqzBjmuHIVMzQW40XGL7C3JtARiClEbFLBnphHsKYi41z6ehS8ZBEZDT9ftKCToyOkxlzf23r7uQXS5RfpfWJWZEzodzq3KZW8AafZ9AF6LhDRd0HxXlLWbIJ3WQBJIk3c7SQkUT0AyJwXUwqMFo6PYIccnuWy3mQi3QXqa+XQ==;cp1oxZH+NZy5PBNwgXA/aA=="
 ---
 

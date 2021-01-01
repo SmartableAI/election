@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fact check: These 5 election statistics do not discredit Joe Biden's victory"
+    excerpt: "Social media users have shared a meme with statistics about Barack Obama, Donald Trump and Joe Biden that they claim discredit election results."
+    publishedDateTime: 2020-12-31T23:37:00Z
+    webUrl: "https://www.indystar.com/story/news/factcheck/2020/12/31/fact-check-5-election-statistics-do-not-discredit-joe-bidens-victory/4086497001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4086497001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4086497001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 87
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/9f70ffd8-a8b4-4497-b1de-018d10ca07fe-2020-elections-topper-02.png?auto=webp&crop=7967,4481,x16,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "pmGeRqTfS37ZT+k/iTrtihLJUCcUjOigLx5mkfeqDveW5GK3UgSWvo1Dx6wciWdyrBdGZVBE9yH7twyXveh0ey9hL9EvIwa0/MqRasg8GRl+C7YKzgjSLzBNA4xBKtDDF6zPEcWnhkoEVnttT2RGCHO3RZZWfdvtWHSitBgBvTEzD66k1lJWJWLxpihhIRcMIsCMZJgpcmT1S4hrKuSMUi68jsqw/PP3r2/4F4ggzYIhuA0D3NUo8ARmcCKm5zLnVHnVWTZZy3w22mdtK8OEv0at3y7/eE2uh4+FGclpNsZ2o/Jr2sQgf5BPafaFCokcQVYAgI/cWZxCb9p9nWUNhgI14eSwOSkwPLz81a7kL1v2Q44Rohvv4vjZWvtUMans0i83cNHGdzFYHZ1nivRgEUlRFLMTlhYZ3XpJdhVFZO3mc9gozEz/Ga1h6OUfh5hHgAglrtvBiiZnHC3hvYgxrdpzoCZ364j4FQEYE4VeLsWMYAbJ6dtCNHAHjzSUsCaFz55YuhgvkwxQW3an9VzR1g==;9lhPw22aQRgrMLsLuzvb2g=="
 ---

@@ -238,6 +238,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump extends immigration restrictions, citing pandemic's impact on labor market "
+    excerpt: "President Donald Trump extended certain restrictions on legal immigration and on visas that allow immigrants to temporarily work in the United States on Thursday, just hours before those restrictions were set to lapse. Trump extended the restrictions through March 31, two months after he will leave office.\n"
+    publishedDateTime: 2021-01-01T00:38:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rvAwU8yfuBQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/trump-immigration-restrictions-pandemic/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/trump-immigration-restrictions-pandemic/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201231163449-trump-final-days-early-white-house-return-election-results-collins-dnt-lead-vpx-00003317-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden White House to issue memo to halt or delay midnight regulations on January 20"
     excerpt: "On Joe Biden's first day as President, his White House will issue a memo to halt or delay midnight regulations and actions taken by the Trump administration that will not have taken effect by Inauguration Day, Biden transition spokesperson Jen Psaki told reporters on Wednesday.\n    \n"
     publishedDateTime: 2020-12-30T20:51:01Z

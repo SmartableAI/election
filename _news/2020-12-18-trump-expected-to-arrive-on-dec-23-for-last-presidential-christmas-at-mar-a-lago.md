@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Paleologos on the Poll: A 'cult president'? Breaking down Trump's support"
+    excerpt: "Donald Trump could at the very least be characterized as one of the few U.S. presidents with a cult of personality and a cult-like following."
+    publishedDateTime: 2020-12-24T13:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/24/paleologos-on-poll-breaking-down-donald-trump-cult-like-following/4037335001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4037335001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4037335001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/13/USAT/73dbd8f7-f11e-4518-ad46-4d2a8121b775-Trump_AF1.jpg?auto=webp&crop=3737,2103,x0,y190&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump's would-be neighbors say he can't live at Mar-a-Lago post-presidency"
     excerpt: "The Post’s Carol D. Leonnig explains the difficulties President Trump will have if he claims Mar-a-Lago in Palm Beach, Fla., as his post-presidency residence."
     publishedDateTime: 2020-12-18T18:51:00Z

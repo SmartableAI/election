@@ -79,6 +79,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump lashes out at GOP after override vote on defense bill"
+    excerpt: "President Donald Trump is lashing out at congressional Republicans after the House easily voted to override his veto of a defense policy bill"
+    publishedDateTime: 2020-12-30T08:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_74464e91b5bb4d5aab0e0dd45aa51e0b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "No reason given for Trump cutting short his Florida vacation"
     excerpt: "President Donald Trump is cutting short his Florida vacation and will be returning to Washington on Thursday, a day earlier than originally expected"
     publishedDateTime: 2020-12-31T15:37:00Z
@@ -287,6 +303,33 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump golfs in Florida, rails against House GOP and election results on first day of his winter vacation as COVID relief hangs in the balance"
+    excerpt: "Trump had no events on his public schedule on the first day of his winter vacation Thursday, but traveled to his Palm Beach golf club, where he was spotted by CNN cameras on the links. Reporters were given no details of his schedule for the day,"
+    publishedDateTime: 2020-12-24T23:52:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 105
+    images:
+      - url: "https://www.chicagotribune.com/resizer/TVprj6I_MiixMX6j-AmfkAs6eYc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PAVSBWTRPDKJZNXABFXCVNHI6Q.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump lashes out at GOP after override vote on defense bill"
+    excerpt: "President Donald Trump lashed out at congressional Republicans a day after the House easily voted to override his veto of a defense policy bill."
+    publishedDateTime: 2020-12-30T19:17:00Z
+    webUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "The Walter Reed doctor who lost his ER job after condemning Trump's COVID-19 hospital joyride says he regrets nothing"
     excerpt: "Dr. James Phillips rebuked President Donald Trump's decision to greet supporters from inside a sealed car while he had COVID-19."
     publishedDateTime: 2020-12-29T23:20:00Z
@@ -346,6 +389,22 @@ related:
     quality: 91
     images:
       - url: "https://i.insider.com/5fe7ffcfedf8920018093c82?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump is holding up the COVID-19 stimulus package with demands for $2,000 checks — but there are enough votes in Congress to override a veto"
+    excerpt: "President Trump called the $900 billion package — passed by Congress earlier this week after months of negotiations — a \"disgrace\" on Tuesday."
+    publishedDateTime: 2020-12-23T12:16:00Z
+    webUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://i.insider.com/5fe32894a64488001819315e?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

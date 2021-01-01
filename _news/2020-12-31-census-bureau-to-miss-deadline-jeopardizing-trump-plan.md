@@ -25,271 +25,138 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Pence's former top aide said that Trump is 'encouraging' violence on the day Congress votes to seal the 2020 presidential election results"
-    excerpt: "President Trump has promised his supporters there would be a \"wild\" rally in the capital on the day of Congress votes to approve the election result."
-    publishedDateTime: 2020-12-30T14:52:00Z
-    webUrl: "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 131
-    images:
-      - url: "https://i.insider.com/5fec7314b7ab82001943e8ed?width=1200&format=jpeg"
-        width: 1200
-        height: 599
-        isCached: true
-  - title: "Trump's legacy: He changed the presidency, but will it last?"
-    excerpt: "His legacy: a tumultuous four years that were marked by his impeachment, failures during the worst pandemic in a century and his refusal to accept defeat. He smashed conceptions about how presidents behave and communicate,"
-    publishedDateTime: 2020-12-24T06:09:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-legacy-changed-presidency-74889255"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74889255"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74889255"
+  - title: "Global stocks advance after Trump signs $900B aid package"
+    excerpt: "Global stock markets have risen after President Donald Trump signed a $900 billion economic aid package, helping to reduce uncertainty as governments re-impose travel and business curbs in response to"
+    publishedDateTime: 2020-12-28T14:08:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/asian-stocks-advance-trump-signs-900b-aid-package-74929903"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/asian-stocks-advance-trump-signs-900b-aid-package-74929903"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/asian-stocks-advance-trump-signs-900b-aid-package-74929903"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Travel/WireAP_9eca90799b1e4adb91d30dd45a42cb70_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump lashes out at GOP after override vote on defense bill"
-    excerpt: "President Donald Trump is lashing out at congressional Republicans after the House easily voted to override his veto of a defense policy bill"
-    publishedDateTime: 2020-12-30T08:21:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
+  - title: "Trump's $2,000 checks stall in Senate as GOP blocks vote"
+    excerpt: "President Donald Trump’s push for bigger $2,000 COVID-19 relief checks has stalled out in the Republican-led Senate"
+    publishedDateTime: 2020-12-30T05:40:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_74464e91b5bb4d5aab0e0dd45aa51e0b_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Health/WireAP_3cd216cd1023408db0da90287b3279b1_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump presidential museum will have 'unconventional' story to tell"
-    excerpt: "An impeachment. A once-in-a-century pandemic and unprecedented post-election challenge. And that's just one year of the Trump presidency."
-    publishedDateTime: 2020-12-30T12:42:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/30/trump-presidential-museum-have-unconventional-story-tell/4084730001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4084730001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4084730001"
+  - title: "Senate GOP blocks Democratic push for Trump's $2K checks"
+    excerpt: "Senate Majority Leader Mitch McConnell has blocked Democrats’ push to immediately bring President Donald Trump’s demand for bigger $2,000 COVID-19 relief checks up for a vote"
+    publishedDateTime: 2020-12-31T07:21:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/22/NPPP/dd2d1f29-0dd9-4988-9dcd-de1126fa28d9-2019123_Trump_Tuesday_13.JPG?auto=webp&crop=4295,2416,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Health/WireAP_b0df8d10c7f84679b2d85479bc4b367d_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Paleologos on the Poll: A 'cult president'? Breaking down Trump's support"
-    excerpt: "Donald Trump could at the very least be characterized as one of the few U.S. presidents with a cult of personality and a cult-like following."
-    publishedDateTime: 2020-12-24T13:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/24/paleologos-on-poll-breaking-down-donald-trump-cult-like-following/4037335001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4037335001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4037335001"
+  - title: "Trump returns to White House early, offers year-end message"
+    excerpt: "President Donald Trump has delivered a year-end video message after returning early from vacation, highlighting his administration’s work to rapidly develop a vaccine against COVID-19 and rebuild the"
+    publishedDateTime: 2020-12-31T21:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-returns-white-house-early-offers-year-end-74995134"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-returns-white-house-early-offers-year-end-74995134"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-returns-white-house-early-offers-year-end-74995134"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4073d224c3744c128d16d0fbafee82cc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Congress passes $900 billion 'historic bipartisan rescue package' that now heads to Trump for approval"
+    excerpt: "After weeks of painstaking negotiation and months of partisan finger-pointing, the Senate resoundingly passed a sweeping COVID-19 relief package Monday, sending a bill to President Donald Trump to sign that will send millions of Americans direct payments and rescue thousands of small businesses nationwide struggling to stay open in the face of the pandemic's suffocating grip."
+    publishedDateTime: 2020-12-22T11:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/21/stimulus-checks-covid-relief-bill-ppp-loan/3990756001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3990756001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3990756001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 124
+    quality: 109
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/13/USAT/73dbd8f7-f11e-4518-ad46-4d2a8121b775-Trump_AF1.jpg?auto=webp&crop=3737,2103,x0,y190&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/398cd292-4d0a-49c5-b3e1-dada011a0b40-GTY_1292304296.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 675
+        height: 676
         isCached: true
-  - title: "House Republicans join with Democrats to override Trump's veto of defence bill"
-    excerpt: "If, as expected, the Senate follows suit later this week, it will be Congress’s first such rebuke of his presidency"
-    publishedDateTime: 2020-12-29T06:36:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
+  - title: "Stock market live updates: Stocks rise, Trump knocks stimulus, personal income falls"
+    excerpt: "This is a markets live blog for CNBC PRO subscribers that will be updated throughout the day. The major indexes rose on Wednesday morning as the S&P 500 looked to snap a three-day losing streak. The move came despite President Donald Trump calling the new stimulus deal reached by Congress a \"disgrace\" and called for the amount of direct checks to Americans to be increased."
+    publishedDateTime: 2020-12-23T15:31:00Z
+    webUrl: "https://www.cnbc.com/2020/12/23/stock-market-live-updates-futures-up-slightly-trump-knocks-stimulus-jobless-claims-ahead.html"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 121
+      name: CNBC
+      domain: cnbc.com
+    quality: 98
     images:
-      - url: "https://i.guim.co.uk/img/media/f5683752a5a505c0492063d2d1dd1d7e1f59b149/0_135_4043_2425/master/4043.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=744285010e354a8f4bb804c744576b66"
-        width: 600
-        height: 360
+      - url: "https://image.cnbcfm.com/api/v1/image/106810836-1607962037161NYSE-Trading-Floor-Photo-20201214-Press-4-jpg?v=1607962445"
+        width: 6385
+        height: 4257
         isCached: true
-  - title: "Post-presidency at Mar-a-Lago; What Donald Trump can expect when he leaves the White House"
-    excerpt: "Living at Mar-a-Lago as a former president who lost his re-election bid will not be the same as visiting Mar-a-Lago. Here's what he can expect."
-    publishedDateTime: 2020-12-29T13:43:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/29/life-mar-lago-wont-like-trumps-visits-here-what-expect/4070938001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4070938001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4070938001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/20/NPPP/904061d6-1a69-47a0-b1b7-54759c8102e2-USATSI_13867755.jpg?auto=webp&crop=4615,2596,x0,y220&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Mitch McConnell has pitted himself against Trump during the president's final days in office"
-    excerpt: "The lame duck battle between McConnell and Trump on stimulus checks has baffled Democrats, but they've welcomed the president's support."
-    publishedDateTime: 2020-12-30T22:32:00Z
-    webUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/5fecf9b1a18a450018cb6543?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Secret Service to make changes to presidential detail to bring on agents who worked with Biden"
-    excerpt: "The Secret Service is making some staff changes in the presidential detail that will guard President-elect Joe Biden, amid concerns from Biden allies that some current members were politically aligned with President Trump,"
-    publishedDateTime: 2020-12-31T00:37:00Z
-    webUrl: "https://www.washingtonpost.com/politics/secret-service-to-make-changes-to-presidential-detail-to-bring-on-agents-who-worked-with-biden/2020/12/30/d6fb8fe8-49ce-11eb-a9d9-1e3ec4a928b9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/secret-service-to-make-changes-to-presidential-detail-to-bring-on-agents-who-worked-with-biden/2020/12/30/d6fb8fe8-49ce-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/secret-service-to-make-changes-to-presidential-detail-to-bring-on-agents-who-worked-with-biden/2020/12/30/d6fb8fe8-49ce-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3MOMNUCK6II6XA42Z5F2PN6ERQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump golfs in Florida, rails against House GOP and election results on first day of his winter vacation as COVID relief hangs in the balance"
-    excerpt: "Trump had no events on his public schedule on the first day of his winter vacation Thursday, but traveled to his Palm Beach golf club, where he was spotted by CNN cameras on the links. Reporters were given no details of his schedule for the day,"
-    publishedDateTime: 2020-12-24T23:52:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 105
-    images:
-      - url: "https://www.chicagotribune.com/resizer/TVprj6I_MiixMX6j-AmfkAs6eYc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PAVSBWTRPDKJZNXABFXCVNHI6Q.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump lashes out at GOP after override vote on defense bill"
-    excerpt: "President Donald Trump lashed out at congressional Republicans a day after the House easily voted to override his veto of a defense policy bill."
-    publishedDateTime: 2020-12-30T19:17:00Z
-    webUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trump vowed to drain the swamp. Then he granted clemency to three former congressmen convicted of federal crimes."
-    excerpt: "Pardons and commutations went to “cronies” while thousands of applications at the Justice Department are pending."
-    publishedDateTime: 2020-12-24T01:40:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 104
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/45Z646SFOII6XMHEB4MCSI5AEU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump is holding up the COVID-19 stimulus package with demands for $2,000 checks — but there are enough votes in Congress to override a veto"
-    excerpt: "President Trump called the $900 billion package — passed by Congress earlier this week after months of negotiations — a \"disgrace\" on Tuesday."
-    publishedDateTime: 2020-12-23T12:16:00Z
-    webUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
+  - title: "Global shares rise, buoyed by relief after UK travel rules were eased, while Trump signals he may not sign off on $900 billion stimulus bill"
+    excerpt: "Shares increase after France relaxes rules on arrivals from UK, where a new strain of COVID-19 has millions in lockdown; Trump bashes stimulus bill"
+    publishedDateTime: 2020-12-23T10:56:00Z
+    webUrl: "https://www.businessinsider.com/stock-markets-equities-up-uk-travel-rules-ease-trump-focus-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/stock-markets-equities-up-uk-travel-rules-ease-trump-focus-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-markets-equities-up-uk-travel-rules-ease-trump-focus-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 90
     images:
-      - url: "https://i.insider.com/5fe32894a64488001819315e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://images2.markets.businessinsider.com/5fe315efa644880018193148?format=jpeg"
+        width: 789
+        height: 526
         isCached: true
-  - title: "Louie Gohmert sues Mike Pence in bid to overturn election results"
-    excerpt: "A group of Republicans led by Rep. Louie Gohmert on Monday sued Vice President Mike Pence arguing that he is legally authorized to choose pro-Trump electors when Congress meets next month to certify the results of the presidential election."
-    publishedDateTime: 2020-12-28T18:42:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
+  - title: "Trump's $2,000 Checks All but Dead as GOP Senate Refuses Aid"
+    excerpt: "President Donald Trump's push for $2,000 COVID-19 relief checks was all but dead Wednesday as Senate Majority Leader Mitch McConnell proposed an alternative approach of loading up the bill with other White House priorities that appeared destined to fail."
+    publishedDateTime: 2020-12-30T20:19:00Z
+    webUrl: "https://www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote"
+    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote?context=amp"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 90
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/07/29/congress_judiciary_96421_c0-0-3786-2208_s1200x700.jpg?962ee6637fa28f773de275bdd510053858c8f287"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Republican legislators sue Mike Pence to try to undo election results"
-    excerpt: "A group of Republican legislators led by U.S.  (R-Texas) is suing Vice President Mike Pence, hoping that it will end up allowing Pence to choose which electoral votes should count from states in which President Donald Trump lost."
-    publishedDateTime: 2020-12-29T11:41:00Z
-    webUrl: "https://www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html"
-    ampWebUrl: "https://www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html?outputType=amp"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump's $2,000 Checks Stall in Senate as GOP Blocks Vote"
+    excerpt: "President Donald Trump’s push for bigger $2,000 COVID-19 relief checks stalled out Tuesday in the Republican-led Senate."
+    publishedDateTime: 2020-12-31T04:07:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2020-12-29/fate-of-trumps-2-000-checks-now-rests-with-gop-led-senate"
+    ampWebUrl: "https://www.usnews.com/news/business/articles/2020-12-29/fate-of-trumps-2-000-checks-now-rests-with-gop-led-senate?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-12-29/fate-of-trumps-2-000-checks-now-rests-with-gop-led-senate?context=amp"
     type: article
     provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JWTMB2TV3RDGFEJHU4SWWC5A34.jpg"
-        width: 3052
-        height: 2034
-        isCached: true
-  - title: "GOP legislators sue Mike Pence in latest effort to undo election results"
-    excerpt: "The lawsuit, led by Texas Rep. Louie Gohmert, aims to have a judge allow Vice President Mike Pence to choose which electoral votes to count in key states that President Trump lost."
-    publishedDateTime: 2020-12-29T10:29:00Z
-    webUrl: "https://www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html"
-    ampWebUrl: "https://www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 89
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JWTMB2TV3RDGFEJHU4SWWC5A34.jpg"
-        width: 3052
-        height: 2034
-        isCached: true
-  - title: "In another effort to challenge Electoral College votes, Rep. Gohmert sues Vice President Mike Pence"
-    excerpt: "Texas, sued Vice President Mike Pence in an attempt to challenge the results of some states’ Electoral College votes."
-    publishedDateTime: 2020-12-29T15:16:00Z
-    webUrl: "https://www.djournal.com/news/national/in-another-effort-to-challenge-electoral-college-votes-rep-gohmert-sues-vice-president-mike-pence/article_91089e35-5534-5e51-9995-3b8cf178cf92.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 41
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/d/ca/dca3aefb-1333-575e-8396-a718d1d12be2/5feb5315afded.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "aC7UoWxo4jaJ6OWTqQhZ8XDGP1wWWirnrxx2LnrzAlOe72KtSEBXx8G5c+ZDMWj31bX0J3pqcP6/eVEZJ+7GqakDlrT1V8eXZUjo59BaxaE18V5PudUE4JbRf9Mx2xzZB/fWAsn7YFaFKuhwGuIY5L2pL0NuwbhxOTyvxzh+kLNEHI4/zg62IVS9x8T8+Hm9PEXS7dsnUJhLpCu6Ws40Vb02jMPSefl5fTGZ6q7Hl/ifnepQW805MwIO+cnHDRVK7W/4Q8WKxJsXxT+2qiGVSFBVUjqLQUvm7tnltO6igkTNZKaBZCHPIWTBvP8G+3X4SWOYxi9oBF1/ES9Ohh/XX+CDUPkCIrufYUGznDi63y4=;7e+UqLFFKEHS4suwrvp73w=="
 ---

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Pence asks judge to toss Gohmert's lawsuit that seeks to overturn election results"
+    excerpt: "Vice President Mike Pence is set to oversee Congress when it officially counts the votes cast by the Electoral College on Jan. 6."
+    publishedDateTime: 2020-12-31T23:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/31/mike-pence-asks-judge-toss-lawsuit-seeks-upend-election/4100416001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4100416001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4100416001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 132
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/125b8ab8-da13-4bc9-94a2-60d6d4fc8e3d-AP_Election_2020_Pence.jpg?auto=webp&crop=5099,2869,x0,y259&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pence's former top aide said that Trump is 'encouraging' violence on the day Congress votes to seal the 2020 presidential election results"
     excerpt: "President Trump has promised his supporters there would be a \"wild\" rally in the capital on the day of Congress votes to approve the election result."
     publishedDateTime: 2020-12-30T14:52:00Z
@@ -43,203 +59,37 @@ related:
         width: 1200
         height: 599
         isCached: true
-  - title: "Trump's legacy: He changed the presidency, but will it last?"
-    excerpt: "His legacy: a tumultuous four years that were marked by his impeachment, failures during the worst pandemic in a century and his refusal to accept defeat. He smashed conceptions about how presidents behave and communicate,"
-    publishedDateTime: 2020-12-24T06:09:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-legacy-changed-presidency-74889255"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74889255"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74889255"
+  - title: "Pence sued by Texas GOP Congressman Louie Gohmert over competing electors"
+    excerpt: "A Republican congressman from Texas sued Vice President Mike Pence in the latest long-shot effort to reverse President-elect Joe Biden’s victory over Donald Trump. In the lawsuit, Representative Louie Gohmert seeks a court order forcing the vice president to acknowledge what Gohmert claims is Pence’s power to disregard states’ chosen Democratic electors and instead select competing slates of GOP electors on Jan."
+    publishedDateTime: 2020-12-28T20:31:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Pence-Sued-by-GOP-Congressman-in-Fight-Over-15832287.php"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump lashes out at GOP after override vote on defense bill"
-    excerpt: "President Donald Trump is lashing out at congressional Republicans after the House easily voted to override his veto of a defense policy bill"
-    publishedDateTime: 2020-12-30T08:21:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_74464e91b5bb4d5aab0e0dd45aa51e0b_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump presidential museum will have 'unconventional' story to tell"
-    excerpt: "An impeachment. A once-in-a-century pandemic and unprecedented post-election challenge. And that's just one year of the Trump presidency."
-    publishedDateTime: 2020-12-30T12:42:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/30/trump-presidential-museum-have-unconventional-story-tell/4084730001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4084730001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4084730001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/22/NPPP/dd2d1f29-0dd9-4988-9dcd-de1126fa28d9-2019123_Trump_Tuesday_13.JPG?auto=webp&crop=4295,2416,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Paleologos on the Poll: A 'cult president'? Breaking down Trump's support"
-    excerpt: "Donald Trump could at the very least be characterized as one of the few U.S. presidents with a cult of personality and a cult-like following."
-    publishedDateTime: 2020-12-24T13:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/24/paleologos-on-poll-breaking-down-donald-trump-cult-like-following/4037335001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4037335001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4037335001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Houston Chronicle
+      domain: houstonchronicle.com
     quality: 124
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/13/USAT/73dbd8f7-f11e-4518-ad46-4d2a8121b775-Trump_AF1.jpg?auto=webp&crop=3737,2103,x0,y190&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.hdnux.com/photos/01/11/12/57/19180496/19/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
-  - title: "House Republicans join with Democrats to override Trump's veto of defence bill"
-    excerpt: "If, as expected, the Senate follows suit later this week, it will be Congress’s first such rebuke of his presidency"
-    publishedDateTime: 2020-12-29T06:36:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
+  - title: "GOP congressman sues Pence in effort to try and overturn Biden win"
+    excerpt: "The lawsuit, led by Rep. Louie Gohmert, focuses on the Jan. 6 ceremonial meeting of Congress to finalize Joe Biden's victory."
+    publishedDateTime: 2020-12-29T00:15:00Z
+    webUrl: "https://www.11alive.com/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 121
-    images:
-      - url: "https://i.guim.co.uk/img/media/f5683752a5a505c0492063d2d1dd1d7e1f59b149/0_135_4043_2425/master/4043.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=744285010e354a8f4bb804c744576b66"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Post-presidency at Mar-a-Lago; What Donald Trump can expect when he leaves the White House"
-    excerpt: "Living at Mar-a-Lago as a former president who lost his re-election bid will not be the same as visiting Mar-a-Lago. Here's what he can expect."
-    publishedDateTime: 2020-12-29T13:43:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/29/life-mar-lago-wont-like-trumps-visits-here-what-expect/4070938001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4070938001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4070938001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/20/NPPP/904061d6-1a69-47a0-b1b7-54759c8102e2-USATSI_13867755.jpg?auto=webp&crop=4615,2596,x0,y220&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Mitch McConnell has pitted himself against Trump during the president's final days in office"
-    excerpt: "The lame duck battle between McConnell and Trump on stimulus checks has baffled Democrats, but they've welcomed the president's support."
-    publishedDateTime: 2020-12-30T22:32:00Z
-    webUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/5fecf9b1a18a450018cb6543?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Secret Service to make changes to presidential detail to bring on agents who worked with Biden"
-    excerpt: "The Secret Service is making some staff changes in the presidential detail that will guard President-elect Joe Biden, amid concerns from Biden allies that some current members were politically aligned with President Trump,"
-    publishedDateTime: 2020-12-31T00:37:00Z
-    webUrl: "https://www.washingtonpost.com/politics/secret-service-to-make-changes-to-presidential-detail-to-bring-on-agents-who-worked-with-biden/2020/12/30/d6fb8fe8-49ce-11eb-a9d9-1e3ec4a928b9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/secret-service-to-make-changes-to-presidential-detail-to-bring-on-agents-who-worked-with-biden/2020/12/30/d6fb8fe8-49ce-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/secret-service-to-make-changes-to-presidential-detail-to-bring-on-agents-who-worked-with-biden/2020/12/30/d6fb8fe8-49ce-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3MOMNUCK6II6XA42Z5F2PN6ERQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump golfs in Florida, rails against House GOP and election results on first day of his winter vacation as COVID relief hangs in the balance"
-    excerpt: "Trump had no events on his public schedule on the first day of his winter vacation Thursday, but traveled to his Palm Beach golf club, where he was spotted by CNN cameras on the links. Reporters were given no details of his schedule for the day,"
-    publishedDateTime: 2020-12-24T23:52:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 105
-    images:
-      - url: "https://www.chicagotribune.com/resizer/TVprj6I_MiixMX6j-AmfkAs6eYc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PAVSBWTRPDKJZNXABFXCVNHI6Q.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Census Bureau to miss deadline, jeopardizing Trump plan"
-    excerpt: "The Census Bureau plans to announce it will miss a year-end deadline for handing in numbers used for divvying up congressional seats. That delay could undermine President Donald Trump’s efforts to exclude people in the country illegally from the count if the figures aren’t turned in before President-elect Joe Biden takes office."
-    publishedDateTime: 2020-12-31T11:16:00Z
-    webUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trump lashes out at GOP after override vote on defense bill"
-    excerpt: "President Donald Trump lashed out at congressional Republicans a day after the House easily voted to override his veto of a defense policy bill."
-    publishedDateTime: 2020-12-30T19:17:00Z
-    webUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trump vowed to drain the swamp. Then he granted clemency to three former congressmen convicted of federal crimes."
-    excerpt: "Pardons and commutations went to “cronies” while thousands of applications at the Justice Department are pending."
-    publishedDateTime: 2020-12-24T01:40:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 104
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/45Z646SFOII6XMHEB4MCSI5AEU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump is holding up the COVID-19 stimulus package with demands for $2,000 checks — but there are enough votes in Congress to override a veto"
-    excerpt: "President Trump called the $900 billion package — passed by Congress earlier this week after months of negotiations — a \"disgrace\" on Tuesday."
-    publishedDateTime: 2020-12-23T12:16:00Z
-    webUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: 11Alive
+      domain: 11alive.com
     quality: 90
     images:
-      - url: "https://i.insider.com/5fe32894a64488001819315e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://media.11alive.com/assets/CCT/images/bd9d89aa-cf5e-4c9d-8af5-d87c6aa2605f/bd9d89aa-cf5e-4c9d-8af5-d87c6aa2605f_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Louie Gohmert sues Mike Pence in bid to overturn election results"
     excerpt: "A group of Republicans led by Rep. Louie Gohmert on Monday sued Vice President Mike Pence arguing that he is legally authorized to choose pro-Trump electors when Congress meets next month to certify the results of the presidential election."
@@ -272,6 +122,98 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JWTMB2TV3RDGFEJHU4SWWC5A34.jpg"
         width: 3052
         height: 2034
+        isCached: true
+  - title: "Republicans sue Mike Pence in 'desperate' last-ditch effort to overturn election"
+    excerpt: "Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a \"desperate\" last-ditch effort to overturn the results of November's presidential election, The Hill reports. The goal of the lawsuit is to get a federal judge to rule that Pence has the exclusive authority to choose electors when he oversees the Electoral College vote certification on Jan."
+    publishedDateTime: 2020-12-28T17:37:00Z
+    webUrl: "https://theweek.com/speedreads/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 85
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229686198.jpg?itok=Xe-uSQS1"
+        width: 840
+        height: 560
+        isCached: true
+  - title: "Louie Gohmert sues Pence in far-fetched bid to overturn election results on Jan. 6"
+    excerpt: "Rep. Louie Gohmert of Tyler is suing Vice President Mike Pence in an improbable bid to overturn President-elect Joe Biden’s victory. Gohmert and"
+    publishedDateTime: 2020-12-28T20:36:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 84
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/JhGbxKDWa215V-r3Lg0FdsT-nDU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/AHD73RRQY3BMTNRG6DKQ45VLPI.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Pence asks judge to dismiss Rep. Gohmert’s lawsuit"
+    excerpt: "Gohmert’s lawsuit is a last-gasp attempt by Republicans to persuade Pence to interfere in the declaration of President-elect Joe Biden’s victory and flip the election for President"
+    publishedDateTime: 2021-01-01T00:44:00Z
+    webUrl: "https://www.mercurynews.com/2020/12/31/pence-asks-judge-to-dismiss-rep-gohmerts-lawsuit/"
+    ampWebUrl: "https://www.mercurynews.com/2020/12/31/pence-asks-judge-to-dismiss-rep-gohmerts-lawsuit/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/31/pence-asks-judge-to-dismiss-rep-gohmerts-lawsuit/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/sjm-91070.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Republicans sue Mike Pence in far-fetched effort to overturn election"
+    excerpt: "Several Republicans, including Rep. Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a last-ditch effort to overturn the results of November's presidential election."
+    publishedDateTime: 2020-12-29T04:09:00Z
+    webUrl: "https://theweek.com/5things/957540/republicans-sue-mike-pence-farfetched-effort-overturn-election"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 70
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1291466155.jpg?itok=0jqkkpDy&resize=400x267"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "Republicans sue Mike Pence in last-ditch effort to overturn election"
+    excerpt: "Several Republicans, including Rep. Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a last-ditch effort to overturn the results of November's presidential election."
+    publishedDateTime: 2020-12-28T18:26:00Z
+    webUrl: "https://theweek.com/5things/957540/republicans-sue-mike-pence-lastditch-effort-overturn-election"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 70
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229686198.jpg?itok=Xe-uSQS1&resize=400x267"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "Arizona Republicans join Texas lawsuit against VP Mike Pence to upend electoral college"
+    excerpt: "Vice President Mike Pence should wield sole discretion in counting the electoral college votes, the suit contends."
+    publishedDateTime: 2020-12-28T23:26:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/12/28/kelli-ward-and-other-arizona-republicans-join-texas-suit-election/4066675001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/4066675001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4066675001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/18/PPHX/90e78252-af14-4f24-b779-430b38fed1e5-DW1_5247.JPG?auto=webp&crop=3522,1982,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "In another effort to challenge Electoral College votes, Rep. Gohmert sues Vice President Mike Pence"
     excerpt: "Texas, sued Vice President Mike Pence in an attempt to challenge the results of some states’ Electoral College votes."

@@ -57,6 +57,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe and Jill Biden to appear on ‘New Year’s Rockin’ Eve’"
+    excerpt: "Ryan Seacrest will have a special pair of guests alongside the music stars at this year's New Year's Eve celebration on ABC — the president-elect and the future first lady. President-elect Joe Biden and Dr."
+    publishedDateTime: 2020-12-31T15:36:00Z
+    webUrl: "https://www.seattletimes.com/entertainment/joe-and-jill-biden-to-appear-on-new-years-rockin-eve/"
+    ampWebUrl: "https://www.seattletimes.com/entertainment/joe-and-jill-biden-to-appear-on-new-years-rockin-eve/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/joe-and-jill-biden-to-appear-on-new-years-rockin-eve/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
 
 secured: "xHm4oHUBQsMb51CkbaKxOfnAx067NM7dTd19RqgHTtDtIKEiBqeDHS0KmWp90G+9HCEbCIxzM+lMuw73Ae55DhYCVpreMPaRArP6ohh4NLYZqCNp9ZfSs4lknxBbGnOJj67LHiF0b5EjZh+4Y24d+fslwCPGqkYdWtZdc5GS2p+NAoYCeCmzAyIcRGp2i05XQhXtMI6QOGVr5rX+u2IRWTE5Dr+NoMyArJKubkFURs+rm675T2vnQsxcn6xbRvxDHkoYxjRcnhcProZfPx8miuc96cvW8EgCz9KLK2a3ZnuN6lG3NQRhaK1kdsHye5UyCJAyZKMj//P/FhctTJFqz7UH6XlHfTv3RctiVvUXgIM=;ZMnI/ZWRDimHNF4fdjJnoQ=="
 ---

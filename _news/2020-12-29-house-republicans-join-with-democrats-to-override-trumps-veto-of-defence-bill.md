@@ -31,117 +31,165 @@ images:
     isCached: true
 
 related:
-  - title: "Pence's former top aide said that Trump is 'encouraging' violence on the day Congress votes to seal the 2020 presidential election results"
-    excerpt: "President Trump has promised his supporters there would be a \"wild\" rally in the capital on the day of Congress votes to approve the election result."
-    publishedDateTime: 2020-12-30T14:52:00Z
-    webUrl: "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12?amp"
+  - title: "Congressman, other Republicans sue Vice President Pence in last-ditch effort to overturn Biden win"
+    excerpt: "Rep. Louie Gohmert and other Republicans' lawsuit is effectively attempting to reverse President-elect Joe Biden's victory over President Donald Trump."
+    publishedDateTime: 2020-12-28T18:55:00Z
+    webUrl: "https://www.cnbc.com/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 131
+      name: CNBC
+      domain: cnbc.com
+    quality: 126
     images:
-      - url: "https://i.insider.com/5fec7314b7ab82001943e8ed?width=1200&format=jpeg"
-        width: 1200
-        height: 599
+      - url: "https://image.cnbcfm.com/api/v1/image/106816660-1609177703757-gettyimages-1230000337-house_freedom468_120320.jpeg?v=1609177793"
+        width: 4829
+        height: 3220
         isCached: true
-  - title: "Trump's legacy: He changed the presidency, but will it last?"
-    excerpt: "His legacy: a tumultuous four years that were marked by his impeachment, failures during the worst pandemic in a century and his refusal to accept defeat. He smashed conceptions about how presidents behave and communicate,"
-    publishedDateTime: 2020-12-24T06:09:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-legacy-changed-presidency-74889255"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74889255"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74889255"
+  - title: "Biden's Latino education secretary to add to diverse Cabinet"
+    excerpt: "President-elect Joe Biden will add to the diversity of his incoming administration on Wednesday when he introduces Miguel Cardona as his choice for U.S. Secretary of Education."
+    publishedDateTime: 2020-12-23T11:26:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-idINKBN28X0LG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28X0LG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28X0LG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545589631&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM19H"
+        width: 753
+        height: 545
+        isCached: true
+  - title: "Biden's Latino education secretary adds to diverse Cabinet"
+    excerpt: "President-elect Joe Biden added to the diversity of his incoming administration on Wednesday when he introduced Miguel Cardona as his choice for U.S. Secretary of Education."
+    publishedDateTime: 2020-12-23T18:38:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-idUSKBN28X0JU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X0JU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X0JU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545589631&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM19H"
+        width: 753
+        height: 545
+        isCached: true
+  - title: "The Memo: Left seeks leverage to move Biden"
+    excerpt: "The tug-of-war between President-elect Joe Biden and the left wing of the Democratic Party is shifting onto policy grounds now that nominees have been selected for key positions in the new administration."
+    publishedDateTime: 2020-12-28T11:00:00Z
+    webUrl: "https://thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden"
+    ampWebUrl: "https://thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_121920getty_memo-left-biden.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Joe Biden's top foreign policy challenges in 2021"
+    excerpt: "The top foreign policy challenges for President-elect Joe Biden's incoming team include China's assertiveness and rebuilding U.S. alliances."
+    publishedDateTime: 2020-12-30T15:04:00Z
+    webUrl: "https://abcnews.go.com/International/joe-bidens-top-foreign-policy-challenges-2021/story?id=74607315"
+    ampWebUrl: "https://abcnews.go.com/amp/International/joe-bidens-top-foreign-policy-challenges-2021/story?id=74607315"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/joe-bidens-top-foreign-policy-challenges-2021/story?id=74607315"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/biden-1-gty-er-201229_1609264991445_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump lashes out at GOP after override vote on defense bill"
-    excerpt: "President Donald Trump is lashing out at congressional Republicans after the House easily voted to override his veto of a defense policy bill"
-    publishedDateTime: 2020-12-30T08:21:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
+  - title: "Biden inauguration to feature memorial for COVID victims"
+    excerpt: "President-elect Joe Biden is planning a lighting ceremony at the Lincoln Memorial Reflecting Pool to honor those killed by the coronavirus the day before he is sworn into office on Jan. 20"
+    publishedDateTime: 2020-12-31T15:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_74464e91b5bb4d5aab0e0dd45aa51e0b_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_467ec2758fd24427a99beb711a78f8a0_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump presidential museum will have 'unconventional' story to tell"
-    excerpt: "An impeachment. A once-in-a-century pandemic and unprecedented post-election challenge. And that's just one year of the Trump presidency."
-    publishedDateTime: 2020-12-30T12:42:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/30/trump-presidential-museum-have-unconventional-story-tell/4084730001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4084730001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4084730001"
+  - title: "Republican senator says he will challenge Biden victory in Congress"
+    excerpt: "Republican Senator Josh Hawley on Wednesday pledged to challenge Democrat President-elect Joe Biden's victory when Congress convenes to officially tally the electoral votes, which could trigger a lengthy debate in the Senate but has virtually no chance of overturning"
+    publishedDateTime: 2020-12-30T19:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-senate-idUSKBN29424P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29424P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29424P"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/22/NPPP/dd2d1f29-0dd9-4988-9dcd-de1126fa28d9-2019123_Trump_Tuesday_13.JPG?auto=webp&crop=4295,2416,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546198775&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT18H"
+        width: 703
+        height: 545
         isCached: true
-  - title: "Paleologos on the Poll: A 'cult president'? Breaking down Trump's support"
-    excerpt: "Donald Trump could at the very least be characterized as one of the few U.S. presidents with a cult of personality and a cult-like following."
-    publishedDateTime: 2020-12-24T13:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/24/paleologos-on-poll-breaking-down-donald-trump-cult-like-following/4037335001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4037335001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4037335001"
+  - title: "Biden inauguration events to include memorial for COVID-19 victims"
+    excerpt: "President-elect Joe Biden plans a lighting ceremony at the Lincoln Memorial Reflecting Pool to honor COVID-19 victims the day before his swearing-in."
+    publishedDateTime: 2020-12-31T16:33:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/0aaa9dc/2147483647/strip/true/crop/840x549+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F7a%2F5217b0d3442c8a0e32ee818e8562%2Fvaccine.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Biden inaugural activities to include memorial service for covid victims"
+    excerpt: "The committee planning events announced a lighting ceremony at the Lincoln Memorial to coincide with remembrances around the country."
+    publishedDateTime: 2020-12-31T12:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 124
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/13/USAT/73dbd8f7-f11e-4518-ad46-4d2a8121b775-Trump_AF1.jpg?auto=webp&crop=3737,2103,x0,y190&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5G7GCCLMMI6XKOZDY7MJKJIXE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Post-presidency at Mar-a-Lago; What Donald Trump can expect when he leaves the White House"
-    excerpt: "Living at Mar-a-Lago as a former president who lost his re-election bid will not be the same as visiting Mar-a-Lago. Here's what he can expect."
-    publishedDateTime: 2020-12-29T13:43:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/29/life-mar-lago-wont-like-trumps-visits-here-what-expect/4070938001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4070938001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4070938001"
+  - title: "Domestic terrorism and hate exploded in 2020. Here's what the Biden administration must do."
+    excerpt: "Members of Joe Biden’s transition team set up a meeting with senior members of the Anti-Defamation League to discuss fighting domestic terrorism and right-wing extremism."
+    publishedDateTime: 2020-12-29T11:00:00Z
+    webUrl: "https://abcnews.go.com/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
+    ampWebUrl: "https://abcnews.go.com/amp/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/20/NPPP/904061d6-1a69-47a0-b1b7-54759c8102e2-USATSI_13867755.jpg?auto=webp&crop=4615,2596,x0,y220&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Mitch McConnell has pitted himself against Trump during the president's final days in office"
-    excerpt: "The lame duck battle between McConnell and Trump on stimulus checks has baffled Democrats, but they've welcomed the president's support."
-    publishedDateTime: 2020-12-30T22:32:00Z
-    webUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/5fecf9b1a18a450018cb6543?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/US/charlottesville-protest-gty-jt-201005_1601922791769_hpMain_3_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Secret Service to make changes to presidential detail to bring on agents who worked with Biden"
     excerpt: "The Secret Service is making some staff changes in the presidential detail that will guard President-elect Joe Biden, amid concerns from Biden allies that some current members were politically aligned with President Trump,"
@@ -159,137 +207,140 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump golfs in Florida, rails against House GOP and election results on first day of his winter vacation as COVID relief hangs in the balance"
-    excerpt: "Trump had no events on his public schedule on the first day of his winter vacation Thursday, but traveled to his Palm Beach golf club, where he was spotted by CNN cameras on the links. Reporters were given no details of his schedule for the day,"
-    publishedDateTime: 2020-12-24T23:52:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
+  - title: "Biden says he sees no evidence cyber attack is under control"
+    excerpt: "WILMINGTON, Del. (Reuters) -President-elect Joe Biden said on Tuesday he had seen no evidence that a massive cyber attack against the United States is under control and warned that the breach will not go unanswered once he takes office on Jan."
+    publishedDateTime: 2020-12-23T03:31:00Z
+    webUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Biden's plans on further COVID19 relief aid?"
+    excerpt: "Watch \"What are President-elect Joe Biden's plans on further COVID-19 relief aid?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-23T00:56:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201223002205-what-are-president-elect-joe-bidens-plans-on-further-covid-19-relief-aid/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://www.chicagotribune.com/resizer/TVprj6I_MiixMX6j-AmfkAs6eYc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PAVSBWTRPDKJZNXABFXCVNHI6Q.aspx"
-        width: 1200
-        height: 800
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08232198_1608683644.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Census Bureau to miss deadline, jeopardizing Trump plan"
-    excerpt: "The Census Bureau plans to announce it will miss a year-end deadline for handing in numbers used for divvying up congressional seats. That delay could undermine President Donald Trump’s efforts to exclude people in the country illegally from the count if the figures aren’t turned in before President-elect Joe Biden takes office."
-    publishedDateTime: 2020-12-31T11:16:00Z
-    webUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
+  - title: "Biden taps Big Law partners for White House Counsel's office"
+    excerpt: "President-elect Joe Biden on Wednesday named four partners from three Big Law firms who will serve in senior roles in the Office of the White House Counsel."
+    publishedDateTime: 2020-12-24T02:56:00Z
+    webUrl: "https://www.reuters.com/article/whitehousecounsel-biglaw-biden/biden-taps-big-law-partners-for-white-house-counsels-office-idUSL1N2J32N1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J32N1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J32N1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
-  - title: "Trump lashes out at GOP after override vote on defense bill"
-    excerpt: "President Donald Trump lashed out at congressional Republicans a day after the House easily voted to override his veto of a defense policy bill."
-    publishedDateTime: 2020-12-30T19:17:00Z
-    webUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
+  - title: "Amazon hires lobbyist with ties to President-elect Joe Biden's White House counsel"
+    excerpt: "CNBC.com reporter Brian Schwartz discusses whether Amazon's new hire in Washington, DC could present a conflict of interest with one of President-elect Joe Biden's closest advisors."
+    publishedDateTime: 2020-12-28T13:33:00Z
+    webUrl: "https://www.cnbc.com/video/2020/12/28/amazon-hires-lobbyist-with-ties-to-president-elect-joe-bidens-white-house-counsel.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trump vowed to drain the swamp. Then he granted clemency to three former congressmen convicted of federal crimes."
-    excerpt: "Pardons and commutations went to “cronies” while thousands of applications at the Justice Department are pending."
-    publishedDateTime: 2020-12-24T01:40:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 104
+      name: CNBC
+      domain: cnbc.com
+    quality: 99
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/45Z646SFOII6XMHEB4MCSI5AEU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://image.cnbcfm.com/api/v1/image/106816491-16091598732ED4-REQ-122820-wex-amazon.jpg?v=1609159872"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Trump is holding up the COVID-19 stimulus package with demands for $2,000 checks — but there are enough votes in Congress to override a veto"
-    excerpt: "President Trump called the $900 billion package — passed by Congress earlier this week after months of negotiations — a \"disgrace\" on Tuesday."
-    publishedDateTime: 2020-12-23T12:16:00Z
-    webUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
+  - title: "Brother Of Joe Biden’s Closest Advisor Picks Up Amazon As New Client"
+    excerpt: "Amazon has hired Jeff Ricchetti, the brother of Joe Biden’s White House counselor Steve Ricchetti, to work for its cloud platform Amazon Web Services. A new lobbying disclosure report revealed Jeff Ricchetti landed a lobbying contract with the tech retail giant last month,"
+    publishedDateTime: 2020-12-27T17:18:00Z
+    webUrl: "https://www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130"
+    ampWebUrl: "https://www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/23/joe-biden-is-president-elect-despite-president-donald.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Joe Biden Presidency Will Drag Down Stock Markets, Investors Predict"
+    excerpt: "In general, some of Biden’s economic policies might not be as conducive to growth as the tax-friendly agenda of his predecessor."
+    publishedDateTime: 2020-12-28T16:36:00Z
+    webUrl: "https://www.ibtimes.com/joe-biden-presidency-will-drag-down-stock-markets-investors-predict-3110663"
+    ampWebUrl: "https://www.ibtimes.com/joe-biden-presidency-will-drag-down-stock-markets-investors-predict-3110663?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-presidency-will-drag-down-stock-markets-investors-predict-3110663?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/21/us-president-elect-joe-biden-said-the-latest.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Meet 14 Joe Biden family members who could be powerful surrogates — or potential headaches — for the new Democratic president's administration"
+    excerpt: "Biden's political campaigns have always been family affairs. Now his siblings, children, and grandchildren are primed to make headlines when he's president."
+    publishedDateTime: 2020-12-24T15:27:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-family-hunter-jill-ashley-frank-james-valerie-caroline-2020-12"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 90
+    quality: 69
     images:
-      - url: "https://i.insider.com/5fe32894a64488001819315e?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fe20739d366e600180998fb?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Louie Gohmert sues Mike Pence in bid to overturn election results"
-    excerpt: "A group of Republicans led by Rep. Louie Gohmert on Monday sued Vice President Mike Pence arguing that he is legally authorized to choose pro-Trump electors when Congress meets next month to certify the results of the presidential election."
-    publishedDateTime: 2020-12-28T18:42:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
+  - title: "User Clip: Joe Biden calls Kamala Harris 'president-elect'"
+    excerpt: "President-elect Joe Biden makes a verbal gaffe during remarks in Wilmington, Del."
+    publishedDateTime: 2020-12-29T22:29:00Z
+    webUrl: "https://www.c-span.org/video/?c4932320/user-clip-joe-biden-calls-kamala-harris-president-elect"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 90
+      name: C-SPAN
+      domain: c-span.org
+    quality: 60
+  - title: "‘We’ve had enough’ — Joe Biden outpaced President..."
+    excerpt: "GOP voters turned off by Trump went for Biden — but weren’t ready to risk a Democratic majority in the State House or in Congress."
+    publishedDateTime: 2020-12-22T11:41:00Z
+    webUrl: "https://www.sfchronicle.com/news/local/politics/article/We-ve-had-enough-Joe-Biden-outpaced-15822288.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 55
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/07/29/congress_judiciary_96421_c0-0-3786-2208_s1200x700.jpg?962ee6637fa28f773de275bdd510053858c8f287"
-        width: 1200
-        height: 700
+      - url: "https://s.hdnux.com/photos/01/15/70/50/20417044/9/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
-  - title: "Republican legislators sue Mike Pence to try to undo election results"
-    excerpt: "A group of Republican legislators led by U.S.  (R-Texas) is suing Vice President Mike Pence, hoping that it will end up allowing Pence to choose which electoral votes should count from states in which President Donald Trump lost."
-    publishedDateTime: 2020-12-29T11:41:00Z
-    webUrl: "https://www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html"
-    ampWebUrl: "https://www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html?outputType=amp"
+  - title: "Some Republicans plan to challenge Joe Biden’s Electoral College victory. Here’s what happened when Democrats challenged Bush"
+    excerpt: "Congress will count the Electoral College votes in a joint session of Congress on January 6, which represents Trump’s final chance to try to overturn the election result he lost to Biden."
+    publishedDateTime: 2020-12-28T09:47:00Z
+    webUrl: "https://www.mercurynews.com/2020/12/28/some-republicans-plan-to-challenge-bidens-electoral-college-victory-heres-what-happened-when-democrats-challenged-bush"
+    ampWebUrl: "https://www.mercurynews.com/2020/12/28/some-republicans-plan-to-challenge-bidens-electoral-college-victory-heres-what-happened-when-democrats-challenged-bush/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/28/some-republicans-plan-to-challenge-bidens-electoral-college-victory-heres-what-happened-when-democrats-challenged-bush/amp/"
     type: article
     provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 90
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 48
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JWTMB2TV3RDGFEJHU4SWWC5A34.jpg"
-        width: 3052
-        height: 2034
-        isCached: true
-  - title: "GOP legislators sue Mike Pence in latest effort to undo election results"
-    excerpt: "The lawsuit, led by Texas Rep. Louie Gohmert, aims to have a judge allow Vice President Mike Pence to choose which electoral votes to count in key states that President Trump lost."
-    publishedDateTime: 2020-12-29T10:29:00Z
-    webUrl: "https://www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html"
-    ampWebUrl: "https://www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 89
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JWTMB2TV3RDGFEJHU4SWWC5A34.jpg"
-        width: 3052
-        height: 2034
-        isCached: true
-  - title: "In another effort to challenge Electoral College votes, Rep. Gohmert sues Vice President Mike Pence"
-    excerpt: "Texas, sued Vice President Mike Pence in an attempt to challenge the results of some states’ Electoral College votes."
-    publishedDateTime: 2020-12-29T15:16:00Z
-    webUrl: "https://www.djournal.com/news/national/in-another-effort-to-challenge-electoral-college-votes-rep-gohmert-sues-vice-president-mike-pence/article_91089e35-5534-5e51-9995-3b8cf178cf92.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 41
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/d/ca/dca3aefb-1333-575e-8396-a718d1d12be2/5feb5315afded.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/hypatia-h_fc9e91c267a54ba529f7e2f59370c929-h_91fcd3c81c0d0cb119b2f6ffdc0c4bc4.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "L9N6Tqll+7EjKH0K9Kq/zbZmLHinKTXaAlOzOL2SNKvdFeHE944VMxlsXMDrKVVJjzzJufO8rw4gZpfh6VVusiJof4rpsrdazzZj1GfJBSEvNGVznBwMpmBEWzEmQD8RsGit41wpvxefXima2kPj0TlSOQ/5JXHMXettVy1TQcWec7C3cdDsU0ZZMwf4ShBriMJBwS8XbxogbbKmn8+WI3Ha/rWAKEtSPw+lP745yQANPTuEfd9npebYrJhdAqXPFeo+QQDaMXJoraMyL3FTddGuVDVCGF2o/JfP4VuHsp78NQ+gJj2DnaRxAyVUprhbbADUPByFaGh/kvub5ou3qEwzrqhvbkhfcAqHImaIV9LlueqLQlr4+dntFGTOz2oJOyxIDsURD0l30gnsbQKp8zpXffOxNHPULuMTfdQlFonKyoqoszWdyOorWXyFlzCNBq6KN1UvyaNEZKliyxN0epMm3TxBbLrxuZmb/Zvw1uljDw34k9tFXirXdwjtlgSckpV102T8q9CfHbXBGH5E3g==;dNjv6F3w8xYZEGF7tNxepg=="
