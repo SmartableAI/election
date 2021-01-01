@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-senator-rebukes-da
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-senator-rebukes-dangerous-ploy-fight-biden-victory-75001343"
 type: article
 quality: 125
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -30,6 +30,67 @@ images:
     height: 558
     isCached: true
 
-secured: "Nqf9143or5qERv501nStnmpZ8wOIV8IMcgwaWsTnVLYSvEyTj957zqr6lc/OM0CYSSPu0PxfZC/AY5E5mnkwpCmuhRAEuKGAg7401ZSKS88wF+KJqAbvy1+fTGv+zvXetm+HxsYm2UeWKkjrBFEVNLjm3uFyrOD9AyZTM7XR9jkPvoPEuZXeBFQfVBmID1QykE6t4KC8bbr96MvTK60tgNieRyd3U9v7yADPYB5WlWAuTsAnhjpKx7+WfA/dPn+B0W6CJNHxUerN/GvKvCdxzTCGdCzGv1yBlLMqMplHa6v7UtSHkGwKw1UZtN78ahV/xeWviCcBOS5IDuRvqXksamS2CWrDdtssMkbTgIFe/+uk3dLFZ9QEhUyi0n3XytPNGO4nlaLymUqBHrS3dMwXLZhj1Ybe5CdW8sxod93I/N//gWuvNludxFduhfZ/1vyDmVuX+NY9dOnbChkTEFT0s9bwvTEF7z3aPnc4uULVTIqzuzxNJYuX56VdwYO4DIIE7MLhXytzcE+L0HnmDAIEEA==;lJH6TRSGrPSx6tfr7gR5jA=="
+related:
+  - title: "'Dangerous ploy': GOP Sen. Ben Sasse slams efforts by Trump, Hawley to overturn election"
+    excerpt: "Nebraska Republican Sen. Ben Sasse denounced the \"institutional arsonist members of Congress who will object to the Electoral College vote.\""
+    publishedDateTime: 2021-01-01T13:51:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/01/ben-sasse-denounces-dangerous-ploy-overturn-election/4106964001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4106964001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4106964001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/fa2731b8-2f69-4a0f-bce6-d9133544aa38-AP_Supreme_Court_Barrett_1.jpg?auto=webp&crop=3999,2250,x0,y337&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "House approves Trump's $2K checks, sending to GOP-led Senate"
+    excerpt: "The House has voted overwhelmingly to increase COVID-19 relief checks to $2,000, meeting President Donald Trump’s demand for bigger payments"
+    publishedDateTime: 2020-12-29T02:30:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929699"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929699"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929699"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_29f4b4f27e864d9d8618ef344062ef9a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
+    excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
+    publishedDateTime: 2020-12-30T20:32:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 112
+    images:
+      - url: "https://www.chicagotribune.com/resizer/85Xf4PTOdf76QQecBE6bXOrleHs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7MEZB6KZLEGBLDVQGQMT47SUSY.jpg"
+        width: 1200
+        height: 741
+        isCached: true
+  - title: "Trump lashes out at GOP after override vote on defense bill"
+    excerpt: "President Donald Trump lashed out at congressional Republicans a day after the House easily voted to override his veto of a defense policy bill."
+    publishedDateTime: 2020-12-30T19:17:00Z
+    webUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+
+secured: "QN/GrSdimz5EuQwr41Dx+YfwyeIia2t9u0KiZAQAlCy5vWT0W5J+a1mIgZVyeMzEkAYwELTzDJRs7UmZWneH6N8QPryAB5OWTLpBWFceYhCRJEMbNPAd3TdXPg9LdthCkhCypTiDHvEid2z/zy/mViiobdxRLuk2SV8gfVYwTrTBCTDDP2l9qVmBtTNMeCMwjqbpP+ELwL4gEghPtY131xx5ad+EeKDzVMV5BJACA257wInAvVOTMCSG5gYwtMlqdtQdvPcxjtovUr/5hpNtyGVtbDhi9EhtdG+qGKx5JpwerBLj86buEvvo5vMw6Bldu6s6xWaN+N7+TVFj8GzFSUkGyfJ0cRk1kHHNMpRlHEs9t5ilQAagj1/vzm1CXBfnC70THOQZ42+lold1gPDCZi7ZobLGGdjk63X0zvN6eGH6qUycCI2CP39BHJFKE8CyGvm2psbDyT5u3rLWaXf0h1hzdq76W6D8UaS4fWQFtnItBC1Ic/z8P3oFmfUqQm1rlplhk66mdJppaUeVnBKQ4g==;G6LiS15JrCjhDoWBwHuPwA=="
 ---
 

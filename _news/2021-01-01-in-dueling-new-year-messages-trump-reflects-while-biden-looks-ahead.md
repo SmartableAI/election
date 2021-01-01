@@ -2,11 +2,11 @@
 category: news
 title: "In dueling New Year messages, Trump reflects while Biden looks ahead"
 excerpt: "President Donald Trump in a New Year's Eve message reflected on his accomplishments in office, calling them \"historic victories,\" while his successor, President-elect Joe Biden, struck an upbeat tone in looking ahead to 2021."
-publishedDateTime: 2021-01-01T08:15:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump-idAFKBN2951BB"
-webUrl: "https://www.reuters.com/article/uk-usa-trump-idAFKBN2951BB"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2951BB"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2951BB"
+publishedDateTime: 2021-01-01T14:11:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN2951BB"
+webUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN2951BB"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2951BB"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2951BB"
 type: article
 quality: 140
 heat: -1
@@ -8270,6 +8270,6 @@ related:
       domain: indystar.com
     quality: 43
 
-secured: "tN6/eac2mwCMVjfi6AdK6c60RUcLk0qu/rNnva2/MFrYjAroZ4NtKGi4QQQ1xlIF+igCFmNSaEJ+hLNA9Dy29werIw5hT+lIPYGpInkwfeUHOD7q/dcrr0rc/jGHlN15vGv8xG7Ej+gWOaUIeT7b8SBkquaJ6TLIh9wucc+obJxAxBuakN/ppCLNyKBN217+7Ti16bHBCCtucihFOuR19/uY7HTrW19/vUU3o8hNBfPa0KWhUbCLvfTlUDn+CZTVsVepJGgV7p5BbKBvdg1vCJdJZQNxWFuRcMSN2Ck4Nva+SiumPqYe8yEjZRtrDrzuC9jwkZav2lWUqq/rPDGQRT+k7OMDexK6Rga0yd1P6iC23i/d72Sauu6c+pOuRxPG5MWo0VIgr1+UxprRTnP+y2f0en8KzzrtzoJD07FZG4Nz96aFpfRjU/6Rp45kPGfY6DDEX/mFXX9zuyHyx0GhDTqYymUII5hNjf/2XUSs56B8SBmpHy42TNUx5sYRDtkH7n/paFzynxvhE0vYxsPC7g==;NhOivVac4iC2MGpAi1x82Q=="
+secured: "5nu/1YAp7QhjFd/2+KJcu3/R+tibEQ6YnHJLNN46BLUkHboUfRqsdiEr31EJC5KOpiBZSxuFp0BI+eCuXLHIkNmq2jeSv1SJ0iT4pqdpIVBUhQkjJNHy7hbQuyUDNydW8+cK2qm4g6faSWsQaFKxNstgemsfiFPDr1OItDYbw9co+a63w59xi5MVWIvAMHw/BGJ6tMAkGK/XdXHpC5zmiIWbSH7bQElaumr6tSn7qWVtnoV8AlqryqqX7JB3Ucxh8SMg03SwQd09JibHA5QOVKqLz26oMnMiw82eh0RizYuBn1QT0E1aq+6roGZ/reRHkaDpQWC+wEesItjrFXxuC8n+sy0VKIkGyr7hRMbakpA=;oY4asQariMtEk3r8VZZDig=="
 ---
 

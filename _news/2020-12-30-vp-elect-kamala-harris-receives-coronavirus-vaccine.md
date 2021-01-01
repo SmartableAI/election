@@ -135,6 +135,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden, Kamala Harris to visit Georgia ahead of Senate runoff Election Day"
+    excerpt: "The president-elect will travel to Atlanta on Monday while the vice president-elect will be in Savannah on Sunday."
+    publishedDateTime: 2020-12-30T13:58:00Z
+    webUrl: "https://www.khou.com/article/news/politics/biden-harris-traveling-to-georgia-senate-campaigns/85-771b57aa-78a9-461c-ad90-b2a5dc6e3880"
+    ampWebUrl: "https://www.khou.com/amp/article/news/politics/biden-harris-traveling-to-georgia-senate-campaigns/85-771b57aa-78a9-461c-ad90-b2a5dc6e3880"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/biden-harris-traveling-to-georgia-senate-campaigns/85-771b57aa-78a9-461c-ad90-b2a5dc6e3880"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 102
+    images:
+      - url: "https://media.khou.com/assets/WXIA/images/538ffc43-e730-4b70-933e-ec6bde3a4846/538ffc43-e730-4b70-933e-ec6bde3a4846_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Kamala Harris’s groundbreaking path to the White House"
+    excerpt: "How Harris got where she is, and where she’s likely headed, is the subject of Dan Morain’s “Kamala’s Way.” From the start, he explains, it’s been a complicated path, mixing principles and pragmatism,"
+    publishedDateTime: 2021-01-01T14:30:00Z
+    webUrl: "https://www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/rcGgsBKubkAqaZioP9K6GjrB36I=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H6POFLXWAZB7LM373XXSTZVNLI.jpg"
+        width: 1200
+        height: 891
+        isCached: true
   - title: "‘This is about saving lives’: Vice President-elect Kamala Harris receives COVID vaccine on live TV"
     excerpt: "Vice President-elect Kamala Harris on Tuesday morning received the first dose of the COVID-19 vaccine on live television, urging Americans to trust not only the scientists who researched and produced the vaccines but frontline health care providers in communities across the country."
     publishedDateTime: 2020-12-29T16:38:00Z

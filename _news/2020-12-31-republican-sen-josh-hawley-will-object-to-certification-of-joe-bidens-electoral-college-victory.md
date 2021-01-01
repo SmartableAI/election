@@ -31,38 +31,65 @@ images:
     isCached: true
 
 related:
-  - title: "'I think I had some effect': Cindy McCain pleased with Joe Biden's election victory, looks ahead"
-    excerpt: "Cindy McCain played a big role in Joe Biden's narrow win in Arizona. Now she's trying to get Republicans named to his incoming administration."
-    publishedDateTime: 2020-12-27T16:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/?soc_src=social-sh&soc_trk=tw&tsrc=twtr"
-    ampWebUrl: "https://amp.usatoday.com/amp/4052794001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052794001"
+  - title: "'Dangerous ploy': GOP Sen. Ben Sasse slams efforts by Trump, Hawley to overturn election"
+    excerpt: "Nebraska Republican Sen. Ben Sasse denounced the \"institutional arsonist members of Congress who will object to the Electoral College vote.\""
+    publishedDateTime: 2021-01-01T13:51:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/01/ben-sasse-denounces-dangerous-ploy-overturn-election/4106964001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4106964001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4106964001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 127
+    quality: 131
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/23/PPHX/3feaa328-d9d2-4409-8443-7cf3424528d6-Cindy_McCain_2.jpg?auto=webp&crop=3399,1912,x1,y524&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/fa2731b8-2f69-4a0f-bce6-d9133544aa38-AP_Supreme_Court_Barrett_1.jpg?auto=webp&crop=3999,2250,x0,y337&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Fact check: These 5 election statistics do not discredit Joe Biden's victory"
-    excerpt: "Social media users have shared a meme with statistics about Barack Obama, Donald Trump and Joe Biden that they claim discredit election results."
-    publishedDateTime: 2020-12-31T23:37:00Z
-    webUrl: "https://www.indystar.com/story/news/factcheck/2020/12/31/fact-check-5-election-statistics-do-not-discredit-joe-bidens-victory/4086497001/"
-    ampWebUrl: "https://amp.indystar.com/amp/4086497001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4086497001"
+  - title: "House approves Trump's $2K checks, sending to GOP-led Senate"
+    excerpt: "The House has voted overwhelmingly to increase COVID-19 relief checks to $2,000, meeting President Donald Trump’s demand for bigger payments"
+    publishedDateTime: 2020-12-29T02:30:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929699"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929699"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929699"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 87
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/9f70ffd8-a8b4-4497-b1de-018d10ca07fe-2020-elections-topper-02.png?auto=webp&crop=7967,4481,x16,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/WireAP_29f4b4f27e864d9d8618ef344062ef9a_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
+  - title: "GOP senator rebukes 'dangerous ploy' to fight Biden victory"
+    excerpt: "Republican Sen. Ben Sasse of Nebraska has issued a pointed rebuke of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election"
+    publishedDateTime: 2021-01-01T10:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-senator-rebukes-dangerous-ploy-fight-biden-victory-75001343"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-senator-rebukes-dangerous-ploy-fight-biden-victory-75001343"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-senator-rebukes-dangerous-ploy-fight-biden-victory-75001343"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b38f31cbddc8455facf64d53606dc074_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump lashes out at GOP after override vote on defense bill"
+    excerpt: "President Donald Trump lashed out at congressional Republicans a day after the House easily voted to override his veto of a defense policy bill."
+    publishedDateTime: 2020-12-30T19:17:00Z
+    webUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "pmGeRqTfS37ZT+k/iTrtihLJUCcUjOigLx5mkfeqDveW5GK3UgSWvo1Dx6wciWdyrBdGZVBE9yH7twyXveh0ey9hL9EvIwa0/MqRasg8GRl+C7YKzgjSLzBNA4xBKtDDF6zPEcWnhkoEVnttT2RGCHO3RZZWfdvtWHSitBgBvTEzD66k1lJWJWLxpihhIRcMIsCMZJgpcmT1S4hrKuSMUi68jsqw/PP3r2/4F4ggzYIhuA0D3NUo8ARmcCKm5zLnVHnVWTZZy3w22mdtK8OEv0at3y7/eE2uh4+FGclpNsZ2o/Jr2sQgf5BPafaFCokcQVYAgI/cWZxCb9p9nWUNhgI14eSwOSkwPLz81a7kL1v2Q44Rohvv4vjZWvtUMans0i83cNHGdzFYHZ1nivRgEUlRFLMTlhYZ3XpJdhVFZO3mc9gozEz/Ga1h6OUfh5hHgAglrtvBiiZnHC3hvYgxrdpzoCZ364j4FQEYE4VeLsWMYAbJ6dtCNHAHjzSUsCaFz55YuhgvkwxQW3an9VzR1g==;9lhPw22aQRgrMLsLuzvb2g=="
 ---

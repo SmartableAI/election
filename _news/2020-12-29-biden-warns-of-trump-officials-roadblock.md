@@ -45,6 +45,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Pence asked a judge to kill a lawsuit filed by Trump fans seeking to empower him to overturn Biden's election win on January 6"
+    excerpt: "Lawyers for Pence asking for the suit to be dismissed on December 31, describing it as \"a legal contradiction.\""
+    publishedDateTime: 2021-01-01T14:39:00Z
+    webUrl: "https://www.businessinsider.com/pence-asks-judge-kill-lawsuit-aimed-overturn-biden-win-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/pence-asks-judge-kill-lawsuit-aimed-overturn-biden-win-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-asks-judge-kill-lawsuit-aimed-overturn-biden-win-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 142
+    images:
+      - url: "https://i.insider.com/5fef2b309ff41f001883fa37?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Republicans’ loyalty to Trump means more doubt hovers over Biden’s hope of bipartisanship"
     excerpt: "But some GOP lawmakers’ continued loyalty to President Trump weeks before Biden is inaugurated suggests that convincing members of the opposing party to work will not be an easy transition. The electoral college affirmed Biden’s victory over Trump more than a week ago,"
     publishedDateTime: 2020-12-24T17:01:00Z

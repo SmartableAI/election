@@ -2,14 +2,14 @@
 category: news
 title: "Trump extends restrictions on work visas, says coronavirus pandemic still disrupts 'American livelihoods'"
 excerpt: "The order will now expire at the end of March, extending into President-elect Joe Biden’s first term in office."
-publishedDateTime: 2021-01-01T02:06:27Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZBUQA3SEU0c/trump-restrictions-work-visas-coronavirus"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZBUQA3SEU0c/trump-restrictions-work-visas-coronavirus"
+publishedDateTime: 2021-01-01T02:20:00Z
+originalUrl: "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus"
+webUrl: "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus"
 ampWebUrl: "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp"
 type: article
-quality: 158
-heat: 158
+quality: 118
+heat: 118
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -30,6 +31,6 @@ images:
     height: 720
     isCached: true
 
-secured: "hPIuVfr22aNDstz3dPOr/90l9EXb+W6FxBPpcXxuCg6WB6slOKKtE4CBvNfeJqlah4QmJFbXqCyXzI415+kaoABOyUL1M3ZrAka/dfbuSrwy02NJkUm08CUbrIIxSRKkqN62wrmvenP+iQJVIhM6QOG869Gh8wUFMk9+8Sr/y7khbNbga0tNKrWK03W3XjTX3zSeHso+21fJQ/k7pYnO4NzYkyHAnjGTJvXXYV4cerJmKfTED6BJuQ9TNSDFRh/MDqWmlGfvALj+trHE4rmQ7GYfFC9bZwYEfk+x0vxnNMkrAUqF3xvgLAc6tFn9pcYGrVoB0I08nwaRpKLPeHlI6o0XPP3iYF64omt3tIQSyCU=;pZemIvWmx4Lb8zhxivKvLw=="
+secured: "QuUYx61z3hBPlWXYG6grswksfALs8z4HldnPpRSccNypcd3reNaDtGiNVgEVU+ENceOvJM+xrQZNiCwhx60Qxq1T8NIuPIQRtQWyvAVX0nT8GqugtsNYGPQjhKKn4IFfQloJf+3uad/cQ7zXMpVR08jM0lY4m4L2Vj1I5f/y0B5SsWvz1ab2SadTKop/B1MFmQ/+o54/TnZYT2N7FB0O1xluROjLUy3WIS++mJMhO4h1n6qZhoCyTKKZgYaWQUQlhlZwIFJflLfPhG07hq4DfYYr2ryzvYWMY9fIGNV36Zeixk3oVqscm/1WZ/7AXdd+pg/4vNtIWSc1HRIFx+1t28R5sjQ9wMim/ufiSBZyX0c=;2afKvc5FnW5eV5A6VfHeLw=="
 ---
 

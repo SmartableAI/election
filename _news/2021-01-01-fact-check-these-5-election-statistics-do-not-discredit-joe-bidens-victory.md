@@ -43,23 +43,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
-    excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
-    publishedDateTime: 2020-12-30T20:32:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 112
-    images:
-      - url: "https://www.chicagotribune.com/resizer/85Xf4PTOdf76QQecBE6bXOrleHs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7MEZB6KZLEGBLDVQGQMT47SUSY.jpg"
-        width: 1200
-        height: 741
-        isCached: true
 
-secured: "BRb53jW+6Ho4YunCJUcW7ZRkE6PFJK3WYhAfeoP2dYn7RgLokDQhSPRcRbo4t2NKCqG8uurRyX68w+54pPvOOxg3udDAs5ZCMVhY46hL8MXe78c4vIgC2plCfNYIo6neaxRQVSKq9U/6iVJoJGrp+ArMW1Z2ESuF1QY+wIfktUrFNaPtwCA8Y6HGR99M0tjucKbMWZWHtnZhbuwEzoWW9TvhdJ3h6MmM+NYGpuFIS/pS36GveIBSbWWw1JeHrbv79r0WtPDF0u2pi6n249PgKNij/4voRREPg4qMawafPim3Lw4vz05JzXpt7CBFu6hG0iEUd+vyXTgwGTsr5SG1B1wuIRSkATCUOvDMOg5Q+5Y=;XvLhrwvg7/cwMB0n8wvmQw=="
+secured: "qqAag1X15rjSQ24up3DK+uPMNtygaUnx9r8Vf4o2yInb7mXkzxW3Vktq3Xu7HVJDkRVxXnWHGX7I9jiZueknMDHTqBe2akZ72nfuXzNdecYqVCreruRLWK1PsyKbdcBdaNIaMDKpSr+Q/5V+sRNBUuACDZOfi2LQP3vSLq+iG939ed7Mj2YOxp0SQ5DIeQOSE8ho5aOzZaZv2DxJPhUiXzZfeYT2TPfC/TNZi3IU1cwPFO45gqZRd9YQb9sk6XvrxUEJDUQCb8azFVf8ZBcizitic1cAlYAyCeDhgPNtFi0k97idfUuPr+Hre6YYn3qo4+AUFG+5cFk7PUmyX3BXjOat0FpzW0Sf2mRAiRNYv657ScJcNfZnKVtr0CvpJE5GPcalR68m0/H5ZoinK3RxA2MoTgqXzsTAlD3i2BI/gFiRvuyciNjWOnnbyOvkJT376qMIQ+aZkvD+Ii0JJRjCsP6iWRuRSjuTGMZU0h2ICn50Zj0/GY3aaNQ1m0oWISYgrLLegiC8p5S0lRyvlmZJoA==;25Z7DB1VRzvw33hvNC+SSQ=="
 ---
 
