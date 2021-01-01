@@ -80,6 +80,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Mike Pence fighting lawsuit giving him power to overturn election results"
+    excerpt: "Vice President Mike Pence wants a judge to toss a lawsuit that seeks to grant him power to overturn the results of the 2020 election. Lawyers for the Justice Department filed a response Thursday"
+    publishedDateTime: 2021-01-01T15:24:00Z
+    webUrl: "https://nypost.com/2021/01/01/mike-pence-fighting-lawsuit-giving-him-power-to-overturn-election-results/"
+    ampWebUrl: "https://nypost.com/2021/01/01/mike-pence-fighting-lawsuit-giving-him-power-to-overturn-election-results/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/01/mike-pence-fighting-lawsuit-giving-him-power-to-overturn-election-results/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 149
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/pence-election-77.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "5//0cLXITf9f/FP/6BMdzW9ufWQymynISFZEuFwzgSsRutrGroRM1iFzM3galE/9cOUJGOjWJNhct/jV5ZNikS3e5V2tUIFbC6oXHdK4pmoFLTXQn04IoIN8fTvPEglFhTQzo3S85MOyTcdbsUlAehSIT7dhbmJZVubdIebxLwN8B4l7DBAg2hI9q7LatgmB5kyAIZdzStnLJURMtJj4agsC7M1pwz5zrFT/Hyr3pr4fsA2/AbeIvV9T5ThAjfQdUfdPcK2MEGW4sqa5p27GvVENt3vyanGSqeW3/J9ddfeWWZiser1zLujOHuMMcKN0Jk17K4zAQTPtSfLqYOU3ezM92EoBPQUaQ4FaS7SzFLATo8yrr2Gljv6L1RdrrizX7l0fRiRKGOSoYjRjCJLk3GbboJrZ4vE/eXj7yj9guTeAEKyYRzktsjnfSrfGnP/gTqwFn7T3LvUdgnk7aUYbiMv7regsLBwI40jHA0fm2HsZjpvLkpOlDluinNyVUSZvbBFUis5qtZoRCNPZqUc3Dw==;CKxkoOBVqpEMmYvqsHNyCA=="
 ---

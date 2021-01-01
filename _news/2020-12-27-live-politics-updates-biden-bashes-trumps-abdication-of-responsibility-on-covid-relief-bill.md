@@ -239,6 +239,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A Trump hotel in DC more than quadrupled prices for room bookings around Biden's inauguration"
+    excerpt: "Rates at the Trump International Hotel begin at $2,225 a night around January 20, inauguration day. On other January days, rates begin at $476."
+    publishedDateTime: 2021-01-01T16:29:00Z
+    webUrl: "https://www.businessinsider.com/trump-hotel-hiked-up-prices-to-profit-from-bidens-inauguration-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-hotel-hiked-up-prices-to-profit-from-bidens-inauguration-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hotel-hiked-up-prices-to-profit-from-bidens-inauguration-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 129
+    images:
+      - url: "https://i.insider.com/5fef3c929ff41f001883fa39?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump's America-first approach 'meant America alone', says Joe Biden – video"
     excerpt: "President-elect Joe Biden says his presidency would not be 'a third Obama term' and that he would consider appointing a Republican"
     publishedDateTime: 2020-11-25T01:19:00Z

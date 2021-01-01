@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Live politics updates: Rubio goes after Fauci on Twitter; Trump signs COVID relief amid criticism for delay"
-excerpt: "Trump signs coronavirus stimulus bill amid bipartisan criticism; Rubio says Fauci \"lied\" and distorted; George Conway calls on Mnuchin to quit."
-publishedDateTime: 2020-12-28T23:32:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/"
-ampWebUrl: "https://amp.usatoday.com/amp/4052084001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052084001"
+title: "WATCH LIVE: Senate considers overriding Trump veto on defense bill"
+excerpt: "In the few days remaining, GOP senators are poised to assert traditional Republican spending and security priorities in defiance of a president who has marched the party in a different direction."
+publishedDateTime: 2021-01-01T14:42:00Z
+originalUrl: "https://www.pbs.org/newshour/politics/watch-live-senate-considers-overriding-trump-veto-on-defense-bill"
+webUrl: "https://www.pbs.org/newshour/politics/watch-live-senate-considers-overriding-trump-veto-on-defense-bill"
+ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-senate-considers-overriding-trump-veto-on-defense-bill"
+cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-senate-considers-overriding-trump-veto-on-defense-bill"
 type: article
-quality: 107
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: PBS
+  domain: pbs.org
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/pbs.org-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/c7e5be1a-e67d-42ed-a51f-f22c064e92fe-GTY_1230070219.jpg?auto=webp&crop=3999,2249,x0,y165&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/11/2020-11-17T173230Z_116744963_RC255K9F2GIT_RTRMADP_3_HEALTH-CORONAVIRUS-USA-CONGRESS-1024x683.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -94,22 +94,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/3ccbc88064d062146765d0963a503be4ff308eaa/0_0_4240_2545/master/4240.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a9ecb355a5aed50a9e8e7cdbe5b75841"
         width: 600
         height: 360
-        isCached: true
-  - title: "WATCH LIVE: Senate considers overriding Trump veto on defense bill"
-    excerpt: "In the few days remaining, GOP senators are poised to assert traditional Republican spending and security priorities in defiance of a president who has marched the party in a different direction."
-    publishedDateTime: 2021-01-01T14:42:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-senate-considers-overriding-trump-veto-on-defense-bill"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-senate-considers-overriding-trump-veto-on-defense-bill"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-senate-considers-overriding-trump-veto-on-defense-bill"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 125
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/11/2020-11-17T173230Z_116744963_RC255K9F2GIT_RTRMADP_3_HEALTH-CORONAVIRUS-USA-CONGRESS-1024x683.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "UPDATE 1-Trump to skip New Year's Eve in Florida for early return to Washington"
     excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
@@ -239,6 +223,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Live politics updates: Rubio goes after Fauci on Twitter; Trump signs COVID relief amid criticism for delay"
+    excerpt: "Trump signs coronavirus stimulus bill amid bipartisan criticism; Rubio says Fauci \"lied\" and distorted; George Conway calls on Mnuchin to quit."
+    publishedDateTime: 2020-12-28T23:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4052084001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052084001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/c7e5be1a-e67d-42ed-a51f-f22c064e92fe-GTY_1230070219.jpg?auto=webp&crop=3999,2249,x0,y165&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fate of Trump's $2,000 checks now rests with GOP-led Senate"
     excerpt: "President Donald Trump’s push for $2,000 COVID-19 relief checks now rests with the Senate after the House voted overwhelmingly to meet the president's demand to increase the $600 stipends, but Republicans have shown little interest in boosting spending."
     publishedDateTime: 2020-12-30T04:04:00Z
@@ -283,6 +283,6 @@ related:
         height: 675
         isCached: true
 
-secured: "1jWrRBk/BN0zqvUFhJ+A5yn8fFRTV7SmDCUBGFUhoiu9/JIhR2ExDbKqYHIKF2xhNvuS8UFwER1Ki1FY1xXfQSmwZnSojwi7ysSB9VRNFSMJ+NEBkQWXhEwFESE84VGoD34EGkfnu5S66cMv5A9Kkp9g61k5lrxD99MY3QDU35PLcVBtMCkDWebM1lC7JT5ELsIVYw31eIkI5Lddvw+JS8liJcEekC0fJ6QKYfu7llIKyj+6EPeKDcNokwQL6JzL+k/5M2vQ4NgyuipbJNgnT+32a21E7F9KNCcsU8bSA4XzVJddk8UHAr2ZB/0qjEDlltVcrym7KJlwF2+3D7A2QICkbrOjRpwk6vHXVAvYrz0=;2qJhfJpeJ7ZiTQr3CjfmwA=="
+secured: "Z3pQOmRgpGkZeBfEUTX1ahXq0d7eKM76jAcDa1m5W+yXKCvFRZaBC/a4C7Zrb6wbWNXGt7Py8Jq9lOKf98dK2BcTpBT+bqZYO/bQjUflHD8/KY9j67W95NchQX0ncQCU2acvE95Tkyb8wI7/CB2FwMORXvkpBSBEOjFidr1giJ4Lw1kxOjTIGzoroad5vrCoje+l0oRgEqrnQpDH5TPdCeyiWA6ShKe1msoytIlITETkKxv/Ll75Mxs6eBP7CKYdxtR9F/YlCz6pxoYL6mt9mKgoh62u3bf5JUiqTsoNUjNswWC7DB8V5txhGcDbqtKCeudqxdW81dfcrQFj82Lqu9UhKgDtpLeT77yC7fVCyRs=;91wWcUqOlZ5fyXjXiwzAOA=="
 ---
 

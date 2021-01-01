@@ -64,6 +64,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Mike Pence fighting lawsuit giving him power to overturn election results"
+    excerpt: "Vice President Mike Pence wants a judge to toss a lawsuit that seeks to grant him power to overturn the results of the 2020 election. Lawyers for the Justice Department filed a response Thursday"
+    publishedDateTime: 2021-01-01T15:24:00Z
+    webUrl: "https://nypost.com/2021/01/01/mike-pence-fighting-lawsuit-giving-him-power-to-overturn-election-results/"
+    ampWebUrl: "https://nypost.com/2021/01/01/mike-pence-fighting-lawsuit-giving-him-power-to-overturn-election-results/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/01/mike-pence-fighting-lawsuit-giving-him-power-to-overturn-election-results/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 149
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/pence-election-77.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Gohmert's Pence lawsuit seeks to declare Electoral Counting Act unconstitutional in bid to overturn Biden win"
     excerpt: "Rep. Louie Gohmert, R-Texas, is making a last-ditch effort to change the result of the 2020 presidential election by suing Vice President Mike Pence with the aim of having him declare President Trump the victor when he announces the winner of the electoral college vote on Jan."
     publishedDateTime: 2020-12-29T14:36:00Z

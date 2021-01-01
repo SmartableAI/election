@@ -90,6 +90,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
+    excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
+    publishedDateTime: 2021-01-01T02:42:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 62
+    images:
+      - url: "https://www.courant.com/resizer/85Xf4PTOdf76QQecBE6bXOrleHs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7MEZB6KZLEGBLDVQGQMT47SUSY.jpg"
+        width: 1200
+        height: 741
+        isCached: true
 
 secured: "pmGeRqTfS37ZT+k/iTrtihLJUCcUjOigLx5mkfeqDveW5GK3UgSWvo1Dx6wciWdyrBdGZVBE9yH7twyXveh0ey9hL9EvIwa0/MqRasg8GRl+C7YKzgjSLzBNA4xBKtDDF6zPEcWnhkoEVnttT2RGCHO3RZZWfdvtWHSitBgBvTEzD66k1lJWJWLxpihhIRcMIsCMZJgpcmT1S4hrKuSMUi68jsqw/PP3r2/4F4ggzYIhuA0D3NUo8ARmcCKm5zLnVHnVWTZZy3w22mdtK8OEv0at3y7/eE2uh4+FGclpNsZ2o/Jr2sQgf5BPafaFCokcQVYAgI/cWZxCb9p9nWUNhgI14eSwOSkwPLz81a7kL1v2Q44Rohvv4vjZWvtUMans0i83cNHGdzFYHZ1nivRgEUlRFLMTlhYZ3XpJdhVFZO3mc9gozEz/Ga1h6OUfh5hHgAglrtvBiiZnHC3hvYgxrdpzoCZ364j4FQEYE4VeLsWMYAbJ6dtCNHAHjzSUsCaFz55YuhgvkwxQW3an9VzR1g==;9lhPw22aQRgrMLsLuzvb2g=="
 ---

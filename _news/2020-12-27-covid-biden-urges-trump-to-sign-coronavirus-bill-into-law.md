@@ -223,6 +223,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A Trump hotel in DC more than quadrupled prices for room bookings around Biden's inauguration"
+    excerpt: "Rates at the Trump International Hotel begin at $2,225 a night around January 20, inauguration day. On other January days, rates begin at $476."
+    publishedDateTime: 2021-01-01T16:29:00Z
+    webUrl: "https://www.businessinsider.com/trump-hotel-hiked-up-prices-to-profit-from-bidens-inauguration-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-hotel-hiked-up-prices-to-profit-from-bidens-inauguration-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hotel-hiked-up-prices-to-profit-from-bidens-inauguration-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 129
+    images:
+      - url: "https://i.insider.com/5fef3c929ff41f001883fa39?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Live politics updates: Biden bashes Trump's 'abdication of responsibility' on COVID relief bill"
     excerpt: "\"This abdication of responsibility has devastating consequences,\" Biden said, warning Trump put unemployment aid and other vital services at risk."
     publishedDateTime: 2020-12-27T13:39:00Z

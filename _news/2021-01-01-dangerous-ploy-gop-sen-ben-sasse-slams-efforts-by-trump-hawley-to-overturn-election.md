@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4106964001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4106964001"
 type: article
 quality: 131
-heat: 211
+heat: 231
 published: true
 
 provider:
@@ -90,7 +90,23 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
+    excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
+    publishedDateTime: 2021-01-01T02:42:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 62
+    images:
+      - url: "https://www.courant.com/resizer/85Xf4PTOdf76QQecBE6bXOrleHs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7MEZB6KZLEGBLDVQGQMT47SUSY.jpg"
+        width: 1200
+        height: 741
+        isCached: true
 
-secured: "GDSYPusuhmyv8hc0fXbW0POBiB5MD1sEzRr9zuDav6cnmeUm5J7Tu7Ssr54rIk+CI52634jD0WgppKdz5TIiZaSk1HCfSErlNYg0qZRurR6PTp4w6FI5h83SnLzTNQT4xAmhKd21A2ghuHqozOTghs9vwNYhA+qEXT1ckmnR17EHywVEL4RSLU3jFObSD8gwULwWlc1Yx0gbi4ya4V2EDjx7zeyJ1UKO69xwsFPnNVAqIQExFMDNj8OBW2kV53eGy3j68SDixhrSFX4O06QZqsU1VHa9FF04mtlj1Hc4ARyR5OGKedo477av9DeV9doIBvoXRKzpjy8tWVQRihpKy2JoAeOVR74UdMWi/iwkQ7I=;2NXTr0Cp9BYj/yBfXSxC6w=="
+secured: "Rr0/Mnn50GOGzdmwf1sUIE1wZBCyfLUHU+XmVVGL76cjtG6VsNJNafdRJVyhLrMMmYKI2kYZM5Tz44hCaMn/4j7AG1JAcfPvY3yQbkY6FEISlCBMSPizJ2COR8eN/CePyPRBLA+lWJ3Hl4tD/+CCpB5cjCn2Zou1HZRrKdBjWky0sWoCQfH1Ad+jpoM5pQSOa8D4BYiHmhSLtSRoV2ksfdAOHCiY7g7551pHw4Y8q0fwtzWm/UEzb6P0HqTN4h1PXsEuasUUhu+OfLmglFHJwM3iegoaJCKxzYmlurMvDA8+uMFJ+9QUn7XpRi0EvX/ZECYENs9UiPyHZ9XmKNVbjZPwZJGD+V1WRFyVo7eyzYWUSkxsiUbvXr4tGrmItDMc9NXUHfZb8X8ifspSV+BCiZhWxVgbdgTeALcubM7SsMqBbke0KEmjdJ3EBsNWGzRkc4jkuTO/MivY8kc8M68qehMeBnztWb9a8BWsev3WqUz06FDfafbJUxxS+vVtSW4gMiY+VCTWot+PbE0z83uE6w==;QswGAGs6Cnq6oj7yaG5EJg=="
 ---
 

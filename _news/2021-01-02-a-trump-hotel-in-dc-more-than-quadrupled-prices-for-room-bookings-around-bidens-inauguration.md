@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Joe Biden warns Trump administration's vaccine distribution plans are \"falling far behind\""
-excerpt: "Washington — President-elect Joe Biden warned Americans on Tuesday that they need to brace for a \"very tough period for our nation\" with soaring coronavirus case counts and deaths expected in the coming weeks and said the Trump administration's plans for distributing coronavirus vaccines are lagging."
-publishedDateTime: 2020-12-29T21:28:00Z
-originalUrl: "https://www.cbsnews.com/news/joe-biden-covid-pandemic-speech-live-stream-today-2020-12-29/"
-webUrl: "https://www.cbsnews.com/news/joe-biden-covid-pandemic-speech-live-stream-today-2020-12-29/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-covid-pandemic-speech-live-stream-today-2020-12-29/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-covid-pandemic-speech-live-stream-today-2020-12-29/"
+title: "A Trump hotel in DC more than quadrupled prices for room bookings around Biden's inauguration"
+excerpt: "Rates at the Trump International Hotel begin at $2,225 a night around January 20, inauguration day. On other January days, rates begin at $476."
+publishedDateTime: 2021-01-01T16:29:00Z
+originalUrl: "https://www.businessinsider.com/trump-hotel-hiked-up-prices-to-profit-from-bidens-inauguration-2021-1"
+webUrl: "https://www.businessinsider.com/trump-hotel-hiked-up-prices-to-profit-from-bidens-inauguration-2021-1"
+ampWebUrl: "https://www.businessinsider.com/trump-hotel-hiked-up-prices-to-profit-from-bidens-inauguration-2021-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hotel-hiked-up-prices-to-profit-from-bidens-inauguration-2021-1?amp"
 type: article
-quality: 130
+quality: 129
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/29/10986146-2a9f-442c-a4c7-691464688551/thumbnail/1200x630g2/c70d66c8a8df12651b774420f99afe1d/biden-covid19.jpg"
+  - url: "https://i.insider.com/5fef3c929ff41f001883fa39?width=1200&format=jpeg"
     width: 1200
-    height: 630
+    height: 600
     isCached: true
 
 related:
@@ -223,21 +223,21 @@ related:
         width: 1600
         height: 901
         isCached: true
-  - title: "A Trump hotel in DC more than quadrupled prices for room bookings around Biden's inauguration"
-    excerpt: "Rates at the Trump International Hotel begin at $2,225 a night around January 20, inauguration day. On other January days, rates begin at $476."
-    publishedDateTime: 2021-01-01T16:29:00Z
-    webUrl: "https://www.businessinsider.com/trump-hotel-hiked-up-prices-to-profit-from-bidens-inauguration-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-hotel-hiked-up-prices-to-profit-from-bidens-inauguration-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hotel-hiked-up-prices-to-profit-from-bidens-inauguration-2021-1?amp"
+  - title: "Joe Biden warns Trump administration's vaccine distribution plans are \"falling far behind\""
+    excerpt: "Washington — President-elect Joe Biden warned Americans on Tuesday that they need to brace for a \"very tough period for our nation\" with soaring coronavirus case counts and deaths expected in the coming weeks and said the Trump administration's plans for distributing coronavirus vaccines are lagging."
+    publishedDateTime: 2020-12-29T21:28:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-covid-pandemic-speech-live-stream-today-2020-12-29/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-covid-pandemic-speech-live-stream-today-2020-12-29/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-covid-pandemic-speech-live-stream-today-2020-12-29/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 129
+      name: CBS News
+      domain: cbsnews.com
+    quality: 130
     images:
-      - url: "https://i.insider.com/5fef3c929ff41f001883fa39?width=1200&format=jpeg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/29/10986146-2a9f-442c-a4c7-691464688551/thumbnail/1200x630g2/c70d66c8a8df12651b774420f99afe1d/biden-covid19.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
   - title: "Live politics updates: Biden bashes Trump's 'abdication of responsibility' on COVID relief bill"
     excerpt: "\"This abdication of responsibility has devastating consequences,\" Biden said, warning Trump put unemployment aid and other vital services at risk."
@@ -618,6 +618,6 @@ related:
         height: 630
         isCached: true
 
-secured: "9nb5gCTQV29qIoFtqlR+ztQxGdB1p4B4hNwqwj6ca6M1u7r8h7DC6QceH6ZJIJAMXgyg1EkwIDx3Il32wXI+7SeAfZQvIRQCGnsFoYfw/fY7jDKwatb8W6Kx4Xur4hgNVeC1AtIdZie2MyLwvbsvFMP0QAKj76UL0dRrNNbgTPUjnCaN8qvAZfe7siL/eEH5L6BPcGtxGmYDi4IIAXVWrmV//dkSqbxNQvxnvs5g/P3tghyQiDabGvnT4j+VkWKrxF+tPeNOARW0MMDBP076Drd8pl/aETi839xji4HwChX/MMXr4nHtqak4OwCVdSjppcoypbXkcTDpa8zV9upT8Q5p5HFcbo01Tx8GDFuwknbObD5kycNCmwVIomghxXJa0fSr/jtPPQjLeK3axbQXShawuhe94TdKoIliGy4cMO6C0jJUPFIxZmzNYZZYAV55DKC0H4tSZ3OOuJHqjxZO0yfjDYEwCYb3LnVN+PQ6vZ+hmhQwZqUUZ9998WdaO99uc7ZzXUThtiEbzkKw+7e9Yg==;s6MUJVHd2/b6w4f9mJdL/A=="
+secured: "gsNnPlmP9LfiGSIHzuVKAkRD90wdtMHHP1mqvZjgrmoRPETKf8hd332a0HYUjxxzdovf41upxeDTJbUipq5WNnBGplaupMd19m/meehnWriaVUFmjD2OQhi8Xl4xshM0NU0xpbgQh5t1TICNyo1y0br+WBEEi73kvgQSg6ATJIPynwMAemAWVrKdW3hd31CX7fEoryPI1cCHKuoW+TiGRGiyRBic9lwCoc300qtyuOh/+rW/0kYr/dMnRuBdqBIqgU3g6I+xxXmvDyjS+jKWIUhg8K826kTckV0EOuYpS6SVgw0j2xOoWCR24RY+GmyjwH9Ga32AfmaeItzmnw0464KqRgrmRELFk18A7abENRw=;ov8LKJ9z/Rgaw33xMU9Wtg=="
 ---
 

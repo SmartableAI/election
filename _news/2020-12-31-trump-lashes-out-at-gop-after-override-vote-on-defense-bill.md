@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 741
         isCached: true
+  - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
+    excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
+    publishedDateTime: 2021-01-01T02:42:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 62
+    images:
+      - url: "https://www.courant.com/resizer/85Xf4PTOdf76QQecBE6bXOrleHs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7MEZB6KZLEGBLDVQGQMT47SUSY.jpg"
+        width: 1200
+        height: 741
+        isCached: true
 
 secured: "KEJBcfqDKXDS2XnmeDdCq8TtxqB+qzNc5wHMHPwqwsmkb2y+h23sILjKZWXlp9e8scz6/ZC4VRgoJzObx2yuwD2I21+MHU24bfT0pfz+SEXxai0XYyvL/Z+iKUhSTzxNyuzhD6mopx6BwMe7Taw8ZJ2hvQrS14X4HCXXyfUx3Ussszt0Irbi0lwoGr0a995mQ/9liScHVYiKNKftnX21Q9hBU/mqth7HNvJDfjMnLMh7s6755u/sepAsnYv8rS7lBsZAKfpm2gCYy+UMzBIO5gLxd/Q+qQtF7KODCm5HlwMlenjlxUhye0cHBVtz0Ffjl3gAV2IRlhTH0eG4jJhE2FKMrTm7NqS3nhx+C0WplfY=;lDuQvcUw+LFnlViMVS4BqA=="
 ---

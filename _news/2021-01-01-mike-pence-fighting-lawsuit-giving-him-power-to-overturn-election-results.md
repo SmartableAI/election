@@ -1,34 +1,30 @@
 ---
 category: news
-title: "Pence, House seek to dismiss Gohmert-GOP suit aimed at letting him overturn election"
-excerpt: "The House of Representatives asked a federal judge in Texas on Thursday to dismiss a Republican congressman’s lawsuit seeking to give Vice President Mike Pence the power to decide which electoral votes to count when Congress meets on Jan. 6 to finalize November’s presidential election."
-publishedDateTime: 2021-01-01T06:34:10Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWn1CHK2OLE/pence-house-seek-to-dismiss-gohmert-gop-suit-aimed-at-letting-him-overturn-election"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWn1CHK2OLE/pence-house-seek-to-dismiss-gohmert-gop-suit-aimed-at-letting-him-overturn-election"
-ampWebUrl: "https://www.foxnews.com/politics/pence-house-seek-to-dismiss-gohmert-gop-suit-aimed-at-letting-him-overturn-election.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-house-seek-to-dismiss-gohmert-gop-suit-aimed-at-letting-him-overturn-election.amp"
+title: "Mike Pence fighting lawsuit giving him power to overturn election results"
+excerpt: "Vice President Mike Pence wants a judge to toss a lawsuit that seeks to grant him power to overturn the results of the 2020 election. Lawyers for the Justice Department filed a response Thursday"
+publishedDateTime: 2021-01-01T15:24:00Z
+originalUrl: "https://nypost.com/2021/01/01/mike-pence-fighting-lawsuit-giving-him-power-to-overturn-election-results/"
+webUrl: "https://nypost.com/2021/01/01/mike-pence-fighting-lawsuit-giving-him-power-to-overturn-election-results/"
+ampWebUrl: "https://nypost.com/2021/01/01/mike-pence-fighting-lawsuit-giving-him-power-to-overturn-election-results/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/01/mike-pence-fighting-lawsuit-giving-him-power-to-overturn-election-results/amp/"
 type: article
-quality: 193
+quality: 149
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
-  - Republican Voice
   - Mike Pence
+  - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Gohmert-Pence-Split-.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/pence-election-77.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -48,6 +44,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pence, House seek to dismiss Gohmert-GOP suit aimed at letting him overturn election"
+    excerpt: "The House of Representatives asked a federal judge in Texas on Thursday to dismiss a Republican congressman’s lawsuit seeking to give Vice President Mike Pence the power to decide which electoral votes to count when Congress meets on Jan. 6 to finalize November’s presidential election."
+    publishedDateTime: 2021-01-01T06:34:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWn1CHK2OLE/pence-house-seek-to-dismiss-gohmert-gop-suit-aimed-at-letting-him-overturn-election"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-house-seek-to-dismiss-gohmert-gop-suit-aimed-at-letting-him-overturn-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-house-seek-to-dismiss-gohmert-gop-suit-aimed-at-letting-him-overturn-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 193
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Gohmert-Pence-Split-.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Pence Seeks to Dismiss GOP Lawsuit Aiming to Let Him Overturn Election"
     excerpt: "Opposition to the lawsuit by the vice president and Justice Department deal another blow to weekslong Republican efforts to install President Trump for a second term."
     publishedDateTime: 2021-01-01T04:51:00Z
@@ -63,22 +75,6 @@ related:
       - url: "https://images.wsj.net/im-279934/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Mike Pence fighting lawsuit giving him power to overturn election results"
-    excerpt: "Vice President Mike Pence wants a judge to toss a lawsuit that seeks to grant him power to overturn the results of the 2020 election. Lawyers for the Justice Department filed a response Thursday"
-    publishedDateTime: 2021-01-01T15:24:00Z
-    webUrl: "https://nypost.com/2021/01/01/mike-pence-fighting-lawsuit-giving-him-power-to-overturn-election-results/"
-    ampWebUrl: "https://nypost.com/2021/01/01/mike-pence-fighting-lawsuit-giving-him-power-to-overturn-election-results/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/01/mike-pence-fighting-lawsuit-giving-him-power-to-overturn-election-results/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 149
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/pence-election-77.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Gohmert's Pence lawsuit seeks to declare Electoral Counting Act unconstitutional in bid to overturn Biden win"
     excerpt: "Rep. Louie Gohmert, R-Texas, is making a last-ditch effort to change the result of the 2020 presidential election by suing Vice President Mike Pence with the aim of having him declare President Trump the victor when he announces the winner of the electoral college vote on Jan."
@@ -97,6 +93,6 @@ related:
         height: 720
         isCached: true
 
-secured: "UAnkCHCg0zM1sKTsSF7g2kg0S4qUQr9HEYfm/hjwCe0k2ECjwg2SaWq4JsqiF60SxAWy4OLCB1whHYw0Mdo8xAnZarQiCvkoofBa3Gs9SYGcCWXBJJvdX3f79kcGvLZIxBSolueVRfQfEDEgTLz2g9H/qbWMbLkV49NnWGoVndZ4TKc+GXQ9qHmEwk3ctoZyuyTU5skM2D55pdUvTukuNO+XH5yksmba+3tkHkET22wk+hpYNqobcvnPfQnXKSMANbg+ItA70nR+Uj1src9hslslwp2HmRKWvOAapjtHKqpvP2UwERYvnpaRxiKmuxU0+OWWbzowLdDy1WdTwW+VRPFJEs2IsUPVRGaFxbBuPRc=;gWBDjqQWnwBLPrNXAgQ6LQ=="
+secured: "nfVEP/+eowkCMMsVsSWQu7NN8KL/eT8vb/l3571CPOQek+NVZJAt9Pq1Pd0mSWwaiVh017VZTcErxL8LoD4X0fsQGpCLIRuQCFmg9/iqll2hIxaJJktA70NBnFK9HHbvvFoUceYpiKszMwQPezDtM0X1jxl7ieBzpUa6Kg2EXPfk4bVRaDULsfX6qcWRnwjxKNaV3pW6yid2SD1Pzs+7F3cCRkwRVNCJIrecGrbw5vnpcAEWVR9OXQIYuLJKNGd+zMbsiXLI5vfhjC+/XWXjZWLek59CR8F9EMRstGbO4Z0qHlWljDsyTsOoVEMcprmhOvlJZ6iiz8e9OuV37HWH4jeBarZrqjM/c9J/dy4b/Mk=;RY1KfblkigZ4/KsAiG6Cjg=="
 ---
 
