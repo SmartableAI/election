@@ -3,8 +3,8 @@ category: news
 title: "Iran's foreign minister urges Trump to avoid Israel \"trap\" to provoke war"
 excerpt: "Iranian Foreign Minister Mohammad Javad Zarif urged U.S. President Donald Trump on Saturday not to be \"trapped\" by an alleged Israeli plan to provoke a war through attacks on U.S. forces in Iraq."
 publishedDateTime: 2021-01-02T16:02:00Z
-originalUrl: "https://www.reuters.com/article/usa-iran-israel-zarif/israel-may-try-to-provoke-war-with-attacks-on-us-forces-in-iraq-irans-zarif-idUSKBN2970E9"
-webUrl: "https://www.reuters.com/article/usa-iran-israel-zarif/israel-may-try-to-provoke-war-with-attacks-on-us-forces-in-iraq-irans-zarif-idUSKBN2970E9"
+originalUrl: "https://www.reuters.com/article/uk-usa-iran-israel-zarif-idUSKBN2970FP"
+webUrl: "https://www.reuters.com/article/uk-usa-iran-israel-zarif-idUSKBN2970FP"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2970FP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2970FP"
 type: article
@@ -25,8 +25,8 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210102&t=2&i=1546408962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0106N"
-    width: 818
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210102&t=2&i=1546415921&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0106N"
+    width: 817
     height: 545
     isCached: true
 
@@ -62,6 +62,6 @@ related:
         height: 682
         isCached: true
 
-secured: "41j1qxH/1i8cOiBaiiGbw1fJYYW2d0N2xqyw6aiNMIFapENTqqe2esXgw7FIS9Cwld7Y06+Gm4kZQAFVR8kCbLTJVKv9gGaopB0kJRD/hffKPBC3XDNtid4gi4HI86lPJd8DvfMqa8QCKS5eWFgyMPmlJpCz60rwKB1/7fn0uVoqAshhPy2VMitZvP4DsLb4SuLZ8AX3HTg6VehGOmM4IwI9+o1orn4BLqQUVRqqn2yGTKFhqK40e5+4n96xj9afPrN+dnBfNMHp16Cs3yDVAE3ylqc2QIXT/Ag0tG5Z1/MbzM0OVpmb71XVeonSbmp11IzUG7qkCjJ4mD9JcOB2Epj/Wlakee8TWY8lgmw7+28=;lcHgxsVKxUuvthqAby0Efg=="
+secured: "CBiIwXhNhaYgQWYOa818PrwaAY9QmDMklaaAyAfSMwO23lxW/eVpOttXHAAVErFWTya4/Pu5PETuxgdQIJjIgnKvIxHj48m1RgzbTMtEr3z2loCfbeGTQT0lDJIso65M6EUWRHrIGnyVk5pR6kBHo2E4b6eQyuOCIfrLzuW2C/rb7StQmp9L+vbs+EXxFgiwgy0iX9rPx9eA6GLwKWwlcuRL+LxnQmv/NhTbj0tvZzsZ2gNKSYAQ/bDgrZ2KpyKYdz3XwXZ3at5x5TkaqIUtWb+8KRMHCxeay7QU5oVxx3IVxnSMeK29Ss34+8fPWw+soWGmjXJTtFeEu9a0C+lch/cNzuOacEn+mNLU+rN/P1M=;mzmtQ4h+wf98k6sVnkaptg=="
 ---
 

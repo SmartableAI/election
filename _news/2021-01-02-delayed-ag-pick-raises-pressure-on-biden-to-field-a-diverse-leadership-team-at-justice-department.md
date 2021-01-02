@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Families of US hostages and detainees look to Biden to keep up efforts to free loved ones"
-excerpt: "As President-elect Joe Biden prepares to take over from the outgoing Trump administration, the goal for the families of Americans unlawfully detained and held hostage abroad remains the same: to see their loved ones returned home.\n    \n"
-publishedDateTime: 2021-01-01T14:00:50Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jfdtd3ctxiU/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jfdtd3ctxiU/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/01/01/politics/hostage-families-transition/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/hostage-families-transition/index.html"
+title: "Delayed AG pick raises pressure on Biden to field a diverse leadership team at Justice Department"
+excerpt: "The longer that President-elect Joe Biden takes to select his pick for US attorney general, the more pressure builds on him to staff his Justice Department with a diverse leadership team.\n    \n"
+publishedDateTime: 2021-01-02T17:45:09Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8fY5opRzpkU/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8fY5opRzpkU/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/01/02/politics/attorney-general-biden-diversity-racial-justice/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/attorney-general-biden-diversity-racial-justice/index.html"
 type: article
-quality: 166
+quality: 162
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200730135514-trevor-reed-ex-marine-sentencing-russia-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201229161053-joe-biden-december-29-2020-01-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Families of US hostages and detainees look to Biden to keep up efforts to free loved ones"
+    excerpt: "As President-elect Joe Biden prepares to take over from the outgoing Trump administration, the goal for the families of Americans unlawfully detained and held hostage abroad remains the same: to see their loved ones returned home.\n    \n"
+    publishedDateTime: 2021-01-01T14:00:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jfdtd3ctxiU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/01/politics/hostage-families-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/hostage-families-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200730135514-trevor-reed-ex-marine-sentencing-russia-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP senator to delay affirming Biden victory by forcing votes on Electoral College results"
     excerpt: "Missouri Republican Sen. Josh Hawley said Wednesday he will object when Congress counts the Electoral College votes next week, which will force lawmakers in both the House and Senate to vote on whether to accept the results of President-elect Joe Biden's victory.\n    \n"
     publishedDateTime: 2020-12-30T16:50:34Z
@@ -124,22 +140,6 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518124535-02-sen-josh-hawley-0512-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Delayed AG pick raises pressure on Biden to field a diverse leadership team at Justice Department"
-    excerpt: "The longer that President-elect Joe Biden takes to select his pick for US attorney general, the more pressure builds on him to staff his Justice Department with a diverse leadership team.\n    \n"
-    publishedDateTime: 2021-01-02T17:45:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8fY5opRzpkU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/02/politics/attorney-general-biden-diversity-racial-justice/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/attorney-general-biden-diversity-racial-justice/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201229161053-joe-biden-december-29-2020-01-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -204,6 +204,6 @@ related:
         height: 773
         isCached: true
 
-secured: "RD+ZSKzOZxJSkWUxtOEQ9TbUhH1rLXSLmt2b+7Fd2fAIACF1mr2EasqPdED57H+NaCNNqrGbn/gWKeR57aAAAMtgSGjIMQy/pYyyExBt2YyPVqglhlypLsrt7ICzhuUVX/NPIABv97VfceXdB5T9wOczBXYG2q/V1Fa0pX5dFMQi1+a/KaMieH0NOAZk3aiJumvh8wLqKyZbIcT2dNW9okOldNiNUxnHfxRBnUJW9oTehq/aQ2dzIZkW6te7AB57fCc8BSG1Rb9Y85oGF35Sa4zCe69Neg2k+YTPk7MUD+Fz5LoXpVa9Qckuv34SW4EBcY3eJzxGkf9OD3zNLEdQ3RBEYkuSuSrC00wEW0bbAb4=;0fhEKAi84KubFWaevNMsbQ=="
+secured: "NxLcJ6GytqApTDj/MmQuCEUPDxq3sXT445By5NLSYL6+4i1P9ys3PZfW3tged+0T1BYTm/Afb3tp6Cnu7c0P9LyGfMPTRGeGJQ9hyF241DdYIwSZhYsvKCu9o3R7NBnQciPj3UR1P2xsoV7UhX06qmCaxITJwElHimuM3wG5Y4CLX6acvAsV6boaln5ZPeMYX8KGM5t4vbIEYx7HFnm1Ii22rEJkfZSn78h6e9yazTI7qTeCqT7eEVmuqgl8scxlp3BT6W00EprMxde6/aOJctxBuHrEEWJqg4cGIiv8Ko9wT6rDYdc1WP/YgMJg42aHlVcisdA5xRkwV9d4OX/C9+cvt/pJRa5p2xqDnZQXo5c=;KotG5THCQaFd3QHUPoTLAw=="
 ---
 

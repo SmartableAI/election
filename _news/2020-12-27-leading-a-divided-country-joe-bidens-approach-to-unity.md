@@ -144,6 +144,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Delayed AG pick raises pressure on Biden to field a diverse leadership team at Justice Department"
+    excerpt: "The longer that President-elect Joe Biden takes to select his pick for US attorney general, the more pressure builds on him to staff his Justice Department with a diverse leadership team.\n    \n"
+    publishedDateTime: 2021-01-02T17:45:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8fY5opRzpkU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/02/politics/attorney-general-biden-diversity-racial-justice/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/attorney-general-biden-diversity-racial-justice/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201229161053-joe-biden-december-29-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Russia, Afghanistan, Iraq: Joe Biden's foreign policy answers, through the years"
     excerpt: "As a senator and vice president, Joe Biden spent his career developing relationships with foreign leaders. Meet the Press looks back at his answers to foreign policy questions over his decades-long career."
     publishedDateTime: 2020-12-29T01:27:00Z

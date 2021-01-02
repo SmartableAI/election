@@ -1,22 +1,22 @@
 ---
 category: news
-title: "N.Y. prosecutor hires forensic accounting experts as Trump criminal probe escalates"
-excerpt: "Manhattan District Attorney Cyrus Vance has retained FTI Consulting as prosecutors scrutinize Trump’s business activities and real estate deals."
-publishedDateTime: 2020-12-29T22:06:00Z
-originalUrl: "https://www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html"
-webUrl: "https://www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html?outputType=amp"
+title: "GOP Congressman-elect Burgess Owens says 'there's no question' that Trump was reelected to a second term"
+excerpt: "Utah Rep. Owens said challenges to President-elect Joe Biden's presidential victory on the House floor is \"the right thing to do.\""
+publishedDateTime: 2021-01-02T17:43:00Z
+originalUrl: "https://www.businessinsider.com/burgess-owens-utah-trump-election-challenge-house-electoral-college-2021-01"
+webUrl: "https://www.businessinsider.com/burgess-owens-utah-trump-election-challenge-house-electoral-college-2021-01"
+ampWebUrl: "https://www.businessinsider.com/burgess-owens-utah-trump-election-challenge-house-electoral-college-2021-01?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/burgess-owens-utah-trump-election-challenge-house-electoral-college-2021-01?amp"
 type: article
-quality: 119
+quality: 108
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TPZNH4SIOUI6XA42Z5F2PN6ERQ.jpg&w=1440"
-    width: 1440
-    height: 880
+  - url: "https://i.insider.com/5ff0a420a18a450018cb6856?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -111,21 +111,21 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "GOP Congressman-elect Burgess Owens says 'there's no question' that Trump was reelected to a second term"
-    excerpt: "Utah Rep. Owens said challenges to President-elect Joe Biden's presidential victory on the House floor is \"the right thing to do.\""
-    publishedDateTime: 2021-01-02T17:43:00Z
-    webUrl: "https://www.businessinsider.com/burgess-owens-utah-trump-election-challenge-house-electoral-college-2021-01"
-    ampWebUrl: "https://www.businessinsider.com/burgess-owens-utah-trump-election-challenge-house-electoral-college-2021-01?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/burgess-owens-utah-trump-election-challenge-house-electoral-college-2021-01?amp"
+  - title: "N.Y. prosecutor hires forensic accounting experts as Trump criminal probe escalates"
+    excerpt: "Manhattan District Attorney Cyrus Vance has retained FTI Consulting as prosecutors scrutinize Trump’s business activities and real estate deals."
+    publishedDateTime: 2020-12-29T22:06:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
     images:
-      - url: "https://i.insider.com/5ff0a420a18a450018cb6856?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TPZNH4SIOUI6XA42Z5F2PN6ERQ.jpg&w=1440"
+        width: 1440
+        height: 880
         isCached: true
   - title: "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election, accuses Trump of bilking supporters"
     excerpt: "Ben Sasse of Nebraska issued a scathing rebuke Thursday of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation’s civic traditions."
@@ -241,6 +241,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "XOpsznf5YCzCIcrEK219VGuN4E6C7DnD3ioGyDg+qJHLjMxoyNchR1ys+huWydiwkBW8rWa3p7rEL5dvwEMP+NhtIK2bm/Rzac1FdqTMu2XMjRWV1SoGLYhYNGCQBNr2n58pGPBH64PZTkxxGfByEgBHGUeBtb6BZPpvnJHklCOyYQzsPTYP6AFWSz/dC4nL0IYHC3MAa9cSx6iaMIW0AC5U5gIfsMMil2Nz7jPfQmQyDw84V/qgajhm4FljOKlzdMPEWsIN+7R7bhIJx+tjwRMxFVr1s6cvuufXkvPIzOKhh+4kwfmBKOAya0MOh/16RrBGO+VWI2N6YKgKRorxchRwNUB53do314EJWYR3EnEppVYn1jNwCTAcxxx/9WqVeecWi+UScFV5rrRPu8pQl7ssv3jeIHkxqNu+ySdkS0DfqTMyITE6GFs1m5WGNLoTiVhU+JvAE9Ip0fr5dFts7iat92uLs8hRd3M64kg9ax5x6nc2cLP18VF4zkeaycFyQHzLkv9W0G+Z5bzD/uK/GQ==;5r2VFl2tSvByUGqQdhaJDQ=="
+secured: "U0xWIusQ+8nHbbqyEaYsaM2BIfldBR8h8mjAIkRtBIhQM/9T1MFAuPalT9GXlFX40u4D//wI+bXv3f/TJs9D5N795Q9wp7250NZAi4ndrRwKA+5Og6cRTWF+E84q9DeYpEUHHyo3aiVQa9zXxDCl2mLpfqLooY6yt/Jgzx/Fvg9UQPKEVH8mKNWOOA0yFJoq0inymSknj712E/0OGKyfwbix3JJEPm6ix5hpSZIPWqlktVEYLedtmdvvo2RgxXVOs1p/HT+JvloMplrFuxxy3xr2nfXSBuAMT8QSZhcHRl8UbDpG4FgBV38ZRgX3XHsxlYVBnP8chTKvBHx0zIv2AoSDQu0dBkTr5spWUsaNG8k=;XXr5P5A/RbQIZ38sSNUoqA=="
 ---
 

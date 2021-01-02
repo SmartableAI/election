@@ -107,6 +107,22 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Judge tosses lawsuit from House Republicans seeking to give Mike Pence the power to overturn election loss"
+    excerpt: "The Justice Department has asked to dismiss a lawsuit led by a House Republican that seeks to give Mike Pence power to overturn the election."
+    publishedDateTime: 2021-01-02T15:33:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 122
+    images:
+      - url: "https://www.chicagotribune.com/resizer/iARlxazmNR8X1fSIfihORnQNHP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PY662SKRXJBAMWDRX5CNP3SDXU.jpg"
+        width: 1200
+        height: 877
+        isCached: true
   - title: "Louie Gohmert sues Mike Pence in bid to overturn election results"
     excerpt: "A group of Republicans led by Rep. Louie Gohmert on Monday sued Vice President Mike Pence arguing that he is legally authorized to choose pro-Trump electors when Congress meets next month to certify the results of the presidential election."
     publishedDateTime: 2020-12-28T18:42:00Z
@@ -235,22 +251,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Judge tosses lawsuit from House Republicans seeking to give Mike Pence the power to overturn election loss"
-    excerpt: "The Justice Department has asked to dismiss a lawsuit led by a House Republican that seeks to give Mike Pence power to overturn the election."
-    publishedDateTime: 2021-01-02T13:40:00Z
-    webUrl: "https://www.dailypress.com/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
-    ampWebUrl: "https://www.dailypress.com/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 72
-    images:
-      - url: "https://www.dailypress.com/resizer/iARlxazmNR8X1fSIfihORnQNHP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PY662SKRXJBAMWDRX5CNP3SDXU.jpg"
-        width: 1200
-        height: 877
-        isCached: true
   - title: "Republicans sue Mike Pence in far-fetched effort to overturn election"
     excerpt: "Several Republicans, including Rep. Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a last-ditch effort to overturn the results of November's presidential election."
     publishedDateTime: 2020-12-29T04:09:00Z
@@ -280,6 +280,6 @@ related:
         height: 267
         isCached: true
 
-secured: "mioLWK67oIEc/DvD+MuVzM3qGZadFBOJPTsXesGgjdvyCILNJhcoXqubfeAiZMpJAmXlbw6CCCQaXGc29Sp0I/y8ywZSSolf5/jYIAJt6MecKiYcupsZt00O3WNgquTwWTSeOGzlXAQA6avUJkfA3Ou5y7pOfnbA6dvc+r21EsHOKZzJFQ8OnwIWq+U8cewIVRwNveP1uEDY83ryaVJQ1MiIiIhCfUQV0t9dwxPjrbc9SGJZbFKtSMervUbZfQN4IzC6g7/mRtFejQbr38fA+dBGA1LauNxKTuZw25iE06caFEMmQ3C2xhiFn4VGreDKxRD5W1Ovay1Xrtum9/ErqTIdRzuNngfMvc21MhaWHQA=;ZhKji6UU2kWdLrpAX5p8RA=="
+secured: "RWsf9g/Xlt3iNkxG6qf4CShGNx5Y1MCYeBTnuDlNhAY6n6zc7a1IieykweVr0RGkYRsGVvrTw2O8bLmGySDlXorN86nrEvwpj2jSFKytYQv4bcMZkNrmEbLC/NF3kiHuWNuLnzpNfJhjAhCwm2QMCMK8XYFBV5QPXi5GuHzGIK0CK2/d7mjo6gY7J8bQrdwxIdzG1Wne+uPiIHT1t8KFAJvwzCQnusHF1eM5EZ6MFRjxCReCYxiR3Rlm+brkbJOGZeRZSZ7ufiixlsUX8CGiJ4q2s+s7X5LE6pBE6juC7qWY8xJNnRq12pJ9cAnWobileGtzEEtle1qsh4TIlnEjJMxFSVvNRloEvpZEG37MKmP5oSzhaUK/DAYwmEQplahHSI7rD6UuGQDkzh+UnxUldXcURJWuZGsou28LyLg4bcb9XtYVQAplLCpLKRQwesxZiWqdsI2kCIpwMGczSY5Is554thKY1c02DJMEtWmZwNwhb61q2O0g4dZtxFQqaWivXPmPlC561UZL4xq1qyM0rQ==;zlbuR/FLV5Kig71IXe5i9Q=="
 ---
 

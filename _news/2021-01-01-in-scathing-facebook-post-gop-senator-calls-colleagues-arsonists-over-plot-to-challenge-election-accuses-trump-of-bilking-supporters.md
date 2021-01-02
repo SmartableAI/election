@@ -127,6 +127,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "GOP Congressman-elect Burgess Owens says 'there's no question' that Trump was reelected to a second term"
+    excerpt: "Utah Rep. Owens said challenges to President-elect Joe Biden's presidential victory on the House floor is \"the right thing to do.\""
+    publishedDateTime: 2021-01-02T17:43:00Z
+    webUrl: "https://www.businessinsider.com/burgess-owens-utah-trump-election-challenge-house-electoral-college-2021-01"
+    ampWebUrl: "https://www.businessinsider.com/burgess-owens-utah-trump-election-challenge-house-electoral-college-2021-01?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/burgess-owens-utah-trump-election-challenge-house-electoral-college-2021-01?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5ff0a420a18a450018cb6856?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump veto threat raises the prospect of year-end government shutdown"
     excerpt: "Washington on Wednesday faced the prospect of a year-end U.S. government shutdown during a raging pandemic after outgoing President Donald Trump threatened not to sign a $2.3 trillion package funding the government for another year."
     publishedDateTime: 2020-12-23T15:10:00Z
