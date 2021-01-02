@@ -2,6 +2,62 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-21-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.md",
+      "title": "Trump calls into virtual G20 summit, talks COVID-19 with world leaders",
+      "excerpt": "President Trump took part in the first of two virtual meetings with world leaders Saturday as part of a coronavirus-throttled G20 summit — in what could be the last international gathering of his presidency.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hdxC1b1tUtI/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hdxC1b1tUtI/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/G20-GETTY.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.amp",
+      "publishedDateTime": "2020-11-21T11:40:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-mcenany-trumps-path-to-victory-is-supreme-court-exposing-systemic-voter-fraud.md",
       "title": "McEnany: Trump's path to victory is Supreme Court, exposing 'systemic' voter fraud",
       "excerpt": "The path to challenging \"systemic voter fraud\" during the 2020 presidential election is through the courts, Trump campaign adviser Kayleigh McEnany said Saturday.",
@@ -1587,62 +1643,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey.amp",
       "publishedDateTime": "2020-11-17T08:35:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-biden-starts-staffing-up-with-senior-white-house-announcements.md",
-      "title": "Biden starts staffing up with senior White House announcements",
-      "excerpt": "President-elect Joe Biden on Tuesday announced nine senior staffers he will work with in the White House after he is inaugurated on Jan. 20.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rkSrOw5mxlA/biden-senior-white-house-staff-announcements",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rkSrOw5mxlA/biden-senior-white-house-staff-announcements",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 575,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-senior-white-house-staff-announcements.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-senior-white-house-staff-announcements.amp",
-      "publishedDateTime": "2020-11-17T08:15:20-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

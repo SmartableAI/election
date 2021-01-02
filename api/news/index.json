@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-02-trump-others-linked-to-soleimani-killing-will-not-be-safe-on-earth-iran-official-warns.md",
+      "title": "Trump, others linked to Soleimani killing ‘will not be safe on Earth,’ Iran official warns",
+      "excerpt": "President Trump and anyone else linked to the U.S. strike one year ago that killed a notorious Iranian general \"will not be safe on Earth,\" a top official in Tehran warned Friday, according to a report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/trump-others-linked-to-soleimani-killing-will-not-be-safe-on-earth-iran-official-warns",
+      "originalUrl": "https://www.foxnews.com/world/trump-others-linked-to-soleimani-killing-will-not-be-safe-on-earth-iran-official-warns",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Iran2.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/trump-others-linked-to-soleimani-killing-will-not-be-safe-on-earth-iran-official-warns.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/trump-others-linked-to-soleimani-killing-will-not-be-safe-on-earth-iran-official-warns.amp",
+      "publishedDateTime": "2021-01-02T02:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-federal-judge-throws-out-gohmert-lawsuit-asking-pence-to-interfere-in-electoral-college-count.md",
       "title": "Federal judge throws out Gohmert lawsuit asking Pence to interfere in Electoral College count ",
       "excerpt": "A federal judge threw out a lawsuit from Rep. Louie Gohmert of Texas and several Arizona Republicans seeking to force Vice President Mike Pence to help throw the election to President Donald Trump next week when Congress meets to count the Electoral College votes.\n    \n",
@@ -1283,59 +1340,6 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-live-politics-updates-trump-to-return-to-dc-early-gop-senator-says-hes-playing-with-fire-in-contesting-election.md",
-      "title": "Live politics updates: Trump to return to DC early, GOP senator says he's 'playing with fire' in contesting election",
-      "excerpt": "Sasse said the effort by Trump and his allies to overturn Biden's win amounted to pointing a \"loaded gun at the heart of legitimate self-government.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/31/politics-updates-presidential-transition-congress/4094103001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/31/politics-updates-presidential-transition-congress/4094103001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 447,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/24/USAT/2c7e25e6-de7a-4a91-a9bd-c1acd79338db-AP_Trump.jpg?auto=webp&crop=2923,1644,x1,y201&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4094103001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4094103001",
-      "publishedDateTime": "2020-12-31T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Joe Biden"
       ]
     }

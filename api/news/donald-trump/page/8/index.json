@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-20-harvard-petition-demands-accountability-before-trump-officials-are-invited-to-campus.md",
+      "title": "Harvard petition demands ‘accountability’ before Trump officials are invited to campus",
+      "excerpt": "Trump allies, including Kayleigh McEnany and Alan Dershowitz, decried the open letter from Harvard affiliates and vowed to challenge it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/education/2020/11/19/harvard-trump-petition/",
+      "originalUrl": "https://www.washingtonpost.com/education/2020/11/19/harvard-trump-petition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6RVMGIRIEMI6XHBBHTCQDUEYD4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/education/2020/11/19/harvard-trump-petition/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/2020/11/19/harvard-trump-petition/?outputType=amp",
+      "publishedDateTime": "2020-11-19T20:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-breakingviews-cox-donald-trump-is-the-new-benjamin-harrison.md",
       "title": "Breakingviews - Cox: Donald Trump is the new Benjamin Harrison",
       "excerpt": "New York Magazine proclaimed Benjamin Harrison the most forgotten of America’s commanders in chief. Donald Trump’s turbulent stint as a fellow one-term president may, ironically, revive interest in his 19th century Republican forebear’s four years in",
@@ -1519,63 +1571,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative.md",
-      "title": "Trump Allies Explored Buyout of Newsmax TV as Fox News Alternative",
-      "excerpt": "Hicks Equity Partners, a private-equity firm with ties to a co-chair of the Republican National Committee, has held talks in recent months about acquiring and investing in Newsmax, a fledgling pro-Trump cable channel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative-11605464737",
-      "originalUrl": "https://www.wsj.com/articles/trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative-11605464737",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-260269/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative-11605464737",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative-11605464737",
-      "publishedDateTime": "2020-11-15T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

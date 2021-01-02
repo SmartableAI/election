@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-02-trump-others-linked-to-soleimani-killing-will-not-be-safe-on-earth-iran-official-warns.md",
+      "title": "Trump, others linked to Soleimani killing ‘will not be safe on Earth,’ Iran official warns",
+      "excerpt": "President Trump and anyone else linked to the U.S. strike one year ago that killed a notorious Iranian general \"will not be safe on Earth,\" a top official in Tehran warned Friday, according to a report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/trump-others-linked-to-soleimani-killing-will-not-be-safe-on-earth-iran-official-warns",
+      "originalUrl": "https://www.foxnews.com/world/trump-others-linked-to-soleimani-killing-will-not-be-safe-on-earth-iran-official-warns",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Iran2.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/trump-others-linked-to-soleimani-killing-will-not-be-safe-on-earth-iran-official-warns.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/trump-others-linked-to-soleimani-killing-will-not-be-safe-on-earth-iran-official-warns.amp",
+      "publishedDateTime": "2021-01-02T02:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-congress-overrode-trumps-veto-the-presidents-response-pathetic.md",
       "title": "Congress overrode Trump’s veto. The president’s response? ‘Pathetic!!!’",
       "excerpt": "Congress has overridden President Donald Trump’s veto of a defense policy bill, a first by lawmakers since he took office.",
@@ -1516,58 +1573,6 @@
         "name": "New York Magazine",
         "domain": "nymag.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-back-to-private-school-trump-executive-order-empowers-families-amid-covid-19-pandemic-education-secretary-betsy-devos-says.md",
-      "title": "Back to (private) school? Trump executive order empowers families amid COVID-19 pandemic, Education Secretary Betsy DeVos says.",
-      "excerpt": "Outgoing Education Secretary Betsy DeVos has long championed school choice — the overarching term for options beyond traditional public schools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/education/2020/12/28/donald-trump-school-choice-executive-order-betsy-devos/4068332001/",
-      "originalUrl": "https://www.usatoday.com/story/news/education/2020/12/28/donald-trump-school-choice-executive-order-betsy-devos/4068332001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/15/USAT/201c5ec2-2f0b-40df-9cb8-9cacd9f82859-XXX_IMG_AP_TRUMP_A_USA_DC_1_1_4BNLNPAL.JPG?auto=webp&crop=5471,3077,x0,y278&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4068332001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4068332001",
-      "publishedDateTime": "2020-12-28T20:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

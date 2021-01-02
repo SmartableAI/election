@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-31-live-politics-updates-trump-to-return-to-dc-early-gop-senator-says-hes-playing-with-fire-in-contesting-election.md",
+      "title": "Live politics updates: Trump to return to DC early, GOP senator says he's 'playing with fire' in contesting election",
+      "excerpt": "Sasse said the effort by Trump and his allies to overturn Biden's win amounted to pointing a \"loaded gun at the heart of legitimate self-government.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/31/politics-updates-presidential-transition-congress/4094103001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/31/politics-updates-presidential-transition-congress/4094103001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 447,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/24/USAT/2c7e25e6-de7a-4a91-a9bd-c1acd79338db-AP_Trump.jpg?auto=webp&crop=2923,1644,x1,y201&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4094103001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4094103001",
+      "publishedDateTime": "2020-12-31T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-trump-returning-to-white-house-early-from-holiday-vacation-at-mar-a-lago.md",
       "title": "Trump returning to White House early from holiday vacation at Mar-a-Lago",
       "excerpt": "Lago club short and will return to the White House Thursday morning, the administration announced. The White House did not provide any",
@@ -1314,58 +1367,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-donald-trump-and-michelle-obama-named-most-admired-in-gallup-poll-as-dems-split-2020-field.md",
-      "title": "Donald Trump and Michelle Obama named ‘most admired’ in Gallup poll as Dems split 2020 field",
-      "excerpt": "He lost the popular vote and the US election, but Donald Trump was named “most admired” man of 2020 in a new Gallup poll that left Democrats divvying up mentions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/featured/ny-donald-trump-and-michelle-obama-most-admired-in-gallup-poll-20201229-e6fcnulb6fefhcjacbuxisz3wm-story.html",
-      "originalUrl": "https://www.chicagotribune.com/featured/ny-donald-trump-and-michelle-obama-most-admired-in-gallup-poll-20201229-e6fcnulb6fefhcjacbuxisz3wm-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/LpJ5Y_JyD1CaXaXYL2KK0Ijz2CE=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/R2OV2LCS6FBGFEK7SKQWW36M5M.jpg",
-          "width": 1200,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/featured/ny-donald-trump-and-michelle-obama-most-admired-in-gallup-poll-20201229-e6fcnulb6fefhcjacbuxisz3wm-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/ny-donald-trump-and-michelle-obama-most-admired-in-gallup-poll-20201229-e6fcnulb6fefhcjacbuxisz3wm-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-29T13:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

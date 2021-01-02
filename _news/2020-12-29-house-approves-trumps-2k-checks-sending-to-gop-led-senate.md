@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "GOP senator rebukes 'dangerous ploy' to fight Biden victory"
-    excerpt: "Republican Sen. Ben Sasse of Nebraska has issued a pointed rebuke of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election"
-    publishedDateTime: 2021-01-01T10:21:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-senator-rebukes-dangerous-ploy-fight-biden-victory-75001343"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-senator-rebukes-dangerous-ploy-fight-biden-victory-75001343"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-senator-rebukes-dangerous-ploy-fight-biden-victory-75001343"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b38f31cbddc8455facf64d53606dc074_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
     excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
     publishedDateTime: 2020-12-30T20:32:00Z
@@ -85,6 +69,17 @@ related:
     webUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12"
     ampWebUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "GOP senator rebukes 'dangerous ploy' to fight Biden victory"
+    excerpt: "Republican Sen. Ben Sasse of Nebraska has issued a pointed rebuke of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation's civic traditions."
+    publishedDateTime: 2021-01-01T12:23:00Z
+    webUrl: "https://www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1?amp"
     type: article
     provider:
       name: Business Insider

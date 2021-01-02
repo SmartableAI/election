@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-slams-fashion-magazines-melani
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12?amp"
 type: article
 quality: 108
-heat: 168
+heat: 188
 published: true
 
 provider:
@@ -53,6 +53,22 @@ related:
     webUrl: "https://www.ibtimes.com/donald-melania-trump-looking-palm-beach-properties-report-says-3111038"
     ampWebUrl: "https://www.ibtimes.com/donald-melania-trump-looking-palm-beach-properties-report-says-3111038?amp=1"
     cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-melania-trump-looking-palm-beach-properties-report-says-3111038?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Twitter Reacts To Melania Trump's New Year's Wish: 'Get Packing'"
+    excerpt: "Melania Trump wished everyone a Happy New Year and shared her wishes for all for 2021. However, the first lady's tweet was met with criticism and mockery."
+    publishedDateTime: 2021-01-02T10:26:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-melania-trumps-new-years-wish-get-packing-3113196"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-melania-trumps-new-years-wish-get-packing-3113196?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-melania-trumps-new-years-wish-get-packing-3113196?amp=1"
     type: article
     provider:
       name: International Business Times

@@ -1,34 +1,28 @@
 ---
 category: news
 title: "GOP senator rebukes 'dangerous ploy' to fight Biden victory"
-excerpt: "Republican Sen. Ben Sasse of Nebraska has issued a pointed rebuke of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election"
-publishedDateTime: 2021-01-01T10:21:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/gop-senator-rebukes-dangerous-ploy-fight-biden-victory-75001343"
-webUrl: "https://abcnews.go.com/Politics/wireStory/gop-senator-rebukes-dangerous-ploy-fight-biden-victory-75001343"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-senator-rebukes-dangerous-ploy-fight-biden-victory-75001343"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-senator-rebukes-dangerous-ploy-fight-biden-victory-75001343"
+excerpt: "Republican Sen. Ben Sasse of Nebraska has issued a pointed rebuke of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation's civic traditions."
+publishedDateTime: 2021-01-01T12:23:00Z
+originalUrl: "https://www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1"
+webUrl: "https://www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1"
+ampWebUrl: "https://www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_b38f31cbddc8455facf64d53606dc074_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "'Dangerous ploy': GOP Sen. Ben Sasse slams efforts by Trump, Hawley to overturn election"
@@ -107,6 +101,6 @@ related:
         height: 741
         isCached: true
 
-secured: "QN/GrSdimz5EuQwr41Dx+YfwyeIia2t9u0KiZAQAlCy5vWT0W5J+a1mIgZVyeMzEkAYwELTzDJRs7UmZWneH6N8QPryAB5OWTLpBWFceYhCRJEMbNPAd3TdXPg9LdthCkhCypTiDHvEid2z/zy/mViiobdxRLuk2SV8gfVYwTrTBCTDDP2l9qVmBtTNMeCMwjqbpP+ELwL4gEghPtY131xx5ad+EeKDzVMV5BJACA257wInAvVOTMCSG5gYwtMlqdtQdvPcxjtovUr/5hpNtyGVtbDhi9EhtdG+qGKx5JpwerBLj86buEvvo5vMw6Bldu6s6xWaN+N7+TVFj8GzFSUkGyfJ0cRk1kHHNMpRlHEs9t5ilQAagj1/vzm1CXBfnC70THOQZ42+lold1gPDCZi7ZobLGGdjk63X0zvN6eGH6qUycCI2CP39BHJFKE8CyGvm2psbDyT5u3rLWaXf0h1hzdq76W6D8UaS4fWQFtnItBC1Ic/z8P3oFmfUqQm1rlplhk66mdJppaUeVnBKQ4g==;G6LiS15JrCjhDoWBwHuPwA=="
+secured: "pNgOPPCdnjB1i/JVR3UC9Gkx98aZoXTo+9XPnOchUfWWBkLRq7Ko8RcZNmK0g3mLp4A10N7QkCsHECOftiRdlUgYayIbOSTodzlpqL3js+XP2a0SCN1gi/s7Jvh/WojQB+UYeDUq8vKecRZUWIs6Twiy1L40PI+RGcgpe+MkcUb0p1vAQR5Cx7yUKb61HFBta2e6pzOPrLc/8EB0zk5Ck1xOTa9m6AE2ICRrzSdPt4KN013NmMvKuLkmkfTMGO/p8LSNqTGV/803uzykk9L6CREjBaiwE69USvi/1i5f0PQ3ghO+76QXfF9osSTtQDpCC+t7ER6dTB4/YVJYhdlRJowQxvRtiuww7ksH6TbrG/Y=;+GK4G9hiDyJ7L8tZAHenQQ=="
 ---
 

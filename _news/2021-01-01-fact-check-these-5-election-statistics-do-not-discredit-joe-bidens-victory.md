@@ -2,19 +2,19 @@
 category: news
 title: "Fact check: These 5 election statistics do not discredit Joe Biden's victory"
 excerpt: "Social media users have shared a meme with statistics about Barack Obama, Donald Trump and Joe Biden that they claim discredit election results."
-publishedDateTime: 2020-12-31T23:37:00Z
-originalUrl: "https://www.indystar.com/story/news/factcheck/2020/12/31/fact-check-5-election-statistics-do-not-discredit-joe-bidens-victory/4086497001/"
-webUrl: "https://www.indystar.com/story/news/factcheck/2020/12/31/fact-check-5-election-statistics-do-not-discredit-joe-bidens-victory/4086497001/"
-ampWebUrl: "https://amp.indystar.com/amp/4086497001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4086497001"
+publishedDateTime: 2020-12-31T21:03:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/factcheck/2020/12/31/fact-check-5-election-statistics-do-not-discredit-joe-bidens-victory/4086497001/"
+webUrl: "https://www.desmoinesregister.com/story/news/factcheck/2020/12/31/fact-check-5-election-statistics-do-not-discredit-joe-bidens-victory/4086497001/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/4086497001"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4086497001"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -44,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Fhf6kWjedL2qJoQttdlis/V2OtihFrXHDnKgj47qeB2dJB8vozycvpVp+w6+lZnmz+Ebb58q/ptHyea13ANGnKX+JY7UtpxLnUkdYswICSIixalGwnZrLEDhM4/dYFRD8DoDlfBzC7LhUcPr2/aWinQKlVk8ppJDQYKZw2xhDKR0jtygdvQJYyW5jd6qiZfbvq2V733yPbBATh2lFmVnO3k5Lz+07L3Hz+qvaNtjLhRctjARFJ38Br0NR6A7fPiDnM3Ccjx9/easyesXbD2nB5F711YvJUZMV+7TyvGlnkBj0p/FOf7/W8AUbEsdrDqwXwvhfn51+YQiDP7gLpomIH5T2M4M/FdF7GgerXUlxByEyb+b8k29KL4qIH4dSHY5ybzHDQkmvItpIaJikl3ZXGgIbrz0KlnCBEadjWngWhDLB2BdSCQDtPJvAs2CnpROJS/+y1dhXfPiKKaA5xot+V0v0NRtkMR3Sf01RIqAPsqhNFIefsNEN0LBd8TkG8a3+NOK7PNGivA2Pt/xy3fClg==;MHkdjSd3x9ABQpDIvFNkmw=="
+secured: "p7fo0R4lOWqz/y95cpZDXESr4HgLevAdaC5dKxgcD5RLUYv7cQiFvehlUNEzZwIBMlLYrvGOL/qAb2u6NSPWaLYSYjTEdt+AKC2DLxW+E7jO1f9Cu5wy/ayib2thPcdSoAOeA6totNlAr2v10B89Rbn/xlC2dDr68vLa1foK7oARr3MBUurFwjl8s6HN6sglJYYtrQW28pvg/Wk3yyrsGxsfdxMY7mK6CSKCI4LPT+G0v11568r/RDeBEjcKnFV7wg3x/IIuERv3bSiqx4tIAyq+mbXwtGtn3z/VgM38Z/aYgTugrU9ORa8s6DDJ1Z8IrY3sujO2xvtKuTwE8CRGpe/XzgzImpzuJshOYb8Ay/8=;O0JbN402dVzdJv4RqCAMxw=="
 ---
 

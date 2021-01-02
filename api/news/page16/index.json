@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-12-08-republican-lawmaker-says-the-gop-under-trump-is-advocating-for-crap-he-never-couldve-predicted.md",
+      "title": "Republican lawmaker says the GOP under Trump is 'advocating for crap' he never could've predicted",
+      "excerpt": "Illinois Rep. Adam Kinzinger said he'd like to see the GOP take a less divisive tone moving forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/kinzinger-gop-under-trump-is-advocating-for-crap-2020-12",
+      "originalUrl": "https://www.businessinsider.com/kinzinger-gop-under-trump-is-advocating-for-crap-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fce85f6037cbd00186144f9?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/kinzinger-gop-under-trump-is-advocating-for-crap-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kinzinger-gop-under-trump-is-advocating-for-crap-2020-12?amp",
+      "publishedDateTime": "2020-12-07T14:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-biden-to-name-his-defense-secretary-choice-on-friday.md",
       "title": "Biden to name his defense secretary choice on Friday",
       "excerpt": "Biden to name his Defense secretary choice on Friday",
@@ -1281,49 +1333,6 @@
       "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28F04C",
       "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28F04C",
       "publishedDateTime": "2020-12-04T23:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-trump-campaign-paid-dechert-164k-for-recount-related-legal-services-fec-filings-show.md",
-      "title": "Trump campaign paid Dechert $164K for 'recount' related legal services, FEC filings show",
-      "excerpt": "U.S. President Donald Trump's campaign last month paid more than $164,000 to Dechert, a law firm that during the 2020 election touted its work on pro bono voting rights cases in which it often faced off against Republican-backed lawyers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/lawyer-trump-dechert-idUSL1N2IL017",
-      "originalUrl": "https://www.reuters.com/article/lawyer-trump-dechert-idUSL1N2IL017",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2IL017",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IL017",
-      "publishedDateTime": "2020-12-04T21:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
