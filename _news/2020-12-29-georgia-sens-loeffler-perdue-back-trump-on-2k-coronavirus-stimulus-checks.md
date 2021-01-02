@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Lindsey Graham backs Trump over McConnell on $2,000 checks"
+    excerpt: "McConnell and other Republicans scuttled efforts to bring the matter up for a standalone vote before the current session of Congress ends."
+    publishedDateTime: 2021-01-02T00:34:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lL8ovciaJR4/lindsey-graham-trump-over-mcconnell-2000-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-over-mcconnell-2000-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-over-mcconnell-2000-checks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78e5a69d-1b5a-4e51-9b92-38c437874015/4d11e192-e2cc-4c3b-bc07-6e73f43654cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump threatens to veto massive COVID bill, demands Congress make this big change"
     excerpt: "President Trump slammed the recently passed $900 billion COVID-19 relief package as a \"disgrace\" on Tuesday evening, urging Congress amend the bill to increase the direct payments given to Americans."
     publishedDateTime: 2020-12-23T00:29:47Z
@@ -204,6 +220,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1197873325.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Lindsey Graham backs Trump over McConnell on $2,000 stimulus checks"
+    excerpt: "McConnell and other Republicans scuttled efforts to bring the matter up for a standalone vote before the current session of Congress ends."
+    publishedDateTime: 2021-01-02T00:48:00Z
+    webUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-over-mcconnell-2000-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-over-mcconnell-2000-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-over-mcconnell-2000-checks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78e5a69d-1b5a-4e51-9b92-38c437874015/4d11e192-e2cc-4c3b-bc07-6e73f43654cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump rips ‘Pathetic!!!’ Senate GOP for blocking $2,000 checks"
     excerpt: "Our Republican Senate just missed the opportunity to get rid of Section 230, which gives unlimited power to Big Tech companies. Pathetic!!!” Trump tweeted."

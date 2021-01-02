@@ -360,20 +360,20 @@ related:
         height: 1000
         isCached: true
   - title: "In a first, Congress overrides Trump veto of defense bill"
-    excerpt: "Congress has overridden President Donald Trump's veto of a defense policy bill, a first by lawmakers since he took office nearly four years ago"
-    publishedDateTime: 2021-01-01T20:10:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/congress-overrides-trump-veto-defense-bill-75006725"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/congress-overrides-trump-veto-defense-bill-75006725"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/congress-overrides-trump-veto-defense-bill-75006725"
+    excerpt: "Congress has overridden President Donald Trump’s veto of a defense policy bill, a first by lawmakers since he took office nearly four years ago"
+    publishedDateTime: 2021-01-02T00:37:00Z
+    webUrl: "https://www.washingtonpost.com/politics/in-a-first-congress-overrides-trump-veto-of-defense-bill/2021/01/01/c59b2000-4c68-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/in-a-first-congress-overrides-trump-veto-of-defense-bill/2021/01/01/c59b2000-4c68-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-a-first-congress-overrides-trump-veto-of-defense-bill/2021/01/01/c59b2000-4c68-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_f021caf1b95c4d83abdf0e384febf9c2_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Rebuking Trump, Republican-led Senate overrides defense bill veto"
     excerpt: "President Donald Trump's fellow Republicans in the U.S. Senate on Friday overrode his veto for the first time in his nearly four years in office, pushing through a defense policy bill against his objections just weeks before he leaves office."

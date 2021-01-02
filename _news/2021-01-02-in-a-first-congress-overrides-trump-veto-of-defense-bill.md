@@ -1,22 +1,22 @@
 ---
 category: news
 title: "In a first, Congress overrides Trump veto of defense bill"
-excerpt: "Congress has overridden President Donald Trump's veto of a defense policy bill, a first by lawmakers since he took office nearly four years ago"
-publishedDateTime: 2021-01-01T20:10:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/congress-overrides-trump-veto-defense-bill-75006725"
-webUrl: "https://abcnews.go.com/Politics/wireStory/congress-overrides-trump-veto-defense-bill-75006725"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/congress-overrides-trump-veto-defense-bill-75006725"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/congress-overrides-trump-veto-defense-bill-75006725"
+excerpt: "Congress has overridden President Donald Trump’s veto of a defense policy bill, a first by lawmakers since he took office nearly four years ago"
+publishedDateTime: 2021-01-02T00:37:00Z
+originalUrl: "https://www.washingtonpost.com/politics/in-a-first-congress-overrides-trump-veto-of-defense-bill/2021/01/01/c59b2000-4c68-11eb-97b6-4eb9f72ff46b_story.html"
+webUrl: "https://www.washingtonpost.com/politics/in-a-first-congress-overrides-trump-veto-of-defense-bill/2021/01/01/c59b2000-4c68-11eb-97b6-4eb9f72ff46b_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/in-a-first-congress-overrides-trump-veto-of-defense-bill/2021/01/01/c59b2000-4c68-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-a-first-congress-overrides-trump-veto-of-defense-bill/2021/01/01/c59b2000-4c68-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_f021caf1b95c4d83abdf0e384febf9c2_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -675,6 +675,6 @@ related:
         height: 630
         isCached: true
 
-secured: "dEr+P/d7bnzX8xgZ1AzPvlODQeYJ6U14agFRx92XcKjan0hGrVv1KnXwC9K4H3AYl6vO9JQBnFpFnR2An3JT3+6EiFwz7VsyrMc6R0JlmXechfPR50NDWWx45WRu5zHMeBXhbxyNr3lKQWa1SHiptI/HRFUHsHsnxDcHyAH31ml7mwvHjiGFEaf0J4A27qI1wGeoHX/AVARz7IY2KtmNjT6sTTpV/hr3mFMhXVc50pLDzoexnqdJ8f5orGO7RQvEaJm4E9h9H26D3FIXW2MU+1r0iBzMh5aTGkFvgOgAPjfmhePYNLBeZGHrrxby1XPfi6vsw14AHsJ4kehIKBvQEpjxiQdr75hkdd6wKdM7PjI=;dlh8d71/DO+5PYsfB8RxaQ=="
+secured: "Z2agMA3JIycMo1eQwKUd4Quuo6nkV+RxDMIhT84naqZzGz36gnapH/oXfBpYZmJYCTzFbPqQM/k8H6SV8DDgGoqjo5WI+hGobO2fDx2pf6GpUZupsFWIdpD9Bn0zgqTOmHyCohFvORVFGcbI6mHdonmfcA5iomxhBAMPOr6iHMg2g9YBoxmGBwni6YTpN/Tb336IHMGjokla+iORogSp/M93LYQC4M4lkD7xP6Hk84ievQiybVKm8Nt+CsRk53nsnosqWq0PGM7iCMI7rQC2w8U4QV5OoxTdo7yaP/AJRA//vC4YI1YRSrUuiqVp60kDWmvCQZIeHUrxN1x4K4j4u8hx76xiz4ONrT/JgggH+pQ=;yL8RgBq5RUIjNDqlS8/nOA=="
 ---
 

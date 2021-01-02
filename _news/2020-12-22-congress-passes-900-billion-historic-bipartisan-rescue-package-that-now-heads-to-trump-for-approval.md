@@ -111,6 +111,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Trump extends visa ban; court clears health insurance rule"
+    excerpt: "President Donald Trump has extended pandemic-related bans on green cards and work visas to large groups of applicants through March 31"
+    publishedDateTime: 2021-01-02T00:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-extends-pandemic-related-visa-ban-march-31-74997269"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-extends-pandemic-related-visa-ban-march-31-74997269"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-extends-pandemic-related-visa-ban-march-31-74997269"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f48f5c23ae3544ef9384da17160d991b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Census Bureau to miss deadline, jeopardizing Trump plan"
     excerpt: "The Census Bureau plans to announce it will miss a year-end deadline for handing in numbers used for divvying up congressional seats. That delay could undermine President Donald Trump’s efforts to exclude people in the country illegally from the count if the figures aren’t turned in before President-elect Joe Biden takes office."
     publishedDateTime: 2020-12-31T11:16:00Z

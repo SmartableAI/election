@@ -6,17 +6,17 @@
       "title": "Trump vetoes Calif. fishing bill over seafood trade deficit",
       "excerpt": "President Donald Trump has vetoed a bill that would have gradually ended the use of large-mesh drift gillnets used exclusively in federal waters off the coast of California",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/national-security/trump-vetoes-calif-fishing-bill-over-seafood-trade-deficit/2021/01/01/7506b35a-4c83-11eb-97b6-4eb9f72ff46b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/national-security/trump-vetoes-calif-fishing-bill-over-seafood-trade-deficit/2021/01/01/7506b35a-4c83-11eb-97b6-4eb9f72ff46b_story.html",
+      "webUrl": "https://abcnews.go.com/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
+          "url": "https://s.abcnews.com/images/Politics/WireAP_a978029763c14b3980faac4badecdfe8_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/national-security/trump-vetoes-calif-fishing-bill-over-seafood-trade-deficit/2021/01/01/7506b35a-4c83-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/trump-vetoes-calif-fishing-bill-over-seafood-trade-deficit/2021/01/01/7506b35a-4c83-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-01T14:54:00-08:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402",
+      "publishedDateTime": "2021-01-01T16:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -487,7 +487,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {

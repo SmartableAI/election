@@ -80,6 +80,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Congress overrides Trump veto for first time"
+    excerpt: "The Senate joined the House in voting to override President Trump’s veto of a $741 billion defense bill, the first time Congress has blocked a veto from Trump."
+    publishedDateTime: 2021-01-02T00:05:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/congress-overrides-trump-veto-for-first-time-98684997791"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98684997791"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98684997791"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/nn_kod_stimulus_checks_electoral_college_210101_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "n//zmn/mkEWfWV6rhFrvF9Z8jnsQgVHDquPR6irVtWuYgLymo+dvkbJ4GABzcNti4AHFW2uaH6PUnm5bXbvF2x7BzipV8BP0Pa8Ya0ZbUPt/+2RBDEQPI1z9FNGNV9HGR8CWE+LQp6MPYGsZmavR8QHGLjfAP9tUS0RHNCmfySUhhT3K5K/Ai7a6lyGC6ekI3jYg3ZpJDD/CpkLCmAGre7GLNXdhrVcIoVECVAPwZVT1DNBnPPtJGgDkFUi/KGeojeX6p8rtSS/Dd4Ks/CohmUodPxPxHDq5SOeNbrDbTyE3+AoWPTz5btr5kJ+hZmQ7VWzT0/Z1viQ9AJNE5xBHWe0M0u7o0iYV9gPUxWz7PZsl6A2IBHHvbc6TCSODidGVsc3EZv4+o2ZCcs6/ZZh3wZIhftgDv+gTqwXDBCZoJOulPEO0WyonoitdBVY2lCeJtmrNfNNIOpChIPmMKiQXzW8SJ7vebtahr7RQ1Hwegk5M21RR4k7sNbXGGbR9/9Oe90gPimsWLmR+65vwtV2VYQ==;hcIaEbUWYOoJfDsfIyeTag=="
 ---

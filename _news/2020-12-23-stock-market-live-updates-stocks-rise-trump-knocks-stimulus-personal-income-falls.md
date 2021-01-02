@@ -109,6 +109,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Trump extends visa ban; court clears health insurance rule"
+    excerpt: "President Donald Trump has extended pandemic-related bans on green cards and work visas to large groups of applicants through March 31"
+    publishedDateTime: 2021-01-02T00:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-extends-pandemic-related-visa-ban-march-31-74997269"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-extends-pandemic-related-visa-ban-march-31-74997269"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-extends-pandemic-related-visa-ban-march-31-74997269"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f48f5c23ae3544ef9384da17160d991b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Congress passes $900 billion 'historic bipartisan rescue package' that now heads to Trump for approval"
     excerpt: "After weeks of painstaking negotiation and months of partisan finger-pointing, the Senate resoundingly passed a sweeping COVID-19 relief package Monday, sending a bill to President Donald Trump to sign that will send millions of Americans direct payments and rescue thousands of small businesses nationwide struggling to stay open in the face of the pandemic's suffocating grip."
     publishedDateTime: 2020-12-22T11:16:00Z

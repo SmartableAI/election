@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Lindsey Graham backs Trump over McConnell on $2,000 checks"
+    excerpt: "McConnell and other Republicans scuttled efforts to bring the matter up for a standalone vote before the current session of Congress ends."
+    publishedDateTime: 2021-01-02T00:34:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lL8ovciaJR4/lindsey-graham-trump-over-mcconnell-2000-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-over-mcconnell-2000-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-over-mcconnell-2000-checks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78e5a69d-1b5a-4e51-9b92-38c437874015/4d11e192-e2cc-4c3b-bc07-6e73f43654cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Georgia Sens. Loeffler, Perdue back Trump on $2K coronavirus stimulus checks"
     excerpt: "Georgia GOP incumbent Sens. Kelley Loeffler and David Perdue, who are fighting to keep their seats in special runoff elections next week, voiced support for $2,000 stimulus checks on Tuesday."
     publishedDateTime: 2020-12-29T17:24:07Z
@@ -203,6 +219,22 @@ related:
     quality: 149
     images:
       - url: "https://secure.media.foxnews.com/BrightCove/990505083001/990505083001/2020/12/29/990505083001_6219051691001_6219049610001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Lindsey Graham backs Trump over McConnell on $2,000 stimulus checks"
+    excerpt: "McConnell and other Republicans scuttled efforts to bring the matter up for a standalone vote before the current session of Congress ends."
+    publishedDateTime: 2021-01-02T00:48:00Z
+    webUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-over-mcconnell-2000-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-over-mcconnell-2000-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-over-mcconnell-2000-checks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78e5a69d-1b5a-4e51-9b92-38c437874015/4d11e192-e2cc-4c3b-bc07-6e73f43654cd/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
