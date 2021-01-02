@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump push on $2K checks flops as GOP-led Senate won't vote"
-excerpt: "Senate Majority Leader Mitch McConnell has all but shut the door on President Donald Trump’s push for $2,000 COVID-19 relief checks"
-publishedDateTime: 2020-12-31T19:55:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
-webUrl: "https://abcnews.go.com/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
+title: "US Congress overrides Trump defence spending bill veto"
+excerpt: "The US Congress has overturned President Donald Trump's veto of a defence spending bill, the first time this has happened in his presidency. The Republican-controlled Senate held a rare New Year's Day session to debate the move,"
+publishedDateTime: 2021-01-02T04:09:00Z
+originalUrl: "https://www.bbc.com/news/world-us-canada-55510151"
+webUrl: "https://www.bbc.com/news/world-us-canada-55510151"
+ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55510151"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55510151"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: BBC
+  domain: bbc.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Health/WireAP_b4651527dfae4404ab9ac8e3b378bba1_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/99C2/production/_116326393_trumpmelaniaepa.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -159,6 +159,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump push on $2K checks flops as GOP-led Senate won't vote"
+    excerpt: "Senate Majority Leader Mitch McConnell has all but shut the door on President Donald Trump’s push for $2,000 COVID-19 relief checks"
+    publishedDateTime: 2020-12-31T19:55:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_b4651527dfae4404ab9ac8e3b378bba1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump to forgo New Year's Eve in Florida for early return to Washington"
     excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
     publishedDateTime: 2020-12-31T19:54:00Z
@@ -174,22 +190,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546297277&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0TV"
         width: 813
         height: 545
-        isCached: true
-  - title: "US Congress overrides Trump defence spending bill veto"
-    excerpt: "The US Congress has overturned President Donald Trump's veto of a defence spending bill, the first time this has happened in his presidency. The Republican-controlled Senate held a rare New Year's Day session to debate the move,"
-    publishedDateTime: 2021-01-02T04:09:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55510151"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55510151"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55510151"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/99C2/production/_116326393_trumpmelaniaepa.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "McConnell thwarts Trump bid for $2,000 coronavirus economic relief checks"
     excerpt: "U.S. Senate leader Mitch McConnell dealt a likely death blow on Wednesday to President Donald Trump's bid to boost coronavirus aid to Americans, declining to schedule a swift Senate vote on a bill to raise relief checks to $2,"
@@ -455,6 +455,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "Jm1eoHt4dh8FkFgIV0TEC703vv4b/2PlzQP7MKhNCX9oFsGh5pj2KeKF/rZ8hsLBtuU2GV+nCEEiNE7Kv9CqXKai42KkRBuXDjxiNnncvyiHOMymiehrguadpokASoFnlMg7pdcD8e5S/0nbEGbxF+1oiEcP9mcoRZgGq7hMuLFvY5loVocQakBk5GqrHpttwoEAyScerTo/7NqTj4jH5WpnmH2r6tfU45jxeGj7s/5G+Dru8whY+EDX+LIeTN20d8+NDsO4j6+UO63mLCv/G2cVust82+w+8F18pbX1xQYnyN0xVfsw4/n5wHRUaepom++jZ5OQUhzH2r5x1TQww4jUngU7rK7irsPjndK1zVysU/wmCLSiqmeYlCyDiwOc0I0NARVHATa6rOwH8yn+cUzxGoZd6IrWHKl2lCWoGqR94zYGseXeys0EIguiILwe5xAu9mlqcevdLRgYVupoRuYY/iSSkBHnB71Xtq503KbdJ/Wn+7cpHN+uRSqz+7nWVzudIejZLNdP8yMDUkiR4A==;R4/fyFeV+42ZYVzsaeD2yg=="
+secured: "oKEff5fNjOaVpRolSZv3qDvsy1ctKxD8YieP++C2MQ4JCJmuT8rGQFZPUcnTxMvttS3IuVepJl2p62109smssyYInNgg4q8ucXkyRdFp39o4LX9JxeLUQ4hc8fYRu/t0bsfNDTBNw5t9we/EFJF5L/UMR13vDxKVv2NlP3VpquHseK+I7nt+WqRx5Uj954IrlK9wwz0nupib1ca6Ld9IblNSmdyyvqLe3G3OY5pbCh8allqbD96nmas/B26c2D5faaDp9IJfQg4VxIBr2T2GWHsccwUFTuMSLuRftSvrUXco0fMOfXIyNB5tRmQu6Hf2LXJJrpj+uQz7Nn5Yr/ZE67Wvy+9xdBflI8SD/9LUanM=;K3opaD6ETXXXhuVAvI8zUA=="
 ---
 

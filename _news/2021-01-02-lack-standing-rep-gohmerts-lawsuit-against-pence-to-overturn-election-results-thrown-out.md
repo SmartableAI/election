@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Mike Pence seeks dismissal of lawsuit aiming to give him the power to overturn election loss"
+    excerpt: "The Justice Department has asked to dismiss a lawsuit led by a House Republican that seeks to give Mike Pence power to overturn the election."
+    publishedDateTime: 2021-01-01T17:21:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 129
+    images:
+      - url: "https://www.chicagotribune.com/resizer/iARlxazmNR8X1fSIfihORnQNHP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PY662SKRXJBAMWDRX5CNP3SDXU.jpg"
+        width: 1200
+        height: 877
+        isCached: true
   - title: "Congressman, other Republicans sue Vice President Pence in last-ditch effort to overturn Biden win"
     excerpt: "Rep. Louie Gohmert and other Republicans' lawsuit is effectively attempting to reverse President-elect Joe Biden's victory over President Donald Trump."
     publishedDateTime: 2020-12-28T18:55:00Z
@@ -207,22 +223,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Mike Pence seeks dismissal of lawsuit aiming to give him the power to overturn election loss"
-    excerpt: "The Justice Department has asked to dismiss a lawsuit led by a House Republican that seeks to give Mike Pence power to overturn the election."
-    publishedDateTime: 2021-01-01T20:16:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 79
-    images:
-      - url: "https://www.baltimoresun.com/resizer/iARlxazmNR8X1fSIfihORnQNHP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PY662SKRXJBAMWDRX5CNP3SDXU.jpg"
-        width: 1200
-        height: 877
-        isCached: true
   - title: "Pence asks judge to dismiss Rep. Gohmert’s lawsuit"
     excerpt: "Gohmert’s lawsuit is a last-gasp attempt by Republicans to persuade Pence to interfere in the declaration of President-elect Joe Biden’s victory and flip the election for President"
     publishedDateTime: 2021-01-01T00:44:00Z
@@ -268,6 +268,6 @@ related:
         height: 267
         isCached: true
 
-secured: "JG4j9yIA0xqFctdUNiizZNaVA7qW9wsiVcWWriMhqcW3MSC5GLAjbHb5b9BAO7l9IXI/VMsbIFvp8mwoUqmxgWSiLc98YF1K6OuH4ou5IRCjrpsBv94RGemUNnC2unQdMiOY50QNBM691A2HGEo4OTlXBo5sqAEnQ25ueHWcFtpW6WSALxp9ggqsL4TnpmXwjwrqHMdjuv/tLQtoDSvJxTe3wE4dSmgB7yTJaQrdMwdbAux4qVccsDsZe4s2t+l+d5+OdVpyrqmzlBNJY3k00t0yNqLy1Chwnh88MwAkh3HpSRrtc4Hj9KiRwhrufh5AfeyW6DJDMeTBMeQbRuAf3Db4CeY2B5IFYQc7m41pOH0=;po/KV4mHoCrYMOcdmt7RxQ=="
+secured: "Pm54R7oeIBne6brcc1wGxbXd2278Y+uReI/vQQa/rwd4adNZhCGxu/XX10lVBbO7TtHQE8ymw2UX6dm29bbU1Y0B4EHem72q3+5YDmPOiL6BsDav/8mXRm5EOhbqu/xY8j3L1sF8VIVi7srwy5lVeo4aAcxfVFzkWYsx5b9TSCugNAKoxN3qNsSznFWqy59mCRt7mpP1Ns0AwgcNfMndOoDKZbgZV0o4F+f1E4pCMQ4YlD6hIwQnDZ9q0rCh4kdqhqNJbwALEwfsRGI53UBflrZ9vDn/3/8zmjp+RVYAWAvXk/NLJU8pGetE7LoAtE4SCNnHrMgKJb81WdszvNcHks6b8FN3T4G5ZjgfH5CknqYHBHhstGUbeKAsZk260nUi8/L+Pxql2ugrbwv+IakpRld/+43E9D2nbQuiCQULrt6Fo1IJlz2sNAqSHOX7p4FYbISCekSk7w07OZsYOVfhAAUBlMnD9kpOXi3tFqahJq7n+nm2AN5uaWeV++JJgtNk/sUbQBk7d5nRzPuHS/WkMw==;JqOm0d2jLrxdYjmoRYD8Vw=="
 ---
 
