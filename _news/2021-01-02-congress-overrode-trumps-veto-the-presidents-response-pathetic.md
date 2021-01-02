@@ -33,10 +33,10 @@ images:
 related:
   - title: "U.S. Senate overcomes first hurdle to overriding Trump defense veto"
     excerpt: "The U.S. Senate on Friday moved toward an override of President Donald Trump's veto of a $740 billion defense policy bill in a rare New Year's Day procedural vote."
-    publishedDateTime: 2021-01-01T23:44:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-senate/u-s-senate-overcomes-first-hurdle-to-overriding-trump-defense-veto-idUSKBN2962KZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2962KZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2962KZ"
+    publishedDateTime: 2021-01-02T07:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-senate-idUKKBN2962KZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2962KZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2962KZ"
     type: article
     provider:
       name: Reuters

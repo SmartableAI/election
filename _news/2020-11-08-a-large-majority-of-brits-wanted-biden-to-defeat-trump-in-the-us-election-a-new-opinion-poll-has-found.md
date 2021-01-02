@@ -2159,6 +2159,22 @@ related:
         width: 813
         height: 545
         isCached: true
+  - title: "GOP torn over Trump's Electoral College challenge of Biden"
+    excerpt: "President Donald Trump’s extraordinary election challenge over his defeat by President-elect Joe Biden is splitting the Republican Party"
+    publishedDateTime: 2021-01-02T07:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-torn-trumps-electoral-college-challenge-biden-75010758"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-torn-trumps-electoral-college-challenge-biden-75010758"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-torn-trumps-electoral-college-challenge-biden-75010758"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1c7c00831119410299b01800e094832d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Arizona election updates: Biden still leads in Arizona as Trump cuts into margin on 5th day of counting"
     excerpt: "Arizona enters its fourth day of postelection waiting. Follow The Arizona Republic's updates for Saturday, Nov. 7."
     publishedDateTime: 2020-11-07T16:15:00Z

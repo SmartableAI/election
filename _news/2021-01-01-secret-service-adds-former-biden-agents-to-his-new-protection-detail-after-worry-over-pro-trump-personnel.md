@@ -352,6 +352,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Joe Biden Should Handle White House Infighting"
+    excerpt: "History suggests that the president-elect should insist on strong decision-making processes and deal firmly with staff misbehavior."
+    publishedDateTime: 2021-01-02T05:15:00Z
+    webUrl: "https://www.wsj.com/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
+    ampWebUrl: "https://www.wsj.com/amp/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-279262/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "'Morning Joe' mainstay Donny Deutsch blames media for continuing to obsess over Trump: 'We are guilty'"
     excerpt: "Joe\" regular Donny Deutsch slammed the mainstream media on Monday for continuing to obsess over President Trump with non-stop coverage and said the press is \"guilty\" of focusing extensive coverage on him rather than President-elect Joe Biden."
     publishedDateTime: 2020-12-28T19:44:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-issue-executive-order-midnigh
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-issue-executive-order-midnight-regulations.amp"
 type: article
 quality: 190
-heat: 650
+heat: 670
 published: true
 
 provider:
@@ -334,6 +334,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17982449-b85a-4a77-a6be-96d8701ff3b2/70bb5fd8-6315-4a9d-bdfb-644b243e64ec/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "How Joe Biden Should Handle White House Infighting"
+    excerpt: "History suggests that the president-elect should insist on strong decision-making processes and deal firmly with staff misbehavior."
+    publishedDateTime: 2021-01-02T05:15:00Z
+    webUrl: "https://www.wsj.com/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
+    ampWebUrl: "https://www.wsj.com/amp/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-279262/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Secret Service adds former Biden agents to his new protection detail after worry over pro-Trump personnel"
     excerpt: "The U.S. Secret Service is bringing back agents who served on Joe Biden's protection detail when he was vice president after his campaign raised concerns that certain agents already in place were politically aligned with President Trump."

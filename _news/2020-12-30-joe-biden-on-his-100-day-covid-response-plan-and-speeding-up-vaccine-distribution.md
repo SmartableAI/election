@@ -135,6 +135,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden wants to fill federal court seats – but he needs to win the Senate first"
+    excerpt: "Trump went into overdrive on filling court seats, but the Democrats must win in January’s runoff or a Republican Senate will block them at every turn"
+    publishedDateTime: 2021-01-02T08:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/02/courts-biden-senate-democrats"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 101
+    images:
+      - url: "https://i.guim.co.uk/img/media/e5b25d91f19ef31e827ffe55577ae4c37af7f45f/0_237_4190_2516/master/4190.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb09f0f6a25502db5121d186d0767040"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Brother Of Joe Biden’s Closest Advisor Picks Up Amazon As New Client"
     excerpt: "Amazon has hired Jeff Ricchetti, the brother of Joe Biden’s White House counselor Steve Ricchetti, to work for its cloud platform Amazon Web Services. A new lobbying disclosure report revealed Jeff Ricchetti landed a lobbying contract with the tech retail giant last month,"
     publishedDateTime: 2020-12-27T17:18:00Z

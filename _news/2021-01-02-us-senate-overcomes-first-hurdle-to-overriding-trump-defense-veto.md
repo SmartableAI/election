@@ -2,11 +2,11 @@
 category: news
 title: "U.S. Senate overcomes first hurdle to overriding Trump defense veto"
 excerpt: "The U.S. Senate on Friday moved toward an override of President Donald Trump's veto of a $740 billion defense policy bill in a rare New Year's Day procedural vote."
-publishedDateTime: 2021-01-01T23:44:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-senate/u-s-senate-overcomes-first-hurdle-to-overriding-trump-defense-veto-idUSKBN2962KZ"
-webUrl: "https://www.reuters.com/article/us-usa-trump-senate/u-s-senate-overcomes-first-hurdle-to-overriding-trump-defense-veto-idUSKBN2962KZ"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2962KZ"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2962KZ"
+publishedDateTime: 2021-01-02T07:08:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-senate-idUKKBN2962KZ"
+webUrl: "https://www.reuters.com/article/us-usa-trump-senate-idUKKBN2962KZ"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2962KZ"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2962KZ"
 type: article
 quality: 125
 heat: -1
@@ -64,6 +64,6 @@ related:
         height: 360
         isCached: true
 
-secured: "K/8oSZZCdYYBKrZuJ2ViWKF7ZktyV0iSqX7dKQOaLRt50yCT/1vmFDuBVa3e5mWcaUV+nUENDWLt4MPOsqgh68oQeCQyTk7gzxZ7Ja8L/j2UkKvRi6yM5nPLfVkvznj8/UPiipGv2VbLY+oTyDJ04XUofu2Ha1jghbQkY2Q40gj5Mne1YKmcpQl9/n/44jDAh4jZ6v+tUcm7LNnH86cMCa2HE9S6bZkz2xEGNgoa7hw3FoWoN/IIQi8lrV8k0GSXG6n7I6x0WvLdmHFX7Ek8FILEGGVdSR5D//lCzbWee0V/NMFLn+S/B9493LSIHISO+K23JlNZFQJo+9FpZiHZzgWh4doW73E+3bcRzOXc2nc=;WZxwZpCESIKupWKyD++yhg=="
+secured: "17a87V+/YsbhmolhTOVxfKzsiUroD2SueSsBPH0sUj9w7Yd/cuQ0hu3rmRA3fDYvTTRKZebTczg2hUyS86qB4wtV66JmW6h6ub57Gx4QdGgB12pjwTVE3rES+b+305JArTfRV7JA1LVVnNRp7tkZ66Vk4hI+NrSBkznahSD6VmpdEcmxVIhLtRrZUznAKVo77Dk+z47fzraidfeYiYI7ol3owVfxcuKOLjA4Qgd9Gi+JPeuUYQ/2vNbl4impfRoh/URalUgzYlZ+g0gdxh9ARH4uYEqQ+CcU/+aBIJnTrt4UBdT7Dc0MPI8rMFEEDJlato1ob0kD+xTaFgjyH7MCyheoC0rgknTkcPc2GUOatAk=;BaHB3ylmJwii8vYOp+CQKw=="
 ---
 

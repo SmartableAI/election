@@ -121,6 +121,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden wants to fill federal court seats – but he needs to win the Senate first"
+    excerpt: "Trump went into overdrive on filling court seats, but the Democrats must win in January’s runoff or a Republican Senate will block them at every turn"
+    publishedDateTime: 2021-01-02T08:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/02/courts-biden-senate-democrats"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 101
+    images:
+      - url: "https://i.guim.co.uk/img/media/e5b25d91f19ef31e827ffe55577ae4c37af7f45f/0_237_4190_2516/master/4190.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb09f0f6a25502db5121d186d0767040"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden on his 100-day COVID response plan and speeding up vaccine distribution"
     excerpt: "President-elect Joe Biden spoke Tuesday about his 100-day plan to turn the tide against the coronavirus pandemic. He said he would focus federal resources on speeding up vaccine distribution, which is falling behind the Trump administration's promised schedule."
     publishedDateTime: 2020-12-29T21:26:00Z
