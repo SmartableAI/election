@@ -63,22 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden wants mask mandate in every state to fight coronavirus — but these governors won't commit"
-    excerpt: "President-elect Joe Biden has laid out several ways to combat the coronavirus at the beginning of his term, including working with state and local leaders to enact a national mask mandate -- but for now, not every state has committed to help."
-    publishedDateTime: 2020-11-11T19:16:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fb_NTBfGD7U/biden-backs-mask-mandate-in-every-state-but-some-governors-wont-commit"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-backs-mask-mandate-in-every-state-but-some-governors-wont-commit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-mask-mandate-in-every-state-but-some-governors-wont-commit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315765327815.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Biden advisers differ on national coronavirus lockdown, as one calls it 'measure of last resort'"
     excerpt: "The co-chair of President-elect Joe Biden’s coronavirus task force, former Surgeon General Dr. Vivek Murthy, described lockdowns Sunday as \"a measure of last resort,\" countering comments last week by another task force member."
     publishedDateTime: 2020-11-15T14:57:49Z

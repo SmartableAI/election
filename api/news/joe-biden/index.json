@@ -59,63 +59,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-01-biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.md",
-      "title": "Biden inauguration events to include coronavirus victims vigil at Lincoln Memorial",
-      "excerpt": "President-elect Joe Biden’s plans to include a lighting ceremony honoring the more than 341,000 Americans who have died from the coronavirus as part of the events leading up to his inauguration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial",
-      "originalUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bf71ec4-e4ed-482c-90f6-1e943bb2fea5/c680625c-3173-4cf3-a5df-0ac883270f26/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp",
-      "publishedDateTime": "2021-01-01T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-01-joe-bidens-approach-to-latin-america-will-be-major-departure-from-donald-trump.md",
       "title": "Joe Biden's Approach to Latin America Will Be Major Departure from Donald Trump",
       "excerpt": "Joe Biden believes, and he has for years, that conditions must be improved in Latin America if the United States wants to slow immigration. A less antagonistic U.S. approach is coming.",
@@ -124,7 +67,7 @@
       "originalUrl": "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1046,
+      "heat": 1066,
       "tags": null,
       "images": [
         {
@@ -177,7 +120,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1616,6 +1559,58 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-betsy-devos-asked-her-department-of-education-staff-to-become-the-resistance-when-biden-takes-office.md",
+      "title": "Betsy DeVos asked her Department of Education staff to become 'the resistance' when Biden takes office",
+      "excerpt": "Education Secretary Betsy DeVos was recorded telling Department of Education staff to become \"the resistance\" during a virtual meeting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/betsy-devos-told-doe-staff-become-resistance-biden-administration-2020-12",
+      "originalUrl": "https://www.businessinsider.com/betsy-devos-told-doe-staff-become-resistance-biden-administration-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fda26b81803a80018adfc0e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/betsy-devos-told-doe-staff-become-resistance-biden-administration-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/betsy-devos-told-doe-staff-become-resistance-biden-administration-2020-12?amp",
+      "publishedDateTime": "2020-12-16T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

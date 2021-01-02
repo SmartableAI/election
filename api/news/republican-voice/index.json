@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-02-live-updates-biden-inauguration-events-to-include-coronavirus-victims-vigil.md",
+      "title": "Live Updates: Biden inauguration events to include coronavirus victims vigil",
+      "excerpt": "President-elect Joe Biden plans to include a lighting ceremony honoring Americans who have died from the coronavirus as part of the events leading up to his Jan. 20 inauguration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ohzz2VVIUp0/live-updates-biden-transition-01-02-21",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ohzz2VVIUp0/live-updates-biden-transition-01-02-21",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 252,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df3f336d-4008-4f79-8084-984e451cab7f/579391ed-804d-40e1-815c-b0dfaae955c0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp",
+      "publishedDateTime": "2021-01-02T05:39:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-trump-the-clear-republican-front-runner-in-next-white-house-race.md",
       "title": "Trump the clear Republican 'front-runner' in next White House race",
       "excerpt": "There's more than three years to go until the next Iowa caucuses and New Hampshire presidential primary, but what some considered the first cattle call in the 2024 White House race takes place next week.",
@@ -224,176 +280,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.md",
-      "title": "Biden inauguration events to include coronavirus victims vigil at Lincoln Memorial",
-      "excerpt": "President-elect Joe Biden’s plans to include a lighting ceremony honoring the more than 341,000 Americans who have died from the coronavirus as part of the events leading up to his inauguration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial",
-      "originalUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bf71ec4-e4ed-482c-90f6-1e943bb2fea5/c680625c-3173-4cf3-a5df-0ac883270f26/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp",
-      "publishedDateTime": "2021-01-01T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says.md",
-      "title": "LIVE UPDATES: Hawley's opposition to Biden win different than Boxer's 2004 fight, she says",
-      "excerpt": "Follow for the latest updates on the presidential transition.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDH1osjvRTI/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDH1osjvRTI/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1be552ec-a083-472e-ba7a-7dbdc403fd13/90a08f4b-ca06-4520-93b1-356816a8b8e8/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says.amp",
-      "publishedDateTime": "2020-12-31T22:51:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-trump-extends-restrictions-on-work-visas-says-coronavirus-pandemic-still-disrupts-american-livelihoods.md",
-      "title": "Trump extends restrictions on work visas, says coronavirus pandemic still disrupts 'American livelihoods'",
-      "excerpt": "The order will now expire at the end of March, extending into President-elect Joe Biden’s first term in office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus",
-      "originalUrl": "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21c61f7e-efbd-4fa6-afea-c095980aa956/4eac7bfe-96e7-4176-b642-db1d63cfba5d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp",
-      "publishedDateTime": "2020-12-31T18:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -1664,6 +1550,119 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-defends-vetoing-ndaa-china-russia-big-tech.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-defends-vetoing-ndaa-china-russia-big-tech.amp",
       "publishedDateTime": "2020-12-26T07:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-26-joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea.md",
+      "title": "Joe Biden’s niece Caroline gets no jail time after DUI guilty plea",
+      "excerpt": "Joe Biden’s niece Caroline Biden pleaded guilty to DUI on Dec. 3 — and was sentenced to 20 days to six months of “confinement,” Pennsylvania court records said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea?wp0",
+      "originalUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea?wp0",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/caro222.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea.amp",
+      "publishedDateTime": "2020-12-25T19:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-26-michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp.md",
+      "title": "Michigan Gov. Gretchen Whitmer relieved at not being picked as Biden’s VP",
+      "excerpt": "Michigan Gov. Gretchen Whitmer said she would have accepted an offer to serve as Joe Biden’s running mate — but admitted to relief at not being picked.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwrFyuvQlw8/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwrFyuvQlw8/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/740928e4-8afe-4600-b734-c8316a13683a/8baa9bb1-9877-471f-9823-992340eebdf4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp.amp",
+      "publishedDateTime": "2020-12-25T16:26:39-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

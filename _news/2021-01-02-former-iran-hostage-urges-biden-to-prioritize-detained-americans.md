@@ -1,33 +1,31 @@
 ---
 category: news
-title: "Pence asked a judge to kill a lawsuit filed by Trump fans seeking to empower him to overturn Biden's election win on January 6"
-excerpt: "Lawyers for Pence asking for the suit to be dismissed on December 31, describing it as \"a legal contradiction.\""
-publishedDateTime: 2021-01-01T14:39:00Z
-originalUrl: "https://www.businessinsider.com/pence-asks-judge-kill-lawsuit-aimed-overturn-biden-win-2021-1"
-webUrl: "https://www.businessinsider.com/pence-asks-judge-kill-lawsuit-aimed-overturn-biden-win-2021-1"
-ampWebUrl: "https://www.businessinsider.com/pence-asks-judge-kill-lawsuit-aimed-overturn-biden-win-2021-1?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-asks-judge-kill-lawsuit-aimed-overturn-biden-win-2021-1?amp"
+title: "Former Iran hostage urges Biden to prioritize detained Americans"
+excerpt: "Princeton scholar Xiyue Wang, who was imprisoned in Iran for nearly four years, has a warning for President-elect Joe Biden about his administration's diplomacy with Iran. He shares his story with Margaret Brennan."
+publishedDateTime: 2021-01-02T13:24:00Z
+originalUrl: "https://www.cbsnews.com/video/former-iran-hostage-urges-biden-to-prioritize-detained-americans/"
+webUrl: "https://www.cbsnews.com/video/former-iran-hostage-urges-biden-to-prioritize-detained-americans/"
 type: article
-quality: 142
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Mike Pence
+  - Joe Biden
 
 images:
-  - url: "https://i.insider.com/5fef2b309ff41f001883fa37?width=1200&format=jpeg"
+  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/02/18ffe988-4b43-450a-ad6e-1d2a0462fd02/thumbnail/1200x630/18a710a3617f148248910156d4d3f7cd/0102-satmo-ushostages-brennan-619011-640x360.jpg"
     width: 1200
-    height: 600
+    height: 630
     isCached: true
 
 related:
@@ -46,6 +44,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1696572/joe-biden-latin-america.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Pence asked a judge to kill a lawsuit filed by Trump fans seeking to empower him to overturn Biden's election win on January 6"
+    excerpt: "Lawyers for Pence asking for the suit to be dismissed on December 31, describing it as \"a legal contradiction.\""
+    publishedDateTime: 2021-01-01T14:39:00Z
+    webUrl: "https://www.businessinsider.com/pence-asks-judge-kill-lawsuit-aimed-overturn-biden-win-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/pence-asks-judge-kill-lawsuit-aimed-overturn-biden-win-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-asks-judge-kill-lawsuit-aimed-overturn-biden-win-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 142
+    images:
+      - url: "https://i.insider.com/5fef2b309ff41f001883fa37?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Republicans’ loyalty to Trump means more doubt hovers over Biden’s hope of bipartisanship"
     excerpt: "But some GOP lawmakers’ continued loyalty to President Trump weeks before Biden is inaugurated suggests that convincing members of the opposing party to work will not be an easy transition. The electoral college affirmed Biden’s victory over Trump more than a week ago,"
@@ -561,20 +575,6 @@ related:
         width: 852
         height: 480
         isCached: true
-  - title: "Former Iran hostage urges Biden to prioritize detained Americans"
-    excerpt: "Princeton scholar Xiyue Wang, who was imprisoned in Iran for nearly four years, has a warning for President-elect Joe Biden about his administration's diplomacy with Iran. He shares his story with Margaret Brennan."
-    publishedDateTime: 2021-01-02T13:24:00Z
-    webUrl: "https://www.cbsnews.com/video/former-iran-hostage-urges-biden-to-prioritize-detained-americans/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/02/18ffe988-4b43-450a-ad6e-1d2a0462fd02/thumbnail/1200x630/18a710a3617f148248910156d4d3f7cd/0102-satmo-ushostages-brennan-619011-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Senate overrides first Trump veto to uphold defense policy bill"
     excerpt: "The Republican-controlled U.S. Senate overturned President Donald Trump's veto of a $740 billion defense bill on Friday, handing the Republican president the first veto defeat of his presidency weeks before he leaves office."
     publishedDateTime: 2021-01-01T20:07:00Z
@@ -735,6 +735,6 @@ related:
         height: 630
         isCached: true
 
-secured: "VLcrl3/ZTxmTrt2QNAwYvlJLwrY0VhwcVjXV+vUKryDZ86CeoaKYcIJkyOJ5bq/vE4+jpYMa2+oXHYXObTmLnWuqlshNPWYoP/3SWpmXxpDs4iGxLngRuViPrBB4rbYFV0UhFzftjXaSL9yB6O4l3pTIkGaLC4NWzM0627shujNK4jwFzzB5h4e0q8oQcqvmsmUbyrwlRePEylgKuEqL/e6Z2/VkfyR7cux60/KONfCWl3Ok7/JYxzeM7rkqvaSLogJ4AavLMVuU/OFPND2BaskQXljyrhwSUa5Mcbuam+o2DiJr5yKsB7G3ifEZ0WwkUjHK3pUqNX9fsu9ujbLCJNFZrBjQblaEngbaa08Ee2yrBcbzevv2kYipqXV/yvhlgDhO9DujSMiXj+jC7YWrdbQiEAm4k4UXMM3cyPl33W2A3h6dCwRCclhMhVBhbPDDDEl1SBC3/dTX0jL5u3xy6Cg0owkCejBovz2a02ZAuLvhkkWl8UQ2yJ5VjCDv3nkX0/QMAY5jgQmms0e/ej/YZw==;kxG65/kCbLmbMc7zEnaqlw=="
+secured: "IndtPXH2Zj9z3X6xaVE4VlMNovvMf0i42SKZjH1ISk1jvA7MEChFXEyUAMrQ94NgrregGMQdywxOGSEHMDJCo64quzcJ/ElINdMIQsO/5amae6z4Ds0Ou0Pn8REKyAekFdxf+RG7pNZnwEKeVwjILGw5u/jboDEn433g/2WF0SC+cri6NZmRi+RY/T8K4OH5IqDEIIDIvPK3M9S22NGor70cjlMQKj3s+Gxeuqgx/87sFhHmnBcANymWcUQSYxCeKXgEDFLng6cW6r84fVs9igxmFQ5eFStsY4lz8RRTVfGe5AqZurKtm/YC9Vm42m+rTpKiFvXhfNsj1o8vp5vKLnQTi0o6hrh7fdG2tOKjTdI=;xAN6oJtc6VEiiwtxKcyNIA=="
 ---
 

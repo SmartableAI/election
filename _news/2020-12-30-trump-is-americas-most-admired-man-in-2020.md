@@ -577,6 +577,20 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "Former Iran hostage urges Biden to prioritize detained Americans"
+    excerpt: "Princeton scholar Xiyue Wang, who was imprisoned in Iran for nearly four years, has a warning for President-elect Joe Biden about his administration's diplomacy with Iran. He shares his story with Margaret Brennan."
+    publishedDateTime: 2021-01-02T13:24:00Z
+    webUrl: "https://www.cbsnews.com/video/former-iran-hostage-urges-biden-to-prioritize-detained-americans/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/02/18ffe988-4b43-450a-ad6e-1d2a0462fd02/thumbnail/1200x630/18a710a3617f148248910156d4d3f7cd/0102-satmo-ushostages-brennan-619011-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Senate overrides first Trump veto to uphold defense policy bill"
     excerpt: "The Republican-controlled U.S. Senate overturned President Donald Trump's veto of a $740 billion defense bill on Friday, handing the Republican president the first veto defeat of his presidency weeks before he leaves office."
     publishedDateTime: 2021-01-01T20:07:00Z

@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-02-china-has-accused-trump-of-trying-to-start-a-new-cold-war-after-the-new-york-stock-exchange-confirmed-plan-to-delist-three-chinese-firms.md",
+      "title": "China has accused Trump of trying to start a new Cold War, after the New York Stock Exchange confirmed plan to delist three Chinese firms",
+      "excerpt": "China accused the Trump administration of attempting to suppress foreign companies, as the NYSE moved to delist three Chinese firms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/china-trump-start-new-cold-war-after-nyse-delists-companies-2021-1",
+      "originalUrl": "https://www.businessinsider.com/china-trump-start-new-cold-war-after-nyse-delists-companies-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff06619a18a450018cb6826?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/china-trump-start-new-cold-war-after-nyse-delists-companies-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/china-trump-start-new-cold-war-after-nyse-delists-companies-2021-1?amp",
+      "publishedDateTime": "2021-01-02T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-02-live-updates-biden-inauguration-events-to-include-coronavirus-victims-vigil.md",
+      "title": "Live Updates: Biden inauguration events to include coronavirus victims vigil",
+      "excerpt": "President-elect Joe Biden plans to include a lighting ceremony honoring Americans who have died from the coronavirus as part of the events leading up to his Jan. 20 inauguration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ohzz2VVIUp0/live-updates-biden-transition-01-02-21",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ohzz2VVIUp0/live-updates-biden-transition-01-02-21",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 252,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df3f336d-4008-4f79-8084-984e451cab7f/579391ed-804d-40e1-815c-b0dfaae955c0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp",
+      "publishedDateTime": "2021-01-02T05:39:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-pro-trump-lawyer-lin-wood-insists-he-is-not-insane-after-tweeting-that-mike-pence-should-face-execution-by-firing-squad.md",
       "title": "Pro-Trump lawyer Lin Wood insists he is not insane after tweeting that Mike Pence should face execution by firing squad",
       "excerpt": "In a Twitter thread, the conservative lawyer and staunch Trump ally accused senior Republicans of helping to \"steal\" the election.",
@@ -601,7 +709,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 440,
+      "heat": 460,
       "tags": null,
       "images": [
         {
@@ -858,63 +966,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-01-biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.md",
-      "title": "Biden inauguration events to include coronavirus victims vigil at Lincoln Memorial",
-      "excerpt": "President-elect Joe Biden’s plans to include a lighting ceremony honoring the more than 341,000 Americans who have died from the coronavirus as part of the events leading up to his inauguration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial",
-      "originalUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bf71ec4-e4ed-482c-90f6-1e943bb2fea5/c680625c-3173-4cf3-a5df-0ac883270f26/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp",
-      "publishedDateTime": "2021-01-01T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-01-from-covfefe-to-the-mooch-10-funny-moments-from-the-trump-presidency.md",
       "title": "From covfefe to the Mooch: 10 funny moments from the Trump presidency",
       "excerpt": "Amid four years of corruption, caging children and trashing democracy there were some light-hearted moments – no really",
@@ -967,62 +1018,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-01-live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says.md",
-      "title": "LIVE UPDATES: Hawley's opposition to Biden win different than Boxer's 2004 fight, she says",
-      "excerpt": "Follow for the latest updates on the presidential transition.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDH1osjvRTI/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDH1osjvRTI/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1be552ec-a083-472e-ba7a-7dbdc403fd13/90a08f4b-ca06-4520-93b1-356816a8b8e8/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says.amp",
-      "publishedDateTime": "2020-12-31T22:51:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-01-trump-reportedly-lashed-out-at-kushner-over-increased-covid-19-testing-im-going-to-lose-and-its-going-to-be-your-fault.md",
       "title": "Trump reportedly lashed out at Kushner over increased COVID-19 testing: 'I'm going to lose, and it's going to be your fault'",
       "excerpt": "Trump reportedly told Kushner, \"I want to do what Mexico does. They don't give you a test till you get to the emergency room and you're vomiting.\"",
@@ -1072,63 +1067,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-trump-extends-restrictions-on-work-visas-says-coronavirus-pandemic-still-disrupts-american-livelihoods.md",
-      "title": "Trump extends restrictions on work visas, says coronavirus pandemic still disrupts 'American livelihoods'",
-      "excerpt": "The order will now expire at the end of March, extending into President-elect Joe Biden’s first term in office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus",
-      "originalUrl": "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21c61f7e-efbd-4fa6-afea-c095980aa956/4eac7bfe-96e7-4176-b642-db1d63cfba5d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp",
-      "publishedDateTime": "2020-12-31T18:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {
@@ -1244,7 +1182,7 @@
       "originalUrl": "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1046,
+      "heat": 1066,
       "tags": null,
       "images": [
         {
@@ -1318,6 +1256,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/jeffrey-lord-trumps-biggest-services-america-exposing-liberal-media.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jeffrey-lord-trumps-biggest-services-america-exposing-liberal-media.amp",
       "publishedDateTime": "2020-12-31T10:38:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-computer-repairman-twitter-calling-me-hacker-in-hunter-biden-laptop-case-was-death-sentence.md",
+      "title": "Computer repairman: Twitter calling me hacker in Hunter Biden laptop case was 'death sentence'",
+      "excerpt": "The computer repairman at the center of the Hunter Biden laptop story said Thursday that Twitter destroyed his business by labeling him a \"hacker\" and legal action was his only recourse.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SeGHAEF1WmY/repairman-twitter-hacker-hunter-biden-death-sentence",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SeGHAEF1WmY/repairman-twitter-hacker-hunter-biden-death-sentence",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60113ed3-0ac2-471b-811f-c14b7f5dc24e/fa32c636-a6f1-43d4-82ba-80c74820accf/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/repairman-twitter-hacker-hunter-biden-death-sentence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/repairman-twitter-hacker-hunter-biden-death-sentence.amp",
+      "publishedDateTime": "2020-12-31T08:27:47-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

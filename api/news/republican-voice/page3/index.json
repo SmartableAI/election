@@ -2,118 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-12-19-trump-claims-china-may-have-been-behind-cyber-attack-after-pompeo-says-it-was-pretty-clearly-russia.md",
-      "title": "Trump claims China 'may' have been behind cyber attack after Pompeo says it was ‘pretty clearly’ Russia",
-      "excerpt": "President Trump on Saturday claimed China \"may\" have been behind a massive cyberattack on U.S. government systems -- a day after Secretary of State Mike Pompeo said the attack was \"pretty clearly\" perpetrated by Russians.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3_fMUsfDY8g/trump-china-cyber-attack-pompeo-russia",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3_fMUsfDY8g/trump-china-cyber-attack-pompeo-russia",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/16510a01-9950-4ec7-9359-dc658807fa0e/1c3995eb-70c7-40b8-ab18-1f83cdd06758/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-china-cyber-attack-pompeo-russia.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-cyber-attack-pompeo-russia.amp",
-      "publishedDateTime": "2020-12-19T09:11:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-trump-promises-wild-protest-in-washington-dc-on-jan-6-claims-its-impossible-he-lost.md",
-      "title": "Trump promises 'wild' protest in Washington DC on Jan. 6, claims it's 'impossible' he lost",
-      "excerpt": "President Trump on Saturday promised that there would be a “wild” protest in Washington D.C. on Jan. 6, as he continued to deny that he lost the election -- claiming it was “statistically impossible” for him to have been defeated.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-I30v3XLfV4/trump-wild-protest-washington-dc-jan-6",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-I30v3XLfV4/trump-wild-protest-washington-dc-jan-6",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10c14811-d45f-4cdf-aae9-04d8ca6a8d15/791ea33c-a185-4df4-81ce-8dc74c6c49dd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-wild-protest-washington-dc-jan-6.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wild-protest-washington-dc-jan-6.amp",
-      "publishedDateTime": "2020-12-19T06:55:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-18-trump-targeting-mcconnell-and-top-republicans-urges-them-to-get-tougher-in-election-fight.md",
       "title": "Trump, targeting McConnell and top Republicans, urges them to 'get tougher' in election fight",
       "excerpt": "President Trump is again taking aim at Senate Majority Leader Mitch McConnell after the top Republican and Trump ally earlier this week recognized President-elect Joe Biden's White House victory.",
@@ -1685,6 +1573,110 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe.md",
+      "title": "Former WH communications director Alyssa Farah says GA Senate runoffs will play role in Hunter Biden probe",
+      "excerpt": "Former White House communications cirector Alyssa Farah asserted Sunday that the result of January's Georgia Senate runoff races would play a role in the future of a probe into Hunter Biden's business dealings. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O6yJSDrO1Uw/former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O6yJSDrO1Uw/former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20325631724231-e1607011068759.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe.amp",
+      "publishedDateTime": "2020-12-13T13:32:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-trump-threatens-to-veto-defense-spending-bill-citing-china.md",
+      "title": "Trump threatens to veto defense spending bill, citing China",
+      "excerpt": "President Trump on Sunday reiterated his threat to veto a $740 billion defense spending bill, setting up a showdown with the Congress that passed the legislation last week by veto-proof margins.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/",
+      "originalUrl": "https://nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/Trump-ndaa-veto-3.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/amp/",
+      "publishedDateTime": "2020-12-13T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     }

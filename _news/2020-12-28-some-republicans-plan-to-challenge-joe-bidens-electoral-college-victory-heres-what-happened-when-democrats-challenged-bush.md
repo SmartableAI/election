@@ -167,6 +167,20 @@ related:
         width: 1484
         height: 833
         isCached: true
+  - title: "Biden to mourn U.S. COVID-19 deaths in nationwide tribute"
+    excerpt: "With the coronavirus death toll steadily rising, President-elect Joe Biden plans to honor the more than 300,000 lives lost in a nationwide tribute on the eve of his inauguration – which is expected to be a smaller,"
+    publishedDateTime: 2021-01-02T13:09:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-to-mourn-us-covid-19-deaths-in-nationwide-tribute/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/02/2c957dee-7664-45ec-922f-021a47430535/thumbnail/1200x630/12d27e34ebc8eb25609e8a2abd09bea8/0102-satmo-bidenlatest-killion-618982-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GOP congressman sues Pence in effort to try and overturn Biden win"
     excerpt: "The lawsuit, led by Rep. Louie Gohmert, focuses on the Jan. 6 ceremonial meeting of Congress to finalize Joe Biden's victory."
     publishedDateTime: 2020-12-29T00:15:00Z

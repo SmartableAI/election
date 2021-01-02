@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden inauguration events to include coronavirus victims vigil at Lincoln Memorial"
-excerpt: "President-elect Joe Biden’s plans to include a lighting ceremony honoring the more than 341,000 Americans who have died from the coronavirus as part of the events leading up to his inauguration."
-publishedDateTime: 2021-01-01T10:21:00Z
-originalUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial"
-webUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial"
-ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp"
+title: "Live Updates: Biden inauguration events to include coronavirus victims vigil"
+excerpt: "President-elect Joe Biden plans to include a lighting ceremony honoring Americans who have died from the coronavirus as part of the events leading up to his Jan. 20 inauguration."
+publishedDateTime: 2021-01-02T13:39:43Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ohzz2VVIUp0/live-updates-biden-transition-01-02-21"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ohzz2VVIUp0/live-updates-biden-transition-01-02-21"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp"
 type: article
-quality: 129
-heat: -1
-published: false
+quality: 172
+heat: 252
+published: true
 
 provider:
   name: Fox News
@@ -22,32 +22,15 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bf71ec4-e4ed-482c-90f6-1e943bb2fea5/c680625c-3173-4cf3-a5df-0ac883270f26/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df3f336d-4008-4f79-8084-984e451cab7f/579391ed-804d-40e1-815c-b0dfaae955c0/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
 
 related:
-  - title: "Live Updates: Biden inauguration events to include coronavirus victims vigil"
-    excerpt: "President-elect Joe Biden plans to include a lighting ceremony honoring Americans who have died from the coronavirus as part of the events leading up to his Jan. 20 inauguration."
-    publishedDateTime: 2021-01-02T13:39:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ohzz2VVIUp0/live-updates-biden-transition-01-02-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df3f336d-4008-4f79-8084-984e451cab7f/579391ed-804d-40e1-815c-b0dfaae955c0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "LIVE UPDATES: Hawley's opposition to Biden win different than Boxer's 2004 fight, she says"
     excerpt: "Follow for the latest updates on the presidential transition."
     publishedDateTime: 2021-01-01T06:51:15Z
@@ -80,6 +63,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden inauguration events to include coronavirus victims vigil at Lincoln Memorial"
+    excerpt: "President-elect Joe Biden’s plans to include a lighting ceremony honoring the more than 341,000 Americans who have died from the coronavirus as part of the events leading up to his inauguration."
+    publishedDateTime: 2021-01-01T10:21:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bf71ec4-e4ed-482c-90f6-1e943bb2fea5/c680625c-3173-4cf3-a5df-0ac883270f26/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump extends restrictions on work visas, says coronavirus pandemic still disrupts 'American livelihoods'"
     excerpt: "The order will now expire at the end of March, extending into President-elect Joe Biden’s first term in office."
     publishedDateTime: 2021-01-01T02:20:00Z
@@ -97,6 +96,6 @@ related:
         height: 720
         isCached: true
 
-secured: "93BPEOf2yw/QLAFfFgH/l33f+4qBf3Mibilh9Et9gDlaO0OWhrtoP9mUs4gOlR1B/Y3PF7pPWvV/N4tl0sXZuTCzlDahE4HemPVBakA1ytUF157Nl8UFv7WemOHNVUzS/xptdcPgUWu0YXEwhLW5opkvhhuUMghMy/SxcC7YnEekMi7fHnk15o7ydOdWNgYiSRcAvhT6K+TvlLcSO6aicJqGKM1UH77uIgvitvgQmHP5ztXaTGVT3NURipu57YUsAJI5YkASslsMpKwBdADYvAxDaaK/4rSbB6vep2s90wBMm3Q9UXjTxrD7zA3NZP3Pw29YSGW/KdROq8XKBBLfPKB/iMkv673QHeWcbzN6Lzg=;IrcfcC0ggD72hRZZcoCAGA=="
+secured: "KYZDu0yttpHB1inU8SwDVVH6+GOUT52EchVytCY8xF/GgbjRPioSlHzzip0naDrzYNgU6fGKodde6iUFUvA79KymyLR3e+yuQLydEu7H10Xswc35HAJWct0dl3vvRoR5vRZaKqI/LTQ2B5J4yg0CW9EtxhjG93W9btOTh0CxtuXZib4SZ8BBP/Mqx1lM04SHw8wahH9MbrFNjvG027QZjRUcG/TjiZ+iG634j3IHrsZ2U+j7TaB3TIuvX7kBzdf9f45oMOqioJU82RYpb8SawuHSoWJgRWwTnXRfb+G1RdGosQUockZeQk9Z2JCG8Pnu3MLPc4hujIiiuAZ511pmO99Iy+LaoAmRSDZfeI7uUnU=;+I654mJedQpKUrJ3luWcSw=="
 ---
 

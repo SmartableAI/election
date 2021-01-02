@@ -2,30 +2,26 @@
 category: news
 title: "Mike Pence seeks dismissal of lawsuit aiming to give him the power to overturn election loss"
 excerpt: "The Justice Department has asked to dismiss a lawsuit led by a House Republican that seeks to give Mike Pence power to overturn the election."
-publishedDateTime: 2021-01-01T17:21:00Z
-originalUrl: "https://www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
-webUrl: "https://www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
-ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+publishedDateTime: 2021-01-01T20:16:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
 type: article
-quality: 129
+quality: 79
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/iARlxazmNR8X1fSIfihORnQNHP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PY662SKRXJBAMWDRX5CNP3SDXU.jpg"
+  - url: "https://www.baltimoresun.com/resizer/iARlxazmNR8X1fSIfihORnQNHP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PY662SKRXJBAMWDRX5CNP3SDXU.jpg"
     width: 1200
     height: 877
     isCached: true
@@ -239,6 +235,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Judge tosses lawsuit from House Republicans seeking to give Mike Pence the power to overturn election loss"
+    excerpt: "The Justice Department has asked to dismiss a lawsuit led by a House Republican that seeks to give Mike Pence power to overturn the election."
+    publishedDateTime: 2021-01-02T13:40:00Z
+    webUrl: "https://www.dailypress.com/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
+    ampWebUrl: "https://www.dailypress.com/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 72
+    images:
+      - url: "https://www.dailypress.com/resizer/iARlxazmNR8X1fSIfihORnQNHP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PY662SKRXJBAMWDRX5CNP3SDXU.jpg"
+        width: 1200
+        height: 877
+        isCached: true
   - title: "Republicans sue Mike Pence in far-fetched effort to overturn election"
     excerpt: "Several Republicans, including Rep. Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a last-ditch effort to overturn the results of November's presidential election."
     publishedDateTime: 2020-12-29T04:09:00Z
@@ -268,6 +280,6 @@ related:
         height: 267
         isCached: true
 
-secured: "zpoEV7akLG4s8tohIBP922gGL1/19ZY/FHm1/0elYFmhammrEWUIM866z+XMGXKLs3xYd/GiCVWHZVBoTszlsAGX0IdqtWzuhRfZwYjOXTii8QQLmONNqPQmiNwIiKRm4Y2qN6mSO2y80FPXGcIY0xL0+G04xQuA8dyR1chMqRU8BzzoXdJgPtQf66lopzWujripUQXWsY+HqxrP8RVGixVLrpxcPiqSLCJD3uDwnAFzbme/bcULivCdJ+qFZookQycNxsd4xgEe+MhLtNDa8zwnttciGLZWj+JheihON6IIOPWKiCs1M2iM/TMM3wEygo3cuZ4nFRB0UtedZjmD50ptFku1EJpKRYz2iPrBDDLQ+PfM6k+FrttIwj2buMv9+0RX9K1b8HCt9Nmnkunssly634btv3sGX+VgE0Aw/mbA4szhFwBUtK5XpeOakJwyr6oddVCPXtVsrLDn9MPot/XRmR3UZL7gCwEdro2nrKyItMWiOmHL/xwWe3wF8fOLwgwctpKYRnQxHw2HLQDJ7w==;vj/HwAl+kNVRzyFE/i9OFA=="
+secured: "V64jR/H6BzauxYeeOyvh359i5SMKFB9G+Y/5CCH+3XjUV+lsTGd2CNMY686VfEIbLssZSw/AZTViIyOZ6BVFF9WZKw1UWaN7K5HVrfB3mrYMLStgY0EV4TBSNzjZUgyTzqlu2HIYOSK6S1+Cmq+eOShLRDNGLDuowwcFVFaHnd+dOrK+4xDx4HcPwe/jdFAlUmP3M+yl/8/tjzXcf2jv4A4VlONES1m/jB1x7ijBgfN3focCV5PksgvfoUk68HJ8TzH0WHZXIXqRVTVPqA3Fl4ltEERrqc1KFa7j9bF+9HzjCWnJlTanVsSDiwelOJ7315UTo8uWqt5FchuobBaONx9ySG/wdZG5myyN6KCfnxc=;i4eHB5g/wHvzNSDXID+hkw=="
 ---
 

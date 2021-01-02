@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Republicans sue Mike Pence in last-ditch effort to overturn election"
-excerpt: "Several Republicans, including Rep. Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a last-ditch effort to overturn the results of November's presidential election."
-publishedDateTime: 2020-12-28T18:26:00Z
-originalUrl: "https://theweek.com/5things/957540/republicans-sue-mike-pence-lastditch-effort-overturn-election"
-webUrl: "https://theweek.com/5things/957540/republicans-sue-mike-pence-lastditch-effort-overturn-election"
+title: "Judge tosses lawsuit from House Republicans seeking to give Mike Pence the power to overturn election loss"
+excerpt: "The Justice Department has asked to dismiss a lawsuit led by a House Republican that seeks to give Mike Pence power to overturn the election."
+publishedDateTime: 2021-01-02T13:40:00Z
+originalUrl: "https://www.dailypress.com/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
+webUrl: "https://www.dailypress.com/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
+ampWebUrl: "https://www.dailypress.com/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
 type: article
-quality: 70
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: THE WEEK
-  domain: theweek.com
+  name: Daily Press
+  domain: dailypress.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229686198.jpg?itok=Xe-uSQS1&resize=400x267"
-    width: 400
-    height: 267
+  - url: "https://www.dailypress.com/resizer/iARlxazmNR8X1fSIfihORnQNHP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PY662SKRXJBAMWDRX5CNP3SDXU.jpg"
+    width: 1200
+    height: 877
     isCached: true
 
 related:
@@ -249,22 +251,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Judge tosses lawsuit from House Republicans seeking to give Mike Pence the power to overturn election loss"
-    excerpt: "The Justice Department has asked to dismiss a lawsuit led by a House Republican that seeks to give Mike Pence power to overturn the election."
-    publishedDateTime: 2021-01-02T13:40:00Z
-    webUrl: "https://www.dailypress.com/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
-    ampWebUrl: "https://www.dailypress.com/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 72
-    images:
-      - url: "https://www.dailypress.com/resizer/iARlxazmNR8X1fSIfihORnQNHP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PY662SKRXJBAMWDRX5CNP3SDXU.jpg"
-        width: 1200
-        height: 877
-        isCached: true
   - title: "Republicans sue Mike Pence in far-fetched effort to overturn election"
     excerpt: "Several Republicans, including Rep. Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a last-ditch effort to overturn the results of November's presidential election."
     publishedDateTime: 2020-12-29T04:09:00Z
@@ -279,7 +265,21 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Republicans sue Mike Pence in last-ditch effort to overturn election"
+    excerpt: "Several Republicans, including Rep. Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a last-ditch effort to overturn the results of November's presidential election."
+    publishedDateTime: 2020-12-28T18:26:00Z
+    webUrl: "https://theweek.com/5things/957540/republicans-sue-mike-pence-lastditch-effort-overturn-election"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 70
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229686198.jpg?itok=Xe-uSQS1&resize=400x267"
+        width: 400
+        height: 267
+        isCached: true
 
-secured: "ASNU4li6Xy1LbvIhW7LKO3tsy+PG5lFfX0qAvqS0PEakGdJj52FP1Xto0VQah79U4W+9AqFIXQcgEMg2f+vdWnv8Owo32lrjFidKYNvX/gPj7v7x4GL7dLNfDppnlFVbmeSmND9BIZ3C0quqp86fKAYWJZBPKgfFpouMw2+4WEPzDLytHd9CXeykB2EKdksAoU62KpBg6ppUMiXXGewwlVfsOTEx5fSr9948q9zYUWbZzNyhIyQsB1QSN7G4Qi50eCW/4FeSp+qP1bShwf1eOTY5hSKJ5DwHtXj8zKNLlQGHrEt8X1uHvNP+7Qira/mWOi7a9buhsIxcDBZSWWH5jqv3cBbBivTdCo8+PoeKPIM=;kpvcIV/KCwkI3an6gSQo8Q=="
+secured: "M3nkcql4Jn1ng6QB0S9VhZmcx4YJ2L11/v1LFDpIWr6h1+V42oZRjNDPf1qRVX/FddDMfToH+zEFM3V13JI8lYfFHYUFGd5opH2cmzv5nQpUV/MtQ+vpq+3ZjKoPNv1VO3/h/OB2eRZEVa3phzx/000aHSY84Z83lAYPV+1+HJj55KevYB5vhD38NBOL9bKSfeOImdXfbXtngypfYBLJ46hgPsDdib5z6LAS7u0Og+w2oBCYng+q8oVcUcLN5YwIrvxGKopYTJ48Mq+Vg0/noOR86n4P20LT0e/AZdpm9SkgpfyAfRVSki8GlG++X5n0sntFxo5sDISGPPiJprQm+qi6yLUwTnZPT2Y+lTPtzlU=;ywYCaIrsKQbU9lNadFQFaQ=="
 ---
 

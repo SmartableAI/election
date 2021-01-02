@@ -31,69 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Biden coronavirus adviser Dr. Zeke Emanuel once argued it's not worth living past 75"
-    excerpt: "Oncologist Dr. Zeke Emanuel, one of 10 advisory board members named to Democratic President-elect Joe Biden's coronavirus task force, argued in a 2014 essay that he doesn't want to live past 75."
-    publishedDateTime: 2020-11-09T15:42:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dDJRYI_p4w4/biden-coronavirus-adviser-zeke-emanuel-age-75-the-atlantic-essay"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-adviser-zeke-emanuel-age-75-the-atlantic-essay.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-adviser-zeke-emanuel-age-75-the-atlantic-essay.amp"
+  - title: "Live Updates: Biden inauguration events to include coronavirus victims vigil"
+    excerpt: "President-elect Joe Biden plans to include a lighting ceremony honoring Americans who have died from the coronavirus as part of the events leading up to his Jan. 20 inauguration."
+    publishedDateTime: 2021-01-02T13:39:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ohzz2VVIUp0/live-updates-biden-transition-01-02-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/Zeke-Emanuel-1-Getty.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df3f336d-4008-4f79-8084-984e451cab7f/579391ed-804d-40e1-815c-b0dfaae955c0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Dr. Nicole Saphier raises concern for Biden pledging a 'draconian' universal mask mandate"
-    excerpt: "After giving credit to the qualifications of President-elect Joe Biden’s coronavirus advisory board, Fox News medical contributor Nicole Saphier raised a concern about their move to potentially suppress Americans' civil liberties."
-    publishedDateTime: 2020-11-09T15:22:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YuvpmYSIfsI/nicole-saphier-raises-concern-for-biden-pledging-a-draconian-universal-mask-mandate"
-    ampWebUrl: "https://www.foxnews.com/politics/nicole-saphier-raises-concern-for-biden-pledging-a-draconian-universal-mask-mandate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nicole-saphier-raises-concern-for-biden-pledging-a-draconian-universal-mask-mandate.amp"
+  - title: "LIVE UPDATES: Hawley's opposition to Biden win different than Boxer's 2004 fight, she says"
+    excerpt: "Follow for the latest updates on the presidential transition."
+    publishedDateTime: 2021-01-01T06:51:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDH1osjvRTI/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1be552ec-a083-472e-ba7a-7dbdc403fd13/90a08f4b-ca06-4520-93b1-356816a8b8e8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden advisers differ on national coronavirus lockdown, as one calls it 'measure of last resort'"
-    excerpt: "The co-chair of President-elect Joe Biden’s coronavirus task force, former Surgeon General Dr. Vivek Murthy, described lockdowns Sunday as \"a measure of last resort,\" countering comments last week by another task force member."
-    publishedDateTime: 2020-11-15T14:57:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/toehSlhz5UE/biden-coronavirus-vivek-murthy-lockdown-fox-news-sunday"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-vivek-murthy-lockdown-fox-news-sunday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-vivek-murthy-lockdown-fox-news-sunday.amp"
+  - title: "Biden inauguration events to include coronavirus victims vigil at Lincoln Memorial"
+    excerpt: "President-elect Joe Biden’s plans to include a lighting ceremony honoring the more than 341,000 Americans who have died from the coronavirus as part of the events leading up to his inauguration."
+    publishedDateTime: 2021-01-01T10:21:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 129
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/iStock-1205972800-10.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bf71ec4-e4ed-482c-90f6-1e943bb2fea5/c680625c-3173-4cf3-a5df-0ac883270f26/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "De Blasio dismisses coronavirus risks during Biden victory celebrations, contrary to CDC guidelines"
-    excerpt: "New York City Mayor Bill De Blasio on Monday appeared to brush off concerns that weekend celebrations over Joe Biden’s presidential victory could contribute to the further spread of the coronavirus."
-    publishedDateTime: 2020-11-09T21:53:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ta0P3NXwKIs/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines"
-    ampWebUrl: "https://www.foxnews.com/politics/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines.amp"
+  - title: "Trump extends restrictions on work visas, says coronavirus pandemic still disrupts 'American livelihoods'"
+    excerpt: "The order will now expire at the end of March, extending into President-elect Joe Biden’s first term in office."
+    publishedDateTime: 2021-01-01T02:20:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 118
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Capture.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21c61f7e-efbd-4fa6-afea-c095980aa956/4eac7bfe-96e7-4176-b642-db1d63cfba5d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "6NdkaUyg1+IJeU87E/rV8NWgjRMsGB3vWLFhxLMy4CED2pN8qkFIzbriQN6kaxIXLIgc59HmmqkYl+zyVEcJIjmldAmQZEWBmai2MYg+RflfykB0dZtbpBdyadY6ieu5jC7ZonwzsS53ajjcgxnw3Wg/PWcMKNbu8sSQn1HIN+kCt/XAwAhjHihG5JF8rKt+Jb2Av+skPsA7ODxirGSFgcwI4iZSmyrNPeB/I3OTEd6gkSz8b5ZAv7iWRdz+/45cQ/AqoL8eB3/DQTXWIaQJXizeuWW7hemTpSua5SnPESZKz+1KXpurxMXEqE115H67H4D03ryS3KoMLzzYpAabVS1Dvs94xJC7atCB3ymIoIA=;ym1KykjOxSqMhAX1cEonOw=="

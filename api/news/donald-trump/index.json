@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-02-china-has-accused-trump-of-trying-to-start-a-new-cold-war-after-the-new-york-stock-exchange-confirmed-plan-to-delist-three-chinese-firms.md",
+      "title": "China has accused Trump of trying to start a new Cold War, after the New York Stock Exchange confirmed plan to delist three Chinese firms",
+      "excerpt": "China accused the Trump administration of attempting to suppress foreign companies, as the NYSE moved to delist three Chinese firms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/china-trump-start-new-cold-war-after-nyse-delists-companies-2021-1",
+      "originalUrl": "https://www.businessinsider.com/china-trump-start-new-cold-war-after-nyse-delists-companies-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff06619a18a450018cb6826?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/china-trump-start-new-cold-war-after-nyse-delists-companies-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/china-trump-start-new-cold-war-after-nyse-delists-companies-2021-1?amp",
+      "publishedDateTime": "2021-01-02T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-pro-trump-lawyer-lin-wood-insists-he-is-not-insane-after-tweeting-that-mike-pence-should-face-execution-by-firing-squad.md",
       "title": "Pro-Trump lawyer Lin Wood insists he is not insane after tweeting that Mike Pence should face execution by firing squad",
       "excerpt": "In a Twitter thread, the conservative lawyer and staunch Trump ally accused senior Republicans of helping to \"steal\" the election.",
@@ -528,63 +580,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-01-trump-extends-restrictions-on-work-visas-says-coronavirus-pandemic-still-disrupts-american-livelihoods.md",
-      "title": "Trump extends restrictions on work visas, says coronavirus pandemic still disrupts 'American livelihoods'",
-      "excerpt": "The order will now expire at the end of March, extending into President-elect Joe Biden’s first term in office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus",
-      "originalUrl": "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21c61f7e-efbd-4fa6-afea-c095980aa956/4eac7bfe-96e7-4176-b642-db1d63cfba5d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp",
-      "publishedDateTime": "2020-12-31T18:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-01-amid-election-turmoil-caused-by-trump-chief-justice-roberts-lauds-judiciary-for-pandemic-response.md",
       "title": "Amid election turmoil caused by Trump, Chief Justice Roberts lauds judiciary for pandemic response",
       "excerpt": "Roberts notably avoided any mention of the judiciary's other historic challenges caused in large part by President Donald Trump, his frequent nemesis.",
@@ -697,7 +692,7 @@
       "originalUrl": "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1046,
+      "heat": 1066,
       "tags": null,
       "images": [
         {

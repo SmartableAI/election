@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Parade viewing stands dismantled near White House as Biden team seeks to discourage inauguration crowds"
-excerpt: "Workers on Tuesday broke down the inaugural parade reviewing stand in front of the White House ahead of what President-elect Joe Biden's transition team plans for a mostly virtual inauguration. Aides to the president-elect say that such infrastructure will not be necessary for the \"reimagined\" event."
-publishedDateTime: 2020-12-31T00:02:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2020/12/30/biden-inauguration-parade-viewing-stands-near-white-house-dismantled/4085710001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2020/12/30/biden-inauguration-parade-viewing-stands-near-white-house-dismantled/4085710001/"
-ampWebUrl: "https://amp.usatoday.com/amp/4085710001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4085710001"
+title: "Biden to mourn U.S. COVID-19 deaths in nationwide tribute"
+excerpt: "With the coronavirus death toll steadily rising, President-elect Joe Biden plans to honor the more than 300,000 lives lost in a nationwide tribute on the eve of his inauguration – which is expected to be a smaller,"
+publishedDateTime: 2021-01-02T13:09:00Z
+originalUrl: "https://www.cbsnews.com/video/biden-to-mourn-us-covid-19-deaths-in-nationwide-tribute/"
+webUrl: "https://www.cbsnews.com/video/biden-to-mourn-us-covid-19-deaths-in-nationwide-tribute/"
 type: article
-quality: 109
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/157e1de6-e356-48e3-bdb9-aef9342d0131-AFP_AFP_8UW7FD.jpg?auto=webp&crop=3698,2081,x0,y248&format=pjpg&width=1200"
+  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/02/2c957dee-7664-45ec-922f-021a47430535/thumbnail/1200x630/12d27e34ebc8eb25609e8a2abd09bea8/0102-satmo-bidenlatest-killion-618982-640x360.jpg"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
 related:
@@ -127,6 +125,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Parade viewing stands dismantled near White House as Biden team seeks to discourage inauguration crowds"
+    excerpt: "Workers on Tuesday broke down the inaugural parade reviewing stand in front of the White House ahead of what President-elect Joe Biden's transition team plans for a mostly virtual inauguration. Aides to the president-elect say that such infrastructure will not be necessary for the \"reimagined\" event."
+    publishedDateTime: 2020-12-31T00:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/30/biden-inauguration-parade-viewing-stands-near-white-house-dismantled/4085710001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4085710001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4085710001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/157e1de6-e356-48e3-bdb9-aef9342d0131-AFP_AFP_8UW7FD.jpg?auto=webp&crop=3698,2081,x0,y248&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden's COVID-19 advisory board prepares for transition amid pandemic"
     excerpt: "President-elect Joe Biden and his transition team will be taking responsibility for the nation's coronavirus response and the rollout of vaccines in the midst of an unprecedented health crisis. Dr. Celine Gounder,"
     publishedDateTime: 2020-12-11T19:55:00Z
@@ -154,20 +168,6 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-28-2020/t_6f8155c986d04d3d84a230db9667a68f_name_20201228_Biden_thumb1.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 833
-        isCached: true
-  - title: "Biden to mourn U.S. COVID-19 deaths in nationwide tribute"
-    excerpt: "With the coronavirus death toll steadily rising, President-elect Joe Biden plans to honor the more than 300,000 lives lost in a nationwide tribute on the eve of his inauguration – which is expected to be a smaller,"
-    publishedDateTime: 2021-01-02T13:09:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-to-mourn-us-covid-19-deaths-in-nationwide-tribute/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/02/2c957dee-7664-45ec-922f-021a47430535/thumbnail/1200x630/12d27e34ebc8eb25609e8a2abd09bea8/0102-satmo-bidenlatest-killion-618982-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "GOP congressman sues Pence in effort to try and overturn Biden win"
     excerpt: "The lawsuit, led by Rep. Louie Gohmert, focuses on the Jan. 6 ceremonial meeting of Congress to finalize Joe Biden's victory."
@@ -202,6 +202,6 @@ related:
         height: 683
         isCached: true
 
-secured: "R4PFFXrmmk9R9XXezRYvfKvdxRd4XxqlgiTcbugY1yA5hhCypL97VaSuNVknT7J/eWUPnLgkK4rwpU88burIRoKJPdePJn8wVtAXzTr8Y0DHddxKjflsDCHAT/svISUaUHaZNNv3TvoCALKUSOJW05gV1wWRSDsSNk3UEnJW6+lQeejrs475yoRA6pOUy4FVnm2xUVojFpy/lotU79D6IjCmFIOnyUgydpu3ugTG3+3Iae6i8o9FZsV2rxIiuW5ttduvXAbVDWe/nFl/Tp2ch1ABfNCPPAVicYcg4Sc9T4AmggbSxjVbN7npD3+3dxf55BxqwEkbq/DDr+OAXFgaowLT70+zlaCZTbHYfi9M8RrfI8hVbwdnsZTXa42Kx7+E9jTYD2zvYL2QB85SUdOlasvBroyjXfNSY6lEjtp6TVv3eEHG3Xa5e0DUYmOX8amAAWwXVgGAMlSSmh2GFaNXQOZXNp1dO0JLLdgWMTXZdY/9NixorZejUdvPvv0Kn8/vBkfyaEDn7RNadjGSmSbvVw==;pKq9X9hU1pbriMGfIXHLwg=="
+secured: "6UL0RZUm4u5OCDS8tCMgvNM6sI/c4E6vOf2WXt5UUzOnjcPKhL91vFV+EvHuICrFNxmIedzUW7SMaTXUrC94Vfx6RBRGfg6D+OSZJWXwZiElSXg6fqbpo9vxW8N3JuSEVd451yHRYktFVZ/9F/CNMh34ekH2AIRoyHHrpE+HH/8dGeYbJeJyxWobeqIJzUC9VzsREHMj2mS+pocJB2LGwodVJ2uzF5/aq6i/1PK6XDbrLHLzq8VIuxkpsOzrRQ3fYDqT/wLB3oDB9z931ULVbHPcIMVzMvanJkuYjVHoZYZirI5uHd2OZed2UT0M0TxWI/Lt+mcNqpcist11ZHxp8YpyXhqhV0ODVfwlnwG9rIc=;CngaSELNiuij1o7SKt0L3g=="
 ---
 
