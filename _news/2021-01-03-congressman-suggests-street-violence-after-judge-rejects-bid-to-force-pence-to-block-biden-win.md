@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-01-02/gohmert-pence-bide
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-02/gohmert-pence-biden-win?_amp=true"
 type: article
 quality: 138
-heat: 578
+heat: 618
 published: true
 
 provider:
@@ -176,6 +176,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Two Biden aides will recuse on BlackRock issues as past ties pose questions"
+    excerpt: "In 2019, the company won again when the Trump administration cemented an approach that would essentially exempt large companies such as BlackRock from more scrutiny. Now, however, the New York firm — with $7."
+    publishedDateTime: 2021-01-02T21:39:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/01/02/blackrock-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/02/blackrock-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/02/blackrock-biden/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DHK3LPR2WYI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Secret Service to make changes to presidential detail to bring on agents who worked with Biden"
     excerpt: "The Secret Service is making some staff changes in the presidential detail that will guard President-elect Joe Biden, amid concerns from Biden allies that some current members were politically aligned with President Trump,"
     publishedDateTime: 2020-12-31T00:37:00Z
@@ -223,6 +239,22 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2018-09/12/11/campaign_images/buzzfeed-prod-web-04/republicans-confirmed-a-lot-of-judges-while-every-2-19652-1536766859-0_dblbig.jpg"
         width: 625
         height: 415
+        isCached: true
+  - title: "Appeals court clears way for only woman on federal death row to be executed before Biden takes office"
+    excerpt: "A federal court has cleared the way for the only woman on federal death row to be executed before President-elect Joe Biden takes office."
+    publishedDateTime: 2021-01-02T21:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/01/02/lisa-montgomery-execution-appeals-court-clears-way-her-death/4114538001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4114538001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4114538001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/17/PNAS/989839bb-17d1-4cf0-a2bf-79501cdbb429-Lisa_-_prison.jpg?auto=webp&crop=1175,661,x0,y600&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "U.S. Appeals Court rejects bid to block Biden's GA win"
     excerpt: "Top News U.S. Appeals Court rejects bid to block Biden's GA win. Posted [NFA] A federal appeals court on Saturday rejected a bid by a conservative lawyer to block President-elect"
@@ -377,6 +409,6 @@ related:
         height: 741
         isCached: true
 
-secured: "/74Qgx3/QfyECfQlOhZ8B1ayeUK4Uct0eUF4DUJa8ZYOX+KFoylfx6yBihMG3uDROC1cwUV7wJ/ncl5O6WWUKBQ4UT4B+VVG2GmNm2OkstbMkSHWWz/Ni17V6mEVzyMkKz+VmCTVRDE1fda6P2zs4ytwimMEwQMofTjimgXXpaBvHA1xXeoroLX0M+7utvwXL2BlELhCQjOp4zxaXTHFmk1d2tHbT7Z3rrDLCqVj2AJu7xD7IEtthdGEhnHv52jIWL/8LzQkT5SRwRJ7WgtYLzXD7JyhyVw+2cNSUMVUlDpWFWKHmtjYISBtJ4MbEWkOwV98eNHXJg3fq/BgEEP/wXMFOWFQFYxrY8neS2/JQXY=;reT+b2tDiTJbcaQhis62+Q=="
+secured: "7fJJcuGgFW/rCLBadKYAO+PRR5+U6nY9w05EcTJAvHhZLR5EQEHHsHBmXB7MMjYW1YzSbfz16wclFPeVwEWZzhp7YhudkrBg4inZKayRBAlz+gPdChz32D4GV0jWfowuQ2KpmsCPibLgjU/mFR7pcmKhCVCTstMYqDALDy8Y/463Yi0Yw+eNPy5nEK09f8CM+RR9Mi9Uets/trYsdSsjgPCxCPSWnil0ZQ3l5lCB16AfWHeY4U8MLJwFhRIoGrNydQHe9ym1fN/TKPPECVldPcTcDCDhppWXN3++lowSSDnHX2WaPrQTbdLBkV++Z3V24E2zlSo1HSwHIkaqO09M3TMvGh0/ngeNdC4PyeKFrC8=;fKuWvtXjsFlyAvrXrGU+kg=="
 ---
 

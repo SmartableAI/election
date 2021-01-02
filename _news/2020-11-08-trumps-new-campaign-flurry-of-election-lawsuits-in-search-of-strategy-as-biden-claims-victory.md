@@ -959,6 +959,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "A dozen Republican senators plan to object to certification of Biden's election win over Trump"
+    excerpt: "Sen. Ted Cruz and 10 other Republican senators will join Sen. Josh Hawley in objecting to the election results during Wednesday's joint session."
+    publishedDateTime: 2021-01-02T21:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/02/republican-senators-join-josh-hawley-election-objection/4113152001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4113152001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4113152001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 143
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/17/USAT/ea6f78dc-cc00-4dc6-bbd5-db90c0cc6cb0-VPC_TED_CRUS_HAMMERS_JACK_DORSEY_SOT_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden and Democrats push back against Trump and Republicans’ recalcitrance over election results"
     excerpt: "The president-elect, still attempting to be a soothing presence, calls the president’s behavior “an embarrassment” and says the GOP will turn around after he departs."
     publishedDateTime: 2020-11-11T01:37:00Z
