@@ -143,6 +143,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The Eight Pieces of Pop Culture That Defined the Trump Era"
+    excerpt: "As America’s Trump years come to an end, there is only one pop culture figure who fits that era-defining mold: Donald Trump himself. But unlike those figures, Trump doesn't represent any single, unifying truth about our character;"
+    publishedDateTime: 2021-01-02T12:13:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/01/02/pop-culture-trump-era-2020-analysis-449495"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/01/02/pop-culture-trump-era-2020-analysis-449495"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/01/02/pop-culture-trump-era-2020-analysis-449495"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/da/02/0a5d45fa420abea71fda4049e5d2/trump-pop-culture-illo.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "vDXSOBg4gv9krlkxiM7mJi64l9JQdx7fdWxDgLz5Vq02Frt3nvTmc1qmaeBTMv89Bkhfhv8PYjW8YfeHe0meJNfLpMzp2cY24Hi+iuSkNAKgRiqD/cttnYvVik9MesZtKVKGYB9weW1Aq/4Y/8x1UnoN6CIDRoMb80TbkqOJ/ePsXNXiAxdDvb5FeKues0YgDkRPhhwKwKQi5gyKsY/pim2HcLEYSLWUx/NNgPbyW6llJ1D8N+QFa1avMtvlf96105ta4ndRMOl8BS1qVWU4jSeCJ+tIu4Qky2SVEHxwJGAfsflo5jIcwjp/hsPO+Z/xT+vWwbcH/MpCng0TtnAhHLyCa3qBQe2eRGWrORjGq/4=;YoJtrJb6kXzixnRL3ohcfw=="
 ---

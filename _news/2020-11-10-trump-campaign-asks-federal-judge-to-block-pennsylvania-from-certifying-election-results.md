@@ -892,6 +892,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Trump Allies in Congress Plan to Challenge Joe Biden’s Electoral College Win"
+    excerpt: "In the process set to unfold Wednesday, Republicans are ready to challenge some states’ results, alleging election irregularities and possibly forcing debate and votes in both chambers of Congress."
+    publishedDateTime: 2021-01-02T12:03:00Z
+    webUrl: "https://www.wsj.com/articles/how-trump-allies-in-congress-plan-to-challenge-joe-bidens-electoral-college-win-11609588800"
+    ampWebUrl: "https://www.wsj.com/amp/articles/how-trump-allies-in-congress-plan-to-challenge-joe-bidens-electoral-college-win-11609588800"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-trump-allies-in-congress-plan-to-challenge-joe-bidens-electoral-college-win-11609588800"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 155
+    images:
+      - url: "https://images.wsj.net/im-279725/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump Campaign Presses Election Claims in Pennsylvania, Arizona"
     excerpt: "The Trump campaign is seeking to invalidate more than 10,000 votes in the Philadelphia area and asking an Arizona judge to block certification of the ballot count there."
     publishedDateTime: 2020-11-13T02:04:00Z

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-02-trump-the-clear-republican-front-runner-in-next-white-house-race.md",
+      "title": "Trump the clear Republican 'front-runner' in next White House race",
+      "excerpt": "There's more than three years to go until the next Iowa caucuses and New Hampshire presidential primary, but what some considered the first cattle call in the 2024 White House race takes place next week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CZB1WUo0VtA/trump-clear-republican-frontrunner-2024-white-house-race",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CZB1WUo0VtA/trump-clear-republican-frontrunner-2024-white-house-race",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-clear-republican-frontrunner-2024-white-house-race.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-clear-republican-frontrunner-2024-white-house-race.amp",
+      "publishedDateTime": "2021-01-02T03:53:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-trump-others-linked-to-soleimani-killing-will-not-be-safe-on-earth-iran-official-warns.md",
       "title": "Trump, others linked to Soleimani killing ‘will not be safe on Earth,’ Iran official warns",
       "excerpt": "President Trump and anyone else linked to the U.S. strike one year ago that killed a notorious Iranian general \"will not be safe on Earth,\" a top official in Tehran warned Friday, according to a report.",
@@ -450,54 +506,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-trump-returning-to-white-house-early-from-holiday-vacation-at-mar-a-lago.md",
-      "title": "Trump returning to White House early from holiday vacation at Mar-a-Lago",
-      "excerpt": "Lago club short and will return to the White House Thursday morning, the administration announced. The White House did not provide any",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/12/31/trump-returning-to-white-house-early-from-mar-a-lago/",
-      "originalUrl": "https://nypost.com/2020/12/31/trump-returning-to-white-house-early-from-mar-a-lago/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-14.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/12/31/trump-returning-to-white-house-early-from-mar-a-lago/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/31/trump-returning-to-white-house-early-from-mar-a-lago/amp/",
-      "publishedDateTime": "2020-12-31T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },

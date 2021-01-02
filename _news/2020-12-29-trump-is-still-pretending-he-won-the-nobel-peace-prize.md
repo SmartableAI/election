@@ -27,28 +27,44 @@ images:
     isCached: true
 
 related:
-  - title: "Probe: Trump officials attacked CDC virus reports"
-    excerpt: "A House investigative panel says Trump administration political appointees tried to block or change more than a dozen government articles that detailed scientific findings about the spread of the coro"
-    publishedDateTime: 2020-12-21T20:53:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473"
+  - title: "Pro-Trump lawyer Lin Wood insists he is not insane after tweeting that Mike Pence should face execution by firing squad"
+    excerpt: "In a Twitter thread, the conservative lawyer and staunch Trump ally accused senior Republicans of helping to \"steal\" the election."
+    publishedDateTime: 2021-01-02T12:46:00Z
+    webUrl: "https://www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 126
+    images:
+      - url: "https://i.insider.com/5ff059d5a18a450018cb6824?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
+        isCached: true
+  - title: "Stock exchange delisting 3 China companies under Trump order"
+    excerpt: "Three Chinese companies will be booted off the New York Stock Exchange this month under an executive order signed in November by President Donald Trump"
+    publishedDateTime: 2021-01-01T16:14:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/stock-exchange-delisting-china-companies-trump-order-75005174"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/stock-exchange-delisting-china-companies-trump-order-75005174"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/stock-exchange-delisting-china-companies-trump-order-75005174"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/azar-file-ap-ml-201218_1608298081614_hpMain_3_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
-  - title: "Trump: Classified material can be used in Durham probe"
-    excerpt: "The special counsel investigating the origins of the FBI’s probe into the 2016 election now has the authority to use classified information indefinitely in his investigation, a procedural step followi"
-    publishedDateTime: 2020-12-23T05:20:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-classified-material-can-be-used-in-durham-probe/2020/12/22/9c883088-44b4-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-classified-material-can-be-used-in-durham-probe/2020/12/22/9c883088-44b4-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-classified-material-can-be-used-in-durham-probe/2020/12/22/9c883088-44b4-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+  - title: "Trump extends visa ban; court clears health insurance rule"
+    excerpt: "President Donald Trump has extended pandemic-related bans on green cards and work visas to large groups of applicants through March 31"
+    publishedDateTime: 2021-01-02T01:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -59,71 +75,83 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "US STOCKS-Wall St at record levels after Trump signs fiscal aid bill"
-    excerpt: "Dec 28 (Reuters) - Wall Street’s main indexes were trading at record levels on Monday as President Donald Trump’s signing of a long-awaited $2.3 trillion pandemic aid bill bolstered bets on an economic recovery."
-    publishedDateTime: 2020-12-28T22:30:00Z
-    webUrl: "https://www.reuters.com/article/usa-stocks/us-stocks-wall-st-at-record-levels-after-trump-signs-fiscal-aid-bill-idUSL4N2J81ZR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN292101"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN292101"
+  - title: "US Congress overrides Trump defence spending bill veto"
+    excerpt: "The US Congress has overturned President Donald Trump's veto of a defence spending bill, the first time this has happened in his presidency. The Republican-controlled Senate held a rare New Year's Day session to debate the move,"
+    publishedDateTime: 2021-01-02T04:09:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55510151"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55510151"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55510151"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: BBC
+      domain: bbc.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545967675&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0KR"
-        width: 817
-        height: 545
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/99C2/production/_116326393_trumpmelaniaepa.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "‘Like a hand grasping’: Trump appointees describe the crushing of the CDC"
-    excerpt: "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, were installed in 2018 as two of the youngest political appointees in the history of the world’s premier public health agency,"
-    publishedDateTime: 2020-12-16T17:28:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/sns-nyt-cdc-trump-20201216-zmk3voqeunexjnhowzi6tqfkou-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/sns-nyt-cdc-trump-20201216-zmk3voqeunexjnhowzi6tqfkou-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/sns-nyt-cdc-trump-20201216-zmk3voqeunexjnhowzi6tqfkou-story.html?outputType=amp"
+  - title: "Census Bureau to miss deadline, jeopardizing Trump plan"
+    excerpt: "The Census Bureau plans to announce it will miss a year-end deadline for handing in numbers used for divvying up congressional seats. That delay could undermine President Donald Trump’s efforts to exclude people in the country illegally from the count if the figures aren’t turned in before President-elect Joe Biden takes office."
+    publishedDateTime: 2020-12-31T11:16:00Z
+    webUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 124
-    images:
-      - url: "https://www.chicagotribune.com/resizer/5re4-qd609Hv_IcCEcu2pP1qyPo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MDBRM2XLUOGRAO4BDJ4CJVJC6A.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "METALS-Shanghai metals rise as Trump signs stimulus bill"
-    excerpt: "Prices of most industrial metals rose on Monday, after U.S. President Donald Trump signed a stimulus package that would support the world's biggest economy and boost demand for metals."
-    publishedDateTime: 2020-12-28T03:19:00Z
-    webUrl: "https://www.reuters.com/article/global-metals-idUSL1N2J802I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J802I"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J802I"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
-  - title: "Florida’s Electoral College votes officially go to Trump and Pence"
-    excerpt: "Florida’s 29 Electoral College votes officially were cast for President Donald Trump and Vice President Mike Pence on Monday during a brief ceremony in the Senate chambers of the Capitol."
-    publishedDateTime: 2020-12-15T01:33:00Z
-    webUrl: "https://www.sun-sentinel.com/news/politics/os-ne-florida-senate-president-covid-20201214-mizjrtvgjvaobf7sbfgvdagxj4-story.html"
-    ampWebUrl: "https://www.sun-sentinel.com/news/politics/os-ne-florida-senate-president-covid-20201214-mizjrtvgjvaobf7sbfgvdagxj4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/politics/os-ne-florida-senate-president-covid-20201214-mizjrtvgjvaobf7sbfgvdagxj4-story.html?outputType=amp"
+  - title: "Congress overrides Trump defence spending bill veto"
+    excerpt: "US Congress overturns President Donald Trump's veto of a defence spending bill, for the first time in his presidency."
+    publishedDateTime: 2021-01-01T20:40:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55509883"
     type: article
     provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 90
+      name: BBC
+      domain: bbc.com
+    quality: 105
     images:
-      - url: "https://www.sun-sentinel.com/resizer/i9kUSPHXjws601q_x2SvnMb1Tlw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2IXB2MNHUR5TZX5IUO53ZBUGBM.jpg"
-        width: 1200
-        height: 800
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p092w75k.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "US Stocks Hit Records After Trump Signs $900B Aid Package"
-    excerpt: "Stocks were moderately higher Monday, Dec. 28 in the final week of 2020 after President Donald Trump signed a $900 billion economic aid package that helps reduce uncertainty amid the re-imposition of travel and business curbs in response to a new coronavirus variant."
-    publishedDateTime: 2020-12-29T02:02:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2020-12-28/asian-stocks-advance-after-trump-signs-900b-aid-package"
-    ampWebUrl: "https://www.usnews.com/news/business/articles/2020-12-28/asian-stocks-advance-after-trump-signs-900b-aid-package?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-12-28/asian-stocks-advance-after-trump-signs-900b-aid-package?context=amp"
+  - title: "The Walter Reed doctor who lost his ER job after condemning Trump's COVID-19 hospital joyride says he regrets nothing"
+    excerpt: "Dr. James Phillips rebuked President Donald Trump's decision to greet supporters from inside a sealed car while he had COVID-19."
+    publishedDateTime: 2020-12-29T23:20:00Z
+    webUrl: "https://www.businessinsider.com/walter-reed-doctor-slammed-trump-coronavirus-joyride-regrets-nothing-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/walter-reed-doctor-slammed-trump-coronavirus-joyride-regrets-nothing-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/walter-reed-doctor-slammed-trump-coronavirus-joyride-regrets-nothing-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5feb1564a644880018193974?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump Lashes Out At Republican Leaders Over Looming Veto Override"
+    excerpt: "Donald Trump, facing a humiliating first veto override of his presidency, lashed out at Republican leaders in Congress on Tuesday as relations soured ahead of a crucial pair of runoff elections in Georgia that could determine control of the Senate."
+    publishedDateTime: 2020-12-29T22:47:00Z
+    webUrl: "https://www.ibtimes.com/trump-lashes-out-republican-leaders-over-looming-veto-override-3111419"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/president-donald-trump-lashed-out-at-the-republican.jpg"
+        width: 1024
+        height: 642
+        isCached: true
+  - title: "Trump Extends Visa Ban; Court Clears Health Insurance Rule"
+    excerpt: "President Donald Trump has extended pandemic-related bans on green cards and work visas to large groups of applicants through March 31."
+    publishedDateTime: 2021-01-01T08:14:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-extends-pandemic-related-visa-ban-through-march-31"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-extends-pandemic-related-visa-ban-through-march-31?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-31/trump-extends-pandemic-related-visa-ban-through-march-31?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

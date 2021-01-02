@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/probe-trump-officials-at
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473"
 type: article
 quality: 125
-heat: 265
+heat: 245
 published: true
 
 provider:
@@ -105,22 +105,6 @@ related:
       - url: "https://www.sun-sentinel.com/resizer/i9kUSPHXjws601q_x2SvnMb1Tlw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2IXB2MNHUR5TZX5IUO53ZBUGBM.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Trump Is Still Pretending He Won the Nobel Peace Prize"
-    excerpt: "The superimposition of the Nobel Prize over a clip of Trump with Arab and Israeli leaders implied that he won the humanitarian award. He has not."
-    publishedDateTime: 2020-12-29T07:40:00Z
-    webUrl: "https://nymag.com/intelligencer/2020/12/trump-is-still-pretending-he-won-the-nobel-peace-prize.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/trump-is-still-pretending-he-won-the-nobel-peace-prize.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/trump-is-still-pretending-he-won-the-nobel-peace-prize.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/cf6/f8e/80bd4a5a0f31b5f082f65c64260c6f9aa5-abraham-accords.1x.rsocial.w1200.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "US Stocks Hit Records After Trump Signs $900B Aid Package"
     excerpt: "Stocks were moderately higher Monday, Dec. 28 in the final week of 2020 after President Donald Trump signed a $900 billion economic aid package that helps reduce uncertainty amid the re-imposition of travel and business curbs in response to a new coronavirus variant."

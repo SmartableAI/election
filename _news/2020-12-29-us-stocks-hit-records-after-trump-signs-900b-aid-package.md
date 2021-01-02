@@ -116,22 +116,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump Is Still Pretending He Won the Nobel Peace Prize"
-    excerpt: "The superimposition of the Nobel Prize over a clip of Trump with Arab and Israeli leaders implied that he won the humanitarian award. He has not."
-    publishedDateTime: 2020-12-29T07:40:00Z
-    webUrl: "https://nymag.com/intelligencer/2020/12/trump-is-still-pretending-he-won-the-nobel-peace-prize.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/trump-is-still-pretending-he-won-the-nobel-peace-prize.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/trump-is-still-pretending-he-won-the-nobel-peace-prize.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/cf6/f8e/80bd4a5a0f31b5f082f65c64260c6f9aa5-abraham-accords.1x.rsocial.w1200.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "HKz8W+nrP0oxl85dkHMFJtoDz33l1fad0h/a8o+6UwtPWpWl7ZgWxPRmH5E1kODiqjMVaLAE18gk73RzIhvH7FaAhE/jvY55yE8c099VWOVgkrO803lBuwGDyH+PHkccoCliLXzHj5qzdyBS9pRIN6gC8YJRBh8vDakrrOuJruREiEUpLHYeaggmYhChqNsFLgDkRfisIPAf3P2LK6RSOySzkQAZLDHk4hnl34f6es0olhB0KbSoVhhnY8kkRpTVuF4vz021/+VvoPd46YjwNfNxQFhrxcUt7AN6kNPafUnf0A0cRnL0eksYtVjtX+9+CgwXGb6QXwRLbwiEDRG/Maipm6Ir5zoGGmDTA+iRSDxewuvQLOTB6mOgX9if40Uw9iSS8Ryv89jc0NAL4ABpCMuBzj61MFBALDkjwI91unYM3HS6I8tJB5WKTRfZebadYjEoPnBEcgG+ebAgPmF0P9X8lMepXc5LUNTic888Pdr9RaNSHvDZQGeVOGtOqpDeTCFcBJzF/q/ZJ8ci8hos1g==;YhysyH4yvdu3lazSClNzpA=="
 ---

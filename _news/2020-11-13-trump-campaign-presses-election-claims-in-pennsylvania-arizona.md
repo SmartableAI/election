@@ -894,6 +894,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Trump Allies in Congress Plan to Challenge Joe Biden’s Electoral College Win"
+    excerpt: "In the process set to unfold Wednesday, Republicans are ready to challenge some states’ results, alleging election irregularities and possibly forcing debate and votes in both chambers of Congress."
+    publishedDateTime: 2021-01-02T12:03:00Z
+    webUrl: "https://www.wsj.com/articles/how-trump-allies-in-congress-plan-to-challenge-joe-bidens-electoral-college-win-11609588800"
+    ampWebUrl: "https://www.wsj.com/amp/articles/how-trump-allies-in-congress-plan-to-challenge-joe-bidens-electoral-college-win-11609588800"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-trump-allies-in-congress-plan-to-challenge-joe-bidens-electoral-college-win-11609588800"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 155
+    images:
+      - url: "https://images.wsj.net/im-279725/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump Broadens His Efforts to Overturn Election Outcome"
     excerpt: "The president is threatening Republicans who challenge his refusal to concede, as looming deadlines for key states to certify their results are set to narrow the path for his legal challenges."
     publishedDateTime: 2020-11-20T02:00:00Z

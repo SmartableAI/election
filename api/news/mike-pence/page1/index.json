@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-02-pro-trump-lawyer-lin-wood-insists-he-is-not-insane-after-tweeting-that-mike-pence-should-face-execution-by-firing-squad.md",
+      "title": "Pro-Trump lawyer Lin Wood insists he is not insane after tweeting that Mike Pence should face execution by firing squad",
+      "excerpt": "In a Twitter thread, the conservative lawyer and staunch Trump ally accused senior Republicans of helping to \"steal\" the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1",
+      "originalUrl": "https://www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 306,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff059d5a18a450018cb6824?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1?amp",
+      "publishedDateTime": "2021-01-02T04:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-federal-judge-throws-out-gohmert-lawsuit-asking-pence-to-interfere-in-electoral-college-count.md",
       "title": "Federal judge throws out Gohmert lawsuit asking Pence to interfere in Electoral College count ",
       "excerpt": "A federal judge threw out a lawsuit from Rep. Louie Gohmert of Texas and several Arizona Republicans seeking to force Vice President Mike Pence to help throw the election to President Donald Trump next week when Congress meets to count the Electoral College votes.\n    \n",
@@ -1488,58 +1541,6 @@
         "name": "Ledger-Enquirer",
         "domain": "ledger-enquirer.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-top-house-republican-pences-brother-join-gop-brief-asking-supreme-court-to-effectively-overturn-election.md",
-      "title": "Top House Republican, Pence’s brother join GOP brief asking Supreme Court to effectively overturn election",
-      "excerpt": "Minority Leader Kevin McCarthy (R-Calif.) added his name to the amicus brief filed in the case along with 19 other Republicans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/house-republicans-trump-biden/2020/12/11/66b4a9e2-3be4-11eb-9276-ae0ca72729be_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/house-republicans-trump-biden/2020/12/11/66b4a9e2-3be4-11eb-9276-ae0ca72729be_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZLIICR35QI6XETWVYGKOJZJXY.jpg&w=1440",
-          "width": 1440,
-          "height": 958,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/house-republicans-trump-biden/2020/12/11/66b4a9e2-3be4-11eb-9276-ae0ca72729be_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/house-republicans-trump-biden/2020/12/11/66b4a9e2-3be4-11eb-9276-ae0ca72729be_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-11T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

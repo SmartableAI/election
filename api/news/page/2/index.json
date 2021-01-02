@@ -2,6 +2,114 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-31-computer-repairman-twitter-calling-me-hacker-in-hunter-biden-laptop-case-was-death-sentence.md",
+      "title": "Computer repairman: Twitter calling me hacker in Hunter Biden laptop case was 'death sentence'",
+      "excerpt": "The computer repairman at the center of the Hunter Biden laptop story said Thursday that Twitter destroyed his business by labeling him a \"hacker\" and legal action was his only recourse.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SeGHAEF1WmY/repairman-twitter-hacker-hunter-biden-death-sentence",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SeGHAEF1WmY/repairman-twitter-hacker-hunter-biden-death-sentence",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60113ed3-0ac2-471b-811f-c14b7f5dc24e/fa32c636-a6f1-43d4-82ba-80c74820accf/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/repairman-twitter-hacker-hunter-biden-death-sentence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/repairman-twitter-hacker-hunter-biden-death-sentence.amp",
+      "publishedDateTime": "2020-12-31T08:27:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-biden-inauguration-to-feature-memorial-for-covid-victims.md",
+      "title": "Biden inauguration to feature memorial for COVID victims",
+      "excerpt": "President-elect Joe Biden is planning a lighting ceremony at the Lincoln Memorial Reflecting Pool to honor those killed by the coronavirus the day before he is sworn into office on Jan. 20",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_467ec2758fd24427a99beb711a78f8a0_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984",
+      "publishedDateTime": "2020-12-31T07:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-live-politics-updates-trump-to-return-to-dc-early-gop-senator-says-hes-playing-with-fire-in-contesting-election.md",
       "title": "Live politics updates: Trump to return to DC early, GOP senator says he's 'playing with fire' in contesting election",
       "excerpt": "Sasse said the effort by Trump and his allies to overturn Biden's win amounted to pointing a \"loaded gun at the heart of legitimate self-government.\"",
@@ -52,54 +160,6 @@
         "Election",
         "Donald Trump",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-trump-returning-to-white-house-early-from-holiday-vacation-at-mar-a-lago.md",
-      "title": "Trump returning to White House early from holiday vacation at Mar-a-Lago",
-      "excerpt": "Lago club short and will return to the White House Thursday morning, the administration announced. The White House did not provide any",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/12/31/trump-returning-to-white-house-early-from-mar-a-lago/",
-      "originalUrl": "https://nypost.com/2020/12/31/trump-returning-to-white-house-early-from-mar-a-lago/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-14.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/12/31/trump-returning-to-white-house-early-from-mar-a-lago/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/31/trump-returning-to-white-house-early-from-mar-a-lago/amp/",
-      "publishedDateTime": "2020-12-31T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {
@@ -775,7 +835,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign/2020/12/30/bc297d28-4aab-11eb-839a-cf4ba7b7c48c_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1311,62 +1371,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-nikki-haley-says-americans-should-be-worried-about-woke-left-when-biden-is-president.md",
-      "title": "Nikki Haley says Americans should be worried about ‘woke left’ when Biden is president",
-      "excerpt": "Former U.N. Ambassador Nikki Haley on Tuesday issued a tweet that said Americans should be worried about the \"woke left\" under President-elect Joe Biden -- warning that the group wants to use the \"full force\" of government to achieve its radical goals.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3uDFHnaPPs8/nikki-haley-americans-woke-left-biden-president",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3uDFHnaPPs8/nikki-haley-americans-woke-left-biden-president",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 247,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da6ccb3d-d6ae-4c35-892d-2a2d0a5234d2/dfcf7c7b-cb1f-422b-9614-5fd44aba5411/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president.amp",
-      "publishedDateTime": "2020-12-29T15:28:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-19-the-trump-survivors-six-cabinet-officials-who-stuck-it-out.md",
+      "title": "The Trump survivors: Six Cabinet officials who stuck it out",
+      "excerpt": "On Monday, Attorney General Bill Barr became the 12th of Donald Trump's Senate-confirmed Cabinet members either to resign or be fired by the President.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mcPG0ZniXFQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mcPG0ZniXFQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200320112649-01-mnuchin-0317-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/19/politics/trump-cabinet-survivors/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-cabinet-survivors/index.html",
+      "publishedDateTime": "2020-12-19T08:00:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie.md",
       "title": "Biggest vets groups step up pressure on Trump to fire Wilkie",
       "excerpt": "The nation’s six largest veterans groups are calling on President Donald Trump to immediately fire Veterans Affairs Secretary Robert Wilkie over the mishandling of a congressional aide’s allegation of",
@@ -1291,63 +1347,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-late-night-compares-trump-health-adviser-paul-alexander-to-a-comic-book-villain.md",
-      "title": "Late Night Compares Trump Health Adviser, Paul Alexander, to a Comic Book Villain",
-      "excerpt": "The former Health and Human Services adviser’s leaked emails encouraged herd immunity to deal with the pandemic, writing of Americans, “We want them infected.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/18/arts/18latenight/18latenight-facebookJumbo.png",
-          "width": 876,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.amp.html",
-      "publishedDateTime": "2020-12-17T22:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

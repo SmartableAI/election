@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-17-pence-fauci-praise-vaccine-developments.md",
+      "title": "Pence, Fauci Praise Vaccine Developments",
+      "excerpt": "Vice President Mike Pence praised recent vaccine advancements during a call with governors Monday, calling it welcome news for Americans. Mr. Pence spoke soon after Moderna said early results showed its experimental coronavirus vaccine [was 94.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/covid-2020-11-16/card/zmkf3toqrLQFI4bgEomL",
+      "originalUrl": "https://www.wsj.com/livecoverage/covid-2020-11-16/card/zmkf3toqrLQFI4bgEomL",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-260722?size=1.5",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T18:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-15-what-does-mike-pences-future-look-like-after-election-loss.md",
       "title": "What does Mike Pence's future look like after election loss?",
       "excerpt": "For Mike Pence, a second term for President Donald Trump would have been a 2024 ticket to Republican frontrunner status.",

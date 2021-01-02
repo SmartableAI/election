@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senat
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senators-support-2000-checks/index.html"
 type: article
 quality: 173
-heat: 313
+heat: 333
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434982/201210-donald-trump-telephone-ac-813p_370e985b16a24befd8c3f4964ffccbf4.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "The Eight Pieces of Pop Culture That Defined the Trump Era"
+    excerpt: "As America’s Trump years come to an end, there is only one pop culture figure who fits that era-defining mold: Donald Trump himself. But unlike those figures, Trump doesn't represent any single, unifying truth about our character;"
+    publishedDateTime: 2021-01-02T12:13:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/01/02/pop-culture-trump-era-2020-analysis-449495"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/01/02/pop-culture-trump-era-2020-analysis-449495"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/01/02/pop-culture-trump-era-2020-analysis-449495"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/da/02/0a5d45fa420abea71fda4049e5d2/trump-pop-culture-illo.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "nsi1xr+PlQ005nC7wMxkEplsFQgWTs0cP11SnuF8VxSsd+lexs5wLDyT48uLngdHHKwdJGajIWCZu9fiY6StEzX5IGRninLK4KWVhZ3lLCv5v7gFOSC4l+mWCyR3tNRFqbQzZmBgtSVfa5hQ+psgpLobPFt/A4MROfa1Z2s51174oMHjyJLIwNsVadq2Sp3Nj87+/Jd9E2tn3mXZStNSdd2hxZmAisiD4fbTb3rb+/qoKYnUVm2yIFFWjk7VG9fDO7l3e8bElCYcNR9I/u3MAYLfCyDsGnnv/DBL7bJbHwbBTEz0W+NYSkxTjwDavDWnuTkzJ9t/jRcvcql7jTK/zaX0TBGcagy/NBpel+h0yw0=;R+UcHFXZLueH5dCMRXsUVQ=="

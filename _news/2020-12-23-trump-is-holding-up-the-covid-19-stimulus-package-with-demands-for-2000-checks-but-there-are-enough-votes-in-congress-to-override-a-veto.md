@@ -207,22 +207,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "US Congress overrides Trump defence spending bill veto"
-    excerpt: "The US Congress has overturned President Donald Trump's veto of a defence spending bill, the first time this has happened in his presidency. The Republican-controlled Senate held a rare New Year's Day session to debate the move,"
-    publishedDateTime: 2021-01-02T04:09:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55510151"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55510151"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55510151"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/99C2/production/_116326393_trumpmelaniaepa.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "McConnell thwarts Trump bid for $2,000 coronavirus economic relief checks"
     excerpt: "U.S. Senate leader Mitch McConnell dealt a likely death blow on Wednesday to President Donald Trump's bid to boost coronavirus aid to Americans, declining to schedule a swift Senate vote on a bill to raise relief checks to $2,"
     publishedDateTime: 2020-12-31T03:11:00Z
@@ -367,20 +351,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Congress overrides Trump defence spending bill veto"
-    excerpt: "US Congress overturns President Donald Trump's veto of a defence spending bill, for the first time in his presidency."
-    publishedDateTime: 2021-01-01T20:40:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-55509883"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 105
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p092w75k.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Trump extends COVID-related bans on visas, green cards; court clears health insurance requirement for immigrants"
     excerpt: "Trump said the measures would protect American jobs in a pandemic-wracked economy, while business groups said they would hamper a recovery."
     publishedDateTime: 2021-01-01T16:09:00Z
@@ -396,22 +366,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/01/USAT/0dcd5997-f196-4431-9c6d-6e62903b6e6b-AP_Trump_1.jpg?auto=webp&crop=3593,2021,x508,y109&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "The Walter Reed doctor who lost his ER job after condemning Trump's COVID-19 hospital joyride says he regrets nothing"
-    excerpt: "Dr. James Phillips rebuked President Donald Trump's decision to greet supporters from inside a sealed car while he had COVID-19."
-    publishedDateTime: 2020-12-29T23:20:00Z
-    webUrl: "https://www.businessinsider.com/walter-reed-doctor-slammed-trump-coronavirus-joyride-regrets-nothing-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/walter-reed-doctor-slammed-trump-coronavirus-joyride-regrets-nothing-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/walter-reed-doctor-slammed-trump-coronavirus-joyride-regrets-nothing-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5feb1564a644880018193974?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Lindsey Graham says Trump is 'more determined than ever' to secure $2,000 checks as COVID-19 relief bill lingers in limbo"
     excerpt: "Sen. Lindsey Graham tweeted that President Donald \"more determined than ever to increase stimulus payments to $2000 per person.\""

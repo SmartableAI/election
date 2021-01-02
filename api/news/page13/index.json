@@ -2,6 +2,63 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-12-12-the-us-sends-egypt-billions-in-aid-fearing-extinction-rights-activists-hope-biden-will-act.md",
+      "title": "The U.S. sends Egypt billions in aid. Fearing 'extinction,' rights activists hope Biden will act.",
+      "excerpt": "Fearing 'extinction,' rights activists hope Biden will act. Rights groups say the scale of oppression under Egyptian President Abdel-Fattah el-Sissi is “unprecedented.” Jess Kelly said she knew her husband,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/u-s-sends-egypt-billions-aid-fearing-extinction-rights-activists-n1250554",
+      "originalUrl": "https://www.nbcnews.com/news/world/u-s-sends-egypt-billions-aid-fearing-extinction-rights-activists-n1250554",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_49/3432074/201201-egypt-el-sissi-mc-9182_ded51f2664c788e3890578a34275e2e0.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250554",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250554",
+      "publishedDateTime": "2020-12-12T01:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-12-us-supreme-court-ends-texas-lawsuit-seeking-to-undo-trump-election-loss.md",
       "title": "U.S. Supreme Court ends Texas lawsuit seeking to undo Trump election loss",
       "excerpt": "The U.S. Supreme Court on Friday brought an abrupt end to a long-shot lawsuit filed by Texas and backed by President Donald Trump seeking to throw out voting results in four states, dealing him a crushing setback in his quest to undo his election loss to",
@@ -1261,62 +1318,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police.amp",
       "publishedDateTime": "2020-12-10T13:30:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-ilhan-omar-quite-happy-with-biden-officials-receptiveness-to-her-ideas.md",
-      "title": "Ilhan Omar 'quite happy' with Biden officials' receptiveness to her ideas",
-      "excerpt": "“Squad” member Rep. Ilhan Omar, D-Minn., said she was “quite happy” with the response after submitting a list of proposed left-wing executive actions at a meeting with President-elect Joe Biden’s transition team.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8iJVj2AP128/ilhan-omar-quite-happy-biden-officials-receptiveness",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8iJVj2AP128/ilhan-omar-quite-happy-biden-officials-receptiveness",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Ilhan-Omar-REUTERS.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ilhan-omar-quite-happy-biden-officials-receptiveness.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-quite-happy-biden-officials-receptiveness.amp",
-      "publishedDateTime": "2020-12-10T12:25:16-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

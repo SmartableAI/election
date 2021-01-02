@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-02-pro-trump-lawyer-lin-wood-insists-he-is-not-insane-after-tweeting-that-mike-pence-should-face-execution-by-firing-squad.md",
+      "title": "Pro-Trump lawyer Lin Wood insists he is not insane after tweeting that Mike Pence should face execution by firing squad",
+      "excerpt": "In a Twitter thread, the conservative lawyer and staunch Trump ally accused senior Republicans of helping to \"steal\" the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1",
+      "originalUrl": "https://www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 306,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff059d5a18a450018cb6824?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1?amp",
+      "publishedDateTime": "2021-01-02T04:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-trump-others-linked-to-soleimani-killing-will-not-be-safe-on-earth-iran-official-warns.md",
       "title": "Trump, others linked to Soleimani killing ‘will not be safe on Earth,’ Iran official warns",
       "excerpt": "President Trump and anyone else linked to the U.S. strike one year ago that killed a notorious Iranian general \"will not be safe on Earth,\" a top official in Tehran warned Friday, according to a report.",
@@ -644,7 +697,7 @@
       "originalUrl": "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1006,
+      "heat": 1046,
       "tags": null,
       "images": [
         {
@@ -739,54 +792,6 @@
         "Election",
         "Donald Trump",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-trump-returning-to-white-house-early-from-holiday-vacation-at-mar-a-lago.md",
-      "title": "Trump returning to White House early from holiday vacation at Mar-a-Lago",
-      "excerpt": "Lago club short and will return to the White House Thursday morning, the administration announced. The White House did not provide any",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/12/31/trump-returning-to-white-house-early-from-mar-a-lago/",
-      "originalUrl": "https://nypost.com/2020/12/31/trump-returning-to-white-house-early-from-mar-a-lago/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-14.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/12/31/trump-returning-to-white-house-early-from-mar-a-lago/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/31/trump-returning-to-white-house-early-from-mar-a-lago/amp/",
-      "publishedDateTime": "2020-12-31T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {
@@ -1073,7 +1078,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign/2020/12/30/bc297d28-4aab-11eb-839a-cf4ba7b7c48c_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 205,
       "tags": null,
       "images": [
         {

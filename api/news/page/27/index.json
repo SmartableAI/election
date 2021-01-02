@@ -2,6 +2,58 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-11-19-americas-bellwethers-crumbled-in-aligning-with-trump-in-20.md",
+      "title": "America's bellwethers crumbled in aligning with Trump in '20",
+      "excerpt": "Indiana's Vigo County had been America’s most reliable presidential bellwether, voting in line with the rest of the nation since 1956",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_fe367a2fc1344c12bbb8e0178298717e_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253",
+      "publishedDateTime": "2020-11-18T17:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-biden-deputy-chief-of-staff-touted-mandatory-buybacks-of-assault-weapons.md",
       "title": "Biden deputy chief of staff touted 'mandatory buybacks' of assault weapons",
       "excerpt": "President-elect Joe Biden’s incoming deputy chief of staff once touted a gun control proposal that called for “mandatory” buybacks of certain rifles, as seen in a resurfaced campaign video.",
@@ -1310,58 +1362,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-trump-fed-nominee-shelton-blocked-in-senate-for-now.md",
-      "title": "Trump Fed nominee Shelton blocked in Senate, for now",
-      "excerpt": "The U.S. Senate on Tuesday blocked President Donald Trump's controversial nomination of Judy Shelton to the Federal Reserve's board, though a White House spokesman expressed confidence she would eventually be confirmed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-fed-shelton-blocked-idUSKBN27X2UD",
-      "originalUrl": "https://www.reuters.com/article/us-usa-fed-shelton-blocked-idUSKBN27X2UD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541544795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1PP",
-          "width": 840,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27X2UD",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2UD",
-      "publishedDateTime": "2020-11-17T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

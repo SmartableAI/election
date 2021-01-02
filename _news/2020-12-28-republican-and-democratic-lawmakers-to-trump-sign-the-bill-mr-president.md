@@ -411,6 +411,22 @@ related:
         width: 821
         height: 545
         isCached: true
+  - title: "Senate overrides Trump's veto of defense bill"
+    excerpt: "The Senate on Friday overrode President Trump's veto of the National Defense Authorization Act, the $740 billion defense policy bill. This veto, in the waning days of Mr. Trump's presidency, marked the first time Congress has voted to override him."
+    publishedDateTime: 2021-01-02T12:40:00Z
+    webUrl: "https://www.cbsnews.com/news/senate-overrides-trump-veto-defense-bill/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/senate-overrides-trump-veto-defense-bill/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/senate-overrides-trump-veto-defense-bill/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/30/3cdbe37c-81c6-476b-8d44-10e62d7db7ab/thumbnail/1200x630/df1abc3a29d6681129db66683375189d/gettyimages-1230346650.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Millions of Americans lose jobless benefits as Trump refuses to sign aid bill"
     excerpt: "Millions of Americans saw their jobless benefits expire on Saturday after U.S. President Donald Trump refused to sign into law a $2.3 trillion pandemic aid and spending package, protesting that it did not do enough to help everyday people."
     publishedDateTime: 2020-12-26T10:31:00Z
@@ -570,6 +586,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Senate overrides Trump's veto on defense bill"
+    excerpt: "Top News Senate overrides Trump's veto on defense bill. Posted . President Donald Trump's fellow Republicans in the U.S. Senate on Friday overrode his veto for the first time in h"
+    publishedDateTime: 2021-01-02T11:21:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDTDODSV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210101&i=OVDTDODSV&r=OVDTDODSV&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Here's the Democrats' plan for handling Donald Trump as Joe Biden's biggest critic and Twitter troll during the next 4 years"
     excerpt: "Joe Biden and the White House will try to avoid talking about ex-President Donald Trump as much as possible. Good luck with that."
     publishedDateTime: 2020-12-24T15:41:00Z
