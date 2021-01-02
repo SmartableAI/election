@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-pence-to
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 2055
+heat: 2075
 published: true
 
 provider:
@@ -782,6 +782,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/115EE/production/_116205117_biden.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "In Georgia, Biden's presidency meets early defining moment"
+    excerpt: "President-elect Joe Biden and his allies desperately want Democrats Jon Ossoff and Raphael Warnock to prevail in twin Georgia runoffs Tuesday that will determine which party controls the U.S. Senate"
+    publishedDateTime: 2021-01-02T06:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-bidens-presidency-meets-early-defining-moment-75010958"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-bidens-presidency-meets-early-defining-moment-75010958"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-bidens-presidency-meets-early-defining-moment-75010958"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a9ade46cdd174d1ebecf2812c040b84d_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden taps Susan Rice as top domestic policy adviser amid flurry of moves"
     excerpt: "U.S. President-elect Joe Biden chose Susan Rice, who was national security adviser to former President Barack Obama, on Thursday to lead the White House's domestic policy council as part of a flurry of appointments to his developing administration."

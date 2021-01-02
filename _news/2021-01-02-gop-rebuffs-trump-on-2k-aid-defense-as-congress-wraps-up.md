@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Lindsey Graham says Trump is 'more determined than ever' to secure $2,000 checks as COVID-19 relief bill lingers in limbo"
-excerpt: "Sen. Lindsey Graham tweeted that President Donald \"more determined than ever to increase stimulus payments to $2000 per person.\""
-publishedDateTime: 2020-12-26T15:00:00Z
-originalUrl: "https://www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12"
-webUrl: "https://www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12"
-ampWebUrl: "https://www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12?amp"
+title: "GOP rebuffs Trump on $2K aid, defense as Congress wraps up"
+excerpt: "The Senate has wrapped up a rare New Year’s Day session with Republicans rejecting President Donald Trump’s demand for $2,000 COVID-19 aid checks"
+publishedDateTime: 2021-01-02T05:11:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/gop-rebuffs-trump-2k-aid-defense-congress-wraps-75010754"
+webUrl: "https://abcnews.go.com/Health/wireStory/gop-rebuffs-trump-2k-aid-defense-congress-wraps-75010754"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/gop-rebuffs-trump-2k-aid-defense-congress-wraps-75010754"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/gop-rebuffs-trump-2k-aid-defense-congress-wraps-75010754"
 type: article
-quality: 100
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/5fe69a46edf8920018093c24?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://s.abcnews.com/images/Health/WireAP_0d69e273b4dd492ab458f9815fb49f2b_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -190,22 +190,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546297277&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0TV"
         width: 813
         height: 545
-        isCached: true
-  - title: "GOP rebuffs Trump on $2K aid, defense as Congress wraps up"
-    excerpt: "The Senate has wrapped up a rare New Year’s Day session with Republicans rejecting President Donald Trump’s demand for $2,000 COVID-19 aid checks"
-    publishedDateTime: 2021-01-02T05:11:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/gop-rebuffs-trump-2k-aid-defense-congress-wraps-75010754"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/gop-rebuffs-trump-2k-aid-defense-congress-wraps-75010754"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/gop-rebuffs-trump-2k-aid-defense-congress-wraps-75010754"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_0d69e273b4dd492ab458f9815fb49f2b_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "US Congress overrides Trump defence spending bill veto"
     excerpt: "The US Congress has overturned President Donald Trump's veto of a defence spending bill, the first time this has happened in his presidency. The Republican-controlled Senate held a rare New Year's Day session to debate the move,"
@@ -413,6 +397,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Lindsey Graham says Trump is 'more determined than ever' to secure $2,000 checks as COVID-19 relief bill lingers in limbo"
+    excerpt: "Sen. Lindsey Graham tweeted that President Donald \"more determined than ever to increase stimulus payments to $2000 per person.\""
+    publishedDateTime: 2020-12-26T15:00:00Z
+    webUrl: "https://www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lindsey-graham-trump-wants-to-increase-covid-19-stimulus-package-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5fe69a46edf8920018093c24?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Even as he urges caution on COVID-19, Pence flies to Florida to speak at large event"
     excerpt: "Vice President Mike Pence has urged Americans to step up precautions, but he flew to Florida to speak to thousands at an indoor summit held by a conservative youth group."
     publishedDateTime: 2020-12-22T22:16:00Z
@@ -471,6 +471,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "8uigh1HNUwzsmu0eNw4gVdCyF66cIU6JZBjIlmDeiw8PDynN1VNCfAyIkDO4IXdESOuPRwuRCAoIOpsXbleIBGdoYp7e1pxEJ1OigbZoaHNDEWQCzxALizFr09z81d/myK7EGohjvhgJqM3sAk/aHBKDPkXkB5tlazMVoZyQjC34+R9B3ZHZUWaGEgMfx/dWKRNx5nr33YILDHW5Ej70ebbNsisNCfrKBVS9C/veDDgrAZbEIxpdBSL/KQH8BnJH5LFw0Znnz24lBzAkifSZMbNMJgQyXyluqg7lZr1s618VxyKcstfmxpTuIQW0LkM0jvP/fQbRSX0ikhFtF1GHIYmrUBemA9QJzkR+z0+YJRE=;pq2rWXVUn6UVEFwEQbv2gw=="
+secured: "rLghpuo5Eajp49AJhLodX/CpTjZ52leKA/Wig0a6SW2FK+GsYCD5mJFVPYuf9ZNryD6BR1TH7VkhHLF4s8JYIGKhGOaBEVaCFR6TKZIUugJ9obCO9MqfLjuKLH6hgwBJX/3WmJXZf0erTJIQjldP527ghp7+/UzuFg3PrcfxbN7Yj90CsCsLfVrzFu6smuNskQK8GzbtxtjIegIBE1LfBaWcGyY7KAVQ7uz1cPJUg9vtmWE6DaemCNvxsNmtRIGqklidLFUXeMv51qS2aO46T6nAlgJH4OMxbkrcF9SpibbVjOHqX8BGSsY59NGtG7V2OKQ/W66QOm83DBM2luJUb6L2Jh6bBdO1TzOZ7sex8mg=;1PYED5LCsVz5HKkMQDEIWQ=="
 ---
 

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Connecticut education Commissioner Miguel Cardona selected for U.S. education secretary by President-elect Joe Biden"
-excerpt: "President-elect Joe Biden has chosen Connecticut Education Commissioner Miguel Cardona to serve as his education secretary, the Associated Press confirmed Tuesday."
-publishedDateTime: 2020-12-23T00:21:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/hc-news-connecticut-biden-selects-cardona-20201222-wtgzszbkjnap7dj3ampob4j3z4-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/hc-news-connecticut-biden-selects-cardona-20201222-wtgzszbkjnap7dj3ampob4j3z4-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/hc-news-connecticut-biden-selects-cardona-20201222-wtgzszbkjnap7dj3ampob4j3z4-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/hc-news-connecticut-biden-selects-cardona-20201222-wtgzszbkjnap7dj3ampob4j3z4-story.html?outputType=amp"
+title: "In Georgia, Biden's presidency meets early defining moment"
+excerpt: "President-elect Joe Biden and his allies desperately want Democrats Jon Ossoff and Raphael Warnock to prevail in twin Georgia runoffs Tuesday that will determine which party controls the U.S. Senate"
+publishedDateTime: 2021-01-02T06:00:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/georgia-bidens-presidency-meets-early-defining-moment-75010958"
+webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-bidens-presidency-meets-early-defining-moment-75010958"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-bidens-presidency-meets-early-defining-moment-75010958"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-bidens-presidency-meets-early-defining-moment-75010958"
 type: article
-quality: 102
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/Jo-B1PnxSkoKpQxkUmqDsLiOrOA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3MGRC3YXYFD2HGNNPCKPFTSFGA.JPG"
-    width: 1200
-    height: 800
+  - url: "https://s.abcnews.com/images/Politics/WireAP_a9ade46cdd174d1ebecf2812c040b84d_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -799,22 +799,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "In Georgia, Biden's presidency meets early defining moment"
-    excerpt: "President-elect Joe Biden and his allies desperately want Democrats Jon Ossoff and Raphael Warnock to prevail in twin Georgia runoffs Tuesday that will determine which party controls the U.S. Senate"
-    publishedDateTime: 2021-01-02T06:00:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-bidens-presidency-meets-early-defining-moment-75010958"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-bidens-presidency-meets-early-defining-moment-75010958"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-bidens-presidency-meets-early-defining-moment-75010958"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a9ade46cdd174d1ebecf2812c040b84d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden taps Susan Rice as top domestic policy adviser amid flurry of moves"
     excerpt: "U.S. President-elect Joe Biden chose Susan Rice, who was national security adviser to former President Barack Obama, on Thursday to lead the White House's domestic policy council as part of a flurry of appointments to his developing administration."
     publishedDateTime: 2020-12-10T18:32:00Z
@@ -1349,6 +1333,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Connecticut education Commissioner Miguel Cardona selected for U.S. education secretary by President-elect Joe Biden"
+    excerpt: "President-elect Joe Biden has chosen Connecticut Education Commissioner Miguel Cardona to serve as his education secretary, the Associated Press confirmed Tuesday."
+    publishedDateTime: 2020-12-23T00:21:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/hc-news-connecticut-biden-selects-cardona-20201222-wtgzszbkjnap7dj3ampob4j3z4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/hc-news-connecticut-biden-selects-cardona-20201222-wtgzszbkjnap7dj3ampob4j3z4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/hc-news-connecticut-biden-selects-cardona-20201222-wtgzszbkjnap7dj3ampob4j3z4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 102
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Jo-B1PnxSkoKpQxkUmqDsLiOrOA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3MGRC3YXYFD2HGNNPCKPFTSFGA.JPG"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Who is Miguel Cardona? The Connecticut education commissioner is President-elect Joe Biden’s pick for U.S. education secretary"
     excerpt: "President-elect Joe Biden has selected Connecticut education Commissioner Miguel Cardona to be the next U.S. secretary of education, according to The Associated Press and multiple reports."
     publishedDateTime: 2020-12-22T15:43:00Z
@@ -1494,6 +1494,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "uOOZBC+wiEFnJktIdQX3nGPISOF4V8c86bRx+AeU9D07JjvDHVUAE0vgGjwl1a+mQf1/1S/EB6jinBN/ePU4isX/sUww1CjHSRgGJg26u2EU/gRFankWYKZQ4YYjQ+tHGvivX8dGzgoMNyZxF3MPEecqes7N75kgGHpMWN/m+YfLrBJPfBgtBZM3xqHE90PafXUu7H4iwyYxDFDlxto03FgJ7lacuIy3UlTL2feXz8TJZl2A5bBcSCI0oRropOqmMg/W/XuDRojKsycgNSNkmzazjV4gOIsDKSWkFBE7jYDGnFQIdTSwDIroF860S8+cgYWuk6jcD7THk4IUTZagqyTbVjnMduGlFTaG1b7YMNZVQ9f6JzoA0Aj1GekBV+q8UyCr2bpUzgJ19jiZA8KzZITzdoZ7HP6/QTAdyZFpGBb9qVonMuEiYyKjD12ItO1T1jHFm5/GY8wRI4RAU7so9FH/WDZ2Dyg5beLi909rMUt8Go/UE8AkOPgwcCf4FLnH3PAxDW6Ybu9bgtT+m1aORw==;wAfTDKWxeXUN3kKRSKHeVw=="
+secured: "540iY4Hdaj/XwE5Kl3jSWvRvuu+yKH+hcpWkzvpP8kklSXyqpW4Rk+pfSg5jNWHlptfLZLn/nmbOHuOLB/vqSavNL0iMZNeffavlHPjIYchsQOoalsAAI6cxFmvDKw78D0Cf47UbBnYu4ylDT9X1F5svsd2kPSyhea2LXC0LrLuc53+pTDEl4HW8NKD+1EivoeuBTG5yiWMH/aeEoTiiVlLqHoKKuK1Nj7DOXzn9UnYCMpDy9mKWgaHlEx+eA7TCkkU/ZpPs2bsfcPcocIPOoLtRrYutqudBTYof4ApLElerMlwbHm1AKVojnPId/Ti9mMifVxddoaB1ArEa4MzV5WYzBtIq5dSsrjeHON+1+Uc=;1vtL485jk0SYCyRKoll/FQ=="
 ---
 

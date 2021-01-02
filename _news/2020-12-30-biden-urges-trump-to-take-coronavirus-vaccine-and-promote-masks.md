@@ -397,10 +397,10 @@ related:
         isCached: true
   - title: "Rejecting Trump veto, Republican-led Senate backs defense bill"
     excerpt: "President Donald Trump suffered a stinging rebuke in the U.S. Senate on Friday when fellow Republicans joined Democrats to override a presidential veto for the first time in his tenure, pushing through a defense policy bill he opposed just weeks before he leaves office."
-    publishedDateTime: 2021-01-02T01:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2962I0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2962I0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2962I0"
+    publishedDateTime: 2021-01-02T05:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/defying-trump-u-s-senate-overrides-defense-bill-veto-idUKKBN2962I0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2962I6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2962I6"
     type: article
     provider:
       name: Reuters

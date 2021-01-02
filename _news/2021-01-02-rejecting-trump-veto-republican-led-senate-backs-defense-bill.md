@@ -2,11 +2,11 @@
 category: news
 title: "Rejecting Trump veto, Republican-led Senate backs defense bill"
 excerpt: "President Donald Trump suffered a stinging rebuke in the U.S. Senate on Friday when fellow Republicans joined Democrats to override a presidential veto for the first time in his tenure, pushing through a defense policy bill he opposed just weeks before he leaves office."
-publishedDateTime: 2021-01-02T01:21:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2962I0"
-webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2962I0"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2962I0"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2962I0"
+publishedDateTime: 2021-01-02T05:24:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump/defying-trump-u-s-senate-overrides-defense-bill-veto-idUKKBN2962I0"
+webUrl: "https://www.reuters.com/article/us-usa-trump/defying-trump-u-s-senate-overrides-defense-bill-veto-idUKKBN2962I0"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2962I6"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2962I6"
 type: article
 quality: 125
 heat: -1
@@ -691,6 +691,6 @@ related:
         height: 630
         isCached: true
 
-secured: "mU2amdbs+g0Uj4KUCrXe/mACsvezbAZjwiKxN844X6vglJNR4IoLSqmcr66TSrxA9pK9mDOhfR2Mw9D3tFLUzTV2g5fa7b52n75gjrIp/i9X8j+mP7PzjN/uFRKyq9mSZnjrEa32He92/htR1uPnne7SO7blfvv5J9HubFxqV2gsp289lpDW7HiC2XqlvyYlxw/GcbYRkSpUeogupK+Cc6SOvcch9FgjtklzqRvWPaaW2aqU1fNJAKhaC7ZUbD1YBtuKqIufjnAeByxRvvPCmxhXLf4mWcYNdtnrGtS+wt5hwKAPAl1ZLNFUSpdDa/s/LMEzK79fvca1c/oIeLfgv5b4nTuYbvWV7vUf4SAzBkH8CVfqkwCD6IyrDx3A5h8DjV9gRqFRUgp88b+iyYp6Z8PARzjY8f9KIi+woRkMFZ71U8gV2BolKDkG5lSChHrhpuWezEf0FxuNSC8pGFtTkKK848ifR6py+ZDsX+Yjs2hOVPPtKfLX0zwBZuVbNGrcz8EkHyeZfrACc5vJ3Bz5PA==;7FwuKSInwWgAA+pp3UWKDw=="
+secured: "sWzMrHG+bhlE7OPWJEf2/2zDsCq6JspVjtVF9W4s5IVABnrgso137QQlsrvB1dE2LPzjElnldrG1fV0+7Hy5lLdyc0KNwYm7S4ovbC5W00SJKzgAUCPlOBuuP0YiMwpLK8UTDzLAb79yN/evptkMmyYrMJs8nMZpUPsRzozJN4e0vJY/VIlm/+3MQBXcRV12SuZxjaSIW9ypxLdRZP8moNCl4KPaexkAUKVrzd0cg55zYRUhZbqOwtBsiWzb/5sZL8jmSoDWo2hcthHJoUFN09w+Uaa61DrjWgzf/yYLCtbw/fjVS8Fl4Uwm8geZZHoRBC8pHg62tleJ0jcukXeqbNx5yCE9QgL+GTXIgv4DM0E=;i0680JNEwOcBw2z94YUddQ=="
 ---
 

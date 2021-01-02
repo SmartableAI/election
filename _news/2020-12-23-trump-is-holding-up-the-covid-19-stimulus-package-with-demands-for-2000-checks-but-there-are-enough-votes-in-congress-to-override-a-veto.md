@@ -191,6 +191,22 @@ related:
         width: 813
         height: 545
         isCached: true
+  - title: "GOP rebuffs Trump on $2K aid, defense as Congress wraps up"
+    excerpt: "The Senate has wrapped up a rare New Year’s Day session with Republicans rejecting President Donald Trump’s demand for $2,000 COVID-19 aid checks"
+    publishedDateTime: 2021-01-02T05:11:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/gop-rebuffs-trump-2k-aid-defense-congress-wraps-75010754"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/gop-rebuffs-trump-2k-aid-defense-congress-wraps-75010754"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/gop-rebuffs-trump-2k-aid-defense-congress-wraps-75010754"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_0d69e273b4dd492ab458f9815fb49f2b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "US Congress overrides Trump defence spending bill veto"
     excerpt: "The US Congress has overturned President Donald Trump's veto of a defence spending bill, the first time this has happened in his presidency. The Republican-controlled Senate held a rare New Year's Day session to debate the move,"
     publishedDateTime: 2021-01-02T04:09:00Z
